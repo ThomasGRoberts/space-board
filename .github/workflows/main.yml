@@ -1,0 +1,27 @@
+name: update-vestaboard
+
+on:
+  schedule:
+    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (12 pm to 10 pm UTC)
+  workflow_dispatch:
+
+jobs:
+  update-vestaboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python script
+        run: python supercluster.py
+        env:
+          SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
+          VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
