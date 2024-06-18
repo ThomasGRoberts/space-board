@@ -28,18 +28,16 @@ def fetch_latest_headline():
         root = ET.fromstring(response.content)
         item = root.find('./channel/item')
         title = item.find('title').text
-        description = item.find('description').text
-        description = re.sub('<.*?>', '', description)  # Remove HTML tags from the description
-        return title, description
+        return title
     else:
         print("Failed to fetch RSS feed")
-        return None, None
+        return None
 
-def create_vestaboard_message(title, description):
+def create_vestaboard_message(title):
     # Initialize the board with empty values
     message_layout = [[0 for _ in range(22)] for _ in range(6)]
     
-    words = f"{title} - {description}".split(' ')
+    words = title.split(' ')
     current_row = []
     current_line_length = 0
 
@@ -116,9 +114,9 @@ if __name__ == "__main__":
     if not VESTABOARD_API_KEY:
         print("Environment variable VESTABOARD_API_KEY must be set.")
     else:
-        title, description = fetch_latest_headline()
-        if title and description:
-            message_layout = create_vestaboard_message(title, description)
+        title = fetch_latest_headline()
+        if title:
+            message_layout = create_vestaboard_message(title)
             send_to_vestaboard(message_layout)
         else:
             print("No headlines found.")
