@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (12 pm to 10 pm UTC)
+    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (12 pm to 10 pm UTC) 
   workflow_dispatch:
 
 jobs:
