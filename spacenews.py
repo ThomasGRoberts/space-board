@@ -1,10 +1,10 @@
 import requests
 import xml.etree.ElementTree as ET
-import json
-import os
 
-# Environment variables
+# URL of the SpaceNews RSS feed
 RSS_FEED_URL = "https://spacenews.com/feed/"
+
+# Vestaboard API Key (this should be set in your GitHub Secrets)
 VESTABOARD_API_KEY = os.getenv('VESTABOARD_API_KEY')
 
 # Character mapping for Vestaboard
@@ -18,34 +18,24 @@ char_to_code = {
     'x': 24, 'y': 25, 'z': 26
 }
 
-# Function to fetch the RSS feed
-def fetch_rss_feed():
+def fetch_latest_headline():
     response = requests.get(RSS_FEED_URL)
     if response.status_code == 200:
         print("Successfully fetched RSS feed")
-        return response.content
-    else:
-        print("Failed to fetch RSS feed")
-        return None
-
-# Function to parse the RSS feed and get the latest news item
-def get_latest_news_item(rss_feed):
-    root = ET.fromstring(rss_feed)
-    for item in root.findall('.//item'):
+        root = ET.fromstring(response.content)
+        item = root.find('./channel/item')
         title = item.find('title').text
         description = item.find('description').text
         return title, description
-    return None, None
+    else:
+        print("Failed to fetch RSS feed")
+        return None, None
 
-# Function to create the Vestaboard message layout
 def create_vestaboard_message(title, description):
-    # Combine title and description
-    full_text = f"{title}: {description}"
-    
     # Initialize the board with empty values
     message_layout = [[0 for _ in range(22)] for _ in range(6)]
     
-    words = full_text.split(' ')
+    words = f"{title} - {description}".split(' ')
     current_row = []
     current_line_length = 0
 
@@ -88,17 +78,10 @@ def create_vestaboard_message(title, description):
 
     # Determine the starting row based on the number of rows in temp_message_layout
     num_rows = len(temp_message_layout)
-    start_row = 0
-
-    if num_rows == 1 or num_rows == 2:
-        start_row = 2
-    elif num_rows == 3 or num_rows == 4:
-        start_row = 1
-    elif num_rows == 5 or num_rows == 6:
-        start_row = 0
+    start_row = max(0, (6 - num_rows) // 2)  # Center the text vertically
 
     # Copy temp_message_layout to message_layout starting from start_row
-    for i in range(num_rows):
+    for i in range(min(num_rows, 6)):
         message_layout[start_row + i] = temp_message_layout[i]
 
     # Add red tile in the bottom-right-hand corner (character code 63)
@@ -106,7 +89,6 @@ def create_vestaboard_message(title, description):
 
     return message_layout
 
-# Function to send the message to Vestaboard
 def send_to_vestaboard(message_layout):
     url = 'https://rw.vestaboard.com/'
     headers = {
@@ -121,14 +103,13 @@ def send_to_vestaboard(message_layout):
         print("Failed to send message to Vestaboard")
         print("Response:", response.text)
 
-# Main script execution
-rss_feed = fetch_rss_feed()
-if rss_feed:
-    title, description = get_latest_news_item(rss_feed)
-    if title and description:
-        message_layout = create_vestaboard_message(title, description)
-        send_to_vestaboard(message_layout)
+if __name__ == "__main__":
+    if not VESTABOARD_API_KEY:
+        print("Environment variable VESTABOARD_API_KEY must be set.")
     else:
-        print("No news items found.")
-else:
-    print("Failed to fetch RSS feed.")
+        title, description = fetch_latest_headline()
+        if title and description:
+            message_layout = create_vestaboard_message(title, description)
+            send_to_vestaboard(message_layout)
+        else:
+            print("No headlines found.")
