@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import os
 import json
+import re
 
 # URL of the SpaceNews RSS feed
 RSS_FEED_URL = "https://spacenews.com/feed/"
@@ -28,6 +29,7 @@ def fetch_latest_headline():
         item = root.find('./channel/item')
         title = item.find('title').text
         description = item.find('description').text
+        description = re.sub('<.*?>', '', description)  # Remove HTML tags from the description
         return title, description
     else:
         print("Failed to fetch RSS feed")
@@ -44,6 +46,7 @@ def create_vestaboard_message(title, description):
     temp_message_layout = []
 
     for word in words:
+        word = word.replace("’", "'")  # Replace special apostrophe with a regular one
         word_length = len(word)
         
         # If the word fits in the current line, add it
