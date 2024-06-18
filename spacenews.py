@@ -53,6 +53,8 @@ def create_vestaboard_message(title, description):
         else:
             # Calculate the number of spaces needed to center-align the line
             line = ' '.join(current_row)
+            if len(line) > 22:
+                line = line[:22]  # Truncate if the line is too long
             num_spaces = (22 - len(line)) // 2
 
             # Place the current row on the temp board with centered alignment
@@ -70,6 +72,8 @@ def create_vestaboard_message(title, description):
     # Add any remaining words in the current row
     if current_row:
         line = ' '.join(current_row)
+        if len(line) > 22:
+            line = line[:22]  # Truncate if the line is too long
         num_spaces = (22 - len(line)) // 2
         temp_row = [0] * 22
         start_index = num_spaces
