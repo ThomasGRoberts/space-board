@@ -5,6 +5,7 @@ import os
 # Environment variables (these should be set in your GitHub Secrets)
 SANITY_API_URL = os.getenv('SANITY_API_URL')
 VESTABOARD_API_KEY = os.getenv('VESTABOARD_API_KEY')
+MESSAGE_FILE = 'supercluster.txt'
 
 # Function to fetch all launch information from Sanity
 def fetch_all_launches():
@@ -102,10 +103,59 @@ def create_vestaboard_message(description):
 
     return message_layout
 
+# Function to read the last message from the file
+def read_last_message():
+    if os.path.exists(MESSAGE_FILE):
+        with open(MESSAGE_FILE, 'r') as file:
+            return file.read()
+    return ""
+
+# Function to save the current message to the file
+def save_current_message(message):
+    with open(MESSAGE_FILE, 'w') as file:
+        file.write(message)
+
+# Function to update the Vestaboard with a new message
+def update_vestaboard(message_layout):
+    url = "https://platform.vestaboard.com/v1/board"
+    headers = {
+        'X-Vestaboard-Api-Key': VESTABOARD_API_KEY,
+        'Content-Type': 'application/json'
+    }
+    payload = json.dumps({"characters": message_layout})
+    response = requests.post(url, headers=headers, data=payload)
+    if response.status_code == 200:
+        print("Vestaboard updated successfully")
+    else:
+        print("Failed to update Vestaboard")
+
 # Main function
 def main():
     # Fetch all launches from the Sanity API
     all_launches = fetch_all_launches()
 
     # Get the most recent launch
-    most_recent_launch = get
+    most_recent_launch = get_most_recent_launch(all_launches)
+
+    if not most_recent_launch:
+        print("No launches found.")
+        return
+
+    # Format the launch description
+    description = format_launch_description(most_recent_launch)
+    current_message = create_vestaboard_message(description)
+
+    # Read the last message from the file
+    last_message = read_last_message()
+
+    # Compare the current message with the last message
+    if json.dumps(current_message) != last_message:
+        # Save the current message
+        save_current_message(json.dumps(current_message))
+        # Update the Vestaboard
+        update_vestaboard(current_message)
+    else:
+        print("The message is the same as the last one. No update needed.")
+
+if __name__ == "__main__":
+    main()
