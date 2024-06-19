@@ -30,16 +30,21 @@ jobs:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
 
-      - name: Debug output.log
-        run: cat output.log
+      - name: Initialize result.txt if it does not exist
+        run: |
+          if [ ! -f result.txt ]; then
+            echo "false" > result.txt
+          fi
 
       - name: Check if Supercluster message has changed
-        id: check_message
         run: |
           if grep -q 'The message is the same as the last one. No update needed.' output.log; then
-            echo "same_message=true" >> $GITHUB_ENV
+            echo "true" > result.txt
           else
-            echo "same_message=false" >> $GITHUB_ENV
+            echo "false" > result.txt
+
+      - name: Set environment variable
+        run: echo "same_message=$(cat result.txt)" >> $GITHUB_ENV
 
       - name: Debug same_message
         run: echo "same_message=$same_message"
