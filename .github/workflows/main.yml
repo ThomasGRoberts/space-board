@@ -42,6 +42,7 @@ jobs:
             echo "true" > result.txt
           else
             echo "false" > result.txt
+          fi
 
       - name: Set environment variable
         run: echo "same_message=$(cat result.txt)" >> $GITHUB_ENV
