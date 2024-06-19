@@ -2,7 +2,7 @@ name: update-vestaboard
 
 on:
   schedule:
-    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (8 am to 5 pm EDT)
+    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT
   push:
     branches:
       - main
