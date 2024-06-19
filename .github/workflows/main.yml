@@ -38,6 +38,9 @@ jobs:
           else
             echo "same_message=false" >> $GITHUB_ENV
 
+      - name: Debug env
+        run: echo "same_message=$same_message"
+
       - name: Run spacenews script if Supercluster message is unchanged
         if: env.same_message == 'true'
         run: python spacenews.py
