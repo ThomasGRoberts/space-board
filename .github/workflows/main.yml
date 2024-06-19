@@ -42,5 +42,4 @@ jobs:
         if: env.same_message == 'true'
         run: python spacenews.py
         env:
-          SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
