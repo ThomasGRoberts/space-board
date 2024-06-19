@@ -1,12 +1,11 @@
 name: update-vestaboard
 
 on:
+  schedule:
+    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (12 pm to 10 pm UTC)
   push:
     branches:
       - main
-  schedule:
-    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT (12 pm to 10 pm UTC)
-  workflow_dispatch:
 
 jobs:
   update-vestaboard:
@@ -23,14 +22,23 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run SuperCluster script
+      - name: Run supercluster script
+        id: supercluster
         run: python supercluster.py
         env:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
 
-      - name: Run SpaceNews script if SuperCluster message is the same
-        if: failure()
+      - name: Check if Supercluster message has changed
+        id: check_message
+        run: |
+          if grep -q 'The message is the same as the last one. No update needed.' <<<"${{ steps.supercluster.outputs.stdout }}"; then
+            echo "same_message=true" >> $GITHUB_ENV
+          else
+            echo "same_message=false" >> $GITHUB_ENV
+
+      - name: Run spacenews script if Supercluster message is unchanged
+        if: env.same_message == 'true'
         run: python spacenews.py
         env:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
