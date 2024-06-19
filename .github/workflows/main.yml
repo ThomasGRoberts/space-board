@@ -30,6 +30,9 @@ jobs:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
 
+      - name: Debug output.log
+        run: cat output.log
+
       - name: Check if Supercluster message has changed
         id: check_message
         run: |
@@ -38,11 +41,12 @@ jobs:
           else
             echo "same_message=false" >> $GITHUB_ENV
 
-      - name: Debug env
+      - name: Debug same_message
         run: echo "same_message=$same_message"
 
       - name: Run spacenews script if Supercluster message is unchanged
         if: env.same_message == 'true'
         run: python spacenews.py
         env:
+          SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
