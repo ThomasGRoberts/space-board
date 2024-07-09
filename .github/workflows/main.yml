@@ -66,3 +66,20 @@ jobs:
         env:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
+
+      - name: Send to Vestaboard (with retry on error)
+        run: |
+          retries=3
+          while [ $retries -gt 0 ]; do
+            response=$(curl -X POST -H "X-Vestaboard-Read-Write-Key: $VESTABOARD_API_KEY" -H "Content-Type: application/json" -d @message_layout.json https://rw.vestaboard.com/)
+            if [ $? -eq 0 ]; then
+              echo "Message sent to Vestaboard successfully!"
+              break
+            else
+              echo "Failed to send message to Vestaboard. Retrying..."
+              sleep $((4 - $retries))  # Exponential backoff
+              retries=$((retries - 1))
+            fi
+          done
+        env:
+          VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
