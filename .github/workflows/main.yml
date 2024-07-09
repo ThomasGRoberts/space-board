@@ -44,21 +44,11 @@ jobs:
             echo "false" > result.txt
           fi
 
-      - name: Print result.txt contents
-        run: |
-          echo "Contents of result.txt:"
-          cat result.txt
-
       - name: Set environment variable
         run: echo "same_message=$(cat result.txt)" >> $GITHUB_ENV
 
       - name: Debug same_message
         run: echo "same_message=$same_message"
-
-      - name: Debug output.log contents
-        run: |
-          echo "Contents of output.log:"
-          cat output.log
 
       - name: Run spacenews script if Supercluster message is unchanged
         if: env.same_message == 'true'
@@ -67,19 +57,18 @@ jobs:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
 
-      - name: Send to Vestaboard (with retry on error)
+      - name: Send message to Vestaboard
+        if: env.same_message == 'true'
         run: |
-          retries=3
-          while [ $retries -gt 0 ]; do
-            response=$(curl -X POST -H "X-Vestaboard-Read-Write-Key: $VESTABOARD_API_KEY" -H "Content-Type: application/json" -d @message_layout.json https://rw.vestaboard.com/)
-            if [ $? -eq 0 ]; then
-              echo "Message sent to Vestaboard successfully!"
-              break
-            else
-              echo "Failed to send message to Vestaboard. Retrying..."
-              sleep $((4 - $retries))  # Exponential backoff
-              retries=$((retries - 1))
-            fi
-          done
-        env:
-          VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
+          url='https://rw.vestaboard.com/'
+          headers={
+            'X-Vestaboard-Read-Write-Key': VESTABOARD_API_KEY,
+            'Content-Type': 'application/json'
+          }
+          data=json.dumps(message_layout)
+          response=requests.post(url, headers=headers, data=data)
+          if response.status_code == 200:
+            print("Message sent to Vestaboard successfully!")
+          else:
+            print("Failed to send message to Vestaboard")
+            print("Response:", response.text)
