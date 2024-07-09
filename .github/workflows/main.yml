@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run supercluster script and store output
+      - name: Run supercluster script
         id: supercluster
         run: |
           python supercluster.py | tee output.log
@@ -30,19 +30,35 @@ jobs:
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
 
+      - name: Initialize result.txt if it does not exist
+        run: |
+          if [ ! -f result.txt ]; then
+            echo "false" > result.txt
+          fi
+
       - name: Check if Supercluster message has changed
         run: |
           if grep -q 'The message is the same as the last one. No update needed.' output.log; then
-            echo "true" > $GITHUB_WORKSPACE/result.txt
+            echo "true" > result.txt
           else
-            echo "false" > $GITHUB_WORKSPACE/result.txt
+            echo "false" > result.txt
           fi
 
+      - name: Print result.txt contents
+        run: |
+          echo "Contents of result.txt:"
+          cat result.txt
+
       - name: Set environment variable
-        run: echo "same_message=$(cat $GITHUB_WORKSPACE/result.txt)" >> $GITHUB_ENV
+        run: echo "same_message=$(cat result.txt)" >> $GITHUB_ENV
 
       - name: Debug same_message
         run: echo "same_message=$same_message"
+
+      - name: Debug output.log contents
+        run: |
+          echo "Contents of output.log:"
+          cat output.log
 
       - name: Run spacenews script if Supercluster message is unchanged
         if: env.same_message == 'true'
