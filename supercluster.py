@@ -39,6 +39,7 @@ def get_most_recent_launch(launches):
 def format_launch_description(launch):
     launch_info = launch.get('launchInfo', {})
     launch_description = launch_info.get('launchMiniDescription', 'No description available')
+    print("Launch description: " + str(launch_description))
     return launch_description
 
 # Function to create the Vestaboard message layout
