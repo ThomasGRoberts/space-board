@@ -108,20 +108,21 @@ def create_vestaboard_message(description):
 
     return message_layout
 
-# Function to send the message to Vestaboard
 def send_to_vestaboard(message_layout):
     url = 'https://rw.vestaboard.com/'
     headers = {
         'X-Vestaboard-Read-Write-Key': VESTABOARD_API_KEY,
         'Content-Type': 'application/json'
     }
-    data = json.dumps(message_layout)
+    data = json.dumps({"characters": message_layout})
     response = requests.post(url, headers=headers, data=data)
     if response.status_code == 200:
         print("Message sent to Vestaboard successfully!")
     else:
         print("Failed to send message to Vestaboard")
-        print("Response:", response.text)
+        print("Status Code:", response.status_code)
+        print("Response Headers:", response.headers)
+        print("Response Text:", response.text)
 
 # Main script execution
 if not SANITY_API_URL or not VESTABOARD_API_KEY:
@@ -135,3 +136,4 @@ else:
         send_to_vestaboard(message_layout)
     else:
         print("No launches found.")
+
