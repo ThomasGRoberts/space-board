@@ -92,4 +92,4 @@ else:
         else:
             description = format_launch_description(most_recent_launch)
             message_layout = create_vestaboard_message(description)
-            send_to_vestaboard({"layout": message_layout})
+            send_to_vestaboard(message_layout)
