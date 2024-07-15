@@ -26,13 +26,14 @@ def get_most_recent_launch(launches):
     if not launches:
         return None
     # Sort launches by a date field if available (assuming '_createdAt' for example)
-    launches.sort(key=lambda x: x['_createdAt'], reverse=True)
+    launches.sort(key=lambda x: x.get('_createdAt', ''), reverse=True)
     return launches[0]
 
 # Format the launch description
 def format_launch_description(launch):
     description = launch.get('description', 'No description available')
-    return f"{launch['name']}: {description}"
+    name = launch.get('name', 'Unnamed Launch')
+    return f"{name}: {description}"
 
 # Create Vestaboard message layout
 def create_vestaboard_message(message):
@@ -66,7 +67,7 @@ def send_to_vestaboard(message_layout):
         'X-Vestaboard-Read-Write-Key': VESTABOARD_API_KEY,
         'Content-Type': 'application/json'
     }
-    data = json.dumps(message_layout)  # Directly dump the layout without wrapping it in a dictionary
+    data = json.dumps({"layout": message_layout})
     print("Message Layout:", data)  # Log the message layout for debugging
     response = requests.post(url, headers=headers, data=data)
     if response.status_code == 200:
@@ -82,10 +83,13 @@ if not SANITY_API_URL or not VESTABOARD_API_KEY:
     print("Environment variables SANITY_API_URL and VESTABOARD_API_KEY must be set.")
 else:
     launches = fetch_all_launches()
-    most_recent_launch = get_most_recent_launch(launches)
-    if most_recent_launch:
-        description = format_launch_description(most_recent_launch)
-        message_layout = create_vestaboard_message(description)
-        send_to_vestaboard(message_layout)
-    else:
+    if not launches:
         print("No launches found.")
+    else:
+        most_recent_launch = get_most_recent_launch(launches)
+        if not most_recent_launch:
+            print("Could not find the most recent launch.")
+        else:
+            description = format_launch_description(most_recent_launch)
+            message_layout = create_vestaboard_message(description)
+            send_to_vestaboard(message_layout)
