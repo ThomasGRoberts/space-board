@@ -1,122 +1,58 @@
+from typing import List
 import requests
-import xml.etree.ElementTree as ET
-import os
-import json
-import re
+from datetime import datetime
+import xml.etree.ElementTree as ET  # NOQA
+
+from logger import Logger
+
 
 # URL of the SpaceNews RSS feed
 RSS_FEED_URL = "https://spacenews.com/feed/"
 
-# Vestaboard API Key (this should be set in your GitHub Secrets)
-VESTABOARD_API_KEY = os.getenv('VESTABOARD_API_KEY')
+logging = Logger.setup_logger(__name__)
 
-# Character mapping for Vestaboard
-char_to_code = {
-    ' ': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10, 'K': 11, 'L': 12, 'M': 13,
-    'N': 14, 'O': 15, 'P': 16, 'Q': 17, 'R': 18, 'S': 19, 'T': 20, 'U': 21, 'V': 22, 'W': 23, 'X': 24, 'Y': 25, 'Z': 26,
-    '1': 27, '2': 28, '3': 29, '4': 30, '5': 31, '6': 32, '7': 33, '8': 34, '9': 35, '0': 36, '!': 37, '@': 38, '#': 39,
-    '$': 40, '(': 41, ')': 42, '-': 44, '+': 46, '&': 47, '=': 48, ';': 49, ':': 50, "'": 52, '"': 53, '%': 54, ',': 55,
-    '.': 56, '/': 59, '?': 60, '°': 62, 'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f': 6, 'g': 7, 'h': 8, 'i': 9, 'j': 10,
-    'k': 11, 'l': 12, 'm': 13, 'n': 14, 'o': 15, 'p': 16, 'q': 17, 'r': 18, 's': 19, 't': 20, 'u': 21, 'v': 22, 'w': 23,
-    'x': 24, 'y': 25, 'z': 26
-}
+# Sat, 21 Sep 2024 06:32:38 +0000
+date_format = "%a, %d %b %Y %H:%M:%S %z"
 
-def fetch_latest_headline():
-    response = requests.get(RSS_FEED_URL)
-    if response.status_code == 200:
-        print("Successfully fetched RSS feed")
+
+def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
+    spacenews_queue = []
+    try:
+
+        logging.info(f"Fetching SpaceNews RSS feed from {RSS_FEED_URL}")
+
+        # Make the request to the RSS feed
+        response = requests.get(RSS_FEED_URL)
+        response.raise_for_status()
+
+        logging.info("Successfully retrieved RSS feed.")
+
+        # Parse the XML content
         root = ET.fromstring(response.content)
-        item = root.find('./channel/item')
-        title = item.find('title').text
-        return title
-    else:
-        print("Failed to fetch RSS feed")
-        return None
+        spacenews_items = root.findall('.//item')
 
-def create_vestaboard_message(title):
-    # Initialize the board with empty values
-    message_layout = [[0 for _ in range(22)] for _ in range(6)]
-    
-    words = title.split(' ')
-    current_row = []
-    current_line_length = 0
+        namespaces = {'wp': 'com-wordpress:feed-additions:1'}
 
-    temp_message_layout = []
+        # Process each item in the feed
+        for spacenews_item in spacenews_items:
+            title = spacenews_item.find('./title').text
+            post_id = int(spacenews_item.find('./wp:post-id', namespaces).text)
+            created_at = datetime.strptime(spacenews_item.find('./pubDate').text, date_format)
+            if created_at.date() != datetime.now(created_at.tzinfo).date():
+                continue
+                # pass
+            if post_id in already_pushed:
+                logging.info(f"Skipping already processed post with ID: {post_id}")
+                continue
+            spacenews_queue.append(title)
+            already_pushed.append(post_id)
 
-    for word in words:
-        word = word.replace("’", "'")  # Replace special apostrophe with a regular one
-        word_length = len(word)
-        
-        # If the word fits in the current line, add it
-        if current_line_length + word_length <= 22:
-            current_row.append(word)
-            current_line_length += word_length + 1  # +1 for the space
-        else:
-            # Calculate the number of spaces needed to center-align the line
-            line = ' '.join(current_row)
-            if len(line) > 22:
-                line = line[:22]  # Truncate if the line is too long
-            num_spaces = (22 - len(line)) // 2
+        logging.info(f"Number of new posts added to the queue: {len(spacenews_queue)}")
+        return spacenews_queue
 
-            # Place the current row on the temp board with centered alignment
-            temp_row = [0] * 22
-            start_index = num_spaces
-            for i, char in enumerate(line):
-                if start_index + i < 22:  # Ensure no overflow
-                    temp_row[start_index + i] = char_to_code.get(char, 0)
-            temp_message_layout.append(temp_row)
+    except requests.exceptions.RequestException as req_err:
+        logging.error(f"Request error: {req_err}")
+    except Exception as e:
+        logging.error(f"An error occurred: {e}")
 
-            # Start the new row with the current word
-            current_row = [word]
-            current_line_length = word_length + 1
-    
-    # Add any remaining words in the current row
-    if current_row:
-        line = ' '.join(current_row)
-        if len(line) > 22:
-            line = line[:22]  # Truncate if the line is too long
-        num_spaces = (22 - len(line)) // 2
-        temp_row = [0] * 22
-        start_index = num_spaces
-        for i, char in enumerate(line):
-            if start_index + i < 22:
-                temp_row[start_index + i] = char_to_code.get(char, 0)
-        temp_message_layout.append(temp_row)
-
-    # Determine the starting row based on the number of rows in temp_message_layout
-    num_rows = len(temp_message_layout)
-    start_row = max(0, (6 - num_rows) // 2)  # Center the text vertically
-
-    # Copy temp_message_layout to message_layout starting from start_row
-    for i in range(min(num_rows, 6)):
-        message_layout[start_row + i] = temp_message_layout[i]
-
-    # Add red tile in the bottom-right-hand corner (character code 63)
-    message_layout[-1][-1] = 63
-
-    return message_layout
-
-def send_to_vestaboard(message_layout):
-    url = 'https://rw.vestaboard.com/'
-    headers = {
-        'X-Vestaboard-Read-Write-Key': VESTABOARD_API_KEY,
-        'Content-Type': 'application/json'
-    }
-    data = json.dumps(message_layout)
-    response = requests.post(url, headers=headers, data=data)
-    if response.status_code == 200:
-        print("Message sent to Vestaboard successfully!")
-    else:
-        print("Failed to send message to Vestaboard")
-        print("Response:", response.text)
-
-if __name__ == "__main__":
-    if not VESTABOARD_API_KEY:
-        print("Environment variable VESTABOARD_API_KEY must be set.")
-    else:
-        title = fetch_latest_headline()
-        if title:
-            message_layout = create_vestaboard_message(title)
-            send_to_vestaboard(message_layout)
-        else:
-            print("No headlines found.")
+    return spacenews_queue

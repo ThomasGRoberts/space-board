@@ -1,15 +1,25 @@
 name: update-vestaboard
 
 on:
+  # Allows manual trigger of the workflow from the Actions tab
+  workflow_dispatch:
+
+  # Schedule the workflow to run every 10 minutes
   schedule:
-    - cron: '0,20,40 12-21 * * *' # Every 20 minutes from 8 am to 6 pm EDT
+    - cron: '*/10 * * * *'
+
   push:
     branches:
+      - feat-final-integrations # Replace with the name of the branch you want, e.g., 'develop'
       - main
 
 jobs:
   update-vestaboard:
     runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -19,56 +29,27 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run supercluster script
+      - name: Run orchestration script
         id: supercluster
         run: |
-          python supercluster.py | tee output.log
+          python main.py
         env:
+          AIDY_API_URL: ${{ secrets.AIDY_API_URL }}
+          TWITTER_USERS: ${{ secrets.TWITTER_USERS }}
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
 
-      - name: Initialize result.txt if it does not exist
-        run: |
-          if [ ! -f result.txt ]; then
-            echo "false" > result.txt
-          fi
-
-      - name: Check if Supercluster message has changed
-        run: |
-          if grep -q 'The message is the same as the last one. No update needed.' output.log; then
-            echo "true" > result.txt
-          else
-            echo "false" > result.txt
-          fi
-
-      - name: Set environment variable
-        run: echo "same_message=$(cat result.txt)" >> $GITHUB_ENV
-
-      - name: Debug same_message
-        run: echo "same_message=$same_message"
-
-      - name: Run spacenews script if Supercluster message is unchanged
-        if: env.same_message == 'true'
-        run: python spacenews.py
-        env:
-          SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
-          VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
-
-      - name: Send message to Vestaboard
-        if: env.same_message == 'true'
-        run: |
-          url='https://rw.vestaboard.com/'
-          headers={
-            'X-Vestaboard-Read-Write-Key': VESTABOARD_API_KEY,
-            'Content-Type': 'application/json'
-          }
-          data=json.dumps(message_layout)
-          response=requests.post(url, headers=headers, data=data)
-          if response.status_code == 200:
-            print("Message sent to Vestaboard successfully!")
-          else:
-            print("Failed to send message to Vestaboard")
-            print("Response:", response.text)
+      - name: Persist Data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update persistent data
