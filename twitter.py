@@ -67,8 +67,8 @@ async def pull_from_twitter(already_pushed: List[int]):
                 # for tweet in user_tweets[:2]:
                 created_at = datetime.strptime(tweet.created_at, date_format)
                 if created_at.date() != datetime.now(created_at.tzinfo).date():
-                    pass
-                    # continue
+                    # pass
+                    continue
                 if int(tweet.id) in already_pushed:
                     logging.info(f"Skipping already processed tweet with ID: {tweet.id}")
                     continue

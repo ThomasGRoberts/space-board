@@ -44,12 +44,13 @@ def pull_from_aidy(already_pushed: list[int]) -> List[str]:
                 continue
 
             actions = space_bill['actions']
+
+            actions.sort(key=lambda x: datetime.strptime(x['actionDate'], '%Y-%m-%d'))
+
             if actions[0]['actionCode'] is None:
                 logging.info(f"Skipping bill {space_bill['id']} with no action code")
                 already_pushed.append(space_bill['id'])
                 continue
-
-            actions.sort(key=lambda x: datetime.strptime(x['actionDate'], '%Y-%m-%d'))
 
             message = f"{space_bill['bill_type']} {space_bill['bill_number']}{(' ' + actions[0]['actionCode'].split(' ')[0]) if actions[0]['actionCode'] else ''}: {space_bill['title']}"
             aidy_queue.append(message)
