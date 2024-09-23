@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
   # Schedule the workflow to run every 10 minutes
-  schedule:
-    - cron: '*/10 * * * *'
+#  schedule:
+#    - cron: '*/10 * * * *'
 
 
 jobs:
