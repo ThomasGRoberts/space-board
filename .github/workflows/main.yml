@@ -6,12 +6,8 @@ on:
 
   # Schedule the workflow to run every 10 minutes
   schedule:
-    - cron: '10 * * * *'
+    - cron: '10,20,30,40,50 * * * *'
 
-  push:
-    branches:
-      - feat-final-integrations # Replace with the name of the branch you want, e.g., 'develop'
-      - main
 
 jobs:
   update-vestaboard:
