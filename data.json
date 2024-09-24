@@ -1,11 +1,1 @@
-{
-  "date": "2024-09-23",
-  "aidy_ids": [],
-  "aidy_queue": [],
-  "supercluster_ids": [],
-  "supercluster_queue": [],
-  "spacenews_ids": [],
-  "spacenews_queue": [],
-  "twitter_ids": [],
-  "twitter_queue": []
-}
+{"date": "2024-09-24", "aidy_ids": [], "aidy_queue": [], "supercluster_ids": [], "supercluster_queue": [], "spacenews_ids": [506356, 506347, 506290, 506298, 506306, 506337, 506333, 506319], "spacenews_queue": ["Military\u2019s weather satellite program in flux as Space Force evaluates options", "Planet unveils Forest Carbon Monitoring dataset", "Maxar Intelligence opens international headquarters in London", "Viasat wins $33 million U.S. Air Force contract for satellite communications antennas", "House passes NASA authorization bill", "Jielong-3 sea launch sends 8 satellites into orbit", "Firefly Aerospace wins contract to launch NOAA QuickSounder"], "twitter_ids": [], "twitter_queue": []}
