@@ -1,12 +1,1 @@
-{
-  "date": "2024-09-23",
-  "aidy_ids": [],
-  "aidy_queue": [],
-  "supercluster_ids": [],
-  "supercluster_queue": [],
-  "spacenews_ids": [],
-  "spacenews_queue": [],
-  "twitter_ids": [],
-  "twitter_queue": [],
-  "old_updates": []
-}
+{"date": "2024-09-25", "aidy_ids": [], "aidy_queue": [], "supercluster_ids": ["9e5c5ac1-f3a4-48ee-944f-4e6121132c54"], "supercluster_queue": [], "spacenews_ids": [], "spacenews_queue": [], "twitter_ids": [], "twitter_queue": [], "old_updates": [{"data": "SpaceX Will Launch Starlink Satellites from California", "source": "supercluster", "date": "2024-09-25"}]}
