@@ -120,6 +120,9 @@ def execute_steps():
     logging.info("Fetching Twitter data.")
     twitter_queue = asyncio.run(pull_from_twitter(already_pushed=PERSISTED_DATA["twitter_ids"]))
 
+    if twitter_queue is None:
+        return
+
     if len(twitter_queue) > 0:
         logging.info(f"Fetched {len(twitter_queue)} Twitter records.")
         PERSISTED_DATA["twitter_queue"] = twitter_queue

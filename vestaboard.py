@@ -200,7 +200,8 @@ def push_to_vestaboard(message, source: str, old_updates):
         elif source == "error":
             vba_data = format_rest_message(message=message, color=68)
 
-        old_updates.append({"data": message, "source": source, "date": CURRENT_DATE})
+        if source != "error":
+            old_updates.append({"data": message, "source": source, "date": CURRENT_DATE})
 
         logging.info(f"Formatted message for Vestaboard: {json.dumps(vba_data)}")
 
