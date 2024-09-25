@@ -66,6 +66,7 @@ async def pull_from_twitter(already_pushed: List[int]):
             for tweet in user_tweets[:min(11, len(user_tweets))]:
                 # for tweet in user_tweets[:2]:
                 created_at = datetime.strptime(tweet.created_at, date_format)
+                # print(created_at)
                 if created_at.date() != datetime.now(created_at.tzinfo).date():
                     # pass
                     continue

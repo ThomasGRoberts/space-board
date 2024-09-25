@@ -1,7 +1,10 @@
 import json
 import os
 import logging
+from datetime import datetime
+
 import requests
+# from main import PERSISTED_DATA
 
 # Set up logging
 logging.basicConfig(
@@ -14,6 +17,7 @@ VESTABOARD_API_URL = os.getenv('VESTABOARD_API_URL')
 headers = {
     'X-Vestaboard-Read-Write-Key': os.getenv('VESTABOARD_API_KEY')
 }
+CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 
 # Character mapping for Vestaboard
 char_to_code = {
@@ -181,9 +185,9 @@ def create_vestaboard_message(title):
     return message_layout
 
 
-def push_to_vestaboard(message, source: str):
+def push_to_vestaboard(message, source: str, old_updates):
     logging.info(f"Pushing message to Vestaboard from source: {source}")
-
+    # from main import PERSISTED_DATA
     try:
         if source == "twitter":
             vba_data = format_twitter_message(message=message)
@@ -195,6 +199,8 @@ def push_to_vestaboard(message, source: str):
             vba_data = format_rest_message(message=message, color=63)
         elif source == "error":
             vba_data = format_rest_message(message=message, color=68)
+
+        old_updates.append({"data": message, "source": source, "date": CURRENT_DATE})
 
         logging.info(f"Formatted message for Vestaboard: {json.dumps(vba_data)}")
 

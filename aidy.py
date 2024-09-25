@@ -45,7 +45,7 @@ def pull_from_aidy(already_pushed: list[int]) -> List[str]:
 
             actions = space_bill['actions']
 
-            actions.sort(key=lambda x: datetime.strptime(x['actionDate'], '%Y-%m-%d'))
+            actions.sort(key=lambda x: datetime.strptime(x['actionDate'], '%Y-%m-%d'), reverse=True)
 
             if actions[0]['actionCode'] is None:
                 logging.info(f"Skipping bill {space_bill['id']} with no action code")
