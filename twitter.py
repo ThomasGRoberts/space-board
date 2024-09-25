@@ -24,18 +24,18 @@ client = Client('en-US')
 
 # Paste you cookies here
 cookie = {
-  "guest_id": "v1%3A172426559128850465",
-  "night_mode": "2",
-  "guest_id_marketing": "v1%3A172426559128850465",
-  "guest_id_ads": "v1%3A172426559128850465",
-  "g_state": "{\"i_l\":0}",
-  "kdt": "evBaS3m8S5EmFG7DgFu2VDuPqot6P8av6fx4KZNM",
-  "auth_token": os.getenv('TWITTER_AUTH_TOKEN'),
-  "ct0": "463dcf32b02bc2d0a3e9da0a70e863b8aac210ff1497de89644af8a820c42dc845ebcbf19a386d07b48e9aa36a16abb33c1fdb33c6b8b5663c5de216cccf432f514afcf3e9e0edf59af6233cff28df5c",
-  "twid": "u%3D1703786078",
-  "lang": "en",
-  "external_referer": "padhuUp37zjgzgv1mFWxJ12Ozwit7owX|0|8e8t2xd8A2w%3D",
-  "personalization_id": "\"v1_cBbYwHQP02VVSDjHXvBNEg==\""
+    'guest_id': 'v1%3A172426559128850465',
+    'night_mode': '2',
+    'guest_id_marketing': 'v1%3A172426559128850465',
+    'guest_id_ads': 'v1%3A172426559128850465',
+    'g_state': '{"i_l":0}',
+    'kdt': 'evBaS3m8S5EmFG7DgFu2VDuPqot6P8av6fx4KZNM',
+    'auth_token': os.getenv('TWITTER_AUTH_TOKEN'),
+    'ct0': '463dcf32b02bc2d0a3e9da0a70e863b8aac210ff1497de89644af8a820c42dc845ebcbf19a386d07b48e9aa36a16abb33c1fdb33c6b8b5663c5de216cccf432f514afcf3e9e0edf59af6233cff28df5c',
+    'twid': 'u%3D1703786078',
+    'lang': 'en',
+    'external_referer': "padhuUp37zjgzgv1mFWxJ12Ozwit7owX|0|8e8t2xd8A2w%3D",
+    'personalization_id': '"v1_cBbYwHQP02VVSDjHXvBNEg=="'
 }
 
 client.set_cookies(cookie)
