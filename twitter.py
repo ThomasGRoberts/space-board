@@ -39,6 +39,7 @@ cookie = {
 }
 
 client.set_cookies(cookie)
+print(cookie)
 # client.load_cookies("./cookies.json")
 
 
