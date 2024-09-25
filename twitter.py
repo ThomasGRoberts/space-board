@@ -49,8 +49,8 @@ async def pull_from_twitter(already_pushed: List[int]):
         await client.user()
     except Exception as e:
         print(e)
-        push_to_vestaboard("Please replace the twitter cookies :)", source="error")
-        return twitter_queue
+        push_to_vestaboard("Please replace the twitter cookies :)", source="error", old_updates=[])
+        return None
 
     # Fetch tweets for each user
     for user in TWITTER_USERS:
