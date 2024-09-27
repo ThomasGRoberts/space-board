@@ -1,5 +1,6 @@
 import asyncio
 import os
+import re
 from datetime import datetime
 from typing import List
 import dotenv
@@ -40,6 +41,8 @@ cookie = {
 
 client.set_cookies(cookie)
 print(cookie)
+
+
 # client.load_cookies("./cookies.json")
 
 
@@ -74,7 +77,11 @@ async def pull_from_twitter(already_pushed: List[int]):
                     logging.info(f"Skipping already processed tweet with ID: {tweet.id}")
                     continue
 
-                twitter_queue.append({"content": tweet.text, "user": user})
+                cleaned_content = re.sub(r'\\u[0-9A-Fa-f]{4}', '', tweet.text)
+                cleaned_content = cleaned_content.strip()
+                if len(cleaned_content) == 0:
+                    continue
+                twitter_queue.append({"content": cleaned_content, "user": user})
                 already_pushed.append(int(tweet.id))
 
         except Exception as e:
