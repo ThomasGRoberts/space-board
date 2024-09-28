@@ -76,8 +76,7 @@ async def pull_from_twitter(already_pushed: List[int]):
                 if int(tweet.id) in already_pushed:
                     logging.info(f"Skipping already processed tweet with ID: {tweet.id}")
                     continue
-
-                cleaned_content = re.sub(r'\\u[0-9A-Fa-f]{4}', '', tweet.text)
+                cleaned_content = tweet.text.encode('ascii', 'ignore').decode('ascii')
                 cleaned_content = cleaned_content.strip()
                 if len(cleaned_content) == 0:
                     continue
