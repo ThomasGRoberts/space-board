@@ -111,24 +111,24 @@ def execute_steps():
         PERSISTED_DATA["spacenews_queue"].pop(0)
         return
 
-    if len(PERSISTED_DATA["twitter_queue"]) > 0:
-        logging.info("Pushing Twitter data to Vestaboard.")
-        push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["twitter_queue"].pop(0)
-        return
+    # if len(PERSISTED_DATA["twitter_queue"]) > 0:
+    #     logging.info("Pushing Twitter data to Vestaboard.")
+    #     push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
+    #     PERSISTED_DATA["twitter_queue"].pop(0)
+    #     return
 
-    logging.info("Fetching Twitter data.")
-    twitter_queue = asyncio.run(pull_from_twitter(already_pushed=PERSISTED_DATA["twitter_ids"]))
+    # logging.info("Fetching Twitter data.")
+    # twitter_queue = asyncio.run(pull_from_twitter(already_pushed=PERSISTED_DATA["twitter_ids"]))
 
-    if twitter_queue is None:
-        return
+    # if twitter_queue is None:
+    #     return
 
-    if len(twitter_queue) > 0:
-        logging.info(f"Fetched {len(twitter_queue)} Twitter records.")
-        PERSISTED_DATA["twitter_queue"] = twitter_queue
-        push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["twitter_queue"].pop(0)
-        return
+    # if len(twitter_queue) > 0:
+    #     logging.info(f"Fetched {len(twitter_queue)} Twitter records.")
+    #     PERSISTED_DATA["twitter_queue"] = twitter_queue
+    #     push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
+    #     PERSISTED_DATA["twitter_queue"].pop(0)
+    #     return
 
     logging.info(f"No new data to push. Persisted data: {PERSISTED_DATA}")
     logging.info(f"Cycling through old data ...")
