@@ -13,7 +13,7 @@ load_dotenv()
 # Set up logging
 logging = Logger.setup_logger(__name__)
 
-AIDY_API_URL = os.environ.get('AIDY_API_URL') + "api/topics/summarizer/"
+AIDY_API_URL = os.environ.get('AIDY_API_URL') + "/api/topics/summarizer"
 AIDY_TOPICS = os.environ.get('AIDY_TOPICS').split(",")
 
 
