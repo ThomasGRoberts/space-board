@@ -40,10 +40,11 @@ jobs:
           python main.py
         env:
           AIDY_API_URL: ${{ secrets.AIDY_API_URL }}
+          AIDY_TOPICS: ${{ secrets.AIDY_TOPICS }}
           TWITTER_USERS: ${{ secrets.TWITTER_USERS }}
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
-          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+#          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
 
       - name: Persist Data
         uses: stefanzweifel/git-auto-commit-action@v5
