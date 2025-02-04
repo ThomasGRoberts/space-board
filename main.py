@@ -31,8 +31,8 @@ def create_persisted_data():
         "supercluster_queue": [],
         "spacenews_ids": [],
         "spacenews_queue": [],
-        "twitter_ids": [],
-        "twitter_queue": [],
+        # "twitter_ids": [],
+        # "twitter_queue": [],
         f"old_updates": [],
         # f"old_old_updates": []
     }
@@ -116,13 +116,13 @@ def execute_steps():
     #     push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
     #     PERSISTED_DATA["twitter_queue"].pop(0)
     #     return
-
+    #
     # logging.info("Fetching Twitter data.")
     # twitter_queue = asyncio.run(pull_from_twitter(already_pushed=PERSISTED_DATA["twitter_ids"]))
-
+    #
     # if twitter_queue is None:
     #     return
-
+    #
     # if len(twitter_queue) > 0:
     #     logging.info(f"Fetched {len(twitter_queue)} Twitter records.")
     #     PERSISTED_DATA["twitter_queue"] = twitter_queue
@@ -130,8 +130,8 @@ def execute_steps():
     #     PERSISTED_DATA["twitter_queue"].pop(0)
     #     return
 
-    logging.info(f"No new data to push. Persisted data: {PERSISTED_DATA}")
-    logging.info(f"Cycling through old data ...")
+    # logging.info(f"No new data to push. Persisted data: {PERSISTED_DATA}")
+    # logging.info(f"Cycling through old data ...")
 
     if len(PERSISTED_DATA["old_updates"]) > 0:
         push_to_vestaboard(PERSISTED_DATA["old_updates"][0]["data"], source=PERSISTED_DATA["old_updates"][0]["source"],
