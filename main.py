@@ -1,15 +1,13 @@
-import asyncio
 import json
-import random
 from datetime import datetime, timedelta
 
 from dotenv import load_dotenv
 
 from aidy import pull_from_aidy
 from logger import Logger
+from space import pull_from_space
 from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
-from twitter import pull_from_twitter
 from vestaboard import push_to_vestaboard
 
 # Set up logging
@@ -31,10 +29,9 @@ def create_persisted_data():
         "supercluster_queue": [],
         "spacenews_ids": [],
         "spacenews_queue": [],
-        # "twitter_ids": [],
-        # "twitter_queue": [],
+        "space_ids": [],
+        "space_queue": [],
         f"old_updates": [],
-        # f"old_old_updates": []
     }
 
 
@@ -47,17 +44,38 @@ except Exception as e:
 
 if PERSISTED_DATA["date"] != CURRENT_DATE:
     logging.info("Persisted data is from a previous date. Creating new data for today.")
-    # old_old_updates = PERSISTED_DATA["old_updates"].copy()
     old_updates = PERSISTED_DATA["old_updates"].copy()
     old_updates = sorted(old_updates, key=lambda update: datetime.strptime(update["date"], "%Y-%m-%d"), reverse=True)[
                   :min(11, len(old_updates))]
     PERSISTED_DATA = create_persisted_data()
-    # PERSISTED_DATA["old_old_updates"] = old_old_updates
     PERSISTED_DATA["old_updates"] = old_updates
 
 
 def execute_steps():
     logging.info("Executing steps to process queues and fetch new data.")
+
+    if "space_queue" not in PERSISTED_DATA:
+        PERSISTED_DATA["space_queue"] = []
+    if "space_ids" not in PERSISTED_DATA:
+        PERSISTED_DATA["space_ids"] = []
+
+    if len(PERSISTED_DATA["space_queue"]) > 0:
+        logging.info("Pushing space data to Vestaboard.")
+        push_to_vestaboard(PERSISTED_DATA["space_queue"][0], source="space",
+                        old_updates=PERSISTED_DATA["old_updates"])
+        PERSISTED_DATA["space_queue"].pop(0)
+        return
+
+    logging.info("Fetching space data.")
+    space_queue = pull_from_space(already_pushed=PERSISTED_DATA["space_ids"])
+
+    if len(space_queue) > 0:
+        logging.info(f"Fetched {len(space_queue)} space records.")
+        PERSISTED_DATA["space_queue"] = space_queue
+        push_to_vestaboard(PERSISTED_DATA["space_queue"][0], source="space",
+                        old_updates=PERSISTED_DATA["old_updates"])
+        PERSISTED_DATA["space_queue"].pop(0)
+        return
 
     if len(PERSISTED_DATA["aidy_queue"]) > 0:
         logging.info("Pushing AIDY data to Vestaboard.")
@@ -111,39 +129,11 @@ def execute_steps():
         PERSISTED_DATA["spacenews_queue"].pop(0)
         return
 
-    # if len(PERSISTED_DATA["twitter_queue"]) > 0:
-    #     logging.info("Pushing Twitter data to Vestaboard.")
-    #     push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
-    #     PERSISTED_DATA["twitter_queue"].pop(0)
-    #     return
-    #
-    # logging.info("Fetching Twitter data.")
-    # twitter_queue = asyncio.run(pull_from_twitter(already_pushed=PERSISTED_DATA["twitter_ids"]))
-    #
-    # if twitter_queue is None:
-    #     return
-    #
-    # if len(twitter_queue) > 0:
-    #     logging.info(f"Fetched {len(twitter_queue)} Twitter records.")
-    #     PERSISTED_DATA["twitter_queue"] = twitter_queue
-    #     push_to_vestaboard(PERSISTED_DATA["twitter_queue"][0], "twitter", old_updates=PERSISTED_DATA["old_updates"])
-    #     PERSISTED_DATA["twitter_queue"].pop(0)
-    #     return
-
-    # logging.info(f"No new data to push. Persisted data: {PERSISTED_DATA}")
-    # logging.info(f"Cycling through old data ...")
-
     if len(PERSISTED_DATA["old_updates"]) > 0:
         push_to_vestaboard(PERSISTED_DATA["old_updates"][0]["data"], source=PERSISTED_DATA["old_updates"][0]["source"],
                            old_updates=PERSISTED_DATA["old_updates"])
         print(f'Pushed old data: {PERSISTED_DATA["old_updates"][0]["data"]}')
         PERSISTED_DATA["old_updates"].pop(0)
-    # try:
-    # random_data = random.choice(PERSISTED_DATA[random.choice(["old_updates", "old_old_updates"])])
-    # push_to_vestaboard(random_data["data"], source=random_data["source"])
-    # except Exception as e:
-    #     logging.error(str(e))
-    #     logging.error("Most probably You don")
 
 
 if __name__ == "__main__":
