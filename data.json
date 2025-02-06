@@ -29,11 +29,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "Don’t compete with or emulate SpaceX, investors urge",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": "From routine to novel: Applications at the intersection of space and AI",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -176,6 +171,11 @@
         {
             "data": "Biden-Harris Proposes 'Mission Authorizations' for Commercial Space, Sparking Debate",
             "source": "aidy",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "Don’t compete with or emulate SpaceX, investors urge",
+            "source": "spacenews",
             "date": "2025-02-06"
         }
     ],
