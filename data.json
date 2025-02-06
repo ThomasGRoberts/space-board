@@ -150,6 +150,20 @@
             "data": " Scientists discover largest black hole jet ever seen in the early universe — its twice as long as our galaxy ",
             "source": "space",
             "date": "2025-02-06"
+        },
+        {
+            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
+            "source": "nyt",
+            "date": "2025-02-06"
         }
+    ],
+    "nyt_queue": [
+        "Grand Canyons on the Moon Were Made in a Matter of Minutes",
+        "Sync Your Calendar With the Solar System"
+    ],
+    "nyt_ids": [
+        "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
+        "7782ea3d14d6d9017a1362be9be96f02fc573f39f367043249705cc6bbe7a920",
+        "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c"
     ]
 }
