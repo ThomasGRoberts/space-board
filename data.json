@@ -30,11 +30,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "Beck says space industry benefited from SPAC mania",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": " Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds ",
             "source": "space",
             "date": "2025-02-06"
@@ -181,6 +176,11 @@
         },
         {
             "data": "From routine to novel: Applications at the intersection of space and AI",
+            "source": "spacenews",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "Beck says space industry benefited from SPAC mania",
             "source": "spacenews",
             "date": "2025-02-06"
         }
