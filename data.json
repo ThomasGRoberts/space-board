@@ -12,7 +12,8 @@
         512517,
         512629,
         512371,
-        512640
+        512640,
+        512662
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -187,6 +188,11 @@
         },
         {
             "data": "SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites",
+            "source": "spacenews",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "Geost sues Sierra Space over breach of contract in military satellite program",
             "source": "spacenews",
             "date": "2025-02-06"
         }
