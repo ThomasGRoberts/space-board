@@ -23,7 +23,8 @@
         "kzyRekUjG2ymhprYMTeCWZ",
         "4qGytRYYtNWyP8nHNk47GH",
         "wjqjEHjZqxgDsMFi7e28GY",
-        "7xLZn2gArvcgE7J2WjaKGT"
+        "7xLZn2gArvcgE7J2WjaKGT",
+        "eVeNyR6x37EavSfVYANH6P"
     ],
     "space_queue": [],
     "old_updates": [
@@ -170,6 +171,11 @@
         {
             "data": "Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander",
             "source": "spacenews",
+            "date": "2025-02-06"
+        },
+        {
+            "data": " NASA's Europa Clipper snaps its 1st starry image en route to Jupiter's icy moon ",
+            "source": "space",
             "date": "2025-02-06"
         }
     ],
