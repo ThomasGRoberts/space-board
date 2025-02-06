@@ -155,10 +155,14 @@
             "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
             "source": "nyt",
             "date": "2025-02-06"
+        },
+        {
+            "data": "Grand Canyons on the Moon Were Made in a Matter of Minutes",
+            "source": "nyt",
+            "date": "2025-02-06"
         }
     ],
     "nyt_queue": [
-        "Grand Canyons on the Moon Were Made in a Matter of Minutes",
         "Sync Your Calendar With the Solar System"
     ],
     "nyt_ids": [
