@@ -28,11 +28,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander",
-            "source": "spacenews",
-            "date": "2025-02-05"
-        },
-        {
             "data": "Atmos Space Cargo secures regulatory approvals for first reentry mission",
             "source": "spacenews",
             "date": "2025-02-05"
@@ -170,6 +165,11 @@
         {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander",
+            "source": "spacenews",
             "date": "2025-02-06"
         }
     ],
