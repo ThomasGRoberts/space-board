@@ -30,11 +30,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": " Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
             "data": "SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -182,6 +177,11 @@
         {
             "data": "Beck says space industry benefited from SPAC mania",
             "source": "spacenews",
+            "date": "2025-02-06"
+        },
+        {
+            "data": " Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds ",
+            "source": "space",
             "date": "2025-02-06"
         }
     ],
