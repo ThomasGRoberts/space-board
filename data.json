@@ -166,11 +166,14 @@
             "data": " Europe signs contract for its 1st moon lander, Argonaut ",
             "source": "space",
             "date": "2025-02-06"
+        },
+        {
+            "data": "Sync Your Calendar With the Solar System",
+            "source": "nyt",
+            "date": "2025-02-06"
         }
     ],
-    "nyt_queue": [
-        "Sync Your Calendar With the Solar System"
-    ],
+    "nyt_queue": [],
     "nyt_ids": [
         "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
         "7782ea3d14d6d9017a1362be9be96f02fc573f39f367043249705cc6bbe7a920",
