@@ -29,11 +29,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "Atmos Space Cargo secures regulatory approvals for first reentry mission",
-            "source": "spacenews",
-            "date": "2025-02-05"
-        },
-        {
             "data": " The moon will be unusually high in the sky tomorrow. Here's why ",
             "source": "space",
             "date": "2025-02-06"
@@ -176,6 +171,11 @@
         {
             "data": " NASA's Europa Clipper snaps its 1st starry image en route to Jupiter's icy moon ",
             "source": "space",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "Atmos Space Cargo secures regulatory approvals for first reentry mission",
+            "source": "spacenews",
             "date": "2025-02-06"
         }
     ],
