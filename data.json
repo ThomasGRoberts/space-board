@@ -22,7 +22,8 @@
         "wJ9ZbyFgoGqzbWLvqojnwD",
         "kzyRekUjG2ymhprYMTeCWZ",
         "4qGytRYYtNWyP8nHNk47GH",
-        "wjqjEHjZqxgDsMFi7e28GY"
+        "wjqjEHjZqxgDsMFi7e28GY",
+        "7xLZn2gArvcgE7J2WjaKGT"
     ],
     "space_queue": [],
     "old_updates": [
@@ -159,6 +160,11 @@
         {
             "data": "Grand Canyons on the Moon Were Made in a Matter of Minutes",
             "source": "nyt",
+            "date": "2025-02-06"
+        },
+        {
+            "data": " Europe signs contract for its 1st moon lander, Argonaut ",
+            "source": "space",
             "date": "2025-02-06"
         }
     ],
