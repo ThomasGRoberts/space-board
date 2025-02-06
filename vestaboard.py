@@ -199,6 +199,8 @@ def push_to_vestaboard(message, source: str, old_updates):
             vba_data = format_rest_message(message=message, color=63)
         elif source == "space":
             vba_data = format_rest_message(message=message, color=67)
+        elif source == "nyt":
+            vba_data = format_rest_message(message=message, color=69)
         elif source == "error":
             vba_data = format_rest_message(message=message, color=68)
 

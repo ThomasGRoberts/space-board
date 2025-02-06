@@ -8,6 +8,7 @@ from logger import Logger
 from space import pull_from_space
 from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
+from nyt import pull_from_nyt
 from vestaboard import push_to_vestaboard
 
 # Set up logging
@@ -31,6 +32,8 @@ def create_persisted_data():
         "spacenews_queue": [],
         "space_ids": [],
         "space_queue": [],
+        "nyt_ids": [],
+        "nyt_queue": [],
         f"old_updates": [],
     }
 
@@ -50,89 +53,51 @@ if PERSISTED_DATA["date"] != CURRENT_DATE:
     PERSISTED_DATA = create_persisted_data()
     PERSISTED_DATA["old_updates"] = old_updates
 
+SOURCES = {
+    "space": pull_from_space,
+    "aidy": pull_from_aidy,
+    "supercluster": pull_from_supercluster,
+    "spacenews": pull_from_spacenews,
+    "nyt": pull_from_nyt
+}
 
 def execute_steps():
     logging.info("Executing steps to process queues and fetch new data.")
 
-    if "space_queue" not in PERSISTED_DATA:
-        PERSISTED_DATA["space_queue"] = []
-    if "space_ids" not in PERSISTED_DATA:
-        PERSISTED_DATA["space_ids"] = []
+    for source_name, fetch_function in SOURCES.items():
+        queue_key = f"{source_name}_queue"
+        ids_key = f"{source_name}_ids"
 
-    if len(PERSISTED_DATA["space_queue"]) > 0:
-        logging.info("Pushing space data to Vestaboard.")
-        push_to_vestaboard(PERSISTED_DATA["space_queue"][0], source="space",
-                        old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["space_queue"].pop(0)
-        return
+        # Ensure queue and IDs exist
+        if queue_key not in PERSISTED_DATA:
+            PERSISTED_DATA[queue_key] = []
+        if ids_key not in PERSISTED_DATA:
+            PERSISTED_DATA[ids_key] = []
 
-    logging.info("Fetching space data.")
-    space_queue = pull_from_space(already_pushed=PERSISTED_DATA["space_ids"])
+        # Push from queue if available
+        if PERSISTED_DATA[queue_key]:
+            logging.info(f"Pushing {source_name} data to Vestaboard.")
+            push_to_vestaboard(PERSISTED_DATA[queue_key][0], source=source_name,
+                               old_updates=PERSISTED_DATA["old_updates"])
+            PERSISTED_DATA[queue_key].pop(0)
+            return
 
-    if len(space_queue) > 0:
-        logging.info(f"Fetched {len(space_queue)} space records.")
-        PERSISTED_DATA["space_queue"] = space_queue
-        push_to_vestaboard(PERSISTED_DATA["space_queue"][0], source="space",
-                        old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["space_queue"].pop(0)
-        return
+        # Fetch new data if queue is empty
+        logging.info(f"Fetching {source_name} data.")
+        new_queue = fetch_function(already_pushed=PERSISTED_DATA[ids_key])
 
-    if len(PERSISTED_DATA["aidy_queue"]) > 0:
-        logging.info("Pushing AIDY data to Vestaboard.")
-        push_to_vestaboard(PERSISTED_DATA["aidy_queue"][0], source="aidy", old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["aidy_queue"].pop(0)
-        return
-
-    logging.info("Fetching AIDY data.")
-    aidy_queue = pull_from_aidy(already_pushed=PERSISTED_DATA["aidy_ids"])
-
-    if len(aidy_queue) > 0:
-        logging.info(f"Fetched {len(aidy_queue)} AIDY records.")
-        PERSISTED_DATA["aidy_queue"] = aidy_queue
-        push_to_vestaboard(PERSISTED_DATA["aidy_queue"][0], source="aidy", old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["aidy_queue"].pop(0)
-        return
-
-    if len(PERSISTED_DATA["supercluster_queue"]) > 0:
-        logging.info("Pushing Supercluster data to Vestaboard.")
-        push_to_vestaboard(PERSISTED_DATA["supercluster_queue"][0], source="supercluster",
-                           old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["supercluster_queue"].pop(0)
-        return
-
-    logging.info("Fetching Supercluster data.")
-    supercluster_queue = pull_from_supercluster(already_pushed=PERSISTED_DATA["supercluster_ids"])
-
-    if len(supercluster_queue) > 0:
-        logging.info(f"Fetched {len(supercluster_queue)} Supercluster records.")
-        PERSISTED_DATA["supercluster_queue"] = supercluster_queue
-        push_to_vestaboard(PERSISTED_DATA["supercluster_queue"][0], source="supercluster",
-                           old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["supercluster_queue"].pop(0)
-        return
-
-    if len(PERSISTED_DATA["spacenews_queue"]) > 0:
-        logging.info("Pushing SpaceNews data to Vestaboard.")
-        push_to_vestaboard(PERSISTED_DATA["spacenews_queue"][0], source="spacenews",
-                           old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["spacenews_queue"].pop(0)
-        return
-
-    logging.info("Fetching SpaceNews data.")
-    spacenews_queue = pull_from_spacenews(already_pushed=PERSISTED_DATA["spacenews_ids"])
-
-    if len(spacenews_queue) > 0:
-        logging.info(f"Fetched {len(spacenews_queue)} SpaceNews records.")
-        PERSISTED_DATA["spacenews_queue"] = spacenews_queue
-        push_to_vestaboard(PERSISTED_DATA["spacenews_queue"][0], source="spacenews",
-                           old_updates=PERSISTED_DATA["old_updates"])
-        PERSISTED_DATA["spacenews_queue"].pop(0)
-        return
+        if new_queue:
+            logging.info(f"Fetched {len(new_queue)} {source_name} records.")
+            PERSISTED_DATA[queue_key] = new_queue
+            push_to_vestaboard(PERSISTED_DATA[queue_key][0], source=source_name,
+                               old_updates=PERSISTED_DATA["old_updates"])
+            PERSISTED_DATA[queue_key].pop(0)
+            return
 
     if len(PERSISTED_DATA["old_updates"]) > 0:
         push_to_vestaboard(PERSISTED_DATA["old_updates"][0]["data"], source=PERSISTED_DATA["old_updates"][0]["source"],
                            old_updates=PERSISTED_DATA["old_updates"])
-        print(f'Pushed old data: {PERSISTED_DATA["old_updates"][0]["data"]}')
+        logging.info(f'Pushed old data: {PERSISTED_DATA["old_updates"][0]["data"]}')
         PERSISTED_DATA["old_updates"].pop(0)
 
 
@@ -140,5 +105,6 @@ if __name__ == "__main__":
     logging.info("Starting execution.")
     execute_steps()
     logging.info("Saving updated persisted data to data.json.")
-    json.dump(PERSISTED_DATA, open('./data.json', 'w'))
+    with open('./data.json', 'w') as f:
+        json.dump(PERSISTED_DATA, f, indent=4, ensure_ascii=False)
     logging.info("Execution completed.")
