@@ -31,11 +31,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
             "source": "aidy",
             "date": "2025-02-06"
@@ -188,6 +183,11 @@
         {
             "data": " What brand of golf ball did Alan Shepard hit off the moon? The world may never know ",
             "source": "space",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites",
+            "source": "spacenews",
             "date": "2025-02-06"
         }
     ],
