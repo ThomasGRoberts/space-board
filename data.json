@@ -29,11 +29,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": " The moon will be unusually high in the sky tomorrow. Here's why ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
             "data": "Biden-Harris Proposes 'Mission Authorizations' for Commercial Space, Sparking Debate",
             "source": "aidy",
             "date": "2025-02-06"
@@ -176,6 +171,11 @@
         {
             "data": "Atmos Space Cargo secures regulatory approvals for first reentry mission",
             "source": "spacenews",
+            "date": "2025-02-06"
+        },
+        {
+            "data": " The moon will be unusually high in the sky tomorrow. Here's why ",
+            "source": "space",
             "date": "2025-02-06"
         }
     ],
