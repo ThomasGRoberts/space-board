@@ -30,11 +30,6 @@
     "space_queue": [],
     "old_updates": [
         {
-            "data": "From routine to novel: Applications at the intersection of space and AI",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": "Beck says space industry benefited from SPAC mania",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -182,6 +177,11 @@
         {
             "data": " Perseverance Mars rover finds 'one-of-a-kind treasure' on Red Planet's Silver Mountain ",
             "source": "space",
+            "date": "2025-02-06"
+        },
+        {
+            "data": "From routine to novel: Applications at the intersection of space and AI",
+            "source": "spacenews",
             "date": "2025-02-06"
         }
     ],
