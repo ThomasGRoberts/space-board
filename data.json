@@ -37,11 +37,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " 'Every episode this season feels like it could be a season finale' boasts 'Invincible' creator as Season 3 debuts (interview) ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
             "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
             "source": "aidy",
             "date": "2025-02-07"
@@ -189,6 +184,11 @@
         {
             "data": "Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " 'Every episode this season feels like it could be a season finale' boasts 'Invincible' creator as Season 3 debuts (interview) ",
+            "source": "space",
             "date": "2025-02-07"
         }
     ]
