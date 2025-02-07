@@ -20,7 +20,8 @@
         "hsbxwbVNmr3gEWGpmv75sP",
         "QTbKLhWpub2PdLWLVYMDJB",
         "WJf782NiAKRtaLRF2JfrWS",
-        "7KGTGTgfPrU2FJyV7PUiAS"
+        "7KGTGTgfPrU2FJyV7PUiAS",
+        "DcfwdgyiTjoQWq2QNYMhoX"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -146,6 +147,11 @@
         },
         {
             "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
             "source": "space",
             "date": "2025-02-07"
         }
