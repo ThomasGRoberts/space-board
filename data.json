@@ -1,35 +1,17 @@
 {
-    "date": "2025-02-06",
-    "aidy_ids": [
-        "61f3694cd70bc59f1e949fd65dcc9b94be7e3247a2bc4a89da7a45fd1adae824"
-    ],
+    "date": "2025-02-07",
+    "aidy_ids": [],
     "aidy_queue": [],
     "supercluster_ids": [],
     "supercluster_queue": [],
-    "spacenews_ids": [
-        512623,
-        512619,
-        512517,
-        512629,
-        512371,
-        512640,
-        512662
-    ],
+    "spacenews_ids": [],
     "spacenews_queue": [],
     "space_ids": [
-        "ZjLx6UhSpF6UbABiWvenE5",
-        "84WQm2t5KWaNwdfaMhg5o8",
-        "2Mjkqymt8cJKhWytERBxzP",
-        "wJ9ZbyFgoGqzbWLvqojnwD",
-        "kzyRekUjG2ymhprYMTeCWZ",
-        "4qGytRYYtNWyP8nHNk47GH",
-        "wjqjEHjZqxgDsMFi7e28GY",
-        "7xLZn2gArvcgE7J2WjaKGT",
-        "eVeNyR6x37EavSfVYANH6P",
-        "QRdbUxJKbjEV8eTYLru2R4",
-        "iz86jQKPNxFarqFxeW3w63"
+        "rVjsXaDpJh8vcmoBPsvHCU"
     ],
     "space_queue": [],
+    "nyt_ids": [],
+    "nyt_queue": [],
     "old_updates": [
         {
             "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
@@ -87,120 +69,9 @@
             "date": "2025-02-06"
         },
         {
-            "data": "ThinKom, Boeing demo high-speed satellite communications for military aircraft",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Blue Origin Will Launch Uncrewed Suborbital Flight ",
-            "source": "supercluster",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source": "supercluster",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " NASA satellites catch Earth's magnetic field making music ",
+            "data": " New fast radio burst detector could sift through 'a whole beach of sand' to solve big cosmic mystery ",
             "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " Scientists discover largest black hole jet ever seen in the early universe — its twice as long as our galaxy ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
-            "source": "nyt",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Grand Canyons on the Moon Were Made in a Matter of Minutes",
-            "source": "nyt",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " Europe signs contract for its 1st moon lander, Argonaut ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Sync Your Calendar With the Solar System",
-            "source": "nyt",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " NASA's Europa Clipper snaps its 1st starry image en route to Jupiter's icy moon ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Atmos Space Cargo secures regulatory approvals for first reentry mission",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " The moon will be unusually high in the sky tomorrow. Here's why ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Biden-Harris Proposes 'Mission Authorizations' for Commercial Space, Sparking Debate",
-            "source": "aidy",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Don’t compete with or emulate SpaceX, investors urge",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " Perseverance Mars rover finds 'one-of-a-kind treasure' on Red Planet's Silver Mountain ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "From routine to novel: Applications at the intersection of space and AI",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Beck says space industry benefited from SPAC mania",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": " What brand of golf ball did Alan Shepard hit off the moon? The world may never know ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
-            "data": "Geost sues Sierra Space over breach of contract in military satellite program",
-            "source": "spacenews",
-            "date": "2025-02-06"
+            "date": "2025-02-07"
         }
-    ],
-    "nyt_queue": [],
-    "nyt_ids": [
-        "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
-        "7782ea3d14d6d9017a1362be9be96f02fc573f39f367043249705cc6bbe7a920",
-        "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c"
     ]
 }
