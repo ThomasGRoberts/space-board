@@ -33,11 +33,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Vast begins Haven-1 testing and reschedules its launch",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": "Why more US-African space cooperation is the answer ",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -164,6 +159,11 @@
         },
         {
             "data": "What Trump’s first weeks back in office mean for space",
+            "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Vast begins Haven-1 testing and reschedules its launch",
             "source": "spacenews",
             "date": "2025-02-07"
         }
