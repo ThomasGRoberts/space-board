@@ -33,11 +33,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Why more US-African space cooperation is the answer ",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": "SpaceX Will Launch Maxar's Earth Observation Satellites ",
             "source": "supercluster",
             "date": "2025-02-06"
@@ -164,6 +159,11 @@
         },
         {
             "data": "Vast begins Haven-1 testing and reschedules its launch",
+            "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Why more US-African space cooperation is the answer ",
             "source": "spacenews",
             "date": "2025-02-07"
         }
