@@ -36,11 +36,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Missing link still needed to save Mars Sample Return",
-            "source": "spacenews",
-            "date": "2025-02-06"
-        },
-        {
             "data": " New fast radio burst detector could sift through 'a whole beach of sand' to solve big cosmic mystery ",
             "source": "space",
             "date": "2025-02-07"
@@ -183,6 +178,11 @@
         {
             "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
             "source": "supercluster",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Missing link still needed to save Mars Sample Return",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
