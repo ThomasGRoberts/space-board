@@ -14,7 +14,6 @@
         512678
     ],
     "spacenews_queue": [
-        "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
         "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia"
     ],
     "space_ids": [
@@ -109,6 +108,11 @@
         {
             "data": " Hopping robot will hunt for moon water on China's 2026 lunar mission ",
             "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
