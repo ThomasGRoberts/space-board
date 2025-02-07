@@ -11,7 +11,8 @@
     "spacenews_ids": [
         512681,
         512687,
-        512678
+        512678,
+        512654
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -132,6 +133,11 @@
         {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
             "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "As the night sky grows crowded, astronomers face a growing problem",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
