@@ -36,11 +36,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "source": "supercluster",
-            "date": "2025-02-06"
-        },
-        {
             "data": "Missing link still needed to save Mars Sample Return",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -183,6 +178,11 @@
         {
             "data": "Urban Sky raises $30 million for stratospheric balloons",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source": "supercluster",
             "date": "2025-02-07"
         }
     ]
