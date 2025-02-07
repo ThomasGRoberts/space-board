@@ -12,7 +12,8 @@
         512681,
         512687,
         512678,
-        512654
+        512654,
+        512698
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -159,6 +160,11 @@
         {
             "data": " SpaceX launching 21 Starlink satellites from Florida today ",
             "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "What Trump’s first weeks back in office mean for space",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
