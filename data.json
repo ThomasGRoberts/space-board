@@ -19,7 +19,8 @@
         "rVjsXaDpJh8vcmoBPsvHCU",
         "hsbxwbVNmr3gEWGpmv75sP",
         "QTbKLhWpub2PdLWLVYMDJB",
-        "WJf782NiAKRtaLRF2JfrWS"
+        "WJf782NiAKRtaLRF2JfrWS",
+        "7KGTGTgfPrU2FJyV7PUiAS"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -141,6 +142,11 @@
         {
             "data": "Does government still fit into space?",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
+            "source": "space",
             "date": "2025-02-07"
         }
     ]
