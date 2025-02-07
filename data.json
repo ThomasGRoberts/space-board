@@ -38,11 +38,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
-            "source": "aidy",
-            "date": "2025-02-07"
-        },
-        {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
             "date": "2025-02-07"
@@ -195,6 +190,11 @@
         {
             "data": " Mysterious magnetic stars may arise when supernovas blast out matter ",
             "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
+            "source": "aidy",
             "date": "2025-02-07"
         }
     ]
