@@ -26,9 +26,7 @@
         "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
         "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c"
     ],
-    "nyt_queue": [
-        "Sync Your Calendar With the Solar System"
-    ],
+    "nyt_queue": [],
     "old_updates": [
         {
             "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
@@ -138,6 +136,11 @@
         {
             "data": "As the night sky grows crowded, astronomers face a growing problem",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Sync Your Calendar With the Solar System",
+            "source": "nyt",
             "date": "2025-02-07"
         }
     ]
