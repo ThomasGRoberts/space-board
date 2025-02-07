@@ -4,7 +4,9 @@
         "b8ee90a05560b785436aec2273667e34151ec78fbdab5dcfa66b06327d1bf176"
     ],
     "aidy_queue": [],
-    "supercluster_ids": [],
+    "supercluster_ids": [
+        "9e1b19a4-659e-4067-907f-f084449d70f8"
+    ],
     "supercluster_queue": [],
     "spacenews_ids": [],
     "spacenews_queue": [],
@@ -84,6 +86,11 @@
         {
             "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
             "source": "aidy",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source": "supercluster",
             "date": "2025-02-07"
         }
     ]
