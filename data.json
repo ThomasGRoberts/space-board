@@ -36,11 +36,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Save 44% on a Disney Plus and Hulu duo subscription ",
-            "source": "space",
-            "date": "2025-02-06"
-        },
-        {
             "data": "Urban Sky raises $30 million for stratospheric balloons",
             "source": "spacenews",
             "date": "2025-02-06"
@@ -182,6 +177,11 @@
         },
         {
             "data": " Tiny spacecraft could travel across interstellar space with this 'trampoline' lightsail ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Save 44% on a Disney Plus and Hulu duo subscription ",
             "source": "space",
             "date": "2025-02-07"
         }
