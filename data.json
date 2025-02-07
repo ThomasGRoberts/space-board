@@ -19,7 +19,8 @@
     ],
     "space_ids": [
         "rVjsXaDpJh8vcmoBPsvHCU",
-        "hsbxwbVNmr3gEWGpmv75sP"
+        "hsbxwbVNmr3gEWGpmv75sP",
+        "QTbKLhWpub2PdLWLVYMDJB"
     ],
     "space_queue": [],
     "nyt_ids": [],
@@ -103,6 +104,11 @@
         {
             "data": "The State of Orbital Traffic Management",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Hopping robot will hunt for moon water on China's 2026 lunar mission ",
+            "source": "space",
             "date": "2025-02-07"
         }
     ]
