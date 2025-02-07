@@ -26,7 +26,8 @@
         "DcfwdgyiTjoQWq2QNYMhoX",
         "7z2yf53HbqMryTqGFLqUZU",
         "Lw4FSpBrGv7yEV5xC9Sgq3",
-        "fXVgfKykm97q5u3ASEGUeE"
+        "fXVgfKykm97q5u3ASEGUeE",
+        "deMg7PXK2vrqFzHqqBvdFi"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -188,6 +189,11 @@
         },
         {
             "data": " 'Every episode this season feels like it could be a season finale' boasts 'Invincible' creator as Season 3 debuts (interview) ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Mysterious magnetic stars may arise when supernovas blast out matter ",
             "source": "space",
             "date": "2025-02-07"
         }
