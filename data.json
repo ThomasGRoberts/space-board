@@ -28,7 +28,8 @@
     "space_queue": [],
     "nyt_ids": [
         "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
-        "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c"
+        "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c",
+        "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019"
     ],
     "nyt_queue": [],
     "old_updates": [
@@ -165,6 +166,11 @@
         {
             "data": "Why more US-African space cooperation is the answer ",
             "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "source": "nyt",
             "date": "2025-02-07"
         }
     ]
