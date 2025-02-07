@@ -38,11 +38,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source": "supercluster",
-            "date": "2025-02-07"
-        },
-        {
             "data": "The State of Orbital Traffic Management",
             "source": "spacenews",
             "date": "2025-02-07"
@@ -195,6 +190,11 @@
         {
             "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
             "source": "aidy",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source": "supercluster",
             "date": "2025-02-07"
         }
     ]
