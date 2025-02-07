@@ -24,7 +24,8 @@
         "7KGTGTgfPrU2FJyV7PUiAS",
         "DcfwdgyiTjoQWq2QNYMhoX",
         "7z2yf53HbqMryTqGFLqUZU",
-        "Lw4FSpBrGv7yEV5xC9Sgq3"
+        "Lw4FSpBrGv7yEV5xC9Sgq3",
+        "fXVgfKykm97q5u3ASEGUeE"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -176,6 +177,11 @@
         },
         {
             "data": " Black holes could 'bend it like Beckham' to reveal hidden asymmetries of the universe ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Tiny spacecraft could travel across interstellar space with this 'trampoline' lightsail ",
             "source": "space",
             "date": "2025-02-07"
         }
