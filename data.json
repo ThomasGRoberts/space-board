@@ -13,7 +13,8 @@
         512687,
         512678,
         512654,
-        512698
+        512698,
+        512714
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -183,6 +184,11 @@
         {
             "data": " New fast radio burst detector could sift through 'a whole beach of sand' to solve big cosmic mystery ",
             "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
