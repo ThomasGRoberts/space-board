@@ -17,7 +17,8 @@
     "space_ids": [
         "rVjsXaDpJh8vcmoBPsvHCU",
         "hsbxwbVNmr3gEWGpmv75sP",
-        "QTbKLhWpub2PdLWLVYMDJB"
+        "QTbKLhWpub2PdLWLVYMDJB",
+        "WJf782NiAKRtaLRF2JfrWS"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -126,6 +127,11 @@
         {
             "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
             "source": "nyt",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
+            "source": "space",
             "date": "2025-02-07"
         }
     ]
