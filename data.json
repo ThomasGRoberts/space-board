@@ -7,7 +7,8 @@
     "spacenews_ids": [],
     "spacenews_queue": [],
     "space_ids": [
-        "rVjsXaDpJh8vcmoBPsvHCU"
+        "rVjsXaDpJh8vcmoBPsvHCU",
+        "hsbxwbVNmr3gEWGpmv75sP"
     ],
     "space_queue": [],
     "nyt_ids": [],
@@ -70,6 +71,11 @@
         },
         {
             "data": " New fast radio burst detector could sift through 'a whole beach of sand' to solve big cosmic mystery ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " 'Every episode this season feels like it could be a season finale' boasts 'Invincible' creator as Season 3 debuts (interview) ",
             "source": "space",
             "date": "2025-02-07"
         }
