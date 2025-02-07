@@ -21,7 +21,8 @@
         "QTbKLhWpub2PdLWLVYMDJB",
         "WJf782NiAKRtaLRF2JfrWS",
         "7KGTGTgfPrU2FJyV7PUiAS",
-        "DcfwdgyiTjoQWq2QNYMhoX"
+        "DcfwdgyiTjoQWq2QNYMhoX",
+        "7z2yf53HbqMryTqGFLqUZU"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -152,6 +153,11 @@
         },
         {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-07"
+        },
+        {
+            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
             "source": "space",
             "date": "2025-02-07"
         }
