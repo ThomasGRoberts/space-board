@@ -38,11 +38,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "The State of Orbital Traffic Management",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
             "data": " Hopping robot will hunt for moon water on China's 2026 lunar mission ",
             "source": "space",
             "date": "2025-02-07"
@@ -195,6 +190,11 @@
         {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "The State of Orbital Traffic Management",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
