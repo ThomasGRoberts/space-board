@@ -34,11 +34,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "SpaceX Will Launch Maxar's Earth Observation Satellites ",
-            "source": "supercluster",
-            "date": "2025-02-06"
-        },
-        {
             "data": " James Webb Space Telescope images bacteria-size dust grains — they'll likely turn into exoplanets ",
             "source": "space",
             "date": "2025-02-06"
@@ -171,6 +166,11 @@
         {
             "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
             "source": "nyt",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "SpaceX Will Launch Maxar's Earth Observation Satellites ",
+            "source": "supercluster",
             "date": "2025-02-07"
         }
     ]
