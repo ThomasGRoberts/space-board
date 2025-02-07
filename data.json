@@ -14,7 +14,8 @@
         512678,
         512654,
         512698,
-        512714
+        512714,
+        512734
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -194,6 +195,11 @@
         },
         {
             "data": "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
+            "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Senators reintroduce bill to authorize Commerce’s space traffic coordination system",
             "source": "spacenews",
             "date": "2025-02-07"
         }
