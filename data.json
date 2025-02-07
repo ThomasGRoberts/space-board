@@ -8,8 +8,15 @@
         "9e1b19a4-659e-4067-907f-f084449d70f8"
     ],
     "supercluster_queue": [],
-    "spacenews_ids": [],
-    "spacenews_queue": [],
+    "spacenews_ids": [
+        512681,
+        512687,
+        512678
+    ],
+    "spacenews_queue": [
+        "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
+        "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia"
+    ],
     "space_ids": [
         "rVjsXaDpJh8vcmoBPsvHCU",
         "hsbxwbVNmr3gEWGpmv75sP"
@@ -91,6 +98,11 @@
         {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "The State of Orbital Traffic Management",
+            "source": "spacenews",
             "date": "2025-02-07"
         }
     ]
