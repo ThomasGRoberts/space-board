@@ -13,9 +13,7 @@
         512687,
         512678
     ],
-    "spacenews_queue": [
-        "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia"
-    ],
+    "spacenews_queue": [],
     "space_ids": [
         "rVjsXaDpJh8vcmoBPsvHCU",
         "hsbxwbVNmr3gEWGpmv75sP",
@@ -112,6 +110,11 @@
         },
         {
             "data": "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
+            "source": "spacenews",
+            "date": "2025-02-07"
+        },
+        {
+            "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
             "source": "spacenews",
             "date": "2025-02-07"
         }
