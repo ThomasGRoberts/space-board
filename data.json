@@ -26,11 +26,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Croatia's 1st satellite captures its first views of home (photo) ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
             "source": "space",
             "date": "2025-02-08"
@@ -133,6 +128,11 @@
         {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Croatia's 1st satellite captures its first views of home (photo) ",
+            "source": "space",
             "date": "2025-02-08"
         }
     ]
