@@ -25,11 +25,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
             "source": "spacenews",
             "date": "2025-02-08"
@@ -126,6 +121,11 @@
         },
         {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
             "date": "2025-02-08"
         }
