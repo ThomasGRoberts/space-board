@@ -24,11 +24,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Sync Your Calendar With the Solar System",
-            "source": "nyt",
-            "date": "2025-02-08"
-        },
-        {
             "data": " Croatia's 1st satellite captures its first views of home (photo) ",
             "source": "space",
             "date": "2025-02-08"
@@ -121,6 +116,11 @@
         {
             "data": "As the night sky grows crowded, astronomers face a growing problem",
             "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Sync Your Calendar With the Solar System",
+            "source": "nyt",
             "date": "2025-02-08"
         }
     ]
