@@ -30,11 +30,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Sync Your Calendar With the Solar System",
-            "source": "nyt",
-            "date": "2025-02-08"
-        },
-        {
             "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
             "source": "space",
             "date": "2025-02-08"
@@ -147,6 +142,11 @@
         {
             "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Sync Your Calendar With the Solar System",
+            "source": "nyt",
             "date": "2025-02-08"
         }
     ]
