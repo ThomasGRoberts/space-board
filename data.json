@@ -8,9 +8,7 @@
         "94d32c74-99ae-4512-9a90-fe99eda33c1b",
         "9e1b19a4-659e-4067-907f-f084449d70f8"
     ],
-    "supercluster_queue": [
-        "SpaceX Will Launch Starlink Satellites from Florida"
-    ],
+    "supercluster_queue": [],
     "spacenews_ids": [],
     "spacenews_queue": [],
     "space_ids": [
@@ -87,6 +85,11 @@
         },
         {
             "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source": "supercluster",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
             "date": "2025-02-08"
         }
