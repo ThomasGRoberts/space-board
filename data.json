@@ -29,11 +29,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
             "source": "space",
             "date": "2025-02-08"
@@ -141,6 +136,11 @@
         {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
