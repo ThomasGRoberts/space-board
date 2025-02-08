@@ -9,8 +9,13 @@
         "9e1b19a4-659e-4067-907f-f084449d70f8"
     ],
     "supercluster_queue": [],
-    "spacenews_ids": [],
-    "spacenews_queue": [],
+    "spacenews_ids": [
+        512746,
+        512740
+    ],
+    "spacenews_queue": [
+        "Boeing warns SLS employees of potential layoffs"
+    ],
     "space_ids": [
         "pJyCXdMivWNUryhfHNtYmZ"
     ],
@@ -91,6 +96,11 @@
         {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
