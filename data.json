@@ -11,7 +11,8 @@
     "supercluster_queue": [],
     "spacenews_ids": [
         512746,
-        512740
+        512740,
+        512757
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -140,6 +141,11 @@
         },
         {
             "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
+            "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
             "source": "spacenews",
             "date": "2025-02-08"
         }
