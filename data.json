@@ -12,7 +12,8 @@
     "space_ids": [
         "pJyCXdMivWNUryhfHNtYmZ",
         "R3Eb2MnWr4anxwjqZYcrtb",
-        "LeqxiHa2MVxoxhJde8xYcf"
+        "LeqxiHa2MVxoxhJde8xYcf",
+        "RyK2rFEN2awTz6WUdKzhEL"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -108,6 +109,11 @@
         },
         {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
             "date": "2025-02-08"
         }
