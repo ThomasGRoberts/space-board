@@ -13,7 +13,8 @@
         "pJyCXdMivWNUryhfHNtYmZ",
         "R3Eb2MnWr4anxwjqZYcrtb",
         "LeqxiHa2MVxoxhJde8xYcf",
-        "RyK2rFEN2awTz6WUdKzhEL"
+        "RyK2rFEN2awTz6WUdKzhEL",
+        "w53g2nreHPtRonkd358RoY"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -115,6 +116,11 @@
         {
             "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
             "source": "aidy",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
+            "source": "space",
             "date": "2025-02-08"
         }
     ]
