@@ -25,11 +25,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": "As the night sky grows crowded, astronomers face a growing problem",
             "source": "spacenews",
             "date": "2025-02-08"
@@ -127,6 +122,11 @@
         {
             "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
