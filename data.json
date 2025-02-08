@@ -6,7 +6,8 @@
     "supercluster_queue": [],
     "spacenews_ids": [
         512740,
-        512746
+        512746,
+        512757
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -121,6 +122,11 @@
         {
             "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
