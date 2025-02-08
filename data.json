@@ -7,7 +7,8 @@
     "spacenews_ids": [
         512740,
         512746,
-        512757
+        512757,
+        512761
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -126,6 +127,11 @@
         },
         {
             "data": "As the night sky grows crowded, astronomers face a growing problem",
+            "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Rocket Lab launches fourth set of Kinéis satellites",
             "source": "spacenews",
             "date": "2025-02-08"
         }
