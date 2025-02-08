@@ -17,7 +17,8 @@
     "space_ids": [
         "pJyCXdMivWNUryhfHNtYmZ",
         "R3Eb2MnWr4anxwjqZYcrtb",
-        "LeqxiHa2MVxoxhJde8xYcf"
+        "LeqxiHa2MVxoxhJde8xYcf",
+        "RyK2rFEN2awTz6WUdKzhEL"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -128,6 +129,11 @@
         },
         {
             "data": " Croatia's 1st satellite captures its first views of home (photo) ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
             "date": "2025-02-08"
         }
