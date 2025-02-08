@@ -30,11 +30,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
             "date": "2025-02-08"
@@ -146,6 +141,11 @@
         },
         {
             "data": " Croatia's 1st satellite captures its first views of home (photo) ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
             "date": "2025-02-08"
         }
