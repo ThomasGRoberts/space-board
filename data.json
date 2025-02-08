@@ -10,7 +10,8 @@
     ],
     "spacenews_queue": [],
     "space_ids": [
-        "pJyCXdMivWNUryhfHNtYmZ"
+        "pJyCXdMivWNUryhfHNtYmZ",
+        "R3Eb2MnWr4anxwjqZYcrtb"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -97,6 +98,11 @@
         {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
+            "source": "space",
             "date": "2025-02-08"
         }
     ]
