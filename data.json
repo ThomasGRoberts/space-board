@@ -26,11 +26,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
             "source": "nyt",
             "date": "2025-02-08"
@@ -133,6 +128,11 @@
         {
             "data": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
             "source": "nyt",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
