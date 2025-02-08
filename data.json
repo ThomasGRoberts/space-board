@@ -18,7 +18,8 @@
         "pJyCXdMivWNUryhfHNtYmZ",
         "R3Eb2MnWr4anxwjqZYcrtb",
         "LeqxiHa2MVxoxhJde8xYcf",
-        "RyK2rFEN2awTz6WUdKzhEL"
+        "RyK2rFEN2awTz6WUdKzhEL",
+        "w53g2nreHPtRonkd358RoY"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -135,6 +136,11 @@
         {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
+            "source": "space",
             "date": "2025-02-08"
         }
     ]
