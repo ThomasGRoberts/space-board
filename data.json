@@ -24,11 +24,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": "As the night sky grows crowded, astronomers face a growing problem",
             "source": "spacenews",
             "date": "2025-02-08"
@@ -120,6 +115,11 @@
         },
         {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
             "date": "2025-02-08"
         }
