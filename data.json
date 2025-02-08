@@ -26,11 +26,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
             "source": "spacenews",
             "date": "2025-02-08"
@@ -132,6 +127,11 @@
         },
         {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
             "date": "2025-02-08"
         }
