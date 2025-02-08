@@ -13,9 +13,7 @@
         512746,
         512740
     ],
-    "spacenews_queue": [
-        "Boeing warns SLS employees of potential layoffs"
-    ],
+    "spacenews_queue": [],
     "space_ids": [
         "pJyCXdMivWNUryhfHNtYmZ",
         "R3Eb2MnWr4anxwjqZYcrtb"
@@ -107,6 +105,11 @@
         {
             "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Boeing warns SLS employees of potential layoffs",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
