@@ -25,11 +25,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "As the night sky grows crowded, astronomers face a growing problem",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
             "date": "2025-02-08"
@@ -126,6 +121,11 @@
         },
         {
             "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
+            "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "As the night sky grows crowded, astronomers face a growing problem",
             "source": "spacenews",
             "date": "2025-02-08"
         }
