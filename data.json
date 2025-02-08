@@ -26,11 +26,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
-            "source": "aidy",
-            "date": "2025-02-08"
-        },
-        {
             "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
             "source": "space",
             "date": "2025-02-08"
@@ -133,6 +128,11 @@
         {
             "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
+            "source": "aidy",
             "date": "2025-02-08"
         }
     ]
