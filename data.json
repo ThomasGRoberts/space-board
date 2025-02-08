@@ -1,6 +1,8 @@
 {
     "date": "2025-02-08",
-    "aidy_ids": [],
+    "aidy_ids": [
+        "18a8fce94406309a060281c49288174b4d063f9ed721c28a675e5dd3a508234d"
+    ],
     "aidy_queue": [],
     "supercluster_ids": [],
     "supercluster_queue": [],
@@ -71,6 +73,11 @@
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
+            "source": "aidy",
             "date": "2025-02-08"
         }
     ]
