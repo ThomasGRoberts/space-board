@@ -22,11 +22,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
             "source": "space",
             "date": "2025-02-08"
@@ -108,6 +103,11 @@
         },
         {
             "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
             "source": "space",
             "date": "2025-02-08"
         }
