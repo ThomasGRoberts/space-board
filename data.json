@@ -20,11 +20,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
-            "source": "nyt",
-            "date": "2025-02-08"
-        },
-        {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
             "source": "space",
             "date": "2025-02-08"
@@ -97,6 +92,11 @@
         {
             "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
             "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
+            "source": "nyt",
             "date": "2025-02-08"
         }
     ]
