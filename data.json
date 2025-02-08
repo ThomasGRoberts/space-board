@@ -25,11 +25,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
             "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
             "source": "aidy",
             "date": "2025-02-08"
@@ -126,6 +121,11 @@
         },
         {
             "data": " Croatia's 1st satellite captures its first views of home (photo) ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
             "source": "space",
             "date": "2025-02-08"
         }
