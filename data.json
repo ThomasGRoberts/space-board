@@ -17,7 +17,8 @@
         "Boeing warns SLS employees of potential layoffs"
     ],
     "space_ids": [
-        "pJyCXdMivWNUryhfHNtYmZ"
+        "pJyCXdMivWNUryhfHNtYmZ",
+        "R3Eb2MnWr4anxwjqZYcrtb"
     ],
     "space_queue": [],
     "nyt_ids": [],
@@ -101,6 +102,11 @@
         {
             "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
             "source": "spacenews",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
+            "source": "space",
             "date": "2025-02-08"
         }
     ]
