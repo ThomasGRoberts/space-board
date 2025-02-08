@@ -8,7 +8,9 @@
         512740
     ],
     "spacenews_queue": [],
-    "space_ids": [],
+    "space_ids": [
+        "pJyCXdMivWNUryhfHNtYmZ"
+    ],
     "space_queue": [],
     "nyt_ids": [
         "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019",
@@ -83,6 +85,11 @@
         },
         {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
             "date": "2025-02-08"
         }
