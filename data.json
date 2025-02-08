@@ -5,7 +5,8 @@
     "supercluster_ids": [],
     "supercluster_queue": [],
     "spacenews_ids": [
-        512740
+        512740,
+        512746
     ],
     "spacenews_queue": [],
     "space_ids": [
@@ -91,6 +92,11 @@
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
