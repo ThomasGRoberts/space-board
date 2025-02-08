@@ -23,11 +23,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "As the night sky grows crowded, astronomers face a growing problem",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": "Sync Your Calendar With the Solar System",
             "source": "nyt",
             "date": "2025-02-08"
@@ -115,6 +110,11 @@
         {
             "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "As the night sky grows crowded, astronomers face a growing problem",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
