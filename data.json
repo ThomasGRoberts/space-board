@@ -23,11 +23,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
             "data": " SpaceX launching 21 Starlink satellites from Florida today ",
             "source": "space",
             "date": "2025-02-08"
@@ -115,6 +110,11 @@
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
+            "date": "2025-02-08"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
+            "source": "spacenews",
             "date": "2025-02-08"
         }
     ]
