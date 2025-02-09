@@ -6,7 +6,9 @@
     "supercluster_queue": [],
     "spacenews_ids": [],
     "spacenews_queue": [],
-    "space_ids": [],
+    "space_ids": [
+        "fEWS5KTjgTNoXwpApRijCV"
+    ],
     "space_queue": [],
     "nyt_ids": [
         "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019",
@@ -77,6 +79,11 @@
         {
             "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
             "source": "nyt",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " See Mars next to a nearly full moon in the sky tonight ",
+            "source": "space",
             "date": "2025-02-09"
         }
     ]
