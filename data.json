@@ -8,7 +8,8 @@
     "spacenews_queue": [],
     "space_ids": [
         "fEWS5KTjgTNoXwpApRijCV",
-        "8yJiMvZnKce2yEVi76Gwxg"
+        "8yJiMvZnKce2yEVi76Gwxg",
+        "yEwzAWcogcrmy4ZWHwQNuT"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -89,6 +90,11 @@
         },
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
             "source": "space",
             "date": "2025-02-09"
         }
