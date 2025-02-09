@@ -1,29 +1,20 @@
 {
-    "date": "2025-02-08",
+    "date": "2025-02-09",
     "aidy_ids": [],
     "aidy_queue": [],
     "supercluster_ids": [],
     "supercluster_queue": [],
-    "spacenews_ids": [
-        512740,
-        512746,
-        512757,
-        512761
-    ],
+    "spacenews_ids": [],
     "spacenews_queue": [],
-    "space_ids": [
-        "pJyCXdMivWNUryhfHNtYmZ",
-        "R3Eb2MnWr4anxwjqZYcrtb",
-        "LeqxiHa2MVxoxhJde8xYcf",
-        "RyK2rFEN2awTz6WUdKzhEL",
-        "w53g2nreHPtRonkd358RoY"
-    ],
+    "space_ids": [],
     "space_queue": [],
     "nyt_ids": [
         "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019",
         "526de32551e6e07de329cf30235f25707cdac37e6340e1f5684fc64215cdc90f"
     ],
-    "nyt_queue": [],
+    "nyt_queue": [
+        "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)"
+    ],
     "old_updates": [
         {
             "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
@@ -81,59 +72,9 @@
             "date": "2025-02-08"
         },
         {
-            "data": " This Week In Space podcast: Episode 147 — Not As They Seem ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "As the night sky grows crowded, astronomers face a growing problem",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "Rocket Lab launches fourth set of Kinéis satellites",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "Sync Your Calendar With the Solar System",
+            "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
             "source": "nyt",
-            "date": "2025-02-08"
-        },
-        {
-            "data": " Croatia's 1st satellite captures its first views of home (photo) ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
-            "data": " Exploring Venus may require exotic tech like balloons and 'aerobots' ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
-            "source": "aidy",
-            "date": "2025-02-08"
-        },
-        {
-            "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
-            "source": "space",
-            "date": "2025-02-08"
-        },
-        {
-            "data": "Does government still fit into space?",
-            "source": "spacenews",
-            "date": "2025-02-08"
-        },
-        {
-            "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
-            "source": "space",
-            "date": "2025-02-08"
+            "date": "2025-02-09"
         }
     ]
 }
