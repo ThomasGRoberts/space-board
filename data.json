@@ -1,207 +1,108 @@
 {
-    "date": "2025-02-07",
-    "aidy_ids": [
-        "b8ee90a05560b785436aec2273667e34151ec78fbdab5dcfa66b06327d1bf176"
-    ],
+    "date": "2025-02-09",
+    "aidy_ids": [],
     "aidy_queue": [],
-    "supercluster_ids": [
-        "9e1b19a4-659e-4067-907f-f084449d70f8"
-    ],
+    "supercluster_ids": [],
     "supercluster_queue": [],
-    "spacenews_ids": [
-        512681,
-        512687,
-        512678,
-        512654,
-        512698,
-        512714,
-        512734
-    ],
+    "spacenews_ids": [],
     "spacenews_queue": [],
     "space_ids": [
-        "rVjsXaDpJh8vcmoBPsvHCU",
-        "hsbxwbVNmr3gEWGpmv75sP",
-        "QTbKLhWpub2PdLWLVYMDJB",
-        "WJf782NiAKRtaLRF2JfrWS",
-        "7KGTGTgfPrU2FJyV7PUiAS",
-        "DcfwdgyiTjoQWq2QNYMhoX",
-        "7z2yf53HbqMryTqGFLqUZU",
-        "Lw4FSpBrGv7yEV5xC9Sgq3",
-        "fXVgfKykm97q5u3ASEGUeE",
-        "deMg7PXK2vrqFzHqqBvdFi"
+        "fEWS5KTjgTNoXwpApRijCV",
+        "8yJiMvZnKce2yEVi76Gwxg",
+        "yEwzAWcogcrmy4ZWHwQNuT",
+        "qGNJ36mHVt8fwXNrkQ6CUn"
     ],
     "space_queue": [],
     "nyt_ids": [
-        "fdd3bd9721f68b7623a3e7f228116988c616e62a2e2d9de0d72f0a28a001c290",
-        "5548eb90d663686ab6241ff4a4cc3a154d8d7d1b019ab321aa5681acbd25fa7c",
-        "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019"
+        "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019",
+        "526de32551e6e07de329cf30235f25707cdac37e6340e1f5684fc64215cdc90f"
     ],
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
+            "data": "Boeing warns SLS employees of potential layoffs",
             "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
-            "source": "nyt",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "As the night sky grows crowded, astronomers face a growing problem",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "Sync Your Calendar With the Solar System",
-            "source": "nyt",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
-            "source": "aidy",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "Does government still fit into space?",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "What Trump’s first weeks back in office mean for space",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "Vast begins Haven-1 testing and reschedules its launch",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "Why more US-African space cooperation is the answer ",
-            "source": "spacenews",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
             "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
             "source": "nyt",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": "SpaceX Will Launch Maxar's Earth Observation Satellites ",
-            "source": "supercluster",
-            "date": "2025-02-07"
+            "data": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
+            "source": "nyt",
+            "date": "2025-02-09"
         },
         {
-            "data": " James Webb Space Telescope images bacteria-size dust grains — they'll likely turn into exoplanets ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Black holes could 'bend it like Beckham' to reveal hidden asymmetries of the universe ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Tiny spacecraft could travel across interstellar space with this 'trampoline' lightsail ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Save 44% on a Disney Plus and Hulu duo subscription ",
-            "source": "space",
-            "date": "2025-02-07"
-        },
-        {
-            "data": "Urban Sky raises $30 million for stratospheric balloons",
+            "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
             "source": "spacenews",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "source": "supercluster",
-            "date": "2025-02-07"
+            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
+            "source": "nyt",
+            "date": "2025-02-09"
         },
         {
-            "data": "Missing link still needed to save Mars Sample Return",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " New fast radio burst detector could sift through 'a whole beach of sand' to solve big cosmic mystery ",
+            "data": " See Mars next to a nearly full moon in the sky tonight ",
             "source": "space",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": "Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " 'Every episode this season feels like it could be a season finale' boasts 'Invincible' creator as Season 3 debuts (interview) ",
+            "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
             "source": "space",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": " Mysterious magnetic stars may arise when supernovas blast out matter ",
+            "data": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
             "source": "space",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": "Space Traffic Coordination Bill Introduced, Aims for Civilian-Led Space Safety Framework",
-            "source": "aidy",
-            "date": "2025-02-07"
+            "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "source": "nyt",
+            "date": "2025-02-09"
         },
         {
-            "data": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source": "supercluster",
-            "date": "2025-02-07"
+            "data": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
+            "source": "nyt",
+            "date": "2025-02-09"
         },
         {
-            "data": "The State of Orbital Traffic Management",
-            "source": "spacenews",
-            "date": "2025-02-07"
-        },
-        {
-            "data": " Hopping robot will hunt for moon water on China's 2026 lunar mission ",
+            "data": " The DJI Mini 4k, one of the best beginner drones, is 20% off ",
             "source": "space",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
         },
         {
-            "data": "Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE",
-            "source": "spacenews",
-            "date": "2025-02-07"
+            "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-09"
         },
         {
-            "data": "Senators reintroduce bill to authorize Commerce’s space traffic coordination system",
+            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
             "source": "spacenews",
-            "date": "2025-02-07"
+            "date": "2025-02-09"
+        },
+        {
+            "data": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
+            "source": "space",
+            "date": "2025-02-09"
         }
     ]
 }
