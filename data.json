@@ -22,11 +22,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
-            "source": "aidy",
-            "date": "2025-02-08"
-        },
-        {
             "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
             "source": "supercluster",
             "date": "2025-02-08"
@@ -109,6 +104,11 @@
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
+            "source": "aidy",
             "date": "2025-02-09"
         }
     ]
