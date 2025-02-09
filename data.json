@@ -20,11 +20,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
             "data": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
             "source": "space",
             "date": "2025-02-09"
@@ -101,6 +96,11 @@
         },
         {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
             "date": "2025-02-09"
         }
