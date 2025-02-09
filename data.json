@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-09T18:40:27.602196+00:00",
-    "trigger_count": 5,
-    "current_item_id": "fb38ea2eaf57180cd3ff7627150d92c7",
+    "trigger_count": 6,
+    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
     "data": [
         {
             "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
@@ -195,6 +195,36 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-09T18:40:27.694589Z"
+        },
+        {
+            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch an International Crew to the ISS",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-25T16:00:00.000Z",
+            "time_remaining": "43d 21h 13m",
+            "fetched_datetime": "2025-02-09T18:46:21.335685Z"
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "shown": false,
+            "type": "launch",
+            "target_datetime": "2025-02-10T00:03:00.000Z",
+            "time_remaining": "0d 05h 16m",
+            "fetched_datetime": "2025-02-09T18:46:21.335715Z"
+        },
+        {
+            "id": "d5e65c04b6915a6e03e652e10d44bf2c",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch First Flight of New Glenn Rocket",
+            "shown": false,
+            "type": "launch",
+            "target_datetime": "2025-01-16T07:03:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-02-09T18:46:21.335726Z"
         }
     ]
 }
