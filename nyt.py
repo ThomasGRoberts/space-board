@@ -1,12 +1,14 @@
 from typing import List
 import requests
-from hashlib import sha256
-from datetime import datetime, timedelta
+from hashlib import sha256, md5
+from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET  # NOQA
 
 from logger import Logger
 
+SOURCE = 'nyt'
 NYT_RSS_FEED_URL = "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
+
 logging = Logger.setup_logger(__name__)
 
 # Example pubDate format: "Fri, 22 Sep 2023 09:13:12 +0000"
@@ -17,7 +19,7 @@ MAX_AGE_DAYS = 2
 cutoff_date = datetime.now().date() - timedelta(days=MAX_AGE_DAYS)
 
 def pull_from_nyt(already_pushed: List[str]) -> List[str]:
-    space_queue = []
+    res = []
     try:
         logging.info(f"Fetching feed from {NYT_RSS_FEED_URL}")
 
@@ -30,36 +32,41 @@ def pull_from_nyt(already_pushed: List[str]) -> List[str]:
 
         for item in items:
             title_elem = item.find('title')
-            guid_elem = item.find('guid')
             pubdate_elem = item.find('pubDate')
 
             # Check for missing required fields
-            if title_elem is None or guid_elem is None or pubdate_elem is None:
+            if title_elem is None or pubdate_elem is None:
                 continue
 
-            title = title_elem.text
-            item_guid = guid_elem.text
-            link_hash = sha256(item_guid.encode()).hexdigest()
-            created_at = datetime.strptime(pubdate_elem.text, date_format)
+            message = title_elem.text
 
+            created_at = datetime.strptime(pubdate_elem.text, date_format)
             if created_at.date() < cutoff_date:
                 continue
 
-            # Skip if this GUID is already seen
-            if link_hash in already_pushed:
-                logging.info(f"Skipping already processed item with GUID: {link_hash}")
+            id = md5((SOURCE + message).encode()).hexdigest()
+
+            if id in already_pushed:
+                logging.info(f"Skipping already processed item with id: {id}")
                 continue
 
             # Add new item
-            space_queue.append(title)
-            already_pushed.append(link_hash)
+            res.append({
+                "id": id,
+                "source": SOURCE,
+                "text": message,
+                "shown": False,
+                "type": "news",
+                "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+            })
+            already_pushed.append(id)
 
-        logging.info(f"Number of new posts added to the queue: {len(space_queue)}")
-        return space_queue
+        logging.info(f"Number of new posts added to the queue: {len(res)}")
+        return res
 
     except requests.exceptions.RequestException as req_err:
         logging.error(f"Request error: {req_err}")
     except Exception as e:
         logging.error(f"An error occurred: {e}")
 
-    return space_queue
+    return res

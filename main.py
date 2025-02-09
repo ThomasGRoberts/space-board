@@ -1,6 +1,8 @@
 import json
-from datetime import datetime, timedelta
-
+from datetime import datetime, timedelta, timezone
+import hashlib
+from utils import get_time_remaining
+import random 
 from dotenv import load_dotenv
 
 from aidy import pull_from_aidy
@@ -15,96 +17,146 @@ from vestaboard import push_to_vestaboard
 logging = Logger.setup_logger(__name__)
 
 load_dotenv()
+DB_PATH = 'data.json'
 
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
+def load_data():
+    logging.info('Loading data')
+    return json.load(open(DB_PATH))
 
-def create_persisted_data():
-    logging.info("Creating new persisted data for the current date.")
-    return {
-        "date": CURRENT_DATE,
-        "aidy_ids": [],
-        "aidy_queue": [],
-        "supercluster_ids": [],
-        "supercluster_queue": [],
-        "spacenews_ids": [],
-        "spacenews_queue": [],
-        "space_ids": [],
-        "space_queue": [],
-        "nyt_ids": [],
-        "nyt_queue": [],
-        f"old_updates": [],
+def save_data(db):
+    logging.info('Saving data')
+    with open(DB_PATH, 'w') as f:
+        json.dump(db, f, indent=4, ensure_ascii=False)
+    
+def migrate_to_v2(db):
+    logging.info("Migrating data to version 2")
+    if db.get("version") == "2":
+        return db
+
+    new_db = {
+        "version": "2",
+        "last_run_datetime": datetime.now(timezone.utc).isoformat(),
+        "data": [],
+        "trigger_count": 0
     }
 
+    for item in db.get("old_updates", []):
+        source = item.get("source", "").strip()
+        text = item.get("data", "").strip()
+        date = item.get("date", "").strip()
+        record = {
+            "id": hashlib.md5((source + text).encode()).hexdigest(),
+            "source": source,
+            "text": text,
+            "shown": True,
+            "type": "news",
+            "fetched_datetime": f"{date}T00:00:00.000Z" if date else ""
+        }
+        new_db["data"].append(record)
+    return new_db
 
-try:
-    logging.info("Loading persisted data from data.json.")
-    PERSISTED_DATA = json.load(open('./data.json'))
-except Exception as e:
-    logging.error(f"Failed to load persisted data: {e}. Creating new data.")
-    PERSISTED_DATA = create_persisted_data()
+def update_data(db):
+    logging.info('Updating data')
+    current_date = datetime.now(timezone.utc).date()
+    last_run_str = db.get("last_run_datetime")
+    if last_run_str:
+        last_run_date = datetime.fromisoformat(last_run_str.replace("Z", "+00:00")).date()
+        if last_run_date == current_date:
+            return db  # Already updated today
 
-if PERSISTED_DATA["date"] != CURRENT_DATE:
-    logging.info("Persisted data is from a previous date. Creating new data for today.")
-    old_updates = PERSISTED_DATA["old_updates"].copy()
-    old_updates = sorted(old_updates, key=lambda update: datetime.strptime(update["date"], "%Y-%m-%d"), reverse=True)[
-                  :min(11, len(old_updates))]
-    PERSISTED_DATA = create_persisted_data()
-    PERSISTED_DATA["old_updates"] = old_updates
+    sorted_items = sorted(
+        db.get("data", []),
+        key=lambda item: datetime.fromisoformat(item["fetched_datetime"].replace("Z", "+00:00")),
+        reverse=True
+    )
+
+    new_items = []
+    older_items_seen = 0
+    for item in sorted_items:
+        new_items.append(item)
+        fetched_date = datetime.fromisoformat(item["fetched_datetime"].replace("Z", "+00:00")).date()
+        if fetched_date != current_date:
+            older_items_seen += 1
+        if older_items_seen >= 11:
+            break
+
+    db["data"] = new_items
+    db["last_run_datetime"] = datetime.now(timezone.utc).isoformat()
+    return db
 
 SOURCES = {
-    "space": pull_from_space,
-    "aidy": pull_from_aidy,
+    # "space": pull_from_space,
+    # "aidy": pull_from_aidy,
     "supercluster": pull_from_supercluster,
-    "spacenews": pull_from_spacenews,
-    "nyt": pull_from_nyt
+    # "spacenews": pull_from_spacenews,
+    # "nyt": pull_from_nyt
 }
 
-def execute_steps():
-    logging.info("Executing steps to process queues and fetch new data.")
+def get_unseen_item_for_source(DB, source_name):
+    for item in DB.get("data", []):
+        if item.get("source") == source_name and not item.get("shown", False):
+            return item
+    return None
 
-    for source_name, fetch_function in SOURCES.items():
-        queue_key = f"{source_name}_queue"
-        ids_key = f"{source_name}_ids"
+def fetch_new_items(source, already_seen):
+    return SOURCES[source](already_seen)
 
-        # Ensure queue and IDs exist
-        if queue_key not in PERSISTED_DATA:
-            PERSISTED_DATA[queue_key] = []
-        if ids_key not in PERSISTED_DATA:
-            PERSISTED_DATA[ids_key] = []
+def get_current_item(db):
+    current_item_id = db.get("current_item_id")
+    if not current_item_id:
+        return None
+    return next((item for item in db.get("data", []) if item.get("id") == current_item_id), None)
 
-        # Push from queue if available
-        if PERSISTED_DATA[queue_key]:
-            logging.info(f"Pushing {source_name} data to Vestaboard.")
-            push_to_vestaboard(PERSISTED_DATA[queue_key][0], source=source_name,
-                               old_updates=PERSISTED_DATA["old_updates"])
-            PERSISTED_DATA[queue_key].pop(0)
+
+def execute(db):
+    logging.info("Executing steps to fetch new data and push to vestaboard.")
+
+    current_item = get_current_item(db)
+    db["trigger_count"] = db.get("trigger_count", 0) + 1
+
+    if db["trigger_count"] >= 15:
+        db["trigger_count"] = 0
+    elif current_item and current_item['type'] == 'launch':
+        current_item['time_remaining'] = get_time_remaining(current_item['target_datetime'])
+        push_to_vestaboard(current_item)
+        return
+
+    for source_name, _ in SOURCES.items():
+        item = get_unseen_item_for_source(db, source_name)
+        if item:
+            push_to_vestaboard(item)
+            db["current_item_id"] = item["id"]
             return
 
-        # Fetch new data if queue is empty
-        logging.info(f"Fetching {source_name} data.")
-        new_queue = fetch_function(already_pushed=PERSISTED_DATA[ids_key])
+        existing_ids = [itm["id"] for itm in db.get("data", []) if itm.get("source") == source_name]
+        new_items = fetch_new_items(source_name, existing_ids)
+        if not new_items:
+            continue
 
-        if new_queue:
-            logging.info(f"Fetched {len(new_queue)} {source_name} records.")
-            PERSISTED_DATA[queue_key] = new_queue
-            push_to_vestaboard(PERSISTED_DATA[queue_key][0], source=source_name,
-                               old_updates=PERSISTED_DATA["old_updates"])
-            PERSISTED_DATA[queue_key].pop(0)
+        db["data"].extend(new_items)
+        item = get_unseen_item_for_source(db, source_name)
+        if item:
+            push_to_vestaboard(item)
+            db["current_item_id"] = item["id"]
             return
 
-    if len(PERSISTED_DATA["old_updates"]) > 0:
-        push_to_vestaboard(PERSISTED_DATA["old_updates"][0]["data"], source=PERSISTED_DATA["old_updates"][0]["source"],
-                           old_updates=PERSISTED_DATA["old_updates"])
-        logging.info(f'Pushed old data: {PERSISTED_DATA["old_updates"][0]["data"]}')
-        PERSISTED_DATA["old_updates"].pop(0)
+    if db.get("data"):
+        item = random.choice(db["data"])
+        logging.info(f"Pushing random item: {item.get('text', '')}")
+        push_to_vestaboard(item)
+        db["current_item_id"] = item["id"]
 
+def main():
+    DB = load_data()
+    DB = migrate_to_v2(DB)
+    DB = update_data(DB)
+    
+    execute(DB)
+    
+    DB = save_data(DB)
 
-if __name__ == "__main__":
-    logging.info("Starting execution.")
-    execute_steps()
-    logging.info("Saving updated persisted data to data.json.")
-    with open('./data.json', 'w') as f:
-        json.dump(PERSISTED_DATA, f, indent=4, ensure_ascii=False)
-    logging.info("Execution completed.")
+if __name__ == '__main__':
+    main()

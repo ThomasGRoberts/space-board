@@ -58,49 +58,7 @@ def format_message_for_grid(content, line_lengths, max_lines=5):
 
     return lines
 
-
-def format_twitter_message(message):
-    logging.info("Formatting Twitter message.")
-    content = " ".join(format_message_for_grid('"' + message["content"], line_lengths=[22, 22, 22, 22, 21])) + '"'
-    author = message["user"]
-    if len(author) > 22:
-        author = author[:22 - 3] + "..."
-    return {
-        "components": [
-            {
-                "style": {
-                    "justify": "center",
-                    "align": "center",
-                    "width": 22,
-                    "height": 5
-                },
-                "template": f"{content}"
-            },
-            {
-                "style": {
-                    "align": "bottom",
-                    "justify": "right",
-                    "width": 20,
-                    "height": 1
-                },
-                "template": f"@{author}"
-            },
-            {
-                "style": {
-                    "width": 1,
-                    "height": 1,
-                    "absolutePosition": {
-                        "x": 21,
-                        "y": 5
-                    },
-                },
-                "template": "{67}"
-            }
-        ]
-    }
-
-
-def format_rest_message(message, color):
+def format_rest_message(message, color, time_remaining=''):
     logging.info("Formatting message with color.")
     content = " ".join(format_message_for_grid(message, line_lengths=[22, 22, 22, 22, 22, 20], max_lines=6))
 
@@ -114,6 +72,17 @@ def format_rest_message(message, color):
                     "height": 6
                 },
                 "template": f"{content}"
+            },
+            {
+                "style": {
+                    "width": 12,
+                    "height": 1,
+                    "absolutePosition": {
+                        "x": 6,
+                        "y": 5
+                    },
+                },
+                "template": f"{time_remaining}"
             },
             {
                 "style": {
@@ -185,27 +154,21 @@ def create_vestaboard_message(title):
     return message_layout
 
 
-def push_to_vestaboard(message, source: str, old_updates):
-    logging.info(f"Pushing message to Vestaboard from source: {source}")
-    # from main import PERSISTED_DATA
+def push_to_vestaboard(item):
+    logging.info(f"Pushing message to Vestaboard from source: {item['source']}")
     try:
-        if source == "twitter":
-            vba_data = format_twitter_message(message=message)
-        elif source == "aidy":
-            vba_data = format_rest_message(message=message, color=64)
-        elif source == "supercluster":
-            vba_data = format_rest_message(message=message, color=65)
-        elif source == "spacenews":
-            vba_data = format_rest_message(message=message, color=63)
-        elif source == "space":
-            vba_data = format_rest_message(message=message, color=67)
-        elif source == "nyt":
-            vba_data = format_rest_message(message=message, color=69)
-        elif source == "error":
-            vba_data = format_rest_message(message=message, color=68)
-
-        if source != "error":
-            old_updates.append({"data": message, "source": source, "date": CURRENT_DATE})
+        if item["source"] == "aidy":
+            vba_data = format_rest_message(message=item["text"], color=64)
+        elif item["source"] == "supercluster":
+            vba_data = format_rest_message(message=item["text"], color=65, time_remaining=item["time_remaining"])
+        elif item["source"] == "spacenews":
+            vba_data = format_rest_message(message=item["text"], color=63)
+        elif item["source"] == "space":
+            vba_data = format_rest_message(message=item["text"], color=67)
+        elif item["source"] == "nyt":
+            vba_data = format_rest_message(message=item["text"], color=69)
+        elif item["source"] == "error":
+            vba_data = format_rest_message(message=item["text"], color=68)
 
         logging.info(f"Formatted message for Vestaboard: {json.dumps(vba_data)}")
 
@@ -216,6 +179,8 @@ def push_to_vestaboard(message, source: str, old_updates):
         vestaboard_response = requests.post('https://rw.vestaboard.com/', headers=headers, json=layout_response.json())
         # vestaboard_response.raise_for_status()
         logging.info(f"Message pushed to Vestaboard successfully: {vestaboard_response.text}")
+
+        item["shown"] = True
 
     except requests.exceptions.RequestException as req_err:
         logging.error(f"Request error while pushing to Vestaboard: {req_err}")
