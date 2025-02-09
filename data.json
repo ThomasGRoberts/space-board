@@ -20,11 +20,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
             "data": "Boeing warns SLS employees of potential layoffs",
             "source": "spacenews",
             "date": "2025-02-09"
@@ -101,6 +96,11 @@
         },
         {
             "data": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
             "source": "space",
             "date": "2025-02-09"
         }
