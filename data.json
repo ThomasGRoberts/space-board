@@ -18,11 +18,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
-            "source": "spacenews",
-            "date": "2025-02-09"
-        },
-        {
             "data": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
             "source": "space",
             "date": "2025-02-09"
@@ -90,6 +85,11 @@
         {
             "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill",
+            "source": "spacenews",
             "date": "2025-02-09"
         }
     ]
