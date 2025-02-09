@@ -21,6 +21,7 @@ DB_PATH = 'data.json'
 
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+MESSAGE_CHANGE_FREQUENCY = 15
 
 def load_data():
     logging.info('Loading data')
@@ -117,7 +118,7 @@ def execute(db):
     current_item = get_current_item(db)
     db["trigger_count"] = db.get("trigger_count", 0) + 1
 
-    if db["trigger_count"] >= 15:
+    if db["trigger_count"] >= MESSAGE_CHANGE_FREQUENCY:
         db["trigger_count"] = 0
     elif current_item and current_item['type'] == 'launch':
         current_item['time_remaining'] = get_time_remaining(current_item['target_datetime'])
