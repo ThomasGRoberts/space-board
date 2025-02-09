@@ -23,11 +23,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source": "supercluster",
-            "date": "2025-02-08"
-        },
-        {
             "data": " See Mars next to a nearly full moon in the sky tonight ",
             "source": "space",
             "date": "2025-02-09"
@@ -115,6 +110,11 @@
         {
             "data": " Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas ",
             "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source": "supercluster",
             "date": "2025-02-09"
         }
     ]
