@@ -22,11 +22,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "source": "supercluster",
-            "date": "2025-02-08"
-        },
-        {
             "data": "SpaceX Will Launch Starlink Satellites from Florida",
             "source": "supercluster",
             "date": "2025-02-08"
@@ -109,6 +104,11 @@
         {
             "data": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
             "source": "aidy",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source": "supercluster",
             "date": "2025-02-09"
         }
     ]
