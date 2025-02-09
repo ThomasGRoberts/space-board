@@ -23,21 +23,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
-            "data": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
-            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
             "data": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
             "source": "aidy",
             "date": "2025-02-09"
@@ -114,6 +99,21 @@
         },
         {
             "data": " Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " SpaceX launching 21 Starlink satellites from Florida today ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " Eclipse at sea: Best cruises for the total solar eclipse 2026 ",
             "source": "space",
             "date": "2025-02-09"
         }
