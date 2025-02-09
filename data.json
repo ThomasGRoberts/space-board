@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-09T18:40:27.602196+00:00",
-    "trigger_count": 1,
-    "current_item_id": "2b906593e0af90a5f07f717a7c3ab498",
+    "trigger_count": 2,
+    "current_item_id": "9163be54fabb2a605d6c798df249a8b9",
     "data": [
         {
             "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
@@ -168,7 +168,7 @@
             "id": "9163be54fabb2a605d6c798df249a8b9",
             "source": "space",
             "text": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-09T18:40:27.694515Z"
         },
