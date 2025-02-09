@@ -162,13 +162,13 @@
             "id": "d5e65c04b6915a6e03e652e10d44bf2c",
             "source": "supercluster",
             "text": "Blue Origin Will Launch First Flight of New Glenn Rocket",
-            "shown": false,
+            "shown": true,
             "type": "launch",
             "target_datetime": "2025-01-16T07:03:00.000Z",
             "time_remaining": "",
             "fetched_datetime": "2025-02-09T16:04:26.956530Z"
         }
     ],
-    "trigger_count": 14,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1"
+    "trigger_count": 0,
+    "current_item_id": "d5e65c04b6915a6e03e652e10d44bf2c"
 }
