@@ -145,7 +145,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-03-25T16:00:00.000Z",
-            "time_remaining": "43d 23h 46m",
+            "time_remaining": "43d 23h 45m",
             "fetched_datetime": "2025-02-09T16:04:26.956503Z"
         },
         {
@@ -169,6 +169,6 @@
             "fetched_datetime": "2025-02-09T16:04:26.956530Z"
         }
     ],
-    "trigger_count": 13,
+    "trigger_count": 14,
     "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c"
 }
