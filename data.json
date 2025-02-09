@@ -15,11 +15,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
-            "source": "nyt",
-            "date": "2025-02-09"
-        },
-        {
             "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
             "source": "spacenews",
             "date": "2025-02-09"
@@ -76,6 +71,11 @@
         },
         {
             "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "source": "nyt",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
             "source": "nyt",
             "date": "2025-02-09"
         }
