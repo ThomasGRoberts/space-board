@@ -12,8 +12,13 @@
         "fEWS5KTjgTNoXwpApRijCV"
     ],
     "space_queue": [],
-    "nyt_ids": [],
-    "nyt_queue": [],
+    "nyt_ids": [
+        "bd25f4296cfd0a98245b19a57d2335c8217be792236de427d12bc83592e58019",
+        "526de32551e6e07de329cf30235f25707cdac37e6340e1f5684fc64215cdc90f"
+    ],
+    "nyt_queue": [
+        "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)"
+    ],
     "old_updates": [
         {
             "data": " NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station ",
@@ -78,6 +83,11 @@
         {
             "data": "IRONDOME Act Introduced: $19.548B for Missile Defense, Key Artemis Program Updates",
             "source": "aidy",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "source": "nyt",
             "date": "2025-02-09"
         }
     ]
