@@ -18,11 +18,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "Boeing warns SLS employees of potential layoffs",
-            "source": "spacenews",
-            "date": "2025-02-09"
-        },
-        {
             "data": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
             "source": "nyt",
             "date": "2025-02-09"
@@ -90,6 +85,11 @@
         {
             "data": " SpaceX launching 21 Starlink satellites from Florida today ",
             "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "Boeing warns SLS employees of potential layoffs",
+            "source": "spacenews",
             "date": "2025-02-09"
         }
     ]
