@@ -12,7 +12,8 @@
         "fEWS5KTjgTNoXwpApRijCV",
         "8yJiMvZnKce2yEVi76Gwxg",
         "yEwzAWcogcrmy4ZWHwQNuT",
-        "qGNJ36mHVt8fwXNrkQ6CUn"
+        "qGNJ36mHVt8fwXNrkQ6CUn",
+        "KBSiycoGkhMt49SEY9BXkE"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -109,6 +110,11 @@
         {
             "data": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
             "source": "supercluster",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas ",
+            "source": "space",
             "date": "2025-02-09"
         }
     ]
