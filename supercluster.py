@@ -1,10 +1,11 @@
-from typing import List
-import requests
 import os
-from datetime import datetime, timezone
+import requests
+from typing import List
 from hashlib import md5
 from logger import Logger
 from dotenv import load_dotenv
+from datetime import datetime, timezone
+
 from utils import get_time_remaining
 
 load_dotenv()

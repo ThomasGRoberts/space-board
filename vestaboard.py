@@ -1,10 +1,8 @@
-import json
 import os
+import json
 import logging
-from datetime import datetime
-
 import requests
-# from main import PERSISTED_DATA
+from datetime import datetime
 
 # Set up logging
 logging.basicConfig(
@@ -17,6 +15,7 @@ VESTABOARD_API_URL = os.getenv('VESTABOARD_API_URL')
 headers = {
     'X-Vestaboard-Read-Write-Key': os.getenv('VESTABOARD_API_KEY')
 }
+print(headers)
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 
 # Character mapping for Vestaboard

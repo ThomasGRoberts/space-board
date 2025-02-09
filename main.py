@@ -1,27 +1,36 @@
 import json
-from datetime import datetime, timedelta, timezone
-import hashlib
-from utils import get_time_remaining
 import random 
-from dotenv import load_dotenv
-
-from aidy import pull_from_aidy
+import hashlib
 from logger import Logger
+from dotenv import load_dotenv
+from datetime import datetime, timedelta, timezone
+
+from nyt import pull_from_nyt
+from aidy import pull_from_aidy
 from space import pull_from_space
 from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
-from nyt import pull_from_nyt
 from vestaboard import push_to_vestaboard
+
+from utils import get_time_remaining
 
 # Set up logging
 logging = Logger.setup_logger(__name__)
 
 load_dotenv()
-DB_PATH = 'data.json'
 
+DB_PATH = 'data.json'
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 MESSAGE_CHANGE_FREQUENCY = 15
+
+SOURCES = {
+    "space": pull_from_space,
+    "aidy": pull_from_aidy,
+    "supercluster": pull_from_supercluster,
+    "spacenews": pull_from_spacenews,
+    "nyt": pull_from_nyt
+}
 
 def load_data():
     logging.info('Loading data')
@@ -33,15 +42,18 @@ def save_data(db):
         json.dump(db, f, indent=4, ensure_ascii=False)
     
 def migrate_to_v2(db):
-    logging.info("Migrating data to version 2")
+    '''Once migrated, this function can be removed'''
     if db.get("version") == "2":
         return db
+
+    logging.info("Migrating data to version 2")
 
     new_db = {
         "version": "2",
         "last_run_datetime": datetime.now(timezone.utc).isoformat(),
+        "trigger_count": 0,
+        "current_item_id": "",
         "data": [],
-        "trigger_count": 0
     }
 
     for item in db.get("old_updates", []):
@@ -60,6 +72,7 @@ def migrate_to_v2(db):
     return new_db
 
 def update_data(db):
+    '''Once everyday remove old data, keep only max 11 from previous days'''
     logging.info('Updating data')
     current_date = datetime.now(timezone.utc).date()
     last_run_str = db.get("last_run_datetime")
@@ -88,24 +101,19 @@ def update_data(db):
     db["last_run_datetime"] = datetime.now(timezone.utc).isoformat()
     return db
 
-SOURCES = {
-    # "space": pull_from_space,
-    # "aidy": pull_from_aidy,
-    "supercluster": pull_from_supercluster,
-    # "spacenews": pull_from_spacenews,
-    # "nyt": pull_from_nyt
-}
-
 def get_unseen_item_for_source(DB, source_name):
+    '''Get and item that has not been shown on the board yet'''
     for item in DB.get("data", []):
         if item.get("source") == source_name and not item.get("shown", False):
             return item
     return None
 
 def fetch_new_items(source, already_seen):
+    '''Fetch new items from source'''
     return SOURCES[source](already_seen)
 
 def get_current_item(db):
+    '''Get the current item shown on the board'''
     current_item_id = db.get("current_item_id")
     if not current_item_id:
         return None
@@ -151,13 +159,11 @@ def execute(db):
         db["current_item_id"] = item["id"]
 
 def main():
-    DB = load_data()
-    DB = migrate_to_v2(DB)
-    DB = update_data(DB)
-    
-    execute(DB)
-    
-    DB = save_data(DB)
+    db = load_data()
+    db = migrate_to_v2(db)
+    db = update_data(db)
+    execute(db)    
+    db = save_data(db)
 
 if __name__ == '__main__':
     main()

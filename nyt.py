@@ -1,6 +1,6 @@
-from typing import List
 import requests
-from hashlib import sha256, md5
+from hashlib import md5
+from typing import List
 from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET  # NOQA
 

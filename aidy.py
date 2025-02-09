@@ -1,12 +1,10 @@
 import os
-from datetime import datetime, timezone
+import requests
 from hashlib import md5
 from typing import List
-
-from dotenv import load_dotenv
-import requests
-
 from logger import Logger
+from dotenv import load_dotenv
+from datetime import datetime, timezone
 
 load_dotenv()
 
