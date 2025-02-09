@@ -11,7 +11,8 @@
     "space_ids": [
         "fEWS5KTjgTNoXwpApRijCV",
         "8yJiMvZnKce2yEVi76Gwxg",
-        "yEwzAWcogcrmy4ZWHwQNuT"
+        "yEwzAWcogcrmy4ZWHwQNuT",
+        "qGNJ36mHVt8fwXNrkQ6CUn"
     ],
     "space_queue": [],
     "nyt_ids": [
@@ -102,6 +103,11 @@
         },
         {
             "data": " SpaceX launching 21 Starlink satellites from Florida today ",
+            "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
             "source": "space",
             "date": "2025-02-09"
         }
