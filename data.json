@@ -5,25 +5,9 @@
     "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
     "data": [
         {
-            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
             "id": "d3d31db9c18c897fd31cf7a68d8d1c8f",
             "source": "space",
             "text": "Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-09T00:00:00.000Z"
