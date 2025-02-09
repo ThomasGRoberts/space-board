@@ -19,8 +19,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          ref: feat/supercluster-countdown
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -46,7 +44,6 @@ jobs:
           TWITTER_USERS: ${{ secrets.TWITTER_USERS }}
           SANITY_API_URL: ${{ secrets.SANITY_API_URL }}
           VESTABOARD_API_KEY: ${{ secrets.VESTABOARD_API_KEY }}
-#          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
 
       - name: Persist Data
         uses: stefanzweifel/git-auto-commit-action@v5
