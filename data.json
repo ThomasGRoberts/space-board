@@ -20,11 +20,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
-            "source": "nyt",
-            "date": "2025-02-09"
-        },
-        {
             "data": " See Mars next to a nearly full moon in the sky tonight ",
             "source": "space",
             "date": "2025-02-09"
@@ -102,6 +97,11 @@
         {
             "data": "Chinese constellation operator Spacesail signs agreement with Measat of Malaysia",
             "source": "spacenews",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
+            "source": "nyt",
             "date": "2025-02-09"
         }
     ]
