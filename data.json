@@ -1,6 +1,8 @@
 {
     "date": "2025-02-09",
-    "aidy_ids": [],
+    "aidy_ids": [
+        "d785dd21c9799c9b51e1aa1d7995c9cea66afcb3d4912247a40707456ca0c9bf"
+    ],
     "aidy_queue": [],
     "supercluster_ids": [],
     "supercluster_queue": [],
@@ -71,6 +73,11 @@
         {
             "data": " See Mars next to a nearly full moon in the sky tonight ",
             "source": "space",
+            "date": "2025-02-09"
+        },
+        {
+            "data": "IRONDOME Act Introduced: $19.548B for Missile Defense, Key Artemis Program Updates",
+            "source": "aidy",
             "date": "2025-02-09"
         }
     ]
