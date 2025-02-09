@@ -1,24 +1,22 @@
 import os
-from datetime import datetime
-from hashlib import sha256
-from typing import List
-
-from dotenv import load_dotenv
 import requests
-
+from hashlib import md5
+from typing import List
 from logger import Logger
+from dotenv import load_dotenv
+from datetime import datetime, timezone
 
 load_dotenv()
 
 # Set up logging
 logging = Logger.setup_logger(__name__)
 
+SOURCE = 'aidy'
 AIDY_API_URL = os.environ.get('AIDY_API_URL') + "/api/topics/summarizer"
 AIDY_TOPICS = os.environ.get('AIDY_TOPICS').split(",")
 
-
 def pull_from_aidy(already_pushed: list[str]) -> List[str]:
-    aidy_queue = []
+    res = []
 
     try:
         for topic in AIDY_TOPICS:
@@ -27,15 +25,28 @@ def pull_from_aidy(already_pushed: list[str]) -> List[str]:
             response = requests.get(f"{AIDY_API_URL}/{topic}")
             response.raise_for_status()  # Will raise HTTPError if the status code is 4xx, 5xx
             response = response.json()
-            summary = response["current_summary"]
-            created_id = sha256(response["current_summary"].encode()).hexdigest()
-            if created_id in already_pushed:
-                logging.info(f"Already pushed {created_id}")
+            message = response["current_summary"]
+
+            id = md5((SOURCE + message).encode()).hexdigest()
+
+            if id in already_pushed:
+                logging.info(f"Skipping already processed item with id: {id}")
                 continue
+
+            # Add new item
+            res.append({
+                "id": id,
+                "source": SOURCE,
+                "text": message,
+                "shown": False,
+                "type": "news",
+                "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+            })
+            already_pushed.append(id)
+
             logging.info("Successfully retrieved response from AIDY API.")
-            aidy_queue.append(summary)
-            already_pushed.append(created_id)
-        return aidy_queue
+
+        return res
 
     except requests.exceptions.RequestException as req_err:
         logging.error(f"Request error: {req_err}")
@@ -44,4 +55,4 @@ def pull_from_aidy(already_pushed: list[str]) -> List[str]:
         logging.error(f"An error occurred: {str(e)}")
         # raise e
 
-    return aidy_queue
+    return res

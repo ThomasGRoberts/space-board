@@ -1,12 +1,14 @@
 from typing import List
 import requests
-from datetime import datetime
+from hashlib import md5
+from datetime import datetime, timezone
 import xml.etree.ElementTree as ET  # NOQA
 
 from logger import Logger
 
 
 # URL of the SpaceNews RSS feed
+SOURCE = 'spacenews'
 RSS_FEED_URL = "https://spacenews.com/feed/"
 
 logging = Logger.setup_logger(__name__)
@@ -16,7 +18,7 @@ date_format = "%a, %d %b %Y %H:%M:%S %z"
 
 
 def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
-    spacenews_queue = []
+    res = []
     try:
 
         logging.info(f"Fetching SpaceNews RSS feed from {RSS_FEED_URL}")
@@ -31,28 +33,36 @@ def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
         root = ET.fromstring(response.content)
         spacenews_items = root.findall('.//item')
 
-        namespaces = {'wp': 'com-wordpress:feed-additions:1'}
-
         # Process each item in the feed
         for spacenews_item in spacenews_items:
-            title = spacenews_item.find('./title').text
-            post_id = int(spacenews_item.find('./wp:post-id', namespaces).text)
+            message = spacenews_item.find('./title').text
             created_at = datetime.strptime(spacenews_item.find('./pubDate').text, date_format)
             if created_at.date() != datetime.now(created_at.tzinfo).date():
                 continue
-                # pass
-            if post_id in already_pushed:
-                logging.info(f"Skipping already processed post with ID: {post_id}")
-                continue
-            spacenews_queue.append(title)
-            already_pushed.append(post_id)
 
-        logging.info(f"Number of new posts added to the queue: {len(spacenews_queue)}")
-        return spacenews_queue
+            id = md5((SOURCE + message).encode()).hexdigest()
+
+            if id in already_pushed:
+                logging.info(f"Skipping already processed item with id: {id}")
+                continue
+
+            # Add new item
+            res.append({
+                "id": id,
+                "source": SOURCE,
+                "text": message,
+                "shown": False,
+                "type": "news",
+                "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+            })
+            already_pushed.append(id)
+
+        logging.info(f"Number of new posts added to the queue: {len(res)}")
+        return res
 
     except requests.exceptions.RequestException as req_err:
         logging.error(f"Request error: {req_err}")
     except Exception as e:
         logging.error(f"An error occurred: {e}")
 
-    return spacenews_queue
+    return res
