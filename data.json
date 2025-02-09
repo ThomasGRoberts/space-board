@@ -17,11 +17,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " See Mars next to a nearly full moon in the sky tonight ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
             "data": " Odds of an asteroid impact in 2032 just went up. Here's why experts say you shouldn't worry ",
             "source": "space",
             "date": "2025-02-09"
@@ -84,6 +79,11 @@
         {
             "data": "NASA’s VIPER Gave Up a Ride to the Moon. This Startup’s Rover Took It.",
             "source": "nyt",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " See Mars next to a nearly full moon in the sky tonight ",
+            "source": "space",
             "date": "2025-02-09"
         }
     ]
