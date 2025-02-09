@@ -23,11 +23,6 @@
     "nyt_queue": [],
     "old_updates": [
         {
-            "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
-            "source": "space",
-            "date": "2025-02-09"
-        },
-        {
             "data": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
             "source": "space",
             "date": "2025-02-09"
@@ -115,6 +110,11 @@
         {
             "data": "Does government still fit into space?",
             "source": "spacenews",
+            "date": "2025-02-09"
+        },
+        {
+            "data": " Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system ",
+            "source": "space",
             "date": "2025-02-09"
         }
     ]
