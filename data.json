@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 14,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 0,
+    "current_item_id": "2cad254aa25562ee9ba973ce8f08cc1c",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -97,6 +97,30 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-09T00:00:00.000Z"
+        },
+        {
+            "id": "2cad254aa25562ee9ba973ce8f08cc1c",
+            "source": "space",
+            "text": " Live-action 'Gundam' movie enters full production as Bandai drops Netflix to partner with Legendary Pictures ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:10:31.389662Z"
+        },
+        {
+            "id": "4fdd38e1c898cfbd237ec3a30ccc82be",
+            "source": "space",
+            "text": " Who is Janet Petro, Trump's pick for acting NASA administrator? ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:10:31.389713Z"
+        },
+        {
+            "id": "85bb694f86539af714e1eaee6d58be3e",
+            "source": "space",
+            "text": " Crater-diving hopper 'Gracie' will launch to the moon aboard private Athena lander this month ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:10:31.389742Z"
         }
     ]
 }
