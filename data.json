@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 2,
-    "current_item_id": "6d693c360143536949b29e2eee135216",
+    "trigger_count": 3,
+    "current_item_id": "08d4047bac37be36ee41a9873f06742b",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -205,6 +205,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T19:02:06.325366Z"
+        },
+        {
+            "id": "08d4047bac37be36ee41a9873f06742b",
+            "source": "spacenews",
+            "text": "NASA to roll out major update to core flight software",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T20:59:07.546930Z"
         }
     ]
 }
