@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 14,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 0,
+    "current_item_id": "5c857388486e69c9667da9602784106b",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -145,6 +145,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T12:15:31.487321Z"
+        },
+        {
+            "id": "5c857388486e69c9667da9602784106b",
+            "source": "space",
+            "text": " Students' contest-winning pen, paint and poetry works shown aboard International Space Station ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T14:10:27.942800Z"
         }
     ]
 }
