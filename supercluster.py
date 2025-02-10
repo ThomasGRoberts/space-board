@@ -41,7 +41,7 @@ def get_header_message_from_website() -> Optional[str]:
         driver.get("https://www.supercluster.com/")
         try:
             WebDriverWait(driver, 30).until(
-                lambda d: "Calculating" not in d.find_element(By.CSS_SELECTOR, "div.launch__next").text.lower()
+                lambda d: "calculating" not in d.find_element(By.CSS_SELECTOR, "div.launch__next").text.lower()
             )
         except Exception as e:
             logging.warning("Waiting for header update timed out or encountered an error: %s", e)
