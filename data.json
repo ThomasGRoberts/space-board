@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T10:38:34.595047+00:00",
-    "trigger_count": 0,
-    "current_item_id": "4fdd38e1c898cfbd237ec3a30ccc82be",
+    "trigger_count": 1,
+    "current_item_id": "2cad254aa25562ee9ba973ce8f08cc1c",
     "data": [
         {
             "id": "fb38ea2eaf57180cd3ff7627150d92c7",
@@ -117,6 +117,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T12:00:25.882606Z"
+        },
+        {
+            "id": "2cad254aa25562ee9ba973ce8f08cc1c",
+            "source": "space",
+            "text": " Live-action 'Gundam' movie enters full production as Bandai drops Netflix to partner with Legendary Pictures ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:02:06.228380Z"
         }
     ]
 }
