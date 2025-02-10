@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4fdd38e1c898cfbd237ec3a30ccc82be",
+    "trigger_count": 0,
+    "current_item_id": "089363e0c1ea71f0301e98c1e4d6e497",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -181,6 +181,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T17:01:59.783218Z"
+        },
+        {
+            "id": "089363e0c1ea71f0301e98c1e4d6e497",
+            "source": "space",
+            "text": " AI can now replicate itself — a milestone that has experts terrified ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T18:02:00.245947Z"
         }
     ]
 }
