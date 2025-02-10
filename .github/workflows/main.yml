@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          ref: feat/supercluster-launch-update
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -30,6 +32,12 @@ jobs:
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install Chromium and ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-chromedriver
+          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
 
       - name: Install dependencies
         run: pip install -r requirements.txt
