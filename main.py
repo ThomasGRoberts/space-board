@@ -20,7 +20,7 @@ load_dotenv()
 DB_PATH = 'data.json'
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-MESSAGE_CHANGE_FREQUENCY = 15
+MESSAGE_CHANGE_FREQUENCY = 7
 
 SOURCES = {
     "space": pull_from_space,
