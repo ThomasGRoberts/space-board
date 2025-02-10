@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "88726df5b0d24c5513e77a2c31e491d8",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -165,6 +165,14 @@
             "target_datetime": "2025-02-10T23:46:00.000Z",
             "time_remaining": "0d 06h 58m",
             "fetched_datetime": "2025-02-10T16:35:39.646263Z"
+        },
+        {
+            "id": "88726df5b0d24c5513e77a2c31e491d8",
+            "source": "spacenews",
+            "text": "MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T16:49:46.235082Z"
         }
     ]
 }
