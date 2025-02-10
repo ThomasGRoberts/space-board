@@ -25,7 +25,7 @@ def get_header_message_from_website() -> Optional[str]:
     opts.add_argument("--headless")
     opts.add_argument("--no-sandbox")
     opts.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver", options=opts)
+    driver = webdriver.Chrome(executable_path="/usr/lib/chromium-browser/chromedriver", options=opts)
 
     try:
         driver.get("https://www.supercluster.com/")
