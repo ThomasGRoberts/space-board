@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b906593e0af90a5f07f717a7c3ab498",
+    "trigger_count": 0,
+    "current_item_id": "9dc61b2830f9a751e8f13eda9feb7391",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -221,6 +221,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T21:01:55.357326Z"
+        },
+        {
+            "id": "9dc61b2830f9a751e8f13eda9feb7391",
+            "source": "spacenews",
+            "text": "BlackSky to launch next-gen imaging satellite as it seeks market edge",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T21:35:35.790927Z"
         }
     ]
 }
