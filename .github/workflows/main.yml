@@ -37,8 +37,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-chromedriver
-          sudo ln -sf /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
-
+          if [ "$(readlink -f /usr/bin/chromedriver)" != "/usr/lib/chromium-browser/chromedriver" ]; then
+            sudo ln -sf /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
+          else
+            echo "Chromedriver symlink is already correct."
+          fi
 
       - name: Install dependencies
         run: pip install -r requirements.txt
