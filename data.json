@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 14,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 0,
+    "current_item_id": "48e9296669de9b9ea4856a4a71b39169",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -161,6 +161,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T14:11:20.151435Z"
+        },
+        {
+            "id": "48e9296669de9b9ea4856a4a71b39169",
+            "source": "spacenews",
+            "text": "The efforts bridging space sustainability, from best intentions to real-world actions",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T14:40:34.785764Z"
         }
     ]
 }
