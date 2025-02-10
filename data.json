@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T10:38:34.595047+00:00",
-    "trigger_count": 14,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "4fdd38e1c898cfbd237ec3a30ccc82be",
     "data": [
         {
             "id": "fb38ea2eaf57180cd3ff7627150d92c7",
@@ -109,6 +109,14 @@
             "target_datetime": "2025-02-10T23:46:00.000Z",
             "time_remaining": "0d 11h 47m",
             "fetched_datetime": "2025-02-10T11:43:22.046621Z"
+        },
+        {
+            "id": "4fdd38e1c898cfbd237ec3a30ccc82be",
+            "source": "space",
+            "text": " Who is Janet Petro, Trump's pick for acting NASA administrator? ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:00:25.882606Z"
         }
     ]
 }
