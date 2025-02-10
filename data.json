@@ -1,9 +1,47 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-10T10:38:34.595047+00:00",
-    "trigger_count": 2,
-    "current_item_id": "d3d31db9c18c897fd31cf7a68d8d1c8f",
+    "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
+    "trigger_count": 8,
+    "current_item_id": "d5e65c04b6915a6e03e652e10d44bf2c",
     "data": [
+        {
+            "id": "87729baec66fd833ee1620d88213e5fd",
+            "source": "spacenews",
+            "text": "NASA to continue using Artemis crew transport vans from bankrupt manufacturer",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T21:10:30.900669Z"
+        },
+        {
+            "id": "d5e65c04b6915a6e03e652e10d44bf2c",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch First Flight of New Glenn Rocket",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-01-16T07:03:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-02-09T18:46:21.335726Z"
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-10T00:03:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-02-09T18:46:21.335715Z"
+        },
+        {
+            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch an International Crew to the ISS",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-25T16:00:00.000Z",
+            "time_remaining": "43d 01h 20m",
+            "fetched_datetime": "2025-02-09T18:46:21.335685Z"
+        },
         {
             "id": "fb38ea2eaf57180cd3ff7627150d92c7",
             "source": "space",
@@ -61,54 +99,12 @@
             "fetched_datetime": "2025-02-09T00:00:00.000Z"
         },
         {
-            "id": "e4edd6c07c9ae45cbebadddfd31f5f72",
-            "source": "aidy",
-            "text": "IRONDOME Act Introduced: $19.548B for Missile Defense, Key Artemis Program Updates",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "9f0007a2b88d7134871879165c7d96b1",
-            "source": "nyt",
-            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "0e6b99cd6ff84cc26bd64c5a2dc04525",
-            "source": "nyt",
-            "text": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "ceba6619a1d88654ed63f8665d326692",
+            "id": "2cad254aa25562ee9ba973ce8f08cc1c",
             "source": "space",
-            "text": "NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station",
+            "text": " Live-action 'Gundam' movie enters full production as Bandai drops Netflix to partner with Legendary Pictures ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "85bb694f86539af714e1eaee6d58be3e",
-            "source": "space",
-            "text": " Crater-diving hopper 'Gracie' will launch to the moon aboard private Athena lander this month ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T10:38:34.783560Z"
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-10T23:46:00.000Z",
-            "time_remaining": "0d 08h 48m",
-            "fetched_datetime": "2025-02-10T11:43:22.046621Z"
+            "fetched_datetime": "2025-02-10T12:10:31.389662Z"
         },
         {
             "id": "4fdd38e1c898cfbd237ec3a30ccc82be",
@@ -116,15 +112,23 @@
             "text": " Who is Janet Petro, Trump's pick for acting NASA administrator? ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T12:00:25.882606Z"
+            "fetched_datetime": "2025-02-10T12:10:31.389713Z"
         },
         {
-            "id": "2cad254aa25562ee9ba973ce8f08cc1c",
+            "id": "85bb694f86539af714e1eaee6d58be3e",
             "source": "space",
-            "text": " Live-action 'Gundam' movie enters full production as Bandai drops Netflix to partner with Legendary Pictures ",
+            "text": " Crater-diving hopper 'Gracie' will launch to the moon aboard private Athena lander this month ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T12:02:06.228380Z"
+            "fetched_datetime": "2025-02-10T12:10:31.389742Z"
+        },
+        {
+            "id": "34d4c6e3236e4e6dd89d74938c55ada6",
+            "source": "aidy",
+            "text": "U.S. Senate Proposes Space-Enabled \"Iron Dome\" Initiative for FY2026 Defense Strategy.",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T12:13:21.463781Z"
         },
         {
             "id": "3f91f5df9df0cd1a6120f75d8bf7e6f3",
@@ -132,15 +136,15 @@
             "text": "Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T12:30:41.363595Z"
+            "fetched_datetime": "2025-02-10T12:14:23.684193Z"
         },
         {
-            "id": "5105de3b35ee66d2c31e7013c76e4b42",
-            "source": "spacenews",
-            "text": "The merger between satellite and cellular industries: not (yet) a marriage made in heaven?",
+            "id": "0e6b99cd6ff84cc26bd64c5a2dc04525",
+            "source": "nyt",
+            "text": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T14:02:11.437587Z"
+            "fetched_datetime": "2025-02-10T12:15:31.487321Z"
         },
         {
             "id": "5c857388486e69c9667da9602784106b",
@@ -148,7 +152,15 @@
             "text": " Students' contest-winning pen, paint and poetry works shown aboard International Space Station ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T14:09:39.811204Z"
+            "fetched_datetime": "2025-02-10T14:10:27.942800Z"
+        },
+        {
+            "id": "5105de3b35ee66d2c31e7013c76e4b42",
+            "source": "spacenews",
+            "text": "The merger between satellite and cellular industries: not (yet) a marriage made in heaven?",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T14:11:20.151435Z"
         },
         {
             "id": "48e9296669de9b9ea4856a4a71b39169",
@@ -156,7 +168,7 @@
             "text": "The efforts bridging space sustainability, from best intentions to real-world actions",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T14:31:53.796612Z"
+            "fetched_datetime": "2025-02-10T14:40:34.785764Z"
         },
         {
             "id": "ca044e63f79c3cfa16b47e3e5047c554",
@@ -164,7 +176,7 @@
             "text": " Euclid 'dark universe' telescope discovers stunning Einstein ring in warped space-time (image) ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T15:25:37.071825Z"
+            "fetched_datetime": "2025-02-10T15:26:21.998381Z"
         }
     ]
 }
