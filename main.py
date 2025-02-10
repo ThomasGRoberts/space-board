@@ -23,11 +23,11 @@ YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 MESSAGE_CHANGE_FREQUENCY = 7
 
 SOURCES = {
-    # "space": pull_from_space,
-    # "aidy": pull_from_aidy,
+    "space": pull_from_space,
+    "aidy": pull_from_aidy,
     "supercluster": pull_from_supercluster,
-    # "spacenews": pull_from_spacenews,
-    # "nyt": pull_from_nyt
+    "spacenews": pull_from_spacenews,
+    "nyt": pull_from_nyt
 }
 
 
