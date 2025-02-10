@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 4,
-    "current_item_id": "bbfcaf36a20b89bbc9b53e442fee07e6",
+    "trigger_count": 5,
+    "current_item_id": "9f0007a2b88d7134871879165c7d96b1",
     "data": [
         {
             "id": "87729baec66fd833ee1620d88213e5fd",
@@ -189,6 +189,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T18:02:00.245947Z"
+        },
+        {
+            "id": "9f0007a2b88d7134871879165c7d96b1",
+            "source": "nyt",
+            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T18:11:54.618064Z"
         }
     ]
 }
