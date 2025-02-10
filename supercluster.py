@@ -9,8 +9,10 @@ from datetime import datetime, timezone
 from typing import List, Dict, Optional
 
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
 
 from utils import get_time_remaining
 
@@ -22,6 +24,10 @@ logging = Logger.setup_logger(__name__)
 SOURCE = 'supercluster'
 SANITY_API_URL = os.getenv('SANITY_API_URL')
 
+def wait_until_not_calculating(driver, css_selector, timeout=30):
+    return WebDriverWait(driver, timeout).until(
+        lambda d: "calculating" not in d.find_element(By.CSS_SELECTOR, css_selector).text.lower()
+    )
 def get_header_message_from_website() -> Optional[str]:
     """Fetch the Supercluster page and extract the launch message from the header."""
     opts = Options()
@@ -33,6 +39,12 @@ def get_header_message_from_website() -> Optional[str]:
 
     try:
         driver.get("https://www.supercluster.com/")
+        try:
+            WebDriverWait(driver, 30).until(
+                lambda d: "Calculating" not in d.find_element(By.CSS_SELECTOR, "div.launch__next").text.lower()
+            )
+        except Exception as e:
+            logging.warning("Waiting for header update timed out or encountered an error: %s", e)
         html = driver.page_source
     finally:
         driver.quit()
