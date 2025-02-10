@@ -19,8 +19,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          ref: feat/supercluster-launch-update
 
       - name: Set up Python
         uses: actions/setup-python@v3
