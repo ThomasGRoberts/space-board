@@ -48,7 +48,7 @@ def get_header_message_from_website() -> Optional[str]:
     pattern = r"^Next Launch:\d+D:\d+H:\d+M:\d+S(.*)$"
     match = re.match(pattern, header_text)
     if not match:
-        logging.info("Header text did not match expected pattern.")
+        logging.info("Header text did not match expected pattern.", header_text)
         return None
     return match.group(1).strip()
 
