@@ -1,9 +1,49 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-09T18:40:27.602196+00:00",
-    "trigger_count": 5,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "last_run_datetime": "2025-02-10T10:38:34.595047+00:00",
+    "trigger_count": 6,
+    "current_item_id": "85bb694f86539af714e1eaee6d58be3e",
     "data": [
+        {
+            "id": "fb38ea2eaf57180cd3ff7627150d92c7",
+            "source": "space",
+            "text": " See Mars next to a nearly full moon in the sky tonight ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T18:40:27.694589Z"
+        },
+        {
+            "id": "6dc3c4c0a35ba00fcf154c592c616322",
+            "source": "space",
+            "text": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T18:40:27.694567Z"
+        },
+        {
+            "id": "f552efbbee718746814cd23e492c6160",
+            "source": "space",
+            "text": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T18:40:27.694544Z"
+        },
+        {
+            "id": "9163be54fabb2a605d6c798df249a8b9",
+            "source": "space",
+            "text": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T18:40:27.694515Z"
+        },
+        {
+            "id": "2b906593e0af90a5f07f717a7c3ab498",
+            "source": "space",
+            "text": " Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-09T18:40:27.694470Z"
+        },
         {
             "id": "d3d31db9c18c897fd31cf7a68d8d1c8f",
             "source": "space",
@@ -53,162 +93,12 @@
             "fetched_datetime": "2025-02-09T00:00:00.000Z"
         },
         {
-            "id": "53cda0d82d6f0f7119f6eaf803fb7673",
+            "id": "85bb694f86539af714e1eaee6d58be3e",
             "source": "space",
-            "text": "Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it",
+            "text": " Crater-diving hopper 'Gracie' will launch to the moon aboard private Athena lander this month ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "ef7d84a9ebaea42865058496eb0eceaf",
-            "source": "aidy",
-            "text": "NASA Pauses Key Science Groups Amid New Directives; Awards Artemis Study Contracts",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "9be621a881db11b659875e78bec98bd8",
-            "source": "spacenews",
-            "text": "Does government still fit into space?",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "b2cbd046a527ede595174e1dc9cb251f",
-            "source": "space",
-            "text": "Scientists say 2 asteroids may actually be fragments of destroyed planets from our early solar system",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "48028d3dba2a43d7a469557ea6d73af9",
-            "source": "space",
-            "text": "NASA and General Atomics test nuclear fuel for future moon and Mars missions",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "3d808cf2b4c4580f8dde2277d1f52228",
-            "source": "space",
-            "text": "The DJI Mini 4k, one of the best beginner drones, is 20% off",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "58f685ec06eae16622a3a3abb607fb16",
-            "source": "space",
-            "text": "Private FLIP moon rover replaces NASA's cancelled VIPER on 2025 lunar south pole mission",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "62f4f1f1ecb56a80ae56bffbdeaae51d",
-            "source": "space",
-            "text": "SpaceX launching 21 Starlink satellites from Florida today",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "c6bc5de1c6b1e565d14114283cfc2a1f",
-            "source": "space",
-            "text": "World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "d58630be7e79f6201001c446d89cbc3d",
-            "source": "space",
-            "text": "Eclipse at sea: Best cruises for the total solar eclipse 2026",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "0f54c90ade6ad6f36e09616553866c6a",
-            "source": "aidy",
-            "text": "Air Force Innovation Competition Finalists Announced, Highlighting Space Tech Advancements",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "2b906593e0af90a5f07f717a7c3ab498",
-            "source": "space",
-            "text": " Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694470Z"
-        },
-        {
-            "id": "9163be54fabb2a605d6c798df249a8b9",
-            "source": "space",
-            "text": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694515Z"
-        },
-        {
-            "id": "f552efbbee718746814cd23e492c6160",
-            "source": "space",
-            "text": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694544Z"
-        },
-        {
-            "id": "6dc3c4c0a35ba00fcf154c592c616322",
-            "source": "space",
-            "text": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694567Z"
-        },
-        {
-            "id": "fb38ea2eaf57180cd3ff7627150d92c7",
-            "source": "space",
-            "text": " See Mars next to a nearly full moon in the sky tonight ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694589Z"
-        },
-        {
-            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch an International Crew to the ISS",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-25T16:00:00.000Z",
-            "time_remaining": "43d 21h 05m",
-            "fetched_datetime": "2025-02-09T18:46:21.335685Z"
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-10T00:03:00.000Z",
-            "time_remaining": "0d 05h 02m",
-            "fetched_datetime": "2025-02-09T18:46:21.335715Z"
-        },
-        {
-            "id": "d5e65c04b6915a6e03e652e10d44bf2c",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch First Flight of New Glenn Rocket",
-            "shown": false,
-            "type": "launch",
-            "target_datetime": "2025-01-16T07:03:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-02-09T18:46:21.335726Z"
+            "fetched_datetime": "2025-02-10T10:38:34.783560Z"
         }
     ]
 }
