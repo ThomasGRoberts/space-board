@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-10T10:38:34.595047+00:00",
-    "trigger_count": 0,
-    "current_item_id": "6d693c360143536949b29e2eee135216",
+    "trigger_count": 1,
+    "current_item_id": "5105de3b35ee66d2c31e7013c76e4b42",
     "data": [
         {
             "id": "fb38ea2eaf57180cd3ff7627150d92c7",
@@ -133,6 +133,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-10T12:30:41.363595Z"
+        },
+        {
+            "id": "5105de3b35ee66d2c31e7013c76e4b42",
+            "source": "spacenews",
+            "text": "The merger between satellite and cellular industries: not (yet) a marriage made in heaven?",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T14:02:11.437587Z"
         }
     ]
 }
