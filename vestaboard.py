@@ -15,7 +15,7 @@ VESTABOARD_API_URL = os.getenv('VESTABOARD_API_URL')
 headers = {
     'X-Vestaboard-Read-Write-Key': os.getenv('VESTABOARD_API_KEY')
 }
-print(headers)
+
 CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
 
 # Character mapping for Vestaboard
