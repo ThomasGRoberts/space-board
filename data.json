@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "089363e0c1ea71f0301e98c1e4d6e497",
+    "trigger_count": 0,
+    "current_item_id": "816eba6d8bb4ec19c9ad268c9f5d05c1",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -253,6 +253,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T16:11:25.765733Z"
+        },
+        {
+            "id": "816eba6d8bb4ec19c9ad268c9f5d05c1",
+            "source": "space",
+            "text": " Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T17:35:41.037253Z"
         }
     ]
 }
