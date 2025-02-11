@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 0,
-    "current_item_id": "3e48db60347cba6c3dae1021ff3650e2",
+    "trigger_count": 1,
+    "current_item_id": "425ab97c75637eb567f52a845acd76be",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -154,7 +154,7 @@
             "id": "425ab97c75637eb567f52a845acd76be",
             "source": "spacenews",
             "text": "NASA selects SpaceX to launch astrophysics smallsat mission",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T12:17:49.507830Z"
         },
