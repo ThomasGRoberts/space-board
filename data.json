@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f0007a2b88d7134871879165c7d96b1",
+    "trigger_count": 0,
+    "current_item_id": "feb5f4799b6dcf63fba2d833e6a4bf83",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -261,6 +261,22 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T17:35:41.037253Z"
+        },
+        {
+            "id": "feb5f4799b6dcf63fba2d833e6a4bf83",
+            "source": "spacenews",
+            "text": "Redwire lands new satellite contract for Space Force in-orbit refueling experiment",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T18:59:44.207505Z"
+        },
+        {
+            "id": "9598932e52796af3897742aabdc79efe",
+            "source": "spacenews",
+            "text": "Astroscale and Clearspace reach development milestone for dual-satellite deorbit mission",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T18:59:44.207551Z"
         }
     ]
 }
