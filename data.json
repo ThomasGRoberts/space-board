@@ -1,218 +1,16 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-10T12:00:55.755081+00:00",
-    "trigger_count": 5,
-    "current_item_id": "9163be54fabb2a605d6c798df249a8b9",
+    "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
+    "trigger_count": 6,
+    "current_item_id": "ca6d954eea7ebcdf096ee2e3801f5e69",
     "data": [
         {
-            "id": "87729baec66fd833ee1620d88213e5fd",
+            "id": "9dc61b2830f9a751e8f13eda9feb7391",
             "source": "spacenews",
-            "text": "NASA to continue using Artemis crew transport vans from bankrupt manufacturer",
+            "text": "BlackSky to launch next-gen imaging satellite as it seeks market edge",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-09T21:10:30.900669Z"
-        },
-        {
-            "id": "fb38ea2eaf57180cd3ff7627150d92c7",
-            "source": "space",
-            "text": " See Mars next to a nearly full moon in the sky tonight ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694589Z"
-        },
-        {
-            "id": "6dc3c4c0a35ba00fcf154c592c616322",
-            "source": "space",
-            "text": " Space weather scales are outdated and confusing. Here's what NOAA scientists are doing about it ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694567Z"
-        },
-        {
-            "id": "f552efbbee718746814cd23e492c6160",
-            "source": "space",
-            "text": " NASA and General Atomics test nuclear fuel for future moon and Mars missions ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694544Z"
-        },
-        {
-            "id": "9163be54fabb2a605d6c798df249a8b9",
-            "source": "space",
-            "text": " World's fastest supercomputer 'El Capitan' goes online — it will be used to secure the US nuclear stockpile and in other classified research ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694515Z"
-        },
-        {
-            "id": "2b906593e0af90a5f07f717a7c3ab498",
-            "source": "space",
-            "text": " Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T18:40:27.694470Z"
-        },
-        {
-            "id": "d3d31db9c18c897fd31cf7a68d8d1c8f",
-            "source": "space",
-            "text": "Auction offers Neil Armstrong's reply to NASA engineer's Apollo 11 mission patch ideas",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "6d693c360143536949b29e2eee135216",
-            "source": "space",
-            "text": "See Mars next to a nearly full moon in the sky tonight",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-09T00:00:00.000Z"
-        },
-        {
-            "id": "2cad254aa25562ee9ba973ce8f08cc1c",
-            "source": "space",
-            "text": " Live-action 'Gundam' movie enters full production as Bandai drops Netflix to partner with Legendary Pictures ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:10:31.389662Z"
-        },
-        {
-            "id": "4fdd38e1c898cfbd237ec3a30ccc82be",
-            "source": "space",
-            "text": " Who is Janet Petro, Trump's pick for acting NASA administrator? ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:10:31.389713Z"
-        },
-        {
-            "id": "85bb694f86539af714e1eaee6d58be3e",
-            "source": "space",
-            "text": " Crater-diving hopper 'Gracie' will launch to the moon aboard private Athena lander this month ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:10:31.389742Z"
-        },
-        {
-            "id": "34d4c6e3236e4e6dd89d74938c55ada6",
-            "source": "aidy",
-            "text": "U.S. Senate Proposes Space-Enabled \"Iron Dome\" Initiative for FY2026 Defense Strategy.",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:13:21.463781Z"
-        },
-        {
-            "id": "3f91f5df9df0cd1a6120f75d8bf7e6f3",
-            "source": "spacenews",
-            "text": "Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:14:23.684193Z"
-        },
-        {
-            "id": "0e6b99cd6ff84cc26bd64c5a2dc04525",
-            "source": "nyt",
-            "text": "Why the Odds of an Asteroid Striking Earth in 2032 Keep Going Up (and Down)",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T12:15:31.487321Z"
-        },
-        {
-            "id": "5c857388486e69c9667da9602784106b",
-            "source": "space",
-            "text": " Students' contest-winning pen, paint and poetry works shown aboard International Space Station ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T14:10:27.942800Z"
-        },
-        {
-            "id": "5105de3b35ee66d2c31e7013c76e4b42",
-            "source": "spacenews",
-            "text": "The merger between satellite and cellular industries: not (yet) a marriage made in heaven?",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T14:11:20.151435Z"
-        },
-        {
-            "id": "48e9296669de9b9ea4856a4a71b39169",
-            "source": "spacenews",
-            "text": "The efforts bridging space sustainability, from best intentions to real-world actions",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T14:40:34.785764Z"
-        },
-        {
-            "id": "ca044e63f79c3cfa16b47e3e5047c554",
-            "source": "space",
-            "text": " Euclid 'dark universe' telescope discovers stunning Einstein ring in warped space-time (image) ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T15:26:21.998381Z"
-        },
-        {
-            "id": "bbfcaf36a20b89bbc9b53e442fee07e6",
-            "source": "space",
-            "text": " Scientists 'dust for fingerprints' around a young star as it births exoplanets ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T16:18:23.683081Z"
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-10T23:46:00.000Z",
-            "time_remaining": "0d 05h 16m",
-            "fetched_datetime": "2025-02-10T16:35:39.646263Z"
-        },
-        {
-            "id": "88726df5b0d24c5513e77a2c31e491d8",
-            "source": "spacenews",
-            "text": "MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T16:49:46.235082Z"
-        },
-        {
-            "id": "b6d8c59551a149082f8977ae0b57bde1",
-            "source": "space",
-            "text": " Did Covid lockdowns really cause temperatures on the moon to drop? ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T17:01:59.783218Z"
-        },
-        {
-            "id": "089363e0c1ea71f0301e98c1e4d6e497",
-            "source": "space",
-            "text": " AI can now replicate itself — a milestone that has experts terrified ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T18:02:00.245947Z"
-        },
-        {
-            "id": "9f0007a2b88d7134871879165c7d96b1",
-            "source": "nyt",
-            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T18:11:54.618064Z"
-        },
-        {
-            "id": "d7e26e64d8cb54bb5e74bd2e1e685398",
-            "source": "space",
-            "text": " How to watch NASA's 1st Twitch stream from the ISS this week ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T19:02:06.325366Z"
-        },
-        {
-            "id": "08d4047bac37be36ee41a9873f06742b",
-            "source": "spacenews",
-            "text": "NASA to roll out major update to core flight software",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T20:59:07.546930Z"
+            "fetched_datetime": "2025-02-10T21:35:35.790927Z"
         },
         {
             "id": "120773deea5a8781768c37f5ce3cbd15",
@@ -223,12 +21,108 @@
             "fetched_datetime": "2025-02-10T21:01:55.357326Z"
         },
         {
-            "id": "9dc61b2830f9a751e8f13eda9feb7391",
+            "id": "08d4047bac37be36ee41a9873f06742b",
             "source": "spacenews",
-            "text": "BlackSky to launch next-gen imaging satellite as it seeks market edge",
+            "text": "NASA to roll out major update to core flight software",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T21:35:35.790927Z"
+            "fetched_datetime": "2025-02-10T20:59:07.546930Z"
+        },
+        {
+            "id": "d7e26e64d8cb54bb5e74bd2e1e685398",
+            "source": "space",
+            "text": " How to watch NASA's 1st Twitch stream from the ISS this week ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T19:02:06.325366Z"
+        },
+        {
+            "id": "9f0007a2b88d7134871879165c7d96b1",
+            "source": "nyt",
+            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T18:11:54.618064Z"
+        },
+        {
+            "id": "089363e0c1ea71f0301e98c1e4d6e497",
+            "source": "space",
+            "text": " AI can now replicate itself — a milestone that has experts terrified ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T18:02:00.245947Z"
+        },
+        {
+            "id": "b6d8c59551a149082f8977ae0b57bde1",
+            "source": "space",
+            "text": " Did Covid lockdowns really cause temperatures on the moon to drop? ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T17:01:59.783218Z"
+        },
+        {
+            "id": "88726df5b0d24c5513e77a2c31e491d8",
+            "source": "spacenews",
+            "text": "MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T16:49:46.235082Z"
+        },
+        {
+            "id": "bbfcaf36a20b89bbc9b53e442fee07e6",
+            "source": "space",
+            "text": " Scientists 'dust for fingerprints' around a young star as it births exoplanets ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T16:18:23.683081Z"
+        },
+        {
+            "id": "ca044e63f79c3cfa16b47e3e5047c554",
+            "source": "space",
+            "text": " Euclid 'dark universe' telescope discovers stunning Einstein ring in warped space-time (image) ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T15:26:21.998381Z"
+        },
+        {
+            "id": "48e9296669de9b9ea4856a4a71b39169",
+            "source": "spacenews",
+            "text": "The efforts bridging space sustainability, from best intentions to real-world actions",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-10T14:40:34.785764Z"
+        },
+        {
+            "id": "ca6d954eea7ebcdf096ee2e3801f5e69",
+            "source": "space",
+            "text": " What would happen if the OSIRIS-REx asteroid Bennu smashed into Earth in 2182? ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:02:01.202407Z"
+        },
+        {
+            "id": "e12b27d27037ae140e15213863320be6",
+            "source": "space",
+            "text": " Save a massive 63% on a year of Peacock TV now $29.99 ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:02:01.202451Z"
+        },
+        {
+            "id": "256fa5377689b576697ae192af22e320",
+            "source": "space",
+            "text": " Boom Supersonic's XB-1 jet breaks sound barrier 3 times on final test flight (video, photos) ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:02:01.202479Z"
+        },
+        {
+            "id": "f3691e6940cada46c0fc7c667e0d02bf",
+            "source": "space",
+            "text": " SpaceX launches 23 Starlink satellites to orbit from California (photos) ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:02:01.202501Z"
         }
     ]
 }
