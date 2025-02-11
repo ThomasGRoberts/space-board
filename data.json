@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5beb84aee8dfea97da1b7437a35553a8",
+    "trigger_count": 0,
+    "current_item_id": "746e9a8a830b339e9f5dec7fdfbe1faf",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -293,6 +293,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T19:55:36.962832Z"
+        },
+        {
+            "id": "746e9a8a830b339e9f5dec7fdfbe1faf",
+            "source": "space",
+            "text": " NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T20:11:36.590243Z"
         }
     ]
 }
