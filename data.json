@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 3,
-    "current_item_id": "dbb7aed29f43234d1fff4f9ecf32a9c6",
+    "trigger_count": 4,
+    "current_item_id": "a7756da260b77fe37e1f268e019f1182",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -213,6 +213,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T14:01:56.293548Z"
+        },
+        {
+            "id": "a7756da260b77fe37e1f268e019f1182",
+            "source": "spacenews",
+            "text": "U.S. military space tracking systems strain under new threats",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T14:03:44.779928Z"
         }
     ]
 }
