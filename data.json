@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "feb5f4799b6dcf63fba2d833e6a4bf83",
+    "trigger_count": 0,
+    "current_item_id": "72be70638292057c10483ae555c14372",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -277,6 +277,14 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-02-11T18:59:44.207551Z"
+        },
+        {
+            "id": "72be70638292057c10483ae555c14372",
+            "source": "space",
+            "text": " How to watch 'Captain America: Brave New World': Catch it in theaters, and later stream on Disney Plus ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T19:13:05.042396Z"
         }
     ]
 }
