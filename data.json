@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 5,
-    "current_item_id": "ca044e63f79c3cfa16b47e3e5047c554",
+    "trigger_count": 6,
+    "current_item_id": "9d54dcc964735fa9ab9990b59cc52a59",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -173,6 +173,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T12:25:32.399091Z"
+        },
+        {
+            "id": "9d54dcc964735fa9ab9990b59cc52a59",
+            "source": "spacenews",
+            "text": "Airbus to build radar imaging satellites for U.K. military",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:43:36.953427Z"
         }
     ]
 }
