@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "3e48db60347cba6c3dae1021ff3650e2",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -141,6 +141,30 @@
             "target_datetime": "2025-02-17T23:00:00.000Z",
             "time_remaining": "6d 10h 44m",
             "fetched_datetime": "2025-02-11T12:11:47.746683Z"
+        },
+        {
+            "id": "3e48db60347cba6c3dae1021ff3650e2",
+            "source": "spacenews",
+            "text": "Texas awards grants to five space companies",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:17:49.507786Z"
+        },
+        {
+            "id": "425ab97c75637eb567f52a845acd76be",
+            "source": "spacenews",
+            "text": "NASA selects SpaceX to launch astrophysics smallsat mission",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:17:49.507830Z"
+        },
+        {
+            "id": "40ac9114ea41da76d8f46abc8c51c285",
+            "source": "spacenews",
+            "text": "NASA boosts science objectives for Starling swarm",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:17:49.507862Z"
         }
     ]
 }
