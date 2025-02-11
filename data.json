@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 13,
-    "current_item_id": "a7756da260b77fe37e1f268e019f1182",
+    "trigger_count": 0,
+    "current_item_id": "4109772e5a773f18e1e0cc85a06a1329",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -229,6 +229,54 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T14:09:42.164102Z"
+        },
+        {
+            "id": "4109772e5a773f18e1e0cc85a06a1329",
+            "source": "space",
+            "text": " SpaceX rocket launches 21 Starlink satellites into orbit, then lands at sea (video) ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.125989Z"
+        },
+        {
+            "id": "746e9a8a830b339e9f5dec7fdfbe1faf",
+            "source": "space",
+            "text": " NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.126036Z"
+        },
+        {
+            "id": "72be70638292057c10483ae555c14372",
+            "source": "space",
+            "text": " How to watch 'Captain America: Brave New World': Catch it in theaters, and later stream on Disney Plus ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.126064Z"
+        },
+        {
+            "id": "816eba6d8bb4ec19c9ad268c9f5d05c1",
+            "source": "space",
+            "text": " Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.126087Z"
+        },
+        {
+            "id": "5c7207e0e1c97c0827a935e41d6c6e0c",
+            "source": "space",
+            "text": " There was nearly 1 rocket launch attempt every 34 hours in 2024 — this year will be even busier ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.126110Z"
+        },
+        {
+            "id": "24f0813dfa96ecd2d981921528bb690a",
+            "source": "space",
+            "text": " Huge solar storm in May 2024 spawned 2 new radiation belts around Earth ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:18:19.126131Z"
         }
     ]
 }
