@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 0,
-    "current_item_id": "6cda511983a73243964bc21e80db28fa",
+    "trigger_count": 1,
+    "current_item_id": "a4135522aeca1008d4352955711fd8aa",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -197,6 +197,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T13:27:39.099581Z"
+        },
+        {
+            "id": "a4135522aeca1008d4352955711fd8aa",
+            "source": "space",
+            "text": " Hurtigruten Cruises: The trip of a lifetime for astronomy lovers ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T13:29:31.789063Z"
         }
     ]
 }
