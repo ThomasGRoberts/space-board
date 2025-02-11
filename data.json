@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1ef21953aac5add7e6a9525868cb3f10",
+    "trigger_count": 0,
+    "current_item_id": "5c7207e0e1c97c0827a935e41d6c6e0c",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -245,6 +245,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T15:12:01.829594Z"
+        },
+        {
+            "id": "5c7207e0e1c97c0827a935e41d6c6e0c",
+            "source": "space",
+            "text": " There was nearly 1 rocket launch attempt every 34 hours in 2024 — this year will be even busier ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T16:11:25.765733Z"
         }
     ]
 }
