@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a7756da260b77fe37e1f268e019f1182",
+    "trigger_count": 0,
+    "current_item_id": "1ef21953aac5add7e6a9525868cb3f10",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -229,6 +229,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T14:09:42.164102Z"
+        },
+        {
+            "id": "1ef21953aac5add7e6a9525868cb3f10",
+            "source": "spacenews",
+            "text": "Hubble, bubble, toil, and trouble: stirring up an arms race in space",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T14:41:34.935045Z"
         }
     ]
 }
