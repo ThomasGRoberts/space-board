@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dbb7aed29f43234d1fff4f9ecf32a9c6",
+    "trigger_count": 0,
+    "current_item_id": "b7e0bd8a3912f5849f117a9b61d11a77",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -221,6 +221,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T14:03:44.779928Z"
+        },
+        {
+            "id": "b7e0bd8a3912f5849f117a9b61d11a77",
+            "source": "spacenews",
+            "text": "Karim Michel Sabbagh, Space42 – Commercial Space Transformers",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T14:09:42.164102Z"
         }
     ]
 }
