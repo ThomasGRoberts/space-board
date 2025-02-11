@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 0,
-    "current_item_id": "e12b27d27037ae140e15213863320be6",
+    "trigger_count": 1,
+    "current_item_id": "256fa5377689b576697ae192af22e320",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -112,7 +112,7 @@
             "id": "256fa5377689b576697ae192af22e320",
             "source": "space",
             "text": " Boom Supersonic's XB-1 jet breaks sound barrier 3 times on final test flight (video, photos) ",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T12:02:01.202479Z"
         },
