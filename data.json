@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 3,
-    "current_item_id": "9f0007a2b88d7134871879165c7d96b1",
+    "trigger_count": 4,
+    "current_item_id": "374c9ba3543094762603bdbb3ca9fc7e",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -165,6 +165,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T12:17:49.507862Z"
+        },
+        {
+            "id": "374c9ba3543094762603bdbb3ca9fc7e",
+            "source": "spacenews",
+            "text": "First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T12:25:32.399091Z"
         }
     ]
 }
