@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4109772e5a773f18e1e0cc85a06a1329",
+    "trigger_count": 0,
+    "current_item_id": "84bb84df6dc8132375211477ff4fa2ed",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -309,6 +309,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T21:09:39.433603Z"
+        },
+        {
+            "id": "84bb84df6dc8132375211477ff4fa2ed",
+            "source": "spacenews",
+            "text": "Space security at crossroads: Report urges U.S.-China dialogue",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T21:23:33.606163Z"
         }
     ]
 }
