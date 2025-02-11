@@ -62,6 +62,8 @@ def execute(db):
         current_item['time_remaining'] = get_time_remaining(current_item['target_datetime'])
         push_to_vestaboard(current_item)
         return
+    elif current_item and current_item['type'] != 'launch':
+        return    
 
     for source_name, _ in SOURCES.items():
         item = get_unseen_item_for_source(db, source_name)
