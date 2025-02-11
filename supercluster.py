@@ -93,6 +93,7 @@ def get_launch_item_for_message(message: str, already_pushed: List[str]) -> Opti
                 "id": item_id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": "Unavailable",
                 "shown": False,
                 "type": "launch",
                 "target_datetime": launch_date,

@@ -38,6 +38,7 @@ def pull_from_aidy(already_pushed: list[str]) -> List[str]:
                 "id": id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": "Unavailable",
                 "shown": False,
                 "type": "news",
                 "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
