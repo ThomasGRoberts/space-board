@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 1,
-    "current_item_id": "425ab97c75637eb567f52a845acd76be",
+    "trigger_count": 2,
+    "current_item_id": "40ac9114ea41da76d8f46abc8c51c285",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -162,7 +162,7 @@
             "id": "40ac9114ea41da76d8f46abc8c51c285",
             "source": "spacenews",
             "text": "NASA boosts science objectives for Starling swarm",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T12:17:49.507862Z"
         }
