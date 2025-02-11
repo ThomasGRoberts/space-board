@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 2,
-    "current_item_id": "256fa5377689b576697ae192af22e320",
+    "trigger_count": 3,
+    "current_item_id": "dbb7aed29f43234d1fff4f9ecf32a9c6",
     "data": [
         {
             "id": "9dc61b2830f9a751e8f13eda9feb7391",
@@ -205,6 +205,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T13:29:31.789063Z"
+        },
+        {
+            "id": "dbb7aed29f43234d1fff4f9ecf32a9c6",
+            "source": "space",
+            "text": " Scientists alarmed as Rubin Observatory changes biography of astronomer Vera Rubin amid Trump's push to end DEI efforts ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T14:01:56.293548Z"
         }
     ]
 }
