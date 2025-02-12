@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f0007a2b88d7134871879165c7d96b1",
+    "trigger_count": 0,
+    "current_item_id": "bcd4eb94cdeefd1d21a6e0946e819cd6",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -246,6 +246,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T18:15:43.793657Z"
+        },
+        {
+            "id": "bcd4eb94cdeefd1d21a6e0946e819cd6",
+            "source": "space",
+            "text": " Gamma rays create Red Hulk in Captain America: Brave New World, but how do they work in the real world? ",
+            "source_link": "https://www.space.com/captain-america-brave-new-world-gamma-rays-red-hulk",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T20:11:51.018386Z"
         }
     ]
 }
