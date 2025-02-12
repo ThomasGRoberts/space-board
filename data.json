@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "55c182558702070807d1999796d9db9b",
+    "trigger_count": 0,
+    "current_item_id": "f4fce55978f6ec9133ee5fd272ea4af3",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -115,6 +115,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T12:07:28.388036Z"
+        },
+        {
+            "id": "f4fce55978f6ec9133ee5fd272ea4af3",
+            "source": "aidy",
+            "text": "U.S. Space Policy Overhaul: CFR Report Proposes Key Actions, FAA Oversight Concerns Raised",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:53:38.578608Z"
         }
     ]
 }
