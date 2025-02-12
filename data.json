@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a5e207ebcc940ec5a9b96910c3e3db6e",
+    "trigger_count": 0,
+    "current_item_id": "b9d3546999cd05feb8c14e86c07b9cb8",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -213,6 +213,22 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T16:19:40.094096Z"
+        },
+        {
+            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
+            "source": "nyt",
+            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T16:33:31.864626Z"
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T16:33:31.864933Z"
         }
     ]
 }
