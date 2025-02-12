@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20619b7119c961912fd73a7175fcc405",
+    "trigger_count": 0,
+    "current_item_id": "d7f6278bb52842cfa38a455e36297106",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -237,6 +237,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T17:02:17.190824Z"
+        },
+        {
+            "id": "d7f6278bb52842cfa38a455e36297106",
+            "source": "space",
+            "text": " Win a chance to see a SpaceX rocket launch thanks to Bethesda, creators of 'Starfield' ",
+            "source_link": "https://www.space.com/entertainment/win-a-chance-to-see-a-spacex-rocket-launch-thanks-to-bethesda-creators-of-starfield",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T18:15:43.793657Z"
         }
     ]
 }
