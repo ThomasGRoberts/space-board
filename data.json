@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "07f152782f42a7d1d3824c35e113a54e",
+    "trigger_count": 0,
+    "current_item_id": "81c47745dc66af24b962241d32ad9bec",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -173,6 +173,14 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T14:17:50.347362Z"
+        },
+        {
+            "id": "81c47745dc66af24b962241d32ad9bec",
+            "source": "spacenews",
+            "text": "Solar flares in May 2024 revealed Earth’s vulnerability to space weather",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T14:33:28.892775Z"
         }
     ]
 }
