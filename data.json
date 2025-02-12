@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c45754eaafde476b434fd84905031aa",
+    "trigger_count": 0,
+    "current_item_id": "8377a17022de7409cde34aa8e27da25f",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -202,7 +202,7 @@
             "id": "8377a17022de7409cde34aa8e27da25f",
             "source": "space",
             "text": " Aurora Alert: Geomagnetic storm could bring northern lights as far south as Michigan and Maine this week ",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T15:02:09.694610Z"
         }
