@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "323647e1f0c28c9637f3af8c3db4a026",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -133,6 +133,22 @@
             "target_datetime": "2025-02-17T23:00:00.000Z",
             "time_remaining": "5d 09h 40m",
             "fetched_datetime": "2025-02-12T13:07:39.570043Z"
+        },
+        {
+            "id": "323647e1f0c28c9637f3af8c3db4a026",
+            "source": "spacenews",
+            "text": "U.S. Air Force extends Sierra Space contract for upper stage rocket engine",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T13:21:39.137104Z"
+        },
+        {
+            "id": "20619b7119c961912fd73a7175fcc405",
+            "source": "spacenews",
+            "text": "Space Force pushing forward with acquisition reforms ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T13:21:39.137150Z"
         }
     ]
 }
