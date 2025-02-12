@@ -6,7 +6,7 @@ from logger import Logger
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -19,16 +19,16 @@ from utils import get_time_remaining
 load_dotenv()
 logging = Logger.setup_logger(__name__)
 
-
-
 SOURCE = 'supercluster'
 SANITY_API_URL = os.getenv('SANITY_API_URL')
+SUPERCLUSTER_URL = "https://www.supercluster.com"
 
 def wait_until_not_calculating(driver, css_selector, timeout=30):
     return WebDriverWait(driver, timeout).until(
         lambda d: "calculating" not in d.find_element(By.CSS_SELECTOR, css_selector).text.lower()
     )
-def get_header_message_from_website() -> Optional[str]:
+
+def fetch_next_launch_details() -> Optional[Tuple[str, str]]:
     """Fetch the Supercluster page and extract the launch message from the header."""
     opts = Options()
     opts.add_argument("--headless")
@@ -38,7 +38,7 @@ def get_header_message_from_website() -> Optional[str]:
     driver = webdriver.Chrome(service=service, options=opts)
 
     try:
-        driver.get("https://www.supercluster.com/")
+        driver.get(SUPERCLUSTER_URL)
         try:
             WebDriverWait(driver, 30).until(
                 lambda d: "calculating" not in d.find_element(By.CSS_SELECTOR, "div.launch__next").text.lower()
@@ -54,17 +54,22 @@ def get_header_message_from_website() -> Optional[str]:
     if not header_div:
         logging.info("No header found on Supercluster.")
         return None
+    url_elem = header_div.find("a")
 
     header_text = header_div.get_text(strip=True)
+    link = f"{SUPERCLUSTER_URL}{url_elem['href']}"
+
     # Extract message: e.g., from "Next Launch:01D:00H:56M:42SChina Will Launch Demo Flight..."
     pattern = r"^Next Launch:\d+D:\d+H:\d+M:\d+S(.*)$"
     match = re.match(pattern, header_text)
     if not match:
         logging.info("Header text did not match expected pattern.", header_text)
         return None
-    return match.group(1).strip()
+    launch_message = match.group(1).strip()
+    return launch_message, link    
 
-def get_launch_item_for_message(message: str, already_pushed: List[str]) -> Optional[Dict]:
+
+def get_launch_item_for_message(message: str, link_from_homepage: str, already_pushed: List[str]) -> Optional[Dict]:
     """
     Call the Sanity API to retrieve launch data and return a launch item whose
     mini-description matches the provided message.
@@ -83,7 +88,10 @@ def get_launch_item_for_message(message: str, already_pushed: List[str]) -> Opti
     data = response.json()
     for launch in data.get("result", []):
         mini_desc = launch["launchInfo"]["launchMiniDescription"].strip()
-        if message == mini_desc:
+        slug = launch["slug"]["current"].strip()
+        link = f"{SUPERCLUSTER_URL}/launches/{slug}"
+
+        if message == mini_desc and link == link_from_homepage:
             item_id = md5((SOURCE + message).encode()).hexdigest()
             if item_id in already_pushed:
                 logging.info(f"Skipping already processed item with id: {item_id}")
@@ -93,7 +101,7 @@ def get_launch_item_for_message(message: str, already_pushed: List[str]) -> Opti
                 "id": item_id,
                 "source": SOURCE,
                 "text": message,
-                "source_link": "Unavailable",
+                "source_link": link,
                 "shown": False,
                 "type": "launch",
                 "target_datetime": launch_date,
@@ -108,9 +116,9 @@ def pull_from_supercluster(already_pushed: List[str]) -> List[Dict]:
     Pulls a launch item from Supercluster by first extracting the header message,
     then querying the API for a matching launch.
     """
-    message = get_header_message_from_website()
+    message, link = fetch_next_launch_details()
     if not message:
         logging.info("No header message extracted.")
         return []
-    launch_item = get_launch_item_for_message(message, already_pushed)
+    launch_item = get_launch_item_for_message(message, link, already_pushed)
     return [launch_item] if launch_item else []
