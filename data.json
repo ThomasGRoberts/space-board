@@ -1,136 +1,128 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-11T12:02:01.121925+00:00",
-    "trigger_count": 1,
-    "current_item_id": "a7756da260b77fe37e1f268e019f1182",
+    "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
+    "trigger_count": 4,
+    "current_item_id": "323647e1f0c28c9637f3af8c3db4a026",
     "data": [
         {
-            "id": "9dc61b2830f9a751e8f13eda9feb7391",
+            "id": "9c0a23714b95b8b810908be781862791",
             "source": "spacenews",
-            "text": "BlackSky to launch next-gen imaging satellite as it seeks market edge",
+            "text": "Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T21:35:35.790927Z"
+            "fetched_datetime": "2025-02-11T21:51:45.056869Z"
         },
         {
-            "id": "120773deea5a8781768c37f5ce3cbd15",
-            "source": "space",
-            "text": " Firefly's Blue Ghost lunar lander leaves Earth orbit to head for the moon ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T21:01:55.357326Z"
-        },
-        {
-            "id": "08d4047bac37be36ee41a9873f06742b",
+            "id": "84bb84df6dc8132375211477ff4fa2ed",
             "source": "spacenews",
-            "text": "NASA to roll out major update to core flight software",
+            "text": "Space security at crossroads: Report urges U.S.-China dialogue",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T20:59:07.546930Z"
+            "fetched_datetime": "2025-02-11T21:23:33.606163Z"
         },
         {
-            "id": "d7e26e64d8cb54bb5e74bd2e1e685398",
+            "id": "4109772e5a773f18e1e0cc85a06a1329",
             "source": "space",
-            "text": " How to watch NASA's 1st Twitch stream from the ISS this week ",
+            "text": " SpaceX rocket launches 21 Starlink satellites into orbit, then lands at sea (video) ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T19:02:06.325366Z"
+            "fetched_datetime": "2025-02-11T21:09:39.433603Z"
         },
         {
-            "id": "9f0007a2b88d7134871879165c7d96b1",
-            "source": "nyt",
-            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T18:11:54.618064Z"
-        },
-        {
-            "id": "089363e0c1ea71f0301e98c1e4d6e497",
+            "id": "746e9a8a830b339e9f5dec7fdfbe1faf",
             "source": "space",
-            "text": " AI can now replicate itself — a milestone that has experts terrified ",
+            "text": " NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T18:02:00.245947Z"
+            "fetched_datetime": "2025-02-11T20:11:36.590243Z"
         },
         {
-            "id": "b6d8c59551a149082f8977ae0b57bde1",
+            "id": "5beb84aee8dfea97da1b7437a35553a8",
             "source": "space",
-            "text": " Did Covid lockdowns really cause temperatures on the moon to drop? ",
+            "text": " NASA verbally orders employees to purge workspaces of LGBTQI+ symbols ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T17:01:59.783218Z"
+            "fetched_datetime": "2025-02-11T19:55:36.962832Z"
         },
         {
-            "id": "88726df5b0d24c5513e77a2c31e491d8",
+            "id": "72be70638292057c10483ae555c14372",
+            "source": "space",
+            "text": " How to watch 'Captain America: Brave New World': Catch it in theaters, and later stream on Disney Plus ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-11T19:13:05.042396Z"
+        },
+        {
+            "id": "9598932e52796af3897742aabdc79efe",
             "source": "spacenews",
-            "text": "MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation",
+            "text": "Astroscale and Clearspace reach development milestone for dual-satellite deorbit mission",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T16:49:46.235082Z"
+            "fetched_datetime": "2025-02-11T18:59:44.207551Z"
         },
         {
-            "id": "bbfcaf36a20b89bbc9b53e442fee07e6",
-            "source": "space",
-            "text": " Scientists 'dust for fingerprints' around a young star as it births exoplanets ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T16:18:23.683081Z"
-        },
-        {
-            "id": "ca044e63f79c3cfa16b47e3e5047c554",
-            "source": "space",
-            "text": " Euclid 'dark universe' telescope discovers stunning Einstein ring in warped space-time (image) ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-10T15:26:21.998381Z"
-        },
-        {
-            "id": "48e9296669de9b9ea4856a4a71b39169",
+            "id": "feb5f4799b6dcf63fba2d833e6a4bf83",
             "source": "spacenews",
-            "text": "The efforts bridging space sustainability, from best intentions to real-world actions",
+            "text": "Redwire lands new satellite contract for Space Force in-orbit refueling experiment",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-10T14:40:34.785764Z"
+            "fetched_datetime": "2025-02-11T18:59:44.207505Z"
         },
         {
-            "id": "ca6d954eea7ebcdf096ee2e3801f5e69",
+            "id": "816eba6d8bb4ec19c9ad268c9f5d05c1",
             "source": "space",
-            "text": " What would happen if the OSIRIS-REx asteroid Bennu smashed into Earth in 2182? ",
+            "text": " Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:02:01.202407Z"
+            "fetched_datetime": "2025-02-11T17:35:41.037253Z"
         },
         {
-            "id": "e12b27d27037ae140e15213863320be6",
+            "id": "5c7207e0e1c97c0827a935e41d6c6e0c",
             "source": "space",
-            "text": " Save a massive 63% on a year of Peacock TV now $29.99 ",
+            "text": " There was nearly 1 rocket launch attempt every 34 hours in 2024 — this year will be even busier ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:02:01.202451Z"
+            "fetched_datetime": "2025-02-11T16:11:25.765733Z"
         },
         {
-            "id": "256fa5377689b576697ae192af22e320",
+            "id": "24f0813dfa96ecd2d981921528bb690a",
             "source": "space",
-            "text": " Boom Supersonic's XB-1 jet breaks sound barrier 3 times on final test flight (video, photos) ",
+            "text": " Huge solar storm in May 2024 spawned 2 new radiation belts around Earth ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:02:01.202479Z"
+            "fetched_datetime": "2025-02-11T15:12:01.829594Z"
         },
         {
-            "id": "f3691e6940cada46c0fc7c667e0d02bf",
+            "id": "f32b931dfe4b3cc3ffa5189a67af9feb",
             "source": "space",
-            "text": " SpaceX launches 23 Starlink satellites to orbit from California (photos) ",
+            "text": " Scientist image 3-million-light-year-long 'cosmic web' ensnaring 2 galaxies for 1st time ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:02:01.202501Z"
+            "fetched_datetime": "2025-02-12T12:07:28.387960Z"
         },
         {
-            "id": "4d0e646da8b54f76f348bea174d8755c",
+            "id": "0881b1a354ca4c3f00559ef611a165af",
+            "source": "space",
+            "text": " Gravitational waves could turn colliding neutron stars into 'cosmic tuning forks' ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:07:28.388007Z"
+        },
+        {
+            "id": "55c182558702070807d1999796d9db9b",
+            "source": "space",
+            "text": " NASA moves up return date for Boeing Starliner astronauts after swapping SpaceX Dragon spacecraft ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:07:28.388036Z"
+        },
+        {
+            "id": "f4fce55978f6ec9133ee5fd272ea4af3",
             "source": "aidy",
-            "text": "Bipartisan SAFE Orbit Act Reintroduced to Enhance LEO Safety and Space Traffic Coordination.",
+            "text": "U.S. Space Policy Overhaul: CFR Report Proposes Key Actions, FAA Oversight Concerns Raised",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:09:32.992139Z"
+            "fetched_datetime": "2025-02-12T12:53:38.578608Z"
         },
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -139,96 +131,112 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-02-17T23:00:00.000Z",
-            "time_remaining": "6d 09h 34m",
-            "fetched_datetime": "2025-02-11T12:11:47.746683Z"
+            "time_remaining": "5d 09h 40m",
+            "fetched_datetime": "2025-02-12T13:07:39.570043Z"
         },
         {
-            "id": "3e48db60347cba6c3dae1021ff3650e2",
+            "id": "323647e1f0c28c9637f3af8c3db4a026",
             "source": "spacenews",
-            "text": "Texas awards grants to five space companies",
+            "text": "U.S. Air Force extends Sierra Space contract for upper stage rocket engine",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:17:49.507786Z"
+            "fetched_datetime": "2025-02-12T13:21:39.137104Z"
         },
         {
-            "id": "425ab97c75637eb567f52a845acd76be",
+            "id": "20619b7119c961912fd73a7175fcc405",
             "source": "spacenews",
-            "text": "NASA selects SpaceX to launch astrophysics smallsat mission",
+            "text": "Space Force pushing forward with acquisition reforms ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T12:17:49.507830Z"
+            "fetched_datetime": "2025-02-12T13:21:39.137150Z"
         },
         {
-            "id": "40ac9114ea41da76d8f46abc8c51c285",
-            "source": "spacenews",
-            "text": "NASA boosts science objectives for Starling swarm",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-11T12:17:49.507862Z"
-        },
-        {
-            "id": "374c9ba3543094762603bdbb3ca9fc7e",
-            "source": "spacenews",
-            "text": "First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-11T12:25:32.399091Z"
-        },
-        {
-            "id": "9d54dcc964735fa9ab9990b59cc52a59",
-            "source": "spacenews",
-            "text": "Airbus to build radar imaging satellites for U.K. military",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-11T12:43:36.953427Z"
-        },
-        {
-            "id": "8460f094e594848b2957f88ad8ae3e20",
-            "source": "spacenews",
-            "text": "Karim Michel Sabbagh, Space 42 – Commercial Space Transformers",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-11T13:01:43.523980Z"
-        },
-        {
-            "id": "6cda511983a73243964bc21e80db28fa",
+            "id": "a00e910673eba7dcc14a6fb355437ecb",
             "source": "space",
-            "text": " SpaceX launches 23 Starlink satellites to orbit from California (video, photos) ",
+            "text": " Save big on one of the best star projectors you can buy, the Pococo Galaxy Star Projector ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T13:27:39.099581Z"
+            "fetched_datetime": "2025-02-12T13:35:27.624640Z"
         },
         {
-            "id": "a4135522aeca1008d4352955711fd8aa",
+            "id": "ad5715ef26b0bfb06df25d1e0d93603d",
             "source": "space",
-            "text": " Hurtigruten Cruises: The trip of a lifetime for astronomy lovers ",
+            "text": " SpaceX rocket launch spawns dazzling 'space jellyfish' in evening sky (photos) ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T13:29:31.789063Z"
+            "fetched_datetime": "2025-02-12T14:03:52.206264Z"
         },
         {
-            "id": "dbb7aed29f43234d1fff4f9ecf32a9c6",
+            "id": "07f152782f42a7d1d3824c35e113a54e",
+            "source": "spacenews",
+            "text": "GPS civil signals are vital for America’s national security",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T14:17:50.347362Z"
+        },
+        {
+            "id": "81c47745dc66af24b962241d32ad9bec",
+            "source": "spacenews",
+            "text": "Solar flares in May 2024 revealed Earth’s vulnerability to space weather",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T14:33:28.892775Z"
+        },
+        {
+            "id": "9f0007a2b88d7134871879165c7d96b1",
+            "source": "nyt",
+            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T14:47:29.899558Z"
+        },
+        {
+            "id": "2c45754eaafde476b434fd84905031aa",
             "source": "space",
-            "text": " Scientists alarmed as Rubin Observatory changes biography of astronomer Vera Rubin amid Trump's push to end DEI efforts ",
+            "text": " February's full moon shines bright tonight. Here's what to expect from the Snow Moon ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T14:01:56.293548Z"
+            "fetched_datetime": "2025-02-12T15:02:09.694560Z"
         },
         {
-            "id": "a7756da260b77fe37e1f268e019f1182",
-            "source": "spacenews",
-            "text": "U.S. military space tracking systems strain under new threats",
+            "id": "8377a17022de7409cde34aa8e27da25f",
+            "source": "space",
+            "text": " Aurora Alert: Geomagnetic storm could bring northern lights as far south as Michigan and Maine this week ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T14:03:44.779928Z"
+            "fetched_datetime": "2025-02-12T15:02:09.694610Z"
         },
         {
-            "id": "b7e0bd8a3912f5849f117a9b61d11a77",
-            "source": "spacenews",
-            "text": "Karim Michel Sabbagh, Space42 – Commercial Space Transformers",
+            "id": "a5e207ebcc940ec5a9b96910c3e3db6e",
+            "source": "space",
+            "text": " Scientists detect highest-energy ghost particle ever seen — where did it come from? ",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-11T14:09:42.164102Z"
+            "fetched_datetime": "2025-02-12T16:19:40.094096Z"
+        },
+        {
+            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
+            "source": "nyt",
+            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T16:33:31.864626Z"
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T16:33:31.864933Z"
+        },
+        {
+            "id": "819b6474255c78cf180f29f2a0eaba28",
+            "source": "spacenews",
+            "text": "Spire Global sues Kpler to complete maritime business sale",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T17:02:17.190824Z"
         }
     ]
 }
