@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a00e910673eba7dcc14a6fb355437ecb",
+    "trigger_count": 0,
+    "current_item_id": "0a86af541f706d311a3852fdb9211e3d",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -255,6 +255,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T20:11:51.018386Z"
+        },
+        {
+            "id": "0a86af541f706d311a3852fdb9211e3d",
+            "source": "spacenews",
+            "text": "Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’",
+            "source_link": "https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T21:49:13.811626Z"
         }
     ]
 }
