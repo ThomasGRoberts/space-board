@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c0a23714b95b8b810908be781862791",
+    "trigger_count": 0,
+    "current_item_id": "f32b931dfe4b3cc3ffa5189a67af9feb",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -91,6 +91,30 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-11T15:12:01.829594Z"
+        },
+        {
+            "id": "f32b931dfe4b3cc3ffa5189a67af9feb",
+            "source": "space",
+            "text": " Scientist image 3-million-light-year-long 'cosmic web' ensnaring 2 galaxies for 1st time ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:07:28.387960Z"
+        },
+        {
+            "id": "0881b1a354ca4c3f00559ef611a165af",
+            "source": "space",
+            "text": " Gravitational waves could turn colliding neutron stars into 'cosmic tuning forks' ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:07:28.388007Z"
+        },
+        {
+            "id": "55c182558702070807d1999796d9db9b",
+            "source": "space",
+            "text": " NASA moves up return date for Boeing Starliner astronauts after swapping SpaceX Dragon spacecraft ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T12:07:28.388036Z"
         }
     ]
 }
