@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-12T12:02:27.089244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f0007a2b88d7134871879165c7d96b1",
+    "trigger_count": 0,
+    "current_item_id": "2c45754eaafde476b434fd84905031aa",
     "data": [
         {
             "id": "9c0a23714b95b8b810908be781862791",
@@ -189,6 +189,22 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T14:47:29.899558Z"
+        },
+        {
+            "id": "2c45754eaafde476b434fd84905031aa",
+            "source": "space",
+            "text": " February's full moon shines bright tonight. Here's what to expect from the Snow Moon ",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T15:02:09.694560Z"
+        },
+        {
+            "id": "8377a17022de7409cde34aa8e27da25f",
+            "source": "space",
+            "text": " Aurora Alert: Geomagnetic storm could bring northern lights as far south as Michigan and Maine this week ",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-12T15:02:09.694610Z"
         }
     ]
 }
