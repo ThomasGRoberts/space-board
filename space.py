@@ -34,6 +34,8 @@ def pull_from_space(already_pushed: List[str]) -> List[str]:
                 continue
 
             message = title_elem.text
+            link = item.find('link').text
+
 
             created_at = datetime.strptime(pubdate_elem.text, date_format)
             if created_at.date() != datetime.now(created_at.tzinfo).date():
@@ -50,6 +52,7 @@ def pull_from_space(already_pushed: List[str]) -> List[str]:
                 "id": id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": link,
                 "shown": False,
                 "type": "news",
                 "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')

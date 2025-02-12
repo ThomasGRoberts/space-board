@@ -32,6 +32,7 @@ def pull_from_nyt(already_pushed: List[str]) -> List[str]:
 
         for item in items:
             title_elem = item.find('title')
+            link_elem = item.find('link')
             pubdate_elem = item.find('pubDate')
 
             # Check for missing required fields
@@ -39,6 +40,7 @@ def pull_from_nyt(already_pushed: List[str]) -> List[str]:
                 continue
 
             message = title_elem.text
+            link = link_elem.text
 
             created_at = datetime.strptime(pubdate_elem.text, date_format)
             if created_at.date() < cutoff_date:
@@ -55,6 +57,7 @@ def pull_from_nyt(already_pushed: List[str]) -> List[str]:
                 "id": id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": link,
                 "shown": False,
                 "type": "news",
                 "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')

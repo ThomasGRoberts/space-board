@@ -26,6 +26,7 @@ def pull_from_aidy(already_pushed: list[str]) -> List[str]:
             response.raise_for_status()  # Will raise HTTPError if the status code is 4xx, 5xx
             response = response.json()
             message = response["current_summary"]
+            link = response["topic_link"]
 
             id = md5((SOURCE + message).encode()).hexdigest()
 
@@ -38,6 +39,7 @@ def pull_from_aidy(already_pushed: list[str]) -> List[str]:
                 "id": id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": link,
                 "shown": False,
                 "type": "news",
                 "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')

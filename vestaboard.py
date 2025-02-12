@@ -153,6 +153,19 @@ def create_vestaboard_message(title):
     return message_layout
 
 
+def update_source_link(source_link: str):
+    html_template = f'''<!DOCTYPE html>
+        <html>
+        <head>
+            <meta http-equiv="refresh" content="0; url={source_link}">
+        </head>
+        </html>
+    '''
+    
+    with open("index.html", "w") as file:
+        file.write(html_template)
+
+
 def push_to_vestaboard(item):
     logging.info(f"Pushing message to Vestaboard from source: {item['source']}")
     try:
@@ -180,6 +193,8 @@ def push_to_vestaboard(item):
         logging.info(f"Message pushed to Vestaboard successfully: {vestaboard_response.text}")
 
         item["shown"] = True
+
+        update_source_link(item.get("source_link", "Sorry no more details about this item"))
 
     except requests.exceptions.RequestException as req_err:
         logging.error(f"Request error while pushing to Vestaboard: {req_err}")

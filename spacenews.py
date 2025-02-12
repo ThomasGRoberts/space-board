@@ -31,12 +31,14 @@ def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
 
         # Parse the XML content
         root = ET.fromstring(response.content)
-        spacenews_items = root.findall('.//item')
+        items = root.findall('.//item')
 
         # Process each item in the feed
-        for spacenews_item in spacenews_items:
-            message = spacenews_item.find('./title').text
-            created_at = datetime.strptime(spacenews_item.find('./pubDate').text, date_format)
+        for item in items:
+            message = item.find('./title').text
+            link = item.find('link').text
+
+            created_at = datetime.strptime(item.find('./pubDate').text, date_format)
             if created_at.date() != datetime.now(created_at.tzinfo).date():
                 continue
 
@@ -51,6 +53,7 @@ def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
                 "id": id,
                 "source": SOURCE,
                 "text": message,
+                "source_link": link,
                 "shown": False,
                 "type": "news",
                 "fetched_datetime": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
