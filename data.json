@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "68d6d4213aa789e97d2342f6df9fc39e",
+    "trigger_count": 0,
+    "current_item_id": "a8f7024f7cd29efecb904b29c92f389b",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -249,6 +249,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T17:37:22.965126Z"
+        },
+        {
+            "id": "a8f7024f7cd29efecb904b29c92f389b",
+            "source": "spacenews",
+            "text": "Blue Origin to lay off 10% of its workforce",
+            "source_link": "https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T17:51:41.822854Z"
         }
     ]
 }
