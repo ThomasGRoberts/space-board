@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "945e766030878c219d5691d19ed703f3",
+    "trigger_count": 0,
+    "current_item_id": "b01f765031223f9168121849fb7f8449",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -127,7 +127,7 @@
             "source": "space",
             "text": " NASA denies setting 'new bans' for employees amid reports of removing LGBTQI+ symbols from offices ",
             "source_link": "https://www.space.com/the-universe/earth/nasa-denies-setting-new-bans-for-employees-amid-reports-of-removing-lgbtqi-symbols-from-offices",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T12:03:41.413807Z"
         }
