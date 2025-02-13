@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a86af541f706d311a3852fdb9211e3d",
+    "trigger_count": 0,
+    "current_item_id": "72ce0a1232dc4cbb0fa0dbf39b484193",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -94,6 +94,42 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-12T14:33:28.892775Z"
+        },
+        {
+            "id": "72ce0a1232dc4cbb0fa0dbf39b484193",
+            "source": "space",
+            "text": " Total lunar eclipse March 2025: Live updates ",
+            "source_link": "https://www.space.com/news/live/lunar-eclipse-live-updates",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T12:03:41.413706Z"
+        },
+        {
+            "id": "3ddd6aacc3f93842651f5ab15040f92f",
+            "source": "space",
+            "text": " Total lunar eclipse brings a Blood Moon to North America next month. Here's how to see it ",
+            "source_link": "https://www.space.com/stargazing/eclipses/total-lunar-eclipse-brings-a-blood-moon-to-north-america-next-month-heres-how-to-see-it",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T12:03:41.413754Z"
+        },
+        {
+            "id": "945e766030878c219d5691d19ed703f3",
+            "source": "space",
+            "text": " February's Full Snow Moon dazzles in a flurry of stunning photos from around the world  ",
+            "source_link": "https://www.space.com/the-universe/moon/february-full-snow-moon-2025-dazzles-in-a-flurry-of-stunning-photos-from-around-the-world",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T12:03:41.413783Z"
+        },
+        {
+            "id": "b01f765031223f9168121849fb7f8449",
+            "source": "space",
+            "text": " NASA denies setting 'new bans' for employees amid reports of removing LGBTQI+ symbols from offices ",
+            "source_link": "https://www.space.com/the-universe/earth/nasa-denies-setting-new-bans-for-employees-amid-reports-of-removing-lgbtqi-symbols-from-offices",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T12:03:41.413807Z"
         }
     ]
 }
