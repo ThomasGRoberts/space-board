@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ddd6aacc3f93842651f5ab15040f92f",
+    "trigger_count": 0,
+    "current_item_id": "945e766030878c219d5691d19ed703f3",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -118,7 +118,7 @@
             "source": "space",
             "text": " February's Full Snow Moon dazzles in a flurry of stunning photos from around the world  ",
             "source_link": "https://www.space.com/the-universe/moon/february-full-snow-moon-2025-dazzles-in-a-flurry-of-stunning-photos-from-around-the-world",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T12:03:41.413783Z"
         },
