@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "945e766030878c219d5691d19ed703f3",
+    "trigger_count": 0,
+    "current_item_id": "c99baad7324d2f9c42e6aebc5110da94",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -231,6 +231,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T15:13:43.574434Z"
+        },
+        {
+            "id": "c99baad7324d2f9c42e6aebc5110da94",
+            "source": "space",
+            "text": " I test and review Lego sets for a living and Lego's 25th Anniversary R2-D2 is now one of the lowest prices I've ever seen it ",
+            "source_link": "https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T17:07:49.299048Z"
         }
     ]
 }
