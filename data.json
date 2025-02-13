@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
+    "trigger_count": 0,
+    "current_item_id": "b17f28031509e41e5dbde76c66bcdb73",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -222,6 +222,15 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-02-13T14:59:49.356565Z"
+        },
+        {
+            "id": "b17f28031509e41e5dbde76c66bcdb73",
+            "source": "space",
+            "text": " 'It was a miracle.' Amazing tales of dead spacecraft that came back to life ",
+            "source_link": "https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T15:13:43.574434Z"
         }
     ]
 }
