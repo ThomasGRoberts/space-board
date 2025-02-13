@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bf484c33efe7f2536248dfffb745bb45",
+    "trigger_count": 0,
+    "current_item_id": "840213781b24e0774d0d998124565be3",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -186,6 +186,24 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T14:15:47.672603Z"
+        },
+        {
+            "id": "840213781b24e0774d0d998124565be3",
+            "source": "spacenews",
+            "text": "York Space expands into satellite services for U.S. government",
+            "source_link": "https://spacenews.com/york-space-expands-into-full-service-satellite-offerings-for-u-s-government/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:29:38.816233Z"
+        },
+        {
+            "id": "988f27d59273c77cbfded14810086239",
+            "source": "spacenews",
+            "text": "Increasing the efficiency of the U.S. national security space program",
+            "source_link": "https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:29:38.816282Z"
         }
     ]
 }
