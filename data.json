@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 6,
-    "current_item_id": "988f27d59273c77cbfded14810086239",
+    "trigger_count": 0,
+    "current_item_id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
     "data": [
         {
             "id": "0a86af541f706d311a3852fdb9211e3d",
@@ -204,6 +204,24 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-13T14:29:38.816282Z"
+        },
+        {
+            "id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
+            "source": "spacenews",
+            "text": "China’s answer to SpaceX",
+            "source_link": "https://spacenews.com/chinas-answer-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:59:49.356515Z"
+        },
+        {
+            "id": "53a955f20006daf9bcf47395a1d22343",
+            "source": "spacenews",
+            "text": "Trump’s interest in Greenland highlights space race in the high North",
+            "source_link": "https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:59:49.356565Z"
         }
     ]
 }
