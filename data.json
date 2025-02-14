@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71421d70a1c0e1b59f53b480ce130fd6",
+    "trigger_count": 0,
+    "current_item_id": "1f2fc27a448d4500c689b2ca6c985bdb",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -239,6 +239,60 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T17:31:49.702222Z"
+        },
+        {
+            "id": "1f2fc27a448d4500c689b2ca6c985bdb",
+            "source": "breaking_defense",
+            "text": "Sensing grid should be ‘top priority’ for US Iron Dome: NORTHCOM head",
+            "source_link": "https://breakingdefense.com/2025/02/sensing-grid-should-be-top-priority-for-us-iron-dome-northcom-head/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032177Z"
+        },
+        {
+            "id": "e128c29ccd44e666a4f337f07e4d3bc4",
+            "source": "breaking_defense",
+            "text": "DEI, DOA: How the defense industry is racing to bury its diversity efforts",
+            "source_link": "https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032241Z"
+        },
+        {
+            "id": "adaea8913d4b3c53f4f21bf90c7fcd9c",
+            "source": "breaking_defense",
+            "text": "SDA asks industry to propose 60-day studies of ‘novel’ capabilities for Iron Dome",
+            "source_link": "https://breakingdefense.com/2025/02/sda-asks-industry-to-propose-60-day-studies-of-novel-capabilities-for-iron-dome/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032274Z"
+        },
+        {
+            "id": "11993f6b63760b7b99fc2b730297d369",
+            "source": "breaking_defense",
+            "text": "Space Force doubles down on acquisition reform ahead of DoD moves",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-doubles-down-on-acquisition-reform-ahead-of-dod-moves/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032303Z"
+        },
+        {
+            "id": "9a657859626537f7211a6fde8e91c01e",
+            "source": "breaking_defense",
+            "text": "Want ‘Competitive endurance?’ Focus on maneuver in space",
+            "source_link": "https://breakingdefense.com/2025/02/want-competitive-endurance-focus-on-maneuver-in-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032333Z"
+        },
+        {
+            "id": "153a20014b976443aaa76d8e344baea1",
+            "source": "breaking_defense",
+            "text": "Cummings, ATRX team to develop hypersonic drones",
+            "source_link": "https://breakingdefense.com/2025/02/cummings-atrx-team-to-develop-hypersonic-drones/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032356Z"
         }
     ]
 }
