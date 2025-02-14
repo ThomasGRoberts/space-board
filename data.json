@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff8b9b73f47a88b77f786195accbb10c",
+    "trigger_count": 0,
+    "current_item_id": "b2ba5c345c239ecccabc17982f26ddc2",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -194,6 +194,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T14:55:30.271922Z"
+        },
+        {
+            "id": "b2ba5c345c239ecccabc17982f26ddc2",
+            "source": "space",
+            "text": " Black holes vibe together in a cosmic love story for Valentine's Day written in the stars ",
+            "source_link": "https://www.space.com/black-hole-vibing-valentines-day",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T15:09:45.081184Z"
         }
     ]
 }
