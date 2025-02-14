@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "ec03eb5d08f7e669ad219f193e8ca85d",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -140,6 +140,15 @@
             "target_datetime": "2025-02-15T06:14:00.000Z",
             "time_remaining": "0d 17h 28m",
             "fetched_datetime": "2025-02-14T12:33:46.574189Z"
+        },
+        {
+            "id": "ec03eb5d08f7e669ad219f193e8ca85d",
+            "source": "spacenews",
+            "text": "Congress seeks NASA authorization, commercial space bills",
+            "source_link": "https://spacenews.com/congress-seeks-nasa-authorization-commercial-space-bills/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T12:47:35.320059Z"
         }
     ]
 }
