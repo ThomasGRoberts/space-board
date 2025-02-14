@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c99baad7324d2f9c42e6aebc5110da94",
+    "trigger_count": 0,
+    "current_item_id": "49d81600c467844e1641669275c77efe",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -212,6 +212,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T15:23:41.931793Z"
+        },
+        {
+            "id": "49d81600c467844e1641669275c77efe",
+            "source": "space",
+            "text": " Astronomers have brought you a space Valentine: The Tarantula of the cosmos ",
+            "source_link": "https://www.space.com/the-universe/astronomers-have-brought-you-a-space-valentine-the-tarantula-of-the-cosmos",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T16:35:22.856257Z"
         }
     ]
 }
