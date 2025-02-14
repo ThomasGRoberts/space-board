@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "277d98f1a21055f06f7ca36d7c90b1dc",
+    "trigger_count": 0,
+    "current_item_id": "f99c89ad8df8391c1ac823ffc3cb07e8",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -221,6 +221,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T16:35:22.856257Z"
+        },
+        {
+            "id": "f99c89ad8df8391c1ac823ffc3cb07e8",
+            "source": "space",
+            "text": " How Sen's 4K live cameras on the ISS offer a new perspective from space (op-ed) ",
+            "source_link": "https://www.space.com/sen-live-4k-cameras-iss-new-perspective-op-ed",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:03:36.855149Z"
         }
     ]
 }
