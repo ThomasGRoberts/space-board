@@ -1,290 +1,17 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-13T12:02:05.234080+00:00",
-    "trigger_count": 4,
-    "current_item_id": "840213781b24e0774d0d998124565be3",
+    "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
+    "trigger_count": 5,
+    "current_item_id": "7cdcf3dd8a1c161539dbbac011cb8879",
     "data": [
         {
-            "id": "0a86af541f706d311a3852fdb9211e3d",
-            "source": "spacenews",
-            "text": "Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’",
-            "source_link": "https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T21:49:13.811626Z"
-        },
-        {
-            "id": "bcd4eb94cdeefd1d21a6e0946e819cd6",
-            "source": "space",
-            "text": " Gamma rays create Red Hulk in Captain America: Brave New World, but how do they work in the real world? ",
-            "source_link": "https://www.space.com/captain-america-brave-new-world-gamma-rays-red-hulk",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T20:11:51.018386Z"
-        },
-        {
-            "id": "d7f6278bb52842cfa38a455e36297106",
-            "source": "space",
-            "text": " Win a chance to see a SpaceX rocket launch thanks to Bethesda, creators of 'Starfield' ",
-            "source_link": "https://www.space.com/entertainment/win-a-chance-to-see-a-spacex-rocket-launch-thanks-to-bethesda-creators-of-starfield",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T18:15:43.793657Z"
-        },
-        {
-            "id": "819b6474255c78cf180f29f2a0eaba28",
-            "source": "spacenews",
-            "text": "Spire Global sues Kpler to complete maritime business sale",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T17:02:17.190824Z"
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "id": "d6ae728787e0495991877e5fa476e943",
             "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
+            "text": "Blue Origin Cuts 10% of Its Employees",
+            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-12T16:33:31.864933Z"
-        },
-        {
-            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
-            "source": "nyt",
-            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T16:33:31.864626Z"
-        },
-        {
-            "id": "a5e207ebcc940ec5a9b96910c3e3db6e",
-            "source": "space",
-            "text": " Scientists detect highest-energy ghost particle ever seen — where did it come from? ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T16:19:40.094096Z"
-        },
-        {
-            "id": "8377a17022de7409cde34aa8e27da25f",
-            "source": "space",
-            "text": " Aurora Alert: Geomagnetic storm could bring northern lights as far south as Michigan and Maine this week ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T15:02:09.694610Z"
-        },
-        {
-            "id": "2c45754eaafde476b434fd84905031aa",
-            "source": "space",
-            "text": " February's full moon shines bright tonight. Here's what to expect from the Snow Moon ",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T15:02:09.694560Z"
-        },
-        {
-            "id": "9f0007a2b88d7134871879165c7d96b1",
-            "source": "nyt",
-            "text": "Overlooked No More: Annie Easley, Who Helped Take Spaceflight to New Heights",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T14:47:29.899558Z"
-        },
-        {
-            "id": "81c47745dc66af24b962241d32ad9bec",
-            "source": "spacenews",
-            "text": "Solar flares in May 2024 revealed Earth’s vulnerability to space weather",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-12T14:33:28.892775Z"
-        },
-        {
-            "id": "72ce0a1232dc4cbb0fa0dbf39b484193",
-            "source": "space",
-            "text": " Total lunar eclipse March 2025: Live updates ",
-            "source_link": "https://www.space.com/news/live/lunar-eclipse-live-updates",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T12:03:41.413706Z"
-        },
-        {
-            "id": "3ddd6aacc3f93842651f5ab15040f92f",
-            "source": "space",
-            "text": " Total lunar eclipse brings a Blood Moon to North America next month. Here's how to see it ",
-            "source_link": "https://www.space.com/stargazing/eclipses/total-lunar-eclipse-brings-a-blood-moon-to-north-america-next-month-heres-how-to-see-it",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T12:03:41.413754Z"
-        },
-        {
-            "id": "945e766030878c219d5691d19ed703f3",
-            "source": "space",
-            "text": " February's Full Snow Moon dazzles in a flurry of stunning photos from around the world  ",
-            "source_link": "https://www.space.com/the-universe/moon/february-full-snow-moon-2025-dazzles-in-a-flurry-of-stunning-photos-from-around-the-world",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T12:03:41.413783Z"
-        },
-        {
-            "id": "b01f765031223f9168121849fb7f8449",
-            "source": "space",
-            "text": " NASA denies setting 'new bans' for employees amid reports of removing LGBTQI+ symbols from offices ",
-            "source_link": "https://www.space.com/the-universe/earth/nasa-denies-setting-new-bans-for-employees-amid-reports-of-removing-lgbtqi-symbols-from-offices",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T12:03:41.413807Z"
-        },
-        {
-            "id": "0fe589ff4577f3cce5e9296b62435254",
-            "source": "aidy",
-            "text": "U.S. Backs Moon-First Strategy for Artemis II Amid China Space Race Concerns",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T13:02:07.199347Z"
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-8",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-15T05:00:00.000Z",
-            "time_remaining": "1d 15h 30m",
-            "fetched_datetime": "2025-02-13T13:17:42.419970Z"
-        },
-        {
-            "id": "d886d256032c81773e816834ef3c0e08",
-            "source": "spacenews",
-            "text": "Blue Origin planning second New Glenn launch for late spring",
-            "source_link": "https://spacenews.com/blue-origin-planning-second-new-glenn-launch-for-late-spring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T13:32:07.319537Z"
-        },
-        {
-            "id": "8ce3fad521986b8c2e85525b1ce5e5a4",
-            "source": "spacenews",
-            "text": "Satellite startup Apex wins $45.9 million Space Force contract",
-            "source_link": "https://spacenews.com/satellite-startup-apex-wins-45-9-million-space-force-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T13:32:07.319581Z"
-        },
-        {
-            "id": "4609939bba6449eeb9f42bb219c62c19",
-            "source": "spacenews",
-            "text": "DOGE to examine NASA payments",
-            "source_link": "https://spacenews.com/doge-to-examine-nasa-payments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T13:32:07.319612Z"
-        },
-        {
-            "id": "bf484c33efe7f2536248dfffb745bb45",
-            "source": "space",
-            "text": " 'Iridescent' clouds on Mars captured in Martian twilight in stunning NASA rover images (video) ",
-            "source_link": "https://www.space.com/the-universe/mars/iridescent-clouds-on-mars-captured-in-martian-twilight-in-stunning-nasa-rover-images-video",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:15:47.672603Z"
-        },
-        {
-            "id": "840213781b24e0774d0d998124565be3",
-            "source": "spacenews",
-            "text": "York Space expands into satellite services for U.S. government",
-            "source_link": "https://spacenews.com/york-space-expands-into-full-service-satellite-offerings-for-u-s-government/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:29:38.816233Z"
-        },
-        {
-            "id": "988f27d59273c77cbfded14810086239",
-            "source": "spacenews",
-            "text": "Increasing the efficiency of the U.S. national security space program",
-            "source_link": "https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:29:38.816282Z"
-        },
-        {
-            "id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
-            "source": "spacenews",
-            "text": "China’s answer to SpaceX",
-            "source_link": "https://spacenews.com/chinas-answer-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:59:49.356515Z"
-        },
-        {
-            "id": "53a955f20006daf9bcf47395a1d22343",
-            "source": "spacenews",
-            "text": "Trump’s interest in Greenland highlights space race in the high North",
-            "source_link": "https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:59:49.356565Z"
-        },
-        {
-            "id": "b17f28031509e41e5dbde76c66bcdb73",
-            "source": "space",
-            "text": " 'It was a miracle.' Amazing tales of dead spacecraft that came back to life ",
-            "source_link": "https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T15:13:43.574434Z"
-        },
-        {
-            "id": "c99baad7324d2f9c42e6aebc5110da94",
-            "source": "space",
-            "text": " I test and review Lego sets for a living and Lego's 25th Anniversary R2-D2 is now one of the lowest prices I've ever seen it ",
-            "source_link": "https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:07:49.299048Z"
-        },
-        {
-            "id": "68d6d4213aa789e97d2342f6df9fc39e",
-            "source": "space",
-            "text": " Moon or Mars? Why not both, acting NASA head Janet Petro says ",
-            "source_link": "https://www.space.com/the-universe/moon/moon-or-mars-why-not-both-acting-nasa-head-janet-petro-says",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:37:22.965126Z"
-        },
-        {
-            "id": "a8f7024f7cd29efecb904b29c92f389b",
-            "source": "spacenews",
-            "text": "Blue Origin to lay off 10% of its workforce",
-            "source_link": "https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:51:41.822854Z"
-        },
-        {
-            "id": "4158fc9837bad4edd833406ea75d7938",
-            "source": "space",
-            "text": " Perseverance rover's Mars samples show traces of ancient water, but NASA needs them on Earth to seek signs of life ",
-            "source_link": "https://www.space.com/perseverance-mars-rover-samples-ancient-water-return-to-earth-signs-of-life",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:02:05.348258Z"
-        },
-        {
-            "id": "aa0bb0fc9d50fbcf506b1a49297a0d12",
-            "source": "spacenews",
-            "text": "K2 Space raises $110 million to scale up satellite production",
-            "source_link": "https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:45:34.109512Z"
-        },
-        {
-            "id": "95c0c8ac2d9b97a922c4c7ea04e2cbd1",
-            "source": "space",
-            "text": " Japan's Resilience lunar lander prepares for 1st swing around the moon ",
-            "source_link": "https://www.space.com/ispace-resilience-moon-lander-1st-lunar-flyby",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:59:28.626449Z"
+            "fetched_datetime": "2025-02-13T21:09:31.932751Z"
         },
         {
             "id": "e81484d7c44d978a894eea05cdf66356",
@@ -296,13 +23,103 @@
             "fetched_datetime": "2025-02-13T20:13:26.775259Z"
         },
         {
-            "id": "d6ae728787e0495991877e5fa476e943",
-            "source": "nyt",
-            "text": "Blue Origin Cuts 10% of Its Employees",
-            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
+            "id": "95c0c8ac2d9b97a922c4c7ea04e2cbd1",
+            "source": "space",
+            "text": " Japan's Resilience lunar lander prepares for 1st swing around the moon ",
+            "source_link": "https://www.space.com/ispace-resilience-moon-lander-1st-lunar-flyby",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-13T21:09:31.932751Z"
+            "fetched_datetime": "2025-02-13T19:59:28.626449Z"
+        },
+        {
+            "id": "aa0bb0fc9d50fbcf506b1a49297a0d12",
+            "source": "spacenews",
+            "text": "K2 Space raises $110 million to scale up satellite production",
+            "source_link": "https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T19:45:34.109512Z"
+        },
+        {
+            "id": "4158fc9837bad4edd833406ea75d7938",
+            "source": "space",
+            "text": " Perseverance rover's Mars samples show traces of ancient water, but NASA needs them on Earth to seek signs of life ",
+            "source_link": "https://www.space.com/perseverance-mars-rover-samples-ancient-water-return-to-earth-signs-of-life",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T19:02:05.348258Z"
+        },
+        {
+            "id": "a8f7024f7cd29efecb904b29c92f389b",
+            "source": "spacenews",
+            "text": "Blue Origin to lay off 10% of its workforce",
+            "source_link": "https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T17:51:41.822854Z"
+        },
+        {
+            "id": "68d6d4213aa789e97d2342f6df9fc39e",
+            "source": "space",
+            "text": " Moon or Mars? Why not both, acting NASA head Janet Petro says ",
+            "source_link": "https://www.space.com/the-universe/moon/moon-or-mars-why-not-both-acting-nasa-head-janet-petro-says",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T17:37:22.965126Z"
+        },
+        {
+            "id": "c99baad7324d2f9c42e6aebc5110da94",
+            "source": "space",
+            "text": " I test and review Lego sets for a living and Lego's 25th Anniversary R2-D2 is now one of the lowest prices I've ever seen it ",
+            "source_link": "https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T17:07:49.299048Z"
+        },
+        {
+            "id": "b17f28031509e41e5dbde76c66bcdb73",
+            "source": "space",
+            "text": " 'It was a miracle.' Amazing tales of dead spacecraft that came back to life ",
+            "source_link": "https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T15:13:43.574434Z"
+        },
+        {
+            "id": "53a955f20006daf9bcf47395a1d22343",
+            "source": "spacenews",
+            "text": "Trump’s interest in Greenland highlights space race in the high North",
+            "source_link": "https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:59:49.356565Z"
+        },
+        {
+            "id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
+            "source": "spacenews",
+            "text": "China’s answer to SpaceX",
+            "source_link": "https://spacenews.com/chinas-answer-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-13T14:59:49.356515Z"
+        },
+        {
+            "id": "7cdcf3dd8a1c161539dbbac011cb8879",
+            "source": "space",
+            "text": " Meet 'Tansuo' and 'Wangyu,' China's next moon rover and astronaut spacesuit (video) ",
+            "source_link": "https://www.space.com/china-names-spacesuit-moon-rover-wangyu-tansuo",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T12:02:00.277936Z"
+        },
+        {
+            "id": "4d7f8a72c55d8e6e9ea39a4487b15dbb",
+            "source": "space",
+            "text": " Hypervelocity star drags fastest exoplanet through space at 1.2 million mph ",
+            "source_link": "https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T12:02:00.277985Z"
         }
     ]
 }
