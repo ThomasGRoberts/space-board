@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95c0c8ac2d9b97a922c4c7ea04e2cbd1",
+    "trigger_count": 0,
+    "current_item_id": "71421d70a1c0e1b59f53b480ce130fd6",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -230,6 +230,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T17:03:36.855149Z"
+        },
+        {
+            "id": "71421d70a1c0e1b59f53b480ce130fd6",
+            "source": "spacenews",
+            "text": "China invites bids for lunar satellite to support crewed moon landing missions",
+            "source_link": "https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:31:49.702222Z"
         }
     ]
 }
