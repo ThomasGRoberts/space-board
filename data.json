@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1f2fc27a448d4500c689b2ca6c985bdb",
+    "trigger_count": 0,
+    "current_item_id": "e128c29ccd44e666a4f337f07e4d3bc4",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -254,7 +254,7 @@
             "source": "breaking_defense",
             "text": "DEI, DOA: How the defense industry is racing to bury its diversity efforts",
             "source_link": "https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T17:47:38.032241Z"
         },
