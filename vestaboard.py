@@ -175,7 +175,7 @@ def push_to_vestaboard(item):
             vba_data = format_rest_message(message=item["text"], color=65, time_remaining=item["time_remaining"])
         elif item["source"] == "spacenews":
             vba_data = format_rest_message(message=item["text"], color=63)
-        elif item["source"] == "space":
+        elif item["source"] == "breaking_defense":
             vba_data = format_rest_message(message=item["text"], color=67)
         elif item["source"] == "nyt":
             vba_data = format_rest_message(message=item["text"], color=69)

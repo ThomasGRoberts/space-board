@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 from nyt import pull_from_nyt
 from aidy import pull_from_aidy
-from space import pull_from_space
+from breaking_defense import pull_from_breaking_defense
 from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
 from vestaboard import push_to_vestaboard
@@ -23,7 +23,7 @@ YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 MESSAGE_CHANGE_FREQUENCY = 7
 
 SOURCES = {
-    "space": pull_from_space,
+    "breaking_defense": pull_from_breaking_defense,
     "aidy": pull_from_aidy,
     "supercluster": pull_from_supercluster,
     "spacenews": pull_from_spacenews,
