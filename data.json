@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec03eb5d08f7e669ad219f193e8ca85d",
+    "trigger_count": 0,
+    "current_item_id": "b9d3546999cd05feb8c14e86c07b9cb8",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -149,6 +149,24 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T12:47:35.320059Z"
+        },
+        {
+            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
+            "source": "nyt",
+            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
+            "source_link": "https://www.nytimes.com/2025/02/12/science/astrophysics-universe-neutrinos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T13:02:12.165425Z"
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T13:02:12.165576Z"
         }
     ]
 }
