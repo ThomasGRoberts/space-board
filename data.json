@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9d3546999cd05feb8c14e86c07b9cb8",
+    "trigger_count": 0,
+    "current_item_id": "277d98f1a21055f06f7ca36d7c90b1dc",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -167,6 +167,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T13:02:12.165576Z"
+        },
+        {
+            "id": "277d98f1a21055f06f7ca36d7c90b1dc",
+            "source": "spacenews",
+            "text": "The power dilemma: Energy access could make or break the space economy this year ",
+            "source_link": "https://spacenews.com/the-power-dilemma-energy-access-could-make-or-break-the-space-economy-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T14:13:51.565271Z"
         }
     ]
 }
