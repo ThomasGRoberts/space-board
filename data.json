@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "06f6cef5fd4c36a0fb9dfc5c318f3219",
+    "trigger_count": 0,
+    "current_item_id": "ff8b9b73f47a88b77f786195accbb10c",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -185,6 +185,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T14:41:32.429260Z"
+        },
+        {
+            "id": "ff8b9b73f47a88b77f786195accbb10c",
+            "source": "space",
+            "text": " Fastest exoplanet ever is dragged through space at 1.2 million mph by hypervelocity star ",
+            "source_link": "https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T14:55:30.271922Z"
         }
     ]
 }
