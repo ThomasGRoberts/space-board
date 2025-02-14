@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2ba5c345c239ecccabc17982f26ddc2",
+    "trigger_count": 0,
+    "current_item_id": "b720ef2f933454087fc5438b81a95e29",
     "data": [
         {
             "id": "d6ae728787e0495991877e5fa476e943",
@@ -203,6 +203,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T15:09:45.081184Z"
+        },
+        {
+            "id": "b720ef2f933454087fc5438b81a95e29",
+            "source": "space",
+            "text": " 7 romantic sci-fi movies to cuddle up with on Valentine's Day ",
+            "source_link": "https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T15:23:41.931793Z"
         }
     ]
 }
