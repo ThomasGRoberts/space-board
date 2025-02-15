@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-15T12:02:05.318493+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "06515c35d52af9d3c34916dbbd4874d9",
     "data": [
         {
             "id": "153a20014b976443aaa76d8e344baea1",
@@ -164,7 +164,7 @@
             "source": "nyt",
             "text": "As Trump Slashes Federal Jobs, Alabama’s ‘Rocket City’ Braces for Impact",
             "source_link": "https://www.nytimes.com/2025/02/15/us/trump-federal-jobs-alabama-rocket-city.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-15T13:02:10.207510Z"
         }
