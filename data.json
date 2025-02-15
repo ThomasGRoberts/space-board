@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-15T12:02:05.318493+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "d16ace129c40d2bff5dfe180e7a8d681",
     "data": [
         {
             "id": "153a20014b976443aaa76d8e344baea1",
@@ -122,6 +122,15 @@
             "target_datetime": "2025-02-17T13:18:00.000Z",
             "time_remaining": "2d 00h 48m",
             "fetched_datetime": "2025-02-15T12:15:28.273302Z"
+        },
+        {
+            "id": "d16ace129c40d2bff5dfe180e7a8d681",
+            "source": "spacenews",
+            "text": "U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission",
+            "source_link": "https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:31:55.880408Z"
         }
     ]
 }
