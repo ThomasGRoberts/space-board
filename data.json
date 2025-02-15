@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-15T12:02:05.318493+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d16ace129c40d2bff5dfe180e7a8d681",
+    "trigger_count": 0,
+    "current_item_id": "e8b1540cf4b8d6f4bddacdc102cebf66",
     "data": [
         {
             "id": "153a20014b976443aaa76d8e344baea1",
@@ -131,6 +131,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-15T12:31:55.880408Z"
+        },
+        {
+            "id": "e8b1540cf4b8d6f4bddacdc102cebf66",
+            "source": "aidy",
+            "text": "U.S. Space Law Update: New Space Infrastructure Act Introduced, NASA Faces Policy Shifts and Layoffs",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:47:48.431648Z"
         }
     ]
 }
