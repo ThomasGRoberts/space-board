@@ -1,280 +1,17 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-14T12:02:00.125015+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7cdcf3dd8a1c161539dbbac011cb8879",
+    "last_run_datetime": "2025-02-15T12:02:05.318493+00:00",
+    "trigger_count": 0,
+    "current_item_id": "1e3922aa2ea6cd6660254820a5e5b5ce",
     "data": [
         {
-            "id": "d6ae728787e0495991877e5fa476e943",
-            "source": "nyt",
-            "text": "Blue Origin Cuts 10% of Its Employees",
-            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T21:09:31.932751Z"
-        },
-        {
-            "id": "e81484d7c44d978a894eea05cdf66356",
-            "source": "space",
-            "text": " Jeff Bezos' Blue Origin targeting late spring for 2nd launch of powerful New Glenn rocket ",
-            "source_link": "https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-targeting-late-spring-for-2nd-launch-of-powerful-new-glenn-rocket",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T20:13:26.775259Z"
-        },
-        {
-            "id": "95c0c8ac2d9b97a922c4c7ea04e2cbd1",
-            "source": "space",
-            "text": " Japan's Resilience lunar lander prepares for 1st swing around the moon ",
-            "source_link": "https://www.space.com/ispace-resilience-moon-lander-1st-lunar-flyby",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:59:28.626449Z"
-        },
-        {
-            "id": "aa0bb0fc9d50fbcf506b1a49297a0d12",
-            "source": "spacenews",
-            "text": "K2 Space raises $110 million to scale up satellite production",
-            "source_link": "https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:45:34.109512Z"
-        },
-        {
-            "id": "4158fc9837bad4edd833406ea75d7938",
-            "source": "space",
-            "text": " Perseverance rover's Mars samples show traces of ancient water, but NASA needs them on Earth to seek signs of life ",
-            "source_link": "https://www.space.com/perseverance-mars-rover-samples-ancient-water-return-to-earth-signs-of-life",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T19:02:05.348258Z"
-        },
-        {
-            "id": "a8f7024f7cd29efecb904b29c92f389b",
-            "source": "spacenews",
-            "text": "Blue Origin to lay off 10% of its workforce",
-            "source_link": "https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:51:41.822854Z"
-        },
-        {
-            "id": "68d6d4213aa789e97d2342f6df9fc39e",
-            "source": "space",
-            "text": " Moon or Mars? Why not both, acting NASA head Janet Petro says ",
-            "source_link": "https://www.space.com/the-universe/moon/moon-or-mars-why-not-both-acting-nasa-head-janet-petro-says",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:37:22.965126Z"
-        },
-        {
-            "id": "c99baad7324d2f9c42e6aebc5110da94",
-            "source": "space",
-            "text": " I test and review Lego sets for a living and Lego's 25th Anniversary R2-D2 is now one of the lowest prices I've ever seen it ",
-            "source_link": "https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T17:07:49.299048Z"
-        },
-        {
-            "id": "b17f28031509e41e5dbde76c66bcdb73",
-            "source": "space",
-            "text": " 'It was a miracle.' Amazing tales of dead spacecraft that came back to life ",
-            "source_link": "https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T15:13:43.574434Z"
-        },
-        {
-            "id": "53a955f20006daf9bcf47395a1d22343",
-            "source": "spacenews",
-            "text": "Trump’s interest in Greenland highlights space race in the high North",
-            "source_link": "https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:59:49.356565Z"
-        },
-        {
-            "id": "0a8d999ffe34fe9bfc6bab6ea2373f06",
-            "source": "spacenews",
-            "text": "China’s answer to SpaceX",
-            "source_link": "https://spacenews.com/chinas-answer-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-13T14:59:49.356515Z"
-        },
-        {
-            "id": "7cdcf3dd8a1c161539dbbac011cb8879",
-            "source": "space",
-            "text": " Meet 'Tansuo' and 'Wangyu,' China's next moon rover and astronaut spacesuit (video) ",
-            "source_link": "https://www.space.com/china-names-spacesuit-moon-rover-wangyu-tansuo",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T12:02:00.277936Z"
-        },
-        {
-            "id": "4d7f8a72c55d8e6e9ea39a4487b15dbb",
-            "source": "space",
-            "text": " Hypervelocity star drags fastest exoplanet through space at 1.2 million mph ",
-            "source_link": "https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T12:02:00.277985Z"
-        },
-        {
-            "id": "1e3922aa2ea6cd6660254820a5e5b5ce",
-            "source": "aidy",
-            "text": "Space Infrastructure Act Expands, SDA Launches \"Iron Dome\" Studies in Defense Shift",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T12:19:47.064681Z"
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-8",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-15T06:14:00.000Z",
-            "time_remaining": "0d 08h 28m",
-            "fetched_datetime": "2025-02-14T12:33:46.574189Z"
-        },
-        {
-            "id": "ec03eb5d08f7e669ad219f193e8ca85d",
-            "source": "spacenews",
-            "text": "Congress seeks NASA authorization, commercial space bills",
-            "source_link": "https://spacenews.com/congress-seeks-nasa-authorization-commercial-space-bills/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T12:47:35.320059Z"
-        },
-        {
-            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
-            "source": "nyt",
-            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
-            "source_link": "https://www.nytimes.com/2025/02/12/science/astrophysics-universe-neutrinos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T13:02:12.165425Z"
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T13:02:12.165576Z"
-        },
-        {
-            "id": "277d98f1a21055f06f7ca36d7c90b1dc",
-            "source": "spacenews",
-            "text": "The power dilemma: Energy access could make or break the space economy this year ",
-            "source_link": "https://spacenews.com/the-power-dilemma-energy-access-could-make-or-break-the-space-economy-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T14:13:51.565271Z"
-        },
-        {
-            "id": "06f6cef5fd4c36a0fb9dfc5c318f3219",
-            "source": "spacenews",
-            "text": "Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg",
-            "source_link": "https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T14:41:32.429260Z"
-        },
-        {
-            "id": "ff8b9b73f47a88b77f786195accbb10c",
-            "source": "space",
-            "text": " Fastest exoplanet ever is dragged through space at 1.2 million mph by hypervelocity star ",
-            "source_link": "https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T14:55:30.271922Z"
-        },
-        {
-            "id": "b2ba5c345c239ecccabc17982f26ddc2",
-            "source": "space",
-            "text": " Black holes vibe together in a cosmic love story for Valentine's Day written in the stars ",
-            "source_link": "https://www.space.com/black-hole-vibing-valentines-day",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T15:09:45.081184Z"
-        },
-        {
-            "id": "b720ef2f933454087fc5438b81a95e29",
-            "source": "space",
-            "text": " 7 romantic sci-fi movies to cuddle up with on Valentine's Day ",
-            "source_link": "https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T15:23:41.931793Z"
-        },
-        {
-            "id": "49d81600c467844e1641669275c77efe",
-            "source": "space",
-            "text": " Astronomers have brought you a space Valentine: The Tarantula of the cosmos ",
-            "source_link": "https://www.space.com/the-universe/astronomers-have-brought-you-a-space-valentine-the-tarantula-of-the-cosmos",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T16:35:22.856257Z"
-        },
-        {
-            "id": "f99c89ad8df8391c1ac823ffc3cb07e8",
-            "source": "space",
-            "text": " How Sen's 4K live cameras on the ISS offer a new perspective from space (op-ed) ",
-            "source_link": "https://www.space.com/sen-live-4k-cameras-iss-new-perspective-op-ed",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:03:36.855149Z"
-        },
-        {
-            "id": "71421d70a1c0e1b59f53b480ce130fd6",
-            "source": "spacenews",
-            "text": "China invites bids for lunar satellite to support crewed moon landing missions",
-            "source_link": "https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:31:49.702222Z"
-        },
-        {
-            "id": "1f2fc27a448d4500c689b2ca6c985bdb",
+            "id": "153a20014b976443aaa76d8e344baea1",
             "source": "breaking_defense",
-            "text": "Sensing grid should be ‘top priority’ for US Iron Dome: NORTHCOM head",
-            "source_link": "https://breakingdefense.com/2025/02/sensing-grid-should-be-top-priority-for-us-iron-dome-northcom-head/",
+            "text": "Cummings, ATRX team to develop hypersonic drones",
+            "source_link": "https://breakingdefense.com/2025/02/cummings-atrx-team-to-develop-hypersonic-drones/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032177Z"
-        },
-        {
-            "id": "e128c29ccd44e666a4f337f07e4d3bc4",
-            "source": "breaking_defense",
-            "text": "DEI, DOA: How the defense industry is racing to bury its diversity efforts",
-            "source_link": "https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032241Z"
-        },
-        {
-            "id": "adaea8913d4b3c53f4f21bf90c7fcd9c",
-            "source": "breaking_defense",
-            "text": "SDA asks industry to propose 60-day studies of ‘novel’ capabilities for Iron Dome",
-            "source_link": "https://breakingdefense.com/2025/02/sda-asks-industry-to-propose-60-day-studies-of-novel-capabilities-for-iron-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032274Z"
-        },
-        {
-            "id": "11993f6b63760b7b99fc2b730297d369",
-            "source": "breaking_defense",
-            "text": "Space Force doubles down on acquisition reform ahead of DoD moves",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-doubles-down-on-acquisition-reform-ahead-of-dod-moves/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032303Z"
+            "fetched_datetime": "2025-02-14T17:47:38.032356Z"
         },
         {
             "id": "9a657859626537f7211a6fde8e91c01e",
@@ -286,13 +23,94 @@
             "fetched_datetime": "2025-02-14T17:47:38.032333Z"
         },
         {
-            "id": "153a20014b976443aaa76d8e344baea1",
+            "id": "11993f6b63760b7b99fc2b730297d369",
             "source": "breaking_defense",
-            "text": "Cummings, ATRX team to develop hypersonic drones",
-            "source_link": "https://breakingdefense.com/2025/02/cummings-atrx-team-to-develop-hypersonic-drones/",
+            "text": "Space Force doubles down on acquisition reform ahead of DoD moves",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-doubles-down-on-acquisition-reform-ahead-of-dod-moves/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032356Z"
+            "fetched_datetime": "2025-02-14T17:47:38.032303Z"
+        },
+        {
+            "id": "adaea8913d4b3c53f4f21bf90c7fcd9c",
+            "source": "breaking_defense",
+            "text": "SDA asks industry to propose 60-day studies of ‘novel’ capabilities for Iron Dome",
+            "source_link": "https://breakingdefense.com/2025/02/sda-asks-industry-to-propose-60-day-studies-of-novel-capabilities-for-iron-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032274Z"
+        },
+        {
+            "id": "e128c29ccd44e666a4f337f07e4d3bc4",
+            "source": "breaking_defense",
+            "text": "DEI, DOA: How the defense industry is racing to bury its diversity efforts",
+            "source_link": "https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032241Z"
+        },
+        {
+            "id": "1f2fc27a448d4500c689b2ca6c985bdb",
+            "source": "breaking_defense",
+            "text": "Sensing grid should be ‘top priority’ for US Iron Dome: NORTHCOM head",
+            "source_link": "https://breakingdefense.com/2025/02/sensing-grid-should-be-top-priority-for-us-iron-dome-northcom-head/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:47:38.032177Z"
+        },
+        {
+            "id": "71421d70a1c0e1b59f53b480ce130fd6",
+            "source": "spacenews",
+            "text": "China invites bids for lunar satellite to support crewed moon landing missions",
+            "source_link": "https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:31:49.702222Z"
+        },
+        {
+            "id": "f99c89ad8df8391c1ac823ffc3cb07e8",
+            "source": "space",
+            "text": " How Sen's 4K live cameras on the ISS offer a new perspective from space (op-ed) ",
+            "source_link": "https://www.space.com/sen-live-4k-cameras-iss-new-perspective-op-ed",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T17:03:36.855149Z"
+        },
+        {
+            "id": "49d81600c467844e1641669275c77efe",
+            "source": "space",
+            "text": " Astronomers have brought you a space Valentine: The Tarantula of the cosmos ",
+            "source_link": "https://www.space.com/the-universe/astronomers-have-brought-you-a-space-valentine-the-tarantula-of-the-cosmos",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T16:35:22.856257Z"
+        },
+        {
+            "id": "b720ef2f933454087fc5438b81a95e29",
+            "source": "space",
+            "text": " 7 romantic sci-fi movies to cuddle up with on Valentine's Day ",
+            "source_link": "https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T15:23:41.931793Z"
+        },
+        {
+            "id": "b2ba5c345c239ecccabc17982f26ddc2",
+            "source": "space",
+            "text": " Black holes vibe together in a cosmic love story for Valentine's Day written in the stars ",
+            "source_link": "https://www.space.com/black-hole-vibing-valentines-day",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-14T15:09:45.081184Z"
+        },
+        {
+            "id": "1e3922aa2ea6cd6660254820a5e5b5ce",
+            "source": "aidy",
+            "text": "Space Infrastructure Act Expands, SDA Launches \"Iron Dome\" Studies in Defense Shift",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:02:05.922707Z"
         }
     ]
 }
