@@ -1,9 +1,94 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-15T12:02:05.318493+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-02-16T03:35:35.067205+00:00",
+    "trigger_count": 5,
     "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
     "data": [
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-123",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-18T23:00:00.000Z",
+            "time_remaining": "3d 03h 30m",
+            "fetched_datetime": "2025-02-15T19:17:11.540484Z"
+        },
+        {
+            "id": "cca8887561623defde095cf4fe31b943",
+            "source": "spacenews",
+            "text": "Blue Ghost 1 enters lunar orbit as Resilience flies by the moon",
+            "source_link": "https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T14:29:38.204801Z"
+        },
+        {
+            "id": "06515c35d52af9d3c34916dbbd4874d9",
+            "source": "nyt",
+            "text": "As Trump Slashes Federal Jobs, Alabama’s ‘Rocket City’ Braces for Impact",
+            "source_link": "https://www.nytimes.com/2025/02/15/us/trump-federal-jobs-alabama-rocket-city.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T13:02:10.207510Z"
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T13:02:10.207474Z"
+        },
+        {
+            "id": "d6ae728787e0495991877e5fa476e943",
+            "source": "nyt",
+            "text": "Blue Origin Cuts 10% of Its Employees",
+            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T13:02:10.207302Z"
+        },
+        {
+            "id": "e8b1540cf4b8d6f4bddacdc102cebf66",
+            "source": "aidy",
+            "text": "U.S. Space Law Update: New Space Infrastructure Act Introduced, NASA Faces Policy Shifts and Layoffs",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:47:48.431648Z"
+        },
+        {
+            "id": "d16ace129c40d2bff5dfe180e7a8d681",
+            "source": "spacenews",
+            "text": "U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission",
+            "source_link": "https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:31:55.880408Z"
+        },
+        {
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-57",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-17T13:18:00.000Z",
+            "time_remaining": "2d 00h 48m",
+            "fetched_datetime": "2025-02-15T12:15:28.273302Z"
+        },
+        {
+            "id": "1e3922aa2ea6cd6660254820a5e5b5ce",
+            "source": "aidy",
+            "text": "Space Infrastructure Act Expands, SDA Launches \"Iron Dome\" Studies in Defense Shift",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-15T12:02:05.922707Z"
+        },
         {
             "id": "153a20014b976443aaa76d8e344baea1",
             "source": "breaking_defense",
@@ -21,172 +106,6 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T17:47:38.032333Z"
-        },
-        {
-            "id": "11993f6b63760b7b99fc2b730297d369",
-            "source": "breaking_defense",
-            "text": "Space Force doubles down on acquisition reform ahead of DoD moves",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-doubles-down-on-acquisition-reform-ahead-of-dod-moves/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032303Z"
-        },
-        {
-            "id": "adaea8913d4b3c53f4f21bf90c7fcd9c",
-            "source": "breaking_defense",
-            "text": "SDA asks industry to propose 60-day studies of ‘novel’ capabilities for Iron Dome",
-            "source_link": "https://breakingdefense.com/2025/02/sda-asks-industry-to-propose-60-day-studies-of-novel-capabilities-for-iron-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032274Z"
-        },
-        {
-            "id": "e128c29ccd44e666a4f337f07e4d3bc4",
-            "source": "breaking_defense",
-            "text": "DEI, DOA: How the defense industry is racing to bury its diversity efforts",
-            "source_link": "https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032241Z"
-        },
-        {
-            "id": "1f2fc27a448d4500c689b2ca6c985bdb",
-            "source": "breaking_defense",
-            "text": "Sensing grid should be ‘top priority’ for US Iron Dome: NORTHCOM head",
-            "source_link": "https://breakingdefense.com/2025/02/sensing-grid-should-be-top-priority-for-us-iron-dome-northcom-head/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032177Z"
-        },
-        {
-            "id": "71421d70a1c0e1b59f53b480ce130fd6",
-            "source": "spacenews",
-            "text": "China invites bids for lunar satellite to support crewed moon landing missions",
-            "source_link": "https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:31:49.702222Z"
-        },
-        {
-            "id": "f99c89ad8df8391c1ac823ffc3cb07e8",
-            "source": "space",
-            "text": " How Sen's 4K live cameras on the ISS offer a new perspective from space (op-ed) ",
-            "source_link": "https://www.space.com/sen-live-4k-cameras-iss-new-perspective-op-ed",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:03:36.855149Z"
-        },
-        {
-            "id": "49d81600c467844e1641669275c77efe",
-            "source": "space",
-            "text": " Astronomers have brought you a space Valentine: The Tarantula of the cosmos ",
-            "source_link": "https://www.space.com/the-universe/astronomers-have-brought-you-a-space-valentine-the-tarantula-of-the-cosmos",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T16:35:22.856257Z"
-        },
-        {
-            "id": "b720ef2f933454087fc5438b81a95e29",
-            "source": "space",
-            "text": " 7 romantic sci-fi movies to cuddle up with on Valentine's Day ",
-            "source_link": "https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T15:23:41.931793Z"
-        },
-        {
-            "id": "b2ba5c345c239ecccabc17982f26ddc2",
-            "source": "space",
-            "text": " Black holes vibe together in a cosmic love story for Valentine's Day written in the stars ",
-            "source_link": "https://www.space.com/black-hole-vibing-valentines-day",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T15:09:45.081184Z"
-        },
-        {
-            "id": "1e3922aa2ea6cd6660254820a5e5b5ce",
-            "source": "aidy",
-            "text": "Space Infrastructure Act Expands, SDA Launches \"Iron Dome\" Studies in Defense Shift",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:02:05.922707Z"
-        },
-        {
-            "id": "e41d3412d827e1d1d6b00b4cf3697247",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-57",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-17T13:18:00.000Z",
-            "time_remaining": "2d 00h 48m",
-            "fetched_datetime": "2025-02-15T12:15:28.273302Z"
-        },
-        {
-            "id": "d16ace129c40d2bff5dfe180e7a8d681",
-            "source": "spacenews",
-            "text": "U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission",
-            "source_link": "https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:31:55.880408Z"
-        },
-        {
-            "id": "e8b1540cf4b8d6f4bddacdc102cebf66",
-            "source": "aidy",
-            "text": "U.S. Space Law Update: New Space Infrastructure Act Introduced, NASA Faces Policy Shifts and Layoffs",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:47:48.431648Z"
-        },
-        {
-            "id": "d6ae728787e0495991877e5fa476e943",
-            "source": "nyt",
-            "text": "Blue Origin Cuts 10% of Its Employees",
-            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207302Z"
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207474Z"
-        },
-        {
-            "id": "06515c35d52af9d3c34916dbbd4874d9",
-            "source": "nyt",
-            "text": "As Trump Slashes Federal Jobs, Alabama’s ‘Rocket City’ Braces for Impact",
-            "source_link": "https://www.nytimes.com/2025/02/15/us/trump-federal-jobs-alabama-rocket-city.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207510Z"
-        },
-        {
-            "id": "cca8887561623defde095cf4fe31b943",
-            "source": "spacenews",
-            "text": "Blue Ghost 1 enters lunar orbit as Resilience flies by the moon",
-            "source_link": "https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T14:29:38.204801Z"
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-123",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-18T23:00:00.000Z",
-            "time_remaining": "3d 03h 30m",
-            "fetched_datetime": "2025-02-15T19:17:11.540484Z"
         }
     ]
 }
