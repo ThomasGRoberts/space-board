@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-16T03:35:35.067205+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9a657859626537f7211a6fde8e91c01e",
+    "trigger_count": 0,
+    "current_item_id": "f9cea5ee1ed3bc03eb77535e8ea19526",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -115,6 +115,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-16T13:41:47.124368Z"
+        },
+        {
+            "id": "f9cea5ee1ed3bc03eb77535e8ea19526",
+            "source": "spacenews",
+            "text": "Ravyn aims to distrupt missile sector",
+            "source_link": "https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T14:09:06.894495Z"
         }
     ]
 }
