@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-16T03:35:35.067205+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "f70fa20d1938cdac95927665fe864eaa",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -106,6 +106,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-14T17:47:38.032333Z"
+        },
+        {
+            "id": "f70fa20d1938cdac95927665fe864eaa",
+            "source": "aidy",
+            "text": "U.S. Space Policy: New Proposals Assign Commerce Dept. Regulatory Role for Space Activities",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T13:41:47.124368Z"
         }
     ]
 }
