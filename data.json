@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-16T03:35:35.067205+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "1a76022f35cf0f4a70a38ecde1b31a9c",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -124,6 +124,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-16T14:09:06.894495Z"
+        },
+        {
+            "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
+            "source": "spacenews",
+            "text": "ESA astronaut with physical disability medically cleared for ISS missions",
+            "source_link": "https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T22:55:23.619432Z"
         }
     ]
 }
