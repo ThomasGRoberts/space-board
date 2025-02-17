@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
-    "trigger_count": 6,
-    "current_item_id": "06515c35d52af9d3c34916dbbd4874d9",
+    "trigger_count": 0,
+    "current_item_id": "51d75f3107ad3a7185015cc5f7b3e769",
     "data": [
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
@@ -131,6 +131,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-17T15:53:43.481394Z"
+        },
+        {
+            "id": "51d75f3107ad3a7185015cc5f7b3e769",
+            "source": "spacenews",
+            "text": "AAC starts work on maritime domain awareness constellation",
+            "source_link": "https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T17:03:28.978101Z"
         }
     ]
 }
