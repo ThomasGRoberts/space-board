@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
-    "trigger_count": 6,
-    "current_item_id": "80ce6ce1fb6fb48d37bf004246aebb1e",
+    "trigger_count": 0,
+    "current_item_id": "550252eed7dd27f09ee75aef1c468d0f",
     "data": [
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
@@ -104,6 +104,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-17T14:02:05.269849Z"
+        },
+        {
+            "id": "550252eed7dd27f09ee75aef1c468d0f",
+            "source": "spacenews",
+            "text": "Public offerings take the stage as the space industry learns from the SPAC boom and bust",
+            "source_link": "https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T14:43:38.864653Z"
         }
     ]
 }
