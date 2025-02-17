@@ -1,9 +1,36 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-16T03:35:35.067205+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
+    "trigger_count": 5,
     "current_item_id": "f70fa20d1938cdac95927665fe864eaa",
     "data": [
+        {
+            "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
+            "source": "spacenews",
+            "text": "ESA astronaut with physical disability medically cleared for ISS missions",
+            "source_link": "https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T22:55:23.619432Z"
+        },
+        {
+            "id": "f9cea5ee1ed3bc03eb77535e8ea19526",
+            "source": "spacenews",
+            "text": "Ravyn aims to distrupt missile sector",
+            "source_link": "https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T14:09:06.894495Z"
+        },
+        {
+            "id": "f70fa20d1938cdac95927665fe864eaa",
+            "source": "aidy",
+            "text": "U.S. Space Policy: New Proposals Assign Commerce Dept. Regulatory Role for Space Activities",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-16T13:41:47.124368Z"
+        },
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
@@ -79,60 +106,6 @@
             "target_datetime": "2025-02-17T13:18:00.000Z",
             "time_remaining": "0d 14h 24m",
             "fetched_datetime": "2025-02-15T12:15:28.273302Z"
-        },
-        {
-            "id": "1e3922aa2ea6cd6660254820a5e5b5ce",
-            "source": "aidy",
-            "text": "Space Infrastructure Act Expands, SDA Launches \"Iron Dome\" Studies in Defense Shift",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:02:05.922707Z"
-        },
-        {
-            "id": "153a20014b976443aaa76d8e344baea1",
-            "source": "breaking_defense",
-            "text": "Cummings, ATRX team to develop hypersonic drones",
-            "source_link": "https://breakingdefense.com/2025/02/cummings-atrx-team-to-develop-hypersonic-drones/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032356Z"
-        },
-        {
-            "id": "9a657859626537f7211a6fde8e91c01e",
-            "source": "breaking_defense",
-            "text": "Want ‘Competitive endurance?’ Focus on maneuver in space",
-            "source_link": "https://breakingdefense.com/2025/02/want-competitive-endurance-focus-on-maneuver-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-14T17:47:38.032333Z"
-        },
-        {
-            "id": "f70fa20d1938cdac95927665fe864eaa",
-            "source": "aidy",
-            "text": "U.S. Space Policy: New Proposals Assign Commerce Dept. Regulatory Role for Space Activities",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T13:41:47.124368Z"
-        },
-        {
-            "id": "f9cea5ee1ed3bc03eb77535e8ea19526",
-            "source": "spacenews",
-            "text": "Ravyn aims to distrupt missile sector",
-            "source_link": "https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T14:09:06.894495Z"
-        },
-        {
-            "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
-            "source": "spacenews",
-            "text": "ESA astronaut with physical disability medically cleared for ISS missions",
-            "source_link": "https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T22:55:23.619432Z"
         }
     ]
 }
