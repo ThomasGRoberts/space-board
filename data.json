@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "80ce6ce1fb6fb48d37bf004246aebb1e",
     "data": [
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
@@ -95,6 +95,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-15T12:31:55.880408Z"
+        },
+        {
+            "id": "80ce6ce1fb6fb48d37bf004246aebb1e",
+            "source": "spacenews",
+            "text": "Trump’s Iron Dome order needs constructive debate to reach its full potential",
+            "source_link": "https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T14:02:05.269849Z"
         }
     ]
 }
