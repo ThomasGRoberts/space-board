@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "377e4081dffe5ecfdba6e3d22bd164d1",
     "data": [
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
@@ -140,6 +140,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-17T17:03:28.978101Z"
+        },
+        {
+            "id": "377e4081dffe5ecfdba6e3d22bd164d1",
+            "source": "aidy",
+            "text": "Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T17:45:14.609925Z"
         }
     ]
 }
