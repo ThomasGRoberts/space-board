@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 13 | 13 |
-| breaking_defense | 2 | 3 | 2 | 2 |
+| breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 0 | 0 |
 
@@ -25,3 +25,4 @@
 - **Feb 18, 08:21 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 18, 08:35 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 18, 08:49 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
+- **Feb 18, 09:03 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
