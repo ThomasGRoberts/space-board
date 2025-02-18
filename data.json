@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7064330e59d6d7350f12b74e64ef9614",
+    "trigger_count": 0,
+    "current_item_id": "5433a1b3dcc0189445954c191321ce18",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -131,6 +131,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-18T08:47:23.314930Z"
+        },
+        {
+            "id": "5433a1b3dcc0189445954c191321ce18",
+            "source": "spacenews",
+            "text": "Beijing district moves to boost commercial space development, reveals ambitious launch targets",
+            "source_link": "https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T11:57:51.608960Z"
         }
     ]
 }
