@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 14 | 14 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 2 | 2 | 1 | 1 |
 
 # Shown Order
 
@@ -27,3 +27,4 @@
 - **Feb 18, 08:49 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 18, 09:03 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 18, 09:17 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 18, 09:32 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
