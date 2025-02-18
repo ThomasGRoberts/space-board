@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "550252eed7dd27f09ee75aef1c468d0f",
+    "trigger_count": 0,
+    "current_item_id": "6945fc268e04d8d86c30d88768a630a2",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -140,6 +140,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-18T11:57:51.608960Z"
+        },
+        {
+            "id": "6945fc268e04d8d86c30d88768a630a2",
+            "source": "spacenews",
+            "text": "United States and India to expand collaboration in space innovation",
+            "source_link": "https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T12:39:46.209205Z"
         }
     ]
 }
