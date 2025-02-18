@@ -5,7 +5,6 @@
 | spacenews | 8 | 15 | 18 | 18 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
-| supercluster | 2 | 2 | 21 | 21 |
 | nyt | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -28,28 +27,7 @@
 - **Feb 18, 08:49 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 18, 09:03 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 18, 09:17 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
-- **Feb 18, 09:32 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:33 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:35 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:37 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:39 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:41 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:43 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:45 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:47 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:49 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:51 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:53 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:55 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
-- **Feb 18, 09:57 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:59 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
-- **Feb 18, 10:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:20 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 18, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 18, 10:27 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Feb 18, 10:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 18, 10:55 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
