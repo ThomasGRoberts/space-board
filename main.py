@@ -10,7 +10,7 @@ from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
 from vestaboard import push_to_vestaboard
 
-from utils import get_db, save_db, get_time_remaining
+from utils import get_db, save_db, get_time_remaining, generate_report
 
 # Set up logging
 logging = Logger.setup_logger(__name__)
@@ -23,11 +23,11 @@ YESTERDAY_DATE = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 MESSAGE_CHANGE_FREQUENCY = 7
 
 SOURCES = {
-    "breaking_defense": pull_from_breaking_defense,
-    "aidy": pull_from_aidy,
     "supercluster": pull_from_supercluster,
     "spacenews": pull_from_spacenews,
-    "nyt": pull_from_nyt
+    "nyt": pull_from_nyt,
+    "aidy": pull_from_aidy,
+    "breaking_defense": pull_from_breaking_defense,
 }
 
 
@@ -93,6 +93,7 @@ def execute(db):
 def main():
     db = get_db()
     execute(db)    
+    generate_report(db)
     db = save_db(db)
 
 if __name__ == '__main__':

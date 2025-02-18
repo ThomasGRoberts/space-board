@@ -1,12 +1,13 @@
 import os
 import json
 from logger import Logger
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
 
 logging = Logger.setup_logger(__name__)
 
 DB_PATH = 'data.json'
-
+NUM_OF_OLD_NEWS_TO_KEEP = 500
 
 def get_db():
     default_db = {
@@ -85,7 +86,7 @@ def cleanup_db(db):
         fetched_date = datetime.fromisoformat(item["fetched_datetime"].replace("Z", "+00:00")).date()
         if fetched_date != current_date:
             older_items_seen += 1
-        if older_items_seen >= 11:
+        if older_items_seen >= NUM_OF_OLD_NEWS_TO_KEEP:
             break
 
     db["data"] = new_items
@@ -114,3 +115,58 @@ def get_time_remaining(target_time: str) -> str:
     hours, remainder = divmod(delta.seconds, 3600)
     minutes, _ = divmod(remainder, 60)
     return f"{days}d {hours:02d}h {minutes:02d}m"
+
+
+def generate_report(db):
+    now = datetime.now(timezone.utc)
+    one_day_ago = now - timedelta(days=1)
+    two_days_ago = now - timedelta(days=2)
+    
+    # Extracting data
+    data = db.get("data", [])
+    
+    # Preparing source frequency data
+    source_stats = {}
+    
+    for item in data:
+        source = item["source"]
+        fetched_datetime = datetime.fromisoformat(item["fetched_datetime"].replace('Z', '+00:00'))
+        shown_at = [datetime.fromisoformat(dt.replace('Z', '+00:00')) for dt in item.get("shown_at", [])]
+        
+        if source not in source_stats:
+            source_stats[source] = {"fetched_1d": 0, "fetched_2d": 0, "shown_1d": 0, "shown_2d": 0}
+        
+        if fetched_datetime:
+            if fetched_datetime >= one_day_ago:
+                source_stats[source]["fetched_1d"] += 1
+            if fetched_datetime >= two_days_ago:
+                source_stats[source]["fetched_2d"] += 1
+        
+        for shown_time in shown_at:
+            if shown_time >= one_day_ago:
+                source_stats[source]["shown_1d"] += 1
+            if shown_time >= two_days_ago:
+                source_stats[source]["shown_2d"] += 1
+    
+    # Preparing shown order data
+    shown_order = []
+    for item in data:
+        for shown_time in item.get("shown_at", []):
+            shown_order.append((shown_time, item["text"], item["source"]))
+    
+    # Sorting shown order by time
+    shown_order.sort()
+    
+    # Writing report.md
+    with open("report.md", "w", encoding="utf-8") as file:
+        file.write("# Source Frequency\n\n")
+        file.write("| Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |\n")
+        file.write("|--------|------------------|------------------|----------------|----------------|\n")
+        
+        for source, stats in source_stats.items():
+            file.write(f"| {source} | {stats['fetched_1d']} | {stats['fetched_2d']} | {stats['shown_1d']} | {stats['shown_2d']} |\n")
+        
+        file.write("\n# Shown Order\n\n")
+        for time, message, source in shown_order:
+            formatted_time = datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%b %d, %I:%M %p")
+            file.write(f"- **{formatted_time}** - {message} ({source})\n")
