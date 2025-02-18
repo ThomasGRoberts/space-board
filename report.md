@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 14 | 14 |
+| spacenews | 8 | 16 | 15 | 15 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 2 | 2 | 14 | 14 |
@@ -41,3 +41,4 @@
 - **Feb 18, 09:53 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:55 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:57 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
+- **Feb 18, 09:59 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
