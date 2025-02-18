@@ -6,6 +6,7 @@
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 2 | 2 | 21 | 21 |
+| nyt | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -50,3 +51,4 @@
 - **Feb 18, 10:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 18, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 18, 10:27 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
+- **Feb 18, 10:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
