@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 10 | 10 |
+| spacenews | 9 | 16 | 11 | 11 |
 | breaking_defense | 1 | 2 | 1 | 1 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 0 | 0 |
@@ -21,3 +21,4 @@
 - **Feb 18, 07:23 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 18, 07:37 PM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 18, 07:51 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
+- **Feb 18, 08:05 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)

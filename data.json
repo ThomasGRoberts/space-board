@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "698506cd0f5b029705d0da2ccc34c2da",
+    "trigger_count": 0,
+    "current_item_id": "2b20e892c6b3fa03b859c9b61c397db0",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -223,6 +223,18 @@
             "fetched_datetime": "2025-02-18T18:53:27.656607Z",
             "shown_at": [
                 "2025-02-18T18:53:28.142949Z"
+            ]
+        },
+        {
+            "id": "2b20e892c6b3fa03b859c9b61c397db0",
+            "source": "spacenews",
+            "text": "SES defends financial outlook after Moody’s downgrade",
+            "source_link": "https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T20:05:46.149906Z",
+            "shown_at": [
+                "2025-02-18T20:05:46.616885Z"
             ]
         }
     ]
