@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2953ccefd25e7e3d116831d0d6ed618b",
+    "trigger_count": 0,
+    "current_item_id": "550252eed7dd27f09ee75aef1c468d0f",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -81,7 +81,10 @@
             "source_link": "https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-17T14:43:38.864653Z"
+            "fetched_datetime": "2025-02-17T14:43:38.864653Z",
+            "shown_at": [
+                "2025-02-18T20:35:31.321200Z"
+            ]
         },
         {
             "id": "80ce6ce1fb6fb48d37bf004246aebb1e",

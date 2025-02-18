@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 11 | 11 |
+| spacenews | 8 | 16 | 12 | 12 |
 | breaking_defense | 2 | 3 | 2 | 2 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 0 | 0 |
@@ -23,3 +23,4 @@
 - **Feb 18, 07:51 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 18, 08:05 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 18, 08:21 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 18, 08:35 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
