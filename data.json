@@ -1,9 +1,90 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-17T00:02:11.947684+00:00",
-    "trigger_count": 0,
-    "current_item_id": "f70fa20d1938cdac95927665fe864eaa",
+    "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
+    "trigger_count": 1,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
+        {
+            "id": "0c9672a2274f2c7a8350c4b3064dea47",
+            "source": "spacenews",
+            "text": "Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine ",
+            "source_link": "https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T20:14:12.565345Z"
+        },
+        {
+            "id": "7064330e59d6d7350f12b74e64ef9614",
+            "source": "breaking_defense",
+            "text": "EDGE Group CEO says space, Africa two critical areas for growth in coming years",
+            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T18:57:31.125843Z"
+        },
+        {
+            "id": "8046ee5d2431b682ec7ccc5d496cff7f",
+            "source": "spacenews",
+            "text": "SpaceX invited to provide input on FAA air traffic control modernization",
+            "source_link": "https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T18:27:32.801719Z"
+        },
+        {
+            "id": "377e4081dffe5ecfdba6e3d22bd164d1",
+            "source": "aidy",
+            "text": "Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T17:45:14.609925Z"
+        },
+        {
+            "id": "51d75f3107ad3a7185015cc5f7b3e769",
+            "source": "spacenews",
+            "text": "AAC starts work on maritime domain awareness constellation",
+            "source_link": "https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T17:03:28.978101Z"
+        },
+        {
+            "id": "2c6e1bda7dbe739adbe5d9b4ee49de12",
+            "source": "spacenews",
+            "text": "EU Sets Ambitious Goals for In-Space Operations and Services",
+            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T15:53:43.481394Z"
+        },
+        {
+            "id": "197dac3e9ea3f256f6be5799f53f8c72",
+            "source": "spacenews",
+            "text": "Protected: EU Sets Ambitious Goals for In-Space Operations and Services",
+            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T15:39:33.165985Z"
+        },
+        {
+            "id": "550252eed7dd27f09ee75aef1c468d0f",
+            "source": "spacenews",
+            "text": "Public offerings take the stage as the space industry learns from the SPAC boom and bust",
+            "source_link": "https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T14:43:38.864653Z"
+        },
+        {
+            "id": "80ce6ce1fb6fb48d37bf004246aebb1e",
+            "source": "spacenews",
+            "text": "Trump’s Iron Dome order needs constructive debate to reach its full potential",
+            "source_link": "https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-17T14:02:05.269849Z"
+        },
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
             "source": "spacenews",
@@ -23,159 +104,15 @@
             "fetched_datetime": "2025-02-16T14:09:06.894495Z"
         },
         {
-            "id": "f70fa20d1938cdac95927665fe864eaa",
-            "source": "aidy",
-            "text": "U.S. Space Policy: New Proposals Assign Commerce Dept. Regulatory Role for Space Activities",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T13:41:47.124368Z"
-        },
-        {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from Florida",
             "source_link": "https://www.supercluster.com/launches/starlink-10-123",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-02-18T23:00:00.000Z",
-            "time_remaining": "1d 00h 54m",
-            "fetched_datetime": "2025-02-15T19:17:11.540484Z"
-        },
-        {
-            "id": "cca8887561623defde095cf4fe31b943",
-            "source": "spacenews",
-            "text": "Blue Ghost 1 enters lunar orbit as Resilience flies by the moon",
-            "source_link": "https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T14:29:38.204801Z"
-        },
-        {
-            "id": "06515c35d52af9d3c34916dbbd4874d9",
-            "source": "nyt",
-            "text": "As Trump Slashes Federal Jobs, Alabama’s ‘Rocket City’ Braces for Impact",
-            "source_link": "https://www.nytimes.com/2025/02/15/us/trump-federal-jobs-alabama-rocket-city.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207510Z"
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207474Z"
-        },
-        {
-            "id": "d6ae728787e0495991877e5fa476e943",
-            "source": "nyt",
-            "text": "Blue Origin Cuts 10% of Its Employees",
-            "source_link": "https://www.nytimes.com/2025/02/13/technology/blue-origin-layoffs-jeff-bezos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T13:02:10.207302Z"
-        },
-        {
-            "id": "e8b1540cf4b8d6f4bddacdc102cebf66",
-            "source": "aidy",
-            "text": "U.S. Space Law Update: New Space Infrastructure Act Introduced, NASA Faces Policy Shifts and Layoffs",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:47:48.431648Z"
-        },
-        {
-            "id": "d16ace129c40d2bff5dfe180e7a8d681",
-            "source": "spacenews",
-            "text": "U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission",
-            "source_link": "https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-15T12:31:55.880408Z"
-        },
-        {
-            "id": "80ce6ce1fb6fb48d37bf004246aebb1e",
-            "source": "spacenews",
-            "text": "Trump’s Iron Dome order needs constructive debate to reach its full potential",
-            "source_link": "https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T14:02:05.269849Z"
-        },
-        {
-            "id": "550252eed7dd27f09ee75aef1c468d0f",
-            "source": "spacenews",
-            "text": "Public offerings take the stage as the space industry learns from the SPAC boom and bust",
-            "source_link": "https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T14:43:38.864653Z"
-        },
-        {
-            "id": "197dac3e9ea3f256f6be5799f53f8c72",
-            "source": "spacenews",
-            "text": "Protected: EU Sets Ambitious Goals for In-Space Operations and Services",
-            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T15:39:33.165985Z"
-        },
-        {
-            "id": "2c6e1bda7dbe739adbe5d9b4ee49de12",
-            "source": "spacenews",
-            "text": "EU Sets Ambitious Goals for In-Space Operations and Services",
-            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T15:53:43.481394Z"
-        },
-        {
-            "id": "51d75f3107ad3a7185015cc5f7b3e769",
-            "source": "spacenews",
-            "text": "AAC starts work on maritime domain awareness constellation",
-            "source_link": "https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T17:03:28.978101Z"
-        },
-        {
-            "id": "377e4081dffe5ecfdba6e3d22bd164d1",
-            "source": "aidy",
-            "text": "Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T17:45:14.609925Z"
-        },
-        {
-            "id": "8046ee5d2431b682ec7ccc5d496cff7f",
-            "source": "spacenews",
-            "text": "SpaceX invited to provide input on FAA air traffic control modernization",
-            "source_link": "https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T18:27:32.801719Z"
-        },
-        {
-            "id": "7064330e59d6d7350f12b74e64ef9614",
-            "source": "breaking_defense",
-            "text": "EDGE Group CEO says space, Africa two critical areas for growth in coming years",
-            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T18:57:31.125843Z"
-        },
-        {
-            "id": "0c9672a2274f2c7a8350c4b3064dea47",
-            "source": "spacenews",
-            "text": "Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine ",
-            "source_link": "https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T20:14:12.565345Z"
+            "target_datetime": "2025-02-18T23:15:00.000Z",
+            "time_remaining": "0d 23h 12m",
+            "fetched_datetime": "2025-02-18T00:02:07.617684Z"
         }
     ]
 }
