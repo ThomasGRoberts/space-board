@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6945fc268e04d8d86c30d88768a630a2",
+    "trigger_count": 0,
+    "current_item_id": "698506cd0f5b029705d0da2ccc34c2da",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -128,7 +128,10 @@
             "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-18T06:23:47.897956Z"
+            "fetched_datetime": "2025-02-18T06:23:47.897956Z",
+            "shown_at": [
+                "2025-02-18T19:51:44.920746Z"
+            ]
         },
         {
             "id": "cd178ebd01da994412cf0a98f3ff3460",
