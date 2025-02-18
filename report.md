@@ -33,4 +33,4 @@
 - **Feb 18, 10:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 18, 10:55 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 18, 11:09 PM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
-- **Feb 18, 11:37 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
+- **Feb 18, 11:39 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
