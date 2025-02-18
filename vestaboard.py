@@ -2,7 +2,7 @@ import os
 import json
 import logging
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Set up logging
 logging.basicConfig(
@@ -193,6 +193,12 @@ def push_to_vestaboard(item):
         logging.info(f"Message pushed to Vestaboard successfully: {vestaboard_response.text}")
 
         item["shown"] = True
+
+        current_datetime = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+        if "shown_at" in item:
+            item["shown_at"].append(current_datetime)
+        else:
+            item["shown_at"] = [current_datetime]
 
         update_source_link(item.get("source_link", "Sorry no more details about this item"))
 
