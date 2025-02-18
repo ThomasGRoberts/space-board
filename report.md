@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 15 | 15 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
-| supercluster | 2 | 2 | 15 | 15 |
+| supercluster | 2 | 2 | 16 | 16 |
 
 # Shown Order
 
@@ -43,3 +43,4 @@
 - **Feb 18, 09:57 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:59 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 18, 10:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 18, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
