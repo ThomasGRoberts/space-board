@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd178ebd01da994412cf0a98f3ff3460",
+    "trigger_count": 0,
+    "current_item_id": "2af21250ebd9d6c512b8358b8ba54d00",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -169,7 +169,10 @@
             "source_link": "https://spacenews.com/legislative-recommendations-for-the-119th-congress-to-advance-non-governmental-space/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-18T13:35:35.385474Z"
+            "fetched_datetime": "2025-02-18T13:35:35.385474Z",
+            "shown_at": [
+                "2025-02-18T17:29:37.142201Z"
+            ]
         },
         {
             "id": "e5d44019f7a9b3b7146d843cdef3f1ca",
