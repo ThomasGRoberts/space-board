@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6e1bda7dbe739adbe5d9b4ee49de12",
+    "trigger_count": 0,
+    "current_item_id": "755fe8764bd45041f379e0b6baa24872",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -176,6 +176,15 @@
             "shown": true,
             "type": "news",
             "fetched_datetime": "2025-02-18T14:05:44.165661Z"
+        },
+        {
+            "id": "755fe8764bd45041f379e0b6baa24872",
+            "source": "spacenews",
+            "text": "Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter",
+            "source_link": "https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T14:35:47.461714Z"
         }
     ]
 }
