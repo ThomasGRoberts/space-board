@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 14 | 14 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
-| supercluster | 2 | 2 | 7 | 7 |
+| supercluster | 2 | 2 | 8 | 8 |
 
 # Shown Order
 
@@ -34,3 +34,4 @@
 - **Feb 18, 09:39 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:41 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
 - **Feb 18, 09:43 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
+- **Feb 18, 09:45 PM** - Rocket Lab Will Launch Imaging Satellites for BlackSky (supercluster)
