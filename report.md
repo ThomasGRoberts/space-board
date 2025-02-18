@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 3 | 3 |
+| spacenews | 8 | 14 | 4 | 4 |
 | breaking_defense | 2 | 2 | 0 | 0 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 0 | 0 |
@@ -13,3 +13,4 @@
 - **Feb 18, 05:29 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 18, 05:43 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 18, 05:57 PM** - “…Light this candle!” (spacenews)
+- **Feb 18, 06:11 PM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
