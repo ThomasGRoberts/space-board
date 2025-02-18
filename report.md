@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 16 | 16 |
+| spacenews | 8 | 15 | 17 | 17 |
 | breaking_defense | 2 | 3 | 3 | 3 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 2 | 2 | 21 | 21 |
@@ -52,3 +52,4 @@
 - **Feb 18, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 18, 10:27 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Feb 18, 10:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 18, 10:55 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
