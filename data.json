@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "755fe8764bd45041f379e0b6baa24872",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -227,7 +227,10 @@
             "source_link": "https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-18T14:35:47.461714Z"
+            "fetched_datetime": "2025-02-18T14:35:47.461714Z",
+            "shown_at": [
+                "2025-02-18T22:27:34.892568Z"
+            ]
         },
         {
             "id": "b487c47584e6c596cf95c0b5405f0bb5",
