@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 9 | 9 |
+| spacenews | 8 | 15 | 10 | 10 |
 | breaking_defense | 1 | 2 | 0 | 0 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 0 | 0 |
@@ -19,3 +19,4 @@
 - **Feb 18, 06:53 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 18, 07:09 PM** - “…Light this candle!” (spacenews)
 - **Feb 18, 07:23 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 18, 07:37 PM** - United States and India to expand collaboration in space innovation (spacenews)
