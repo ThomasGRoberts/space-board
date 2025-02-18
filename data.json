@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "550252eed7dd27f09ee75aef1c468d0f",
+    "trigger_count": 0,
+    "current_item_id": "80ce6ce1fb6fb48d37bf004246aebb1e",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -93,7 +93,10 @@
             "source_link": "https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-17T14:02:05.269849Z"
+            "fetched_datetime": "2025-02-17T14:02:05.269849Z",
+            "shown_at": [
+                "2025-02-18T20:49:38.360313Z"
+            ]
         },
         {
             "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
