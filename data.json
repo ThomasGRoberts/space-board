@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b20e892c6b3fa03b859c9b61c397db0",
+    "trigger_count": 0,
+    "current_item_id": "2953ccefd25e7e3d116831d0d6ed618b",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -235,6 +235,18 @@
             "fetched_datetime": "2025-02-18T20:05:46.149906Z",
             "shown_at": [
                 "2025-02-18T20:05:46.616885Z"
+            ]
+        },
+        {
+            "id": "2953ccefd25e7e3d116831d0d6ed618b",
+            "source": "breaking_defense",
+            "text": "Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-taps-firefly-to-launch-mysterious-victus-sol-responsive-space-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T20:21:56.141252Z",
+            "shown_at": [
+                "2025-02-18T20:21:57.189399Z"
             ]
         }
     ]
