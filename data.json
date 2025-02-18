@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 6,
-    "current_item_id": "726d1c0542c691efe929a4e96454cf67",
+    "trigger_count": 0,
+    "current_item_id": "03f56ab827e1e7587801b2ae55c4e73f",
     "data": [
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
@@ -264,6 +264,20 @@
             "fetched_datetime": "2025-02-18T22:41:52.230033Z",
             "shown_at": [
                 "2025-02-18T22:41:53.219397Z"
+            ]
+        },
+        {
+            "id": "03f56ab827e1e7587801b2ae55c4e73f",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Imaging Satellites for BlackSky",
+            "source_link": "https://www.supercluster.com/launches/fasten-your-space-belts",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-18T23:17:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-02-18T23:23:25.683596Z",
+            "shown_at": [
+                "2025-02-18T23:23:26.198106Z"
             ]
         }
     ]
