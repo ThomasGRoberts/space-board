@@ -1,9 +1,155 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-18T00:02:03.531568+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
+    "trigger_count": 5,
     "current_item_id": "03f56ab827e1e7587801b2ae55c4e73f",
     "data": [
+        {
+            "id": "9600529d6b1067e9f8651640294d3bc0",
+            "source": "nyt",
+            "text": "Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded.",
+            "source_link": "https://www.nytimes.com/2025/02/18/science/asteroid-2024-yr4-impact.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T22:41:52.230033Z",
+            "shown_at": [
+                "2025-02-18T22:41:53.219397Z"
+            ]
+        },
+        {
+            "id": "2953ccefd25e7e3d116831d0d6ed618b",
+            "source": "breaking_defense",
+            "text": "Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-taps-firefly-to-launch-mysterious-victus-sol-responsive-space-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T20:21:56.141252Z",
+            "shown_at": [
+                "2025-02-18T20:21:57.189399Z",
+                "2025-02-18T21:03:40.580581Z"
+            ]
+        },
+        {
+            "id": "2b20e892c6b3fa03b859c9b61c397db0",
+            "source": "spacenews",
+            "text": "SES defends financial outlook after Moody’s downgrade",
+            "source_link": "https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T20:05:46.149906Z",
+            "shown_at": [
+                "2025-02-18T20:05:46.616885Z"
+            ]
+        },
+        {
+            "id": "b487c47584e6c596cf95c0b5405f0bb5",
+            "source": "spacenews",
+            "text": "Rubicon wins NASA contract to develop large ASCENT thruster",
+            "source_link": "https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T18:53:27.656607Z",
+            "shown_at": [
+                "2025-02-18T18:53:28.142949Z",
+                "2025-02-18T21:17:30.062133Z"
+            ]
+        },
+        {
+            "id": "755fe8764bd45041f379e0b6baa24872",
+            "source": "spacenews",
+            "text": "Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter",
+            "source_link": "https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T14:35:47.461714Z",
+            "shown_at": [
+                "2025-02-18T22:27:34.892568Z"
+            ]
+        },
+        {
+            "id": "e5d44019f7a9b3b7146d843cdef3f1ca",
+            "source": "spacenews",
+            "text": "“…Light this candle!”",
+            "source_link": "https://spacenews.com/light-this-candle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T14:05:44.165661Z",
+            "shown_at": [
+                "2025-02-18T17:57:26.491872Z",
+                "2025-02-18T19:09:34.051061Z"
+            ]
+        },
+        {
+            "id": "2af21250ebd9d6c512b8358b8ba54d00",
+            "source": "spacenews",
+            "text": "Legislative recommendations for the 119th Congress to advance non-governmental space",
+            "source_link": "https://spacenews.com/legislative-recommendations-for-the-119th-congress-to-advance-non-governmental-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T13:35:35.385474Z",
+            "shown_at": [
+                "2025-02-18T17:29:37.142201Z",
+                "2025-02-18T17:43:41.631913Z"
+            ]
+        },
+        {
+            "id": "726d1c0542c691efe929a4e96454cf67",
+            "source": "spacenews",
+            "text": "Software Beyond the Screen with Sunil Nagaraj",
+            "source_link": "https://spacenews.com/software-beyond-the-screen-with-sunil-nagaraj/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T13:07:50.350309Z",
+            "shown_at": [
+                "2025-02-18T18:39:29.912178Z",
+                "2025-02-18T23:09:30.898621Z"
+            ]
+        },
+        {
+            "id": "6945fc268e04d8d86c30d88768a630a2",
+            "source": "spacenews",
+            "text": "United States and India to expand collaboration in space innovation",
+            "source_link": "https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T12:39:46.209205Z",
+            "shown_at": [
+                "2025-02-18T19:37:45.549911Z"
+            ]
+        },
+        {
+            "id": "5433a1b3dcc0189445954c191321ce18",
+            "source": "spacenews",
+            "text": "Beijing district moves to boost commercial space development, reveals ambitious launch targets",
+            "source_link": "https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T11:57:51.608960Z"
+        },
+        {
+            "id": "cd178ebd01da994412cf0a98f3ff3460",
+            "source": "aidy",
+            "text": "Ohio Expands Military Leave Law to Include Space Force Members",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T08:47:23.314930Z",
+            "shown_at": [
+                "2025-02-18T17:15:35.614328Z"
+            ]
+        },
+        {
+            "id": "698506cd0f5b029705d0da2ccc34c2da",
+            "source": "breaking_defense",
+            "text": "EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years",
+            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-18T06:23:47.897956Z",
+            "shown_at": [
+                "2025-02-18T19:51:44.920746Z"
+            ]
+        },
         {
             "id": "0c9672a2274f2c7a8350c4b3064dea47",
             "source": "spacenews",
@@ -121,152 +267,6 @@
             "fetched_datetime": "2025-02-16T14:09:06.894495Z"
         },
         {
-            "id": "698506cd0f5b029705d0da2ccc34c2da",
-            "source": "breaking_defense",
-            "text": "EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years",
-            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T06:23:47.897956Z",
-            "shown_at": [
-                "2025-02-18T19:51:44.920746Z"
-            ]
-        },
-        {
-            "id": "cd178ebd01da994412cf0a98f3ff3460",
-            "source": "aidy",
-            "text": "Ohio Expands Military Leave Law to Include Space Force Members",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T08:47:23.314930Z",
-            "shown_at": [
-                "2025-02-18T17:15:35.614328Z"
-            ]
-        },
-        {
-            "id": "5433a1b3dcc0189445954c191321ce18",
-            "source": "spacenews",
-            "text": "Beijing district moves to boost commercial space development, reveals ambitious launch targets",
-            "source_link": "https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T11:57:51.608960Z"
-        },
-        {
-            "id": "6945fc268e04d8d86c30d88768a630a2",
-            "source": "spacenews",
-            "text": "United States and India to expand collaboration in space innovation",
-            "source_link": "https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T12:39:46.209205Z",
-            "shown_at": [
-                "2025-02-18T19:37:45.549911Z"
-            ]
-        },
-        {
-            "id": "726d1c0542c691efe929a4e96454cf67",
-            "source": "spacenews",
-            "text": "Software Beyond the Screen with Sunil Nagaraj",
-            "source_link": "https://spacenews.com/software-beyond-the-screen-with-sunil-nagaraj/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T13:07:50.350309Z",
-            "shown_at": [
-                "2025-02-18T18:39:29.912178Z",
-                "2025-02-18T23:09:30.898621Z"
-            ]
-        },
-        {
-            "id": "2af21250ebd9d6c512b8358b8ba54d00",
-            "source": "spacenews",
-            "text": "Legislative recommendations for the 119th Congress to advance non-governmental space",
-            "source_link": "https://spacenews.com/legislative-recommendations-for-the-119th-congress-to-advance-non-governmental-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T13:35:35.385474Z",
-            "shown_at": [
-                "2025-02-18T17:29:37.142201Z",
-                "2025-02-18T17:43:41.631913Z"
-            ]
-        },
-        {
-            "id": "e5d44019f7a9b3b7146d843cdef3f1ca",
-            "source": "spacenews",
-            "text": "“…Light this candle!”",
-            "source_link": "https://spacenews.com/light-this-candle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T14:05:44.165661Z",
-            "shown_at": [
-                "2025-02-18T17:57:26.491872Z",
-                "2025-02-18T19:09:34.051061Z"
-            ]
-        },
-        {
-            "id": "755fe8764bd45041f379e0b6baa24872",
-            "source": "spacenews",
-            "text": "Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter",
-            "source_link": "https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T14:35:47.461714Z",
-            "shown_at": [
-                "2025-02-18T22:27:34.892568Z"
-            ]
-        },
-        {
-            "id": "b487c47584e6c596cf95c0b5405f0bb5",
-            "source": "spacenews",
-            "text": "Rubicon wins NASA contract to develop large ASCENT thruster",
-            "source_link": "https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T18:53:27.656607Z",
-            "shown_at": [
-                "2025-02-18T18:53:28.142949Z",
-                "2025-02-18T21:17:30.062133Z"
-            ]
-        },
-        {
-            "id": "2b20e892c6b3fa03b859c9b61c397db0",
-            "source": "spacenews",
-            "text": "SES defends financial outlook after Moody’s downgrade",
-            "source_link": "https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T20:05:46.149906Z",
-            "shown_at": [
-                "2025-02-18T20:05:46.616885Z"
-            ]
-        },
-        {
-            "id": "2953ccefd25e7e3d116831d0d6ed618b",
-            "source": "breaking_defense",
-            "text": "Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-taps-firefly-to-launch-mysterious-victus-sol-responsive-space-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T20:21:56.141252Z",
-            "shown_at": [
-                "2025-02-18T20:21:57.189399Z",
-                "2025-02-18T21:03:40.580581Z"
-            ]
-        },
-        {
-            "id": "9600529d6b1067e9f8651640294d3bc0",
-            "source": "nyt",
-            "text": "Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded.",
-            "source_link": "https://www.nytimes.com/2025/02/18/science/asteroid-2024-yr4-impact.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T22:41:52.230033Z",
-            "shown_at": [
-                "2025-02-18T22:41:53.219397Z"
-            ]
-        },
-        {
             "id": "03f56ab827e1e7587801b2ae55c4e73f",
             "source": "supercluster",
             "text": "Rocket Lab Will Launch Imaging Satellites for BlackSky",
@@ -275,9 +275,9 @@
             "type": "launch",
             "target_datetime": "2025-02-18T23:17:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-02-18T23:59:33.082506Z",
+            "fetched_datetime": "2025-02-19T00:02:05.750375Z",
             "shown_at": [
-                "2025-02-18T23:59:33.545305Z"
+                "2025-02-19T00:02:06.722946Z"
             ]
         }
     ]
