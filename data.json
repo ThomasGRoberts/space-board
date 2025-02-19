@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 5,
-    "current_item_id": "03f56ab827e1e7587801b2ae55c4e73f",
+    "trigger_count": 6,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -267,17 +267,17 @@
             "fetched_datetime": "2025-02-16T14:09:06.894495Z"
         },
         {
-            "id": "03f56ab827e1e7587801b2ae55c4e73f",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Imaging Satellites for BlackSky",
-            "source_link": "https://www.supercluster.com/launches/fasten-your-space-belts",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-123",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-02-18T23:17:00.000Z",
+            "target_datetime": "2025-02-18T23:21:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-02-19T00:15:38.058334Z",
+            "fetched_datetime": "2025-02-19T00:18:11.316761Z",
             "shown_at": [
-                "2025-02-19T00:15:38.820668Z"
+                "2025-02-19T00:18:12.244064Z"
             ]
         }
     ]
