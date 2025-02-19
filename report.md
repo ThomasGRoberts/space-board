@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 3 | 4 |
-| breaking_defense | 2 | 4 | 13 | 16 |
+| breaking_defense | 2 | 4 | 14 | 17 |
 | spacenews | 9 | 17 | 66 | 84 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -158,3 +158,4 @@
 - **Feb 19, 10:53 PM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
 - **Feb 19, 11:07 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 11:21 PM** - Defense executives demand clarity on space agencies’ missions (spacenews)
+- **Feb 19, 11:35 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
