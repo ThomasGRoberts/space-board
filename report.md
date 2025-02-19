@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 3 | 3 |
 | breaking_defense | 2 | 3 | 12 | 13 |
 | spacenews | 7 | 15 | 65 | 76 |
-| aidy | 1 | 2 | 7 | 8 |
+| aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -138,3 +138,4 @@
 - **Feb 19, 07:35 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 19, 07:49 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 08:03 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 19, 08:17 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
