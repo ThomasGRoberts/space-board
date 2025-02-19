@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 3 | 10 | 10 |
-| spacenews | 7 | 17 | 63 | 63 |
+| spacenews | 7 | 16 | 63 | 63 |
 | aidy | 1 | 3 | 8 | 8 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -114,3 +114,4 @@
 - **Feb 19, 03:10 PM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
 - **Feb 19, 03:27 PM** - AAC starts work on maritime domain awareness constellation (spacenews)
 - **Feb 19, 03:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 19, 03:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
