@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 35 | 35 |
+| spacenews | 9 | 16 | 36 | 36 |
 | aidy | 1 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -61,3 +61,4 @@
 - **Feb 19, 05:02 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
 - **Feb 19, 05:17 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 05:31 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 19, 05:45 AM** - United States and India to expand collaboration in space innovation (spacenews)
