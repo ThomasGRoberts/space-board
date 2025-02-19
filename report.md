@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 5 | 5 |
-| spacenews | 9 | 16 | 39 | 39 |
+| spacenews | 9 | 16 | 40 | 40 |
 | aidy | 1 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -73,3 +73,4 @@
 - **Feb 19, 06:28 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 06:45 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 19, 06:59 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 19, 07:13 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
