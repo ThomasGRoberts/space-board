@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 4 | 4 |
 | breaking_defense | 2 | 4 | 11 | 14 |
-| spacenews | 8 | 16 | 65 | 79 |
+| spacenews | 8 | 16 | 66 | 80 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -151,3 +151,4 @@
 - **Feb 19, 09:15 PM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
 - **Feb 19, 09:30 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 19, 09:43 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 19, 09:57 PM** - United States and India to expand collaboration in space innovation (spacenews)
