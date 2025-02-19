@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 33 | 33 |
+| spacenews | 9 | 16 | 34 | 34 |
 | aidy | 1 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -59,3 +59,4 @@
 - **Feb 19, 04:33 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 19, 04:47 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 05:02 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
+- **Feb 19, 05:17 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
