@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
-| breaking_defense | 1 | 3 | 5 | 5 |
+| breaking_defense | 1 | 3 | 6 | 6 |
 | spacenews | 9 | 16 | 43 | 43 |
 | aidy | 1 | 2 | 5 | 5 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -78,3 +78,4 @@
 - **Feb 19, 07:41 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 07:55 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 08:13 AM** - “…Light this candle!” (spacenews)
+- **Feb 19, 08:29 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
