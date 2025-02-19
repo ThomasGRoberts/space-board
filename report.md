@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
-| breaking_defense | 1 | 3 | 6 | 6 |
+| breaking_defense | 1 | 3 | 7 | 7 |
 | spacenews | 9 | 16 | 45 | 45 |
 | aidy | 1 | 3 | 7 | 7 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -90,3 +90,4 @@
 - **Feb 19, 09:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 09:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 09:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 09:59 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
