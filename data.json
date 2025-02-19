@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ad74b0f1b492df016faeb411cc56d79b",
+    "trigger_count": 0,
+    "current_item_id": "b5e9269eca72f28dc1a281f278549d72",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -424,9 +424,12 @@
             "source": "spacenews",
             "text": "True Anomaly opens Long Beach factory, citing proximity to Space Force customers",
             "source_link": "https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-19T14:09:43.268758Z"
+            "fetched_datetime": "2025-02-19T14:09:43.268758Z",
+            "shown_at": [
+                "2025-02-19T14:23:53.605830Z"
+            ]
         }
     ]
 }

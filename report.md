@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 9 | 9 |
-| spacenews | 8 | 19 | 59 | 59 |
+| spacenews | 8 | 19 | 60 | 60 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -108,3 +108,4 @@
 - **Feb 19, 01:39 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 19, 01:53 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 19, 02:09 PM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
+- **Feb 19, 02:23 PM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
