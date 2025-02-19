@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 3 | 10 | 10 |
-| spacenews | 7 | 16 | 63 | 63 |
+| spacenews | 7 | 16 | 64 | 64 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -121,3 +121,4 @@
 - **Feb 19, 04:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 04:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 04:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 04:11 PM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
