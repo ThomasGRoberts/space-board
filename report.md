@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 3 | 11 | 11 |
-| spacenews | 9 | 17 | 67 | 71 |
+| spacenews | 9 | 17 | 68 | 72 |
 | aidy | 1 | 2 | 7 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -130,3 +130,4 @@
 - **Feb 19, 05:35 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 19, 05:49 PM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 19, 06:03 PM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
+- **Feb 19, 06:19 PM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
