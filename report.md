@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 1 | 1 |
+| nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 3 | 10 | 10 |
 | spacenews | 7 | 17 | 63 | 63 |
 | aidy | 1 | 3 | 8 | 8 |
@@ -113,3 +113,4 @@
 - **Feb 19, 02:53 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 03:10 PM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
 - **Feb 19, 03:27 PM** - AAC starts work on maritime domain awareness constellation (spacenews)
+- **Feb 19, 03:41 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
