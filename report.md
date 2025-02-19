@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
 | spacenews | 9 | 16 | 31 | 31 |
-| aidy | 1 | 2 | 3 | 3 |
+| aidy | 1 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -56,3 +56,4 @@
 - **Feb 19, 03:49 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 19, 04:05 AM** - “…Light this candle!” (spacenews)
 - **Feb 19, 04:19 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 19, 04:33 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
