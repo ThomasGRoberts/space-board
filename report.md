@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 3 | 3 |
 | breaking_defense | 1 | 3 | 10 | 13 |
-| spacenews | 7 | 15 | 65 | 78 |
+| spacenews | 8 | 16 | 66 | 79 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -148,3 +148,4 @@
 - **Feb 19, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 09:01 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 19, 09:15 PM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
