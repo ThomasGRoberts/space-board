@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2af21250ebd9d6c512b8358b8ba54d00",
+    "trigger_count": 0,
+    "current_item_id": "758483dd70a349e483f64bda6b38b969",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -450,6 +450,18 @@
             "shown_at": [
                 "2025-02-19T14:23:53.605830Z",
                 "2025-02-19T16:11:19.209636Z"
+            ]
+        },
+        {
+            "id": "758483dd70a349e483f64bda6b38b969",
+            "source": "spacenews",
+            "text": "Musk and Trump repeat inaccurate claims about Starliner astronauts",
+            "source_link": "https://spacenews.com/musk-and-trump-repeat-inaccurate-claims-about-starliner-astronauts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T17:49:51.818006Z",
+            "shown_at": [
+                "2025-02-19T17:49:52.785741Z"
             ]
         }
     ]
