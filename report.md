@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 8 | 8 |
-| spacenews | 7 | 17 | 55 | 55 |
+| spacenews | 7 | 17 | 56 | 56 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -103,3 +103,4 @@
 - **Feb 19, 12:27 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 12:43 PM** - NASA layoffs on hold, for now (spacenews)
 - **Feb 19, 12:57 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
+- **Feb 19, 01:11 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
