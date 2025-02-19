@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 3 | 3 |
-| breaking_defense | 2 | 3 | 11 | 12 |
+| breaking_defense | 2 | 3 | 12 | 13 |
 | spacenews | 8 | 16 | 66 | 76 |
 | aidy | 1 | 2 | 7 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -137,3 +137,4 @@
 - **Feb 19, 07:21 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 19, 07:35 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 19, 07:49 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 19, 08:03 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
