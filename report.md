@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 8 | 8 |
-| spacenews | 8 | 17 | 54 | 54 |
+| spacenews | 8 | 17 | 55 | 55 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -102,3 +102,4 @@
 - **Feb 19, 12:10 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Feb 19, 12:27 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 12:43 PM** - NASA layoffs on hold, for now (spacenews)
+- **Feb 19, 12:57 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
