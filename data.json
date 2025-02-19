@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7064330e59d6d7350f12b74e64ef9614",
+    "trigger_count": 0,
+    "current_item_id": "6f121d666e9b350b849f63abe66b4bcf",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -536,6 +536,18 @@
             "fetched_datetime": "2025-02-19T21:29:46.427932Z",
             "shown_at": [
                 "2025-02-19T21:30:03.381132Z"
+            ]
+        },
+        {
+            "id": "6f121d666e9b350b849f63abe66b4bcf",
+            "source": "spacenews",
+            "text": "Defense executives demand clarity on space agencies’ missions",
+            "source_link": "https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T23:21:36.238621Z",
+            "shown_at": [
+                "2025-02-19T23:21:36.724608Z"
             ]
         }
     ]
