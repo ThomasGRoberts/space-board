@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 3 | 3 |
-| breaking_defense | 1 | 2 | 11 | 11 |
+| breaking_defense | 2 | 3 | 12 | 12 |
 | spacenews | 8 | 16 | 66 | 75 |
 | aidy | 1 | 2 | 7 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -135,3 +135,4 @@
 - **Feb 19, 06:51 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 19, 07:07 PM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
 - **Feb 19, 07:21 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 19, 07:35 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
