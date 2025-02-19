@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 4 | 4 |
 | spacenews | 9 | 16 | 37 | 37 |
 | aidy | 1 | 2 | 4 | 4 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -64,3 +64,4 @@
 - **Feb 19, 05:45 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 19, 05:59 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 06:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
