@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 8 | 8 |
-| spacenews | 9 | 16 | 48 | 48 |
+| spacenews | 9 | 16 | 49 | 49 |
 | aidy | 1 | 3 | 7 | 7 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -95,3 +95,4 @@
 - **Feb 19, 10:29 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 10:43 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 10:57 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 19, 11:11 AM** - ESA astronaut with physical disability medically cleared for ISS missions (spacenews)
