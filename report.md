@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 2 | 11 | 11 |
-| spacenews | 8 | 16 | 67 | 74 |
+| spacenews | 8 | 16 | 68 | 75 |
 | aidy | 1 | 2 | 7 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -133,3 +133,4 @@
 - **Feb 19, 06:19 PM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
 - **Feb 19, 06:35 PM** - “…Light this candle!” (spacenews)
 - **Feb 19, 06:51 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
+- **Feb 19, 07:07 PM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
