@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f2b7792fcaea0a869061da6f72724e8",
+    "trigger_count": 0,
+    "current_item_id": "cbcbec7a929ce6d440a89f15a6264e28",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -515,6 +515,18 @@
             "fetched_datetime": "2025-02-19T21:15:42.304413Z",
             "shown_at": [
                 "2025-02-19T21:15:42.845761Z"
+            ]
+        },
+        {
+            "id": "cbcbec7a929ce6d440a89f15a6264e28",
+            "source": "breaking_defense",
+            "text": "DoD needs to clarify Space Force roles and missions: Mitchell workshop",
+            "source_link": "https://breakingdefense.com/2025/02/dod-needs-to-clarify-space-force-roles-and-missions-mitchell-workshop/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T21:29:46.427932Z",
+            "shown_at": [
+                "2025-02-19T21:30:03.381132Z"
             ]
         }
     ]
