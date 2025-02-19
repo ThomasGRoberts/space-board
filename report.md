@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 6 | 6 |
 | spacenews | 9 | 16 | 45 | 45 |
 | aidy | 1 | 3 | 7 | 7 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -83,3 +83,4 @@
 - **Feb 19, 08:59 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 19, 09:15 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 09:31 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
+- **Feb 19, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
