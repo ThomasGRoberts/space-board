@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 5 | 5 |
-| spacenews | 9 | 16 | 41 | 41 |
+| spacenews | 9 | 16 | 42 | 42 |
 | aidy | 1 | 2 | 5 | 5 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -76,3 +76,4 @@
 - **Feb 19, 07:13 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 19, 07:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 19, 07:41 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 19, 07:55 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
