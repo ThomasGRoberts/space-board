@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 37 | 37 |
+| spacenews | 9 | 16 | 38 | 38 |
 | aidy | 1 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -70,3 +70,4 @@
 - **Feb 19, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 06:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 06:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 06:28 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
