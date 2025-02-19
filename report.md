@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 4 | 4 |
 | spacenews | 9 | 16 | 37 | 37 |
 | aidy | 1 | 2 | 4 | 4 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -63,3 +63,4 @@
 - **Feb 19, 05:31 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 05:45 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 19, 05:59 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 19, 06:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
