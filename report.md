@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
-| breaking_defense | 1 | 3 | 8 | 8 |
+| breaking_defense | 1 | 3 | 9 | 9 |
 | spacenews | 7 | 17 | 56 | 56 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -104,3 +104,4 @@
 - **Feb 19, 12:43 PM** - NASA layoffs on hold, for now (spacenews)
 - **Feb 19, 12:57 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 01:11 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 19, 01:25 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
