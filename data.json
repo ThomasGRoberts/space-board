@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d18819d20ace2acecc18b0f3332f8130",
+    "trigger_count": 0,
+    "current_item_id": "ad74b0f1b492df016faeb411cc56d79b",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -406,6 +406,27 @@
                 "2025-02-19T13:39:31.750284Z",
                 "2025-02-19T13:53:37.299930Z"
             ]
+        },
+        {
+            "id": "ad74b0f1b492df016faeb411cc56d79b",
+            "source": "spacenews",
+            "text": "Now more expensive: the role of government tariffs in spacecraft supply",
+            "source_link": "https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T14:09:43.268695Z",
+            "shown_at": [
+                "2025-02-19T14:09:44.237768Z"
+            ]
+        },
+        {
+            "id": "b5e9269eca72f28dc1a281f278549d72",
+            "source": "spacenews",
+            "text": "True Anomaly opens Long Beach factory, citing proximity to Space Force customers",
+            "source_link": "https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T14:09:43.268758Z"
         }
     ]
 }
