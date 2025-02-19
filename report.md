@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 3 | 3 |
 | spacenews | 8 | 15 | 18 | 18 |
 | aidy | 1 | 2 | 1 | 1 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -34,3 +34,4 @@
 - **Feb 18, 10:55 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 18, 11:09 PM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 19, 12:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 12:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
