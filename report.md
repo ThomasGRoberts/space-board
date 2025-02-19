@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 8 | 8 |
-| spacenews | 9 | 16 | 47 | 47 |
+| spacenews | 9 | 16 | 48 | 48 |
 | aidy | 1 | 3 | 7 | 7 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -94,3 +94,4 @@
 - **Feb 19, 10:15 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 19, 10:29 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 10:43 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 19, 10:57 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
