@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7064330e59d6d7350f12b74e64ef9614",
+    "trigger_count": 0,
+    "current_item_id": "5433a1b3dcc0189445954c191321ce18",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -156,7 +156,10 @@
             "source_link": "https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-18T11:57:51.608960Z"
+            "fetched_datetime": "2025-02-18T11:57:51.608960Z",
+            "shown_at": [
+                "2025-02-19T22:53:36.002948Z"
+            ]
         },
         {
             "id": "cd178ebd01da994412cf0a98f3ff3460",

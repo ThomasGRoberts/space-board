@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 3 | 4 |
 | breaking_defense | 2 | 4 | 12 | 15 |
-| spacenews | 8 | 16 | 66 | 82 |
+| spacenews | 8 | 16 | 67 | 83 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -155,3 +155,4 @@
 - **Feb 19, 10:11 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 10:25 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Feb 19, 10:39 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 19, 10:53 PM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
