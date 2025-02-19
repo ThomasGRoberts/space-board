@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 7 | 7 |
-| spacenews | 9 | 16 | 46 | 46 |
+| spacenews | 9 | 16 | 47 | 47 |
 | aidy | 1 | 3 | 7 | 7 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -92,3 +92,4 @@
 - **Feb 19, 09:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 09:59 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 10:15 AM** - United States and India to expand collaboration in space innovation (spacenews)
+- **Feb 19, 10:29 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
