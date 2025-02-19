@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 3 | 11 | 11 |
-| spacenews | 7 | 15 | 67 | 68 |
+| spacenews | 7 | 15 | 68 | 69 |
 | aidy | 1 | 3 | 7 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -127,3 +127,4 @@
 - **Feb 19, 04:53 PM** - “…Light this candle!” (spacenews)
 - **Feb 19, 05:07 PM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 05:21 PM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
+- **Feb 19, 05:35 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
