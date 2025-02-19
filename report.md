@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 22 | 22 |
+| spacenews | 9 | 16 | 23 | 23 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -45,3 +45,4 @@
 - **Feb 19, 01:11 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 01:25 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 01:39 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 19, 01:55 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
