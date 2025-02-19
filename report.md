@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 8 | 8 |
-| spacenews | 8 | 16 | 52 | 52 |
+| spacenews | 8 | 16 | 53 | 53 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -100,3 +100,4 @@
 - **Feb 19, 11:39 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 11:53 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 19, 12:10 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
+- **Feb 19, 12:27 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
