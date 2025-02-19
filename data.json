@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f9cea5ee1ed3bc03eb77535e8ea19526",
+    "trigger_count": 0,
+    "current_item_id": "1d57fcc355ae7fab4acb399b581e6c66",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -288,6 +288,18 @@
                 "2025-02-19T00:29:23.868378Z",
                 "2025-02-19T00:31:42.481040Z",
                 "2025-02-19T00:33:38.440248Z"
+            ]
+        },
+        {
+            "id": "1d57fcc355ae7fab4acb399b581e6c66",
+            "source": "spacenews",
+            "text": "Rocket Lab and SpaceX perform launches minutes apart",
+            "source_link": "https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T01:11:36.336440Z",
+            "shown_at": [
+                "2025-02-19T01:11:36.901467Z"
             ]
         }
     ]
