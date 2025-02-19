@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 10 | 10 |
-| spacenews | 7 | 18 | 62 | 62 |
+| spacenews | 7 | 18 | 63 | 63 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -112,3 +112,4 @@
 - **Feb 19, 02:39 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 02:53 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 03:10 PM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
+- **Feb 19, 03:27 PM** - AAC starts work on maritime domain awareness constellation (spacenews)
