@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 25 | 25 |
+| spacenews | 9 | 16 | 26 | 26 |
 | aidy | 1 | 2 | 2 | 2 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -49,3 +49,4 @@
 - **Feb 19, 02:09 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 19, 02:23 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 02:37 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 19, 02:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
