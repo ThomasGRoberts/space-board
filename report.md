@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 1 | 3 | 9 | 9 |
-| spacenews | 6 | 17 | 56 | 56 |
+| spacenews | 7 | 18 | 57 | 57 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -105,3 +105,4 @@
 - **Feb 19, 12:57 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 01:11 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 01:25 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
+- **Feb 19, 01:39 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)

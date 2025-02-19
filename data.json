@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "698506cd0f5b029705d0da2ccc34c2da",
+    "trigger_count": 0,
+    "current_item_id": "d18819d20ace2acecc18b0f3332f8130",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -392,6 +392,18 @@
             "fetched_datetime": "2025-02-19T12:43:52.514926Z",
             "shown_at": [
                 "2025-02-19T12:43:53.410098Z"
+            ]
+        },
+        {
+            "id": "d18819d20ace2acecc18b0f3332f8130",
+            "source": "spacenews",
+            "text": "War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions",
+            "source_link": "https://spacenews.com/war-and-space-the-effect-of-russian-aggression-in-georgia-and-ukraine-on-its-space-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-19T13:39:31.250757Z",
+            "shown_at": [
+                "2025-02-19T13:39:31.750284Z"
             ]
         }
     ]
