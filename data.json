@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-19T00:02:02.229766+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5d44019f7a9b3b7146d843cdef3f1ca",
+    "trigger_count": 0,
+    "current_item_id": "377e4081dffe5ecfdba6e3d22bd164d1",
     "data": [
         {
             "id": "9600529d6b1067e9f8651640294d3bc0",
@@ -199,7 +199,10 @@
             "source_link": "https://app.aidyhq.com/topic/114/",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-17T17:45:14.609925Z"
+            "fetched_datetime": "2025-02-17T17:45:14.609925Z",
+            "shown_at": [
+                "2025-02-19T04:19:34.332829Z"
+            ]
         },
         {
             "id": "51d75f3107ad3a7185015cc5f7b3e769",
