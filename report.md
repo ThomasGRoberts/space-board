@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 2 | 2 |
-| breaking_defense | 1 | 3 | 10 | 10 |
+| breaking_defense | 1 | 3 | 11 | 11 |
 | spacenews | 7 | 16 | 65 | 65 |
 | aidy | 1 | 3 | 8 | 8 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -123,3 +123,4 @@
 - **Feb 19, 04:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 04:11 PM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
 - **Feb 19, 04:25 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
+- **Feb 19, 04:39 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
