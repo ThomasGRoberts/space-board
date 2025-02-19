@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
 | spacenews | 9 | 16 | 23 | 23 |
-| aidy | 1 | 2 | 1 | 1 |
+| aidy | 1 | 2 | 2 | 2 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -46,3 +46,4 @@
 - **Feb 19, 01:25 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 01:39 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 01:55 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
+- **Feb 19, 02:09 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
