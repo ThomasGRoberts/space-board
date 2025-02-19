@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 26 | 26 |
+| spacenews | 9 | 16 | 27 | 27 |
 | aidy | 1 | 2 | 2 | 2 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -50,3 +50,4 @@
 - **Feb 19, 02:23 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 02:37 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 02:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
+- **Feb 19, 03:07 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
