@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 4 | 4 |
 | breaking_defense | 2 | 4 | 11 | 14 |
-| spacenews | 8 | 16 | 66 | 81 |
+| spacenews | 8 | 16 | 67 | 82 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -153,3 +153,4 @@
 - **Feb 19, 09:43 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 19, 09:57 PM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 19, 10:11 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 19, 10:25 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
