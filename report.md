@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
-| breaking_defense | 2 | 3 | 3 | 3 |
+| breaking_defense | 2 | 3 | 4 | 4 |
 | spacenews | 9 | 16 | 21 | 21 |
 | aidy | 1 | 2 | 1 | 1 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -43,3 +43,4 @@
 - **Feb 19, 12:35 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 12:51 AM** - Ravyn aims to distrupt missile sector (spacenews)
 - **Feb 19, 01:11 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
+- **Feb 19, 01:25 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
