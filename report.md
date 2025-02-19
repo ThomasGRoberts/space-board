@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 11 | 13 |
 | spacenews | 7 | 15 | 65 | 77 |
 | aidy | 1 | 2 | 8 | 9 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -140,3 +140,4 @@
 - **Feb 19, 08:03 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 19, 08:17 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 19, 08:31 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 19, 08:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
