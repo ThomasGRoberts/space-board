@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 6 | 6 |
 | spacenews | 9 | 16 | 45 | 45 |
 | aidy | 1 | 3 | 7 | 7 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -85,3 +85,4 @@
 - **Feb 19, 09:31 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 19, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 19, 09:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 19, 09:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
