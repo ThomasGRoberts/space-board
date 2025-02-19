@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 1 |
 | breaking_defense | 2 | 3 | 4 | 4 |
-| spacenews | 9 | 16 | 30 | 30 |
+| spacenews | 9 | 16 | 31 | 31 |
 | aidy | 1 | 2 | 2 | 2 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -54,3 +54,4 @@
 - **Feb 19, 03:21 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 19, 03:35 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 19, 03:49 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
+- **Feb 19, 04:05 AM** - “…Light this candle!” (spacenews)
