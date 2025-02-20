@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 61 | 127 |
 | breaking_defense | 2 | 3 | 17 | 28 |
-| aidy | 1 | 2 | 9 | 17 |
+| aidy | 1 | 2 | 10 | 18 |
 | supercluster | 0 | 1 | 35 | 63 |
 | nyt | 0 | 1 | 7 | 9 |
 
@@ -254,3 +254,4 @@
 - **Feb 20, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 04:49 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 20, 05:05 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
