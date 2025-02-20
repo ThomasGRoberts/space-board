@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 65 | 124 |
 | breaking_defense | 2 | 3 | 17 | 26 |
-| aidy | 1 | 2 | 7 | 15 |
+| aidy | 1 | 2 | 8 | 16 |
 | supercluster | 0 | 1 | 28 | 49 |
 | nyt | 0 | 1 | 6 | 7 |
 
@@ -231,3 +231,4 @@
 - **Feb 20, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 01:55 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 02:09 PM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
+- **Feb 20, 02:23 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
