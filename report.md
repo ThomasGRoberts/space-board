@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 63 | 124 |
 | breaking_defense | 2 | 3 | 18 | 27 |
 | aidy | 1 | 2 | 8 | 16 |
-| supercluster | 0 | 1 | 28 | 49 |
+| supercluster | 0 | 1 | 29 | 50 |
 | nyt | 0 | 1 | 6 | 7 |
 
 # Shown Order
@@ -233,3 +233,4 @@
 - **Feb 20, 02:09 PM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 20, 02:23 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 20, 02:37 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 20, 02:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
