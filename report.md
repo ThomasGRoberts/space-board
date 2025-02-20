@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 91 |
+| spacenews | 10 | 19 | 70 | 92 |
 | breaking_defense | 2 | 4 | 13 | 17 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -167,3 +167,4 @@
 - **Feb 20, 01:02 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 20, 01:17 AM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
 - **Feb 20, 01:31 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 20, 01:45 AM** - ESA astronaut with physical disability medically cleared for ISS missions (spacenews)
