@@ -10,7 +10,7 @@ from spacenews import pull_from_spacenews
 from supercluster import pull_from_supercluster
 from vestaboard import push_to_vestaboard
 
-from utils import get_db, save_db, get_time_remaining, generate_report
+from utils import get_db, save_db, get_time_remaining, generate_report, get_sorted_sources, get_random_recent_item
 
 # Set up logging
 logging = Logger.setup_logger(__name__)
@@ -63,9 +63,12 @@ def execute(db):
         push_to_vestaboard(current_item)
         return
     elif current_item and current_item['type'] != 'launch':
-        return    
+        return
 
-    for source_name, _ in SOURCES.items():
+    sorted_sources = get_sorted_sources(db)
+
+    for source_name in sorted_sources:
+        logging.info(f"Finding new messages from {source_name}")
         item = get_unseen_item_for_source(db, source_name)
         if item:
             push_to_vestaboard(item)
@@ -83,12 +86,16 @@ def execute(db):
             push_to_vestaboard(item)
             db["current_item_id"] = item["id"]
             return
-
-    if db.get("data"):
-        item = random.choice(db["data"])
+    
+    for source in sorted_sources:
+        logging.info(f"Finding old messages from {source}")
+        item = get_random_recent_item(db, source)
+        if not item:
+            continue
         logging.info(f"Pushing random item: {item.get('text', '')}")
         push_to_vestaboard(item)
         db["current_item_id"] = item["id"]
+        break
 
 def main():
     db = get_db()

@@ -4,6 +4,8 @@ import logging
 import requests
 from datetime import datetime, timezone
 
+from utils import truncate_text
+
 # Set up logging
 logging.basicConfig(
     level=logging.INFO,
@@ -61,6 +63,9 @@ def format_rest_message(message, color, time_remaining=''):
     logging.info("Formatting message with color.")
     content = " ".join(format_message_for_grid(message, line_lengths=[22, 22, 22, 22, 22, 20], max_lines=6))
 
+    if time_remaining:
+        content = truncate_text(content)
+
     return {
         "components": [
             {
@@ -72,7 +77,8 @@ def format_rest_message(message, color, time_remaining=''):
                 },
                 "template": f"{content}"
             },
-            {
+            *(
+            [{
                 "style": {
                     "width": 12,
                     "height": 1,
@@ -82,7 +88,9 @@ def format_rest_message(message, color, time_remaining=''):
                     },
                 },
                 "template": f"{time_remaining}"
-            },
+            }]
+            if time_remaining else []
+            ),
             {
                 "style": {
                     "width": 1,
@@ -190,7 +198,7 @@ def push_to_vestaboard(item):
 
         vestaboard_response = requests.post('https://rw.vestaboard.com/', headers=headers, json=layout_response.json())
         # vestaboard_response.raise_for_status()
-        logging.info(f"Message pushed to Vestaboard successfully: {vestaboard_response.text}")
+        logging.info(f"Message pushed to Vestaboard successfully: {vestaboard_response.json()}")
 
         item["shown"] = True
 

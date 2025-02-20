@@ -37,6 +37,10 @@ def pull_from_spacenews(already_pushed: List[int]) -> List[str]:
         for item in items:
             message = item.find('./title').text
             link = item.find('link').text
+            categories = [cat.text.strip().lower() for cat in item.findall('category') if cat.text]
+
+            if 'video' in categories:
+                continue
 
             created_at = datetime.strptime(item.find('./pubDate').text, date_format)
             if created_at.date() != datetime.now(created_at.tzinfo).date():
