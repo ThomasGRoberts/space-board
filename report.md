@@ -5,7 +5,7 @@
 | spacenews | 11 | 18 | 62 | 127 |
 | breaking_defense | 2 | 3 | 18 | 28 |
 | aidy | 1 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 30 | 58 |
+| supercluster | 0 | 1 | 31 | 59 |
 | nyt | 0 | 1 | 6 | 8 |
 
 # Shown Order
@@ -248,3 +248,4 @@
 - **Feb 20, 04:19 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
 - **Feb 20, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 04:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
