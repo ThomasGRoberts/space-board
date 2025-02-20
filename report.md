@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 67 | 85 |
+| spacenews | 11 | 19 | 68 | 86 |
 | breaking_defense | 2 | 4 | 14 | 17 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -160,3 +160,4 @@
 - **Feb 19, 11:21 PM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 19, 11:35 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 11:49 PM** - The State of Orbital Traffic Management – Replay (spacenews)
+- **Feb 20, 12:05 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)

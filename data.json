@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-20T00:02:10.485901+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb2da238b93b22648f9dd8fafeb8d2e3",
+    "trigger_count": 0,
+    "current_item_id": "170e28e8ad5dc329de130b1dbc0539df",
     "data": [
         {
             "id": "eb2da238b93b22648f9dd8fafeb8d2e3",
@@ -561,6 +561,18 @@
             "fetched_datetime": "2025-02-16T14:09:06.894495Z",
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z"
+            ]
+        },
+        {
+            "id": "170e28e8ad5dc329de130b1dbc0539df",
+            "source": "spacenews",
+            "text": "Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative",
+            "source_link": "https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-20T00:05:44.033196Z",
+            "shown_at": [
+                "2025-02-20T00:05:45.057541Z"
             ]
         }
     ]
