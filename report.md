@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 67 | 103 |
+| spacenews | 10 | 19 | 68 | 104 |
 | breaking_defense | 2 | 4 | 15 | 19 |
 | aidy | 1 | 2 | 8 | 12 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -184,3 +184,4 @@
 - **Feb 20, 05:09 AM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 20, 05:23 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
 - **Feb 20, 05:37 AM** - Ravyn aims to distrupt missile sector (spacenews)
+- **Feb 20, 05:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
