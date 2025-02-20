@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 67 | 98 |
 | breaking_defense | 2 | 4 | 14 | 18 |
-| aidy | 1 | 2 | 9 | 11 |
+| aidy | 1 | 2 | 10 | 12 |
 | supercluster | 0 | 1 | 28 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
 
@@ -177,3 +177,4 @@
 - **Feb 20, 03:23 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 03:39 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 20, 03:53 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
+- **Feb 20, 04:09 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
