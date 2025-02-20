@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 69 | 117 |
-| breaking_defense | 2 | 3 | 16 | 24 |
+| breaking_defense | 2 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 7 | 14 |
 | supercluster | 0 | 1 | 14 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
@@ -205,3 +205,4 @@
 - **Feb 20, 10:19 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 10:33 AM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
 - **Feb 20, 10:47 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 20, 11:02 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
