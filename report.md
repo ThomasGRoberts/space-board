@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 50 | 116 |
 | breaking_defense | 0 | 2 | 19 | 30 |
 | aidy | 1 | 2 | 13 | 21 |
-| supercluster | 0 | 1 | 58 | 93 |
+| supercluster | 0 | 1 | 59 | 94 |
 | nyt | 0 | 1 | 9 | 13 |
 
 # Shown Order
@@ -303,3 +303,4 @@
 - **Feb 20, 10:19 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 20, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
