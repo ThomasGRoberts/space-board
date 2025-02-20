@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 53 | 119 |
+| spacenews | 9 | 17 | 54 | 120 |
 | breaking_defense | 1 | 3 | 19 | 30 |
 | aidy | 1 | 2 | 12 | 19 |
 | supercluster | 0 | 1 | 49 | 77 |
@@ -278,3 +278,4 @@
 - **Feb 20, 07:13 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 07:30 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 07:43 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 20, 07:57 PM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
