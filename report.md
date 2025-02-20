@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 68 | 110 |
 | breaking_defense | 2 | 3 | 16 | 21 |
-| aidy | 1 | 2 | 7 | 12 |
+| aidy | 1 | 2 | 8 | 13 |
 | supercluster | 0 | 1 | 21 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
 
@@ -193,3 +193,4 @@
 - **Feb 20, 07:17 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 20, 07:32 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 20, 07:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 20, 08:02 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
