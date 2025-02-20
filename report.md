@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 67 | 110 |
+| spacenews | 10 | 19 | 68 | 111 |
 | breaking_defense | 2 | 3 | 16 | 21 |
 | aidy | 1 | 2 | 8 | 13 |
 | supercluster | 0 | 1 | 21 | 35 |
@@ -194,3 +194,4 @@
 - **Feb 20, 07:32 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 20, 07:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 20, 08:02 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 20, 08:17 AM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
