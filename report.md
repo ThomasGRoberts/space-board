@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 69 | 122 |
+| spacenews | 9 | 17 | 68 | 122 |
 | breaking_defense | 2 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 6 | 14 |
 | supercluster | 0 | 1 | 21 | 42 |
-| nyt | 0 | 1 | 4 | 5 |
+| nyt | 0 | 1 | 5 | 6 |
 
 # Shown Order
 
@@ -218,3 +218,4 @@
 - **Feb 20, 11:59 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 20, 12:13 PM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 20, 12:29 PM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
+- **Feb 20, 12:45 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
