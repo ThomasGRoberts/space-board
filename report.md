@@ -5,7 +5,7 @@
 | spacenews | 11 | 18 | 59 | 126 |
 | breaking_defense | 2 | 3 | 18 | 29 |
 | aidy | 1 | 2 | 10 | 17 |
-| supercluster | 0 | 1 | 35 | 63 |
+| supercluster | 0 | 1 | 36 | 64 |
 | nyt | 0 | 1 | 7 | 9 |
 
 # Shown Order
@@ -257,3 +257,4 @@
 - **Feb 20, 05:05 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 05:19 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 20, 05:33 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 20, 05:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
