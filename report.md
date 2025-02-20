@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 108 |
+| spacenews | 10 | 19 | 70 | 109 |
 | breaking_defense | 2 | 3 | 14 | 19 |
 | aidy | 1 | 2 | 8 | 12 |
 | supercluster | 0 | 1 | 21 | 35 |
@@ -189,3 +189,4 @@
 - **Feb 20, 06:21 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
 - **Feb 20, 06:35 AM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
 - **Feb 20, 06:49 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 20, 07:03 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
