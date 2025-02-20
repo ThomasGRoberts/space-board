@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-20T00:02:10.485901+00:00",
-    "trigger_count": 6,
+    "trigger_count": 0,
     "current_item_id": "170e28e8ad5dc329de130b1dbc0539df",
     "data": [
         {
@@ -572,7 +572,8 @@
             "type": "news",
             "fetched_datetime": "2025-02-20T00:05:44.033196Z",
             "shown_at": [
-                "2025-02-20T00:05:45.057541Z"
+                "2025-02-20T00:05:45.057541Z",
+                "2025-02-20T00:19:36.109064Z"
             ]
         }
     ]
