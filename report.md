@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 54 | 119 |
 | breaking_defense | 1 | 3 | 18 | 30 |
 | aidy | 1 | 2 | 12 | 19 |
-| supercluster | 0 | 1 | 51 | 79 |
+| supercluster | 0 | 1 | 52 | 80 |
 | nyt | 0 | 1 | 8 | 11 |
 
 # Shown Order
@@ -281,3 +281,4 @@
 - **Feb 20, 07:57 PM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
 - **Feb 20, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 08:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
