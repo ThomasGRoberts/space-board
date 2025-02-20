@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 30 |
 | aidy | 1 | 2 | 11 | 18 |
 | supercluster | 0 | 1 | 49 | 77 |
-| nyt | 0 | 1 | 8 | 10 |
+| nyt | 0 | 1 | 9 | 11 |
 
 # Shown Order
 
@@ -275,3 +275,4 @@
 - **Feb 20, 07:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 07:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 07:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 07:13 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
