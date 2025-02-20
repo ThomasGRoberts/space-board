@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 48 | 115 |
+| spacenews | 7 | 17 | 49 | 116 |
 | breaking_defense | 0 | 2 | 17 | 31 |
 | aidy | 1 | 2 | 14 | 22 |
 | supercluster | 0 | 1 | 70 | 105 |
@@ -319,3 +319,4 @@
 - **Feb 20, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:54 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 11:57 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
