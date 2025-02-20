@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 50 | 115 |
 | breaking_defense | 0 | 2 | 17 | 30 |
-| aidy | 1 | 2 | 13 | 21 |
+| aidy | 1 | 2 | 14 | 22 |
 | supercluster | 0 | 1 | 63 | 98 |
 | nyt | 0 | 0 | 10 | 13 |
 
@@ -310,3 +310,4 @@
 - **Feb 20, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 10:47 PM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 20, 11:02 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 20, 11:15 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
