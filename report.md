@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 69 | 112 |
 | breaking_defense | 2 | 3 | 15 | 21 |
-| aidy | 1 | 2 | 8 | 13 |
+| aidy | 2 | 3 | 9 | 14 |
 | supercluster | 0 | 1 | 21 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
 
@@ -196,3 +196,4 @@
 - **Feb 20, 08:02 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 08:17 AM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 20, 08:32 AM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
+- **Feb 20, 08:45 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
