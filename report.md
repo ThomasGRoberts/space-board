@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 68 | 118 |
 | breaking_defense | 2 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 7 | 14 |
-| supercluster | 0 | 1 | 15 | 36 |
+| supercluster | 0 | 1 | 16 | 37 |
 | nyt | 0 | 1 | 4 | 5 |
 
 # Shown Order
@@ -208,3 +208,4 @@
 - **Feb 20, 11:02 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 20, 11:15 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 20, 11:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 11:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
