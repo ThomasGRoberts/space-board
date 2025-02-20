@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 67 | 98 |
+| spacenews | 10 | 19 | 68 | 99 |
 | breaking_defense | 2 | 4 | 14 | 18 |
 | aidy | 1 | 2 | 9 | 12 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -178,3 +178,4 @@
 - **Feb 20, 03:39 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 20, 03:53 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 20, 04:09 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 20, 04:25 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
