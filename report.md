@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 63 | 126 |
-| breaking_defense | 2 | 3 | 17 | 27 |
+| breaking_defense | 2 | 3 | 18 | 28 |
 | aidy | 1 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 31 | 56 |
+| supercluster | 0 | 1 | 30 | 56 |
 | nyt | 0 | 1 | 6 | 8 |
 
 # Shown Order
@@ -244,3 +244,4 @@
 - **Feb 20, 03:22 PM** - China readies Tianwen-2 asteroid sample return spacecraft for launch (spacenews)
 - **Feb 20, 03:37 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 03:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 20, 04:05 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
