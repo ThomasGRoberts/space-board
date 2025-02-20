@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 66 | 123 |
 | breaking_defense | 2 | 3 | 17 | 26 |
 | aidy | 1 | 2 | 7 | 15 |
-| supercluster | 0 | 1 | 22 | 43 |
+| supercluster | 0 | 1 | 23 | 44 |
 | nyt | 0 | 1 | 5 | 6 |
 
 # Shown Order
@@ -223,3 +223,4 @@
 - **Feb 20, 01:13 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 20, 01:27 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 20, 01:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
