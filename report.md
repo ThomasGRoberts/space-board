@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 52 | 117 |
 | breaking_defense | 1 | 2 | 19 | 29 |
 | aidy | 1 | 2 | 12 | 20 |
-| supercluster | 0 | 1 | 49 | 84 |
+| supercluster | 0 | 1 | 50 | 85 |
 | nyt | 0 | 1 | 9 | 12 |
 
 # Shown Order
@@ -290,3 +290,4 @@
 - **Feb 20, 08:39 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 08:53 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 20, 09:07 PM** - NASA layoffs on hold, for now (spacenews)
+- **Feb 20, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
