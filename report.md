@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 52 | 117 |
+| spacenews | 9 | 17 | 53 | 118 |
 | breaking_defense | 0 | 2 | 18 | 29 |
 | aidy | 1 | 2 | 12 | 20 |
 | supercluster | 0 | 1 | 56 | 91 |
@@ -297,3 +297,4 @@
 - **Feb 20, 09:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 09:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 09:35 PM** - Musk calls for deorbiting ISS “as soon as possible” (spacenews)
