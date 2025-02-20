@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 13 | 17 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 0 | 1 | 28 | 35 |
-| nyt | 0 | 1 | 3 | 4 |
+| nyt | 0 | 1 | 4 | 5 |
 
 # Shown Order
 
@@ -166,3 +166,4 @@
 - **Feb 20, 12:48 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 20, 01:02 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 20, 01:17 AM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
+- **Feb 20, 01:31 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
