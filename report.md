@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 67 | 96 |
+| spacenews | 10 | 19 | 68 | 97 |
 | breaking_defense | 2 | 4 | 14 | 18 |
 | aidy | 1 | 2 | 9 | 11 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -175,3 +175,4 @@
 - **Feb 20, 02:55 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 20, 03:09 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 20, 03:23 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
+- **Feb 20, 03:39 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
