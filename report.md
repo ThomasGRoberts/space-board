@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 52 | 117 |
+| spacenews | 9 | 16 | 53 | 118 |
 | breaking_defense | 1 | 2 | 19 | 29 |
 | aidy | 1 | 2 | 12 | 20 |
 | supercluster | 0 | 1 | 49 | 84 |
@@ -289,3 +289,4 @@
 - **Feb 20, 08:25 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 08:39 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 08:53 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 20, 09:07 PM** - NASA layoffs on hold, for now (spacenews)
