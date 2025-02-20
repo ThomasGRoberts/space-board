@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 62 | 126 |
+| spacenews | 11 | 18 | 63 | 127 |
 | breaking_defense | 2 | 3 | 18 | 28 |
 | aidy | 1 | 2 | 9 | 17 |
 | supercluster | 0 | 1 | 28 | 56 |
@@ -245,3 +245,4 @@
 - **Feb 20, 03:37 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 03:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 20, 04:05 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 20, 04:19 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
