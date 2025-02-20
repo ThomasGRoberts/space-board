@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 59 | 126 |
+| spacenews | 11 | 18 | 60 | 127 |
 | breaking_defense | 2 | 3 | 18 | 29 |
 | aidy | 1 | 2 | 10 | 17 |
 | supercluster | 0 | 1 | 35 | 63 |
@@ -256,3 +256,4 @@
 - **Feb 20, 04:49 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 05:05 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 05:19 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 20, 05:33 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
