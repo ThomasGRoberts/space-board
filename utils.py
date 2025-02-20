@@ -1,5 +1,6 @@
 import os
 import json
+import random
 from logger import Logger
 from datetime import datetime, timezone, timedelta
 
@@ -117,6 +118,19 @@ def get_time_remaining(target_time: str) -> str:
     return f"{days}d {hours:02d}h {minutes:02d}m"
 
 
+def get_sorted_sources(db):
+    """Returns a list of source names sorted by last shown time (oldest first)."""
+    very_old_time = "2000-01-01T00:00:00.000000Z"
+    all_sources = set(item["source"] for item in db.get("data", []))
+    source_last_shown = {source: very_old_time for source in all_sources}
+
+    for item in db.get("data", []):
+        source = item["source"]
+        for shown_time in item.get("shown_at", []):
+            source_last_shown[source] = max(source_last_shown[source], shown_time)
+
+    return sorted(source_last_shown, key=source_last_shown.get)
+
 def generate_report(db):
     now = datetime.now(timezone.utc)
     one_day_ago = now - timedelta(days=1)
@@ -170,3 +184,17 @@ def generate_report(db):
         for time, message, source in shown_order:
             formatted_time = datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%b %d, %I:%M %p")
             file.write(f"- **{formatted_time}** - {message} ({source})\n")
+
+
+def get_random_recent_item(db, source, days=7):
+    """Returns a random item from the given source within the last `days` days, or None if none exist."""
+    now = datetime.now(timezone.utc)
+    cutoff_time = now - timedelta(days=days)
+
+    # Filter messages by source and fetch time within the last `days`
+    recent_items = [
+        item for item in db.get("data", []) 
+        if item["source"] == source and datetime.fromisoformat(item["fetched_datetime"].replace("Z", "+00:00")) >= cutoff_time
+    ]
+
+    return random.choice(recent_items) if recent_items else None
