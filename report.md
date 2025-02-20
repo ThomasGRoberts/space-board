@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 114 |
+| spacenews | 10 | 19 | 70 | 115 |
 | breaking_defense | 2 | 3 | 16 | 23 |
 | aidy | 1 | 2 | 7 | 14 |
 | supercluster | 0 | 1 | 14 | 35 |
@@ -201,3 +201,4 @@
 - **Feb 20, 09:19 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 20, 09:33 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 20, 09:47 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
+- **Feb 20, 10:05 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
