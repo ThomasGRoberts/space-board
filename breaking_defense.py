@@ -42,6 +42,9 @@ def pull_from_breaking_defense(already_pushed: List[str]) -> List[str]:
             if title_elem is None or pubdate_elem is None or 'space' not in categories:
                 continue
 
+            if 'video' in categories:
+                continue
+
             message = title_elem.text
             link = item.find('link').text
 

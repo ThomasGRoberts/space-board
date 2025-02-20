@@ -63,10 +63,12 @@ def execute(db):
         push_to_vestaboard(current_item)
         return
     elif current_item and current_item['type'] != 'launch':
-        return    
+        return
+
     sorted_sources = get_sorted_sources(db)
 
-    for source_name in sorted_sources :
+    for source_name in sorted_sources:
+        logging.info(f"Finding new messages from {source_name}")
         item = get_unseen_item_for_source(db, source_name)
         if item:
             push_to_vestaboard(item)
@@ -86,6 +88,7 @@ def execute(db):
             return
     
     for source in sorted_sources:
+        logging.info(f"Finding old messages from {source}")
         item = get_random_recent_item(db, source)
         if not item:
             continue

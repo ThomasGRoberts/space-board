@@ -9,6 +9,13 @@ logging = Logger.setup_logger(__name__)
 
 DB_PATH = 'data.json'
 NUM_OF_OLD_NEWS_TO_KEEP = 500
+SOURCES = [
+    "supercluster",
+    "spacenews",
+    "nyt",
+    "aidy",
+    "breaking_defense",
+]
 
 def get_db():
     default_db = {
@@ -121,8 +128,7 @@ def get_time_remaining(target_time: str) -> str:
 def get_sorted_sources(db):
     """Returns a list of source names sorted by last shown time (oldest first)."""
     very_old_time = "2000-01-01T00:00:00.000000Z"
-    all_sources = set(item["source"] for item in db.get("data", []))
-    source_last_shown = {source: very_old_time for source in all_sources}
+    source_last_shown = {source: very_old_time for source in SOURCES}
 
     for item in db.get("data", []):
         source = item["source"]
@@ -198,3 +204,7 @@ def get_random_recent_item(db, source, days=7):
     ]
 
     return random.choice(recent_items) if recent_items else None
+
+def truncate_text(text, max_length=110, ellipsis="..."):
+    """Trims text to 5 lines on vestaboard."""
+    return text[:max_length - len(ellipsis)] + ellipsis if len(text) > max_length else text
