@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 64 | 124 |
-| breaking_defense | 2 | 3 | 17 | 26 |
+| spacenews | 8 | 15 | 64 | 124 |
+| breaking_defense | 2 | 3 | 18 | 27 |
 | aidy | 1 | 2 | 8 | 16 |
 | supercluster | 0 | 1 | 28 | 49 |
 | nyt | 0 | 1 | 6 | 7 |
@@ -232,3 +232,4 @@
 - **Feb 20, 01:55 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 02:09 PM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 20, 02:23 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 20, 02:37 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
