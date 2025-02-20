@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 68 | 106 |
+| spacenews | 10 | 19 | 69 | 107 |
 | breaking_defense | 2 | 3 | 15 | 19 |
 | aidy | 1 | 2 | 8 | 12 |
 | supercluster | 0 | 1 | 21 | 35 |
@@ -187,3 +187,4 @@
 - **Feb 20, 05:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 20, 06:05 AM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
 - **Feb 20, 06:21 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
+- **Feb 20, 06:35 AM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
