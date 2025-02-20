@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-20T00:02:10.485901+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "3a183b5af07693b50712bebc40f7fbc6",
     "data": [
         {
             "id": "eb2da238b93b22648f9dd8fafeb8d2e3",
@@ -686,6 +686,27 @@
             "shown_at": [
                 "2025-02-20T14:09:31.810799Z"
             ]
+        },
+        {
+            "id": "3a183b5af07693b50712bebc40f7fbc6",
+            "source": "spacenews",
+            "text": "Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab",
+            "source_link": "https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-20T15:06:05.783995Z",
+            "shown_at": [
+                "2025-02-20T15:06:06.788349Z"
+            ]
+        },
+        {
+            "id": "2021c3532d1520b1bf0be7758db9e5d0",
+            "source": "spacenews",
+            "text": "China readies Tianwen-2 asteroid sample return spacecraft for launch",
+            "source_link": "https://spacenews.com/china-readies-tianwen-2-asteroid-sample-return-spacecraft-for-launch/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-20T15:06:05.784045Z"
         }
     ]
 }

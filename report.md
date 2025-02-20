@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 63 | 124 |
+| spacenews | 10 | 17 | 64 | 125 |
 | breaking_defense | 2 | 3 | 17 | 27 |
 | aidy | 1 | 2 | 8 | 16 |
 | supercluster | 0 | 1 | 35 | 56 |
@@ -240,3 +240,4 @@
 - **Feb 20, 02:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 03:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 03:06 PM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
