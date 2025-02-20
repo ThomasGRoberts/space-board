@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 63 | 126 |
 | breaking_defense | 2 | 3 | 17 | 27 |
-| aidy | 1 | 2 | 8 | 16 |
+| aidy | 1 | 2 | 9 | 17 |
 | supercluster | 0 | 1 | 35 | 56 |
 | nyt | 0 | 1 | 6 | 8 |
 
@@ -243,3 +243,4 @@
 - **Feb 20, 03:06 PM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
 - **Feb 20, 03:22 PM** - China readies Tianwen-2 asteroid sample return spacecraft for launch (spacenews)
 - **Feb 20, 03:37 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 20, 03:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
