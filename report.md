@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 68 | 93 |
-| breaking_defense | 2 | 4 | 13 | 17 |
+| breaking_defense | 2 | 4 | 14 | 18 |
 | aidy | 1 | 2 | 9 | 11 |
 | supercluster | 0 | 1 | 28 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
@@ -171,3 +171,4 @@
 - **Feb 20, 01:59 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 02:13 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 20, 02:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 20, 02:41 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
