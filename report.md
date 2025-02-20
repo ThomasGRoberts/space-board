@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 54 | 119 |
 | breaking_defense | 1 | 3 | 18 | 30 |
 | aidy | 1 | 2 | 12 | 19 |
-| supercluster | 0 | 1 | 49 | 77 |
+| supercluster | 0 | 1 | 50 | 78 |
 | nyt | 0 | 1 | 8 | 11 |
 
 # Shown Order
@@ -279,3 +279,4 @@
 - **Feb 20, 07:30 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 07:43 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 20, 07:57 PM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
+- **Feb 20, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
