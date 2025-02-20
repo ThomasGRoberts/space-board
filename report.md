@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 67 | 102 |
+| spacenews | 10 | 19 | 68 | 103 |
 | breaking_defense | 2 | 4 | 15 | 19 |
 | aidy | 1 | 2 | 8 | 12 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -183,3 +183,4 @@
 - **Feb 20, 04:55 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 20, 05:09 AM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 20, 05:23 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
+- **Feb 20, 05:37 AM** - Ravyn aims to distrupt missile sector (spacenews)
