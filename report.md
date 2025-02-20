@@ -5,7 +5,7 @@
 | spacenews | 11 | 18 | 62 | 127 |
 | breaking_defense | 2 | 3 | 18 | 28 |
 | aidy | 1 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 28 | 56 |
+| supercluster | 0 | 1 | 29 | 57 |
 | nyt | 0 | 1 | 6 | 8 |
 
 # Shown Order
@@ -246,3 +246,4 @@
 - **Feb 20, 03:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 20, 04:05 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 20, 04:19 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
+- **Feb 20, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
