@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 68 | 113 |
-| breaking_defense | 2 | 3 | 16 | 22 |
+| breaking_defense | 2 | 3 | 17 | 23 |
 | aidy | 1 | 2 | 7 | 14 |
 | supercluster | 0 | 1 | 21 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
@@ -199,3 +199,4 @@
 - **Feb 20, 08:45 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 20, 09:02 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 20, 09:19 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
+- **Feb 20, 09:33 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
