@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 51 | 117 |
-| breaking_defense | 0 | 2 | 18 | 29 |
+| breaking_defense | 0 | 2 | 19 | 30 |
 | aidy | 1 | 2 | 13 | 21 |
 | supercluster | 0 | 1 | 56 | 91 |
 | nyt | 0 | 1 | 9 | 13 |
@@ -300,3 +300,4 @@
 - **Feb 20, 09:35 PM** - Musk calls for deorbiting ISS “as soon as possible” (spacenews)
 - **Feb 20, 09:49 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 10:05 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 20, 10:19 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
