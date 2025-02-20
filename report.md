@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 112 |
+| spacenews | 10 | 19 | 70 | 113 |
 | breaking_defense | 2 | 3 | 15 | 21 |
 | aidy | 1 | 2 | 7 | 14 |
 | supercluster | 0 | 1 | 21 | 35 |
@@ -197,3 +197,4 @@
 - **Feb 20, 08:17 AM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 20, 08:32 AM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
 - **Feb 20, 08:45 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 20, 09:02 AM** - United States and India to expand collaboration in space innovation (spacenews)
