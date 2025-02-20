@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 90 |
+| spacenews | 10 | 19 | 70 | 91 |
 | breaking_defense | 2 | 4 | 14 | 17 |
 | aidy | 1 | 2 | 8 | 9 |
 | supercluster | 0 | 1 | 28 | 35 |
@@ -165,3 +165,4 @@
 - **Feb 20, 12:33 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 20, 12:48 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 20, 01:02 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
+- **Feb 20, 01:17 AM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
