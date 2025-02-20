@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 68 | 111 |
-| breaking_defense | 2 | 3 | 16 | 21 |
+| spacenews | 10 | 19 | 69 | 112 |
+| breaking_defense | 2 | 3 | 15 | 21 |
 | aidy | 1 | 2 | 8 | 13 |
 | supercluster | 0 | 1 | 21 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
@@ -195,3 +195,4 @@
 - **Feb 20, 07:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 20, 08:02 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 20, 08:17 AM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
+- **Feb 20, 08:32 AM** - Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine  (spacenews)
