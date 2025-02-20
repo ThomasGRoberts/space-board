@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 69 | 93 |
 | breaking_defense | 2 | 4 | 13 | 17 |
-| aidy | 1 | 2 | 8 | 10 |
+| aidy | 1 | 2 | 9 | 11 |
 | supercluster | 0 | 1 | 28 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
 
@@ -170,3 +170,4 @@
 - **Feb 20, 01:45 AM** - ESA astronaut with physical disability medically cleared for ISS missions (spacenews)
 - **Feb 20, 01:59 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 02:13 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 20, 02:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
