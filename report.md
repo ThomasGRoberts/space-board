@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 68 | 120 |
+| spacenews | 10 | 18 | 69 | 121 |
 | breaking_defense | 2 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 6 | 14 |
 | supercluster | 0 | 1 | 21 | 42 |
@@ -216,3 +216,4 @@
 - **Feb 20, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:45 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 20, 11:59 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 20, 12:13 PM** - United States and India to expand collaboration in space innovation (spacenews)
