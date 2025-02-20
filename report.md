@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 69 | 116 |
+| spacenews | 10 | 19 | 70 | 117 |
 | breaking_defense | 2 | 3 | 16 | 23 |
 | aidy | 1 | 2 | 7 | 14 |
 | supercluster | 0 | 1 | 14 | 35 |
@@ -203,3 +203,4 @@
 - **Feb 20, 09:47 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 20, 10:05 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 20, 10:19 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
+- **Feb 20, 10:33 AM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
