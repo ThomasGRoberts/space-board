@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 69 | 110 |
-| breaking_defense | 2 | 3 | 15 | 20 |
+| breaking_defense | 2 | 3 | 16 | 21 |
 | aidy | 1 | 2 | 7 | 12 |
 | supercluster | 0 | 1 | 21 | 35 |
 | nyt | 0 | 1 | 4 | 5 |
@@ -192,3 +192,4 @@
 - **Feb 20, 07:03 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 20, 07:17 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 20, 07:32 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 20, 07:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
