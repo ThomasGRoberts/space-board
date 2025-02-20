@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 67 | 123 |
-| breaking_defense | 2 | 3 | 16 | 25 |
+| breaking_defense | 2 | 3 | 17 | 26 |
 | aidy | 1 | 2 | 7 | 15 |
 | supercluster | 0 | 1 | 21 | 42 |
 | nyt | 0 | 1 | 5 | 6 |
@@ -221,3 +221,4 @@
 - **Feb 20, 12:45 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 20, 12:59 PM** - Jim Free, NASA associate administrator, to retire (spacenews)
 - **Feb 20, 01:13 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 20, 01:27 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
