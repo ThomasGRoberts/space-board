@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 55 | 122 |
 | breaking_defense | 2 | 3 | 19 | 30 |
 | aidy | 1 | 2 | 11 | 18 |
-| supercluster | 0 | 1 | 44 | 72 |
+| supercluster | 0 | 1 | 45 | 73 |
 | nyt | 0 | 1 | 8 | 10 |
 
 # Shown Order
@@ -270,3 +270,4 @@
 - **Feb 20, 06:45 PM** - “…Light this candle!” (spacenews)
 - **Feb 20, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 07:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 20, 07:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
