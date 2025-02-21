@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 22 | 71 |
 | aidy | 1 | 2 | 17 | 31 |
-| breaking_defense | 2 | 2 | 18 | 35 |
+| breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 1 | 18 | 28 |
 | supercluster | 1 | 1 | 40 | 40 |
 
@@ -329,3 +329,4 @@
 - **Feb 21, 11:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 11:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 11:45 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 11:47 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
