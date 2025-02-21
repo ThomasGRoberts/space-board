@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 27 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 18 | 24 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -266,3 +266,4 @@
 - **Feb 21, 03:17 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 04:19 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 04:21 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 04:23 PM** - China Will Launch the Long March 3B Rocket (supercluster)
