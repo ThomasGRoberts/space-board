@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 31 | 100 |
 | aidy | 1 | 2 | 17 | 25 |
 | breaking_defense | 0 | 2 | 21 | 35 |
-| supercluster | 0 | 0 | 106 | 127 |
+| supercluster | 0 | 0 | 107 | 128 |
 | nyt | 0 | 0 | 15 | 19 |
 
 # Shown Order
@@ -380,3 +380,4 @@
 - **Feb 21, 06:47 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 07:02 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 21, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
