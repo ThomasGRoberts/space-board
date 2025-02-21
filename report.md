@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 40 | 108 |
 | aidy | 1 | 2 | 15 | 24 |
 | breaking_defense | 0 | 2 | 19 | 33 |
-| supercluster | 0 | 0 | 85 | 113 |
+| supercluster | 0 | 0 | 86 | 114 |
 | nyt | 0 | 0 | 12 | 16 |
 
 # Shown Order
@@ -347,3 +347,4 @@
 - **Feb 21, 03:09 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 21, 03:25 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 21, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
