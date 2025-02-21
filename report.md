@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 75 |
+| spacenews | 6 | 15 | 21 | 74 |
 | aidy | 1 | 2 | 18 | 29 |
 | breaking_defense | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 27 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -299,3 +299,4 @@
 - **Feb 21, 08:15 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 08:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 08:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 08:33 PM** - China Will Launch the Long March 3B Rocket (supercluster)
