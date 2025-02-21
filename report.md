@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 24 | 92 |
+| spacenews | 9 | 19 | 23 | 92 |
 | aidy | 1 | 2 | 18 | 24 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 18 | 22 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -253,3 +253,4 @@
 - **Feb 21, 10:37 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 21, 11:05 AM** - Isar Aerospace completes testing of first Spectrum rocket (spacenews)
 - **Feb 21, 11:19 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
+- **Feb 21, 12:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
