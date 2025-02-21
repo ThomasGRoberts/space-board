@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "fbfd92bebbd97f755b1f7a8b977521d0",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -897,6 +897,18 @@
             "shown_at": [
                 "2025-02-21T02:13:25.075085Z",
                 "2025-02-21T05:51:18.508503Z"
+            ]
+        },
+        {
+            "id": "fbfd92bebbd97f755b1f7a8b977521d0",
+            "source": "aidy",
+            "text": "NASA Reverses Employee Terminations Amid Protests and Congressional Pressure",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T08:41:33.989841Z",
+            "shown_at": [
+                "2025-02-21T08:41:34.457154Z"
             ]
         }
     ]
