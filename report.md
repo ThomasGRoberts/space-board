@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 43 | 112 |
 | aidy | 1 | 2 | 14 | 23 |
 | breaking_defense | 0 | 2 | 19 | 32 |
-| supercluster | 0 | 0 | 79 | 107 |
+| supercluster | 0 | 0 | 80 | 108 |
 | nyt | 0 | 0 | 11 | 15 |
 
 # Shown Order
@@ -337,3 +337,4 @@
 - **Feb 21, 02:13 AM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
 - **Feb 21, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 02:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
