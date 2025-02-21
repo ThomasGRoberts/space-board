@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 43 | 113 |
+| spacenews | 6 | 16 | 43 | 112 |
 | aidy | 1 | 2 | 16 | 24 |
-| breaking_defense | 0 | 2 | 18 | 31 |
+| breaking_defense | 0 | 2 | 19 | 32 |
 | supercluster | 0 | 0 | 77 | 105 |
 | nyt | 0 | 0 | 11 | 15 |
 
@@ -333,3 +333,4 @@
 - **Feb 21, 01:13 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 21, 01:27 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 01:43 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 21, 01:57 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
