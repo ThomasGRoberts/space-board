@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 31 |
 | breaking_defense | 2 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 28 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -322,3 +322,4 @@
 - **Feb 21, 10:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 11:05 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 11:19 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
+- **Feb 21, 11:33 PM** - China Will Launch the Long March 3B Rocket (supercluster)
