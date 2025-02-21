@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 31 | 101 |
+| spacenews | 7 | 17 | 31 | 100 |
 | aidy | 1 | 2 | 17 | 25 |
 | breaking_defense | 0 | 2 | 21 | 35 |
-| supercluster | 0 | 0 | 105 | 126 |
+| supercluster | 0 | 0 | 106 | 127 |
 | nyt | 0 | 0 | 15 | 19 |
 
 # Shown Order
@@ -379,3 +379,4 @@
 - **Feb 21, 06:33 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 21, 06:47 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 07:02 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 21, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
