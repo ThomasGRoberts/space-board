@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 28 | 98 |
 | aidy | 1 | 2 | 17 | 24 |
-| breaking_defense | 0 | 2 | 20 | 35 |
+| breaking_defense | 0 | 2 | 21 | 36 |
 | supercluster | 0 | 0 | 119 | 140 |
 | nyt | 0 | 0 | 17 | 21 |
 
@@ -399,3 +399,4 @@
 - **Feb 21, 08:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 08:41 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 21, 08:58 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 09:13 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
