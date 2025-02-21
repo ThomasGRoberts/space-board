@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 71 |
+| spacenews | 7 | 16 | 22 | 72 |
 | aidy | 1 | 2 | 17 | 31 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 1 | 18 | 28 |
@@ -321,3 +321,4 @@
 - **Feb 21, 10:37 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
 - **Feb 21, 10:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 11:05 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 11:19 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)

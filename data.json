@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9600529d6b1067e9f8651640294d3bc0",
+    "trigger_count": 0,
+    "current_item_id": "deb0fc4a61e342fb309cfdc0185d9e35",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -920,6 +920,18 @@
             "fetched_datetime": "2025-02-21T22:37:30.878841Z",
             "shown_at": [
                 "2025-02-21T22:37:31.354761Z"
+            ]
+        },
+        {
+            "id": "deb0fc4a61e342fb309cfdc0185d9e35",
+            "source": "spacenews",
+            "text": "Boom or bust? Making sense of conflicting signals in the space economy",
+            "source_link": "https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T23:19:44.502757Z",
+            "shown_at": [
+                "2025-02-21T23:19:45.400698Z"
             ]
         }
     ]
