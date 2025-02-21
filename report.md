@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 14 | 22 |
 | breaking_defense | 0 | 2 | 17 | 31 |
 | supercluster | 0 | 1 | 70 | 105 |
-| nyt | 0 | 0 | 10 | 13 |
+| nyt | 0 | 0 | 11 | 14 |
 
 # Shown Order
 
@@ -320,3 +320,4 @@
 - **Feb 20, 11:54 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:57 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
+- **Feb 21, 12:11 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
