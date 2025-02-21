@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 22 | 71 |
 | aidy | 1 | 2 | 17 | 31 |
-| breaking_defense | 2 | 2 | 18 | 36 |
+| breaking_defense | 2 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 18 | 28 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -324,3 +324,4 @@
 - **Feb 21, 11:19 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
 - **Feb 21, 11:33 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 11:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 11:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
