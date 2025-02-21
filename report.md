@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 31 | 100 |
+| spacenews | 7 | 17 | 32 | 101 |
 | aidy | 1 | 2 | 17 | 25 |
-| breaking_defense | 0 | 2 | 21 | 36 |
+| breaking_defense | 0 | 2 | 21 | 35 |
 | supercluster | 0 | 0 | 105 | 126 |
 | nyt | 0 | 0 | 15 | 19 |
 
@@ -378,3 +378,4 @@
 - **Feb 21, 06:19 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 06:33 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 21, 06:47 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 21, 07:02 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
