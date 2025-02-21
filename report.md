@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 72 |
-| aidy | 1 | 2 | 17 | 30 |
+| aidy | 1 | 2 | 18 | 31 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 27 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -319,3 +319,4 @@
 - **Feb 21, 10:09 PM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
 - **Feb 21, 10:23 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 21, 10:37 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
+- **Feb 21, 10:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
