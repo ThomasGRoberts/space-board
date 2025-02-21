@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 20 | 82 |
 | aidy | 1 | 2 | 18 | 27 |
-| breaking_defense | 0 | 2 | 17 | 35 |
+| breaking_defense | 0 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 18 | 24 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -268,3 +268,4 @@
 - **Feb 21, 04:21 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 04:23 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 04:25 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 04:27 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
