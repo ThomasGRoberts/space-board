@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 21 | 72 |
 | aidy | 1 | 2 | 17 | 30 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 27 |
 | supercluster | 1 | 1 | 33 | 33 |
 
@@ -317,3 +317,4 @@
 - **Feb 21, 10:05 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 10:07 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 10:09 PM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
+- **Feb 21, 10:23 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
