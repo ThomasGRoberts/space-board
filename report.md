@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 45 | 114 |
 | aidy | 1 | 2 | 15 | 23 |
 | breaking_defense | 0 | 2 | 18 | 32 |
-| supercluster | 0 | 0 | 71 | 99 |
+| supercluster | 0 | 0 | 72 | 100 |
 | nyt | 0 | 0 | 11 | 14 |
 
 # Shown Order
@@ -324,3 +324,4 @@
 - **Feb 21, 12:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 21, 12:41 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
