@@ -5,7 +5,7 @@
 | spacenews | 5 | 15 | 22 | 85 |
 | aidy | 1 | 2 | 19 | 27 |
 | breaking_defense | 0 | 2 | 18 | 35 |
-| nyt | 0 | 0 | 18 | 24 |
+| nyt | 0 | 0 | 19 | 25 |
 | supercluster | 2 | 2 | 15 | 15 |
 
 # Shown Order
@@ -277,3 +277,4 @@
 - **Feb 21, 02:32 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 02:47 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 21, 03:02 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 21, 03:17 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
