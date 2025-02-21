@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 29 |
 | breaking_defense | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 27 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -297,3 +297,4 @@
 - **Feb 21, 07:47 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 21, 08:01 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 21, 08:15 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 08:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
