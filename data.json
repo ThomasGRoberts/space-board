@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ea4f32248a34dbeea72bc523bf17e895",
+    "trigger_count": 0,
+    "current_item_id": "5a6b4ee083756864a6b9530c2bc26208",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -906,6 +906,18 @@
             "shown_at": [
                 "2025-02-21T21:11:48.855351Z",
                 "2025-02-21T22:23:31.535016Z"
+            ]
+        },
+        {
+            "id": "5a6b4ee083756864a6b9530c2bc26208",
+            "source": "spacenews",
+            "text": "BAE wins $230.6 million contract for space weather program",
+            "source_link": "https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T22:37:30.878841Z",
+            "shown_at": [
+                "2025-02-21T22:37:31.354761Z"
             ]
         }
     ]
