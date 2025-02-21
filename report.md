@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 75 |
 | aidy | 1 | 2 | 17 | 29 |
-| breaking_defense | 1 | 3 | 18 | 37 |
+| breaking_defense | 1 | 3 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 26 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -293,3 +293,4 @@
 - **Feb 21, 07:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 07:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 07:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 07:33 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
