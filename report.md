@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 28 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 18 | 25 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -272,3 +272,4 @@
 - **Feb 21, 04:41 PM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 21, 04:55 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 21, 05:11 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 05:25 PM** - China Will Launch the Long March 3B Rocket (supercluster)
