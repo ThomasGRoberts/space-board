@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 74 |
 | aidy | 1 | 2 | 17 | 29 |
-| breaking_defense | 1 | 2 | 18 | 37 |
+| breaking_defense | 2 | 3 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 27 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -306,3 +306,4 @@
 - **Feb 21, 08:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 08:43 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 08:57 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
+- **Feb 21, 09:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
