@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 96 |
 | aidy | 1 | 2 | 18 | 25 |
 | breaking_defense | 0 | 2 | 19 | 35 |
-| supercluster | 0 | 0 | 126 | 140 |
+| supercluster | 0 | 0 | 127 | 141 |
 | nyt | 0 | 0 | 18 | 22 |
 
 # Shown Order
@@ -412,3 +412,4 @@
 - **Feb 21, 10:09 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 10:23 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 21, 10:37 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
+- **Feb 21, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
