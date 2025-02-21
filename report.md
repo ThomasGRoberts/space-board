@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 74 |
 | aidy | 1 | 2 | 17 | 29 |
-| breaking_defense | 1 | 2 | 18 | 36 |
+| breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 27 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -304,3 +304,4 @@
 - **Feb 21, 08:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 08:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 08:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 08:43 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
