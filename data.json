@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7064330e59d6d7350f12b74e64ef9614",
+    "trigger_count": 0,
+    "current_item_id": "aac01fd74125472320e521d530544523",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -813,6 +813,18 @@
                 "2025-02-21T17:33:00.175693Z",
                 "2025-02-21T17:35:37.030248Z",
                 "2025-02-21T17:37:43.917130Z"
+            ]
+        },
+        {
+            "id": "aac01fd74125472320e521d530544523",
+            "source": "spacenews",
+            "text": "PLD Space signs agreement to launch from spaceport in Oman",
+            "source_link": "https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T17:53:34.542514Z",
+            "shown_at": [
+                "2025-02-21T17:53:35.237872Z"
             ]
         }
     ]
