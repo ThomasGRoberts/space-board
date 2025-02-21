@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 40 | 108 |
+| spacenews | 7 | 17 | 41 | 109 |
 | aidy | 1 | 2 | 15 | 24 |
 | breaking_defense | 0 | 2 | 19 | 33 |
 | supercluster | 0 | 0 | 84 | 112 |
@@ -345,3 +345,4 @@
 - **Feb 21, 02:41 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 02:55 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 03:09 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 21, 03:25 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
