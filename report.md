@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 38 | 106 |
+| spacenews | 7 | 17 | 39 | 107 |
 | aidy | 1 | 2 | 15 | 23 |
 | breaking_defense | 0 | 2 | 20 | 34 |
 | supercluster | 0 | 0 | 91 | 119 |
@@ -356,3 +356,4 @@
 - **Feb 21, 03:53 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 04:09 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 21, 04:23 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 21, 04:37 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
