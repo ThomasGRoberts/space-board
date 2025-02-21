@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 35 | 102 |
 | aidy | 1 | 2 | 16 | 24 |
 | breaking_defense | 0 | 2 | 20 | 35 |
-| supercluster | 0 | 0 | 98 | 126 |
+| supercluster | 0 | 0 | 99 | 127 |
 | nyt | 0 | 0 | 14 | 18 |
 
 # Shown Order
@@ -368,3 +368,4 @@
 - **Feb 21, 05:21 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 05:37 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 21, 05:51 AM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
+- **Feb 21, 06:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
