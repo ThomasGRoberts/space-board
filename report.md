@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 43 | 112 |
-| aidy | 1 | 2 | 15 | 23 |
+| aidy | 1 | 2 | 14 | 23 |
 | breaking_defense | 0 | 2 | 19 | 32 |
-| supercluster | 0 | 0 | 78 | 106 |
+| supercluster | 0 | 0 | 79 | 107 |
 | nyt | 0 | 0 | 11 | 15 |
 
 # Shown Order
@@ -336,3 +336,4 @@
 - **Feb 21, 01:57 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 02:13 AM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
 - **Feb 21, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
