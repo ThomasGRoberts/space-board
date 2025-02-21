@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 46 | 115 |
 | aidy | 1 | 2 | 15 | 23 |
-| breaking_defense | 0 | 2 | 17 | 31 |
+| breaking_defense | 0 | 2 | 18 | 32 |
 | supercluster | 0 | 0 | 70 | 98 |
 | nyt | 0 | 0 | 11 | 14 |
 
@@ -322,3 +322,4 @@
 - **Feb 20, 11:57 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 21, 12:11 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 12:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 21, 12:41 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
