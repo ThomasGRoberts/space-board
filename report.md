@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 26 | 95 |
+| spacenews | 9 | 19 | 27 | 96 |
 | aidy | 1 | 2 | 18 | 25 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | supercluster | 0 | 0 | 133 | 147 |
@@ -420,3 +420,4 @@
 - **Feb 21, 11:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 11:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 11:05 AM** - Isar Aerospace completes testing of first Spectrum rocket (spacenews)
+- **Feb 21, 11:19 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
