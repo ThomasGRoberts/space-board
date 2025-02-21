@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 21 | 82 |
-| aidy | 1 | 2 | 18 | 27 |
+| aidy | 1 | 2 | 19 | 28 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 17 | 24 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -270,3 +270,4 @@
 - **Feb 21, 04:25 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 04:27 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 21, 04:41 PM** - Defense executives demand clarity on space agencies’ missions (spacenews)
+- **Feb 21, 04:55 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
