@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 20 | 73 |
 | aidy | 1 | 2 | 18 | 30 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 18 | 27 |
+| nyt | 1 | 1 | 19 | 28 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -308,3 +308,4 @@
 - **Feb 21, 08:57 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
 - **Feb 21, 09:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 21, 09:25 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 21, 09:39 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
