@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 47 | 116 |
-| aidy | 1 | 2 | 14 | 22 |
+| aidy | 1 | 2 | 15 | 23 |
 | breaking_defense | 0 | 2 | 17 | 31 |
 | supercluster | 0 | 0 | 70 | 102 |
 | nyt | 0 | 0 | 11 | 14 |
@@ -321,3 +321,4 @@
 - **Feb 20, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 20, 11:57 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 21, 12:11 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 12:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
