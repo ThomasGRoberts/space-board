@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 75 |
-| aidy | 1 | 2 | 17 | 29 |
+| aidy | 1 | 2 | 18 | 30 |
 | breaking_defense | 1 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 18 | 26 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -295,3 +295,4 @@
 - **Feb 21, 07:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 07:33 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 21, 07:47 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
+- **Feb 21, 08:01 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
