@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 30 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 27 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -310,3 +310,4 @@
 - **Feb 21, 09:25 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 21, 09:39 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 09:53 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 21, 09:55 PM** - China Will Launch the Long March 3B Rocket (supercluster)
