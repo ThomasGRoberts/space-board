@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 42 | 112 |
+| spacenews | 7 | 17 | 43 | 113 |
 | aidy | 1 | 2 | 16 | 23 |
 | breaking_defense | 0 | 2 | 19 | 32 |
 | supercluster | 0 | 0 | 77 | 105 |
@@ -334,3 +334,4 @@
 - **Feb 21, 01:27 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 01:43 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 21, 01:57 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
+- **Feb 21, 02:13 AM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
