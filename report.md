@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 44 | 113 |
-| aidy | 1 | 2 | 15 | 23 |
+| aidy | 1 | 2 | 16 | 24 |
 | breaking_defense | 0 | 2 | 18 | 31 |
 | supercluster | 0 | 0 | 77 | 105 |
 | nyt | 0 | 0 | 11 | 15 |
@@ -332,3 +332,4 @@
 - **Feb 21, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:13 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 21, 01:27 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 01:43 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
