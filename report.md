@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 29 | 97 |
 | aidy | 1 | 2 | 17 | 24 |
 | breaking_defense | 0 | 2 | 19 | 36 |
-| supercluster | 0 | 0 | 120 | 141 |
+| supercluster | 0 | 0 | 121 | 142 |
 | nyt | 0 | 0 | 17 | 21 |
 
 # Shown Order
@@ -402,3 +402,4 @@
 - **Feb 21, 09:13 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 21, 09:27 AM** - Jim Free, NASA associate administrator, to retire (spacenews)
 - **Feb 21, 09:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 09:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
