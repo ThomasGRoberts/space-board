@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 21 | 76 |
 | aidy | 1 | 2 | 18 | 29 |
 | breaking_defense | 1 | 3 | 18 | 37 |
-| nyt | 0 | 0 | 18 | 26 |
+| nyt | 1 | 1 | 19 | 27 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -285,3 +285,4 @@
 - **Feb 21, 06:23 PM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 21, 06:37 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 06:51 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 07:05 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9600529d6b1067e9f8651640294d3bc0",
+    "trigger_count": 0,
+    "current_item_id": "61d147ad6ec74c64dc4741dab9222029",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -851,6 +851,18 @@
             "fetched_datetime": "2025-02-21T18:23:41.644665Z",
             "shown_at": [
                 "2025-02-21T18:23:42.957111Z"
+            ]
+        },
+        {
+            "id": "61d147ad6ec74c64dc4741dab9222029",
+            "source": "nyt",
+            "text": "William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102",
+            "source_link": "https://www.nytimes.com/2025/02/21/us/william-r-lucas-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T19:05:38.077924Z",
+            "shown_at": [
+                "2025-02-21T19:05:38.622190Z"
             ]
         }
     ]
