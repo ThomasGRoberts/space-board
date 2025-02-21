@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 27 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 19 | 25 |
-| supercluster | 2 | 2 | 15 | 15 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -256,24 +256,10 @@
 - **Feb 21, 12:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 12:33 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 12:47 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
-- **Feb 21, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 01:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:17 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 21, 01:31 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 21, 01:45 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 21, 02:01 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
-- **Feb 21, 02:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 21, 02:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 02:32 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 02:47 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 21, 03:02 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
