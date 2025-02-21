@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 21 | 71 |
 | aidy | 1 | 2 | 18 | 31 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 17 | 27 |
+| nyt | 1 | 1 | 18 | 28 |
 | supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
@@ -320,3 +320,4 @@
 - **Feb 21, 10:23 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 21, 10:37 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
 - **Feb 21, 10:51 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 21, 11:05 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
