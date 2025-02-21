@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 23 | 91 |
 | aidy | 1 | 2 | 19 | 25 |
 | breaking_defense | 0 | 2 | 18 | 35 |
-| nyt | 0 | 0 | 17 | 22 |
+| nyt | 0 | 0 | 18 | 23 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -255,3 +255,4 @@
 - **Feb 21, 11:19 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
 - **Feb 21, 12:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 12:33 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 21, 12:47 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
