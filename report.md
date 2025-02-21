@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 44 | 113 |
+| spacenews | 6 | 16 | 45 | 114 |
 | aidy | 1 | 2 | 15 | 23 |
 | breaking_defense | 0 | 2 | 18 | 32 |
 | supercluster | 0 | 0 | 77 | 105 |
@@ -330,3 +330,4 @@
 - **Feb 21, 01:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 01:13 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
