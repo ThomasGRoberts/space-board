@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 27 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 19 | 25 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 2 | 2 | 2 | 2 |
 
 # Shown Order
 
@@ -264,3 +264,4 @@
 - **Feb 21, 02:47 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 21, 03:02 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 21, 03:17 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 21, 03:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
