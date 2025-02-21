@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 25 |
 | breaking_defense | 0 | 2 | 20 | 35 |
 | supercluster | 0 | 0 | 119 | 140 |
-| nyt | 0 | 0 | 16 | 20 |
+| nyt | 0 | 0 | 17 | 21 |
 
 # Shown Order
 
@@ -398,3 +398,4 @@
 - **Feb 21, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 08:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 08:41 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 21, 08:58 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
