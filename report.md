@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 30 | 98 |
 | aidy | 1 | 2 | 17 | 25 |
 | breaking_defense | 0 | 2 | 20 | 36 |
-| supercluster | 0 | 0 | 113 | 134 |
+| supercluster | 0 | 0 | 114 | 135 |
 | nyt | 0 | 0 | 16 | 20 |
 
 # Shown Order
@@ -391,3 +391,4 @@
 - **Feb 21, 07:57 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 08:12 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 21, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
