@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 36 | 103 |
+| spacenews | 7 | 17 | 35 | 103 |
 | aidy | 1 | 2 | 16 | 24 |
-| breaking_defense | 0 | 2 | 19 | 34 |
+| breaking_defense | 0 | 2 | 20 | 35 |
 | supercluster | 0 | 0 | 98 | 126 |
 | nyt | 0 | 0 | 14 | 18 |
 
@@ -366,3 +366,4 @@
 - **Feb 21, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 05:07 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 05:21 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 21, 05:37 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
