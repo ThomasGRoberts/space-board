@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "61cb810a0e54111b3d6e7b87cb934097",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -930,6 +930,18 @@
             "fetched_datetime": "2025-02-21T08:41:33.989841Z",
             "shown_at": [
                 "2025-02-21T08:41:34.457154Z"
+            ]
+        },
+        {
+            "id": "61cb810a0e54111b3d6e7b87cb934097",
+            "source": "spacenews",
+            "text": "Isar Aerospace completes testing of first Spectrum rocket",
+            "source_link": "https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T11:05:28.595168Z",
+            "shown_at": [
+                "2025-02-21T11:05:29.191366Z"
             ]
         }
     ]
