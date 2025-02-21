@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aac01fd74125472320e521d530544523",
+    "trigger_count": 0,
+    "current_item_id": "608ae62dcacaf3b21c3061b7342b0c59",
     "data": [
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
@@ -825,6 +825,18 @@
             "fetched_datetime": "2025-02-21T17:53:34.542514Z",
             "shown_at": [
                 "2025-02-21T17:53:35.237872Z"
+            ]
+        },
+        {
+            "id": "608ae62dcacaf3b21c3061b7342b0c59",
+            "source": "breaking_defense",
+            "text": "Saltzman bars Space Force staff from Mitchell Institute events",
+            "source_link": "https://breakingdefense.com/2025/02/saltzman-bars-space-force-staff-from-mitchell-institute-events/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T18:09:35.737353Z",
+            "shown_at": [
+                "2025-02-21T18:09:36.535809Z"
             ]
         }
     ]

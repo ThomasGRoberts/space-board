@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 21 | 78 |
 | aidy | 1 | 2 | 18 | 28 |
-| breaking_defense | 0 | 2 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | nyt | 0 | 0 | 17 | 25 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -281,3 +281,4 @@
 - **Feb 21, 05:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 05:39 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 05:53 PM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
+- **Feb 21, 06:09 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
