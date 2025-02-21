@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 22 | 89 |
+| spacenews | 8 | 18 | 23 | 90 |
 | aidy | 1 | 2 | 18 | 25 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 18 | 23 |
@@ -264,3 +264,4 @@
 - **Feb 21, 01:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 01:17 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 21, 01:31 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
