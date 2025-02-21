@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 77 |
+| spacenews | 6 | 15 | 22 | 78 |
 | aidy | 1 | 2 | 17 | 28 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | nyt | 0 | 0 | 17 | 25 |
@@ -282,3 +282,4 @@
 - **Feb 21, 05:39 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 21, 05:53 PM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
 - **Feb 21, 06:09 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 21, 06:23 PM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
