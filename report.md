@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 28 | 97 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | breaking_defense | 0 | 2 | 19 | 36 |
-| supercluster | 0 | 0 | 126 | 143 |
+| supercluster | 0 | 0 | 126 | 142 |
 | nyt | 0 | 0 | 17 | 21 |
 
 # Shown Order
@@ -408,3 +408,4 @@
 - **Feb 21, 09:50 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 09:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 09:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 21, 09:55 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
