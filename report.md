@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 30 | 98 |
 | aidy | 1 | 2 | 18 | 25 |
-| breaking_defense | 0 | 2 | 19 | 35 |
+| breaking_defense | 0 | 2 | 20 | 36 |
 | supercluster | 0 | 0 | 112 | 133 |
 | nyt | 0 | 0 | 16 | 20 |
 
@@ -388,3 +388,4 @@
 - **Feb 21, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 07:29 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 07:43 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 21, 07:57 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
