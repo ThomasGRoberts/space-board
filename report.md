@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 25 |
 | breaking_defense | 0 | 2 | 19 | 35 |
 | supercluster | 0 | 0 | 126 | 140 |
-| nyt | 0 | 0 | 17 | 21 |
+| nyt | 0 | 0 | 18 | 22 |
 
 # Shown Order
 
@@ -409,3 +409,4 @@
 - **Feb 21, 09:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 09:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 21, 09:55 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 21, 10:09 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
