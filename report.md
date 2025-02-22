@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 33 |
 | supercluster | 1 | 1 | 82 | 82 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -397,3 +397,4 @@
 - **Feb 22, 06:49 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 06:51 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 22, 07:05 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 22, 07:19 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
