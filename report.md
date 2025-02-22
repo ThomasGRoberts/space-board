@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 65 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 54 | 54 |
 | aidy | 1 | 2 | 17 | 32 |
@@ -352,3 +352,4 @@
 - **Feb 22, 02:05 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 02:07 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 02:09 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
+- **Feb 22, 02:23 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
