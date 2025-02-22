@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 52 |
 | breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 34 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 | aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -399,3 +399,4 @@
 - **Feb 22, 07:05 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 07:19 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 07:33 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 22, 07:47 AM** - China Will Launch the Long March 3B Rocket (supercluster)
