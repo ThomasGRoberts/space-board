@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 43 |
+| spacenews | 6 | 13 | 21 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -347,3 +347,4 @@
 - **Feb 22, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 02:27 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 02:41 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 02:55 PM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
