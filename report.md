@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -382,3 +382,4 @@
 - **Feb 22, 06:14 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 06:27 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 22, 06:43 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 22, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
