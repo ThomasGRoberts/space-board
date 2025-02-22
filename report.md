@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 22 | 43 |
-| breaking_defense | 2 | 2 | 20 | 37 |
+| breaking_defense | 2 | 2 | 21 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -359,3 +359,4 @@
 - **Feb 22, 03:37 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 22, 03:51 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 04:05 PM** - The State of Orbital Traffic Management – Replay (spacenews)
+- **Feb 22, 04:19 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
