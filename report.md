@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 21 | 42 |
+| spacenews | 5 | 11 | 22 | 43 |
 | breaking_defense | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
@@ -391,3 +391,4 @@
 - **Feb 22, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 07:11 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 07:25 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 07:39 PM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
