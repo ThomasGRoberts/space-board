@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -340,3 +340,4 @@
 - **Feb 22, 01:59 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
