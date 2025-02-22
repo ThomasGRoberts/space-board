@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 59 |
 | breaking_defense | 2 | 2 | 19 | 38 |
-| nyt | 1 | 1 | 17 | 31 |
+| nyt | 1 | 1 | 18 | 32 |
 | supercluster | 1 | 1 | 68 | 68 |
 | aidy | 1 | 2 | 18 | 33 |
 
@@ -376,3 +376,4 @@
 - **Feb 22, 04:29 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 22, 04:43 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 22, 04:57 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 22, 05:11 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
