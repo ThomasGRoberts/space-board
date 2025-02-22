@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 20 | 42 |
-| breaking_defense | 0 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
 | supercluster | 1 | 1 | 58 | 58 |
@@ -425,3 +425,4 @@
 - **Feb 22, 10:41 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 10:55 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 11:09 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
+- **Feb 22, 11:23 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
