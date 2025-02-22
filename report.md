@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 21 | 69 |
+| spacenews | 8 | 14 | 22 | 70 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 1 | 17 | 28 |
 | supercluster | 1 | 1 | 40 | 40 |
@@ -331,3 +331,4 @@
 - **Feb 21, 11:45 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 21, 11:47 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 22, 12:02 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 22, 12:15 AM** - House members seek more details on DOGE activities at NASA (spacenews)
