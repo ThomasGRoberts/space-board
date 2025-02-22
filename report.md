@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 57 |
-| breaking_defense | 2 | 2 | 18 | 38 |
+| breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 32 |
 | supercluster | 1 | 1 | 75 | 75 |
 | aidy | 1 | 2 | 17 | 33 |
@@ -385,3 +385,4 @@
 - **Feb 22, 05:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 05:37 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 05:39 AM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
+- **Feb 22, 05:53 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
