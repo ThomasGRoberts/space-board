@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 20 | 43 |
+| spacenews | 6 | 14 | 21 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -336,3 +336,4 @@
 - **Feb 22, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 01:15 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 22, 01:31 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 01:45 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
