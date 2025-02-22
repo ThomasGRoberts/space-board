@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 22 | 61 |
-| breaking_defense | 2 | 2 | 18 | 38 |
+| spacenews | 8 | 15 | 22 | 60 |
+| breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 31 |
 | supercluster | 1 | 1 | 68 | 68 |
 | aidy | 1 | 2 | 17 | 32 |
@@ -374,3 +374,4 @@
 - **Feb 22, 04:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 04:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 04:29 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
+- **Feb 22, 04:43 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
