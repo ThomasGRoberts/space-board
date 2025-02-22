@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 20 | 41 |
+| spacenews | 5 | 11 | 21 | 42 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -424,3 +424,4 @@
 - **Feb 22, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 10:41 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 10:55 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 11:09 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
