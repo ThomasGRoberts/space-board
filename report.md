@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 22 | 54 |
-| breaking_defense | 2 | 2 | 18 | 39 |
+| spacenews | 8 | 15 | 22 | 53 |
+| breaking_defense | 2 | 2 | 19 | 40 |
 | nyt | 1 | 1 | 18 | 33 |
 | supercluster | 1 | 1 | 82 | 82 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -396,3 +396,4 @@
 - **Feb 22, 06:47 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 06:49 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 06:51 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
+- **Feb 22, 07:05 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
