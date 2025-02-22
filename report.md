@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 21 | 42 |
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -367,3 +367,4 @@
 - **Feb 22, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 04:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 04:47 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
