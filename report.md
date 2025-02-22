@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 23 | 67 |
-| breaking_defense | 2 | 2 | 18 | 36 |
+| spacenews | 9 | 15 | 22 | 67 |
+| breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 47 | 47 |
 | aidy | 1 | 2 | 17 | 32 |
@@ -341,3 +341,4 @@
 - **Feb 22, 12:55 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 12:57 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 12:59 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
+- **Feb 22, 01:13 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
