@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 47 | 47 |
-| aidy | 1 | 2 | 17 | 32 |
+| aidy | 1 | 2 | 18 | 33 |
 
 # Shown Order
 
@@ -342,3 +342,4 @@
 - **Feb 22, 12:57 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 12:59 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
 - **Feb 22, 01:13 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 22, 01:27 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
