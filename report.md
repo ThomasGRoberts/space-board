@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 21 | 42 |
+| spacenews | 6 | 11 | 22 | 43 |
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -358,3 +358,4 @@
 - **Feb 22, 03:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 03:37 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 22, 03:51 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 22, 04:05 PM** - The State of Orbital Traffic Management – Replay (spacenews)
