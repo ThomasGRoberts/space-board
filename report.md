@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 42 |
 | breaking_defense | 1 | 2 | 20 | 38 |
-| nyt | 0 | 1 | 18 | 36 |
+| nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 44 | 44 |
 
@@ -401,3 +401,4 @@
 - **Feb 22, 08:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 08:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 08:21 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 22, 08:35 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
