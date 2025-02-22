@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 21 | 42 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
@@ -411,3 +411,4 @@
 - **Feb 22, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 09:31 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
