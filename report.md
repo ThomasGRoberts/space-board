@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 21 | 43 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -348,3 +348,4 @@
 - **Feb 22, 02:27 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 02:41 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 02:55 PM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 22, 03:09 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
