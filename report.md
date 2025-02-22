@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 63 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 30 |
 | supercluster | 1 | 1 | 61 | 61 |
 | aidy | 1 | 2 | 17 | 32 |
@@ -363,3 +363,4 @@
 - **Feb 22, 03:15 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 03:17 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 03:19 AM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
+- **Feb 22, 03:33 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
