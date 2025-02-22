@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 49 |
 | breaking_defense | 2 | 2 | 19 | 38 |
-| nyt | 1 | 1 | 17 | 35 |
+| nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 96 | 96 |
 | aidy | 1 | 2 | 18 | 36 |
 
@@ -421,3 +421,4 @@
 - **Feb 22, 09:27 AM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 22, 09:41 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 09:55 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 22, 10:12 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
