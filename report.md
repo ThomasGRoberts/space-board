@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 21 | 43 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -346,3 +346,4 @@
 - **Feb 22, 02:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 02:27 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 22, 02:41 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
