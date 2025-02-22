@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 43 |
-| breaking_defense | 1 | 2 | 19 | 37 |
+| breaking_defense | 1 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 30 | 30 |
@@ -381,3 +381,4 @@
 - **Feb 22, 05:59 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 06:14 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 06:27 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
+- **Feb 22, 06:43 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
