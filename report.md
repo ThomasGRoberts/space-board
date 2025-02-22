@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 65 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 17 | 29 |
+| nyt | 1 | 1 | 18 | 30 |
 | supercluster | 1 | 1 | 54 | 54 |
 | aidy | 1 | 2 | 18 | 32 |
 
@@ -354,3 +354,4 @@
 - **Feb 22, 02:09 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 22, 02:23 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 22, 02:37 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 22, 02:51 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
