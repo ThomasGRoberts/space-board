@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 41 |
+| spacenews | 5 | 10 | 22 | 42 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -413,3 +413,4 @@
 - **Feb 22, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 09:31 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 09:45 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 22, 09:59 PM** - AAC starts work on maritime domain awareness constellation (spacenews)
