@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 50 |
-| breaking_defense | 2 | 2 | 19 | 39 |
+| breaking_defense | 2 | 2 | 18 | 39 |
 | nyt | 1 | 1 | 18 | 35 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -412,3 +412,4 @@
 - **Feb 22, 08:45 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 22, 08:59 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 09:13 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 09:15 AM** - China Will Launch the Long March 3B Rocket (supercluster)
