@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 21 | 43 |
+| spacenews | 6 | 11 | 21 | 42 |
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -349,3 +349,4 @@
 - **Feb 22, 02:41 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 02:55 PM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 22, 03:09 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 22, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
