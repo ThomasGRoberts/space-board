@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 52 |
-| breaking_defense | 2 | 2 | 19 | 39 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 34 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 | aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -400,3 +400,4 @@
 - **Feb 22, 07:19 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 07:33 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 07:47 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 07:49 AM** - China Will Launch the Long March 3B Rocket (supercluster)
