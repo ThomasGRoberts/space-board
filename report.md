@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 20 | 47 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -433,3 +433,4 @@
 - **Feb 22, 10:55 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 22, 11:09 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 22, 11:23 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 22, 11:37 AM** - China Will Launch the Long March 3B Rocket (supercluster)
