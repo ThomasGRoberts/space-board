@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 22 | 63 |
+| spacenews | 8 | 15 | 23 | 64 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 18 | 30 |
 | supercluster | 1 | 1 | 61 | 61 |
@@ -362,3 +362,4 @@
 - **Feb 22, 03:13 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 03:15 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 03:17 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 03:19 AM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
