@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 43 |
-| breaking_defense | 1 | 2 | 19 | 37 |
+| breaking_defense | 1 | 2 | 20 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
 | supercluster | 1 | 1 | 44 | 44 |
@@ -403,3 +403,4 @@
 - **Feb 22, 08:21 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 22, 08:35 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 08:49 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
+- **Feb 22, 09:03 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
