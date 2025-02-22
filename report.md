@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
-| breaking_defense | 2 | 2 | 20 | 37 |
+| breaking_defense | 2 | 2 | 21 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 23 | 23 |
@@ -370,3 +370,4 @@
 - **Feb 22, 04:47 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 05:02 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 05:17 PM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
+- **Feb 22, 05:31 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
