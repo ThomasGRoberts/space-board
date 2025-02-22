@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -361,3 +361,4 @@
 - **Feb 22, 04:05 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 22, 04:19 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 22, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
