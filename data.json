@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-22T00:02:00.052027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "61d147ad6ec74c64dc4741dab9222029",
+    "trigger_count": 0,
+    "current_item_id": "040a7b11c746d46010a7a399ff2202cc",
     "data": [
         {
             "id": "deb0fc4a61e342fb309cfdc0185d9e35",
@@ -1023,6 +1023,18 @@
                 "2025-02-22T17:53:24.040505Z",
                 "2025-02-22T17:55:34.189989Z",
                 "2025-02-22T17:57:38.256061Z"
+            ]
+        },
+        {
+            "id": "040a7b11c746d46010a7a399ff2202cc",
+            "source": "spacenews",
+            "text": "China launches ChinaSat-10R communications satellite from Xichang",
+            "source_link": "https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T18:27:25.189759Z",
+            "shown_at": [
+                "2025-02-22T18:27:25.766462Z"
             ]
         }
     ]
