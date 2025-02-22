@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 21 | 41 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 0 | 1 | 18 | 37 |
+| nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 51 | 51 |
 
@@ -412,3 +412,4 @@
 - **Feb 22, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 09:31 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 22, 09:45 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
