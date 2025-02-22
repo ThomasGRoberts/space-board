@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 54 | 54 |
-| aidy | 1 | 2 | 17 | 31 |
+| aidy | 1 | 2 | 18 | 32 |
 
 # Shown Order
 
@@ -353,3 +353,4 @@
 - **Feb 22, 02:07 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 02:09 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 22, 02:23 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 22, 02:37 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
