@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 64 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 30 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 | aidy | 1 | 2 | 17 | 32 |
 
 # Shown Order
@@ -356,3 +356,4 @@
 - **Feb 22, 02:37 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 22, 02:51 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 03:05 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 03:07 AM** - China Will Launch the Long March 3B Rocket (supercluster)
