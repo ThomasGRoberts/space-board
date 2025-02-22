@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 50 |
 | breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 35 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 | aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -411,3 +411,4 @@
 - **Feb 22, 08:32 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 22, 08:45 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 22, 08:59 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 09:13 AM** - China Will Launch the Long March 3B Rocket (supercluster)
