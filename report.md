@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -371,3 +371,4 @@
 - **Feb 22, 05:02 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 05:17 PM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
 - **Feb 22, 05:31 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 22, 05:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
