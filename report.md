@@ -6,6 +6,7 @@
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -331,3 +332,4 @@
 - **Feb 22, 11:23 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 22, 11:51 AM** - Jim Free, NASA associate administrator, to retire (spacenews)
 - **Feb 22, 12:05 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 22, 12:19 PM** - China Will Launch the Long March 3B Rocket (supercluster)
