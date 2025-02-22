@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -405,3 +405,4 @@
 - **Feb 22, 08:49 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
 - **Feb 22, 09:03 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 09:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
