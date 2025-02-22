@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 22 | 69 |
 | breaking_defense | 2 | 2 | 19 | 36 |
-| nyt | 1 | 1 | 17 | 28 |
+| nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 40 | 40 |
-| aidy | 1 | 2 | 18 | 32 |
+| aidy | 1 | 2 | 17 | 32 |
 
 # Shown Order
 
@@ -332,3 +332,4 @@
 - **Feb 21, 11:47 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 22, 12:02 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 12:15 AM** - House members seek more details on DOGE activities at NASA (spacenews)
+- **Feb 22, 12:29 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
