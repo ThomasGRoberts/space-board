@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 61 |
 | breaking_defense | 2 | 2 | 19 | 38 |
-| nyt | 1 | 1 | 17 | 30 |
+| nyt | 1 | 1 | 18 | 31 |
 | supercluster | 1 | 1 | 61 | 61 |
 | aidy | 1 | 2 | 18 | 33 |
 
@@ -365,3 +365,4 @@
 - **Feb 22, 03:19 AM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
 - **Feb 22, 03:33 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 03:47 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 22, 04:02 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
