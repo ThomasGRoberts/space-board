@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 21 | 44 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -337,3 +337,4 @@
 - **Feb 22, 01:15 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 22, 01:31 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 01:45 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
+- **Feb 22, 01:59 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
