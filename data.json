@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-22T00:02:00.052027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "145622462ec776c373a1f05e63c62fe1",
+    "trigger_count": 0,
+    "current_item_id": "879469882f1632044a3685c8a771ca5e",
     "data": [
         {
             "id": "deb0fc4a61e342fb309cfdc0185d9e35",
@@ -1041,6 +1041,18 @@
             "fetched_datetime": "2025-02-22T00:59:24.000403Z",
             "shown_at": [
                 "2025-02-22T00:59:24.537185Z"
+            ]
+        },
+        {
+            "id": "879469882f1632044a3685c8a771ca5e",
+            "source": "aidy",
+            "text": "GAO to Review FAA Launch Regulations for Global Competitiveness Impact",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T08:45:48.703137Z",
+            "shown_at": [
+                "2025-02-22T08:45:49.620921Z"
             ]
         }
     ]

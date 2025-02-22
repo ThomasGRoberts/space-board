@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 34 |
 | supercluster | 1 | 1 | 89 | 89 |
-| aidy | 0 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -409,3 +409,4 @@
 - **Feb 22, 08:02 AM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
 - **Feb 22, 08:17 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 22, 08:32 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 22, 08:45 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
