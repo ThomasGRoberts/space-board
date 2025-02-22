@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 46 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 110 | 110 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -441,3 +441,4 @@
 - **Feb 22, 11:47 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 11:49 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 11:51 AM** - Jim Free, NASA associate administrator, to retire (spacenews)
+- **Feb 22, 12:05 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
