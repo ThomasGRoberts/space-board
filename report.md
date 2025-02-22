@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 64 |
+| spacenews | 9 | 15 | 23 | 65 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 54 | 54 |
@@ -351,3 +351,4 @@
 - **Feb 22, 02:03 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 02:05 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 02:07 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 02:09 AM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
