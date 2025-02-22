@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 22 | 65 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 29 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 | aidy | 1 | 2 | 17 | 33 |
 
 # Shown Order
@@ -345,3 +345,4 @@
 - **Feb 22, 01:27 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 22, 01:41 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 01:55 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 01:57 AM** - China Will Launch the Long March 3B Rocket (supercluster)
