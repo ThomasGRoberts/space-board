@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -350,3 +350,4 @@
 - **Feb 22, 02:55 PM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 22, 03:09 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 22, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
