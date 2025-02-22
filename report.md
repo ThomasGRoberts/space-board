@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 58 |
 | breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 32 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | aidy | 1 | 2 | 17 | 33 |
 
 # Shown Order
@@ -379,3 +379,4 @@
 - **Feb 22, 05:11 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 22, 05:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 05:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 05:29 AM** - China Will Launch the Long March 3B Rocket (supercluster)
