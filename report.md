@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 48 |
 | breaking_defense | 2 | 2 | 18 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 | aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
@@ -422,3 +422,4 @@
 - **Feb 22, 09:41 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 09:55 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 22, 10:12 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 10:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
