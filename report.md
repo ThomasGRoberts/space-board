@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 21 | 43 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -335,3 +335,4 @@
 - **Feb 22, 01:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 01:15 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 22, 01:31 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
