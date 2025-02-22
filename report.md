@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 21 | 42 |
+| spacenews | 5 | 11 | 22 | 43 |
 | breaking_defense | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
@@ -402,3 +402,4 @@
 - **Feb 22, 08:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Feb 22, 08:21 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 22, 08:35 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 22, 08:49 PM** - Airbus takes another 300 million euros in space program charges (spacenews)
