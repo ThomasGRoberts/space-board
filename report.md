@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 22 | 67 |
+| spacenews | 9 | 15 | 23 | 68 |
 | breaking_defense | 2 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 29 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -340,3 +340,4 @@
 - **Feb 22, 12:53 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 12:55 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 12:57 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 12:59 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
