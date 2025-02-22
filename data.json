@@ -1,9 +1,198 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-21T00:01:59.527104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cbcbec7a929ce6d440a89f15a6264e28",
+    "last_run_datetime": "2025-02-22T00:02:00.052027+00:00",
+    "trigger_count": 0,
+    "current_item_id": "fbfd92bebbd97f755b1f7a8b977521d0",
     "data": [
+        {
+            "id": "deb0fc4a61e342fb309cfdc0185d9e35",
+            "source": "spacenews",
+            "text": "Boom or bust? Making sense of conflicting signals in the space economy",
+            "source_link": "https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T23:19:44.502757Z",
+            "shown_at": [
+                "2025-02-21T23:19:45.400698Z"
+            ]
+        },
+        {
+            "id": "5a6b4ee083756864a6b9530c2bc26208",
+            "source": "spacenews",
+            "text": "BAE wins $230.6 million contract for space weather program",
+            "source_link": "https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T22:37:30.878841Z",
+            "shown_at": [
+                "2025-02-21T22:37:31.354761Z"
+            ]
+        },
+        {
+            "id": "ea4f32248a34dbeea72bc523bf17e895",
+            "source": "breaking_defense",
+            "text": "As DoD shifts $50B in spending, can an old playbook protect legacy programs?",
+            "source_link": "https://breakingdefense.com/2025/02/as-dod-shifts-50b-in-spending-can-an-old-playbook-protect-legacy-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T21:11:47.910239Z",
+            "shown_at": [
+                "2025-02-21T21:11:48.855351Z",
+                "2025-02-21T22:23:31.535016Z"
+            ]
+        },
+        {
+            "id": "61d147ad6ec74c64dc4741dab9222029",
+            "source": "nyt",
+            "text": "William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102",
+            "source_link": "https://www.nytimes.com/2025/02/21/us/william-r-lucas-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T19:05:38.077924Z",
+            "shown_at": [
+                "2025-02-21T19:05:38.622190Z"
+            ]
+        },
+        {
+            "id": "0de0fb5419da79a1953c796610b2a370",
+            "source": "spacenews",
+            "text": "Kapta Space exits stealth mode with bold plans for space-based target tracking",
+            "source_link": "https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T18:23:41.644665Z",
+            "shown_at": [
+                "2025-02-21T18:23:42.957111Z"
+            ]
+        },
+        {
+            "id": "608ae62dcacaf3b21c3061b7342b0c59",
+            "source": "breaking_defense",
+            "text": "Saltzman bars Space Force staff from Mitchell Institute events",
+            "source_link": "https://breakingdefense.com/2025/02/saltzman-bars-space-force-staff-from-mitchell-institute-events/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T18:09:35.737353Z",
+            "shown_at": [
+                "2025-02-21T18:09:36.535809Z",
+                "2025-02-21T19:33:53.982693Z"
+            ]
+        },
+        {
+            "id": "aac01fd74125472320e521d530544523",
+            "source": "spacenews",
+            "text": "PLD Space signs agreement to launch from spaceport in Oman",
+            "source_link": "https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T17:53:34.542514Z",
+            "shown_at": [
+                "2025-02-21T17:53:35.237872Z"
+            ]
+        },
+        {
+            "id": "23a1733f2b7911de2124e8e24c3c2414",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 3B Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-3b8",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-22T12:10:00.000Z",
+            "time_remaining": "0d 12h 24m",
+            "fetched_datetime": "2025-02-21T12:31:27.586371Z",
+            "shown_at": [
+                "2025-02-21T12:31:28.140195Z",
+                "2025-02-21T16:19:39.529776Z",
+                "2025-02-21T16:21:43.599022Z",
+                "2025-02-21T16:23:40.089483Z",
+                "2025-02-21T16:25:34.104713Z",
+                "2025-02-21T17:25:13.944166Z",
+                "2025-02-21T17:27:44.292664Z",
+                "2025-02-21T17:29:26.513992Z",
+                "2025-02-21T17:32:00.056350Z",
+                "2025-02-21T17:33:00.175693Z",
+                "2025-02-21T17:35:37.030248Z",
+                "2025-02-21T17:37:43.917130Z",
+                "2025-02-21T19:19:38.291303Z",
+                "2025-02-21T19:21:47.054478Z",
+                "2025-02-21T19:23:37.087541Z",
+                "2025-02-21T19:25:44.244092Z",
+                "2025-02-21T19:27:26.651915Z",
+                "2025-02-21T19:29:33.884520Z",
+                "2025-02-21T19:31:56.080033Z",
+                "2025-02-21T20:29:26.220505Z",
+                "2025-02-21T20:31:43.428076Z",
+                "2025-02-21T20:33:48.395290Z",
+                "2025-02-21T20:35:55.201882Z",
+                "2025-02-21T20:37:47.412002Z",
+                "2025-02-21T20:39:36.597263Z",
+                "2025-02-21T20:41:40.868571Z",
+                "2025-02-21T21:53:42.303709Z",
+                "2025-02-21T21:55:31.090443Z",
+                "2025-02-21T21:57:25.586257Z",
+                "2025-02-21T21:59:31.131130Z",
+                "2025-02-21T22:02:20.245748Z",
+                "2025-02-21T22:05:42.081884Z",
+                "2025-02-21T22:07:48.022613Z",
+                "2025-02-21T23:33:35.183013Z",
+                "2025-02-21T23:35:37.167543Z",
+                "2025-02-21T23:37:32.773155Z",
+                "2025-02-21T23:39:26.537164Z",
+                "2025-02-21T23:41:45.361060Z",
+                "2025-02-21T23:43:27.825510Z",
+                "2025-02-21T23:45:41.436853Z"
+            ]
+        },
+        {
+            "id": "d4ecfdba840619633449fa3ccfd4968f",
+            "source": "spacenews",
+            "text": "AI to power China’s mission to the edges of the solar system",
+            "source_link": "https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T11:19:47.414989Z",
+            "shown_at": [
+                "2025-02-21T11:19:48.819796Z"
+            ]
+        },
+        {
+            "id": "61cb810a0e54111b3d6e7b87cb934097",
+            "source": "spacenews",
+            "text": "Isar Aerospace completes testing of first Spectrum rocket",
+            "source_link": "https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T11:05:28.595168Z",
+            "shown_at": [
+                "2025-02-21T11:05:29.191366Z"
+            ]
+        },
+        {
+            "id": "fbfd92bebbd97f755b1f7a8b977521d0",
+            "source": "aidy",
+            "text": "NASA Reverses Employee Terminations Amid Protests and Congressional Pressure",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T08:41:33.989841Z",
+            "shown_at": [
+                "2025-02-21T08:41:34.457154Z",
+                "2025-02-22T00:02:04.015680Z"
+            ]
+        },
+        {
+            "id": "fc2de52289db650d7caf30732f8ede45",
+            "source": "spacenews",
+            "text": "ABL Space renamed Long Wall as it shifts focus to defense market ",
+            "source_link": "https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-21T02:13:24.575107Z",
+            "shown_at": [
+                "2025-02-21T02:13:25.075085Z",
+                "2025-02-21T05:51:18.508503Z"
+            ]
+        },
         {
             "id": "8a68708d899d488b8a729be11d69d9fc",
             "source": "spacenews",
@@ -752,194 +941,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "fc2de52289db650d7caf30732f8ede45",
-            "source": "spacenews",
-            "text": "ABL Space renamed Long Wall as it shifts focus to defense market ",
-            "source_link": "https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T02:13:24.575107Z",
-            "shown_at": [
-                "2025-02-21T02:13:25.075085Z",
-                "2025-02-21T05:51:18.508503Z"
-            ]
-        },
-        {
-            "id": "fbfd92bebbd97f755b1f7a8b977521d0",
-            "source": "aidy",
-            "text": "NASA Reverses Employee Terminations Amid Protests and Congressional Pressure",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T08:41:33.989841Z",
-            "shown_at": [
-                "2025-02-21T08:41:34.457154Z"
-            ]
-        },
-        {
-            "id": "61cb810a0e54111b3d6e7b87cb934097",
-            "source": "spacenews",
-            "text": "Isar Aerospace completes testing of first Spectrum rocket",
-            "source_link": "https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T11:05:28.595168Z",
-            "shown_at": [
-                "2025-02-21T11:05:29.191366Z"
-            ]
-        },
-        {
-            "id": "d4ecfdba840619633449fa3ccfd4968f",
-            "source": "spacenews",
-            "text": "AI to power China’s mission to the edges of the solar system",
-            "source_link": "https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T11:19:47.414989Z",
-            "shown_at": [
-                "2025-02-21T11:19:48.819796Z"
-            ]
-        },
-        {
-            "id": "23a1733f2b7911de2124e8e24c3c2414",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 3B Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-3b8",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-22T12:10:00.000Z",
-            "time_remaining": "0d 12h 24m",
-            "fetched_datetime": "2025-02-21T12:31:27.586371Z",
-            "shown_at": [
-                "2025-02-21T12:31:28.140195Z",
-                "2025-02-21T16:19:39.529776Z",
-                "2025-02-21T16:21:43.599022Z",
-                "2025-02-21T16:23:40.089483Z",
-                "2025-02-21T16:25:34.104713Z",
-                "2025-02-21T17:25:13.944166Z",
-                "2025-02-21T17:27:44.292664Z",
-                "2025-02-21T17:29:26.513992Z",
-                "2025-02-21T17:32:00.056350Z",
-                "2025-02-21T17:33:00.175693Z",
-                "2025-02-21T17:35:37.030248Z",
-                "2025-02-21T17:37:43.917130Z",
-                "2025-02-21T19:19:38.291303Z",
-                "2025-02-21T19:21:47.054478Z",
-                "2025-02-21T19:23:37.087541Z",
-                "2025-02-21T19:25:44.244092Z",
-                "2025-02-21T19:27:26.651915Z",
-                "2025-02-21T19:29:33.884520Z",
-                "2025-02-21T19:31:56.080033Z",
-                "2025-02-21T20:29:26.220505Z",
-                "2025-02-21T20:31:43.428076Z",
-                "2025-02-21T20:33:48.395290Z",
-                "2025-02-21T20:35:55.201882Z",
-                "2025-02-21T20:37:47.412002Z",
-                "2025-02-21T20:39:36.597263Z",
-                "2025-02-21T20:41:40.868571Z",
-                "2025-02-21T21:53:42.303709Z",
-                "2025-02-21T21:55:31.090443Z",
-                "2025-02-21T21:57:25.586257Z",
-                "2025-02-21T21:59:31.131130Z",
-                "2025-02-21T22:02:20.245748Z",
-                "2025-02-21T22:05:42.081884Z",
-                "2025-02-21T22:07:48.022613Z",
-                "2025-02-21T23:33:35.183013Z",
-                "2025-02-21T23:35:37.167543Z",
-                "2025-02-21T23:37:32.773155Z",
-                "2025-02-21T23:39:26.537164Z",
-                "2025-02-21T23:41:45.361060Z",
-                "2025-02-21T23:43:27.825510Z",
-                "2025-02-21T23:45:41.436853Z"
-            ]
-        },
-        {
-            "id": "aac01fd74125472320e521d530544523",
-            "source": "spacenews",
-            "text": "PLD Space signs agreement to launch from spaceport in Oman",
-            "source_link": "https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T17:53:34.542514Z",
-            "shown_at": [
-                "2025-02-21T17:53:35.237872Z"
-            ]
-        },
-        {
-            "id": "608ae62dcacaf3b21c3061b7342b0c59",
-            "source": "breaking_defense",
-            "text": "Saltzman bars Space Force staff from Mitchell Institute events",
-            "source_link": "https://breakingdefense.com/2025/02/saltzman-bars-space-force-staff-from-mitchell-institute-events/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T18:09:35.737353Z",
-            "shown_at": [
-                "2025-02-21T18:09:36.535809Z",
-                "2025-02-21T19:33:53.982693Z"
-            ]
-        },
-        {
-            "id": "0de0fb5419da79a1953c796610b2a370",
-            "source": "spacenews",
-            "text": "Kapta Space exits stealth mode with bold plans for space-based target tracking",
-            "source_link": "https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T18:23:41.644665Z",
-            "shown_at": [
-                "2025-02-21T18:23:42.957111Z"
-            ]
-        },
-        {
-            "id": "61d147ad6ec74c64dc4741dab9222029",
-            "source": "nyt",
-            "text": "William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102",
-            "source_link": "https://www.nytimes.com/2025/02/21/us/william-r-lucas-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T19:05:38.077924Z",
-            "shown_at": [
-                "2025-02-21T19:05:38.622190Z"
-            ]
-        },
-        {
-            "id": "ea4f32248a34dbeea72bc523bf17e895",
-            "source": "breaking_defense",
-            "text": "As DoD shifts $50B in spending, can an old playbook protect legacy programs?",
-            "source_link": "https://breakingdefense.com/2025/02/as-dod-shifts-50b-in-spending-can-an-old-playbook-protect-legacy-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T21:11:47.910239Z",
-            "shown_at": [
-                "2025-02-21T21:11:48.855351Z",
-                "2025-02-21T22:23:31.535016Z"
-            ]
-        },
-        {
-            "id": "5a6b4ee083756864a6b9530c2bc26208",
-            "source": "spacenews",
-            "text": "BAE wins $230.6 million contract for space weather program",
-            "source_link": "https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T22:37:30.878841Z",
-            "shown_at": [
-                "2025-02-21T22:37:31.354761Z"
-            ]
-        },
-        {
-            "id": "deb0fc4a61e342fb309cfdc0185d9e35",
-            "source": "spacenews",
-            "text": "Boom or bust? Making sense of conflicting signals in the space economy",
-            "source_link": "https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T23:19:44.502757Z",
-            "shown_at": [
-                "2025-02-21T23:19:45.400698Z"
             ]
         }
     ]
