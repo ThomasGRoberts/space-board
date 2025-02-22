@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 60 |
 | breaking_defense | 2 | 2 | 18 | 38 |
 | nyt | 1 | 1 | 18 | 31 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 | aidy | 1 | 2 | 17 | 32 |
 
 # Shown Order
@@ -372,3 +372,4 @@
 - **Feb 22, 04:21 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 04:23 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 04:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Feb 22, 04:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
