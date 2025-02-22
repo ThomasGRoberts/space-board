@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 22 | 52 |
+| spacenews | 8 | 15 | 22 | 51 |
 | breaking_defense | 2 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 18 | 34 |
 | supercluster | 1 | 1 | 89 | 89 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -408,3 +408,4 @@
 - **Feb 22, 07:59 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Feb 22, 08:02 AM** - PLD Space signs agreement to launch from spaceport in Oman (spacenews)
 - **Feb 22, 08:17 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 22, 08:32 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
