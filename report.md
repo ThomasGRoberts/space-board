@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 20 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -394,3 +394,4 @@
 - **Feb 22, 07:39 PM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
 - **Feb 22, 07:53 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 22, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Feb 22, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
