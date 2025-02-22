@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 22 | 58 |
 | breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 32 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | aidy | 1 | 2 | 17 | 33 |
 
 # Shown Order
@@ -377,3 +377,4 @@
 - **Feb 22, 04:43 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 22, 04:57 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 22, 05:11 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 22, 05:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
