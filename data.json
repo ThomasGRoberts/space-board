@@ -1,9 +1,70 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-22T00:02:00.052027+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-02-23T00:02:00.934260+00:00",
+    "trigger_count": 5,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "a79d4d9266c04c852739fa261cfedf3d",
+            "source": "spacenews",
+            "text": "Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry",
+            "source_link": "https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T23:09:25.017956Z",
+            "shown_at": [
+                "2025-02-22T23:09:25.610341Z"
+            ]
+        },
+        {
+            "id": "040a7b11c746d46010a7a399ff2202cc",
+            "source": "spacenews",
+            "text": "China launches ChinaSat-10R communications satellite from Xichang",
+            "source_link": "https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T18:27:25.189759Z",
+            "shown_at": [
+                "2025-02-22T18:27:25.766462Z"
+            ]
+        },
+        {
+            "id": "879469882f1632044a3685c8a771ca5e",
+            "source": "aidy",
+            "text": "GAO to Review FAA Launch Regulations for Global Competitiveness Impact",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T08:45:48.703137Z",
+            "shown_at": [
+                "2025-02-22T08:45:49.620921Z"
+            ]
+        },
+        {
+            "id": "c342d13d38d243c1e48b02554eac623c",
+            "source": "spacenews",
+            "text": "NASA selects SpaceX to launch NEO Surveyor",
+            "source_link": "https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T00:59:24.000403Z",
+            "shown_at": [
+                "2025-02-22T00:59:24.537185Z",
+                "2025-02-22T10:41:45.592289Z"
+            ]
+        },
+        {
+            "id": "d849476bc4523fcb54d49b8467e8c5ed",
+            "source": "spacenews",
+            "text": "House members seek more details on DOGE activities at NASA",
+            "source_link": "https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-22T00:15:42.017251Z",
+            "shown_at": [
+                "2025-02-22T00:15:42.946788Z"
+            ]
+        },
         {
             "id": "deb0fc4a61e342fb309cfdc0185d9e35",
             "source": "spacenews",
@@ -962,67 +1023,6 @@
             ]
         },
         {
-            "id": "d849476bc4523fcb54d49b8467e8c5ed",
-            "source": "spacenews",
-            "text": "House members seek more details on DOGE activities at NASA",
-            "source_link": "https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T00:15:42.017251Z",
-            "shown_at": [
-                "2025-02-22T00:15:42.946788Z"
-            ]
-        },
-        {
-            "id": "c342d13d38d243c1e48b02554eac623c",
-            "source": "spacenews",
-            "text": "NASA selects SpaceX to launch NEO Surveyor",
-            "source_link": "https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T00:59:24.000403Z",
-            "shown_at": [
-                "2025-02-22T00:59:24.537185Z",
-                "2025-02-22T10:41:45.592289Z"
-            ]
-        },
-        {
-            "id": "879469882f1632044a3685c8a771ca5e",
-            "source": "aidy",
-            "text": "GAO to Review FAA Launch Regulations for Global Competitiveness Impact",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T08:45:48.703137Z",
-            "shown_at": [
-                "2025-02-22T08:45:49.620921Z"
-            ]
-        },
-        {
-            "id": "040a7b11c746d46010a7a399ff2202cc",
-            "source": "spacenews",
-            "text": "China launches ChinaSat-10R communications satellite from Xichang",
-            "source_link": "https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T18:27:25.189759Z",
-            "shown_at": [
-                "2025-02-22T18:27:25.766462Z"
-            ]
-        },
-        {
-            "id": "a79d4d9266c04c852739fa261cfedf3d",
-            "source": "spacenews",
-            "text": "Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry",
-            "source_link": "https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T23:09:25.017956Z",
-            "shown_at": [
-                "2025-02-22T23:09:25.610341Z"
-            ]
-        },
-        {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from California",
@@ -1031,7 +1031,7 @@
             "type": "launch",
             "target_datetime": "2025-02-22T23:43:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-02-22T23:59:44.464394Z"
+            "fetched_datetime": "2025-02-23T00:02:04.234576Z"
         }
     ]
 }
