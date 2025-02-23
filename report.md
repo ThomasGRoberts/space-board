@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 129 | 129 |
 
@@ -574,3 +574,4 @@
 - **Feb 23, 10:47 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 23, 11:02 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
 - **Feb 23, 11:15 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 23, 11:29 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
