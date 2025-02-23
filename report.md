@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 18 | 40 |
+| spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 19 | 37 |
@@ -428,3 +428,4 @@
 - **Feb 23, 06:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 06:49 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 23, 07:04 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 23, 07:17 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
