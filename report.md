@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -393,3 +393,4 @@
 - **Feb 23, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 03:15 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
