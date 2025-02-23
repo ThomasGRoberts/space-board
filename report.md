@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -404,3 +404,4 @@
 - **Feb 23, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 04:29 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
