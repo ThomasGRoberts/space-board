@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 19 | 40 |
+| spacenews | 2 | 7 | 20 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| nyt | 2 | 2 | 21 | 39 |
+| nyt | 2 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 108 | 108 |
 
 # Shown Order
@@ -539,3 +539,4 @@
 - **Feb 23, 07:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 07:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 07:13 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Feb 23, 07:27 PM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
