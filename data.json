@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-23T00:02:00.934260+00:00",
-    "trigger_count": 6,
-    "current_item_id": "550252eed7dd27f09ee75aef1c468d0f",
+    "trigger_count": 0,
+    "current_item_id": "6d88a33b79bf80c3f27f5d7e82a2bb00",
     "data": [
         {
             "id": "a79d4d9266c04c852739fa261cfedf3d",
@@ -1105,6 +1105,18 @@
                 "2025-02-23T07:53:27.828502Z",
                 "2025-02-23T07:55:34.892904Z",
                 "2025-02-23T07:57:06.135964Z"
+            ]
+        },
+        {
+            "id": "6d88a33b79bf80c3f27f5d7e82a2bb00",
+            "source": "aidy",
+            "text": "Space Force Funding Boost Urged Amid Command Relocation Controversy",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-23T08:41:59.710575Z",
+            "shown_at": [
+                "2025-02-23T08:42:00.649615Z"
             ]
         }
     ]
