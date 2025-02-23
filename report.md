@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 20 | 38 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -500,3 +500,4 @@
 - **Feb 23, 03:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 23, 03:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 03:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 03:30 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
