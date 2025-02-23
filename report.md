@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
-| nyt | 0 | 1 | 19 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
+| nyt | 0 | 1 | 19 | 36 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -429,3 +429,4 @@
 - **Feb 23, 06:49 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 23, 07:04 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 23, 07:17 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
+- **Feb 23, 07:31 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
