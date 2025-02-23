@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 18 | 40 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| nyt | 0 | 1 | 18 | 36 |
+| nyt | 0 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -416,3 +416,4 @@
 - **Feb 23, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 05:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 05:39 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 23, 05:53 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
