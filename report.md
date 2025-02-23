@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 19 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 18 | 38 |
 | nyt | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 66 | 66 |
@@ -473,3 +473,4 @@
 - **Feb 23, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 11:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 12:02 PM** - China readies Tianwen-2 asteroid sample return spacecraft for launch (spacenews)
+- **Feb 23, 12:18 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
