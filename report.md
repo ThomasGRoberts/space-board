@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 122 | 122 |
 
@@ -563,3 +563,4 @@
 - **Feb 23, 09:35 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 23, 09:49 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 23, 10:03 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 23, 10:17 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
