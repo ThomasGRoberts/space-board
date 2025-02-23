@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 2 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 122 | 122 |
+| supercluster | 1 | 1 | 123 | 123 |
 
 # Shown Order
 
@@ -564,3 +564,4 @@
 - **Feb 23, 09:49 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 23, 10:03 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 23, 10:17 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 23, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
