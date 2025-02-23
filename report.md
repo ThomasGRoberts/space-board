@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 18 | 38 |
+| breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 115 | 115 |
 
@@ -552,3 +552,4 @@
 - **Feb 23, 08:23 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 23, 08:37 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
 - **Feb 23, 08:51 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 23, 09:05 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
