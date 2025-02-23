@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 19 | 40 |
+| spacenews | 2 | 7 | 20 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 2 | 2 | 20 | 39 |
@@ -561,3 +561,4 @@
 - **Feb 23, 09:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 09:35 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 23, 09:49 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
