@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -441,3 +441,4 @@
 - **Feb 23, 08:13 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 23, 08:27 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 23, 08:42 AM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
+- **Feb 23, 08:55 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
