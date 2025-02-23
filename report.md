@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 18 | 38 |
+| breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 108 | 108 |
 
@@ -541,3 +541,4 @@
 - **Feb 23, 07:13 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 23, 07:27 PM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 23, 07:41 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 23, 07:55 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
