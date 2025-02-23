@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 80 | 80 |
@@ -495,3 +495,4 @@
 - **Feb 23, 02:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 02:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 02:29 PM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
+- **Feb 23, 02:43 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
