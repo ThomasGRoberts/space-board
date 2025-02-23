@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 20 | 38 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -498,3 +498,4 @@
 - **Feb 23, 02:43 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 23, 02:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 03:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 23, 03:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
