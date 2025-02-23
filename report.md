@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 36 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -396,3 +396,4 @@
 - **Feb 23, 03:15 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 23, 03:32 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 23, 03:45 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
+- **Feb 23, 03:59 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
