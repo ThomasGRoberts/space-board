@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 36 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -407,3 +407,4 @@
 - **Feb 23, 04:29 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 23, 04:43 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 23, 04:57 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
+- **Feb 23, 05:11 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
