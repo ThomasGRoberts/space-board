@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -369,3 +369,4 @@
 - **Feb 22, 11:09 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
 - **Feb 22, 11:23 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 23, 12:44 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
