@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 19 | 40 |
+| spacenews | 2 | 6 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 2 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 
 # Shown Order
 
@@ -566,3 +566,4 @@
 - **Feb 23, 10:17 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 23, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
