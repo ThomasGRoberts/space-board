@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -420,3 +420,4 @@
 - **Feb 23, 06:07 AM** - Isar Aerospace completes testing of first Spectrum rocket (spacenews)
 - **Feb 23, 06:21 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 23, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
