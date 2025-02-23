@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 87 | 87 |
@@ -506,3 +506,4 @@
 - **Feb 23, 03:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 03:39 PM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
+- **Feb 23, 03:53 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
