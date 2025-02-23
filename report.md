@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 36 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -374,3 +374,4 @@
 - **Feb 23, 12:51 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 23, 01:07 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 23, 01:21 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
+- **Feb 23, 01:37 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
