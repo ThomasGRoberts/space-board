@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 2 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 115 | 115 |
+| supercluster | 1 | 1 | 116 | 116 |
 
 # Shown Order
 
@@ -553,3 +553,4 @@
 - **Feb 23, 08:37 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
 - **Feb 23, 08:51 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 23, 09:05 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 23, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
