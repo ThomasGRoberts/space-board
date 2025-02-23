@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 19 | 40 |
-| aidy | 1 | 2 | 20 | 40 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 2 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
 
@@ -555,3 +555,4 @@
 - **Feb 23, 09:05 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 23, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 09:24 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
