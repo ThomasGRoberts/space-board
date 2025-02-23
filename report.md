@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 1 | 2 | 20 | 39 |
+| breaking_defense | 0 | 2 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
@@ -486,3 +486,4 @@
 - **Feb 23, 01:17 PM** - KBR wins $176 million contract to modernize U.S. space surveillance site (spacenews)
 - **Feb 23, 01:32 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 23, 01:47 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 23, 02:02 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
