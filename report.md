@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 18 | 38 |
-| nyt | 1 | 2 | 19 | 38 |
+| nyt | 1 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
@@ -474,3 +474,4 @@
 - **Feb 23, 11:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 12:02 PM** - China readies Tianwen-2 asteroid sample return spacecraft for launch (spacenews)
 - **Feb 23, 12:18 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
+- **Feb 23, 12:32 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
