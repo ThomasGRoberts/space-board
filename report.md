@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 2 | 3 | 20 | 39 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 
 # Shown Order
 
@@ -531,3 +531,4 @@
 - **Feb 23, 06:15 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 23, 06:29 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 23, 06:45 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 23, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
