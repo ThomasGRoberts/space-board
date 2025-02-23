@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 52 | 52 |
 
@@ -453,3 +453,4 @@
 - **Feb 23, 09:37 AM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 23, 09:51 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 23, 10:05 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 23, 10:20 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
