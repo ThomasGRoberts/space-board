@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -431,3 +431,4 @@
 - **Feb 23, 07:17 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 23, 07:31 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 23, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 07:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
