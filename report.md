@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 2 | 3 | 20 | 39 |
 | supercluster | 1 | 1 | 94 | 94 |
@@ -518,3 +518,4 @@
 - **Feb 23, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 04:49 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 23, 05:03 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
+- **Feb 23, 05:17 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
