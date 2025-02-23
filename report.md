@@ -5,7 +5,7 @@
 | spacenews | 2 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 18 | 37 |
-| nyt | 1 | 2 | 19 | 37 |
+| nyt | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
@@ -463,3 +463,4 @@
 - **Feb 23, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 10:49 AM** - Isar Aerospace completes testing of first Spectrum rocket (spacenews)
 - **Feb 23, 11:05 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
+- **Feb 23, 11:19 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
