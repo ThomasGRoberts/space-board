@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 18 | 38 |
+| breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 80 | 80 |
 
@@ -497,3 +497,4 @@
 - **Feb 23, 02:29 PM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 23, 02:43 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 23, 02:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 23, 03:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
