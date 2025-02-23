@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 20 | 38 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
 
@@ -476,3 +476,4 @@
 - **Feb 23, 12:18 PM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 23, 12:32 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 23, 12:47 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 23, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
