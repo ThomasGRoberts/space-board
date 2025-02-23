@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 129 | 129 |
+| supercluster | 1 | 1 | 130 | 130 |
 
 # Shown Order
 
@@ -575,3 +575,4 @@
 - **Feb 23, 11:02 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
 - **Feb 23, 11:15 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 23, 11:29 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 23, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
