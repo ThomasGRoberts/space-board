@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 19 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 2 | 19 | 39 |
+| breaking_defense | 0 | 2 | 19 | 40 |
 | nyt | 2 | 3 | 20 | 39 |
 | supercluster | 1 | 1 | 94 | 94 |
 
@@ -519,3 +519,4 @@
 - **Feb 23, 04:49 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 23, 05:03 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 23, 05:17 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 23, 05:32 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
