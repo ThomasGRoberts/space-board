@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -467,3 +467,4 @@
 - **Feb 23, 11:33 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 23, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 11:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
