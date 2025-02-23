@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -376,3 +376,4 @@
 - **Feb 23, 01:21 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 23, 01:37 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 23, 01:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 01:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
