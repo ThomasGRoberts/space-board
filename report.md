@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 36 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -385,3 +385,4 @@
 - **Feb 23, 02:05 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 23, 02:19 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 23, 02:33 AM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
+- **Feb 23, 02:47 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
