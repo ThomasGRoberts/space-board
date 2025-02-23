@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 19 | 40 |
-| aidy | 1 | 2 | 20 | 38 |
+| spacenews | 3 | 9 | 20 | 41 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 1 | 2 | 20 | 38 |
 | supercluster | 1 | 1 | 73 | 73 |
@@ -483,3 +483,4 @@
 - **Feb 23, 01:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 01:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 01:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 23, 01:17 PM** - KBR wins $176 million contract to modernize U.S. space surveillance site (spacenews)
