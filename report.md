@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 19 | 40 |
+| nyt | 2 | 4 | 19 | 39 |
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 81 | 81 |
+| supercluster | 2 | 2 | 82 | 82 |
 
 # Shown Order
 
@@ -598,3 +598,4 @@
 - **Feb 24, 09:29 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 24, 09:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 09:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 24, 09:47 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
