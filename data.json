@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "35c4a21808e70424f97bd18d855ae273",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1314,6 +1314,18 @@
             "fetched_datetime": "2025-02-24T13:05:35.882212Z",
             "shown_at": [
                 "2025-02-24T13:05:36.487909Z"
+            ]
+        },
+        {
+            "id": "35c4a21808e70424f97bd18d855ae273",
+            "source": "spacenews",
+            "text": "Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation",
+            "source_link": "https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T14:31:57.283516Z",
+            "shown_at": [
+                "2025-02-24T14:31:57.714624Z"
             ]
         }
     ]

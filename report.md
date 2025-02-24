@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 40 |
-| spacenews | 3 | 6 | 21 | 41 |
+| spacenews | 4 | 7 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 44 | 44 |
@@ -537,3 +537,4 @@
 - **Feb 24, 02:01 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 02:03 PM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 24, 02:17 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Feb 24, 02:31 PM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
