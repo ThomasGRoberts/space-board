@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 21 | 39 |
 | spacenews | 2 | 4 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 39 |
-| supercluster | 0 | 1 | 138 | 157 |
+| aidy | 1 | 2 | 21 | 40 |
+| supercluster | 0 | 1 | 136 | 157 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -618,3 +618,4 @@
 - **Feb 24, 03:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 03:51 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 04:07 AM** - House members seek more details on DOGE activities at NASA (spacenews)
+- **Feb 24, 04:21 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
