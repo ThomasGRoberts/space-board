@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 20 | 39 |
 | spacenews | 2 | 4 | 20 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -478,3 +478,4 @@
 - **Feb 24, 06:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 07:01 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 24, 07:15 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
+- **Feb 24, 07:29 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
