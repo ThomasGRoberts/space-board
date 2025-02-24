@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 20 | 39 |
+| nyt | 2 | 2 | 20 | 38 |
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -463,4 +463,4 @@
 - **Feb 24, 04:07 AM** - House members seek more details on DOGE activities at NASA (spacenews)
 - **Feb 24, 04:21 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 24, 04:35 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
-- **Feb 24, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 24, 05:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
