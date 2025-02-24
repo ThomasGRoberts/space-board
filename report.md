@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 40 |
+| nyt | 2 | 4 | 19 | 40 |
 | spacenews | 4 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 52 | 52 |
+| supercluster | 2 | 2 | 53 | 53 |
 
 # Shown Order
 
@@ -553,3 +553,4 @@
 - **Feb 24, 04:19 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 24, 04:33 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 24, 04:47 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 24, 04:49 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
