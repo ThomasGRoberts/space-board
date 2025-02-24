@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 20 | 38 |
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -479,3 +479,4 @@
 - **Feb 24, 07:01 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 24, 07:15 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
 - **Feb 24, 07:29 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 24, 07:43 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
