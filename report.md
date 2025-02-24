@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 79 | 79 |
 
 # Shown Order
@@ -595,3 +595,4 @@
 - **Feb 24, 08:45 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 08:59 PM** - Musk calls for deorbiting ISS “as soon as possible” (spacenews)
 - **Feb 24, 09:15 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 24, 09:29 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
