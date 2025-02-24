@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 38 |
 | spacenews | 3 | 5 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 2 | 2 | 23 | 23 |
 
@@ -502,3 +502,4 @@
 - **Feb 24, 09:37 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 09:51 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
 - **Feb 24, 10:05 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
+- **Feb 24, 10:19 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
