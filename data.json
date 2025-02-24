@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8046ee5d2431b682ec7ccc5d496cff7f",
+    "trigger_count": 0,
+    "current_item_id": "01470a0fe24f85bbbbb8422a11b1d7f5",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1291,6 +1291,18 @@
             "fetched_datetime": "2025-02-24T11:33:37.209421Z",
             "shown_at": [
                 "2025-02-24T11:33:37.753439Z"
+            ]
+        },
+        {
+            "id": "01470a0fe24f85bbbbb8422a11b1d7f5",
+            "source": "nyt",
+            "text": "A Parade of Planets Is Marching Through the Night Sky",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T13:05:35.882212Z",
+            "shown_at": [
+                "2025-02-24T13:05:36.487909Z"
             ]
         }
     ]
