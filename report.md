@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 39 |
 | spacenews | 4 | 7 | 22 | 42 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 44 | 44 |
 
@@ -538,3 +538,4 @@
 - **Feb 24, 02:03 PM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 24, 02:17 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 02:31 PM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
+- **Feb 24, 02:45 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
