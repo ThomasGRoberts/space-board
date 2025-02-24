@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 38 |
-| spacenews | 4 | 6 | 22 | 40 |
+| spacenews | 4 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
@@ -515,3 +515,4 @@
 - **Feb 24, 11:19 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 24, 11:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 24, 11:47 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 24, 12:03 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
