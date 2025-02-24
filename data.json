@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0cdd4aeb6b2d872d08cc28e9c929ad86",
+    "trigger_count": 0,
+    "current_item_id": "5f60768a5b57e804b85d87fa3964b64b",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1336,6 +1336,18 @@
             "fetched_datetime": "2025-02-24T14:31:57.283516Z",
             "shown_at": [
                 "2025-02-24T14:31:57.714624Z"
+            ]
+        },
+        {
+            "id": "5f60768a5b57e804b85d87fa3964b64b",
+            "source": "nyt",
+            "text": "Every Planet in Our Solar System Will Be Visible at Night This Week",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T15:47:51.241000Z",
+            "shown_at": [
+                "2025-02-24T15:47:52.107402Z"
             ]
         }
     ]
