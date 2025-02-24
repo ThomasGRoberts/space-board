@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 20 | 38 |
+| nyt | 2 | 2 | 19 | 38 |
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 2 | 2 | 17 | 17 |
 
 # Shown Order
 
@@ -492,3 +492,4 @@
 - **Feb 24, 08:40 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 24, 08:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 09:09 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
+- **Feb 24, 09:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
