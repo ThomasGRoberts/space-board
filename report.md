@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 20 | 38 |
 | spacenews | 2 | 4 | 20 | 39 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -470,3 +470,4 @@
 - **Feb 24, 06:19 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 24, 06:33 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 24, 06:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 24, 06:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
