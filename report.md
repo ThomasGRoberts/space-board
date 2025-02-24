@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 39 |
+| nyt | 2 | 3 | 19 | 39 |
 | spacenews | 3 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 2 | 2 | 37 | 37 |
+| supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
 
@@ -528,3 +528,4 @@
 - **Feb 24, 01:05 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 24, 01:19 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 24, 01:35 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 24, 01:49 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
