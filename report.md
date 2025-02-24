@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 40 |
-| spacenews | 4 | 7 | 21 | 41 |
+| spacenews | 4 | 7 | 22 | 42 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 51 | 51 |
@@ -549,3 +549,4 @@
 - **Feb 24, 03:27 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 03:32 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 24, 03:47 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 24, 04:02 PM** - The State of Orbital Traffic Management – Replay (spacenews)
