@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 21 | 39 |
 | spacenews | 2 | 4 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | supercluster | 0 | 1 | 137 | 143 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -596,3 +596,4 @@
 - **Feb 24, 01:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 01:28 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 24, 01:43 AM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
+- **Feb 24, 01:57 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
