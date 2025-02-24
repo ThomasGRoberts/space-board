@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 80 | 80 |
+| supercluster | 2 | 2 | 81 | 81 |
 
 # Shown Order
 
@@ -597,3 +597,4 @@
 - **Feb 24, 09:15 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 24, 09:29 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 24, 09:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 24, 09:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
