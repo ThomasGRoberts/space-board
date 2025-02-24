@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 72 | 72 |
+| supercluster | 2 | 2 | 73 | 73 |
 
 # Shown Order
 
@@ -585,3 +585,4 @@
 - **Feb 24, 07:46 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
 - **Feb 24, 07:59 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 24, 08:13 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 24, 08:29 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
