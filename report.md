@@ -6,7 +6,7 @@
 | spacenews | 4 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 2 | 2 | 30 | 30 |
+| supercluster | 2 | 2 | 31 | 31 |
 
 # Shown Order
 
@@ -516,3 +516,4 @@
 - **Feb 24, 11:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 24, 11:47 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 12:03 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
+- **Feb 24, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
