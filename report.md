@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 19 | 39 |
 | spacenews | 4 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
@@ -539,3 +539,4 @@
 - **Feb 24, 02:17 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 02:31 PM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
 - **Feb 24, 02:45 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 24, 02:59 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
