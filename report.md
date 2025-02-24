@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 5 | 7 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 2 | 2 | 72 | 72 |
 
@@ -583,3 +583,4 @@
 - **Feb 24, 07:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 07:31 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 24, 07:46 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
+- **Feb 24, 07:59 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
