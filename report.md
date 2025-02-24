@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 20 | 38 |
+| nyt | 2 | 2 | 21 | 39 |
 | spacenews | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -476,3 +476,4 @@
 - **Feb 24, 06:56 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 06:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 06:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 24, 07:01 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
