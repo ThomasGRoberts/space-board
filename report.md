@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 40 |
-| spacenews | 4 | 7 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| spacenews | 4 | 7 | 22 | 41 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 58 | 58 |
 
@@ -560,3 +560,4 @@
 - **Feb 24, 04:57 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 04:59 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 05:02 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
+- **Feb 24, 05:17 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
