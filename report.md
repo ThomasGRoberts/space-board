@@ -6,7 +6,7 @@
 | spacenews | 3 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 2 | 2 | 23 | 23 |
+| supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
 
@@ -504,3 +504,4 @@
 - **Feb 24, 10:05 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
 - **Feb 24, 10:19 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 10:33 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 24, 10:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
