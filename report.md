@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 20 | 40 |
 | spacenews | 4 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 51 | 51 |
 
 # Shown Order
@@ -551,3 +551,4 @@
 - **Feb 24, 03:47 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 24, 04:02 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 24, 04:19 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 24, 04:33 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
