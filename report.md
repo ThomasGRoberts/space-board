@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 38 |
 | spacenews | 4 | 6 | 22 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 30 | 30 |
 
@@ -514,3 +514,4 @@
 - **Feb 24, 11:01 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 11:19 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 24, 11:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
+- **Feb 24, 11:47 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
