@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 21 | 40 |
-| spacenews | 1 | 4 | 20 | 39 |
+| spacenews | 2 | 5 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 136 | 136 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -584,3 +584,4 @@
 - **Feb 23, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 23, 11:57 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 12:11 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
+- **Feb 24, 12:25 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)

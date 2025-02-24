@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f121d666e9b350b849f63abe66b4bcf",
+    "trigger_count": 0,
+    "current_item_id": "e5ddd421d5ae4eea4ad8fc447d415a57",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1293,6 +1293,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "e5ddd421d5ae4eea4ad8fc447d415a57",
+            "source": "spacenews",
+            "text": "NASA employees advised to delay responses to “what did you do” email",
+            "source_link": "https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T00:25:33.045930Z",
+            "shown_at": [
+                "2025-02-24T00:25:33.554020Z"
             ]
         }
     ]
