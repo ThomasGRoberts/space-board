@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 20 | 39 |
 | spacenews | 2 | 4 | 20 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -467,3 +467,4 @@
 - **Feb 24, 05:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 05:47 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 06:03 AM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
+- **Feb 24, 06:19 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
