@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4ecfdba840619633449fa3ccfd4968f",
+    "trigger_count": 0,
+    "current_item_id": "4f841cac3f00773c8e5cf1dfdac9e49e",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1245,6 +1245,18 @@
                 "2025-02-24T09:31:57.523677Z",
                 "2025-02-24T09:33:41.807998Z",
                 "2025-02-24T09:35:39.874359Z"
+            ]
+        },
+        {
+            "id": "4f841cac3f00773c8e5cf1dfdac9e49e",
+            "source": "spacenews",
+            "text": "Space Development Agency satellite procurements moving forward amid heightened scrutiny",
+            "source_link": "https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T10:05:34.203365Z",
+            "shown_at": [
+                "2025-02-24T10:05:34.651713Z"
             ]
         }
     ]
