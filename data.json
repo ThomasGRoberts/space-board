@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4df30f99353d2609db2ea096174c0a8c",
+    "trigger_count": 0,
+    "current_item_id": "68d9d0d6bdcbbc4157c993e0cb95c875",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1436,6 +1436,18 @@
             "fetched_datetime": "2025-02-24T23:11:38.251709Z",
             "shown_at": [
                 "2025-02-24T23:11:38.781317Z"
+            ]
+        },
+        {
+            "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
+            "source": "breaking_defense",
+            "text": "Space Force team mapping service’s contributions to Iron Dome missile shield",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-team-mapping-services-contributions-to-iron-dome-missile-shield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T23:31:43.349316Z",
+            "shown_at": [
+                "2025-02-24T23:31:43.946027Z"
             ]
         }
     ]
