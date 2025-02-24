@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 20 | 39 |
 | spacenews | 2 | 4 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 40 |
-| supercluster | 0 | 1 | 133 | 136 |
+| supercluster | 0 | 1 | 134 | 137 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -587,3 +587,4 @@
 - **Feb 24, 12:25 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Feb 24, 12:39 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 24, 12:56 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 24, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
