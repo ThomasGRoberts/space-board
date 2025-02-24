@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f121d666e9b350b849f63abe66b4bcf",
+    "trigger_count": 0,
+    "current_item_id": "9e449aeaf1d724a8721561bab4378bd7",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1268,6 +1268,18 @@
             "fetched_datetime": "2025-02-24T10:05:34.203365Z",
             "shown_at": [
                 "2025-02-24T10:05:34.651713Z"
+            ]
+        },
+        {
+            "id": "9e449aeaf1d724a8721561bab4378bd7",
+            "source": "spacenews",
+            "text": "Gilmour Space announces mid-March target for first Eris launch",
+            "source_link": "https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T11:33:37.209421Z",
+            "shown_at": [
+                "2025-02-24T11:33:37.753439Z"
             ]
         }
     ]

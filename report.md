@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 38 |
-| spacenews | 3 | 5 | 21 | 40 |
+| spacenews | 4 | 6 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 2 | 2 | 30 | 30 |
@@ -513,3 +513,4 @@
 - **Feb 24, 10:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 11:01 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 11:19 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
+- **Feb 24, 11:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
