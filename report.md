@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 19 | 40 |
 | spacenews | 4 | 7 | 22 | 41 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 58 | 58 |
+| supercluster | 2 | 2 | 59 | 59 |
 
 # Shown Order
 
@@ -563,3 +563,4 @@
 - **Feb 24, 05:17 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
 - **Feb 24, 05:31 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 05:45 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 24, 06:02 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
