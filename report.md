@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 19 | 39 |
+| nyt | 2 | 4 | 20 | 40 |
 | spacenews | 6 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 37 |
@@ -616,3 +616,4 @@
 - **Feb 24, 11:09 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 24, 11:11 PM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
 - **Feb 24, 11:31 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 24, 11:45 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
