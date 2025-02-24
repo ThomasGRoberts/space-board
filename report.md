@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 4 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 58 | 58 |
 
 # Shown Order
@@ -562,3 +562,4 @@
 - **Feb 24, 05:02 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 05:17 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
 - **Feb 24, 05:31 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 24, 05:45 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
