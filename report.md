@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 40 |
 | spacenews | 3 | 6 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 37 | 37 |
 
@@ -526,3 +526,4 @@
 - **Feb 24, 12:35 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 12:49 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 24, 01:05 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Feb 24, 01:19 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
