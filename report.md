@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 19 | 40 |
 | spacenews | 6 | 7 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 2 | 2 | 93 | 93 |
 
@@ -617,3 +617,4 @@
 - **Feb 24, 11:11 PM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
 - **Feb 24, 11:31 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 24, 11:45 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 24, 11:59 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
