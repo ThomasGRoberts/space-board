@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 20 | 38 |
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
@@ -491,3 +491,4 @@
 - **Feb 24, 08:25 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
 - **Feb 24, 08:40 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 24, 08:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 24, 09:09 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
