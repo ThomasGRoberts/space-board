@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 20 | 39 |
 | spacenews | 2 | 4 | 20 | 39 |
-| aidy | 0 | 1 | 19 | 38 |
-| breaking_defense | 0 | 0 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 39 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
@@ -490,3 +490,4 @@
 - **Feb 24, 08:11 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 24, 08:25 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
 - **Feb 24, 08:40 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 24, 08:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)

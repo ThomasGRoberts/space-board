@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 6,
-    "current_item_id": "879469882f1632044a3685c8a771ca5e",
+    "trigger_count": 0,
+    "current_item_id": "c524c47ac61c8f629ba68b6584a08d16",
     "data": [
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
@@ -1210,6 +1210,18 @@
                 "2025-02-24T08:05:36.776960Z",
                 "2025-02-24T08:07:35.670900Z",
                 "2025-02-24T08:09:39.759878Z"
+            ]
+        },
+        {
+            "id": "c524c47ac61c8f629ba68b6584a08d16",
+            "source": "aidy",
+            "text": "Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T08:55:49.996311Z",
+            "shown_at": [
+                "2025-02-24T08:55:50.480811Z"
             ]
         }
     ]
