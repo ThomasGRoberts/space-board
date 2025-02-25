@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 35 |
-| spacenews | 10 | 14 | 23 | 44 |
-| nyt | 3 | 5 | 17 | 37 |
+| spacenews | 10 | 14 | 22 | 44 |
+| nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -591,3 +591,4 @@
 - **Feb 25, 05:53 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 06:07 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 25, 06:21 PM** - ABL Space renamed Long Wall as it shifts focus to defense market  (spacenews)
+- **Feb 25, 06:35 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
