@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8fae0b183738b5e819f5ecdab449aad",
+    "trigger_count": 0,
+    "current_item_id": "45a27275812728d92f346086e1824ec6",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1577,6 +1577,18 @@
                 "2025-02-25T20:07:22.506612Z",
                 "2025-02-25T20:09:43.574260Z",
                 "2025-02-25T20:11:34.269241Z"
+            ]
+        },
+        {
+            "id": "45a27275812728d92f346086e1824ec6",
+            "source": "spacenews",
+            "text": "Eutelsat hails pioneering 5G test over LEO",
+            "source_link": "https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T20:56:08.010463Z",
+            "shown_at": [
+                "2025-02-25T20:56:09.013857Z"
             ]
         }
     ]
