@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 17 | 34 |
+| breaking_defense | 1 | 1 | 16 | 34 |
 | spacenews | 10 | 14 | 22 | 44 |
 | nyt | 3 | 6 | 18 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -574,3 +574,4 @@
 - **Feb 25, 02:51 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
 - **Feb 25, 03:09 PM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 25, 04:32 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 25, 04:35 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
