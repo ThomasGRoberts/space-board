@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 8 | 10 | 22 | 41 |
 | nyt | 5 | 7 | 20 | 40 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | supercluster | 0 | 1 | 98 | 114 |
 
 # Shown Order
@@ -667,3 +667,4 @@
 - **Feb 25, 09:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 09:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 09:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 09:45 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
