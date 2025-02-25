@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 7 | 9 | 21 | 41 |
 | nyt | 5 | 7 | 20 | 40 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 2 | 3 | 19 | 38 |
 | supercluster | 0 | 1 | 91 | 107 |
 
 # Shown Order
@@ -656,3 +656,4 @@
 - **Feb 25, 08:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 08:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 08:19 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
+- **Feb 25, 08:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)

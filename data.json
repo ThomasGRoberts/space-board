@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "726d1c0542c691efe929a4e96454cf67",
+    "trigger_count": 0,
+    "current_item_id": "2c0b0d36be16a6906f387131807c3db1",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1530,6 +1530,18 @@
             "fetched_datetime": "2025-02-25T03:13:35.588225Z",
             "shown_at": [
                 "2025-02-25T03:13:35.967235Z"
+            ]
+        },
+        {
+            "id": "2c0b0d36be16a6906f387131807c3db1",
+            "source": "aidy",
+            "text": "NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T08:33:26.485753Z",
+            "shown_at": [
+                "2025-02-25T08:33:26.930638Z"
             ]
         }
     ]
