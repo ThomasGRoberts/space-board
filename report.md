@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 18 | 36 |
-| spacenews | 10 | 13 | 22 | 43 |
+| spacenews | 9 | 13 | 22 | 44 |
 | nyt | 4 | 6 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 105 | 135 |
@@ -705,3 +705,4 @@
 - **Feb 25, 01:49 PM** - Companies are planning to build space critical infrastructure. Can space policy keep up? (spacenews)
 - **Feb 25, 02:03 PM** - Former FCC Space Bureau chief joins law firm (spacenews)
 - **Feb 25, 02:18 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
+- **Feb 25, 02:34 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
