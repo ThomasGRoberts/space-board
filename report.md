@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 16 | 34 |
+| breaking_defense | 1 | 1 | 17 | 35 |
 | spacenews | 9 | 14 | 22 | 44 |
 | nyt | 3 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -611,3 +611,4 @@
 - **Feb 25, 08:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 08:13 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 25, 08:27 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
