@@ -6,7 +6,7 @@
 | spacenews | 10 | 14 | 22 | 44 |
 | nyt | 3 | 6 | 18 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -573,3 +573,4 @@
 - **Feb 25, 02:34 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
 - **Feb 25, 02:51 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
 - **Feb 25, 03:09 PM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 25, 04:32 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)

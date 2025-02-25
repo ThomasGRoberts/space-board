@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 2,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 3,
+    "current_item_id": "a5c29bfb471b8c22c2fae577c9f20977",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1514,15 +1514,18 @@
             ]
         },
         {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "id": "a5c29bfb471b8c22c2fae577c9f20977",
             "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-30",
-            "shown": false,
+            "text": "SpaceX Will Launch Lunar Lander Designed by Intuitive Machines",
+            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-02-25T15:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-02-25T16:29:29.904393Z"
+            "target_datetime": "2025-02-27T00:17:00.000Z",
+            "time_remaining": "1d 07h 44m",
+            "fetched_datetime": "2025-02-25T16:32:01.258840Z",
+            "shown_at": [
+                "2025-02-25T16:32:07.058702Z"
+            ]
         }
     ]
 }
