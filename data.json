@@ -1,9 +1,253 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-24T00:02:07.618491+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
+    "trigger_count": 1,
     "current_item_id": "145622462ec776c373a1f05e63c62fe1",
     "data": [
+        {
+            "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
+            "source": "breaking_defense",
+            "text": "Space Force team mapping service’s contributions to Iron Dome missile shield",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-team-mapping-services-contributions-to-iron-dome-missile-shield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T23:31:43.349316Z",
+            "shown_at": [
+                "2025-02-24T23:31:43.946027Z"
+            ]
+        },
+        {
+            "id": "4df30f99353d2609db2ea096174c0a8c",
+            "source": "spacenews",
+            "text": "Despite looming defense cuts, analysts see long-term upside for space investments",
+            "source_link": "https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T23:11:38.251709Z",
+            "shown_at": [
+                "2025-02-24T23:11:38.781317Z"
+            ]
+        },
+        {
+            "id": "d600a30a260340be4b51140a7d7bcfc8",
+            "source": "spacenews",
+            "text": "More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes",
+            "source_link": "https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T19:46:02.565289Z",
+            "shown_at": [
+                "2025-02-24T19:46:03.550169Z"
+            ]
+        },
+        {
+            "id": "5f60768a5b57e804b85d87fa3964b64b",
+            "source": "nyt",
+            "text": "Every Planet in Our Solar System Will Be Visible at Night This Week",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T15:47:51.241000Z",
+            "shown_at": [
+                "2025-02-24T15:47:52.107402Z",
+                "2025-02-24T23:45:28.345794Z"
+            ]
+        },
+        {
+            "id": "35c4a21808e70424f97bd18d855ae273",
+            "source": "spacenews",
+            "text": "Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation",
+            "source_link": "https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T14:31:57.283516Z",
+            "shown_at": [
+                "2025-02-24T14:31:57.714624Z"
+            ]
+        },
+        {
+            "id": "01470a0fe24f85bbbbb8422a11b1d7f5",
+            "source": "nyt",
+            "text": "A Parade of Planets Is Marching Through the Night Sky",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T13:05:35.882212Z",
+            "shown_at": [
+                "2025-02-24T13:05:36.487909Z",
+                "2025-02-24T19:31:59.071917Z"
+            ]
+        },
+        {
+            "id": "9e449aeaf1d724a8721561bab4378bd7",
+            "source": "spacenews",
+            "text": "Gilmour Space announces mid-March target for first Eris launch",
+            "source_link": "https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T11:33:37.209421Z",
+            "shown_at": [
+                "2025-02-24T11:33:37.753439Z"
+            ]
+        },
+        {
+            "id": "4f841cac3f00773c8e5cf1dfdac9e49e",
+            "source": "spacenews",
+            "text": "Space Development Agency satellite procurements moving forward amid heightened scrutiny",
+            "source_link": "https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T10:05:34.203365Z",
+            "shown_at": [
+                "2025-02-24T10:05:34.651713Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-13",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-25T04:26:00.000Z",
+            "time_remaining": "0d 08h 56m",
+            "fetched_datetime": "2025-02-24T09:24:04.780626Z",
+            "shown_at": [
+                "2025-02-24T09:24:05.260229Z",
+                "2025-02-24T09:25:26.999235Z",
+                "2025-02-24T09:27:41.878835Z",
+                "2025-02-24T09:29:25.636393Z",
+                "2025-02-24T09:31:57.523677Z",
+                "2025-02-24T09:33:41.807998Z",
+                "2025-02-24T09:35:39.874359Z",
+                "2025-02-24T12:17:50.231388Z",
+                "2025-02-24T12:19:37.805193Z",
+                "2025-02-24T12:22:50.673157Z",
+                "2025-02-24T12:25:36.685082Z",
+                "2025-02-24T12:27:55.568979Z",
+                "2025-02-24T12:29:28.774667Z",
+                "2025-02-24T12:32:18.134947Z",
+                "2025-02-24T19:17:30.552359Z",
+                "2025-02-24T19:19:25.353401Z",
+                "2025-02-24T19:21:32.476789Z",
+                "2025-02-24T19:23:06.612294Z",
+                "2025-02-24T19:25:23.942526Z",
+                "2025-02-24T19:27:29.249977Z",
+                "2025-02-24T19:29:24.691817Z"
+            ]
+        },
+        {
+            "id": "c524c47ac61c8f629ba68b6584a08d16",
+            "source": "aidy",
+            "text": "Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T08:55:49.996311Z",
+            "shown_at": [
+                "2025-02-24T08:55:50.480811Z",
+                "2025-02-24T10:19:59.887855Z",
+                "2025-02-24T11:47:29.367829Z",
+                "2025-02-24T17:31:57.567069Z"
+            ]
+        },
+        {
+            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-30",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-25T15:30:00.000Z",
+            "time_remaining": "0d 16h 20m",
+            "fetched_datetime": "2025-02-24T05:43:46.844810Z",
+            "shown_at": [
+                "2025-02-24T05:43:48.458624Z",
+                "2025-02-24T05:45:38.499490Z",
+                "2025-02-24T06:47:33.702045Z",
+                "2025-02-24T06:49:31.430775Z",
+                "2025-02-24T06:51:34.893959Z",
+                "2025-02-24T06:53:26.925963Z",
+                "2025-02-24T06:56:03.437147Z",
+                "2025-02-24T06:57:43.710161Z",
+                "2025-02-24T06:59:29.579827Z",
+                "2025-02-24T07:57:50.222193Z",
+                "2025-02-24T07:59:35.294091Z",
+                "2025-02-24T08:02:07.821772Z",
+                "2025-02-24T08:03:06.507945Z",
+                "2025-02-24T08:05:36.776960Z",
+                "2025-02-24T08:07:35.670900Z",
+                "2025-02-24T08:09:39.759878Z",
+                "2025-02-24T10:47:12.785390Z",
+                "2025-02-24T10:49:30.971927Z",
+                "2025-02-24T10:51:31.324733Z",
+                "2025-02-24T10:53:25.141082Z",
+                "2025-02-24T10:56:05.339950Z",
+                "2025-02-24T10:57:32.358829Z",
+                "2025-02-24T10:59:43.134128Z",
+                "2025-02-24T13:49:50.073844Z",
+                "2025-02-24T13:51:33.217702Z",
+                "2025-02-24T13:53:41.202960Z",
+                "2025-02-24T13:55:53.566219Z",
+                "2025-02-24T13:57:28.292927Z",
+                "2025-02-24T13:59:31.304981Z",
+                "2025-02-24T14:01:42.775143Z",
+                "2025-02-24T15:14:02.688203Z",
+                "2025-02-24T15:15:55.201667Z",
+                "2025-02-24T15:17:40.701735Z",
+                "2025-02-24T15:20:45.612256Z",
+                "2025-02-24T15:23:41.746933Z",
+                "2025-02-24T15:25:39.231594Z",
+                "2025-02-24T15:27:41.309117Z",
+                "2025-02-24T16:47:31.188592Z",
+                "2025-02-24T16:49:35.627990Z",
+                "2025-02-24T16:51:11.365062Z",
+                "2025-02-24T16:53:36.934313Z",
+                "2025-02-24T16:55:37.432900Z",
+                "2025-02-24T16:57:24.525035Z",
+                "2025-02-24T16:59:23.963631Z",
+                "2025-02-24T18:02:06.739418Z",
+                "2025-02-24T18:03:26.653890Z",
+                "2025-02-24T18:05:31.188558Z",
+                "2025-02-24T18:07:06.652206Z",
+                "2025-02-24T18:09:37.930032Z",
+                "2025-02-24T18:11:32.904786Z",
+                "2025-02-24T18:13:44.435388Z",
+                "2025-02-24T20:29:40.634167Z",
+                "2025-02-24T20:32:12.226720Z",
+                "2025-02-24T20:35:27.613235Z",
+                "2025-02-24T20:37:39.334941Z",
+                "2025-02-24T20:39:35.940201Z",
+                "2025-02-24T20:41:34.803998Z",
+                "2025-02-24T20:43:32.200470Z",
+                "2025-02-24T21:43:32.454189Z",
+                "2025-02-24T21:45:42.819459Z",
+                "2025-02-24T21:47:33.436352Z",
+                "2025-02-24T21:49:04.906969Z",
+                "2025-02-24T21:51:48.970507Z",
+                "2025-02-24T21:53:26.197635Z",
+                "2025-02-24T21:55:29.820678Z",
+                "2025-02-24T22:57:29.586672Z",
+                "2025-02-24T22:59:41.880110Z",
+                "2025-02-24T23:01:59.483281Z",
+                "2025-02-24T23:03:27.513378Z",
+                "2025-02-24T23:05:47.564852Z",
+                "2025-02-24T23:07:30.703756Z",
+                "2025-02-24T23:09:33.171000Z"
+            ]
+        },
+        {
+            "id": "e5ddd421d5ae4eea4ad8fc447d415a57",
+            "source": "spacenews",
+            "text": "NASA employees advised to delay responses to “what did you do” email",
+            "source_link": "https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-24T00:25:33.045930Z",
+            "shown_at": [
+                "2025-02-24T00:25:33.554020Z"
+            ]
+        },
         {
             "id": "0f1f314b833468e80995eaf7d440bf97",
             "source": "nyt",
@@ -1206,250 +1450,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "e5ddd421d5ae4eea4ad8fc447d415a57",
-            "source": "spacenews",
-            "text": "NASA employees advised to delay responses to “what did you do” email",
-            "source_link": "https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T00:25:33.045930Z",
-            "shown_at": [
-                "2025-02-24T00:25:33.554020Z"
-            ]
-        },
-        {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-30",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-25T15:30:00.000Z",
-            "time_remaining": "0d 16h 20m",
-            "fetched_datetime": "2025-02-24T05:43:46.844810Z",
-            "shown_at": [
-                "2025-02-24T05:43:48.458624Z",
-                "2025-02-24T05:45:38.499490Z",
-                "2025-02-24T06:47:33.702045Z",
-                "2025-02-24T06:49:31.430775Z",
-                "2025-02-24T06:51:34.893959Z",
-                "2025-02-24T06:53:26.925963Z",
-                "2025-02-24T06:56:03.437147Z",
-                "2025-02-24T06:57:43.710161Z",
-                "2025-02-24T06:59:29.579827Z",
-                "2025-02-24T07:57:50.222193Z",
-                "2025-02-24T07:59:35.294091Z",
-                "2025-02-24T08:02:07.821772Z",
-                "2025-02-24T08:03:06.507945Z",
-                "2025-02-24T08:05:36.776960Z",
-                "2025-02-24T08:07:35.670900Z",
-                "2025-02-24T08:09:39.759878Z",
-                "2025-02-24T10:47:12.785390Z",
-                "2025-02-24T10:49:30.971927Z",
-                "2025-02-24T10:51:31.324733Z",
-                "2025-02-24T10:53:25.141082Z",
-                "2025-02-24T10:56:05.339950Z",
-                "2025-02-24T10:57:32.358829Z",
-                "2025-02-24T10:59:43.134128Z",
-                "2025-02-24T13:49:50.073844Z",
-                "2025-02-24T13:51:33.217702Z",
-                "2025-02-24T13:53:41.202960Z",
-                "2025-02-24T13:55:53.566219Z",
-                "2025-02-24T13:57:28.292927Z",
-                "2025-02-24T13:59:31.304981Z",
-                "2025-02-24T14:01:42.775143Z",
-                "2025-02-24T15:14:02.688203Z",
-                "2025-02-24T15:15:55.201667Z",
-                "2025-02-24T15:17:40.701735Z",
-                "2025-02-24T15:20:45.612256Z",
-                "2025-02-24T15:23:41.746933Z",
-                "2025-02-24T15:25:39.231594Z",
-                "2025-02-24T15:27:41.309117Z",
-                "2025-02-24T16:47:31.188592Z",
-                "2025-02-24T16:49:35.627990Z",
-                "2025-02-24T16:51:11.365062Z",
-                "2025-02-24T16:53:36.934313Z",
-                "2025-02-24T16:55:37.432900Z",
-                "2025-02-24T16:57:24.525035Z",
-                "2025-02-24T16:59:23.963631Z",
-                "2025-02-24T18:02:06.739418Z",
-                "2025-02-24T18:03:26.653890Z",
-                "2025-02-24T18:05:31.188558Z",
-                "2025-02-24T18:07:06.652206Z",
-                "2025-02-24T18:09:37.930032Z",
-                "2025-02-24T18:11:32.904786Z",
-                "2025-02-24T18:13:44.435388Z",
-                "2025-02-24T20:29:40.634167Z",
-                "2025-02-24T20:32:12.226720Z",
-                "2025-02-24T20:35:27.613235Z",
-                "2025-02-24T20:37:39.334941Z",
-                "2025-02-24T20:39:35.940201Z",
-                "2025-02-24T20:41:34.803998Z",
-                "2025-02-24T20:43:32.200470Z",
-                "2025-02-24T21:43:32.454189Z",
-                "2025-02-24T21:45:42.819459Z",
-                "2025-02-24T21:47:33.436352Z",
-                "2025-02-24T21:49:04.906969Z",
-                "2025-02-24T21:51:48.970507Z",
-                "2025-02-24T21:53:26.197635Z",
-                "2025-02-24T21:55:29.820678Z",
-                "2025-02-24T22:57:29.586672Z",
-                "2025-02-24T22:59:41.880110Z",
-                "2025-02-24T23:01:59.483281Z",
-                "2025-02-24T23:03:27.513378Z",
-                "2025-02-24T23:05:47.564852Z",
-                "2025-02-24T23:07:30.703756Z",
-                "2025-02-24T23:09:33.171000Z"
-            ]
-        },
-        {
-            "id": "c524c47ac61c8f629ba68b6584a08d16",
-            "source": "aidy",
-            "text": "Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T08:55:49.996311Z",
-            "shown_at": [
-                "2025-02-24T08:55:50.480811Z",
-                "2025-02-24T10:19:59.887855Z",
-                "2025-02-24T11:47:29.367829Z",
-                "2025-02-24T17:31:57.567069Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-13",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-25T04:26:00.000Z",
-            "time_remaining": "0d 08h 56m",
-            "fetched_datetime": "2025-02-24T09:24:04.780626Z",
-            "shown_at": [
-                "2025-02-24T09:24:05.260229Z",
-                "2025-02-24T09:25:26.999235Z",
-                "2025-02-24T09:27:41.878835Z",
-                "2025-02-24T09:29:25.636393Z",
-                "2025-02-24T09:31:57.523677Z",
-                "2025-02-24T09:33:41.807998Z",
-                "2025-02-24T09:35:39.874359Z",
-                "2025-02-24T12:17:50.231388Z",
-                "2025-02-24T12:19:37.805193Z",
-                "2025-02-24T12:22:50.673157Z",
-                "2025-02-24T12:25:36.685082Z",
-                "2025-02-24T12:27:55.568979Z",
-                "2025-02-24T12:29:28.774667Z",
-                "2025-02-24T12:32:18.134947Z",
-                "2025-02-24T19:17:30.552359Z",
-                "2025-02-24T19:19:25.353401Z",
-                "2025-02-24T19:21:32.476789Z",
-                "2025-02-24T19:23:06.612294Z",
-                "2025-02-24T19:25:23.942526Z",
-                "2025-02-24T19:27:29.249977Z",
-                "2025-02-24T19:29:24.691817Z"
-            ]
-        },
-        {
-            "id": "4f841cac3f00773c8e5cf1dfdac9e49e",
-            "source": "spacenews",
-            "text": "Space Development Agency satellite procurements moving forward amid heightened scrutiny",
-            "source_link": "https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T10:05:34.203365Z",
-            "shown_at": [
-                "2025-02-24T10:05:34.651713Z"
-            ]
-        },
-        {
-            "id": "9e449aeaf1d724a8721561bab4378bd7",
-            "source": "spacenews",
-            "text": "Gilmour Space announces mid-March target for first Eris launch",
-            "source_link": "https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T11:33:37.209421Z",
-            "shown_at": [
-                "2025-02-24T11:33:37.753439Z"
-            ]
-        },
-        {
-            "id": "01470a0fe24f85bbbbb8422a11b1d7f5",
-            "source": "nyt",
-            "text": "A Parade of Planets Is Marching Through the Night Sky",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T13:05:35.882212Z",
-            "shown_at": [
-                "2025-02-24T13:05:36.487909Z",
-                "2025-02-24T19:31:59.071917Z"
-            ]
-        },
-        {
-            "id": "35c4a21808e70424f97bd18d855ae273",
-            "source": "spacenews",
-            "text": "Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation",
-            "source_link": "https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T14:31:57.283516Z",
-            "shown_at": [
-                "2025-02-24T14:31:57.714624Z"
-            ]
-        },
-        {
-            "id": "5f60768a5b57e804b85d87fa3964b64b",
-            "source": "nyt",
-            "text": "Every Planet in Our Solar System Will Be Visible at Night This Week",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T15:47:51.241000Z",
-            "shown_at": [
-                "2025-02-24T15:47:52.107402Z",
-                "2025-02-24T23:45:28.345794Z"
-            ]
-        },
-        {
-            "id": "d600a30a260340be4b51140a7d7bcfc8",
-            "source": "spacenews",
-            "text": "More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes",
-            "source_link": "https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T19:46:02.565289Z",
-            "shown_at": [
-                "2025-02-24T19:46:03.550169Z"
-            ]
-        },
-        {
-            "id": "4df30f99353d2609db2ea096174c0a8c",
-            "source": "spacenews",
-            "text": "Despite looming defense cuts, analysts see long-term upside for space investments",
-            "source_link": "https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T23:11:38.251709Z",
-            "shown_at": [
-                "2025-02-24T23:11:38.781317Z"
-            ]
-        },
-        {
-            "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
-            "source": "breaking_defense",
-            "text": "Space Force team mapping service’s contributions to Iron Dome missile shield",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-team-mapping-services-contributions-to-iron-dome-missile-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T23:31:43.349316Z",
-            "shown_at": [
-                "2025-02-24T23:31:43.946027Z"
             ]
         }
     ]
