@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 15 | 33 |
+| breaking_defense | 0 | 1 | 16 | 34 |
 | spacenews | 11 | 17 | 24 | 46 |
 | nyt | 3 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -636,3 +636,4 @@
 - **Feb 25, 11:17 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:19 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:21 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 25, 11:35 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
