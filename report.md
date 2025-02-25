@@ -5,8 +5,8 @@
 | breaking_defense | 1 | 1 | 17 | 34 |
 | spacenews | 9 | 14 | 22 | 44 |
 | nyt | 3 | 5 | 18 | 38 |
-| aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 18 | 18 |
+| aidy | 1 | 2 | 16 | 35 |
+| supercluster | 2 | 2 | 19 | 19 |
 
 # Shown Order
 
@@ -603,3 +603,4 @@
 - **Feb 25, 07:17 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 07:31 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
 - **Feb 25, 07:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Feb 25, 07:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
