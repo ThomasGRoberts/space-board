@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | spacenews | 7 | 10 | 21 | 41 |
 | nyt | 5 | 6 | 20 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
@@ -679,3 +679,4 @@
 - **Feb 25, 10:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 10:56 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 10:57 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 25, 11:11 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
