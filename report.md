@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
-| spacenews | 6 | 8 | 21 | 42 |
+| spacenews | 7 | 9 | 22 | 43 |
 | nyt | 4 | 6 | 20 | 40 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 18 | 38 |
@@ -638,3 +638,4 @@
 - **Feb 25, 01:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 01:59 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 25, 02:15 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Feb 25, 02:29 AM** - NASA associate administrator for exploration to retire (spacenews)
