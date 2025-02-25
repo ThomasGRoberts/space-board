@@ -6,7 +6,7 @@
 | spacenews | 11 | 16 | 24 | 46 |
 | nyt | 3 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 2 | 2 | 25 | 25 |
+| supercluster | 2 | 2 | 26 | 26 |
 
 # Shown Order
 
@@ -616,3 +616,4 @@
 - **Feb 25, 08:56 PM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
 - **Feb 25, 09:13 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 25, 09:28 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
+- **Feb 25, 09:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
