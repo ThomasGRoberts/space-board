@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 36 |
-| spacenews | 7 | 9 | 21 | 41 |
+| spacenews | 7 | 9 | 22 | 42 |
 | nyt | 5 | 7 | 20 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 91 | 107 |
@@ -655,3 +655,4 @@
 - **Feb 25, 08:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 08:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 08:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 08:19 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
