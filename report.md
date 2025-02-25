@@ -6,7 +6,7 @@
 | spacenews | 6 | 8 | 21 | 41 |
 | nyt | 2 | 4 | 19 | 40 |
 | supercluster | 2 | 2 | 100 | 100 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 
 # Shown Order
 
@@ -628,3 +628,4 @@
 - **Feb 25, 12:29 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
 - **Feb 25, 12:45 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 25, 01:13 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 25, 01:31 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
