@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5481989ff0372870f30bb980c376fb27",
+    "trigger_count": 0,
+    "current_item_id": "77c4484cb9c65d2f26facb9f8d5f7e3d",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1646,6 +1646,18 @@
             "fetched_datetime": "2025-02-25T14:03:37.000242Z",
             "shown_at": [
                 "2025-02-25T14:34:38.968443Z"
+            ]
+        },
+        {
+            "id": "77c4484cb9c65d2f26facb9f8d5f7e3d",
+            "source": "spacenews",
+            "text": "Time to refocus: America needs a stronger Space Force",
+            "source_link": "https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T14:51:44.333883Z",
+            "shown_at": [
+                "2025-02-25T14:51:44.848097Z"
             ]
         }
     ]
