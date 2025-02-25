@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 35 |
-| spacenews | 10 | 14 | 22 | 43 |
+| spacenews | 10 | 14 | 23 | 44 |
 | nyt | 3 | 5 | 17 | 37 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -579,3 +579,4 @@
 - **Feb 25, 04:39 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 04:41 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 25, 04:55 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 25, 05:10 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
