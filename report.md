@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 36 |
-| spacenews | 7 | 9 | 21 | 41 |
+| spacenews | 7 | 9 | 22 | 42 |
 | nyt | 5 | 7 | 20 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 91 | 93 |
@@ -633,3 +633,4 @@
 - **Feb 25, 05:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 05:51 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 05:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 05:55 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
