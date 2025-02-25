@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 34 |
 | spacenews | 10 | 15 | 23 | 45 |
-| nyt | 3 | 5 | 17 | 37 |
+| nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 2 | 2 | 25 | 25 |
 
@@ -614,3 +614,4 @@
 - **Feb 25, 08:27 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 25, 08:41 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Feb 25, 08:56 PM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
+- **Feb 25, 09:13 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
