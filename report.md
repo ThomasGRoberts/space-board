@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 7 | 9 | 21 | 41 |
 | nyt | 5 | 7 | 21 | 41 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | supercluster | 0 | 1 | 91 | 93 |
 
 # Shown Order
@@ -636,3 +636,4 @@
 - **Feb 25, 05:55 AM** - Musk and Trump repeat inaccurate claims about Starliner astronauts (spacenews)
 - **Feb 25, 06:09 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 25, 06:23 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
+- **Feb 25, 06:37 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
