@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | spacenews | 7 | 9 | 21 | 41 |
 | nyt | 5 | 7 | 20 | 40 |
 | aidy | 2 | 2 | 18 | 37 |
@@ -657,3 +657,4 @@
 - **Feb 25, 08:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 08:19 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 25, 08:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
+- **Feb 25, 08:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
