@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 35 |
 | spacenews | 10 | 14 | 22 | 44 |
-| nyt | 3 | 5 | 17 | 37 |
+| nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -580,3 +580,4 @@
 - **Feb 25, 04:41 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 25, 04:55 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 25, 05:10 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
+- **Feb 25, 05:25 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
