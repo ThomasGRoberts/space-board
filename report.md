@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 18 | 37 |
+| breaking_defense | 1 | 1 | 19 | 38 |
 | spacenews | 6 | 8 | 21 | 42 |
 | nyt | 2 | 4 | 19 | 40 |
 | supercluster | 2 | 2 | 100 | 100 |
@@ -626,3 +626,4 @@
 - **Feb 25, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 12:29 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
+- **Feb 25, 12:45 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
