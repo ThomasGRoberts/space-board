@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a13d421da746623718e816b1b1fdfafd",
+    "trigger_count": 0,
+    "current_item_id": "c557fae18a43a28f997d7e408505ac16",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1499,9 +1499,12 @@
             "source": "nyt",
             "text": "Embracing Darkness on the Isle of Rum",
             "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-dark-sky-rum.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-02-25T02:15:32.993813Z"
+            "fetched_datetime": "2025-02-25T02:15:32.993813Z",
+            "shown_at": [
+                "2025-02-25T02:43:27.481040Z"
+            ]
         },
         {
             "id": "a13d421da746623718e816b1b1fdfafd",

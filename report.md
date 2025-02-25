@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
 | spacenews | 7 | 9 | 22 | 42 |
-| nyt | 4 | 6 | 19 | 40 |
+| nyt | 4 | 6 | 20 | 41 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 18 | 38 |
 
@@ -639,3 +639,4 @@
 - **Feb 25, 01:59 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 25, 02:15 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 25, 02:29 AM** - NASA associate administrator for exploration to retire (spacenews)
+- **Feb 25, 02:43 AM** - Embracing Darkness on the Isle of Rum (nyt)
