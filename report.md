@@ -5,8 +5,8 @@
 | breaking_defense | 1 | 1 | 18 | 37 |
 | spacenews | 7 | 9 | 21 | 42 |
 | nyt | 5 | 7 | 21 | 42 |
-| supercluster | 2 | 2 | 114 | 114 |
 | aidy | 1 | 2 | 17 | 38 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -492,13 +492,6 @@
 - **Feb 24, 08:40 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 24, 08:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 09:09 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
-- **Feb 24, 09:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 09:37 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 09:51 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
 - **Feb 24, 10:05 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
@@ -516,13 +509,6 @@
 - **Feb 24, 11:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 24, 11:47 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 12:03 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
-- **Feb 24, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 12:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 12:35 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 12:49 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 24, 01:05 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
@@ -574,13 +560,6 @@
 - **Feb 24, 06:33 PM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 24, 06:47 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 24, 07:02 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
-- **Feb 24, 07:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 24, 07:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 24, 07:31 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 24, 07:46 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
 - **Feb 24, 07:59 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
@@ -618,13 +597,6 @@
 - **Feb 24, 11:31 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 24, 11:45 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 24, 11:59 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
-- **Feb 25, 12:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 12:29 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
 - **Feb 25, 12:45 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 25, 01:13 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
