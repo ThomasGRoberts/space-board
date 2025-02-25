@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | spacenews | 7 | 9 | 21 | 42 |
 | nyt | 4 | 6 | 20 | 41 |
 | supercluster | 2 | 2 | 107 | 107 |
@@ -640,3 +640,4 @@
 - **Feb 25, 02:15 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 25, 02:29 AM** - NASA associate administrator for exploration to retire (spacenews)
 - **Feb 25, 02:43 AM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 25, 02:59 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
