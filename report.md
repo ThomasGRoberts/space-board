@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 16 | 34 |
 | spacenews | 11 | 16 | 24 | 45 |
 | nyt | 3 | 5 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | supercluster | 2 | 2 | 32 | 32 |
 
 # Shown Order
@@ -623,3 +623,4 @@
 - **Feb 25, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 09:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 25, 09:55 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
