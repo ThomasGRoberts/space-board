@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 8 | 10 | 22 | 42 |
-| nyt | 5 | 7 | 20 | 40 |
+| nyt | 5 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | supercluster | 0 | 1 | 91 | 107 |
 
@@ -659,3 +659,4 @@
 - **Feb 25, 08:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 25, 08:47 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 25, 09:03 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
+- **Feb 25, 09:17 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
