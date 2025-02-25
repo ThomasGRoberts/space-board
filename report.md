@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 18 | 37 |
-| spacenews | 6 | 8 | 20 | 41 |
+| spacenews | 6 | 8 | 21 | 42 |
 | nyt | 2 | 4 | 19 | 40 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 18 | 39 |
@@ -636,3 +636,4 @@
 - **Feb 25, 01:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 01:56 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 01:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 01:59 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
