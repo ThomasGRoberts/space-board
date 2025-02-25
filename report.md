@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 16 | 34 |
 | spacenews | 11 | 17 | 24 | 46 |
 | nyt | 3 | 5 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 2 | 2 | 39 | 39 |
 
 # Shown Order
@@ -635,3 +635,4 @@
 - **Feb 25, 11:15 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:17 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:19 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 25, 11:21 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
