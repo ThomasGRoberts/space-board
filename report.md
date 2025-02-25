@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 16 | 34 |
-| spacenews | 12 | 17 | 25 | 46 |
+| spacenews | 11 | 17 | 24 | 46 |
 | nyt | 3 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 2 | 2 | 34 | 34 |
+| supercluster | 2 | 2 | 35 | 35 |
 
 # Shown Order
 
@@ -630,3 +630,4 @@
 - **Feb 25, 10:53 PM** - Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought (spacenews)
 - **Feb 25, 11:07 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:09 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 25, 11:11 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
