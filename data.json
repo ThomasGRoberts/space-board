@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35c4a21808e70424f97bd18d855ae273",
+    "trigger_count": 0,
+    "current_item_id": "223e5f2257dfa09ce3edde1f19a3d8b3",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1613,6 +1613,18 @@
             "fetched_datetime": "2025-02-25T21:28:01.903777Z",
             "shown_at": [
                 "2025-02-25T21:28:02.339509Z"
+            ]
+        },
+        {
+            "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
+            "source": "spacenews",
+            "text": "Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought",
+            "source_link": "https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T22:53:39.162460Z",
+            "shown_at": [
+                "2025-02-25T22:53:39.707615Z"
             ]
         }
     ]

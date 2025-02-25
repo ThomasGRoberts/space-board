@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 16 | 34 |
-| spacenews | 11 | 16 | 24 | 46 |
+| spacenews | 12 | 17 | 25 | 47 |
 | nyt | 3 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 2 | 2 | 32 | 32 |
@@ -627,3 +627,4 @@
 - **Feb 25, 10:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 10:25 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 25, 10:39 PM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
+- **Feb 25, 10:53 PM** - Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought (spacenews)
