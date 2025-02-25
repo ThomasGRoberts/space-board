@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 16 | 34 |
 | spacenews | 11 | 17 | 24 | 46 |
-| nyt | 3 | 5 | 17 | 37 |
+| nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 2 | 2 | 39 | 39 |
 
@@ -637,3 +637,4 @@
 - **Feb 25, 11:19 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 25, 11:21 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 25, 11:35 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 25, 11:49 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
