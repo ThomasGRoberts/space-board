@@ -6,7 +6,7 @@
 | spacenews | 10 | 14 | 22 | 44 |
 | nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -581,3 +581,4 @@
 - **Feb 25, 04:55 PM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 25, 05:10 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Feb 25, 05:25 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Feb 25, 05:39 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
