@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
 | spacenews | 7 | 9 | 21 | 42 |
-| nyt | 5 | 7 | 21 | 42 |
+| nyt | 5 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | supercluster | 2 | 2 | 87 | 87 |
 
@@ -625,4 +625,4 @@
 - **Feb 25, 03:55 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 25, 04:11 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 25, 04:25 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
-- **Feb 25, 04:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 25, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
