@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 18 | 36 |
 | spacenews | 7 | 11 | 20 | 42 |
-| nyt | 5 | 6 | 20 | 39 |
+| nyt | 5 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 98 | 121 |
 
@@ -681,3 +681,4 @@
 - **Feb 25, 10:57 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 11:11 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 25, 11:25 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
+- **Feb 25, 11:39 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
