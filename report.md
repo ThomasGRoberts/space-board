@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 10 | 14 | 23 | 45 |
-| nyt | 4 | 6 | 19 | 38 |
+| nyt | 4 | 6 | 20 | 39 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 0 | 1 | 105 | 135 |
 
@@ -707,3 +707,4 @@
 - **Feb 25, 02:18 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
 - **Feb 25, 02:34 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
 - **Feb 25, 02:51 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
+- **Feb 25, 03:09 PM** - Embracing Darkness on the Isle of Rum (nyt)
