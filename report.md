@@ -6,7 +6,7 @@
 | spacenews | 7 | 9 | 21 | 41 |
 | nyt | 5 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 0 | 1 | 89 | 100 |
+| supercluster | 0 | 1 | 88 | 100 |
 
 # Shown Order
 
