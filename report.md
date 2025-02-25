@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 18 | 37 |
-| spacenews | 7 | 10 | 20 | 41 |
+| spacenews | 7 | 10 | 21 | 42 |
 | nyt | 5 | 6 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 98 | 114 |
@@ -669,3 +669,4 @@
 - **Feb 25, 09:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 09:45 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 25, 09:59 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
+- **Feb 25, 10:13 AM** - NASA associate administrator for exploration to retire (spacenews)
