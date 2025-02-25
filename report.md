@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 34 |
 | spacenews | 11 | 16 | 23 | 45 |
-| nyt | 3 | 5 | 17 | 37 |
+| nyt | 3 | 5 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 2 | 2 | 32 | 32 |
 
@@ -625,3 +625,4 @@
 - **Feb 25, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 09:55 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 25, 10:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 25, 10:25 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
