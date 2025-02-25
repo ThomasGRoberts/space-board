@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 18 | 36 |
 | spacenews | 7 | 9 | 21 | 41 |
-| nyt | 5 | 7 | 20 | 40 |
+| nyt | 5 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | supercluster | 0 | 1 | 91 | 100 |
 
@@ -646,3 +646,4 @@
 - **Feb 25, 07:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 07:07 AM** - Airbus takes another 300 million euros in space program charges (spacenews)
 - **Feb 25, 07:21 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
+- **Feb 25, 07:35 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
