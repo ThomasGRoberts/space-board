@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
-| spacenews | 7 | 9 | 21 | 42 |
+| spacenews | 7 | 9 | 21 | 41 |
 | nyt | 5 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 109 | 109 |
+| supercluster | 2 | 2 | 110 | 110 |
 | aidy | 1 | 2 | 18 | 38 |
 
 # Shown Order
@@ -645,3 +645,4 @@
 - **Feb 25, 03:27 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 03:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 03:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 03:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
