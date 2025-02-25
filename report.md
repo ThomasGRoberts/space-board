@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
 | spacenews | 6 | 8 | 21 | 42 |
-| nyt | 2 | 4 | 19 | 40 |
+| nyt | 4 | 6 | 20 | 41 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 18 | 38 |
 
@@ -637,3 +637,4 @@
 - **Feb 25, 01:56 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 01:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 01:59 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
+- **Feb 25, 02:15 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
