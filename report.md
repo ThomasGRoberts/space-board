@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 36 |
-| spacenews | 7 | 9 | 21 | 41 |
+| spacenews | 7 | 9 | 22 | 42 |
 | nyt | 5 | 7 | 20 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 91 | 100 |
@@ -644,3 +644,4 @@
 - **Feb 25, 06:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 07:02 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 07:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 07:07 AM** - Airbus takes another 300 million euros in space program charges (spacenews)
