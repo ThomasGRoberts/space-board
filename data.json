@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9dadcba91d027f68b208bac2e4516a7",
+    "trigger_count": 0,
+    "current_item_id": "a4bb245a614fdc2d85fd06519fa1fda0",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1543,6 +1543,18 @@
             "fetched_datetime": "2025-02-25T08:33:26.485753Z",
             "shown_at": [
                 "2025-02-25T08:33:26.930638Z"
+            ]
+        },
+        {
+            "id": "a4bb245a614fdc2d85fd06519fa1fda0",
+            "source": "spacenews",
+            "text": "SpaceX completes investigation into Starship Flight 7 mishap",
+            "source_link": "https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T09:03:36.051501Z",
+            "shown_at": [
+                "2025-02-25T09:03:36.557330Z"
             ]
         }
     ]
