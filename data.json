@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9d3546999cd05feb8c14e86c07b9cb8",
+    "trigger_count": 0,
+    "current_item_id": "4041152092dfef6096eb1151a882e226",
     "data": [
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
@@ -1590,6 +1590,18 @@
             "fetched_datetime": "2025-02-25T20:56:08.010463Z",
             "shown_at": [
                 "2025-02-25T20:56:09.013857Z"
+            ]
+        },
+        {
+            "id": "4041152092dfef6096eb1151a882e226",
+            "source": "spacenews",
+            "text": "U.S. Air Force to explore Xona Space’s commercial alternative to GPS",
+            "source_link": "https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T21:28:01.903777Z",
+            "shown_at": [
+                "2025-02-25T21:28:02.339509Z"
             ]
         }
     ]
