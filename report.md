@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | spacenews | 7 | 11 | 20 | 41 |
 | nyt | 5 | 6 | 21 | 40 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | supercluster | 0 | 1 | 105 | 128 |
 
 # Shown Order
@@ -689,3 +689,4 @@
 - **Feb 25, 12:01 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 12:03 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 12:05 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Feb 25, 12:08 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
