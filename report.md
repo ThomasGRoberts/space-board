@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | spacenews | 7 | 11 | 20 | 41 |
 | nyt | 5 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
@@ -690,3 +690,4 @@
 - **Feb 25, 12:03 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 12:05 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Feb 25, 12:08 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 25, 12:23 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
