@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 24 | 45 |
 | supercluster | 2 | 2 | 60 | 60 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 5 | 16 | 37 |
+| nyt | 0 | 5 | 17 | 38 |
 | breaking_defense | 0 | 1 | 17 | 34 |
 
 # Shown Order
@@ -670,3 +670,4 @@
 - **Feb 26, 02:59 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 03:01 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 03:17 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 26, 03:31 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
