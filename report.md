@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 24 | 45 |
 | supercluster | 2 | 2 | 46 | 46 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 3 | 5 | 18 | 37 |
+| nyt | 3 | 5 | 19 | 38 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -648,3 +648,4 @@
 - **Feb 26, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 26, 12:33 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 26, 12:49 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 26, 01:05 AM** - Embracing Darkness on the Isle of Rum (nyt)
