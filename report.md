@@ -5,7 +5,7 @@
 | spacenews | 5 | 15 | 21 | 44 |
 | supercluster | 1 | 1 | 95 | 95 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 0 | 4 | 17 | 36 |
+| nyt | 0 | 4 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -740,3 +740,4 @@
 - **Feb 26, 02:09 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 26, 02:24 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 02:39 PM** - Keep NASA’s innovation engine going (spacenews)
+- **Feb 26, 02:53 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
