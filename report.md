@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 25 | 46 |
-| supercluster | 2 | 2 | 46 | 46 |
-| aidy | 1 | 2 | 17 | 35 |
+| supercluster | 2 | 2 | 47 | 47 |
+| aidy | 1 | 2 | 16 | 35 |
 | nyt | 3 | 5 | 18 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 
@@ -650,3 +650,4 @@
 - **Feb 26, 12:49 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 26, 01:05 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 26, 01:19 AM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
+- **Feb 26, 01:34 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
