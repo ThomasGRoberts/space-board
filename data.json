@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "01470a0fe24f85bbbbb8422a11b1d7f5",
+    "trigger_count": 0,
+    "current_item_id": "5c6a45bace3ff3210ce44fbd520ce779",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1825,6 +1825,20 @@
             "fetched_datetime": "2025-02-26T17:47:09.486269Z",
             "shown_at": [
                 "2025-02-26T17:47:10.010459Z"
+            ]
+        },
+        {
+            "id": "5c6a45bace3ff3210ce44fbd520ce779",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA",
+            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-27T00:17:00.000Z",
+            "time_remaining": "0d 05h 17m",
+            "fetched_datetime": "2025-02-26T18:59:42.069852Z",
+            "shown_at": [
+                "2025-02-26T18:59:42.911864Z"
             ]
         }
     ]
