@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 88 | 88 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 4 | 16 | 36 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -727,3 +727,4 @@
 - **Feb 26, 12:41 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 12:44 PM** - Second Intuitive Machines lunar lander ready for launch (spacenews)
 - **Feb 26, 12:59 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 26, 01:13 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
