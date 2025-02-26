@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 23 | 44 |
+| spacenews | 8 | 15 | 24 | 45 |
 | supercluster | 1 | 1 | 74 | 74 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 5 | 17 | 38 |
@@ -706,3 +706,4 @@
 - **Feb 26, 10:10 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 26, 10:27 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 26, 10:45 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 26, 10:59 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
