@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 22 | 45 |
-| supercluster | 1 | 2 | 119 | 137 |
+| supercluster | 1 | 2 | 120 | 138 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 1 | 4 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
@@ -808,3 +808,4 @@
 - **Feb 26, 09:49 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 26, 10:04 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 26, 10:17 PM** - NASA associate administrator for exploration to retire (spacenews)
+- **Feb 26, 10:33 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
