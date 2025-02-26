@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 0 | 1 | 105 | 109 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 3 | 18 | 35 |
 | breaking_defense | 1 | 2 | 18 | 35 |
 
@@ -761,3 +761,4 @@
 - **Feb 26, 04:47 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 04:49 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 04:51 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Feb 26, 05:05 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
