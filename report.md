@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 23 | 45 |
 | supercluster | 1 | 2 | 105 | 123 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 0 | 3 | 17 | 35 |
+| nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
 
 # Shown Order
@@ -785,3 +785,4 @@
 - **Feb 26, 07:13 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 26, 07:27 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 26, 07:41 PM** - Congressional watchdog flags risks in Space Development Agency’s satellite program (spacenews)
+- **Feb 26, 07:55 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
