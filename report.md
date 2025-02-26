@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 24 | 44 |
 | supercluster | 1 | 1 | 88 | 88 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 4 | 16 | 36 |
+| nyt | 0 | 4 | 17 | 37 |
 | breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
@@ -728,3 +728,4 @@
 - **Feb 26, 12:44 PM** - Second Intuitive Machines lunar lander ready for launch (spacenews)
 - **Feb 26, 12:59 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 01:13 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 26, 01:27 PM** - Sync Your Calendar With the Solar System (nyt)
