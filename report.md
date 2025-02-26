@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 25 | 46 |
-| supercluster | 2 | 2 | 39 | 39 |
+| supercluster | 2 | 2 | 40 | 40 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 3 | 5 | 18 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
@@ -639,3 +639,4 @@
 - **Feb 25, 11:35 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 11:49 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 26, 12:03 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
+- **Feb 26, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
