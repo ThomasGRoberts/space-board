@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 22 | 45 |
+| spacenews | 6 | 16 | 23 | 46 |
 | supercluster | 0 | 1 | 105 | 116 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 3 | 18 | 35 |
@@ -773,3 +773,4 @@
 - **Feb 26, 06:11 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 06:13 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 06:15 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 26, 06:29 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
