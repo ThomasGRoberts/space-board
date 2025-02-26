@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "145622462ec776c373a1f05e63c62fe1",
+    "trigger_count": 0,
+    "current_item_id": "4337780dfa86f486d859ceecf492115a",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1756,6 +1756,18 @@
             "fetched_datetime": "2025-02-26T14:09:34.386022Z",
             "shown_at": [
                 "2025-02-26T14:09:34.894978Z"
+            ]
+        },
+        {
+            "id": "4337780dfa86f486d859ceecf492115a",
+            "source": "spacenews",
+            "text": "Keep NASA’s innovation engine going",
+            "source_link": "https://spacenews.com/keep-nasas-innovation-engine-going/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T14:39:35.882823Z",
+            "shown_at": [
+                "2025-02-26T14:39:36.269054Z"
             ]
         }
     ]
