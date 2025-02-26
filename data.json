@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a5c29bfb471b8c22c2fae577c9f20977",
+    "trigger_count": 0,
+    "current_item_id": "dde66d5f0ee2e863bf5def6707f5c5af",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1867,6 +1867,18 @@
             "fetched_datetime": "2025-02-26T19:41:17.303133Z",
             "shown_at": [
                 "2025-02-26T19:41:17.727966Z"
+            ]
+        },
+        {
+            "id": "dde66d5f0ee2e863bf5def6707f5c5af",
+            "source": "nyt",
+            "text": "How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission",
+            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T20:23:44.063228Z",
+            "shown_at": [
+                "2025-02-26T20:23:45.030470Z"
             ]
         }
     ]
