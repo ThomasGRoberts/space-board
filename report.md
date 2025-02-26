@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 21 | 45 |
 | supercluster | 1 | 2 | 119 | 137 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 4 | 19 | 36 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 
@@ -806,3 +806,4 @@
 - **Feb 26, 09:33 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 09:35 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 26, 09:49 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 26, 10:04 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
