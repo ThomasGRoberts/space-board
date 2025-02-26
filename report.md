@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 20 | 44 |
-| supercluster | 1 | 2 | 122 | 144 |
-| aidy | 1 | 2 | 19 | 35 |
+| supercluster | 1 | 2 | 121 | 144 |
+| aidy | 1 | 2 | 20 | 36 |
 | nyt | 1 | 4 | 19 | 37 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 
@@ -817,3 +817,4 @@
 - **Feb 26, 10:45 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 10:47 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 26, 11:01 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 26, 11:15 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
