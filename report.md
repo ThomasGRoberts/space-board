@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 45 |
-| supercluster | 2 | 2 | 67 | 67 |
+| supercluster | 1 | 1 | 46 | 46 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 5 | 17 | 38 |
 | breaking_defense | 0 | 1 | 17 | 34 |
@@ -603,26 +603,12 @@
 - **Feb 25, 07:17 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 07:31 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
 - **Feb 25, 07:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
-- **Feb 25, 07:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 08:13 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 25, 08:27 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 25, 08:41 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Feb 25, 08:56 PM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
 - **Feb 25, 09:13 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 25, 09:28 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
-- **Feb 25, 09:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 25, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 25, 09:55 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 25, 10:11 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 10:25 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
@@ -639,13 +625,6 @@
 - **Feb 25, 11:35 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 11:49 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 26, 12:03 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
-- **Feb 26, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 26, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 26, 12:33 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 26, 12:49 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 26, 01:05 AM** - Embracing Darkness on the Isle of Rum (nyt)
