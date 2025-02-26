@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a5c29bfb471b8c22c2fae577c9f20977",
+    "trigger_count": 0,
+    "current_item_id": "29f1e3737e832bfbd1a7dd9dd11a356d",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1720,6 +1720,18 @@
             "shown_at": [
                 "2025-02-26T08:52:12.469540Z",
                 "2025-02-26T11:31:47.317095Z"
+            ]
+        },
+        {
+            "id": "29f1e3737e832bfbd1a7dd9dd11a356d",
+            "source": "spacenews",
+            "text": "Second Intuitive Machines lunar lander ready for launch",
+            "source_link": "https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T12:44:53.679685Z",
+            "shown_at": [
+                "2025-02-26T12:44:54.144633Z"
             ]
         }
     ]
