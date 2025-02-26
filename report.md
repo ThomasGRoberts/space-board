@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 1 | 2 | 105 | 123 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
 
@@ -783,3 +783,4 @@
 - **Feb 26, 07:09 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 07:11 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 07:13 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 26, 07:27 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
