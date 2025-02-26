@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 23 | 44 |
+| spacenews | 8 | 15 | 24 | 45 |
 | supercluster | 1 | 1 | 95 | 95 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 4 | 17 | 37 |
@@ -736,3 +736,4 @@
 - **Feb 26, 01:49 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:51 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:53 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 26, 01:55 PM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
