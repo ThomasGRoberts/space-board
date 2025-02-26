@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 24 | 45 |
 | supercluster | 2 | 2 | 46 | 46 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 3 | 5 | 18 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 
@@ -646,3 +646,4 @@
 - **Feb 26, 12:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 26, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 26, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 26, 12:33 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
