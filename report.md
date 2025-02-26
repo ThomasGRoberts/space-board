@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 74 | 74 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 5 | 17 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -704,3 +704,4 @@
 - **Feb 26, 10:05 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 10:08 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 10:10 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 26, 10:27 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
