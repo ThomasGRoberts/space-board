@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 25 | 46 |
-| supercluster | 2 | 2 | 48 | 48 |
+| supercluster | 2 | 2 | 49 | 49 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 3 | 5 | 18 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
@@ -652,3 +652,4 @@
 - **Feb 26, 01:19 AM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
 - **Feb 26, 01:34 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:37 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 26, 01:39 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
