@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 46 |
-| supercluster | 2 | 2 | 60 | 60 |
+| supercluster | 2 | 2 | 61 | 61 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 5 | 17 | 37 |
 | breaking_defense | 0 | 1 | 17 | 34 |
@@ -672,3 +672,4 @@
 - **Feb 26, 03:17 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 26, 03:31 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 26, 03:46 AM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
+- **Feb 26, 03:59 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
