@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 22 | 45 |
-| supercluster | 1 | 2 | 113 | 131 |
+| supercluster | 1 | 2 | 114 | 132 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 1 | 4 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
@@ -798,3 +798,4 @@
 - **Feb 26, 08:51 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 26, 09:07 PM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
 - **Feb 26, 09:21 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 26, 09:23 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
