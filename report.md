@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 0 | 1 | 105 | 109 |
-| aidy | 1 | 2 | 19 | 36 |
-| nyt | 0 | 3 | 17 | 35 |
+| aidy | 1 | 2 | 19 | 35 |
+| nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -763,3 +763,4 @@
 - **Feb 26, 04:51 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 26, 05:05 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 26, 05:19 PM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
+- **Feb 26, 05:33 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
