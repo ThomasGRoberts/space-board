@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 24 | 44 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 5 | 17 | 38 |
+| nyt | 0 | 5 | 17 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -721,3 +721,4 @@
 - **Feb 26, 12:28 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 12:29 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 12:32 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 26, 12:35 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
