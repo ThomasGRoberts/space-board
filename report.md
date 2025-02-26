@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 24 | 45 |
 | supercluster | 2 | 2 | 53 | 53 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 1 | 5 | 17 | 37 |
+| nyt | 1 | 5 | 18 | 38 |
 | breaking_defense | 0 | 1 | 17 | 34 |
 
 # Shown Order
@@ -659,3 +659,4 @@
 - **Feb 26, 01:47 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:49 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 26, 02:05 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
+- **Feb 26, 02:19 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
