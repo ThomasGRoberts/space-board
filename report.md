@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 22 | 45 |
+| spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 0 | 1 | 105 | 109 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 3 | 18 | 35 |
@@ -762,3 +762,4 @@
 - **Feb 26, 04:49 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 04:51 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 26, 05:05 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 26, 05:19 PM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
