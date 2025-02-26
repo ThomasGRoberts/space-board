@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 23 | 45 |
-| supercluster | 0 | 1 | 98 | 109 |
+| supercluster | 0 | 1 | 99 | 110 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 19 | 35 |
@@ -765,3 +765,4 @@
 - **Feb 26, 05:19 PM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 26, 05:33 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 26, 05:47 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Feb 26, 06:01 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
