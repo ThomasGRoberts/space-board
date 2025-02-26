@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 24 | 46 |
+| spacenews | 11 | 17 | 25 | 47 |
 | supercluster | 2 | 2 | 39 | 39 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 3 | 5 | 18 | 37 |
@@ -638,3 +638,4 @@
 - **Feb 25, 11:21 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 25, 11:35 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 25, 11:49 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Feb 26, 12:03 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
