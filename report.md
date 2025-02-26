@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 0 | 1 | 105 | 116 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 0 | 3 | 17 | 35 |
+| nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
 
 # Shown Order
@@ -774,3 +774,4 @@
 - **Feb 26, 06:13 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 06:15 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 06:29 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
+- **Feb 26, 06:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
