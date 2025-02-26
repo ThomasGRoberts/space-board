@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6d88a33b79bf80c3f27f5d7e82a2bb00",
+    "trigger_count": 0,
+    "current_item_id": "a41ee220594b780c0680f4410e3cc2bb",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1847,6 +1847,18 @@
                 "2025-02-26T19:07:36.549795Z",
                 "2025-02-26T19:09:32.392626Z",
                 "2025-02-26T19:11:30.702038Z"
+            ]
+        },
+        {
+            "id": "a41ee220594b780c0680f4410e3cc2bb",
+            "source": "spacenews",
+            "text": "Congressional watchdog flags risks in Space Development Agency’s satellite program",
+            "source_link": "https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T19:41:17.303133Z",
+            "shown_at": [
+                "2025-02-26T19:41:17.727966Z"
             ]
         }
     ]
