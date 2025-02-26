@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 112 | 130 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 4 | 19 | 37 |
-| breaking_defense | 2 | 3 | 17 | 34 |
+| breaking_defense | 2 | 3 | 18 | 35 |
 
 # Shown Order
 
@@ -794,3 +794,4 @@
 - **Feb 26, 08:19 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:21 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:23 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Feb 26, 08:37 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
