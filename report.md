@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 23 | 45 |
-| supercluster | 1 | 2 | 105 | 123 |
+| supercluster | 1 | 2 | 106 | 124 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
@@ -786,3 +786,4 @@
 - **Feb 26, 07:27 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 26, 07:41 PM** - Congressional watchdog flags risks in Space Development Agency’s satellite program (spacenews)
 - **Feb 26, 07:55 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
+- **Feb 26, 08:09 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
