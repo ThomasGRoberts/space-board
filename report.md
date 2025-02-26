@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 21 | 44 |
 | supercluster | 1 | 1 | 102 | 102 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 4 | 17 | 36 |
 | breaking_defense | 1 | 2 | 18 | 35 |
 
@@ -749,3 +749,4 @@
 - **Feb 26, 03:21 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 03:23 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 03:25 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 26, 03:39 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
