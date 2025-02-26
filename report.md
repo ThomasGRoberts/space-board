@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 53 | 53 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 3 | 5 | 18 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -658,3 +658,4 @@
 - **Feb 26, 01:45 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:47 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:49 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 26, 02:05 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
