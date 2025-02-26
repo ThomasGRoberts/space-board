@@ -1,9 +1,263 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-25T00:01:52.108498+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
+    "trigger_count": 6,
     "current_item_id": "01470a0fe24f85bbbbb8422a11b1d7f5",
     "data": [
+        {
+            "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
+            "source": "spacenews",
+            "text": "Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought",
+            "source_link": "https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T22:53:39.162460Z",
+            "shown_at": [
+                "2025-02-25T22:53:39.707615Z"
+            ]
+        },
+        {
+            "id": "4041152092dfef6096eb1151a882e226",
+            "source": "spacenews",
+            "text": "U.S. Air Force to explore Xona Space’s commercial alternative to GPS",
+            "source_link": "https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T21:28:01.903777Z",
+            "shown_at": [
+                "2025-02-25T21:28:02.339509Z"
+            ]
+        },
+        {
+            "id": "45a27275812728d92f346086e1824ec6",
+            "source": "spacenews",
+            "text": "Eutelsat hails pioneering 5G test over LEO",
+            "source_link": "https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T20:56:08.010463Z",
+            "shown_at": [
+                "2025-02-25T20:56:09.013857Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-13",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-26T04:45:48.000Z",
+            "time_remaining": "0d 06h 52m",
+            "fetched_datetime": "2025-02-25T19:59:41.503873Z",
+            "shown_at": [
+                "2025-02-25T19:59:42.388745Z",
+                "2025-02-25T20:01:59.896524Z",
+                "2025-02-25T20:03:35.387409Z",
+                "2025-02-25T20:05:35.109403Z",
+                "2025-02-25T20:07:22.506612Z",
+                "2025-02-25T20:09:43.574260Z",
+                "2025-02-25T20:11:34.269241Z",
+                "2025-02-25T21:41:54.850555Z",
+                "2025-02-25T21:43:34.534346Z",
+                "2025-02-25T21:45:38.741163Z",
+                "2025-02-25T21:47:48.685891Z",
+                "2025-02-25T21:49:35.599311Z",
+                "2025-02-25T21:51:41.183387Z",
+                "2025-02-25T21:53:22.452372Z"
+            ]
+        },
+        {
+            "id": "a5c29bfb471b8c22c2fae577c9f20977",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Lunar Lander Designed by Intuitive Machines",
+            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-27T00:17:00.000Z",
+            "time_remaining": "1d 00h 57m",
+            "fetched_datetime": "2025-02-25T16:32:01.258840Z",
+            "shown_at": [
+                "2025-02-25T16:32:07.058702Z",
+                "2025-02-25T16:35:32.317718Z",
+                "2025-02-25T16:37:39.002105Z",
+                "2025-02-25T16:39:43.271498Z",
+                "2025-02-25T17:39:50.527198Z",
+                "2025-02-25T17:41:30.785904Z",
+                "2025-02-25T17:43:27.740325Z",
+                "2025-02-25T17:45:26.029288Z",
+                "2025-02-25T17:47:09.826116Z",
+                "2025-02-25T17:49:31.626741Z",
+                "2025-02-25T17:51:06.656553Z",
+                "2025-02-25T18:49:46.085086Z",
+                "2025-02-25T18:51:47.408782Z",
+                "2025-02-25T18:53:31.290855Z",
+                "2025-02-25T18:55:25.207758Z",
+                "2025-02-25T18:57:34.415195Z",
+                "2025-02-25T18:59:32.620534Z",
+                "2025-02-25T19:02:01.720992Z",
+                "2025-02-25T23:07:44.978064Z",
+                "2025-02-25T23:09:35.264364Z",
+                "2025-02-25T23:11:54.214633Z",
+                "2025-02-25T23:13:29.588748Z",
+                "2025-02-25T23:15:25.109637Z",
+                "2025-02-25T23:17:35.353467Z",
+                "2025-02-25T23:19:25.513011Z"
+            ]
+        },
+        {
+            "id": "77c4484cb9c65d2f26facb9f8d5f7e3d",
+            "source": "spacenews",
+            "text": "Time to refocus: America needs a stronger Space Force",
+            "source_link": "https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T14:51:44.333883Z",
+            "shown_at": [
+                "2025-02-25T14:51:44.848097Z"
+            ]
+        },
+        {
+            "id": "5481989ff0372870f30bb980c376fb27",
+            "source": "spacenews",
+            "text": "SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry",
+            "source_link": "https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T14:03:37.000242Z",
+            "shown_at": [
+                "2025-02-25T14:34:38.968443Z"
+            ]
+        },
+        {
+            "id": "e4a05f56712120fe72dc74c9036f7b38",
+            "source": "spacenews",
+            "text": "Magdrive raises $10.5 million and opens U.S. office",
+            "source_link": "https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T14:03:37.000207Z",
+            "shown_at": [
+                "2025-02-25T14:18:08.558064Z"
+            ]
+        },
+        {
+            "id": "9440a5f8935677b3e60a493272161dda",
+            "source": "spacenews",
+            "text": "Former FCC Space Bureau chief joins law firm",
+            "source_link": "https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T14:03:37.000159Z",
+            "shown_at": [
+                "2025-02-25T14:03:37.565405Z"
+            ]
+        },
+        {
+            "id": "e8fae0b183738b5e819f5ecdab449aad",
+            "source": "spacenews",
+            "text": "China to send a spacecraft out of the ecliptic to study the Sun’s poles",
+            "source_link": "https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T11:25:28.205706Z",
+            "shown_at": [
+                "2025-02-25T11:25:28.722574Z",
+                "2025-02-25T17:10:13.083977Z",
+                "2025-02-25T20:41:37.078556Z"
+            ]
+        },
+        {
+            "id": "a4bb245a614fdc2d85fd06519fa1fda0",
+            "source": "spacenews",
+            "text": "SpaceX completes investigation into Starship Flight 7 mishap",
+            "source_link": "https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T09:03:36.051501Z",
+            "shown_at": [
+                "2025-02-25T09:03:36.557330Z"
+            ]
+        },
+        {
+            "id": "2c0b0d36be16a6906f387131807c3db1",
+            "source": "aidy",
+            "text": "NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T08:33:26.485753Z",
+            "shown_at": [
+                "2025-02-25T08:33:26.930638Z",
+                "2025-02-25T21:55:34.198554Z"
+            ]
+        },
+        {
+            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
+            "source": "nyt",
+            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
+            "source_link": "https://www.nytimes.com/2025/02/12/science/astrophysics-universe-neutrinos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T03:13:35.588225Z",
+            "shown_at": [
+                "2025-02-25T03:13:35.967235Z",
+                "2025-02-25T18:35:36.241648Z",
+                "2025-02-25T21:13:33.483627Z"
+            ]
+        },
+        {
+            "id": "a13d421da746623718e816b1b1fdfafd",
+            "source": "spacenews",
+            "text": "NASA associate administrator for exploration to retire",
+            "source_link": "https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T02:29:45.568686Z",
+            "shown_at": [
+                "2025-02-25T02:29:46.392631Z",
+                "2025-02-25T10:13:30.311548Z"
+            ]
+        },
+        {
+            "id": "c557fae18a43a28f997d7e408505ac16",
+            "source": "nyt",
+            "text": "Embracing Darkness on the Isle of Rum",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-dark-sky-rum.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T02:15:32.993813Z",
+            "shown_at": [
+                "2025-02-25T02:43:27.481040Z",
+                "2025-02-25T15:09:42.566878Z"
+            ]
+        },
+        {
+            "id": "69b52a437726fb3b6301d8d7e5050d36",
+            "source": "nyt",
+            "text": "Earth Safe From Asteroid 2024 YR4, NASA Says",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/asteroid-2024-yr4.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T02:15:32.993682Z",
+            "shown_at": [
+                "2025-02-25T02:15:33.455639Z",
+                "2025-02-25T11:39:51.070775Z",
+                "2025-02-25T17:25:43.333657Z"
+            ]
+        },
+        {
+            "id": "e6ef354cd041b74f4f9183f021d24b1c",
+            "source": "spacenews",
+            "text": "Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative",
+            "source_link": "https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-25T00:29:31.036014Z",
+            "shown_at": [
+                "2025-02-25T00:29:31.707274Z"
+            ]
+        },
         {
             "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
             "source": "breaking_defense",
@@ -1381,260 +1635,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "e6ef354cd041b74f4f9183f021d24b1c",
-            "source": "spacenews",
-            "text": "Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative",
-            "source_link": "https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T00:29:31.036014Z",
-            "shown_at": [
-                "2025-02-25T00:29:31.707274Z"
-            ]
-        },
-        {
-            "id": "69b52a437726fb3b6301d8d7e5050d36",
-            "source": "nyt",
-            "text": "Earth Safe From Asteroid 2024 YR4, NASA Says",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/asteroid-2024-yr4.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:15:32.993682Z",
-            "shown_at": [
-                "2025-02-25T02:15:33.455639Z",
-                "2025-02-25T11:39:51.070775Z",
-                "2025-02-25T17:25:43.333657Z"
-            ]
-        },
-        {
-            "id": "c557fae18a43a28f997d7e408505ac16",
-            "source": "nyt",
-            "text": "Embracing Darkness on the Isle of Rum",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-dark-sky-rum.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:15:32.993813Z",
-            "shown_at": [
-                "2025-02-25T02:43:27.481040Z",
-                "2025-02-25T15:09:42.566878Z"
-            ]
-        },
-        {
-            "id": "a13d421da746623718e816b1b1fdfafd",
-            "source": "spacenews",
-            "text": "NASA associate administrator for exploration to retire",
-            "source_link": "https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:29:45.568686Z",
-            "shown_at": [
-                "2025-02-25T02:29:46.392631Z",
-                "2025-02-25T10:13:30.311548Z"
-            ]
-        },
-        {
-            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
-            "source": "nyt",
-            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
-            "source_link": "https://www.nytimes.com/2025/02/12/science/astrophysics-universe-neutrinos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T03:13:35.588225Z",
-            "shown_at": [
-                "2025-02-25T03:13:35.967235Z",
-                "2025-02-25T18:35:36.241648Z",
-                "2025-02-25T21:13:33.483627Z"
-            ]
-        },
-        {
-            "id": "2c0b0d36be16a6906f387131807c3db1",
-            "source": "aidy",
-            "text": "NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T08:33:26.485753Z",
-            "shown_at": [
-                "2025-02-25T08:33:26.930638Z",
-                "2025-02-25T21:55:34.198554Z"
-            ]
-        },
-        {
-            "id": "a4bb245a614fdc2d85fd06519fa1fda0",
-            "source": "spacenews",
-            "text": "SpaceX completes investigation into Starship Flight 7 mishap",
-            "source_link": "https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T09:03:36.051501Z",
-            "shown_at": [
-                "2025-02-25T09:03:36.557330Z"
-            ]
-        },
-        {
-            "id": "e8fae0b183738b5e819f5ecdab449aad",
-            "source": "spacenews",
-            "text": "China to send a spacecraft out of the ecliptic to study the Sun’s poles",
-            "source_link": "https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T11:25:28.205706Z",
-            "shown_at": [
-                "2025-02-25T11:25:28.722574Z",
-                "2025-02-25T17:10:13.083977Z",
-                "2025-02-25T20:41:37.078556Z"
-            ]
-        },
-        {
-            "id": "9440a5f8935677b3e60a493272161dda",
-            "source": "spacenews",
-            "text": "Former FCC Space Bureau chief joins law firm",
-            "source_link": "https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000159Z",
-            "shown_at": [
-                "2025-02-25T14:03:37.565405Z"
-            ]
-        },
-        {
-            "id": "e4a05f56712120fe72dc74c9036f7b38",
-            "source": "spacenews",
-            "text": "Magdrive raises $10.5 million and opens U.S. office",
-            "source_link": "https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000207Z",
-            "shown_at": [
-                "2025-02-25T14:18:08.558064Z"
-            ]
-        },
-        {
-            "id": "5481989ff0372870f30bb980c376fb27",
-            "source": "spacenews",
-            "text": "SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry",
-            "source_link": "https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000242Z",
-            "shown_at": [
-                "2025-02-25T14:34:38.968443Z"
-            ]
-        },
-        {
-            "id": "77c4484cb9c65d2f26facb9f8d5f7e3d",
-            "source": "spacenews",
-            "text": "Time to refocus: America needs a stronger Space Force",
-            "source_link": "https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:51:44.333883Z",
-            "shown_at": [
-                "2025-02-25T14:51:44.848097Z"
-            ]
-        },
-        {
-            "id": "a5c29bfb471b8c22c2fae577c9f20977",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Lunar Lander Designed by Intuitive Machines",
-            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-27T00:17:00.000Z",
-            "time_remaining": "1d 00h 57m",
-            "fetched_datetime": "2025-02-25T16:32:01.258840Z",
-            "shown_at": [
-                "2025-02-25T16:32:07.058702Z",
-                "2025-02-25T16:35:32.317718Z",
-                "2025-02-25T16:37:39.002105Z",
-                "2025-02-25T16:39:43.271498Z",
-                "2025-02-25T17:39:50.527198Z",
-                "2025-02-25T17:41:30.785904Z",
-                "2025-02-25T17:43:27.740325Z",
-                "2025-02-25T17:45:26.029288Z",
-                "2025-02-25T17:47:09.826116Z",
-                "2025-02-25T17:49:31.626741Z",
-                "2025-02-25T17:51:06.656553Z",
-                "2025-02-25T18:49:46.085086Z",
-                "2025-02-25T18:51:47.408782Z",
-                "2025-02-25T18:53:31.290855Z",
-                "2025-02-25T18:55:25.207758Z",
-                "2025-02-25T18:57:34.415195Z",
-                "2025-02-25T18:59:32.620534Z",
-                "2025-02-25T19:02:01.720992Z",
-                "2025-02-25T23:07:44.978064Z",
-                "2025-02-25T23:09:35.264364Z",
-                "2025-02-25T23:11:54.214633Z",
-                "2025-02-25T23:13:29.588748Z",
-                "2025-02-25T23:15:25.109637Z",
-                "2025-02-25T23:17:35.353467Z",
-                "2025-02-25T23:19:25.513011Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-13",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-26T04:45:48.000Z",
-            "time_remaining": "0d 06h 52m",
-            "fetched_datetime": "2025-02-25T19:59:41.503873Z",
-            "shown_at": [
-                "2025-02-25T19:59:42.388745Z",
-                "2025-02-25T20:01:59.896524Z",
-                "2025-02-25T20:03:35.387409Z",
-                "2025-02-25T20:05:35.109403Z",
-                "2025-02-25T20:07:22.506612Z",
-                "2025-02-25T20:09:43.574260Z",
-                "2025-02-25T20:11:34.269241Z",
-                "2025-02-25T21:41:54.850555Z",
-                "2025-02-25T21:43:34.534346Z",
-                "2025-02-25T21:45:38.741163Z",
-                "2025-02-25T21:47:48.685891Z",
-                "2025-02-25T21:49:35.599311Z",
-                "2025-02-25T21:51:41.183387Z",
-                "2025-02-25T21:53:22.452372Z"
-            ]
-        },
-        {
-            "id": "45a27275812728d92f346086e1824ec6",
-            "source": "spacenews",
-            "text": "Eutelsat hails pioneering 5G test over LEO",
-            "source_link": "https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T20:56:08.010463Z",
-            "shown_at": [
-                "2025-02-25T20:56:09.013857Z"
-            ]
-        },
-        {
-            "id": "4041152092dfef6096eb1151a882e226",
-            "source": "spacenews",
-            "text": "U.S. Air Force to explore Xona Space’s commercial alternative to GPS",
-            "source_link": "https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T21:28:01.903777Z",
-            "shown_at": [
-                "2025-02-25T21:28:02.339509Z"
-            ]
-        },
-        {
-            "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
-            "source": "spacenews",
-            "text": "Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought",
-            "source_link": "https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T22:53:39.162460Z",
-            "shown_at": [
-                "2025-02-25T22:53:39.707615Z"
             ]
         }
     ]
