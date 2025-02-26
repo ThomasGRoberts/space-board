@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 46 |
-| supercluster | 2 | 2 | 53 | 53 |
+| supercluster | 2 | 2 | 54 | 54 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 1 | 5 | 17 | 37 |
 | breaking_defense | 0 | 1 | 17 | 34 |
@@ -661,3 +661,4 @@
 - **Feb 26, 02:05 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 26, 02:19 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 26, 02:33 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
+- **Feb 26, 02:47 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
