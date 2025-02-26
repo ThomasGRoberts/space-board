@@ -5,7 +5,7 @@
 | spacenews | 5 | 16 | 21 | 45 |
 | supercluster | 1 | 2 | 126 | 144 |
 | aidy | 1 | 2 | 19 | 35 |
-| nyt | 1 | 4 | 18 | 36 |
+| nyt | 1 | 4 | 19 | 37 |
 | breaking_defense | 2 | 3 | 18 | 34 |
 
 # Shown Order
@@ -815,3 +815,4 @@
 - **Feb 26, 10:41 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 10:43 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 10:45 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
+- **Feb 26, 10:47 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
