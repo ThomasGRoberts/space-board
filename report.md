@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 119 | 137 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 1 | 4 | 19 | 37 |
-| breaking_defense | 2 | 3 | 18 | 34 |
+| breaking_defense | 2 | 3 | 19 | 35 |
 
 # Shown Order
 
@@ -805,3 +805,4 @@
 - **Feb 26, 09:31 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 09:33 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 09:35 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 26, 09:49 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
