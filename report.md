@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 24 | 45 |
+| spacenews | 9 | 16 | 25 | 46 |
 | supercluster | 1 | 1 | 53 | 53 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 5 | 17 | 38 |
@@ -672,3 +672,4 @@
 - **Feb 26, 06:09 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 26, 06:23 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 26, 06:37 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 26, 06:51 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
