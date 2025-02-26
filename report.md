@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 24 | 45 |
+| spacenews | 9 | 16 | 25 | 46 |
 | supercluster | 1 | 1 | 60 | 60 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 5 | 17 | 38 |
@@ -683,3 +683,4 @@
 - **Feb 26, 07:19 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 26, 07:33 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 26, 07:47 AM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 26, 08:02 AM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
