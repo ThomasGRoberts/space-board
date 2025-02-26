@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 23 | 45 |
 | supercluster | 1 | 1 | 102 | 102 |
 | aidy | 1 | 2 | 19 | 35 |
-| nyt | 0 | 3 | 17 | 35 |
+| nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -752,3 +752,4 @@
 - **Feb 26, 03:39 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 26, 03:53 PM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
 - **Feb 26, 04:09 PM** - War of words heats up over Space Force’s strategic posture (spacenews)
+- **Feb 26, 04:23 PM** - Embracing Darkness on the Isle of Rum (nyt)
