@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 44 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 4 | 17 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
@@ -730,3 +730,4 @@
 - **Feb 26, 01:13 PM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
 - **Feb 26, 01:27 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 26, 01:41 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
+- **Feb 26, 01:43 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
