@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 23 | 45 |
-| supercluster | 1 | 2 | 100 | 117 |
+| supercluster | 1 | 2 | 101 | 118 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
@@ -776,3 +776,4 @@
 - **Feb 26, 06:29 PM** - BAE wins $230.6 million contract for space weather program (spacenews)
 - **Feb 26, 06:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 26, 06:59 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
+- **Feb 26, 07:01 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
