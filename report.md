@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 21 | 44 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 0 | 4 | 18 | 37 |
+| nyt | 0 | 4 | 17 | 37 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 
 # Shown Order
@@ -741,3 +741,4 @@
 - **Feb 26, 02:24 PM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 02:39 PM** - Keep NASA’s innovation engine going (spacenews)
 - **Feb 26, 02:53 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
+- **Feb 26, 03:09 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
