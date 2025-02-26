@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 95 | 95 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 4 | 17 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 1 | 2 | 17 | 35 |
 
 # Shown Order
 
@@ -737,3 +737,4 @@
 - **Feb 26, 01:51 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:53 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 01:55 PM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
+- **Feb 26, 02:09 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c342d13d38d243c1e48b02554eac623c",
+    "trigger_count": 0,
+    "current_item_id": "7ce608b560e28fbc2557baa723a814db",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1743,6 +1743,18 @@
             "fetched_datetime": "2025-02-26T12:44:53.679685Z",
             "shown_at": [
                 "2025-02-26T12:44:54.144633Z"
+            ]
+        },
+        {
+            "id": "7ce608b560e28fbc2557baa723a814db",
+            "source": "breaking_defense",
+            "text": "Space Force: Vive la difference, advises a new AEI policy paper",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-vive-la-difference-advises-a-new-aei-policy-paper/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T14:09:34.386022Z",
+            "shown_at": [
+                "2025-02-26T14:09:34.894978Z"
             ]
         }
     ]
