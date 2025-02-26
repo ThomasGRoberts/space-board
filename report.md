@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 24 | 45 |
+| spacenews | 9 | 16 | 25 | 46 |
 | supercluster | 2 | 2 | 60 | 60 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 5 | 17 | 38 |
@@ -671,3 +671,4 @@
 - **Feb 26, 03:01 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 26, 03:17 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 26, 03:31 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 26, 03:46 AM** - Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab (spacenews)
