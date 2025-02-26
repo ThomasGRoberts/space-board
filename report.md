@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 45 |
 | supercluster | 1 | 1 | 67 | 67 |
-| aidy | 0 | 2 | 17 | 35 |
+| aidy | 1 | 3 | 18 | 36 |
 | nyt | 0 | 5 | 17 | 37 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 
@@ -692,3 +692,4 @@
 - **Feb 26, 08:31 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:33 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:35 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
+- **Feb 26, 08:52 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
