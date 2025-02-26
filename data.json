@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f60768a5b57e804b85d87fa3964b64b",
+    "trigger_count": 0,
+    "current_item_id": "d5ed9694c39c23c52c2e777f7401d414",
     "data": [
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
@@ -1803,6 +1803,18 @@
             "fetched_datetime": "2025-02-26T16:09:30.749860Z",
             "shown_at": [
                 "2025-02-26T16:09:31.222044Z"
+            ]
+        },
+        {
+            "id": "d5ed9694c39c23c52c2e777f7401d414",
+            "source": "breaking_defense",
+            "text": "Too soon? GAO questions tech readiness of satellite laser links",
+            "source_link": "https://breakingdefense.com/2025/02/too-soon-gao-questions-tech-readiness-of-satellite-laser-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T17:47:09.486269Z",
+            "shown_at": [
+                "2025-02-26T17:47:10.010459Z"
             ]
         }
     ]
