@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 81 | 81 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 5 | 16 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -715,3 +715,4 @@
 - **Feb 26, 11:25 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 11:28 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 11:31 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Feb 26, 11:45 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
