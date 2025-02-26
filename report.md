@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 22 | 45 |
 | supercluster | 1 | 2 | 112 | 130 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 4 | 19 | 36 |
 | breaking_defense | 2 | 3 | 18 | 35 |
 
@@ -795,3 +795,4 @@
 - **Feb 26, 08:21 PM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:23 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 26, 08:37 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 26, 08:51 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
