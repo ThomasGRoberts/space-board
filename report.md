@@ -5,8 +5,8 @@
 | spacenews | 9 | 16 | 24 | 45 |
 | supercluster | 1 | 1 | 53 | 53 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 0 | 5 | 17 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| nyt | 0 | 5 | 16 | 37 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -670,3 +670,4 @@
 - **Feb 26, 06:05 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 06:07 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 06:09 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 26, 06:23 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
