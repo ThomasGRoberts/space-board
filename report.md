@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 21 | 45 |
-| supercluster | 1 | 2 | 119 | 144 |
+| supercluster | 1 | 2 | 120 | 145 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 4 | 19 | 37 |
 | breaking_defense | 2 | 2 | 18 | 34 |
@@ -819,3 +819,4 @@
 - **Feb 26, 11:01 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 26, 11:15 PM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 26, 11:29 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
+- **Feb 26, 11:43 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
