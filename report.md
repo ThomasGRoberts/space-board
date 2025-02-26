@@ -5,7 +5,7 @@
 | spacenews | 4 | 15 | 21 | 45 |
 | supercluster | 1 | 2 | 126 | 151 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 4 | 18 | 36 |
+| nyt | 1 | 4 | 19 | 37 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 
 # Shown Order
@@ -826,3 +826,4 @@
 - **Feb 26, 11:51 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 11:53 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
 - **Feb 26, 11:55 PM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
+- **Feb 26, 11:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
