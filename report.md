@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 67 | 67 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 5 | 17 | 37 |
-| breaking_defense | 0 | 1 | 16 | 34 |
+| breaking_defense | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -693,3 +693,4 @@
 - **Feb 26, 08:33 AM** - SpaceX Will Launch Lunar Lander Designed by Intuitive Machines (supercluster)
 - **Feb 26, 08:35 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 26, 08:52 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Feb 26, 09:09 AM** - In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak (breaking_defense)
