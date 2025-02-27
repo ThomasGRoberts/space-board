@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 37 |
 | spacenews | 7 | 14 | 20 | 43 |
-| breaking_defense | 0 | 2 | 17 | 35 |
+| breaking_defense | 0 | 2 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -805,3 +805,4 @@
 - **Feb 27, 07:43 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 27, 07:57 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 08:12 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
+- **Feb 27, 08:25 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
