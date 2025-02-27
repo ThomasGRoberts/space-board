@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 17 | 36 |
 | spacenews | 9 | 13 | 20 | 40 |
-| breaking_defense | 0 | 2 | 16 | 34 |
+| breaking_defense | 0 | 2 | 16 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -745,3 +745,4 @@
 - **Feb 27, 10:32 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 27, 10:33 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 10:47 PM** - Space Development Agency pushes back on GAO’s criticism  (spacenews)
+- **Feb 27, 11:02 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
