@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ea4f32248a34dbeea72bc523bf17e895",
+    "trigger_count": 0,
+    "current_item_id": "8d6693c59bd7b50f480e2cac23b5d420",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1988,6 +1988,18 @@
             "fetched_datetime": "2025-02-27T16:37:44.674802Z",
             "shown_at": [
                 "2025-02-27T16:37:45.785691Z"
+            ]
+        },
+        {
+            "id": "8d6693c59bd7b50f480e2cac23b5d420",
+            "source": "nyt",
+            "text": "Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew",
+            "source_link": "https://www.nytimes.com/2025/02/27/us/blue-origin-mission-crew-katy-perry-gayle-king.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T20:39:40.844434Z",
+            "shown_at": [
+                "2025-02-27T20:39:41.666924Z"
             ]
         }
     ]
