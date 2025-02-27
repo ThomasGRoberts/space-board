@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 19 | 37 |
-| spacenews | 7 | 14 | 19 | 42 |
+| spacenews | 7 | 14 | 20 | 43 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -804,3 +804,4 @@
 - **Feb 27, 07:41 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 07:43 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 27, 07:57 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
+- **Feb 27, 08:12 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
