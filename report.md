@@ -6,7 +6,7 @@
 | spacenews | 7 | 16 | 20 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -706,3 +706,4 @@
 - **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 27, 06:53 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 06:55 AM** - China Will Launch the Long March 2C Rocket (supercluster)
