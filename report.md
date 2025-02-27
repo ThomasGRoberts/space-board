@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 18 | 37 |
-| spacenews | 9 | 13 | 20 | 40 |
+| spacenews | 9 | 13 | 19 | 40 |
 | breaking_defense | 0 | 2 | 16 | 35 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -747,3 +747,4 @@
 - **Feb 27, 10:47 PM** - Space Development Agency pushes back on GAO’s criticism  (spacenews)
 - **Feb 27, 11:02 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Feb 27, 11:17 PM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 27, 11:31 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
