@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 35 |
 | spacenews | 7 | 16 | 20 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
-| aidy | 1 | 1 | 16 | 33 |
+| aidy | 2 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -702,3 +702,4 @@
 - **Feb 27, 08:19 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 08:21 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 08:23 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Feb 27, 08:39 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dde66d5f0ee2e863bf5def6707f5c5af",
+    "trigger_count": 0,
+    "current_item_id": "079faa912183d8f814515d3d57b7537e",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1818,6 +1818,18 @@
                 "2025-02-27T08:17:23.950638Z",
                 "2025-02-27T08:19:34.684640Z",
                 "2025-02-27T08:21:32.792420Z"
+            ]
+        },
+        {
+            "id": "079faa912183d8f814515d3d57b7537e",
+            "source": "aidy",
+            "text": "AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T08:39:33.122302Z",
+            "shown_at": [
+                "2025-02-27T08:39:33.528227Z"
             ]
         }
     ]
