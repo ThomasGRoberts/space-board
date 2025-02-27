@@ -6,7 +6,7 @@
 | spacenews | 8 | 13 | 19 | 41 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -742,3 +742,4 @@
 - **Feb 27, 10:25 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 27, 10:27 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 27, 10:29 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 27, 10:32 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
