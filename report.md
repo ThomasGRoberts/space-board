@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 7 | 15 | 20 | 43 |
+| spacenews | 7 | 15 | 21 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -704,3 +704,4 @@
 - **Feb 27, 08:23 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 27, 08:39 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 08:54 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 27, 09:09 AM** - Keep NASA’s innovation engine going (spacenews)
