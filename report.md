@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
 | spacenews | 7 | 15 | 20 | 44 |
-| breaking_defense | 2 | 2 | 17 | 33 |
+| breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -714,3 +714,4 @@
 - **Feb 27, 09:36 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 09:40 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 09:55 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 27, 10:09 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
