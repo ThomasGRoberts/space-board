@@ -1,9 +1,142 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-26T00:01:55.626974+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
+    "trigger_count": 2,
     "current_item_id": "0cdd4aeb6b2d872d08cc28e9c929ad86",
     "data": [
+        {
+            "id": "dde66d5f0ee2e863bf5def6707f5c5af",
+            "source": "nyt",
+            "text": "How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission",
+            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T20:23:44.063228Z",
+            "shown_at": [
+                "2025-02-26T20:23:45.030470Z"
+            ]
+        },
+        {
+            "id": "a41ee220594b780c0680f4410e3cc2bb",
+            "source": "spacenews",
+            "text": "Congressional watchdog flags risks in Space Development Agency’s satellite program",
+            "source_link": "https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T19:41:17.303133Z",
+            "shown_at": [
+                "2025-02-26T19:41:17.727966Z"
+            ]
+        },
+        {
+            "id": "5c6a45bace3ff3210ce44fbd520ce779",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA",
+            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-27T00:17:00.000Z",
+            "time_remaining": "0d 00h 21m",
+            "fetched_datetime": "2025-02-26T18:59:42.069852Z",
+            "shown_at": [
+                "2025-02-26T18:59:42.911864Z",
+                "2025-02-26T19:01:57.019057Z",
+                "2025-02-26T19:03:33.703749Z",
+                "2025-02-26T19:05:40.931023Z",
+                "2025-02-26T19:07:36.549795Z",
+                "2025-02-26T19:09:32.392626Z",
+                "2025-02-26T19:11:30.702038Z",
+                "2025-02-26T22:33:29.042543Z",
+                "2025-02-26T22:35:34.520549Z",
+                "2025-02-26T22:37:37.888557Z",
+                "2025-02-26T22:39:11.834736Z",
+                "2025-02-26T22:41:50.006075Z",
+                "2025-02-26T22:43:51.015416Z",
+                "2025-02-26T22:45:08.827546Z",
+                "2025-02-26T23:43:31.067824Z",
+                "2025-02-26T23:45:38.252795Z",
+                "2025-02-26T23:47:48.809866Z",
+                "2025-02-26T23:49:23.065193Z",
+                "2025-02-26T23:51:45.917248Z",
+                "2025-02-26T23:53:25.129151Z",
+                "2025-02-26T23:55:43.317870Z"
+            ]
+        },
+        {
+            "id": "d5ed9694c39c23c52c2e777f7401d414",
+            "source": "breaking_defense",
+            "text": "Too soon? GAO questions tech readiness of satellite laser links",
+            "source_link": "https://breakingdefense.com/2025/02/too-soon-gao-questions-tech-readiness-of-satellite-laser-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T17:47:09.486269Z",
+            "shown_at": [
+                "2025-02-26T17:47:10.010459Z"
+            ]
+        },
+        {
+            "id": "6a7b43c63910037b9adb5ed25817b336",
+            "source": "spacenews",
+            "text": "War of words heats up over Space Force’s strategic posture",
+            "source_link": "https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T16:09:30.749860Z",
+            "shown_at": [
+                "2025-02-26T16:09:31.222044Z"
+            ]
+        },
+        {
+            "id": "4337780dfa86f486d859ceecf492115a",
+            "source": "spacenews",
+            "text": "Keep NASA’s innovation engine going",
+            "source_link": "https://spacenews.com/keep-nasas-innovation-engine-going/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T14:39:35.882823Z",
+            "shown_at": [
+                "2025-02-26T14:39:36.269054Z"
+            ]
+        },
+        {
+            "id": "7ce608b560e28fbc2557baa723a814db",
+            "source": "breaking_defense",
+            "text": "Space Force: Vive la difference, advises a new AEI policy paper",
+            "source_link": "https://breakingdefense.com/2025/02/space-force-vive-la-difference-advises-a-new-aei-policy-paper/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T14:09:34.386022Z",
+            "shown_at": [
+                "2025-02-26T14:09:34.894978Z",
+                "2025-02-26T16:51:43.293545Z"
+            ]
+        },
+        {
+            "id": "29f1e3737e832bfbd1a7dd9dd11a356d",
+            "source": "spacenews",
+            "text": "Second Intuitive Machines lunar lander ready for launch",
+            "source_link": "https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T12:44:53.679685Z",
+            "shown_at": [
+                "2025-02-26T12:44:54.144633Z"
+            ]
+        },
+        {
+            "id": "cba8d8b9bece16fe17c3a298a5ac4046",
+            "source": "aidy",
+            "text": "Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-26T08:52:11.935174Z",
+            "shown_at": [
+                "2025-02-26T08:52:12.469540Z",
+                "2025-02-26T11:31:47.317095Z",
+                "2025-02-26T20:51:54.839958Z"
+            ]
+        },
         {
             "id": "223e5f2257dfa09ce3edde1f19a3d8b3",
             "source": "spacenews",
@@ -1779,139 +1912,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "cba8d8b9bece16fe17c3a298a5ac4046",
-            "source": "aidy",
-            "text": "Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T08:52:11.935174Z",
-            "shown_at": [
-                "2025-02-26T08:52:12.469540Z",
-                "2025-02-26T11:31:47.317095Z",
-                "2025-02-26T20:51:54.839958Z"
-            ]
-        },
-        {
-            "id": "29f1e3737e832bfbd1a7dd9dd11a356d",
-            "source": "spacenews",
-            "text": "Second Intuitive Machines lunar lander ready for launch",
-            "source_link": "https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T12:44:53.679685Z",
-            "shown_at": [
-                "2025-02-26T12:44:54.144633Z"
-            ]
-        },
-        {
-            "id": "7ce608b560e28fbc2557baa723a814db",
-            "source": "breaking_defense",
-            "text": "Space Force: Vive la difference, advises a new AEI policy paper",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-vive-la-difference-advises-a-new-aei-policy-paper/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T14:09:34.386022Z",
-            "shown_at": [
-                "2025-02-26T14:09:34.894978Z",
-                "2025-02-26T16:51:43.293545Z"
-            ]
-        },
-        {
-            "id": "4337780dfa86f486d859ceecf492115a",
-            "source": "spacenews",
-            "text": "Keep NASA’s innovation engine going",
-            "source_link": "https://spacenews.com/keep-nasas-innovation-engine-going/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T14:39:35.882823Z",
-            "shown_at": [
-                "2025-02-26T14:39:36.269054Z"
-            ]
-        },
-        {
-            "id": "6a7b43c63910037b9adb5ed25817b336",
-            "source": "spacenews",
-            "text": "War of words heats up over Space Force’s strategic posture",
-            "source_link": "https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T16:09:30.749860Z",
-            "shown_at": [
-                "2025-02-26T16:09:31.222044Z"
-            ]
-        },
-        {
-            "id": "d5ed9694c39c23c52c2e777f7401d414",
-            "source": "breaking_defense",
-            "text": "Too soon? GAO questions tech readiness of satellite laser links",
-            "source_link": "https://breakingdefense.com/2025/02/too-soon-gao-questions-tech-readiness-of-satellite-laser-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T17:47:09.486269Z",
-            "shown_at": [
-                "2025-02-26T17:47:10.010459Z"
-            ]
-        },
-        {
-            "id": "5c6a45bace3ff3210ce44fbd520ce779",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA",
-            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-02-27T00:17:00.000Z",
-            "time_remaining": "0d 00h 21m",
-            "fetched_datetime": "2025-02-26T18:59:42.069852Z",
-            "shown_at": [
-                "2025-02-26T18:59:42.911864Z",
-                "2025-02-26T19:01:57.019057Z",
-                "2025-02-26T19:03:33.703749Z",
-                "2025-02-26T19:05:40.931023Z",
-                "2025-02-26T19:07:36.549795Z",
-                "2025-02-26T19:09:32.392626Z",
-                "2025-02-26T19:11:30.702038Z",
-                "2025-02-26T22:33:29.042543Z",
-                "2025-02-26T22:35:34.520549Z",
-                "2025-02-26T22:37:37.888557Z",
-                "2025-02-26T22:39:11.834736Z",
-                "2025-02-26T22:41:50.006075Z",
-                "2025-02-26T22:43:51.015416Z",
-                "2025-02-26T22:45:08.827546Z",
-                "2025-02-26T23:43:31.067824Z",
-                "2025-02-26T23:45:38.252795Z",
-                "2025-02-26T23:47:48.809866Z",
-                "2025-02-26T23:49:23.065193Z",
-                "2025-02-26T23:51:45.917248Z",
-                "2025-02-26T23:53:25.129151Z",
-                "2025-02-26T23:55:43.317870Z"
-            ]
-        },
-        {
-            "id": "a41ee220594b780c0680f4410e3cc2bb",
-            "source": "spacenews",
-            "text": "Congressional watchdog flags risks in Space Development Agency’s satellite program",
-            "source_link": "https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T19:41:17.303133Z",
-            "shown_at": [
-                "2025-02-26T19:41:17.727966Z"
-            ]
-        },
-        {
-            "id": "dde66d5f0ee2e863bf5def6707f5c5af",
-            "source": "nyt",
-            "text": "How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission",
-            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T20:23:44.063228Z",
-            "shown_at": [
-                "2025-02-26T20:23:45.030470Z"
             ]
         }
     ]
