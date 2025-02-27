@@ -6,7 +6,7 @@
 | spacenews | 4 | 14 | 20 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -677,3 +677,4 @@
 - **Feb 26, 11:29 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
 - **Feb 26, 11:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 12:12 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 27, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)

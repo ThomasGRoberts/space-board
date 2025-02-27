@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 1,
-    "current_item_id": "5c6a45bace3ff3210ce44fbd520ce779",
+    "trigger_count": 2,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1739,15 +1739,18 @@
             ]
         },
         {
-            "id": "5c6a45bace3ff3210ce44fbd520ce779",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA",
-            "source_link": "https://www.supercluster.com/launches/prime-1-im-2",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-13",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-02-27T00:16:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-02-27T01:15:28.994061Z"
+            "target_datetime": "2025-02-27T03:34:00.000Z",
+            "time_remaining": "0d 02h 16m",
+            "fetched_datetime": "2025-02-27T01:17:42.479145Z",
+            "shown_at": [
+                "2025-02-27T01:17:43.522564Z"
+            ]
         }
     ]
 }
