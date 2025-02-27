@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 19 | 37 |
+| nyt | 3 | 3 | 20 | 38 |
 | spacenews | 7 | 14 | 19 | 42 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -802,3 +802,4 @@
 - **Feb 27, 07:37 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 07:39 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 07:41 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 07:43 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
