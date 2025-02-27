@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 20 | 37 |
 | spacenews | 8 | 14 | 19 | 42 |
 | breaking_defense | 0 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -792,3 +792,4 @@
 - **Feb 27, 06:27 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 06:29 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 06:31 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
+- **Feb 27, 06:45 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
