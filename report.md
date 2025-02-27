@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 7 | 16 | 20 | 45 |
+| spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -712,3 +712,4 @@
 - **Feb 27, 07:02 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 07:05 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 07:07 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 07:09 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
