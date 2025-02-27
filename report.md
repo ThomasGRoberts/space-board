@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 35 |
+| nyt | 2 | 2 | 18 | 34 |
 | spacenews | 6 | 15 | 20 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -686,4 +686,4 @@
 - **Feb 27, 03:05 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 27, 03:19 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 27, 03:33 AM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
-- **Feb 27, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 27, 04:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
