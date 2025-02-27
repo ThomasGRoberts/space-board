@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 35 |
+| nyt | 2 | 2 | 19 | 36 |
 | spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -702,3 +702,4 @@
 - **Feb 27, 05:49 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 05:51 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 05:53 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
+- **Feb 27, 06:07 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
