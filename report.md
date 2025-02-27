@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 7 | 15 | 20 | 43 |
+| spacenews | 8 | 16 | 21 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -715,3 +715,4 @@
 - **Feb 27, 09:40 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 09:55 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 27, 10:09 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 27, 10:23 AM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)

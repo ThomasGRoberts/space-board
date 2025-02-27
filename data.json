@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "608ae62dcacaf3b21c3061b7342b0c59",
+    "trigger_count": 0,
+    "current_item_id": "51098996eb9b9767be99d723ddb2b980",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1842,6 +1842,18 @@
             "fetched_datetime": "2025-02-27T08:39:33.122302Z",
             "shown_at": [
                 "2025-02-27T08:39:33.528227Z"
+            ]
+        },
+        {
+            "id": "51098996eb9b9767be99d723ddb2b980",
+            "source": "spacenews",
+            "text": "China adds to SuperView remote sensing constellation with Long March 2C launch",
+            "source_link": "https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T10:23:45.011628Z",
+            "shown_at": [
+                "2025-02-27T10:23:46.095204Z"
             ]
         }
     ]
