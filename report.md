@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 17 | 34 |
-| spacenews | 7 | 16 | 21 | 45 |
+| spacenews | 7 | 16 | 20 | 45 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -695,4 +695,4 @@
 - **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 27, 07:09 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
-- **Feb 27, 08:02 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 08:03 AM** - China Will Launch the Long March 2C Rocket (supercluster)
