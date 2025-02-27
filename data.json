@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "9013e83bca0066b0eff8831f37463d35",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1754,6 +1754,18 @@
                 "2025-02-27T01:21:42.571167Z",
                 "2025-02-27T01:23:58.194270Z",
                 "2025-02-27T01:25:42.371674Z"
+            ]
+        },
+        {
+            "id": "9013e83bca0066b0eff8831f37463d35",
+            "source": "spacenews",
+            "text": "Space industry hunts for ways to adapt to Trump’s trade policies",
+            "source_link": "https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T01:27:43.837230Z",
+            "shown_at": [
+                "2025-02-27T01:27:44.792580Z"
             ]
         }
     ]
