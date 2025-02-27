@@ -6,7 +6,7 @@
 | spacenews | 8 | 16 | 21 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -716,3 +716,4 @@
 - **Feb 27, 09:55 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 27, 10:09 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 27, 10:23 AM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
+- **Feb 27, 10:37 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
