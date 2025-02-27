@@ -6,7 +6,7 @@
 | spacenews | 6 | 15 | 20 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -687,3 +687,4 @@
 - **Feb 27, 03:19 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 27, 03:33 AM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
 - **Feb 27, 04:35 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 04:37 AM** - China Will Launch the Long March 2C Rocket (supercluster)
