@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
 | spacenews | 9 | 16 | 21 | 44 |
-| breaking_defense | 2 | 2 | 17 | 33 |
+| breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -726,3 +726,4 @@
 - **Feb 27, 10:51 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 27, 11:08 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 11:23 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
+- **Feb 27, 11:37 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
