@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 19 | 38 |
-| spacenews | 7 | 14 | 20 | 42 |
+| spacenews | 7 | 13 | 20 | 41 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -809,3 +809,4 @@
 - **Feb 27, 08:39 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Feb 27, 08:53 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 08:55 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 08:57 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
