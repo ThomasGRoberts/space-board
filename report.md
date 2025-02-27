@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 19 | 36 |
 | spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 34 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -703,3 +703,4 @@
 - **Feb 27, 05:51 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 05:53 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 27, 06:07 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
