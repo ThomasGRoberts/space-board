@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 19 | 36 |
 | spacenews | 6 | 15 | 20 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -695,3 +695,4 @@
 - **Feb 27, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 02:51 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Feb 27, 03:05 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
