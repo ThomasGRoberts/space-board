@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 9 | 16 | 20 | 43 |
+| spacenews | 9 | 16 | 21 | 44 |
 | breaking_defense | 2 | 2 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -736,3 +736,4 @@
 - **Feb 27, 12:05 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 12:07 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 27, 12:22 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
+- **Feb 27, 12:39 PM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
