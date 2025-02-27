@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "de0145ab21fc347fc315e074582c8296",
+    "trigger_count": 0,
+    "current_item_id": "b5ce34657f38bb20ce2846cabdbdbf48",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1795,6 +1795,18 @@
                 "2025-02-27T04:37:27.753357Z",
                 "2025-02-27T04:39:26.781231Z",
                 "2025-02-27T04:41:39.332422Z"
+            ]
+        },
+        {
+            "id": "b5ce34657f38bb20ce2846cabdbdbf48",
+            "source": "spacenews",
+            "text": "House hearing debates ways to improve Artemis",
+            "source_link": "https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T04:43:30.587266Z",
+            "shown_at": [
+                "2025-02-27T04:43:31.008904Z"
             ]
         }
     ]
