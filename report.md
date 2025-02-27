@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 8 | 13 | 20 | 43 |
+| spacenews | 8 | 13 | 20 | 42 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -750,3 +750,4 @@
 - **Feb 27, 01:49 PM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
 - **Feb 27, 02:03 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 27, 02:17 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 02:19 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
