@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 18 | 37 |
 | spacenews | 9 | 13 | 19 | 40 |
 | breaking_defense | 0 | 2 | 16 | 34 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -754,3 +754,4 @@
 - **Feb 27, 11:39 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 27, 11:41 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 27, 11:43 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 27, 11:45 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
