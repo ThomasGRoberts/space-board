@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 35 |
 | spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 17 | 34 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -692,3 +692,4 @@
 - **Feb 27, 04:41 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 04:43 AM** - House hearing debates ways to improve Artemis (spacenews)
 - **Feb 27, 04:57 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Feb 27, 05:11 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
