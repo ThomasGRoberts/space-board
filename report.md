@@ -6,7 +6,6 @@
 | spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -686,30 +685,12 @@
 - **Feb 27, 03:05 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 27, 03:19 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 27, 03:33 AM** - Eutelsat hails pioneering 5G test over LEO (spacenews)
-- **Feb 27, 04:35 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 04:37 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 04:39 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 04:41 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 04:43 AM** - House hearing debates ways to improve Artemis (spacenews)
 - **Feb 27, 04:57 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 27, 05:11 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 27, 05:25 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
-- **Feb 27, 05:39 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:41 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:43 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:45 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:47 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:49 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 05:51 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 05:53 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 27, 06:07 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
-- **Feb 27, 06:53 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 06:55 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 06:57 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 06:59 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 07:02 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 07:05 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Feb 27, 07:07 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 07:09 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
