@@ -5,8 +5,8 @@
 | nyt | 3 | 3 | 19 | 37 |
 | spacenews | 8 | 14 | 20 | 43 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 48 | 48 |
+| aidy | 1 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -773,3 +773,4 @@
 - **Feb 27, 04:23 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 27, 04:37 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 27, 04:52 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 27, 05:05 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
