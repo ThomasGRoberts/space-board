@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 17 | 34 |
+| nyt | 2 | 2 | 18 | 35 |
 | spacenews | 7 | 16 | 20 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -701,3 +701,4 @@
 - **Feb 27, 08:17 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 08:19 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 08:21 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 08:23 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
