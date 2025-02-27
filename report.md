@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 35 |
+| nyt | 2 | 2 | 18 | 34 |
 | spacenews | 8 | 16 | 20 | 44 |
-| breaking_defense | 2 | 2 | 17 | 33 |
+| breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -737,3 +737,4 @@
 - **Feb 27, 12:07 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 27, 12:22 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 12:39 PM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
+- **Feb 27, 12:53 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
