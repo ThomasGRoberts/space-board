@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 20 | 37 |
+| nyt | 3 | 3 | 19 | 37 |
 | spacenews | 8 | 14 | 19 | 42 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -781,3 +781,4 @@
 - **Feb 27, 05:16 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 05:19 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 05:21 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Feb 27, 05:35 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
