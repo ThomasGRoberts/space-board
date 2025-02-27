@@ -6,7 +6,7 @@
 | spacenews | 7 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -696,3 +696,4 @@
 - **Feb 27, 05:25 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 27, 05:39 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 05:41 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 05:43 AM** - China Will Launch the Long March 2C Rocket (supercluster)
