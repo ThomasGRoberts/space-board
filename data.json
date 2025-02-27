@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "32b54768e6cd0f8ef8d7bce3b8e93087",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1918,6 +1918,18 @@
             "fetched_datetime": "2025-02-27T14:31:31.123327Z",
             "shown_at": [
                 "2025-02-27T14:31:31.640461Z"
+            ]
+        },
+        {
+            "id": "32b54768e6cd0f8ef8d7bce3b8e93087",
+            "source": "nyt",
+            "text": "NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts",
+            "source_link": "https://www.nytimes.com/2025/02/27/science/nasa-lunar-trailblazer-water-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T14:59:42.101257Z",
+            "shown_at": [
+                "2025-02-27T14:59:42.719452Z"
             ]
         }
     ]
