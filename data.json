@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+    "trigger_count": 0,
+    "current_item_id": "2342dba4bb1cd6bb4dd4369a8b07905f",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -2027,6 +2027,18 @@
                 "2025-02-27T21:17:31.186621Z",
                 "2025-02-27T21:19:31.873403Z",
                 "2025-02-27T21:21:35.050040Z"
+            ]
+        },
+        {
+            "id": "2342dba4bb1cd6bb4dd4369a8b07905f",
+            "source": "spacenews",
+            "text": "SES shareholder pushes to curb state control to tackle market challenges",
+            "source_link": "https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T21:23:48.155415Z",
+            "shown_at": [
+                "2025-02-27T21:23:49.281762Z"
             ]
         }
     ]
