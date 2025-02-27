@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 19 | 36 |
-| spacenews | 8 | 13 | 20 | 42 |
+| nyt | 3 | 3 | 20 | 37 |
+| spacenews | 7 | 13 | 19 | 42 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -769,3 +769,4 @@
 - **Feb 27, 03:51 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 03:53 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 03:55 PM** - Boom or bust? Making sense of conflicting signals in the space economy (spacenews)
+- **Feb 27, 04:09 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
