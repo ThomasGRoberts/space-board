@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 35 |
 | spacenews | 8 | 16 | 20 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -724,3 +724,4 @@
 - **Feb 27, 10:47 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 10:49 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 10:51 AM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 27, 11:08 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
