@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 19 | 37 |
-| spacenews | 4 | 15 | 20 | 45 |
+| spacenews | 4 | 14 | 20 | 44 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -677,4 +677,3 @@
 - **Feb 26, 11:29 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
 - **Feb 26, 11:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 12:12 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
-- **Feb 27, 12:27 AM** - SpaceX Will Launch a Lunar Lander for Intuitive Machines and NASA (supercluster)
