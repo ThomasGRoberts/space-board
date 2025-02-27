@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 19 | 35 |
 | spacenews | 6 | 15 | 20 | 44 |
-| breaking_defense | 2 | 2 | 18 | 34 |
+| breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -696,3 +696,4 @@
 - **Feb 27, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 02:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 27, 03:05 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
+- **Feb 27, 03:19 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
