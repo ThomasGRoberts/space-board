@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 0,
-    "current_item_id": "de0145ab21fc347fc315e074582c8296",
+    "trigger_count": 1,
+    "current_item_id": "eea439ca1557bbf7081267889db4b5ab",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1801,17 +1801,17 @@
             ]
         },
         {
-            "id": "de0145ab21fc347fc315e074582c8296",
+            "id": "eea439ca1557bbf7081267889db4b5ab",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 2C Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2cg",
+            "text": "Russia to Launch Resupply Mission to the Space Station",
+            "source_link": "https://www.supercluster.com/launches/progress-ms-30",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-02-27T07:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-02-27T08:09:44.138125Z",
+            "target_datetime": "2025-02-27T21:24:00.000Z",
+            "time_remaining": "0d 13h 12m",
+            "fetched_datetime": "2025-02-27T08:11:36.692052Z",
             "shown_at": [
-                "2025-02-27T08:09:45.109197Z"
+                "2025-02-27T08:11:37.178758Z"
             ]
         }
     ]
