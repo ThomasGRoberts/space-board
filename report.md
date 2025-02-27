@@ -6,7 +6,7 @@
 | spacenews | 8 | 13 | 20 | 41 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -739,4 +739,3 @@
 - **Feb 27, 08:25 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 27, 08:39 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Feb 27, 09:23 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
-- **Feb 27, 09:37 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
