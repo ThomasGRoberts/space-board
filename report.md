@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 19 | 37 |
 | spacenews | 8 | 14 | 20 | 43 |
-| breaking_defense | 0 | 2 | 16 | 35 |
+| breaking_defense | 0 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -783,3 +783,4 @@
 - **Feb 27, 05:21 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 27, 05:35 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 05:49 PM** - House members seek more details on DOGE activities at NASA (spacenews)
+- **Feb 27, 06:03 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
