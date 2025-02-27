@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c524c47ac61c8f629ba68b6584a08d16",
+    "trigger_count": 0,
+    "current_item_id": "ece7e4f4ea9d624c7dbed275c5c5d8ce",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1942,6 +1942,18 @@
             "fetched_datetime": "2025-02-27T14:59:42.101257Z",
             "shown_at": [
                 "2025-02-27T14:59:42.719452Z"
+            ]
+        },
+        {
+            "id": "ece7e4f4ea9d624c7dbed275c5c5d8ce",
+            "source": "spacenews",
+            "text": "Swissto12 strengthens push beyond subsystems with SES antenna deal",
+            "source_link": "https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T16:37:44.674802Z",
+            "shown_at": [
+                "2025-02-27T16:37:45.785691Z"
             ]
         }
     ]
