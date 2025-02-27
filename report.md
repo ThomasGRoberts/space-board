@@ -5,8 +5,8 @@
 | nyt | 3 | 3 | 19 | 37 |
 | spacenews | 8 | 14 | 20 | 43 |
 | breaking_defense | 0 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 62 | 62 |
+| aidy | 1 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -795,3 +795,4 @@
 - **Feb 27, 06:45 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 27, 06:59 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Feb 27, 07:15 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 27, 07:29 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
