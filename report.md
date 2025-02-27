@@ -6,7 +6,7 @@
 | spacenews | 7 | 16 | 20 | 45 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -696,3 +696,4 @@
 - **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 27, 07:09 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 27, 08:11 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 08:13 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
