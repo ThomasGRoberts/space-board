@@ -6,7 +6,7 @@
 | spacenews | 8 | 13 | 19 | 41 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -740,3 +740,4 @@
 - **Feb 27, 08:39 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Feb 27, 09:23 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Feb 27, 10:25 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 27, 10:27 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
