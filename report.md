@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 35 |
+| nyt | 2 | 2 | 19 | 36 |
 | spacenews | 8 | 14 | 20 | 42 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -757,3 +757,4 @@
 - **Feb 27, 02:27 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 02:29 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 02:31 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
+- **Feb 27, 02:45 PM** - Sync Your Calendar With the Solar System (nyt)
