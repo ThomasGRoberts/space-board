@@ -6,7 +6,7 @@
 | spacenews | 7 | 13 | 19 | 41 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 2 | 2 | 82 | 82 |
+| supercluster | 2 | 2 | 83 | 83 |
 
 # Shown Order
 
@@ -820,3 +820,4 @@
 - **Feb 27, 09:15 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 09:17 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 09:19 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Feb 27, 09:21 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
