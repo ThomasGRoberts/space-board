@@ -6,7 +6,7 @@
 | spacenews | 8 | 16 | 20 | 44 |
 | breaking_defense | 2 | 2 | 18 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -738,3 +738,4 @@
 - **Feb 27, 12:22 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 12:39 PM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
 - **Feb 27, 12:53 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 27, 01:07 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
