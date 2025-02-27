@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9e449aeaf1d724a8721561bab4378bd7",
+    "trigger_count": 0,
+    "current_item_id": "de0145ab21fc347fc315e074582c8296",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1798,6 +1798,20 @@
             "fetched_datetime": "2025-02-27T04:43:30.587266Z",
             "shown_at": [
                 "2025-02-27T04:43:31.008904Z"
+            ]
+        },
+        {
+            "id": "de0145ab21fc347fc315e074582c8296",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 2C Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2cg",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-02-27T07:10:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-02-27T07:26:22.076407Z",
+            "shown_at": [
+                "2025-02-27T07:26:23.021661Z"
             ]
         }
     ]
