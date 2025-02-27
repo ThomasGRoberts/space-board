@@ -6,7 +6,7 @@
 | spacenews | 6 | 15 | 20 | 44 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -689,3 +689,4 @@
 - **Feb 27, 02:23 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Feb 27, 02:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Feb 27, 02:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
