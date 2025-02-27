@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eea439ca1557bbf7081267889db4b5ab",
+    "trigger_count": 0,
+    "current_item_id": "0a915faa6ea987abb63064b269554a69",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1905,6 +1905,18 @@
             "fetched_datetime": "2025-02-27T11:23:47.818319Z",
             "shown_at": [
                 "2025-02-27T11:23:48.705918Z"
+            ]
+        },
+        {
+            "id": "0a915faa6ea987abb63064b269554a69",
+            "source": "spacenews",
+            "text": "The future of advanced air mobility under a new Congress and Trump administration",
+            "source_link": "https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T14:31:31.123327Z",
+            "shown_at": [
+                "2025-02-27T14:31:31.640461Z"
             ]
         }
     ]
