@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 19 | 35 |
 | spacenews | 7 | 16 | 21 | 45 |
-| breaking_defense | 2 | 2 | 17 | 34 |
+| breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -704,3 +704,4 @@
 - **Feb 27, 05:53 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 27, 06:07 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
+- **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
