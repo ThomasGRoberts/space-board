@@ -6,7 +6,6 @@
 | spacenews | 6 | 15 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -677,23 +676,11 @@
 - **Feb 26, 11:29 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
 - **Feb 26, 11:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 27, 12:12 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
-- **Feb 27, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 01:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 01:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 01:27 AM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
 - **Feb 27, 01:41 AM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Feb 27, 01:55 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 27, 02:09 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 27, 02:23 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
-- **Feb 27, 02:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Feb 27, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 02:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 27, 03:05 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 27, 03:19 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
