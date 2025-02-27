@@ -6,7 +6,7 @@
 | spacenews | 6 | 15 | 20 | 44 |
 | breaking_defense | 2 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -689,3 +689,4 @@
 - **Feb 27, 04:35 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 04:37 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Feb 27, 04:39 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 04:41 AM** - China Will Launch the Long March 2C Rocket (supercluster)
