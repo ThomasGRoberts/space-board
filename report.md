@@ -695,4 +695,4 @@
 - **Feb 27, 06:22 AM** - NASA Reverses Employee Terminations Amid Protests and Congressional Pressure (aidy)
 - **Feb 27, 06:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Feb 27, 07:09 AM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
-- **Feb 27, 07:49 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Feb 27, 07:51 AM** - China Will Launch the Long March 2C Rocket (supercluster)
