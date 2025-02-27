@@ -5,7 +5,7 @@
 | nyt | 2 | 5 | 19 | 37 |
 | spacenews | 5 | 15 | 20 | 45 |
 | breaking_defense | 2 | 2 | 18 | 34 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -684,3 +684,4 @@
 - **Feb 27, 01:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Feb 27, 01:27 AM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
 - **Feb 27, 01:41 AM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
+- **Feb 27, 01:55 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
