@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "608ae62dcacaf3b21c3061b7342b0c59",
+    "trigger_count": 0,
+    "current_item_id": "95a382fc98014def1726c335f0ec8d08",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1780,6 +1780,18 @@
             "fetched_datetime": "2025-02-27T01:41:56.007316Z",
             "shown_at": [
                 "2025-02-27T01:41:56.518142Z"
+            ]
+        },
+        {
+            "id": "95a382fc98014def1726c335f0ec8d08",
+            "source": "spacenews",
+            "text": "Falcon 9 launches second Intuitive Machines lunar lander",
+            "source_link": "https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T02:23:31.901309Z",
+            "shown_at": [
+                "2025-02-27T02:23:32.416648Z"
             ]
         }
     ]

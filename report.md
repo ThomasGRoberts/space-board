@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 36 |
-| spacenews | 5 | 15 | 20 | 44 |
+| spacenews | 6 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -686,3 +686,4 @@
 - **Feb 27, 01:41 AM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Feb 27, 01:55 AM** - Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments (aidy)
 - **Feb 27, 02:09 AM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 27, 02:23 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
