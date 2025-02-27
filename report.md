@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 8 | 16 | 20 | 44 |
+| spacenews | 8 | 16 | 21 | 44 |
 | breaking_defense | 2 | 2 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -747,3 +747,4 @@
 - **Feb 27, 01:19 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 01:21 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 27, 01:35 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 27, 01:49 PM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
