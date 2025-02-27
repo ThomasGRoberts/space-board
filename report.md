@@ -6,7 +6,7 @@
 | spacenews | 8 | 13 | 20 | 43 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -749,3 +749,4 @@
 - **Feb 27, 01:35 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 27, 01:49 PM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
 - **Feb 27, 02:03 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Feb 27, 02:17 PM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
