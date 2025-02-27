@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 6,
-    "current_item_id": "079faa912183d8f814515d3d57b7537e",
+    "trigger_count": 0,
+    "current_item_id": "eba71980a359801bc3c1800cf41edbc4",
     "data": [
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
@@ -1863,6 +1863,18 @@
             "fetched_datetime": "2025-02-27T10:23:45.011628Z",
             "shown_at": [
                 "2025-02-27T10:23:46.095204Z"
+            ]
+        },
+        {
+            "id": "eba71980a359801bc3c1800cf41edbc4",
+            "source": "spacenews",
+            "text": "Virgin Galactic to start assembly of first new spaceplane in March",
+            "source_link": "https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T11:23:47.818319Z",
+            "shown_at": [
+                "2025-02-27T11:23:48.705918Z"
             ]
         }
     ]

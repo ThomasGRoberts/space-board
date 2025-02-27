@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 8 | 16 | 20 | 44 |
+| spacenews | 9 | 17 | 21 | 45 |
 | breaking_defense | 2 | 2 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -725,3 +725,4 @@
 - **Feb 27, 10:49 AM** - Russia to Launch Resupply Mission to the Space Station (supercluster)
 - **Feb 27, 10:51 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 27, 11:08 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Feb 27, 11:23 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
