@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 19 | 36 |
 | spacenews | 8 | 13 | 20 | 41 |
-| breaking_defense | 1 | 2 | 17 | 34 |
+| breaking_defense | 1 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -760,3 +760,4 @@
 - **Feb 27, 02:45 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 27, 02:59 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Feb 27, 03:14 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Feb 27, 03:27 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
