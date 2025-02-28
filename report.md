@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 21 | 41 |
 | supercluster | 1 | 1 | 67 | 67 |
-| nyt | 2 | 4 | 19 | 37 |
+| nyt | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 2 | 18 | 36 |
 
@@ -846,3 +846,4 @@
 - **Feb 28, 09:35 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 28, 09:49 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 10:03 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 28, 10:17 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
