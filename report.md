@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 21 | 41 |
 | supercluster | 1 | 1 | 67 | 67 |
 | nyt | 2 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 20 | 36 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 
 # Shown Order
@@ -844,3 +844,4 @@
 - **Feb 28, 09:31 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 09:33 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 09:35 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
+- **Feb 28, 09:49 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
