@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 25 | 25 |
-| nyt | 2 | 4 | 18 | 36 |
+| nyt | 2 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 
@@ -779,3 +779,4 @@
 - **Feb 28, 02:09 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 28, 02:23 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
 - **Feb 28, 02:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Feb 28, 02:51 AM** - Sync Your Calendar With the Solar System (nyt)
