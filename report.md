@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 19 | 40 |
+| spacenews | 6 | 13 | 20 | 41 |
 | supercluster | 1 | 1 | 39 | 39 |
 | nyt | 2 | 4 | 19 | 36 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -799,3 +799,4 @@
 - **Feb 28, 04:29 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 04:32 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 04:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
+- **Feb 28, 04:47 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
