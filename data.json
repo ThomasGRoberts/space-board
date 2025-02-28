@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "771880cce27d8fc40638d79c5dabd108",
+    "trigger_count": 0,
+    "current_item_id": "90bd9dc21f5863e85741d2afa03c3e08",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2199,6 +2199,18 @@
             "fetched_datetime": "2025-02-28T16:17:38.061870Z",
             "shown_at": [
                 "2025-02-28T16:17:38.521652Z"
+            ]
+        },
+        {
+            "id": "90bd9dc21f5863e85741d2afa03c3e08",
+            "source": "breaking_defense",
+            "text": "Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk",
+            "source_link": "https://breakingdefense.com/2025/02/warren-duckworth-probe-air-force-secretary-nominee-on-dealings-with-elon-musk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T16:31:49.534227Z",
+            "shown_at": [
+                "2025-02-28T16:31:49.982879Z"
             ]
         }
     ]

@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 95 | 95 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
-| breaking_defense | 0 | 1 | 18 | 35 |
+| breaking_defense | 1 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -896,3 +896,4 @@
 - **Feb 28, 03:47 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 28, 04:03 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 28, 04:17 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Feb 28, 04:31 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
