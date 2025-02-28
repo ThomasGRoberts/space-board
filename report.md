@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 43 |
-| supercluster | 1 | 1 | 88 | 88 |
-| nyt | 2 | 4 | 19 | 37 |
+| supercluster | 1 | 1 | 89 | 89 |
+| nyt | 1 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 1 | 18 | 35 |
 
@@ -884,3 +884,4 @@
 - **Feb 28, 02:19 PM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
 - **Feb 28, 02:33 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 28, 02:48 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Feb 28, 03:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
