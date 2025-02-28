@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 23 | 43 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
@@ -921,3 +921,4 @@
 - **Feb 28, 06:53 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Feb 28, 07:07 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 28, 07:23 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 07:26 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
