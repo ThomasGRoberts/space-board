@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 126 | 130 |
 | nyt | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
-| breaking_defense | 2 | 2 | 19 | 35 |
+| breaking_defense | 2 | 2 | 20 | 36 |
 
 # Shown Order
 
@@ -952,3 +952,4 @@
 - **Feb 28, 10:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:15 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 28, 10:30 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 28, 10:43 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
