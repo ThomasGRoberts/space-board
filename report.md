@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 25 | 44 |
-| supercluster | 0 | 1 | 128 | 137 |
+| supercluster | 0 | 1 | 127 | 137 |
 | nyt | 1 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 34 |
+| aidy | 1 | 2 | 20 | 35 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 
 # Shown Order
@@ -962,3 +962,4 @@
 - **Feb 28, 11:23 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 11:25 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 11:27 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
+- **Feb 28, 11:41 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
