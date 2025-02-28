@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 24 | 44 |
 | supercluster | 1 | 1 | 130 | 130 |
 | nyt | 1 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 34 |
+| aidy | 1 | 2 | 20 | 35 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 
 # Shown Order
@@ -950,3 +950,4 @@
 - **Feb 28, 10:09 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 10:15 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
