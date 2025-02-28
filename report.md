@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 43 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
@@ -910,3 +910,4 @@
 - **Feb 28, 05:41 PM** - FCC mulls C-band options, raising prospect of another satellite windfall (spacenews)
 - **Feb 28, 05:55 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 28, 06:09 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 06:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
