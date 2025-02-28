@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 43 |
 | supercluster | 1 | 1 | 95 | 95 |
-| nyt | 1 | 4 | 18 | 37 |
+| nyt | 1 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 1 | 18 | 35 |
 
@@ -894,3 +894,4 @@
 - **Feb 28, 03:17 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 28, 03:32 PM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
 - **Feb 28, 03:47 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
+- **Feb 28, 04:03 PM** - Sync Your Calendar With the Solar System (nyt)
