@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 43 |
+| spacenews | 11 | 18 | 24 | 44 |
 | supercluster | 1 | 1 | 116 | 116 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -930,3 +930,4 @@
 - **Feb 28, 07:41 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 28, 07:55 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
 - **Feb 28, 08:10 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Feb 28, 08:23 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
