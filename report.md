@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 21 | 41 |
 | supercluster | 1 | 1 | 60 | 60 |
-| nyt | 2 | 4 | 19 | 37 |
+| nyt | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 2 | 18 | 36 |
 
@@ -835,3 +835,4 @@
 - **Feb 28, 08:21 AM** - Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought (spacenews)
 - **Feb 28, 08:39 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Feb 28, 08:53 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 28, 09:07 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
