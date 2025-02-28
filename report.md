@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 20 | 40 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 | nyt | 3 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 2 | 16 | 35 |
@@ -759,3 +759,4 @@
 - **Feb 28, 12:15 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 28, 12:29 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 28, 12:43 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 12:45 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
