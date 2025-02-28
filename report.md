@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 20 | 40 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 | nyt | 2 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 2 | 17 | 35 |
@@ -782,3 +782,4 @@
 - **Feb 28, 02:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 28, 03:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 03:09 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 03:11 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
