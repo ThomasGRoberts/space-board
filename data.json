@@ -1,9 +1,196 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-27T00:02:04.006831+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
+    "trigger_count": 1,
     "current_item_id": "e5ddd421d5ae4eea4ad8fc447d415a57",
     "data": [
+        {
+            "id": "b6e012b644cc349089b3bc586c8712d4",
+            "source": "spacenews",
+            "text": "Space Development Agency pushes back on GAO’s criticism ",
+            "source_link": "https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T22:47:45.574509Z",
+            "shown_at": [
+                "2025-02-27T22:47:47.207906Z"
+            ]
+        },
+        {
+            "id": "7abd243b67c1bab08567db6a5b12620a",
+            "source": "supercluster",
+            "text": "China Will Launch the Kuaizhou 1A Rocket",
+            "source_link": "https://www.supercluster.com/launches/kuaizhou-1a5",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-01T10:00:00.000Z",
+            "time_remaining": "1d 10h 16m",
+            "fetched_datetime": "2025-02-27T22:25:37.496849Z",
+            "shown_at": [
+                "2025-02-27T22:25:37.822058Z",
+                "2025-02-27T22:27:44.891123Z",
+                "2025-02-27T22:29:02.277293Z",
+                "2025-02-27T22:32:00.205488Z",
+                "2025-02-27T23:31:49.331126Z",
+                "2025-02-27T23:33:24.465019Z",
+                "2025-02-27T23:35:26.677281Z",
+                "2025-02-27T23:37:26.990285Z",
+                "2025-02-27T23:39:23.718424Z",
+                "2025-02-27T23:41:41.333614Z",
+                "2025-02-27T23:43:33.530007Z"
+            ]
+        },
+        {
+            "id": "2342dba4bb1cd6bb4dd4369a8b07905f",
+            "source": "spacenews",
+            "text": "SES shareholder pushes to curb state control to tackle market challenges",
+            "source_link": "https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T21:23:48.155415Z",
+            "shown_at": [
+                "2025-02-27T21:23:49.281762Z"
+            ]
+        },
+        {
+            "id": "8d6693c59bd7b50f480e2cac23b5d420",
+            "source": "nyt",
+            "text": "Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew",
+            "source_link": "https://www.nytimes.com/2025/02/27/us/blue-origin-mission-crew-katy-perry-gayle-king.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T20:39:40.844434Z",
+            "shown_at": [
+                "2025-02-27T20:39:41.666924Z"
+            ]
+        },
+        {
+            "id": "ece7e4f4ea9d624c7dbed275c5c5d8ce",
+            "source": "spacenews",
+            "text": "Swissto12 strengthens push beyond subsystems with SES antenna deal",
+            "source_link": "https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T16:37:44.674802Z",
+            "shown_at": [
+                "2025-02-27T16:37:45.785691Z"
+            ]
+        },
+        {
+            "id": "32b54768e6cd0f8ef8d7bce3b8e93087",
+            "source": "nyt",
+            "text": "NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts",
+            "source_link": "https://www.nytimes.com/2025/02/27/science/nasa-lunar-trailblazer-water-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T14:59:42.101257Z",
+            "shown_at": [
+                "2025-02-27T14:59:42.719452Z"
+            ]
+        },
+        {
+            "id": "0a915faa6ea987abb63064b269554a69",
+            "source": "spacenews",
+            "text": "The future of advanced air mobility under a new Congress and Trump administration",
+            "source_link": "https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T14:31:31.123327Z",
+            "shown_at": [
+                "2025-02-27T14:31:31.640461Z",
+                "2025-02-27T18:59:32.669788Z"
+            ]
+        },
+        {
+            "id": "eba71980a359801bc3c1800cf41edbc4",
+            "source": "spacenews",
+            "text": "Virgin Galactic to start assembly of first new spaceplane in March",
+            "source_link": "https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T11:23:47.818319Z",
+            "shown_at": [
+                "2025-02-27T11:23:48.705918Z"
+            ]
+        },
+        {
+            "id": "51098996eb9b9767be99d723ddb2b980",
+            "source": "spacenews",
+            "text": "China adds to SuperView remote sensing constellation with Long March 2C launch",
+            "source_link": "https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T10:23:45.011628Z",
+            "shown_at": [
+                "2025-02-27T10:23:46.095204Z"
+            ]
+        },
+        {
+            "id": "079faa912183d8f814515d3d57b7537e",
+            "source": "aidy",
+            "text": "AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T08:39:33.122302Z",
+            "shown_at": [
+                "2025-02-27T08:39:33.528227Z",
+                "2025-02-27T11:08:56.918198Z",
+                "2025-02-27T15:14:06.868525Z",
+                "2025-02-27T22:33:32.881482Z",
+                "2025-02-27T23:45:43.946760Z"
+            ]
+        },
+        {
+            "id": "b5ce34657f38bb20ce2846cabdbdbf48",
+            "source": "spacenews",
+            "text": "House hearing debates ways to improve Artemis",
+            "source_link": "https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T04:43:30.587266Z",
+            "shown_at": [
+                "2025-02-27T04:43:31.008904Z"
+            ]
+        },
+        {
+            "id": "95a382fc98014def1726c335f0ec8d08",
+            "source": "spacenews",
+            "text": "Falcon 9 launches second Intuitive Machines lunar lander",
+            "source_link": "https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T02:23:31.901309Z",
+            "shown_at": [
+                "2025-02-27T02:23:32.416648Z"
+            ]
+        },
+        {
+            "id": "8c2ddc1f4963fb37fa39b4c68727c19a",
+            "source": "nyt",
+            "text": "Intuitive Machines’ Athena Lander Launches on Journey to the Moon",
+            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T01:41:56.007316Z",
+            "shown_at": [
+                "2025-02-27T01:41:56.518142Z",
+                "2025-02-27T16:09:53.066085Z",
+                "2025-02-27T18:31:41.654550Z"
+            ]
+        },
+        {
+            "id": "9013e83bca0066b0eff8831f37463d35",
+            "source": "spacenews",
+            "text": "Space industry hunts for ways to adapt to Trump’s trade policies",
+            "source_link": "https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-27T01:27:43.837230Z",
+            "shown_at": [
+                "2025-02-27T01:27:44.792580Z"
+            ]
+        },
         {
             "id": "dde66d5f0ee2e863bf5def6707f5c5af",
             "source": "nyt",
@@ -1784,193 +1971,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "9013e83bca0066b0eff8831f37463d35",
-            "source": "spacenews",
-            "text": "Space industry hunts for ways to adapt to Trump’s trade policies",
-            "source_link": "https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T01:27:43.837230Z",
-            "shown_at": [
-                "2025-02-27T01:27:44.792580Z"
-            ]
-        },
-        {
-            "id": "8c2ddc1f4963fb37fa39b4c68727c19a",
-            "source": "nyt",
-            "text": "Intuitive Machines’ Athena Lander Launches on Journey to the Moon",
-            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T01:41:56.007316Z",
-            "shown_at": [
-                "2025-02-27T01:41:56.518142Z",
-                "2025-02-27T16:09:53.066085Z",
-                "2025-02-27T18:31:41.654550Z"
-            ]
-        },
-        {
-            "id": "95a382fc98014def1726c335f0ec8d08",
-            "source": "spacenews",
-            "text": "Falcon 9 launches second Intuitive Machines lunar lander",
-            "source_link": "https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T02:23:31.901309Z",
-            "shown_at": [
-                "2025-02-27T02:23:32.416648Z"
-            ]
-        },
-        {
-            "id": "b5ce34657f38bb20ce2846cabdbdbf48",
-            "source": "spacenews",
-            "text": "House hearing debates ways to improve Artemis",
-            "source_link": "https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T04:43:30.587266Z",
-            "shown_at": [
-                "2025-02-27T04:43:31.008904Z"
-            ]
-        },
-        {
-            "id": "079faa912183d8f814515d3d57b7537e",
-            "source": "aidy",
-            "text": "AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T08:39:33.122302Z",
-            "shown_at": [
-                "2025-02-27T08:39:33.528227Z",
-                "2025-02-27T11:08:56.918198Z",
-                "2025-02-27T15:14:06.868525Z",
-                "2025-02-27T22:33:32.881482Z",
-                "2025-02-27T23:45:43.946760Z"
-            ]
-        },
-        {
-            "id": "51098996eb9b9767be99d723ddb2b980",
-            "source": "spacenews",
-            "text": "China adds to SuperView remote sensing constellation with Long March 2C launch",
-            "source_link": "https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T10:23:45.011628Z",
-            "shown_at": [
-                "2025-02-27T10:23:46.095204Z"
-            ]
-        },
-        {
-            "id": "eba71980a359801bc3c1800cf41edbc4",
-            "source": "spacenews",
-            "text": "Virgin Galactic to start assembly of first new spaceplane in March",
-            "source_link": "https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T11:23:47.818319Z",
-            "shown_at": [
-                "2025-02-27T11:23:48.705918Z"
-            ]
-        },
-        {
-            "id": "0a915faa6ea987abb63064b269554a69",
-            "source": "spacenews",
-            "text": "The future of advanced air mobility under a new Congress and Trump administration",
-            "source_link": "https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T14:31:31.123327Z",
-            "shown_at": [
-                "2025-02-27T14:31:31.640461Z",
-                "2025-02-27T18:59:32.669788Z"
-            ]
-        },
-        {
-            "id": "32b54768e6cd0f8ef8d7bce3b8e93087",
-            "source": "nyt",
-            "text": "NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts",
-            "source_link": "https://www.nytimes.com/2025/02/27/science/nasa-lunar-trailblazer-water-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T14:59:42.101257Z",
-            "shown_at": [
-                "2025-02-27T14:59:42.719452Z"
-            ]
-        },
-        {
-            "id": "ece7e4f4ea9d624c7dbed275c5c5d8ce",
-            "source": "spacenews",
-            "text": "Swissto12 strengthens push beyond subsystems with SES antenna deal",
-            "source_link": "https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T16:37:44.674802Z",
-            "shown_at": [
-                "2025-02-27T16:37:45.785691Z"
-            ]
-        },
-        {
-            "id": "8d6693c59bd7b50f480e2cac23b5d420",
-            "source": "nyt",
-            "text": "Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew",
-            "source_link": "https://www.nytimes.com/2025/02/27/us/blue-origin-mission-crew-katy-perry-gayle-king.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T20:39:40.844434Z",
-            "shown_at": [
-                "2025-02-27T20:39:41.666924Z"
-            ]
-        },
-        {
-            "id": "2342dba4bb1cd6bb4dd4369a8b07905f",
-            "source": "spacenews",
-            "text": "SES shareholder pushes to curb state control to tackle market challenges",
-            "source_link": "https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T21:23:48.155415Z",
-            "shown_at": [
-                "2025-02-27T21:23:49.281762Z"
-            ]
-        },
-        {
-            "id": "7abd243b67c1bab08567db6a5b12620a",
-            "source": "supercluster",
-            "text": "China Will Launch the Kuaizhou 1A Rocket",
-            "source_link": "https://www.supercluster.com/launches/kuaizhou-1a5",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-01T10:00:00.000Z",
-            "time_remaining": "1d 10h 16m",
-            "fetched_datetime": "2025-02-27T22:25:37.496849Z",
-            "shown_at": [
-                "2025-02-27T22:25:37.822058Z",
-                "2025-02-27T22:27:44.891123Z",
-                "2025-02-27T22:29:02.277293Z",
-                "2025-02-27T22:32:00.205488Z",
-                "2025-02-27T23:31:49.331126Z",
-                "2025-02-27T23:33:24.465019Z",
-                "2025-02-27T23:35:26.677281Z",
-                "2025-02-27T23:37:26.990285Z",
-                "2025-02-27T23:39:23.718424Z",
-                "2025-02-27T23:41:41.333614Z",
-                "2025-02-27T23:43:33.530007Z"
-            ]
-        },
-        {
-            "id": "b6e012b644cc349089b3bc586c8712d4",
-            "source": "spacenews",
-            "text": "Space Development Agency pushes back on GAO’s criticism ",
-            "source_link": "https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T22:47:45.574509Z",
-            "shown_at": [
-                "2025-02-27T22:47:47.207906Z"
             ]
         }
     ]
