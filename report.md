@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 95 | 95 |
 | nyt | 1 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
-| breaking_defense | 0 | 1 | 17 | 34 |
+| breaking_defense | 0 | 1 | 18 | 35 |
 
 # Shown Order
 
@@ -893,3 +893,4 @@
 - **Feb 28, 03:15 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 03:17 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 28, 03:32 PM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
+- **Feb 28, 03:47 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
