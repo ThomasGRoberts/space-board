@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 24 | 44 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 | nyt | 1 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 19 | 34 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 
 # Shown Order
@@ -945,3 +945,4 @@
 - **Feb 28, 09:47 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Feb 28, 10:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:03 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 10:05 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
