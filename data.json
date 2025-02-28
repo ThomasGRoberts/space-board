@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7abd243b67c1bab08567db6a5b12620a",
+    "trigger_count": 0,
+    "current_item_id": "68de52e7c6bb29226cf34faef65f3de4",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2330,6 +2330,18 @@
             "fetched_datetime": "2025-02-28T21:47:33.429680Z",
             "shown_at": [
                 "2025-02-28T21:47:33.930425Z"
+            ]
+        },
+        {
+            "id": "68de52e7c6bb29226cf34faef65f3de4",
+            "source": "spacenews",
+            "text": "Two senators question Air Force nominee’s SpaceX connections",
+            "source_link": "https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T23:27:41.662202Z",
+            "shown_at": [
+                "2025-02-28T23:27:42.605937Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 24 | 44 |
+| spacenews | 11 | 20 | 25 | 45 |
 | supercluster | 0 | 1 | 133 | 137 |
 | nyt | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 34 |
@@ -961,3 +961,4 @@
 - **Feb 28, 11:21 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 11:23 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 11:25 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 11:27 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
