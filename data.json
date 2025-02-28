@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3153765a316e7b45eacf5cc234c561ec",
+    "trigger_count": 0,
+    "current_item_id": "b36b749357651b593dcbec7dd00de61f",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2162,6 +2162,18 @@
             "fetched_datetime": "2025-02-28T14:05:26.464550Z",
             "shown_at": [
                 "2025-02-28T14:05:27.041710Z"
+            ]
+        },
+        {
+            "id": "b36b749357651b593dcbec7dd00de61f",
+            "source": "spacenews",
+            "text": "China to train Pakistani astronaut for Tiangong space station mission",
+            "source_link": "https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T14:19:44.380203Z",
+            "shown_at": [
+                "2025-02-28T14:19:44.955994Z"
             ]
         }
     ]
