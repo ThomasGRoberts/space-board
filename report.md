@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 102 | 102 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
-| breaking_defense | 1 | 1 | 18 | 34 |
+| breaking_defense | 1 | 1 | 19 | 35 |
 
 # Shown Order
 
@@ -908,3 +908,4 @@
 - **Feb 28, 05:13 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
 - **Feb 28, 05:27 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 28, 05:41 PM** - FCC mulls C-band options, raising prospect of another satellite windfall (spacenews)
+- **Feb 28, 05:55 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
