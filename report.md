@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 20 | 40 |
+| spacenews | 9 | 13 | 21 | 41 |
 | supercluster | 1 | 1 | 18 | 18 |
 | nyt | 3 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -766,3 +766,4 @@
 - **Feb 28, 12:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:59 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
+- **Feb 28, 01:13 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
