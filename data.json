@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "079faa912183d8f814515d3d57b7537e",
+    "trigger_count": 0,
+    "current_item_id": "3153765a316e7b45eacf5cc234c561ec",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2150,6 +2150,18 @@
             "fetched_datetime": "2025-02-28T13:07:33.362634Z",
             "shown_at": [
                 "2025-02-28T13:21:43.616669Z"
+            ]
+        },
+        {
+            "id": "3153765a316e7b45eacf5cc234c561ec",
+            "source": "spacenews",
+            "text": "How independent space companies can fight back against misinformation from Elon Musk and Donald Trump",
+            "source_link": "https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T14:05:26.464550Z",
+            "shown_at": [
+                "2025-02-28T14:05:27.041710Z"
             ]
         }
     ]
