@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 22 | 42 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 2 | 19 | 36 |
@@ -897,3 +897,4 @@
 - **Feb 28, 04:03 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 28, 04:17 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Feb 28, 04:31 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
+- **Feb 28, 04:45 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
