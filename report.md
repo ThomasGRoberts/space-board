@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 22 | 42 |
 | supercluster | 1 | 1 | 81 | 81 |
 | nyt | 2 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 
 # Shown Order
@@ -867,3 +867,4 @@
 - **Feb 28, 12:05 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:07 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:09 PM** - Rocket Lab reaffirms 2025 first launch of Neutron (spacenews)
+- **Feb 28, 12:23 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
