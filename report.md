@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 123 | 123 |
 | nyt | 1 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
-| breaking_defense | 1 | 1 | 18 | 35 |
+| breaking_defense | 2 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -941,3 +941,4 @@
 - **Feb 28, 09:03 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 09:05 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 28, 09:19 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
+- **Feb 28, 09:33 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)

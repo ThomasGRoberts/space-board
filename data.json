@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c2ddc1f4963fb37fa39b4c68727c19a",
+    "trigger_count": 0,
+    "current_item_id": "d9475214f0b0b778ca513ad14c969ca4",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2288,6 +2288,18 @@
             "fetched_datetime": "2025-02-28T20:23:32.130293Z",
             "shown_at": [
                 "2025-02-28T20:23:32.750336Z"
+            ]
+        },
+        {
+            "id": "d9475214f0b0b778ca513ad14c969ca4",
+            "source": "breaking_defense",
+            "text": "Firings sap NOAA office responsible for licensing remote sensing satellite firms",
+            "source_link": "https://breakingdefense.com/2025/02/firings-sap-noaa-office-responsible-for-licensing-remote-sensing-satellite-firms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T21:33:36.213806Z",
+            "shown_at": [
+                "2025-02-28T21:33:36.721039Z"
             ]
         }
     ]
