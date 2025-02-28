@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 25 | 25 |
 | nyt | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
-| breaking_defense | 0 | 2 | 16 | 34 |
+| breaking_defense | 0 | 2 | 17 | 35 |
 
 # Shown Order
 
@@ -778,3 +778,4 @@
 - **Feb 28, 02:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 02:09 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 28, 02:23 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
+- **Feb 28, 02:37 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
