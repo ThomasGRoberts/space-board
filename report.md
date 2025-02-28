@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 11 | 11 |
-| nyt | 3 | 4 | 17 | 36 |
+| nyt | 3 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
 | breaking_defense | 0 | 2 | 16 | 35 |
 
@@ -757,3 +757,4 @@
 - **Feb 27, 11:45 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 11:59 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Feb 28, 12:15 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 28, 12:29 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
