@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 41 |
 | supercluster | 1 | 1 | 39 | 39 |
-| nyt | 2 | 4 | 18 | 36 |
+| nyt | 2 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 
@@ -801,3 +801,4 @@
 - **Feb 28, 04:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 04:47 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
 - **Feb 28, 05:02 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Feb 28, 05:17 AM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
