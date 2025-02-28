@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 42 |
+| spacenews | 8 | 16 | 23 | 43 |
 | supercluster | 1 | 1 | 102 | 102 |
 | nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -905,3 +905,4 @@
 - **Feb 28, 04:55 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 04:57 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 04:59 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Feb 28, 05:13 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
