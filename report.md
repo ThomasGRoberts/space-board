@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 24 | 43 |
 | supercluster | 1 | 1 | 109 | 109 |
-| nyt | 2 | 5 | 18 | 37 |
+| nyt | 2 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 
@@ -918,3 +918,4 @@
 - **Feb 28, 06:21 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 06:23 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 06:39 PM** - Office of Space Commerce hit by layoffs (spacenews)
+- **Feb 28, 06:53 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
