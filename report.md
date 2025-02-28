@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 42 |
+| spacenews | 10 | 17 | 24 | 43 |
 | supercluster | 1 | 1 | 116 | 116 |
-| nyt | 2 | 5 | 18 | 38 |
+| nyt | 2 | 5 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 
@@ -928,3 +928,4 @@
 - **Feb 28, 07:37 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 07:39 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 07:41 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Feb 28, 07:55 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
