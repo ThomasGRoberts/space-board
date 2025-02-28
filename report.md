@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 116 | 116 |
 | nyt | 2 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
-| breaking_defense | 1 | 1 | 17 | 35 |
+| breaking_defense | 1 | 1 | 18 | 35 |
 
 # Shown Order
 
@@ -931,3 +931,4 @@
 - **Feb 28, 07:55 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
 - **Feb 28, 08:10 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 28, 08:23 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
+- **Feb 28, 08:37 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
