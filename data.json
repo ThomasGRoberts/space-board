@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "01470a0fe24f85bbbbb8422a11b1d7f5",
+    "trigger_count": 0,
+    "current_item_id": "b2c62724dcd23106c84841859659a3da",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2073,6 +2073,18 @@
             "fetched_datetime": "2025-02-28T08:39:54.894067Z",
             "shown_at": [
                 "2025-02-28T08:39:56.056321Z"
+            ]
+        },
+        {
+            "id": "b2c62724dcd23106c84841859659a3da",
+            "source": "spacenews",
+            "text": "South Korea approves strategic plans for space",
+            "source_link": "https://spacenews.com/south-korea-approves-strategic-plans-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T10:31:58.308825Z",
+            "shown_at": [
+                "2025-02-28T10:31:58.879642Z"
             ]
         }
     ]
