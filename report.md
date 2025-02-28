@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 44 |
-| supercluster | 1 | 1 | 116 | 116 |
+| supercluster | 1 | 1 | 117 | 117 |
 | nyt | 1 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
@@ -932,3 +932,4 @@
 - **Feb 28, 08:10 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 28, 08:23 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
 - **Feb 28, 08:37 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
+- **Feb 28, 08:51 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
