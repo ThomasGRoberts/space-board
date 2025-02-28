@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 43 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 | nyt | 2 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 18 | 35 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 
 # Shown Order
@@ -872,3 +872,4 @@
 - **Feb 28, 12:53 PM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 28, 01:07 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
 - **Feb 28, 01:21 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
+- **Feb 28, 01:35 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
