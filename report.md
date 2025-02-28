@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 21 | 42 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 | nyt | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 2 | 18 | 35 |
@@ -848,3 +848,4 @@
 - **Feb 28, 10:03 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 28, 10:17 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 28, 10:31 AM** - South Korea approves strategic plans for space (spacenews)
+- **Feb 28, 10:45 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
