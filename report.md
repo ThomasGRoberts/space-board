@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 53 | 53 |
 | nyt | 2 | 4 | 19 | 37 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 
 # Shown Order
@@ -820,3 +820,4 @@
 - **Feb 28, 06:51 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 06:53 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 06:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 06:57 AM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
