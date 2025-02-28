@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 18 | 18 |
 | nyt | 3 | 4 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 
 # Shown Order
@@ -765,3 +765,4 @@
 - **Feb 28, 12:53 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 12:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 12:59 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
