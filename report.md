@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 24 | 44 |
-| supercluster | 0 | 1 | 128 | 132 |
+| supercluster | 0 | 1 | 129 | 133 |
 | nyt | 1 | 4 | 20 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 19 | 34 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 
 # Shown Order
@@ -956,3 +956,4 @@
 - **Feb 28, 10:57 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Feb 28, 11:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 11:15 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 11:17 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
