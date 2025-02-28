@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 88 | 88 |
 | nyt | 2 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
-| breaking_defense | 0 | 1 | 17 | 34 |
+| breaking_defense | 0 | 1 | 18 | 35 |
 
 # Shown Order
 
@@ -882,3 +882,4 @@
 - **Feb 28, 01:49 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 28, 02:05 PM** - How independent space companies can fight back against misinformation from Elon Musk and Donald Trump (spacenews)
 - **Feb 28, 02:19 PM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
+- **Feb 28, 02:33 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
