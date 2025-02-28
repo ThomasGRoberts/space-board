@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 18 | 18 |
-| nyt | 3 | 4 | 18 | 36 |
+| nyt | 3 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 
@@ -768,3 +768,4 @@
 - **Feb 28, 12:59 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 28, 01:13 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 28, 01:27 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 28, 01:41 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
