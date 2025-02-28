@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c0b0d36be16a6906f387131807c3db1",
+    "trigger_count": 0,
+    "current_item_id": "2b200c9f7a3ea69a74b1dd477fb200f3",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2242,6 +2242,18 @@
             "fetched_datetime": "2025-02-28T17:41:37.874273Z",
             "shown_at": [
                 "2025-02-28T17:41:38.410012Z"
+            ]
+        },
+        {
+            "id": "2b200c9f7a3ea69a74b1dd477fb200f3",
+            "source": "spacenews",
+            "text": "Office of Space Commerce hit by layoffs",
+            "source_link": "https://spacenews.com/office-of-space-commerce-hit-by-layoffs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T18:39:40.886106Z",
+            "shown_at": [
+                "2025-02-28T18:39:41.988238Z"
             ]
         }
     ]
