@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 19 | 40 |
+| spacenews | 7 | 13 | 20 | 41 |
 | supercluster | 1 | 1 | 32 | 32 |
 | nyt | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -788,3 +788,4 @@
 - **Feb 28, 03:17 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 03:19 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 03:21 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Feb 28, 03:35 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
