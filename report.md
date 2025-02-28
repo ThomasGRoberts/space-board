@@ -5,8 +5,8 @@
 | spacenews | 8 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 25 | 25 |
 | nyt | 2 | 4 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
-| breaking_defense | 0 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
+| breaking_defense | 0 | 2 | 16 | 34 |
 
 # Shown Order
 
@@ -776,3 +776,4 @@
 - **Feb 28, 02:03 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 02:05 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 02:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 02:09 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
