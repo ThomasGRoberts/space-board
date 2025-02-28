@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 20 | 40 |
 | supercluster | 1 | 1 | 32 | 32 |
-| nyt | 2 | 4 | 18 | 36 |
+| nyt | 2 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 
@@ -790,3 +790,4 @@
 - **Feb 28, 03:21 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 28, 03:35 AM** - NASA selects SpaceX to launch NEO Surveyor (spacenews)
 - **Feb 28, 03:49 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Feb 28, 04:05 AM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
