@@ -5,8 +5,8 @@
 | spacenews | 6 | 13 | 21 | 41 |
 | supercluster | 1 | 1 | 60 | 60 |
 | nyt | 2 | 4 | 19 | 37 |
-| aidy | 1 | 3 | 19 | 36 |
-| breaking_defense | 0 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 35 |
+| breaking_defense | 0 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -834,3 +834,4 @@
 - **Feb 28, 08:07 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 28, 08:21 AM** - Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought (spacenews)
 - **Feb 28, 08:39 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Feb 28, 08:53 AM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
