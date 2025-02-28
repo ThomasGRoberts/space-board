@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 20 | 40 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 | nyt | 2 | 4 | 18 | 37 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 2 | 17 | 35 |
 
 # Shown Order
@@ -769,3 +769,4 @@
 - **Feb 28, 01:13 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 28, 01:27 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 28, 01:41 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
+- **Feb 28, 01:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
