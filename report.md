@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 23 | 42 |
 | supercluster | 1 | 1 | 95 | 95 |
-| nyt | 1 | 4 | 18 | 38 |
+| nyt | 2 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 1 | 18 | 35 |
 
@@ -895,3 +895,4 @@
 - **Feb 28, 03:32 PM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
 - **Feb 28, 03:47 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
 - **Feb 28, 04:03 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Feb 28, 04:17 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)

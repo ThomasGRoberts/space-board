@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "771880cce27d8fc40638d79c5dabd108",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2187,6 +2187,18 @@
             "fetched_datetime": "2025-02-28T14:19:44.380203Z",
             "shown_at": [
                 "2025-02-28T14:19:44.955994Z"
+            ]
+        },
+        {
+            "id": "771880cce27d8fc40638d79c5dabd108",
+            "source": "nyt",
+            "text": "How to See the Planet Parade as Seven Planets Align in the Night Sky",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T16:17:38.061870Z",
+            "shown_at": [
+                "2025-02-28T16:17:38.521652Z"
             ]
         }
     ]
