@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 39 | 39 |
 | nyt | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 35 |
-| breaking_defense | 0 | 2 | 17 | 34 |
+| breaking_defense | 0 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -800,3 +800,4 @@
 - **Feb 28, 04:32 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 04:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 04:47 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
+- **Feb 28, 05:02 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
