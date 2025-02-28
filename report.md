@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 41 |
-| supercluster | 1 | 1 | 62 | 62 |
-| nyt | 2 | 4 | 20 | 38 |
+| supercluster | 1 | 1 | 63 | 63 |
+| nyt | 2 | 4 | 20 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 2 | 18 | 35 |
 
@@ -838,3 +838,4 @@
 - **Feb 28, 09:07 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 28, 09:21 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 09:23 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Feb 28, 09:25 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
