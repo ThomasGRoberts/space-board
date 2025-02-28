@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "223e5f2257dfa09ce3edde1f19a3d8b3",
+    "trigger_count": 0,
+    "current_item_id": "9e35fb575051bbfaf56a8cd798c6d2a9",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2048,6 +2048,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "9e35fb575051bbfaf56a8cd798c6d2a9",
+            "source": "aidy",
+            "text": "U.S. Space Force to Expand to 25,000 Personnel by 2028 Under \"Golden Dome\" Initiative",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T08:39:54.894067Z",
+            "shown_at": [
+                "2025-02-28T08:39:56.056321Z"
             ]
         }
     ]
