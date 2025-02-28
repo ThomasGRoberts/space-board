@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f60768a5b57e804b85d87fa3964b64b",
+    "trigger_count": 0,
+    "current_item_id": "7437e1126e551d9ab667da1631205036",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2221,6 +2221,18 @@
             "fetched_datetime": "2025-02-28T16:31:49.534227Z",
             "shown_at": [
                 "2025-02-28T16:31:49.982879Z"
+            ]
+        },
+        {
+            "id": "7437e1126e551d9ab667da1631205036",
+            "source": "spacenews",
+            "text": "FCC mulls C-band options, raising prospect of another satellite windfall",
+            "source_link": "https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T17:41:37.874273Z",
+            "shown_at": [
+                "2025-02-28T17:41:38.410012Z"
             ]
         }
     ]
