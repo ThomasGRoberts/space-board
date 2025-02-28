@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 74 | 74 |
 | nyt | 2 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 36 |
-| breaking_defense | 0 | 2 | 18 | 35 |
+| breaking_defense | 0 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -856,3 +856,4 @@
 - **Feb 28, 10:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 10:59 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Feb 28, 11:13 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
