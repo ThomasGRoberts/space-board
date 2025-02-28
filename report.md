@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 24 | 44 |
-| supercluster | 0 | 1 | 126 | 130 |
+| supercluster | 0 | 1 | 127 | 131 |
 | nyt | 1 | 4 | 20 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
 | breaking_defense | 2 | 2 | 19 | 35 |
@@ -954,3 +954,4 @@
 - **Feb 28, 10:30 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 28, 10:43 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Feb 28, 10:57 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
+- **Feb 28, 11:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
