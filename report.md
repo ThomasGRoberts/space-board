@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 21 | 41 |
+| spacenews | 8 | 16 | 22 | 42 |
 | supercluster | 1 | 1 | 81 | 81 |
 | nyt | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -870,3 +870,4 @@
 - **Feb 28, 12:23 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 12:39 PM** - As DoD shifts $50B in spending, can an old playbook protect legacy programs? (breaking_defense)
 - **Feb 28, 12:53 PM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Feb 28, 01:07 PM** - Space endurance: A call for more dialogue, not less  (spacenews)

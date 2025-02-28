@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c557fae18a43a28f997d7e408505ac16",
+    "trigger_count": 0,
+    "current_item_id": "d6074b2e56a4cf3c094a4f38a07450ad",
     "data": [
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
@@ -2119,6 +2119,27 @@
             "shown_at": [
                 "2025-02-28T12:09:33.496048Z"
             ]
+        },
+        {
+            "id": "d6074b2e56a4cf3c094a4f38a07450ad",
+            "source": "spacenews",
+            "text": "Space endurance: A call for more dialogue, not less ",
+            "source_link": "https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T13:07:33.362571Z",
+            "shown_at": [
+                "2025-02-28T13:07:33.860489Z"
+            ]
+        },
+        {
+            "id": "65392c774644eb41db120718c25a24e0",
+            "source": "spacenews",
+            "text": "Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch",
+            "source_link": "https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T13:07:33.362634Z"
         }
     ]
 }
