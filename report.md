@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 20 | 40 |
+| spacenews | 7 | 13 | 20 | 41 |
 | supercluster | 1 | 1 | 25 | 25 |
 | nyt | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -777,3 +777,4 @@
 - **Feb 28, 02:05 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 02:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Feb 28, 02:09 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Feb 28, 02:23 AM** - Kapta Space exits stealth mode with bold plans for space-based target tracking (spacenews)
