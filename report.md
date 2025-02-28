@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 23 | 43 |
+| spacenews | 11 | 19 | 24 | 44 |
 | supercluster | 1 | 1 | 123 | 123 |
 | nyt | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -942,3 +942,4 @@
 - **Feb 28, 09:05 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 28, 09:19 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Feb 28, 09:33 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Feb 28, 09:47 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
