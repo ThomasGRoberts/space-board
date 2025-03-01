@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 24 | 44 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -866,3 +866,4 @@
 - **Mar 01, 11:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:09 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
 - **Mar 01, 11:23 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Mar 01, 11:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
