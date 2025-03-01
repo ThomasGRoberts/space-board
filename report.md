@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 22 | 45 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
@@ -924,3 +924,4 @@
 - **Mar 01, 05:34 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 01, 05:47 PM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 01, 06:02 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 01, 06:15 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
