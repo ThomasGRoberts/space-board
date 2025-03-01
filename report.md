@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 2 | 2 | 52 | 52 |
+| supercluster | 2 | 2 | 53 | 53 |
 
 # Shown Order
 
@@ -947,3 +947,4 @@
 - **Mar 01, 08:07 PM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
 - **Mar 01, 08:21 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 01, 08:37 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 01, 08:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
