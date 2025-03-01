@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 23 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
@@ -879,3 +879,4 @@
 - **Mar 01, 12:35 PM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 01, 12:49 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 01, 01:05 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 01, 01:19 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
