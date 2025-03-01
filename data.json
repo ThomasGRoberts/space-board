@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-01T00:02:00.188715+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ce608b560e28fbc2557baa723a814db",
+    "trigger_count": 0,
+    "current_item_id": "261bdcb5094326904c4836fce579545f",
     "data": [
         {
             "id": "68de52e7c6bb29226cf34faef65f3de4",
@@ -2422,6 +2422,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "261bdcb5094326904c4836fce579545f",
+            "source": "aidy",
+            "text": "U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-01T08:46:02.957122Z",
+            "shown_at": [
+                "2025-03-01T08:46:03.439127Z"
             ]
         }
     ]

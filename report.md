@@ -5,7 +5,7 @@
 | spacenews | 11 | 17 | 24 | 45 |
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 3 | 20 | 39 |
-| aidy | 0 | 1 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 126 | 186 |
 
 # Shown Order
@@ -1042,3 +1042,4 @@
 - **Mar 01, 08:02 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 08:16 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Mar 01, 08:31 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 01, 08:46 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
