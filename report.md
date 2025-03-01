@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 24 | 45 |
 | breaking_defense | 2 | 2 | 18 | 37 |
-| nyt | 1 | 3 | 19 | 38 |
+| nyt | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -865,3 +865,4 @@
 - **Mar 01, 11:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:09 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
+- **Mar 01, 11:23 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
