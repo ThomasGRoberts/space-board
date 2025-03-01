@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-01T00:02:00.188715+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e986b95f3cd1bdf69cc53af10940da0b",
+    "trigger_count": 0,
+    "current_item_id": "91ebcf59e8bb8bdb7f4444d64708571b",
     "data": [
         {
             "id": "68de52e7c6bb29226cf34faef65f3de4",
@@ -2267,6 +2267,18 @@
                 "2025-03-01T12:15:37.804438Z",
                 "2025-03-01T12:17:49.680796Z",
                 "2025-03-01T12:19:45.859357Z"
+            ]
+        },
+        {
+            "id": "91ebcf59e8bb8bdb7f4444d64708571b",
+            "source": "spacenews",
+            "text": "Varda Space capsule lands in Australia with critical data for hypersonic vehicles",
+            "source_link": "https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-01T12:35:44.082135Z",
+            "shown_at": [
+                "2025-03-01T12:35:44.685393Z"
             ]
         }
     ]
