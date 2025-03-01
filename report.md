@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 23 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 3 | 19 | 39 |
+| nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -868,3 +868,4 @@
 - **Mar 01, 11:23 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Mar 01, 11:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 01, 11:51 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Mar 01, 12:08 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
