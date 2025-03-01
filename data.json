@@ -1,9 +1,193 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-02-28T00:02:11.538981+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-03-01T00:02:00.188715+00:00",
+    "trigger_count": 3,
     "current_item_id": "dde66d5f0ee2e863bf5def6707f5c5af",
     "data": [
+        {
+            "id": "68de52e7c6bb29226cf34faef65f3de4",
+            "source": "spacenews",
+            "text": "Two senators question Air Force nominee’s SpaceX connections",
+            "source_link": "https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T23:27:41.662202Z",
+            "shown_at": [
+                "2025-02-28T23:27:42.605937Z"
+            ]
+        },
+        {
+            "id": "d50c0bb6e6817d621ec9cbf10ba2b68b",
+            "source": "spacenews",
+            "text": "Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative",
+            "source_link": "https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T21:47:33.429680Z",
+            "shown_at": [
+                "2025-02-28T21:47:33.930425Z"
+            ]
+        },
+        {
+            "id": "d9475214f0b0b778ca513ad14c969ca4",
+            "source": "breaking_defense",
+            "text": "Firings sap NOAA office responsible for licensing remote sensing satellite firms",
+            "source_link": "https://breakingdefense.com/2025/02/firings-sap-noaa-office-responsible-for-licensing-remote-sensing-satellite-firms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T21:33:36.213806Z",
+            "shown_at": [
+                "2025-02-28T21:33:36.721039Z"
+            ]
+        },
+        {
+            "id": "e986b95f3cd1bdf69cc53af10940da0b",
+            "source": "spacenews",
+            "text": "Skylo raises $30 million to fuel direct-to-smartphone expansion",
+            "source_link": "https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T20:23:32.130293Z",
+            "shown_at": [
+                "2025-02-28T20:23:32.750336Z"
+            ]
+        },
+        {
+            "id": "2b200c9f7a3ea69a74b1dd477fb200f3",
+            "source": "spacenews",
+            "text": "Office of Space Commerce hit by layoffs",
+            "source_link": "https://spacenews.com/office-of-space-commerce-hit-by-layoffs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T18:39:40.886106Z",
+            "shown_at": [
+                "2025-02-28T18:39:41.988238Z"
+            ]
+        },
+        {
+            "id": "7437e1126e551d9ab667da1631205036",
+            "source": "spacenews",
+            "text": "FCC mulls C-band options, raising prospect of another satellite windfall",
+            "source_link": "https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T17:41:37.874273Z",
+            "shown_at": [
+                "2025-02-28T17:41:38.410012Z"
+            ]
+        },
+        {
+            "id": "90bd9dc21f5863e85741d2afa03c3e08",
+            "source": "breaking_defense",
+            "text": "Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk",
+            "source_link": "https://breakingdefense.com/2025/02/warren-duckworth-probe-air-force-secretary-nominee-on-dealings-with-elon-musk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T16:31:49.534227Z",
+            "shown_at": [
+                "2025-02-28T16:31:49.982879Z",
+                "2025-02-28T22:43:26.051928Z"
+            ]
+        },
+        {
+            "id": "771880cce27d8fc40638d79c5dabd108",
+            "source": "nyt",
+            "text": "How to See the Planet Parade as Seven Planets Align in the Night Sky",
+            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T16:17:38.061870Z",
+            "shown_at": [
+                "2025-02-28T16:17:38.521652Z",
+                "2025-02-28T18:53:33.901944Z"
+            ]
+        },
+        {
+            "id": "b36b749357651b593dcbec7dd00de61f",
+            "source": "spacenews",
+            "text": "China to train Pakistani astronaut for Tiangong space station mission",
+            "source_link": "https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T14:19:44.380203Z",
+            "shown_at": [
+                "2025-02-28T14:19:44.955994Z"
+            ]
+        },
+        {
+            "id": "3153765a316e7b45eacf5cc234c561ec",
+            "source": "spacenews",
+            "text": "How independent space companies can fight back against misinformation from Elon Musk and Donald Trump",
+            "source_link": "https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T14:05:26.464550Z",
+            "shown_at": [
+                "2025-02-28T14:05:27.041710Z"
+            ]
+        },
+        {
+            "id": "65392c774644eb41db120718c25a24e0",
+            "source": "spacenews",
+            "text": "Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch",
+            "source_link": "https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T13:07:33.362634Z",
+            "shown_at": [
+                "2025-02-28T13:21:43.616669Z",
+                "2025-02-28T22:57:33.335301Z"
+            ]
+        },
+        {
+            "id": "d6074b2e56a4cf3c094a4f38a07450ad",
+            "source": "spacenews",
+            "text": "Space endurance: A call for more dialogue, not less ",
+            "source_link": "https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T13:07:33.362571Z",
+            "shown_at": [
+                "2025-02-28T13:07:33.860489Z"
+            ]
+        },
+        {
+            "id": "67cf0a589c3e8e0de05a717df5b3d48e",
+            "source": "spacenews",
+            "text": "Rocket Lab reaffirms 2025 first launch of Neutron",
+            "source_link": "https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T12:09:32.932401Z",
+            "shown_at": [
+                "2025-02-28T12:09:33.496048Z"
+            ]
+        },
+        {
+            "id": "b2c62724dcd23106c84841859659a3da",
+            "source": "spacenews",
+            "text": "South Korea approves strategic plans for space",
+            "source_link": "https://spacenews.com/south-korea-approves-strategic-plans-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T10:31:58.308825Z",
+            "shown_at": [
+                "2025-02-28T10:31:58.879642Z"
+            ]
+        },
+        {
+            "id": "9e35fb575051bbfaf56a8cd798c6d2a9",
+            "source": "aidy",
+            "text": "U.S. Space Force to Expand to 25,000 Personnel by 2028 Under \"Golden Dome\" Initiative",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-02-28T08:39:54.894067Z",
+            "shown_at": [
+                "2025-02-28T08:39:56.056321Z",
+                "2025-02-28T10:59:31.996017Z"
+            ]
+        },
         {
             "id": "b6e012b644cc349089b3bc586c8712d4",
             "source": "spacenews",
@@ -2160,190 +2344,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "9e35fb575051bbfaf56a8cd798c6d2a9",
-            "source": "aidy",
-            "text": "U.S. Space Force to Expand to 25,000 Personnel by 2028 Under \"Golden Dome\" Initiative",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T08:39:54.894067Z",
-            "shown_at": [
-                "2025-02-28T08:39:56.056321Z",
-                "2025-02-28T10:59:31.996017Z"
-            ]
-        },
-        {
-            "id": "b2c62724dcd23106c84841859659a3da",
-            "source": "spacenews",
-            "text": "South Korea approves strategic plans for space",
-            "source_link": "https://spacenews.com/south-korea-approves-strategic-plans-for-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T10:31:58.308825Z",
-            "shown_at": [
-                "2025-02-28T10:31:58.879642Z"
-            ]
-        },
-        {
-            "id": "67cf0a589c3e8e0de05a717df5b3d48e",
-            "source": "spacenews",
-            "text": "Rocket Lab reaffirms 2025 first launch of Neutron",
-            "source_link": "https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T12:09:32.932401Z",
-            "shown_at": [
-                "2025-02-28T12:09:33.496048Z"
-            ]
-        },
-        {
-            "id": "d6074b2e56a4cf3c094a4f38a07450ad",
-            "source": "spacenews",
-            "text": "Space endurance: A call for more dialogue, not less ",
-            "source_link": "https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T13:07:33.362571Z",
-            "shown_at": [
-                "2025-02-28T13:07:33.860489Z"
-            ]
-        },
-        {
-            "id": "65392c774644eb41db120718c25a24e0",
-            "source": "spacenews",
-            "text": "Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch",
-            "source_link": "https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T13:07:33.362634Z",
-            "shown_at": [
-                "2025-02-28T13:21:43.616669Z",
-                "2025-02-28T22:57:33.335301Z"
-            ]
-        },
-        {
-            "id": "3153765a316e7b45eacf5cc234c561ec",
-            "source": "spacenews",
-            "text": "How independent space companies can fight back against misinformation from Elon Musk and Donald Trump",
-            "source_link": "https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T14:05:26.464550Z",
-            "shown_at": [
-                "2025-02-28T14:05:27.041710Z"
-            ]
-        },
-        {
-            "id": "b36b749357651b593dcbec7dd00de61f",
-            "source": "spacenews",
-            "text": "China to train Pakistani astronaut for Tiangong space station mission",
-            "source_link": "https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T14:19:44.380203Z",
-            "shown_at": [
-                "2025-02-28T14:19:44.955994Z"
-            ]
-        },
-        {
-            "id": "771880cce27d8fc40638d79c5dabd108",
-            "source": "nyt",
-            "text": "How to See the Planet Parade as Seven Planets Align in the Night Sky",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T16:17:38.061870Z",
-            "shown_at": [
-                "2025-02-28T16:17:38.521652Z",
-                "2025-02-28T18:53:33.901944Z"
-            ]
-        },
-        {
-            "id": "90bd9dc21f5863e85741d2afa03c3e08",
-            "source": "breaking_defense",
-            "text": "Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk",
-            "source_link": "https://breakingdefense.com/2025/02/warren-duckworth-probe-air-force-secretary-nominee-on-dealings-with-elon-musk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T16:31:49.534227Z",
-            "shown_at": [
-                "2025-02-28T16:31:49.982879Z",
-                "2025-02-28T22:43:26.051928Z"
-            ]
-        },
-        {
-            "id": "7437e1126e551d9ab667da1631205036",
-            "source": "spacenews",
-            "text": "FCC mulls C-band options, raising prospect of another satellite windfall",
-            "source_link": "https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T17:41:37.874273Z",
-            "shown_at": [
-                "2025-02-28T17:41:38.410012Z"
-            ]
-        },
-        {
-            "id": "2b200c9f7a3ea69a74b1dd477fb200f3",
-            "source": "spacenews",
-            "text": "Office of Space Commerce hit by layoffs",
-            "source_link": "https://spacenews.com/office-of-space-commerce-hit-by-layoffs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T18:39:40.886106Z",
-            "shown_at": [
-                "2025-02-28T18:39:41.988238Z"
-            ]
-        },
-        {
-            "id": "e986b95f3cd1bdf69cc53af10940da0b",
-            "source": "spacenews",
-            "text": "Skylo raises $30 million to fuel direct-to-smartphone expansion",
-            "source_link": "https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T20:23:32.130293Z",
-            "shown_at": [
-                "2025-02-28T20:23:32.750336Z"
-            ]
-        },
-        {
-            "id": "d9475214f0b0b778ca513ad14c969ca4",
-            "source": "breaking_defense",
-            "text": "Firings sap NOAA office responsible for licensing remote sensing satellite firms",
-            "source_link": "https://breakingdefense.com/2025/02/firings-sap-noaa-office-responsible-for-licensing-remote-sensing-satellite-firms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T21:33:36.213806Z",
-            "shown_at": [
-                "2025-02-28T21:33:36.721039Z"
-            ]
-        },
-        {
-            "id": "d50c0bb6e6817d621ec9cbf10ba2b68b",
-            "source": "spacenews",
-            "text": "Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative",
-            "source_link": "https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T21:47:33.429680Z",
-            "shown_at": [
-                "2025-02-28T21:47:33.930425Z"
-            ]
-        },
-        {
-            "id": "68de52e7c6bb29226cf34faef65f3de4",
-            "source": "spacenews",
-            "text": "Two senators question Air Force nominee’s SpaceX connections",
-            "source_link": "https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T23:27:41.662202Z",
-            "shown_at": [
-                "2025-02-28T23:27:42.605937Z"
             ]
         }
     ]
