@@ -5,8 +5,8 @@
 | spacenews | 11 | 18 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 37 |
-| aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 129 | 158 |
+| aidy | 1 | 2 | 20 | 36 |
+| supercluster | 0 | 1 | 127 | 158 |
 
 # Shown Order
 
@@ -995,3 +995,4 @@
 - **Mar 01, 02:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 02:59 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 03:02 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
+- **Mar 01, 03:17 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
