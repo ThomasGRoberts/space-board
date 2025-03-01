@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 44 |
+| spacenews | 11 | 20 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 35 |
 | nyt | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -972,3 +972,4 @@
 - **Mar 01, 12:31 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 12:33 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 12:35 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 12:37 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
