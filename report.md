@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 3 | 20 | 39 |
+| nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -893,3 +893,4 @@
 - **Mar 01, 02:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 01, 02:43 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 02:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
