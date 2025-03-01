@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| spacenews | 11 | 17 | 25 | 45 |
+| breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 133 | 172 |
@@ -1016,3 +1016,4 @@
 - **Mar 01, 05:21 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 05:23 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 05:25 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 05:27 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
