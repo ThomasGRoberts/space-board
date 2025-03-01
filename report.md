@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 20 | 39 |
+| breaking_defense | 2 | 2 | 20 | 37 |
+| nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 0 | 1 | 126 | 172 |
 
@@ -1019,3 +1019,4 @@
 - **Mar 01, 05:27 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Mar 01, 05:41 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 05:55 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Mar 01, 06:09 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
