@@ -5,8 +5,8 @@
 | spacenews | 8 | 16 | 22 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 11 | 11 |
+| aidy | 1 | 2 | 19 | 37 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -881,3 +881,4 @@
 - **Mar 01, 01:05 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 01, 01:19 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Mar 01, 01:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 01:35 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
