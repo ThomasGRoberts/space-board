@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 22 | 45 |
 | breaking_defense | 1 | 2 | 19 | 37 |
-| nyt | 0 | 2 | 19 | 37 |
+| nyt | 0 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 52 | 52 |
 
@@ -943,3 +943,4 @@
 - **Mar 01, 07:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 07:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 01, 07:53 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
