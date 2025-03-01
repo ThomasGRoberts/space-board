@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 24 | 44 |
+| spacenews | 11 | 17 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -1050,3 +1050,4 @@
 - **Mar 01, 09:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 09:09 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 09:11 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 09:13 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
