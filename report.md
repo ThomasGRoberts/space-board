@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 36 |
+| breaking_defense | 2 | 2 | 20 | 37 |
 | nyt | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 0 | 1 | 126 | 179 |
@@ -1030,3 +1030,4 @@
 - **Mar 01, 06:37 AM** - FCC mulls C-band options, raising prospect of another satellite windfall (spacenews)
 - **Mar 01, 06:51 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 07:05 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Mar 01, 07:19 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
