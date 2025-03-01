@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 44 |
+| spacenews | 6 | 15 | 22 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -909,3 +909,4 @@
 - **Mar 01, 04:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 04:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 04:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 01, 04:09 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
