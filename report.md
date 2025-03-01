@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 22 | 45 |
+| spacenews | 3 | 14 | 21 | 45 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | supercluster | 2 | 2 | 59 | 59 |
 
 # Shown Order
@@ -957,3 +957,4 @@
 - **Mar 01, 09:07 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 01, 09:21 PM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
 - **Mar 01, 09:35 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 01, 09:49 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
