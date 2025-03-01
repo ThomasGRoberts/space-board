@@ -5,8 +5,8 @@
 | spacenews | 11 | 17 | 24 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 20 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
-| supercluster | 0 | 1 | 126 | 172 |
+| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 0 | 1 | 127 | 173 |
 
 # Shown Order
 
@@ -1020,3 +1020,4 @@
 - **Mar 01, 05:41 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 05:55 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Mar 01, 06:09 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 01, 06:23 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
