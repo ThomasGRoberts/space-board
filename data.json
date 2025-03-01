@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-01T00:02:00.188715+00:00",
-    "trigger_count": 3,
-    "current_item_id": "7abd243b67c1bab08567db6a5b12620a",
+    "trigger_count": 4,
+    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
     "data": [
         {
             "id": "68de52e7c6bb29226cf34faef65f3de4",
@@ -2242,17 +2242,17 @@
             ]
         },
         {
-            "id": "7abd243b67c1bab08567db6a5b12620a",
+            "id": "eacf525baa97c18f19ce270cb7d25e09",
             "source": "supercluster",
-            "text": "China Will Launch the Kuaizhou 1A Rocket",
-            "source_link": "https://www.supercluster.com/launches/kuaizhou-1a5",
+            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/ceres-14",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-01T10:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-01T10:59:21.295583Z",
+            "target_datetime": "2025-03-02T08:10:00.000Z",
+            "time_remaining": "0d 21h 07m",
+            "fetched_datetime": "2025-03-01T11:02:14.302489Z",
             "shown_at": [
-                "2025-03-01T10:59:22.309398Z"
+                "2025-03-01T11:02:15.308474Z"
             ]
         }
     ]
