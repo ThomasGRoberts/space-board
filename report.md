@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 24 | 44 |
+| spacenews | 11 | 18 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 36 |
@@ -994,3 +994,4 @@
 - **Mar 01, 02:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 02:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 02:59 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 03:02 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
