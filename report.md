@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 21 | 45 |
 | breaking_defense | 2 | 2 | 20 | 37 |
 | nyt | 1 | 2 | 20 | 38 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
@@ -901,3 +901,4 @@
 - **Mar 01, 02:57 PM** - House hearing debates ways to improve Artemis (spacenews)
 - **Mar 01, 03:12 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Mar 01, 03:27 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Mar 01, 03:41 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
