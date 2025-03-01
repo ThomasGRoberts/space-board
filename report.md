@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 22 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 2 | 19 | 37 |
+| nyt | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -899,3 +899,4 @@
 - **Mar 01, 02:53 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:55 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:57 PM** - House hearing debates ways to improve Artemis (spacenews)
+- **Mar 01, 03:12 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
