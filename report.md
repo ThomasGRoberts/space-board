@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 35 |
+| breaking_defense | 2 | 2 | 20 | 36 |
 | nyt | 1 | 4 | 20 | 37 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 126 | 137 |
@@ -964,3 +964,4 @@
 - **Feb 28, 11:27 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
 - **Feb 28, 11:41 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Feb 28, 11:55 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Mar 01, 12:09 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
