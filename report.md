@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 21 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 1 | 3 | 20 | 38 |
+| nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -894,3 +894,4 @@
 - **Mar 01, 02:43 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 02:49 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
