@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 21 | 45 |
 | breaking_defense | 2 | 2 | 20 | 37 |
 | nyt | 1 | 3 | 20 | 39 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
@@ -890,3 +890,4 @@
 - **Mar 01, 01:47 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
 - **Mar 01, 02:01 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Mar 01, 02:15 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 01, 02:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
