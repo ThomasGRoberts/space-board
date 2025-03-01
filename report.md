@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 21 | 45 |
+| spacenews | 4 | 15 | 22 | 46 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -955,3 +955,4 @@
 - **Mar 01, 09:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 09:07 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Mar 01, 09:21 PM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
