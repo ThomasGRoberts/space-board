@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 20 | 39 |
+| breaking_defense | 2 | 2 | 20 | 37 |
+| nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 0 | 1 | 126 | 165 |
 
@@ -1008,3 +1008,4 @@
 - **Mar 01, 04:15 AM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
 - **Mar 01, 04:29 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Mar 01, 04:43 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
+- **Mar 01, 04:57 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
