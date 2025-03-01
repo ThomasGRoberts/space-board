@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 45 |
+| spacenews | 6 | 15 | 22 | 46 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -922,3 +922,4 @@
 - **Mar 01, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 05:19 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Mar 01, 05:34 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Mar 01, 05:47 PM** - FAA gives approval for next Starship test flight (spacenews)

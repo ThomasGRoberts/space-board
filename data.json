@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-01T00:02:00.188715+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dde66d5f0ee2e863bf5def6707f5c5af",
+    "trigger_count": 0,
+    "current_item_id": "0ca583a394792b9fe64ffaca68bad16e",
     "data": [
         {
             "id": "68de52e7c6bb29226cf34faef65f3de4",
@@ -2337,6 +2337,18 @@
                 "2025-03-01T17:13:58.947843Z",
                 "2025-03-01T17:15:30.995161Z",
                 "2025-03-01T17:17:29.091263Z"
+            ]
+        },
+        {
+            "id": "0ca583a394792b9fe64ffaca68bad16e",
+            "source": "spacenews",
+            "text": "FAA gives approval for next Starship test flight",
+            "source_link": "https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-01T17:47:43.631561Z",
+            "shown_at": [
+                "2025-03-01T17:47:44.656499Z"
             ]
         }
     ]
