@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 21 | 45 |
+| spacenews | 5 | 15 | 22 | 46 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -944,3 +944,4 @@
 - **Mar 01, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 07:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 07:53 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
+- **Mar 01, 08:07 PM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
