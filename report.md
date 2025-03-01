@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 21 | 44 |
+| spacenews | 6 | 14 | 22 | 45 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -920,3 +920,4 @@
 - **Mar 01, 05:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 05:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 01, 05:19 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
