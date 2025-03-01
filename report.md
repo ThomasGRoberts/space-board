@@ -5,7 +5,7 @@
 | spacenews | 3 | 13 | 21 | 45 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | supercluster | 2 | 2 | 66 | 66 |
 
 # Shown Order
@@ -968,3 +968,4 @@
 - **Mar 01, 10:19 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 01, 10:33 PM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
 - **Mar 01, 10:47 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 01, 11:02 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
