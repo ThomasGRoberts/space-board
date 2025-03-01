@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 22 | 45 |
-| breaking_defense | 1 | 2 | 18 | 37 |
+| breaking_defense | 1 | 2 | 19 | 38 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 2 | 2 | 45 | 45 |
@@ -934,3 +934,4 @@
 - **Mar 01, 06:42 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 06:43 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Mar 01, 06:57 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
+- **Mar 01, 07:11 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
