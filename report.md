@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 44 |
+| spacenews | 9 | 15 | 23 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -875,3 +875,4 @@
 - **Mar 01, 12:15 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 12:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 12:19 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 12:21 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
