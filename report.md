@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 126 | 151 |
+| supercluster | 0 | 1 | 127 | 152 |
 
 # Shown Order
 
@@ -987,3 +987,4 @@
 - **Mar 01, 02:05 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 02:19 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Mar 01, 02:33 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 01, 02:47 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
