@@ -5,8 +5,8 @@
 | spacenews | 11 | 17 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 128 | 172 |
+| aidy | 1 | 2 | 20 | 37 |
+| supercluster | 0 | 1 | 127 | 172 |
 
 # Shown Order
 
@@ -1017,3 +1017,4 @@
 - **Mar 01, 05:23 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 05:25 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 05:27 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
+- **Mar 01, 05:41 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
