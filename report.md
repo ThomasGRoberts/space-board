@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 23 | 44 |
+| spacenews | 10 | 16 | 24 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -864,3 +864,4 @@
 - **Mar 01, 11:02 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 11:09 AM** - SpaceX completes investigation into Starship Flight 7 mishap (spacenews)
