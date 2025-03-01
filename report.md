@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 24 | 44 |
+| spacenews | 11 | 17 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -1038,3 +1038,4 @@
 - **Mar 01, 07:41 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 07:43 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 07:45 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 07:47 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
