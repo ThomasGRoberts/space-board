@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 24 | 44 |
+| spacenews | 10 | 16 | 23 | 44 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -861,4 +861,4 @@
 - **Mar 01, 09:27 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Mar 01, 09:42 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 01, 09:55 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
-- **Mar 01, 10:31 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 10:33 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
