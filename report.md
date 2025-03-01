@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 24 | 44 |
+| spacenews | 11 | 18 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
@@ -1005,3 +1005,4 @@
 - **Mar 01, 04:09 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 04:11 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 04:13 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 04:15 AM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
