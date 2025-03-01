@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 35 |
+| breaking_defense | 2 | 2 | 20 | 36 |
 | nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 126 | 151 |
@@ -986,3 +986,4 @@
 - **Mar 01, 01:51 AM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
 - **Mar 01, 02:05 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 02:19 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Mar 01, 02:33 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
