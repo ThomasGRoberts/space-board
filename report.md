@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 20 | 45 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 2 | 2 | 73 | 73 |
 
@@ -976,3 +976,4 @@
 - **Mar 01, 11:25 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:27 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 11:29 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 11:31 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
