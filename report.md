@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 22 | 45 |
-| breaking_defense | 1 | 2 | 19 | 37 |
+| breaking_defense | 1 | 2 | 20 | 38 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 2 | 2 | 52 | 52 |
@@ -945,3 +945,4 @@
 - **Mar 01, 07:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 07:53 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 01, 08:07 PM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
+- **Mar 01, 08:21 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
