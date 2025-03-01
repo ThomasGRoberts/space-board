@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 35 |
-| nyt | 1 | 3 | 19 | 37 |
+| nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 126 | 151 |
 
@@ -985,3 +985,4 @@
 - **Mar 01, 01:49 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 01:51 AM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
 - **Mar 01, 02:05 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 01, 02:19 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
