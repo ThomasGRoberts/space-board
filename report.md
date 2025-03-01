@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 44 |
-| breaking_defense | 2 | 2 | 19 | 35 |
+| breaking_defense | 2 | 2 | 20 | 36 |
 | nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 126 | 158 |
@@ -997,3 +997,4 @@
 - **Mar 01, 03:02 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Mar 01, 03:17 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 03:32 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Mar 01, 03:45 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
