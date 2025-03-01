@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 35 |
-| nyt | 1 | 4 | 19 | 37 |
+| nyt | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 126 | 144 |
 
@@ -974,3 +974,4 @@
 - **Mar 01, 12:35 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 12:37 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
 - **Mar 01, 12:51 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 01, 01:07 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
