@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 127 | 173 |
+| supercluster | 0 | 1 | 128 | 174 |
 
 # Shown Order
 
@@ -1021,3 +1021,4 @@
 - **Mar 01, 05:55 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Mar 01, 06:09 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 01, 06:23 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Mar 01, 06:25 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
