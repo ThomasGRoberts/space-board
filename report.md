@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -880,3 +880,4 @@
 - **Mar 01, 12:49 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 01, 01:05 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 01, 01:19 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
+- **Mar 01, 01:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
