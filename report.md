@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 14 | 21 | 45 |
+| spacenews | 3 | 14 | 22 | 46 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 66 | 66 |
 
 # Shown Order
@@ -966,3 +966,4 @@
 - **Mar 01, 10:14 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 10:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 10:19 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Mar 01, 10:33 PM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
