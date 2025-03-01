@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 22 | 45 |
-| breaking_defense | 1 | 2 | 18 | 37 |
+| breaking_defense | 1 | 2 | 19 | 38 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 2 | 2 | 31 | 31 |
@@ -911,3 +911,4 @@
 - **Mar 01, 04:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 01, 04:09 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Mar 01, 04:23 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
+- **Mar 01, 04:37 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
