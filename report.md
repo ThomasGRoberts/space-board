@@ -5,7 +5,7 @@
 | spacenews | 11 | 17 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 129 | 186 |
 
 # Shown Order
@@ -1039,3 +1039,4 @@
 - **Mar 01, 07:43 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 07:45 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 07:47 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
+- **Mar 01, 08:02 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
