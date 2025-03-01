@@ -5,7 +5,7 @@
 | spacenews | 11 | 17 | 24 | 45 |
 | breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 3 | 20 | 39 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 126 | 193 |
 
 # Shown Order
@@ -1053,3 +1053,4 @@
 - **Mar 01, 09:13 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Mar 01, 09:27 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Mar 01, 09:42 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 01, 09:55 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
