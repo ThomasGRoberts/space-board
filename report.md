@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 22 | 45 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -900,3 +900,4 @@
 - **Mar 01, 02:55 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 02:57 PM** - House hearing debates ways to improve Artemis (spacenews)
 - **Mar 01, 03:12 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Mar 01, 03:27 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
