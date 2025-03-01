@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 2 | 2 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 
 # Shown Order
 
@@ -936,3 +936,4 @@
 - **Mar 01, 06:57 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Mar 01, 07:11 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 01, 07:25 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 01, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
