@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 22 | 44 |
 | breaking_defense | 1 | 2 | 19 | 38 |
 | nyt | 0 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 2 | 2 | 31 | 31 |
 
 # Shown Order
@@ -912,3 +912,4 @@
 - **Mar 01, 04:09 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Mar 01, 04:23 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 01, 04:37 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 01, 04:51 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
