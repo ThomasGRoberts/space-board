@@ -5,7 +5,7 @@
 | spacenews | 5 | 15 | 22 | 45 |
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 2 | 2 | 45 | 45 |
 
 # Shown Order
@@ -935,3 +935,4 @@
 - **Mar 01, 06:43 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Mar 01, 06:57 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Mar 01, 07:11 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 01, 07:25 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
