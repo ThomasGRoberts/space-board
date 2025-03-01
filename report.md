@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 2 | 2 | 40 | 40 |
+| supercluster | 2 | 2 | 41 | 41 |
 
 # Shown Order
 
@@ -927,3 +927,4 @@
 - **Mar 01, 06:15 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 06:29 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 06:31 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 01, 06:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
