@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 22 | 45 |
-| breaking_defense | 2 | 2 | 19 | 36 |
+| breaking_defense | 2 | 2 | 20 | 37 |
 | nyt | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -889,3 +889,4 @@
 - **Mar 01, 01:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 01, 01:47 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
 - **Mar 01, 02:01 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
+- **Mar 01, 02:15 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
