@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 45 |
-| breaking_defense | 2 | 2 | 19 | 35 |
+| breaking_defense | 2 | 2 | 20 | 36 |
 | nyt | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 126 | 144 |
@@ -975,3 +975,4 @@
 - **Mar 01, 12:37 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
 - **Mar 01, 12:51 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 01:07 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Mar 01, 01:22 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
