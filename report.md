@@ -5,8 +5,8 @@
 | spacenews | 11 | 18 | 25 | 45 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 129 | 165 |
+| aidy | 1 | 2 | 20 | 37 |
+| supercluster | 0 | 1 | 128 | 165 |
 
 # Shown Order
 
@@ -1006,3 +1006,4 @@
 - **Mar 01, 04:11 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 04:13 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Mar 01, 04:15 AM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
+- **Mar 01, 04:29 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
