@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 14 | 21 | 45 |
+| spacenews | 3 | 14 | 22 | 46 |
 | supercluster | 1 | 1 | 77 | 77 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
@@ -1017,3 +1017,4 @@
 - **Mar 02, 09:33 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 02, 09:47 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 02, 10:02 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 02, 10:17 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
