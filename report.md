@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
-| supercluster | 2 | 2 | 81 | 81 |
+| supercluster | 2 | 2 | 82 | 82 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
@@ -992,3 +992,4 @@
 - **Mar 02, 01:14 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 01:31 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 02, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
