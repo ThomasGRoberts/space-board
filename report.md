@@ -5,7 +5,7 @@
 | spacenews | 2 | 6 | 20 | 42 |
 | supercluster | 0 | 1 | 119 | 147 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 1 | 20 | 39 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
 
 # Shown Order
@@ -1125,3 +1125,4 @@
 - **Mar 02, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 09:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 09:21 PM** - Embracing Darkness on the Isle of Rum (nyt)
+- **Mar 02, 09:35 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
