@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 115 | 115 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 1 | 2 | 19 | 38 |
+| nyt | 1 | 2 | 20 | 39 |
 
 # Shown Order
 
@@ -1042,3 +1042,4 @@
 - **Mar 02, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 06:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 06:41 AM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
