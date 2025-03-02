@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 21 | 46 |
+| spacenews | 2 | 13 | 21 | 45 |
 | supercluster | 2 | 2 | 94 | 94 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 1 | 2 | 19 | 39 |
 
 # Shown Order
@@ -1011,3 +1011,4 @@
 - **Mar 02, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 03:09 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 02, 03:24 AM** - Rocket Lab reaffirms 2025 first launch of Neutron (spacenews)
+- **Mar 02, 03:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
