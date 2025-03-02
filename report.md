@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 21 | 45 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 38 |
-| nyt | 4 | 5 | 20 | 40 |
+| nyt | 4 | 5 | 20 | 39 |
 
 # Shown Order
 
@@ -1041,3 +1041,4 @@
 - **Mar 02, 12:25 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 12:39 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Mar 02, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
