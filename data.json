@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-02T00:02:03.045664+00:00",
-    "trigger_count": 6,
-    "current_item_id": "68d9d0d6bdcbbc4157c993e0cb95c875",
+    "trigger_count": 0,
+    "current_item_id": "e8c6eb724f31701fa143313c53b4b7f5",
     "data": [
         {
             "id": "0ca583a394792b9fe64ffaca68bad16e",
@@ -2439,6 +2439,18 @@
             "fetched_datetime": "2025-03-02T07:37:49.259063Z",
             "shown_at": [
                 "2025-03-02T07:37:50.014276Z"
+            ]
+        },
+        {
+            "id": "e8c6eb724f31701fa143313c53b4b7f5",
+            "source": "aidy",
+            "text": "NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T08:35:31.669039Z",
+            "shown_at": [
+                "2025-03-02T08:35:32.160915Z"
             ]
         }
     ]
