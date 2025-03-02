@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 20 | 42 |
+| spacenews | 2 | 6 | 20 | 41 |
 | supercluster | 0 | 1 | 119 | 140 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 1 | 20 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 4 | 4 | 21 | 40 |
 
 # Shown Order
@@ -1114,3 +1114,4 @@
 - **Mar 02, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 08:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 08:09 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
+- **Mar 02, 08:23 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
