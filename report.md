@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 70 | 70 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
-| nyt | 2 | 3 | 19 | 39 |
+| nyt | 3 | 4 | 20 | 40 |
 
 # Shown Order
 
@@ -1005,3 +1005,4 @@
 - **Mar 02, 08:05 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Mar 02, 08:19 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 08:35 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 02, 08:49 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
