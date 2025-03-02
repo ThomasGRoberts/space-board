@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 20 | 45 |
+| spacenews | 2 | 13 | 21 | 46 |
 | supercluster | 2 | 2 | 101 | 101 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 1 | 2 | 20 | 39 |
 
@@ -1021,3 +1021,4 @@
 - **Mar 02, 04:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:19 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
+- **Mar 02, 04:33 AM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
