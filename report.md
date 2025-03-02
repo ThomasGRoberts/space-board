@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 112 | 119 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 20 | 38 |
-| nyt | 4 | 4 | 20 | 39 |
+| nyt | 4 | 4 | 21 | 40 |
 
 # Shown Order
 
@@ -1080,3 +1080,4 @@
 - **Mar 02, 04:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 04:37 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
