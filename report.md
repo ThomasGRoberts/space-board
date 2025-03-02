@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 21 | 45 |
-| supercluster | 2 | 2 | 78 | 78 |
+| spacenews | 2 | 13 | 20 | 45 |
+| supercluster | 2 | 2 | 79 | 79 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
@@ -985,3 +985,4 @@
 - **Mar 02, 12:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 12:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
