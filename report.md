@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 80 | 80 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -987,3 +987,4 @@
 - **Mar 02, 12:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 12:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 12:44 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
