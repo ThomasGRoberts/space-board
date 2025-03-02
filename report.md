@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 42 |
-| supercluster | 0 | 1 | 106 | 112 |
+| spacenews | 2 | 8 | 22 | 43 |
+| supercluster | 0 | 1 | 105 | 112 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 21 | 40 |
@@ -1072,3 +1072,4 @@
 - **Mar 02, 03:27 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 02, 03:41 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 02, 03:55 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 02, 04:09 PM** - Firefly’s Blue Ghost 1 lands on the moon (spacenews)
