@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 115 | 115 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 1 | 2 | 19 | 39 |
+| nyt | 2 | 3 | 20 | 40 |
 
 # Shown Order
 
@@ -1046,3 +1046,4 @@
 - **Mar 02, 06:55 AM** - How independent space companies can fight back against misinformation from Elon Musk and Donald Trump (spacenews)
 - **Mar 02, 07:09 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 02, 07:23 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 02, 07:37 AM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)

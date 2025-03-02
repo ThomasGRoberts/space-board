@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-02T00:02:03.045664+00:00",
-    "trigger_count": 6,
-    "current_item_id": "079faa912183d8f814515d3d57b7537e",
+    "trigger_count": 0,
+    "current_item_id": "17770e46e9b615f8718385d70b0ddeba",
     "data": [
         {
             "id": "0ca583a394792b9fe64ffaca68bad16e",
@@ -2483,6 +2483,18 @@
             "fetched_datetime": "2025-03-02T03:09:23.210030Z",
             "shown_at": [
                 "2025-03-02T03:09:23.537178Z"
+            ]
+        },
+        {
+            "id": "17770e46e9b615f8718385d70b0ddeba",
+            "source": "nyt",
+            "text": "Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing",
+            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T07:37:49.259063Z",
+            "shown_at": [
+                "2025-03-02T07:37:50.014276Z"
             ]
         }
     ]
