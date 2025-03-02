@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 21 | 42 |
-| supercluster | 0 | 1 | 113 | 134 |
+| supercluster | 0 | 1 | 114 | 135 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 4 | 4 | 20 | 40 |
@@ -1107,3 +1107,4 @@
 - **Mar 02, 07:27 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 07:41 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Mar 02, 07:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 07:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
