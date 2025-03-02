@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-02T00:02:03.045664+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14a6f52499e0f5a26a808330ddb24636",
+    "trigger_count": 0,
+    "current_item_id": "42fccbba07c3e46e49099ab85a6d3c70",
     "data": [
         {
             "id": "0ca583a394792b9fe64ffaca68bad16e",
@@ -2463,6 +2463,18 @@
             "fetched_datetime": "2025-03-02T08:49:35.943672Z",
             "shown_at": [
                 "2025-03-02T08:49:37.701544Z"
+            ]
+        },
+        {
+            "id": "42fccbba07c3e46e49099ab85a6d3c70",
+            "source": "spacenews",
+            "text": "Firefly’s Blue Ghost 1 lands on the moon",
+            "source_link": "https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T09:05:30.895363Z",
+            "shown_at": [
+                "2025-03-02T09:05:31.424212Z"
             ]
         }
     ]

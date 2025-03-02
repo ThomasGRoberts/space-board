@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 21 | 45 |
+| spacenews | 3 | 14 | 22 | 46 |
 | supercluster | 1 | 1 | 70 | 70 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
@@ -1006,3 +1006,4 @@
 - **Mar 02, 08:19 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 08:35 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 02, 08:49 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 02, 09:05 AM** - Firefly’s Blue Ghost 1 lands on the moon (spacenews)
