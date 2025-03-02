@@ -5,7 +5,7 @@
 | spacenews | 3 | 13 | 22 | 45 |
 | supercluster | 1 | 1 | 84 | 84 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 21 | 40 |
 
 # Shown Order
@@ -1026,3 +1026,4 @@
 - **Mar 02, 10:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:45 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
+- **Mar 02, 10:59 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
