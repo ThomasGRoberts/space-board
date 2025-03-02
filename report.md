@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 14 | 21 | 46 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 3 | 4 | 20 | 39 |
@@ -1007,3 +1007,4 @@
 - **Mar 02, 08:35 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 02, 08:49 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 02, 09:05 AM** - Firefly’s Blue Ghost 1 lands on the moon (spacenews)
+- **Mar 02, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
