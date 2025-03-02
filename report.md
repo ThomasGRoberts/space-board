@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
-| supercluster | 2 | 2 | 95 | 95 |
+| supercluster | 2 | 2 | 96 | 96 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 1 | 2 | 19 | 38 |
@@ -1014,3 +1014,4 @@
 - **Mar 02, 03:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 02, 03:51 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 02, 04:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 04:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
