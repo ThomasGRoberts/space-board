@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| supercluster | 0 | 1 | 105 | 112 |
+| supercluster | 0 | 1 | 106 | 113 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 4 | 21 | 39 |
@@ -1073,3 +1073,4 @@
 - **Mar 02, 03:41 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 02, 03:55 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 04:09 PM** - Firefly’s Blue Ghost 1 lands on the moon (spacenews)
+- **Mar 02, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
