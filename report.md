@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 20 | 42 |
 | supercluster | 0 | 1 | 126 | 154 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 20 | 38 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
 
 # Shown Order
@@ -1136,3 +1136,4 @@
 - **Mar 02, 10:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:31 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
+- **Mar 02, 10:45 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
