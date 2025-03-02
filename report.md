@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 43 |
-| supercluster | 0 | 1 | 106 | 120 |
+| supercluster | 0 | 1 | 107 | 121 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 4 | 4 | 20 | 39 |
@@ -1085,3 +1085,4 @@
 - **Mar 02, 05:07 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 05:21 PM** - Air Force selects Pacific landing sites to test space cargo deliveries (spacenews)
 - **Mar 02, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
