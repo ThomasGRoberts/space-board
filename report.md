@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
 | supercluster | 2 | 2 | 80 | 80 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 39 |
 
@@ -990,3 +990,4 @@
 - **Mar 02, 12:44 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Mar 02, 12:59 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
 - **Mar 02, 01:14 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Mar 02, 01:31 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
