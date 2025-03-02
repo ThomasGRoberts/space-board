@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 20 | 41 |
 | supercluster | 0 | 1 | 126 | 154 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
 
@@ -1137,3 +1137,4 @@
 - **Mar 02, 10:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:31 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 02, 10:45 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
+- **Mar 02, 10:59 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
