@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 4 | 5 | 20 | 39 |
+| nyt | 4 | 5 | 21 | 40 |
 
 # Shown Order
 
@@ -1036,3 +1036,4 @@
 - **Mar 02, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 11:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 11:57 AM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
