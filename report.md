@@ -5,7 +5,7 @@
 | spacenews | 3 | 14 | 21 | 45 |
 | supercluster | 1 | 1 | 77 | 77 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 2 | 18 | 38 |
+| breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 4 | 5 | 20 | 40 |
 
 # Shown Order
@@ -1015,3 +1015,4 @@
 - **Mar 02, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 09:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 09:33 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 02, 09:47 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
