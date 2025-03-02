@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 44 |
 | supercluster | 1 | 1 | 91 | 91 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 21 | 40 |
 
@@ -1038,3 +1038,4 @@
 - **Mar 02, 11:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 11:57 AM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Mar 02, 12:11 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 02, 12:25 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
