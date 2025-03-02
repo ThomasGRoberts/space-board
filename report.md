@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| supercluster | 1 | 1 | 107 | 107 |
-| aidy | 1 | 2 | 20 | 39 |
+| supercluster | 1 | 1 | 108 | 108 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 20 | 40 |
 
@@ -1064,3 +1064,4 @@
 - **Mar 02, 02:59 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
 - **Mar 02, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
