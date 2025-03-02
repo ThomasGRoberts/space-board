@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 21 | 45 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 38 |
 | nyt | 4 | 5 | 20 | 39 |
@@ -1042,3 +1042,4 @@
 - **Mar 02, 12:39 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Mar 02, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 12:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
