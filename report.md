@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
-| supercluster | 2 | 2 | 74 | 74 |
+| supercluster | 2 | 2 | 75 | 75 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
@@ -981,3 +981,4 @@
 - **Mar 01, 11:59 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 02, 12:13 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
