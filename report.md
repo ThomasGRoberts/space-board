@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 22 | 45 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 4 | 5 | 20 | 39 |
@@ -1031,3 +1031,4 @@
 - **Mar 02, 11:29 AM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Mar 02, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
