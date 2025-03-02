@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
-| supercluster | 2 | 2 | 109 | 109 |
+| supercluster | 2 | 2 | 110 | 110 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| nyt | 1 | 2 | 19 | 39 |
+| nyt | 1 | 2 | 19 | 38 |
 
 # Shown Order
 
@@ -1036,3 +1036,4 @@
 - **Mar 02, 05:59 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 06:13 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Mar 02, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
