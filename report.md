@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 20 | 42 |
 | supercluster | 0 | 1 | 112 | 126 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
 
@@ -1093,3 +1093,4 @@
 - **Mar 02, 05:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 05:49 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Mar 02, 06:03 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Mar 02, 06:17 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
