@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 20 | 45 |
+| spacenews | 2 | 13 | 21 | 46 |
 | supercluster | 2 | 2 | 87 | 87 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
@@ -999,3 +999,4 @@
 - **Mar 02, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 01:59 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Mar 02, 02:13 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
