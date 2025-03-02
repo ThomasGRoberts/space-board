@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 39 |
-| nyt | 4 | 5 | 21 | 40 |
+| nyt | 4 | 5 | 20 | 40 |
 
 # Shown Order
 
@@ -1062,3 +1062,4 @@
 - **Mar 02, 02:32 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 02, 02:45 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 02, 02:59 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
+- **Mar 02, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
