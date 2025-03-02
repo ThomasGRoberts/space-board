@@ -5,7 +5,7 @@
 | spacenews | 2 | 13 | 21 | 45 |
 | supercluster | 2 | 2 | 87 | 87 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 
 # Shown Order
@@ -1000,3 +1000,4 @@
 - **Mar 02, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 01:59 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Mar 02, 02:13 AM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
+- **Mar 02, 02:27 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
