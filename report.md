@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 21 | 45 |
 | supercluster | 2 | 2 | 73 | 73 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 
@@ -979,3 +979,4 @@
 - **Mar 01, 11:31 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Mar 01, 11:45 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 01, 11:59 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 02, 12:13 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
