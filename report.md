@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
-| supercluster | 0 | 1 | 127 | 155 |
+| spacenews | 2 | 4 | 21 | 41 |
+| supercluster | 0 | 1 | 128 | 156 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
@@ -1140,3 +1140,4 @@
 - **Mar 02, 10:59 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
 - **Mar 02, 11:13 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Mar 02, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
