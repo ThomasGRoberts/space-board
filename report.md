@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
 | supercluster | 0 | 1 | 112 | 119 |
-| aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 1 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 4 | 4 | 21 | 40 |
 
 # Shown Order
@@ -1081,3 +1081,4 @@
 - **Mar 02, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 04:37 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
+- **Mar 02, 04:53 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
