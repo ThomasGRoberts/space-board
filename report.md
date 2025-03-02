@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 41 |
+| spacenews | 2 | 5 | 21 | 42 |
 | supercluster | 0 | 1 | 119 | 147 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
@@ -1127,3 +1127,4 @@
 - **Mar 02, 09:21 PM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Mar 02, 09:35 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 09:49 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Mar 02, 10:03 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
