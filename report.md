@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 21 | 45 |
+| spacenews | 3 | 13 | 22 | 46 |
 | supercluster | 1 | 1 | 84 | 84 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 38 |
-| nyt | 4 | 5 | 20 | 40 |
+| nyt | 4 | 5 | 20 | 39 |
 
 # Shown Order
 
@@ -1028,3 +1028,4 @@
 - **Mar 02, 10:45 AM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Mar 02, 10:59 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 02, 11:15 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
+- **Mar 02, 11:29 AM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
