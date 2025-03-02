@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 42 |
+| spacenews | 2 | 8 | 21 | 43 |
 | supercluster | 1 | 1 | 105 | 105 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 39 |
@@ -1061,3 +1061,4 @@
 - **Mar 02, 02:17 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 02, 02:32 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 02, 02:45 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 02, 02:59 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
