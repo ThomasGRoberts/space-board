@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 42 |
 | supercluster | 1 | 1 | 105 | 105 |
-| aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 40 |
 | nyt | 4 | 5 | 21 | 41 |
 
 # Shown Order
@@ -1059,3 +1059,4 @@
 - **Mar 02, 02:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 02:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 02:17 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
+- **Mar 02, 02:32 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
