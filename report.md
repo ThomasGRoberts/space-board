@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 41 |
+| spacenews | 2 | 5 | 21 | 42 |
 | supercluster | 0 | 1 | 126 | 154 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
@@ -1138,3 +1138,4 @@
 - **Mar 02, 10:31 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 02, 10:45 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 02, 10:59 PM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
+- **Mar 02, 11:13 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
