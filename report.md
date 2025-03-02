@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 44 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 20 | 40 |
@@ -1051,3 +1051,4 @@
 - **Mar 02, 01:21 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 02, 01:35 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 02, 01:49 PM** - Former FCC Space Bureau chief joins law firm (spacenews)
+- **Mar 02, 02:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
