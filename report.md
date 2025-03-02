@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 20 | 45 |
-| supercluster | 2 | 2 | 115 | 115 |
+| supercluster | 2 | 2 | 116 | 116 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 2 | 3 | 20 | 39 |
@@ -1047,3 +1047,4 @@
 - **Mar 02, 07:09 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 02, 07:23 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 02, 07:37 AM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 02, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
