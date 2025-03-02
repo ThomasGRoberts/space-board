@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 42 |
+| spacenews | 3 | 9 | 21 | 43 |
 | supercluster | 0 | 1 | 105 | 119 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 20 | 39 |
@@ -1083,3 +1083,4 @@
 - **Mar 02, 04:37 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 02, 04:53 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 02, 05:07 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 02, 05:21 PM** - Air Force selects Pacific landing sites to test space cargo deliveries (spacenews)

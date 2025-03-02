@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-02T00:02:03.045664+00:00",
-    "trigger_count": 6,
-    "current_item_id": "079faa912183d8f814515d3d57b7537e",
+    "trigger_count": 0,
+    "current_item_id": "0d0c3bede3c767262abf09fb3c0054e6",
     "data": [
         {
             "id": "0ca583a394792b9fe64ffaca68bad16e",
@@ -2562,6 +2562,18 @@
             "shown_at": [
                 "2025-03-02T09:33:38.500044Z",
                 "2025-03-02T13:07:44.716153Z"
+            ]
+        },
+        {
+            "id": "0d0c3bede3c767262abf09fb3c0054e6",
+            "source": "spacenews",
+            "text": "Air Force selects Pacific landing sites to test space cargo deliveries",
+            "source_link": "https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T17:21:28.110029Z",
+            "shown_at": [
+                "2025-03-02T17:21:28.627362Z"
             ]
         }
     ]
