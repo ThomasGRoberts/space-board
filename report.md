@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 22 | 45 |
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 4 | 5 | 20 | 39 |
@@ -1020,3 +1020,4 @@
 - **Mar 02, 10:17 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
 - **Mar 02, 10:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 10:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 02, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
