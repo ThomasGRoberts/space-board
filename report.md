@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 44 |
 | supercluster | 1 | 1 | 98 | 98 |
-| aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 20 | 39 |
 | nyt | 4 | 5 | 21 | 40 |
 
 # Shown Order
@@ -1048,3 +1048,4 @@
 - **Mar 02, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 01:07 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 02, 01:21 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
