@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -1020,3 +1020,4 @@
 - **Mar 03, 10:19 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Mar 03, 10:34 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 10:35 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 03, 10:37 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
