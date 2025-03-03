@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 38 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -1040,3 +1040,4 @@
 - **Mar 03, 12:11 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 03, 12:31 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 03, 12:45 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Mar 03, 12:59 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
