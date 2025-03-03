@@ -994,4 +994,4 @@
 - **Mar 03, 01:29 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 03, 01:43 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
 - **Mar 03, 02:13 AM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
-- **Mar 03, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 03, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
