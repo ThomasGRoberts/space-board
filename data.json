@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 2,
-    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
+    "trigger_count": 3,
+    "current_item_id": "c6fe4ba363bdc0b75495b2054f6c0af4",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2490,17 +2490,17 @@
             ]
         },
         {
-            "id": "eacf525baa97c18f19ce270cb7d25e09",
+            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
             "source": "supercluster",
-            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/ceres-14",
+            "text": "Arianespace Will Launch an Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/cso-3",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-03T08:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-03T09:07:40.199106Z",
+            "target_datetime": "2025-03-03T16:24:00.000Z",
+            "time_remaining": "0d 07h 12m",
+            "fetched_datetime": "2025-03-03T09:11:34.537667Z",
             "shown_at": [
-                "2025-03-03T09:07:40.677593Z"
+                "2025-03-03T09:11:34.938157Z"
             ]
         }
     ]
