@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 19 | 40 |
+| spacenews | 3 | 5 | 20 | 41 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
@@ -1060,3 +1060,4 @@
 - **Mar 03, 02:37 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 02:39 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 02:41 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 03, 02:55 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
