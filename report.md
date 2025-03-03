@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 40 |
 | nyt | 3 | 4 | 20 | 39 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -1024,3 +1024,4 @@
 - **Mar 03, 06:03 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 06:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 06:07 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Mar 03, 06:21 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
