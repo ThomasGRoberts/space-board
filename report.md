@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -1030,3 +1030,4 @@
 - **Mar 03, 11:15 AM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
 - **Mar 03, 11:29 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 03, 11:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 03, 11:45 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
