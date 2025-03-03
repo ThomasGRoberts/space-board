@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 1 | 1 | 17 | 37 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -1080,3 +1080,4 @@
 - **Mar 03, 09:11 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 03, 09:26 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
 - **Mar 03, 09:39 PM** - BAE lands $151 million contract for missile-warning satellite ground system (spacenews)
+- **Mar 03, 09:53 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
