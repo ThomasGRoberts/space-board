@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 20 | 41 |
+| spacenews | 2 | 4 | 21 | 42 |
 | nyt | 4 | 4 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | supercluster | 0 | 1 | 133 | 168 |
@@ -1160,3 +1160,4 @@
 - **Mar 03, 12:56 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 03, 01:13 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 01:29 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 03, 01:43 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
