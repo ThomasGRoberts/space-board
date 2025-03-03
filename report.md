@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 21 | 41 |
 | nyt | 1 | 5 | 17 | 38 |
-| aidy | 1 | 2 | 17 | 38 |
+| aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 1 | 1 | 17 | 37 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -1091,3 +1091,4 @@
 - **Mar 03, 10:21 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 10:35 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 03, 10:49 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
+- **Mar 03, 11:03 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
