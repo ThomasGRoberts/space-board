@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 19 | 40 |
 | nyt | 3 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -1001,3 +1001,4 @@
 - **Mar 03, 03:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 03:37 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 03:40 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 03, 03:41 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
