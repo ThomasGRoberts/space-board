@@ -6,7 +6,7 @@
 | nyt | 3 | 4 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -1016,3 +1016,4 @@
 - **Mar 03, 05:09 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 03, 05:25 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Mar 03, 05:39 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
+- **Mar 03, 05:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
