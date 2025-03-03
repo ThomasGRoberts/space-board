@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 18 | 40 |
-| nyt | 0 | 4 | 19 | 39 |
-| aidy | 1 | 2 | 18 | 37 |
+| nyt | 0 | 4 | 18 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -1036,3 +1036,4 @@
 - **Mar 03, 11:51 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 11:53 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 11:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 03, 11:57 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
