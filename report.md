@@ -6,7 +6,7 @@
 | nyt | 3 | 4 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -995,3 +995,4 @@
 - **Mar 03, 01:43 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
 - **Mar 03, 02:13 AM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 03, 03:25 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 03, 03:28 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
