@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 19 | 40 |
 | nyt | 0 | 4 | 18 | 39 |
-| aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 32 | 32 |
+| aidy | 1 | 2 | 18 | 37 |
+| breaking_defense | 0 | 0 | 17 | 37 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -1063,3 +1063,4 @@
 - **Mar 03, 02:55 PM** - U.S. Air Force to explore Xona Space’s commercial alternative to GPS (spacenews)
 - **Mar 03, 03:13 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 03, 03:27 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 03, 03:41 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
