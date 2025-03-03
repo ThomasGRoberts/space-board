@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 40 |
+| spacenews | 2 | 4 | 20 | 41 |
 | nyt | 3 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -1003,3 +1003,4 @@
 - **Mar 03, 03:40 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 03:41 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 03, 03:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
+- **Mar 03, 04:11 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
