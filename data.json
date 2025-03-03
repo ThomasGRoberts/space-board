@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
+    "trigger_count": 0,
+    "current_item_id": "a4523199a91e0140d5794cb1e376e845",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2574,6 +2574,18 @@
                 "2025-03-03T17:41:28.063592Z",
                 "2025-03-03T17:43:26.371065Z",
                 "2025-03-03T17:45:39.302001Z"
+            ]
+        },
+        {
+            "id": "a4523199a91e0140d5794cb1e376e845",
+            "source": "spacenews",
+            "text": "Maxar wins mystery commercial GEO order amid market slowdown",
+            "source_link": "https://spacenews.com/maxar-wins-mystery-commercial-geo-order-amid-market-slowdown/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T17:47:29.275532Z",
+            "shown_at": [
+                "2025-03-03T17:47:29.692470Z"
             ]
         }
     ]

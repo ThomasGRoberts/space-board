@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 19 | 40 |
+| spacenews | 3 | 6 | 20 | 41 |
 | nyt | 0 | 4 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
@@ -1051,3 +1051,4 @@
 - **Mar 03, 05:41 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 05:43 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 05:45 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 03, 05:47 PM** - Maxar wins mystery commercial GEO order amid market slowdown (spacenews)
