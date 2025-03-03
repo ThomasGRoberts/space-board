@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 19 | 40 |
-| nyt | 0 | 4 | 18 | 39 |
+| spacenews | 4 | 6 | 20 | 41 |
+| nyt | 0 | 4 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -1055,3 +1055,4 @@
 - **Mar 03, 06:02 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 03, 06:15 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 03, 06:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 03, 06:43 PM** - Falcon 9 booster lost after droneship landing (spacenews)

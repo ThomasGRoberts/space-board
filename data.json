@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cba8d8b9bece16fe17c3a298a5ac4046",
+    "trigger_count": 0,
+    "current_item_id": "02b59a513a799296446add7c933e1e9e",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2589,6 +2589,18 @@
             "fetched_datetime": "2025-03-03T17:47:29.275532Z",
             "shown_at": [
                 "2025-03-03T17:47:29.692470Z"
+            ]
+        },
+        {
+            "id": "02b59a513a799296446add7c933e1e9e",
+            "source": "spacenews",
+            "text": "Falcon 9 booster lost after droneship landing",
+            "source_link": "https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T18:43:34.419058Z",
+            "shown_at": [
+                "2025-03-03T18:43:34.962469Z"
             ]
         }
     ]
