@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 20 | 40 |
-| nyt | 0 | 4 | 18 | 38 |
+| nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -1056,3 +1056,4 @@
 - **Mar 03, 06:15 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 03, 06:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 03, 06:43 PM** - Falcon 9 booster lost after droneship landing (spacenews)
+- **Mar 03, 06:59 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
