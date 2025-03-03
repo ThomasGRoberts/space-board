@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 40 |
 | nyt | 0 | 4 | 18 | 39 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -1048,3 +1048,4 @@
 - **Mar 03, 01:09 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 01:11 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 01:13 PM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
+- **Mar 03, 01:27 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
