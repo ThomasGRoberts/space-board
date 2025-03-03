@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 19 | 39 |
+| spacenews | 5 | 7 | 20 | 40 |
 | nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 38 |
@@ -1067,3 +1067,4 @@
 - **Mar 03, 07:29 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 03, 07:43 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 03, 07:57 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 03, 08:13 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
