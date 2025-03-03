@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14a6f52499e0f5a26a808330ddb24636",
+    "trigger_count": 0,
+    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2487,6 +2487,20 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "eacf525baa97c18f19ce270cb7d25e09",
+            "source": "supercluster",
+            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/ceres-14",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-03T08:10:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-03T08:15:30.855310Z",
+            "shown_at": [
+                "2025-03-03T08:15:31.285910Z"
             ]
         }
     ]
