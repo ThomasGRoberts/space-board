@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 40 |
-| nyt | 3 | 4 | 20 | 40 |
+| nyt | 3 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1017,3 +1017,4 @@
 - **Mar 03, 05:25 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Mar 03, 05:39 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Mar 03, 05:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 03, 05:55 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
