@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 19 | 40 |
-| nyt | 0 | 4 | 18 | 38 |
+| spacenews | 1 | 4 | 18 | 40 |
+| nyt | 0 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -1017,3 +1017,4 @@
 - **Mar 03, 09:25 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 09:45 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 03, 10:05 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
+- **Mar 03, 10:19 AM** - Embracing Darkness on the Isle of Rum (nyt)
