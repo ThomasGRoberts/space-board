@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ce608b560e28fbc2557baa723a814db",
+    "trigger_count": 0,
+    "current_item_id": "a343f1a36b6574da3fb3796872edf014",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2609,6 +2609,18 @@
             "fetched_datetime": "2025-03-03T18:43:34.419058Z",
             "shown_at": [
                 "2025-03-03T18:43:34.962469Z"
+            ]
+        },
+        {
+            "id": "a343f1a36b6574da3fb3796872edf014",
+            "source": "breaking_defense",
+            "text": "How to stop American AI from becoming the next Myspace",
+            "source_link": "https://breakingdefense.com/2025/03/how-to-stop-american-ai-from-becoming-the-next-myspace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T19:29:32.554069Z",
+            "shown_at": [
+                "2025-03-03T19:29:33.059683Z"
             ]
         }
     ]
