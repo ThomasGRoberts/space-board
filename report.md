@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 19 | 40 |
-| nyt | 0 | 4 | 18 | 38 |
+| spacenews | 1 | 4 | 18 | 40 |
+| nyt | 0 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -1028,3 +1028,4 @@
 - **Mar 03, 10:47 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 11:01 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 03, 11:15 AM** - Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation (spacenews)
+- **Mar 03, 11:29 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
