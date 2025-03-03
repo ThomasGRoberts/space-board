@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 18 | 39 |
 | nyt | 0 | 4 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -1015,3 +1015,4 @@
 - **Mar 03, 09:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 09:21 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 09:25 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 03, 09:45 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
