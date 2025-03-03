@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 40 |
 | nyt | 2 | 4 | 20 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 0 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -1010,4 +1010,4 @@
 - **Mar 03, 07:33 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 03, 07:47 AM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Mar 03, 08:02 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
-- **Mar 03, 08:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 03, 08:37 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
