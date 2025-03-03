@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 20 | 40 |
+| spacenews | 6 | 8 | 21 | 41 |
 | nyt | 1 | 5 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 17 | 37 |
@@ -1090,3 +1090,4 @@
 - **Mar 03, 10:07 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 03, 10:21 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 10:35 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 03, 10:49 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
