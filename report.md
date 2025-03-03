@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 19 | 40 |
 | nyt | 0 | 4 | 18 | 38 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 38 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -1066,3 +1066,4 @@
 - **Mar 03, 07:15 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 03, 07:29 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 03, 07:43 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 03, 07:57 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
