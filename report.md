@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 18 | 39 |
+| spacenews | 1 | 4 | 19 | 40 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 38 |
@@ -1038,3 +1038,4 @@
 - **Mar 03, 11:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 11:57 AM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 03, 12:11 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 03, 12:31 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
