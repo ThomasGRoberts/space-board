@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 20 | 40 |
 | nyt | 0 | 4 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -1054,3 +1054,4 @@
 - **Mar 03, 05:47 PM** - Maxar wins mystery commercial GEO order amid market slowdown (spacenews)
 - **Mar 03, 06:02 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 03, 06:15 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 03, 06:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
