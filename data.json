@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
+    "trigger_count": 0,
+    "current_item_id": "7c78b41f5a6e9781c529ad5639332d8a",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2665,6 +2665,18 @@
             "fetched_datetime": "2025-03-03T21:39:31.571284Z",
             "shown_at": [
                 "2025-03-03T21:39:32.079392Z"
+            ]
+        },
+        {
+            "id": "7c78b41f5a6e9781c529ad5639332d8a",
+            "source": "nyt",
+            "text": "SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T22:07:45.536935Z",
+            "shown_at": [
+                "2025-03-03T22:07:46.609540Z"
             ]
         }
     ]
