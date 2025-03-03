@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 40 |
+| spacenews | 2 | 4 | 20 | 41 |
 | nyt | 3 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -1014,3 +1014,4 @@
 - **Mar 03, 04:51 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 03, 04:53 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 05:09 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 03, 05:25 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
