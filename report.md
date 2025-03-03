@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 19 | 40 |
-| nyt | 0 | 4 | 18 | 39 |
+| nyt | 0 | 4 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -1045,3 +1045,4 @@
 - **Mar 03, 05:05 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 05:19 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
 - **Mar 03, 05:33 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 03, 05:35 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
