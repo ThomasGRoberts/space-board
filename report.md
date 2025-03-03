@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 19 | 40 |
-| nyt | 0 | 4 | 18 | 38 |
+| nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -1040,3 +1040,4 @@
 - **Mar 03, 04:31 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 04:33 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 04:36 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 03, 04:37 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
