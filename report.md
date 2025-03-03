@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 1 | 1 | 17 | 37 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -1058,3 +1058,4 @@
 - **Mar 03, 10:49 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Mar 03, 11:17 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 03, 11:31 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 03, 11:33 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
