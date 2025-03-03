@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1057,3 +1057,4 @@
 - **Mar 03, 06:29 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 03, 06:43 PM** - Falcon 9 booster lost after droneship landing (spacenews)
 - **Mar 03, 06:59 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 03, 07:02 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
