@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 20 | 40 |
 | nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -1052,3 +1052,4 @@
 - **Mar 03, 05:43 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 05:45 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 05:47 PM** - Maxar wins mystery commercial GEO order amid market slowdown (spacenews)
+- **Mar 03, 06:02 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
