@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -1052,3 +1052,4 @@
 - **Mar 03, 01:41 PM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
 - **Mar 03, 01:57 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 02:13 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 03, 02:27 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
