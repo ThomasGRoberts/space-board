@@ -6,7 +6,7 @@
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -1044,3 +1044,4 @@
 - **Mar 03, 04:51 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 03, 05:05 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 05:19 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
+- **Mar 03, 05:33 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
