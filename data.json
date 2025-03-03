@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6fe4ba363bdc0b75495b2054f6c0af4",
+    "trigger_count": 0,
+    "current_item_id": "b7bc375fe95cd193914d6c3de5c2d8f6",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2548,6 +2548,18 @@
             "shown_at": [
                 "2025-03-03T09:25:41.701153Z",
                 "2025-03-03T10:47:40.575814Z"
+            ]
+        },
+        {
+            "id": "b7bc375fe95cd193914d6c3de5c2d8f6",
+            "source": "spacenews",
+            "text": "Radiation as a service: How the private sector can protect America’s space infrastructure",
+            "source_link": "https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T13:13:14.360595Z",
+            "shown_at": [
+                "2025-03-03T13:13:14.909684Z"
             ]
         }
     ]
