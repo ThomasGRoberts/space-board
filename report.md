@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 41 |
-| nyt | 4 | 4 | 20 | 40 |
+| nyt | 4 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 133 | 175 |
 | breaking_defense | 0 | 0 | 20 | 39 |
@@ -1168,3 +1168,4 @@
 - **Mar 03, 02:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 03, 02:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 03, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 03, 02:13 AM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
