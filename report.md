@@ -5,8 +5,8 @@
 | spacenews | 3 | 5 | 19 | 40 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 27 | 27 |
+| breaking_defense | 0 | 0 | 17 | 37 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -1054,3 +1054,4 @@
 - **Mar 03, 02:13 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 03, 02:27 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 02:29 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 03, 02:32 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
