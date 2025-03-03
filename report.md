@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 19 | 40 |
+| spacenews | 3 | 5 | 20 | 41 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
@@ -1043,3 +1043,4 @@
 - **Mar 03, 04:37 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 04:51 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 03, 05:05 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 03, 05:19 PM** - Time to refocus: America needs a stronger Space Force (spacenews)
