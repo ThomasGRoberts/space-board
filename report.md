@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 41 |
 | nyt | 4 | 4 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | supercluster | 0 | 1 | 133 | 161 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
@@ -1148,3 +1148,4 @@
 - **Mar 02, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 02, 11:41 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 02, 11:55 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 03, 12:11 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
