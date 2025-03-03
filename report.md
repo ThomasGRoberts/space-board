@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 19 | 40 |
-| nyt | 0 | 4 | 17 | 38 |
+| nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 1 | 1 | 18 | 38 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -1076,3 +1076,4 @@
 - **Mar 03, 08:37 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 08:39 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 03, 08:41 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 03, 08:55 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
