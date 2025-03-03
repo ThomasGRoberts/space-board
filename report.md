@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 41 |
-| nyt | 4 | 4 | 21 | 40 |
+| nyt | 4 | 4 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| supercluster | 0 | 1 | 126 | 168 |
+| supercluster | 0 | 1 | 127 | 169 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -1161,3 +1161,4 @@
 - **Mar 03, 01:13 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Mar 03, 01:29 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 03, 01:43 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
+- **Mar 03, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
