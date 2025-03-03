@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 41 |
 | nyt | 4 | 4 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | supercluster | 0 | 1 | 133 | 168 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
@@ -1159,3 +1159,4 @@
 - **Mar 03, 12:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 03, 12:56 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 03, 01:13 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
+- **Mar 03, 01:29 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
