@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 20 | 40 |
+| spacenews | 6 | 8 | 21 | 41 |
 | nyt | 0 | 4 | 17 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 17 | 37 |
@@ -1079,3 +1079,4 @@
 - **Mar 03, 08:55 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 03, 09:11 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 03, 09:26 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
+- **Mar 03, 09:39 PM** - BAE lands $151 million contract for missile-warning satellite ground system (spacenews)

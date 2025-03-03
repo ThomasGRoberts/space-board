@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "68de52e7c6bb29226cf34faef65f3de4",
+    "trigger_count": 0,
+    "current_item_id": "0a9390b4c028e7db901ea67c057b75c0",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2646,6 +2646,18 @@
             "fetched_datetime": "2025-03-03T20:13:36.319230Z",
             "shown_at": [
                 "2025-03-03T20:13:36.821790Z"
+            ]
+        },
+        {
+            "id": "0a9390b4c028e7db901ea67c057b75c0",
+            "source": "spacenews",
+            "text": "BAE lands $151 million contract for missile-warning satellite ground system",
+            "source_link": "https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T21:39:31.571284Z",
+            "shown_at": [
+                "2025-03-03T21:39:32.079392Z"
             ]
         }
     ]
