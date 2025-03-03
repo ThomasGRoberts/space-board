@@ -1,9 +1,99 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-02T00:02:03.045664+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
+    "trigger_count": 3,
     "current_item_id": "7ce608b560e28fbc2557baa723a814db",
     "data": [
+        {
+            "id": "0d0c3bede3c767262abf09fb3c0054e6",
+            "source": "spacenews",
+            "text": "Air Force selects Pacific landing sites to test space cargo deliveries",
+            "source_link": "https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T17:21:28.110029Z",
+            "shown_at": [
+                "2025-03-02T17:21:28.627362Z"
+            ]
+        },
+        {
+            "id": "28e871da8fa8ee5d3b57dc229ffb7df3",
+            "source": "nyt",
+            "text": "Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon",
+            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T09:33:38.040384Z",
+            "shown_at": [
+                "2025-03-02T09:33:38.500044Z",
+                "2025-03-02T13:07:44.716153Z"
+            ]
+        },
+        {
+            "id": "42fccbba07c3e46e49099ab85a6d3c70",
+            "source": "spacenews",
+            "text": "Firefly’s Blue Ghost 1 lands on the moon",
+            "source_link": "https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T09:05:30.895363Z",
+            "shown_at": [
+                "2025-03-02T09:05:31.424212Z",
+                "2025-03-02T16:09:39.542663Z"
+            ]
+        },
+        {
+            "id": "14a6f52499e0f5a26a808330ddb24636",
+            "source": "nyt",
+            "text": "Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon",
+            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T08:49:35.943672Z",
+            "shown_at": [
+                "2025-03-02T08:49:37.701544Z",
+                "2025-03-02T23:41:36.273576Z"
+            ]
+        },
+        {
+            "id": "e8c6eb724f31701fa143313c53b4b7f5",
+            "source": "aidy",
+            "text": "NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T08:35:31.669039Z",
+            "shown_at": [
+                "2025-03-02T08:35:32.160915Z",
+                "2025-03-02T14:45:06.544170Z"
+            ]
+        },
+        {
+            "id": "17770e46e9b615f8718385d70b0ddeba",
+            "source": "nyt",
+            "text": "Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing",
+            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T07:37:49.259063Z",
+            "shown_at": [
+                "2025-03-02T07:37:50.014276Z"
+            ]
+        },
+        {
+            "id": "bb229e518665d7694a8c60fef3ca64e0",
+            "source": "nyt",
+            "text": "How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing",
+            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-02T03:09:23.210030Z",
+            "shown_at": [
+                "2025-03-02T03:09:23.537178Z",
+                "2025-03-02T15:27:38.605566Z",
+                "2025-03-02T18:59:26.737350Z"
+            ]
+        },
         {
             "id": "0ca583a394792b9fe64ffaca68bad16e",
             "source": "spacenews",
@@ -2548,96 +2638,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "bb229e518665d7694a8c60fef3ca64e0",
-            "source": "nyt",
-            "text": "How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing",
-            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T03:09:23.210030Z",
-            "shown_at": [
-                "2025-03-02T03:09:23.537178Z",
-                "2025-03-02T15:27:38.605566Z",
-                "2025-03-02T18:59:26.737350Z"
-            ]
-        },
-        {
-            "id": "17770e46e9b615f8718385d70b0ddeba",
-            "source": "nyt",
-            "text": "Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing",
-            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T07:37:49.259063Z",
-            "shown_at": [
-                "2025-03-02T07:37:50.014276Z"
-            ]
-        },
-        {
-            "id": "e8c6eb724f31701fa143313c53b4b7f5",
-            "source": "aidy",
-            "text": "NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T08:35:31.669039Z",
-            "shown_at": [
-                "2025-03-02T08:35:32.160915Z",
-                "2025-03-02T14:45:06.544170Z"
-            ]
-        },
-        {
-            "id": "14a6f52499e0f5a26a808330ddb24636",
-            "source": "nyt",
-            "text": "Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon",
-            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T08:49:35.943672Z",
-            "shown_at": [
-                "2025-03-02T08:49:37.701544Z",
-                "2025-03-02T23:41:36.273576Z"
-            ]
-        },
-        {
-            "id": "42fccbba07c3e46e49099ab85a6d3c70",
-            "source": "spacenews",
-            "text": "Firefly’s Blue Ghost 1 lands on the moon",
-            "source_link": "https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T09:05:30.895363Z",
-            "shown_at": [
-                "2025-03-02T09:05:31.424212Z",
-                "2025-03-02T16:09:39.542663Z"
-            ]
-        },
-        {
-            "id": "28e871da8fa8ee5d3b57dc229ffb7df3",
-            "source": "nyt",
-            "text": "Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon",
-            "source_link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T09:33:38.040384Z",
-            "shown_at": [
-                "2025-03-02T09:33:38.500044Z",
-                "2025-03-02T13:07:44.716153Z"
-            ]
-        },
-        {
-            "id": "0d0c3bede3c767262abf09fb3c0054e6",
-            "source": "spacenews",
-            "text": "Air Force selects Pacific landing sites to test space cargo deliveries",
-            "source_link": "https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T17:21:28.110029Z",
-            "shown_at": [
-                "2025-03-02T17:21:28.627362Z"
             ]
         }
     ]
