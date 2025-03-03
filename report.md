@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 19 | 40 |
+| spacenews | 3 | 5 | 20 | 41 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
@@ -1071,3 +1071,4 @@
 - **Mar 03, 03:51 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 03:53 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 03:55 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Mar 03, 04:09 PM** - FAA gives approval for next Starship test flight (spacenews)
