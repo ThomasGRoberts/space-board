@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 40 |
-| nyt | 2 | 4 | 19 | 39 |
+| nyt | 2 | 4 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -1037,3 +1037,4 @@
 - **Mar 03, 07:17 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 03, 07:33 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 03, 07:47 AM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
+- **Mar 03, 08:02 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
