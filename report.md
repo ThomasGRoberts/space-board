@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 19 | 39 |
 | aidy | 0 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -1012,3 +1012,4 @@
 - **Mar 03, 08:02 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 03, 09:11 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 09:16 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 03, 09:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
