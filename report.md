@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 40 |
+| spacenews | 3 | 5 | 20 | 41 |
 | nyt | 0 | 4 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
@@ -1049,3 +1049,4 @@
 - **Mar 03, 01:11 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 03, 01:13 PM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
 - **Mar 03, 01:27 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 03, 01:41 PM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)

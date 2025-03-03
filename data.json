@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-03T00:02:08.235304+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cba8d8b9bece16fe17c3a298a5ac4046",
+    "trigger_count": 0,
+    "current_item_id": "f59c791cc2bc7709fbcc5cba9c07a76d",
     "data": [
         {
             "id": "0d0c3bede3c767262abf09fb3c0054e6",
@@ -2561,6 +2561,18 @@
             "fetched_datetime": "2025-03-03T13:13:14.360595Z",
             "shown_at": [
                 "2025-03-03T13:13:14.909684Z"
+            ]
+        },
+        {
+            "id": "f59c791cc2bc7709fbcc5cba9c07a76d",
+            "source": "spacenews",
+            "text": "End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper",
+            "source_link": "https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-03T13:41:22.950094Z",
+            "shown_at": [
+                "2025-03-03T13:41:23.557449Z"
             ]
         }
     ]
