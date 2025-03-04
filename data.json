@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c046b8a400acdc67d6e76493e18c7431",
+    "trigger_count": 0,
+    "current_item_id": "c7893741134a87b93e4fcd9c8a784711",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2860,6 +2860,18 @@
             "fetched_datetime": "2025-03-04T21:23:35.731089Z",
             "shown_at": [
                 "2025-03-04T21:23:36.246192Z"
+            ]
+        },
+        {
+            "id": "c7893741134a87b93e4fcd9c8a784711",
+            "source": "spacenews",
+            "text": "Space launch executives warn U.S. infrastructure unprepared for coming launch surge",
+            "source_link": "https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T21:39:31.994341Z",
+            "shown_at": [
+                "2025-03-04T21:39:32.523870Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 7 | 24 |
-| spacenews | 8 | 13 | 12 | 32 |
+| spacenews | 8 | 14 | 12 | 33 |
 | breaking_defense | 2 | 3 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 2 | 2 | 42 | 42 |
@@ -1126,3 +1126,4 @@
 - **Mar 04, 08:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 04, 09:09 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 04, 09:23 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
+- **Mar 04, 09:39 PM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
