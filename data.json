@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0eea273096d08f09273d59afc2ff3912",
+    "trigger_count": 0,
+    "current_item_id": "368608108b2e05748a429a9742f78bae",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2719,9 +2719,12 @@
             "source": "spacenews",
             "text": "Space Force chief calls for greater focus on ‘space superiority’",
             "source_link": "https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413882Z"
+            "fetched_datetime": "2025-03-04T14:15:38.413882Z",
+            "shown_at": [
+                "2025-03-04T15:13:35.278740Z"
+            ]
         },
         {
             "id": "6014834ccec20370e706afbf1cd730bf",
