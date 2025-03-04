@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 6 | 24 |
+| nyt | 1 | 3 | 7 | 25 |
 | spacenews | 8 | 14 | 12 | 32 |
 | breaking_defense | 2 | 3 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 24 |
@@ -1145,3 +1145,4 @@
 - **Mar 04, 11:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 11:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 04, 11:21 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
