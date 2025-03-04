@@ -6,7 +6,7 @@
 | spacenews | 9 | 12 | 12 | 31 |
 | breaking_defense | 1 | 1 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -1082,3 +1082,4 @@
 - **Mar 04, 04:11 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
 - **Mar 04, 04:25 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 04:39 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 04, 04:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
