@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 7 | 24 |
+| nyt | 3 | 3 | 8 | 25 |
 | spacenews | 8 | 14 | 12 | 32 |
 | breaking_defense | 2 | 3 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 24 |
@@ -1134,3 +1134,4 @@
 - **Mar 04, 10:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 10:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 04, 10:07 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
