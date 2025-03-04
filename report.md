@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 8 | 25 |
+| nyt | 3 | 3 | 7 | 25 |
 | spacenews | 7 | 12 | 12 | 31 |
 | breaking_defense | 2 | 3 | 6 | 24 |
-| aidy | 1 | 2 | 7 | 24 |
+| aidy | 1 | 2 | 8 | 25 |
 | supercluster | 2 | 2 | 42 | 42 |
 
 # Shown Order
@@ -1123,3 +1123,4 @@
 - **Mar 04, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 08:27 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Mar 04, 08:41 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 04, 08:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
