@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 7 | 25 |
-| spacenews | 8 | 11 | 12 | 31 |
+| spacenews | 9 | 12 | 12 | 31 |
 | breaking_defense | 1 | 1 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -1079,3 +1079,4 @@
 - **Mar 04, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 03:55 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 04, 04:11 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)

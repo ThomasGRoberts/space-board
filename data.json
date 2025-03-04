@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cba8d8b9bece16fe17c3a298a5ac4046",
+    "trigger_count": 0,
+    "current_item_id": "da1a1c970936d78dadce702162c8b9b4",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2745,6 +2745,18 @@
             "fetched_datetime": "2025-03-04T14:31:43.632639Z",
             "shown_at": [
                 "2025-03-04T14:31:44.035245Z"
+            ]
+        },
+        {
+            "id": "da1a1c970936d78dadce702162c8b9b4",
+            "source": "spacenews",
+            "text": "Astranis demonstrates GPS capability in race for Space Force contract",
+            "source_link": "https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T16:11:34.954586Z",
+            "shown_at": [
+                "2025-03-04T16:11:35.394389Z"
             ]
         }
     ]
