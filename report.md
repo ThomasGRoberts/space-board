@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 7 | 24 |
 | spacenews | 8 | 14 | 12 | 32 |
-| breaking_defense | 2 | 3 | 7 | 24 |
+| breaking_defense | 2 | 3 | 8 | 25 |
 | aidy | 1 | 2 | 8 | 25 |
 | supercluster | 2 | 2 | 56 | 56 |
 
@@ -1147,3 +1147,4 @@
 - **Mar 04, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 11:21 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 11:35 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 04, 11:49 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
