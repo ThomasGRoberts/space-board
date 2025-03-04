@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 8 | 25 |
 | spacenews | 9 | 12 | 12 | 31 |
-| breaking_defense | 1 | 1 | 7 | 24 |
+| breaking_defense | 1 | 1 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -1081,3 +1081,4 @@
 - **Mar 04, 03:55 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Mar 04, 04:11 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
 - **Mar 04, 04:25 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
+- **Mar 04, 04:39 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
