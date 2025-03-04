@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 20 | 41 |
-| nyt | 2 | 6 | 17 | 38 |
-| aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 1 | 1 | 17 | 37 |
-| supercluster | 1 | 1 | 7 | 7 |
+| nyt | 2 | 2 | 8 | 26 |
+| spacenews | 4 | 7 | 9 | 29 |
+| breaking_defense | 1 | 1 | 8 | 25 |
+| aidy | 0 | 1 | 7 | 25 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1057,10 +1057,4 @@
 - **Mar 03, 10:35 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 03, 10:49 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Mar 03, 11:17 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
-- **Mar 03, 11:31 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:33 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:35 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:37 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:39 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:41 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
-- **Mar 03, 11:43 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 04, 01:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
