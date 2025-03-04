@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35cc067eebfdcb2b223e3ceb4b06cb38",
+    "trigger_count": 0,
+    "current_item_id": "af9b1b9b57835a92dcfe32354b2d7a27",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2677,6 +2677,45 @@
             "shown_at": [
                 "2025-03-04T14:01:38.916698Z"
             ]
+        },
+        {
+            "id": "af9b1b9b57835a92dcfe32354b2d7a27",
+            "source": "spacenews",
+            "text": "Albedo secures $12 million STRATFI contract",
+            "source_link": "https://spacenews.com/albedo-secures-12-million-stratfi-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413760Z",
+            "shown_at": [
+                "2025-03-04T14:15:39.316606Z"
+            ]
+        },
+        {
+            "id": "356b37c5c5791fee1de3cd780caa12a9",
+            "source": "spacenews",
+            "text": "SpaceX scrubs Starship launch",
+            "source_link": "https://spacenews.com/spacex-scrubs-starship-launch/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413811Z"
+        },
+        {
+            "id": "0eea273096d08f09273d59afc2ff3912",
+            "source": "spacenews",
+            "text": "Spire demonstrates optical links between cubesats",
+            "source_link": "https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413847Z"
+        },
+        {
+            "id": "368608108b2e05748a429a9742f78bae",
+            "source": "spacenews",
+            "text": "Space Force chief calls for greater focus on ‘space superiority’",
+            "source_link": "https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413882Z"
         }
     ]
 }

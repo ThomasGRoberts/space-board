@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 8 | 26 |
-| spacenews | 4 | 7 | 9 | 28 |
+| nyt | 2 | 2 | 7 | 26 |
+| spacenews | 8 | 11 | 10 | 29 |
 | breaking_defense | 1 | 1 | 7 | 25 |
 | aidy | 1 | 2 | 8 | 26 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -1065,3 +1065,4 @@
 - **Mar 04, 01:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 01:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 04, 02:01 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 04, 02:15 PM** - Albedo secures $12 million STRATFI contract (spacenews)
