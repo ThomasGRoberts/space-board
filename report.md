@@ -6,7 +6,7 @@
 | spacenews | 8 | 14 | 12 | 33 |
 | breaking_defense | 2 | 3 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 24 |
-| supercluster | 2 | 2 | 42 | 42 |
+| supercluster | 2 | 2 | 43 | 43 |
 
 # Shown Order
 
@@ -1127,3 +1127,4 @@
 - **Mar 04, 09:09 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 04, 09:23 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 04, 09:39 PM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
+- **Mar 04, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
