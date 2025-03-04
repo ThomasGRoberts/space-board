@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 8 | 26 |
-| spacenews | 8 | 11 | 10 | 30 |
+| spacenews | 8 | 11 | 11 | 31 |
 | breaking_defense | 1 | 1 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -1068,3 +1068,4 @@
 - **Mar 04, 02:15 PM** - Albedo secures $12 million STRATFI contract (spacenews)
 - **Mar 04, 02:31 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 02:45 PM** - SpaceX scrubs Starship launch (spacenews)
+- **Mar 04, 02:59 PM** - Spire demonstrates optical links between cubesats (spacenews)

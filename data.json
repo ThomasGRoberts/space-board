@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "356b37c5c5791fee1de3cd780caa12a9",
+    "trigger_count": 0,
+    "current_item_id": "0eea273096d08f09273d59afc2ff3912",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2707,9 +2707,12 @@
             "source": "spacenews",
             "text": "Spire demonstrates optical links between cubesats",
             "source_link": "https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413847Z"
+            "fetched_datetime": "2025-03-04T14:15:38.413847Z",
+            "shown_at": [
+                "2025-03-04T14:59:40.096142Z"
+            ]
         },
         {
             "id": "368608108b2e05748a429a9742f78bae",
