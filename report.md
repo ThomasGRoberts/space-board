@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 7 | 25 |
 | spacenews | 8 | 11 | 11 | 31 |
 | breaking_defense | 2 | 2 | 7 | 24 |
-| aidy | 1 | 2 | 7 | 24 |
+| aidy | 1 | 2 | 8 | 25 |
 | supercluster | 2 | 2 | 28 | 28 |
 
 # Shown Order
@@ -1100,3 +1100,4 @@
 - **Mar 04, 05:49 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 04, 05:51 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Mar 04, 06:05 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 04, 06:19 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
