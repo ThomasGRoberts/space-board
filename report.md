@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 7 | 25 |
-| spacenews | 7 | 12 | 12 | 31 |
+| nyt | 3 | 3 | 7 | 24 |
+| spacenews | 8 | 13 | 13 | 32 |
 | breaking_defense | 2 | 3 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 2 | 2 | 42 | 42 |
@@ -1125,3 +1125,4 @@
 - **Mar 04, 08:41 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 08:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 04, 09:09 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 04, 09:23 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a343f1a36b6574da3fb3796872edf014",
+    "trigger_count": 0,
+    "current_item_id": "c046b8a400acdc67d6e76493e18c7431",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2848,6 +2848,18 @@
             "fetched_datetime": "2025-03-04T19:15:17.611775Z",
             "shown_at": [
                 "2025-03-04T19:15:18.140239Z"
+            ]
+        },
+        {
+            "id": "c046b8a400acdc67d6e76493e18c7431",
+            "source": "spacenews",
+            "text": "Isar Aerospace secures first Asian customer ahead of debut launch",
+            "source_link": "https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T21:23:35.731089Z",
+            "shown_at": [
+                "2025-03-04T21:23:36.246192Z"
             ]
         }
     ]
