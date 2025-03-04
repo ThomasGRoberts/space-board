@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 7 | 25 |
 | spacenews | 7 | 12 | 12 | 31 |
-| breaking_defense | 2 | 3 | 6 | 24 |
+| breaking_defense | 2 | 3 | 7 | 25 |
 | aidy | 1 | 2 | 8 | 25 |
 | supercluster | 2 | 2 | 42 | 42 |
 
@@ -1124,3 +1124,4 @@
 - **Mar 04, 08:27 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Mar 04, 08:41 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 08:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 04, 09:09 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
