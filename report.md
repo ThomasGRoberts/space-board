@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 7 | 24 |
+| nyt | 3 | 3 | 8 | 25 |
 | spacenews | 8 | 11 | 11 | 31 |
 | breaking_defense | 2 | 2 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 25 |
@@ -1099,3 +1099,4 @@
 - **Mar 04, 05:46 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 04, 05:49 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 04, 05:51 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
+- **Mar 04, 06:05 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
