@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 7 | 24 |
-| spacenews | 8 | 14 | 12 | 32 |
+| spacenews | 8 | 14 | 12 | 33 |
 | breaking_defense | 2 | 3 | 7 | 24 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 2 | 2 | 49 | 49 |
@@ -1137,3 +1137,4 @@
 - **Mar 04, 10:07 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 04, 10:22 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 04, 10:37 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
+- **Mar 04, 10:51 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
