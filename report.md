@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 7 | 25 |
-| spacenews | 8 | 11 | 11 | 31 |
-| breaking_defense | 2 | 2 | 7 | 24 |
+| spacenews | 8 | 11 | 11 | 30 |
+| breaking_defense | 3 | 3 | 8 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 2 | 2 | 28 | 28 |
 
@@ -1101,3 +1101,4 @@
 - **Mar 04, 05:51 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Mar 04, 06:05 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 04, 06:19 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
+- **Mar 04, 06:33 PM** - New thinking needed to safeguard our spectrum (breaking_defense)

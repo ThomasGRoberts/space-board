@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cba8d8b9bece16fe17c3a298a5ac4046",
+    "trigger_count": 0,
+    "current_item_id": "561f8825949f5e6e98c911a88e591649",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2802,6 +2802,18 @@
                 "2025-03-04T17:43:29.349839Z",
                 "2025-03-04T17:46:15.901115Z",
                 "2025-03-04T17:49:27.471944Z"
+            ]
+        },
+        {
+            "id": "561f8825949f5e6e98c911a88e591649",
+            "source": "breaking_defense",
+            "text": "New thinking needed to safeguard our spectrum",
+            "source_link": "https://breakingdefense.com/2025/03/new-thinking-needed-to-safeguard-our-spectrum/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T18:33:35.554031Z",
+            "shown_at": [
+                "2025-03-04T18:33:35.974099Z"
             ]
         }
     ]
