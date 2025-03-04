@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 7 | 24 |
-| spacenews | 8 | 12 | 12 | 31 |
+| spacenews | 7 | 12 | 11 | 31 |
 | breaking_defense | 2 | 3 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
-| supercluster | 2 | 2 | 36 | 36 |
+| supercluster | 2 | 2 | 37 | 37 |
 
 # Shown Order
 
@@ -1115,3 +1115,4 @@
 - **Mar 04, 07:43 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 04, 07:57 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 04, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 04, 08:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
