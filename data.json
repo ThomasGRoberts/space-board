@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "223e5f2257dfa09ce3edde1f19a3d8b3",
+    "trigger_count": 0,
+    "current_item_id": "048ab1b1a5455ba060ac82d4cf1dc427",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2822,6 +2822,18 @@
             "fetched_datetime": "2025-03-04T18:33:35.554031Z",
             "shown_at": [
                 "2025-03-04T18:33:35.974099Z"
+            ]
+        },
+        {
+            "id": "048ab1b1a5455ba060ac82d4cf1dc427",
+            "source": "spacenews",
+            "text": "Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference",
+            "source_link": "https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T19:15:17.611775Z",
+            "shown_at": [
+                "2025-03-04T19:15:18.140239Z"
             ]
         }
     ]
