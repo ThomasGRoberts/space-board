@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6014834ccec20370e706afbf1cd730bf",
+    "trigger_count": 0,
+    "current_item_id": "356b37c5c5791fee1de3cd780caa12a9",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2695,9 +2695,12 @@
             "source": "spacenews",
             "text": "SpaceX scrubs Starship launch",
             "source_link": "https://spacenews.com/spacex-scrubs-starship-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413811Z"
+            "fetched_datetime": "2025-03-04T14:15:38.413811Z",
+            "shown_at": [
+                "2025-03-04T14:45:32.819324Z"
+            ]
         },
         {
             "id": "0eea273096d08f09273d59afc2ff3912",
