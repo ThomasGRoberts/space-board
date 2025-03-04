@@ -6,7 +6,7 @@
 | spacenews | 8 | 12 | 12 | 31 |
 | breaking_defense | 2 | 3 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
-| supercluster | 2 | 2 | 35 | 35 |
+| supercluster | 2 | 2 | 36 | 36 |
 
 # Shown Order
 
@@ -1114,3 +1114,4 @@
 - **Mar 04, 07:29 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 04, 07:43 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 04, 07:57 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 04, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
