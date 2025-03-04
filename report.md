@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 8 | 26 |
 | spacenews | 8 | 11 | 12 | 31 |
-| breaking_defense | 1 | 1 | 6 | 24 |
+| breaking_defense | 1 | 1 | 7 | 25 |
 | aidy | 1 | 2 | 7 | 25 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -1070,3 +1070,4 @@
 - **Mar 04, 02:45 PM** - SpaceX scrubs Starship launch (spacenews)
 - **Mar 04, 02:59 PM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 04, 03:13 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
+- **Mar 04, 03:27 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
