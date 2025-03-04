@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 6,
-    "current_item_id": "af9b1b9b57835a92dcfe32354b2d7a27",
+    "trigger_count": 0,
+    "current_item_id": "6014834ccec20370e706afbf1cd730bf",
     "data": [
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
@@ -2716,6 +2716,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-03-04T14:15:38.413882Z"
+        },
+        {
+            "id": "6014834ccec20370e706afbf1cd730bf",
+            "source": "nyt",
+            "text": "SpaceX Scrubs 8th Starship Rocket Test Flight",
+            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:31:43.632639Z",
+            "shown_at": [
+                "2025-03-04T14:31:44.035245Z"
+            ]
         }
     ]
 }
