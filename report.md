@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 21 | 35 |
+| spacenews | 10 | 16 | 22 | 36 |
 | breaking_defense | 2 | 3 | 15 | 26 |
 | supercluster | 2 | 2 | 63 | 63 |
 | nyt | 1 | 3 | 14 | 25 |
@@ -1185,3 +1185,4 @@
 - **Mar 05, 09:01 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 09:03 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 09:05 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
+- **Mar 05, 09:19 AM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
