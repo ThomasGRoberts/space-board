@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 12 | 24 |
 | supercluster | 2 | 2 | 49 | 49 |
 | nyt | 1 | 3 | 12 | 25 |
-| aidy | 1 | 2 | 12 | 24 |
+| aidy | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -1161,3 +1161,4 @@
 - **Mar 05, 06:17 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:21 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 06:23 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
