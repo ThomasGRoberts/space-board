@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 35 |
-| breaking_defense | 2 | 5 | 19 | 27 |
+| breaking_defense | 2 | 5 | 20 | 28 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 70 | 70 |
@@ -1224,3 +1224,4 @@
 - **Mar 05, 07:07 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:09 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:11 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 07:14 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
