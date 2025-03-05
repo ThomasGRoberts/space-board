@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 36 |
-| breaking_defense | 2 | 3 | 16 | 25 |
+| breaking_defense | 2 | 3 | 17 | 26 |
 | supercluster | 2 | 2 | 77 | 77 |
 | nyt | 1 | 3 | 16 | 25 |
 | aidy | 2 | 2 | 17 | 26 |
@@ -1207,3 +1207,4 @@
 - **Mar 05, 11:35 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 11:37 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 11:39 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 11:42 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
