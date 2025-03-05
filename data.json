@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb229e518665d7694a8c60fef3ca64e0",
+    "trigger_count": 0,
+    "current_item_id": "ed6e0338920999d966dac5b863fc3b74",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -2965,6 +2965,18 @@
             "fetched_datetime": "2025-03-05T08:35:27.874937Z",
             "shown_at": [
                 "2025-03-05T08:35:28.242826Z"
+            ]
+        },
+        {
+            "id": "ed6e0338920999d966dac5b863fc3b74",
+            "source": "spacenews",
+            "text": "Apex’s first satellite marks one year in orbit",
+            "source_link": "https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T09:47:42.203433Z",
+            "shown_at": [
+                "2025-03-05T09:47:42.727535Z"
             ]
         }
     ]
