@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 34 |
 | breaking_defense | 2 | 3 | 10 | 25 |
-| supercluster | 3 | 3 | 77 | 77 |
+| supercluster | 3 | 3 | 78 | 78 |
 | nyt | 1 | 3 | 10 | 25 |
 | aidy | 1 | 2 | 10 | 25 |
 
@@ -1180,3 +1180,4 @@
 - **Mar 05, 02:47 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 05, 03:01 AM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
 - **Mar 05, 03:15 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Mar 05, 03:31 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
