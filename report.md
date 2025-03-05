@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 24 | 36 |
-| breaking_defense | 4 | 5 | 20 | 27 |
+| breaking_defense | 4 | 5 | 20 | 26 |
 | nyt | 0 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
-| supercluster | 3 | 3 | 51 | 51 |
+| supercluster | 3 | 3 | 52 | 52 |
 
 # Shown Order
 
@@ -1197,3 +1197,4 @@
 - **Mar 05, 04:02 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
 - **Mar 05, 04:33 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 04:35 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 04:37 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
