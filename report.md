@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 36 |
+| spacenews | 8 | 15 | 24 | 35 |
 | breaking_defense | 2 | 4 | 19 | 26 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
-| supercluster | 3 | 3 | 70 | 70 |
+| supercluster | 3 | 3 | 71 | 71 |
 
 # Shown Order
 
@@ -1228,3 +1228,4 @@
 - **Mar 05, 07:29 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 05, 07:43 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 05, 07:59 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
+- **Mar 05, 08:13 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
