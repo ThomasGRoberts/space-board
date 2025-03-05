@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 24 | 36 |
 | breaking_defense | 4 | 5 | 20 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 56 | 56 |
 
 # Shown Order
@@ -1204,3 +1204,4 @@
 - **Mar 05, 04:45 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 04:47 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
 - **Mar 05, 05:05 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Mar 05, 05:19 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
