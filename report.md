@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 20 | 35 |
 | breaking_defense | 2 | 3 | 13 | 25 |
 | supercluster | 2 | 2 | 49 | 49 |
-| nyt | 1 | 3 | 12 | 24 |
+| nyt | 1 | 3 | 13 | 25 |
 | aidy | 1 | 2 | 13 | 25 |
 
 # Shown Order
@@ -1164,3 +1164,4 @@
 - **Mar 05, 06:23 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 06:38 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 05, 06:51 AM** - FAA gives approval for next Starship test flight (spacenews)
+- **Mar 05, 07:05 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
