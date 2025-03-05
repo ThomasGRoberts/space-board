@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 34 |
 | breaking_defense | 2 | 3 | 10 | 25 |
-| supercluster | 3 | 3 | 79 | 79 |
+| supercluster | 3 | 3 | 80 | 80 |
 | nyt | 1 | 3 | 10 | 25 |
 | aidy | 1 | 2 | 10 | 25 |
 
@@ -1182,3 +1182,4 @@
 - **Mar 05, 03:15 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 05, 03:31 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 03:33 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 03:35 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
