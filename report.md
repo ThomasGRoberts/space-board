@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 20 | 35 |
-| breaking_defense | 2 | 3 | 13 | 25 |
-| supercluster | 2 | 2 | 49 | 49 |
+| breaking_defense | 2 | 3 | 13 | 24 |
+| supercluster | 2 | 2 | 50 | 50 |
 | nyt | 1 | 3 | 13 | 25 |
 | aidy | 1 | 2 | 13 | 25 |
 
@@ -1165,3 +1165,4 @@
 - **Mar 05, 06:38 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 05, 06:51 AM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 05, 07:05 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
+- **Mar 05, 07:19 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
