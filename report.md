@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 20 | 34 |
+| spacenews | 10 | 16 | 21 | 35 |
 | breaking_defense | 2 | 3 | 14 | 25 |
 | supercluster | 2 | 2 | 56 | 56 |
-| nyt | 1 | 3 | 13 | 25 |
+| nyt | 1 | 3 | 13 | 24 |
 | aidy | 1 | 2 | 14 | 25 |
 
 # Shown Order
@@ -1174,3 +1174,4 @@
 - **Mar 05, 07:31 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:33 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 05, 07:48 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 05, 08:03 AM** - Spire demonstrates optical links between cubesats (spacenews)
