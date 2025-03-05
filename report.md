@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 25 | 36 |
+| spacenews | 9 | 17 | 25 | 35 |
 | breaking_defense | 3 | 5 | 19 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
-| supercluster | 3 | 3 | 56 | 56 |
+| supercluster | 3 | 3 | 57 | 57 |
 
 # Shown Order
 
@@ -1206,3 +1206,4 @@
 - **Mar 05, 05:05 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 05, 05:19 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 05, 05:33 PM** - SpaceX scrubs Starship launch (spacenews)
+- **Mar 05, 05:47 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
