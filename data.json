@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8d6693c59bd7b50f480e2cac23b5d420",
+    "trigger_count": 0,
+    "current_item_id": "a32a7b289d9d16411247f003f8fecd3c",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -2943,6 +2943,18 @@
             "fetched_datetime": "2025-03-05T04:29:25.891893Z",
             "shown_at": [
                 "2025-03-05T04:29:26.401186Z"
+            ]
+        },
+        {
+            "id": "a32a7b289d9d16411247f003f8fecd3c",
+            "source": "aidy",
+            "text": "Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T08:35:27.874937Z",
+            "shown_at": [
+                "2025-03-05T08:35:28.242826Z"
             ]
         }
     ]
