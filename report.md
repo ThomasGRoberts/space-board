@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 22 | 34 |
+| spacenews | 7 | 15 | 23 | 35 |
 | breaking_defense | 4 | 6 | 21 | 28 |
-| nyt | 0 | 3 | 18 | 25 |
+| nyt | 0 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
 
@@ -1248,3 +1248,4 @@
 - **Mar 05, 10:02 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:03 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:05 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 10:07 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
