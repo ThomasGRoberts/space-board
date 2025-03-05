@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 12 | 32 |
+| spacenews | 8 | 14 | 13 | 33 |
 | breaking_defense | 2 | 3 | 8 | 24 |
 | supercluster | 2 | 2 | 56 | 56 |
 | nyt | 1 | 3 | 7 | 24 |
@@ -1148,3 +1148,4 @@
 - **Mar 04, 11:21 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 04, 11:35 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 04, 11:49 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
+- **Mar 05, 12:03 AM** - Space industry hunts for ways to adapt to Trump’s trade policies (spacenews)
