@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 15 | 33 |
 | breaking_defense | 2 | 3 | 9 | 24 |
 | supercluster | 3 | 3 | 70 | 70 |
-| nyt | 1 | 3 | 8 | 24 |
+| nyt | 1 | 3 | 9 | 25 |
 | aidy | 1 | 2 | 9 | 24 |
 
 # Shown Order
@@ -1168,3 +1168,4 @@
 - **Mar 05, 01:17 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 05, 01:31 AM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
 - **Mar 05, 01:47 AM** - SpaceX scrubs Starship launch (spacenews)
+- **Mar 05, 02:02 AM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
