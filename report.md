@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 17 | 34 |
+| spacenews | 10 | 16 | 18 | 35 |
 | breaking_defense | 2 | 3 | 11 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
 | nyt | 1 | 3 | 10 | 24 |
@@ -1190,3 +1190,4 @@
 - **Mar 05, 03:45 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 05, 03:59 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 05, 04:15 AM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
+- **Mar 05, 04:29 AM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da1a1c970936d78dadce702162c8b9b4",
+    "trigger_count": 0,
+    "current_item_id": "7353cfe17aaaf3061cc867e239f67ed4",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -2959,6 +2959,18 @@
                 "2025-03-05T02:25:56.185787Z",
                 "2025-03-05T02:27:40.768369Z",
                 "2025-03-05T02:29:45.471922Z"
+            ]
+        },
+        {
+            "id": "7353cfe17aaaf3061cc867e239f67ed4",
+            "source": "spacenews",
+            "text": "NASA to launch Earth science smallsat mission on Firefly Alpha",
+            "source_link": "https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T04:29:25.891893Z",
+            "shown_at": [
+                "2025-03-05T04:29:26.401186Z"
             ]
         }
     ]
