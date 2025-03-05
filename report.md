@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 8 | 23 |
 | supercluster | 3 | 3 | 70 | 70 |
 | nyt | 1 | 3 | 8 | 24 |
-| aidy | 1 | 2 | 8 | 24 |
+| aidy | 1 | 2 | 9 | 25 |
 
 # Shown Order
 
@@ -1165,3 +1165,4 @@
 - **Mar 05, 01:11 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 01:13 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 01:15 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 01:17 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
