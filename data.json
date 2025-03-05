@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9475214f0b0b778ca513ad14c969ca4",
+    "trigger_count": 0,
+    "current_item_id": "4b3ce04188fc0344f506ce96ff36ff83",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3154,6 +3154,18 @@
             "fetched_datetime": "2025-03-05T22:35:52.138670Z",
             "shown_at": [
                 "2025-03-05T22:35:52.937389Z"
+            ]
+        },
+        {
+            "id": "4b3ce04188fc0344f506ce96ff36ff83",
+            "source": "spacenews",
+            "text": "AST SpaceMobile charts another path for European space sovereignty",
+            "source_link": "https://spacenews.com/ast-spacemobile-charts-another-path-for-european-space-sovereignty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T23:17:43.326464Z",
+            "shown_at": [
+                "2025-03-05T23:17:44.279168Z"
             ]
         }
     ]
