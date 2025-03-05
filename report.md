@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 36 |
 | breaking_defense | 2 | 3 | 16 | 25 |
-| supercluster | 2 | 2 | 70 | 70 |
+| supercluster | 2 | 2 | 71 | 71 |
 | nyt | 1 | 3 | 16 | 26 |
 | aidy | 2 | 2 | 17 | 26 |
 
@@ -1200,3 +1200,4 @@
 - **Mar 05, 10:45 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Mar 05, 10:59 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 05, 11:13 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Mar 05, 11:27 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
