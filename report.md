@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 16 | 26 | 35 |
+| spacenews | 13 | 17 | 27 | 36 |
 | breaking_defense | 2 | 3 | 18 | 25 |
 | supercluster | 3 | 3 | 91 | 91 |
 | nyt | 1 | 3 | 18 | 26 |
@@ -1229,3 +1229,4 @@
 - **Mar 05, 01:22 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 05, 01:37 PM** - ISS astronauts reject call for early retirement of the station (spacenews)
 - **Mar 05, 01:51 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 05, 02:05 PM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
