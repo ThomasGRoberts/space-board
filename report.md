@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 24 | 35 |
 | breaking_defense | 3 | 5 | 20 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 63 | 63 |
 
 # Shown Order
@@ -1215,3 +1215,4 @@
 - **Mar 05, 05:59 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:02 PM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 05, 06:15 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Mar 05, 06:29 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
