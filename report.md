@@ -5,7 +5,7 @@
 | spacenews | 11 | 17 | 23 | 36 |
 | breaking_defense | 2 | 3 | 16 | 26 |
 | supercluster | 2 | 2 | 70 | 70 |
-| nyt | 1 | 3 | 15 | 25 |
+| nyt | 1 | 3 | 16 | 26 |
 | aidy | 2 | 2 | 16 | 26 |
 
 # Shown Order
@@ -1197,3 +1197,4 @@
 - **Mar 05, 10:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:31 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
+- **Mar 05, 10:45 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
