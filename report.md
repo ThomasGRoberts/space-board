@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 17 | 25 |
 | supercluster | 2 | 2 | 77 | 77 |
 | nyt | 1 | 3 | 17 | 26 |
-| aidy | 2 | 2 | 17 | 25 |
+| aidy | 2 | 2 | 18 | 26 |
 
 # Shown Order
 
@@ -1210,3 +1210,4 @@
 - **Mar 05, 11:42 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 05, 11:55 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
+- **Mar 05, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
