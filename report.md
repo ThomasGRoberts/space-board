@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 24 | 36 |
+| spacenews | 11 | 17 | 25 | 37 |
 | breaking_defense | 2 | 3 | 17 | 26 |
 | supercluster | 2 | 2 | 77 | 77 |
 | nyt | 1 | 3 | 17 | 26 |
@@ -1209,3 +1209,4 @@
 - **Mar 05, 11:39 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 11:42 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 05, 11:55 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
