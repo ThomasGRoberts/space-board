@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 19 | 35 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| supercluster | 2 | 2 | 44 | 44 |
+| supercluster | 2 | 2 | 45 | 45 |
 | nyt | 1 | 3 | 12 | 25 |
 | aidy | 1 | 2 | 12 | 25 |
 
@@ -1156,3 +1156,4 @@
 - **Mar 05, 05:55 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 05, 06:09 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:11 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 06:13 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
