@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 35 |
+| spacenews | 8 | 16 | 24 | 36 |
 | breaking_defense | 4 | 6 | 21 | 27 |
 | nyt | 0 | 2 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 17 | 24 |
 | supercluster | 3 | 3 | 84 | 84 |
 
 # Shown Order
@@ -1250,3 +1250,4 @@
 - **Mar 05, 10:05 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:07 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
 - **Mar 05, 10:21 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
+- **Mar 05, 10:35 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)

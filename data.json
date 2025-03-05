@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c78b41f5a6e9781c529ad5639332d8a",
+    "trigger_count": 0,
+    "current_item_id": "37a0fab9d86e0ee9240ffb4599044f71",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3140,6 +3140,18 @@
             "fetched_datetime": "2025-03-05T21:39:33.445771Z",
             "shown_at": [
                 "2025-03-05T21:39:33.916360Z"
+            ]
+        },
+        {
+            "id": "37a0fab9d86e0ee9240ffb4599044f71",
+            "source": "spacenews",
+            "text": "Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort",
+            "source_link": "https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T22:35:52.138670Z",
+            "shown_at": [
+                "2025-03-05T22:35:52.937389Z"
             ]
         }
     ]
