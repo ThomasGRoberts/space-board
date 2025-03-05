@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 11 | 24 |
 | supercluster | 3 | 3 | 91 | 91 |
 | nyt | 1 | 3 | 11 | 25 |
-| aidy | 1 | 2 | 11 | 24 |
+| aidy | 1 | 2 | 12 | 25 |
 
 # Shown Order
 
@@ -1199,3 +1199,4 @@
 - **Mar 05, 05:07 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 05:09 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 05:12 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 05:13 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
