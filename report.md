@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 25 | 35 |
+| spacenews | 9 | 16 | 24 | 35 |
 | breaking_defense | 2 | 5 | 19 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
-| supercluster | 3 | 3 | 65 | 65 |
+| supercluster | 3 | 3 | 66 | 66 |
 
 # Shown Order
 
@@ -1219,3 +1219,4 @@
 - **Mar 05, 06:43 PM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
 - **Mar 05, 06:57 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 06:59 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 07:01 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
