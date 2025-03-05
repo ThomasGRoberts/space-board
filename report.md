@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 35 |
-| breaking_defense | 2 | 5 | 20 | 27 |
-| nyt | 0 | 3 | 18 | 25 |
+| breaking_defense | 2 | 4 | 20 | 26 |
+| nyt | 0 | 3 | 18 | 26 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 70 | 70 |
 
@@ -1225,3 +1225,4 @@
 - **Mar 05, 07:09 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:11 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:14 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 05, 07:29 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
