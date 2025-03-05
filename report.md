@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 22 | 36 |
 | breaking_defense | 2 | 3 | 15 | 26 |
 | supercluster | 2 | 2 | 63 | 63 |
-| nyt | 1 | 3 | 14 | 25 |
+| nyt | 1 | 3 | 15 | 26 |
 | aidy | 2 | 2 | 15 | 25 |
 
 # Shown Order
@@ -1186,3 +1186,4 @@
 - **Mar 05, 09:03 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 09:05 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
 - **Mar 05, 09:19 AM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
+- **Mar 05, 09:33 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
