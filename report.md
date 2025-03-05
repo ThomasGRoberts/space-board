@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 24 | 36 |
-| breaking_defense | 4 | 5 | 19 | 26 |
+| breaking_defense | 4 | 5 | 20 | 27 |
 | nyt | 0 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 56 | 56 |
@@ -1202,3 +1202,4 @@
 - **Mar 05, 04:42 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 04:43 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 04:45 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 04:47 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
