@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 18 | 35 |
 | breaking_defense | 2 | 3 | 11 | 24 |
-| supercluster | 3 | 3 | 86 | 86 |
+| supercluster | 3 | 3 | 87 | 87 |
 | nyt | 1 | 3 | 11 | 25 |
 | aidy | 1 | 2 | 11 | 25 |
 
@@ -1194,3 +1194,4 @@
 - **Mar 05, 04:43 AM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 05, 04:57 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 04:59 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 05:02 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
