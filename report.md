@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 24 | 36 |
+| spacenews | 10 | 18 | 25 | 37 |
 | breaking_defense | 4 | 6 | 21 | 28 |
 | nyt | 0 | 1 | 17 | 24 |
 | aidy | 1 | 2 | 17 | 25 |
@@ -1205,3 +1205,4 @@
 - **Mar 05, 11:39 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:41 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
