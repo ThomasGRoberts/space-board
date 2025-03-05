@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 23 | 36 |
 | breaking_defense | 3 | 5 | 20 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 77 | 77 |
 
 # Shown Order
@@ -1239,3 +1239,4 @@
 - **Mar 05, 08:41 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 05, 08:55 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 05, 09:11 PM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
+- **Mar 05, 09:25 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
