@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 13 | 24 |
 | supercluster | 2 | 2 | 56 | 56 |
 | nyt | 1 | 3 | 13 | 25 |
-| aidy | 1 | 2 | 13 | 25 |
+| aidy | 1 | 2 | 14 | 26 |
 
 # Shown Order
 
@@ -1172,3 +1172,4 @@
 - **Mar 05, 07:27 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:29 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 07:31 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 07:33 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
