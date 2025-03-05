@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 36 |
 | breaking_defense | 2 | 4 | 20 | 26 |
-| nyt | 0 | 3 | 17 | 25 |
+| nyt | 0 | 3 | 18 | 26 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 77 | 77 |
 
@@ -1237,3 +1237,4 @@
 - **Mar 05, 08:25 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 08:27 PM** - Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector (spacenews)
 - **Mar 05, 08:41 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
+- **Mar 05, 08:55 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
