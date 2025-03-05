@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
+    "trigger_count": 0,
+    "current_item_id": "f74d5afb3c437b4eafa17aea338e6e89",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3092,6 +3092,18 @@
                 "2025-03-05T17:55:44.477231Z",
                 "2025-03-05T17:57:52.746855Z",
                 "2025-03-05T17:59:33.326572Z"
+            ]
+        },
+        {
+            "id": "f74d5afb3c437b4eafa17aea338e6e89",
+            "source": "spacenews",
+            "text": "Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector",
+            "source_link": "https://spacenews.com/silicon-valley-players-aim-to-follow-spacexs-disruptive-path-in-defense-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T20:27:31.302920Z",
+            "shown_at": [
+                "2025-03-05T20:27:31.937189Z"
             ]
         }
     ]
