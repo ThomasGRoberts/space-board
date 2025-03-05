@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 25 | 37 |
 | breaking_defense | 4 | 6 | 20 | 28 |
-| nyt | 0 | 1 | 17 | 24 |
+| nyt | 0 | 1 | 18 | 25 |
 | aidy | 1 | 2 | 17 | 25 |
 | supercluster | 2 | 2 | 35 | 35 |
 
@@ -1206,3 +1206,4 @@
 - **Mar 05, 11:41 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
+- **Mar 05, 11:59 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
