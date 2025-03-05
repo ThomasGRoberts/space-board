@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 18 | 26 |
 | supercluster | 3 | 3 | 91 | 91 |
 | nyt | 1 | 3 | 18 | 26 |
-| aidy | 2 | 2 | 18 | 25 |
+| aidy | 2 | 2 | 19 | 26 |
 
 # Shown Order
 
@@ -1228,3 +1228,4 @@
 - **Mar 05, 01:19 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 01:22 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 05, 01:37 PM** - ISS astronauts reject call for early retirement of the station (spacenews)
+- **Mar 05, 01:51 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
