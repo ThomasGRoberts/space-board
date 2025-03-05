@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 36 |
-| breaking_defense | 2 | 3 | 18 | 25 |
+| breaking_defense | 2 | 3 | 19 | 26 |
 | supercluster | 3 | 3 | 91 | 91 |
 | nyt | 1 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 26 |
@@ -1230,3 +1230,4 @@
 - **Mar 05, 01:37 PM** - ISS astronauts reject call for early retirement of the station (spacenews)
 - **Mar 05, 01:51 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 05, 02:05 PM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
+- **Mar 05, 02:19 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
