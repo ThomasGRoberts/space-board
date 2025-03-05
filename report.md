@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 24 | 35 |
+| spacenews | 9 | 18 | 25 | 36 |
 | breaking_defense | 3 | 5 | 19 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
@@ -1205,3 +1205,4 @@
 - **Mar 05, 04:47 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
 - **Mar 05, 05:05 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 05, 05:19 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 05, 05:33 PM** - SpaceX scrubs Starship launch (spacenews)
