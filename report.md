@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 25 | 36 |
 | breaking_defense | 2 | 3 | 17 | 25 |
-| supercluster | 2 | 2 | 77 | 77 |
+| supercluster | 2 | 2 | 78 | 78 |
 | nyt | 1 | 3 | 17 | 26 |
 | aidy | 2 | 2 | 18 | 26 |
 
@@ -1211,3 +1211,4 @@
 - **Mar 05, 11:55 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 05, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 05, 12:37 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
