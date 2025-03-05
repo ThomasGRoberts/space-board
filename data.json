@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28e871da8fa8ee5d3b57dc229ffb7df3",
+    "trigger_count": 0,
+    "current_item_id": "1ec9b750ac2982aac0e2dfcef28637f8",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3029,6 +3029,18 @@
                 "2025-03-05T13:15:37.781353Z",
                 "2025-03-05T13:17:53.225185Z",
                 "2025-03-05T13:19:37.213622Z"
+            ]
+        },
+        {
+            "id": "1ec9b750ac2982aac0e2dfcef28637f8",
+            "source": "spacenews",
+            "text": "ISS astronauts reject call for early retirement of the station",
+            "source_link": "https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T13:37:36.425941Z",
+            "shown_at": [
+                "2025-03-05T13:37:36.979924Z"
             ]
         }
     ]
