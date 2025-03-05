@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 24 | 35 |
+| spacenews | 9 | 16 | 25 | 35 |
 | breaking_defense | 2 | 5 | 19 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
@@ -1216,3 +1216,4 @@
 - **Mar 05, 06:02 PM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 05, 06:15 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 05, 06:29 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 05, 06:43 PM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
