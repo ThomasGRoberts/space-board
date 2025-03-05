@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 37 |
 | breaking_defense | 2 | 3 | 19 | 26 |
-| supercluster | 3 | 3 | 91 | 91 |
+| supercluster | 3 | 3 | 92 | 92 |
 | nyt | 0 | 3 | 17 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 
@@ -1232,3 +1232,4 @@
 - **Mar 05, 02:05 PM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
 - **Mar 05, 02:19 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 05, 02:33 PM** - SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration (spacenews)
+- **Mar 05, 02:47 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
