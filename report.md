@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 14 | 33 |
 | breaking_defense | 2 | 3 | 8 | 24 |
-| supercluster | 3 | 3 | 65 | 65 |
+| supercluster | 3 | 3 | 66 | 66 |
 | nyt | 1 | 3 | 8 | 24 |
 | aidy | 1 | 2 | 8 | 24 |
 
@@ -1160,3 +1160,4 @@
 - **Mar 05, 12:47 AM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 05, 01:02 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 01:05 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 01:07 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
