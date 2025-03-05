@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17770e46e9b615f8718385d70b0ddeba",
+    "trigger_count": 0,
+    "current_item_id": "f2b9fbde45e318f6cbde22ccf92c95cb",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3106,6 +3106,18 @@
             "fetched_datetime": "2025-03-05T20:27:31.302920Z",
             "shown_at": [
                 "2025-03-05T20:27:31.937189Z"
+            ]
+        },
+        {
+            "id": "f2b9fbde45e318f6cbde22ccf92c95cb",
+            "source": "breaking_defense",
+            "text": "AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times",
+            "source_link": "https://breakingdefense.com/2025/03/ast-kayhan-leolabs-team-to-demo-capability-to-reduce-space-force-satellite-tracking-times/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T21:11:54.415857Z",
+            "shown_at": [
+                "2025-03-05T21:11:55.518185Z"
             ]
         }
     ]

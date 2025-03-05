@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 36 |
-| breaking_defense | 2 | 4 | 19 | 26 |
+| breaking_defense | 3 | 5 | 20 | 27 |
 | nyt | 0 | 3 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 17 | 24 |
 | supercluster | 3 | 3 | 77 | 77 |
 
 # Shown Order
@@ -1238,3 +1238,4 @@
 - **Mar 05, 08:27 PM** - Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector (spacenews)
 - **Mar 05, 08:41 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 05, 08:55 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 05, 09:11 PM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
