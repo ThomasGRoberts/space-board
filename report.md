@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 14 | 33 |
 | breaking_defense | 2 | 3 | 8 | 24 |
 | supercluster | 2 | 2 | 63 | 63 |
-| nyt | 1 | 3 | 7 | 24 |
+| nyt | 1 | 3 | 8 | 25 |
 | aidy | 1 | 2 | 8 | 24 |
 
 # Shown Order
@@ -1157,3 +1157,4 @@
 - **Mar 05, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 05, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 05, 12:32 AM** - Raven Space Systems reveals NASA and AFRL research agreements (spacenews)
+- **Mar 05, 12:47 AM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
