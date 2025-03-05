@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 15 | 33 |
 | breaking_defense | 2 | 3 | 9 | 24 |
-| supercluster | 3 | 3 | 73 | 73 |
+| supercluster | 3 | 3 | 74 | 74 |
 | nyt | 1 | 3 | 9 | 24 |
 | aidy | 1 | 2 | 9 | 24 |
 
@@ -1172,3 +1172,4 @@
 - **Mar 05, 02:17 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 02:19 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 02:21 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 02:23 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
