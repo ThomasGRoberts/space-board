@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 34 |
-| breaking_defense | 2 | 3 | 10 | 24 |
+| breaking_defense | 2 | 3 | 11 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
 | nyt | 1 | 3 | 10 | 25 |
 | aidy | 1 | 2 | 11 | 25 |
@@ -1188,3 +1188,4 @@
 - **Mar 05, 03:41 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 03:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 03:45 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 05, 03:59 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
