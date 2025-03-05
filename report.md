@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 35 |
+| spacenews | 8 | 16 | 24 | 36 |
 | breaking_defense | 2 | 4 | 19 | 26 |
 | nyt | 0 | 3 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
@@ -1227,3 +1227,4 @@
 - **Mar 05, 07:14 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 05, 07:29 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 05, 07:43 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
+- **Mar 05, 07:59 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
