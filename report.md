@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 23 | 35 |
 | breaking_defense | 4 | 6 | 21 | 28 |
-| nyt | 0 | 2 | 17 | 24 |
+| nyt | 0 | 2 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
 
@@ -1249,3 +1249,4 @@
 - **Mar 05, 10:03 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:05 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:07 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
+- **Mar 05, 10:21 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
