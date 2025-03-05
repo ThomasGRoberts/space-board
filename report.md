@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 23 | 36 |
+| spacenews | 11 | 17 | 24 | 37 |
 | breaking_defense | 2 | 3 | 16 | 26 |
 | supercluster | 2 | 2 | 70 | 70 |
 | nyt | 1 | 3 | 16 | 26 |
@@ -1198,3 +1198,4 @@
 - **Mar 05, 10:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 10:31 AM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Mar 05, 10:45 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
+- **Mar 05, 10:59 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
