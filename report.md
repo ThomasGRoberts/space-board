@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 18 | 35 |
-| breaking_defense | 2 | 3 | 11 | 24 |
+| spacenews | 10 | 16 | 18 | 34 |
+| breaking_defense | 2 | 3 | 12 | 25 |
 | supercluster | 3 | 3 | 91 | 91 |
 | nyt | 1 | 3 | 11 | 25 |
 | aidy | 1 | 2 | 12 | 25 |
@@ -1200,3 +1200,4 @@
 - **Mar 05, 05:09 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 05:12 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 05:13 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 05, 05:27 AM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
