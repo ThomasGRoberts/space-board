@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 15 | 33 |
+| spacenews | 9 | 15 | 16 | 34 |
 | breaking_defense | 2 | 3 | 10 | 25 |
 | supercluster | 3 | 3 | 77 | 77 |
 | nyt | 1 | 3 | 9 | 24 |
@@ -1178,3 +1178,4 @@
 - **Mar 05, 02:29 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 02:32 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 05, 02:47 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 05, 03:01 AM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
