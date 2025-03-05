@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 36 |
+| spacenews | 8 | 16 | 24 | 35 |
 | breaking_defense | 4 | 6 | 20 | 27 |
 | nyt | 0 | 2 | 18 | 25 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
 
 # Shown Order
@@ -1251,3 +1251,4 @@
 - **Mar 05, 10:07 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
 - **Mar 05, 10:21 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 05, 10:35 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
+- **Mar 05, 10:49 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
