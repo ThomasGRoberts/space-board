@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 10 | 24 |
 | supercluster | 3 | 3 | 84 | 84 |
 | nyt | 1 | 3 | 10 | 25 |
-| aidy | 1 | 2 | 10 | 25 |
+| aidy | 1 | 2 | 11 | 26 |
 
 # Shown Order
 
@@ -1187,3 +1187,4 @@
 - **Mar 05, 03:39 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 03:41 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 03:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 05, 03:45 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
