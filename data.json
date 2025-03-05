@@ -1,9 +1,239 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-04T13:47:36.179800+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
+    "trigger_count": 6,
     "current_item_id": "90bd9dc21f5863e85741d2afa03c3e08",
     "data": [
+        {
+            "id": "c7893741134a87b93e4fcd9c8a784711",
+            "source": "spacenews",
+            "text": "Space launch executives warn U.S. infrastructure unprepared for coming launch surge",
+            "source_link": "https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T21:39:31.994341Z",
+            "shown_at": [
+                "2025-03-04T21:39:32.523870Z"
+            ]
+        },
+        {
+            "id": "c046b8a400acdc67d6e76493e18c7431",
+            "source": "spacenews",
+            "text": "Isar Aerospace secures first Asian customer ahead of debut launch",
+            "source_link": "https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T21:23:35.731089Z",
+            "shown_at": [
+                "2025-03-04T21:23:36.246192Z"
+            ]
+        },
+        {
+            "id": "048ab1b1a5455ba060ac82d4cf1dc427",
+            "source": "spacenews",
+            "text": "Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference",
+            "source_link": "https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T19:15:17.611775Z",
+            "shown_at": [
+                "2025-03-04T19:15:18.140239Z"
+            ]
+        },
+        {
+            "id": "561f8825949f5e6e98c911a88e591649",
+            "source": "breaking_defense",
+            "text": "New thinking needed to safeguard our spectrum",
+            "source_link": "https://breakingdefense.com/2025/03/new-thinking-needed-to-safeguard-our-spectrum/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T18:33:35.554031Z",
+            "shown_at": [
+                "2025-03-04T18:33:35.974099Z"
+            ]
+        },
+        {
+            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
+            "source": "supercluster",
+            "text": "Arianespace Will Launch an Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/cso-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-05T16:24:00.000Z",
+            "time_remaining": "0d 21h 24m",
+            "fetched_datetime": "2025-03-04T17:35:43.408210Z",
+            "shown_at": [
+                "2025-03-04T17:35:44.430910Z",
+                "2025-03-04T17:37:35.229318Z",
+                "2025-03-04T17:39:36.077372Z",
+                "2025-03-04T17:41:47.706882Z",
+                "2025-03-04T17:43:29.349839Z",
+                "2025-03-04T17:46:15.901115Z",
+                "2025-03-04T17:49:27.471944Z",
+                "2025-03-04T18:47:12.993382Z",
+                "2025-03-04T18:49:35.159529Z",
+                "2025-03-04T18:51:43.273294Z",
+                "2025-03-04T18:53:29.524955Z",
+                "2025-03-04T18:55:21.682225Z",
+                "2025-03-04T18:57:38.852581Z",
+                "2025-03-04T18:59:38.053800Z"
+            ]
+        },
+        {
+            "id": "e633fac6079751766f11f80997f1db94",
+            "source": "breaking_defense",
+            "text": "Space Systems Command chief backs ‘important’ work of Space Development Agency",
+            "source_link": "https://breakingdefense.com/2025/03/space-systems-command-chief-backs-important-work-of-space-development-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T17:21:45.095388Z",
+            "shown_at": [
+                "2025-03-04T17:21:45.587562Z",
+                "2025-03-04T22:37:28.672498Z"
+            ]
+        },
+        {
+            "id": "da1a1c970936d78dadce702162c8b9b4",
+            "source": "spacenews",
+            "text": "Astranis demonstrates GPS capability in race for Space Force contract",
+            "source_link": "https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T16:11:34.954586Z",
+            "shown_at": [
+                "2025-03-04T16:11:35.394389Z"
+            ]
+        },
+        {
+            "id": "6014834ccec20370e706afbf1cd730bf",
+            "source": "nyt",
+            "text": "SpaceX Scrubs 8th Starship Rocket Test Flight",
+            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:31:43.632639Z",
+            "shown_at": [
+                "2025-03-04T14:31:44.035245Z",
+                "2025-03-04T20:41:41.399314Z"
+            ]
+        },
+        {
+            "id": "368608108b2e05748a429a9742f78bae",
+            "source": "spacenews",
+            "text": "Space Force chief calls for greater focus on ‘space superiority’",
+            "source_link": "https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413882Z",
+            "shown_at": [
+                "2025-03-04T15:13:35.278740Z"
+            ]
+        },
+        {
+            "id": "0eea273096d08f09273d59afc2ff3912",
+            "source": "spacenews",
+            "text": "Spire demonstrates optical links between cubesats",
+            "source_link": "https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413847Z",
+            "shown_at": [
+                "2025-03-04T14:59:40.096142Z"
+            ]
+        },
+        {
+            "id": "356b37c5c5791fee1de3cd780caa12a9",
+            "source": "spacenews",
+            "text": "SpaceX scrubs Starship launch",
+            "source_link": "https://spacenews.com/spacex-scrubs-starship-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413811Z",
+            "shown_at": [
+                "2025-03-04T14:45:32.819324Z"
+            ]
+        },
+        {
+            "id": "af9b1b9b57835a92dcfe32354b2d7a27",
+            "source": "spacenews",
+            "text": "Albedo secures $12 million STRATFI contract",
+            "source_link": "https://spacenews.com/albedo-secures-12-million-stratfi-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:15:38.413760Z",
+            "shown_at": [
+                "2025-03-04T14:15:39.316606Z"
+            ]
+        },
+        {
+            "id": "35cc067eebfdcb2b223e3ceb4b06cb38",
+            "source": "aidy",
+            "text": "Space Force Command Reforms Lead U.S. Space Policy Changes Today",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-04T14:01:38.500263Z",
+            "shown_at": [
+                "2025-03-04T14:01:38.916698Z",
+                "2025-03-04T17:07:56.208307Z",
+                "2025-03-04T22:22:22.876078Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-05T06:00:00.000Z",
+            "time_remaining": "0d 06h 40m",
+            "fetched_datetime": "2025-03-04T13:47:39.888056Z",
+            "shown_at": [
+                "2025-03-04T13:47:40.331391Z",
+                "2025-03-04T13:49:35.819459Z",
+                "2025-03-04T13:51:32.478496Z",
+                "2025-03-04T13:53:24.896785Z",
+                "2025-03-04T13:55:26.091544Z",
+                "2025-03-04T13:57:53.222418Z",
+                "2025-03-04T13:59:26.565119Z",
+                "2025-03-04T15:41:46.256685Z",
+                "2025-03-04T15:43:38.043041Z",
+                "2025-03-04T15:45:21.738274Z",
+                "2025-03-04T15:47:35.688055Z",
+                "2025-03-04T15:49:44.881276Z",
+                "2025-03-04T15:51:31.401106Z",
+                "2025-03-04T15:53:31.161522Z",
+                "2025-03-04T16:53:35.686293Z",
+                "2025-03-04T16:55:48.490554Z",
+                "2025-03-04T16:57:10.322905Z",
+                "2025-03-04T16:59:34.377941Z",
+                "2025-03-04T17:01:58.337900Z",
+                "2025-03-04T17:03:38.448691Z",
+                "2025-03-04T17:05:07.868772Z",
+                "2025-03-04T20:11:48.526974Z",
+                "2025-03-04T20:13:38.615877Z",
+                "2025-03-04T20:15:28.272274Z",
+                "2025-03-04T20:18:14.616265Z",
+                "2025-03-04T20:22:00.014447Z",
+                "2025-03-04T20:23:38.745652Z",
+                "2025-03-04T20:25:32.317867Z",
+                "2025-03-04T21:53:30.070340Z",
+                "2025-03-04T21:55:27.282324Z",
+                "2025-03-04T21:57:34.485433Z",
+                "2025-03-04T21:59:27.406280Z",
+                "2025-03-04T22:01:57.856760Z",
+                "2025-03-04T22:03:44.700490Z",
+                "2025-03-04T22:05:30.112994Z",
+                "2025-03-04T23:08:03.458281Z",
+                "2025-03-04T23:09:29.427173Z",
+                "2025-03-04T23:11:32.249028Z",
+                "2025-03-04T23:13:26.245304Z",
+                "2025-03-04T23:15:04.987246Z",
+                "2025-03-04T23:17:23.386155Z",
+                "2025-03-04T23:19:36.676992Z"
+            ]
+        },
         {
             "id": "506f019d9da8ee498f2bf9f76e50911f",
             "source": "nyt",
@@ -2663,236 +2893,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-05T06:00:00.000Z",
-            "time_remaining": "0d 06h 40m",
-            "fetched_datetime": "2025-03-04T13:47:39.888056Z",
-            "shown_at": [
-                "2025-03-04T13:47:40.331391Z",
-                "2025-03-04T13:49:35.819459Z",
-                "2025-03-04T13:51:32.478496Z",
-                "2025-03-04T13:53:24.896785Z",
-                "2025-03-04T13:55:26.091544Z",
-                "2025-03-04T13:57:53.222418Z",
-                "2025-03-04T13:59:26.565119Z",
-                "2025-03-04T15:41:46.256685Z",
-                "2025-03-04T15:43:38.043041Z",
-                "2025-03-04T15:45:21.738274Z",
-                "2025-03-04T15:47:35.688055Z",
-                "2025-03-04T15:49:44.881276Z",
-                "2025-03-04T15:51:31.401106Z",
-                "2025-03-04T15:53:31.161522Z",
-                "2025-03-04T16:53:35.686293Z",
-                "2025-03-04T16:55:48.490554Z",
-                "2025-03-04T16:57:10.322905Z",
-                "2025-03-04T16:59:34.377941Z",
-                "2025-03-04T17:01:58.337900Z",
-                "2025-03-04T17:03:38.448691Z",
-                "2025-03-04T17:05:07.868772Z",
-                "2025-03-04T20:11:48.526974Z",
-                "2025-03-04T20:13:38.615877Z",
-                "2025-03-04T20:15:28.272274Z",
-                "2025-03-04T20:18:14.616265Z",
-                "2025-03-04T20:22:00.014447Z",
-                "2025-03-04T20:23:38.745652Z",
-                "2025-03-04T20:25:32.317867Z",
-                "2025-03-04T21:53:30.070340Z",
-                "2025-03-04T21:55:27.282324Z",
-                "2025-03-04T21:57:34.485433Z",
-                "2025-03-04T21:59:27.406280Z",
-                "2025-03-04T22:01:57.856760Z",
-                "2025-03-04T22:03:44.700490Z",
-                "2025-03-04T22:05:30.112994Z",
-                "2025-03-04T23:08:03.458281Z",
-                "2025-03-04T23:09:29.427173Z",
-                "2025-03-04T23:11:32.249028Z",
-                "2025-03-04T23:13:26.245304Z",
-                "2025-03-04T23:15:04.987246Z",
-                "2025-03-04T23:17:23.386155Z",
-                "2025-03-04T23:19:36.676992Z"
-            ]
-        },
-        {
-            "id": "35cc067eebfdcb2b223e3ceb4b06cb38",
-            "source": "aidy",
-            "text": "Space Force Command Reforms Lead U.S. Space Policy Changes Today",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:01:38.500263Z",
-            "shown_at": [
-                "2025-03-04T14:01:38.916698Z",
-                "2025-03-04T17:07:56.208307Z",
-                "2025-03-04T22:22:22.876078Z"
-            ]
-        },
-        {
-            "id": "af9b1b9b57835a92dcfe32354b2d7a27",
-            "source": "spacenews",
-            "text": "Albedo secures $12 million STRATFI contract",
-            "source_link": "https://spacenews.com/albedo-secures-12-million-stratfi-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413760Z",
-            "shown_at": [
-                "2025-03-04T14:15:39.316606Z"
-            ]
-        },
-        {
-            "id": "356b37c5c5791fee1de3cd780caa12a9",
-            "source": "spacenews",
-            "text": "SpaceX scrubs Starship launch",
-            "source_link": "https://spacenews.com/spacex-scrubs-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413811Z",
-            "shown_at": [
-                "2025-03-04T14:45:32.819324Z"
-            ]
-        },
-        {
-            "id": "0eea273096d08f09273d59afc2ff3912",
-            "source": "spacenews",
-            "text": "Spire demonstrates optical links between cubesats",
-            "source_link": "https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413847Z",
-            "shown_at": [
-                "2025-03-04T14:59:40.096142Z"
-            ]
-        },
-        {
-            "id": "368608108b2e05748a429a9742f78bae",
-            "source": "spacenews",
-            "text": "Space Force chief calls for greater focus on ‘space superiority’",
-            "source_link": "https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413882Z",
-            "shown_at": [
-                "2025-03-04T15:13:35.278740Z"
-            ]
-        },
-        {
-            "id": "6014834ccec20370e706afbf1cd730bf",
-            "source": "nyt",
-            "text": "SpaceX Scrubs 8th Starship Rocket Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:31:43.632639Z",
-            "shown_at": [
-                "2025-03-04T14:31:44.035245Z",
-                "2025-03-04T20:41:41.399314Z"
-            ]
-        },
-        {
-            "id": "da1a1c970936d78dadce702162c8b9b4",
-            "source": "spacenews",
-            "text": "Astranis demonstrates GPS capability in race for Space Force contract",
-            "source_link": "https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T16:11:34.954586Z",
-            "shown_at": [
-                "2025-03-04T16:11:35.394389Z"
-            ]
-        },
-        {
-            "id": "e633fac6079751766f11f80997f1db94",
-            "source": "breaking_defense",
-            "text": "Space Systems Command chief backs ‘important’ work of Space Development Agency",
-            "source_link": "https://breakingdefense.com/2025/03/space-systems-command-chief-backs-important-work-of-space-development-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T17:21:45.095388Z",
-            "shown_at": [
-                "2025-03-04T17:21:45.587562Z",
-                "2025-03-04T22:37:28.672498Z"
-            ]
-        },
-        {
-            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
-            "source": "supercluster",
-            "text": "Arianespace Will Launch an Earth Observation Satellite",
-            "source_link": "https://www.supercluster.com/launches/cso-3",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-05T16:24:00.000Z",
-            "time_remaining": "0d 21h 24m",
-            "fetched_datetime": "2025-03-04T17:35:43.408210Z",
-            "shown_at": [
-                "2025-03-04T17:35:44.430910Z",
-                "2025-03-04T17:37:35.229318Z",
-                "2025-03-04T17:39:36.077372Z",
-                "2025-03-04T17:41:47.706882Z",
-                "2025-03-04T17:43:29.349839Z",
-                "2025-03-04T17:46:15.901115Z",
-                "2025-03-04T17:49:27.471944Z",
-                "2025-03-04T18:47:12.993382Z",
-                "2025-03-04T18:49:35.159529Z",
-                "2025-03-04T18:51:43.273294Z",
-                "2025-03-04T18:53:29.524955Z",
-                "2025-03-04T18:55:21.682225Z",
-                "2025-03-04T18:57:38.852581Z",
-                "2025-03-04T18:59:38.053800Z"
-            ]
-        },
-        {
-            "id": "561f8825949f5e6e98c911a88e591649",
-            "source": "breaking_defense",
-            "text": "New thinking needed to safeguard our spectrum",
-            "source_link": "https://breakingdefense.com/2025/03/new-thinking-needed-to-safeguard-our-spectrum/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T18:33:35.554031Z",
-            "shown_at": [
-                "2025-03-04T18:33:35.974099Z"
-            ]
-        },
-        {
-            "id": "048ab1b1a5455ba060ac82d4cf1dc427",
-            "source": "spacenews",
-            "text": "Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference",
-            "source_link": "https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T19:15:17.611775Z",
-            "shown_at": [
-                "2025-03-04T19:15:18.140239Z"
-            ]
-        },
-        {
-            "id": "c046b8a400acdc67d6e76493e18c7431",
-            "source": "spacenews",
-            "text": "Isar Aerospace secures first Asian customer ahead of debut launch",
-            "source_link": "https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T21:23:35.731089Z",
-            "shown_at": [
-                "2025-03-04T21:23:36.246192Z"
-            ]
-        },
-        {
-            "id": "c7893741134a87b93e4fcd9c8a784711",
-            "source": "spacenews",
-            "text": "Space launch executives warn U.S. infrastructure unprepared for coming launch surge",
-            "source_link": "https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T21:39:31.994341Z",
-            "shown_at": [
-                "2025-03-04T21:39:32.523870Z"
             ]
         }
     ]
