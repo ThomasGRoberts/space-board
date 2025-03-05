@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 13 | 32 |
+| spacenews | 9 | 15 | 14 | 33 |
 | breaking_defense | 2 | 3 | 8 | 24 |
 | supercluster | 2 | 2 | 63 | 63 |
 | nyt | 1 | 3 | 7 | 24 |
@@ -1156,3 +1156,4 @@
 - **Mar 05, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 05, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 05, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 05, 12:32 AM** - Raven Space Systems reveals NASA and AFRL research agreements (spacenews)
