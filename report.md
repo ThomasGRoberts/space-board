@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 19 | 35 |
-| breaking_defense | 2 | 3 | 12 | 24 |
+| spacenews | 10 | 16 | 19 | 34 |
+| breaking_defense | 2 | 3 | 13 | 25 |
 | supercluster | 2 | 2 | 49 | 49 |
 | nyt | 1 | 3 | 12 | 25 |
 | aidy | 1 | 2 | 13 | 25 |
@@ -1162,3 +1162,4 @@
 - **Mar 05, 06:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:21 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 05, 06:23 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Mar 05, 06:38 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
