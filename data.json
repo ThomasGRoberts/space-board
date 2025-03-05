@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90bd9dc21f5863e85741d2afa03c3e08",
+    "trigger_count": 0,
+    "current_item_id": "529f7f721227b4934a9fa551e6871c2d",
     "data": [
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
@@ -3055,6 +3055,18 @@
             "fetched_datetime": "2025-03-05T14:05:46.172110Z",
             "shown_at": [
                 "2025-03-05T14:05:46.684710Z"
+            ]
+        },
+        {
+            "id": "529f7f721227b4934a9fa551e6871c2d",
+            "source": "spacenews",
+            "text": "SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration",
+            "source_link": "https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T14:33:55.043834Z",
+            "shown_at": [
+                "2025-03-05T14:33:56.051033Z"
             ]
         }
     ]
