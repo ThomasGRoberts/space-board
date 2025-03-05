@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 9 | 24 |
 | supercluster | 3 | 3 | 77 | 77 |
 | nyt | 1 | 3 | 9 | 24 |
-| aidy | 1 | 2 | 9 | 24 |
+| aidy | 1 | 2 | 10 | 25 |
 
 # Shown Order
 
@@ -1176,3 +1176,4 @@
 - **Mar 05, 02:25 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 02:27 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 05, 02:29 AM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 05, 02:32 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
