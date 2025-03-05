@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 35 |
-| breaking_defense | 4 | 6 | 20 | 27 |
+| breaking_defense | 4 | 6 | 21 | 28 |
 | nyt | 0 | 2 | 18 | 25 |
 | aidy | 1 | 2 | 18 | 25 |
 | supercluster | 3 | 3 | 84 | 84 |
@@ -1252,3 +1252,4 @@
 - **Mar 05, 10:21 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 05, 10:35 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
 - **Mar 05, 10:49 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
+- **Mar 05, 11:03 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
