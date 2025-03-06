@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35cc067eebfdcb2b223e3ceb4b06cb38",
+    "trigger_count": 0,
+    "current_item_id": "f80d21e38cec48cdbc2c9ddfb22ef18c",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3220,6 +3220,18 @@
             "fetched_datetime": "2025-03-06T18:03:11.272657Z",
             "shown_at": [
                 "2025-03-06T18:03:11.846612Z"
+            ]
+        },
+        {
+            "id": "f80d21e38cec48cdbc2c9ddfb22ef18c",
+            "source": "spacenews",
+            "text": "IM-2 lunar lander touches down, status unclear",
+            "source_link": "https://spacenews.com/im-2-lunar-lander-touches-down-status-unclear/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:31:59.246249Z",
+            "shown_at": [
+                "2025-03-06T18:32:00.146105Z"
             ]
         }
     ]
