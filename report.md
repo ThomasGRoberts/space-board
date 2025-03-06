@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 45 |
 | breaking_defense | 4 | 6 | 22 | 37 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | aidy | 1 | 3 | 19 | 35 |
 | nyt | 0 | 1 | 18 | 33 |
 
@@ -1277,3 +1277,4 @@
 - **Mar 06, 09:47 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 06, 10:02 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 06, 10:17 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
+- **Mar 06, 10:31 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
