@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 24 | 48 |
 | breaking_defense | 3 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 1 | 17 | 35 |
+| nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -1258,3 +1258,4 @@
 - **Mar 06, 08:37 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 08:39 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 06, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
+- **Mar 06, 09:09 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
