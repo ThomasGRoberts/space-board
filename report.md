@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 23 | 48 |
+| spacenews | 8 | 17 | 23 | 47 |
 | breaking_defense | 4 | 7 | 20 | 40 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 18 | 36 |
 
@@ -1326,3 +1326,4 @@
 - **Mar 06, 03:56 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 04:09 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 04:11 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 04:13 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
