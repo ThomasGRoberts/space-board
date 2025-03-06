@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
+    "trigger_count": 0,
+    "current_item_id": "54db80e69eeb12268b98c80e66f345d4",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3297,6 +3297,18 @@
             "fetched_datetime": "2025-03-06T21:39:40.843107Z",
             "shown_at": [
                 "2025-03-06T21:39:41.418723Z"
+            ]
+        },
+        {
+            "id": "54db80e69eeb12268b98c80e66f345d4",
+            "source": "nyt",
+            "text": "SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T22:07:37.665040Z",
+            "shown_at": [
+                "2025-03-06T22:07:38.215018Z"
             ]
         }
     ]

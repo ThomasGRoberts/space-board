@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 25 | 47 |
+| spacenews | 11 | 18 | 24 | 47 |
 | breaking_defense | 2 | 6 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 2 | 2 | 19 | 36 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -1268,3 +1268,4 @@
 - **Mar 06, 10:02 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 10:03 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 10:05 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 06, 10:07 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
