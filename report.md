@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 45 |
 | breaking_defense | 4 | 6 | 21 | 37 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | aidy | 1 | 3 | 19 | 35 |
 | nyt | 0 | 1 | 18 | 33 |
 
@@ -1279,3 +1279,4 @@
 - **Mar 06, 10:17 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 06, 10:31 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 10:33 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 10:35 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
