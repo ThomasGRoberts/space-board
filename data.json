@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed6e0338920999d966dac5b863fc3b74",
+    "trigger_count": 0,
+    "current_item_id": "6b26ccc77edbcf924fb30f2f7c5e394c",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3215,6 +3215,18 @@
             "fetched_datetime": "2025-03-06T08:47:43.960482Z",
             "shown_at": [
                 "2025-03-06T08:47:44.903582Z"
+            ]
+        },
+        {
+            "id": "6b26ccc77edbcf924fb30f2f7c5e394c",
+            "source": "breaking_defense",
+            "text": "Space-based capabilities are critical to enabling a missile shield for America",
+            "source_link": "https://breakingdefense.com/2025/03/space-based-capabilities-are-critical-to-enabling-a-missile-shield-for-america/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T13:27:28.782854Z",
+            "shown_at": [
+                "2025-03-06T13:27:29.349181Z"
             ]
         }
     ]
