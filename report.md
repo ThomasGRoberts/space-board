@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 43 |
 | breaking_defense | 4 | 6 | 21 | 35 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 | aidy | 1 | 2 | 18 | 32 |
 | nyt | 0 | 1 | 18 | 31 |
 
@@ -1256,3 +1256,4 @@
 - **Mar 06, 07:35 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
 - **Mar 06, 07:49 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 07:51 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 07:53 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
