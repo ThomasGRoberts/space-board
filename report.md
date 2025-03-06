@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 23 | 43 |
 | breaking_defense | 4 | 6 | 21 | 34 |
 | supercluster | 1 | 1 | 56 | 56 |
-| aidy | 1 | 2 | 18 | 31 |
+| aidy | 1 | 2 | 19 | 32 |
 | nyt | 0 | 1 | 18 | 31 |
 
 # Shown Order
@@ -1252,3 +1252,4 @@
 - **Mar 06, 06:49 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 06:52 AM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Mar 06, 07:07 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
+- **Mar 06, 07:21 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
