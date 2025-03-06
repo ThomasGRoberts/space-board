@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 23 | 47 |
+| spacenews | 8 | 18 | 24 | 48 |
 | breaking_defense | 5 | 7 | 21 | 40 |
 | supercluster | 1 | 1 | 98 | 98 |
 | aidy | 1 | 2 | 18 | 37 |
@@ -1322,3 +1322,4 @@
 - **Mar 06, 02:59 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 06, 03:13 PM** - CSF Welcomes Five Additional Associate Members (spacenews)
 - **Mar 06, 03:27 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 06, 03:41 PM** - Questions linger about future of TraCSS (spacenews)

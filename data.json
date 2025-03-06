@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14a6f52499e0f5a26a808330ddb24636",
+    "trigger_count": 0,
+    "current_item_id": "488f6f43a0a77924ec6db60e0d550765",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3274,6 +3274,18 @@
             "fetched_datetime": "2025-03-06T15:13:41.242565Z",
             "shown_at": [
                 "2025-03-06T15:13:41.790857Z"
+            ]
+        },
+        {
+            "id": "488f6f43a0a77924ec6db60e0d550765",
+            "source": "spacenews",
+            "text": "Questions linger about future of TraCSS",
+            "source_link": "https://spacenews.com/questions-linger-about-future-of-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T15:41:46.489496Z",
+            "shown_at": [
+                "2025-03-06T15:41:47.281052Z"
             ]
         }
     ]
