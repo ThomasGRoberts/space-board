@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 23 | 45 |
+| spacenews | 7 | 18 | 22 | 45 |
 | breaking_defense | 4 | 6 | 21 | 36 |
 | supercluster | 1 | 1 | 70 | 70 |
 | aidy | 1 | 3 | 19 | 34 |
-| nyt | 0 | 1 | 17 | 32 |
+| nyt | 0 | 1 | 18 | 33 |
 
 # Shown Order
 
@@ -1274,3 +1274,4 @@
 - **Mar 06, 09:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 09:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 09:32 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
+- **Mar 06, 09:47 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
