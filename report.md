@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 24 | 48 |
-| breaking_defense | 3 | 5 | 19 | 38 |
+| breaking_defense | 3 | 5 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -1248,3 +1248,4 @@
 - **Mar 06, 07:29 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 06, 07:43 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
 - **Mar 06, 07:57 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 06, 08:12 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
