@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 6 | 21 | 29 |
 | supercluster | 2 | 2 | 42 | 42 |
 | aidy | 1 | 2 | 18 | 26 |
-| nyt | 0 | 1 | 17 | 25 |
+| nyt | 0 | 1 | 18 | 26 |
 
 # Shown Order
 
@@ -1217,3 +1217,4 @@
 - **Mar 06, 12:53 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 12:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 12:57 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
+- **Mar 06, 01:13 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
