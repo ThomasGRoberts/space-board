@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 48 |
 | breaking_defense | 4 | 7 | 20 | 40 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 18 | 36 |
 
@@ -1325,3 +1325,4 @@
 - **Mar 06, 03:41 PM** - Questions linger about future of TraCSS (spacenews)
 - **Mar 06, 03:56 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 04:09 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 04:11 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
