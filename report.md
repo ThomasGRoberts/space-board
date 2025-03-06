@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 23 | 38 |
+| spacenews | 9 | 18 | 24 | 39 |
 | breaking_defense | 4 | 6 | 21 | 30 |
 | supercluster | 2 | 2 | 49 | 49 |
 | aidy | 1 | 2 | 18 | 27 |
@@ -1227,3 +1227,4 @@
 - **Mar 06, 02:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 06, 02:09 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
