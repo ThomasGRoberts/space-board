@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 46 |
 | breaking_defense | 4 | 6 | 21 | 38 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 | aidy | 1 | 3 | 19 | 36 |
 | nyt | 0 | 1 | 18 | 34 |
 
@@ -1289,3 +1289,4 @@
 - **Mar 06, 11:13 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 06, 11:29 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 06, 11:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 11:45 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
