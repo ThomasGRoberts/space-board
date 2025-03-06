@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 6 | 21 | 32 |
 | supercluster | 1 | 1 | 42 | 42 |
 | aidy | 1 | 2 | 18 | 29 |
-| nyt | 0 | 1 | 17 | 28 |
+| nyt | 0 | 1 | 18 | 29 |
 
 # Shown Order
 
@@ -1229,3 +1229,4 @@
 - **Mar 06, 04:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 04:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 04:31 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
+- **Mar 06, 04:45 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
