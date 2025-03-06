@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 23 | 39 |
 | breaking_defense | 4 | 6 | 21 | 31 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 2 | 2 | 50 | 50 |
 | aidy | 1 | 2 | 18 | 28 |
 | nyt | 0 | 1 | 18 | 27 |
 
@@ -1231,3 +1231,4 @@
 - **Mar 06, 02:23 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 06, 02:37 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 06, 02:51 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
+- **Mar 06, 03:07 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
