@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 23 | 43 |
+| spacenews | 8 | 18 | 23 | 44 |
 | breaking_defense | 4 | 6 | 21 | 35 |
 | supercluster | 1 | 1 | 63 | 63 |
 | aidy | 1 | 2 | 18 | 32 |
@@ -1261,3 +1261,4 @@
 - **Mar 06, 07:57 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 07:59 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 08:01 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 08:03 AM** - Falcon 9 booster lost after droneship landing (spacenews)
