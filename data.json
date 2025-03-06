@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
     "data": [
         {
@@ -3305,14 +3305,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Perform Eighth Flight Test of Starship Super Heavy",
             "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-8",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-03-06T23:31:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-03-06T23:31:59.568425Z",
-            "shown_at": [
-                "2025-03-06T23:32:00.718742Z"
-            ]
+            "fetched_datetime": "2025-03-06T23:33:41.542368Z"
         }
     ]
 }
