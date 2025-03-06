@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 47 |
 | breaking_defense | 2 | 6 | 18 | 39 |
-| aidy | 1 | 2 | 18 | 36 |
-| nyt | 2 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
+| nyt | 2 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -1269,3 +1269,4 @@
 - **Mar 06, 10:03 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 10:05 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 10:07 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
+- **Mar 06, 10:21 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
