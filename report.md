@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 24 | 47 |
+| spacenews | 11 | 19 | 25 | 48 |
 | breaking_defense | 3 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 17 | 35 |
@@ -1246,3 +1246,4 @@
 - **Mar 06, 07:25 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 07:27 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 07:29 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 06, 07:43 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
