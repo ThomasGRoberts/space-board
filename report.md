@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 23 | 42 |
 | breaking_defense | 4 | 6 | 21 | 33 |
 | supercluster | 1 | 1 | 49 | 49 |
-| aidy | 1 | 2 | 18 | 30 |
+| aidy | 1 | 2 | 19 | 31 |
 | nyt | 0 | 1 | 18 | 30 |
 
 # Shown Order
@@ -1241,3 +1241,4 @@
 - **Mar 06, 05:39 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 05:41 AM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 06, 05:55 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 06, 06:09 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
