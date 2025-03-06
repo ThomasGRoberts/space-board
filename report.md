@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 18 | 21 | 48 |
+| spacenews | 6 | 15 | 22 | 48 |
 | breaking_defense | 5 | 7 | 22 | 40 |
 | supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -1310,3 +1310,4 @@
 - **Mar 06, 01:27 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 06, 01:43 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 01:57 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 06, 02:15 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
