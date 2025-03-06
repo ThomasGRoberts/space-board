@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 48 |
-| breaking_defense | 3 | 5 | 20 | 39 |
+| spacenews | 11 | 19 | 24 | 47 |
+| breaking_defense | 3 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -1238,3 +1238,4 @@
 - **Mar 06, 06:32 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
 - **Mar 06, 06:45 PM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 06, 06:59 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
+- **Mar 06, 07:15 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
