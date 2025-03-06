@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 47 |
 | breaking_defense | 4 | 6 | 21 | 39 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | aidy | 1 | 3 | 19 | 37 |
 | nyt | 0 | 1 | 18 | 35 |
 
@@ -1299,3 +1299,4 @@
 - **Mar 06, 12:11 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 06, 12:27 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 12:41 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
+- **Mar 06, 12:56 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
