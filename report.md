@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 23 | 42 |
+| spacenews | 8 | 18 | 23 | 43 |
 | breaking_defense | 4 | 6 | 21 | 34 |
 | supercluster | 1 | 1 | 56 | 56 |
 | aidy | 1 | 2 | 18 | 31 |
@@ -1250,3 +1250,4 @@
 - **Mar 06, 06:45 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 06:47 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 06:49 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 06:52 AM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
