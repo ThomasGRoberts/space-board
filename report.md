@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 24 | 48 |
+| spacenews | 10 | 19 | 23 | 47 |
 | breaking_defense | 3 | 5 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -1250,3 +1250,4 @@
 - **Mar 06, 07:57 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 08:12 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
 - **Mar 06, 08:25 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
+- **Mar 06, 08:27 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
