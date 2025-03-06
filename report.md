@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 23 | 47 |
-| breaking_defense | 2 | 6 | 18 | 38 |
+| breaking_defense | 2 | 6 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 25 | 25 |
@@ -1271,3 +1271,4 @@
 - **Mar 06, 10:07 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 06, 10:21 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 06, 10:35 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
+- **Mar 06, 10:49 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
