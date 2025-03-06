@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6fe4ba363bdc0b75495b2054f6c0af4",
+    "trigger_count": 0,
+    "current_item_id": "bae39bf37ce73c7cd439d8cddb15dd17",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3248,6 +3248,18 @@
             "fetched_datetime": "2025-03-06T14:15:54.468421Z",
             "shown_at": [
                 "2025-03-06T14:15:54.947478Z"
+            ]
+        },
+        {
+            "id": "bae39bf37ce73c7cd439d8cddb15dd17",
+            "source": "spacenews",
+            "text": "US military taps commercial space firms for hypersonic testing program",
+            "source_link": "https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T14:45:44.166529Z",
+            "shown_at": [
+                "2025-03-06T14:45:45.096849Z"
             ]
         }
     ]
