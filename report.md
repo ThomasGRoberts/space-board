@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 23 | 39 |
+| spacenews | 9 | 18 | 24 | 40 |
 | breaking_defense | 4 | 6 | 21 | 31 |
 | supercluster | 1 | 1 | 35 | 35 |
 | aidy | 1 | 2 | 18 | 28 |
@@ -1217,3 +1217,4 @@
 - **Mar 06, 03:15 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 03:17 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 03:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 03:21 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
