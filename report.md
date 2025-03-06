@@ -5,7 +5,7 @@
 | spacenews | 7 | 18 | 22 | 47 |
 | breaking_defense | 4 | 6 | 21 | 38 |
 | supercluster | 1 | 1 | 84 | 84 |
-| aidy | 1 | 3 | 18 | 36 |
+| aidy | 1 | 3 | 19 | 37 |
 | nyt | 0 | 1 | 18 | 35 |
 
 # Shown Order
@@ -1297,3 +1297,4 @@
 - **Mar 06, 11:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 11:57 AM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)
 - **Mar 06, 12:11 PM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
+- **Mar 06, 12:27 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
