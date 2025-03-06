@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "712058c8f09f6388c8dab21c60eb581c",
+    "trigger_count": 0,
+    "current_item_id": "c2ece747862605ba96ac1631524a6ce4",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3207,6 +3207,18 @@
             "fetched_datetime": "2025-03-06T17:49:24.805651Z",
             "shown_at": [
                 "2025-03-06T17:49:25.328224Z"
+            ]
+        },
+        {
+            "id": "c2ece747862605ba96ac1631524a6ce4",
+            "source": "spacenews",
+            "text": "Ariane 6 launches French spysat on second flight",
+            "source_link": "https://spacenews.com/ariane-6-launches-french-spysat-on-second-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:03:11.272657Z",
+            "shown_at": [
+                "2025-03-06T18:03:11.846612Z"
             ]
         }
     ]
