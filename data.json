@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "261bdcb5094326904c4836fce579545f",
+    "trigger_count": 0,
+    "current_item_id": "e74f772ce94d7d34eed0b5537a622fca",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3161,6 +3161,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "e74f772ce94d7d34eed0b5537a622fca",
+            "source": "aidy",
+            "text": "U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T08:47:43.960482Z",
+            "shown_at": [
+                "2025-03-06T08:47:44.903582Z"
             ]
         }
     ]

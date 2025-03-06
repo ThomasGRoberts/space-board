@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 23 | 44 |
 | breaking_defense | 4 | 6 | 21 | 35 |
 | supercluster | 1 | 1 | 63 | 63 |
-| aidy | 0 | 2 | 18 | 33 |
+| aidy | 1 | 3 | 19 | 34 |
 | nyt | 0 | 1 | 18 | 32 |
 
 # Shown Order
@@ -1264,3 +1264,4 @@
 - **Mar 06, 08:03 AM** - Falcon 9 booster lost after droneship landing (spacenews)
 - **Mar 06, 08:17 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 06, 08:31 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 06, 08:47 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
