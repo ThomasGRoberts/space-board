@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9475214f0b0b778ca513ad14c969ca4",
+    "trigger_count": 0,
+    "current_item_id": "ab81c0a229b4201f27806bde5657aa38",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3261,6 +3261,18 @@
             "fetched_datetime": "2025-03-06T14:45:44.166529Z",
             "shown_at": [
                 "2025-03-06T14:45:45.096849Z"
+            ]
+        },
+        {
+            "id": "ab81c0a229b4201f27806bde5657aa38",
+            "source": "spacenews",
+            "text": "CSF Welcomes Five Additional Associate Members",
+            "source_link": "https://spacenews.com/csf-welcomes-five-additional-associate-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T15:13:41.242565Z",
+            "shown_at": [
+                "2025-03-06T15:13:41.790857Z"
             ]
         }
     ]
