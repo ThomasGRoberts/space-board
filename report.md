@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 46 |
+| spacenews | 7 | 18 | 23 | 47 |
 | breaking_defense | 4 | 6 | 21 | 38 |
 | supercluster | 1 | 1 | 84 | 84 |
 | aidy | 1 | 3 | 19 | 36 |
@@ -1295,3 +1295,4 @@
 - **Mar 06, 11:51 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 11:53 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 11:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 11:57 AM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)
