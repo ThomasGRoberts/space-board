@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 6 | 21 | 30 |
 | supercluster | 2 | 2 | 49 | 49 |
 | aidy | 1 | 2 | 18 | 27 |
-| nyt | 0 | 1 | 17 | 26 |
+| nyt | 0 | 1 | 18 | 27 |
 
 # Shown Order
 
@@ -1228,3 +1228,4 @@
 - **Mar 06, 02:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:09 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
+- **Mar 06, 02:23 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
