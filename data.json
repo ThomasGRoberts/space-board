@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1402ac89f30533ae3783e41f2217ce53",
+    "trigger_count": 0,
+    "current_item_id": "c6fe4ba363bdc0b75495b2054f6c0af4",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3177,6 +3177,20 @@
             "fetched_datetime": "2025-03-06T15:41:46.489496Z",
             "shown_at": [
                 "2025-03-06T15:41:47.281052Z"
+            ]
+        },
+        {
+            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
+            "source": "supercluster",
+            "text": "Arianespace Will Launch an Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/cso-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-06T16:24:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-06T16:37:29.954962Z",
+            "shown_at": [
+                "2025-03-06T16:37:30.552816Z"
             ]
         }
     ]

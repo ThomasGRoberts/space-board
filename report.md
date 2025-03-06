@@ -6,6 +6,7 @@
 | breaking_defense | 3 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 18 | 35 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1226,3 +1227,4 @@
 - **Mar 06, 03:41 PM** - Questions linger about future of TraCSS (spacenews)
 - **Mar 06, 03:56 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 04:23 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 06, 04:37 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
