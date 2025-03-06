@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 23 | 37 |
+| spacenews | 9 | 18 | 24 | 38 |
 | breaking_defense | 4 | 6 | 21 | 29 |
 | supercluster | 2 | 2 | 42 | 42 |
 | aidy | 1 | 2 | 18 | 26 |
@@ -1216,3 +1216,4 @@
 - **Mar 06, 12:51 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 12:53 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 12:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 12:57 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
