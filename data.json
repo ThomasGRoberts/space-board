@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "261bdcb5094326904c4836fce579545f",
+    "trigger_count": 0,
+    "current_item_id": "d7dc97ec870e3ad7973e66d3f65d04e7",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3310,6 +3310,18 @@
             "fetched_datetime": "2025-03-06T22:07:37.665040Z",
             "shown_at": [
                 "2025-03-06T22:07:38.215018Z"
+            ]
+        },
+        {
+            "id": "d7dc97ec870e3ad7973e66d3f65d04e7",
+            "source": "nyt",
+            "text": "Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain",
+            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T22:35:27.149586Z",
+            "shown_at": [
+                "2025-03-06T22:35:27.651781Z"
             ]
         }
     ]
