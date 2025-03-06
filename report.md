@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 24 | 47 |
-| breaking_defense | 3 | 6 | 19 | 39 |
+| spacenews | 11 | 18 | 25 | 47 |
+| breaking_defense | 2 | 6 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -1260,3 +1260,4 @@
 - **Mar 06, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
 - **Mar 06, 09:09 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 06, 09:25 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
+- **Mar 06, 09:39 PM** - York taps commercial satellite technology for classified defense missions (spacenews)
