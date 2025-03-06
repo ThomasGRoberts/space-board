@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 22 | 48 |
-| breaking_defense | 5 | 7 | 21 | 40 |
+| breaking_defense | 5 | 7 | 22 | 41 |
 | supercluster | 1 | 1 | 98 | 98 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 18 | 35 |
@@ -1319,3 +1319,4 @@
 - **Mar 06, 02:40 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 02:43 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 02:45 PM** - US military taps commercial space firms for hypersonic testing program (spacenews)
+- **Mar 06, 02:59 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
