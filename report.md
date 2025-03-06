@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 24 | 38 |
 | breaking_defense | 4 | 6 | 21 | 29 |
 | supercluster | 2 | 2 | 42 | 42 |
-| aidy | 1 | 2 | 17 | 26 |
+| aidy | 1 | 2 | 18 | 27 |
 | nyt | 0 | 1 | 18 | 26 |
 
 # Shown Order
@@ -1218,3 +1218,4 @@
 - **Mar 06, 12:55 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 12:57 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 06, 01:13 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
+- **Mar 06, 01:27 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
