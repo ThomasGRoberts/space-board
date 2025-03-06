@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 41 |
 | breaking_defense | 4 | 6 | 21 | 33 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 | aidy | 1 | 2 | 18 | 30 |
 | nyt | 0 | 1 | 18 | 29 |
 
@@ -1235,3 +1235,4 @@
 - **Mar 06, 05:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 05:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 05:31 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 05:33 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
