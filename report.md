@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 24 | 48 |
 | breaking_defense | 3 | 6 | 19 | 39 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 17 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -1234,3 +1234,4 @@
 - **Mar 06, 05:35 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 06, 05:49 PM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)
 - **Mar 06, 06:03 PM** - Ariane 6 launches French spysat on second flight (spacenews)
+- **Mar 06, 06:17 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
