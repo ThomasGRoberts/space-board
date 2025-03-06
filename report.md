@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 6 | 21 | 35 |
 | supercluster | 1 | 1 | 63 | 63 |
 | aidy | 1 | 2 | 18 | 32 |
-| nyt | 0 | 1 | 18 | 31 |
+| nyt | 0 | 1 | 19 | 32 |
 
 # Shown Order
 
@@ -1262,3 +1262,4 @@
 - **Mar 06, 07:59 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 08:01 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 08:03 AM** - Falcon 9 booster lost after droneship landing (spacenews)
+- **Mar 06, 08:17 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
