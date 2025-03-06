@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 24 | 40 |
 | breaking_defense | 4 | 6 | 21 | 31 |
 | supercluster | 1 | 1 | 35 | 35 |
-| aidy | 1 | 2 | 17 | 28 |
+| aidy | 1 | 2 | 18 | 29 |
 | nyt | 0 | 1 | 18 | 28 |
 
 # Shown Order
@@ -1219,3 +1219,4 @@
 - **Mar 06, 03:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 03:21 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
 - **Mar 06, 03:35 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 06, 03:49 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
