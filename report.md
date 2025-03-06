@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -1249,3 +1249,4 @@
 - **Mar 06, 07:43 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
 - **Mar 06, 07:57 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 08:12 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
+- **Mar 06, 08:25 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
