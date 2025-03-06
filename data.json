@@ -1,9 +1,253 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-05T00:01:57.473727+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
+    "trigger_count": 1,
     "current_item_id": "17770e46e9b615f8718385d70b0ddeba",
     "data": [
+        {
+            "id": "72661bc11c8018da98a2d2ad037d026a",
+            "source": "spacenews",
+            "text": "NASA still working to restore contact with Lunar Trailblazer",
+            "source_link": "https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T23:45:23.448468Z",
+            "shown_at": [
+                "2025-03-05T23:45:24.048878Z"
+            ]
+        },
+        {
+            "id": "4b3ce04188fc0344f506ce96ff36ff83",
+            "source": "spacenews",
+            "text": "AST SpaceMobile charts another path for European space sovereignty",
+            "source_link": "https://spacenews.com/ast-spacemobile-charts-another-path-for-european-space-sovereignty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T23:17:43.326464Z",
+            "shown_at": [
+                "2025-03-05T23:17:44.279168Z"
+            ]
+        },
+        {
+            "id": "37a0fab9d86e0ee9240ffb4599044f71",
+            "source": "spacenews",
+            "text": "Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort",
+            "source_link": "https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T22:35:52.138670Z",
+            "shown_at": [
+                "2025-03-05T22:35:52.937389Z"
+            ]
+        },
+        {
+            "id": "b5d18aba8b42fed45c1e0e2eb7b036d8",
+            "source": "breaking_defense",
+            "text": "Secret Space Force payloads monitor China’s satellite surveillance network, official says",
+            "source_link": "https://breakingdefense.com/2025/03/secret-space-force-payloads-monitor-chinas-satellite-surveillance-network-official-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T21:39:33.445771Z",
+            "shown_at": [
+                "2025-03-05T21:39:33.916360Z"
+            ]
+        },
+        {
+            "id": "f2b9fbde45e318f6cbde22ccf92c95cb",
+            "source": "breaking_defense",
+            "text": "AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times",
+            "source_link": "https://breakingdefense.com/2025/03/ast-kayhan-leolabs-team-to-demo-capability-to-reduce-space-force-satellite-tracking-times/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T21:11:54.415857Z",
+            "shown_at": [
+                "2025-03-05T21:11:55.518185Z"
+            ]
+        },
+        {
+            "id": "f74d5afb3c437b4eafa17aea338e6e89",
+            "source": "spacenews",
+            "text": "Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector",
+            "source_link": "https://spacenews.com/silicon-valley-players-aim-to-follow-spacexs-disruptive-path-in-defense-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T20:27:31.302920Z",
+            "shown_at": [
+                "2025-03-05T20:27:31.937189Z"
+            ]
+        },
+        {
+            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
+            "source": "supercluster",
+            "text": "Arianespace Will Launch an Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/cso-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-06T16:24:00.000Z",
+            "time_remaining": "0d 18h 18m",
+            "fetched_datetime": "2025-03-05T16:33:39.824430Z",
+            "shown_at": [
+                "2025-03-05T16:33:40.282335Z",
+                "2025-03-05T16:35:58.958190Z",
+                "2025-03-05T16:37:44.058933Z",
+                "2025-03-05T16:39:31.500437Z",
+                "2025-03-05T16:42:05.284053Z",
+                "2025-03-05T16:43:49.760838Z",
+                "2025-03-05T16:45:30.406173Z",
+                "2025-03-05T17:47:43.687568Z",
+                "2025-03-05T17:49:51.051274Z",
+                "2025-03-05T17:51:38.631818Z",
+                "2025-03-05T17:53:25.484793Z",
+                "2025-03-05T17:55:44.477231Z",
+                "2025-03-05T17:57:52.746855Z",
+                "2025-03-05T17:59:33.326572Z",
+                "2025-03-05T21:53:43.331153Z",
+                "2025-03-05T21:55:36.732617Z",
+                "2025-03-05T21:57:28.201549Z",
+                "2025-03-05T21:59:38.508834Z",
+                "2025-03-05T22:02:01.215529Z",
+                "2025-03-05T22:03:12.735036Z",
+                "2025-03-05T22:05:22.737572Z"
+            ]
+        },
+        {
+            "id": "f38a01d222d612c37e7297deae03519d",
+            "source": "breaking_defense",
+            "text": "As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials",
+            "source_link": "https://breakingdefense.com/2025/03/as-industry-frets-licensing-bottlenecks-noaa-reinstates-top-commercial-space-officials-sources/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T16:20:02.934758Z",
+            "shown_at": [
+                "2025-03-05T16:47:47.975799Z"
+            ]
+        },
+        {
+            "id": "1402ac89f30533ae3783e41f2217ce53",
+            "source": "breaking_defense",
+            "text": "As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources",
+            "source_link": "https://breakingdefense.com/2025/03/as-industry-frets-licensing-bottlenecks-noaa-reinstates-top-commercial-space-officials-sources/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T15:45:47.354644Z",
+            "shown_at": [
+                "2025-03-05T15:45:47.883475Z"
+            ]
+        },
+        {
+            "id": "529f7f721227b4934a9fa551e6871c2d",
+            "source": "spacenews",
+            "text": "SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration",
+            "source_link": "https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T14:33:55.043834Z",
+            "shown_at": [
+                "2025-03-05T14:33:56.051033Z"
+            ]
+        },
+        {
+            "id": "ed6ca600b476c22b77d36ccd1fabdb9e",
+            "source": "spacenews",
+            "text": "Patenting space: promoting innovations and patents for exploring our final frontier",
+            "source_link": "https://spacenews.com/patenting-space-promoting-innovations-and-patents-for-exploring-our-final-frontier/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T14:05:46.172110Z",
+            "shown_at": [
+                "2025-03-05T14:05:46.684710Z"
+            ]
+        },
+        {
+            "id": "1ec9b750ac2982aac0e2dfcef28637f8",
+            "source": "spacenews",
+            "text": "ISS astronauts reject call for early retirement of the station",
+            "source_link": "https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T13:37:36.425941Z",
+            "shown_at": [
+                "2025-03-05T13:37:36.979924Z"
+            ]
+        },
+        {
+            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Missions for NASA",
+            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-06T03:09:00.000Z",
+            "time_remaining": "0d 03h 25m",
+            "fetched_datetime": "2025-03-05T13:07:47.275364Z",
+            "shown_at": [
+                "2025-03-05T13:07:48.123515Z",
+                "2025-03-05T13:09:34.964812Z",
+                "2025-03-05T13:11:42.035787Z",
+                "2025-03-05T13:13:34.360480Z",
+                "2025-03-05T13:15:37.781353Z",
+                "2025-03-05T13:17:53.225185Z",
+                "2025-03-05T13:19:37.213622Z",
+                "2025-03-05T23:31:54.490697Z",
+                "2025-03-05T23:33:29.159740Z",
+                "2025-03-05T23:35:30.808681Z",
+                "2025-03-05T23:37:23.947391Z",
+                "2025-03-05T23:39:31.626667Z",
+                "2025-03-05T23:41:35.784583Z",
+                "2025-03-05T23:43:43.917830Z"
+            ]
+        },
+        {
+            "id": "ed6e0338920999d966dac5b863fc3b74",
+            "source": "spacenews",
+            "text": "Apex’s first satellite marks one year in orbit",
+            "source_link": "https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T09:47:42.203433Z",
+            "shown_at": [
+                "2025-03-05T09:47:42.727535Z"
+            ]
+        },
+        {
+            "id": "a32a7b289d9d16411247f003f8fecd3c",
+            "source": "aidy",
+            "text": "Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T08:35:27.874937Z",
+            "shown_at": [
+                "2025-03-05T08:35:28.242826Z",
+                "2025-03-05T13:51:56.609043Z",
+                "2025-03-05T17:19:28.161548Z",
+                "2025-03-05T21:25:32.688285Z"
+            ]
+        },
+        {
+            "id": "7353cfe17aaaf3061cc867e239f67ed4",
+            "source": "spacenews",
+            "text": "NASA to launch Earth science smallsat mission on Firefly Alpha",
+            "source_link": "https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T04:29:25.891893Z",
+            "shown_at": [
+                "2025-03-05T04:29:26.401186Z"
+            ]
+        },
+        {
+            "id": "cc6d335a0b41c18d1e825cfe58794a9a",
+            "source": "spacenews",
+            "text": "Raven Space Systems reveals NASA and AFRL research agreements",
+            "source_link": "https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-05T00:32:24.283519Z",
+            "shown_at": [
+                "2025-03-05T00:32:24.700473Z"
+            ]
+        },
         {
             "id": "c7893741134a87b93e4fcd9c8a784711",
             "source": "spacenews",
@@ -2873,250 +3117,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "cc6d335a0b41c18d1e825cfe58794a9a",
-            "source": "spacenews",
-            "text": "Raven Space Systems reveals NASA and AFRL research agreements",
-            "source_link": "https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T00:32:24.283519Z",
-            "shown_at": [
-                "2025-03-05T00:32:24.700473Z"
-            ]
-        },
-        {
-            "id": "7353cfe17aaaf3061cc867e239f67ed4",
-            "source": "spacenews",
-            "text": "NASA to launch Earth science smallsat mission on Firefly Alpha",
-            "source_link": "https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T04:29:25.891893Z",
-            "shown_at": [
-                "2025-03-05T04:29:26.401186Z"
-            ]
-        },
-        {
-            "id": "a32a7b289d9d16411247f003f8fecd3c",
-            "source": "aidy",
-            "text": "Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T08:35:27.874937Z",
-            "shown_at": [
-                "2025-03-05T08:35:28.242826Z",
-                "2025-03-05T13:51:56.609043Z",
-                "2025-03-05T17:19:28.161548Z",
-                "2025-03-05T21:25:32.688285Z"
-            ]
-        },
-        {
-            "id": "ed6e0338920999d966dac5b863fc3b74",
-            "source": "spacenews",
-            "text": "Apex’s first satellite marks one year in orbit",
-            "source_link": "https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T09:47:42.203433Z",
-            "shown_at": [
-                "2025-03-05T09:47:42.727535Z"
-            ]
-        },
-        {
-            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Missions for NASA",
-            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-06T03:09:00.000Z",
-            "time_remaining": "0d 03h 25m",
-            "fetched_datetime": "2025-03-05T13:07:47.275364Z",
-            "shown_at": [
-                "2025-03-05T13:07:48.123515Z",
-                "2025-03-05T13:09:34.964812Z",
-                "2025-03-05T13:11:42.035787Z",
-                "2025-03-05T13:13:34.360480Z",
-                "2025-03-05T13:15:37.781353Z",
-                "2025-03-05T13:17:53.225185Z",
-                "2025-03-05T13:19:37.213622Z",
-                "2025-03-05T23:31:54.490697Z",
-                "2025-03-05T23:33:29.159740Z",
-                "2025-03-05T23:35:30.808681Z",
-                "2025-03-05T23:37:23.947391Z",
-                "2025-03-05T23:39:31.626667Z",
-                "2025-03-05T23:41:35.784583Z",
-                "2025-03-05T23:43:43.917830Z"
-            ]
-        },
-        {
-            "id": "1ec9b750ac2982aac0e2dfcef28637f8",
-            "source": "spacenews",
-            "text": "ISS astronauts reject call for early retirement of the station",
-            "source_link": "https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T13:37:36.425941Z",
-            "shown_at": [
-                "2025-03-05T13:37:36.979924Z"
-            ]
-        },
-        {
-            "id": "ed6ca600b476c22b77d36ccd1fabdb9e",
-            "source": "spacenews",
-            "text": "Patenting space: promoting innovations and patents for exploring our final frontier",
-            "source_link": "https://spacenews.com/patenting-space-promoting-innovations-and-patents-for-exploring-our-final-frontier/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T14:05:46.172110Z",
-            "shown_at": [
-                "2025-03-05T14:05:46.684710Z"
-            ]
-        },
-        {
-            "id": "529f7f721227b4934a9fa551e6871c2d",
-            "source": "spacenews",
-            "text": "SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration",
-            "source_link": "https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T14:33:55.043834Z",
-            "shown_at": [
-                "2025-03-05T14:33:56.051033Z"
-            ]
-        },
-        {
-            "id": "1402ac89f30533ae3783e41f2217ce53",
-            "source": "breaking_defense",
-            "text": "As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources",
-            "source_link": "https://breakingdefense.com/2025/03/as-industry-frets-licensing-bottlenecks-noaa-reinstates-top-commercial-space-officials-sources/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T15:45:47.354644Z",
-            "shown_at": [
-                "2025-03-05T15:45:47.883475Z"
-            ]
-        },
-        {
-            "id": "f38a01d222d612c37e7297deae03519d",
-            "source": "breaking_defense",
-            "text": "As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials",
-            "source_link": "https://breakingdefense.com/2025/03/as-industry-frets-licensing-bottlenecks-noaa-reinstates-top-commercial-space-officials-sources/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T16:20:02.934758Z",
-            "shown_at": [
-                "2025-03-05T16:47:47.975799Z"
-            ]
-        },
-        {
-            "id": "c6fe4ba363bdc0b75495b2054f6c0af4",
-            "source": "supercluster",
-            "text": "Arianespace Will Launch an Earth Observation Satellite",
-            "source_link": "https://www.supercluster.com/launches/cso-3",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-06T16:24:00.000Z",
-            "time_remaining": "0d 18h 18m",
-            "fetched_datetime": "2025-03-05T16:33:39.824430Z",
-            "shown_at": [
-                "2025-03-05T16:33:40.282335Z",
-                "2025-03-05T16:35:58.958190Z",
-                "2025-03-05T16:37:44.058933Z",
-                "2025-03-05T16:39:31.500437Z",
-                "2025-03-05T16:42:05.284053Z",
-                "2025-03-05T16:43:49.760838Z",
-                "2025-03-05T16:45:30.406173Z",
-                "2025-03-05T17:47:43.687568Z",
-                "2025-03-05T17:49:51.051274Z",
-                "2025-03-05T17:51:38.631818Z",
-                "2025-03-05T17:53:25.484793Z",
-                "2025-03-05T17:55:44.477231Z",
-                "2025-03-05T17:57:52.746855Z",
-                "2025-03-05T17:59:33.326572Z",
-                "2025-03-05T21:53:43.331153Z",
-                "2025-03-05T21:55:36.732617Z",
-                "2025-03-05T21:57:28.201549Z",
-                "2025-03-05T21:59:38.508834Z",
-                "2025-03-05T22:02:01.215529Z",
-                "2025-03-05T22:03:12.735036Z",
-                "2025-03-05T22:05:22.737572Z"
-            ]
-        },
-        {
-            "id": "f74d5afb3c437b4eafa17aea338e6e89",
-            "source": "spacenews",
-            "text": "Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector",
-            "source_link": "https://spacenews.com/silicon-valley-players-aim-to-follow-spacexs-disruptive-path-in-defense-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T20:27:31.302920Z",
-            "shown_at": [
-                "2025-03-05T20:27:31.937189Z"
-            ]
-        },
-        {
-            "id": "f2b9fbde45e318f6cbde22ccf92c95cb",
-            "source": "breaking_defense",
-            "text": "AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times",
-            "source_link": "https://breakingdefense.com/2025/03/ast-kayhan-leolabs-team-to-demo-capability-to-reduce-space-force-satellite-tracking-times/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T21:11:54.415857Z",
-            "shown_at": [
-                "2025-03-05T21:11:55.518185Z"
-            ]
-        },
-        {
-            "id": "b5d18aba8b42fed45c1e0e2eb7b036d8",
-            "source": "breaking_defense",
-            "text": "Secret Space Force payloads monitor China’s satellite surveillance network, official says",
-            "source_link": "https://breakingdefense.com/2025/03/secret-space-force-payloads-monitor-chinas-satellite-surveillance-network-official-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T21:39:33.445771Z",
-            "shown_at": [
-                "2025-03-05T21:39:33.916360Z"
-            ]
-        },
-        {
-            "id": "37a0fab9d86e0ee9240ffb4599044f71",
-            "source": "spacenews",
-            "text": "Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort",
-            "source_link": "https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T22:35:52.138670Z",
-            "shown_at": [
-                "2025-03-05T22:35:52.937389Z"
-            ]
-        },
-        {
-            "id": "4b3ce04188fc0344f506ce96ff36ff83",
-            "source": "spacenews",
-            "text": "AST SpaceMobile charts another path for European space sovereignty",
-            "source_link": "https://spacenews.com/ast-spacemobile-charts-another-path-for-european-space-sovereignty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T23:17:43.326464Z",
-            "shown_at": [
-                "2025-03-05T23:17:44.279168Z"
-            ]
-        },
-        {
-            "id": "72661bc11c8018da98a2d2ad037d026a",
-            "source": "spacenews",
-            "text": "NASA still working to restore contact with Lunar Trailblazer",
-            "source_link": "https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-05T23:45:23.448468Z",
-            "shown_at": [
-                "2025-03-05T23:45:24.048878Z"
             ]
         }
     ]
