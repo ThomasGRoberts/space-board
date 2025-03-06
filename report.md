@@ -5,7 +5,7 @@
 | spacenews | 7 | 18 | 22 | 46 |
 | breaking_defense | 4 | 6 | 21 | 37 |
 | supercluster | 1 | 1 | 77 | 77 |
-| aidy | 1 | 3 | 19 | 35 |
+| aidy | 1 | 3 | 20 | 36 |
 | nyt | 0 | 1 | 18 | 34 |
 
 # Shown Order
@@ -1286,3 +1286,4 @@
 - **Mar 06, 10:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 10:45 AM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 06, 10:59 AM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
+- **Mar 06, 11:13 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
