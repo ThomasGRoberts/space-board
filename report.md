@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 24 | 39 |
 | breaking_defense | 4 | 6 | 21 | 30 |
 | supercluster | 2 | 2 | 49 | 49 |
-| aidy | 1 | 2 | 17 | 27 |
+| aidy | 1 | 2 | 18 | 28 |
 | nyt | 0 | 1 | 18 | 27 |
 
 # Shown Order
@@ -1229,3 +1229,4 @@
 - **Mar 06, 02:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:09 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 06, 02:23 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 06, 02:37 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
