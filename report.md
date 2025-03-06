@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 24 | 48 |
 | breaking_defense | 4 | 7 | 20 | 40 |
 | supercluster | 1 | 1 | 98 | 98 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 0 | 18 | 36 |
 
 # Shown Order
@@ -1323,3 +1323,4 @@
 - **Mar 06, 03:13 PM** - CSF Welcomes Five Additional Associate Members (spacenews)
 - **Mar 06, 03:27 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 06, 03:41 PM** - Questions linger about future of TraCSS (spacenews)
+- **Mar 06, 03:56 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
