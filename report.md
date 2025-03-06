@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 23 | 39 |
 | breaking_defense | 4 | 6 | 21 | 31 |
-| supercluster | 2 | 2 | 50 | 50 |
+| supercluster | 1 | 1 | 30 | 30 |
 | aidy | 1 | 2 | 18 | 28 |
 | nyt | 0 | 1 | 18 | 27 |
 
@@ -1135,13 +1135,6 @@
 - **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 05, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 05, 12:51 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
-- **Mar 05, 01:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:15 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 01:19 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 01:22 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 05, 01:37 PM** - ISS astronauts reject call for early retirement of the station (spacenews)
 - **Mar 05, 01:51 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
@@ -1198,13 +1191,6 @@
 - **Mar 05, 10:49 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 11:03 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 05, 11:17 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
-- **Mar 05, 11:31 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:33 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:35 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:37 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:39 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:41 PM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 05, 11:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
 - **Mar 05, 11:59 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 12:14 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
@@ -1220,15 +1206,9 @@
 - **Mar 06, 01:13 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 06, 01:27 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 06, 01:41 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
-- **Mar 06, 01:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 01:57 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 01:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 02:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 02:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 02:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 06, 02:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 06, 02:09 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 06, 02:23 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 06, 02:37 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 06, 02:51 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 06, 03:07 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 03:09 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
