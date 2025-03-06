@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 23 | 44 |
+| spacenews | 8 | 18 | 22 | 44 |
 | breaking_defense | 4 | 6 | 21 | 36 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 | aidy | 1 | 3 | 19 | 34 |
 | nyt | 0 | 1 | 18 | 32 |
 
@@ -1267,3 +1267,4 @@
 - **Mar 06, 08:47 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 06, 09:02 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 06, 09:17 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 09:19 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
