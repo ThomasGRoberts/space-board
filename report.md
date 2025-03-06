@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 47 |
+| spacenews | 7 | 18 | 23 | 48 |
 | breaking_defense | 4 | 6 | 21 | 39 |
 | supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 3 | 19 | 37 |
@@ -1306,3 +1306,4 @@
 - **Mar 06, 01:06 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 01:09 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 01:12 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 01:13 PM** - Apex’s first satellite marks one year in orbit (spacenews)
