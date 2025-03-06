@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 24 | 37 |
 | breaking_defense | 4 | 6 | 20 | 28 |
 | supercluster | 2 | 2 | 35 | 35 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 18 | 26 |
 | nyt | 0 | 1 | 18 | 25 |
 
 # Shown Order
@@ -1207,3 +1207,4 @@
 - **Mar 05, 11:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
 - **Mar 05, 11:59 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 06, 12:14 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
