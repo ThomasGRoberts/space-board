@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 46 |
-| breaking_defense | 4 | 6 | 22 | 38 |
-| supercluster | 1 | 1 | 77 | 77 |
+| breaking_defense | 4 | 6 | 21 | 38 |
+| supercluster | 1 | 1 | 78 | 78 |
 | aidy | 1 | 3 | 19 | 36 |
 | nyt | 0 | 1 | 18 | 34 |
 
@@ -1288,3 +1288,4 @@
 - **Mar 06, 10:59 AM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 06, 11:13 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 06, 11:29 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
+- **Mar 06, 11:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
