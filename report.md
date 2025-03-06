@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 23 | 40 |
+| spacenews | 8 | 18 | 23 | 41 |
 | breaking_defense | 4 | 6 | 21 | 32 |
 | supercluster | 1 | 1 | 42 | 42 |
 | aidy | 1 | 2 | 18 | 29 |
@@ -1228,3 +1228,4 @@
 - **Mar 06, 04:25 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 04:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
 - **Mar 06, 04:29 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 04:31 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
