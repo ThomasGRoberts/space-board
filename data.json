@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "771880cce27d8fc40638d79c5dabd108",
+    "trigger_count": 0,
+    "current_item_id": "338b3dcfa07f054aeffe70c9e6839daa",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3266,6 +3266,18 @@
             "fetched_datetime": "2025-03-06T18:45:26.566311Z",
             "shown_at": [
                 "2025-03-06T18:45:26.948398Z"
+            ]
+        },
+        {
+            "id": "338b3dcfa07f054aeffe70c9e6839daa",
+            "source": "breaking_defense",
+            "text": "EU space monitoring program moves toward ‘strategic autonomy’",
+            "source_link": "https://breakingdefense.com/2025/03/eu-space-monitoring-program-moves-toward-strategic-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T21:25:25.479781Z",
+            "shown_at": [
+                "2025-03-06T21:25:25.980484Z"
             ]
         }
     ]
