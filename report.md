@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 41 |
-| breaking_defense | 4 | 6 | 22 | 33 |
-| supercluster | 1 | 1 | 42 | 42 |
+| breaking_defense | 4 | 6 | 21 | 33 |
+| supercluster | 1 | 1 | 43 | 43 |
 | aidy | 1 | 2 | 18 | 30 |
 | nyt | 0 | 1 | 18 | 29 |
 
@@ -1232,3 +1232,4 @@
 - **Mar 06, 04:45 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 06, 04:59 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 06, 05:13 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 06, 05:27 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
