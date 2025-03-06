@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e01e8b18f878d81ca34adc3b94ffadcc",
+    "trigger_count": 0,
+    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3192,44 +3192,6 @@
             ]
         },
         {
-            "id": "72fcf3e6a5249db79cc9337f2e44fe59",
-            "source": "supercluster",
-            "text": "SpaceX Will Perform Eighth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-8",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-06T23:30:00.000Z",
-            "time_remaining": "0d 01h 24m",
-            "fetched_datetime": "2025-03-06T17:25:31.515463Z",
-            "shown_at": [
-                "2025-03-06T17:25:32.023322Z",
-                "2025-03-06T17:27:24.654467Z",
-                "2025-03-06T17:29:38.425495Z",
-                "2025-03-06T17:32:10.860501Z",
-                "2025-03-06T19:15:32.219662Z",
-                "2025-03-06T19:17:35.648680Z",
-                "2025-03-06T19:19:25.948028Z",
-                "2025-03-06T19:21:33.832794Z",
-                "2025-03-06T19:23:43.536622Z",
-                "2025-03-06T19:25:29.967495Z",
-                "2025-03-06T19:27:34.874113Z",
-                "2025-03-06T20:25:38.097551Z",
-                "2025-03-06T20:27:51.336861Z",
-                "2025-03-06T20:29:24.030647Z",
-                "2025-03-06T20:31:57.288429Z",
-                "2025-03-06T20:33:28.835854Z",
-                "2025-03-06T20:36:02.762547Z",
-                "2025-03-06T20:37:50.050911Z",
-                "2025-03-06T21:53:37.716806Z",
-                "2025-03-06T21:55:31.176359Z",
-                "2025-03-06T21:57:32.578224Z",
-                "2025-03-06T22:00:10.827869Z",
-                "2025-03-06T22:02:02.887941Z",
-                "2025-03-06T22:03:44.334940Z",
-                "2025-03-06T22:05:36.354228Z"
-            ]
-        },
-        {
             "id": "712058c8f09f6388c8dab21c60eb581c",
             "source": "spacenews",
             "text": "ULA boss says Vulcan ready for multiple launches in 2025",
@@ -3336,6 +3298,20 @@
             "fetched_datetime": "2025-03-06T23:17:30.978822Z",
             "shown_at": [
                 "2025-03-06T23:17:31.540565Z"
+            ]
+        },
+        {
+            "id": "72fcf3e6a5249db79cc9337f2e44fe59",
+            "source": "supercluster",
+            "text": "SpaceX Will Perform Eighth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-8",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-06T23:31:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-06T23:31:59.568425Z",
+            "shown_at": [
+                "2025-03-06T23:32:00.718742Z"
             ]
         }
     ]
