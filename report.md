@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 24 | 38 |
-| breaking_defense | 4 | 6 | 20 | 29 |
+| breaking_defense | 4 | 6 | 21 | 30 |
 | supercluster | 2 | 2 | 42 | 42 |
 | aidy | 1 | 2 | 18 | 27 |
 | nyt | 0 | 1 | 18 | 26 |
@@ -1219,3 +1219,4 @@
 - **Mar 06, 12:57 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 06, 01:13 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 06, 01:27 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 06, 01:41 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
