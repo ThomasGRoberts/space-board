@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 24 | 47 |
 | breaking_defense | 2 | 6 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 3 | 3 | 19 | 37 |
+| nyt | 4 | 4 | 20 | 38 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -1273,3 +1273,4 @@
 - **Mar 06, 10:35 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
 - **Mar 06, 10:49 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 06, 11:03 PM** - Spire demonstrates optical links between cubesats (spacenews)
+- **Mar 06, 11:17 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
