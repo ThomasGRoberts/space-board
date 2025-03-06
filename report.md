@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 43 |
-| breaking_defense | 4 | 6 | 22 | 35 |
-| supercluster | 1 | 1 | 56 | 56 |
+| breaking_defense | 4 | 6 | 21 | 35 |
+| supercluster | 1 | 1 | 57 | 57 |
 | aidy | 1 | 2 | 18 | 32 |
 | nyt | 0 | 1 | 18 | 31 |
 
@@ -1254,3 +1254,4 @@
 - **Mar 06, 07:07 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 06, 07:21 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 06, 07:35 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 06, 07:49 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
