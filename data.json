@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f80d21e38cec48cdbc2c9ddfb22ef18c",
+    "trigger_count": 0,
+    "current_item_id": "84e8d32059543267b8a2029bdea1a3e3",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3232,6 +3232,18 @@
             "fetched_datetime": "2025-03-06T18:31:59.246249Z",
             "shown_at": [
                 "2025-03-06T18:32:00.146105Z"
+            ]
+        },
+        {
+            "id": "84e8d32059543267b8a2029bdea1a3e3",
+            "source": "nyt",
+            "text": "Why NASA Is Trying to Go Back to the Moon",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/nasa-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:45:26.566311Z",
+            "shown_at": [
+                "2025-03-06T18:45:26.948398Z"
             ]
         }
     ]

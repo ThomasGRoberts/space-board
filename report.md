@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 25 | 49 |
+| spacenews | 11 | 20 | 24 | 49 |
 | breaking_defense | 3 | 5 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 0 | 17 | 35 |
+| nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -1236,3 +1236,4 @@
 - **Mar 06, 06:03 PM** - Ariane 6 launches French spysat on second flight (spacenews)
 - **Mar 06, 06:17 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 06, 06:32 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
+- **Mar 06, 06:45 PM** - Why NASA Is Trying to Go Back to the Moon (nyt)
