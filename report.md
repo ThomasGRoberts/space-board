@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 42 |
-| breaking_defense | 4 | 6 | 22 | 34 |
-| supercluster | 1 | 1 | 50 | 50 |
+| breaking_defense | 4 | 6 | 21 | 34 |
+| supercluster | 1 | 1 | 51 | 51 |
 | aidy | 1 | 2 | 18 | 31 |
 | nyt | 0 | 1 | 18 | 30 |
 
@@ -1244,3 +1244,4 @@
 - **Mar 06, 06:09 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 06, 06:23 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 06, 06:37 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 06:39 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
