@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 23 | 37 |
 | breaking_defense | 4 | 6 | 21 | 29 |
-| supercluster | 2 | 2 | 35 | 35 |
+| supercluster | 2 | 2 | 36 | 36 |
 | aidy | 1 | 2 | 18 | 26 |
 | nyt | 0 | 1 | 18 | 25 |
 
@@ -1209,3 +1209,4 @@
 - **Mar 05, 11:59 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 12:14 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 12:29 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 06, 12:43 AM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
