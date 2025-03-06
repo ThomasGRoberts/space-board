@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 22 | 48 |
 | breaking_defense | 5 | 7 | 21 | 40 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 0 | 1 | 18 | 36 |
+| nyt | 0 | 0 | 18 | 35 |
 
 # Shown Order
 
@@ -1312,3 +1312,4 @@
 - **Mar 06, 01:57 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 06, 02:15 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
 - **Mar 06, 02:29 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
+- **Mar 06, 02:31 PM** - Arianespace Will Launch an Earth Observation Satellite (supercluster)
