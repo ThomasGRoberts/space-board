@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 22 | 47 |
+| spacenews | 9 | 18 | 23 | 48 |
 | breaking_defense | 3 | 6 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 18 | 36 |
@@ -1232,3 +1232,4 @@
 - **Mar 06, 05:29 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 05:32 PM** - SpaceX Will Perform Eighth Flight Test of Starship Super Heavy (supercluster)
 - **Mar 06, 05:35 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
+- **Mar 06, 05:49 PM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)

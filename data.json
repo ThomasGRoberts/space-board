@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 6,
-    "current_item_id": "506f019d9da8ee498f2bf9f76e50911f",
+    "trigger_count": 0,
+    "current_item_id": "712058c8f09f6388c8dab21c60eb581c",
     "data": [
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
@@ -3195,6 +3195,18 @@
                 "2025-03-06T17:27:24.654467Z",
                 "2025-03-06T17:29:38.425495Z",
                 "2025-03-06T17:32:10.860501Z"
+            ]
+        },
+        {
+            "id": "712058c8f09f6388c8dab21c60eb581c",
+            "source": "spacenews",
+            "text": "ULA boss says Vulcan ready for multiple launches in 2025",
+            "source_link": "https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T17:49:24.805651Z",
+            "shown_at": [
+                "2025-03-06T17:49:25.328224Z"
             ]
         }
     ]
