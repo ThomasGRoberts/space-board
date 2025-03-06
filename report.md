@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 45 |
-| breaking_defense | 4 | 6 | 21 | 36 |
+| breaking_defense | 4 | 6 | 22 | 37 |
 | supercluster | 1 | 1 | 70 | 70 |
 | aidy | 1 | 3 | 19 | 35 |
 | nyt | 0 | 1 | 18 | 33 |
@@ -1276,3 +1276,4 @@
 - **Mar 06, 09:32 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 06, 09:47 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 06, 10:02 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 06, 10:17 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
