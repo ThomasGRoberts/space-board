@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 23 | 38 |
 | breaking_defense | 4 | 6 | 21 | 30 |
-| supercluster | 2 | 2 | 42 | 42 |
+| supercluster | 2 | 2 | 43 | 43 |
 | aidy | 1 | 2 | 18 | 27 |
 | nyt | 0 | 1 | 18 | 26 |
 
@@ -1220,3 +1220,4 @@
 - **Mar 06, 01:13 AM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Mar 06, 01:27 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 06, 01:41 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
+- **Mar 06, 01:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
