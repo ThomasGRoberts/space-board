@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 22 | 48 |
 | breaking_defense | 5 | 7 | 22 | 40 |
 | supercluster | 1 | 1 | 91 | 91 |
-| aidy | 1 | 3 | 18 | 37 |
+| aidy | 1 | 3 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 36 |
 
 # Shown Order
@@ -1309,3 +1309,4 @@
 - **Mar 06, 01:13 PM** - Apex’s first satellite marks one year in orbit (spacenews)
 - **Mar 06, 01:27 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 06, 01:43 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 06, 01:57 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
