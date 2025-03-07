@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 16 | 22 | 44 |
-| breaking_defense | 2 | 6 | 16 | 38 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -1338,3 +1338,4 @@
 - **Mar 07, 09:49 AM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 07, 10:03 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
 - **Mar 07, 10:17 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 07, 10:32 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
