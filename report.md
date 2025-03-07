@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 39 |
+| nyt | 8 | 8 | 21 | 39 |
 | spacenews | 9 | 17 | 21 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -1306,3 +1306,4 @@
 - **Mar 07, 06:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 07, 06:41 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 07, 06:55 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
+- **Mar 07, 07:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
