@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 16 | 21 | 43 |
+| spacenews | 9 | 16 | 22 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -1336,3 +1336,4 @@
 - **Mar 07, 09:45 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 09:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 09:49 AM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 07, 10:03 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
