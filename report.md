@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 22 | 39 |
-| spacenews | 7 | 18 | 20 | 45 |
+| spacenews | 8 | 19 | 21 | 46 |
 | breaking_defense | 2 | 5 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -1408,3 +1408,4 @@
 - **Mar 07, 07:13 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
 - **Mar 07, 07:27 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 07, 07:41 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 07, 07:55 PM** - Star Catcher lands Space Florida support for satellite power beaming tests (spacenews)

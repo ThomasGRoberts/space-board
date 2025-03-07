@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1402ac89f30533ae3783e41f2217ce53",
+    "trigger_count": 0,
+    "current_item_id": "f17e822c144ede853995616c3a0de8f3",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3613,6 +3613,18 @@
             "fetched_datetime": "2025-03-07T19:13:27.191652Z",
             "shown_at": [
                 "2025-03-07T19:13:27.898057Z"
+            ]
+        },
+        {
+            "id": "f17e822c144ede853995616c3a0de8f3",
+            "source": "spacenews",
+            "text": "Star Catcher lands Space Florida support for satellite power beaming tests",
+            "source_link": "https://spacenews.com/star-catcher-lands-space-florida-support-for-satellite-power-beaming-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T19:55:38.612699Z",
+            "shown_at": [
+                "2025-03-07T19:55:39.480962Z"
             ]
         }
     ]
