@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
 | spacenews | 10 | 17 | 22 | 44 |
-| breaking_defense | 2 | 6 | 17 | 38 |
-| aidy | 1 | 2 | 15 | 34 |
+| breaking_defense | 2 | 6 | 16 | 38 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
@@ -1358,3 +1358,4 @@
 - **Mar 07, 12:15 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:19 PM** - China highlights commercial space sector in government work report (spacenews)
+- **Mar 07, 12:48 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
