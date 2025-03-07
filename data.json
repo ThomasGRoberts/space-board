@@ -1,9 +1,192 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-06T00:01:55.070123+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
+    "trigger_count": 1,
     "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
     "data": [
+        {
+            "id": "e01e8b18f878d81ca34adc3b94ffadcc",
+            "source": "nyt",
+            "text": "Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T23:17:30.978822Z",
+            "shown_at": [
+                "2025-03-06T23:17:31.540565Z"
+            ]
+        },
+        {
+            "id": "d7dc97ec870e3ad7973e66d3f65d04e7",
+            "source": "nyt",
+            "text": "Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain",
+            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T22:35:27.149586Z",
+            "shown_at": [
+                "2025-03-06T22:35:27.651781Z"
+            ]
+        },
+        {
+            "id": "54db80e69eeb12268b98c80e66f345d4",
+            "source": "nyt",
+            "text": "SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T22:07:37.665040Z",
+            "shown_at": [
+                "2025-03-06T22:07:38.215018Z"
+            ]
+        },
+        {
+            "id": "6efc76f83ae4c73ba81fe8c5410a018d",
+            "source": "spacenews",
+            "text": "York taps commercial satellite technology for classified defense missions",
+            "source_link": "https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T21:39:40.843107Z",
+            "shown_at": [
+                "2025-03-06T21:39:41.418723Z"
+            ]
+        },
+        {
+            "id": "338b3dcfa07f054aeffe70c9e6839daa",
+            "source": "breaking_defense",
+            "text": "EU space monitoring program moves toward ‘strategic autonomy’",
+            "source_link": "https://breakingdefense.com/2025/03/eu-space-monitoring-program-moves-toward-strategic-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T21:25:25.479781Z",
+            "shown_at": [
+                "2025-03-06T21:25:25.980484Z"
+            ]
+        },
+        {
+            "id": "84e8d32059543267b8a2029bdea1a3e3",
+            "source": "nyt",
+            "text": "Why NASA Is Trying to Go Back to the Moon",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/nasa-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:45:26.566311Z",
+            "shown_at": [
+                "2025-03-06T18:45:26.948398Z"
+            ]
+        },
+        {
+            "id": "f80d21e38cec48cdbc2c9ddfb22ef18c",
+            "source": "spacenews",
+            "text": "IM-2 lunar lander touches down, status unclear",
+            "source_link": "https://spacenews.com/im-2-lunar-lander-touches-down-status-unclear/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:31:59.246249Z",
+            "shown_at": [
+                "2025-03-06T18:32:00.146105Z",
+                "2025-03-06T20:53:31.594229Z"
+            ]
+        },
+        {
+            "id": "c2ece747862605ba96ac1631524a6ce4",
+            "source": "spacenews",
+            "text": "Ariane 6 launches French spysat on second flight",
+            "source_link": "https://spacenews.com/ariane-6-launches-french-spysat-on-second-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T18:03:11.272657Z",
+            "shown_at": [
+                "2025-03-06T18:03:11.846612Z"
+            ]
+        },
+        {
+            "id": "712058c8f09f6388c8dab21c60eb581c",
+            "source": "spacenews",
+            "text": "ULA boss says Vulcan ready for multiple launches in 2025",
+            "source_link": "https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T17:49:24.805651Z",
+            "shown_at": [
+                "2025-03-06T17:49:25.328224Z"
+            ]
+        },
+        {
+            "id": "488f6f43a0a77924ec6db60e0d550765",
+            "source": "spacenews",
+            "text": "Questions linger about future of TraCSS",
+            "source_link": "https://spacenews.com/questions-linger-about-future-of-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T15:41:46.489496Z",
+            "shown_at": [
+                "2025-03-06T15:41:47.281052Z"
+            ]
+        },
+        {
+            "id": "ab81c0a229b4201f27806bde5657aa38",
+            "source": "spacenews",
+            "text": "CSF Welcomes Five Additional Associate Members",
+            "source_link": "https://spacenews.com/csf-welcomes-five-additional-associate-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T15:13:41.242565Z",
+            "shown_at": [
+                "2025-03-06T15:13:41.790857Z"
+            ]
+        },
+        {
+            "id": "bae39bf37ce73c7cd439d8cddb15dd17",
+            "source": "spacenews",
+            "text": "US military taps commercial space firms for hypersonic testing program",
+            "source_link": "https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T14:45:44.166529Z",
+            "shown_at": [
+                "2025-03-06T14:45:45.096849Z"
+            ]
+        },
+        {
+            "id": "76bb56c414c5b5ffca3dba8e70275780",
+            "source": "spacenews",
+            "text": "How the nation can make fielding hypersonic capabilities a national priority",
+            "source_link": "https://spacenews.com/how-the-nation-can-make-fielding-hypersonic-capabilities-a-national-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T14:15:54.468421Z",
+            "shown_at": [
+                "2025-03-06T14:15:54.947478Z"
+            ]
+        },
+        {
+            "id": "6b26ccc77edbcf924fb30f2f7c5e394c",
+            "source": "breaking_defense",
+            "text": "Space-based capabilities are critical to enabling a missile shield for America",
+            "source_link": "https://breakingdefense.com/2025/03/space-based-capabilities-are-critical-to-enabling-a-missile-shield-for-america/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T13:27:28.782854Z",
+            "shown_at": [
+                "2025-03-06T13:27:29.349181Z",
+                "2025-03-06T18:59:40.837345Z"
+            ]
+        },
+        {
+            "id": "e74f772ce94d7d34eed0b5537a622fca",
+            "source": "aidy",
+            "text": "U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-06T08:47:43.960482Z",
+            "shown_at": [
+                "2025-03-06T08:47:44.903582Z",
+                "2025-03-06T19:29:47.033870Z"
+            ]
+        },
         {
             "id": "72661bc11c8018da98a2d2ad037d026a",
             "source": "spacenews",
@@ -3118,189 +3301,6 @@
             ]
         },
         {
-            "id": "e74f772ce94d7d34eed0b5537a622fca",
-            "source": "aidy",
-            "text": "U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T08:47:43.960482Z",
-            "shown_at": [
-                "2025-03-06T08:47:44.903582Z",
-                "2025-03-06T19:29:47.033870Z"
-            ]
-        },
-        {
-            "id": "6b26ccc77edbcf924fb30f2f7c5e394c",
-            "source": "breaking_defense",
-            "text": "Space-based capabilities are critical to enabling a missile shield for America",
-            "source_link": "https://breakingdefense.com/2025/03/space-based-capabilities-are-critical-to-enabling-a-missile-shield-for-america/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T13:27:28.782854Z",
-            "shown_at": [
-                "2025-03-06T13:27:29.349181Z",
-                "2025-03-06T18:59:40.837345Z"
-            ]
-        },
-        {
-            "id": "76bb56c414c5b5ffca3dba8e70275780",
-            "source": "spacenews",
-            "text": "How the nation can make fielding hypersonic capabilities a national priority",
-            "source_link": "https://spacenews.com/how-the-nation-can-make-fielding-hypersonic-capabilities-a-national-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T14:15:54.468421Z",
-            "shown_at": [
-                "2025-03-06T14:15:54.947478Z"
-            ]
-        },
-        {
-            "id": "bae39bf37ce73c7cd439d8cddb15dd17",
-            "source": "spacenews",
-            "text": "US military taps commercial space firms for hypersonic testing program",
-            "source_link": "https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T14:45:44.166529Z",
-            "shown_at": [
-                "2025-03-06T14:45:45.096849Z"
-            ]
-        },
-        {
-            "id": "ab81c0a229b4201f27806bde5657aa38",
-            "source": "spacenews",
-            "text": "CSF Welcomes Five Additional Associate Members",
-            "source_link": "https://spacenews.com/csf-welcomes-five-additional-associate-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T15:13:41.242565Z",
-            "shown_at": [
-                "2025-03-06T15:13:41.790857Z"
-            ]
-        },
-        {
-            "id": "488f6f43a0a77924ec6db60e0d550765",
-            "source": "spacenews",
-            "text": "Questions linger about future of TraCSS",
-            "source_link": "https://spacenews.com/questions-linger-about-future-of-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T15:41:46.489496Z",
-            "shown_at": [
-                "2025-03-06T15:41:47.281052Z"
-            ]
-        },
-        {
-            "id": "712058c8f09f6388c8dab21c60eb581c",
-            "source": "spacenews",
-            "text": "ULA boss says Vulcan ready for multiple launches in 2025",
-            "source_link": "https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T17:49:24.805651Z",
-            "shown_at": [
-                "2025-03-06T17:49:25.328224Z"
-            ]
-        },
-        {
-            "id": "c2ece747862605ba96ac1631524a6ce4",
-            "source": "spacenews",
-            "text": "Ariane 6 launches French spysat on second flight",
-            "source_link": "https://spacenews.com/ariane-6-launches-french-spysat-on-second-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T18:03:11.272657Z",
-            "shown_at": [
-                "2025-03-06T18:03:11.846612Z"
-            ]
-        },
-        {
-            "id": "f80d21e38cec48cdbc2c9ddfb22ef18c",
-            "source": "spacenews",
-            "text": "IM-2 lunar lander touches down, status unclear",
-            "source_link": "https://spacenews.com/im-2-lunar-lander-touches-down-status-unclear/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T18:31:59.246249Z",
-            "shown_at": [
-                "2025-03-06T18:32:00.146105Z",
-                "2025-03-06T20:53:31.594229Z"
-            ]
-        },
-        {
-            "id": "84e8d32059543267b8a2029bdea1a3e3",
-            "source": "nyt",
-            "text": "Why NASA Is Trying to Go Back to the Moon",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/nasa-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T18:45:26.566311Z",
-            "shown_at": [
-                "2025-03-06T18:45:26.948398Z"
-            ]
-        },
-        {
-            "id": "338b3dcfa07f054aeffe70c9e6839daa",
-            "source": "breaking_defense",
-            "text": "EU space monitoring program moves toward ‘strategic autonomy’",
-            "source_link": "https://breakingdefense.com/2025/03/eu-space-monitoring-program-moves-toward-strategic-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T21:25:25.479781Z",
-            "shown_at": [
-                "2025-03-06T21:25:25.980484Z"
-            ]
-        },
-        {
-            "id": "6efc76f83ae4c73ba81fe8c5410a018d",
-            "source": "spacenews",
-            "text": "York taps commercial satellite technology for classified defense missions",
-            "source_link": "https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T21:39:40.843107Z",
-            "shown_at": [
-                "2025-03-06T21:39:41.418723Z"
-            ]
-        },
-        {
-            "id": "54db80e69eeb12268b98c80e66f345d4",
-            "source": "nyt",
-            "text": "SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T22:07:37.665040Z",
-            "shown_at": [
-                "2025-03-06T22:07:38.215018Z"
-            ]
-        },
-        {
-            "id": "d7dc97ec870e3ad7973e66d3f65d04e7",
-            "source": "nyt",
-            "text": "Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain",
-            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T22:35:27.149586Z",
-            "shown_at": [
-                "2025-03-06T22:35:27.651781Z"
-            ]
-        },
-        {
-            "id": "e01e8b18f878d81ca34adc3b94ffadcc",
-            "source": "nyt",
-            "text": "Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T23:17:30.978822Z",
-            "shown_at": [
-                "2025-03-06T23:17:31.540565Z"
-            ]
-        },
-        {
             "id": "72fcf3e6a5249db79cc9337f2e44fe59",
             "source": "supercluster",
             "text": "SpaceX Will Perform Eighth Flight Test of Starship Super Heavy",
@@ -3309,7 +3309,7 @@
             "type": "launch",
             "target_datetime": "2025-03-06T23:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-03-06T23:59:23.652818Z"
+            "fetched_datetime": "2025-03-07T00:02:24.779278Z"
         }
     ]
 }
