@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 7 | 20 | 38 |
+| nyt | 7 | 7 | 21 | 39 |
 | spacenews | 9 | 18 | 22 | 46 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -1258,3 +1258,4 @@
 - **Mar 07, 12:43 AM** - Starship destroyed on second consecutive test flight (spacenews)
 - **Mar 07, 12:59 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 07, 01:13 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
+- **Mar 07, 01:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
