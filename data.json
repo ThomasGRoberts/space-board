@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 0,
-    "current_item_id": "72fcf3e6a5249db79cc9337f2e44fe59",
+    "trigger_count": 1,
+    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3301,15 +3301,18 @@
             ]
         },
         {
-            "id": "72fcf3e6a5249db79cc9337f2e44fe59",
+            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
             "source": "supercluster",
-            "text": "SpaceX Will Perform Eighth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-8",
-            "shown": false,
+            "text": "SpaceX Will Launch Missions for NASA",
+            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-06T23:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-07T00:29:06.459201Z"
+            "target_datetime": "2025-03-09T03:09:00.000Z",
+            "time_remaining": "2d 02h 37m",
+            "fetched_datetime": "2025-03-07T00:31:55.469789Z",
+            "shown_at": [
+                "2025-03-07T00:31:55.962420Z"
+            ]
         }
     ]
 }
