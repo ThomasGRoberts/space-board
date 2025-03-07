@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 20 | 38 |
+| nyt | 7 | 9 | 21 | 39 |
 | spacenews | 10 | 21 | 23 | 47 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 15 | 34 |
@@ -1431,3 +1431,4 @@
 - **Mar 07, 10:27 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:29 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:31 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 10:33 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
