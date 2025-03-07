@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 21 | 39 |
 | spacenews | 10 | 16 | 22 | 44 |
 | breaking_defense | 1 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
@@ -1370,3 +1370,4 @@
 - **Mar 07, 01:49 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 01:51 PM** - BAE lands $151 million contract for missile-warning satellite ground system (spacenews)
 - **Mar 07, 02:07 PM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
+- **Mar 07, 02:21 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
