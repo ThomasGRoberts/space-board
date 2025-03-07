@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 9 | 21 | 39 |
+| nyt | 8 | 9 | 22 | 40 |
 | spacenews | 8 | 19 | 21 | 45 |
 | breaking_defense | 2 | 5 | 16 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1416,3 +1416,4 @@
 - **Mar 07, 08:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 08:19 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 08:21 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 08:23 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
