@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 39 |
-| spacenews | 9 | 16 | 21 | 44 |
+| nyt | 8 | 8 | 21 | 39 |
+| spacenews | 9 | 16 | 21 | 43 |
 | breaking_defense | 2 | 6 | 17 | 38 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -1346,3 +1346,4 @@
 - **Mar 07, 10:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:57 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 11:02 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
