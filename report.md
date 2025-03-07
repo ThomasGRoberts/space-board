@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 39 |
 | spacenews | 10 | 16 | 22 | 44 |
-| breaking_defense | 1 | 6 | 15 | 37 |
+| breaking_defense | 1 | 6 | 16 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -1373,3 +1373,4 @@
 - **Mar 07, 02:21 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 07, 02:35 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
 - **Mar 07, 02:51 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 07, 03:05 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
