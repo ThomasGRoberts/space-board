@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 17 | 21 | 44 |
+| spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -1302,3 +1302,4 @@
 - **Mar 07, 06:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 06:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 06:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 06:13 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
