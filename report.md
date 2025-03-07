@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 16 | 21 | 43 |
+| spacenews | 9 | 16 | 22 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -1347,3 +1347,4 @@
 - **Mar 07, 10:57 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 11:02 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
+- **Mar 07, 11:17 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
