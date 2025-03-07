@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 17 | 21 | 44 |
-| breaking_defense | 2 | 6 | 16 | 37 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -1283,3 +1283,4 @@
 - **Mar 07, 03:53 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 07, 04:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 07, 04:21 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 07, 04:35 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
