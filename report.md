@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 39 |
 | spacenews | 9 | 18 | 21 | 45 |
-| breaking_defense | 2 | 6 | 16 | 37 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -1272,3 +1272,4 @@
 - **Mar 07, 02:37 AM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 07, 02:51 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 07, 03:09 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 07, 03:25 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
