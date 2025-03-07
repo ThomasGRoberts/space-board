@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 9 | 22 | 40 |
+| nyt | 8 | 9 | 22 | 39 |
 | spacenews | 7 | 18 | 21 | 45 |
 | breaking_defense | 2 | 5 | 16 | 35 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
