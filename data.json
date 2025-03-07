@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "970316842bc463a02c90460809c83da4",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3599,6 +3599,18 @@
             "fetched_datetime": "2025-03-07T18:45:38.797558Z",
             "shown_at": [
                 "2025-03-07T18:45:39.347418Z"
+            ]
+        },
+        {
+            "id": "970316842bc463a02c90460809c83da4",
+            "source": "nyt",
+            "text": "Intuitive Machines Athena Moon Lander Dies After Toppling Over",
+            "source_link": "https://www.nytimes.com/2025/03/07/science/intuitive-machines-moon-lander-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T19:13:27.191652Z",
+            "shown_at": [
+                "2025-03-07T19:13:27.898057Z"
             ]
         }
     ]

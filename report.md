@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 8 | 21 | 39 |
+| nyt | 8 | 9 | 22 | 40 |
 | spacenews | 7 | 18 | 21 | 45 |
 | breaking_defense | 2 | 5 | 16 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1405,3 +1405,4 @@
 - **Mar 07, 07:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 07:13 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
