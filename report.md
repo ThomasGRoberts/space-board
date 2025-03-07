@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -1315,3 +1315,4 @@
 - **Mar 07, 07:21 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:23 AM** - Questions linger about future of TraCSS (spacenews)
 - **Mar 07, 07:37 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
+- **Mar 07, 07:51 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
