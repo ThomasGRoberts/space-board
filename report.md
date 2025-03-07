@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 16 | 21 | 43 |
+| spacenews | 10 | 17 | 22 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -1357,3 +1357,4 @@
 - **Mar 07, 12:08 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:15 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 12:19 PM** - China highlights commercial space sector in government work report (spacenews)
