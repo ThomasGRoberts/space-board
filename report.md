@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 9 | 20 | 39 |
-| spacenews | 10 | 20 | 23 | 46 |
-| breaking_defense | 2 | 4 | 16 | 35 |
+| spacenews | 11 | 21 | 24 | 47 |
+| breaking_defense | 2 | 4 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 111 | 111 |
 
@@ -1433,3 +1433,4 @@
 - **Mar 07, 10:31 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:33 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 07, 10:47 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 07, 11:03 PM** - Frontgrade Successfully Tests GaN DC-DC Converter and EMI Filter (spacenews)
