@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 18 | 22 | 46 |
 | breaking_defense | 2 | 6 | 16 | 37 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1281,3 +1281,4 @@
 - **Mar 07, 03:49 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 03:51 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 03:53 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
+- **Mar 07, 04:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
