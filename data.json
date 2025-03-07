@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6005a98086e6509170f0b4fa709e06a6",
+    "trigger_count": 0,
+    "current_item_id": "8742b94c1ef1f75101d95fc334a9efe2",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3330,6 +3330,36 @@
             "shown_at": [
                 "2025-03-07T00:43:41.327343Z"
             ]
+        },
+        {
+            "id": "8742b94c1ef1f75101d95fc334a9efe2",
+            "source": "nyt",
+            "text": "Moon Lander’s Journey to Lunar Surface Ends With Uncertainty",
+            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T00:59:28.804414Z",
+            "shown_at": [
+                "2025-03-07T00:59:29.288760Z"
+            ]
+        },
+        {
+            "id": "da0eec305a2913a59dba491a18e2d1c8",
+            "source": "nyt",
+            "text": "Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T00:59:28.804455Z"
+        },
+        {
+            "id": "3084834f8bee4e80cbac879f85252619",
+            "source": "nyt",
+            "text": "Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/intuitive-machines-athena-moon-lander.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T00:59:28.804906Z"
         }
     ]
 }
