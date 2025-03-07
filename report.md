@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 40 |
+| nyt | 8 | 8 | 22 | 39 |
 | spacenews | 10 | 17 | 21 | 44 |
-| breaking_defense | 2 | 6 | 16 | 37 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -1360,3 +1360,4 @@
 - **Mar 07, 12:19 PM** - China highlights commercial space sector in government work report (spacenews)
 - **Mar 07, 12:48 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 07, 01:09 PM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
+- **Mar 07, 01:23 PM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
