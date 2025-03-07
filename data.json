@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bab6e334d7562893adb41098f054b2d6",
+    "trigger_count": 0,
+    "current_item_id": "8b500de68935d65321c156f76952287b",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3636,6 +3636,18 @@
             "fetched_datetime": "2025-03-07T19:55:38.612699Z",
             "shown_at": [
                 "2025-03-07T19:55:39.480962Z"
+            ]
+        },
+        {
+            "id": "8b500de68935d65321c156f76952287b",
+            "source": "spacenews",
+            "text": "U.S. halts satellite imagery support to Ukraine in major policy shift",
+            "source_link": "https://spacenews.com/us-halts-satellite-imagery-support-to-ukraine-in-major-policy-shift/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T21:21:35.797921Z",
+            "shown_at": [
+                "2025-03-07T21:21:36.288784Z"
             ]
         }
     ]

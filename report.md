@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 21 | 39 |
-| spacenews | 8 | 18 | 21 | 45 |
+| spacenews | 9 | 19 | 22 | 46 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -1420,3 +1420,4 @@
 - **Mar 07, 08:37 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 07, 08:51 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 07, 09:07 PM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
+- **Mar 07, 09:21 PM** - U.S. halts satellite imagery support to Ukraine in major policy shift (spacenews)
