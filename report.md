@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -1304,3 +1304,4 @@
 - **Mar 07, 06:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 06:13 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
 - **Mar 07, 06:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
+- **Mar 07, 06:41 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
