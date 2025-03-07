@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 39 |
+| nyt | 8 | 8 | 21 | 39 |
 | spacenews | 9 | 18 | 21 | 45 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -1262,3 +1262,4 @@
 - **Mar 07, 01:41 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 07, 01:55 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 07, 02:09 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
+- **Mar 07, 02:23 AM** - SpaceX Will Launch Missions for NASA (supercluster)
