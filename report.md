@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 39 |
 | spacenews | 7 | 17 | 21 | 45 |
 | breaking_defense | 1 | 4 | 16 | 35 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
@@ -1395,3 +1395,4 @@
 - **Mar 07, 05:32 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 07, 05:47 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 07, 06:02 PM** - IM-2 lunar lander mission ends (spacenews)
+- **Mar 07, 06:17 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
