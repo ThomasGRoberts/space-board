@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 8 | 16 | 20 | 43 |
+| spacenews | 8 | 16 | 21 | 44 |
 | breaking_defense | 1 | 4 | 15 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -1382,3 +1382,4 @@
 - **Mar 07, 04:04 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 04:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 04:13 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 07, 04:36 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
