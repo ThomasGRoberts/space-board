@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 17 | 21 | 44 |
-| breaking_defense | 2 | 6 | 16 | 37 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -1305,3 +1305,4 @@
 - **Mar 07, 06:13 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
 - **Mar 07, 06:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 07, 06:41 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 07, 06:55 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
