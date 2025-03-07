@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 17 | 21 | 44 |
+| spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 17 | 38 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -1313,3 +1313,4 @@
 - **Mar 07, 07:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:19 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:21 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 07:23 AM** - Questions linger about future of TraCSS (spacenews)
