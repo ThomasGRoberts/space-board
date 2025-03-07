@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14a6f52499e0f5a26a808330ddb24636",
+    "trigger_count": 0,
+    "current_item_id": "17a20d32138302f19dfb84628ebbd4b0",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3714,6 +3714,18 @@
             "fetched_datetime": "2025-03-07T23:03:39.594413Z",
             "shown_at": [
                 "2025-03-07T23:03:40.189207Z"
+            ]
+        },
+        {
+            "id": "17a20d32138302f19dfb84628ebbd4b0",
+            "source": "spacenews",
+            "text": "Space Development Agency’s satellite program pushes launch timeline",
+            "source_link": "https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T23:59:31.764251Z",
+            "shown_at": [
+                "2025-03-07T23:59:32.319743Z"
             ]
         }
     ]
