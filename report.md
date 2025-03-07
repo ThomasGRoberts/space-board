@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 18 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -1271,3 +1271,4 @@
 - **Mar 07, 02:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 02:37 AM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 07, 02:51 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
+- **Mar 07, 03:09 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
