@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 22 | 40 |
 | spacenews | 8 | 18 | 21 | 44 |
-| breaking_defense | 2 | 5 | 16 | 35 |
+| breaking_defense | 2 | 5 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -1418,3 +1418,4 @@
 - **Mar 07, 08:21 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 08:23 PM** - Live Video: Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 07, 08:37 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 07, 08:51 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
