@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 39 |
-| spacenews | 9 | 16 | 22 | 44 |
+| spacenews | 9 | 16 | 21 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -1350,3 +1350,4 @@
 - **Mar 07, 11:17 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 07, 11:31 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 07, 11:45 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 07, 11:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
