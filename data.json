@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8742b94c1ef1f75101d95fc334a9efe2",
+    "trigger_count": 0,
+    "current_item_id": "da0eec305a2913a59dba491a18e2d1c8",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3348,9 +3348,12 @@
             "source": "nyt",
             "text": "Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports",
             "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-07T00:59:28.804455Z"
+            "fetched_datetime": "2025-03-07T00:59:28.804455Z",
+            "shown_at": [
+                "2025-03-07T01:13:30.930572Z"
+            ]
         },
         {
             "id": "3084834f8bee4e80cbac879f85252619",
