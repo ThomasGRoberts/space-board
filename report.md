@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 20 | 39 |
+| nyt | 7 | 9 | 20 | 38 |
 | spacenews | 10 | 21 | 23 | 47 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 34 |
-| supercluster | 1 | 1 | 105 | 105 |
+| aidy | 1 | 2 | 15 | 34 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -1425,3 +1425,4 @@
 - **Mar 07, 09:49 PM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
 - **Mar 07, 10:05 PM** - Frontgrade Screens Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Mar 07, 10:19 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 10:21 PM** - SpaceX Will Launch Missions for NASA (supercluster)
