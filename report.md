@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 17 | 21 | 44 |
+| spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -1325,3 +1325,4 @@
 - **Mar 07, 08:33 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 08:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 08:37 AM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 07, 08:51 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
