@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3084834f8bee4e80cbac879f85252619",
+    "trigger_count": 0,
+    "current_item_id": "c86f91bd699435c58e18f7cec4c4e665",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3365,6 +3365,18 @@
             "fetched_datetime": "2025-03-07T00:59:28.804906Z",
             "shown_at": [
                 "2025-03-07T01:27:27.918218Z"
+            ]
+        },
+        {
+            "id": "c86f91bd699435c58e18f7cec4c4e665",
+            "source": "nyt",
+            "text": "SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight",
+            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T01:41:12.768050Z",
+            "shown_at": [
+                "2025-03-07T01:41:13.304847Z"
             ]
         }
     ]
