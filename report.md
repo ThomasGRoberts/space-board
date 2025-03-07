@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 40 |
 | spacenews | 10 | 16 | 22 | 44 |
 | breaking_defense | 1 | 6 | 16 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -1372,3 +1372,4 @@
 - **Mar 07, 02:07 PM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
 - **Mar 07, 02:21 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 07, 02:35 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
+- **Mar 07, 02:51 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
