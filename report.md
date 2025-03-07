@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 21 | 39 |
 | spacenews | 8 | 16 | 20 | 43 |
 | breaking_defense | 1 | 5 | 16 | 36 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
@@ -1381,3 +1381,4 @@
 - **Mar 07, 03:53 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 04:04 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 04:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 04:13 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
