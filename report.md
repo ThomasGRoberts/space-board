@@ -5,7 +5,7 @@
 | nyt | 6 | 9 | 20 | 39 |
 | spacenews | 10 | 20 | 23 | 46 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
@@ -1432,3 +1432,4 @@
 - **Mar 07, 10:29 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:31 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 10:33 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 07, 10:47 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
