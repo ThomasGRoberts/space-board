@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 18 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -1282,3 +1282,4 @@
 - **Mar 07, 03:51 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 03:53 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 07, 04:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 07, 04:21 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
