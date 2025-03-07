@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -1293,3 +1293,4 @@
 - **Mar 07, 05:01 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 05:03 AM** - Raven Space Systems reveals NASA and AFRL research agreements (spacenews)
 - **Mar 07, 05:17 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 07, 05:31 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
