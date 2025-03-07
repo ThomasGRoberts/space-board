@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 21 | 39 |
-| spacenews | 8 | 19 | 21 | 46 |
+| spacenews | 9 | 20 | 22 | 47 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -1422,3 +1422,4 @@
 - **Mar 07, 09:07 PM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
 - **Mar 07, 09:21 PM** - U.S. halts satellite imagery support to Ukraine in major policy shift (spacenews)
 - **Mar 07, 09:35 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 07, 09:49 PM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "29fd2a5dfe126389b530899dc333e8bc",
+    "trigger_count": 0,
+    "current_item_id": "000995fe39c3068c48a2e271d0c6c976",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3660,6 +3660,18 @@
             "fetched_datetime": "2025-03-07T21:35:43.703258Z",
             "shown_at": [
                 "2025-03-07T21:35:44.569046Z"
+            ]
+        },
+        {
+            "id": "000995fe39c3068c48a2e271d0c6c976",
+            "source": "spacenews",
+            "text": "FCC allows a power boost for SpaceX’s direct-to-smartphone service",
+            "source_link": "https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T21:49:45.089882Z",
+            "shown_at": [
+                "2025-03-07T21:49:45.929179Z"
             ]
         }
     ]
