@@ -5,7 +5,7 @@
 | nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 18 | 22 | 45 |
 | breaking_defense | 2 | 6 | 16 | 37 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -1260,3 +1260,4 @@
 - **Mar 07, 01:13 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
 - **Mar 07, 01:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 07, 01:41 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
+- **Mar 07, 01:55 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
