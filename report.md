@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 9 | 17 | 21 | 44 |
+| spacenews | 9 | 17 | 22 | 45 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -1291,3 +1291,4 @@
 - **Mar 07, 04:57 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 04:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 05:01 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 05:03 AM** - Raven Space Systems reveals NASA and AFRL research agreements (spacenews)
