@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "6005a98086e6509170f0b4fa709e06a6",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3317,6 +3317,18 @@
                 "2025-03-07T00:37:47.401452Z",
                 "2025-03-07T00:39:47.846729Z",
                 "2025-03-07T00:41:43.076364Z"
+            ]
+        },
+        {
+            "id": "6005a98086e6509170f0b4fa709e06a6",
+            "source": "spacenews",
+            "text": "Starship destroyed on second consecutive test flight",
+            "source_link": "https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T00:43:40.248781Z",
+            "shown_at": [
+                "2025-03-07T00:43:41.327343Z"
             ]
         }
     ]

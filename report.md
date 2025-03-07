@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 19 | 37 |
-| spacenews | 8 | 17 | 22 | 45 |
+| spacenews | 9 | 18 | 23 | 46 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -1255,3 +1255,4 @@
 - **Mar 07, 12:37 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:39 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:41 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 12:43 AM** - Starship destroyed on second consecutive test flight (spacenews)
