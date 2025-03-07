@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 39 |
-| spacenews | 6 | 17 | 20 | 45 |
+| nyt | 7 | 8 | 21 | 39 |
+| spacenews | 7 | 18 | 21 | 45 |
 | breaking_defense | 2 | 5 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -1397,3 +1397,4 @@
 - **Mar 07, 06:02 PM** - IM-2 lunar lander mission ends (spacenews)
 - **Mar 07, 06:17 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 07, 06:31 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 07, 06:45 PM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)

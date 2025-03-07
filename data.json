@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90280504ac5364697d5f1bce5cace41c",
+    "trigger_count": 0,
+    "current_item_id": "2e0dab8a654f5f967fcf73aa45f97f64",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3580,6 +3580,18 @@
             "fetched_datetime": "2025-03-07T18:31:37.493715Z",
             "shown_at": [
                 "2025-03-07T18:31:38.113409Z"
+            ]
+        },
+        {
+            "id": "2e0dab8a654f5f967fcf73aa45f97f64",
+            "source": "spacenews",
+            "text": "U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers",
+            "source_link": "https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T18:45:38.797558Z",
+            "shown_at": [
+                "2025-03-07T18:45:39.347418Z"
             ]
         }
     ]
