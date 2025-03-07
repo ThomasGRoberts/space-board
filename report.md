@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 18 | 22 | 46 |
 | breaking_defense | 2 | 6 | 17 | 37 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1270,3 +1270,4 @@
 - **Mar 07, 02:33 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 02:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 02:37 AM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
+- **Mar 07, 02:51 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
