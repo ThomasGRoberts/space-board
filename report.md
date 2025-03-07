@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 40 |
-| spacenews | 9 | 17 | 22 | 45 |
-| breaking_defense | 2 | 6 | 16 | 37 |
+| spacenews | 9 | 17 | 22 | 44 |
+| breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -1327,3 +1327,4 @@
 - **Mar 07, 08:37 AM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 07, 08:51 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
 - **Mar 07, 09:07 AM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
+- **Mar 07, 09:22 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
