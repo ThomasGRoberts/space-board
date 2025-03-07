@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 39 |
+| nyt | 8 | 8 | 21 | 39 |
 | spacenews | 10 | 16 | 21 | 43 |
 | breaking_defense | 1 | 6 | 16 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
 
@@ -1365,3 +1365,4 @@
 - **Mar 07, 01:39 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 01:41 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 01:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 01:45 PM** - SpaceX Will Launch Missions for NASA (supercluster)
