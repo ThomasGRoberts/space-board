@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b500de68935d65321c156f76952287b",
+    "trigger_count": 0,
+    "current_item_id": "29fd2a5dfe126389b530899dc333e8bc",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3648,6 +3648,18 @@
             "fetched_datetime": "2025-03-07T21:21:35.797921Z",
             "shown_at": [
                 "2025-03-07T21:21:36.288784Z"
+            ]
+        },
+        {
+            "id": "29fd2a5dfe126389b530899dc333e8bc",
+            "source": "breaking_defense",
+            "text": "SDA again postpones launch of first ‘operational’ data relay, missile warning satellites",
+            "source_link": "https://breakingdefense.com/2025/03/sda-again-postpones-launch-of-first-operational-data-relay-missile-warning-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T21:35:43.703258Z",
+            "shown_at": [
+                "2025-03-07T21:35:44.569046Z"
             ]
         }
     ]

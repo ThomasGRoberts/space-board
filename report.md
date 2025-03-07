@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 21 | 39 |
 | spacenews | 9 | 19 | 22 | 46 |
-| breaking_defense | 1 | 4 | 16 | 35 |
+| breaking_defense | 2 | 5 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -1421,3 +1421,4 @@
 - **Mar 07, 08:51 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 07, 09:07 PM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
 - **Mar 07, 09:21 PM** - U.S. halts satellite imagery support to Ukraine in major policy shift (spacenews)
+- **Mar 07, 09:35 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
