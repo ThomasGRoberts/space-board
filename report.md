@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 22 | 40 |
+| nyt | 8 | 8 | 22 | 39 |
 | spacenews | 9 | 17 | 21 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -1328,3 +1328,4 @@
 - **Mar 07, 08:51 AM** - End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper (spacenews)
 - **Mar 07, 09:07 AM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 07, 09:22 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
+- **Mar 07, 09:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
