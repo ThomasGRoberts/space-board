@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 40 |
 | spacenews | 10 | 17 | 22 | 44 |
 | breaking_defense | 2 | 6 | 16 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -1359,3 +1359,4 @@
 - **Mar 07, 12:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 12:19 PM** - China highlights commercial space sector in government work report (spacenews)
 - **Mar 07, 12:48 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 07, 01:09 PM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
