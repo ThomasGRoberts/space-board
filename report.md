@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 9 | 22 | 39 |
 | spacenews | 7 | 18 | 21 | 45 |
-| breaking_defense | 2 | 5 | 16 | 35 |
+| breaking_defense | 2 | 5 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 97 | 97 |
 
@@ -1407,3 +1407,4 @@
 - **Mar 07, 07:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 07:13 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
 - **Mar 07, 07:27 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 07, 07:41 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
