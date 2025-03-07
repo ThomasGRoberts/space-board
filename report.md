@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 21 | 39 |
-| spacenews | 10 | 16 | 21 | 43 |
+| spacenews | 10 | 16 | 22 | 44 |
 | breaking_defense | 1 | 6 | 16 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -1368,3 +1368,4 @@
 - **Mar 07, 01:45 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 01:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 01:49 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 07, 01:51 PM** - BAE lands $151 million contract for missile-warning satellite ground system (spacenews)
