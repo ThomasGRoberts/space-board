@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 8 | 21 | 39 |
+| nyt | 8 | 8 | 22 | 40 |
 | spacenews | 9 | 16 | 22 | 44 |
 | breaking_defense | 2 | 6 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -1337,3 +1337,4 @@
 - **Mar 07, 09:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 09:49 AM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 07, 10:03 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
+- **Mar 07, 10:17 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
