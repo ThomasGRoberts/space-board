@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6014834ccec20370e706afbf1cd730bf",
+    "trigger_count": 0,
+    "current_item_id": "90280504ac5364697d5f1bce5cace41c",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3568,6 +3568,18 @@
             "fetched_datetime": "2025-03-07T18:02:09.473459Z",
             "shown_at": [
                 "2025-03-07T18:02:10.598023Z"
+            ]
+        },
+        {
+            "id": "90280504ac5364697d5f1bce5cace41c",
+            "source": "breaking_defense",
+            "text": "NGA suspends Ukraine’s access to commercial satellite imagery",
+            "source_link": "https://breakingdefense.com/2025/03/nga-suspends-ukraines-access-to-commercial-satellite-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T18:31:37.493715Z",
+            "shown_at": [
+                "2025-03-07T18:31:38.113409Z"
             ]
         }
     ]

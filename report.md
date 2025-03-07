@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 8 | 22 | 39 |
 | spacenews | 7 | 17 | 21 | 45 |
-| breaking_defense | 1 | 4 | 16 | 35 |
-| aidy | 1 | 2 | 16 | 35 |
+| breaking_defense | 2 | 5 | 17 | 36 |
+| aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
@@ -1396,3 +1396,4 @@
 - **Mar 07, 05:47 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 07, 06:02 PM** - IM-2 lunar lander mission ends (spacenews)
 - **Mar 07, 06:17 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 07, 06:31 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
