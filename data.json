@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-07T00:02:21.088271+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d50c0bb6e6817d621ec9cbf10ba2b68b",
+    "trigger_count": 0,
+    "current_item_id": "e1230cfc649bfa20d39863d6fc2fa9cb",
     "data": [
         {
             "id": "e01e8b18f878d81ca34adc3b94ffadcc",
@@ -3555,6 +3555,18 @@
             "shown_at": [
                 "2025-03-07T14:35:52.912853Z",
                 "2025-03-07T16:36:04.265961Z"
+            ]
+        },
+        {
+            "id": "e1230cfc649bfa20d39863d6fc2fa9cb",
+            "source": "spacenews",
+            "text": "IM-2 lunar lander mission ends",
+            "source_link": "https://spacenews.com/im-2-lunar-lander-mission-ends/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-07T18:02:09.473459Z",
+            "shown_at": [
+                "2025-03-07T18:02:10.598023Z"
             ]
         }
     ]
