@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 25 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 17 | 33 |
 | supercluster | 0 | 1 | 119 | 174 |
 
 # Shown Order
@@ -1533,3 +1533,4 @@
 - **Mar 08, 09:17 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 08, 09:33 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
 - **Mar 08, 09:47 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 08, 10:02 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
