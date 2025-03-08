@@ -5,8 +5,8 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 33 |
-| supercluster | 0 | 1 | 120 | 153 |
+| aidy | 1 | 2 | 18 | 34 |
+| supercluster | 0 | 1 | 119 | 153 |
 
 # Shown Order
 
@@ -1499,3 +1499,4 @@
 - **Mar 08, 05:39 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 05:41 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 08, 05:55 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
+- **Mar 08, 06:11 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
