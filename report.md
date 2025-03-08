@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 19 | 35 |
-| nyt | 1 | 9 | 17 | 39 |
+| nyt | 1 | 9 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 126 | 139 |
 
@@ -1475,3 +1475,4 @@
 - **Mar 08, 03:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 03:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 03:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 03:18 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
