@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 45 |
-| breaking_defense | 2 | 3 | 19 | 35 |
+| breaking_defense | 2 | 3 | 20 | 36 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 126 | 209 |
@@ -1589,3 +1589,4 @@
 - **Mar 08, 03:35 PM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)
 - **Mar 08, 03:49 PM** - Fuel leak blamed for Falcon 9 booster loss after landing (spacenews)
 - **Mar 08, 04:03 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 08, 04:18 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
