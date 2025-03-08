@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 45 |
+| spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
-| nyt | 1 | 9 | 18 | 40 |
+| nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 126 | 146 |
 
@@ -1487,3 +1487,4 @@
 - **Mar 08, 04:27 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 04:29 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 04:31 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
+- **Mar 08, 04:45 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
