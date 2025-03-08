@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 24 | 45 |
+| spacenews | 8 | 15 | 23 | 44 |
 | breaking_defense | 2 | 3 | 20 | 36 |
 | nyt | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 0 | 1 | 126 | 216 |
+| supercluster | 0 | 1 | 127 | 217 |
 
 # Shown Order
 
@@ -1602,3 +1602,4 @@
 - **Mar 08, 05:15 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 08, 05:31 PM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 08, 05:45 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
+- **Mar 08, 06:03 PM** - SpaceX Will Launch Missions for NASA (supercluster)
