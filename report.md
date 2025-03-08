@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 23 | 44 |
-| breaking_defense | 1 | 3 | 19 | 36 |
+| breaking_defense | 1 | 3 | 20 | 37 |
 | nyt | 2 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 223 |
@@ -1611,3 +1611,4 @@
 - **Mar 08, 06:20 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:24 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
 - **Mar 08, 06:42 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 08, 06:57 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
