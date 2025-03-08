@@ -5,8 +5,8 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 34 |
-| supercluster | 0 | 1 | 121 | 146 |
+| aidy | 1 | 2 | 18 | 35 |
+| supercluster | 0 | 1 | 120 | 146 |
 
 # Shown Order
 
@@ -1488,3 +1488,4 @@
 - **Mar 08, 04:29 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 04:31 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 08, 04:45 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
+- **Mar 08, 04:59 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
