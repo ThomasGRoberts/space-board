@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 45 |
-| breaking_defense | 2 | 4 | 19 | 35 |
-| nyt | 1 | 9 | 17 | 39 |
+| breaking_defense | 2 | 4 | 18 | 35 |
+| nyt | 1 | 9 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 126 | 167 |
 
@@ -1519,3 +1519,4 @@
 - **Mar 08, 08:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 08:08 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
