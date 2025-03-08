@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 2 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 125 |
@@ -1456,3 +1456,4 @@
 - **Mar 08, 12:57 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 08, 01:11 AM** - York taps commercial satellite technology for classified defense missions (spacenews)
 - **Mar 08, 01:25 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 08, 01:39 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
