@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 25 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 3 | 17 | 34 |
+| aidy | 1 | 2 | 17 | 33 |
 | supercluster | 0 | 1 | 119 | 167 |
 
 # Shown Order
@@ -1522,3 +1522,4 @@
 - **Mar 08, 08:08 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 08, 08:21 AM** - Star Catcher lands Space Florida support for satellite power beaming tests (spacenews)
 - **Mar 08, 08:35 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 08, 08:49 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
