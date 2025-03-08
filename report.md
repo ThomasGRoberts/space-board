@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 19 | 35 |
-| nyt | 1 | 9 | 17 | 39 |
+| nyt | 1 | 9 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 0 | 1 | 126 | 174 |
 
@@ -1530,3 +1530,4 @@
 - **Mar 08, 09:12 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 09:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 09:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 09:17 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
