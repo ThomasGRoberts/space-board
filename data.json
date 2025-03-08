@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-08T00:01:30.774870+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7353cfe17aaaf3061cc867e239f67ed4",
+    "trigger_count": 0,
+    "current_item_id": "a47024033cd9ba508063189b397c90bd",
     "data": [
         {
             "id": "17a20d32138302f19dfb84628ebbd4b0",
@@ -3891,6 +3891,18 @@
             "fetched_datetime": "2025-03-08T10:17:31.602122Z",
             "shown_at": [
                 "2025-03-08T10:17:32.125857Z"
+            ]
+        },
+        {
+            "id": "a47024033cd9ba508063189b397c90bd",
+            "source": "spacenews",
+            "text": "Fuel leak blamed for Falcon 9 booster loss after landing",
+            "source_link": "https://spacenews.com/fuel-leak-blamed-for-falcon-9-booster-loss-after-landing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-08T15:49:33.199571Z",
+            "shown_at": [
+                "2025-03-08T15:49:33.874802Z"
             ]
         }
     ]
