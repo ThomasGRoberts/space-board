@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 17 | 35 |
+| breaking_defense | 2 | 4 | 18 | 36 |
 | nyt | 5 | 9 | 20 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -1445,3 +1445,4 @@
 - **Mar 07, 11:45 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 07, 11:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
 - **Mar 08, 12:13 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 08, 12:27 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
