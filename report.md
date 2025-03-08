@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 13 | 20 | 43 |
 | breaking_defense | 0 | 2 | 20 | 36 |
-| nyt | 1 | 7 | 20 | 40 |
+| nyt | 2 | 8 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 244 |
 
@@ -1646,3 +1646,4 @@
 - **Mar 08, 10:23 PM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 08, 10:37 PM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 08, 10:51 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
+- **Mar 08, 11:07 PM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
