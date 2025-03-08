@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 44 |
+| spacenews | 7 | 14 | 24 | 45 |
 | breaking_defense | 1 | 3 | 20 | 36 |
 | nyt | 1 | 9 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
@@ -1620,3 +1620,4 @@
 - **Mar 08, 07:35 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 07:37 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 07:39 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 07:41 PM** - Spire demonstrates optical links between cubesats (spacenews)
