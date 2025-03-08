@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 24 | 46 |
+| spacenews | 9 | 20 | 23 | 46 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 33 |
-| supercluster | 0 | 1 | 120 | 196 |
+| supercluster | 0 | 1 | 121 | 197 |
 
 # Shown Order
 
@@ -1569,3 +1569,4 @@
 - **Mar 08, 01:37 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 08, 01:51 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
 - **Mar 08, 02:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 02:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
