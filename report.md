@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 146 |
@@ -1489,3 +1489,4 @@
 - **Mar 08, 04:31 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 08, 04:45 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
 - **Mar 08, 04:59 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 08, 05:13 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
