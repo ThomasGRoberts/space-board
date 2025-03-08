@@ -5,7 +5,7 @@
 | spacenews | 12 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | nyt | 5 | 9 | 20 | 39 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
@@ -1444,3 +1444,4 @@
 - **Mar 07, 11:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 07, 11:45 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 07, 11:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
+- **Mar 08, 12:13 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
