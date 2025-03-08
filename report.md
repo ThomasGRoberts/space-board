@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 23 | 44 |
+| spacenews | 8 | 15 | 24 | 45 |
 | breaking_defense | 2 | 3 | 20 | 36 |
 | nyt | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
@@ -1609,3 +1609,4 @@
 - **Mar 08, 06:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:16 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:20 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 06:24 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
