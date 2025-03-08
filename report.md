@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 139 |
@@ -1478,3 +1478,4 @@
 - **Mar 08, 03:18 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
 - **Mar 08, 03:33 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 08, 03:47 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 08, 04:02 AM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
