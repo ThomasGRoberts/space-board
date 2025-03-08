@@ -5,8 +5,8 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 34 |
-| supercluster | 0 | 1 | 121 | 132 |
+| aidy | 1 | 2 | 18 | 35 |
+| supercluster | 0 | 1 | 120 | 132 |
 
 # Shown Order
 
@@ -1466,3 +1466,4 @@
 - **Mar 08, 02:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 08, 02:21 AM** - FAA gives approval for next Starship test flight (spacenews)
+- **Mar 08, 02:35 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
