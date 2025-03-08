@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 23 | 44 |
 | breaking_defense | 1 | 3 | 20 | 36 |
-| nyt | 1 | 9 | 18 | 40 |
+| nyt | 1 | 9 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 126 | 230 |
 
@@ -1623,3 +1623,4 @@
 - **Mar 08, 07:41 PM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 08, 07:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 08, 08:11 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
+- **Mar 08, 08:25 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
