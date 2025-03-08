@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 19 | 36 |
-| nyt | 2 | 10 | 18 | 39 |
+| nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 0 | 1 | 119 | 181 |
 
@@ -1545,3 +1545,4 @@
 - **Mar 08, 10:45 AM** - Albedo secures $12 million STRATFI contract (spacenews)
 - **Mar 08, 10:59 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 08, 11:13 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 08, 11:27 AM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
