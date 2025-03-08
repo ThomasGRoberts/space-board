@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 45 |
-| breaking_defense | 2 | 3 | 20 | 35 |
-| nyt | 2 | 10 | 18 | 40 |
+| breaking_defense | 2 | 3 | 19 | 35 |
+| nyt | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 126 | 202 |
 
@@ -1578,3 +1578,4 @@
 - **Mar 08, 02:19 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 08, 02:35 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 08, 02:50 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
+- **Mar 08, 03:06 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
