@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 44 |
-| breaking_defense | 1 | 3 | 19 | 36 |
+| breaking_defense | 1 | 3 | 20 | 37 |
 | nyt | 1 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 237 |
@@ -1633,3 +1633,4 @@
 - **Mar 08, 08:51 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
 - **Mar 08, 09:09 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 08, 09:23 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
