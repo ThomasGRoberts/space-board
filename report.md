@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 25 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 2 | 10 | 18 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 119 | 181 |
@@ -1544,3 +1544,4 @@
 - **Mar 08, 10:43 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:45 AM** - Albedo secures $12 million STRATFI contract (spacenews)
 - **Mar 08, 10:59 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 08, 11:13 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
