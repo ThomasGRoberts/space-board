@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 2 | 10 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
-| supercluster | 0 | 1 | 119 | 174 |
+| supercluster | 0 | 1 | 120 | 175 |
 
 # Shown Order
 
@@ -1535,3 +1535,4 @@
 - **Mar 08, 09:47 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 08, 10:02 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
 - **Mar 08, 10:17 AM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
+- **Mar 08, 10:31 AM** - SpaceX Will Launch Missions for NASA (supercluster)
