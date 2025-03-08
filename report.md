@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 21 | 44 |
-| breaking_defense | 0 | 2 | 20 | 37 |
-| nyt | 1 | 7 | 19 | 39 |
+| breaking_defense | 0 | 2 | 20 | 36 |
+| nyt | 1 | 7 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 244 |
 
@@ -1645,3 +1645,4 @@
 - **Mar 08, 10:08 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
 - **Mar 08, 10:23 PM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 08, 10:37 PM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 08, 10:51 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
