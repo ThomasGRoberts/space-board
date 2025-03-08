@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 45 |
-| breaking_defense | 2 | 3 | 19 | 35 |
+| breaking_defense | 2 | 3 | 20 | 36 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 126 | 202 |
@@ -1577,3 +1577,4 @@
 - **Mar 08, 02:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:19 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 08, 02:35 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 08, 02:50 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
