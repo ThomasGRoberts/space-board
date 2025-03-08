@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 20 | 35 |
 | nyt | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 126 | 209 |
+| supercluster | 0 | 1 | 127 | 210 |
 
 # Shown Order
 
@@ -1591,3 +1591,4 @@
 - **Mar 08, 04:03 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 08, 04:18 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 08, 04:33 PM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
+- **Mar 08, 04:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
