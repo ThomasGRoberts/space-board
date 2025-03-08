@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 126 | 202 |
+| supercluster | 0 | 1 | 127 | 203 |
 
 # Shown Order
 
@@ -1579,3 +1579,4 @@
 - **Mar 08, 02:35 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 08, 02:50 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
 - **Mar 08, 03:06 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
+- **Mar 08, 03:21 PM** - SpaceX Will Launch Missions for NASA (supercluster)
