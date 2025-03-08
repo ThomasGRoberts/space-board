@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 46 |
 | breaking_defense | 2 | 3 | 20 | 36 |
-| nyt | 2 | 10 | 19 | 40 |
+| nyt | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 0 | 1 | 126 | 216 |
 
@@ -1601,3 +1601,4 @@
 - **Mar 08, 05:02 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
 - **Mar 08, 05:15 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 08, 05:31 PM** - New thinking needed to safeguard our spectrum (breaking_defense)
+- **Mar 08, 05:45 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
