@@ -5,7 +5,7 @@
 | spacenews | 9 | 19 | 24 | 46 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 126 | 202 |
 
 # Shown Order
@@ -1576,3 +1576,4 @@
 - **Mar 08, 02:15 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:19 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
+- **Mar 08, 02:35 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
