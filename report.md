@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 24 | 45 |
+| spacenews | 9 | 17 | 25 | 46 |
 | breaking_defense | 2 | 3 | 20 | 35 |
 | nyt | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
@@ -1598,3 +1598,4 @@
 - **Mar 08, 04:55 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 04:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 04:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 05:02 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
