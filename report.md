@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 25 | 45 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
-| aidy | 1 | 2 | 18 | 33 |
+| aidy | 1 | 2 | 19 | 34 |
 | supercluster | 0 | 1 | 128 | 209 |
 
 # Shown Order
@@ -1588,3 +1588,4 @@
 - **Mar 08, 03:33 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 03:35 PM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)
 - **Mar 08, 03:49 PM** - Fuel leak blamed for Falcon 9 booster loss after landing (spacenews)
+- **Mar 08, 04:03 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
