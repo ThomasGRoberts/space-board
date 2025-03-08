@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 24 | 46 |
+| spacenews | 11 | 20 | 23 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 5 | 9 | 20 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 0 | 1 | 113 | 119 |
+| supercluster | 0 | 1 | 114 | 120 |
 
 # Shown Order
 
@@ -1447,3 +1447,4 @@
 - **Mar 08, 12:13 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 08, 12:27 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
 - **Mar 08, 12:42 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 12:44 AM** - SpaceX Will Launch Missions for NASA (supercluster)
