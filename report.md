@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 1 | 9 | 17 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 119 | 153 |
+| supercluster | 0 | 1 | 120 | 154 |
 
 # Shown Order
 
@@ -1501,3 +1501,4 @@
 - **Mar 08, 05:55 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
 - **Mar 08, 06:11 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 08, 06:25 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 08, 06:40 AM** - SpaceX Will Launch Missions for NASA (supercluster)
