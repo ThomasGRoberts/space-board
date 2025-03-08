@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 19 | 36 |
 | nyt | 2 | 7 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 133 | 244 |
+| supercluster | 0 | 1 | 134 | 245 |
 
 # Shown Order
 
@@ -1647,3 +1647,4 @@
 - **Mar 08, 10:37 PM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 08, 10:51 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
 - **Mar 08, 11:07 PM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
+- **Mar 08, 11:21 PM** - SpaceX Will Launch Missions for NASA (supercluster)
