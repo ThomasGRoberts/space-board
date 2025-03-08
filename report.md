@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 33 |
-| supercluster | 0 | 1 | 119 | 195 |
+| supercluster | 0 | 1 | 120 | 196 |
 
 # Shown Order
 
@@ -1568,3 +1568,4 @@
 - **Mar 08, 01:23 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 08, 01:37 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 08, 01:51 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
+- **Mar 08, 02:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
