@@ -5,8 +5,8 @@
 | spacenews | 3 | 13 | 21 | 44 |
 | breaking_defense | 0 | 2 | 19 | 36 |
 | nyt | 1 | 8 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 139 | 244 |
+| aidy | 1 | 2 | 20 | 35 |
+| supercluster | 0 | 1 | 138 | 244 |
 
 # Shown Order
 
@@ -1643,3 +1643,4 @@
 - **Mar 08, 10:02 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:08 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
+- **Mar 08, 10:23 PM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
