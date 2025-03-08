@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 2 | 3 | 18 | 34 |
 | supercluster | 0 | 1 | 120 | 167 |
 
 # Shown Order
@@ -1521,3 +1521,4 @@
 - **Mar 08, 08:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:08 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 08, 08:21 AM** - Star Catcher lands Space Florida support for satellite power beaming tests (spacenews)
+- **Mar 08, 08:35 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)

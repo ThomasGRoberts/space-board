@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-08T00:01:30.774870+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f17e822c144ede853995616c3a0de8f3",
+    "trigger_count": 0,
+    "current_item_id": "f35457e5ac5cefc0ac61e7db1150d013",
     "data": [
         {
             "id": "17a20d32138302f19dfb84628ebbd4b0",
@@ -3803,6 +3803,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "f35457e5ac5cefc0ac61e7db1150d013",
+            "source": "aidy",
+            "text": "NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-08T08:35:03.196202Z",
+            "shown_at": [
+                "2025-03-08T08:35:03.713337Z"
             ]
         }
     ]
