@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 19 | 36 |
-| nyt | 1 | 9 | 18 | 39 |
+| nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 0 | 1 | 119 | 174 |
 
@@ -1534,3 +1534,4 @@
 - **Mar 08, 09:33 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
 - **Mar 08, 09:47 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 08, 10:02 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
+- **Mar 08, 10:17 AM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)

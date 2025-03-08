@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-08T00:01:30.774870+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f38a01d222d612c37e7297deae03519d",
+    "trigger_count": 0,
+    "current_item_id": "e0d95dd3f0c64909e27bf05db853a55a",
     "data": [
         {
             "id": "17a20d32138302f19dfb84628ebbd4b0",
@@ -3827,6 +3827,18 @@
             "shown_at": [
                 "2025-03-08T08:35:03.713337Z",
                 "2025-03-08T09:47:31.950294Z"
+            ]
+        },
+        {
+            "id": "e0d95dd3f0c64909e27bf05db853a55a",
+            "source": "nyt",
+            "text": "Starship Explosions Show SpaceX No Longer Defying Gravity",
+            "source_link": "https://www.nytimes.com/2025/03/08/science/starship-spacex-explosion-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-08T10:17:31.602122Z",
+            "shown_at": [
+                "2025-03-08T10:17:32.125857Z"
             ]
         }
     ]
