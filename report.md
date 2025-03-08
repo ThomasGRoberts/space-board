@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 2 | 10 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 188 |
@@ -1555,3 +1555,4 @@
 - **Mar 08, 11:53 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:55 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
 - **Mar 08, 12:11 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 08, 12:25 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
