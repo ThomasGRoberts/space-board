@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 23 | 45 |
+| spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 2 | 9 | 20 | 40 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -1454,3 +1454,4 @@
 - **Mar 08, 12:53 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 12:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 12:57 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
+- **Mar 08, 01:11 AM** - York taps commercial satellite technology for classified defense missions (spacenews)
