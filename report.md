@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 44 |
 | breaking_defense | 1 | 3 | 19 | 36 |
 | nyt | 2 | 10 | 19 | 41 |
-| aidy | 1 | 2 | 18 | 34 |
+| aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 223 |
 
 # Shown Order
@@ -1610,3 +1610,4 @@
 - **Mar 08, 06:16 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:20 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:24 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
+- **Mar 08, 06:42 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
