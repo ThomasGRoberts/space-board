@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 23 | 44 |
-| breaking_defense | 1 | 3 | 20 | 36 |
+| spacenews | 6 | 14 | 24 | 44 |
+| breaking_defense | 1 | 3 | 19 | 36 |
 | nyt | 1 | 9 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 133 | 237 |
@@ -1631,3 +1631,4 @@
 - **Mar 08, 08:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:49 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:51 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
