@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 21 | 43 |
+| spacenews | 3 | 13 | 21 | 44 |
 | breaking_defense | 0 | 2 | 19 | 36 |
-| nyt | 1 | 9 | 20 | 41 |
+| nyt | 1 | 8 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 140 | 244 |
 
@@ -1642,3 +1642,4 @@
 - **Mar 08, 09:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:02 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 10:08 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
