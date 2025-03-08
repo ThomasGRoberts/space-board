@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
-| supercluster | 0 | 1 | 119 | 188 |
+| supercluster | 0 | 1 | 120 | 189 |
 
 # Shown Order
 
@@ -1557,3 +1557,4 @@
 - **Mar 08, 12:11 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 08, 12:25 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
 - **Mar 08, 12:41 PM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
+- **Mar 08, 12:55 PM** - SpaceX Will Launch Missions for NASA (supercluster)
