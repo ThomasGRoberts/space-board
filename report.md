@@ -5,7 +5,7 @@
 | spacenews | 2 | 13 | 21 | 44 |
 | breaking_defense | 0 | 2 | 19 | 36 |
 | nyt | 2 | 7 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 20 | 36 |
 | supercluster | 0 | 1 | 133 | 251 |
 
 # Shown Order
@@ -1655,3 +1655,4 @@
 - **Mar 08, 11:31 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:33 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:36 PM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
+- **Mar 08, 11:51 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
