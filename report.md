@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 23 | 44 |
 | breaking_defense | 1 | 3 | 19 | 36 |
 | nyt | 1 | 9 | 19 | 41 |
-| aidy | 1 | 2 | 18 | 34 |
+| aidy | 1 | 2 | 19 | 35 |
 | supercluster | 0 | 1 | 133 | 237 |
 
 # Shown Order
@@ -1632,3 +1632,4 @@
 - **Mar 08, 08:49 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:51 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
+- **Mar 08, 09:09 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
