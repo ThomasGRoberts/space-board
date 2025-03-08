@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 22 | 43 |
+| spacenews | 4 | 13 | 21 | 43 |
 | breaking_defense | 0 | 2 | 19 | 36 |
 | nyt | 1 | 9 | 20 | 41 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 133 | 237 |
+| supercluster | 0 | 1 | 134 | 238 |
 
 # Shown Order
 
@@ -1635,3 +1635,4 @@
 - **Mar 08, 09:09 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 08, 09:23 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
 - **Mar 08, 09:37 PM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
+- **Mar 08, 09:51 PM** - SpaceX Will Launch Missions for NASA (supercluster)
