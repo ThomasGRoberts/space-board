@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 45 |
+| spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 0 | 1 | 126 | 160 |
+| supercluster | 0 | 1 | 124 | 160 |
 
 # Shown Order
 
@@ -1509,3 +1509,4 @@
 - **Mar 08, 06:51 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:53 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 06:55 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
+- **Mar 08, 07:11 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
