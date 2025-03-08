@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 153 |
@@ -1500,3 +1500,4 @@
 - **Mar 08, 05:41 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 08, 05:55 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
 - **Mar 08, 06:11 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 08, 06:25 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
