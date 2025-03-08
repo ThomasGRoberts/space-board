@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 35 |
+| breaking_defense | 2 | 4 | 19 | 36 |
 | nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 132 |
@@ -1467,3 +1467,4 @@
 - **Mar 08, 02:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 08, 02:21 AM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 08, 02:35 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 08, 02:49 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
