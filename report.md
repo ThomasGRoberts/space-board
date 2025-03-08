@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 45 |
+| spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 1 | 9 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -1476,3 +1476,4 @@
 - **Mar 08, 03:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 03:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 03:18 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
+- **Mar 08, 03:33 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
