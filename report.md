@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 1 | 9 | 17 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 119 | 132 |
+| supercluster | 0 | 1 | 120 | 133 |
 
 # Shown Order
 
@@ -1468,3 +1468,4 @@
 - **Mar 08, 02:21 AM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 08, 02:35 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 08, 02:49 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
+- **Mar 08, 03:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
