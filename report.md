@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 24 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 2 | 9 | 19 | 39 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 | supercluster | 0 | 1 | 119 | 125 |
 
 # Shown Order
@@ -1455,3 +1455,4 @@
 - **Mar 08, 12:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 12:57 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 08, 01:11 AM** - York taps commercial satellite technology for classified defense missions (spacenews)
+- **Mar 08, 01:25 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
