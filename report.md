@@ -5,8 +5,8 @@
 | spacenews | 7 | 14 | 23 | 44 |
 | breaking_defense | 1 | 3 | 20 | 36 |
 | nyt | 1 | 9 | 19 | 41 |
-| aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 126 | 223 |
+| aidy | 1 | 2 | 18 | 35 |
+| supercluster | 0 | 1 | 127 | 224 |
 
 # Shown Order
 
@@ -1613,3 +1613,4 @@
 - **Mar 08, 06:42 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 08, 06:57 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 08, 07:13 PM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
+- **Mar 08, 07:27 PM** - SpaceX Will Launch Missions for NASA (supercluster)
