@@ -5,8 +5,8 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 2 | 10 | 18 | 40 |
-| aidy | 1 | 2 | 17 | 33 |
-| supercluster | 0 | 1 | 120 | 181 |
+| aidy | 1 | 2 | 18 | 34 |
+| supercluster | 0 | 1 | 119 | 181 |
 
 # Shown Order
 
@@ -1543,3 +1543,4 @@
 - **Mar 08, 10:41 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:43 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 10:45 AM** - Albedo secures $12 million STRATFI contract (spacenews)
+- **Mar 08, 10:59 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
