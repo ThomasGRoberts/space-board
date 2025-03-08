@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 23 | 45 |
+| spacenews | 9 | 19 | 24 | 46 |
 | breaking_defense | 2 | 3 | 19 | 35 |
 | nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 33 |
@@ -1575,3 +1575,4 @@
 - **Mar 08, 02:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:15 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 02:17 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 08, 02:19 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
