@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
 | nyt | 2 | 10 | 18 | 40 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 121 | 188 |
 
 # Shown Order
@@ -1554,3 +1554,4 @@
 - **Mar 08, 11:51 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:53 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:55 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
+- **Mar 08, 12:11 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
