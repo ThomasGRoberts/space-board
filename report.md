@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 23 | 44 |
-| breaking_defense | 1 | 3 | 19 | 36 |
+| breaking_defense | 1 | 3 | 20 | 37 |
 | nyt | 1 | 9 | 19 | 40 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 133 | 230 |
+| supercluster | 0 | 1 | 131 | 230 |
 
 # Shown Order
 
@@ -1622,3 +1622,4 @@
 - **Mar 08, 07:39 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 07:41 PM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 08, 07:55 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 08, 08:11 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
