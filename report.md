@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 24 | 45 |
+| spacenews | 11 | 20 | 25 | 46 |
 | breaking_defense | 2 | 4 | 18 | 35 |
-| nyt | 1 | 9 | 18 | 40 |
+| nyt | 1 | 9 | 18 | 39 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 126 | 153 |
 
@@ -1498,3 +1498,4 @@
 - **Mar 08, 05:37 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 05:39 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 05:41 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 08, 05:55 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
