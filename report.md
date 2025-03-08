@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 2 | 4 | 18 | 34 |
+| breaking_defense | 2 | 4 | 19 | 35 |
 | nyt | 1 | 9 | 17 | 39 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 119 | 160 |
@@ -1511,3 +1511,4 @@
 - **Mar 08, 06:55 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 08, 07:11 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 08, 07:25 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 08, 07:39 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
