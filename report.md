@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 25 | 46 |
+| spacenews | 10 | 20 | 24 | 46 |
 | breaking_defense | 2 | 3 | 19 | 35 |
-| nyt | 2 | 10 | 18 | 39 |
+| nyt | 2 | 10 | 19 | 40 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 120 | 195 |
+| supercluster | 0 | 1 | 119 | 195 |
 
 # Shown Order
 
@@ -1567,3 +1567,4 @@
 - **Mar 08, 01:09 PM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 08, 01:23 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 08, 01:37 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 08, 01:51 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
