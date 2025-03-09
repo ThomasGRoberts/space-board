@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 38 |
 | spacenews | 2 | 13 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
-| breaking_defense | 0 | 2 | 18 | 36 |
+| breaking_defense | 0 | 2 | 19 | 37 |
 | supercluster | 2 | 2 | 56 | 56 |
 
 # Shown Order
@@ -1496,3 +1496,4 @@
 - **Mar 09, 09:57 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 10:11 AM** - Tracking DOGE’s impact on space and the federal workforce (spacenews)
 - **Mar 09, 10:26 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 09, 10:41 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
