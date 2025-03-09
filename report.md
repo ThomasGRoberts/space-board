@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 21 | 38 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 49 | 49 |
 
 # Shown Order
@@ -1484,3 +1484,4 @@
 - **Mar 09, 08:29 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 09, 08:43 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 09, 08:57 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
+- **Mar 09, 09:13 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
