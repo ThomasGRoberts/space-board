@@ -6,7 +6,7 @@
 | spacenews | 2 | 13 | 20 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 63 | 63 |
+| supercluster | 2 | 2 | 64 | 64 |
 
 # Shown Order
 
@@ -1508,3 +1508,4 @@
 - **Mar 09, 11:25 AM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 09, 11:39 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 09, 11:53 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 09, 12:09 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
