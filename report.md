@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 39 |
 | spacenews | 1 | 10 | 19 | 44 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 91 | 91 |
 
@@ -1548,3 +1548,4 @@
 - **Mar 09, 03:53 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 03:55 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 03:57 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 03:59 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
