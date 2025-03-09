@@ -6,7 +6,7 @@
 | spacenews | 1 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 42 | 42 |
+| supercluster | 2 | 2 | 43 | 43 |
 
 # Shown Order
 
@@ -1474,3 +1474,4 @@
 - **Mar 09, 07:29 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 09, 07:43 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 09, 07:57 AM** - Starship destroyed on second consecutive test flight (spacenews)
+- **Mar 09, 08:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
