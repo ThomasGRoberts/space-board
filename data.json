@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-09T00:02:04.772392+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2920dd192001db0abe45b662c53f1df3",
+    "trigger_count": 0,
+    "current_item_id": "8aad65039ed2d5e29a53cb10b347e7a3",
     "data": [
         {
             "id": "0613c557e43e2bc44b5e825361f968cb",
@@ -3832,6 +3832,18 @@
                 "2025-03-09T05:57:26.888807Z",
                 "2025-03-09T05:59:27.453588Z",
                 "2025-03-09T06:01:58.323207Z"
+            ]
+        },
+        {
+            "id": "8aad65039ed2d5e29a53cb10b347e7a3",
+            "source": "aidy",
+            "text": "Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-09T08:43:32.341909Z",
+            "shown_at": [
+                "2025-03-09T08:43:32.924462Z"
             ]
         }
     ]
