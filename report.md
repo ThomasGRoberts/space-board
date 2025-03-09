@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 20 | 40 |
 | spacenews | 2 | 5 | 21 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 2 | 2 | 126 | 126 |
 
 # Shown Order
@@ -1607,3 +1607,4 @@
 - **Mar 09, 10:11 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 09, 10:25 PM** - China expands secretive satellite series with launch of TJS-15 (spacenews)
 - **Mar 09, 10:39 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
+- **Mar 09, 10:53 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
