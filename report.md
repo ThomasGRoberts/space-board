@@ -6,7 +6,7 @@
 | spacenews | 1 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 36 | 36 |
+| supercluster | 2 | 2 | 37 | 37 |
 
 # Shown Order
 
@@ -1464,3 +1464,4 @@
 - **Mar 09, 06:31 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 09, 06:45 AM** - Frontgrade Successfully Tests GaN DC-DC Converter and EMI Filter (spacenews)
 - **Mar 09, 07:02 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 07:03 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
