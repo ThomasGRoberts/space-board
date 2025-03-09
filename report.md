@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 39 |
+| nyt | 2 | 3 | 21 | 40 |
 | spacenews | 1 | 7 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
@@ -1583,3 +1583,4 @@
 - **Mar 09, 07:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 07:33 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 07:47 PM** - China highlights commercial space sector in government work report (spacenews)
+- **Mar 09, 08:01 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
