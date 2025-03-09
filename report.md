@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 21 | 39 |
+| nyt | 3 | 4 | 21 | 38 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 137 | 256 |
+| breaking_defense | 0 | 2 | 18 | 37 |
+| supercluster | 1 | 1 | 138 | 257 |
 
 # Shown Order
 
@@ -1683,3 +1683,4 @@
 - **Mar 09, 02:45 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:47 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:49 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 02:51 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
