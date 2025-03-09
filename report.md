@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 38 |
-| spacenews | 2 | 10 | 20 | 43 |
+| spacenews | 2 | 10 | 21 | 44 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 18 | 38 |
 | supercluster | 2 | 2 | 84 | 84 |
@@ -1538,3 +1538,4 @@
 - **Mar 09, 02:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:47 PM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 09, 03:01 PM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
