@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 7 | 20 | 40 |
+| nyt | 2 | 7 | 21 | 41 |
 | spacenews | 1 | 13 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 20 | 37 |
@@ -1657,3 +1657,4 @@
 - **Mar 08, 11:36 PM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
 - **Mar 08, 11:51 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 09, 12:05 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 09, 12:23 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
