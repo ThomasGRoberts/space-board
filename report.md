@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 38 |
+| nyt | 3 | 4 | 21 | 39 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
@@ -1449,3 +1449,4 @@
 - **Mar 09, 04:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 04:51 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
+- **Mar 09, 05:07 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
