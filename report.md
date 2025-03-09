@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 1 | 10 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 18 | 38 |
+| breaking_defense | 0 | 2 | 19 | 39 |
 | supercluster | 2 | 2 | 91 | 91 |
 
 # Shown Order
@@ -1551,3 +1551,4 @@
 - **Mar 09, 03:59 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 09, 04:13 PM** - Apex’s first satellite marks one year in orbit (spacenews)
 - **Mar 09, 04:27 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
+- **Mar 09, 04:41 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
