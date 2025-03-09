@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 38 |
+| nyt | 3 | 4 | 21 | 39 |
 | spacenews | 1 | 12 | 20 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 133 | 257 |
+| supercluster | 1 | 1 | 133 | 255 |
 
 # Shown Order
 
@@ -1678,3 +1678,4 @@
 - **Mar 09, 01:47 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 09, 02:02 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
 - **Mar 09, 02:15 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
+- **Mar 09, 02:29 AM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
