@@ -6,7 +6,7 @@
 | spacenews | 2 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 126 | 126 |
+| supercluster | 2 | 2 | 127 | 127 |
 
 # Shown Order
 
@@ -1608,3 +1608,4 @@
 - **Mar 09, 10:25 PM** - China expands secretive satellite series with launch of TJS-15 (spacenews)
 - **Mar 09, 10:39 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 09, 10:53 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 09, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
