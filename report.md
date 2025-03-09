@@ -6,7 +6,7 @@
 | spacenews | 1 | 7 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| supercluster | 2 | 2 | 112 | 112 |
+| supercluster | 2 | 2 | 113 | 113 |
 
 # Shown Order
 
@@ -1585,3 +1585,4 @@
 - **Mar 09, 07:47 PM** - China highlights commercial space sector in government work report (spacenews)
 - **Mar 09, 08:01 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
 - **Mar 09, 08:15 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
+- **Mar 09, 08:29 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
