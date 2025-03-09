@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 38 |
-| spacenews | 1 | 12 | 20 | 44 |
+| spacenews | 1 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -1440,3 +1440,4 @@
 - **Mar 09, 04:03 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 04:05 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 04:07 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 09, 04:21 AM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)
