@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 38 |
-| spacenews | 2 | 13 | 20 | 44 |
+| spacenews | 2 | 13 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 18 | 37 |
 | supercluster | 2 | 2 | 63 | 63 |
@@ -1505,3 +1505,4 @@
 - **Mar 09, 11:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 11:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 11:09 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 09, 11:25 AM** - Spire demonstrates optical links between cubesats (spacenews)
