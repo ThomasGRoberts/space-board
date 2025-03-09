@@ -6,7 +6,7 @@
 | spacenews | 1 | 9 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 39 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 
 # Shown Order
 
@@ -1563,3 +1563,4 @@
 - **Mar 09, 05:25 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
 - **Mar 09, 05:39 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
 - **Mar 09, 05:53 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 09, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
