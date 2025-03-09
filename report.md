@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 1 | 12 | 21 | 44 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | supercluster | 0 | 0 | 133 | 252 |
 
@@ -1666,3 +1666,4 @@
 - **Mar 09, 12:48 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 09, 12:49 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 09, 12:51 AM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
+- **Mar 09, 01:05 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
