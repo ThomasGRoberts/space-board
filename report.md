@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 21 | 38 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 42 | 42 |
 
 # Shown Order
@@ -1472,3 +1472,4 @@
 - **Mar 09, 07:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 07:15 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 07:29 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
+- **Mar 09, 07:43 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
