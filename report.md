@@ -6,7 +6,7 @@
 | spacenews | 2 | 13 | 20 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 56 | 56 |
+| supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
 
@@ -1497,3 +1497,4 @@
 - **Mar 09, 10:11 AM** - Tracking DOGE’s impact on space and the federal workforce (spacenews)
 - **Mar 09, 10:26 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 09, 10:41 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 09, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
