@@ -6,7 +6,7 @@
 | spacenews | 1 | 6 | 20 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 2 | 2 | 119 | 119 |
+| supercluster | 2 | 2 | 120 | 120 |
 
 # Shown Order
 
@@ -1596,3 +1596,4 @@
 - **Mar 09, 08:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
 - **Mar 09, 09:14 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 09, 09:29 PM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
+- **Mar 09, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
