@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 38 |
+| nyt | 3 | 4 | 21 | 39 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
@@ -1471,3 +1471,4 @@
 - **Mar 09, 07:11 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 07:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 07:15 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 09, 07:29 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
