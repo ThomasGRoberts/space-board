@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 38 |
-| spacenews | 1 | 12 | 20 | 44 |
+| spacenews | 1 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 42 | 42 |
@@ -1473,3 +1473,4 @@
 - **Mar 09, 07:15 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 07:29 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 09, 07:43 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
+- **Mar 09, 07:57 AM** - Starship destroyed on second consecutive test flight (spacenews)
