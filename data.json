@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-09T00:02:04.772392+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c046b8a400acdc67d6e76493e18c7431",
+    "trigger_count": 0,
+    "current_item_id": "28a95207322e8a5c1d026b4bfc634b6d",
     "data": [
         {
             "id": "0613c557e43e2bc44b5e825361f968cb",
@@ -3977,6 +3977,18 @@
             "fetched_datetime": "2025-03-09T10:11:48.197234Z",
             "shown_at": [
                 "2025-03-09T10:11:48.767270Z"
+            ]
+        },
+        {
+            "id": "28a95207322e8a5c1d026b4bfc634b6d",
+            "source": "spacenews",
+            "text": "China expands secretive satellite series with launch of TJS-15",
+            "source_link": "https://spacenews.com/china-expands-secretive-satellite-series-with-launch-of-tjs-15/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-09T22:25:44.530651Z",
+            "shown_at": [
+                "2025-03-09T22:25:45.402161Z"
             ]
         }
     ]
