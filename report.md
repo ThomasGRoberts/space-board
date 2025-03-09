@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 20 | 38 |
 | spacenews | 1 | 12 | 20 | 45 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | supercluster | 2 | 2 | 28 | 28 |
 
@@ -1448,3 +1448,4 @@
 - **Mar 09, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 04:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 09, 04:51 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
