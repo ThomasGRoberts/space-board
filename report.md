@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 38 |
-| spacenews | 2 | 12 | 20 | 44 |
+| spacenews | 2 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 18 | 37 |
 | supercluster | 2 | 2 | 70 | 70 |
@@ -1516,3 +1516,4 @@
 - **Mar 09, 12:19 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 12:21 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 09, 12:37 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
