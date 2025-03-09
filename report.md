@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 20 | 39 |
 | spacenews | 1 | 9 | 20 | 43 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | breaking_defense | 0 | 2 | 19 | 39 |
 | supercluster | 2 | 2 | 105 | 105 |
 
@@ -1570,3 +1570,4 @@
 - **Mar 09, 06:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 06:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 06:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 09, 06:23 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
