@@ -6,7 +6,7 @@
 | spacenews | 2 | 10 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 19 | 38 |
-| supercluster | 2 | 2 | 85 | 85 |
+| supercluster | 2 | 2 | 86 | 86 |
 
 # Shown Order
 
@@ -1542,3 +1542,4 @@
 - **Mar 09, 03:17 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
 - **Mar 09, 03:32 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
 - **Mar 09, 03:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 03:47 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
