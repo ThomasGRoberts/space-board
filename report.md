@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 21 | 38 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 35 | 35 |
 
 # Shown Order
@@ -1461,3 +1461,4 @@
 - **Mar 09, 06:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 06:03 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 09, 06:17 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 09, 06:31 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
