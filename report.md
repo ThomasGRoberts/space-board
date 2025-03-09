@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 40 |
+| nyt | 1 | 3 | 19 | 40 |
 | spacenews | 2 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 127 | 127 |
+| supercluster | 2 | 2 | 128 | 128 |
 
 # Shown Order
 
@@ -1609,3 +1609,4 @@
 - **Mar 09, 10:39 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 09, 10:53 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 09, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 09, 11:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
