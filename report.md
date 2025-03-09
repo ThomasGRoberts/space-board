@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 21 | 40 |
 | spacenews | 1 | 6 | 20 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 1 | 18 | 38 |
+| breaking_defense | 0 | 1 | 19 | 39 |
 | supercluster | 2 | 2 | 119 | 119 |
 
 # Shown Order
@@ -1595,3 +1595,4 @@
 - **Mar 09, 08:45 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 08:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
 - **Mar 09, 09:14 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 09, 09:29 PM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
