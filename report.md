@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 39 |
+| nyt | 2 | 3 | 21 | 40 |
 | spacenews | 1 | 7 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
@@ -1594,3 +1594,4 @@
 - **Mar 09, 08:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 08:45 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 08:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
+- **Mar 09, 09:14 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
