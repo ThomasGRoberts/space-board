@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 38 |
-| spacenews | 1 | 12 | 20 | 44 |
+| spacenews | 1 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 28 | 28 |
@@ -1451,3 +1451,4 @@
 - **Mar 09, 04:51 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 09, 05:07 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 09, 05:21 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 09, 05:35 AM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
