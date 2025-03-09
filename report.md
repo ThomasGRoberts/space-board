@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 39 |
 | spacenews | 2 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 2 | 2 | 70 | 70 |
 
 # Shown Order
@@ -1518,3 +1518,4 @@
 - **Mar 09, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 12:37 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 09, 12:53 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
+- **Mar 09, 01:09 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
