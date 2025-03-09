@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 20 | 39 |
+| nyt | 3 | 5 | 21 | 40 |
 | spacenews | 1 | 12 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
@@ -1667,3 +1667,4 @@
 - **Mar 09, 12:49 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 09, 12:51 AM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 09, 01:05 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 09, 01:19 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
