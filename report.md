@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 20 | 38 |
 | spacenews | 1 | 12 | 21 | 45 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 133 | 259 |
 
@@ -1677,3 +1677,4 @@
 - **Mar 09, 01:45 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 01:47 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 09, 02:02 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
+- **Mar 09, 02:15 AM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
