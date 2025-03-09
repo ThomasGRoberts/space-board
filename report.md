@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 19 | 38 |
+| nyt | 2 | 4 | 20 | 39 |
 | spacenews | 2 | 10 | 21 | 44 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 2 | 18 | 37 |
@@ -1539,3 +1539,4 @@
 - **Mar 09, 02:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:47 PM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 09, 03:01 PM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
+- **Mar 09, 03:17 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
