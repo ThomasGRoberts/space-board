@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 38 |
+| nyt | 3 | 4 | 21 | 39 |
 | spacenews | 1 | 12 | 20 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
@@ -1431,3 +1431,4 @@
 - **Mar 09, 02:57 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
 - **Mar 09, 03:12 AM** - SpaceX scrubs Starship launch (spacenews)
 - **Mar 09, 03:25 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 09, 03:39 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
