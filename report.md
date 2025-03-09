@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 20 | 38 |
 | spacenews | 1 | 12 | 20 | 45 |
-| aidy | 1 | 2 | 20 | 37 |
+| aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 51 | 51 |
+| supercluster | 2 | 2 | 52 | 52 |
 
 # Shown Order
 
@@ -1488,3 +1488,4 @@
 - **Mar 09, 09:27 AM** - China highlights commercial space sector in government work report (spacenews)
 - **Mar 09, 09:43 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 09:45 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 09:47 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
