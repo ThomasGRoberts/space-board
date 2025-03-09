@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 20 | 40 |
 | spacenews | 1 | 13 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 36 |
-| breaking_defense | 0 | 2 | 19 | 36 |
+| breaking_defense | 0 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 251 |
 
 # Shown Order
@@ -1656,3 +1656,4 @@
 - **Mar 08, 11:33 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 08, 11:36 PM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
 - **Mar 08, 11:51 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 09, 12:05 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
