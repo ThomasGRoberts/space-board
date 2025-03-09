@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 19 | 38 |
+| nyt | 2 | 4 | 20 | 39 |
 | spacenews | 2 | 12 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 18 | 37 |
@@ -1517,3 +1517,4 @@
 - **Mar 09, 12:21 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 12:37 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
+- **Mar 09, 12:53 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
