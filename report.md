@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 19 | 37 |
+| nyt | 2 | 4 | 20 | 38 |
 | spacenews | 2 | 13 | 21 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 18 | 37 |
@@ -1506,3 +1506,4 @@
 - **Mar 09, 11:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 11:09 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 09, 11:25 AM** - Spire demonstrates optical links between cubesats (spacenews)
+- **Mar 09, 11:39 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
