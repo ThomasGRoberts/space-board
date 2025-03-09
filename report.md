@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 38 |
-| spacenews | 1 | 12 | 20 | 44 |
-| aidy | 1 | 2 | 19 | 37 |
+| spacenews | 1 | 12 | 21 | 45 |
+| aidy | 1 | 2 | 19 | 36 |
 | breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -1429,3 +1429,4 @@
 - **Mar 09, 02:53 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:55 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 02:57 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 09, 03:12 AM** - SpaceX scrubs Starship launch (spacenews)
