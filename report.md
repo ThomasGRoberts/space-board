@@ -6,7 +6,7 @@
 | spacenews | 1 | 8 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| supercluster | 2 | 2 | 105 | 105 |
+| supercluster | 2 | 2 | 106 | 106 |
 
 # Shown Order
 
@@ -1574,3 +1574,4 @@
 - **Mar 09, 06:37 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
 - **Mar 09, 06:51 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 09, 07:05 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 09, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
