@@ -6,7 +6,7 @@
 | spacenews | 1 | 12 | 20 | 45 |
 | aidy | 1 | 2 | 20 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 2 | 2 | 50 | 50 |
 
 # Shown Order
 
@@ -1486,3 +1486,4 @@
 - **Mar 09, 08:57 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 09, 09:13 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
 - **Mar 09, 09:27 AM** - China highlights commercial space sector in government work report (spacenews)
+- **Mar 09, 09:43 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
