@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 39 |
+| nyt | 2 | 3 | 21 | 40 |
 | spacenews | 2 | 5 | 21 | 42 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 2 | 2 | 126 | 126 |
 
 # Shown Order
@@ -1606,3 +1606,4 @@
 - **Mar 09, 09:57 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 09, 10:11 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 09, 10:25 PM** - China expands secretive satellite series with launch of TJS-15 (spacenews)
+- **Mar 09, 10:39 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
