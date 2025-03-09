@@ -6,7 +6,7 @@
 | spacenews | 1 | 8 | 20 | 43 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| supercluster | 2 | 2 | 107 | 107 |
+| supercluster | 2 | 2 | 108 | 108 |
 
 # Shown Order
 
@@ -1576,3 +1576,4 @@
 - **Mar 09, 07:05 PM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 09, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 09, 07:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 09, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
