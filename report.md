@@ -5,7 +5,7 @@
 | nyt | 2 | 4 | 20 | 40 |
 | spacenews | 1 | 10 | 20 | 44 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 2 | 18 | 38 |
+| breaking_defense | 0 | 2 | 19 | 39 |
 | supercluster | 2 | 2 | 98 | 98 |
 
 # Shown Order
@@ -1562,3 +1562,4 @@
 - **Mar 09, 05:11 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 05:25 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
 - **Mar 09, 05:39 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
+- **Mar 09, 05:53 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
