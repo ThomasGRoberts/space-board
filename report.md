@@ -6,7 +6,7 @@
 | spacenews | 2 | 13 | 20 | 45 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 2 | 19 | 37 |
-| supercluster | 2 | 2 | 67 | 67 |
+| supercluster | 2 | 2 | 68 | 68 |
 
 # Shown Order
 
@@ -1512,3 +1512,4 @@
 - **Mar 09, 12:11 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 12:13 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Mar 09, 12:15 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Mar 09, 12:18 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
