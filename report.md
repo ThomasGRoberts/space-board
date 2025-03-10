@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 22 | 42 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | nyt | 0 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -1556,3 +1556,4 @@
 - **Mar 10, 09:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:08 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:09 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
+- **Mar 10, 09:25 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
