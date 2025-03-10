@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 17 | 27 | 47 |
+| spacenews | 16 | 17 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 1 | 3 | 18 | 39 |
 | breaking_defense | 2 | 2 | 18 | 37 |
@@ -1636,3 +1636,4 @@
 - **Mar 10, 07:23 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 10, 07:37 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 10, 07:51 PM** - Eric Schmidt Joins Relativity Space as C.E.O. (nyt)
+- **Mar 10, 08:05 PM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
