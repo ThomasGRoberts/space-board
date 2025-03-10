@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 2 | 2 | 77 | 77 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -1571,3 +1571,4 @@
 - **Mar 10, 02:25 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 02:27 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 10, 02:43 AM** - Frontgrade Successfully Tests GaN DC-DC Converter and EMI Filter (spacenews)
+- **Mar 10, 02:57 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
