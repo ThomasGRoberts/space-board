@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 13 | 25 | 45 |
+| spacenews | 12 | 13 | 26 | 46 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
-| breaking_defense | 2 | 2 | 19 | 37 |
+| breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -1610,3 +1610,4 @@
 - **Mar 10, 04:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 04:15 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 10, 04:29 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
+- **Mar 10, 04:43 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
