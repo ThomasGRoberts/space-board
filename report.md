@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 42 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | nyt | 0 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -1535,3 +1535,4 @@
 - **Mar 10, 06:34 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 06:37 AM** - Apex’s first satellite marks one year in orbit (spacenews)
 - **Mar 10, 06:51 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 10, 07:05 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
