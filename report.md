@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -1537,3 +1537,4 @@
 - **Mar 10, 06:51 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 10, 07:05 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 10, 07:19 AM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
+- **Mar 10, 07:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
