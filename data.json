@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "506f019d9da8ee498f2bf9f76e50911f",
+    "trigger_count": 0,
+    "current_item_id": "8103ad6de5322d9f389a3f415499b0d2",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4203,6 +4203,18 @@
             "fetched_datetime": "2025-03-10T18:41:34.625054Z",
             "shown_at": [
                 "2025-03-10T18:41:35.334284Z"
+            ]
+        },
+        {
+            "id": "8103ad6de5322d9f389a3f415499b0d2",
+            "source": "nyt",
+            "text": "Eric Schmidt Joins Relativity Space as C.E.O.",
+            "source_link": "https://www.nytimes.com/2025/03/10/technology/eric-schmidt-relativity-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T19:51:58.226254Z",
+            "shown_at": [
+                "2025-03-10T19:51:59.241839Z"
             ]
         }
     ]
