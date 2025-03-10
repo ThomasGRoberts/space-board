@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 37 |
+| breaking_defense | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -1560,3 +1560,4 @@
 - **Mar 10, 09:39 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 10, 09:54 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
 - **Mar 10, 10:07 AM** - Swissto12 to build small Asia-focused direct-to-device GEO satellite (spacenews)
+- **Mar 10, 10:21 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)

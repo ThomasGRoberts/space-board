@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8a2d4a7f74f06734a7e36c956380dcb",
+    "trigger_count": 0,
+    "current_item_id": "53cfc7188f72ab53bb410b995981cdd9",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -3963,6 +3963,18 @@
             "fetched_datetime": "2025-03-10T10:07:43.360812Z",
             "shown_at": [
                 "2025-03-10T10:07:43.887187Z"
+            ]
+        },
+        {
+            "id": "53cfc7188f72ab53bb410b995981cdd9",
+            "source": "breaking_defense",
+            "text": "Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren",
+            "source_link": "https://breakingdefense.com/2025/03/deputy-defense-secretary-nominee-has-clear-conflict-of-interest-with-ligado-lawsuit-sen-warren/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T10:21:40.901329Z",
+            "shown_at": [
+                "2025-03-10T10:21:41.421379Z"
             ]
         }
     ]
