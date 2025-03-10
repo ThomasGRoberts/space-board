@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 19 | 29 | 49 |
-| aidy | 1 | 2 | 16 | 36 |
+| aidy | 1 | 2 | 17 | 37 |
 | nyt | 2 | 4 | 18 | 39 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 91 | 91 |
@@ -1648,3 +1648,4 @@
 - **Mar 10, 08:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:01 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 10, 09:17 PM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
+- **Mar 10, 09:33 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
