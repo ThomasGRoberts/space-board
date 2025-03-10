@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 42 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | nyt | 0 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -1524,3 +1524,4 @@
 - **Mar 10, 05:19 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 05:21 AM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 10, 05:35 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
+- **Mar 10, 05:49 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
