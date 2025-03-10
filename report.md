@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 17 | 28 | 48 |
+| spacenews | 17 | 18 | 29 | 49 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 1 | 3 | 18 | 39 |
 | breaking_defense | 2 | 2 | 17 | 36 |
@@ -1637,3 +1637,4 @@
 - **Mar 10, 07:37 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 10, 07:51 PM** - Eric Schmidt Joins Relativity Space as C.E.O. (nyt)
 - **Mar 10, 08:05 PM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
+- **Mar 10, 08:19 PM** - Emerging launch companies see strong demand but look for government support (spacenews)
