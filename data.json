@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4eed20812a0814f43280a2fa91bff6fc",
+    "trigger_count": 0,
+    "current_item_id": "ad4187fb95d43e5ead28c27213c2ba4b",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4061,9 +4061,12 @@
             "source": "spacenews",
             "text": "LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region",
             "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803317Z"
+            "fetched_datetime": "2025-03-10T13:15:39.803317Z",
+            "shown_at": [
+                "2025-03-10T13:29:39.331115Z"
+            ]
         },
         {
             "id": "791bfe908fe82d76e38c78379329a87c",
