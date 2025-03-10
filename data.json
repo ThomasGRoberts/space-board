@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "54db80e69eeb12268b98c80e66f345d4",
+    "trigger_count": 0,
+    "current_item_id": "4725866ecc04c6653454ea8d4bbedd10",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4181,6 +4181,18 @@
             "fetched_datetime": "2025-03-10T17:13:33.491656Z",
             "shown_at": [
                 "2025-03-10T17:27:50.560297Z"
+            ]
+        },
+        {
+            "id": "4725866ecc04c6653454ea8d4bbedd10",
+            "source": "spacenews",
+            "text": "SES invests in Lynk Global to break into direct-to-device market",
+            "source_link": "https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T18:41:34.625054Z",
+            "shown_at": [
+                "2025-03-10T18:41:35.334284Z"
             ]
         }
     ]
