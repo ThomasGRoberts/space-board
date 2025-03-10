@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 42 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | nyt | 0 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -1513,3 +1513,4 @@
 - **Mar 10, 04:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 04:11 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
 - **Mar 10, 04:25 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
+- **Mar 10, 04:39 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
