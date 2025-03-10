@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 26 | 46 |
 | aidy | 1 | 2 | 18 | 38 |
-| nyt | 0 | 2 | 18 | 38 |
+| nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 63 | 63 |
 
@@ -1597,3 +1597,4 @@
 - **Mar 10, 02:41 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 02:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 02:45 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 10, 02:59 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
