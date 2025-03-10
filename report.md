@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 0 | 2 | 17 | 38 |
 | breaking_defense | 2 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -1626,3 +1626,4 @@
 - **Mar 10, 06:26 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 10, 06:41 PM** - SES invests in Lynk Global to break into direct-to-device market (spacenews)
 - **Mar 10, 06:55 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 10, 07:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
