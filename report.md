@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 16 | 28 | 48 |
-| aidy | 1 | 2 | 18 | 38 |
-| nyt | 0 | 2 | 17 | 37 |
+| spacenews | 15 | 16 | 28 | 47 |
+| aidy | 1 | 2 | 17 | 38 |
+| nyt | 0 | 2 | 18 | 38 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -1623,3 +1623,4 @@
 - **Mar 10, 06:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 06:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 06:11 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
+- **Mar 10, 06:26 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
