@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 25 | 45 |
+| spacenews | 10 | 12 | 26 | 46 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 18 | 36 |
@@ -1586,3 +1586,4 @@
 - **Mar 10, 12:59 PM** - Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network (spacenews)
 - **Mar 10, 01:15 PM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
 - **Mar 10, 01:29 PM** - LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region (spacenews)
+- **Mar 10, 01:43 PM** - America needs a strong NASA (spacenews)
