@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -1549,3 +1549,4 @@
 - **Mar 10, 08:25 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
 - **Mar 10, 08:39 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 10, 08:54 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 08:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
