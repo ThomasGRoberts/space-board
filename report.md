@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 2 | 2 | 20 | 39 |
-| nyt | 0 | 3 | 19 | 39 |
+| nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -1547,3 +1547,4 @@
 - **Mar 10, 07:51 AM** - SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration (spacenews)
 - **Mar 10, 08:09 AM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 10, 08:25 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
+- **Mar 10, 08:39 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
