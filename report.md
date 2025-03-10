@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 20 | 38 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -1563,3 +1563,4 @@
 - **Mar 10, 10:21 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 10, 10:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 10:37 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 10:39 AM** - SpaceX Will Launch Missions for NASA (supercluster)
