@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 | nyt | 1 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -1542,3 +1542,4 @@
 - **Mar 09, 11:35 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
 - **Mar 09, 11:49 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
 - **Mar 10, 12:03 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
+- **Mar 10, 12:18 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
