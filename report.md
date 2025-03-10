@@ -5,7 +5,7 @@
 | spacenews | 11 | 13 | 26 | 47 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
-| breaking_defense | 1 | 1 | 18 | 36 |
+| breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
@@ -1588,3 +1588,4 @@
 - **Mar 10, 01:29 PM** - LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region (spacenews)
 - **Mar 10, 01:43 PM** - America needs a strong NASA (spacenews)
 - **Mar 10, 01:57 PM** - Space M&A poised for takeoff in 2025 (spacenews)
+- **Mar 10, 02:11 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
