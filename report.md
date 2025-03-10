@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 37 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -1589,3 +1589,4 @@
 - **Mar 10, 01:43 PM** - America needs a strong NASA (spacenews)
 - **Mar 10, 01:57 PM** - Space M&A poised for takeoff in 2025 (spacenews)
 - **Mar 10, 02:11 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 10, 02:32 PM** - SpaceX Will Launch Missions for NASA (supercluster)
