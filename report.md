@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 16 | 27 | 47 |
+| spacenews | 15 | 16 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 0 | 2 | 18 | 38 |
 | breaking_defense | 2 | 2 | 18 | 37 |
@@ -1613,3 +1613,4 @@
 - **Mar 10, 04:43 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
 - **Mar 10, 04:59 PM** - LeoLabs to build space-monitoring radar in Indo-Pacific region (spacenews)
 - **Mar 10, 05:13 PM** - NASA closes offices, lays off staff as it prepares for larger workforce reductions (spacenews)
+- **Mar 10, 05:27 PM** - Space Symposium to break records (spacenews)

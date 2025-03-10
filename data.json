@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c86400ca287709aac6fb0be63454d8d5",
+    "trigger_count": 0,
+    "current_item_id": "8c35ae2984a4c680b882dc91597fb10b",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4166,9 +4166,12 @@
             "source": "spacenews",
             "text": "Space Symposium to break records",
             "source_link": "https://spacenews.com/space-symposium-to-break-records/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-10T17:13:33.491656Z"
+            "fetched_datetime": "2025-03-10T17:13:33.491656Z",
+            "shown_at": [
+                "2025-03-10T17:27:50.560297Z"
+            ]
         }
     ]
 }
