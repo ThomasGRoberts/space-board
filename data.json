@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4236,6 +4236,18 @@
             "fetched_datetime": "2025-03-10T20:19:30.391885Z",
             "shown_at": [
                 "2025-03-10T20:19:30.882484Z"
+            ]
+        },
+        {
+            "id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
+            "source": "nyt",
+            "text": "NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters",
+            "source_link": "https://www.nytimes.com/2025/03/10/science/nasa-chief-scientist-fired-katherine-calvin.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T21:01:53.413904Z",
+            "shown_at": [
+                "2025-03-10T21:01:53.883033Z"
             ]
         }
     ]

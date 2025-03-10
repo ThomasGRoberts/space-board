@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 18 | 28 | 48 |
 | aidy | 1 | 2 | 16 | 37 |
-| nyt | 1 | 3 | 18 | 38 |
+| nyt | 2 | 4 | 19 | 39 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 91 | 91 |
 
@@ -1646,3 +1646,4 @@
 - **Mar 10, 08:55 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 08:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 08:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 09:01 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
