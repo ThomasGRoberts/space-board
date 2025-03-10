@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 40 |
 | nyt | 0 | 3 | 19 | 39 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -1557,3 +1557,4 @@
 - **Mar 10, 09:08 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:09 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
 - **Mar 10, 09:25 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 10, 09:39 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
