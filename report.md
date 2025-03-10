@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 19 | 27 | 48 |
 | aidy | 1 | 2 | 16 | 36 |
-| nyt | 2 | 4 | 19 | 39 |
+| nyt | 3 | 5 | 20 | 40 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 98 | 98 |
 
@@ -1658,3 +1658,4 @@
 - **Mar 10, 10:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 10:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 10:15 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
+- **Mar 10, 10:29 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
