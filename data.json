@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
+    "trigger_count": 0,
+    "current_item_id": "437585fdbfc69091dad4c3ef22e8786e",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4248,6 +4248,18 @@
             "fetched_datetime": "2025-03-10T21:01:53.413904Z",
             "shown_at": [
                 "2025-03-10T21:01:53.883033Z"
+            ]
+        },
+        {
+            "id": "437585fdbfc69091dad4c3ef22e8786e",
+            "source": "spacenews",
+            "text": "Relativity names Eric Schmidt as CEO as it updates Terran R development",
+            "source_link": "https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T21:17:29.125762Z",
+            "shown_at": [
+                "2025-03-10T21:17:29.705096Z"
             ]
         }
     ]
