@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "703696d54868eccf4a2111bde229ba7d",
+    "trigger_count": 0,
+    "current_item_id": "e8a2d4a7f74f06734a7e36c956380dcb",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -3951,6 +3951,18 @@
             "fetched_datetime": "2025-03-10T08:09:41.061100Z",
             "shown_at": [
                 "2025-03-10T08:09:41.585536Z"
+            ]
+        },
+        {
+            "id": "e8a2d4a7f74f06734a7e36c956380dcb",
+            "source": "spacenews",
+            "text": "Swissto12 to build small Asia-focused direct-to-device GEO satellite",
+            "source_link": "https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T10:07:43.360812Z",
+            "shown_at": [
+                "2025-03-10T10:07:43.887187Z"
             ]
         }
     ]
