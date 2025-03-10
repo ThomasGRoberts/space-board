@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "83e28e8cc3b83a1c1c5a489899682628",
+    "trigger_count": 0,
+    "current_item_id": "6ee1500e9b7ddf8c6464501128c7b1c1",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4282,6 +4282,18 @@
             "fetched_datetime": "2025-03-10T22:29:40.252570Z",
             "shown_at": [
                 "2025-03-10T22:29:40.785475Z"
+            ]
+        },
+        {
+            "id": "6ee1500e9b7ddf8c6464501128c7b1c1",
+            "source": "spacenews",
+            "text": "Intelligence agency copes with workforce reductions amid AI modernization",
+            "source_link": "https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T22:43:44.126880Z",
+            "shown_at": [
+                "2025-03-10T22:43:45.127671Z"
             ]
         }
     ]

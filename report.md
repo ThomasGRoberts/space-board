@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 19 | 27 | 48 |
+| spacenews | 18 | 20 | 28 | 49 |
 | aidy | 1 | 2 | 16 | 36 |
 | nyt | 3 | 5 | 19 | 40 |
 | breaking_defense | 2 | 2 | 18 | 36 |
@@ -1659,3 +1659,4 @@
 - **Mar 10, 10:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 10:15 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 10, 10:29 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
+- **Mar 10, 10:43 PM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
