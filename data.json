@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "506f019d9da8ee498f2bf9f76e50911f",
+    "trigger_count": 0,
+    "current_item_id": "abd2fce54e77e4869386a83cf407e9fc",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -3922,6 +3922,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "abd2fce54e77e4869386a83cf407e9fc",
+            "source": "spacenews",
+            "text": "Trump says Mars missions are of interest but not a top priority",
+            "source_link": "https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T01:13:47.159469Z",
+            "shown_at": [
+                "2025-03-10T01:13:47.774204Z"
             ]
         }
     ]
