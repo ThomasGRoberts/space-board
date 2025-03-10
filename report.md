@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 20 | 28 | 49 |
-| aidy | 1 | 2 | 16 | 36 |
+| aidy | 1 | 2 | 17 | 37 |
 | nyt | 3 | 5 | 19 | 39 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 98 | 98 |
@@ -1660,3 +1660,4 @@
 - **Mar 10, 10:15 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 10, 10:29 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 10, 10:43 PM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
+- **Mar 10, 10:57 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
