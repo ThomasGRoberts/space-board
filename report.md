@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 22 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
-| nyt | 0 | 2 | 19 | 38 |
+| nyt | 0 | 2 | 20 | 39 |
 | breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -1571,3 +1571,4 @@
 - **Mar 10, 10:49 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 10, 11:05 AM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
 - **Mar 10, 11:20 AM** - Deep Blue Aerospace raises new funds, targets mid-year orbital launch (spacenews)
+- **Mar 10, 11:33 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
