@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 1 | 3 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -1541,3 +1541,4 @@
 - **Mar 09, 11:21 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 09, 11:35 PM** - How the nation can make fielding hypersonic capabilities a national priority (spacenews)
 - **Mar 09, 11:49 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
+- **Mar 10, 12:03 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
