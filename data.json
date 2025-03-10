@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a0dc7723d933217c21a2d4d25371980b",
+    "trigger_count": 0,
+    "current_item_id": "c86400ca287709aac6fb0be63454d8d5",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4148,6 +4148,27 @@
             "shown_at": [
                 "2025-03-10T16:59:41.307563Z"
             ]
+        },
+        {
+            "id": "c86400ca287709aac6fb0be63454d8d5",
+            "source": "spacenews",
+            "text": "NASA closes offices, lays off staff as it prepares for larger workforce reductions",
+            "source_link": "https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T17:13:33.491607Z",
+            "shown_at": [
+                "2025-03-10T17:13:34.004041Z"
+            ]
+        },
+        {
+            "id": "8c35ae2984a4c680b882dc91597fb10b",
+            "source": "spacenews",
+            "text": "Space Symposium to break records",
+            "source_link": "https://spacenews.com/space-symposium-to-break-records/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T17:13:33.491656Z"
         }
     ]
 }
