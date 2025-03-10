@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 41 |
+| spacenews | 3 | 4 | 22 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -1511,3 +1511,4 @@
 - **Mar 10, 04:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 04:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 04:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 04:11 AM** - US military taps commercial space firms for hypersonic testing program (spacenews)
