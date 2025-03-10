@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "529f7f721227b4934a9fa551e6871c2d",
+    "trigger_count": 0,
+    "current_item_id": "0fcc87607d463496b47fc42901229e36",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -3926,6 +3926,18 @@
                 "2025-03-10T07:45:36.838996Z",
                 "2025-03-10T07:47:08.576630Z",
                 "2025-03-10T07:49:32.921361Z"
+            ]
+        },
+        {
+            "id": "0fcc87607d463496b47fc42901229e36",
+            "source": "aidy",
+            "text": "DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T08:09:41.061100Z",
+            "shown_at": [
+                "2025-03-10T08:09:41.585536Z"
             ]
         }
     ]
