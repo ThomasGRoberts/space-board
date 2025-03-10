@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 22 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
-| nyt | 0 | 2 | 19 | 38 |
+| nyt | 0 | 2 | 20 | 39 |
 | breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -1582,3 +1582,4 @@
 - **Mar 10, 12:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 12:15 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 10, 12:31 PM** - Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market (spacenews)
+- **Mar 10, 12:45 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
