@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4f85c6ae3c846b3823ad48742b63970",
+    "trigger_count": 0,
+    "current_item_id": "a7ba1133a0f2cab89b910e3396d36c96",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4002,9 +4002,12 @@
             "source": "spacenews",
             "text": "Deep Blue Aerospace raises new funds, targets mid-year orbital launch",
             "source_link": "https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-10T11:05:44.689265Z"
+            "fetched_datetime": "2025-03-10T11:05:44.689265Z",
+            "shown_at": [
+                "2025-03-10T11:20:04.868195Z"
+            ]
         }
     ]
 }

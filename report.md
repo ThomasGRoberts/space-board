@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
+| spacenews | 5 | 7 | 23 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 37 |
@@ -1570,3 +1570,4 @@
 - **Mar 10, 10:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 10:49 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 10, 11:05 AM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
+- **Mar 10, 11:20 AM** - Deep Blue Aerospace raises new funds, targets mid-year orbital launch (spacenews)
