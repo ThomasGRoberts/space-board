@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 40 |
 | supercluster | 2 | 2 | 84 | 84 |
-| nyt | 0 | 3 | 18 | 39 |
+| nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -1580,3 +1580,4 @@
 - **Mar 10, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 10, 03:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 10, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 10, 03:41 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
