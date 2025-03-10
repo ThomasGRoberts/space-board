@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 22 | 42 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 56 | 56 |
@@ -1580,3 +1580,4 @@
 - **Mar 10, 12:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 12:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 12:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 12:15 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
