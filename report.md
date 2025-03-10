@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 26 | 45 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 17 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
 | breaking_defense | 2 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -1601,3 +1601,4 @@
 - **Mar 10, 03:17 PM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
 - **Mar 10, 03:31 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 10, 03:45 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
+- **Mar 10, 03:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
