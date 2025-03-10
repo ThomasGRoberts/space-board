@@ -5,7 +5,7 @@
 | spacenews | 17 | 18 | 29 | 49 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 1 | 3 | 18 | 38 |
-| breaking_defense | 2 | 2 | 17 | 36 |
+| breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
@@ -1638,3 +1638,4 @@
 - **Mar 10, 07:51 PM** - Eric Schmidt Joins Relativity Space as C.E.O. (nyt)
 - **Mar 10, 08:05 PM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
 - **Mar 10, 08:19 PM** - Emerging launch companies see strong demand but look for government support (spacenews)
+- **Mar 10, 08:33 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
