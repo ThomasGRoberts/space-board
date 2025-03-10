@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 23 | 43 |
+| spacenews | 10 | 12 | 24 | 44 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 18 | 37 |
@@ -1584,3 +1584,4 @@
 - **Mar 10, 12:31 PM** - Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market (spacenews)
 - **Mar 10, 12:45 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 10, 12:59 PM** - Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network (spacenews)
+- **Mar 10, 01:15 PM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
