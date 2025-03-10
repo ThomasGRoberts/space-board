@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 41 |
+| spacenews | 3 | 4 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 37 |
@@ -1555,3 +1555,4 @@
 - **Mar 10, 09:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 09:08 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 09:09 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
