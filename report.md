@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 18 | 29 | 49 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 16 | 37 |
 | nyt | 1 | 3 | 18 | 38 |
 | breaking_defense | 2 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -1639,3 +1639,4 @@
 - **Mar 10, 08:05 PM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
 - **Mar 10, 08:19 PM** - Emerging launch companies see strong demand but look for government support (spacenews)
 - **Mar 10, 08:33 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 10, 08:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
