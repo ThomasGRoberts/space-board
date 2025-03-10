@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -1553,3 +1553,4 @@
 - **Mar 10, 12:45 AM** - U.S. halts satellite imagery support to Ukraine in major policy shift (spacenews)
 - **Mar 10, 12:59 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 10, 01:13 AM** - Trump says Mars missions are of interest but not a top priority (spacenews)
+- **Mar 10, 01:28 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
