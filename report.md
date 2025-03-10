@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 16 | 37 |
 | nyt | 2 | 4 | 18 | 38 |
 | breaking_defense | 2 | 2 | 18 | 37 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
 
@@ -1650,3 +1650,4 @@
 - **Mar 10, 09:17 PM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
 - **Mar 10, 09:33 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 10, 09:47 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
+- **Mar 10, 10:02 PM** - SpaceX Will Launch Missions for NASA (supercluster)
