@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 21 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -1534,3 +1534,4 @@
 - **Mar 10, 06:31 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 06:34 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 06:37 AM** - Apex’s first satellite marks one year in orbit (spacenews)
+- **Mar 10, 06:51 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
