@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 20 | 28 | 49 |
+| spacenews | 19 | 21 | 29 | 50 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 3 | 4 | 19 | 38 |
 | breaking_defense | 2 | 2 | 17 | 36 |
@@ -1661,3 +1661,4 @@
 - **Mar 10, 10:29 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 10, 10:43 PM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
 - **Mar 10, 10:57 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 10, 11:15 PM** - Evolving threats from cyber to lasers and jammers (spacenews)
