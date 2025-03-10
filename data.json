@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35cc067eebfdcb2b223e3ceb4b06cb38",
+    "trigger_count": 0,
+    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -3943,6 +3943,20 @@
             "fetched_datetime": "2025-03-10T01:13:47.159469Z",
             "shown_at": [
                 "2025-03-10T01:13:47.774204Z"
+            ]
+        },
+        {
+            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Missions for NASA",
+            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-11T03:10:00.000Z",
+            "time_remaining": "1d 00h 56m",
+            "fetched_datetime": "2025-03-10T02:13:49.698074Z",
+            "shown_at": [
+                "2025-03-10T02:13:50.609326Z"
             ]
         }
     ]
