@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 21 | 42 |
 | aidy | 1 | 2 | 21 | 40 |
 | supercluster | 1 | 1 | 63 | 63 |
-| nyt | 1 | 3 | 19 | 40 |
+| nyt | 1 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -1551,3 +1551,4 @@
 - **Mar 10, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 10, 12:31 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 10, 12:45 AM** - U.S. halts satellite imagery support to Ukraine in major policy shift (spacenews)
+- **Mar 10, 12:59 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
