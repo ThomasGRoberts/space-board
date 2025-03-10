@@ -5,7 +5,7 @@
 | spacenews | 12 | 14 | 26 | 47 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
-| breaking_defense | 1 | 1 | 18 | 36 |
+| breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
@@ -1599,3 +1599,4 @@
 - **Mar 10, 02:45 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 10, 02:59 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
 - **Mar 10, 03:17 PM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
+- **Mar 10, 03:31 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
