@@ -5,8 +5,8 @@
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 30 | 30 |
+| breaking_defense | 0 | 0 | 19 | 37 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -1539,3 +1539,4 @@
 - **Mar 10, 07:19 AM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 10, 07:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 07:37 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 07:39 AM** - SpaceX Will Launch Missions for NASA (supercluster)
