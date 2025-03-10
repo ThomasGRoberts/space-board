@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
-| nyt | 0 | 3 | 19 | 39 |
+| nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -1558,3 +1558,4 @@
 - **Mar 10, 09:09 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
 - **Mar 10, 09:25 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 10, 09:39 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 10, 09:54 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
