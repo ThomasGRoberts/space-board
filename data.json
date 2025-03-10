@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6014834ccec20370e706afbf1cd730bf",
+    "trigger_count": 0,
+    "current_item_id": "d063c8b2381248b9568cbf34397d39ef",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4030,6 +4030,18 @@
             "fetched_datetime": "2025-03-10T12:31:47.143826Z",
             "shown_at": [
                 "2025-03-10T12:31:47.899212Z"
+            ]
+        },
+        {
+            "id": "d063c8b2381248b9568cbf34397d39ef",
+            "source": "spacenews",
+            "text": "Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network",
+            "source_link": "https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T12:59:08.743353Z",
+            "shown_at": [
+                "2025-03-10T12:59:09.495129Z"
             ]
         }
     ]

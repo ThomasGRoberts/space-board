@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 43 |
+| spacenews | 7 | 9 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 37 |
@@ -1583,3 +1583,4 @@
 - **Mar 10, 12:15 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
 - **Mar 10, 12:31 PM** - Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market (spacenews)
 - **Mar 10, 12:45 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 10, 12:59 PM** - Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network (spacenews)
