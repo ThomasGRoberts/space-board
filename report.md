@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
 | breaking_defense | 2 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -1602,3 +1602,4 @@
 - **Mar 10, 03:31 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 10, 03:45 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 10, 03:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 04:02 PM** - SpaceX Will Launch Missions for NASA (supercluster)
