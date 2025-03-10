@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a343f1a36b6574da3fb3796872edf014",
+    "trigger_count": 0,
+    "current_item_id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4113,6 +4113,18 @@
             "fetched_datetime": "2025-03-10T15:17:33.750099Z",
             "shown_at": [
                 "2025-03-10T15:17:34.165772Z"
+            ]
+        },
+        {
+            "id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
+            "source": "breaking_defense",
+            "text": "Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec",
+            "source_link": "https://breakingdefense.com/2025/03/emirati-consortium-to-launch-first-satellite-of-sirb-constellation-by-late-2026-early-2027-exec/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T15:45:41.785673Z",
+            "shown_at": [
+                "2025-03-10T15:45:42.241414Z"
             ]
         }
     ]

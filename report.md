@@ -5,7 +5,7 @@
 | spacenews | 12 | 14 | 26 | 46 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 2 | 18 | 38 |
-| breaking_defense | 1 | 1 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
@@ -1600,3 +1600,4 @@
 - **Mar 10, 02:59 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
 - **Mar 10, 03:17 PM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
 - **Mar 10, 03:31 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
+- **Mar 10, 03:45 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
