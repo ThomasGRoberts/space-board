@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 22 | 42 |
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | supercluster | 1 | 1 | 70 | 70 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -1561,3 +1561,4 @@
 - **Mar 10, 01:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 10, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 10, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 10, 01:59 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
