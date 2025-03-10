@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 37 |
@@ -1581,3 +1581,4 @@
 - **Mar 10, 12:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 12:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 12:15 PM** - FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications (aidy)
+- **Mar 10, 12:31 PM** - Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market (spacenews)
