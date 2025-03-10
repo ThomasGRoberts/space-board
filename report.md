@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 22 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -1523,3 +1523,4 @@
 - **Mar 10, 05:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 05:19 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 05:21 AM** - Spire demonstrates optical links between cubesats (spacenews)
+- **Mar 10, 05:35 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
