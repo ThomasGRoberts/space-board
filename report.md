@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 41 |
+| spacenews | 3 | 4 | 22 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -1544,3 +1544,4 @@
 - **Mar 10, 07:45 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 07:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 07:49 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 07:51 AM** - SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration (spacenews)
