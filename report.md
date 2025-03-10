@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
-| nyt | 0 | 3 | 20 | 40 |
+| nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1516,3 +1516,4 @@
 - **Mar 10, 04:39 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 10, 04:53 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 10, 05:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 10, 05:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
