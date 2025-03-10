@@ -5,7 +5,7 @@
 | spacenews | 5 | 7 | 22 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 19 | 39 |
-| breaking_defense | 1 | 1 | 19 | 37 |
+| breaking_defense | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
@@ -1572,3 +1572,4 @@
 - **Mar 10, 11:05 AM** - Cygnus issue causes changes in ISS cargo missions (spacenews)
 - **Mar 10, 11:20 AM** - Deep Blue Aerospace raises new funds, targets mid-year orbital launch (spacenews)
 - **Mar 10, 11:33 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
+- **Mar 10, 11:47 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
