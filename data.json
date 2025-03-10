@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 6,
-    "current_item_id": "791bfe908fe82d76e38c78379329a87c",
+    "trigger_count": 0,
+    "current_item_id": "d4814956fb580fb83c2cf0e72dd363e2",
     "data": [
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
@@ -4078,6 +4078,18 @@
             "fetched_datetime": "2025-03-10T13:15:39.803360Z",
             "shown_at": [
                 "2025-03-10T13:43:35.343441Z"
+            ]
+        },
+        {
+            "id": "d4814956fb580fb83c2cf0e72dd363e2",
+            "source": "spacenews",
+            "text": "Space M&A poised for takeoff in 2025",
+            "source_link": "https://spacenews.com/space-ma-poised-for-takeoff-in-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T13:57:38.760918Z",
+            "shown_at": [
+                "2025-03-10T13:57:39.263036Z"
             ]
         }
     ]
