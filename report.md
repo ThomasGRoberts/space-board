@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -1504,3 +1504,4 @@
 - **Mar 10, 02:57 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
 - **Mar 10, 03:11 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 10, 03:41 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
+- **Mar 10, 03:55 AM** - SpaceX Will Launch Missions for NASA (supercluster)
