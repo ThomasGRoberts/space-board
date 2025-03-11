@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 28 | 49 |
+| spacenews | 18 | 22 | 27 | 49 |
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -1622,3 +1622,4 @@
 - **Mar 11, 09:37 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 11, 09:51 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
 - **Mar 11, 10:05 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 10:08 AM** - China Will Launch the Long March 8 Rocket (supercluster)
