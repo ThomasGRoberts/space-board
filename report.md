@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 29 | 50 |
+| spacenews | 19 | 22 | 28 | 50 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 36 |
-| supercluster | 0 | 1 | 112 | 119 |
+| supercluster | 1 | 2 | 113 | 120 |
 
 # Shown Order
 
@@ -1693,3 +1693,4 @@
 - **Mar 11, 02:27 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 11, 02:29 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 11, 02:31 AM** - Intelsat CEO reveals separate bet on Lynk Global amid SES merger (spacenews)
+- **Mar 11, 02:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
