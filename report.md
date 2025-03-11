@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 21 | 27 | 48 |
 | nyt | 3 | 3 | 18 | 37 |
-| breaking_defense | 1 | 2 | 16 | 35 |
-| aidy | 1 | 2 | 16 | 35 |
+| breaking_defense | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -1630,3 +1630,4 @@
 - **Mar 11, 10:19 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 10:21 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 11, 10:35 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
+- **Mar 11, 10:49 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
