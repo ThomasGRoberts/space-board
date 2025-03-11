@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 21 | 28 | 50 |
+| spacenews | 18 | 21 | 28 | 49 |
 | nyt | 3 | 3 | 19 | 38 |
-| breaking_defense | 2 | 2 | 17 | 36 |
+| breaking_defense | 2 | 2 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 37 |
 | supercluster | 1 | 1 | 112 | 112 |
 
@@ -1684,3 +1684,4 @@
 - **Mar 11, 01:17 AM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
 - **Mar 11, 01:32 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 11, 01:45 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
+- **Mar 11, 02:03 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
