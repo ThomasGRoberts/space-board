@@ -1,9 +1,429 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-10T00:01:59.389567+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
+    "trigger_count": 1,
     "current_item_id": "da0eec305a2913a59dba491a18e2d1c8",
     "data": [
+        {
+            "id": "bbbcd3c4c67b9210eb49f91053480988",
+            "source": "spacenews",
+            "text": "Evolving threats from cyber to lasers and jammers",
+            "source_link": "https://spacenews.com/evolving-threats-from-cyber-to-lasers-and-jammers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T23:15:26.818860Z",
+            "shown_at": [
+                "2025-03-10T23:15:27.349886Z"
+            ]
+        },
+        {
+            "id": "6ee1500e9b7ddf8c6464501128c7b1c1",
+            "source": "spacenews",
+            "text": "Intelligence agency copes with workforce reductions amid AI modernization",
+            "source_link": "https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T22:43:44.126880Z",
+            "shown_at": [
+                "2025-03-10T22:43:45.127671Z"
+            ]
+        },
+        {
+            "id": "83e28e8cc3b83a1c1c5a489899682628",
+            "source": "nyt",
+            "text": "How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket",
+            "source_link": "https://www.nytimes.com/2025/03/10/science/spacex-nasa-spherex-punch-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T22:29:40.252570Z",
+            "shown_at": [
+                "2025-03-10T22:29:40.785475Z"
+            ]
+        },
+        {
+            "id": "437585fdbfc69091dad4c3ef22e8786e",
+            "source": "spacenews",
+            "text": "Relativity names Eric Schmidt as CEO as it updates Terran R development",
+            "source_link": "https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T21:17:29.125762Z",
+            "shown_at": [
+                "2025-03-10T21:17:29.705096Z"
+            ]
+        },
+        {
+            "id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
+            "source": "nyt",
+            "text": "NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters",
+            "source_link": "https://www.nytimes.com/2025/03/10/science/nasa-chief-scientist-fired-katherine-calvin.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T21:01:53.413904Z",
+            "shown_at": [
+                "2025-03-10T21:01:53.883033Z"
+            ]
+        },
+        {
+            "id": "1a7fd5afadd0e095e1fabd12ffc47397",
+            "source": "spacenews",
+            "text": "Emerging launch companies see strong demand but look for government support",
+            "source_link": "https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T20:19:30.391885Z",
+            "shown_at": [
+                "2025-03-10T20:19:30.882484Z"
+            ]
+        },
+        {
+            "id": "8103ad6de5322d9f389a3f415499b0d2",
+            "source": "nyt",
+            "text": "Eric Schmidt Joins Relativity Space as C.E.O.",
+            "source_link": "https://www.nytimes.com/2025/03/10/technology/eric-schmidt-relativity-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T19:51:58.226254Z",
+            "shown_at": [
+                "2025-03-10T19:51:59.241839Z"
+            ]
+        },
+        {
+            "id": "4725866ecc04c6653454ea8d4bbedd10",
+            "source": "spacenews",
+            "text": "SES invests in Lynk Global to break into direct-to-device market",
+            "source_link": "https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T18:41:34.625054Z",
+            "shown_at": [
+                "2025-03-10T18:41:35.334284Z"
+            ]
+        },
+        {
+            "id": "8c35ae2984a4c680b882dc91597fb10b",
+            "source": "spacenews",
+            "text": "Space Symposium to break records",
+            "source_link": "https://spacenews.com/space-symposium-to-break-records/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T17:13:33.491656Z",
+            "shown_at": [
+                "2025-03-10T17:27:50.560297Z"
+            ]
+        },
+        {
+            "id": "c86400ca287709aac6fb0be63454d8d5",
+            "source": "spacenews",
+            "text": "NASA closes offices, lays off staff as it prepares for larger workforce reductions",
+            "source_link": "https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T17:13:33.491607Z",
+            "shown_at": [
+                "2025-03-10T17:13:34.004041Z"
+            ]
+        },
+        {
+            "id": "a0dc7723d933217c21a2d4d25371980b",
+            "source": "spacenews",
+            "text": "LeoLabs to build space-monitoring radar in Indo-Pacific region",
+            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T16:59:40.826777Z",
+            "shown_at": [
+                "2025-03-10T16:59:41.307563Z"
+            ]
+        },
+        {
+            "id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
+            "source": "breaking_defense",
+            "text": "Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec",
+            "source_link": "https://breakingdefense.com/2025/03/emirati-consortium-to-launch-first-satellite-of-sirb-constellation-by-late-2026-early-2027-exec/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T15:45:41.785673Z",
+            "shown_at": [
+                "2025-03-10T15:45:42.241414Z"
+            ]
+        },
+        {
+            "id": "368685ab2dc7e0d2fac173930ebc0d8a",
+            "source": "spacenews",
+            "text": "Voyager, Palantir deepen alliance to develop military space tech",
+            "source_link": "https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T15:17:33.750099Z",
+            "shown_at": [
+                "2025-03-10T15:17:34.165772Z"
+            ]
+        },
+        {
+            "id": "d4814956fb580fb83c2cf0e72dd363e2",
+            "source": "spacenews",
+            "text": "Space M&A poised for takeoff in 2025",
+            "source_link": "https://spacenews.com/space-ma-poised-for-takeoff-in-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T13:57:38.760918Z",
+            "shown_at": [
+                "2025-03-10T13:57:39.263036Z"
+            ]
+        },
+        {
+            "id": "791bfe908fe82d76e38c78379329a87c",
+            "source": "spacenews",
+            "text": "America needs a strong NASA",
+            "source_link": "https://spacenews.com/america-needs-a-strong-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T13:15:39.803360Z",
+            "shown_at": [
+                "2025-03-10T13:43:35.343441Z"
+            ]
+        },
+        {
+            "id": "ad4187fb95d43e5ead28c27213c2ba4b",
+            "source": "spacenews",
+            "text": "LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region",
+            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T13:15:39.803317Z",
+            "shown_at": [
+                "2025-03-10T13:29:39.331115Z"
+            ]
+        },
+        {
+            "id": "4eed20812a0814f43280a2fa91bff6fc",
+            "source": "spacenews",
+            "text": "SpaceWERX selects eight companies for $440 million in public-private partnerships",
+            "source_link": "https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T13:15:39.803251Z",
+            "shown_at": [
+                "2025-03-10T13:15:40.414971Z"
+            ]
+        },
+        {
+            "id": "d063c8b2381248b9568cbf34397d39ef",
+            "source": "spacenews",
+            "text": "Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network",
+            "source_link": "https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T12:59:08.743353Z",
+            "shown_at": [
+                "2025-03-10T12:59:09.495129Z"
+            ]
+        },
+        {
+            "id": "ad1574ff006aba303ba9d6d2f13a5be8",
+            "source": "spacenews",
+            "text": "Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market",
+            "source_link": "https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T12:31:47.143826Z",
+            "shown_at": [
+                "2025-03-10T12:31:47.899212Z"
+            ]
+        },
+        {
+            "id": "a7ba1133a0f2cab89b910e3396d36c96",
+            "source": "spacenews",
+            "text": "Deep Blue Aerospace raises new funds, targets mid-year orbital launch",
+            "source_link": "https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T11:05:44.689265Z",
+            "shown_at": [
+                "2025-03-10T11:20:04.868195Z"
+            ]
+        },
+        {
+            "id": "e4f85c6ae3c846b3823ad48742b63970",
+            "source": "spacenews",
+            "text": "Cygnus issue causes changes in ISS cargo missions",
+            "source_link": "https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T11:05:44.689212Z",
+            "shown_at": [
+                "2025-03-10T11:05:45.551320Z",
+                "2025-03-10T20:05:50.451804Z"
+            ]
+        },
+        {
+            "id": "53cfc7188f72ab53bb410b995981cdd9",
+            "source": "breaking_defense",
+            "text": "Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren",
+            "source_link": "https://breakingdefense.com/2025/03/deputy-defense-secretary-nominee-has-clear-conflict-of-interest-with-ligado-lawsuit-sen-warren/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T10:21:40.901329Z",
+            "shown_at": [
+                "2025-03-10T10:21:41.421379Z",
+                "2025-03-10T14:11:50.689481Z"
+            ]
+        },
+        {
+            "id": "e8a2d4a7f74f06734a7e36c956380dcb",
+            "source": "spacenews",
+            "text": "Swissto12 to build small Asia-focused direct-to-device GEO satellite",
+            "source_link": "https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T10:07:43.360812Z",
+            "shown_at": [
+                "2025-03-10T10:07:43.887187Z"
+            ]
+        },
+        {
+            "id": "0fcc87607d463496b47fc42901229e36",
+            "source": "aidy",
+            "text": "DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T08:09:41.061100Z",
+            "shown_at": [
+                "2025-03-10T08:09:41.585536Z"
+            ]
+        },
+        {
+            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Missions for NASA",
+            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-11T03:10:00.000Z",
+            "time_remaining": "0d 03h 12m",
+            "fetched_datetime": "2025-03-10T02:13:49.698074Z",
+            "shown_at": [
+                "2025-03-10T02:13:50.609326Z",
+                "2025-03-10T02:15:34.327025Z",
+                "2025-03-10T02:17:52.569854Z",
+                "2025-03-10T02:19:44.595969Z",
+                "2025-03-10T02:21:49.846450Z",
+                "2025-03-10T02:23:08.651435Z",
+                "2025-03-10T02:25:39.998051Z",
+                "2025-03-10T03:55:08.612822Z",
+                "2025-03-10T03:57:23.162259Z",
+                "2025-03-10T03:59:32.541397Z",
+                "2025-03-10T04:02:09.601103Z",
+                "2025-03-10T04:05:30.625965Z",
+                "2025-03-10T04:07:38.905567Z",
+                "2025-03-10T04:09:41.051521Z",
+                "2025-03-10T05:07:43.501895Z",
+                "2025-03-10T05:09:52.388926Z",
+                "2025-03-10T05:11:31.773221Z",
+                "2025-03-10T05:13:23.742425Z",
+                "2025-03-10T05:15:28.336645Z",
+                "2025-03-10T05:17:21.619885Z",
+                "2025-03-10T05:19:31.585127Z",
+                "2025-03-10T06:19:49.437254Z",
+                "2025-03-10T06:21:56.395258Z",
+                "2025-03-10T06:23:35.192433Z",
+                "2025-03-10T06:25:41.363449Z",
+                "2025-03-10T06:28:22.261468Z",
+                "2025-03-10T06:31:56.218181Z",
+                "2025-03-10T06:34:08.550228Z",
+                "2025-03-10T07:35:36.929916Z",
+                "2025-03-10T07:37:30.333879Z",
+                "2025-03-10T07:39:48.954224Z",
+                "2025-03-10T07:42:16.740246Z",
+                "2025-03-10T07:45:36.838996Z",
+                "2025-03-10T07:47:08.576630Z",
+                "2025-03-10T07:49:32.921361Z",
+                "2025-03-10T08:54:02.835413Z",
+                "2025-03-10T08:55:27.486186Z",
+                "2025-03-10T08:57:25.428002Z",
+                "2025-03-10T08:59:30.776573Z",
+                "2025-03-10T09:02:16.213552Z",
+                "2025-03-10T09:05:35.421044Z",
+                "2025-03-10T09:08:01.823328Z",
+                "2025-03-10T10:35:50.611393Z",
+                "2025-03-10T10:37:26.159431Z",
+                "2025-03-10T10:39:32.858336Z",
+                "2025-03-10T10:41:42.546728Z",
+                "2025-03-10T10:43:29.533286Z",
+                "2025-03-10T10:45:35.437579Z",
+                "2025-03-10T10:47:34.341812Z",
+                "2025-03-10T12:01:58.413615Z",
+                "2025-03-10T12:03:43.462513Z",
+                "2025-03-10T12:05:44.718502Z",
+                "2025-03-10T12:07:54.582430Z",
+                "2025-03-10T12:09:31.521354Z",
+                "2025-03-10T12:11:52.724994Z",
+                "2025-03-10T12:13:26.689734Z",
+                "2025-03-10T14:32:07.988026Z",
+                "2025-03-10T14:33:30.171791Z",
+                "2025-03-10T14:35:33.776888Z",
+                "2025-03-10T14:37:11.386329Z",
+                "2025-03-10T14:39:32.586407Z",
+                "2025-03-10T14:41:53.845397Z",
+                "2025-03-10T14:43:42.681414Z",
+                "2025-03-10T15:59:50.408313Z",
+                "2025-03-10T16:02:09.691949Z",
+                "2025-03-10T16:05:33.274107Z",
+                "2025-03-10T16:07:37.832030Z",
+                "2025-03-10T16:09:44.369500Z",
+                "2025-03-10T16:11:48.197567Z",
+                "2025-03-10T16:13:09.370231Z",
+                "2025-03-10T17:57:42.965922Z",
+                "2025-03-10T17:59:34.428779Z",
+                "2025-03-10T18:02:07.713811Z",
+                "2025-03-10T18:03:29.990094Z",
+                "2025-03-10T18:05:45.030423Z",
+                "2025-03-10T18:07:25.117600Z",
+                "2025-03-10T18:09:42.636177Z",
+                "2025-03-10T19:09:29.923472Z",
+                "2025-03-10T19:11:33.664156Z",
+                "2025-03-10T19:13:37.776865Z",
+                "2025-03-10T19:15:28.337879Z",
+                "2025-03-10T19:17:41.399853Z",
+                "2025-03-10T19:19:43.676741Z",
+                "2025-03-10T19:21:40.108031Z",
+                "2025-03-10T20:47:52.975069Z",
+                "2025-03-10T20:49:34.368647Z",
+                "2025-03-10T20:51:33.799938Z",
+                "2025-03-10T20:53:27.055265Z",
+                "2025-03-10T20:55:27.710792Z",
+                "2025-03-10T20:57:25.217322Z",
+                "2025-03-10T20:59:41.018525Z",
+                "2025-03-10T22:02:02.656942Z",
+                "2025-03-10T22:03:27.229058Z",
+                "2025-03-10T22:05:33.283502Z",
+                "2025-03-10T22:07:26.274648Z",
+                "2025-03-10T22:09:42.806007Z",
+                "2025-03-10T22:11:40.663173Z",
+                "2025-03-10T22:13:45.188758Z",
+                "2025-03-10T23:43:52.270250Z",
+                "2025-03-10T23:47:25.781216Z",
+                "2025-03-10T23:49:25.269106Z",
+                "2025-03-10T23:51:28.175021Z",
+                "2025-03-10T23:53:26.062574Z",
+                "2025-03-10T23:55:29.321454Z",
+                "2025-03-10T23:57:25.305061Z"
+            ]
+        },
+        {
+            "id": "abd2fce54e77e4869386a83cf407e9fc",
+            "source": "spacenews",
+            "text": "Trump says Mars missions are of interest but not a top priority",
+            "source_link": "https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-10T01:13:47.159469Z",
+            "shown_at": [
+                "2025-03-10T01:13:47.774204Z"
+            ]
+        },
         {
             "id": "28a95207322e8a5c1d026b4bfc634b6d",
             "source": "spacenews",
@@ -3896,426 +4316,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "abd2fce54e77e4869386a83cf407e9fc",
-            "source": "spacenews",
-            "text": "Trump says Mars missions are of interest but not a top priority",
-            "source_link": "https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T01:13:47.159469Z",
-            "shown_at": [
-                "2025-03-10T01:13:47.774204Z"
-            ]
-        },
-        {
-            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Missions for NASA",
-            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-11T03:10:00.000Z",
-            "time_remaining": "0d 03h 12m",
-            "fetched_datetime": "2025-03-10T02:13:49.698074Z",
-            "shown_at": [
-                "2025-03-10T02:13:50.609326Z",
-                "2025-03-10T02:15:34.327025Z",
-                "2025-03-10T02:17:52.569854Z",
-                "2025-03-10T02:19:44.595969Z",
-                "2025-03-10T02:21:49.846450Z",
-                "2025-03-10T02:23:08.651435Z",
-                "2025-03-10T02:25:39.998051Z",
-                "2025-03-10T03:55:08.612822Z",
-                "2025-03-10T03:57:23.162259Z",
-                "2025-03-10T03:59:32.541397Z",
-                "2025-03-10T04:02:09.601103Z",
-                "2025-03-10T04:05:30.625965Z",
-                "2025-03-10T04:07:38.905567Z",
-                "2025-03-10T04:09:41.051521Z",
-                "2025-03-10T05:07:43.501895Z",
-                "2025-03-10T05:09:52.388926Z",
-                "2025-03-10T05:11:31.773221Z",
-                "2025-03-10T05:13:23.742425Z",
-                "2025-03-10T05:15:28.336645Z",
-                "2025-03-10T05:17:21.619885Z",
-                "2025-03-10T05:19:31.585127Z",
-                "2025-03-10T06:19:49.437254Z",
-                "2025-03-10T06:21:56.395258Z",
-                "2025-03-10T06:23:35.192433Z",
-                "2025-03-10T06:25:41.363449Z",
-                "2025-03-10T06:28:22.261468Z",
-                "2025-03-10T06:31:56.218181Z",
-                "2025-03-10T06:34:08.550228Z",
-                "2025-03-10T07:35:36.929916Z",
-                "2025-03-10T07:37:30.333879Z",
-                "2025-03-10T07:39:48.954224Z",
-                "2025-03-10T07:42:16.740246Z",
-                "2025-03-10T07:45:36.838996Z",
-                "2025-03-10T07:47:08.576630Z",
-                "2025-03-10T07:49:32.921361Z",
-                "2025-03-10T08:54:02.835413Z",
-                "2025-03-10T08:55:27.486186Z",
-                "2025-03-10T08:57:25.428002Z",
-                "2025-03-10T08:59:30.776573Z",
-                "2025-03-10T09:02:16.213552Z",
-                "2025-03-10T09:05:35.421044Z",
-                "2025-03-10T09:08:01.823328Z",
-                "2025-03-10T10:35:50.611393Z",
-                "2025-03-10T10:37:26.159431Z",
-                "2025-03-10T10:39:32.858336Z",
-                "2025-03-10T10:41:42.546728Z",
-                "2025-03-10T10:43:29.533286Z",
-                "2025-03-10T10:45:35.437579Z",
-                "2025-03-10T10:47:34.341812Z",
-                "2025-03-10T12:01:58.413615Z",
-                "2025-03-10T12:03:43.462513Z",
-                "2025-03-10T12:05:44.718502Z",
-                "2025-03-10T12:07:54.582430Z",
-                "2025-03-10T12:09:31.521354Z",
-                "2025-03-10T12:11:52.724994Z",
-                "2025-03-10T12:13:26.689734Z",
-                "2025-03-10T14:32:07.988026Z",
-                "2025-03-10T14:33:30.171791Z",
-                "2025-03-10T14:35:33.776888Z",
-                "2025-03-10T14:37:11.386329Z",
-                "2025-03-10T14:39:32.586407Z",
-                "2025-03-10T14:41:53.845397Z",
-                "2025-03-10T14:43:42.681414Z",
-                "2025-03-10T15:59:50.408313Z",
-                "2025-03-10T16:02:09.691949Z",
-                "2025-03-10T16:05:33.274107Z",
-                "2025-03-10T16:07:37.832030Z",
-                "2025-03-10T16:09:44.369500Z",
-                "2025-03-10T16:11:48.197567Z",
-                "2025-03-10T16:13:09.370231Z",
-                "2025-03-10T17:57:42.965922Z",
-                "2025-03-10T17:59:34.428779Z",
-                "2025-03-10T18:02:07.713811Z",
-                "2025-03-10T18:03:29.990094Z",
-                "2025-03-10T18:05:45.030423Z",
-                "2025-03-10T18:07:25.117600Z",
-                "2025-03-10T18:09:42.636177Z",
-                "2025-03-10T19:09:29.923472Z",
-                "2025-03-10T19:11:33.664156Z",
-                "2025-03-10T19:13:37.776865Z",
-                "2025-03-10T19:15:28.337879Z",
-                "2025-03-10T19:17:41.399853Z",
-                "2025-03-10T19:19:43.676741Z",
-                "2025-03-10T19:21:40.108031Z",
-                "2025-03-10T20:47:52.975069Z",
-                "2025-03-10T20:49:34.368647Z",
-                "2025-03-10T20:51:33.799938Z",
-                "2025-03-10T20:53:27.055265Z",
-                "2025-03-10T20:55:27.710792Z",
-                "2025-03-10T20:57:25.217322Z",
-                "2025-03-10T20:59:41.018525Z",
-                "2025-03-10T22:02:02.656942Z",
-                "2025-03-10T22:03:27.229058Z",
-                "2025-03-10T22:05:33.283502Z",
-                "2025-03-10T22:07:26.274648Z",
-                "2025-03-10T22:09:42.806007Z",
-                "2025-03-10T22:11:40.663173Z",
-                "2025-03-10T22:13:45.188758Z",
-                "2025-03-10T23:43:52.270250Z",
-                "2025-03-10T23:47:25.781216Z",
-                "2025-03-10T23:49:25.269106Z",
-                "2025-03-10T23:51:28.175021Z",
-                "2025-03-10T23:53:26.062574Z",
-                "2025-03-10T23:55:29.321454Z",
-                "2025-03-10T23:57:25.305061Z"
-            ]
-        },
-        {
-            "id": "0fcc87607d463496b47fc42901229e36",
-            "source": "aidy",
-            "text": "DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T08:09:41.061100Z",
-            "shown_at": [
-                "2025-03-10T08:09:41.585536Z"
-            ]
-        },
-        {
-            "id": "e8a2d4a7f74f06734a7e36c956380dcb",
-            "source": "spacenews",
-            "text": "Swissto12 to build small Asia-focused direct-to-device GEO satellite",
-            "source_link": "https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T10:07:43.360812Z",
-            "shown_at": [
-                "2025-03-10T10:07:43.887187Z"
-            ]
-        },
-        {
-            "id": "53cfc7188f72ab53bb410b995981cdd9",
-            "source": "breaking_defense",
-            "text": "Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren",
-            "source_link": "https://breakingdefense.com/2025/03/deputy-defense-secretary-nominee-has-clear-conflict-of-interest-with-ligado-lawsuit-sen-warren/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T10:21:40.901329Z",
-            "shown_at": [
-                "2025-03-10T10:21:41.421379Z",
-                "2025-03-10T14:11:50.689481Z"
-            ]
-        },
-        {
-            "id": "e4f85c6ae3c846b3823ad48742b63970",
-            "source": "spacenews",
-            "text": "Cygnus issue causes changes in ISS cargo missions",
-            "source_link": "https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T11:05:44.689212Z",
-            "shown_at": [
-                "2025-03-10T11:05:45.551320Z",
-                "2025-03-10T20:05:50.451804Z"
-            ]
-        },
-        {
-            "id": "a7ba1133a0f2cab89b910e3396d36c96",
-            "source": "spacenews",
-            "text": "Deep Blue Aerospace raises new funds, targets mid-year orbital launch",
-            "source_link": "https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T11:05:44.689265Z",
-            "shown_at": [
-                "2025-03-10T11:20:04.868195Z"
-            ]
-        },
-        {
-            "id": "ad1574ff006aba303ba9d6d2f13a5be8",
-            "source": "spacenews",
-            "text": "Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market",
-            "source_link": "https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T12:31:47.143826Z",
-            "shown_at": [
-                "2025-03-10T12:31:47.899212Z"
-            ]
-        },
-        {
-            "id": "d063c8b2381248b9568cbf34397d39ef",
-            "source": "spacenews",
-            "text": "Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network",
-            "source_link": "https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T12:59:08.743353Z",
-            "shown_at": [
-                "2025-03-10T12:59:09.495129Z"
-            ]
-        },
-        {
-            "id": "4eed20812a0814f43280a2fa91bff6fc",
-            "source": "spacenews",
-            "text": "SpaceWERX selects eight companies for $440 million in public-private partnerships",
-            "source_link": "https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803251Z",
-            "shown_at": [
-                "2025-03-10T13:15:40.414971Z"
-            ]
-        },
-        {
-            "id": "ad4187fb95d43e5ead28c27213c2ba4b",
-            "source": "spacenews",
-            "text": "LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region",
-            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803317Z",
-            "shown_at": [
-                "2025-03-10T13:29:39.331115Z"
-            ]
-        },
-        {
-            "id": "791bfe908fe82d76e38c78379329a87c",
-            "source": "spacenews",
-            "text": "America needs a strong NASA",
-            "source_link": "https://spacenews.com/america-needs-a-strong-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803360Z",
-            "shown_at": [
-                "2025-03-10T13:43:35.343441Z"
-            ]
-        },
-        {
-            "id": "d4814956fb580fb83c2cf0e72dd363e2",
-            "source": "spacenews",
-            "text": "Space M&A poised for takeoff in 2025",
-            "source_link": "https://spacenews.com/space-ma-poised-for-takeoff-in-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:57:38.760918Z",
-            "shown_at": [
-                "2025-03-10T13:57:39.263036Z"
-            ]
-        },
-        {
-            "id": "368685ab2dc7e0d2fac173930ebc0d8a",
-            "source": "spacenews",
-            "text": "Voyager, Palantir deepen alliance to develop military space tech",
-            "source_link": "https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T15:17:33.750099Z",
-            "shown_at": [
-                "2025-03-10T15:17:34.165772Z"
-            ]
-        },
-        {
-            "id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
-            "source": "breaking_defense",
-            "text": "Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec",
-            "source_link": "https://breakingdefense.com/2025/03/emirati-consortium-to-launch-first-satellite-of-sirb-constellation-by-late-2026-early-2027-exec/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T15:45:41.785673Z",
-            "shown_at": [
-                "2025-03-10T15:45:42.241414Z"
-            ]
-        },
-        {
-            "id": "a0dc7723d933217c21a2d4d25371980b",
-            "source": "spacenews",
-            "text": "LeoLabs to build space-monitoring radar in Indo-Pacific region",
-            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T16:59:40.826777Z",
-            "shown_at": [
-                "2025-03-10T16:59:41.307563Z"
-            ]
-        },
-        {
-            "id": "c86400ca287709aac6fb0be63454d8d5",
-            "source": "spacenews",
-            "text": "NASA closes offices, lays off staff as it prepares for larger workforce reductions",
-            "source_link": "https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T17:13:33.491607Z",
-            "shown_at": [
-                "2025-03-10T17:13:34.004041Z"
-            ]
-        },
-        {
-            "id": "8c35ae2984a4c680b882dc91597fb10b",
-            "source": "spacenews",
-            "text": "Space Symposium to break records",
-            "source_link": "https://spacenews.com/space-symposium-to-break-records/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T17:13:33.491656Z",
-            "shown_at": [
-                "2025-03-10T17:27:50.560297Z"
-            ]
-        },
-        {
-            "id": "4725866ecc04c6653454ea8d4bbedd10",
-            "source": "spacenews",
-            "text": "SES invests in Lynk Global to break into direct-to-device market",
-            "source_link": "https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T18:41:34.625054Z",
-            "shown_at": [
-                "2025-03-10T18:41:35.334284Z"
-            ]
-        },
-        {
-            "id": "8103ad6de5322d9f389a3f415499b0d2",
-            "source": "nyt",
-            "text": "Eric Schmidt Joins Relativity Space as C.E.O.",
-            "source_link": "https://www.nytimes.com/2025/03/10/technology/eric-schmidt-relativity-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T19:51:58.226254Z",
-            "shown_at": [
-                "2025-03-10T19:51:59.241839Z"
-            ]
-        },
-        {
-            "id": "1a7fd5afadd0e095e1fabd12ffc47397",
-            "source": "spacenews",
-            "text": "Emerging launch companies see strong demand but look for government support",
-            "source_link": "https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T20:19:30.391885Z",
-            "shown_at": [
-                "2025-03-10T20:19:30.882484Z"
-            ]
-        },
-        {
-            "id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
-            "source": "nyt",
-            "text": "NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters",
-            "source_link": "https://www.nytimes.com/2025/03/10/science/nasa-chief-scientist-fired-katherine-calvin.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T21:01:53.413904Z",
-            "shown_at": [
-                "2025-03-10T21:01:53.883033Z"
-            ]
-        },
-        {
-            "id": "437585fdbfc69091dad4c3ef22e8786e",
-            "source": "spacenews",
-            "text": "Relativity names Eric Schmidt as CEO as it updates Terran R development",
-            "source_link": "https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T21:17:29.125762Z",
-            "shown_at": [
-                "2025-03-10T21:17:29.705096Z"
-            ]
-        },
-        {
-            "id": "83e28e8cc3b83a1c1c5a489899682628",
-            "source": "nyt",
-            "text": "How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket",
-            "source_link": "https://www.nytimes.com/2025/03/10/science/spacex-nasa-spherex-punch-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T22:29:40.252570Z",
-            "shown_at": [
-                "2025-03-10T22:29:40.785475Z"
-            ]
-        },
-        {
-            "id": "6ee1500e9b7ddf8c6464501128c7b1c1",
-            "source": "spacenews",
-            "text": "Intelligence agency copes with workforce reductions amid AI modernization",
-            "source_link": "https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T22:43:44.126880Z",
-            "shown_at": [
-                "2025-03-10T22:43:45.127671Z"
-            ]
-        },
-        {
-            "id": "bbbcd3c4c67b9210eb49f91053480988",
-            "source": "spacenews",
-            "text": "Evolving threats from cyber to lasers and jammers",
-            "source_link": "https://spacenews.com/evolving-threats-from-cyber-to-lasers-and-jammers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T23:15:26.818860Z",
-            "shown_at": [
-                "2025-03-10T23:15:27.349886Z"
             ]
         }
     ]
