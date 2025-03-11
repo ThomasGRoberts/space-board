@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -1633,3 +1633,4 @@
 - **Mar 11, 10:49 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 11, 11:03 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 11, 11:17 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 11:19 AM** - China Will Launch the Long March 8 Rocket (supercluster)
