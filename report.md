@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 24 | 25 | 50 |
+| spacenews | 16 | 26 | 26 | 51 |
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
@@ -1653,3 +1653,4 @@
 - **Mar 11, 12:51 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 11, 01:06 PM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
 - **Mar 11, 01:22 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
+- **Mar 11, 01:39 PM** - Working around ongoing supply-chain bottlenecks (spacenews)
