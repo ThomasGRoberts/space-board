@@ -5,7 +5,7 @@
 | spacenews | 16 | 21 | 26 | 48 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 36 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -1639,3 +1639,4 @@
 - **Mar 11, 11:25 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 11:27 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 11:29 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 11:31 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
