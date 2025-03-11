@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 22 | 28 | 50 |
-| nyt | 3 | 3 | 18 | 37 |
+| nyt | 3 | 3 | 19 | 38 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 36 |
 | supercluster | 1 | 2 | 119 | 126 |
@@ -1700,3 +1700,4 @@
 - **Mar 11, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 02:56 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 11, 03:02 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
