@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 27 | 48 |
+| spacenews | 19 | 22 | 28 | 49 |
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -1587,3 +1587,4 @@
 - **Mar 11, 05:27 AM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
 - **Mar 11, 05:41 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 11, 05:55 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
+- **Mar 11, 06:11 AM** - Starship destroyed on second consecutive test flight (spacenews)
