@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1601,3 +1601,4 @@
 - **Mar 11, 07:21 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
 - **Mar 11, 07:35 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 07:37 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 07:39 AM** - China Will Launch the Long March 8 Rocket (supercluster)
