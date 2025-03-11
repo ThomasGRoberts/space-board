@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 22 | 27 | 48 |
-| nyt | 3 | 3 | 17 | 36 |
+| nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 17 | 35 |
 | aidy | 2 | 3 | 16 | 36 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -1607,3 +1607,4 @@
 - **Mar 11, 07:45 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 07:47 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 07:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 11, 08:03 AM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
