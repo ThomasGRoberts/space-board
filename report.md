@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 28 | 22 | 50 |
+| spacenews | 13 | 28 | 23 | 51 |
 | nyt | 3 | 3 | 17 | 34 |
 | breaking_defense | 0 | 2 | 15 | 33 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -1620,3 +1620,4 @@
 - **Mar 11, 05:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 05:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 05:52 PM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
+- **Mar 11, 06:07 PM** - Viasat and Space42 co-invest in shared direct-to-device satellite prototype (spacenews)
