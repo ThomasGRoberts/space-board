@@ -5,7 +5,7 @@
 | spacenews | 13 | 29 | 23 | 51 |
 | nyt | 2 | 3 | 16 | 34 |
 | breaking_defense | 0 | 2 | 16 | 33 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -1635,3 +1635,4 @@
 - **Mar 11, 07:33 PM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 11, 07:47 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 11, 08:02 PM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)
+- **Mar 11, 08:17 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
