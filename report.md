@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 21 | 27 | 49 |
+| spacenews | 16 | 21 | 26 | 49 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -1634,3 +1634,4 @@
 - **Mar 11, 11:03 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 11, 11:17 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 11:19 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 11:21 AM** - China Will Launch the Long March 8 Rocket (supercluster)
