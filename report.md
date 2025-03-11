@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -1599,3 +1599,4 @@
 - **Mar 11, 06:53 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 11, 07:07 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 11, 07:21 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
+- **Mar 11, 07:35 AM** - China Will Launch the Long March 8 Rocket (supercluster)
