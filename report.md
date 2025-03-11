@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 22 | 28 | 49 |
-| nyt | 3 | 3 | 17 | 37 |
+| nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1578,4 +1578,4 @@
 - **Mar 11, 03:17 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:35 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 11, 03:50 AM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
-- **Mar 11, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 11, 05:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
