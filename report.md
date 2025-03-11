@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 26 | 25 | 51 |
-| nyt | 3 | 3 | 17 | 35 |
-| breaking_defense | 1 | 2 | 17 | 35 |
+| nyt | 3 | 3 | 18 | 36 |
+| breaking_defense | 1 | 2 | 16 | 35 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -1655,3 +1655,4 @@
 - **Mar 11, 01:22 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 11, 01:39 PM** - Working around ongoing supply-chain bottlenecks (spacenews)
 - **Mar 11, 01:53 PM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
+- **Mar 11, 02:16 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
