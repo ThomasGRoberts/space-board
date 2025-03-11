@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 16 | 34 |
 | breaking_defense | 1 | 3 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -1637,3 +1637,4 @@
 - **Mar 11, 08:02 PM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)
 - **Mar 11, 08:17 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 11, 08:31 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 11, 08:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
