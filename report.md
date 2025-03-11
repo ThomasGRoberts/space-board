@@ -5,7 +5,7 @@
 | spacenews | 19 | 22 | 27 | 48 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 16 | 35 |
-| aidy | 1 | 2 | 15 | 35 |
+| aidy | 1 | 2 | 16 | 36 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -1596,3 +1596,4 @@
 - **Mar 11, 06:35 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 06:37 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 06:39 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
+- **Mar 11, 06:53 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
