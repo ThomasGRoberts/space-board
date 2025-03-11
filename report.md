@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -1580,3 +1580,4 @@
 - **Mar 11, 03:50 AM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
 - **Mar 11, 05:15 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 05:17 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 05:19 AM** - China Will Launch the Long March 8 Rocket (supercluster)
