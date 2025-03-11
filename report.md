@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 30 | 23 | 52 |
 | nyt | 2 | 4 | 17 | 35 |
-| breaking_defense | 1 | 3 | 15 | 33 |
+| breaking_defense | 1 | 3 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 32 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -1649,3 +1649,4 @@
 - **Mar 11, 09:29 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
 - **Mar 11, 09:43 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 09:57 PM** - Space Force eyes commercial satellites to boost surveillance in geostationary orbit (spacenews)
+- **Mar 11, 10:11 PM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials (breaking_defense)
