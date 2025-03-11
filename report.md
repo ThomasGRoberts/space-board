@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 27 | 48 |
+| spacenews | 19 | 22 | 28 | 49 |
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -1598,3 +1598,4 @@
 - **Mar 11, 06:39 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 11, 06:53 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 11, 07:07 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
+- **Mar 11, 07:21 AM** - FCC allows a power boost for SpaceX’s direct-to-smartphone service (spacenews)
