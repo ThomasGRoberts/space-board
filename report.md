@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 22 | 27 | 48 |
 | nyt | 3 | 3 | 18 | 37 |
-| breaking_defense | 2 | 2 | 17 | 35 |
+| breaking_defense | 2 | 2 | 18 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -1619,3 +1619,4 @@
 - **Mar 11, 09:05 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 09:07 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 11, 09:21 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
+- **Mar 11, 09:37 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
