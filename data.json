@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "c70dfe0905bfa91a455934de7c02c20b",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4337,6 +4337,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "c70dfe0905bfa91a455934de7c02c20b",
+            "source": "spacenews",
+            "text": "Intelsat CEO reveals separate bet on Lynk Global amid SES merger",
+            "source_link": "https://spacenews.com/intelsat-ceo-reveals-separate-bet-on-lynk-global-amid-ses-merger/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T02:31:57.211400Z",
+            "shown_at": [
+                "2025-03-11T02:31:58.234385Z"
             ]
         }
     ]
