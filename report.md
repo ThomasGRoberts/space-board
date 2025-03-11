@@ -5,7 +5,7 @@
 | spacenews | 13 | 29 | 23 | 51 |
 | nyt | 3 | 3 | 17 | 34 |
 | breaking_defense | 0 | 2 | 15 | 34 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -1624,3 +1624,4 @@
 - **Mar 11, 06:21 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 06:36 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 11, 06:49 PM** - Long March 8 launches Thousand Sails satellites from commercial spaceport (spacenews)
+- **Mar 11, 07:03 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
