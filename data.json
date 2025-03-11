@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90280504ac5364697d5f1bce5cace41c",
+    "trigger_count": 0,
+    "current_item_id": "60c65b21c31db559f8bb5575c7c3f8e0",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4367,6 +4367,18 @@
             "fetched_datetime": "2025-03-11T17:52:12.881167Z",
             "shown_at": [
                 "2025-03-11T18:07:34.225200Z"
+            ]
+        },
+        {
+            "id": "60c65b21c31db559f8bb5575c7c3f8e0",
+            "source": "spacenews",
+            "text": "Long March 8 launches Thousand Sails satellites from commercial spaceport",
+            "source_link": "https://spacenews.com/long-march-8-launches-thousand-sails-satellites-from-commercial-spaceport/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T18:49:36.004757Z",
+            "shown_at": [
+                "2025-03-11T18:49:36.370501Z"
             ]
         }
     ]

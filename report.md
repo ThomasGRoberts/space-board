@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 28 | 22 | 50 |
+| spacenews | 13 | 29 | 23 | 51 |
 | nyt | 3 | 3 | 17 | 35 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 15 | 32 |
@@ -1623,3 +1623,4 @@
 - **Mar 11, 06:07 PM** - Viasat and Space42 co-invest in shared direct-to-device satellite prototype (spacenews)
 - **Mar 11, 06:21 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 06:36 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
+- **Mar 11, 06:49 PM** - Long March 8 launches Thousand Sails satellites from commercial spaceport (spacenews)
