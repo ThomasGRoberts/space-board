@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 26 | 25 | 51 |
-| nyt | 3 | 3 | 17 | 35 |
+| nyt | 3 | 3 | 18 | 36 |
 | breaking_defense | 0 | 2 | 15 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -1666,3 +1666,4 @@
 - **Mar 11, 03:17 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 03:19 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:33 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
+- **Mar 11, 03:49 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
