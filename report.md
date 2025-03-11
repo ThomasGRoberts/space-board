@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 18 | 36 |
 | breaking_defense | 0 | 2 | 16 | 35 |
 | aidy | 1 | 2 | 15 | 33 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -1670,3 +1670,4 @@
 - **Mar 11, 04:05 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
 - **Mar 11, 04:19 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 04:22 PM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 04:25 PM** - China Will Launch the Long March 8 Rocket (supercluster)
