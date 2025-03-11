@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -1590,3 +1590,4 @@
 - **Mar 11, 06:11 AM** - Starship destroyed on second consecutive test flight (spacenews)
 - **Mar 11, 06:25 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 06:27 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 06:29 AM** - China Will Launch the Long March 8 Rocket (supercluster)
