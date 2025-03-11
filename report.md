@@ -5,7 +5,7 @@
 | spacenews | 19 | 22 | 27 | 48 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 16 | 35 |
-| aidy | 1 | 2 | 15 | 35 |
+| aidy | 1 | 2 | 16 | 36 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -1585,3 +1585,4 @@
 - **Mar 11, 05:23 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 05:25 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 05:27 AM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
+- **Mar 11, 05:41 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
