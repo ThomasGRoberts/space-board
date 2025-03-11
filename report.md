@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 26 | 21 | 49 |
 | nyt | 3 | 3 | 17 | 34 |
-| breaking_defense | 0 | 2 | 16 | 34 |
+| breaking_defense | 0 | 2 | 15 | 34 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -1616,3 +1616,4 @@
 - **Mar 11, 04:35 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 11, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
