@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 27 | 48 |
+| spacenews | 19 | 22 | 28 | 49 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -1620,3 +1620,4 @@
 - **Mar 11, 09:07 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 11, 09:21 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
 - **Mar 11, 09:37 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
+- **Mar 11, 09:51 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
