@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 22 | 27 | 49 |
-| nyt | 3 | 3 | 17 | 36 |
+| nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -1584,3 +1584,4 @@
 - **Mar 11, 05:21 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 05:23 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 05:25 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 05:27 AM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
