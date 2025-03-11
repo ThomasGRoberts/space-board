@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 36 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1574,20 +1574,8 @@
 - **Mar 11, 01:45 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 11, 02:03 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 11, 02:31 AM** - Intelsat CEO reveals separate bet on Lynk Global amid SES merger (spacenews)
-- **Mar 11, 02:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:56 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 03:02 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 03:17 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:35 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 11, 03:50 AM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
-- **Mar 11, 04:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 04:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 04:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 04:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 11, 04:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 11, 04:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
