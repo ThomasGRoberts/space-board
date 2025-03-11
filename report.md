@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -1588,3 +1588,4 @@
 - **Mar 11, 05:41 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 11, 05:55 AM** - AST, Kayhan, LeoLabs team to demo capability to reduce Space Force satellite tracking times (breaking_defense)
 - **Mar 11, 06:11 AM** - Starship destroyed on second consecutive test flight (spacenews)
+- **Mar 11, 06:25 AM** - China Will Launch the Long March 8 Rocket (supercluster)
