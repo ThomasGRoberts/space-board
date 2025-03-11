@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 15 | 33 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -1657,3 +1657,4 @@
 - **Mar 11, 01:53 PM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
 - **Mar 11, 02:16 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 11, 02:42 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
+- **Mar 11, 03:05 PM** - China Will Launch the Long March 8 Rocket (supercluster)
