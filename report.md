@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 29 | 22 | 50 |
-| nyt | 1 | 4 | 16 | 34 |
+| nyt | 1 | 4 | 17 | 35 |
 | breaking_defense | 1 | 3 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 32 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -1668,3 +1668,4 @@
 - **Mar 11, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 11, 11:51 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
