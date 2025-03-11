@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 21 | 27 | 49 |
+| spacenews | 18 | 21 | 28 | 50 |
 | nyt | 3 | 3 | 19 | 38 |
 | breaking_defense | 2 | 2 | 17 | 37 |
 | aidy | 1 | 2 | 17 | 37 |
@@ -1683,3 +1683,4 @@
 - **Mar 11, 01:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 11, 01:17 AM** - Intuitive Machines Athena Moon Lander Dies After Toppling Over (nyt)
 - **Mar 11, 01:32 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 11, 01:45 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
