@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 26 | 21 | 49 |
-| nyt | 3 | 3 | 17 | 35 |
+| nyt | 3 | 3 | 17 | 34 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1614,3 +1614,4 @@
 - **Mar 11, 03:49 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 11, 04:05 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
 - **Mar 11, 04:35 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 11, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
