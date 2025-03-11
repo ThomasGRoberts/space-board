@@ -5,7 +5,7 @@
 | spacenews | 14 | 26 | 25 | 50 |
 | nyt | 3 | 3 | 17 | 35 |
 | breaking_defense | 0 | 2 | 16 | 35 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -1675,3 +1675,4 @@
 - **Mar 11, 04:29 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 04:31 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 04:33 PM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 04:35 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
