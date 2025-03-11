@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 29 | 22 | 51 |
+| spacenews | 10 | 29 | 22 | 50 |
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 32 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -1661,3 +1661,4 @@
 - **Mar 11, 10:55 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 11:09 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
 - **Mar 11, 11:23 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 11, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
