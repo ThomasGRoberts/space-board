@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -1621,3 +1621,4 @@
 - **Mar 11, 09:21 AM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
 - **Mar 11, 09:37 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 11, 09:51 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
+- **Mar 11, 10:05 AM** - China Will Launch the Long March 8 Rocket (supercluster)
