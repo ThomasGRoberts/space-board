@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35cc067eebfdcb2b223e3ceb4b06cb38",
+    "trigger_count": 0,
+    "current_item_id": "ee61ffdfb6c1c68484a4e94d99def40d",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4330,6 +4330,27 @@
             "shown_at": [
                 "2025-03-11T12:05:41.855546Z"
             ]
+        },
+        {
+            "id": "ee61ffdfb6c1c68484a4e94d99def40d",
+            "source": "spacenews",
+            "text": "Bringing Mars to Earth: solving Mars Sample Return",
+            "source_link": "https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T13:06:19.232717Z",
+            "shown_at": [
+                "2025-03-11T13:06:19.741577Z"
+            ]
+        },
+        {
+            "id": "13ac0f0d65589228ed5db3b402d51e4e",
+            "source": "spacenews",
+            "text": "Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices",
+            "source_link": "https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T13:06:19.232768Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 22 | 25 | 48 |
+| spacenews | 17 | 24 | 26 | 49 |
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 1 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -1651,3 +1651,4 @@
 - **Mar 11, 12:46 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 12:50 PM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 12:51 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
+- **Mar 11, 01:06 PM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
