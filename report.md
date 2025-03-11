@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 29 | 22 | 50 |
 | nyt | 1 | 4 | 16 | 35 |
-| breaking_defense | 1 | 3 | 16 | 34 |
-| aidy | 1 | 2 | 16 | 32 |
+| breaking_defense | 1 | 3 | 16 | 33 |
+| aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -1658,3 +1658,4 @@
 - **Mar 11, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 10:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 10:41 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
+- **Mar 11, 10:55 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
