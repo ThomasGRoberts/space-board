@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a32a7b289d9d16411247f003f8fecd3c",
+    "trigger_count": 0,
+    "current_item_id": "6c187fe2a27cd0f71b70538d99afa5b5",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4323,6 +4323,20 @@
             "fetched_datetime": "2025-03-11T13:39:55.161343Z",
             "shown_at": [
                 "2025-03-11T13:53:30.977759Z"
+            ]
+        },
+        {
+            "id": "6c187fe2a27cd0f71b70538d99afa5b5",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 8 Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-82",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-11T16:40:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-11T16:49:44.592966Z",
+            "shown_at": [
+                "2025-03-11T16:49:45.622482Z"
             ]
         }
     ]

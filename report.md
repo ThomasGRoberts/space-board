@@ -6,6 +6,7 @@
 | nyt | 3 | 3 | 17 | 35 |
 | breaking_defense | 0 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1613,3 +1614,4 @@
 - **Mar 11, 03:49 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 11, 04:05 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
 - **Mar 11, 04:35 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 11, 04:49 PM** - China Will Launch the Long March 8 Rocket (supercluster)
