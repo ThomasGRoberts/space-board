@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 29 | 22 | 51 |
 | nyt | 1 | 4 | 16 | 35 |
-| breaking_defense | 1 | 3 | 16 | 33 |
-| aidy | 1 | 2 | 16 | 33 |
+| breaking_defense | 1 | 3 | 17 | 34 |
+| aidy | 1 | 2 | 16 | 32 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -1660,3 +1660,4 @@
 - **Mar 11, 10:41 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 11, 10:55 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 11:09 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
+- **Mar 11, 11:23 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
