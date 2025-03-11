@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 29 | 22 | 50 |
+| spacenews | 11 | 29 | 23 | 51 |
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -1659,3 +1659,4 @@
 - **Mar 11, 10:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 10:41 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 11, 10:55 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
+- **Mar 11, 11:09 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
