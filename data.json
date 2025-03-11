@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "f43f23d9ad135fd1413497d66c00e547",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4342,6 +4342,27 @@
                 "2025-03-11T17:47:31.806001Z",
                 "2025-03-11T17:49:12.360002Z"
             ]
+        },
+        {
+            "id": "f43f23d9ad135fd1413497d66c00e547",
+            "source": "spacenews",
+            "text": "Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics",
+            "source_link": "https://spacenews.com/arianespace-sees-stronger-institutional-demand-for-ariane-6-amid-shifting-geopolitics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T17:52:12.881097Z",
+            "shown_at": [
+                "2025-03-11T17:52:13.312470Z"
+            ]
+        },
+        {
+            "id": "51da7c06ac823867cbc37d1002f47ac2",
+            "source": "spacenews",
+            "text": "Viasat and Space42 co-invest in shared direct-to-device satellite prototype",
+            "source_link": "https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T17:52:12.881167Z"
         }
     ]
 }
