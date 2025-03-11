@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 22 | 27 | 49 |
 | nyt | 3 | 3 | 18 | 37 |
-| breaking_defense | 1 | 2 | 16 | 35 |
+| breaking_defense | 1 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -1642,3 +1642,4 @@
 - **Mar 11, 11:31 AM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 11, 11:48 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 11, 12:05 PM** - Momentus and Solstar to offer on-demand communications for Vigoride (spacenews)
+- **Mar 11, 12:19 PM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
