@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 21 | 28 | 49 |
+| spacenews | 19 | 21 | 29 | 50 |
 | nyt | 3 | 4 | 19 | 38 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 37 |
@@ -1672,3 +1672,4 @@
 - **Mar 10, 11:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 10, 11:59 PM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
 - **Mar 11, 12:15 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 11, 12:29 AM** - Questions linger about future of TraCSS (spacenews)
