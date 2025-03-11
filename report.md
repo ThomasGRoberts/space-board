@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 36 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -1585,3 +1585,4 @@
 - **Mar 11, 03:17 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:35 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 11, 03:50 AM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
+- **Mar 11, 04:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
