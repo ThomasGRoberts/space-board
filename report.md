@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 26 | 25 | 51 |
 | nyt | 3 | 3 | 18 | 36 |
-| breaking_defense | 0 | 2 | 15 | 34 |
+| breaking_defense | 0 | 2 | 16 | 35 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -1667,3 +1667,4 @@
 - **Mar 11, 03:19 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:33 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
 - **Mar 11, 03:49 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
+- **Mar 11, 04:05 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
