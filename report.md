@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 28 | 49 |
-| nyt | 3 | 3 | 17 | 36 |
+| spacenews | 19 | 22 | 27 | 49 |
+| nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -1595,3 +1595,4 @@
 - **Mar 11, 06:33 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 06:35 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 06:37 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 06:39 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
