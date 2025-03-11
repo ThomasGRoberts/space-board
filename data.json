@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ee61ffdfb6c1c68484a4e94d99def40d",
+    "trigger_count": 0,
+    "current_item_id": "13ac0f0d65589228ed5db3b402d51e4e",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4348,9 +4348,12 @@
             "source": "spacenews",
             "text": "Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices",
             "source_link": "https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-11T13:06:19.232768Z"
+            "fetched_datetime": "2025-03-11T13:06:19.232768Z",
+            "shown_at": [
+                "2025-03-11T13:22:09.830965Z"
+            ]
         }
     ]
 }
