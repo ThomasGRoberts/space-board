@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 22 | 27 | 49 |
+| spacenews | 18 | 21 | 27 | 48 |
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -1623,3 +1623,4 @@
 - **Mar 11, 09:51 AM** - U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers (spacenews)
 - **Mar 11, 10:05 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 10:08 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 10:11 AM** - China Will Launch the Long March 8 Rocket (supercluster)
