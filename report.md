@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -1610,3 +1610,4 @@
 - **Mar 11, 08:03 AM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 11, 08:17 AM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 11, 08:34 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
+- **Mar 11, 08:51 AM** - China Will Launch the Long March 8 Rocket (supercluster)
