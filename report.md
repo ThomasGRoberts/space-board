@@ -5,7 +5,7 @@
 | spacenews | 11 | 29 | 22 | 51 |
 | nyt | 2 | 4 | 17 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -1647,3 +1647,4 @@
 - **Mar 11, 09:00 PM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 11, 09:15 PM** - Fuel leak blamed for Falcon 9 booster loss after landing (spacenews)
 - **Mar 11, 09:29 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
+- **Mar 11, 09:43 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
