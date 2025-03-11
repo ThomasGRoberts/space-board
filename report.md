@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 22 | 28 | 49 |
+| spacenews | 19 | 22 | 29 | 50 |
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 36 |
@@ -1584,3 +1584,4 @@
 - **Mar 11, 03:02 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 03:17 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 11, 03:35 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
+- **Mar 11, 03:50 AM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
