@@ -5,7 +5,7 @@
 | spacenews | 19 | 22 | 28 | 49 |
 | nyt | 3 | 3 | 19 | 38 |
 | breaking_defense | 2 | 2 | 17 | 36 |
-| aidy | 1 | 2 | 15 | 36 |
+| aidy | 1 | 2 | 16 | 37 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -1582,3 +1582,4 @@
 - **Mar 11, 02:56 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 11, 03:02 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
+- **Mar 11, 03:17 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
