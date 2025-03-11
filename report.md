@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 29 | 22 | 51 |
 | nyt | 2 | 3 | 16 | 34 |
-| breaking_defense | 0 | 2 | 16 | 33 |
+| breaking_defense | 1 | 3 | 17 | 34 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -1636,3 +1636,4 @@
 - **Mar 11, 07:47 PM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
 - **Mar 11, 08:02 PM** - ULA boss says Vulcan ready for multiple launches in 2025 (spacenews)
 - **Mar 11, 08:17 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
+- **Mar 11, 08:31 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)

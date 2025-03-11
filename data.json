@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-11T00:01:48.146359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e74f772ce94d7d34eed0b5537a622fca",
+    "trigger_count": 0,
+    "current_item_id": "3e886219c71608468437f58e90d1da74",
     "data": [
         {
             "id": "bbbcd3c4c67b9210eb49f91053480988",
@@ -4391,6 +4391,18 @@
             "fetched_datetime": "2025-03-11T18:49:36.004757Z",
             "shown_at": [
                 "2025-03-11T18:49:36.370501Z"
+            ]
+        },
+        {
+            "id": "3e886219c71608468437f58e90d1da74",
+            "source": "breaking_defense",
+            "text": "Space Systems Command reviewing expensive legacy programs for possible commercial shift",
+            "source_link": "https://breakingdefense.com/2025/03/ssc-reviewing-expensive-legacy-programs-for-possible-commercial-shift/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-11T20:31:56.462298Z",
+            "shown_at": [
+                "2025-03-11T20:31:56.947565Z"
             ]
         }
     ]
