@@ -5,7 +5,7 @@
 | spacenews | 19 | 22 | 28 | 49 |
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 2 | 2 | 17 | 35 |
-| aidy | 1 | 2 | 15 | 35 |
+| aidy | 2 | 3 | 16 | 36 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -1606,3 +1606,4 @@
 - **Mar 11, 07:43 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 07:45 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 07:47 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 07:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
