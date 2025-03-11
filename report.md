@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 17 | 37 |
 | breaking_defense | 2 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -1612,3 +1612,4 @@
 - **Mar 11, 08:34 AM** - Patenting space: promoting innovations and patents for exploring our final frontier (spacenews)
 - **Mar 11, 08:51 AM** - China Will Launch the Long March 8 Rocket (supercluster)
 - **Mar 11, 08:53 AM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 08:55 AM** - China Will Launch the Long March 8 Rocket (supercluster)
