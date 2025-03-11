@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -1644,3 +1644,4 @@
 - **Mar 11, 12:05 PM** - Momentus and Solstar to offer on-demand communications for Vigoride (spacenews)
 - **Mar 11, 12:19 PM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 11, 12:35 PM** - China Will Launch the Long March 8 Rocket (supercluster)
+- **Mar 11, 12:37 PM** - China Will Launch the Long March 8 Rocket (supercluster)
