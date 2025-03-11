@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 26 | 25 | 50 |
+| spacenews | 16 | 26 | 26 | 51 |
 | nyt | 3 | 3 | 17 | 36 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1654,3 +1654,4 @@
 - **Mar 11, 01:06 PM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
 - **Mar 11, 01:22 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 11, 01:39 PM** - Working around ongoing supply-chain bottlenecks (spacenews)
+- **Mar 11, 01:53 PM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
