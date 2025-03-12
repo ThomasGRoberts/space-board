@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9acd053480c92582e3830a6131109992",
+    "trigger_count": 0,
+    "current_item_id": "d8fdcca59fd5a59e9c2e956100f6ba42",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4584,6 +4584,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-03-12T23:41:29.001129Z"
+        },
+        {
+            "id": "d8fdcca59fd5a59e9c2e956100f6ba42",
+            "source": "nyt",
+            "text": "SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/03/12/science/nasa-spacex-astronauts-iss-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:55:27.773828Z",
+            "shown_at": [
+                "2025-03-12T23:55:28.260348Z"
+            ]
+        },
+        {
+            "id": "54b7db14a39e8934a999f8618a8d5af2",
+            "source": "nyt",
+            "text": "SpaceX Launches NASA’s SPHEREx and PUNCH Missions",
+            "source_link": "https://www.nytimes.com/2025/03/11/science/spacex-nasa-spherex-punch-launch.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:55:27.773876Z"
         }
     ]
 }
