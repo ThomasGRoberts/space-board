@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6ee1500e9b7ddf8c6464501128c7b1c1",
+    "trigger_count": 0,
+    "current_item_id": "05c00c4021439e825aaae577a95c4a50",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4490,6 +4490,18 @@
                 "2025-03-12T00:13:34.148441Z",
                 "2025-03-12T00:15:41.823057Z",
                 "2025-03-12T00:17:32.179366Z"
+            ]
+        },
+        {
+            "id": "05c00c4021439e825aaae577a95c4a50",
+            "source": "spacenews",
+            "text": "Rocket Lab to expand into laser communications with Mynaric acquisition",
+            "source_link": "https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T02:05:52.097242Z",
+            "shown_at": [
+                "2025-03-12T02:05:53.035564Z"
             ]
         }
     ]
