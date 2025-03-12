@@ -5,7 +5,7 @@
 | spacenews | 2 | 13 | 4 | 27 |
 | nyt | 0 | 1 | 3 | 19 |
 | breaking_defense | 0 | 1 | 3 | 19 |
-| aidy | 0 | 1 | 2 | 18 |
+| aidy | 1 | 2 | 3 | 19 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -1647,3 +1647,4 @@
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 12, 11:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 12, 11:13 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
