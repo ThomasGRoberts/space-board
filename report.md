@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 29 | 23 | 51 |
 | nyt | 1 | 4 | 16 | 35 |
-| breaking_defense | 1 | 3 | 15 | 33 |
+| breaking_defense | 1 | 3 | 16 | 34 |
 | supercluster | 2 | 2 | 47 | 47 |
 | aidy | 1 | 2 | 16 | 32 |
 
@@ -1690,3 +1690,4 @@
 - **Mar 12, 01:35 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
 - **Mar 12, 01:49 AM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
 - **Mar 12, 02:05 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
+- **Mar 12, 02:19 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
