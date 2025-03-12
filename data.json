@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "445d50ffe24ed14c65be11d2003cd62e",
+    "trigger_count": 0,
+    "current_item_id": "9acd053480c92582e3830a6131109992",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4482,6 +4482,108 @@
             "shown_at": [
                 "2025-03-12T23:27:38.893449Z"
             ]
+        },
+        {
+            "id": "9acd053480c92582e3830a6131109992",
+            "source": "spacenews",
+            "text": "Cognitive Space claims two SDA awards",
+            "source_link": "https://spacenews.com/cognitive-space-claims-two-sda-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000751Z",
+            "shown_at": [
+                "2025-03-12T23:41:29.417346Z"
+            ]
+        },
+        {
+            "id": "d0058a098d05ee428c4e80c69347877b",
+            "source": "spacenews",
+            "text": "Space Development Agency adjusts satellite procurement strategy",
+            "source_link": "https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000816Z"
+        },
+        {
+            "id": "ec70443000284788fcface0d655caf4b",
+            "source": "spacenews",
+            "text": "China’s expanding footprint in geostationary orbit raises security concerns",
+            "source_link": "https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000862Z"
+        },
+        {
+            "id": "d1cab4179191396a69394abfecc909af",
+            "source": "spacenews",
+            "text": "Isar Aerospace wins Norwegian Space Agency launch contract",
+            "source_link": "https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000900Z"
+        },
+        {
+            "id": "04b6b9ba66c02bc03ba24db3a6c64eac",
+            "source": "spacenews",
+            "text": "Manufacturing defect blamed for Vulcan solid rocket motor anomaly",
+            "source_link": "https://spacenews.com/manufacturing-defect-blamed-for-vulcan-solid-rocket-motor-anomaly/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000937Z"
+        },
+        {
+            "id": "60000d23e272f4949f8ffe144bbbbe7a",
+            "source": "spacenews",
+            "text": "America’s next Sputnik moment is already here",
+            "source_link": "https://spacenews.com/americas-next-sputnik-moment-is-already-here/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000971Z"
+        },
+        {
+            "id": "cc7cb1d22e544aebce3bf7b87e0cf9a4",
+            "source": "spacenews",
+            "text": "Where are we on the journey to a lunar economy?",
+            "source_link": "https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001004Z"
+        },
+        {
+            "id": "0680a64ac8b9171b5402ea9ad08bf275",
+            "source": "spacenews",
+            "text": "China opens 2028 Mars sample return mission to international cooperation ",
+            "source_link": "https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001036Z"
+        },
+        {
+            "id": "2eb8b91c3d3c34e762d7cbea1c4f61a1",
+            "source": "spacenews",
+            "text": "Intelsat secures first customer for communications system aimed at border security",
+            "source_link": "https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001067Z"
+        },
+        {
+            "id": "fd0f2f175e9eaaa338f5fa5d725ed2dc",
+            "source": "spacenews",
+            "text": "Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator",
+            "source_link": "https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001098Z"
+        },
+        {
+            "id": "63d4183ec3a1990b6941250f35f3f1f9",
+            "source": "spacenews",
+            "text": "Falcon 9 launches NASA astrophysics and heliophysics missions",
+            "source_link": "https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001129Z"
         }
     ]
 }
