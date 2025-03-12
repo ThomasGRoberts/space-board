@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | supercluster | 2 | 2 | 47 | 47 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 
 # Shown Order
 
@@ -1687,3 +1687,4 @@
 - **Mar 12, 01:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 01:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 01:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 12, 01:35 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
