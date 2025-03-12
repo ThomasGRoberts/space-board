@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 30 | 23 | 51 |
-| nyt | 1 | 4 | 17 | 35 |
+| nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | aidy | 1 | 2 | 16 | 32 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -1654,3 +1654,4 @@
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 12, 03:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 12, 03:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
