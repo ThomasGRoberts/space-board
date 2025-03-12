@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 29 | 21 | 50 |
+| spacenews | 10 | 29 | 22 | 51 |
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | supercluster | 2 | 2 | 40 | 40 |
@@ -1677,3 +1677,4 @@
 - **Mar 12, 12:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 12, 12:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 12, 12:19 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 12, 12:33 AM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
