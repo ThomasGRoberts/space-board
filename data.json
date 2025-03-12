@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4446,17 +4446,17 @@
             ]
         },
         {
-            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Missions for NASA",
-            "source_link": "https://www.supercluster.com/launches/spherex-and-punch",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-12T03:10:00.000Z",
+            "target_datetime": "2025-03-12T03:48:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-03-12T04:09:34.789353Z",
+            "fetched_datetime": "2025-03-12T04:11:39.692249Z",
             "shown_at": [
-                "2025-03-12T04:09:35.933709Z"
+                "2025-03-12T04:11:40.250133Z"
             ]
         }
     ]
