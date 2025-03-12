@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 30 | 23 | 51 |
-| nyt | 1 | 4 | 16 | 34 |
+| nyt | 1 | 4 | 17 | 35 |
 | breaking_defense | 1 | 3 | 16 | 34 |
 | supercluster | 2 | 2 | 47 | 47 |
 | aidy | 1 | 2 | 16 | 32 |
@@ -1692,3 +1692,4 @@
 - **Mar 12, 02:05 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
 - **Mar 12, 02:19 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
+- **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
