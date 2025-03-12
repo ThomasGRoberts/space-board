@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
+    "trigger_count": 0,
+    "current_item_id": "40ceffd03d76e8d296bdf6d12738c5fd",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4503,6 +4503,18 @@
             "fetched_datetime": "2025-03-12T02:05:52.097242Z",
             "shown_at": [
                 "2025-03-12T02:05:53.035564Z"
+            ]
+        },
+        {
+            "id": "40ceffd03d76e8d296bdf6d12738c5fd",
+            "source": "spacenews",
+            "text": "Boeing remains committed to space business",
+            "source_link": "https://spacenews.com/boeing-remains-committed-to-space-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T02:33:05.433125Z",
+            "shown_at": [
+                "2025-03-12T02:33:05.979644Z"
             ]
         }
     ]
