@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 28 | 21 | 49 |
+| spacenews | 10 | 28 | 22 | 50 |
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | supercluster | 2 | 2 | 47 | 47 |
@@ -1688,3 +1688,4 @@
 - **Mar 12, 01:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 01:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 01:35 AM** - NASA's Artemis Program Gains Bipartisan Support Amid Strategic Competition with China (aidy)
+- **Mar 12, 01:49 AM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
