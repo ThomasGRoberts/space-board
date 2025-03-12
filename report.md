@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 16 | 35 |
 | breaking_defense | 1 | 3 | 16 | 33 |
 | aidy | 1 | 2 | 16 | 32 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1636,13 +1636,6 @@
 - **Mar 11, 11:09 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
 - **Mar 11, 11:23 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 11, 11:51 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
-- **Mar 12, 12:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 12:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 12, 12:19 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 12, 12:33 AM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
 - **Mar 12, 12:49 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
@@ -1653,8 +1646,4 @@
 - **Mar 12, 02:19 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
-- **Mar 12, 03:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 03:03 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 03:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 03:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
-- **Mar 12, 03:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Mar 12, 03:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
