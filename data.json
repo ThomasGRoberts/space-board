@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e114209e2cb106b6e1b64980f961c257",
+    "trigger_count": 0,
+    "current_item_id": "445d50ffe24ed14c65be11d2003cd62e",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4469,6 +4469,18 @@
             "fetched_datetime": "2025-03-12T23:13:31.678243Z",
             "shown_at": [
                 "2025-03-12T23:13:32.267953Z"
+            ]
+        },
+        {
+            "id": "445d50ffe24ed14c65be11d2003cd62e",
+            "source": "breaking_defense",
+            "text": "Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats",
+            "source_link": "https://breakingdefense.com/2025/03/awaiting-space-force-certification-ula-says-future-missions-could-aim-to-baffle-chinese-watcher-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:27:38.341181Z",
+            "shown_at": [
+                "2025-03-12T23:27:38.893449Z"
             ]
         }
     ]

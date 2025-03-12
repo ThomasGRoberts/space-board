@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 4 | 26 |
 | nyt | 0 | 1 | 3 | 19 |
-| breaking_defense | 0 | 1 | 2 | 19 |
+| breaking_defense | 1 | 2 | 3 | 20 |
 | aidy | 1 | 2 | 3 | 19 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -1648,3 +1648,4 @@
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
 - **Mar 12, 11:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 11:13 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 12, 11:27 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
