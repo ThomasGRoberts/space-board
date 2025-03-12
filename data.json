@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 5,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 6,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
@@ -4446,17 +4446,17 @@
             ]
         },
         {
-            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an International Crew to the ISS",
-            "source_link": "https://www.supercluster.com/launches/spacex-crew-10",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-12T23:48:00.000Z",
-            "time_remaining": "0d 00h 38m",
-            "fetched_datetime": "2025-03-12T23:09:43.237182Z",
+            "target_datetime": "2025-03-13T02:20:00.000Z",
+            "time_remaining": "0d 03h 08m",
+            "fetched_datetime": "2025-03-12T23:11:40.055618Z",
             "shown_at": [
-                "2025-03-12T23:09:44.151243Z"
+                "2025-03-12T23:11:40.464779Z"
             ]
         }
     ]
