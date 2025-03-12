@@ -5,7 +5,7 @@
 | spacenews | 10 | 26 | 16 | 42 |
 | nyt | 1 | 4 | 10 | 27 |
 | breaking_defense | 1 | 2 | 9 | 26 |
-| aidy | 0 | 1 | 9 | 24 |
+| aidy | 0 | 1 | 8 | 24 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -1646,4 +1646,4 @@
 - **Mar 12, 02:19 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
-- **Mar 12, 12:49 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Mar 12, 12:52 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
