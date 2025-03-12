@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 29 | 22 | 50 |
 | nyt | 1 | 4 | 16 | 35 |
-| breaking_defense | 1 | 3 | 15 | 33 |
+| breaking_defense | 1 | 3 | 16 | 34 |
 | supercluster | 2 | 2 | 40 | 40 |
 | aidy | 1 | 2 | 16 | 32 |
 
@@ -1678,3 +1678,4 @@
 - **Mar 12, 12:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Mar 12, 12:19 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 12, 12:33 AM** - Make America test again: How rapid, iterative testing will advance hypersonic development (spacenews)
+- **Mar 12, 12:49 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
