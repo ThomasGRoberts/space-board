@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63d4183ec3a1990b6941250f35f3f1f9",
+    "trigger_count": 0,
+    "current_item_id": "54b7db14a39e8934a999f8618a8d5af2",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
             "source": "nyt",
             "text": "SpaceX Launches NASA’s SPHEREx and PUNCH Missions",
             "source_link": "https://www.nytimes.com/2025/03/11/science/spacex-nasa-spherex-punch-launch.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-12T23:55:27.773876Z"
+            "fetched_datetime": "2025-03-12T23:55:27.773876Z",
+            "shown_at": [
+                "2025-03-13T00:23:46.875441Z"
+            ]
         },
         {
             "id": "d8fdcca59fd5a59e9c2e956100f6ba42",
