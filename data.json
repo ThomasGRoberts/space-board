@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04b6b9ba66c02bc03ba24db3a6c64eac",
+    "trigger_count": 0,
+    "current_item_id": "d1cab4179191396a69394abfecc909af",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -117,9 +117,12 @@
             "source": "spacenews",
             "text": "Isar Aerospace wins Norwegian Space Agency launch contract",
             "source_link": "https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000900Z"
+            "fetched_datetime": "2025-03-12T23:41:29.000900Z",
+            "shown_at": [
+                "2025-03-13T02:05:46.984393Z"
+            ]
         },
         {
             "id": "ec70443000284788fcface0d655caf4b",
