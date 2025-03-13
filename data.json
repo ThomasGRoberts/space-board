@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d8fdcca59fd5a59e9c2e956100f6ba42",
+    "trigger_count": 0,
+    "current_item_id": "63d4183ec3a1990b6941250f35f3f1f9",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -30,9 +30,12 @@
             "source": "spacenews",
             "text": "Falcon 9 launches NASA astrophysics and heliophysics missions",
             "source_link": "https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001129Z"
+            "fetched_datetime": "2025-03-12T23:41:29.001129Z",
+            "shown_at": [
+                "2025-03-13T00:09:45.954140Z"
+            ]
         },
         {
             "id": "fd0f2f175e9eaaa338f5fa5d725ed2dc",

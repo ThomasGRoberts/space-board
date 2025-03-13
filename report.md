@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 3 | 19 |
-| spacenews | 13 | 23 | 5 | 27 |
+| spacenews | 13 | 23 | 6 | 28 |
 | breaking_defense | 1 | 2 | 3 | 19 |
 | aidy | 1 | 2 | 3 | 19 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1651,3 +1651,4 @@
 - **Mar 12, 11:27 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 12, 11:41 PM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 12, 11:55 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
+- **Mar 13, 12:09 AM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
