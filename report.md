@@ -6,7 +6,6 @@
 | spacenews | 12 | 23 | 11 | 34 |
 | breaking_defense | 1 | 2 | 1 | 17 |
 | aidy | 1 | 2 | 1 | 17 |
-| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1646,7 +1645,6 @@
 - **Mar 12, 02:19 AM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 02:47 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
-- **Mar 12, 11:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 12, 11:13 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 12, 11:27 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 12, 11:41 PM** - Cognitive Space claims two SDA awards (spacenews)
