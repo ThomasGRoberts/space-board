@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 4 | 20 |
-| spacenews | 13 | 23 | 6 | 28 |
+| spacenews | 13 | 23 | 7 | 29 |
 | breaking_defense | 1 | 2 | 2 | 18 |
 | aidy | 1 | 2 | 2 | 18 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1654,3 +1654,4 @@
 - **Mar 13, 12:09 AM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
 - **Mar 13, 12:23 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 13, 12:37 AM** - Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator (spacenews)
+- **Mar 13, 12:51 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
