@@ -1,9 +1,194 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-12T00:01:58.765909+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
+    "trigger_count": 3,
     "current_item_id": "d8fdcca59fd5a59e9c2e956100f6ba42",
     "data": [
+        {
+            "id": "54b7db14a39e8934a999f8618a8d5af2",
+            "source": "nyt",
+            "text": "SpaceX Launches NASA’s SPHEREx and PUNCH Missions",
+            "source_link": "https://www.nytimes.com/2025/03/11/science/spacex-nasa-spherex-punch-launch.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:55:27.773876Z"
+        },
+        {
+            "id": "d8fdcca59fd5a59e9c2e956100f6ba42",
+            "source": "nyt",
+            "text": "SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/03/12/science/nasa-spacex-astronauts-iss-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:55:27.773828Z",
+            "shown_at": [
+                "2025-03-12T23:55:28.260348Z"
+            ]
+        },
+        {
+            "id": "63d4183ec3a1990b6941250f35f3f1f9",
+            "source": "spacenews",
+            "text": "Falcon 9 launches NASA astrophysics and heliophysics missions",
+            "source_link": "https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001129Z"
+        },
+        {
+            "id": "fd0f2f175e9eaaa338f5fa5d725ed2dc",
+            "source": "spacenews",
+            "text": "Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator",
+            "source_link": "https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001098Z"
+        },
+        {
+            "id": "2eb8b91c3d3c34e762d7cbea1c4f61a1",
+            "source": "spacenews",
+            "text": "Intelsat secures first customer for communications system aimed at border security",
+            "source_link": "https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001067Z"
+        },
+        {
+            "id": "0680a64ac8b9171b5402ea9ad08bf275",
+            "source": "spacenews",
+            "text": "China opens 2028 Mars sample return mission to international cooperation ",
+            "source_link": "https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001036Z"
+        },
+        {
+            "id": "cc7cb1d22e544aebce3bf7b87e0cf9a4",
+            "source": "spacenews",
+            "text": "Where are we on the journey to a lunar economy?",
+            "source_link": "https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.001004Z"
+        },
+        {
+            "id": "60000d23e272f4949f8ffe144bbbbe7a",
+            "source": "spacenews",
+            "text": "America’s next Sputnik moment is already here",
+            "source_link": "https://spacenews.com/americas-next-sputnik-moment-is-already-here/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000971Z"
+        },
+        {
+            "id": "04b6b9ba66c02bc03ba24db3a6c64eac",
+            "source": "spacenews",
+            "text": "Manufacturing defect blamed for Vulcan solid rocket motor anomaly",
+            "source_link": "https://spacenews.com/manufacturing-defect-blamed-for-vulcan-solid-rocket-motor-anomaly/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000937Z"
+        },
+        {
+            "id": "d1cab4179191396a69394abfecc909af",
+            "source": "spacenews",
+            "text": "Isar Aerospace wins Norwegian Space Agency launch contract",
+            "source_link": "https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000900Z"
+        },
+        {
+            "id": "ec70443000284788fcface0d655caf4b",
+            "source": "spacenews",
+            "text": "China’s expanding footprint in geostationary orbit raises security concerns",
+            "source_link": "https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000862Z"
+        },
+        {
+            "id": "d0058a098d05ee428c4e80c69347877b",
+            "source": "spacenews",
+            "text": "Space Development Agency adjusts satellite procurement strategy",
+            "source_link": "https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000816Z"
+        },
+        {
+            "id": "9acd053480c92582e3830a6131109992",
+            "source": "spacenews",
+            "text": "Cognitive Space claims two SDA awards",
+            "source_link": "https://spacenews.com/cognitive-space-claims-two-sda-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:41:29.000751Z",
+            "shown_at": [
+                "2025-03-12T23:41:29.417346Z"
+            ]
+        },
+        {
+            "id": "445d50ffe24ed14c65be11d2003cd62e",
+            "source": "breaking_defense",
+            "text": "Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats",
+            "source_link": "https://breakingdefense.com/2025/03/awaiting-space-force-certification-ula-says-future-missions-could-aim-to-baffle-chinese-watcher-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:27:38.341181Z",
+            "shown_at": [
+                "2025-03-12T23:27:38.893449Z"
+            ]
+        },
+        {
+            "id": "e114209e2cb106b6e1b64980f961c257",
+            "source": "aidy",
+            "text": "Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T23:13:31.678243Z",
+            "shown_at": [
+                "2025-03-12T23:13:32.267953Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-13T02:20:00.000Z",
+            "time_remaining": "0d 03h 08m",
+            "fetched_datetime": "2025-03-12T23:11:40.055618Z",
+            "shown_at": [
+                "2025-03-12T23:11:40.464779Z"
+            ]
+        },
+        {
+            "id": "40ceffd03d76e8d296bdf6d12738c5fd",
+            "source": "spacenews",
+            "text": "Boeing remains committed to space business",
+            "source_link": "https://spacenews.com/boeing-remains-committed-to-space-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T02:33:05.433125Z",
+            "shown_at": [
+                "2025-03-12T02:33:05.979644Z"
+            ]
+        },
+        {
+            "id": "05c00c4021439e825aaae577a95c4a50",
+            "source": "spacenews",
+            "text": "Rocket Lab to expand into laser communications with Mynaric acquisition",
+            "source_link": "https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-12T02:05:52.097242Z",
+            "shown_at": [
+                "2025-03-12T02:05:53.035564Z"
+            ]
+        },
         {
             "id": "4c4d72356701081039db25b9e4a6db82",
             "source": "spacenews",
@@ -4420,191 +4605,6 @@
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
             ]
-        },
-        {
-            "id": "05c00c4021439e825aaae577a95c4a50",
-            "source": "spacenews",
-            "text": "Rocket Lab to expand into laser communications with Mynaric acquisition",
-            "source_link": "https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T02:05:52.097242Z",
-            "shown_at": [
-                "2025-03-12T02:05:53.035564Z"
-            ]
-        },
-        {
-            "id": "40ceffd03d76e8d296bdf6d12738c5fd",
-            "source": "spacenews",
-            "text": "Boeing remains committed to space business",
-            "source_link": "https://spacenews.com/boeing-remains-committed-to-space-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T02:33:05.433125Z",
-            "shown_at": [
-                "2025-03-12T02:33:05.979644Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-13T02:20:00.000Z",
-            "time_remaining": "0d 03h 08m",
-            "fetched_datetime": "2025-03-12T23:11:40.055618Z",
-            "shown_at": [
-                "2025-03-12T23:11:40.464779Z"
-            ]
-        },
-        {
-            "id": "e114209e2cb106b6e1b64980f961c257",
-            "source": "aidy",
-            "text": "Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:13:31.678243Z",
-            "shown_at": [
-                "2025-03-12T23:13:32.267953Z"
-            ]
-        },
-        {
-            "id": "445d50ffe24ed14c65be11d2003cd62e",
-            "source": "breaking_defense",
-            "text": "Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats",
-            "source_link": "https://breakingdefense.com/2025/03/awaiting-space-force-certification-ula-says-future-missions-could-aim-to-baffle-chinese-watcher-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:27:38.341181Z",
-            "shown_at": [
-                "2025-03-12T23:27:38.893449Z"
-            ]
-        },
-        {
-            "id": "9acd053480c92582e3830a6131109992",
-            "source": "spacenews",
-            "text": "Cognitive Space claims two SDA awards",
-            "source_link": "https://spacenews.com/cognitive-space-claims-two-sda-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000751Z",
-            "shown_at": [
-                "2025-03-12T23:41:29.417346Z"
-            ]
-        },
-        {
-            "id": "d0058a098d05ee428c4e80c69347877b",
-            "source": "spacenews",
-            "text": "Space Development Agency adjusts satellite procurement strategy",
-            "source_link": "https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000816Z"
-        },
-        {
-            "id": "ec70443000284788fcface0d655caf4b",
-            "source": "spacenews",
-            "text": "China’s expanding footprint in geostationary orbit raises security concerns",
-            "source_link": "https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000862Z"
-        },
-        {
-            "id": "d1cab4179191396a69394abfecc909af",
-            "source": "spacenews",
-            "text": "Isar Aerospace wins Norwegian Space Agency launch contract",
-            "source_link": "https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000900Z"
-        },
-        {
-            "id": "04b6b9ba66c02bc03ba24db3a6c64eac",
-            "source": "spacenews",
-            "text": "Manufacturing defect blamed for Vulcan solid rocket motor anomaly",
-            "source_link": "https://spacenews.com/manufacturing-defect-blamed-for-vulcan-solid-rocket-motor-anomaly/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000937Z"
-        },
-        {
-            "id": "60000d23e272f4949f8ffe144bbbbe7a",
-            "source": "spacenews",
-            "text": "America’s next Sputnik moment is already here",
-            "source_link": "https://spacenews.com/americas-next-sputnik-moment-is-already-here/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.000971Z"
-        },
-        {
-            "id": "cc7cb1d22e544aebce3bf7b87e0cf9a4",
-            "source": "spacenews",
-            "text": "Where are we on the journey to a lunar economy?",
-            "source_link": "https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001004Z"
-        },
-        {
-            "id": "0680a64ac8b9171b5402ea9ad08bf275",
-            "source": "spacenews",
-            "text": "China opens 2028 Mars sample return mission to international cooperation ",
-            "source_link": "https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001036Z"
-        },
-        {
-            "id": "2eb8b91c3d3c34e762d7cbea1c4f61a1",
-            "source": "spacenews",
-            "text": "Intelsat secures first customer for communications system aimed at border security",
-            "source_link": "https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001067Z"
-        },
-        {
-            "id": "fd0f2f175e9eaaa338f5fa5d725ed2dc",
-            "source": "spacenews",
-            "text": "Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator",
-            "source_link": "https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001098Z"
-        },
-        {
-            "id": "63d4183ec3a1990b6941250f35f3f1f9",
-            "source": "spacenews",
-            "text": "Falcon 9 launches NASA astrophysics and heliophysics missions",
-            "source_link": "https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001129Z"
-        },
-        {
-            "id": "d8fdcca59fd5a59e9c2e956100f6ba42",
-            "source": "nyt",
-            "text": "SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/03/12/science/nasa-spacex-astronauts-iss-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:55:27.773828Z",
-            "shown_at": [
-                "2025-03-12T23:55:28.260348Z"
-            ]
-        },
-        {
-            "id": "54b7db14a39e8934a999f8618a8d5af2",
-            "source": "nyt",
-            "text": "SpaceX Launches NASA’s SPHEREx and PUNCH Missions",
-            "source_link": "https://www.nytimes.com/2025/03/11/science/spacex-nasa-spherex-punch-launch.html",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:55:27.773876Z"
         }
     ]
 }
