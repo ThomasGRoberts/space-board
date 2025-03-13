@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 2 | 5 |
 | spacenews | 11 | 13 | 10 | 14 |
 | breaking_defense | 1 | 1 | 1 | 4 |
-| aidy | 1 | 1 | 1 | 3 |
+| aidy | 0 | 1 | 0 | 3 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -1660,4 +1660,4 @@
 - **Mar 13, 01:51 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 13, 02:05 AM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 13, 02:19 AM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
-- **Mar 13, 11:11 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Mar 13, 11:13 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
