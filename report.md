@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 3 | 20 |
-| spacenews | 13 | 23 | 7 | 29 |
+| spacenews | 13 | 23 | 8 | 30 |
 | breaking_defense | 1 | 2 | 2 | 18 |
 | aidy | 1 | 2 | 2 | 18 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1655,3 +1655,4 @@
 - **Mar 13, 12:23 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 13, 12:37 AM** - Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator (spacenews)
 - **Mar 13, 12:51 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
+- **Mar 13, 01:07 AM** - China opens 2028 Mars sample return mission to international cooperation  (spacenews)

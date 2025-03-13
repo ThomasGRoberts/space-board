@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2eb8b91c3d3c34e762d7cbea1c4f61a1",
+    "trigger_count": 0,
+    "current_item_id": "0680a64ac8b9171b5402ea9ad08bf275",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -69,9 +69,12 @@
             "source": "spacenews",
             "text": "China opens 2028 Mars sample return mission to international cooperation ",
             "source_link": "https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001036Z"
+            "fetched_datetime": "2025-03-12T23:41:29.001036Z",
+            "shown_at": [
+                "2025-03-13T01:07:29.174209Z"
+            ]
         },
         {
             "id": "cc7cb1d22e544aebce3bf7b87e0cf9a4",
