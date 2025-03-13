@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 3 | 19 |
-| spacenews | 13 | 23 | 8 | 30 |
+| spacenews | 13 | 23 | 9 | 31 |
 | breaking_defense | 1 | 2 | 2 | 18 |
 | aidy | 1 | 2 | 2 | 18 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1656,3 +1656,4 @@
 - **Mar 13, 12:37 AM** - Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator (spacenews)
 - **Mar 13, 12:51 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
 - **Mar 13, 01:07 AM** - China opens 2028 Mars sample return mission to international cooperation  (spacenews)
+- **Mar 13, 01:22 AM** - Where are we on the journey to a lunar economy? (spacenews)

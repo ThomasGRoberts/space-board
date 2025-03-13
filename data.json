@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-13T00:01:58.840376+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0680a64ac8b9171b5402ea9ad08bf275",
+    "trigger_count": 0,
+    "current_item_id": "cc7cb1d22e544aebce3bf7b87e0cf9a4",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -81,9 +81,12 @@
             "source": "spacenews",
             "text": "Where are we on the journey to a lunar economy?",
             "source_link": "https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001004Z"
+            "fetched_datetime": "2025-03-12T23:41:29.001004Z",
+            "shown_at": [
+                "2025-03-13T01:22:34.479231Z"
+            ]
         },
         {
             "id": "60000d23e272f4949f8ffe144bbbbe7a",
