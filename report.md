@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 4 | 20 |
-| spacenews | 13 | 23 | 5 | 27 |
+| spacenews | 13 | 23 | 6 | 28 |
 | breaking_defense | 1 | 2 | 3 | 19 |
 | aidy | 1 | 2 | 2 | 18 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1653,3 +1653,4 @@
 - **Mar 12, 11:55 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 13, 12:09 AM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
 - **Mar 13, 12:23 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
+- **Mar 13, 12:37 AM** - Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator (spacenews)
