@@ -1660,4 +1660,4 @@
 - **Mar 13, 01:51 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 13, 02:05 AM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 13, 02:19 AM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
-- **Mar 14, 10:57 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Mar 14, 10:59 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
