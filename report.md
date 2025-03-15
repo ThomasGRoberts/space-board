@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 8 | 8 |
 | spacenews | 1 | 1 | 5 | 5 |
-| breaking_defense | 1 | 1 | 4 | 4 |
+| breaking_defense | 1 | 1 | 5 | 5 |
 | aidy | 2 | 2 | 5 | 5 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -1690,3 +1690,4 @@
 - **Mar 15, 08:53 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 08:55 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 08:57 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 15, 09:13 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
