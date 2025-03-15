@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 6 | 6 |
+| nyt | 5 | 5 | 7 | 7 |
 | spacenews | 1 | 1 | 4 | 4 |
 | breaking_defense | 1 | 1 | 3 | 3 |
 | aidy | 1 | 1 | 3 | 3 |
@@ -1686,3 +1686,4 @@
 - **Mar 15, 06:22 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 06:25 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 06:27 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Mar 15, 06:29 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
