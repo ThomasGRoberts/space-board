@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 18 | 18 |
 | spacenews | 3 | 3 | 17 | 17 |
-| breaking_defense | 1 | 1 | 14 | 14 |
+| breaking_defense | 1 | 1 | 15 | 15 |
 | aidy | 2 | 2 | 15 | 15 |
 | supercluster | 2 | 2 | 57 | 57 |
 
@@ -1781,3 +1781,4 @@
 - **Mar 15, 10:25 PM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
 - **Mar 15, 10:39 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 10:53 PM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
+- **Mar 15, 11:07 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
