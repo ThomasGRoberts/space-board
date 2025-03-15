@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 10 | 10 |
 | spacenews | 1 | 1 | 7 | 7 |
-| breaking_defense | 1 | 1 | 6 | 6 |
+| breaking_defense | 1 | 1 | 7 | 7 |
 | aidy | 2 | 2 | 7 | 7 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -1691,3 +1691,4 @@
 - **Mar 15, 12:36 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 12:40 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 15, 12:53 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 15, 01:07 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
