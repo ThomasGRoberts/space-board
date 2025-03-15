@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 18 | 18 |
 | spacenews | 3 | 3 | 16 | 16 |
 | breaking_defense | 1 | 1 | 14 | 14 |
-| aidy | 2 | 2 | 14 | 14 |
+| aidy | 2 | 2 | 15 | 15 |
 | supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
@@ -1779,3 +1779,4 @@
 - **Mar 15, 10:21 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:25 PM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
+- **Mar 15, 10:39 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
