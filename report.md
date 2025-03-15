@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 14 | 14 |
 | breaking_defense | 1 | 1 | 12 | 12 |
 | aidy | 2 | 2 | 12 | 12 |
-| supercluster | 2 | 2 | 40 | 40 |
+| supercluster | 2 | 2 | 41 | 41 |
 
 # Shown Order
 
@@ -1753,3 +1753,4 @@
 - **Mar 15, 07:49 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 07:51 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 07:53 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 07:55 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
