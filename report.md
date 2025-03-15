@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 17 | 17 |
 | spacenews | 3 | 3 | 16 | 16 |
-| breaking_defense | 1 | 1 | 13 | 13 |
+| breaking_defense | 1 | 1 | 14 | 14 |
 | aidy | 2 | 2 | 14 | 14 |
 | supercluster | 2 | 2 | 50 | 50 |
 
@@ -1770,3 +1770,4 @@
 - **Mar 15, 09:15 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 09:29 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 15, 09:43 PM** - LeoLabs to build space-monitoring radar in Indo-Pacific region (spacenews)
+- **Mar 15, 09:57 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
