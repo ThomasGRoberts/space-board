@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 18 | 18 |
-| spacenews | 3 | 3 | 16 | 16 |
+| spacenews | 3 | 3 | 17 | 17 |
 | breaking_defense | 1 | 1 | 14 | 14 |
 | aidy | 2 | 2 | 15 | 15 |
 | supercluster | 2 | 2 | 57 | 57 |
@@ -1780,3 +1780,4 @@
 - **Mar 15, 10:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:25 PM** - SpaceX Scrubs Launch of NASA SPHEREx and PUNCH Missions (nyt)
 - **Mar 15, 10:39 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 15, 10:53 PM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
