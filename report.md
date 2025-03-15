@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 10 | 10 |
-| spacenews | 1 | 1 | 7 | 7 |
+| spacenews | 1 | 1 | 8 | 8 |
 | breaking_defense | 1 | 1 | 7 | 7 |
 | aidy | 2 | 2 | 7 | 7 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1692,3 +1692,4 @@
 - **Mar 15, 12:40 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 15, 12:53 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 01:07 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 15, 01:21 PM** - Tracking DOGE’s impact on space and the federal workforce (spacenews)
