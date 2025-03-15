@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 16 | 16 |
 | spacenews | 3 | 3 | 15 | 15 |
-| breaking_defense | 1 | 1 | 12 | 12 |
+| breaking_defense | 1 | 1 | 13 | 13 |
 | aidy | 2 | 2 | 13 | 13 |
 | supercluster | 2 | 2 | 43 | 43 |
 
@@ -1759,3 +1759,4 @@
 - **Mar 15, 08:01 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 15, 08:15 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 15, 08:31 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
+- **Mar 15, 08:45 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
