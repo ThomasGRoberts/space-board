@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 11 | 11 |
 | breaking_defense | 1 | 1 | 9 | 9 |
 | aidy | 2 | 2 | 9 | 9 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1716,3 +1716,4 @@
 - **Mar 15, 03:27 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 03:41 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 15, 03:55 PM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
+- **Mar 15, 04:09 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
