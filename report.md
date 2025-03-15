@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 | aidy | 1 | 1 | 1 | 1 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -1676,3 +1676,4 @@
 - **Mar 15, 02:56 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 15, 03:11 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 15, 03:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Mar 15, 03:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
