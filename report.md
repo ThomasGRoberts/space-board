@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 7 | 7 |
 | spacenews | 1 | 1 | 4 | 4 |
 | breaking_defense | 1 | 1 | 3 | 3 |
-| aidy | 1 | 1 | 3 | 3 |
+| aidy | 2 | 2 | 4 | 4 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -1678,3 +1678,4 @@
 - **Mar 15, 05:59 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
 - **Mar 15, 06:29 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 15, 07:39 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 07:41 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)

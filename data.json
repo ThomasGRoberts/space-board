@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7535b9a7b5d63a2cb985397042e15648",
+    "trigger_count": 0,
+    "current_item_id": "bf9a57596eb02d7716ba7b844a44d2d7",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4741,6 +4741,18 @@
             "fetched_datetime": "2025-03-15T07:39:33.857327Z",
             "shown_at": [
                 "2025-03-15T07:39:34.455745Z"
+            ]
+        },
+        {
+            "id": "bf9a57596eb02d7716ba7b844a44d2d7",
+            "source": "aidy",
+            "text": "FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-15T07:41:36.874050Z",
+            "shown_at": [
+                "2025-03-15T07:41:37.531543Z"
             ]
         }
     ]
