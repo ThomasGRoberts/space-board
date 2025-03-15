@@ -6,7 +6,6 @@
 | spacenews | 1 | 1 | 7 | 7 |
 | breaking_defense | 1 | 1 | 6 | 6 |
 | aidy | 2 | 2 | 6 | 6 |
-| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -1677,29 +1676,14 @@
 - **Mar 15, 05:45 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 15, 05:59 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
 - **Mar 15, 06:29 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
-- **Mar 15, 07:39 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 07:41 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 07:55 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 15, 08:11 AM** - NASA closes offices, lays off staff as it prepares for larger workforce reductions (spacenews)
 - **Mar 15, 08:27 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
-- **Mar 15, 08:42 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:49 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:51 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:53 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 08:55 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 08:57 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 15, 09:13 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 15, 09:27 AM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
 - **Mar 15, 09:43 AM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
-- **Mar 15, 09:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 09:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 10:02 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 10:05 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 10:07 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 10:09 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
-- **Mar 15, 10:11 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:13 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 15, 10:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 10:41 AM** - America’s next Sputnik moment is already here (spacenews)
