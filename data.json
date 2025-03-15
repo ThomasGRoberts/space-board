@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d1522efc3297320c86a9b25882066ff",
+    "trigger_count": 0,
+    "current_item_id": "932b6b5a1795eb1d9afc24490a33c18c",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4697,9 +4697,12 @@
             "source": "nyt",
             "text": "Photos Show Blood Moon Lunar Eclipse Around the World",
             "source_link": "https://www.nytimes.com/2025/03/14/science/space/blood-moon-lunar-eclipse-photos.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720692Z"
+            "fetched_datetime": "2025-03-15T01:41:33.720692Z",
+            "shown_at": [
+                "2025-03-15T02:41:36.549622Z"
+            ]
         },
         {
             "id": "03c721b86e0fce311f46e3b26e1cd832",
