@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 16 | 16 |
+| nyt | 5 | 5 | 17 | 17 |
 | spacenews | 3 | 3 | 15 | 15 |
 | breaking_defense | 1 | 1 | 13 | 13 |
 | aidy | 2 | 2 | 13 | 13 |
@@ -1767,3 +1767,4 @@
 - **Mar 15, 09:09 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 09:11 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 09:13 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 15, 09:15 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
