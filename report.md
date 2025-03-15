@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 14 | 14 |
 | spacenews | 2 | 2 | 12 | 12 |
 | breaking_defense | 1 | 1 | 10 | 10 |
-| aidy | 2 | 2 | 10 | 10 |
+| aidy | 2 | 2 | 11 | 11 |
 | supercluster | 2 | 2 | 29 | 29 |
 
 # Shown Order
@@ -1735,3 +1735,4 @@
 - **Mar 15, 05:33 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 05:35 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 05:37 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
+- **Mar 15, 05:51 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
