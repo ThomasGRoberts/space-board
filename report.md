@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 12 | 12 |
 | breaking_defense | 1 | 1 | 10 | 10 |
 | aidy | 2 | 2 | 10 | 10 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 2 | 2 | 23 | 23 |
 
 # Shown Order
 
@@ -1727,3 +1727,4 @@
 - **Mar 15, 04:38 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 15, 04:53 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 05:09 PM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
+- **Mar 15, 05:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
