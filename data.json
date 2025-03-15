@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8aad65039ed2d5e29a53cb10b347e7a3",
+    "trigger_count": 0,
+    "current_item_id": "889a324756f0f4d727fe460ea8631818",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4856,6 +4856,18 @@
                 "2025-03-15T19:55:35.671677Z",
                 "2025-03-15T19:57:27.463053Z",
                 "2025-03-15T19:59:27.510090Z"
+            ]
+        },
+        {
+            "id": "889a324756f0f4d727fe460ea8631818",
+            "source": "spacenews",
+            "text": "Intelligence and dual-use commercial satellites launch on Transporter-13",
+            "source_link": "https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-15T20:31:55.774776Z",
+            "shown_at": [
+                "2025-03-15T20:31:56.806314Z"
             ]
         }
     ]

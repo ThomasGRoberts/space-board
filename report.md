@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 16 | 16 |
-| spacenews | 2 | 2 | 14 | 14 |
+| spacenews | 3 | 3 | 15 | 15 |
 | breaking_defense | 1 | 1 | 12 | 12 |
 | aidy | 2 | 2 | 13 | 13 |
 | supercluster | 2 | 2 | 43 | 43 |
@@ -1758,3 +1758,4 @@
 - **Mar 15, 07:59 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 08:01 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 15, 08:15 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
+- **Mar 15, 08:31 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
