@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 14 | 14 |
 | breaking_defense | 1 | 1 | 12 | 12 |
 | aidy | 2 | 2 | 12 | 12 |
-| supercluster | 2 | 2 | 37 | 37 |
+| supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
 
@@ -1750,3 +1750,4 @@
 - **Mar 15, 07:19 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 07:33 PM** - China opens 2028 Mars sample return mission to international cooperation  (spacenews)
 - **Mar 15, 07:47 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 07:49 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
