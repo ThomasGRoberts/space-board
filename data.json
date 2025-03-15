@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "03c721b86e0fce311f46e3b26e1cd832",
+    "trigger_count": 0,
+    "current_item_id": "22d0c6776bb6d7430d777254fb907c45",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4721,9 +4721,12 @@
             "source": "nyt",
             "text": "Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby",
             "source_link": "https://www.nytimes.com/2025/03/14/science/mars-deimos-hera-flyby.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720764Z"
+            "fetched_datetime": "2025-03-15T01:41:33.720764Z",
+            "shown_at": [
+                "2025-03-15T03:11:41.013920Z"
+            ]
         },
         {
             "id": "1d1522efc3297320c86a9b25882066ff",
