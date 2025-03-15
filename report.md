@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 13 | 13 |
+| nyt | 5 | 5 | 14 | 14 |
 | spacenews | 2 | 2 | 12 | 12 |
 | breaking_defense | 1 | 1 | 10 | 10 |
 | aidy | 2 | 2 | 10 | 10 |
@@ -1734,3 +1734,4 @@
 - **Mar 15, 05:31 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 05:33 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 05:35 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 05:37 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
