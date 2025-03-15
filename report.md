@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 8 | 8 |
+| nyt | 5 | 5 | 9 | 9 |
 | spacenews | 1 | 1 | 6 | 6 |
 | breaking_defense | 1 | 1 | 5 | 5 |
 | aidy | 2 | 2 | 5 | 5 |
@@ -1692,3 +1692,4 @@
 - **Mar 15, 08:57 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 15, 09:13 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 15, 09:27 AM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
+- **Mar 15, 09:43 AM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
