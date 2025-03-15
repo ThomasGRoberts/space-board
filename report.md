@@ -6,7 +6,6 @@
 | spacenews | 1 | 1 | 3 | 3 |
 | breaking_defense | 1 | 1 | 2 | 2 |
 | aidy | 1 | 1 | 2 | 2 |
-| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -1660,12 +1659,6 @@
 - **Mar 13, 01:51 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 13, 02:05 AM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 13, 02:19 AM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
-- **Mar 15, 01:01 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 01:03 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 01:05 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 01:07 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 01:09 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 01:11 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 01:13 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 01:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 15, 01:41 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
@@ -1675,13 +1668,6 @@
 - **Mar 15, 02:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 15, 02:56 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 15, 03:11 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
-- **Mar 15, 03:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:29 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
-- **Mar 15, 03:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 03:39 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 03:53 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 04:07 AM** - America needs a strong NASA (spacenews)
