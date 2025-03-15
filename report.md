@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 9 | 9 |
-| spacenews | 1 | 1 | 6 | 6 |
+| spacenews | 1 | 1 | 7 | 7 |
 | breaking_defense | 1 | 1 | 6 | 6 |
 | aidy | 2 | 2 | 6 | 6 |
 | supercluster | 1 | 1 | 15 | 15 |
@@ -1702,3 +1702,4 @@
 - **Mar 15, 10:11 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:13 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 15, 10:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 15, 10:41 AM** - America’s next Sputnik moment is already here (spacenews)
