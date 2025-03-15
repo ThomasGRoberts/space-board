@@ -6,7 +6,7 @@
 | spacenews | 3 | 3 | 16 | 16 |
 | breaking_defense | 1 | 1 | 14 | 14 |
 | aidy | 2 | 2 | 14 | 14 |
-| supercluster | 2 | 2 | 52 | 52 |
+| supercluster | 2 | 2 | 53 | 53 |
 
 # Shown Order
 
@@ -1773,3 +1773,4 @@
 - **Mar 15, 09:57 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 15, 10:11 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 10:13 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 10:15 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
