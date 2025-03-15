@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 12 | 12 |
 | spacenews | 2 | 2 | 10 | 10 |
-| breaking_defense | 1 | 1 | 8 | 8 |
+| breaking_defense | 1 | 1 | 9 | 9 |
 | aidy | 2 | 2 | 9 | 9 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -1714,3 +1714,4 @@
 - **Mar 15, 03:11 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 03:13 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 15, 03:27 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 15, 03:41 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
