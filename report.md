@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 19 | 19 |
 | spacenews | 3 | 3 | 17 | 17 |
 | breaking_defense | 1 | 1 | 15 | 15 |
-| aidy | 2 | 2 | 15 | 15 |
+| aidy | 2 | 2 | 16 | 16 |
 | supercluster | 2 | 2 | 64 | 64 |
 
 # Shown Order
@@ -1790,3 +1790,4 @@
 - **Mar 15, 11:31 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 11:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 11:35 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
+- **Mar 15, 11:49 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
