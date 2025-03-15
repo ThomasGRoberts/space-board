@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 10 | 10 |
+| nyt | 5 | 5 | 11 | 11 |
 | spacenews | 1 | 1 | 8 | 8 |
 | breaking_defense | 1 | 1 | 7 | 7 |
 | aidy | 2 | 2 | 7 | 7 |
@@ -1700,3 +1700,4 @@
 - **Mar 15, 01:43 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 01:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 01:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 15, 01:49 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
