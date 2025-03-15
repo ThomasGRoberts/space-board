@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 3 | 3 |
+| nyt | 5 | 5 | 4 | 4 |
 | spacenews | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 | aidy | 1 | 1 | 1 | 1 |
@@ -1673,3 +1673,4 @@
 - **Mar 15, 02:11 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 15, 02:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)
 - **Mar 15, 02:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 15, 02:56 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)

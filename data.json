@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "932b6b5a1795eb1d9afc24490a33c18c",
+    "trigger_count": 0,
+    "current_item_id": "03c721b86e0fce311f46e3b26e1cd832",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4709,9 +4709,12 @@
             "source": "nyt",
             "text": "SpaceX Launches NASA’s Crew-10 Mission to the I.S.S.",
             "source_link": "https://www.nytimes.com/2025/03/14/science/nasa-spacex-astronauts-iss-launch.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720732Z"
+            "fetched_datetime": "2025-03-15T01:41:33.720732Z",
+            "shown_at": [
+                "2025-03-15T02:56:03.130842Z"
+            ]
         },
         {
             "id": "22d0c6776bb6d7430d777254fb907c45",
