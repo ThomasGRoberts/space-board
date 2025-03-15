@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 13 | 13 |
 | breaking_defense | 1 | 1 | 11 | 11 |
 | aidy | 2 | 2 | 11 | 11 |
-| supercluster | 2 | 2 | 29 | 29 |
+| supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
 
@@ -1738,3 +1738,4 @@
 - **Mar 15, 05:51 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 15, 06:05 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 15, 06:21 PM** - LeoLabs to build space-monitoring radar in Indo-Pacific region (spacenews)
+- **Mar 15, 06:35 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
