@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 8 | 8 |
 | breaking_defense | 1 | 1 | 7 | 7 |
 | aidy | 2 | 2 | 7 | 7 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -1693,3 +1693,4 @@
 - **Mar 15, 12:53 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 01:07 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 15, 01:21 PM** - Tracking DOGE’s impact on space and the federal workforce (spacenews)
+- **Mar 15, 01:35 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
