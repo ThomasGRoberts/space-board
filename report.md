@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 11 | 11 |
+| nyt | 5 | 5 | 12 | 12 |
 | spacenews | 2 | 2 | 10 | 10 |
 | breaking_defense | 1 | 1 | 8 | 8 |
 | aidy | 2 | 2 | 8 | 8 |
@@ -1712,3 +1712,4 @@
 - **Mar 15, 03:07 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 03:09 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 03:11 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 15, 03:13 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
