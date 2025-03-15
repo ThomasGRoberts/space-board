@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+    "trigger_count": 0,
+    "current_item_id": "dff32a2867a47349524647fef7bcf479",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4639,6 +4639,18 @@
                 "2025-03-15T01:07:35.606969Z",
                 "2025-03-15T01:09:29.124998Z",
                 "2025-03-15T01:11:31.311596Z"
+            ]
+        },
+        {
+            "id": "dff32a2867a47349524647fef7bcf479",
+            "source": "aidy",
+            "text": "NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-15T01:13:57.753971Z",
+            "shown_at": [
+                "2025-03-15T01:13:58.662646Z"
             ]
         }
     ]

@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 0 | 0 |
 | spacenews | 0 | 0 | 0 | 5 |
 | breaking_defense | 0 | 0 | 0 | 0 |
-| aidy | 0 | 0 | 0 | 0 |
+| aidy | 1 | 1 | 1 | 1 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -1666,3 +1666,4 @@
 - **Mar 15, 01:07 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 01:09 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 01:11 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Mar 15, 01:13 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
