@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 7 | 7 |
 | breaking_defense | 1 | 1 | 6 | 6 |
 | aidy | 2 | 2 | 6 | 6 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -1688,4 +1688,3 @@
 - **Mar 15, 10:13 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 15, 10:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 10:41 AM** - America’s next Sputnik moment is already here (spacenews)
-- **Mar 15, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
