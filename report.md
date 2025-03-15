@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 6 | 6 |
 | breaking_defense | 1 | 1 | 5 | 5 |
 | aidy | 2 | 2 | 5 | 5 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -1693,3 +1693,4 @@
 - **Mar 15, 09:13 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 15, 09:27 AM** - Relativity names Eric Schmidt as CEO as it updates Terran R development (spacenews)
 - **Mar 15, 09:43 AM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
+- **Mar 15, 09:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
