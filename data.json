@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 2,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 3,
+    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4623,15 +4623,15 @@
             ]
         },
         {
-            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an International Crew to the ISS",
-            "source_link": "https://www.supercluster.com/launches/spacex-crew-10",
+            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
+            "source_link": "https://www.supercluster.com/launches/the-lightning-god-reigns",
             "shown": false,
             "type": "launch",
-            "target_datetime": "2025-03-14T23:03:00.000Z",
+            "target_datetime": "2025-03-15T00:00:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-03-15T00:02:08.894231Z"
+            "fetched_datetime": "2025-03-15T00:05:32.006542Z"
         }
     ]
 }
