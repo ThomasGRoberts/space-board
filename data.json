@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d1cab4179191396a69394abfecc909af",
+    "trigger_count": 0,
+    "current_item_id": "755bf6616453056483b355f5ebed7d5d",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4778,6 +4778,18 @@
                 "2025-03-15T13:43:25.026761Z",
                 "2025-03-15T13:45:26.373954Z",
                 "2025-03-15T13:47:25.360480Z"
+            ]
+        },
+        {
+            "id": "755bf6616453056483b355f5ebed7d5d",
+            "source": "spacenews",
+            "text": "SpaceX launches Transporter-13 rideshare mission",
+            "source_link": "https://spacenews.com/spacex-launches-transporter-13-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-15T14:45:27.247424Z",
+            "shown_at": [
+                "2025-03-15T14:45:27.999440Z"
             ]
         }
     ]

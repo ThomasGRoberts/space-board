@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 11 | 11 |
-| spacenews | 1 | 1 | 9 | 9 |
+| spacenews | 2 | 2 | 10 | 10 |
 | breaking_defense | 1 | 1 | 8 | 8 |
 | aidy | 2 | 2 | 8 | 8 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -1704,3 +1704,4 @@
 - **Mar 15, 02:03 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 15, 02:17 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 15, 02:31 PM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
+- **Mar 15, 02:45 PM** - SpaceX launches Transporter-13 rideshare mission (spacenews)
