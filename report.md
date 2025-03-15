@@ -6,7 +6,7 @@
 | spacenews | 0 | 0 | 0 | 6 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -1662,3 +1662,4 @@
 - **Mar 13, 02:19 AM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
 - **Mar 15, 01:01 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 01:03 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Mar 15, 01:05 AM** - China Will Launch the Long March 2D Rocket (supercluster)
