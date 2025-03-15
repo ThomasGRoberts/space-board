@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 5,
-    "current_item_id": "bb61b2d6a11381c9589525672994ef8b",
+    "trigger_count": 6,
+    "current_item_id": "7535b9a7b5d63a2cb985397042e15648",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4730,17 +4730,17 @@
             ]
         },
         {
-            "id": "bb61b2d6a11381c9589525672994ef8b",
+            "id": "7535b9a7b5d63a2cb985397042e15648",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Transporter Rideshare Mission",
-            "source_link": "https://www.supercluster.com/launches/transporter-13",
+            "text": "Russia Will Launch the Angara 1.2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/angara-1-2",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-15T06:39:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-15T07:37:29.422806Z",
+            "target_datetime": "2025-03-15T10:50:00.000Z",
+            "time_remaining": "0d 03h 10m",
+            "fetched_datetime": "2025-03-15T07:39:33.857327Z",
             "shown_at": [
-                "2025-03-15T07:37:29.928406Z"
+                "2025-03-15T07:39:34.455745Z"
             ]
         }
     ]
