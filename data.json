@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4752,15 +4752,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "eacf525baa97c18f19ce270cb7d25e09",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-16",
-            "shown": false,
+            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/ceres-14",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-15T11:35:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-15T12:33:25.285486Z"
+            "target_datetime": "2025-03-17T08:10:00.000Z",
+            "time_remaining": "1d 19h 33m",
+            "fetched_datetime": "2025-03-15T12:36:23.437734Z",
+            "shown_at": [
+                "2025-03-15T12:36:24.409252Z"
+            ]
         }
     ]
 }
