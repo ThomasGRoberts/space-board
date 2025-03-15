@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 5 | 5 |
-| spacenews | 1 | 1 | 2 | 2 |
+| spacenews | 1 | 1 | 3 | 3 |
 | breaking_defense | 1 | 1 | 2 | 2 |
 | aidy | 1 | 1 | 2 | 2 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -1684,3 +1684,4 @@
 - **Mar 15, 03:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Mar 15, 03:39 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 03:53 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 15, 04:07 AM** - America needs a strong NASA (spacenews)
