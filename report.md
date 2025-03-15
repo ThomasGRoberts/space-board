@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 12 | 12 |
-| spacenews | 2 | 2 | 10 | 10 |
+| spacenews | 2 | 2 | 11 | 11 |
 | breaking_defense | 1 | 1 | 9 | 9 |
 | aidy | 2 | 2 | 9 | 9 |
 | supercluster | 1 | 1 | 15 | 15 |
@@ -1715,3 +1715,4 @@
 - **Mar 15, 03:13 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 15, 03:27 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 03:41 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 15, 03:55 PM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
