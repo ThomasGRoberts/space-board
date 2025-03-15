@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 17 | 17 |
-| spacenews | 3 | 3 | 15 | 15 |
+| spacenews | 3 | 3 | 16 | 16 |
 | breaking_defense | 1 | 1 | 13 | 13 |
 | aidy | 2 | 2 | 14 | 14 |
 | supercluster | 2 | 2 | 50 | 50 |
@@ -1769,3 +1769,4 @@
 - **Mar 15, 09:13 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 09:15 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 09:29 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 15, 09:43 PM** - LeoLabs to build space-monitoring radar in Indo-Pacific region (spacenews)
