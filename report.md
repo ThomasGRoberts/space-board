@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 5 | 5 |
 | breaking_defense | 1 | 1 | 4 | 4 |
 | aidy | 2 | 2 | 4 | 4 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -1684,3 +1684,4 @@
 - **Mar 15, 08:27 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 15, 08:42 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 08:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 08:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
