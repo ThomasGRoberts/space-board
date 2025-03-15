@@ -6,7 +6,7 @@
 | spacenews | 0 | 0 | 0 | 6 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -1660,3 +1660,4 @@
 - **Mar 13, 01:51 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 13, 02:05 AM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 13, 02:19 AM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
+- **Mar 15, 01:01 AM** - China Will Launch the Long March 2D Rocket (supercluster)

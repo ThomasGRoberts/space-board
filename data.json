@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 0,
-    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+    "trigger_count": 1,
+    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4623,15 +4623,18 @@
             ]
         },
         {
-            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
-            "source_link": "https://www.supercluster.com/launches/the-lightning-god-reigns",
-            "shown": false,
+            "text": "China Will Launch the Long March 2D Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2d7",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-15T00:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-15T00:59:50.616615Z"
+            "target_datetime": "2025-03-15T04:10:00.000Z",
+            "time_remaining": "0d 03h 08m",
+            "fetched_datetime": "2025-03-15T01:01:55.995071Z",
+            "shown_at": [
+                "2025-03-15T01:01:56.497690Z"
+            ]
         }
     ]
 }
