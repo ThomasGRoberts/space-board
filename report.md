@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 14 | 14 |
+| nyt | 5 | 5 | 15 | 15 |
 | spacenews | 2 | 2 | 13 | 13 |
 | breaking_defense | 1 | 1 | 11 | 11 |
 | aidy | 2 | 2 | 11 | 11 |
@@ -1745,3 +1745,4 @@
 - **Mar 15, 06:43 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 06:45 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 06:47 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 06:49 PM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
