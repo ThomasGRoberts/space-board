@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 11 | 11 |
 | spacenews | 1 | 1 | 8 | 8 |
 | breaking_defense | 1 | 1 | 7 | 7 |
-| aidy | 2 | 2 | 7 | 7 |
+| aidy | 2 | 2 | 8 | 8 |
 | supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
@@ -1701,3 +1701,4 @@
 - **Mar 15, 01:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 01:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 01:49 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 15, 02:03 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
