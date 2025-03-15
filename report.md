@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 6 | 6 |
 | breaking_defense | 1 | 1 | 5 | 5 |
 | aidy | 2 | 2 | 5 | 5 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -1695,3 +1695,4 @@
 - **Mar 15, 09:43 AM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 15, 09:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 09:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 10:02 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
