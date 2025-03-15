@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 12 | 12 |
 | breaking_defense | 1 | 1 | 10 | 10 |
 | aidy | 2 | 2 | 10 | 10 |
-| supercluster | 2 | 2 | 24 | 24 |
+| supercluster | 2 | 2 | 25 | 25 |
 
 # Shown Order
 
@@ -1729,3 +1729,4 @@
 - **Mar 15, 05:09 PM** - China’s expanding footprint in geostationary orbit raises security concerns (spacenews)
 - **Mar 15, 05:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 05:25 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 15, 05:27 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
