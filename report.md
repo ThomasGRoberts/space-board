@@ -6,7 +6,6 @@
 | spacenews | 1 | 1 | 4 | 4 |
 | breaking_defense | 1 | 1 | 3 | 3 |
 | aidy | 1 | 1 | 3 | 3 |
-| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -1672,18 +1671,8 @@
 - **Mar 15, 03:39 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 03:53 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 15, 04:07 AM** - America needs a strong NASA (spacenews)
-- **Mar 15, 05:11 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 05:13 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 05:15 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 05:17 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 05:31 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 05:45 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 15, 05:59 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
-- **Mar 15, 06:14 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:15 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:17 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:19 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:22 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:25 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
-- **Mar 15, 06:27 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 06:29 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
