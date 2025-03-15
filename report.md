@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 12 | 12 |
+| nyt | 5 | 5 | 13 | 13 |
 | spacenews | 2 | 2 | 11 | 11 |
 | breaking_defense | 1 | 1 | 9 | 9 |
 | aidy | 2 | 2 | 9 | 9 |
@@ -1723,3 +1723,4 @@
 - **Mar 15, 04:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 04:19 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 04:21 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 15, 04:23 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
