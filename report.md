@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 15 | 15 |
 | spacenews | 2 | 2 | 13 | 13 |
 | breaking_defense | 1 | 1 | 11 | 11 |
-| aidy | 2 | 2 | 11 | 11 |
+| aidy | 2 | 2 | 12 | 12 |
 | supercluster | 2 | 2 | 36 | 36 |
 
 # Shown Order
@@ -1746,3 +1746,4 @@
 - **Mar 15, 06:45 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 06:47 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 15, 06:49 PM** - NASA to Launch SPHEREx and PUNCH Missions: How to Watch (nyt)
+- **Mar 15, 07:03 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
