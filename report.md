@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 6 | 6 |
-| spacenews | 1 | 1 | 3 | 3 |
+| spacenews | 1 | 1 | 4 | 4 |
 | breaking_defense | 1 | 1 | 3 | 3 |
 | aidy | 1 | 1 | 3 | 3 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -1678,3 +1678,4 @@
 - **Mar 15, 05:17 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 05:31 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 05:45 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 15, 05:59 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
