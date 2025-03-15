@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 6 | 6 |
 | spacenews | 1 | 1 | 3 | 3 |
 | breaking_defense | 1 | 1 | 2 | 2 |
-| aidy | 1 | 1 | 2 | 2 |
+| aidy | 1 | 1 | 3 | 3 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -1676,3 +1676,4 @@
 - **Mar 15, 05:13 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 05:15 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Mar 15, 05:17 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
+- **Mar 15, 05:31 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
