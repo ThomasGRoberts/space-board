@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 2 | 2 |
-| spacenews | 0 | 0 | 1 | 1 |
+| spacenews | 1 | 1 | 2 | 2 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 | aidy | 1 | 1 | 1 | 1 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -1671,3 +1671,4 @@
 - **Mar 15, 01:41 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 15, 01:55 AM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
 - **Mar 15, 02:11 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 15, 02:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)

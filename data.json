@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "282050260fd4afed0fd2b78552b5a749",
+    "trigger_count": 0,
+    "current_item_id": "1d1522efc3297320c86a9b25882066ff",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4718,6 +4718,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-03-15T01:41:33.720764Z"
+        },
+        {
+            "id": "1d1522efc3297320c86a9b25882066ff",
+            "source": "spacenews",
+            "text": "Rocket Lab launches Japanese SAR satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-15T02:27:37.324150Z",
+            "shown_at": [
+                "2025-03-15T02:27:37.919478Z"
+            ]
         }
     ]
 }
