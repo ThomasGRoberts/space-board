@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 13 | 13 |
 | spacenews | 2 | 2 | 11 | 11 |
-| breaking_defense | 1 | 1 | 9 | 9 |
+| breaking_defense | 1 | 1 | 10 | 10 |
 | aidy | 2 | 2 | 10 | 10 |
 | supercluster | 1 | 1 | 22 | 22 |
 
@@ -1725,3 +1725,4 @@
 - **Mar 15, 04:21 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 15, 04:23 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 15, 04:38 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 15, 04:53 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
