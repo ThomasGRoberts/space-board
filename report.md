@@ -6,7 +6,7 @@
 | spacenews | 2 | 2 | 10 | 10 |
 | breaking_defense | 1 | 1 | 8 | 8 |
 | aidy | 2 | 2 | 8 | 8 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -1706,3 +1706,4 @@
 - **Mar 15, 02:31 PM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 15, 02:45 PM** - SpaceX launches Transporter-13 rideshare mission (spacenews)
 - **Mar 15, 02:59 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 15, 03:01 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
