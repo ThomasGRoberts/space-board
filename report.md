@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 1 | 1 |
+| nyt | 5 | 5 | 2 | 2 |
 | spacenews | 0 | 0 | 1 | 2 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 | aidy | 1 | 1 | 1 | 1 |
@@ -1670,3 +1670,4 @@
 - **Mar 15, 01:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 15, 01:41 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 15, 01:55 AM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
+- **Mar 15, 02:11 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)

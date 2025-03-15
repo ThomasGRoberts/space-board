@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-15T00:02:05.699236+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d0058a098d05ee428c4e80c69347877b",
+    "trigger_count": 0,
+    "current_item_id": "282050260fd4afed0fd2b78552b5a749",
     "data": [
         {
             "id": "54b7db14a39e8934a999f8618a8d5af2",
@@ -4685,9 +4685,12 @@
             "source": "nyt",
             "text": "Elon Musk’s Starlink Pushes Its Way Into India",
             "source_link": "https://www.nytimes.com/2025/03/13/business/starlink-india-musk.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720262Z"
+            "fetched_datetime": "2025-03-15T01:41:33.720262Z",
+            "shown_at": [
+                "2025-03-15T02:11:39.186524Z"
+            ]
         },
         {
             "id": "932b6b5a1795eb1d9afc24490a33c18c",
