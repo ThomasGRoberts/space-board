@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 5 | 5 |
 | breaking_defense | 1 | 1 | 4 | 4 |
 | aidy | 2 | 2 | 4 | 4 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -1682,3 +1682,4 @@
 - **Mar 15, 07:55 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 15, 08:11 AM** - NASA closes offices, lays off staff as it prepares for larger workforce reductions (spacenews)
 - **Mar 15, 08:27 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 15, 08:42 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
