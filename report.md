@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 31 |
-| supercluster | 0 | 1 | 58 | 80 |
+| supercluster | 0 | 1 | 59 | 81 |
 | aidy | 1 | 3 | 19 | 29 |
 | nyt | 2 | 7 | 20 | 33 |
-| breaking_defense | 0 | 1 | 19 | 28 |
+| breaking_defense | 0 | 1 | 18 | 28 |
 
 # Shown Order
 
@@ -1861,3 +1861,4 @@
 - **Mar 16, 04:13 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 16, 04:27 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 16, 04:41 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
+- **Mar 16, 04:55 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
