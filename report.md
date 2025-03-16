@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 18 | 20 |
+| spacenews | 2 | 3 | 19 | 21 |
 | supercluster | 2 | 2 | 85 | 85 |
 | aidy | 1 | 2 | 17 | 19 |
 | nyt | 1 | 6 | 18 | 23 |
@@ -1825,3 +1825,4 @@
 - **Mar 16, 03:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 03:37 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 16, 03:51 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
+- **Mar 16, 04:05 AM** - NASA closes offices, lays off staff as it prepares for larger workforce reductions (spacenews)
