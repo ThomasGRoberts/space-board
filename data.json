@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-16T00:01:38.473740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bf9a57596eb02d7716ba7b844a44d2d7",
+    "trigger_count": 0,
+    "current_item_id": "d4c86f9febd30722c55bdefa8d28ea67",
     "data": [
         {
             "id": "889a324756f0f4d727fe460ea8631818",
@@ -4977,6 +4977,18 @@
             "fetched_datetime": "2025-03-16T01:28:14.698366Z",
             "shown_at": [
                 "2025-03-16T01:28:15.706683Z"
+            ]
+        },
+        {
+            "id": "d4c86f9febd30722c55bdefa8d28ea67",
+            "source": "aidy",
+            "text": "ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T07:27:37.232102Z",
+            "shown_at": [
+                "2025-03-16T07:27:37.700445Z"
             ]
         }
     ]
