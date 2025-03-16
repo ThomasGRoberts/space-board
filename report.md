@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 26 |
 | supercluster | 1 | 1 | 59 | 59 |
-| aidy | 1 | 3 | 19 | 25 |
+| aidy | 1 | 3 | 20 | 26 |
 | nyt | 1 | 6 | 19 | 28 |
 | breaking_defense | 0 | 1 | 18 | 24 |
 
@@ -1822,3 +1822,4 @@
 - **Mar 16, 10:31 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 16, 11:51 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 11:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 11:55 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
