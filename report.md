@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 23 |
-| supercluster | 2 | 2 | 99 | 99 |
+| supercluster | 2 | 2 | 100 | 100 |
 | aidy | 1 | 2 | 18 | 21 |
 | nyt | 1 | 6 | 18 | 25 |
 | breaking_defense | 0 | 1 | 18 | 21 |
@@ -1849,3 +1849,4 @@
 - **Mar 16, 06:15 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 16, 06:29 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
 - **Mar 16, 06:45 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 16, 06:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
