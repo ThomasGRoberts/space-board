@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 78 | 78 |
 | aidy | 1 | 2 | 17 | 18 |
 | nyt | 1 | 6 | 18 | 22 |
-| breaking_defense | 0 | 1 | 16 | 17 |
+| breaking_defense | 0 | 1 | 17 | 18 |
 
 # Shown Order
 
@@ -1815,3 +1815,4 @@
 - **Mar 16, 02:25 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 16, 02:39 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 16, 02:53 AM** - Where are we on the journey to a lunar economy? (spacenews)
+- **Mar 16, 03:09 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
