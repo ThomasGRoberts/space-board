@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 22 |
-| supercluster | 2 | 2 | 93 | 93 |
+| supercluster | 2 | 2 | 94 | 94 |
 | aidy | 1 | 2 | 17 | 20 |
 | nyt | 1 | 6 | 18 | 24 |
-| breaking_defense | 0 | 1 | 18 | 20 |
+| breaking_defense | 0 | 1 | 17 | 20 |
 
 # Shown Order
 
@@ -1839,3 +1839,4 @@
 - **Mar 16, 05:17 AM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
 - **Mar 16, 05:31 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 16, 05:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 05:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
