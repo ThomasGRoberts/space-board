@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 20 | 27 |
+| spacenews | 2 | 3 | 19 | 27 |
 | supercluster | 0 | 1 | 65 | 66 |
 | aidy | 1 | 3 | 20 | 27 |
-| nyt | 1 | 6 | 19 | 29 |
+| nyt | 1 | 6 | 20 | 30 |
 | breaking_defense | 0 | 1 | 18 | 25 |
 
 # Shown Order
@@ -1834,3 +1834,4 @@
 - **Mar 16, 01:05 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 01:07 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 01:09 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 16, 01:23 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
