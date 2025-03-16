@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 20 | 35 |
-| supercluster | 0 | 1 | 79 | 108 |
+| supercluster | 0 | 1 | 80 | 109 |
 | aidy | 1 | 3 | 19 | 33 |
 | nyt | 2 | 7 | 20 | 37 |
 | breaking_defense | 0 | 1 | 19 | 32 |
@@ -1905,3 +1905,4 @@
 - **Mar 16, 08:57 PM** - Bringing Astronauts Home (nyt)
 - **Mar 16, 09:11 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 16, 09:25 PM** - Intelsat CEO reveals separate bet on Lynk Global amid SES merger (spacenews)
+- **Mar 16, 09:39 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
