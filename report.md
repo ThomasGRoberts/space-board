@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 22 |
-| supercluster | 2 | 2 | 94 | 94 |
+| supercluster | 2 | 2 | 95 | 95 |
 | aidy | 1 | 2 | 17 | 20 |
 | nyt | 1 | 6 | 18 | 24 |
 | breaking_defense | 0 | 1 | 17 | 20 |
@@ -1840,3 +1840,4 @@
 - **Mar 16, 05:31 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 16, 05:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 05:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 05:50 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
