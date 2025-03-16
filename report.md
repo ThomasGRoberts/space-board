@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 113 | 113 |
 | aidy | 1 | 3 | 19 | 24 |
 | nyt | 1 | 6 | 19 | 27 |
-| breaking_defense | 0 | 1 | 17 | 22 |
+| breaking_defense | 0 | 1 | 18 | 23 |
 
 # Shown Order
 
@@ -1871,3 +1871,4 @@
 - **Mar 16, 08:37 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 08:52 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 16, 09:07 AM** - Cognitive Space claims two SDA awards (spacenews)
+- **Mar 16, 09:21 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
