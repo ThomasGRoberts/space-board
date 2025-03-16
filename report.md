@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 24 |
-| supercluster | 2 | 2 | 107 | 107 |
+| supercluster | 2 | 2 | 108 | 108 |
 | aidy | 1 | 3 | 19 | 23 |
 | nyt | 1 | 6 | 19 | 26 |
 | breaking_defense | 0 | 1 | 18 | 22 |
@@ -1862,3 +1862,4 @@
 - **Mar 16, 07:55 AM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 16, 08:09 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 16, 08:23 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 08:25 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
