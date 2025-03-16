@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 22 |
 | supercluster | 2 | 2 | 99 | 99 |
-| aidy | 1 | 2 | 17 | 20 |
+| aidy | 1 | 2 | 18 | 21 |
 | nyt | 1 | 6 | 18 | 24 |
 | breaking_defense | 0 | 1 | 17 | 20 |
 
@@ -1845,3 +1845,4 @@
 - **Mar 16, 05:53 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 05:55 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 05:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 05:59 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
