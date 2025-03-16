@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 18 | 28 |
+| spacenews | 1 | 3 | 19 | 29 |
 | supercluster | 0 | 1 | 65 | 73 |
 | aidy | 1 | 3 | 20 | 28 |
 | nyt | 1 | 6 | 20 | 31 |
@@ -1846,3 +1846,4 @@
 - **Mar 16, 02:19 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 02:21 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 16, 02:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 16, 02:49 PM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
