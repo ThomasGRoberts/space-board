@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 18 | 18 |
+| spacenews | 3 | 3 | 19 | 19 |
 | supercluster | 2 | 2 | 71 | 71 |
 | aidy | 1 | 2 | 16 | 17 |
 | nyt | 1 | 6 | 20 | 21 |
@@ -1803,3 +1803,4 @@
 - **Mar 16, 12:53 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 16, 01:11 AM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 16, 01:28 AM** - Bringing Astronauts Home (nyt)
+- **Mar 16, 01:43 AM** - Viasat and Space42 co-invest in shared direct-to-device satellite prototype (spacenews)
