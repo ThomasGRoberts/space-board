@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 120 | 120 |
 | aidy | 1 | 3 | 19 | 25 |
 | nyt | 1 | 6 | 19 | 28 |
-| breaking_defense | 0 | 1 | 17 | 23 |
+| breaking_defense | 0 | 1 | 18 | 24 |
 
 # Shown Order
 
@@ -1882,3 +1882,4 @@
 - **Mar 16, 09:49 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 10:03 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 16, 10:17 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
+- **Mar 16, 10:31 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
