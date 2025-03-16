@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 19 | 30 |
 | supercluster | 0 | 1 | 65 | 80 |
 | aidy | 1 | 3 | 20 | 29 |
-| nyt | 1 | 6 | 19 | 31 |
+| nyt | 1 | 6 | 20 | 32 |
 | breaking_defense | 0 | 1 | 18 | 27 |
 
 # Shown Order
@@ -1857,3 +1857,4 @@
 - **Mar 16, 03:41 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 03:43 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 03:45 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 16, 03:59 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
