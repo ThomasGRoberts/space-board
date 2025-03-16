@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 25 |
-| supercluster | 2 | 2 | 114 | 114 |
+| supercluster | 2 | 2 | 115 | 115 |
 | aidy | 1 | 3 | 19 | 24 |
 | nyt | 1 | 6 | 19 | 27 |
 | breaking_defense | 0 | 1 | 18 | 23 |
@@ -1873,3 +1873,4 @@
 - **Mar 16, 09:07 AM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 16, 09:21 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 16, 09:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 09:37 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
