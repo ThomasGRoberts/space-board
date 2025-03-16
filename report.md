@@ -5,8 +5,8 @@
 | spacenews | 3 | 3 | 18 | 18 |
 | supercluster | 2 | 2 | 71 | 71 |
 | aidy | 1 | 2 | 16 | 17 |
-| nyt | 5 | 5 | 20 | 20 |
-| breaking_defense | 1 | 1 | 16 | 16 |
+| nyt | 6 | 6 | 21 | 21 |
+| breaking_defense | 0 | 1 | 15 | 16 |
 
 # Shown Order
 
@@ -1802,3 +1802,4 @@
 - **Mar 16, 12:51 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 12:53 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 16, 01:11 AM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
+- **Mar 16, 01:28 AM** - Bringing Astronauts Home (nyt)

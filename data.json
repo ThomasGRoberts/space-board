@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-16T00:01:38.473740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fcc87607d463496b47fc42901229e36",
+    "trigger_count": 0,
+    "current_item_id": "e7ebee1e47cfcf9f64c5ed64374d2de0",
     "data": [
         {
             "id": "889a324756f0f4d727fe460ea8631818",
@@ -4911,6 +4911,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "e7ebee1e47cfcf9f64c5ed64374d2de0",
+            "source": "nyt",
+            "text": "Bringing Astronauts Home",
+            "source_link": "https://www.nytimes.com/2025/03/14/briefing/bringing-astronauts-home.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T01:28:14.698366Z",
+            "shown_at": [
+                "2025-03-16T01:28:15.706683Z"
             ]
         }
     ]
