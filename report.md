@@ -5,8 +5,8 @@
 | spacenews | 2 | 4 | 19 | 31 |
 | supercluster | 0 | 1 | 65 | 87 |
 | aidy | 1 | 3 | 20 | 30 |
-| nyt | 2 | 7 | 21 | 34 |
-| breaking_defense | 0 | 1 | 18 | 28 |
+| nyt | 2 | 7 | 20 | 34 |
+| breaking_defense | 0 | 1 | 19 | 29 |
 
 # Shown Order
 
@@ -1870,3 +1870,4 @@
 - **Mar 16, 05:07 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 05:09 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 16, 05:23 PM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 16, 05:37 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
