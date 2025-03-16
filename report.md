@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 20 | 36 |
-| supercluster | 0 | 1 | 87 | 116 |
+| supercluster | 0 | 1 | 88 | 117 |
 | aidy | 1 | 3 | 19 | 34 |
 | nyt | 2 | 7 | 20 | 38 |
 | breaking_defense | 0 | 1 | 19 | 33 |
@@ -1917,3 +1917,4 @@
 - **Mar 16, 10:23 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 16, 10:37 PM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
 - **Mar 16, 10:51 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 10:53 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
