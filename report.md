@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 24 |
 | supercluster | 2 | 2 | 113 | 113 |
-| aidy | 1 | 3 | 19 | 23 |
+| aidy | 1 | 3 | 20 | 24 |
 | nyt | 1 | 6 | 18 | 26 |
 | breaking_defense | 0 | 1 | 18 | 22 |
 
@@ -1868,3 +1868,4 @@
 - **Mar 16, 08:32 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 08:33 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 08:35 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 08:37 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
