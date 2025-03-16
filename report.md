@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 30 |
+| spacenews | 2 | 4 | 20 | 31 |
 | supercluster | 0 | 1 | 58 | 80 |
 | aidy | 1 | 3 | 19 | 29 |
 | nyt | 2 | 7 | 20 | 33 |
@@ -1860,3 +1860,4 @@
 - **Mar 16, 03:59 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 16, 04:13 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 16, 04:27 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 16, 04:41 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
