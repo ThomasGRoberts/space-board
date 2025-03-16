@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-16T00:01:38.473740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e886219c71608468437f58e90d1da74",
+    "trigger_count": 0,
+    "current_item_id": "615ee5c191365976ac53f955dd4376f1",
     "data": [
         {
             "id": "889a324756f0f4d727fe460ea8631818",
@@ -4966,6 +4966,18 @@
             "fetched_datetime": "2025-03-16T07:27:37.232102Z",
             "shown_at": [
                 "2025-03-16T07:27:37.700445Z"
+            ]
+        },
+        {
+            "id": "615ee5c191365976ac53f955dd4376f1",
+            "source": "spacenews",
+            "text": "Crew-10 arrives at space station",
+            "source_link": "https://spacenews.com/crew-10-arrives-at-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T15:17:48.742714Z",
+            "shown_at": [
+                "2025-03-16T15:17:49.666276Z"
             ]
         }
     ]

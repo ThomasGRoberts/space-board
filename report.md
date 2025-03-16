@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 19 | 29 |
+| spacenews | 2 | 4 | 20 | 30 |
 | supercluster | 0 | 1 | 58 | 73 |
 | aidy | 1 | 3 | 20 | 28 |
 | nyt | 1 | 6 | 19 | 31 |
@@ -1848,3 +1848,4 @@
 - **Mar 16, 02:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 16, 02:49 PM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
 - **Mar 16, 03:03 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 16, 03:17 PM** - Crew-10 arrives at space station (spacenews)
