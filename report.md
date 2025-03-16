@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 92 | 92 |
 | aidy | 1 | 2 | 18 | 20 |
 | nyt | 1 | 6 | 18 | 24 |
-| breaking_defense | 0 | 1 | 17 | 19 |
+| breaking_defense | 0 | 1 | 18 | 20 |
 
 # Shown Order
 
@@ -1837,3 +1837,4 @@
 - **Mar 16, 04:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 16, 05:03 AM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 16, 05:17 AM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
+- **Mar 16, 05:31 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
