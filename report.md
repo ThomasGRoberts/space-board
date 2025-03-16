@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 18 | 19 |
-| supercluster | 2 | 2 | 72 | 72 |
+| supercluster | 2 | 2 | 73 | 73 |
 | aidy | 1 | 2 | 16 | 17 |
 | nyt | 1 | 6 | 19 | 21 |
 | breaking_defense | 0 | 1 | 16 | 17 |
@@ -1806,3 +1806,4 @@
 - **Mar 16, 01:43 AM** - Viasat and Space42 co-invest in shared direct-to-device satellite prototype (spacenews)
 - **Mar 16, 01:57 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 16, 02:12 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 02:13 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
