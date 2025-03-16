@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 19 | 36 |
+| spacenews | 1 | 4 | 20 | 37 |
 | supercluster | 0 | 1 | 86 | 122 |
 | aidy | 1 | 3 | 20 | 35 |
 | nyt | 2 | 7 | 20 | 39 |
@@ -1926,3 +1926,4 @@
 - **Mar 16, 11:05 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 16, 11:19 PM** - Bringing Astronauts Home (nyt)
 - **Mar 16, 11:33 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
+- **Mar 16, 11:47 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
