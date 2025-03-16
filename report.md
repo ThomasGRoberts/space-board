@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 86 | 115 |
 | aidy | 1 | 3 | 20 | 34 |
 | nyt | 2 | 7 | 21 | 38 |
-| breaking_defense | 0 | 1 | 18 | 32 |
+| breaking_defense | 0 | 1 | 19 | 33 |
 
 # Shown Order
 
@@ -1914,3 +1914,4 @@
 - **Mar 16, 09:51 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 09:53 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 16, 10:07 PM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 16, 10:23 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
