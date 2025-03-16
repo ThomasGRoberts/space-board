@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 31 |
-| supercluster | 0 | 1 | 60 | 82 |
+| supercluster | 0 | 1 | 61 | 83 |
 | aidy | 1 | 3 | 19 | 29 |
 | nyt | 2 | 7 | 20 | 33 |
 | breaking_defense | 0 | 1 | 18 | 28 |
@@ -1863,3 +1863,4 @@
 - **Mar 16, 04:41 PM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 16, 04:55 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 04:57 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 04:59 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
