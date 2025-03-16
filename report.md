@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 26 |
-| supercluster | 2 | 2 | 121 | 121 |
+| supercluster | 2 | 2 | 122 | 122 |
 | aidy | 1 | 3 | 19 | 25 |
 | nyt | 1 | 6 | 19 | 28 |
 | breaking_defense | 0 | 1 | 18 | 24 |
@@ -1884,3 +1884,4 @@
 - **Mar 16, 10:17 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
 - **Mar 16, 10:31 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 16, 10:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 10:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
