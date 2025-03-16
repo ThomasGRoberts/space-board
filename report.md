@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 19 | 35 |
+| spacenews | 1 | 4 | 20 | 36 |
 | supercluster | 0 | 1 | 86 | 115 |
 | aidy | 1 | 3 | 20 | 34 |
 | nyt | 2 | 7 | 20 | 38 |
@@ -1915,3 +1915,4 @@
 - **Mar 16, 09:53 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 16, 10:07 PM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 16, 10:23 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
+- **Mar 16, 10:37 PM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
