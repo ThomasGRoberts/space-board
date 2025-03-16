@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 64 | 64 |
 | aidy | 2 | 2 | 16 | 16 |
 | nyt | 5 | 5 | 19 | 19 |
-| breaking_defense | 1 | 1 | 15 | 15 |
+| breaking_defense | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1792,3 +1792,4 @@
 - **Mar 15, 11:35 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
 - **Mar 15, 11:49 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 16, 12:03 AM** - Boeing remains committed to space business (spacenews)
+- **Mar 16, 12:18 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
