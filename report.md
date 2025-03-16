@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 32 |
+| spacenews | 2 | 4 | 20 | 33 |
 | supercluster | 0 | 1 | 72 | 94 |
 | aidy | 1 | 3 | 20 | 31 |
 | nyt | 2 | 7 | 20 | 35 |
@@ -1882,3 +1882,4 @@
 - **Mar 16, 06:19 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 06:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 16, 06:49 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 16, 07:03 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
