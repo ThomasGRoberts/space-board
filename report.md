@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 19 | 25 |
+| spacenews | 2 | 3 | 20 | 26 |
 | supercluster | 2 | 2 | 120 | 120 |
 | aidy | 1 | 3 | 19 | 25 |
 | nyt | 1 | 6 | 19 | 28 |
@@ -1881,3 +1881,4 @@
 - **Mar 16, 09:47 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 09:49 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 10:03 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
+- **Mar 16, 10:17 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
