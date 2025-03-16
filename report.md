@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 79 | 101 |
 | aidy | 1 | 3 | 20 | 32 |
 | nyt | 2 | 7 | 21 | 36 |
-| breaking_defense | 0 | 1 | 18 | 30 |
+| breaking_defense | 0 | 1 | 19 | 31 |
 
 # Shown Order
 
@@ -1892,3 +1892,4 @@
 - **Mar 16, 07:29 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 07:31 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 16, 07:45 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
+- **Mar 16, 07:59 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
