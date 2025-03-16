@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 58 | 80 |
 | aidy | 1 | 3 | 20 | 29 |
 | nyt | 2 | 7 | 20 | 33 |
-| breaking_defense | 0 | 1 | 18 | 27 |
+| breaking_defense | 0 | 1 | 19 | 28 |
 
 # Shown Order
 
@@ -1859,3 +1859,4 @@
 - **Mar 16, 03:45 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 16, 03:59 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 16, 04:13 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
+- **Mar 16, 04:27 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
