@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 33 |
-| supercluster | 0 | 1 | 73 | 95 |
+| supercluster | 0 | 1 | 74 | 96 |
 | aidy | 1 | 3 | 19 | 31 |
 | nyt | 2 | 7 | 20 | 35 |
-| breaking_defense | 0 | 1 | 19 | 30 |
+| breaking_defense | 0 | 1 | 18 | 30 |
 
 # Shown Order
 
@@ -1884,3 +1884,4 @@
 - **Mar 16, 06:49 PM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 16, 07:03 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
 - **Mar 16, 07:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 07:19 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
