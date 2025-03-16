@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 19 | 23 |
-| supercluster | 2 | 2 | 101 | 101 |
+| supercluster | 2 | 2 | 102 | 102 |
 | aidy | 1 | 2 | 18 | 21 |
 | nyt | 1 | 6 | 18 | 25 |
 | breaking_defense | 0 | 1 | 18 | 21 |
@@ -1851,3 +1851,4 @@
 - **Mar 16, 06:45 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 16, 06:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 07:01 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 07:03 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
