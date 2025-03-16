@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-16T00:01:38.473740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd5bf568f57cb9c0c4ba3d0c337715c6",
+    "trigger_count": 0,
+    "current_item_id": "700aac9fd451a1ac9a6a8c512abdb2f6",
     "data": [
         {
             "id": "889a324756f0f4d727fe460ea8631818",
@@ -4987,6 +4987,18 @@
             "fetched_datetime": "2025-03-16T15:17:48.742714Z",
             "shown_at": [
                 "2025-03-16T15:17:49.666276Z"
+            ]
+        },
+        {
+            "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
+            "source": "nyt",
+            "text": "SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return",
+            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T16:13:35.015290Z",
+            "shown_at": [
+                "2025-03-16T16:13:35.719561Z"
             ]
         }
     ]
