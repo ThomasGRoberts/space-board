@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 19 | 29 |
-| supercluster | 0 | 1 | 63 | 73 |
+| supercluster | 0 | 1 | 62 | 73 |
 | aidy | 1 | 3 | 20 | 28 |
 | nyt | 1 | 6 | 20 | 31 |
-| breaking_defense | 0 | 1 | 18 | 26 |
+| breaking_defense | 0 | 1 | 19 | 27 |
 
 # Shown Order
 
@@ -1847,3 +1847,4 @@
 - **Mar 16, 02:21 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
 - **Mar 16, 02:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 16, 02:49 PM** - Isar Aerospace wins Norwegian Space Agency launch contract (spacenews)
+- **Mar 16, 03:03 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
