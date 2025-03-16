@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 18 | 21 |
-| supercluster | 2 | 2 | 85 | 85 |
+| supercluster | 2 | 2 | 86 | 86 |
 | aidy | 1 | 2 | 17 | 19 |
 | nyt | 1 | 6 | 18 | 23 |
 | breaking_defense | 0 | 1 | 17 | 19 |
@@ -1827,3 +1827,4 @@
 - **Mar 16, 03:51 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 16, 04:05 AM** - NASA closes offices, lays off staff as it prepares for larger workforce reductions (spacenews)
 - **Mar 16, 04:19 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 16, 04:35 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
