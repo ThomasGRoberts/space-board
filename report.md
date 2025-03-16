@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 18 | 21 |
 | supercluster | 2 | 2 | 92 | 92 |
-| aidy | 1 | 2 | 17 | 19 |
+| aidy | 1 | 2 | 18 | 20 |
 | nyt | 1 | 6 | 18 | 23 |
 | breaking_defense | 0 | 1 | 17 | 19 |
 
@@ -1834,3 +1834,4 @@
 - **Mar 16, 04:43 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 04:45 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 04:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Mar 16, 04:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
