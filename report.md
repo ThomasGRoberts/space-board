@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 19 | 32 |
 | supercluster | 0 | 1 | 72 | 94 |
 | aidy | 1 | 3 | 20 | 31 |
-| nyt | 2 | 7 | 20 | 34 |
+| nyt | 2 | 7 | 21 | 35 |
 | breaking_defense | 0 | 1 | 18 | 29 |
 
 # Shown Order
@@ -1880,3 +1880,4 @@
 - **Mar 16, 06:15 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 06:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 06:19 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 16, 06:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
