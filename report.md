@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 17 | 19 |
+| spacenews | 2 | 3 | 18 | 20 |
 | supercluster | 2 | 2 | 78 | 78 |
 | aidy | 1 | 2 | 17 | 18 |
 | nyt | 1 | 6 | 19 | 22 |
@@ -1814,3 +1814,4 @@
 - **Mar 16, 02:23 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 02:25 AM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 16, 02:39 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 16, 02:53 AM** - Where are we on the journey to a lunar economy? (spacenews)
