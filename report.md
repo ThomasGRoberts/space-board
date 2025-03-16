@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 18 | 22 |
+| spacenews | 2 | 3 | 19 | 23 |
 | supercluster | 2 | 2 | 99 | 99 |
 | aidy | 1 | 2 | 18 | 21 |
 | nyt | 1 | 6 | 19 | 25 |
@@ -1847,3 +1847,4 @@
 - **Mar 16, 05:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 05:59 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 16, 06:15 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 16, 06:29 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
