@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 99 | 99 |
 | aidy | 1 | 2 | 18 | 21 |
 | nyt | 1 | 6 | 18 | 25 |
-| breaking_defense | 0 | 1 | 17 | 20 |
+| breaking_defense | 0 | 1 | 18 | 21 |
 
 # Shown Order
 
@@ -1848,3 +1848,4 @@
 - **Mar 16, 05:59 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 16, 06:15 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 16, 06:29 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
+- **Mar 16, 06:45 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
