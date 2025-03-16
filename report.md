@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 20 | 28 |
 | supercluster | 0 | 1 | 65 | 73 |
-| aidy | 1 | 3 | 19 | 27 |
+| aidy | 1 | 3 | 20 | 28 |
 | nyt | 1 | 6 | 19 | 30 |
 | breaking_defense | 0 | 1 | 18 | 26 |
 
@@ -1844,3 +1844,4 @@
 - **Mar 16, 02:15 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 02:17 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 16, 02:19 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 16, 02:21 PM** - DOJ Dismisses SpaceX Hiring Case, Marking Major Legal Win for Company (aidy)
