@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 58 | 66 |
 | aidy | 1 | 3 | 20 | 27 |
 | nyt | 1 | 6 | 19 | 30 |
-| breaking_defense | 0 | 1 | 18 | 25 |
+| breaking_defense | 0 | 1 | 19 | 26 |
 
 # Shown Order
 
@@ -1836,3 +1836,4 @@
 - **Mar 16, 01:09 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 01:23 PM** - NASA Eliminates Chief Scientist and Other Jobs at Its Headquarters (nyt)
 - **Mar 16, 01:37 PM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
+- **Mar 16, 01:51 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
