@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 18 | 21 |
+| spacenews | 2 | 3 | 19 | 22 |
 | supercluster | 2 | 2 | 92 | 92 |
 | aidy | 1 | 2 | 18 | 20 |
-| nyt | 1 | 6 | 19 | 24 |
+| nyt | 1 | 6 | 18 | 24 |
 | breaking_defense | 0 | 1 | 17 | 19 |
 
 # Shown Order
@@ -1836,3 +1836,4 @@
 - **Mar 16, 04:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Mar 16, 04:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 16, 05:03 AM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
+- **Mar 16, 05:17 AM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
