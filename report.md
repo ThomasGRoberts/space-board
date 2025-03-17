@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -1888,3 +1888,4 @@
 - **Mar 17, 03:02 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 17, 03:17 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 17, 03:31 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 03:33 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
