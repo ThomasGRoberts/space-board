@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
-| spacenews | 8 | 10 | 21 | 41 |
+| spacenews | 9 | 11 | 22 | 42 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 56 | 56 |
@@ -1920,3 +1920,4 @@
 - **Mar 17, 06:41 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 06:43 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 17, 06:57 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 17, 07:11 PM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
