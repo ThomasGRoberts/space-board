@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 19 | 38 |
+| nyt | 2 | 3 | 20 | 39 |
 | spacenews | 4 | 6 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -1861,3 +1861,4 @@
 - **Mar 17, 11:43 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 11:45 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 11:47 AM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
+- **Mar 17, 12:01 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
