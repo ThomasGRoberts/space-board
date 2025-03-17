@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 38 |
 | spacenews | 3 | 5 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 0 | 2 | 18 | 38 |
 | supercluster | 0 | 1 | 114 | 164 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -1993,3 +1993,4 @@
 - **Mar 17, 06:43 AM** - America’s next Sputnik moment is already here (spacenews)
 - **Mar 17, 06:57 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 17, 07:13 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
+- **Mar 17, 07:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
