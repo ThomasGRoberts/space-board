@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 18 | 39 |
 | spacenews | 6 | 8 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -1896,3 +1896,4 @@
 - **Mar 17, 03:44 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 03:47 PM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)
 - **Mar 17, 04:02 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
+- **Mar 17, 04:17 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)

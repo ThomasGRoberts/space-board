@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ebcaf2af843159075dd0d8430e44beb5",
+    "trigger_count": 0,
+    "current_item_id": "2ff10968d8fb4819ea78b5a94ea6f957",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5124,6 +5124,18 @@
             "fetched_datetime": "2025-03-17T15:47:12.274735Z",
             "shown_at": [
                 "2025-03-17T15:47:13.004280Z"
+            ]
+        },
+        {
+            "id": "2ff10968d8fb4819ea78b5a94ea6f957",
+            "source": "breaking_defense",
+            "text": "Space supply chain gaps: Propulsion, hardened electronics and laser links",
+            "source_link": "https://breakingdefense.com/2025/03/space-supply-chain-gaps-propulsion-hardened-electronics-and-laser-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T16:17:34.843365Z",
+            "shown_at": [
+                "2025-03-17T16:17:35.526846Z"
             ]
         }
     ]
