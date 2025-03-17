@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
+    "trigger_count": 0,
+    "current_item_id": "4904cea3745c75528b4fed9cce224187",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5085,6 +5085,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "4904cea3745c75528b4fed9cce224187",
+            "source": "nyt",
+            "text": "NASA Schedules Quick Return of Astronauts in SpaceX Capsule",
+            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T01:29:30.767489Z",
+            "shown_at": [
+                "2025-03-17T01:29:31.351432Z"
             ]
         }
     ]
