@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 18 | 39 |
-| spacenews | 10 | 11 | 22 | 41 |
+| nyt | 1 | 3 | 18 | 38 |
+| spacenews | 10 | 11 | 23 | 42 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | supercluster | 1 | 1 | 70 | 70 |
@@ -1941,3 +1941,4 @@
 - **Mar 17, 08:59 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 09:01 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 09:03 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
+- **Mar 17, 09:17 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
