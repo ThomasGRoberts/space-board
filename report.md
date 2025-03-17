@@ -6,7 +6,7 @@
 | spacenews | 4 | 6 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -1854,3 +1854,4 @@
 - **Mar 17, 11:05 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 11:19 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 17, 11:33 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 11:35 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
