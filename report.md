@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 39 |
-| spacenews | 1 | 4 | 20 | 38 |
-| aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 93 | 136 |
+| spacenews | 1 | 3 | 20 | 37 |
+| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 0 | 1 | 94 | 137 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 
 # Shown Order
@@ -1949,3 +1949,4 @@
 - **Mar 17, 01:43 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 17, 01:57 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 02:13 AM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
+- **Mar 17, 02:27 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
