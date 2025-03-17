@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 38 |
 | spacenews | 2 | 4 | 20 | 38 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 100 | 150 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 
@@ -1969,3 +1969,4 @@
 - **Mar 17, 03:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 03:55 AM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
 - **Mar 17, 04:09 AM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
+- **Mar 17, 04:23 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
