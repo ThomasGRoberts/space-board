@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 19 | 38 |
-| spacenews | 6 | 8 | 21 | 41 |
+| nyt | 2 | 3 | 20 | 39 |
+| spacenews | 6 | 8 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -1883,3 +1883,4 @@
 - **Mar 17, 02:25 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 02:27 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 02:29 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 02:32 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
