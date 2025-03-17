@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
-| spacenews | 5 | 7 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| spacenews | 6 | 8 | 21 | 41 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -1894,3 +1894,4 @@
 - **Mar 17, 03:39 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 03:41 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 03:44 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 03:47 PM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+    "trigger_count": 0,
+    "current_item_id": "f5ddac627c3c9bcd88dd484c83fe8be6",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5111,6 +5111,18 @@
             "shown_at": [
                 "2025-03-17T13:33:32.707107Z",
                 "2025-03-17T14:47:37.715594Z"
+            ]
+        },
+        {
+            "id": "f5ddac627c3c9bcd88dd484c83fe8be6",
+            "source": "spacenews",
+            "text": "Firefly Aerospace wraps up successful Blue Ghost 1 mission",
+            "source_link": "https://spacenews.com/firefly-aerospace-wraps-up-successful-blue-ghost-1-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T15:47:12.274735Z",
+            "shown_at": [
+                "2025-03-17T15:47:13.004280Z"
             ]
         }
     ]
