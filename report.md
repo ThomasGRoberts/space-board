@@ -6,7 +6,7 @@
 | spacenews | 3 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -1843,3 +1843,4 @@
 - **Mar 17, 09:53 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 17, 10:07 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 17, 10:22 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 10:25 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
