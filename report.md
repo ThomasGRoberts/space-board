@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 20 | 40 |
 | spacenews | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 87 | 130 |
+| supercluster | 0 | 1 | 88 | 131 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 
 # Shown Order
@@ -1939,3 +1939,4 @@
 - **Mar 17, 12:47 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 17, 01:01 AM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
 - **Mar 17, 01:15 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 01:18 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
