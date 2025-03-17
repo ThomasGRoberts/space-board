@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
+    "trigger_count": 0,
+    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5005,17 +5005,17 @@
             ]
         },
         {
-            "id": "eacf525baa97c18f19ce270cb7d25e09",
+            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
             "source": "supercluster",
-            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/ceres-14",
+            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source_link": "https://www.supercluster.com/launches/high-five",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-17T08:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-17T09:09:49.342819Z",
+            "target_datetime": "2025-03-18T01:31:00.000Z",
+            "time_remaining": "0d 16h 19m",
+            "fetched_datetime": "2025-03-17T09:11:53.746203Z",
             "shown_at": [
-                "2025-03-17T09:09:50.226034Z"
+                "2025-03-17T09:11:54.538789Z"
             ]
         }
     ]

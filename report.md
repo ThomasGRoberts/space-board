@@ -1831,4 +1831,4 @@
 - **Mar 17, 07:13 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 17, 07:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 17, 07:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
-- **Mar 17, 09:09 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 09:11 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
