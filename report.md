@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 7 | 20 | 39 |
 | spacenews | 1 | 4 | 19 | 37 |
-| aidy | 1 | 3 | 19 | 35 |
+| aidy | 1 | 3 | 20 | 36 |
 | supercluster | 0 | 1 | 93 | 129 |
 | breaking_defense | 0 | 1 | 19 | 34 |
 
@@ -1934,3 +1934,4 @@
 - **Mar 17, 12:09 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 12:11 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 12:13 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 12:15 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
