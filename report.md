@@ -6,7 +6,7 @@
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 107 | 157 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
 
@@ -1981,3 +1981,4 @@
 - **Mar 17, 05:05 AM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 17, 05:21 AM** - Working around ongoing supply-chain bottlenecks (spacenews)
 - **Mar 17, 05:39 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 17, 05:55 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
