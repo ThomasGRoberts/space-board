@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
-| spacenews | 3 | 5 | 20 | 40 |
+| spacenews | 3 | 5 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -1831,4 +1831,4 @@
 - **Mar 17, 07:13 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 17, 07:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 17, 07:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
-- **Mar 17, 08:11 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 08:13 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
