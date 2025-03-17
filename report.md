@@ -5,8 +5,8 @@
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 6 | 8 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 29 | 29 |
+| breaking_defense | 0 | 0 | 18 | 36 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -1877,3 +1877,4 @@
 - **Mar 17, 01:47 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 02:02 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 17, 02:17 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 02:19 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
