@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 6 | 8 | 21 | 41 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -1875,3 +1875,4 @@
 - **Mar 17, 01:19 PM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 17, 01:33 PM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
 - **Mar 17, 01:47 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 17, 02:02 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
