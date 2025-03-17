@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 19 | 38 |
+| nyt | 2 | 3 | 20 | 39 |
 | spacenews | 5 | 7 | 21 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -1872,3 +1872,4 @@
 - **Mar 17, 01:02 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 01:03 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 01:05 PM** - Apollo left footprints — Mars must leave a legacy (spacenews)
+- **Mar 17, 01:19 PM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
