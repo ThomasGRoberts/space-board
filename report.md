@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 38 |
-| spacenews | 2 | 4 | 19 | 38 |
+| spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 0 | 1 | 114 | 164 |
 | breaking_defense | 0 | 0 | 19 | 36 |
@@ -1990,3 +1990,4 @@
 - **Mar 17, 06:21 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 06:24 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 06:27 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 17, 06:43 AM** - America’s next Sputnik moment is already here (spacenews)
