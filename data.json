@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8f066e9a05b98483f1b83c50be1ac32",
+    "trigger_count": 0,
+    "current_item_id": "cc3384010015760f7f1bf6d93c99ec95",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5159,6 +5159,18 @@
             "fetched_datetime": "2025-03-17T17:43:35.654599Z",
             "shown_at": [
                 "2025-03-17T17:43:36.207984Z"
+            ]
+        },
+        {
+            "id": "cc3384010015760f7f1bf6d93c99ec95",
+            "source": "spacenews",
+            "text": "Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby",
+            "source_link": "https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T17:57:20.295969Z",
+            "shown_at": [
+                "2025-03-17T17:57:20.890791Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
-| spacenews | 7 | 9 | 21 | 41 |
+| spacenews | 8 | 10 | 22 | 42 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 49 | 49 |
@@ -1909,3 +1909,4 @@
 - **Mar 17, 05:15 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 17, 05:29 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 05:43 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
+- **Mar 17, 05:57 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
