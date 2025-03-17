@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 37 |
-| spacenews | 1 | 3 | 19 | 37 |
+| spacenews | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 37 |
-| supercluster | 0 | 1 | 99 | 143 |
+| supercluster | 0 | 1 | 98 | 143 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
@@ -1959,3 +1959,4 @@
 - **Mar 17, 02:41 AM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 17, 02:56 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 17, 03:11 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 17, 03:26 AM** - Momentus and Solstar to offer on-demand communications for Vigoride (spacenews)
