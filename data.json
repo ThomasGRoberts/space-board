@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+    "trigger_count": 0,
+    "current_item_id": "896b54faf739bd7e03d8750950655594",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5066,6 +5066,18 @@
             "fetched_datetime": "2025-03-17T10:37:30.377924Z",
             "shown_at": [
                 "2025-03-17T10:37:31.000963Z"
+            ]
+        },
+        {
+            "id": "896b54faf739bd7e03d8750950655594",
+            "source": "spacenews",
+            "text": "Apollo left footprints — Mars must leave a legacy",
+            "source_link": "https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T13:05:43.850687Z",
+            "shown_at": [
+                "2025-03-17T13:05:44.424350Z"
             ]
         }
     ]
