@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 6 | 7 | 21 | 40 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -1886,3 +1886,4 @@
 - **Mar 17, 02:32 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 17, 02:47 PM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
 - **Mar 17, 03:02 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 17, 03:17 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
