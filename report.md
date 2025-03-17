@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 20 | 37 |
 | spacenews | 1 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 95 | 145 |
+| supercluster | 0 | 1 | 96 | 146 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
@@ -1962,3 +1962,4 @@
 - **Mar 17, 03:26 AM** - Momentus and Solstar to offer on-demand communications for Vigoride (spacenews)
 - **Mar 17, 03:39 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 03:41 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 03:43 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
