@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 7 | 20 | 39 |
-| spacenews | 1 | 4 | 20 | 37 |
+| spacenews | 1 | 4 | 19 | 37 |
 | aidy | 1 | 3 | 19 | 35 |
-| supercluster | 0 | 1 | 88 | 124 |
+| supercluster | 0 | 1 | 89 | 125 |
 | breaking_defense | 0 | 1 | 19 | 34 |
 
 # Shown Order
@@ -1929,3 +1929,4 @@
 - **Mar 16, 11:47 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
 - **Mar 17, 12:02 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 12:03 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 12:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
