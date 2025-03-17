@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 37 |
 | spacenews | 3 | 5 | 20 | 39 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -1841,3 +1841,4 @@
 - **Mar 17, 09:25 AM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 17, 09:39 AM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
 - **Mar 17, 09:53 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 17, 10:07 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
