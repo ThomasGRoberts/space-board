@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 20 | 40 |
-| spacenews | 1 | 4 | 19 | 38 |
+| spacenews | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 36 |
 | supercluster | 0 | 1 | 93 | 136 |
-| breaking_defense | 0 | 0 | 19 | 34 |
+| breaking_defense | 0 | 0 | 20 | 35 |
 
 # Shown Order
 
@@ -1947,3 +1947,4 @@
 - **Mar 17, 01:27 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 01:29 AM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 17, 01:43 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 17, 01:57 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
