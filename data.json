@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dff32a2867a47349524647fef7bcf479",
+    "trigger_count": 0,
+    "current_item_id": "07d066dd4e9f6b4e5199381bf8b98ccb",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5154,6 +5154,18 @@
             "fetched_datetime": "2025-03-17T04:09:26.857403Z",
             "shown_at": [
                 "2025-03-17T04:09:27.403267Z"
+            ]
+        },
+        {
+            "id": "07d066dd4e9f6b4e5199381bf8b98ccb",
+            "source": "spacenews",
+            "text": "Constellr releases  first-light imagery of Tokyo",
+            "source_link": "https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T07:13:32.057794Z",
+            "shown_at": [
+                "2025-03-17T07:13:32.666109Z"
             ]
         }
     ]
