@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+    "trigger_count": 0,
+    "current_item_id": "95c11148b5b97d73244509f2b30053f9",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5033,6 +5033,18 @@
                 "2025-03-17T10:31:26.096982Z",
                 "2025-03-17T10:33:52.104493Z",
                 "2025-03-17T10:35:33.880545Z"
+            ]
+        },
+        {
+            "id": "95c11148b5b97d73244509f2b30053f9",
+            "source": "spacenews",
+            "text": "NASA gets extension to submit layoff plans",
+            "source_link": "https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T10:37:30.377924Z",
+            "shown_at": [
+                "2025-03-17T10:37:31.000963Z"
             ]
         }
     ]
