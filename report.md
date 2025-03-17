@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 20 | 39 |
 | spacenews | 1 | 4 | 20 | 37 |
 | aidy | 1 | 3 | 19 | 35 |
-| supercluster | 0 | 1 | 87 | 123 |
+| supercluster | 0 | 1 | 88 | 124 |
 | breaking_defense | 0 | 1 | 19 | 34 |
 
 # Shown Order
@@ -1928,3 +1928,4 @@
 - **Mar 16, 11:33 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 16, 11:47 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
 - **Mar 17, 12:02 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 12:03 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
