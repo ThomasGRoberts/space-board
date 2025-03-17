@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
 | spacenews | 10 | 11 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 63 | 63 |
 
@@ -1932,3 +1932,4 @@
 - **Mar 17, 07:53 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 17, 08:07 PM** - SES shrinks board as shareholder calls for bigger changes (spacenews)
 - **Mar 17, 08:22 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 17, 08:35 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
