@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 4 | 6 | 20 | 39 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -1851,3 +1851,4 @@
 - **Mar 17, 10:35 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 10:37 AM** - NASA gets extension to submit layoff plans (spacenews)
 - **Mar 17, 10:51 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 17, 11:05 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
