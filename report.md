@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
-| spacenews | 10 | 11 | 22 | 41 |
+| spacenews | 10 | 11 | 23 | 42 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | supercluster | 1 | 1 | 77 | 77 |
@@ -1952,3 +1952,4 @@
 - **Mar 17, 10:13 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 10:15 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 10:17 PM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 17, 10:32 PM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
