@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e886219c71608468437f58e90d1da74",
+    "trigger_count": 0,
+    "current_item_id": "f8f066e9a05b98483f1b83c50be1ac32",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5147,6 +5147,18 @@
             "fetched_datetime": "2025-03-17T16:17:34.843365Z",
             "shown_at": [
                 "2025-03-17T16:17:35.526846Z"
+            ]
+        },
+        {
+            "id": "f8f066e9a05b98483f1b83c50be1ac32",
+            "source": "spacenews",
+            "text": "Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract",
+            "source_link": "https://spacenews.com/cambrian-works-selected-by-afwerx-for-a-1-78m-direct-to-phase-ii-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T17:43:35.654599Z",
+            "shown_at": [
+                "2025-03-17T17:43:36.207984Z"
             ]
         }
     ]
