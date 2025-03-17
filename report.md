@@ -6,7 +6,7 @@
 | spacenews | 2 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 100 | 150 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
 
@@ -1970,3 +1970,4 @@
 - **Mar 17, 03:55 AM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
 - **Mar 17, 04:09 AM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 17, 04:23 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 17, 04:37 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
