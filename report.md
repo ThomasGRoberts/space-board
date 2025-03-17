@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
 | spacenews | 9 | 11 | 22 | 42 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -1921,3 +1921,4 @@
 - **Mar 17, 06:43 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 17, 06:57 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 17, 07:11 PM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
+- **Mar 17, 07:25 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
