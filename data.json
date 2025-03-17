@@ -1,9 +1,59 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-16T00:01:38.473740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d0058a098d05ee428c4e80c69347877b",
+    "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
+    "trigger_count": 0,
+    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
     "data": [
+        {
+            "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
+            "source": "nyt",
+            "text": "SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return",
+            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T16:13:35.015290Z",
+            "shown_at": [
+                "2025-03-16T16:13:35.719561Z"
+            ]
+        },
+        {
+            "id": "615ee5c191365976ac53f955dd4376f1",
+            "source": "spacenews",
+            "text": "Crew-10 arrives at space station",
+            "source_link": "https://spacenews.com/crew-10-arrives-at-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T15:17:48.742714Z",
+            "shown_at": [
+                "2025-03-16T15:17:49.666276Z"
+            ]
+        },
+        {
+            "id": "d4c86f9febd30722c55bdefa8d28ea67",
+            "source": "aidy",
+            "text": "ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T07:27:37.232102Z",
+            "shown_at": [
+                "2025-03-16T07:27:37.700445Z"
+            ]
+        },
+        {
+            "id": "e7ebee1e47cfcf9f64c5ed64374d2de0",
+            "source": "nyt",
+            "text": "Bringing Astronauts Home",
+            "source_link": "https://www.nytimes.com/2025/03/14/briefing/bringing-astronauts-home.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-16T01:28:14.698366Z",
+            "shown_at": [
+                "2025-03-16T01:28:15.706683Z",
+                "2025-03-16T20:57:40.429260Z",
+                "2025-03-16T23:19:31.385944Z"
+            ]
+        },
         {
             "id": "889a324756f0f4d727fe460ea8631818",
             "source": "spacenews",
@@ -161,7 +211,8 @@
                 "2025-03-16T22:57:43.408483Z",
                 "2025-03-16T22:59:03.617905Z",
                 "2025-03-16T23:02:03.297214Z",
-                "2025-03-16T23:03:44.842149Z"
+                "2025-03-16T23:03:44.842149Z",
+                "2025-03-17T00:02:02.878072Z"
             ]
         },
         {
@@ -5017,56 +5068,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "e7ebee1e47cfcf9f64c5ed64374d2de0",
-            "source": "nyt",
-            "text": "Bringing Astronauts Home",
-            "source_link": "https://www.nytimes.com/2025/03/14/briefing/bringing-astronauts-home.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-16T01:28:14.698366Z",
-            "shown_at": [
-                "2025-03-16T01:28:15.706683Z",
-                "2025-03-16T20:57:40.429260Z",
-                "2025-03-16T23:19:31.385944Z"
-            ]
-        },
-        {
-            "id": "d4c86f9febd30722c55bdefa8d28ea67",
-            "source": "aidy",
-            "text": "ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-16T07:27:37.232102Z",
-            "shown_at": [
-                "2025-03-16T07:27:37.700445Z"
-            ]
-        },
-        {
-            "id": "615ee5c191365976ac53f955dd4376f1",
-            "source": "spacenews",
-            "text": "Crew-10 arrives at space station",
-            "source_link": "https://spacenews.com/crew-10-arrives-at-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-16T15:17:48.742714Z",
-            "shown_at": [
-                "2025-03-16T15:17:49.666276Z"
-            ]
-        },
-        {
-            "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
-            "source": "nyt",
-            "text": "SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return",
-            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-16T16:13:35.015290Z",
-            "shown_at": [
-                "2025-03-16T16:13:35.719561Z"
             ]
         }
     ]
