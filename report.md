@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 20 | 38 |
+| nyt | 2 | 3 | 19 | 38 |
 | spacenews | 3 | 5 | 21 | 40 |
-| aidy | 0 | 1 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 114 | 164 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
@@ -1994,3 +1994,4 @@
 - **Mar 17, 06:57 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 17, 07:13 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 17, 07:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
+- **Mar 17, 07:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)

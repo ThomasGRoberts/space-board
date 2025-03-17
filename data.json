@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53cfc7188f72ab53bb410b995981cdd9",
+    "trigger_count": 0,
+    "current_item_id": "2c6062bf8002a4d4ed36efc208ac6c2f",
     "data": [
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
@@ -5167,6 +5167,18 @@
             "fetched_datetime": "2025-03-17T07:13:32.057794Z",
             "shown_at": [
                 "2025-03-17T07:13:32.666109Z"
+            ]
+        },
+        {
+            "id": "2c6062bf8002a4d4ed36efc208ac6c2f",
+            "source": "aidy",
+            "text": "SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T07:43:49.436111Z",
+            "shown_at": [
+                "2025-03-17T07:43:50.526859Z"
             ]
         }
     ]
