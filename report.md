@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 18 | 38 |
 | spacenews | 8 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
@@ -1919,3 +1919,4 @@
 - **Mar 17, 06:39 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 06:41 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 06:43 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
+- **Mar 17, 06:57 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
