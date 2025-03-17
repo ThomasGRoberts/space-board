@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 20 | 39 |
 | spacenews | 1 | 3 | 20 | 37 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 95 | 138 |
+| supercluster | 0 | 1 | 96 | 139 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 
 # Shown Order
@@ -1951,3 +1951,4 @@
 - **Mar 17, 02:13 AM** - SpaceWERX selects eight companies for $440 million in public-private partnerships (spacenews)
 - **Mar 17, 02:27 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 17, 02:29 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 02:31 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
