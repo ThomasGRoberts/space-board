@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 38 |
 | spacenews | 10 | 11 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -1954,3 +1954,4 @@
 - **Mar 17, 10:17 PM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 17, 10:32 PM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 17, 10:45 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 17, 10:59 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
