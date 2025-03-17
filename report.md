@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 6 | 8 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -1878,3 +1878,4 @@
 - **Mar 17, 02:02 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 17, 02:17 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 17, 02:19 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 17, 02:21 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
