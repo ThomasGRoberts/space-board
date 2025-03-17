@@ -6,7 +6,7 @@
 | spacenews | 10 | 11 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -1955,3 +1955,4 @@
 - **Mar 17, 10:32 PM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 17, 10:45 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 10:59 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 17, 11:15 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
