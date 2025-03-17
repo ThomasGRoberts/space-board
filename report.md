@@ -6,7 +6,7 @@
 | spacenews | 10 | 11 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -1944,3 +1944,4 @@
 - **Mar 17, 09:17 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 17, 09:31 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 17, 09:47 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
+- **Mar 17, 10:02 PM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
