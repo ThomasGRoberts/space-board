@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 19 | 38 |
 | spacenews | 3 | 5 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 0 | 1 | 115 | 165 |
+| supercluster | 0 | 1 | 116 | 166 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
@@ -1996,3 +1996,4 @@
 - **Mar 17, 07:27 AM** - Deputy defense secretary nominee has ‘clear conflict of interest’ with Ligado lawsuit: Sen. Warren (breaking_defense)
 - **Mar 17, 07:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 17, 07:57 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 17, 07:59 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
