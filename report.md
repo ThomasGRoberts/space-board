@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 21 | 41 |
+| spacenews | 10 | 11 | 21 | 40 |
 | breaking_defense | 1 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 2 | 4 | 18 | 38 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -1900,3 +1900,4 @@
 - **Mar 18, 03:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 03:53 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
+- **Mar 18, 04:07 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
