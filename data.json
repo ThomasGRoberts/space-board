@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6062bf8002a4d4ed36efc208ac6c2f",
+    "trigger_count": 0,
+    "current_item_id": "c89a3b838803a69f0254178e2a927cf3",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5410,6 +5410,18 @@
             "fetched_datetime": "2025-03-18T21:37:41.471274Z",
             "shown_at": [
                 "2025-03-18T21:37:42.459708Z"
+            ]
+        },
+        {
+            "id": "c89a3b838803a69f0254178e2a927cf3",
+            "source": "spacenews",
+            "text": "Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division",
+            "source_link": "https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:05:26.556025Z",
+            "shown_at": [
+                "2025-03-18T22:05:27.117638Z"
             ]
         }
     ]

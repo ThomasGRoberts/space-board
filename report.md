@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 21 | 43 |
+| spacenews | 9 | 19 | 22 | 44 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 6 | 7 | 19 | 37 |
@@ -1951,3 +1951,4 @@
 - **Mar 18, 09:23 PM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 18, 09:37 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 18, 09:51 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 18, 10:05 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
