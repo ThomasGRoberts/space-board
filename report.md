@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 23 | 43 |
 | breaking_defense | 0 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 5 | 6 | 20 | 38 |
 | supercluster | 1 | 1 | 72 | 72 |
 
@@ -2006,3 +2006,4 @@
 - **Mar 18, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 04:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 04:33 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 18, 04:47 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
