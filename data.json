@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "0e6421b72493b40ca4cb0e065037365f",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5441,6 +5441,18 @@
             "fetched_datetime": "2025-03-18T22:19:29.958849Z",
             "shown_at": [
                 "2025-03-18T22:19:30.475191Z"
+            ]
+        },
+        {
+            "id": "0e6421b72493b40ca4cb0e065037365f",
+            "source": "spacenews",
+            "text": "Europe funds inflatable satellite drag sail demonstration",
+            "source_link": "https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:47:34.360709Z",
+            "shown_at": [
+                "2025-03-18T22:47:34.923449Z"
             ]
         }
     ]
