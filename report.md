@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 4 | 6 | 20 | 39 |
 | supercluster | 1 | 1 | 37 | 37 |
 
@@ -1948,3 +1948,4 @@
 - **Mar 18, 09:16 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 18, 09:29 AM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
 - **Mar 18, 09:43 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 18, 09:57 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
