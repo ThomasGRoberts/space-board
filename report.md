@@ -5,7 +5,7 @@
 | spacenews | 10 | 11 | 22 | 41 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 84 | 84 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 3 | 18 | 38 |
 
 # Shown Order
@@ -1965,3 +1965,4 @@
 - **Mar 17, 11:29 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 17, 11:44 PM** - Boeing remains committed to space business (spacenews)
 - **Mar 17, 11:59 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 18, 12:13 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
