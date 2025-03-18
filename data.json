@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c89a3b838803a69f0254178e2a927cf3",
+    "trigger_count": 0,
+    "current_item_id": "665c6bbcd31cdade624971620af6f6d8",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5422,6 +5422,18 @@
             "fetched_datetime": "2025-03-18T22:05:26.556025Z",
             "shown_at": [
                 "2025-03-18T22:05:27.117638Z"
+            ]
+        },
+        {
+            "id": "665c6bbcd31cdade624971620af6f6d8",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:19:29.958849Z",
+            "shown_at": [
+                "2025-03-18T22:19:30.475191Z"
             ]
         }
     ]

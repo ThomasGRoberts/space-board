@@ -5,7 +5,7 @@
 | spacenews | 9 | 19 | 22 | 44 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
-| nyt | 6 | 7 | 19 | 36 |
+| nyt | 7 | 8 | 19 | 37 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -1952,3 +1952,4 @@
 - **Mar 18, 09:37 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 18, 09:51 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 18, 10:05 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
+- **Mar 18, 10:19 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
