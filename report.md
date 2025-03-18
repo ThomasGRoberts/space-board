@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 6 | 20 | 38 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -1998,3 +1998,4 @@
 - **Mar 18, 03:37 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 18, 03:51 PM** - Samara Aerospace poised for spaceflight testing of Hummingbird technology (spacenews)
 - **Mar 18, 04:05 PM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 18, 04:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
