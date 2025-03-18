@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b24c54abb8ddfa924275de1eb640f00e",
+    "trigger_count": 0,
+    "current_item_id": "58ac38ad3689a1606f7917e8ac0448c4",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5299,6 +5299,18 @@
             "fetched_datetime": "2025-03-18T10:11:34.915732Z",
             "shown_at": [
                 "2025-03-18T10:11:35.516489Z"
+            ]
+        },
+        {
+            "id": "58ac38ad3689a1606f7917e8ac0448c4",
+            "source": "spacenews",
+            "text": "Rocket Lab launches final set of Kinéis satellites",
+            "source_link": "https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T10:25:50.173076Z",
+            "shown_at": [
+                "2025-03-18T10:25:50.908864Z"
             ]
         }
     ]

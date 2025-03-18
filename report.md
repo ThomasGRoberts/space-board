@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 22 | 41 |
+| spacenews | 10 | 13 | 23 | 42 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 4 | 6 | 20 | 38 |
@@ -1950,3 +1950,4 @@
 - **Mar 18, 09:43 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 18, 09:57 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 18, 10:11 AM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
+- **Mar 18, 10:25 AM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
