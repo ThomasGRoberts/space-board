@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 22 | 42 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 20 | 39 |
 | supercluster | 1 | 1 | 44 | 44 |
 
@@ -1960,3 +1960,4 @@
 - **Mar 18, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 10:53 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 18, 11:07 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 18, 11:21 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
