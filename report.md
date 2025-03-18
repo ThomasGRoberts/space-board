@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 20 | 40 |
 | breaking_defense | 1 | 1 | 17 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 19 | 39 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -1912,3 +1912,4 @@
 - **Mar 18, 05:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 05:03 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 18, 05:17 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 18, 05:35 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
