@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 22 | 42 |
-| breaking_defense | 1 | 1 | 17 | 36 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 2 | 4 | 19 | 39 |
@@ -1976,3 +1976,4 @@
 - **Mar 18, 12:41 AM** - Bringing Astronauts Home (nyt)
 - **Mar 18, 12:57 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 18, 01:11 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
+- **Mar 18, 01:25 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
