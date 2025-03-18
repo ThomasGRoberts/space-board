@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 4 | 6 | 19 | 38 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -1916,3 +1916,4 @@
 - **Mar 18, 05:49 AM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 18, 06:05 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 18, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 06:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
