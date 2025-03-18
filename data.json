@@ -1,9 +1,267 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-17T00:01:58.204061+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
+    "trigger_count": 1,
     "current_item_id": "0e58248d184a2d42506b063610d72049",
     "data": [
+        {
+            "id": "cf8c4b0f62f8452e9393d923b3faa641",
+            "source": "spacenews",
+            "text": "SES shrinks board as shareholder calls for bigger changes",
+            "source_link": "https://spacenews.com/ses-shrinks-board-as-shareholder-calls-for-bigger-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T20:07:07.406515Z",
+            "shown_at": [
+                "2025-03-17T20:07:07.873377Z"
+            ]
+        },
+        {
+            "id": "e16a95daf28e7f2f99fef3b515413e4c",
+            "source": "spacenews",
+            "text": "Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing",
+            "source_link": "https://spacenews.com/reliant-space-supports-firefly-aerospaces-blue-ghost-mission-1-lunar-landing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T19:11:41.054499Z",
+            "shown_at": [
+                "2025-03-17T19:11:41.994223Z"
+            ]
+        },
+        {
+            "id": "cc3384010015760f7f1bf6d93c99ec95",
+            "source": "spacenews",
+            "text": "Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby",
+            "source_link": "https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T17:57:20.295969Z",
+            "shown_at": [
+                "2025-03-17T17:57:20.890791Z",
+                "2025-03-17T21:17:59.132981Z"
+            ]
+        },
+        {
+            "id": "f8f066e9a05b98483f1b83c50be1ac32",
+            "source": "spacenews",
+            "text": "Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract",
+            "source_link": "https://spacenews.com/cambrian-works-selected-by-afwerx-for-a-1-78m-direct-to-phase-ii-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T17:43:35.654599Z",
+            "shown_at": [
+                "2025-03-17T17:43:36.207984Z"
+            ]
+        },
+        {
+            "id": "2ff10968d8fb4819ea78b5a94ea6f957",
+            "source": "breaking_defense",
+            "text": "Space supply chain gaps: Propulsion, hardened electronics and laser links",
+            "source_link": "https://breakingdefense.com/2025/03/space-supply-chain-gaps-propulsion-hardened-electronics-and-laser-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T16:17:34.843365Z",
+            "shown_at": [
+                "2025-03-17T16:17:35.526846Z",
+                "2025-03-17T18:57:15.024306Z"
+            ]
+        },
+        {
+            "id": "f5ddac627c3c9bcd88dd484c83fe8be6",
+            "source": "spacenews",
+            "text": "Firefly Aerospace wraps up successful Blue Ghost 1 mission",
+            "source_link": "https://spacenews.com/firefly-aerospace-wraps-up-successful-blue-ghost-1-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T15:47:12.274735Z",
+            "shown_at": [
+                "2025-03-17T15:47:13.004280Z"
+            ]
+        },
+        {
+            "id": "c324960b4cf94063c4d4172632161fa5",
+            "source": "spacenews",
+            "text": "Ceres-1 rocket launches 8 Chinese commercial satellites",
+            "source_link": "https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T13:33:32.131972Z",
+            "shown_at": [
+                "2025-03-17T13:33:32.707107Z",
+                "2025-03-17T14:47:37.715594Z"
+            ]
+        },
+        {
+            "id": "896b54faf739bd7e03d8750950655594",
+            "source": "spacenews",
+            "text": "Apollo left footprints — Mars must leave a legacy",
+            "source_link": "https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T13:05:43.850687Z",
+            "shown_at": [
+                "2025-03-17T13:05:44.424350Z"
+            ]
+        },
+        {
+            "id": "95c11148b5b97d73244509f2b30053f9",
+            "source": "spacenews",
+            "text": "NASA gets extension to submit layoff plans",
+            "source_link": "https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T10:37:30.377924Z",
+            "shown_at": [
+                "2025-03-17T10:37:31.000963Z"
+            ]
+        },
+        {
+            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source_link": "https://www.supercluster.com/launches/high-five",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-18T01:31:00.000Z",
+            "time_remaining": "0d 02h 03m",
+            "fetched_datetime": "2025-03-17T09:11:53.746203Z",
+            "shown_at": [
+                "2025-03-17T09:11:54.538789Z",
+                "2025-03-17T09:13:43.433387Z",
+                "2025-03-17T09:15:30.021890Z",
+                "2025-03-17T09:17:33.091813Z",
+                "2025-03-17T09:19:26.404901Z",
+                "2025-03-17T09:21:58.434069Z",
+                "2025-03-17T09:23:23.612251Z",
+                "2025-03-17T10:22:16.564383Z",
+                "2025-03-17T10:25:38.328743Z",
+                "2025-03-17T10:27:33.112527Z",
+                "2025-03-17T10:29:46.521020Z",
+                "2025-03-17T10:31:26.096982Z",
+                "2025-03-17T10:33:52.104493Z",
+                "2025-03-17T10:35:33.880545Z",
+                "2025-03-17T11:33:32.416734Z",
+                "2025-03-17T11:35:49.342786Z",
+                "2025-03-17T11:37:24.391457Z",
+                "2025-03-17T11:39:30.305391Z",
+                "2025-03-17T11:41:44.435809Z",
+                "2025-03-17T11:43:30.039458Z",
+                "2025-03-17T11:45:30.627363Z",
+                "2025-03-17T12:49:28.214121Z",
+                "2025-03-17T12:53:06.634334Z",
+                "2025-03-17T12:55:30.568622Z",
+                "2025-03-17T12:57:29.878147Z",
+                "2025-03-17T12:59:42.926083Z",
+                "2025-03-17T13:02:07.100988Z",
+                "2025-03-17T13:03:28.143741Z",
+                "2025-03-17T14:17:35.075462Z",
+                "2025-03-17T14:19:45.187020Z",
+                "2025-03-17T14:21:50.156044Z",
+                "2025-03-17T14:23:09.176896Z",
+                "2025-03-17T14:25:45.276495Z",
+                "2025-03-17T14:27:30.095980Z",
+                "2025-03-17T14:29:54.621446Z",
+                "2025-03-17T15:31:59.567204Z",
+                "2025-03-17T15:33:45.203425Z",
+                "2025-03-17T15:35:29.630506Z",
+                "2025-03-17T15:37:30.655169Z",
+                "2025-03-17T15:39:32.285591Z",
+                "2025-03-17T15:41:45.411105Z",
+                "2025-03-17T15:44:20.317229Z",
+                "2025-03-17T16:47:40.731045Z",
+                "2025-03-17T16:49:49.187597Z",
+                "2025-03-17T16:51:57.639974Z",
+                "2025-03-17T16:53:33.474054Z",
+                "2025-03-17T16:55:32.769850Z",
+                "2025-03-17T16:57:37.745038Z",
+                "2025-03-17T16:59:47.737374Z",
+                "2025-03-17T18:29:39.287802Z",
+                "2025-03-17T18:31:56.902167Z",
+                "2025-03-17T18:34:00.733073Z",
+                "2025-03-17T18:35:25.924924Z",
+                "2025-03-17T18:37:42.197766Z",
+                "2025-03-17T18:39:44.680171Z",
+                "2025-03-17T18:41:23.220978Z",
+                "2025-03-17T19:39:35.828833Z",
+                "2025-03-17T19:41:43.750650Z",
+                "2025-03-17T19:43:44.064767Z",
+                "2025-03-17T19:45:46.032978Z",
+                "2025-03-17T19:47:09.934741Z",
+                "2025-03-17T19:49:27.935249Z",
+                "2025-03-17T19:51:37.171087Z",
+                "2025-03-17T20:49:43.838464Z",
+                "2025-03-17T20:51:41.084021Z",
+                "2025-03-17T20:53:37.688287Z",
+                "2025-03-17T20:55:33.077295Z",
+                "2025-03-17T20:57:31.193735Z",
+                "2025-03-17T20:59:16.117531Z",
+                "2025-03-17T21:01:55.979229Z",
+                "2025-03-17T22:02:09.200285Z",
+                "2025-03-17T22:05:48.025459Z",
+                "2025-03-17T22:07:25.038800Z",
+                "2025-03-17T22:09:33.177956Z",
+                "2025-03-17T22:11:47.332340Z",
+                "2025-03-17T22:13:25.614263Z",
+                "2025-03-17T22:15:27.488771Z",
+                "2025-03-17T23:15:51.645038Z",
+                "2025-03-17T23:17:27.525854Z",
+                "2025-03-17T23:19:28.133852Z",
+                "2025-03-17T23:21:48.874151Z",
+                "2025-03-17T23:23:33.941729Z",
+                "2025-03-17T23:25:34.458200Z",
+                "2025-03-17T23:27:30.289131Z"
+            ]
+        },
+        {
+            "id": "2c6062bf8002a4d4ed36efc208ac6c2f",
+            "source": "aidy",
+            "text": "SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T07:43:49.436111Z",
+            "shown_at": [
+                "2025-03-17T07:43:50.526859Z",
+                "2025-03-17T16:32:13.985189Z"
+            ]
+        },
+        {
+            "id": "07d066dd4e9f6b4e5199381bf8b98ccb",
+            "source": "spacenews",
+            "text": "Constellr releases  first-light imagery of Tokyo",
+            "source_link": "https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T07:13:32.057794Z",
+            "shown_at": [
+                "2025-03-17T07:13:32.666109Z"
+            ]
+        },
+        {
+            "id": "b0839e908dd83aaabf392290d0b5b453",
+            "source": "spacenews",
+            "text": "Space National Guard debate reignited with bipartisan legislation",
+            "source_link": "https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T04:09:26.857403Z",
+            "shown_at": [
+                "2025-03-17T04:09:27.403267Z"
+            ]
+        },
+        {
+            "id": "4904cea3745c75528b4fed9cce224187",
+            "source": "nyt",
+            "text": "NASA Schedules Quick Return of Astronauts in SpaceX Capsule",
+            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-17T01:29:30.767489Z",
+            "shown_at": [
+                "2025-03-17T01:29:31.351432Z",
+                "2025-03-17T18:43:32.936049Z"
+            ]
+        },
         {
             "id": "700aac9fd451a1ac9a6a8c512abdb2f6",
             "source": "nyt",
@@ -4990,264 +5248,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "4904cea3745c75528b4fed9cce224187",
-            "source": "nyt",
-            "text": "NASA Schedules Quick Return of Astronauts in SpaceX Capsule",
-            "source_link": "https://www.nytimes.com/2025/03/16/us/spacex-iss-nasa-astronauts-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T01:29:30.767489Z",
-            "shown_at": [
-                "2025-03-17T01:29:31.351432Z",
-                "2025-03-17T18:43:32.936049Z"
-            ]
-        },
-        {
-            "id": "b0839e908dd83aaabf392290d0b5b453",
-            "source": "spacenews",
-            "text": "Space National Guard debate reignited with bipartisan legislation",
-            "source_link": "https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T04:09:26.857403Z",
-            "shown_at": [
-                "2025-03-17T04:09:27.403267Z"
-            ]
-        },
-        {
-            "id": "07d066dd4e9f6b4e5199381bf8b98ccb",
-            "source": "spacenews",
-            "text": "Constellr releases  first-light imagery of Tokyo",
-            "source_link": "https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T07:13:32.057794Z",
-            "shown_at": [
-                "2025-03-17T07:13:32.666109Z"
-            ]
-        },
-        {
-            "id": "2c6062bf8002a4d4ed36efc208ac6c2f",
-            "source": "aidy",
-            "text": "SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T07:43:49.436111Z",
-            "shown_at": [
-                "2025-03-17T07:43:50.526859Z",
-                "2025-03-17T16:32:13.985189Z"
-            ]
-        },
-        {
-            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "source_link": "https://www.supercluster.com/launches/high-five",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-18T01:31:00.000Z",
-            "time_remaining": "0d 02h 03m",
-            "fetched_datetime": "2025-03-17T09:11:53.746203Z",
-            "shown_at": [
-                "2025-03-17T09:11:54.538789Z",
-                "2025-03-17T09:13:43.433387Z",
-                "2025-03-17T09:15:30.021890Z",
-                "2025-03-17T09:17:33.091813Z",
-                "2025-03-17T09:19:26.404901Z",
-                "2025-03-17T09:21:58.434069Z",
-                "2025-03-17T09:23:23.612251Z",
-                "2025-03-17T10:22:16.564383Z",
-                "2025-03-17T10:25:38.328743Z",
-                "2025-03-17T10:27:33.112527Z",
-                "2025-03-17T10:29:46.521020Z",
-                "2025-03-17T10:31:26.096982Z",
-                "2025-03-17T10:33:52.104493Z",
-                "2025-03-17T10:35:33.880545Z",
-                "2025-03-17T11:33:32.416734Z",
-                "2025-03-17T11:35:49.342786Z",
-                "2025-03-17T11:37:24.391457Z",
-                "2025-03-17T11:39:30.305391Z",
-                "2025-03-17T11:41:44.435809Z",
-                "2025-03-17T11:43:30.039458Z",
-                "2025-03-17T11:45:30.627363Z",
-                "2025-03-17T12:49:28.214121Z",
-                "2025-03-17T12:53:06.634334Z",
-                "2025-03-17T12:55:30.568622Z",
-                "2025-03-17T12:57:29.878147Z",
-                "2025-03-17T12:59:42.926083Z",
-                "2025-03-17T13:02:07.100988Z",
-                "2025-03-17T13:03:28.143741Z",
-                "2025-03-17T14:17:35.075462Z",
-                "2025-03-17T14:19:45.187020Z",
-                "2025-03-17T14:21:50.156044Z",
-                "2025-03-17T14:23:09.176896Z",
-                "2025-03-17T14:25:45.276495Z",
-                "2025-03-17T14:27:30.095980Z",
-                "2025-03-17T14:29:54.621446Z",
-                "2025-03-17T15:31:59.567204Z",
-                "2025-03-17T15:33:45.203425Z",
-                "2025-03-17T15:35:29.630506Z",
-                "2025-03-17T15:37:30.655169Z",
-                "2025-03-17T15:39:32.285591Z",
-                "2025-03-17T15:41:45.411105Z",
-                "2025-03-17T15:44:20.317229Z",
-                "2025-03-17T16:47:40.731045Z",
-                "2025-03-17T16:49:49.187597Z",
-                "2025-03-17T16:51:57.639974Z",
-                "2025-03-17T16:53:33.474054Z",
-                "2025-03-17T16:55:32.769850Z",
-                "2025-03-17T16:57:37.745038Z",
-                "2025-03-17T16:59:47.737374Z",
-                "2025-03-17T18:29:39.287802Z",
-                "2025-03-17T18:31:56.902167Z",
-                "2025-03-17T18:34:00.733073Z",
-                "2025-03-17T18:35:25.924924Z",
-                "2025-03-17T18:37:42.197766Z",
-                "2025-03-17T18:39:44.680171Z",
-                "2025-03-17T18:41:23.220978Z",
-                "2025-03-17T19:39:35.828833Z",
-                "2025-03-17T19:41:43.750650Z",
-                "2025-03-17T19:43:44.064767Z",
-                "2025-03-17T19:45:46.032978Z",
-                "2025-03-17T19:47:09.934741Z",
-                "2025-03-17T19:49:27.935249Z",
-                "2025-03-17T19:51:37.171087Z",
-                "2025-03-17T20:49:43.838464Z",
-                "2025-03-17T20:51:41.084021Z",
-                "2025-03-17T20:53:37.688287Z",
-                "2025-03-17T20:55:33.077295Z",
-                "2025-03-17T20:57:31.193735Z",
-                "2025-03-17T20:59:16.117531Z",
-                "2025-03-17T21:01:55.979229Z",
-                "2025-03-17T22:02:09.200285Z",
-                "2025-03-17T22:05:48.025459Z",
-                "2025-03-17T22:07:25.038800Z",
-                "2025-03-17T22:09:33.177956Z",
-                "2025-03-17T22:11:47.332340Z",
-                "2025-03-17T22:13:25.614263Z",
-                "2025-03-17T22:15:27.488771Z",
-                "2025-03-17T23:15:51.645038Z",
-                "2025-03-17T23:17:27.525854Z",
-                "2025-03-17T23:19:28.133852Z",
-                "2025-03-17T23:21:48.874151Z",
-                "2025-03-17T23:23:33.941729Z",
-                "2025-03-17T23:25:34.458200Z",
-                "2025-03-17T23:27:30.289131Z"
-            ]
-        },
-        {
-            "id": "95c11148b5b97d73244509f2b30053f9",
-            "source": "spacenews",
-            "text": "NASA gets extension to submit layoff plans",
-            "source_link": "https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T10:37:30.377924Z",
-            "shown_at": [
-                "2025-03-17T10:37:31.000963Z"
-            ]
-        },
-        {
-            "id": "896b54faf739bd7e03d8750950655594",
-            "source": "spacenews",
-            "text": "Apollo left footprints — Mars must leave a legacy",
-            "source_link": "https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T13:05:43.850687Z",
-            "shown_at": [
-                "2025-03-17T13:05:44.424350Z"
-            ]
-        },
-        {
-            "id": "c324960b4cf94063c4d4172632161fa5",
-            "source": "spacenews",
-            "text": "Ceres-1 rocket launches 8 Chinese commercial satellites",
-            "source_link": "https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T13:33:32.131972Z",
-            "shown_at": [
-                "2025-03-17T13:33:32.707107Z",
-                "2025-03-17T14:47:37.715594Z"
-            ]
-        },
-        {
-            "id": "f5ddac627c3c9bcd88dd484c83fe8be6",
-            "source": "spacenews",
-            "text": "Firefly Aerospace wraps up successful Blue Ghost 1 mission",
-            "source_link": "https://spacenews.com/firefly-aerospace-wraps-up-successful-blue-ghost-1-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T15:47:12.274735Z",
-            "shown_at": [
-                "2025-03-17T15:47:13.004280Z"
-            ]
-        },
-        {
-            "id": "2ff10968d8fb4819ea78b5a94ea6f957",
-            "source": "breaking_defense",
-            "text": "Space supply chain gaps: Propulsion, hardened electronics and laser links",
-            "source_link": "https://breakingdefense.com/2025/03/space-supply-chain-gaps-propulsion-hardened-electronics-and-laser-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T16:17:34.843365Z",
-            "shown_at": [
-                "2025-03-17T16:17:35.526846Z",
-                "2025-03-17T18:57:15.024306Z"
-            ]
-        },
-        {
-            "id": "f8f066e9a05b98483f1b83c50be1ac32",
-            "source": "spacenews",
-            "text": "Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract",
-            "source_link": "https://spacenews.com/cambrian-works-selected-by-afwerx-for-a-1-78m-direct-to-phase-ii-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T17:43:35.654599Z",
-            "shown_at": [
-                "2025-03-17T17:43:36.207984Z"
-            ]
-        },
-        {
-            "id": "cc3384010015760f7f1bf6d93c99ec95",
-            "source": "spacenews",
-            "text": "Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby",
-            "source_link": "https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T17:57:20.295969Z",
-            "shown_at": [
-                "2025-03-17T17:57:20.890791Z",
-                "2025-03-17T21:17:59.132981Z"
-            ]
-        },
-        {
-            "id": "e16a95daf28e7f2f99fef3b515413e4c",
-            "source": "spacenews",
-            "text": "Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing",
-            "source_link": "https://spacenews.com/reliant-space-supports-firefly-aerospaces-blue-ghost-mission-1-lunar-landing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T19:11:41.054499Z",
-            "shown_at": [
-                "2025-03-17T19:11:41.994223Z"
-            ]
-        },
-        {
-            "id": "cf8c4b0f62f8452e9393d923b3faa641",
-            "source": "spacenews",
-            "text": "SES shrinks board as shareholder calls for bigger changes",
-            "source_link": "https://spacenews.com/ses-shrinks-board-as-shareholder-calls-for-bigger-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T20:07:07.406515Z",
-            "shown_at": [
-                "2025-03-17T20:07:07.873377Z"
             ]
         }
     ]
