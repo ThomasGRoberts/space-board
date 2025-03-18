@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 23 | 43 |
+| spacenews | 10 | 15 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 20 | 39 |
@@ -1973,3 +1973,4 @@
 - **Mar 18, 12:21 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 18, 12:37 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 12:52 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
+- **Mar 18, 01:07 PM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
