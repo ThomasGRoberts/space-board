@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e886219c71608468437f58e90d1da74",
+    "trigger_count": 0,
+    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5167,6 +5167,20 @@
             "fetched_datetime": "2025-03-18T01:11:48.674485Z",
             "shown_at": [
                 "2025-03-18T01:11:49.341677Z"
+            ]
+        },
+        {
+            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
+            "source_link": "https://www.supercluster.com/launches/high-five",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-18T01:31:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-18T01:39:43.082874Z",
+            "shown_at": [
+                "2025-03-18T01:39:44.084409Z"
             ]
         }
     ]
