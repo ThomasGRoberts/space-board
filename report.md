@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 4 | 6 | 19 | 38 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -1928,3 +1928,4 @@
 - **Mar 18, 07:21 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 07:35 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 18, 07:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
