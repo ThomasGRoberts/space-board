@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 4 | 6 | 19 | 38 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -1915,3 +1915,4 @@
 - **Mar 18, 05:35 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 05:49 AM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 18, 06:05 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 18, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
