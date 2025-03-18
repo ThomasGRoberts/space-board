@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 20 | 39 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -1962,3 +1962,4 @@
 - **Mar 18, 11:07 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 18, 11:21 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 11:37 AM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
+- **Mar 18, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
