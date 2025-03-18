@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 21 | 40 |
+| spacenews | 8 | 11 | 22 | 41 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 4 | 6 | 20 | 39 |
@@ -1946,3 +1946,4 @@
 - **Mar 18, 09:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 09:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 09:16 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 18, 09:29 AM** - Bringing Mars to Earth: solving Mars Sample Return (spacenews)
