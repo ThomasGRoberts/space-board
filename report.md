@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 23 | 43 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 5 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 65 | 65 |
 
@@ -1995,3 +1995,4 @@
 - **Mar 18, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 03:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 03:21 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 18, 03:37 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
