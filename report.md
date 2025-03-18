@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 22 | 41 |
+| spacenews | 10 | 11 | 23 | 42 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 18 | 38 |
@@ -1974,3 +1974,4 @@
 - **Mar 18, 12:37 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 18, 12:39 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 18, 12:41 AM** - Bringing Astronauts Home (nyt)
+- **Mar 18, 12:57 AM** - Boeing remains committed to space business (spacenews)
