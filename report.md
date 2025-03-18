@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 5 | 7 | 19 | 39 |
+| nyt | 5 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
@@ -1985,3 +1985,4 @@
 - **Mar 18, 01:52 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 18, 02:07 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 18, 02:21 PM** - Constellr releases  first-light imagery of Tokyo (spacenews)
+- **Mar 18, 02:37 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
