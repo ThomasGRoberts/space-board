@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 22 | 43 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 5 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 58 | 58 |
 
@@ -1983,3 +1983,4 @@
 - **Mar 18, 01:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 01:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 01:52 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 18, 02:07 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
