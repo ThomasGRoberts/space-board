@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 44 |
-| breaking_defense | 0 | 1 | 18 | 36 |
+| spacenews | 9 | 17 | 23 | 45 |
+| breaking_defense | 0 | 1 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 6 | 19 | 37 |
 | supercluster | 1 | 1 | 79 | 79 |
@@ -2019,3 +2019,4 @@
 - **Mar 18, 05:45 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 06:01 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 18, 06:17 PM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
+- **Mar 18, 06:49 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)

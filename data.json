@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63d4183ec3a1990b6941250f35f3f1f9",
+    "trigger_count": 0,
+    "current_item_id": "6227961426c59e1c606c33487255788d",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5434,6 +5434,18 @@
             "fetched_datetime": "2025-03-18T15:51:29.242347Z",
             "shown_at": [
                 "2025-03-18T15:51:29.875103Z"
+            ]
+        },
+        {
+            "id": "6227961426c59e1c606c33487255788d",
+            "source": "spacenews",
+            "text": "U.S. restores satellite imagery support to Ukraine amid ceasefire tensions",
+            "source_link": "https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T18:49:36.994309Z",
+            "shown_at": [
+                "2025-03-18T18:49:37.713852Z"
             ]
         }
     ]
