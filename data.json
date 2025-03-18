@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 4,
-    "current_item_id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+    "trigger_count": 5,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5170,17 +5170,17 @@
             ]
         },
         {
-            "id": "ec7c26c2bd21603d1198bcaffe02f0b1",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Satellites for Kineis IoT Constellation",
-            "source_link": "https://www.supercluster.com/launches/high-five",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-25",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-18T01:31:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-18T02:29:30.898291Z",
+            "target_datetime": "2025-03-18T19:57:00.000Z",
+            "time_remaining": "0d 17h 25m",
+            "fetched_datetime": "2025-03-18T02:31:46.430320Z",
             "shown_at": [
-                "2025-03-18T02:29:31.442108Z"
+                "2025-03-18T02:31:46.903678Z"
             ]
         }
     ]
