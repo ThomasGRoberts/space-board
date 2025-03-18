@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 5 | 7 | 19 | 38 |
+| nyt | 5 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
@@ -1997,3 +1997,4 @@
 - **Mar 18, 03:21 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 03:37 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 18, 03:51 PM** - Samara Aerospace poised for spaceflight testing of Hummingbird technology (spacenews)
+- **Mar 18, 04:05 PM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
