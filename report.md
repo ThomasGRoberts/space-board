@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 44 |
+| spacenews | 9 | 15 | 22 | 43 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 7 | 20 | 39 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -1977,3 +1977,4 @@
 - **Mar 18, 01:22 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 18, 01:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 01:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
