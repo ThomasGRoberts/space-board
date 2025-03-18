@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 43 |
+| spacenews | 10 | 16 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 7 | 20 | 39 |
@@ -1986,3 +1986,4 @@
 - **Mar 18, 02:07 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 18, 02:21 PM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 18, 02:37 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
+- **Mar 18, 02:51 PM** - Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)

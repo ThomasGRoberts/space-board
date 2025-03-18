@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cfa53c200cdfe3045bf8d04cad04edc6",
+    "trigger_count": 0,
+    "current_item_id": "2b54c28bc7abf637f1be1a06fc698834",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5379,6 +5379,18 @@
             "fetched_datetime": "2025-03-18T13:21:59.915910Z",
             "shown_at": [
                 "2025-03-18T13:22:00.482948Z"
+            ]
+        },
+        {
+            "id": "2b54c28bc7abf637f1be1a06fc698834",
+            "source": "spacenews",
+            "text": "Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
+            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T14:51:51.275438Z",
+            "shown_at": [
+                "2025-03-18T14:51:53.410246Z"
             ]
         }
     ]
