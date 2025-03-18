@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e114209e2cb106b6e1b64980f961c257",
+    "trigger_count": 0,
+    "current_item_id": "cbe55c83b487bb3d9b6d4002611dd3a8",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5400,6 +5400,18 @@
             "fetched_datetime": "2025-03-18T14:51:51.275438Z",
             "shown_at": [
                 "2025-03-18T14:51:53.410246Z"
+            ]
+        },
+        {
+            "id": "cbe55c83b487bb3d9b6d4002611dd3a8",
+            "source": "spacenews",
+            "text": "Samara Aerospace poised for spaceflight testing of Hummingbird technology",
+            "source_link": "https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T15:51:29.242347Z",
+            "shown_at": [
+                "2025-03-18T15:51:29.875103Z"
             ]
         }
     ]

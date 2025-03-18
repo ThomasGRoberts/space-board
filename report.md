@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 43 |
+| spacenews | 10 | 16 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 7 | 20 | 39 |
@@ -1996,3 +1996,4 @@
 - **Mar 18, 03:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 03:21 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 03:37 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 18, 03:51 PM** - Samara Aerospace poised for spaceflight testing of Hummingbird technology (spacenews)
