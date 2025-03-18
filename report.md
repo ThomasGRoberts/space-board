@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 21 | 41 |
-| breaking_defense | 1 | 1 | 17 | 35 |
+| breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 2 | 4 | 18 | 38 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -1902,3 +1902,4 @@
 - **Mar 18, 03:53 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 18, 04:07 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 18, 04:21 AM** - Cognitive Space claims two SDA awards (spacenews)
+- **Mar 18, 04:35 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
