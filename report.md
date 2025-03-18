@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 22 | 44 |
-| breaking_defense | 0 | 1 | 17 | 35 |
+| breaking_defense | 0 | 1 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 5 | 6 | 19 | 37 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -1942,4 +1942,3 @@
 - **Mar 18, 06:17 PM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
 - **Mar 18, 06:49 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
 - **Mar 18, 07:10 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
-- **Mar 18, 07:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
