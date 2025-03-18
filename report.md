@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 4 | 6 | 20 | 38 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -1952,3 +1952,4 @@
 - **Mar 18, 10:11 AM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
 - **Mar 18, 10:25 AM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 18, 10:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 10:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
