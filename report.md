@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 2 | 4 | 18 | 38 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -1893,3 +1893,4 @@
 - **Mar 18, 03:07 AM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 18, 03:22 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
