@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 22 | 42 |
+| spacenews | 10 | 14 | 23 | 43 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 20 | 39 |
@@ -1961,3 +1961,4 @@
 - **Mar 18, 10:53 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
 - **Mar 18, 11:07 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 18, 11:21 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 18, 11:37 AM** - Isar Aerospace sets date for first launch after receiving license (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dff32a2867a47349524647fef7bcf479",
+    "trigger_count": 0,
+    "current_item_id": "910c29e3d6b8d865ecc38d2727bab252",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5321,6 +5321,18 @@
             "fetched_datetime": "2025-03-18T10:25:50.173076Z",
             "shown_at": [
                 "2025-03-18T10:25:50.908864Z"
+            ]
+        },
+        {
+            "id": "910c29e3d6b8d865ecc38d2727bab252",
+            "source": "spacenews",
+            "text": "Isar Aerospace sets date for first launch after receiving license",
+            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T11:37:25.152283Z",
+            "shown_at": [
+                "2025-03-18T11:37:25.710914Z"
             ]
         }
     ]
