@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4446806785e13482ca21628092c0bc4c",
+    "trigger_count": 0,
+    "current_item_id": "b4ef4d0277ae4d7047b87d77371b848f",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5385,6 +5385,18 @@
             "fetched_datetime": "2025-03-18T21:07:37.293921Z",
             "shown_at": [
                 "2025-03-18T21:07:37.937382Z"
+            ]
+        },
+        {
+            "id": "b4ef4d0277ae4d7047b87d77371b848f",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:23:31.243890Z",
+            "shown_at": [
+                "2025-03-18T21:23:31.825345Z"
             ]
         }
     ]
