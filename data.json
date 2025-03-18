@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4c86f9febd30722c55bdefa8d28ea67",
+    "trigger_count": 0,
+    "current_item_id": "dceeee5e5adee790fa8f131a1d6b714b",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5455,6 +5455,18 @@
             "fetched_datetime": "2025-03-18T22:47:34.360709Z",
             "shown_at": [
                 "2025-03-18T22:47:34.923449Z"
+            ]
+        },
+        {
+            "id": "dceeee5e5adee790fa8f131a1d6b714b",
+            "source": "spacenews",
+            "text": "SkyServe tests AI models with JPL and D-Orbit",
+            "source_link": "https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T23:31:55.518976Z",
+            "shown_at": [
+                "2025-03-18T23:31:56.429911Z"
             ]
         }
     ]

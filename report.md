@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 22 | 44 |
+| spacenews | 11 | 21 | 23 | 45 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 7 | 8 | 18 | 36 |
@@ -1963,3 +1963,4 @@
 - **Mar 18, 10:47 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 18, 11:02 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 18, 11:17 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 18, 11:31 PM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
