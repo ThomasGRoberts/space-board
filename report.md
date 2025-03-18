@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 2 | 4 | 18 | 38 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -1904,3 +1904,4 @@
 - **Mar 18, 04:21 AM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 18, 04:35 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 18, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 04:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
