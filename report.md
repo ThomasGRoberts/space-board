@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 6 | 20 | 38 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
 
@@ -2010,3 +2010,4 @@
 - **Mar 18, 05:01 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
 - **Mar 18, 05:15 PM** - Bringing Astronauts Home (nyt)
 - **Mar 18, 05:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 05:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
