@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 21 | 43 |
-| breaking_defense | 0 | 1 | 15 | 33 |
+| breaking_defense | 1 | 2 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 6 | 7 | 19 | 37 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -1949,3 +1949,4 @@
 - **Mar 18, 09:05 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 18, 09:07 PM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)
 - **Mar 18, 09:23 PM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
+- **Mar 18, 09:37 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)

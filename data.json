@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4ef4d0277ae4d7047b87d77371b848f",
+    "trigger_count": 0,
+    "current_item_id": "c57ba2a54153aa2e57379a290abd531d",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5397,6 +5397,18 @@
             "fetched_datetime": "2025-03-18T21:23:31.243890Z",
             "shown_at": [
                 "2025-03-18T21:23:31.825345Z"
+            ]
+        },
+        {
+            "id": "c57ba2a54153aa2e57379a290abd531d",
+            "source": "breaking_defense",
+            "text": "5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says",
+            "source_link": "https://breakingdefense.com/2025/03/5-chinese-satellites-practiced-dogfighting-in-space-space-force-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:37:41.471274Z",
+            "shown_at": [
+                "2025-03-18T21:37:42.459708Z"
             ]
         }
     ]
