@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 22 | 41 |
-| breaking_defense | 1 | 1 | 16 | 35 |
+| breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 2 | 4 | 18 | 38 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -1891,3 +1891,4 @@
 - **Mar 18, 02:35 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 18, 02:49 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 18, 03:07 AM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
+- **Mar 18, 03:22 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
