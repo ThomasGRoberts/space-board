@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 22 | 41 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 1 | 3 | 17 | 38 |
 
@@ -1969,3 +1969,4 @@
 - **Mar 18, 12:27 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 18, 12:29 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 18, 12:31 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 18, 12:33 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
