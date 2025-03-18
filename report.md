@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 22 | 42 |
 | breaking_defense | 1 | 1 | 18 | 37 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 20 | 39 |
 | supercluster | 1 | 1 | 51 | 51 |
 
@@ -1971,3 +1971,4 @@
 - **Mar 18, 12:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 12:07 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 18, 12:21 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 18, 12:37 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
