@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 21 | 43 |
 | breaking_defense | 1 | 2 | 16 | 34 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 | nyt | 6 | 7 | 19 | 37 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -1950,3 +1950,4 @@
 - **Mar 18, 09:07 PM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)
 - **Mar 18, 09:23 PM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 18, 09:37 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
+- **Mar 18, 09:51 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
