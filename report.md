@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 23 | 44 |
 | breaking_defense | 0 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 5 | 6 | 19 | 37 |
+| nyt | 5 | 6 | 20 | 38 |
 | supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
@@ -2020,3 +2020,4 @@
 - **Mar 18, 06:01 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 18, 06:17 PM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
 - **Mar 18, 06:49 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
+- **Mar 18, 07:10 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
