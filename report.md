@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 23 | 44 |
-| breaking_defense | 0 | 1 | 17 | 35 |
-| aidy | 1 | 2 | 18 | 36 |
+| breaking_defense | 0 | 1 | 18 | 36 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 5 | 6 | 20 | 38 |
 | supercluster | 1 | 1 | 72 | 72 |
 
@@ -2005,3 +2005,4 @@
 - **Mar 18, 04:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 04:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 04:33 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
