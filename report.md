@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 22 | 44 |
+| spacenews | 9 | 19 | 21 | 44 |
 | breaking_defense | 1 | 2 | 16 | 33 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 7 | 8 | 19 | 37 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -1953,3 +1953,4 @@
 - **Mar 18, 09:51 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 18, 10:05 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
 - **Mar 18, 10:19 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 18, 10:33 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
