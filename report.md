@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 23 | 44 |
-| breaking_defense | 0 | 1 | 18 | 36 |
+| breaking_defense | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 6 | 20 | 38 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
 
@@ -2009,3 +2009,4 @@
 - **Mar 18, 04:47 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 18, 05:01 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
 - **Mar 18, 05:15 PM** - Bringing Astronauts Home (nyt)
+- **Mar 18, 05:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
