@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 1 | 3 | 18 | 38 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -1886,4 +1886,4 @@
 - **Mar 18, 12:57 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 18, 01:11 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
 - **Mar 18, 01:25 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
-- **Mar 18, 02:25 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 18, 02:27 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
