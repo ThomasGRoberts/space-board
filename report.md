@@ -1886,4 +1886,4 @@
 - **Mar 18, 12:57 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 18, 01:11 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
 - **Mar 18, 01:25 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
-- **Mar 18, 01:49 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 18, 01:51 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
