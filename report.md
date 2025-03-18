@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 22 | 41 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 | aidy | 1 | 2 | 18 | 38 |
-| nyt | 1 | 3 | 18 | 38 |
+| nyt | 1 | 3 | 17 | 38 |
 
 # Shown Order
 
@@ -1967,3 +1967,4 @@
 - **Mar 17, 11:59 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 18, 12:13 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 12:27 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
+- **Mar 18, 12:29 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
