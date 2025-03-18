@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 21 | 41 |
-| breaking_defense | 1 | 1 | 16 | 35 |
+| breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 4 | 6 | 19 | 39 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -1914,3 +1914,4 @@
 - **Mar 18, 05:17 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 18, 05:35 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 05:49 AM** - Cognitive Space claims two SDA awards (spacenews)
+- **Mar 18, 06:05 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
