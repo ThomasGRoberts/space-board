@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 2 | 4 | 18 | 38 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -1903,3 +1903,4 @@
 - **Mar 18, 04:07 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 18, 04:21 AM** - Cognitive Space claims two SDA awards (spacenews)
 - **Mar 18, 04:35 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 18, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
