@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 7 | 20 | 39 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -1975,3 +1975,4 @@
 - **Mar 18, 12:52 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
 - **Mar 18, 01:07 PM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
 - **Mar 18, 01:22 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
+- **Mar 18, 01:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
