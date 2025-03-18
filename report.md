@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 23 | 44 |
 | breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 4 | 6 | 19 | 39 |
+| nyt | 5 | 7 | 20 | 40 |
 | supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
@@ -1974,3 +1974,4 @@
 - **Mar 18, 12:37 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 12:52 PM** - Space Development Agency adjusts satellite procurement strategy (spacenews)
 - **Mar 18, 01:07 PM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
+- **Mar 18, 01:22 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)

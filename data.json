@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8870fc3abb140ca75cdac76c8a2b0a7b",
+    "trigger_count": 0,
+    "current_item_id": "49c51a9449935b19719ab3ed49765d4f",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5356,6 +5356,18 @@
             "fetched_datetime": "2025-03-18T13:07:41.382302Z",
             "shown_at": [
                 "2025-03-18T13:07:41.962756Z"
+            ]
+        },
+        {
+            "id": "49c51a9449935b19719ab3ed49765d4f",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T13:21:59.915910Z",
+            "shown_at": [
+                "2025-03-18T13:22:00.482948Z"
             ]
         }
     ]
