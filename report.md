@@ -5,8 +5,8 @@
 | spacenews | 10 | 11 | 22 | 42 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | supercluster | 1 | 1 | 91 | 91 |
-| aidy | 1 | 2 | 18 | 38 |
-| nyt | 1 | 3 | 18 | 38 |
+| aidy | 1 | 2 | 18 | 37 |
+| nyt | 2 | 4 | 19 | 39 |
 
 # Shown Order
 
@@ -1975,3 +1975,4 @@
 - **Mar 18, 12:39 AM** - Rocket Lab Will Launch Satellites for Kineis IoT Constellation (supercluster)
 - **Mar 18, 12:41 AM** - Bringing Astronauts Home (nyt)
 - **Mar 18, 12:57 AM** - Boeing remains committed to space business (spacenews)
+- **Mar 18, 01:11 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)

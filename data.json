@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "40ceffd03d76e8d296bdf6d12738c5fd",
+    "trigger_count": 0,
+    "current_item_id": "af225c9f8f60af87a26666c664b855af",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5258,6 +5258,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "af225c9f8f60af87a26666c664b855af",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T01:11:48.674485Z",
+            "shown_at": [
+                "2025-03-18T01:11:49.341677Z"
             ]
         }
     ]
