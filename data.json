@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "12d905cd65a7c2765d7df8720f9ebff4",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5215,6 +5215,18 @@
             "fetched_datetime": "2025-03-18T02:35:46.873278Z",
             "shown_at": [
                 "2025-03-18T02:35:47.910690Z"
+            ]
+        },
+        {
+            "id": "12d905cd65a7c2765d7df8720f9ebff4",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T05:03:31.874486Z",
+            "shown_at": [
+                "2025-03-18T05:03:32.697682Z"
             ]
         }
     ]
