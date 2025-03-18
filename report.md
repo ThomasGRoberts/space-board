@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | nyt | 4 | 6 | 20 | 39 |
 | supercluster | 1 | 1 | 30 | 30 |
 
@@ -1937,3 +1937,4 @@
 - **Mar 18, 08:03 AM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 18, 08:17 AM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)
 - **Mar 18, 08:32 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 18, 08:45 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
