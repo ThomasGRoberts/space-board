@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 22 | 42 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 4 | 6 | 20 | 38 |
+| nyt | 4 | 6 | 20 | 39 |
 | supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
@@ -1958,3 +1958,4 @@
 - **Mar 18, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 10:53 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
