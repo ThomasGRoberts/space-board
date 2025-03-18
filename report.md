@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 20 | 41 |
-| breaking_defense | 1 | 1 | 17 | 35 |
+| breaking_defense | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 4 | 6 | 19 | 39 |
 | supercluster | 1 | 1 | 23 | 23 |
@@ -1925,3 +1925,4 @@
 - **Mar 18, 06:37 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 18, 06:51 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 18, 07:07 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
+- **Mar 18, 07:21 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
