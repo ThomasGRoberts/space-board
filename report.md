@@ -5,7 +5,7 @@
 | spacenews | 9 | 11 | 21 | 40 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
-| nyt | 4 | 6 | 18 | 38 |
+| nyt | 4 | 6 | 19 | 39 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -1922,3 +1922,4 @@
 - **Mar 18, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 06:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 06:37 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
