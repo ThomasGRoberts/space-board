@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 21 | 43 |
 | breaking_defense | 0 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 5 | 6 | 20 | 38 |
 | supercluster | 1 | 1 | 79 | 79 |
 
@@ -2017,3 +2017,4 @@
 - **Mar 18, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 05:45 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
+- **Mar 18, 06:01 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
