@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "cfa53c200cdfe3045bf8d04cad04edc6",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5182,6 +5182,18 @@
             "shown_at": [
                 "2025-03-18T02:31:46.903678Z",
                 "2025-03-18T02:33:05.999218Z"
+            ]
+        },
+        {
+            "id": "cfa53c200cdfe3045bf8d04cad04edc6",
+            "source": "nyt",
+            "text": "Elon Musk’s Starlink Expands Across White House Complex",
+            "source_link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T02:35:46.873278Z",
+            "shown_at": [
+                "2025-03-18T02:35:47.910690Z"
             ]
         }
     ]

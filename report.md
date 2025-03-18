@@ -5,7 +5,7 @@
 | spacenews | 10 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
-| nyt | 1 | 3 | 18 | 38 |
+| nyt | 2 | 4 | 19 | 39 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -1888,3 +1888,4 @@
 - **Mar 18, 01:25 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 18, 02:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 18, 02:35 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
