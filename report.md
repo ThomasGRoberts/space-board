@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 43 |
+| spacenews | 8 | 18 | 22 | 44 |
 | breaking_defense | 0 | 1 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 5 | 6 | 18 | 36 |
@@ -1947,3 +1947,4 @@
 - **Mar 18, 09:01 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 18, 09:03 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 18, 09:05 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 18, 09:07 PM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)

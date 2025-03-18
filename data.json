@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "4446806785e13482ca21628092c0bc4c",
     "data": [
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
@@ -5373,6 +5373,18 @@
                 "2025-03-18T21:01:55.938525Z",
                 "2025-03-18T21:03:42.518835Z",
                 "2025-03-18T21:05:33.587506Z"
+            ]
+        },
+        {
+            "id": "4446806785e13482ca21628092c0bc4c",
+            "source": "spacenews",
+            "text": "Space Force prepared to divest legacy systems in favor of market-ready solutions",
+            "source_link": "https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:07:37.293921Z",
+            "shown_at": [
+                "2025-03-18T21:07:37.937382Z"
             ]
         }
     ]
