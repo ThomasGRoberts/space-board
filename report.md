@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 5 | 7 | 20 | 39 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -1987,3 +1987,4 @@
 - **Mar 18, 02:21 PM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 18, 02:37 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 18, 02:51 PM** - Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
+- **Mar 18, 03:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
