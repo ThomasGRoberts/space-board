@@ -5,7 +5,7 @@
 | spacenews | 10 | 16 | 23 | 44 |
 | breaking_defense | 0 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 5 | 6 | 20 | 38 |
+| nyt | 5 | 6 | 21 | 39 |
 | supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
@@ -2008,3 +2008,4 @@
 - **Mar 18, 04:33 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 18, 04:47 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 18, 05:01 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
+- **Mar 18, 05:15 PM** - Bringing Astronauts Home (nyt)
