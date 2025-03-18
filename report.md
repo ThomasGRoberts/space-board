@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 20 | 40 |
+| spacenews | 9 | 11 | 21 | 41 |
 | breaking_defense | 1 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 37 |
 | nyt | 4 | 6 | 19 | 39 |
@@ -1924,3 +1924,4 @@
 - **Mar 18, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 06:37 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 18, 06:51 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 18, 07:07 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
