@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 20 | 40 |
 | breaking_defense | 1 | 1 | 17 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 4 | 6 | 19 | 39 |
 | supercluster | 1 | 1 | 23 | 23 |
 
@@ -1923,3 +1923,4 @@
 - **Mar 18, 06:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 18, 06:37 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 18, 06:51 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
