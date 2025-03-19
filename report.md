@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 21 | 44 |
 | nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 | aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -2108,3 +2108,4 @@
 - **Mar 19, 02:54 PM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
 - **Mar 19, 03:13 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 19, 03:27 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 19, 03:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
