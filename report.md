@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 44 |
+| spacenews | 8 | 15 | 22 | 43 |
 | nyt | 3 | 8 | 19 | 38 |
 | breaking_defense | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 | aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -2146,3 +2146,4 @@
 - **Mar 19, 07:41 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 19, 08:03 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:05 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 08:08 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
