@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e114209e2cb106b6e1b64980f961c257",
+    "trigger_count": 0,
+    "current_item_id": "ea90d4d75c24b347b1eac79b54b2d2a6",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5488,6 +5488,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "ea90d4d75c24b347b1eac79b54b2d2a6",
+            "source": "nyt",
+            "text": "Highlights From Suni Williams and Butch Wilmore’s Return to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T01:55:25.920504Z",
+            "shown_at": [
+                "2025-03-19T01:55:26.398101Z"
             ]
         }
     ]

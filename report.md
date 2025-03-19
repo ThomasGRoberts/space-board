@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 22 | 44 |
-| nyt | 6 | 7 | 18 | 36 |
+| nyt | 7 | 8 | 19 | 37 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 26 | 26 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -1985,3 +1985,4 @@
 - **Mar 19, 01:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 01:41 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 19, 01:55 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
