@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 20 | 43 |
+| spacenews | 8 | 18 | 21 | 44 |
 | nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 2 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 110 | 110 |
@@ -2120,3 +2120,4 @@
 - **Mar 19, 04:23 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 19, 04:37 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 19, 04:51 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 19, 05:05 PM** - Space Force unveils strategic plan for AI integration (spacenews)

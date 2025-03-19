@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8ee1fff604dac5684fb53cf96a3bd478",
+    "trigger_count": 0,
+    "current_item_id": "bcf10f4cbf0a9b127e35076c0ed6beed",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5678,6 +5678,18 @@
             "fetched_datetime": "2025-03-19T16:51:38.729113Z",
             "shown_at": [
                 "2025-03-19T16:51:39.209416Z"
+            ]
+        },
+        {
+            "id": "bcf10f4cbf0a9b127e35076c0ed6beed",
+            "source": "spacenews",
+            "text": "Space Force unveils strategic plan for AI integration",
+            "source_link": "https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T17:05:33.597171Z",
+            "shown_at": [
+                "2025-03-19T17:05:34.213651Z"
             ]
         }
     ]
