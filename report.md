@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 21 | 42 |
+| spacenews | 7 | 15 | 22 | 43 |
 | nyt | 2 | 8 | 19 | 38 |
 | breaking_defense | 4 | 4 | 21 | 36 |
 | supercluster | 0 | 1 | 126 | 131 |
@@ -2155,3 +2155,4 @@
 - **Mar 19, 08:44 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 19, 08:58 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 19, 09:16 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 19, 09:33 PM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
