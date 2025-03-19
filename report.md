@@ -6,7 +6,7 @@
 | nyt | 4 | 8 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 54 | 54 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2028,3 +2028,4 @@
 - **Mar 19, 06:03 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:05 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:07 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 19, 06:21 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
