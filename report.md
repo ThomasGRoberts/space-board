@@ -5,7 +5,7 @@
 | spacenews | 12 | 20 | 24 | 44 |
 | nyt | 4 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 17 | 34 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 | aidy | 1 | 2 | 17 | 34 |
 
 # Shown Order
@@ -2042,3 +2042,4 @@
 - **Mar 19, 07:31 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 19, 07:45 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
 - **Mar 19, 07:59 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 19, 08:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
