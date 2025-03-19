@@ -6,7 +6,7 @@
 | nyt | 4 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 68 | 68 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2050,3 +2050,4 @@
 - **Mar 19, 08:23 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:27 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 19, 08:41 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
