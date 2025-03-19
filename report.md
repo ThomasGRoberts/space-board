@@ -6,7 +6,7 @@
 | nyt | 3 | 8 | 18 | 38 |
 | breaking_defense | 2 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 117 | 117 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2128,3 +2128,4 @@
 - **Mar 19, 05:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 05:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 05:32 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 05:33 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
