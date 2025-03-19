@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 43 |
-| nyt | 3 | 8 | 19 | 38 |
+| nyt | 3 | 8 | 20 | 39 |
 | breaking_defense | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 1 | 131 | 131 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -2152,3 +2152,4 @@
 - **Mar 19, 08:18 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:22 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:25 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 19, 08:44 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
