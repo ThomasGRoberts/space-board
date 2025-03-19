@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c57ba2a54153aa2e57379a290abd531d",
+    "trigger_count": 0,
+    "current_item_id": "a62558aa4a01e5e3b8c5a6b99f263898",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5619,6 +5619,18 @@
             "fetched_datetime": "2025-03-19T07:31:58.737787Z",
             "shown_at": [
                 "2025-03-19T07:31:59.592670Z"
+            ]
+        },
+        {
+            "id": "a62558aa4a01e5e3b8c5a6b99f263898",
+            "source": "spacenews",
+            "text": "Exlabs and Antares form alliance to develop nuclear-powered spacecraft",
+            "source_link": "https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T12:15:36.533885Z",
+            "shown_at": [
+                "2025-03-19T12:15:37.263841Z"
             ]
         }
     ]
