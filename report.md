@@ -6,7 +6,7 @@
 | nyt | 2 | 8 | 19 | 38 |
 | breaking_defense | 3 | 4 | 20 | 36 |
 | supercluster | 0 | 1 | 133 | 138 |
-| aidy | 1 | 2 | 18 | 34 |
+| aidy | 1 | 2 | 19 | 35 |
 
 # Shown Order
 
@@ -2163,3 +2163,4 @@
 - **Mar 19, 09:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 10:02 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
