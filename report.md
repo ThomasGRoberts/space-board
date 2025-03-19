@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 21 | 44 |
-| nyt | 3 | 8 | 19 | 38 |
+| spacenews | 8 | 16 | 21 | 43 |
+| nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 3 | 3 | 18 | 35 |
 | supercluster | 1 | 1 | 124 | 124 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2141,3 +2141,4 @@
 - **Mar 19, 06:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:57 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 19, 07:11 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
