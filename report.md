@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 23 | 45 |
 | nyt | 4 | 8 | 18 | 38 |
-| breaking_defense | 1 | 2 | 17 | 35 |
+| breaking_defense | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 75 | 75 |
 | aidy | 1 | 2 | 17 | 35 |
 
@@ -2060,3 +2060,4 @@
 - **Mar 19, 09:31 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:33 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 09:37 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
