@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 22 | 44 |
 | nyt | 3 | 8 | 18 | 38 |
-| breaking_defense | 1 | 2 | 18 | 35 |
+| breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 96 | 96 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2095,3 +2095,4 @@
 - **Mar 19, 01:18 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:22 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 19, 01:39 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
+- **Mar 19, 01:53 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
