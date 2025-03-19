@@ -6,7 +6,7 @@
 | nyt | 4 | 8 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 61 | 61 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 2 | 3 | 18 | 35 |
 
 # Shown Order
 
@@ -2039,3 +2039,4 @@
 - **Mar 19, 07:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 07:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 07:17 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 19, 07:31 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)

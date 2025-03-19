@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ff10968d8fb4819ea78b5a94ea6f957",
+    "trigger_count": 0,
+    "current_item_id": "3278f83cdbb8296a8c5811e20fe23ae7",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5564,6 +5564,18 @@
             "fetched_datetime": "2025-03-19T03:05:36.422275Z",
             "shown_at": [
                 "2025-03-19T03:05:36.962654Z"
+            ]
+        },
+        {
+            "id": "3278f83cdbb8296a8c5811e20fe23ae7",
+            "source": "aidy",
+            "text": "NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T07:31:58.737787Z",
+            "shown_at": [
+                "2025-03-19T07:31:59.592670Z"
             ]
         }
     ]
