@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf8c4b0f62f8452e9393d923b3faa641",
+    "trigger_count": 0,
+    "current_item_id": "39012934f0971a1dc5e692de1b9ff791",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5712,6 +5712,18 @@
             "fetched_datetime": "2025-03-19T18:01:56.479436Z",
             "shown_at": [
                 "2025-03-19T18:01:57.130422Z"
+            ]
+        },
+        {
+            "id": "39012934f0971a1dc5e692de1b9ff791",
+            "source": "spacenews",
+            "text": "Chinese company targets crewed orbital spaceflight",
+            "source_link": "https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T18:29:49.267744Z",
+            "shown_at": [
+                "2025-03-19T18:29:50.218752Z"
             ]
         }
     ]

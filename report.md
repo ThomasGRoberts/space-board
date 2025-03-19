@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 21 | 43 |
+| spacenews | 9 | 17 | 22 | 44 |
 | nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | supercluster | 1 | 1 | 117 | 117 |
@@ -2132,3 +2132,4 @@
 - **Mar 19, 05:47 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 19, 06:01 PM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 19, 06:15 PM** - SES shrinks board as shareholder calls for bigger changes (spacenews)
+- **Mar 19, 06:29 PM** - Chinese company targets crewed orbital spaceflight (spacenews)
