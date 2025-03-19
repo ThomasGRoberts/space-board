@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 23 | 43 |
+| spacenews | 12 | 21 | 24 | 44 |
 | nyt | 4 | 8 | 17 | 36 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -2018,3 +2018,4 @@
 - **Mar 19, 04:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 04:57 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 05:11 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 19, 05:25 AM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
