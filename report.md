@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 23 | 44 |
+| spacenews | 12 | 20 | 24 | 45 |
 | nyt | 4 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 75 | 75 |
@@ -2062,3 +2062,4 @@
 - **Mar 19, 09:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:37 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 19, 09:51 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 19, 10:05 AM** - Apollo left footprints — Mars must leave a legacy (spacenews)
