@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 22 | 44 |
 | nyt | 6 | 8 | 18 | 37 |
-| breaking_defense | 1 | 2 | 16 | 33 |
+| breaking_defense | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 26 | 26 |
 | aidy | 1 | 2 | 16 | 34 |
 
@@ -1983,3 +1983,4 @@
 - **Mar 19, 01:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:23 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 01:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
