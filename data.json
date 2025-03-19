@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "22d0c6776bb6d7430d777254fb907c45",
+    "trigger_count": 0,
+    "current_item_id": "8ee1fff604dac5684fb53cf96a3bd478",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5666,6 +5666,18 @@
             "fetched_datetime": "2025-03-19T12:15:36.533885Z",
             "shown_at": [
                 "2025-03-19T12:15:37.263841Z"
+            ]
+        },
+        {
+            "id": "8ee1fff604dac5684fb53cf96a3bd478",
+            "source": "breaking_defense",
+            "text": "Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-declares-upcoming-symposium-mission-essential-amid-trump-travel-restrictions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T16:51:38.729113Z",
+            "shown_at": [
+                "2025-03-19T16:51:39.209416Z"
             ]
         }
     ]
