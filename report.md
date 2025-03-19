@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 23 | 44 |
+| spacenews | 12 | 22 | 24 | 45 |
 | nyt | 6 | 8 | 18 | 36 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -1996,3 +1996,4 @@
 - **Mar 19, 02:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 02:37 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 02:51 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
+- **Mar 19, 03:05 AM** - Crew-9 returns from space station (spacenews)

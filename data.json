@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e114209e2cb106b6e1b64980f961c257",
+    "trigger_count": 0,
+    "current_item_id": "43015f6a78dfab40fc63613310aa15df",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5510,6 +5510,18 @@
             "fetched_datetime": "2025-03-19T01:55:25.920504Z",
             "shown_at": [
                 "2025-03-19T01:55:26.398101Z"
+            ]
+        },
+        {
+            "id": "43015f6a78dfab40fc63613310aa15df",
+            "source": "spacenews",
+            "text": "Crew-9 returns from space station",
+            "source_link": "https://spacenews.com/crew-9-returns-from-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T03:05:36.422275Z",
+            "shown_at": [
+                "2025-03-19T03:05:36.962654Z"
             ]
         }
     ]
