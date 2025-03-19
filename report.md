@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 22 | 44 |
+| spacenews | 11 | 21 | 23 | 45 |
 | nyt | 7 | 8 | 18 | 36 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -1974,3 +1974,4 @@
 - **Mar 19, 12:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 12:17 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 19, 12:31 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 19, 12:46 AM** - Crew-10 arrives at space station (spacenews)
