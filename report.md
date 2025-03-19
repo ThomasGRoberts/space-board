@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 23 | 45 |
-| nyt | 4 | 8 | 18 | 38 |
+| nyt | 4 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 82 | 82 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -2074,3 +2074,4 @@
 - **Mar 19, 10:47 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 19, 11:02 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 19, 11:17 AM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
+- **Mar 19, 11:31 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
