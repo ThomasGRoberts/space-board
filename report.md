@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 22 | 44 |
-| breaking_defense | 1 | 2 | 15 | 33 |
-| aidy | 1 | 2 | 16 | 34 |
 | nyt | 7 | 8 | 19 | 37 |
-| supercluster | 1 | 1 | 12 | 12 |
+| breaking_defense | 1 | 2 | 15 | 33 |
+| supercluster | 1 | 1 | 13 | 13 |
+| aidy | 1 | 2 | 16 | 34 |
 
 # Shown Order
 
@@ -1965,3 +1965,4 @@
 - **Mar 18, 11:17 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 18, 11:31 PM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
 - **Mar 18, 11:45 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 19, 12:02 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)

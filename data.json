@@ -1,9 +1,280 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-18T00:01:58.487750+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12d905cd65a7c2765d7df8720f9ebff4",
+    "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
+    "trigger_count": 0,
+    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
+        {
+            "id": "dceeee5e5adee790fa8f131a1d6b714b",
+            "source": "spacenews",
+            "text": "SkyServe tests AI models with JPL and D-Orbit",
+            "source_link": "https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T23:31:55.518976Z",
+            "shown_at": [
+                "2025-03-18T23:31:56.429911Z"
+            ]
+        },
+        {
+            "id": "0e6421b72493b40ca4cb0e065037365f",
+            "source": "spacenews",
+            "text": "Europe funds inflatable satellite drag sail demonstration",
+            "source_link": "https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:47:34.360709Z",
+            "shown_at": [
+                "2025-03-18T22:47:34.923449Z"
+            ]
+        },
+        {
+            "id": "665c6bbcd31cdade624971620af6f6d8",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:19:29.958849Z",
+            "shown_at": [
+                "2025-03-18T22:19:30.475191Z"
+            ]
+        },
+        {
+            "id": "c89a3b838803a69f0254178e2a927cf3",
+            "source": "spacenews",
+            "text": "Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division",
+            "source_link": "https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T22:05:26.556025Z",
+            "shown_at": [
+                "2025-03-18T22:05:27.117638Z"
+            ]
+        },
+        {
+            "id": "c57ba2a54153aa2e57379a290abd531d",
+            "source": "breaking_defense",
+            "text": "5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says",
+            "source_link": "https://breakingdefense.com/2025/03/5-chinese-satellites-practiced-dogfighting-in-space-space-force-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:37:41.471274Z",
+            "shown_at": [
+                "2025-03-18T21:37:42.459708Z"
+            ]
+        },
+        {
+            "id": "b4ef4d0277ae4d7047b87d77371b848f",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:23:31.243890Z",
+            "shown_at": [
+                "2025-03-18T21:23:31.825345Z"
+            ]
+        },
+        {
+            "id": "4446806785e13482ca21628092c0bc4c",
+            "source": "spacenews",
+            "text": "Space Force prepared to divest legacy systems in favor of market-ready solutions",
+            "source_link": "https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T21:07:37.293921Z",
+            "shown_at": [
+                "2025-03-18T21:07:37.937382Z"
+            ]
+        },
+        {
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-57",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-20T06:02:00.000Z",
+            "time_remaining": "1d 07h 16m",
+            "fetched_datetime": "2025-03-18T20:57:41.216370Z",
+            "shown_at": [
+                "2025-03-18T20:57:41.806698Z",
+                "2025-03-18T20:59:36.007096Z",
+                "2025-03-18T21:01:55.938525Z",
+                "2025-03-18T21:03:42.518835Z",
+                "2025-03-18T21:05:33.587506Z",
+                "2025-03-18T22:33:45.734780Z",
+                "2025-03-18T22:35:43.063826Z",
+                "2025-03-18T22:37:28.592516Z",
+                "2025-03-18T22:39:33.571301Z",
+                "2025-03-18T22:41:45.731872Z",
+                "2025-03-18T22:43:27.077490Z",
+                "2025-03-18T22:45:44.459586Z",
+                "2025-03-19T00:02:25.075157Z"
+            ]
+        },
+        {
+            "id": "6227961426c59e1c606c33487255788d",
+            "source": "spacenews",
+            "text": "U.S. restores satellite imagery support to Ukraine amid ceasefire tensions",
+            "source_link": "https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T18:49:36.994309Z",
+            "shown_at": [
+                "2025-03-18T18:49:37.713852Z"
+            ]
+        },
+        {
+            "id": "cbe55c83b487bb3d9b6d4002611dd3a8",
+            "source": "spacenews",
+            "text": "Samara Aerospace poised for spaceflight testing of Hummingbird technology",
+            "source_link": "https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T15:51:29.242347Z",
+            "shown_at": [
+                "2025-03-18T15:51:29.875103Z"
+            ]
+        },
+        {
+            "id": "2b54c28bc7abf637f1be1a06fc698834",
+            "source": "spacenews",
+            "text": "Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
+            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T14:51:51.275438Z",
+            "shown_at": [
+                "2025-03-18T14:51:53.410246Z"
+            ]
+        },
+        {
+            "id": "49c51a9449935b19719ab3ed49765d4f",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T13:21:59.915910Z",
+            "shown_at": [
+                "2025-03-18T13:22:00.482948Z"
+            ]
+        },
+        {
+            "id": "8870fc3abb140ca75cdac76c8a2b0a7b",
+            "source": "spacenews",
+            "text": "Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18",
+            "source_link": "https://spacenews.com/psionic-achieves-milestone-in-in-flight-testing-of-space-navigation-doppler-lidar-system-aboard-nasa-f-18/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T13:07:41.382302Z",
+            "shown_at": [
+                "2025-03-18T13:07:41.962756Z"
+            ]
+        },
+        {
+            "id": "910c29e3d6b8d865ecc38d2727bab252",
+            "source": "spacenews",
+            "text": "Isar Aerospace sets date for first launch after receiving license",
+            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T11:37:25.152283Z",
+            "shown_at": [
+                "2025-03-18T11:37:25.710914Z"
+            ]
+        },
+        {
+            "id": "58ac38ad3689a1606f7917e8ac0448c4",
+            "source": "spacenews",
+            "text": "Rocket Lab launches final set of Kinéis satellites",
+            "source_link": "https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T10:25:50.173076Z",
+            "shown_at": [
+                "2025-03-18T10:25:50.908864Z"
+            ]
+        },
+        {
+            "id": "b24c54abb8ddfa924275de1eb640f00e",
+            "source": "spacenews",
+            "text": "Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
+            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T10:11:34.915732Z",
+            "shown_at": [
+                "2025-03-18T10:11:35.516489Z"
+            ]
+        },
+        {
+            "id": "8718faa4330af1fa2d8fb30db7013777",
+            "source": "aidy",
+            "text": "Export Controls Modernized for Space Items, SLS Gains Legislative Support",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T07:35:45.295038Z",
+            "shown_at": [
+                "2025-03-18T07:35:46.254542Z",
+                "2025-03-18T18:01:57.698930Z"
+            ]
+        },
+        {
+            "id": "d0b07b13640e4575d62e3491fc9259fb",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T05:17:52.536709Z",
+            "shown_at": [
+                "2025-03-18T05:17:53.439620Z",
+                "2025-03-18T09:16:02.962684Z",
+                "2025-03-18T12:07:53.274448Z"
+            ]
+        },
+        {
+            "id": "12d905cd65a7c2765d7df8720f9ebff4",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T05:03:31.874486Z",
+            "shown_at": [
+                "2025-03-18T05:03:32.697682Z",
+                "2025-03-18T23:45:33.982609Z"
+            ]
+        },
+        {
+            "id": "cfa53c200cdfe3045bf8d04cad04edc6",
+            "source": "nyt",
+            "text": "Elon Musk’s Starlink Expands Across White House Complex",
+            "source_link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T02:35:46.873278Z",
+            "shown_at": [
+                "2025-03-18T02:35:47.910690Z",
+                "2025-03-18T14:37:51.383421Z"
+            ]
+        },
+        {
+            "id": "af225c9f8f60af87a26666c664b855af",
+            "source": "nyt",
+            "text": "Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-18T01:11:48.674485Z",
+            "shown_at": [
+                "2025-03-18T01:11:49.341677Z"
+            ]
+        },
         {
             "id": "cf8c4b0f62f8452e9393d923b3faa641",
             "source": "spacenews",
@@ -5198,276 +5469,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "af225c9f8f60af87a26666c664b855af",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T01:11:48.674485Z",
-            "shown_at": [
-                "2025-03-18T01:11:49.341677Z"
-            ]
-        },
-        {
-            "id": "cfa53c200cdfe3045bf8d04cad04edc6",
-            "source": "nyt",
-            "text": "Elon Musk’s Starlink Expands Across White House Complex",
-            "source_link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T02:35:46.873278Z",
-            "shown_at": [
-                "2025-03-18T02:35:47.910690Z",
-                "2025-03-18T14:37:51.383421Z"
-            ]
-        },
-        {
-            "id": "12d905cd65a7c2765d7df8720f9ebff4",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T05:03:31.874486Z",
-            "shown_at": [
-                "2025-03-18T05:03:32.697682Z",
-                "2025-03-18T23:45:33.982609Z"
-            ]
-        },
-        {
-            "id": "d0b07b13640e4575d62e3491fc9259fb",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T05:17:52.536709Z",
-            "shown_at": [
-                "2025-03-18T05:17:53.439620Z",
-                "2025-03-18T09:16:02.962684Z",
-                "2025-03-18T12:07:53.274448Z"
-            ]
-        },
-        {
-            "id": "8718faa4330af1fa2d8fb30db7013777",
-            "source": "aidy",
-            "text": "Export Controls Modernized for Space Items, SLS Gains Legislative Support",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T07:35:45.295038Z",
-            "shown_at": [
-                "2025-03-18T07:35:46.254542Z",
-                "2025-03-18T18:01:57.698930Z"
-            ]
-        },
-        {
-            "id": "b24c54abb8ddfa924275de1eb640f00e",
-            "source": "spacenews",
-            "text": "Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
-            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T10:11:34.915732Z",
-            "shown_at": [
-                "2025-03-18T10:11:35.516489Z"
-            ]
-        },
-        {
-            "id": "58ac38ad3689a1606f7917e8ac0448c4",
-            "source": "spacenews",
-            "text": "Rocket Lab launches final set of Kinéis satellites",
-            "source_link": "https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T10:25:50.173076Z",
-            "shown_at": [
-                "2025-03-18T10:25:50.908864Z"
-            ]
-        },
-        {
-            "id": "910c29e3d6b8d865ecc38d2727bab252",
-            "source": "spacenews",
-            "text": "Isar Aerospace sets date for first launch after receiving license",
-            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T11:37:25.152283Z",
-            "shown_at": [
-                "2025-03-18T11:37:25.710914Z"
-            ]
-        },
-        {
-            "id": "8870fc3abb140ca75cdac76c8a2b0a7b",
-            "source": "spacenews",
-            "text": "Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18",
-            "source_link": "https://spacenews.com/psionic-achieves-milestone-in-in-flight-testing-of-space-navigation-doppler-lidar-system-aboard-nasa-f-18/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T13:07:41.382302Z",
-            "shown_at": [
-                "2025-03-18T13:07:41.962756Z"
-            ]
-        },
-        {
-            "id": "49c51a9449935b19719ab3ed49765d4f",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T13:21:59.915910Z",
-            "shown_at": [
-                "2025-03-18T13:22:00.482948Z"
-            ]
-        },
-        {
-            "id": "2b54c28bc7abf637f1be1a06fc698834",
-            "source": "spacenews",
-            "text": "Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
-            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T14:51:51.275438Z",
-            "shown_at": [
-                "2025-03-18T14:51:53.410246Z"
-            ]
-        },
-        {
-            "id": "cbe55c83b487bb3d9b6d4002611dd3a8",
-            "source": "spacenews",
-            "text": "Samara Aerospace poised for spaceflight testing of Hummingbird technology",
-            "source_link": "https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T15:51:29.242347Z",
-            "shown_at": [
-                "2025-03-18T15:51:29.875103Z"
-            ]
-        },
-        {
-            "id": "6227961426c59e1c606c33487255788d",
-            "source": "spacenews",
-            "text": "U.S. restores satellite imagery support to Ukraine amid ceasefire tensions",
-            "source_link": "https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T18:49:36.994309Z",
-            "shown_at": [
-                "2025-03-18T18:49:37.713852Z"
-            ]
-        },
-        {
-            "id": "e41d3412d827e1d1d6b00b4cf3697247",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-57",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-20T06:02:00.000Z",
-            "time_remaining": "1d 07h 16m",
-            "fetched_datetime": "2025-03-18T20:57:41.216370Z",
-            "shown_at": [
-                "2025-03-18T20:57:41.806698Z",
-                "2025-03-18T20:59:36.007096Z",
-                "2025-03-18T21:01:55.938525Z",
-                "2025-03-18T21:03:42.518835Z",
-                "2025-03-18T21:05:33.587506Z",
-                "2025-03-18T22:33:45.734780Z",
-                "2025-03-18T22:35:43.063826Z",
-                "2025-03-18T22:37:28.592516Z",
-                "2025-03-18T22:39:33.571301Z",
-                "2025-03-18T22:41:45.731872Z",
-                "2025-03-18T22:43:27.077490Z",
-                "2025-03-18T22:45:44.459586Z"
-            ]
-        },
-        {
-            "id": "4446806785e13482ca21628092c0bc4c",
-            "source": "spacenews",
-            "text": "Space Force prepared to divest legacy systems in favor of market-ready solutions",
-            "source_link": "https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:07:37.293921Z",
-            "shown_at": [
-                "2025-03-18T21:07:37.937382Z"
-            ]
-        },
-        {
-            "id": "b4ef4d0277ae4d7047b87d77371b848f",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:23:31.243890Z",
-            "shown_at": [
-                "2025-03-18T21:23:31.825345Z"
-            ]
-        },
-        {
-            "id": "c57ba2a54153aa2e57379a290abd531d",
-            "source": "breaking_defense",
-            "text": "5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says",
-            "source_link": "https://breakingdefense.com/2025/03/5-chinese-satellites-practiced-dogfighting-in-space-space-force-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:37:41.471274Z",
-            "shown_at": [
-                "2025-03-18T21:37:42.459708Z"
-            ]
-        },
-        {
-            "id": "c89a3b838803a69f0254178e2a927cf3",
-            "source": "spacenews",
-            "text": "Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division",
-            "source_link": "https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:05:26.556025Z",
-            "shown_at": [
-                "2025-03-18T22:05:27.117638Z"
-            ]
-        },
-        {
-            "id": "665c6bbcd31cdade624971620af6f6d8",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:19:29.958849Z",
-            "shown_at": [
-                "2025-03-18T22:19:30.475191Z"
-            ]
-        },
-        {
-            "id": "0e6421b72493b40ca4cb0e065037365f",
-            "source": "spacenews",
-            "text": "Europe funds inflatable satellite drag sail demonstration",
-            "source_link": "https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:47:34.360709Z",
-            "shown_at": [
-                "2025-03-18T22:47:34.923449Z"
-            ]
-        },
-        {
-            "id": "dceeee5e5adee790fa8f131a1d6b714b",
-            "source": "spacenews",
-            "text": "SkyServe tests AI models with JPL and D-Orbit",
-            "source_link": "https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T23:31:55.518976Z",
-            "shown_at": [
-                "2025-03-18T23:31:56.429911Z"
             ]
         }
     ]
