@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 21 | 43 |
-| nyt | 3 | 8 | 18 | 38 |
+| nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 2 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 117 | 117 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2129,3 +2129,4 @@
 - **Mar 19, 05:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 05:32 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 05:33 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 19, 05:47 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
