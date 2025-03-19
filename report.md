@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 23 | 45 |
-| nyt | 7 | 8 | 18 | 36 |
+| spacenews | 11 | 21 | 22 | 45 |
+| nyt | 7 | 8 | 19 | 37 |
 | breaking_defense | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 19 | 19 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -1975,3 +1975,4 @@
 - **Mar 19, 12:17 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 19, 12:31 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 19, 12:46 AM** - Crew-10 arrives at space station (spacenews)
+- **Mar 19, 12:59 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
