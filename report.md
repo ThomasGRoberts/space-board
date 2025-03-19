@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 21 | 43 |
 | nyt | 3 | 8 | 20 | 38 |
-| breaking_defense | 3 | 3 | 20 | 36 |
+| breaking_defense | 4 | 4 | 21 | 37 |
 | supercluster | 0 | 1 | 126 | 131 |
 | aidy | 1 | 2 | 19 | 35 |
 
@@ -2154,3 +2154,4 @@
 - **Mar 19, 08:25 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 19, 08:44 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 19, 08:58 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 19, 09:16 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)

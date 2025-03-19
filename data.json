@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8ee1fff604dac5684fb53cf96a3bd478",
+    "trigger_count": 0,
+    "current_item_id": "1c3b9cccf2d4aea622cbb8ea073be638",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5745,6 +5745,18 @@
             "fetched_datetime": "2025-03-19T18:29:49.267744Z",
             "shown_at": [
                 "2025-03-19T18:29:50.218752Z"
+            ]
+        },
+        {
+            "id": "1c3b9cccf2d4aea622cbb8ea073be638",
+            "source": "breaking_defense",
+            "text": "GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen?",
+            "source_link": "https://breakingdefense.com/2025/03/gop-defense-appropriators-spell-out-cr-funding-levels-for-weapons-will-the-dod-listen/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T21:16:13.155689Z",
+            "shown_at": [
+                "2025-03-19T21:16:14.142586Z"
             ]
         }
     ]
