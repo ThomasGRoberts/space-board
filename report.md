@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 23 | 45 |
-| nyt | 6 | 8 | 18 | 36 |
+| nyt | 6 | 8 | 19 | 37 |
 | breaking_defense | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 33 | 33 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -1997,3 +1997,4 @@
 - **Mar 19, 02:37 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 02:51 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 19, 03:05 AM** - Crew-9 returns from space station (spacenews)
+- **Mar 19, 03:19 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
