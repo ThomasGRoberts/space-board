@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 22 | 45 |
+| spacenews | 9 | 19 | 22 | 44 |
 | nyt | 4 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -2077,3 +2077,4 @@
 - **Mar 19, 11:31 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 19, 11:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 11:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 11:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
