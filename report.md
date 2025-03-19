@@ -5,8 +5,8 @@
 | spacenews | 7 | 15 | 22 | 43 |
 | nyt | 2 | 8 | 19 | 38 |
 | breaking_defense | 3 | 4 | 20 | 36 |
-| supercluster | 0 | 1 | 126 | 131 |
-| aidy | 1 | 2 | 19 | 35 |
+| supercluster | 0 | 1 | 127 | 132 |
+| aidy | 1 | 2 | 19 | 34 |
 
 # Shown Order
 
@@ -2156,3 +2156,4 @@
 - **Mar 19, 08:58 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 19, 09:16 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 19, 09:33 PM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
+- **Mar 19, 09:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
