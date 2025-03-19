@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 22 | 44 |
 | nyt | 4 | 8 | 19 | 39 |
-| breaking_defense | 1 | 2 | 17 | 35 |
+| breaking_defense | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 82 | 82 |
 | aidy | 1 | 2 | 17 | 35 |
 
@@ -2071,3 +2071,4 @@
 - **Mar 19, 10:41 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 10:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 10:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 10:47 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
