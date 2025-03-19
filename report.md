@@ -6,7 +6,7 @@
 | nyt | 7 | 8 | 19 | 36 |
 | breaking_defense | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 19 | 19 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 34 |
 
 # Shown Order
 
@@ -1973,3 +1973,4 @@
 - **Mar 19, 12:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 12:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 12:17 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
+- **Mar 19, 12:31 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
