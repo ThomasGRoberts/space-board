@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 24 | 45 |
-| nyt | 4 | 8 | 18 | 38 |
+| nyt | 4 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 68 | 68 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -2052,3 +2052,4 @@
 - **Mar 19, 08:27 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 19, 08:41 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 19, 08:55 AM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
+- **Mar 19, 09:09 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
