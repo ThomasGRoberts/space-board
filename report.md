@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 21 | 44 |
-| nyt | 3 | 8 | 18 | 38 |
+| nyt | 3 | 8 | 19 | 39 |
 | breaking_defense | 1 | 1 | 17 | 35 |
 | supercluster | 1 | 1 | 110 | 110 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -2118,3 +2118,4 @@
 - **Mar 19, 03:55 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 04:09 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 19, 04:23 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 19, 04:37 PM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
