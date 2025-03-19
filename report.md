@@ -6,7 +6,7 @@
 | nyt | 3 | 8 | 18 | 38 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 | supercluster | 1 | 1 | 110 | 110 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2117,3 +2117,4 @@
 - **Mar 19, 03:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 03:55 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 04:09 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
+- **Mar 19, 04:23 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
