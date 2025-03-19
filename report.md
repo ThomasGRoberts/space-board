@@ -6,7 +6,7 @@
 | nyt | 3 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 103 | 103 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2106,3 +2106,4 @@
 - **Mar 19, 02:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 02:39 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 02:54 PM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
+- **Mar 19, 03:13 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
