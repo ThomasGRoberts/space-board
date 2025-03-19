@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 21 | 43 |
+| spacenews | 9 | 18 | 22 | 44 |
 | nyt | 3 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 96 | 96 |
@@ -2094,3 +2094,4 @@
 - **Mar 19, 01:16 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:18 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:22 PM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
+- **Mar 19, 01:39 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
