@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 22 | 44 |
+| spacenews | 11 | 21 | 23 | 45 |
 | nyt | 7 | 8 | 19 | 37 |
 | breaking_defense | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -1986,3 +1986,4 @@
 - **Mar 19, 01:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 19, 01:41 AM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
 - **Mar 19, 01:55 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
+- **Mar 19, 02:09 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
