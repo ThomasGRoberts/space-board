@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 24 | 44 |
-| nyt | 4 | 8 | 18 | 37 |
+| nyt | 4 | 8 | 19 | 38 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 61 | 61 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -2041,3 +2041,4 @@
 - **Mar 19, 07:17 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 19, 07:31 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 19, 07:45 AM** - Manufacturing defect blamed for Vulcan solid rocket motor anomaly (spacenews)
+- **Mar 19, 07:59 AM** - Video: Blood Moon Total Lunar Eclipse (nyt)
