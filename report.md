@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 20 | 43 |
+| spacenews | 7 | 17 | 21 | 44 |
 | nyt | 3 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 18 | 36 |
 | supercluster | 1 | 1 | 110 | 110 |
@@ -2116,3 +2116,4 @@
 - **Mar 19, 03:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 03:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 03:55 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 19, 04:09 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
