@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 24 | 44 |
-| nyt | 4 | 8 | 17 | 36 |
+| nyt | 4 | 8 | 18 | 37 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 54 | 54 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -2030,3 +2030,4 @@
 - **Mar 19, 06:07 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 19, 06:21 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 19, 06:35 AM** - Crew-10 arrives at space station (spacenews)
+- **Mar 19, 06:49 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
