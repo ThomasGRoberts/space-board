@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "700aac9fd451a1ac9a6a8c512abdb2f6",
+    "trigger_count": 0,
+    "current_item_id": "14f8cab27e13aeddd6029e03f78f63b9",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5699,6 +5699,18 @@
             "fetched_datetime": "2025-03-19T17:05:33.597171Z",
             "shown_at": [
                 "2025-03-19T17:05:34.213651Z"
+            ]
+        },
+        {
+            "id": "14f8cab27e13aeddd6029e03f78f63b9",
+            "source": "breaking_defense",
+            "text": "How to maximize the resiliency of PNT",
+            "source_link": "https://breakingdefense.com/2025/03/how-to-maximize-the-resiliency-of-pnt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T18:01:56.479436Z",
+            "shown_at": [
+                "2025-03-19T18:01:57.130422Z"
             ]
         }
     ]

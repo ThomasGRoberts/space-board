@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 21 | 42 |
 | nyt | 3 | 8 | 19 | 39 |
-| breaking_defense | 2 | 2 | 17 | 35 |
+| breaking_defense | 3 | 3 | 18 | 36 |
 | supercluster | 1 | 1 | 117 | 117 |
 | aidy | 1 | 2 | 18 | 36 |
 
@@ -2130,3 +2130,4 @@
 - **Mar 19, 05:32 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 05:33 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 19, 05:47 PM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
+- **Mar 19, 06:01 PM** - How to maximize the resiliency of PNT (breaking_defense)
