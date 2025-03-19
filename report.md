@@ -6,7 +6,7 @@
 | nyt | 3 | 8 | 19 | 38 |
 | breaking_defense | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 1 | 131 | 131 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -2151,3 +2151,4 @@
 - **Mar 19, 08:16 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:18 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 08:22 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 08:25 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
