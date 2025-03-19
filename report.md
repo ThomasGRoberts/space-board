@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 22 | 45 |
+| spacenews | 10 | 19 | 22 | 44 |
 | nyt | 4 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
@@ -2088,3 +2088,4 @@
 - **Mar 19, 12:43 PM** - SpaceX Launches NASA’s SPHEREx and PUNCH Missions (nyt)
 - **Mar 19, 12:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 01:03 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 01:06 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
