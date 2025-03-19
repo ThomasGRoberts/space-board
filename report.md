@@ -6,7 +6,7 @@
 | nyt | 5 | 8 | 18 | 36 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 47 | 47 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2017,3 +2017,4 @@
 - **Mar 19, 04:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 04:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 04:57 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 19, 05:11 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
