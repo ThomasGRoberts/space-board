@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 23 | 44 |
-| nyt | 6 | 8 | 18 | 36 |
+| nyt | 6 | 8 | 19 | 37 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | supercluster | 1 | 1 | 40 | 40 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -2008,3 +2008,4 @@
 - **Mar 19, 03:47 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 19, 04:01 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 19, 04:15 AM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
+- **Mar 19, 04:29 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
