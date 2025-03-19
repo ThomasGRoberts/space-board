@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 21 | 44 |
 | nyt | 3 | 8 | 19 | 38 |
-| breaking_defense | 3 | 3 | 18 | 36 |
+| breaking_defense | 3 | 3 | 18 | 35 |
 | supercluster | 1 | 1 | 124 | 124 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2140,3 +2140,4 @@
 - **Mar 19, 06:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 06:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 19, 06:57 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
