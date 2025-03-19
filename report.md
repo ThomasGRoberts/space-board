@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 23 | 45 |
-| nyt | 4 | 8 | 18 | 38 |
+| nyt | 4 | 8 | 19 | 39 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 75 | 75 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -2063,3 +2063,4 @@
 - **Mar 19, 09:37 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 19, 09:51 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 19, 10:05 AM** - Apollo left footprints — Mars must leave a legacy (spacenews)
+- **Mar 19, 10:19 AM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
