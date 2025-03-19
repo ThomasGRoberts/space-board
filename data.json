@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dff32a2867a47349524647fef7bcf479",
+    "trigger_count": 0,
+    "current_item_id": "c87a7b87c61cfa5f9ef156163e9bdf24",
     "data": [
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
@@ -5767,6 +5767,15 @@
             "shown_at": [
                 "2025-03-19T21:16:14.142586Z"
             ]
+        },
+        {
+            "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
+            "source": "nyt",
+            "text": "Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought",
+            "source_link": "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T22:17:26.383612Z"
         }
     ]
 }
