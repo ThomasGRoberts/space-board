@@ -6,7 +6,7 @@
 | nyt | 4 | 8 | 18 | 38 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 89 | 89 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2084,3 +2084,4 @@
 - **Mar 19, 11:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 11:59 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 19, 12:15 PM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
+- **Mar 19, 12:29 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
