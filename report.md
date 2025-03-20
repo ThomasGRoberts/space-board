@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 16 | 35 |
-| breaking_defense | 3 | 6 | 16 | 35 |
+| breaking_defense | 3 | 6 | 17 | 36 |
 | spacenews | 2 | 10 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 2 | 2 | 69 | 69 |
@@ -2153,3 +2153,4 @@
 - **Mar 20, 06:49 PM** - Bringing Astronauts Home (nyt)
 - **Mar 20, 07:03 PM** - Chinese company targets crewed orbital spaceflight (spacenews)
 - **Mar 20, 07:17 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 20, 07:31 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
