@@ -5,7 +5,7 @@
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 3 | 15 | 17 | 40 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 1 | 2 | 16 | 34 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -2061,3 +2061,4 @@
 - **Mar 20, 08:23 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 08:25 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 08:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
+- **Mar 20, 08:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
