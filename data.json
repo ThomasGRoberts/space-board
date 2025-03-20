@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6062bf8002a4d4ed36efc208ac6c2f",
+    "trigger_count": 0,
+    "current_item_id": "99df0bf123343cd02038321f8bb13156",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5812,6 +5812,18 @@
             "fetched_datetime": "2025-03-20T15:11:41.502712Z",
             "shown_at": [
                 "2025-03-20T15:11:42.155679Z"
+            ]
+        },
+        {
+            "id": "99df0bf123343cd02038321f8bb13156",
+            "source": "breaking_defense",
+            "text": "Trump eliminated a key space advisory committee at the worst time",
+            "source_link": "https://breakingdefense.com/2025/03/trump-eliminated-a-key-space-advisory-committee-at-the-worst-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T15:57:33.850788Z",
+            "shown_at": [
+                "2025-03-20T15:57:34.429185Z"
             ]
         }
     ]

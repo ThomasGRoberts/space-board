@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 16 | 35 |
-| breaking_defense | 4 | 5 | 17 | 34 |
+| breaking_defense | 5 | 6 | 17 | 35 |
 | spacenews | 4 | 11 | 18 | 38 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 48 | 48 |
@@ -2120,3 +2120,4 @@
 - **Mar 20, 03:11 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 20, 03:27 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 20, 03:43 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 20, 03:57 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
