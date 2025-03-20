@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 8 | 16 | 34 |
+| nyt | 2 | 8 | 17 | 35 |
 | breaking_defense | 3 | 4 | 18 | 34 |
 | spacenews | 4 | 15 | 18 | 40 |
 | aidy | 1 | 2 | 17 | 33 |
-| supercluster | 0 | 1 | 119 | 138 |
+| supercluster | 0 | 1 | 118 | 138 |
 
 # Shown Order
 
@@ -2164,3 +2164,4 @@
 - **Mar 19, 09:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 09:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 19, 10:02 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 20, 01:15 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)

@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
+    "trigger_count": 0,
     "current_item_id": "c87a7b87c61cfa5f9ef156163e9bdf24",
     "data": [
         {
@@ -9,9 +9,12 @@
             "source": "nyt",
             "text": "Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought",
             "source_link": "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-19T22:17:26.383612Z"
+            "fetched_datetime": "2025-03-19T22:17:26.383612Z",
+            "shown_at": [
+                "2025-03-20T01:15:33.708654Z"
+            ]
         },
         {
             "id": "1c3b9cccf2d4aea622cbb8ea073be638",
