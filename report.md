@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 3 | 15 | 17 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -2053,3 +2053,4 @@
 - **Mar 20, 07:29 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 20, 07:43 AM** - Crew-10 arrives at space station (spacenews)
 - **Mar 20, 07:57 AM** - Bringing Astronauts Home (nyt)
+- **Mar 20, 08:13 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
