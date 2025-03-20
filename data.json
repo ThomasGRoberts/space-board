@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c57ba2a54153aa2e57379a290abd531d",
+    "trigger_count": 0,
+    "current_item_id": "557a299db3d74c2ec934a73924027a67",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5674,6 +5674,18 @@
                 "2025-03-20T07:09:24.936852Z",
                 "2025-03-20T07:11:41.842048Z",
                 "2025-03-20T07:13:42.180892Z"
+            ]
+        },
+        {
+            "id": "557a299db3d74c2ec934a73924027a67",
+            "source": "aidy",
+            "text": "U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T07:29:29.068985Z",
+            "shown_at": [
+                "2025-03-20T07:29:29.525851Z"
             ]
         }
     ]
