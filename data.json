@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4904cea3745c75528b4fed9cce224187",
+    "trigger_count": 0,
+    "current_item_id": "9af33062221b7df4e2e2217f40841f27",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5887,6 +5887,18 @@
             "fetched_datetime": "2025-03-20T20:45:43.978072Z",
             "shown_at": [
                 "2025-03-20T20:45:44.465508Z"
+            ]
+        },
+        {
+            "id": "9af33062221b7df4e2e2217f40841f27",
+            "source": "spacenews",
+            "text": "U.S. Space Force budget trimmed in full-year continuing resolution",
+            "source_link": "https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T21:29:32.059269Z",
+            "shown_at": [
+                "2025-03-20T21:29:32.640983Z"
             ]
         }
     ]
