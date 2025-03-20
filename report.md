@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 5 | 17 | 35 |
 | spacenews | 4 | 13 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -2100,3 +2100,4 @@
 - **Mar 20, 01:03 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 20, 01:17 PM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 20, 01:31 PM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
+- **Mar 20, 01:50 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
