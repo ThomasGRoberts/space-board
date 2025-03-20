@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 16 | 35 |
-| breaking_defense | 4 | 6 | 16 | 34 |
+| breaking_defense | 4 | 6 | 17 | 35 |
 | spacenews | 3 | 11 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 55 | 55 |
@@ -2131,3 +2131,4 @@
 - **Mar 20, 04:27 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 20, 04:41 PM** - Crew-9 returns from space station (spacenews)
 - **Mar 20, 04:55 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 20, 05:09 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
