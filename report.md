@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 15 | 34 |
+| nyt | 2 | 6 | 16 | 35 |
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 4 | 14 | 17 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -2085,3 +2085,4 @@
 - **Mar 20, 11:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:09 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 20, 11:23 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 20, 11:37 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
