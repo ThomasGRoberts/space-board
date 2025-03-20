@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 16 | 35 |
+| nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 16 | 34 |
 | spacenews | 4 | 14 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -2076,3 +2076,4 @@
 - **Mar 20, 10:11 AM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
 - **Mar 20, 10:25 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 20, 10:39 AM** - NASA examining options for another Starliner test flight (spacenews)
+- **Mar 20, 10:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
