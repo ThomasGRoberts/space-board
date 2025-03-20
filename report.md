@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 18 | 35 |
+| nyt | 2 | 4 | 19 | 36 |
 | breaking_defense | 3 | 6 | 18 | 37 |
 | spacenews | 4 | 8 | 19 | 38 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -2195,3 +2195,4 @@
 - **Mar 20, 11:35 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:37 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:39 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
+- **Mar 20, 11:55 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
