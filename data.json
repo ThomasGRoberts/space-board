@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "59ab7844f78a7365a78b3bbd355b9994",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5908,6 +5908,18 @@
             "fetched_datetime": "2025-03-20T21:29:32.059269Z",
             "shown_at": [
                 "2025-03-20T21:29:32.640983Z"
+            ]
+        },
+        {
+            "id": "59ab7844f78a7365a78b3bbd355b9994",
+            "source": "spacenews",
+            "text": "French VLEO 5G startup strikes telecoms infrastructure partnership",
+            "source_link": "https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T22:27:26.517982Z",
+            "shown_at": [
+                "2025-03-20T22:27:26.943889Z"
             ]
         }
     ]
