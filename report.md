@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 7 | 16 | 35 |
+| nyt | 1 | 7 | 17 | 36 |
 | breaking_defense | 3 | 4 | 18 | 34 |
 | spacenews | 3 | 15 | 18 | 41 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -2197,3 +2197,4 @@
 - **Mar 20, 04:29 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 04:31 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 04:33 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 20, 04:47 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
