@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-19T00:02:19.265371+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
+    "trigger_count": 1,
     "current_item_id": "c87a7b87c61cfa5f9ef156163e9bdf24",
     "data": [
+        {
+            "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
+            "source": "nyt",
+            "text": "Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought",
+            "source_link": "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T22:17:26.383612Z"
+        },
+        {
+            "id": "1c3b9cccf2d4aea622cbb8ea073be638",
+            "source": "breaking_defense",
+            "text": "GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen?",
+            "source_link": "https://breakingdefense.com/2025/03/gop-defense-appropriators-spell-out-cr-funding-levels-for-weapons-will-the-dod-listen/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T21:16:13.155689Z",
+            "shown_at": [
+                "2025-03-19T21:16:14.142586Z"
+            ]
+        },
+        {
+            "id": "39012934f0971a1dc5e692de1b9ff791",
+            "source": "spacenews",
+            "text": "Chinese company targets crewed orbital spaceflight",
+            "source_link": "https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T18:29:49.267744Z",
+            "shown_at": [
+                "2025-03-19T18:29:50.218752Z"
+            ]
+        },
+        {
+            "id": "14f8cab27e13aeddd6029e03f78f63b9",
+            "source": "breaking_defense",
+            "text": "How to maximize the resiliency of PNT",
+            "source_link": "https://breakingdefense.com/2025/03/how-to-maximize-the-resiliency-of-pnt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T18:01:56.479436Z",
+            "shown_at": [
+                "2025-03-19T18:01:57.130422Z"
+            ]
+        },
+        {
+            "id": "bcf10f4cbf0a9b127e35076c0ed6beed",
+            "source": "spacenews",
+            "text": "Space Force unveils strategic plan for AI integration",
+            "source_link": "https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T17:05:33.597171Z",
+            "shown_at": [
+                "2025-03-19T17:05:34.213651Z",
+                "2025-03-19T19:41:37.748954Z"
+            ]
+        },
+        {
+            "id": "8ee1fff604dac5684fb53cf96a3bd478",
+            "source": "breaking_defense",
+            "text": "Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-declares-upcoming-symposium-mission-essential-amid-trump-travel-restrictions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T16:51:38.729113Z",
+            "shown_at": [
+                "2025-03-19T16:51:39.209416Z",
+                "2025-03-19T20:58:21.688691Z"
+            ]
+        },
+        {
+            "id": "a62558aa4a01e5e3b8c5a6b99f263898",
+            "source": "spacenews",
+            "text": "Exlabs and Antares form alliance to develop nuclear-powered spacecraft",
+            "source_link": "https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T12:15:36.533885Z",
+            "shown_at": [
+                "2025-03-19T12:15:37.263841Z"
+            ]
+        },
+        {
+            "id": "3278f83cdbb8296a8c5811e20fe23ae7",
+            "source": "aidy",
+            "text": "NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T07:31:58.737787Z",
+            "shown_at": [
+                "2025-03-19T07:31:59.592670Z",
+                "2025-03-19T17:33:43.032451Z"
+            ]
+        },
+        {
+            "id": "43015f6a78dfab40fc63613310aa15df",
+            "source": "spacenews",
+            "text": "Crew-9 returns from space station",
+            "source_link": "https://spacenews.com/crew-9-returns-from-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T03:05:36.422275Z",
+            "shown_at": [
+                "2025-03-19T03:05:36.962654Z"
+            ]
+        },
+        {
+            "id": "ea90d4d75c24b347b1eac79b54b2d2a6",
+            "source": "nyt",
+            "text": "Highlights From Suni Williams and Butch Wilmore’s Return to Earth",
+            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-19T01:55:25.920504Z",
+            "shown_at": [
+                "2025-03-19T01:55:26.398101Z"
+            ]
+        },
         {
             "id": "dceeee5e5adee790fa8f131a1d6b714b",
             "source": "spacenews",
@@ -5656,126 +5776,6 @@
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
             ]
-        },
-        {
-            "id": "ea90d4d75c24b347b1eac79b54b2d2a6",
-            "source": "nyt",
-            "text": "Highlights From Suni Williams and Butch Wilmore’s Return to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T01:55:25.920504Z",
-            "shown_at": [
-                "2025-03-19T01:55:26.398101Z"
-            ]
-        },
-        {
-            "id": "43015f6a78dfab40fc63613310aa15df",
-            "source": "spacenews",
-            "text": "Crew-9 returns from space station",
-            "source_link": "https://spacenews.com/crew-9-returns-from-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T03:05:36.422275Z",
-            "shown_at": [
-                "2025-03-19T03:05:36.962654Z"
-            ]
-        },
-        {
-            "id": "3278f83cdbb8296a8c5811e20fe23ae7",
-            "source": "aidy",
-            "text": "NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T07:31:58.737787Z",
-            "shown_at": [
-                "2025-03-19T07:31:59.592670Z",
-                "2025-03-19T17:33:43.032451Z"
-            ]
-        },
-        {
-            "id": "a62558aa4a01e5e3b8c5a6b99f263898",
-            "source": "spacenews",
-            "text": "Exlabs and Antares form alliance to develop nuclear-powered spacecraft",
-            "source_link": "https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T12:15:36.533885Z",
-            "shown_at": [
-                "2025-03-19T12:15:37.263841Z"
-            ]
-        },
-        {
-            "id": "8ee1fff604dac5684fb53cf96a3bd478",
-            "source": "breaking_defense",
-            "text": "Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-declares-upcoming-symposium-mission-essential-amid-trump-travel-restrictions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T16:51:38.729113Z",
-            "shown_at": [
-                "2025-03-19T16:51:39.209416Z",
-                "2025-03-19T20:58:21.688691Z"
-            ]
-        },
-        {
-            "id": "bcf10f4cbf0a9b127e35076c0ed6beed",
-            "source": "spacenews",
-            "text": "Space Force unveils strategic plan for AI integration",
-            "source_link": "https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T17:05:33.597171Z",
-            "shown_at": [
-                "2025-03-19T17:05:34.213651Z",
-                "2025-03-19T19:41:37.748954Z"
-            ]
-        },
-        {
-            "id": "14f8cab27e13aeddd6029e03f78f63b9",
-            "source": "breaking_defense",
-            "text": "How to maximize the resiliency of PNT",
-            "source_link": "https://breakingdefense.com/2025/03/how-to-maximize-the-resiliency-of-pnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T18:01:56.479436Z",
-            "shown_at": [
-                "2025-03-19T18:01:57.130422Z"
-            ]
-        },
-        {
-            "id": "39012934f0971a1dc5e692de1b9ff791",
-            "source": "spacenews",
-            "text": "Chinese company targets crewed orbital spaceflight",
-            "source_link": "https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T18:29:49.267744Z",
-            "shown_at": [
-                "2025-03-19T18:29:50.218752Z"
-            ]
-        },
-        {
-            "id": "1c3b9cccf2d4aea622cbb8ea073be638",
-            "source": "breaking_defense",
-            "text": "GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen?",
-            "source_link": "https://breakingdefense.com/2025/03/gop-defense-appropriators-spell-out-cr-funding-levels-for-weapons-will-the-dod-listen/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T21:16:13.155689Z",
-            "shown_at": [
-                "2025-03-19T21:16:14.142586Z"
-            ]
-        },
-        {
-            "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
-            "source": "nyt",
-            "text": "Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought",
-            "source_link": "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T22:17:26.383612Z"
         }
     ]
 }
