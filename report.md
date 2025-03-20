@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 7 | 17 | 36 |
-| breaking_defense | 3 | 4 | 17 | 34 |
+| breaking_defense | 3 | 4 | 18 | 35 |
 | spacenews | 3 | 15 | 18 | 41 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 112 | 152 |
@@ -2187,3 +2187,4 @@
 - **Mar 20, 03:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 03:21 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 20, 03:37 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 20, 03:51 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
