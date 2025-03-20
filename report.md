@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 35 |
 | breaking_defense | 3 | 4 | 17 | 34 |
-| spacenews | 4 | 13 | 17 | 39 |
+| spacenews | 4 | 13 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -2086,3 +2086,4 @@
 - **Mar 20, 11:09 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 20, 11:23 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 20, 11:37 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
+- **Mar 20, 11:51 AM** - Space Force unveils strategic plan for AI integration (spacenews)
