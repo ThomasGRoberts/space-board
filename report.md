@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 16 | 34 |
+| nyt | 2 | 6 | 17 | 35 |
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 3 | 15 | 17 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -2052,3 +2052,4 @@
 - **Mar 20, 07:15 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 20, 07:29 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 20, 07:43 AM** - Crew-10 arrives at space station (spacenews)
+- **Mar 20, 07:57 AM** - Bringing Astronauts Home (nyt)
