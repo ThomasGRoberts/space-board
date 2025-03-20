@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 18 | 36 |
-| breaking_defense | 3 | 6 | 17 | 36 |
+| breaking_defense | 3 | 6 | 18 | 37 |
 | spacenews | 4 | 9 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 2 | 2 | 90 | 90 |
@@ -2186,3 +2186,4 @@
 - **Mar 20, 10:27 PM** - French VLEO 5G startup strikes telecoms infrastructure partnership (spacenews)
 - **Mar 20, 10:41 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 20, 10:55 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 20, 11:09 PM** - How to maximize the resiliency of PNT (breaking_defense)
