@@ -5,7 +5,7 @@
 | nyt | 3 | 6 | 16 | 35 |
 | breaking_defense | 3 | 6 | 17 | 35 |
 | spacenews | 2 | 10 | 17 | 38 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 34 |
 | supercluster | 2 | 2 | 69 | 69 |
 
 # Shown Order
@@ -2152,3 +2152,4 @@
 - **Mar 20, 06:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 06:49 PM** - Bringing Astronauts Home (nyt)
 - **Mar 20, 07:03 PM** - Chinese company targets crewed orbital spaceflight (spacenews)
+- **Mar 20, 07:17 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
