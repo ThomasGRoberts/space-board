@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 16 | 34 |
-| breaking_defense | 4 | 5 | 17 | 35 |
+| breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 13 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -2101,3 +2101,4 @@
 - **Mar 20, 01:17 PM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 20, 01:31 PM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
 - **Mar 20, 01:50 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 01:53 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
