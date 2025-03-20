@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12d905cd65a7c2765d7df8720f9ebff4",
+    "trigger_count": 0,
+    "current_item_id": "01a5ed1f16b78af0a49f97a3ef523ebb",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5710,6 +5710,18 @@
             "fetched_datetime": "2025-03-20T07:29:29.068985Z",
             "shown_at": [
                 "2025-03-20T07:29:29.525851Z"
+            ]
+        },
+        {
+            "id": "01a5ed1f16b78af0a49f97a3ef523ebb",
+            "source": "spacenews",
+            "text": "NASA examining options for another Starliner test flight",
+            "source_link": "https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T10:39:33.146467Z",
+            "shown_at": [
+                "2025-03-20T10:39:33.749275Z"
             ]
         }
     ]

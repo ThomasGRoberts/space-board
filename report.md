@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 35 |
 | breaking_defense | 3 | 4 | 17 | 34 |
-| spacenews | 3 | 13 | 17 | 39 |
+| spacenews | 4 | 14 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -2075,3 +2075,4 @@
 - **Mar 20, 09:55 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 20, 10:11 AM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
 - **Mar 20, 10:25 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 20, 10:39 AM** - NASA examining options for another Starliner test flight (spacenews)
