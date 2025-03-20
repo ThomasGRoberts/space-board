@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 35 |
-| breaking_defense | 3 | 4 | 16 | 34 |
+| breaking_defense | 4 | 5 | 17 | 35 |
 | spacenews | 4 | 13 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -2087,3 +2087,4 @@
 - **Mar 20, 11:23 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 20, 11:37 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 20, 11:51 AM** - Space Force unveils strategic plan for AI integration (spacenews)
+- **Mar 20, 12:05 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
