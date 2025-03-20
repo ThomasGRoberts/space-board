@@ -5,7 +5,7 @@
 | nyt | 3 | 6 | 16 | 35 |
 | breaking_defense | 4 | 6 | 16 | 34 |
 | spacenews | 4 | 11 | 18 | 39 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 55 | 55 |
 
 # Shown Order
@@ -2130,3 +2130,4 @@
 - **Mar 20, 04:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 04:27 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 20, 04:41 PM** - Crew-9 returns from space station (spacenews)
+- **Mar 20, 04:55 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
