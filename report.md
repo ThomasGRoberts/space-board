@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 17 | 34 |
-| spacenews | 3 | 15 | 17 | 41 |
+| spacenews | 3 | 15 | 17 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -2066,3 +2066,4 @@
 - **Mar 20, 09:13 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 20, 09:27 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 09:29 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 09:31 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
