@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 16 | 35 |
 | breaking_defense | 3 | 4 | 18 | 34 |
-| spacenews | 4 | 15 | 19 | 41 |
-| aidy | 1 | 2 | 16 | 33 |
+| spacenews | 4 | 15 | 18 | 41 |
+| aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 119 | 145 |
 
 # Shown Order
@@ -2174,3 +2174,4 @@
 - **Mar 20, 02:05 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 02:07 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 02:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 20, 02:11 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
