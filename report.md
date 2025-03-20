@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 17 | 34 |
-| spacenews | 3 | 15 | 16 | 40 |
+| spacenews | 3 | 15 | 17 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -2073,3 +2073,4 @@
 - **Mar 20, 09:39 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 09:41 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 20, 09:55 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 20, 10:11 AM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
