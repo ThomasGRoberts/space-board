@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "3df6c968b60c64c627a704630e54e833",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5798,6 +5798,18 @@
                 "2025-03-20T15:05:25.106640Z",
                 "2025-03-20T15:07:40.781618Z",
                 "2025-03-20T15:09:33.292944Z"
+            ]
+        },
+        {
+            "id": "3df6c968b60c64c627a704630e54e833",
+            "source": "nyt",
+            "text": "Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99",
+            "source_link": "https://www.nytimes.com/2025/03/20/books/robert-ginna-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T15:11:41.502712Z",
+            "shown_at": [
+                "2025-03-20T15:11:42.155679Z"
             ]
         }
     ]
