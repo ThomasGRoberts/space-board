@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 16 | 35 |
+| nyt | 3 | 6 | 17 | 36 |
 | breaking_defense | 3 | 6 | 17 | 36 |
 | spacenews | 2 | 10 | 16 | 38 |
 | aidy | 1 | 2 | 16 | 34 |
@@ -2161,3 +2161,4 @@
 - **Mar 20, 07:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 07:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 07:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 20, 07:59 PM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
