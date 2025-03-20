@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 16 | 35 |
-| breaking_defense | 3 | 6 | 16 | 34 |
+| breaking_defense | 3 | 6 | 17 | 35 |
 | spacenews | 3 | 11 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 62 | 62 |
@@ -2142,3 +2142,4 @@
 - **Mar 20, 05:39 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 20, 05:53 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 20, 06:07 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 20, 06:21 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
