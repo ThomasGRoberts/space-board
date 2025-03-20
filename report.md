@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 16 | 36 |
+| nyt | 3 | 6 | 17 | 37 |
 | breaking_defense | 4 | 7 | 17 | 37 |
 | spacenews | 2 | 9 | 17 | 38 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -2172,3 +2172,4 @@
 - **Mar 20, 09:09 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 09:11 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 09:13 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 20, 09:15 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
