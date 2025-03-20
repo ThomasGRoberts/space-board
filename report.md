@@ -5,7 +5,7 @@
 | nyt | 3 | 6 | 16 | 35 |
 | breaking_defense | 3 | 6 | 16 | 34 |
 | spacenews | 3 | 11 | 18 | 39 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 62 | 62 |
 
 # Shown Order
@@ -2141,3 +2141,4 @@
 - **Mar 20, 05:37 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 05:39 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 20, 05:53 PM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
+- **Mar 20, 06:07 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
