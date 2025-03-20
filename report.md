@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 16 | 34 |
+| nyt | 3 | 6 | 17 | 35 |
 | breaking_defense | 4 | 6 | 17 | 35 |
 | spacenews | 3 | 11 | 17 | 38 |
 | aidy | 1 | 2 | 15 | 33 |
@@ -2139,3 +2139,4 @@
 - **Mar 20, 05:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 05:35 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 05:37 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 05:39 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
