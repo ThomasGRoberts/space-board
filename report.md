@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 3 | 15 | 17 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -2065,3 +2065,4 @@
 - **Mar 20, 08:57 AM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
 - **Mar 20, 09:13 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 20, 09:27 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 09:29 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
