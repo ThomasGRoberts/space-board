@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "14f8cab27e13aeddd6029e03f78f63b9",
+    "trigger_count": 0,
+    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5778,6 +5778,20 @@
             "fetched_datetime": "2025-03-20T12:19:30.825024Z",
             "shown_at": [
                 "2025-03-20T12:19:31.381579Z"
+            ]
+        },
+        {
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-57",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-21T05:48:00.000Z",
+            "time_remaining": "0d 14h 52m",
+            "fetched_datetime": "2025-03-20T14:55:14.645551Z",
+            "shown_at": [
+                "2025-03-20T14:55:15.249529Z"
             ]
         }
     ]
