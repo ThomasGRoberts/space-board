@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 4 | 5 | 17 | 35 |
-| spacenews | 3 | 13 | 17 | 40 |
+| spacenews | 4 | 14 | 18 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -2088,3 +2088,4 @@
 - **Mar 20, 11:37 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 20, 11:51 AM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 20, 12:05 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
+- **Mar 20, 12:19 PM** - Satellite operators want better space weather models (spacenews)

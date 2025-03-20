@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "89e7bb45e2be8314f2516ce486c69033",
+    "trigger_count": 0,
+    "current_item_id": "ed6a0ca4e90bb1e99a9b605eee2051e3",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5745,6 +5745,18 @@
             "fetched_datetime": "2025-03-20T12:05:36.991090Z",
             "shown_at": [
                 "2025-03-20T12:05:38.465614Z"
+            ]
+        },
+        {
+            "id": "ed6a0ca4e90bb1e99a9b605eee2051e3",
+            "source": "spacenews",
+            "text": "Satellite operators want better space weather models",
+            "source_link": "https://spacenews.com/satellite-operators-want-better-space-weather-models/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T12:19:30.825024Z",
+            "shown_at": [
+                "2025-03-20T12:19:31.381579Z"
             ]
         }
     ]
