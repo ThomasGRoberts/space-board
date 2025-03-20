@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 17 | 34 |
-| spacenews | 3 | 15 | 17 | 41 |
+| spacenews | 3 | 15 | 17 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -2045,3 +2045,4 @@
 - **Mar 20, 05:59 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 20, 07:02 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 07:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 07:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
