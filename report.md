@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 16 | 34 |
+| nyt | 2 | 5 | 15 | 34 |
 | breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 13 | 18 | 40 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -2107,3 +2107,4 @@
 - **Mar 20, 01:59 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 02:02 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 02:06 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 02:10 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
