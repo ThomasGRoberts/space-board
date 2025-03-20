@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 34 |
-| breaking_defense | 3 | 4 | 17 | 34 |
+| breaking_defense | 3 | 4 | 18 | 35 |
 | spacenews | 3 | 15 | 17 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -2049,3 +2049,4 @@
 - **Mar 20, 07:09 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 07:11 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 07:13 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 07:15 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
