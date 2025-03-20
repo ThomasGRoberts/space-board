@@ -5,7 +5,7 @@
 | nyt | 2 | 6 | 16 | 34 |
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 4 | 14 | 17 | 40 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -2084,3 +2084,4 @@
 - **Mar 20, 11:05 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:07 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:09 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
+- **Mar 20, 11:23 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
