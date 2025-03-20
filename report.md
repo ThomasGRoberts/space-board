@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 17 | 35 |
+| nyt | 2 | 4 | 18 | 36 |
 | breaking_defense | 3 | 6 | 17 | 37 |
 | spacenews | 4 | 10 | 18 | 39 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -2184,3 +2184,4 @@
 - **Mar 20, 10:23 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 10:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 10:27 PM** - French VLEO 5G startup strikes telecoms infrastructure partnership (spacenews)
+- **Mar 20, 10:41 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
