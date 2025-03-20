@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 17 | 36 |
-| breaking_defense | 3 | 6 | 16 | 36 |
+| breaking_defense | 3 | 6 | 17 | 37 |
 | spacenews | 3 | 10 | 17 | 39 |
 | aidy | 1 | 2 | 17 | 35 |
 | supercluster | 2 | 2 | 83 | 83 |
@@ -2175,3 +2175,4 @@
 - **Mar 20, 09:15 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 20, 09:29 PM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
 - **Mar 20, 09:43 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 20, 09:57 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
