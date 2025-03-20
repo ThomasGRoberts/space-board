@@ -5,7 +5,7 @@
 | nyt | 2 | 6 | 15 | 34 |
 | breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 14 | 18 | 41 |
-| aidy | 1 | 2 | 15 | 32 |
+| aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -2096,3 +2096,4 @@
 - **Mar 20, 12:42 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 12:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 12:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 20, 12:49 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
