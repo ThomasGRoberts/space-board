@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 16 | 35 |
-| breaking_defense | 4 | 5 | 17 | 34 |
+| breaking_defense | 4 | 5 | 18 | 35 |
 | spacenews | 4 | 13 | 18 | 39 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -2098,3 +2098,4 @@
 - **Mar 20, 12:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 12:49 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 20, 01:03 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 20, 01:17 PM** - How to maximize the resiliency of PNT (breaking_defense)
