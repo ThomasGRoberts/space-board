@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 14 | 18 | 41 |
 | aidy | 1 | 2 | 15 | 33 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -2089,3 +2089,4 @@
 - **Mar 20, 11:51 AM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 20, 12:05 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
 - **Mar 20, 12:19 PM** - Satellite operators want better space weather models (spacenews)
+- **Mar 20, 12:33 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
