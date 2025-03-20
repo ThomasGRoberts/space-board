@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6062bf8002a4d4ed36efc208ac6c2f",
+    "trigger_count": 0,
+    "current_item_id": "7ff5f59b939001080dcae0f131107db5",
     "data": [
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
@@ -5821,6 +5821,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "7ff5f59b939001080dcae0f131107db5",
+            "source": "nyt",
+            "text": "NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day",
+            "source_link": "https://www.nytimes.com/2025/03/20/us/nasa-astronauts-overtime.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T05:59:41.645704Z",
+            "shown_at": [
+                "2025-03-20T05:59:42.487964Z"
             ]
         }
     ]

@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 5 | 16 | 34 |
+| nyt | 2 | 6 | 17 | 35 |
 | breaking_defense | 3 | 4 | 18 | 35 |
 | spacenews | 3 | 15 | 18 | 41 |
 | aidy | 1 | 2 | 17 | 34 |
-| supercluster | 0 | 1 | 117 | 166 |
+| supercluster | 0 | 1 | 115 | 166 |
 
 # Shown Order
 
@@ -2208,3 +2208,4 @@
 - **Mar 20, 05:39 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 05:41 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 05:44 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 20, 05:59 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
