@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 17 | 36 |
 | breaking_defense | 3 | 6 | 17 | 35 |
-| spacenews | 2 | 10 | 16 | 37 |
+| spacenews | 2 | 10 | 17 | 38 |
 | aidy | 1 | 2 | 15 | 33 |
 | supercluster | 2 | 2 | 69 | 69 |
 
@@ -2151,3 +2151,4 @@
 - **Mar 20, 06:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 06:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 06:49 PM** - Bringing Astronauts Home (nyt)
+- **Mar 20, 07:03 PM** - Chinese company targets crewed orbital spaceflight (spacenews)
