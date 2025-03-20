@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 6 | 17 | 35 |
 | breaking_defense | 3 | 4 | 18 | 35 |
-| spacenews | 3 | 15 | 18 | 41 |
+| spacenews | 3 | 15 | 19 | 42 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 0 | 1 | 112 | 159 |
 
@@ -2199,3 +2199,4 @@
 - **Mar 20, 04:33 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 20, 04:47 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
 - **Mar 20, 05:02 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 20, 05:15 AM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
