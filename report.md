@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 15 | 34 |
+| nyt | 2 | 6 | 16 | 35 |
 | breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 14 | 18 | 40 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -2097,3 +2097,4 @@
 - **Mar 20, 12:45 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 12:47 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 12:49 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 20, 01:03 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
