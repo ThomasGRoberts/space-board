@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 7 | 17 | 35 |
-| breaking_defense | 3 | 4 | 18 | 34 |
+| breaking_defense | 3 | 4 | 18 | 35 |
 | spacenews | 4 | 15 | 18 | 41 |
 | aidy | 1 | 2 | 17 | 34 |
 | supercluster | 0 | 1 | 112 | 145 |
@@ -2176,3 +2176,4 @@
 - **Mar 20, 02:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 02:11 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 20, 02:25 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
+- **Mar 20, 02:39 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
