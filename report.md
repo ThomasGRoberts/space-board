@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 15 | 34 |
+| nyt | 2 | 6 | 16 | 35 |
 | breaking_defense | 3 | 4 | 17 | 34 |
 | spacenews | 3 | 15 | 17 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -2063,3 +2063,4 @@
 - **Mar 20, 08:27 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 20, 08:43 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 20, 08:57 AM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
+- **Mar 20, 09:13 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
