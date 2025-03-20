@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 15 | 34 |
+| nyt | 2 | 5 | 16 | 35 |
 | breaking_defense | 4 | 5 | 17 | 34 |
 | spacenews | 4 | 13 | 18 | 39 |
 | aidy | 1 | 2 | 16 | 33 |
@@ -2108,3 +2108,4 @@
 - **Mar 20, 02:02 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 02:06 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 02:10 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 20, 02:25 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
