@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 7 | 17 | 35 |
 | breaking_defense | 3 | 4 | 18 | 35 |
-| spacenews | 3 | 15 | 18 | 42 |
+| spacenews | 3 | 15 | 18 | 41 |
 | aidy | 1 | 2 | 16 | 33 |
-| supercluster | 0 | 1 | 112 | 145 |
+| supercluster | 0 | 1 | 113 | 146 |
 
 # Shown Order
 
@@ -2178,3 +2178,4 @@
 - **Mar 20, 02:25 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 20, 02:39 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 20, 02:53 AM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)
+- **Mar 20, 03:07 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
