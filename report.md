@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 16 | 35 |
+| nyt | 3 | 6 | 17 | 36 |
 | breaking_defense | 3 | 6 | 17 | 35 |
-| spacenews | 2 | 11 | 16 | 38 |
+| spacenews | 2 | 10 | 16 | 37 |
 | aidy | 1 | 2 | 16 | 33 |
 | supercluster | 2 | 2 | 69 | 69 |
 
@@ -2150,3 +2150,4 @@
 - **Mar 20, 06:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 06:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 06:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 20, 06:49 PM** - Bringing Astronauts Home (nyt)
