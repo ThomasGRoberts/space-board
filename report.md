@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 17 | 36 |
 | breaking_defense | 3 | 6 | 17 | 36 |
-| spacenews | 2 | 10 | 16 | 38 |
+| spacenews | 2 | 10 | 17 | 39 |
 | aidy | 1 | 2 | 16 | 34 |
 | supercluster | 2 | 2 | 76 | 76 |
 
@@ -2162,3 +2162,4 @@
 - **Mar 20, 07:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 07:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 20, 07:59 PM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
+- **Mar 20, 08:15 PM** - Crew-10 arrives at space station (spacenews)
