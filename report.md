@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 18 | 35 |
 | nyt | 1 | 4 | 17 | 34 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -2198,3 +2198,4 @@
 - **Mar 21, 07:41 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 21, 07:55 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 21, 08:09 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 21, 08:25 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
