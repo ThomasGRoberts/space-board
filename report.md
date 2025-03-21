@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 20 | 38 |
-| breaking_defense | 2 | 6 | 17 | 34 |
+| breaking_defense | 2 | 6 | 17 | 35 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -2138,3 +2138,4 @@
 - **Mar 21, 12:35 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 21, 12:51 PM** - Bringing Astronauts Home (nyt)
 - **Mar 21, 01:05 PM** - America’s space strategy in a changing Middle East (spacenews)
+- **Mar 21, 01:19 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
