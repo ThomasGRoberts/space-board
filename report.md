@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 19 | 36 |
-| breaking_defense | 3 | 6 | 18 | 35 |
+| breaking_defense | 3 | 6 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 35 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 70 | 76 |
@@ -2196,3 +2196,4 @@
 - **Mar 21, 07:06 AM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 21, 07:23 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 21, 07:37 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
+- **Mar 21, 07:55 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
