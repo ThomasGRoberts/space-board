@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 19 | 36 |
-| breaking_defense | 3 | 6 | 18 | 35 |
-| nyt | 1 | 3 | 19 | 34 |
+| breaking_defense | 3 | 6 | 19 | 36 |
+| nyt | 1 | 3 | 18 | 34 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 70 | 90 |
 
@@ -2218,3 +2218,4 @@
 - **Mar 21, 09:42 AM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
 - **Mar 21, 09:57 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 21, 10:11 AM** - Elon Musk’s Starlink Pushes Its Way Into India (nyt)
+- **Mar 21, 10:25 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
