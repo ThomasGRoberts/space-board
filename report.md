@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 19 | 37 |
+| spacenews | 4 | 7 | 20 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
 | nyt | 2 | 3 | 19 | 35 |
 | supercluster | 2 | 2 | 118 | 118 |
@@ -2227,3 +2227,4 @@
 - **Mar 21, 03:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 03:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 03:24 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 21, 03:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)
