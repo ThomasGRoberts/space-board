@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 21 | 38 |
-| breaking_defense | 1 | 5 | 17 | 34 |
+| breaking_defense | 1 | 5 | 18 | 35 |
 | nyt | 1 | 4 | 18 | 34 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 45 | 45 |
@@ -2207,3 +2207,4 @@
 - **Mar 21, 08:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 08:39 PM** - Rocket Lab launches Japanese SAR satellite (spacenews)
 - **Mar 21, 08:55 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 21, 09:12 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
