@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 20 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
-| nyt | 2 | 4 | 19 | 35 |
+| nyt | 2 | 4 | 20 | 36 |
 | supercluster | 2 | 2 | 104 | 104 |
 | aidy | 1 | 2 | 18 | 35 |
 
@@ -2206,3 +2206,4 @@
 - **Mar 21, 12:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 12:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 12:53 AM** - Crew-10 arrives at space station (spacenews)
+- **Mar 21, 01:07 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
