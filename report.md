@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 19 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
-| nyt | 2 | 4 | 19 | 36 |
-| supercluster | 2 | 2 | 104 | 104 |
+| nyt | 2 | 3 | 19 | 35 |
+| supercluster | 2 | 2 | 105 | 105 |
 | aidy | 1 | 2 | 19 | 35 |
 
 # Shown Order
@@ -2209,3 +2209,4 @@
 - **Mar 21, 01:07 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 21, 01:25 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 21, 01:42 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 21, 01:55 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
