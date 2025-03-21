@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 21 | 38 |
-| breaking_defense | 1 | 4 | 17 | 34 |
+| breaking_defense | 1 | 4 | 18 | 35 |
 | nyt | 1 | 3 | 18 | 35 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 52 | 52 |
@@ -2218,3 +2218,4 @@
 - **Mar 21, 09:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 09:53 PM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 21, 10:07 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
+- **Mar 21, 10:21 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
