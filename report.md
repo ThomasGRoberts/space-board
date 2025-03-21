@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 19 | 38 |
-| breaking_defense | 3 | 6 | 18 | 36 |
+| breaking_defense | 3 | 6 | 19 | 37 |
 | nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 118 | 118 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -2230,3 +2230,4 @@
 - **Mar 21, 03:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)
 - **Mar 21, 03:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 21, 03:57 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 21, 04:11 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
