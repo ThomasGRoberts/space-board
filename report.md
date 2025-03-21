@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 37 |
 | breaking_defense | 3 | 6 | 18 | 35 |
-| nyt | 1 | 3 | 18 | 34 |
+| nyt | 1 | 3 | 19 | 35 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 70 | 76 |
 
@@ -2195,3 +2195,4 @@
 - **Mar 21, 07:03 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 07:06 AM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 21, 07:23 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
+- **Mar 21, 07:37 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
