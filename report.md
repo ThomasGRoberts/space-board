@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 18 | 35 |
 | nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -2186,3 +2186,4 @@
 - **Mar 21, 06:17 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
 - **Mar 21, 06:31 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 21, 06:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 06:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
