@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 19 | 37 |
+| spacenews | 5 | 9 | 20 | 38 |
 | breaking_defense | 2 | 6 | 17 | 34 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 33 |
@@ -2137,3 +2137,4 @@
 - **Mar 21, 12:20 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 21, 12:35 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 21, 12:51 PM** - Bringing Astronauts Home (nyt)
+- **Mar 21, 01:05 PM** - America’s space strategy in a changing Middle East (spacenews)

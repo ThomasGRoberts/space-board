@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e7ebee1e47cfcf9f64c5ed64374d2de0",
+    "trigger_count": 0,
+    "current_item_id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
     "data": [
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
@@ -5893,6 +5893,18 @@
             "fetched_datetime": "2025-03-21T12:20:01.256621Z",
             "shown_at": [
                 "2025-03-21T12:35:38.660699Z"
+            ]
+        },
+        {
+            "id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
+            "source": "spacenews",
+            "text": "America’s space strategy in a changing Middle East",
+            "source_link": "https://spacenews.com/americas-space-strategy-in-a-changing-middle-east/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T13:05:35.673709Z",
+            "shown_at": [
+                "2025-03-21T13:05:36.619732Z"
             ]
         }
     ]
