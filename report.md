@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 19 | 37 |
 | breaking_defense | 3 | 6 | 19 | 37 |
 | nyt | 2 | 3 | 19 | 36 |
-| supercluster | 2 | 2 | 118 | 118 |
+| supercluster | 2 | 2 | 119 | 119 |
 | aidy | 1 | 2 | 19 | 35 |
 
 # Shown Order
@@ -2231,3 +2231,4 @@
 - **Mar 21, 03:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 21, 03:57 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 21, 04:11 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 21, 04:25 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
