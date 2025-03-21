@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 38 |
 | breaking_defense | 1 | 4 | 18 | 35 |
 | nyt | 1 | 3 | 18 | 35 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
@@ -2219,3 +2219,4 @@
 - **Mar 21, 09:53 PM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 21, 10:07 PM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 21, 10:21 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
+- **Mar 21, 10:35 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
