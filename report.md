@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 20 | 37 |
+| spacenews | 5 | 8 | 21 | 38 |
 | breaking_defense | 1 | 4 | 18 | 34 |
 | nyt | 1 | 4 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 34 |
@@ -2216,3 +2216,4 @@
 - **Mar 21, 09:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 09:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 09:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 09:53 PM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
