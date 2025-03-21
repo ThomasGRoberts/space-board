@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 20 | 38 |
-| breaking_defense | 3 | 6 | 19 | 37 |
+| breaking_defense | 3 | 6 | 18 | 36 |
 | nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 111 | 111 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -2218,3 +2218,4 @@
 - **Mar 21, 02:09 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 02:11 AM** - Satellite operators want better space weather models (spacenews)
 - **Mar 21, 02:25 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 21, 02:39 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
