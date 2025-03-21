@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 19 | 37 |
 | breaking_defense | 2 | 6 | 17 | 34 |
-| nyt | 1 | 3 | 17 | 33 |
+| nyt | 1 | 3 | 18 | 34 |
 | aidy | 1 | 2 | 18 | 33 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -2147,3 +2147,4 @@
 - **Mar 21, 01:56 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 01:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 02:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 02:03 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
