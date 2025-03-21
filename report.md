@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 20 | 38 |
+| spacenews | 5 | 9 | 20 | 37 |
 | breaking_defense | 1 | 6 | 17 | 34 |
 | nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -2162,3 +2162,4 @@
 - **Mar 21, 03:29 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 21, 03:43 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 21, 03:57 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
+- **Mar 21, 04:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
