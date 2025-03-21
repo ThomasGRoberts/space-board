@@ -1,9 +1,257 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-20T00:02:12.089128+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
+    "trigger_count": 3,
     "current_item_id": "aa096bc2bd0f2baee82657fce5793709",
     "data": [
+        {
+            "id": "59ab7844f78a7365a78b3bbd355b9994",
+            "source": "spacenews",
+            "text": "French VLEO 5G startup strikes telecoms infrastructure partnership",
+            "source_link": "https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T22:27:26.517982Z",
+            "shown_at": [
+                "2025-03-20T22:27:26.943889Z"
+            ]
+        },
+        {
+            "id": "9af33062221b7df4e2e2217f40841f27",
+            "source": "spacenews",
+            "text": "U.S. Space Force budget trimmed in full-year continuing resolution",
+            "source_link": "https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T21:29:32.059269Z",
+            "shown_at": [
+                "2025-03-20T21:29:32.640983Z"
+            ]
+        },
+        {
+            "id": "00bbbb3cd9a145d699cae9d41a5eff69",
+            "source": "breaking_defense",
+            "text": "Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift",
+            "source_link": "https://breakingdefense.com/2025/03/saltzman-space-force-in-pretty-good-spot-regarding-dod-funding-shift/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T20:45:43.978072Z",
+            "shown_at": [
+                "2025-03-20T20:45:44.465508Z"
+            ]
+        },
+        {
+            "id": "99df0bf123343cd02038321f8bb13156",
+            "source": "breaking_defense",
+            "text": "Trump eliminated a key space advisory committee at the worst time",
+            "source_link": "https://breakingdefense.com/2025/03/trump-eliminated-a-key-space-advisory-committee-at-the-worst-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T15:57:33.850788Z",
+            "shown_at": [
+                "2025-03-20T15:57:34.429185Z",
+                "2025-03-20T18:21:54.176769Z",
+                "2025-03-20T21:57:29.637279Z"
+            ]
+        },
+        {
+            "id": "3df6c968b60c64c627a704630e54e833",
+            "source": "nyt",
+            "text": "Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99",
+            "source_link": "https://www.nytimes.com/2025/03/20/books/robert-ginna-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T15:11:41.502712Z",
+            "shown_at": [
+                "2025-03-20T15:11:42.155679Z"
+            ]
+        },
+        {
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-57",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-21T05:48:00.000Z",
+            "time_remaining": "0d 07h 22m",
+            "fetched_datetime": "2025-03-20T14:55:14.645551Z",
+            "shown_at": [
+                "2025-03-20T14:55:15.249529Z",
+                "2025-03-20T14:57:25.285758Z",
+                "2025-03-20T14:59:42.838393Z",
+                "2025-03-20T15:02:08.399659Z",
+                "2025-03-20T15:05:25.106640Z",
+                "2025-03-20T15:07:40.781618Z",
+                "2025-03-20T15:09:33.292944Z",
+                "2025-03-20T16:13:48.009105Z",
+                "2025-03-20T16:15:41.025564Z",
+                "2025-03-20T16:17:37.148299Z",
+                "2025-03-20T16:19:25.457628Z",
+                "2025-03-20T16:21:28.831455Z",
+                "2025-03-20T16:23:29.773429Z",
+                "2025-03-20T16:25:25.655376Z",
+                "2025-03-20T18:35:38.494436Z",
+                "2025-03-20T18:37:27.942101Z",
+                "2025-03-20T18:39:24.094548Z",
+                "2025-03-20T18:41:32.564611Z",
+                "2025-03-20T18:43:33.434646Z",
+                "2025-03-20T18:45:28.537714Z",
+                "2025-03-20T18:47:40.282012Z",
+                "2025-03-20T19:45:20.204482Z",
+                "2025-03-20T19:47:47.993446Z",
+                "2025-03-20T19:49:44.439932Z",
+                "2025-03-20T19:51:16.556806Z",
+                "2025-03-20T19:53:30.297693Z",
+                "2025-03-20T19:55:31.820161Z",
+                "2025-03-20T19:57:35.498749Z",
+                "2025-03-20T20:59:44.666451Z",
+                "2025-03-20T21:02:14.875656Z",
+                "2025-03-20T21:05:35.434344Z",
+                "2025-03-20T21:07:50.291694Z",
+                "2025-03-20T21:09:37.578271Z",
+                "2025-03-20T21:11:41.171861Z",
+                "2025-03-20T21:13:41.579798Z",
+                "2025-03-20T22:13:38.064429Z",
+                "2025-03-20T22:15:29.366080Z",
+                "2025-03-20T22:17:33.668563Z",
+                "2025-03-20T22:19:42.971255Z",
+                "2025-03-20T22:21:31.465950Z",
+                "2025-03-20T22:23:13.351037Z",
+                "2025-03-20T22:25:34.705789Z"
+            ]
+        },
+        {
+            "id": "ed6a0ca4e90bb1e99a9b605eee2051e3",
+            "source": "spacenews",
+            "text": "Satellite operators want better space weather models",
+            "source_link": "https://spacenews.com/satellite-operators-want-better-space-weather-models/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T12:19:30.825024Z",
+            "shown_at": [
+                "2025-03-20T12:19:31.381579Z"
+            ]
+        },
+        {
+            "id": "89e7bb45e2be8314f2516ce486c69033",
+            "source": "breaking_defense",
+            "text": "Space Force unveils multi-front push to fix its Unified Data Library",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-unveils-multi-front-push-to-fix-its-unified-data-library/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T12:05:36.991090Z",
+            "shown_at": [
+                "2025-03-20T12:05:38.465614Z"
+            ]
+        },
+        {
+            "id": "01a5ed1f16b78af0a49f97a3ef523ebb",
+            "source": "spacenews",
+            "text": "NASA examining options for another Starliner test flight",
+            "source_link": "https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T10:39:33.146467Z",
+            "shown_at": [
+                "2025-03-20T10:39:33.749275Z"
+            ]
+        },
+        {
+            "id": "557a299db3d74c2ec934a73924027a67",
+            "source": "aidy",
+            "text": "U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T07:29:29.068985Z",
+            "shown_at": [
+                "2025-03-20T07:29:29.525851Z",
+                "2025-03-20T18:07:40.959481Z",
+                "2025-03-20T21:43:28.807755Z"
+            ]
+        },
+        {
+            "id": "eacf525baa97c18f19ce270cb7d25e09",
+            "source": "supercluster",
+            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/ceres-1h",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-21T11:10:00.000Z",
+            "time_remaining": "0d 11h 32m",
+            "fetched_datetime": "2025-03-20T07:02:22.395757Z",
+            "shown_at": [
+                "2025-03-20T07:02:22.954445Z",
+                "2025-03-20T07:05:27.432069Z",
+                "2025-03-20T07:07:35.650269Z",
+                "2025-03-20T07:09:24.936852Z",
+                "2025-03-20T07:11:41.842048Z",
+                "2025-03-20T07:13:42.180892Z",
+                "2025-03-20T08:13:25.799797Z",
+                "2025-03-20T08:15:43.730610Z",
+                "2025-03-20T08:17:36.140428Z",
+                "2025-03-20T08:19:38.894063Z",
+                "2025-03-20T08:21:30.716580Z",
+                "2025-03-20T08:23:34.130145Z",
+                "2025-03-20T08:25:36.747410Z",
+                "2025-03-20T09:27:31.233945Z",
+                "2025-03-20T09:29:39.672507Z",
+                "2025-03-20T09:31:59.053316Z",
+                "2025-03-20T09:33:47.140249Z",
+                "2025-03-20T09:35:59.573632Z",
+                "2025-03-20T09:37:41.162787Z",
+                "2025-03-20T09:39:38.355533Z",
+                "2025-03-20T10:53:36.154284Z",
+                "2025-03-20T10:55:26.007482Z",
+                "2025-03-20T10:57:37.389056Z",
+                "2025-03-20T10:59:25.461197Z",
+                "2025-03-20T11:02:08.808131Z",
+                "2025-03-20T11:05:43.327229Z",
+                "2025-03-20T11:07:34.823995Z",
+                "2025-03-20T12:33:35.582996Z",
+                "2025-03-20T12:35:33.382361Z",
+                "2025-03-20T12:37:35.192133Z",
+                "2025-03-20T12:39:50.791082Z",
+                "2025-03-20T12:42:17.813850Z",
+                "2025-03-20T12:45:28.115970Z",
+                "2025-03-20T12:47:47.013827Z",
+                "2025-03-20T13:50:25.731082Z",
+                "2025-03-20T13:53:27.314679Z",
+                "2025-03-20T13:55:29.624421Z",
+                "2025-03-20T13:58:00.188916Z",
+                "2025-03-20T13:59:34.832465Z",
+                "2025-03-20T14:02:22.873661Z",
+                "2025-03-20T14:06:23.585653Z",
+                "2025-03-20T17:23:27.656987Z",
+                "2025-03-20T17:25:29.725714Z",
+                "2025-03-20T17:27:38.677007Z",
+                "2025-03-20T17:32:01.692344Z",
+                "2025-03-20T17:33:12.936933Z",
+                "2025-03-20T17:35:46.464829Z",
+                "2025-03-20T17:37:28.595532Z",
+                "2025-03-20T23:26:04.440621Z",
+                "2025-03-20T23:27:29.048190Z",
+                "2025-03-20T23:29:32.096289Z",
+                "2025-03-20T23:31:51.434130Z",
+                "2025-03-20T23:33:35.649835Z",
+                "2025-03-20T23:35:38.974717Z",
+                "2025-03-20T23:37:44.881123Z"
+            ]
+        },
+        {
+            "id": "7ff5f59b939001080dcae0f131107db5",
+            "source": "nyt",
+            "text": "NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day",
+            "source_link": "https://www.nytimes.com/2025/03/20/us/nasa-astronauts-overtime.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-20T05:59:41.645704Z",
+            "shown_at": [
+                "2025-03-20T05:59:42.487964Z",
+                "2025-03-20T14:25:37.712144Z"
+            ]
+        },
         {
             "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
             "source": "nyt",
@@ -5684,254 +5932,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "7ff5f59b939001080dcae0f131107db5",
-            "source": "nyt",
-            "text": "NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day",
-            "source_link": "https://www.nytimes.com/2025/03/20/us/nasa-astronauts-overtime.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T05:59:41.645704Z",
-            "shown_at": [
-                "2025-03-20T05:59:42.487964Z",
-                "2025-03-20T14:25:37.712144Z"
-            ]
-        },
-        {
-            "id": "eacf525baa97c18f19ce270cb7d25e09",
-            "source": "supercluster",
-            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/ceres-1h",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-21T11:10:00.000Z",
-            "time_remaining": "0d 11h 32m",
-            "fetched_datetime": "2025-03-20T07:02:22.395757Z",
-            "shown_at": [
-                "2025-03-20T07:02:22.954445Z",
-                "2025-03-20T07:05:27.432069Z",
-                "2025-03-20T07:07:35.650269Z",
-                "2025-03-20T07:09:24.936852Z",
-                "2025-03-20T07:11:41.842048Z",
-                "2025-03-20T07:13:42.180892Z",
-                "2025-03-20T08:13:25.799797Z",
-                "2025-03-20T08:15:43.730610Z",
-                "2025-03-20T08:17:36.140428Z",
-                "2025-03-20T08:19:38.894063Z",
-                "2025-03-20T08:21:30.716580Z",
-                "2025-03-20T08:23:34.130145Z",
-                "2025-03-20T08:25:36.747410Z",
-                "2025-03-20T09:27:31.233945Z",
-                "2025-03-20T09:29:39.672507Z",
-                "2025-03-20T09:31:59.053316Z",
-                "2025-03-20T09:33:47.140249Z",
-                "2025-03-20T09:35:59.573632Z",
-                "2025-03-20T09:37:41.162787Z",
-                "2025-03-20T09:39:38.355533Z",
-                "2025-03-20T10:53:36.154284Z",
-                "2025-03-20T10:55:26.007482Z",
-                "2025-03-20T10:57:37.389056Z",
-                "2025-03-20T10:59:25.461197Z",
-                "2025-03-20T11:02:08.808131Z",
-                "2025-03-20T11:05:43.327229Z",
-                "2025-03-20T11:07:34.823995Z",
-                "2025-03-20T12:33:35.582996Z",
-                "2025-03-20T12:35:33.382361Z",
-                "2025-03-20T12:37:35.192133Z",
-                "2025-03-20T12:39:50.791082Z",
-                "2025-03-20T12:42:17.813850Z",
-                "2025-03-20T12:45:28.115970Z",
-                "2025-03-20T12:47:47.013827Z",
-                "2025-03-20T13:50:25.731082Z",
-                "2025-03-20T13:53:27.314679Z",
-                "2025-03-20T13:55:29.624421Z",
-                "2025-03-20T13:58:00.188916Z",
-                "2025-03-20T13:59:34.832465Z",
-                "2025-03-20T14:02:22.873661Z",
-                "2025-03-20T14:06:23.585653Z",
-                "2025-03-20T17:23:27.656987Z",
-                "2025-03-20T17:25:29.725714Z",
-                "2025-03-20T17:27:38.677007Z",
-                "2025-03-20T17:32:01.692344Z",
-                "2025-03-20T17:33:12.936933Z",
-                "2025-03-20T17:35:46.464829Z",
-                "2025-03-20T17:37:28.595532Z",
-                "2025-03-20T23:26:04.440621Z",
-                "2025-03-20T23:27:29.048190Z",
-                "2025-03-20T23:29:32.096289Z",
-                "2025-03-20T23:31:51.434130Z",
-                "2025-03-20T23:33:35.649835Z",
-                "2025-03-20T23:35:38.974717Z",
-                "2025-03-20T23:37:44.881123Z"
-            ]
-        },
-        {
-            "id": "557a299db3d74c2ec934a73924027a67",
-            "source": "aidy",
-            "text": "U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T07:29:29.068985Z",
-            "shown_at": [
-                "2025-03-20T07:29:29.525851Z",
-                "2025-03-20T18:07:40.959481Z",
-                "2025-03-20T21:43:28.807755Z"
-            ]
-        },
-        {
-            "id": "01a5ed1f16b78af0a49f97a3ef523ebb",
-            "source": "spacenews",
-            "text": "NASA examining options for another Starliner test flight",
-            "source_link": "https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T10:39:33.146467Z",
-            "shown_at": [
-                "2025-03-20T10:39:33.749275Z"
-            ]
-        },
-        {
-            "id": "89e7bb45e2be8314f2516ce486c69033",
-            "source": "breaking_defense",
-            "text": "Space Force unveils multi-front push to fix its Unified Data Library",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-unveils-multi-front-push-to-fix-its-unified-data-library/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T12:05:36.991090Z",
-            "shown_at": [
-                "2025-03-20T12:05:38.465614Z"
-            ]
-        },
-        {
-            "id": "ed6a0ca4e90bb1e99a9b605eee2051e3",
-            "source": "spacenews",
-            "text": "Satellite operators want better space weather models",
-            "source_link": "https://spacenews.com/satellite-operators-want-better-space-weather-models/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T12:19:30.825024Z",
-            "shown_at": [
-                "2025-03-20T12:19:31.381579Z"
-            ]
-        },
-        {
-            "id": "e41d3412d827e1d1d6b00b4cf3697247",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-57",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-21T05:48:00.000Z",
-            "time_remaining": "0d 07h 22m",
-            "fetched_datetime": "2025-03-20T14:55:14.645551Z",
-            "shown_at": [
-                "2025-03-20T14:55:15.249529Z",
-                "2025-03-20T14:57:25.285758Z",
-                "2025-03-20T14:59:42.838393Z",
-                "2025-03-20T15:02:08.399659Z",
-                "2025-03-20T15:05:25.106640Z",
-                "2025-03-20T15:07:40.781618Z",
-                "2025-03-20T15:09:33.292944Z",
-                "2025-03-20T16:13:48.009105Z",
-                "2025-03-20T16:15:41.025564Z",
-                "2025-03-20T16:17:37.148299Z",
-                "2025-03-20T16:19:25.457628Z",
-                "2025-03-20T16:21:28.831455Z",
-                "2025-03-20T16:23:29.773429Z",
-                "2025-03-20T16:25:25.655376Z",
-                "2025-03-20T18:35:38.494436Z",
-                "2025-03-20T18:37:27.942101Z",
-                "2025-03-20T18:39:24.094548Z",
-                "2025-03-20T18:41:32.564611Z",
-                "2025-03-20T18:43:33.434646Z",
-                "2025-03-20T18:45:28.537714Z",
-                "2025-03-20T18:47:40.282012Z",
-                "2025-03-20T19:45:20.204482Z",
-                "2025-03-20T19:47:47.993446Z",
-                "2025-03-20T19:49:44.439932Z",
-                "2025-03-20T19:51:16.556806Z",
-                "2025-03-20T19:53:30.297693Z",
-                "2025-03-20T19:55:31.820161Z",
-                "2025-03-20T19:57:35.498749Z",
-                "2025-03-20T20:59:44.666451Z",
-                "2025-03-20T21:02:14.875656Z",
-                "2025-03-20T21:05:35.434344Z",
-                "2025-03-20T21:07:50.291694Z",
-                "2025-03-20T21:09:37.578271Z",
-                "2025-03-20T21:11:41.171861Z",
-                "2025-03-20T21:13:41.579798Z",
-                "2025-03-20T22:13:38.064429Z",
-                "2025-03-20T22:15:29.366080Z",
-                "2025-03-20T22:17:33.668563Z",
-                "2025-03-20T22:19:42.971255Z",
-                "2025-03-20T22:21:31.465950Z",
-                "2025-03-20T22:23:13.351037Z",
-                "2025-03-20T22:25:34.705789Z"
-            ]
-        },
-        {
-            "id": "3df6c968b60c64c627a704630e54e833",
-            "source": "nyt",
-            "text": "Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99",
-            "source_link": "https://www.nytimes.com/2025/03/20/books/robert-ginna-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T15:11:41.502712Z",
-            "shown_at": [
-                "2025-03-20T15:11:42.155679Z"
-            ]
-        },
-        {
-            "id": "99df0bf123343cd02038321f8bb13156",
-            "source": "breaking_defense",
-            "text": "Trump eliminated a key space advisory committee at the worst time",
-            "source_link": "https://breakingdefense.com/2025/03/trump-eliminated-a-key-space-advisory-committee-at-the-worst-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T15:57:33.850788Z",
-            "shown_at": [
-                "2025-03-20T15:57:34.429185Z",
-                "2025-03-20T18:21:54.176769Z",
-                "2025-03-20T21:57:29.637279Z"
-            ]
-        },
-        {
-            "id": "00bbbb3cd9a145d699cae9d41a5eff69",
-            "source": "breaking_defense",
-            "text": "Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift",
-            "source_link": "https://breakingdefense.com/2025/03/saltzman-space-force-in-pretty-good-spot-regarding-dod-funding-shift/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T20:45:43.978072Z",
-            "shown_at": [
-                "2025-03-20T20:45:44.465508Z"
-            ]
-        },
-        {
-            "id": "9af33062221b7df4e2e2217f40841f27",
-            "source": "spacenews",
-            "text": "U.S. Space Force budget trimmed in full-year continuing resolution",
-            "source_link": "https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T21:29:32.059269Z",
-            "shown_at": [
-                "2025-03-20T21:29:32.640983Z"
-            ]
-        },
-        {
-            "id": "59ab7844f78a7365a78b3bbd355b9994",
-            "source": "spacenews",
-            "text": "French VLEO 5G startup strikes telecoms infrastructure partnership",
-            "source_link": "https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T22:27:26.517982Z",
-            "shown_at": [
-                "2025-03-20T22:27:26.943889Z"
             ]
         }
     ]
