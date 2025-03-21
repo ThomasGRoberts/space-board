@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 20 | 37 |
-| breaking_defense | 1 | 4 | 18 | 34 |
+| breaking_defense | 2 | 5 | 19 | 35 |
 | nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 31 | 31 |
@@ -2183,3 +2183,4 @@
 - **Mar 21, 05:35 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 21, 05:49 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
 - **Mar 21, 06:03 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 21, 06:17 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)

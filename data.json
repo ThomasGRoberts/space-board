@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8ee1fff604dac5684fb53cf96a3bd478",
+    "trigger_count": 0,
+    "current_item_id": "c4cafce76bb3fc7a45e30a52322e8663",
     "data": [
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
@@ -5950,6 +5950,18 @@
             "fetched_datetime": "2025-03-21T13:05:35.673709Z",
             "shown_at": [
                 "2025-03-21T13:05:36.619732Z"
+            ]
+        },
+        {
+            "id": "c4cafce76bb3fc7a45e30a52322e8663",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms",
+            "source_link": "https://breakingdefense.com/2025/03/exclusive-first-space-force-civil-reserve-pilot-contracts-go-to-4-space-watch-firms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T18:17:39.752170Z",
+            "shown_at": [
+                "2025-03-21T18:17:40.325561Z"
             ]
         }
     ]
