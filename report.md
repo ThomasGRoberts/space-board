@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 19 | 36 |
+| spacenews | 5 | 7 | 20 | 37 |
 | breaking_defense | 2 | 5 | 18 | 35 |
-| nyt | 0 | 3 | 17 | 34 |
+| nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 33 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -2193,3 +2193,4 @@
 - **Mar 21, 06:55 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 06:57 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 06:59 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
+- **Mar 21, 07:13 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
