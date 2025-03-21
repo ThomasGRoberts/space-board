@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 19 | 37 |
 | breaking_defense | 2 | 6 | 17 | 34 |
-| nyt | 1 | 3 | 17 | 32 |
-| aidy | 1 | 2 | 18 | 33 |
+| nyt | 1 | 3 | 18 | 33 |
+| aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -2136,3 +2136,4 @@
 - **Mar 21, 12:16 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 12:20 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 21, 12:35 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
+- **Mar 21, 12:51 PM** - Bringing Astronauts Home (nyt)
