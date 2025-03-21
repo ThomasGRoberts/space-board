@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
-| nyt | 2 | 3 | 18 | 35 |
+| nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 125 | 125 |
 | aidy | 1 | 2 | 18 | 35 |
 
@@ -2239,3 +2239,4 @@
 - **Mar 21, 04:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 04:38 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 04:39 AM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
+- **Mar 21, 04:53 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
