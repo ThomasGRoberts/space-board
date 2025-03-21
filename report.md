@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 20 | 37 |
+| spacenews | 5 | 9 | 21 | 38 |
 | breaking_defense | 1 | 6 | 17 | 34 |
-| nyt | 0 | 3 | 17 | 34 |
+| nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 33 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -2170,3 +2170,4 @@
 - **Mar 21, 04:21 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 04:24 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 04:25 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 21, 04:39 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
