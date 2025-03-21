@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 21 | 37 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | nyt | 1 | 4 | 17 | 34 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -2197,3 +2197,4 @@
 - **Mar 21, 07:27 PM** - Star Catcher completes first ground test for space power beaming service (spacenews)
 - **Mar 21, 07:41 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 21, 07:55 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 21, 08:09 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
