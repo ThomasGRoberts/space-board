@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
-| nyt | 2 | 3 | 18 | 35 |
+| nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 118 | 118 |
 | aidy | 1 | 2 | 18 | 35 |
 
@@ -2228,3 +2228,4 @@
 - **Mar 21, 03:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 03:24 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 03:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)
+- **Mar 21, 03:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
