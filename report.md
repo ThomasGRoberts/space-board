@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 20 | 37 |
+| spacenews | 5 | 8 | 21 | 38 |
 | breaking_defense | 1 | 5 | 17 | 34 |
-| nyt | 0 | 3 | 17 | 34 |
+| nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 33 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -2181,3 +2181,4 @@
 - **Mar 21, 05:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 05:33 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 05:35 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
+- **Mar 21, 05:49 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
