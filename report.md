@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 19 | 36 |
-| breaking_defense | 3 | 6 | 18 | 35 |
-| nyt | 1 | 3 | 19 | 34 |
+| breaking_defense | 3 | 6 | 19 | 36 |
+| nyt | 1 | 3 | 18 | 34 |
 | aidy | 1 | 2 | 18 | 34 |
 | supercluster | 0 | 1 | 70 | 83 |
 
@@ -2207,3 +2207,4 @@
 - **Mar 21, 08:29 AM** - Chinese company targets crewed orbital spaceflight (spacenews)
 - **Mar 21, 08:43 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 21, 08:59 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
+- **Mar 21, 09:13 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
