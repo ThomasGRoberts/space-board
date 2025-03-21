@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 17 | 34 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2131,3 +2131,4 @@
 - **Mar 21, 10:25 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 21, 10:53 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 21, 11:07 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
+- **Mar 21, 12:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)

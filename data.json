@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 3,
-    "current_item_id": "eacf525baa97c18f19ce270cb7d25e09",
+    "trigger_count": 4,
+    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
     "data": [
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
@@ -5855,15 +5855,18 @@
             ]
         },
         {
-            "id": "eacf525baa97c18f19ce270cb7d25e09",
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
             "source": "supercluster",
-            "text": "Galactic Energy Will Launch the Ceres-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/ceres-1h",
-            "shown": false,
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-21T11:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-21T12:09:28.251983Z"
+            "target_datetime": "2025-03-23T11:30:00.000Z",
+            "time_remaining": "1d 23h 18m",
+            "fetched_datetime": "2025-03-21T12:11:38.499085Z",
+            "shown_at": [
+                "2025-03-21T12:11:39.155597Z"
+            ]
         }
     ]
 }
