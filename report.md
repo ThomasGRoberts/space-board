@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 17 | 34 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -2151,3 +2151,4 @@
 - **Mar 21, 02:17 PM** - NASA examining options for another Starliner test flight (spacenews)
 - **Mar 21, 02:31 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 21, 02:45 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 21, 02:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
