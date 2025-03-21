@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 39 |
 | breaking_defense | 1 | 4 | 18 | 36 |
 | nyt | 1 | 3 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 | supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
@@ -2230,3 +2230,4 @@
 - **Mar 21, 11:03 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 21, 11:17 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 21, 11:31 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
+- **Mar 21, 11:45 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
