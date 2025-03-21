@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 19 | 36 |
+| spacenews | 4 | 7 | 20 | 37 |
 | breaking_defense | 3 | 6 | 19 | 36 |
 | nyt | 1 | 3 | 18 | 34 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 0 | 1 | 75 | 76 |
+| supercluster | 0 | 1 | 74 | 76 |
 
 # Shown Order
 
@@ -2193,3 +2193,4 @@
 - **Mar 21, 06:59 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 07:01 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 07:03 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 21, 07:06 AM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
