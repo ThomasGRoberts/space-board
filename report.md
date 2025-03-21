@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 19 | 37 |
 | breaking_defense | 3 | 6 | 19 | 37 |
-| nyt | 2 | 3 | 19 | 35 |
+| nyt | 1 | 3 | 18 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 2 | 2 | 70 | 70 |
 
@@ -2186,4 +2186,4 @@
 - **Mar 21, 04:53 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 21, 05:09 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 21, 05:23 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
-- **Mar 21, 05:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 21, 06:02 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
