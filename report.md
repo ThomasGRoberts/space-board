@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 6 | 18 | 36 |
 | nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 125 | 125 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -2240,3 +2240,4 @@
 - **Mar 21, 04:38 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 04:39 AM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 21, 04:53 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
+- **Mar 21, 05:09 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
