@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 18 | 36 |
+| spacenews | 3 | 6 | 18 | 35 |
 | breaking_defense | 2 | 6 | 17 | 34 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -2133,3 +2133,4 @@
 - **Mar 21, 11:07 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 21, 12:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 12:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 12:16 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
