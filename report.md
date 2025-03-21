@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 20 | 37 |
+| spacenews | 6 | 8 | 21 | 38 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | nyt | 1 | 4 | 17 | 34 |
 | aidy | 1 | 2 | 17 | 33 |
@@ -2205,3 +2205,4 @@
 - **Mar 21, 08:33 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 08:35 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 08:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 08:39 PM** - Rocket Lab launches Japanese SAR satellite (spacenews)
