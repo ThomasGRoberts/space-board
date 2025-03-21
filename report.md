@@ -5,8 +5,8 @@
 | spacenews | 3 | 7 | 19 | 37 |
 | breaking_defense | 3 | 6 | 19 | 35 |
 | nyt | 1 | 3 | 18 | 34 |
-| aidy | 1 | 2 | 18 | 33 |
-| supercluster | 0 | 1 | 72 | 97 |
+| aidy | 1 | 2 | 19 | 34 |
+| supercluster | 0 | 1 | 70 | 97 |
 
 # Shown Order
 
@@ -2227,3 +2227,4 @@
 - **Mar 21, 10:49 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 10:51 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 10:53 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
+- **Mar 21, 11:07 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
