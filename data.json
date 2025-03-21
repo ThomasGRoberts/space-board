@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3920c4c6a875bc3e2737404676a0cd08",
+    "trigger_count": 0,
+    "current_item_id": "b082e382ac51e57d508a3111925b8ca4",
     "data": [
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
@@ -5972,6 +5972,18 @@
             "fetched_datetime": "2025-03-21T18:17:39.752170Z",
             "shown_at": [
                 "2025-03-21T18:17:40.325561Z"
+            ]
+        },
+        {
+            "id": "b082e382ac51e57d508a3111925b8ca4",
+            "source": "spacenews",
+            "text": "Star Catcher completes first ground test for space power beaming service",
+            "source_link": "https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T19:27:21.337918Z",
+            "shown_at": [
+                "2025-03-21T19:27:22.405040Z"
             ]
         }
     ]
