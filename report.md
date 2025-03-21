@@ -5,7 +5,7 @@
 | spacenews | 5 | 9 | 20 | 38 |
 | breaking_defense | 2 | 6 | 18 | 34 |
 | nyt | 0 | 3 | 17 | 33 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
@@ -2161,3 +2161,4 @@
 - **Mar 21, 03:13 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 21, 03:29 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
 - **Mar 21, 03:43 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 21, 03:57 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
