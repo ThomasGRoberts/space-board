@@ -5,7 +5,7 @@
 | spacenews | 5 | 7 | 20 | 36 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | nyt | 0 | 3 | 17 | 33 |
-| aidy | 1 | 2 | 17 | 33 |
+| aidy | 1 | 2 | 18 | 34 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -2184,3 +2184,4 @@
 - **Mar 21, 05:49 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
 - **Mar 21, 06:03 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 21, 06:17 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
+- **Mar 21, 06:31 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
