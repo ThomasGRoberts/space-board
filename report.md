@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 19 | 37 |
+| spacenews | 5 | 9 | 20 | 38 |
 | breaking_defense | 2 | 6 | 17 | 34 |
-| nyt | 0 | 3 | 17 | 34 |
+| nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 33 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -2159,3 +2159,4 @@
 - **Mar 21, 03:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 03:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 03:13 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 21, 03:29 PM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
