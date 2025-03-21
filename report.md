@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 6 | 18 | 37 |
 | nyt | 2 | 4 | 19 | 36 |
 | supercluster | 2 | 2 | 97 | 97 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2196,3 +2196,4 @@
 - **Mar 20, 11:37 PM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 20, 11:39 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 20, 11:55 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
+- **Mar 21, 12:11 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
