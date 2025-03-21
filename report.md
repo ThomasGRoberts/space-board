@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 20 | 38 |
-| breaking_defense | 2 | 6 | 17 | 34 |
+| breaking_defense | 2 | 6 | 18 | 35 |
 | nyt | 1 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 17 | 33 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -2149,3 +2149,4 @@
 - **Mar 21, 02:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 21, 02:03 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
 - **Mar 21, 02:17 PM** - NASA examining options for another Starliner test flight (spacenews)
+- **Mar 21, 02:31 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
