@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 5 | 17 | 34 |
 | nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -2173,3 +2173,4 @@
 - **Mar 21, 04:39 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
 - **Mar 21, 04:53 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 21, 05:07 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 21, 05:21 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
