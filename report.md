@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 19 | 37 |
+| spacenews | 4 | 7 | 20 | 38 |
 | breaking_defense | 3 | 6 | 19 | 37 |
 | nyt | 2 | 3 | 19 | 35 |
 | supercluster | 2 | 2 | 125 | 125 |
@@ -2238,3 +2238,4 @@
 - **Mar 21, 04:33 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 04:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Mar 21, 04:38 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Mar 21, 04:39 AM** - Rocket Lab launches final set of Kinéis satellites (spacenews)
