@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 6 | 17 | 34 |
 | nyt | 0 | 3 | 17 | 33 |
 | aidy | 1 | 2 | 18 | 34 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -2163,3 +2163,4 @@
 - **Mar 21, 03:43 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 21, 03:57 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 21, 04:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 21, 04:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
