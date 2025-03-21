@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 6 | 18 | 36 |
 | nyt | 2 | 3 | 19 | 36 |
 | supercluster | 2 | 2 | 118 | 118 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -2229,3 +2229,4 @@
 - **Mar 21, 03:24 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 21, 03:27 AM** - Rocket Lab launches Japanese SAR satellite (spacenews)
 - **Mar 21, 03:41 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 21, 03:57 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
