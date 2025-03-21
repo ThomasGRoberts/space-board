@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 0,
+    "current_item_id": "6a7eb149365d2a26c63687d3dd08574b",
     "data": [
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
@@ -5869,6 +5869,27 @@
                 "2025-03-21T12:13:35.362876Z",
                 "2025-03-21T12:16:30.568778Z"
             ]
+        },
+        {
+            "id": "6a7eb149365d2a26c63687d3dd08574b",
+            "source": "spacenews",
+            "text": "Space Industries sets ambitious goals for satellite assembly, integration and testing",
+            "source_link": "https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T12:20:01.256572Z",
+            "shown_at": [
+                "2025-03-21T12:20:01.885150Z"
+            ]
+        },
+        {
+            "id": "3920c4c6a875bc3e2737404676a0cd08",
+            "source": "spacenews",
+            "text": "ESA releases strategy document that emphasizes autonomy",
+            "source_link": "https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T12:20:01.256621Z"
         }
     ]
 }
