@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 18 | 36 |
+| nyt | 1 | 2 | 19 | 37 |
 | spacenews | 5 | 9 | 23 | 42 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 115 | 115 |
@@ -2318,3 +2318,4 @@
 - **Mar 22, 08:45 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 08:47 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 22, 09:02 AM** - Crew-9 returns from space station (spacenews)
+- **Mar 22, 09:17 AM** - Bringing Astronauts Home (nyt)
