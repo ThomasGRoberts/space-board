@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 18 | 37 |
-| spacenews | 5 | 9 | 22 | 42 |
+| spacenews | 5 | 9 | 23 | 42 |
 | breaking_defense | 1 | 4 | 19 | 37 |
 | supercluster | 1 | 1 | 108 | 108 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2306,3 +2306,4 @@
 - **Mar 22, 07:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 07:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 07:31 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 22, 07:46 AM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
