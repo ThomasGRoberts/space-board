@@ -6,7 +6,7 @@
 | spacenews | 5 | 9 | 23 | 42 |
 | breaking_defense | 1 | 4 | 19 | 38 |
 | supercluster | 1 | 1 | 101 | 101 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2297,3 +2297,4 @@
 - **Mar 22, 06:22 AM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 22, 06:35 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 22, 06:49 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
+- **Mar 22, 07:03 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
