@@ -5,8 +5,8 @@
 | nyt | 0 | 1 | 20 | 37 |
 | spacenews | 1 | 6 | 21 | 41 |
 | breaking_defense | 0 | 1 | 20 | 38 |
-| supercluster | 0 | 1 | 138 | 185 |
-| aidy | 1 | 2 | 20 | 38 |
+| supercluster | 0 | 1 | 138 | 186 |
+| aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
 
@@ -2430,3 +2430,4 @@
 - **Mar 22, 09:01 PM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
 - **Mar 22, 09:15 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 22, 09:29 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 22, 09:43 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
