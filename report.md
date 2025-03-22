@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 17 | 36 |
 | spacenews | 5 | 9 | 21 | 41 |
-| breaking_defense | 1 | 4 | 18 | 37 |
-| supercluster | 1 | 1 | 75 | 75 |
-| aidy | 1 | 2 | 18 | 36 |
+| breaking_defense | 1 | 4 | 18 | 36 |
+| supercluster | 1 | 1 | 76 | 76 |
+| aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
 
@@ -2256,3 +2256,4 @@
 - **Mar 22, 02:21 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 22, 02:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 02:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 02:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
