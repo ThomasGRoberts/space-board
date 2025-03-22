@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 17 | 36 |
 | spacenews | 5 | 9 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 | aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
@@ -2266,3 +2266,4 @@
 - **Mar 22, 03:19 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 22, 03:33 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 22, 03:47 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 03:49 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
