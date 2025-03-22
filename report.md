@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 42 |
-| breaking_defense | 1 | 2 | 20 | 37 |
+| breaking_defense | 1 | 2 | 21 | 38 |
 | supercluster | 0 | 1 | 133 | 164 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2396,3 +2396,4 @@
 - **Mar 22, 05:09 PM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 22, 05:23 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 22, 05:37 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
+- **Mar 22, 05:51 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
