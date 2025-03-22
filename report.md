@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 37 |
-| spacenews | 2 | 7 | 22 | 41 |
-| breaking_defense | 1 | 3 | 20 | 37 |
+| spacenews | 2 | 7 | 21 | 41 |
+| breaking_defense | 1 | 3 | 21 | 38 |
 | supercluster | 0 | 1 | 133 | 150 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2374,3 +2374,4 @@
 - **Mar 22, 02:48 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 22, 03:03 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 22, 03:18 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 22, 03:31 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
