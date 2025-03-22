@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 1 | 3 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 143 |
+| supercluster | 0 | 1 | 134 | 144 |
 | aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
@@ -2364,3 +2364,4 @@
 - **Mar 22, 01:49 PM** - Crew-9 returns from space station (spacenews)
 - **Mar 22, 02:05 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
 - **Mar 22, 02:19 PM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 22, 02:33 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
