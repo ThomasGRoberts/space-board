@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-22T00:02:04.364753+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf10f4cbf0a9b127e35076c0ed6beed",
+    "trigger_count": 0,
+    "current_item_id": "aefe9e110526f9be76161dde4e7a9f2d",
     "data": [
         {
             "id": "47978f41df20b6513de1333efc7e1055",
@@ -6039,6 +6039,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "aefe9e110526f9be76161dde4e7a9f2d",
+            "source": "spacenews",
+            "text": "Former NASA astronauts endorse Isaacman as administrator",
+            "source_link": "https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-22T00:27:28.621545Z",
+            "shown_at": [
+                "2025-03-22T00:27:29.148634Z"
             ]
         }
     ]
