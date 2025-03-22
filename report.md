@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 37 |
 | spacenews | 5 | 9 | 22 | 41 |
-| breaking_defense | 1 | 4 | 17 | 36 |
+| breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 87 | 87 |
 | aidy | 1 | 2 | 17 | 36 |
 
@@ -2274,3 +2274,4 @@
 - **Mar 22, 03:59 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 04:02 AM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 22, 04:15 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
+- **Mar 22, 04:29 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
