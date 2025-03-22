@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
-| breaking_defense | 1 | 2 | 20 | 38 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 140 | 171 |
-| aidy | 1 | 2 | 20 | 37 |
+| aidy | 1 | 2 | 21 | 38 |
 
 # Shown Order
 
@@ -2404,3 +2404,4 @@
 - **Mar 22, 06:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 06:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 06:17 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 06:19 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
