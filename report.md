@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 17 | 36 |
+| nyt | 1 | 3 | 18 | 37 |
 | spacenews | 5 | 9 | 22 | 41 |
-| breaking_defense | 1 | 4 | 18 | 36 |
+| breaking_defense | 1 | 4 | 17 | 36 |
 | supercluster | 1 | 1 | 94 | 94 |
 | aidy | 1 | 2 | 17 | 36 |
 
@@ -2284,3 +2284,4 @@
 - **Mar 22, 05:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 05:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 05:11 AM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
+- **Mar 22, 05:25 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
