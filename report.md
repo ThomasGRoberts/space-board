@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 17 | 36 |
+| nyt | 1 | 3 | 18 | 37 |
 | spacenews | 5 | 9 | 22 | 41 |
 | breaking_defense | 1 | 4 | 17 | 36 |
 | supercluster | 1 | 1 | 73 | 73 |
@@ -2251,3 +2251,4 @@
 - **Mar 22, 01:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 01:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 01:39 AM** - Apollo left footprints — Mars must leave a legacy (spacenews)
+- **Mar 22, 01:53 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
