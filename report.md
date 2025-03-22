@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 38 |
 | spacenews | 1 | 5 | 21 | 41 |
-| breaking_defense | 0 | 1 | 19 | 37 |
+| breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 192 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2440,3 +2440,4 @@
 - **Mar 22, 09:57 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 22, 10:11 PM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
 - **Mar 22, 10:25 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 22, 10:39 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
