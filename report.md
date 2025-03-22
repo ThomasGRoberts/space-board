@@ -6,7 +6,7 @@
 | spacenews | 5 | 9 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 87 | 87 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2275,3 +2275,4 @@
 - **Mar 22, 04:02 AM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 22, 04:15 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 22, 04:29 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 22, 04:43 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
