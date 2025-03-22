@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 37 |
-| spacenews | 3 | 7 | 22 | 41 |
-| breaking_defense | 1 | 3 | 20 | 37 |
+| spacenews | 2 | 7 | 21 | 41 |
+| breaking_defense | 1 | 3 | 21 | 38 |
 | supercluster | 0 | 1 | 133 | 136 |
 | aidy | 1 | 2 | 20 | 37 |
 
@@ -2352,3 +2352,4 @@
 - **Mar 22, 12:25 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 22, 12:39 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 22, 12:53 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 22, 01:07 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
