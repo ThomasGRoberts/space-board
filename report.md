@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 37 |
 | spacenews | 5 | 9 | 23 | 42 |
-| breaking_defense | 1 | 4 | 18 | 37 |
+| breaking_defense | 1 | 4 | 19 | 38 |
 | supercluster | 1 | 1 | 108 | 108 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2308,3 +2308,4 @@
 - **Mar 22, 07:31 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 22, 07:46 AM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
 - **Mar 22, 08:01 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 22, 08:15 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
