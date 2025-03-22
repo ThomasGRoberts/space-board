@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 18 | 36 |
 | spacenews | 5 | 9 | 22 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
@@ -2287,3 +2287,4 @@
 - **Mar 22, 05:25 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 22, 05:39 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 22, 05:53 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 22, 06:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
