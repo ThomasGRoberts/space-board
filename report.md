@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 19 | 37 |
-| spacenews | 1 | 7 | 20 | 41 |
+| spacenews | 1 | 7 | 21 | 42 |
 | breaking_defense | 0 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 140 | 178 |
 | aidy | 1 | 2 | 21 | 38 |
@@ -2416,3 +2416,4 @@
 - **Mar 22, 07:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 07:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 07:33 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 22, 07:47 PM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)
