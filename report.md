@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 17 | 36 |
-| spacenews | 4 | 8 | 20 | 39 |
+| spacenews | 4 | 8 | 21 | 40 |
 | breaking_defense | 1 | 4 | 18 | 36 |
 | supercluster | 1 | 1 | 66 | 66 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 17 | 35 |
 
 # Shown Order
 
@@ -2238,3 +2238,4 @@
 - **Mar 22, 12:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 12:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 12:11 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 12:13 AM** - Space Force unveils strategic plan for AI integration (spacenews)
