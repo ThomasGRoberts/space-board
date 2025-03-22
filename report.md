@@ -6,7 +6,7 @@
 | spacenews | 5 | 9 | 22 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 94 | 94 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2286,3 +2286,4 @@
 - **Mar 22, 05:11 AM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
 - **Mar 22, 05:25 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 22, 05:39 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 22, 05:53 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
