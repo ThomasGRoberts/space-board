@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 157 |
+| supercluster | 0 | 1 | 134 | 158 |
 | aidy | 1 | 2 | 20 | 38 |
 
 # Shown Order
@@ -2386,3 +2386,4 @@
 - **Mar 22, 04:13 PM** - SES shrinks board as shareholder calls for bigger changes (spacenews)
 - **Mar 22, 04:27 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 22, 04:41 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 22, 04:55 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
