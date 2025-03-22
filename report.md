@@ -2384,3 +2384,4 @@
 - **Mar 22, 03:57 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 03:59 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 22, 04:13 PM** - SES shrinks board as shareholder calls for bigger changes (spacenews)
+- **Mar 22, 04:27 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
