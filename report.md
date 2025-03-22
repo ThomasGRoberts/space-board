@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 1 | 3 | 20 | 37 |
-| supercluster | 0 | 1 | 133 | 136 |
+| supercluster | 0 | 1 | 134 | 137 |
 | aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
@@ -2353,3 +2353,4 @@
 - **Mar 22, 12:39 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 22, 12:53 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 22, 01:07 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
+- **Mar 22, 01:21 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
