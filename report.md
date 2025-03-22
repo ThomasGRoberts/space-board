@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 37 |
-| spacenews | 5 | 8 | 23 | 42 |
-| breaking_defense | 1 | 4 | 19 | 37 |
+| spacenews | 5 | 8 | 23 | 41 |
+| breaking_defense | 1 | 4 | 20 | 38 |
 | supercluster | 1 | 1 | 129 | 129 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2341,3 +2341,4 @@
 - **Mar 22, 11:09 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 22, 11:23 AM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 22, 11:37 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 22, 11:51 AM** - How to maximize the resiliency of PNT (breaking_defense)
