@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 37 |
 | spacenews | 5 | 8 | 22 | 41 |
-| breaking_defense | 1 | 4 | 19 | 38 |
+| breaking_defense | 1 | 4 | 19 | 37 |
 | supercluster | 1 | 1 | 129 | 129 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 
 # Shown Order
 
@@ -2338,3 +2338,4 @@
 - **Mar 22, 11:03 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 11:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 11:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 11:09 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
