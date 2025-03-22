@@ -6,7 +6,7 @@
 | spacenews | 5 | 9 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 73 | 73 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2253,3 +2253,4 @@
 - **Mar 22, 01:39 AM** - Apollo left footprints — Mars must leave a legacy (spacenews)
 - **Mar 22, 01:53 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 22, 02:07 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 22, 02:21 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
