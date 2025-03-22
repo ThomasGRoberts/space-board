@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 37 |
-| spacenews | 1 | 7 | 21 | 42 |
-| breaking_defense | 0 | 1 | 19 | 37 |
+| spacenews | 1 | 6 | 21 | 41 |
+| breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 185 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2429,3 +2429,4 @@
 - **Mar 22, 08:47 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 22, 09:01 PM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
 - **Mar 22, 09:15 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
+- **Mar 22, 09:29 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
