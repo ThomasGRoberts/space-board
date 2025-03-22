@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 37 |
 | spacenews | 5 | 9 | 21 | 41 |
-| breaking_defense | 1 | 4 | 17 | 36 |
+| breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 66 | 66 |
 | aidy | 1 | 2 | 17 | 35 |
 
@@ -2241,3 +2241,4 @@
 - **Mar 22, 12:13 AM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 22, 12:27 AM** - Former NASA astronauts endorse Isaacman as administrator (spacenews)
 - **Mar 22, 12:43 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
+- **Mar 22, 12:57 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
