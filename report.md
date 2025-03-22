@@ -5,8 +5,8 @@
 | nyt | 1 | 3 | 17 | 36 |
 | spacenews | 5 | 9 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
-| supercluster | 1 | 1 | 66 | 66 |
-| aidy | 1 | 2 | 18 | 36 |
+| supercluster | 1 | 1 | 67 | 67 |
+| aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
 
@@ -2243,3 +2243,4 @@
 - **Mar 22, 12:43 AM** - Photos Show Blood Moon Lunar Eclipse Around the World (nyt)
 - **Mar 22, 12:57 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 22, 01:11 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 22, 01:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
