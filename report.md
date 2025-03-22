@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 37 |
-| spacenews | 5 | 9 | 23 | 42 |
-| breaking_defense | 1 | 4 | 18 | 37 |
+| spacenews | 5 | 8 | 23 | 41 |
+| breaking_defense | 1 | 4 | 19 | 38 |
 | supercluster | 1 | 1 | 122 | 122 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2330,3 +2330,4 @@
 - **Mar 22, 09:59 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 22, 10:13 AM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
 - **Mar 22, 10:27 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 22, 10:41 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
