@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 18 | 37 |
 | spacenews | 5 | 9 | 22 | 41 |
-| breaking_defense | 1 | 4 | 17 | 36 |
+| breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 80 | 80 |
 | aidy | 1 | 2 | 17 | 36 |
 
@@ -2263,3 +2263,4 @@
 - **Mar 22, 02:47 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 02:49 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 22, 03:05 AM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
+- **Mar 22, 03:19 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
