@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 1 | 3 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 150 |
+| supercluster | 0 | 1 | 134 | 151 |
 | aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
@@ -2375,3 +2375,4 @@
 - **Mar 22, 03:03 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 22, 03:18 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 22, 03:31 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
+- **Mar 22, 03:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
