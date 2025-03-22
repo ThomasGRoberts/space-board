@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 37 |
-| spacenews | 2 | 7 | 22 | 42 |
-| breaking_defense | 0 | 2 | 19 | 37 |
+| spacenews | 2 | 7 | 22 | 41 |
+| breaking_defense | 0 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 133 | 171 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2407,3 +2407,4 @@
 - **Mar 22, 06:19 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 22, 06:34 PM** - Apollo left footprints — Mars must leave a legacy (spacenews)
 - **Mar 22, 06:51 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 22, 07:05 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
