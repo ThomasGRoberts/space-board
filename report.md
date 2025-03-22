@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 20 | 37 |
 | spacenews | 1 | 7 | 21 | 41 |
 | breaking_defense | 0 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 136 | 179 |
+| supercluster | 0 | 1 | 137 | 180 |
 | aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
@@ -2420,3 +2420,4 @@
 - **Mar 22, 08:02 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 22, 08:17 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 22, 08:33 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 08:35 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
