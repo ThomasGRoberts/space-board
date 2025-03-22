@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 37 |
 | spacenews | 1 | 7 | 21 | 41 |
-| breaking_defense | 0 | 2 | 19 | 37 |
+| breaking_defense | 0 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 178 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2418,3 +2418,4 @@
 - **Mar 22, 07:33 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 22, 07:47 PM** - Firefly Aerospace wraps up successful Blue Ghost 1 mission (spacenews)
 - **Mar 22, 08:02 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 22, 08:17 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
