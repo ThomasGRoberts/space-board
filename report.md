@@ -6,7 +6,7 @@
 | spacenews | 5 | 9 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 80 | 80 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 
 # Shown Order
 
@@ -2264,3 +2264,4 @@
 - **Mar 22, 02:49 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
 - **Mar 22, 03:05 AM** - SpaceX Capsule Docks in Space, Paving the Way for Astronauts’ Return (nyt)
 - **Mar 22, 03:19 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
+- **Mar 22, 03:33 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
