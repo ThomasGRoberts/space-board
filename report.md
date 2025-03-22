@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 19 | 37 |
 | spacenews | 5 | 9 | 22 | 42 |
 | breaking_defense | 1 | 4 | 19 | 37 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2298,3 +2298,4 @@
 - **Mar 22, 06:35 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 22, 06:49 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 22, 07:03 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 22, 07:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
