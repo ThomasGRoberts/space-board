@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 37 |
 | spacenews | 5 | 9 | 23 | 42 |
-| breaking_defense | 1 | 4 | 18 | 37 |
+| breaking_defense | 1 | 4 | 19 | 38 |
 | supercluster | 1 | 1 | 115 | 115 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2319,3 +2319,4 @@
 - **Mar 22, 08:47 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 22, 09:02 AM** - Crew-9 returns from space station (spacenews)
 - **Mar 22, 09:17 AM** - Bringing Astronauts Home (nyt)
+- **Mar 22, 09:32 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
