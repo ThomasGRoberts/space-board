@@ -5,8 +5,8 @@
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 0 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 171 |
-| aidy | 1 | 2 | 20 | 38 |
+| supercluster | 0 | 1 | 134 | 172 |
+| aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
 
@@ -2408,3 +2408,4 @@
 - **Mar 22, 06:34 PM** - Apollo left footprints — Mars must leave a legacy (spacenews)
 - **Mar 22, 06:51 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 22, 07:05 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 22, 07:19 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
