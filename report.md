@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 19 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | spacenews | 1 | 7 | 21 | 42 |
 | breaking_defense | 0 | 1 | 19 | 37 |
 | supercluster | 0 | 1 | 140 | 185 |
@@ -2428,3 +2428,4 @@
 - **Mar 22, 08:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 08:47 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 22, 09:01 PM** - SkyServe tests AI models with JPL and D-Orbit (spacenews)
+- **Mar 22, 09:15 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
