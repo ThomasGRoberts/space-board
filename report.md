@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 38 |
 | spacenews | 1 | 5 | 21 | 41 |
-| breaking_defense | 0 | 1 | 19 | 37 |
+| breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 199 |
 | aidy | 1 | 2 | 20 | 38 |
 
@@ -2451,3 +2451,4 @@
 - **Mar 22, 11:11 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 22, 11:25 PM** - Satellite operators want better space weather models (spacenews)
 - **Mar 22, 11:39 PM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 22, 11:53 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
