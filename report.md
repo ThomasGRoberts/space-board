@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 1 | 3 | 17 | 36 |
 | spacenews | 4 | 8 | 20 | 39 |
 | breaking_defense | 1 | 4 | 18 | 36 |
-| nyt | 1 | 3 | 17 | 36 |
+| supercluster | 1 | 1 | 61 | 61 |
 | aidy | 1 | 2 | 18 | 35 |
-| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **Mar 21, 11:31 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 21, 11:45 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 21, 11:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 12:02 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)

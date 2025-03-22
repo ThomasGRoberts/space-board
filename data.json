@@ -1,9 +1,170 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-21T00:02:03.275254+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-03-22T00:02:04.364753+00:00",
+    "trigger_count": 1,
     "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
     "data": [
+        {
+            "id": "47978f41df20b6513de1333efc7e1055",
+            "source": "nyt",
+            "text": "After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander",
+            "source_link": "https://www.nytimes.com/2025/03/21/science/blue-ghost-moon-science.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T19:41:41.715543Z",
+            "shown_at": [
+                "2025-03-21T19:41:42.262719Z"
+            ]
+        },
+        {
+            "id": "b082e382ac51e57d508a3111925b8ca4",
+            "source": "spacenews",
+            "text": "Star Catcher completes first ground test for space power beaming service",
+            "source_link": "https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T19:27:21.337918Z",
+            "shown_at": [
+                "2025-03-21T19:27:22.405040Z"
+            ]
+        },
+        {
+            "id": "c4cafce76bb3fc7a45e30a52322e8663",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms",
+            "source_link": "https://breakingdefense.com/2025/03/exclusive-first-space-force-civil-reserve-pilot-contracts-go-to-4-space-watch-firms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T18:17:39.752170Z",
+            "shown_at": [
+                "2025-03-21T18:17:40.325561Z",
+                "2025-03-21T21:12:00.382129Z"
+            ]
+        },
+        {
+            "id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
+            "source": "spacenews",
+            "text": "America’s space strategy in a changing Middle East",
+            "source_link": "https://spacenews.com/americas-space-strategy-in-a-changing-middle-east/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T13:05:35.673709Z",
+            "shown_at": [
+                "2025-03-21T13:05:36.619732Z"
+            ]
+        },
+        {
+            "id": "3920c4c6a875bc3e2737404676a0cd08",
+            "source": "spacenews",
+            "text": "ESA releases strategy document that emphasizes autonomy",
+            "source_link": "https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T12:20:01.256621Z",
+            "shown_at": [
+                "2025-03-21T12:35:38.660699Z",
+                "2025-03-21T19:13:44.533105Z"
+            ]
+        },
+        {
+            "id": "6a7eb149365d2a26c63687d3dd08574b",
+            "source": "spacenews",
+            "text": "Space Industries sets ambitious goals for satellite assembly, integration and testing",
+            "source_link": "https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T12:20:01.256572Z",
+            "shown_at": [
+                "2025-03-21T12:20:01.885150Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-23T11:30:00.000Z",
+            "time_remaining": "1d 11h 27m",
+            "fetched_datetime": "2025-03-21T12:11:38.499085Z",
+            "shown_at": [
+                "2025-03-21T12:11:39.155597Z",
+                "2025-03-21T12:13:35.362876Z",
+                "2025-03-21T12:16:30.568778Z",
+                "2025-03-21T13:47:43.596728Z",
+                "2025-03-21T13:49:28.298397Z",
+                "2025-03-21T13:51:44.280553Z",
+                "2025-03-21T13:53:34.382705Z",
+                "2025-03-21T13:56:12.148031Z",
+                "2025-03-21T13:59:44.273660Z",
+                "2025-03-21T14:02:03.693284Z",
+                "2025-03-21T14:59:43.651915Z",
+                "2025-03-21T15:02:00.747474Z",
+                "2025-03-21T15:03:39.368509Z",
+                "2025-03-21T15:05:32.964747Z",
+                "2025-03-21T15:07:47.020512Z",
+                "2025-03-21T15:09:33.336194Z",
+                "2025-03-21T15:11:32.806518Z",
+                "2025-03-21T16:11:53.144326Z",
+                "2025-03-21T16:13:42.140128Z",
+                "2025-03-21T16:15:28.327783Z",
+                "2025-03-21T16:17:33.197454Z",
+                "2025-03-21T16:19:33.181790Z",
+                "2025-03-21T16:21:49.938219Z",
+                "2025-03-21T16:24:00.557474Z",
+                "2025-03-21T17:21:28.256079Z",
+                "2025-03-21T17:23:30.337633Z",
+                "2025-03-21T17:25:39.922453Z",
+                "2025-03-21T17:27:32.076742Z",
+                "2025-03-21T17:29:39.418322Z",
+                "2025-03-21T17:31:47.464515Z",
+                "2025-03-21T17:33:45.597680Z",
+                "2025-03-21T18:45:08.155185Z",
+                "2025-03-21T18:47:43.749973Z",
+                "2025-03-21T18:49:28.234193Z",
+                "2025-03-21T18:51:49.601729Z",
+                "2025-03-21T18:53:25.526913Z",
+                "2025-03-21T18:55:05.327380Z",
+                "2025-03-21T18:57:28.419921Z",
+                "2025-03-21T20:25:39.676963Z",
+                "2025-03-21T20:27:39.612283Z",
+                "2025-03-21T20:29:44.601037Z",
+                "2025-03-21T20:31:38.798769Z",
+                "2025-03-21T20:33:34.368579Z",
+                "2025-03-21T20:35:49.987873Z",
+                "2025-03-21T20:37:51.768244Z",
+                "2025-03-21T21:39:30.471870Z",
+                "2025-03-21T21:41:13.673766Z",
+                "2025-03-21T21:43:33.485279Z",
+                "2025-03-21T21:45:30.734748Z",
+                "2025-03-21T21:47:09.877485Z",
+                "2025-03-21T21:49:25.942641Z",
+                "2025-03-21T21:51:30.539752Z",
+                "2025-03-21T22:49:28.273209Z",
+                "2025-03-21T22:51:29.508068Z",
+                "2025-03-21T22:53:36.164322Z",
+                "2025-03-21T22:55:29.920576Z",
+                "2025-03-21T22:57:02.699308Z",
+                "2025-03-21T22:59:29.441867Z",
+                "2025-03-21T23:02:03.588546Z",
+                "2025-03-21T23:59:39.372918Z",
+                "2025-03-22T00:02:06.446269Z"
+            ]
+        },
+        {
+            "id": "3ea7ac50cf2572e287468f10f6900d8c",
+            "source": "aidy",
+            "text": "FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-21T07:23:53.090581Z",
+            "shown_at": [
+                "2025-03-21T07:23:53.604343Z",
+                "2025-03-21T18:31:47.026855Z"
+            ]
+        },
         {
             "id": "59ab7844f78a7365a78b3bbd355b9994",
             "source": "spacenews",
@@ -5872,166 +6033,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "3ea7ac50cf2572e287468f10f6900d8c",
-            "source": "aidy",
-            "text": "FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T07:23:53.090581Z",
-            "shown_at": [
-                "2025-03-21T07:23:53.604343Z",
-                "2025-03-21T18:31:47.026855Z"
-            ]
-        },
-        {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-23T11:30:00.000Z",
-            "time_remaining": "1d 12h 27m",
-            "fetched_datetime": "2025-03-21T12:11:38.499085Z",
-            "shown_at": [
-                "2025-03-21T12:11:39.155597Z",
-                "2025-03-21T12:13:35.362876Z",
-                "2025-03-21T12:16:30.568778Z",
-                "2025-03-21T13:47:43.596728Z",
-                "2025-03-21T13:49:28.298397Z",
-                "2025-03-21T13:51:44.280553Z",
-                "2025-03-21T13:53:34.382705Z",
-                "2025-03-21T13:56:12.148031Z",
-                "2025-03-21T13:59:44.273660Z",
-                "2025-03-21T14:02:03.693284Z",
-                "2025-03-21T14:59:43.651915Z",
-                "2025-03-21T15:02:00.747474Z",
-                "2025-03-21T15:03:39.368509Z",
-                "2025-03-21T15:05:32.964747Z",
-                "2025-03-21T15:07:47.020512Z",
-                "2025-03-21T15:09:33.336194Z",
-                "2025-03-21T15:11:32.806518Z",
-                "2025-03-21T16:11:53.144326Z",
-                "2025-03-21T16:13:42.140128Z",
-                "2025-03-21T16:15:28.327783Z",
-                "2025-03-21T16:17:33.197454Z",
-                "2025-03-21T16:19:33.181790Z",
-                "2025-03-21T16:21:49.938219Z",
-                "2025-03-21T16:24:00.557474Z",
-                "2025-03-21T17:21:28.256079Z",
-                "2025-03-21T17:23:30.337633Z",
-                "2025-03-21T17:25:39.922453Z",
-                "2025-03-21T17:27:32.076742Z",
-                "2025-03-21T17:29:39.418322Z",
-                "2025-03-21T17:31:47.464515Z",
-                "2025-03-21T17:33:45.597680Z",
-                "2025-03-21T18:45:08.155185Z",
-                "2025-03-21T18:47:43.749973Z",
-                "2025-03-21T18:49:28.234193Z",
-                "2025-03-21T18:51:49.601729Z",
-                "2025-03-21T18:53:25.526913Z",
-                "2025-03-21T18:55:05.327380Z",
-                "2025-03-21T18:57:28.419921Z",
-                "2025-03-21T20:25:39.676963Z",
-                "2025-03-21T20:27:39.612283Z",
-                "2025-03-21T20:29:44.601037Z",
-                "2025-03-21T20:31:38.798769Z",
-                "2025-03-21T20:33:34.368579Z",
-                "2025-03-21T20:35:49.987873Z",
-                "2025-03-21T20:37:51.768244Z",
-                "2025-03-21T21:39:30.471870Z",
-                "2025-03-21T21:41:13.673766Z",
-                "2025-03-21T21:43:33.485279Z",
-                "2025-03-21T21:45:30.734748Z",
-                "2025-03-21T21:47:09.877485Z",
-                "2025-03-21T21:49:25.942641Z",
-                "2025-03-21T21:51:30.539752Z",
-                "2025-03-21T22:49:28.273209Z",
-                "2025-03-21T22:51:29.508068Z",
-                "2025-03-21T22:53:36.164322Z",
-                "2025-03-21T22:55:29.920576Z",
-                "2025-03-21T22:57:02.699308Z",
-                "2025-03-21T22:59:29.441867Z",
-                "2025-03-21T23:02:03.588546Z",
-                "2025-03-21T23:59:39.372918Z"
-            ]
-        },
-        {
-            "id": "6a7eb149365d2a26c63687d3dd08574b",
-            "source": "spacenews",
-            "text": "Space Industries sets ambitious goals for satellite assembly, integration and testing",
-            "source_link": "https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T12:20:01.256572Z",
-            "shown_at": [
-                "2025-03-21T12:20:01.885150Z"
-            ]
-        },
-        {
-            "id": "3920c4c6a875bc3e2737404676a0cd08",
-            "source": "spacenews",
-            "text": "ESA releases strategy document that emphasizes autonomy",
-            "source_link": "https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T12:20:01.256621Z",
-            "shown_at": [
-                "2025-03-21T12:35:38.660699Z",
-                "2025-03-21T19:13:44.533105Z"
-            ]
-        },
-        {
-            "id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
-            "source": "spacenews",
-            "text": "America’s space strategy in a changing Middle East",
-            "source_link": "https://spacenews.com/americas-space-strategy-in-a-changing-middle-east/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T13:05:35.673709Z",
-            "shown_at": [
-                "2025-03-21T13:05:36.619732Z"
-            ]
-        },
-        {
-            "id": "c4cafce76bb3fc7a45e30a52322e8663",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms",
-            "source_link": "https://breakingdefense.com/2025/03/exclusive-first-space-force-civil-reserve-pilot-contracts-go-to-4-space-watch-firms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T18:17:39.752170Z",
-            "shown_at": [
-                "2025-03-21T18:17:40.325561Z",
-                "2025-03-21T21:12:00.382129Z"
-            ]
-        },
-        {
-            "id": "b082e382ac51e57d508a3111925b8ca4",
-            "source": "spacenews",
-            "text": "Star Catcher completes first ground test for space power beaming service",
-            "source_link": "https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T19:27:21.337918Z",
-            "shown_at": [
-                "2025-03-21T19:27:22.405040Z"
-            ]
-        },
-        {
-            "id": "47978f41df20b6513de1333efc7e1055",
-            "source": "nyt",
-            "text": "After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander",
-            "source_link": "https://www.nytimes.com/2025/03/21/science/blue-ghost-moon-science.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T19:41:41.715543Z",
-            "shown_at": [
-                "2025-03-21T19:41:42.262719Z"
             ]
         }
     ]
