@@ -6,7 +6,7 @@
 | spacenews | 2 | 7 | 21 | 40 |
 | breaking_defense | 1 | 3 | 20 | 37 |
 | supercluster | 0 | 1 | 140 | 143 |
-| aidy | 1 | 2 | 20 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 
 # Shown Order
 
@@ -2360,3 +2360,4 @@
 - **Mar 22, 01:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 01:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 01:33 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 01:35 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
