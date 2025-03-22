@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 19 | 37 |
-| spacenews | 5 | 9 | 23 | 42 |
+| spacenews | 5 | 9 | 22 | 42 |
 | breaking_defense | 1 | 4 | 19 | 37 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2309,3 +2309,4 @@
 - **Mar 22, 07:46 AM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
 - **Mar 22, 08:01 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 22, 08:15 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 22, 08:32 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
