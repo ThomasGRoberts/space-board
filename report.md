@@ -5,8 +5,8 @@
 | nyt | 1 | 1 | 20 | 37 |
 | spacenews | 2 | 7 | 21 | 41 |
 | breaking_defense | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 135 | 166 |
-| aidy | 1 | 2 | 20 | 38 |
+| supercluster | 0 | 1 | 136 | 167 |
+| aidy | 1 | 2 | 20 | 37 |
 
 # Shown Order
 
@@ -2399,3 +2399,4 @@
 - **Mar 22, 05:51 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 22, 06:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 06:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 22, 06:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
