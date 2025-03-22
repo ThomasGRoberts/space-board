@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 19 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | spacenews | 1 | 6 | 21 | 42 |
 | breaking_defense | 0 | 1 | 19 | 37 |
 | supercluster | 0 | 1 | 140 | 192 |
@@ -2439,3 +2439,4 @@
 - **Mar 22, 09:55 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 22, 09:57 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 22, 10:11 PM** - Isar Aerospace sets date for first launch after receiving license (spacenews)
+- **Mar 22, 10:25 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
