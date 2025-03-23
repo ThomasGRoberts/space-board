@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-23T00:02:02.002350+00:00",
-    "trigger_count": 3,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 4,
+    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
         {
             "id": "aedc15ecc00eacccbb864e63e4be1e0c",
@@ -6126,15 +6126,18 @@
             ]
         },
         {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
             "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": false,
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-69",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-23T11:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-23T12:29:59.900872Z"
+            "target_datetime": "2025-03-24T17:42:00.000Z",
+            "time_remaining": "1d 05h 10m",
+            "fetched_datetime": "2025-03-23T12:31:48.390771Z",
+            "shown_at": [
+                "2025-03-23T12:31:48.884485Z"
+            ]
         }
     ]
 }
