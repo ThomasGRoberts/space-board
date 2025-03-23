@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 21 | 38 |
-| spacenews | 0 | 5 | 19 | 41 |
+| spacenews | 0 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | supercluster | 0 | 1 | 140 | 213 |
@@ -2471,3 +2471,4 @@
 - **Mar 23, 01:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 01:31 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 01:33 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 23, 01:47 AM** - Former NASA astronauts endorse Isaacman as administrator (spacenews)
