@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 40 |
-| spacenews | 0 | 2 | 19 | 40 |
+| spacenews | 0 | 2 | 20 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | supercluster | 2 | 2 | 31 | 31 |
@@ -2342,3 +2342,4 @@
 - **Mar 23, 05:27 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 23, 05:42 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 23, 05:55 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 23, 06:09 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
