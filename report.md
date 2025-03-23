@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 20 | 40 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 61 | 61 |
+| supercluster | 2 | 2 | 62 | 62 |
 
 # Shown Order
 
@@ -2389,3 +2389,4 @@
 - **Mar 23, 10:53 PM** - Crew-9 returns from space station (spacenews)
 - **Mar 23, 11:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 11:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 11:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
