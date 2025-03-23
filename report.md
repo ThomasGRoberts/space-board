@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 20 | 40 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 60 | 60 |
+| supercluster | 2 | 2 | 61 | 61 |
 
 # Shown Order
 
@@ -2388,3 +2388,4 @@
 - **Mar 23, 10:39 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 10:53 PM** - Crew-9 returns from space station (spacenews)
 - **Mar 23, 11:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 11:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
