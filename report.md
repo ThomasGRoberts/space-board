@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 37 |
+| aidy | 1 | 2 | 21 | 38 |
 | spacenews | 1 | 5 | 20 | 41 |
 | nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 1 | 20 | 38 |
@@ -2459,3 +2459,4 @@
 - **Mar 23, 12:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 12:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 12:19 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 12:21 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
