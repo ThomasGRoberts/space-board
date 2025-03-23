@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 3 | 20 | 42 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -2292,4 +2292,3 @@
 - **Mar 23, 10:41 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 23, 11:12 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 11:25 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
-- **Mar 23, 12:25 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
