@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 39 |
-| spacenews | 0 | 5 | 20 | 43 |
+| spacenews | 0 | 5 | 20 | 42 |
 | nyt | 1 | 2 | 21 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
-| supercluster | 0 | 1 | 140 | 262 |
+| supercluster | 0 | 1 | 140 | 263 |
 
 # Shown Order
 
@@ -2552,3 +2552,4 @@
 - **Mar 23, 10:13 AM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
 - **Mar 23, 10:27 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
 - **Mar 23, 10:41 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 23, 10:55 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
