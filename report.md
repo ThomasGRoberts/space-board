@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 31 | 31 |
 
 # Shown Order
@@ -2340,3 +2340,4 @@
 - **Mar 23, 05:23 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 05:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 05:27 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 23, 05:42 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
