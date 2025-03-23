@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 21 | 38 |
 | spacenews | 0 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 38 |
-| breaking_defense | 0 | 1 | 19 | 37 |
+| breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 220 |
 
 # Shown Order
@@ -2484,3 +2484,4 @@
 - **Mar 23, 02:43 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 23, 02:57 AM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
 - **Mar 23, 03:11 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 23, 03:25 AM** - How to maximize the resiliency of PNT (breaking_defense)
