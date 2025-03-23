@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 40 |
-| spacenews | 0 | 2 | 19 | 40 |
+| spacenews | 0 | 2 | 20 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | supercluster | 2 | 2 | 17 | 17 |
@@ -2320,3 +2320,4 @@
 - **Mar 23, 03:07 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 23, 03:21 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 23, 03:35 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
+- **Mar 23, 03:49 PM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
