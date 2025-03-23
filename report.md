@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 17 | 17 |
 
 # Shown Order
@@ -2318,3 +2318,4 @@
 - **Mar 23, 03:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 03:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 03:07 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 23, 03:21 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
