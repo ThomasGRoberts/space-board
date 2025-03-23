@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 20 | 40 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 46 | 46 |
+| supercluster | 2 | 2 | 47 | 47 |
 
 # Shown Order
 
@@ -2366,3 +2366,4 @@
 - **Mar 23, 08:17 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 23, 08:31 PM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
 - **Mar 23, 08:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 08:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
