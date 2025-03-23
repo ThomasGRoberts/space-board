@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
-| nyt | 1 | 2 | 21 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 40 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
@@ -2307,3 +2307,4 @@
 - **Mar 23, 01:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 01:49 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 01:51 PM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
+- **Mar 23, 02:05 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
