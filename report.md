@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 5 | 21 | 43 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 39 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 255 |
 
@@ -2538,3 +2538,4 @@
 - **Mar 23, 08:31 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 08:33 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 23, 08:47 AM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
+- **Mar 23, 09:02 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
