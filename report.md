@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 21 | 38 |
 | spacenews | 0 | 5 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | supercluster | 0 | 1 | 140 | 206 |
 
@@ -2461,3 +2461,4 @@
 - **Mar 23, 12:19 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 12:21 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 12:37 AM** - Former NASA astronauts endorse Isaacman as administrator (spacenews)
+- **Mar 23, 12:51 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
