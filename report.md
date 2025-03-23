@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 5 | 20 | 43 |
 | nyt | 1 | 2 | 21 | 40 |
-| breaking_defense | 0 | 1 | 20 | 38 |
+| breaking_defense | 0 | 1 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 262 |
 
 # Shown Order
@@ -2551,3 +2551,4 @@
 - **Mar 23, 09:59 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 23, 10:13 AM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
 - **Mar 23, 10:27 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 23, 10:41 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
