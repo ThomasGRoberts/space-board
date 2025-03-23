@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 20 | 40 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 59 | 59 |
+| supercluster | 2 | 2 | 60 | 60 |
 
 # Shown Order
 
@@ -2387,3 +2387,4 @@
 - **Mar 23, 10:25 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 23, 10:39 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 10:53 PM** - Crew-9 returns from space station (spacenews)
+- **Mar 23, 11:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
