@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 40 |
-| spacenews | 0 | 1 | 19 | 40 |
+| spacenews | 0 | 1 | 20 | 41 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 2 | 2 | 45 | 45 |
@@ -2364,3 +2364,4 @@
 - **Mar 23, 07:49 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 23, 08:03 PM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 23, 08:17 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 23, 08:31 PM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
