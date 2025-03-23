@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
-| nyt | 1 | 2 | 20 | 40 |
+| nyt | 1 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 2 | 2 | 38 | 38 |
 
@@ -2350,3 +2350,4 @@
 - **Mar 23, 06:33 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 06:35 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 06:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 23, 06:39 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
