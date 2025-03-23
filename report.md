@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
@@ -2329,3 +2329,4 @@
 - **Mar 23, 04:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 04:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 04:17 PM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 23, 04:31 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
