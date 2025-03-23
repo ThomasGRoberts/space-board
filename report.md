@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 2 | 19 | 41 |
 | nyt | 1 | 2 | 20 | 41 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
@@ -2351,3 +2351,4 @@
 - **Mar 23, 06:35 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 06:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 06:39 PM** - NASA Schedules Quick Return of Astronauts in SpaceX Capsule (nyt)
+- **Mar 23, 06:53 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
