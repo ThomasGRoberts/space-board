@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 21 | 38 |
 | spacenews | 0 | 5 | 20 | 41 |
 | nyt | 0 | 1 | 20 | 38 |
-| breaking_defense | 0 | 1 | 19 | 37 |
+| breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 206 |
 
 # Shown Order
@@ -2462,3 +2462,4 @@
 - **Mar 23, 12:21 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 12:37 AM** - Former NASA astronauts endorse Isaacman as administrator (spacenews)
 - **Mar 23, 12:51 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 23, 01:05 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
