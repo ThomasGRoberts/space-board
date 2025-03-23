@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 5 | 20 | 43 |
-| nyt | 0 | 1 | 21 | 39 |
+| nyt | 1 | 2 | 21 | 40 |
 | breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 255 |
 
@@ -2539,3 +2539,4 @@
 - **Mar 23, 08:33 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 23, 08:47 AM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
 - **Mar 23, 09:02 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
+- **Mar 23, 09:17 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)

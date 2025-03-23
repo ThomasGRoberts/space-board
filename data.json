@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-23T00:02:02.002350+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49c51a9449935b19719ab3ed49765d4f",
+    "trigger_count": 0,
+    "current_item_id": "8d3a922123c4178d898da9d36341a55c",
     "data": [
         {
             "id": "aedc15ecc00eacccbb864e63e4be1e0c",
@@ -6372,6 +6372,18 @@
             "fetched_datetime": "2025-03-23T07:23:24.963723Z",
             "shown_at": [
                 "2025-03-23T07:23:25.546135Z"
+            ]
+        },
+        {
+            "id": "8d3a922123c4178d898da9d36341a55c",
+            "source": "nyt",
+            "text": "Musk’s SpaceX Could Secure Billions in New Contracts Under Trump",
+            "source_link": "https://www.nytimes.com/2025/03/23/us/politics/spacex-contracts-musk-doge-trump.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-23T09:17:47.953062Z",
+            "shown_at": [
+                "2025-03-23T09:17:48.432094Z"
             ]
         }
     ]
