@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 38 |
 | spacenews | 0 | 5 | 20 | 41 |
-| nyt | 0 | 1 | 20 | 38 |
+| nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 1 | 20 | 38 |
-| supercluster | 0 | 1 | 142 | 222 |
+| supercluster | 0 | 1 | 143 | 223 |
 
 # Shown Order
 
@@ -2487,3 +2487,4 @@
 - **Mar 23, 03:25 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 23, 03:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 03:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 03:43 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
