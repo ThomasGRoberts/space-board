@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 5 | 20 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
-| breaking_defense | 0 | 1 | 20 | 38 |
+| breaking_defense | 0 | 1 | 21 | 39 |
 | supercluster | 0 | 1 | 140 | 248 |
 
 # Shown Order
@@ -2528,3 +2528,4 @@
 - **Mar 23, 07:23 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 23, 07:37 AM** - Constellr releases  first-light imagery of Tokyo (spacenews)
 - **Mar 23, 07:51 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
+- **Mar 23, 08:05 AM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
