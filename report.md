@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 21 | 38 |
 | spacenews | 0 | 5 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | supercluster | 0 | 1 | 140 | 227 |
 
@@ -2494,3 +2494,4 @@
 - **Mar 23, 03:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 03:53 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 23, 04:07 AM** - Ceres-1 rocket launches 8 Chinese commercial satellites (spacenews)
+- **Mar 23, 04:21 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
