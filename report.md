@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 20 | 41 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| supercluster | 2 | 2 | 18 | 18 |
+| supercluster | 2 | 2 | 19 | 19 |
 
 # Shown Order
 
@@ -2322,3 +2322,4 @@
 - **Mar 23, 03:35 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 23, 03:49 PM** - Space National Guard debate reignited with bipartisan legislation (spacenews)
 - **Mar 23, 04:03 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 04:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
