@@ -6,7 +6,7 @@
 | spacenews | 0 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 1 | 20 | 38 |
-| supercluster | 0 | 1 | 141 | 235 |
+| supercluster | 0 | 1 | 142 | 236 |
 
 # Shown Order
 
@@ -2508,3 +2508,4 @@
 - **Mar 23, 05:31 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 23, 05:45 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 23, 05:59 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 23, 06:01 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
