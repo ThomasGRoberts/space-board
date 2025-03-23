@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-23T00:02:02.002350+00:00",
-    "trigger_count": 6,
-    "current_item_id": "99df0bf123343cd02038321f8bb13156",
+    "trigger_count": 0,
+    "current_item_id": "87283f08fa55222dd17e66414d1cce1e",
     "data": [
         {
             "id": "aedc15ecc00eacccbb864e63e4be1e0c",
@@ -6253,6 +6253,18 @@
                 "2025-03-23T23:17:36.801551Z",
                 "2025-03-23T23:19:23.281586Z",
                 "2025-03-23T23:21:42.924937Z"
+            ]
+        },
+        {
+            "id": "87283f08fa55222dd17e66414d1cce1e",
+            "source": "spacenews",
+            "text": "Pangea Aerospace raises Series A round to fund space propulsion work",
+            "source_link": "https://spacenews.com/pangea-aerospace-raises-series-a-round-to-fund-space-propulsion-work/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-23T23:51:32.894803Z",
+            "shown_at": [
+                "2025-03-23T23:51:33.488192Z"
             ]
         }
     ]
