@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
-| spacenews | 0 | 3 | 19 | 41 |
+| aidy | 1 | 2 | 20 | 40 |
+| spacenews | 0 | 2 | 19 | 40 |
 | nyt | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
+| breaking_defense | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -2297,3 +2297,4 @@
 - **Mar 23, 12:35 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 23, 12:37 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 23, 12:51 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
+- **Mar 23, 01:07 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
