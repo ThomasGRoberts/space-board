@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 21 | 39 |
 | spacenews | 0 | 5 | 20 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
-| breaking_defense | 0 | 1 | 19 | 38 |
+| breaking_defense | 0 | 1 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 241 |
 
 # Shown Order
@@ -2517,3 +2517,4 @@
 - **Mar 23, 06:13 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
 - **Mar 23, 06:27 AM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 23, 06:41 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 23, 06:55 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
