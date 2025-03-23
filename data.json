@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-22T00:02:04.364753+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-03-23T00:02:02.002350+00:00",
+    "trigger_count": 4,
     "current_item_id": "00bbbb3cd9a145d699cae9d41a5eff69",
     "data": [
+        {
+            "id": "aedc15ecc00eacccbb864e63e4be1e0c",
+            "source": "aidy",
+            "text": "Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-22T07:31:56.348254Z",
+            "shown_at": [
+                "2025-03-22T07:31:56.836200Z",
+                "2025-03-22T20:47:43.289400Z"
+            ]
+        },
+        {
+            "id": "aefe9e110526f9be76161dde4e7a9f2d",
+            "source": "spacenews",
+            "text": "Former NASA astronauts endorse Isaacman as administrator",
+            "source_link": "https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-22T00:27:28.621545Z",
+            "shown_at": [
+                "2025-03-22T00:27:29.148634Z"
+            ]
+        },
         {
             "id": "47978f41df20b6513de1333efc7e1055",
             "source": "nyt",
@@ -6249,31 +6274,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "aefe9e110526f9be76161dde4e7a9f2d",
-            "source": "spacenews",
-            "text": "Former NASA astronauts endorse Isaacman as administrator",
-            "source_link": "https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-22T00:27:28.621545Z",
-            "shown_at": [
-                "2025-03-22T00:27:29.148634Z"
-            ]
-        },
-        {
-            "id": "aedc15ecc00eacccbb864e63e4be1e0c",
-            "source": "aidy",
-            "text": "Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-22T07:31:56.348254Z",
-            "shown_at": [
-                "2025-03-22T07:31:56.836200Z",
-                "2025-03-22T20:47:43.289400Z"
             ]
         }
     ]
