@@ -6,7 +6,7 @@
 | spacenews | 0 | 5 | 20 | 43 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -2292,4 +2292,3 @@
 - **Mar 23, 10:41 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 23, 11:12 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
 - **Mar 23, 11:25 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
-- **Mar 23, 11:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
