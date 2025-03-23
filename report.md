@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 40 |
+| aidy | 1 | 2 | 19 | 40 |
 | spacenews | 0 | 1 | 20 | 40 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 2 | 2 | 38 | 38 |
+| supercluster | 2 | 2 | 39 | 39 |
 
 # Shown Order
 
@@ -2354,3 +2354,4 @@
 - **Mar 23, 06:53 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 23, 07:07 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 23, 07:21 PM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
+- **Mar 23, 07:35 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
