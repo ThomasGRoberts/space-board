@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 21 | 39 |
-| spacenews | 0 | 5 | 19 | 42 |
+| spacenews | 0 | 5 | 20 | 43 |
 | nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 1 | 20 | 38 |
 | supercluster | 0 | 1 | 140 | 241 |
@@ -2515,3 +2515,4 @@
 - **Mar 23, 06:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 06:11 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 06:13 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
+- **Mar 23, 06:27 AM** - ESA releases strategy document that emphasizes autonomy (spacenews)
