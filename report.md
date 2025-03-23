@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 40 |
-| spacenews | 0 | 1 | 19 | 40 |
+| spacenews | 0 | 1 | 20 | 41 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 2 | 2 | 59 | 59 |
@@ -2386,3 +2386,4 @@
 - **Mar 23, 10:11 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 23, 10:25 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 23, 10:39 PM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 23, 10:53 PM** - Crew-9 returns from space station (spacenews)
