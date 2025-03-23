@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 39 |
-| spacenews | 0 | 5 | 19 | 42 |
+| spacenews | 0 | 5 | 20 | 43 |
 | nyt | 1 | 2 | 21 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 269 |
@@ -2560,3 +2560,4 @@
 - **Mar 23, 11:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 11:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 23, 11:12 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
+- **Mar 23, 11:25 AM** - Europe funds inflatable satellite drag sail demonstration (spacenews)
