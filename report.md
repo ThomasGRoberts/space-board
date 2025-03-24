@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 87 | 87 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2430,3 +2430,4 @@
 - **Mar 24, 02:59 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
 - **Mar 24, 03:13 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 24, 03:29 AM** - Crew-9 returns from space station (spacenews)
+- **Mar 24, 03:43 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
