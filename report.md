@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 21 | 40 |
 | nyt | 0 | 1 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 2 | 2 | 16 | 16 |
 
 # Shown Order
@@ -2413,3 +2413,4 @@
 - **Mar 24, 08:33 PM** - ESA issues call for proposals for European Launcher Challenge (spacenews)
 - **Mar 24, 08:47 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 24, 09:01 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
+- **Mar 24, 09:15 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
