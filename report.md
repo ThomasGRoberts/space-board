@@ -5,7 +5,7 @@
 | spacenews | 5 | 5 | 21 | 41 |
 | supercluster | 1 | 2 | 84 | 87 |
 | nyt | 0 | 1 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2461,3 +2461,4 @@
 - **Mar 24, 01:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 01:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 01:30 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 01:31 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
