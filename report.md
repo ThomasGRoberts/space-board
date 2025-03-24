@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -2397,3 +2397,4 @@
 - **Mar 24, 07:35 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 24, 07:49 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 07:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 24, 07:53 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
