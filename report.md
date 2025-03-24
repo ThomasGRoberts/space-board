@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 77 | 80 |
 | nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2452,3 +2452,4 @@
 - **Mar 24, 12:17 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 12:19 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 24, 12:33 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
+- **Mar 24, 12:47 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
