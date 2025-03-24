@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 21 | 41 |
-| supercluster | 2 | 2 | 75 | 75 |
+| supercluster | 2 | 2 | 76 | 76 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -2445,3 +2445,4 @@
 - **Mar 24, 11:19 AM** - MaiaSpace signs first commercial launch contract (spacenews)
 - **Mar 24, 12:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 12:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 24, 12:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
