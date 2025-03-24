@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 115 | 115 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -2474,3 +2474,4 @@
 - **Mar 24, 08:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 08:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 08:13 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
+- **Mar 24, 08:28 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
