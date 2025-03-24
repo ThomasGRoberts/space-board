@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
-| supercluster | 2 | 2 | 116 | 116 |
+| supercluster | 2 | 2 | 117 | 117 |
 | nyt | 1 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
@@ -2478,3 +2478,4 @@
 - **Mar 24, 08:41 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
 - **Mar 24, 08:56 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 24, 09:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 09:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
