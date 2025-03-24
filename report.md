@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 20 | 39 |
 | supercluster | 2 | 2 | 80 | 80 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -2416,3 +2416,4 @@
 - **Mar 24, 01:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 01:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 01:43 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 24, 01:45 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
