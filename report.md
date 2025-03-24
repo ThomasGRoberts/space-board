@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2390,3 +2390,4 @@
 - **Mar 24, 05:27 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 05:41 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 24, 06:49 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 24, 06:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
