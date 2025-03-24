@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 11 | 11 |
+| supercluster | 2 | 2 | 12 | 12 |
 
 # Shown Order
 
@@ -2405,3 +2405,4 @@
 - **Mar 24, 08:05 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
 - **Mar 24, 08:19 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:21 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 24, 08:23 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
