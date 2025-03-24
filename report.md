@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 129 | 129 |
 | nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -2497,3 +2497,4 @@
 - **Mar 24, 10:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 10:37 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 24, 10:52 AM** - Satellite operators want better space weather models (spacenews)
+- **Mar 24, 11:05 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
