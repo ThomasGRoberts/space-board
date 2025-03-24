@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 94 | 94 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 18 | 39 |
+| aidy | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2442,3 +2442,4 @@
 - **Mar 24, 04:25 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 24, 04:39 AM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
 - **Mar 24, 04:53 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
+- **Mar 24, 05:09 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
