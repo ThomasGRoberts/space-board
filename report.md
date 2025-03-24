@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 19 | 39 |
 | supercluster | 2 | 2 | 87 | 87 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -2427,3 +2427,4 @@
 - **Mar 24, 02:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 02:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 02:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 02:59 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
