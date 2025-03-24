@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3df6c968b60c64c627a704630e54e833",
+    "trigger_count": 0,
+    "current_item_id": "444b12a4c00c8ce18a98d35282743f61",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6375,6 +6375,18 @@
             "fetched_datetime": "2025-03-24T07:45:36.217206Z",
             "shown_at": [
                 "2025-03-24T07:45:36.701052Z"
+            ]
+        },
+        {
+            "id": "444b12a4c00c8ce18a98d35282743f61",
+            "source": "spacenews",
+            "text": "Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong",
+            "source_link": "https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T09:41:33.755183Z",
+            "shown_at": [
+                "2025-03-24T09:41:34.344243Z"
             ]
         }
     ]
