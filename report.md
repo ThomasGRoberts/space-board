@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -2395,3 +2395,4 @@
 - **Mar 24, 07:07 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 24, 07:21 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 24, 07:35 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 24, 07:49 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
