@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 22 | 41 |
-| supercluster | 1 | 2 | 77 | 87 |
+| supercluster | 0 | 1 | 70 | 80 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -2443,13 +2443,6 @@
 - **Mar 24, 10:52 AM** - Satellite operators want better space weather models (spacenews)
 - **Mar 24, 11:05 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 24, 11:19 AM** - MaiaSpace signs first commercial launch contract (spacenews)
-- **Mar 24, 12:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:07 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
-- **Mar 24, 12:17 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 12:19 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 24, 12:33 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 24, 12:47 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
