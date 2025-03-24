@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3920c4c6a875bc3e2737404676a0cd08",
+    "trigger_count": 0,
+    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6313,6 +6313,20 @@
                 "2025-03-24T19:57:38.964122Z",
                 "2025-03-24T19:59:34.599606Z",
                 "2025-03-24T20:02:14.925573Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-25T11:30:00.000Z",
+            "time_remaining": "0d 15h 10m",
+            "fetched_datetime": "2025-03-24T20:19:34.897440Z",
+            "shown_at": [
+                "2025-03-24T20:19:35.584676Z"
             ]
         }
     ]

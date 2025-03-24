@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 21 | 40 |
 | nyt | 0 | 1 | 18 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 38 |
-| supercluster | 1 | 1 | 9 | 9 |
+| aidy | 1 | 2 | 18 | 38 |
+| breaking_defense | 0 | 0 | 18 | 37 |
+| supercluster | 2 | 2 | 10 | 10 |
 
 # Shown Order
 
@@ -2403,3 +2403,4 @@
 - **Mar 24, 07:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 08:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 08:05 PM** - ESA releases strategy document that emphasizes autonomy (spacenews)
+- **Mar 24, 08:19 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
