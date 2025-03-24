@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 21 | 41 |
 | nyt | 0 | 1 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 16 | 16 |
 
@@ -2411,3 +2411,4 @@
 - **Mar 24, 08:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:33 PM** - ESA issues call for proposals for European Launcher Challenge (spacenews)
+- **Mar 24, 08:47 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
