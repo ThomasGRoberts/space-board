@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5d81701701fee840fab6ee62c09af2df",
+    "trigger_count": 0,
+    "current_item_id": "6417b0e9fae97e562ddd0adcaf8d051a",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6367,6 +6367,18 @@
             "fetched_datetime": "2025-03-24T20:33:34.358495Z",
             "shown_at": [
                 "2025-03-24T20:33:34.870763Z"
+            ]
+        },
+        {
+            "id": "6417b0e9fae97e562ddd0adcaf8d051a",
+            "source": "spacenews",
+            "text": "NRO expands spy satellite network with back-to-back SpaceX launches",
+            "source_link": "https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T23:13:34.948743Z",
+            "shown_at": [
+                "2025-03-24T23:13:35.490959Z"
             ]
         }
     ]
