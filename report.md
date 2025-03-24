@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 21 | 40 |
+| spacenews | 5 | 5 | 22 | 41 |
 | supercluster | 1 | 2 | 77 | 87 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2464,3 +2464,4 @@
 - **Mar 24, 01:31 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 24, 01:46 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 24, 02:02 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 24, 02:17 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
