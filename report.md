@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 20 | 40 |
+| spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 115 | 115 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
@@ -2475,3 +2475,4 @@
 - **Mar 24, 08:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 08:13 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 24, 08:28 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 24, 08:41 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
