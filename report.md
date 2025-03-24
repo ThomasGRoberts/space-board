@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 108 | 108 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 0 | 1 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2465,3 +2465,4 @@
 - **Mar 24, 07:03 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 24, 07:17 AM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 24, 07:32 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 24, 07:45 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
