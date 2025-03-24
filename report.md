@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| supercluster | 2 | 2 | 67 | 67 |
+| supercluster | 2 | 2 | 68 | 68 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
@@ -2399,3 +2399,4 @@
 - **Mar 23, 11:51 PM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
 - **Mar 24, 12:05 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 24, 12:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 12:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
