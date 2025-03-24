@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 21 | 40 |
 | nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 2 | 2 | 23 | 23 |
 
 # Shown Order
@@ -2424,3 +2424,4 @@
 - **Mar 24, 09:45 PM** - NASA examining options for another Starliner test flight (spacenews)
 - **Mar 24, 09:59 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 24, 10:14 PM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
+- **Mar 24, 10:29 PM** - How to maximize the resiliency of PNT (breaking_defense)
