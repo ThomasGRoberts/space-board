@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 21 | 41 |
 | supercluster | 0 | 1 | 77 | 87 |
-| nyt | 0 | 1 | 19 | 39 |
+| nyt | 0 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -2466,3 +2466,4 @@
 - **Mar 24, 02:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 02:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 02:47 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
+- **Mar 24, 03:02 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
