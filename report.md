@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 20 | 40 |
+| spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 108 | 108 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
@@ -2463,3 +2463,4 @@
 - **Mar 24, 06:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 06:49 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 24, 07:03 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 24, 07:17 AM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
