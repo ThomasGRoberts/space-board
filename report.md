@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 21 | 41 |
+| spacenews | 4 | 4 | 22 | 42 |
 | supercluster | 2 | 2 | 129 | 129 |
 | nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
@@ -2498,3 +2498,4 @@
 - **Mar 24, 10:37 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 24, 10:52 AM** - Satellite operators want better space weather models (spacenews)
 - **Mar 24, 11:05 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 24, 11:19 AM** - MaiaSpace signs first commercial launch contract (spacenews)
