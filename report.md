@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 21 | 40 |
-| nyt | 0 | 1 | 18 | 38 |
+| spacenews | 5 | 5 | 20 | 40 |
+| nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -2393,3 +2393,4 @@
 - **Mar 24, 06:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 06:53 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
 - **Mar 24, 07:07 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 24, 07:21 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
