@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 77 | 87 |
 | nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2463,3 +2463,4 @@
 - **Mar 24, 01:30 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 01:31 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 24, 01:46 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 24, 02:02 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
