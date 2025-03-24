@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | supercluster | 2 | 2 | 108 | 108 |
-| nyt | 1 | 1 | 19 | 39 |
+| nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2461,3 +2461,4 @@
 - **Mar 24, 06:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 06:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 06:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 06:49 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
