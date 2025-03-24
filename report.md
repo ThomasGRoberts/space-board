@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 21 | 40 |
+| spacenews | 5 | 5 | 22 | 41 |
 | supercluster | 1 | 2 | 77 | 80 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2453,3 +2453,4 @@
 - **Mar 24, 12:19 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 24, 12:33 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 24, 12:47 PM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
+- **Mar 24, 01:03 PM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)

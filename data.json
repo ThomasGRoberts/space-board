@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ff10968d8fb4819ea78b5a94ea6f957",
+    "trigger_count": 0,
+    "current_item_id": "c4b02dbb1bd06918856bffbd34474a8a",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6365,6 +6365,18 @@
                 "2025-03-24T12:13:19.151966Z",
                 "2025-03-24T12:15:36.682607Z",
                 "2025-03-24T12:17:24.738660Z"
+            ]
+        },
+        {
+            "id": "c4b02dbb1bd06918856bffbd34474a8a",
+            "source": "spacenews",
+            "text": "Balancing national security and international cooperation in the competitive era of commercial space",
+            "source_link": "https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T13:03:45.359112Z",
+            "shown_at": [
+                "2025-03-24T13:03:45.959584Z"
             ]
         }
     ]
