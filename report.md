@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | supercluster | 2 | 2 | 115 | 115 |
-| nyt | 1 | 1 | 19 | 39 |
+| nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
@@ -2473,3 +2473,4 @@
 - **Mar 24, 08:07 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 08:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 08:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 08:13 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
