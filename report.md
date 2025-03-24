@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 22 | 41 |
-| nyt | 0 | 1 | 17 | 38 |
+| nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 17 | 37 |
 | supercluster | 2 | 2 | 30 | 30 |
@@ -2435,3 +2435,4 @@
 - **Mar 24, 10:59 PM** - MaiaSpace signs first commercial launch contract (spacenews)
 - **Mar 24, 11:13 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 24, 11:27 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
+- **Mar 24, 11:41 PM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
