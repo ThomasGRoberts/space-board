@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 22 | 41 |
-| supercluster | 0 | 1 | 84 | 94 |
+| spacenews | 5 | 5 | 21 | 41 |
+| supercluster | 0 | 1 | 85 | 95 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -2480,3 +2480,4 @@
 - **Mar 24, 04:17 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 04:32 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 24, 04:45 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
+- **Mar 24, 04:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
