@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 101 | 101 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -2451,3 +2451,4 @@
 - **Mar 24, 05:33 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 05:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 05:37 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 24, 05:51 AM** - How to maximize the resiliency of PNT (breaking_defense)
