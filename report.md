@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 21 | 40 |
+| spacenews | 5 | 5 | 22 | 41 |
 | supercluster | 0 | 1 | 84 | 94 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2479,3 +2479,4 @@
 - **Mar 24, 04:03 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 24, 04:17 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 04:32 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 24, 04:45 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
