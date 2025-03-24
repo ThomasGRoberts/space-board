@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 19 | 39 |
+| spacenews | 1 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 87 | 87 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
@@ -2429,3 +2429,4 @@
 - **Mar 24, 02:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 02:59 AM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
 - **Mar 24, 03:13 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 24, 03:29 AM** - Crew-9 returns from space station (spacenews)
