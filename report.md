@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 66 | 66 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2397,3 +2397,4 @@
 - **Mar 23, 11:23 PM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 23, 11:37 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 23, 11:51 PM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
+- **Mar 24, 12:05 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
