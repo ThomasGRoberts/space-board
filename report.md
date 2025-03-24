@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 80 | 80 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2419,3 +2419,4 @@
 - **Mar 24, 01:45 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
 - **Mar 24, 01:59 AM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
 - **Mar 24, 02:15 AM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
+- **Mar 24, 02:29 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
