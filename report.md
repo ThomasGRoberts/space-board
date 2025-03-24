@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 122 | 122 |
 | nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -2486,3 +2486,4 @@
 - **Mar 24, 09:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 09:27 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 09:41 AM** - Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong (spacenews)
+- **Mar 24, 09:55 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
