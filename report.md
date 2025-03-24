@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 20 | 40 |
 | supercluster | 2 | 2 | 129 | 129 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -2495,3 +2495,4 @@
 - **Mar 24, 10:31 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 10:33 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 10:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 24, 10:37 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
