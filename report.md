@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 20 | 40 |
+| spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 101 | 101 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
@@ -2452,3 +2452,4 @@
 - **Mar 24, 05:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 05:37 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 05:51 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 24, 06:07 AM** - Crew-9 returns from space station (spacenews)
