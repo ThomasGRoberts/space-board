@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 20 | 39 |
-| nyt | 0 | 1 | 18 | 39 |
+| spacenews | 5 | 5 | 21 | 40 |
+| nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -2391,3 +2391,4 @@
 - **Mar 24, 05:41 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
 - **Mar 24, 06:49 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 06:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 24, 06:53 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
