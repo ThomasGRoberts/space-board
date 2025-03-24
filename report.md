@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 21 | 41 |
-| nyt | 0 | 1 | 17 | 38 |
+| nyt | 0 | 1 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 16 | 16 |
@@ -2412,3 +2412,4 @@
 - **Mar 24, 08:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:33 PM** - ESA issues call for proposals for European Launcher Challenge (spacenews)
 - **Mar 24, 08:47 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 24, 09:01 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
