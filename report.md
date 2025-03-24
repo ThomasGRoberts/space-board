@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 23 | 23 |
+| supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
 
@@ -2425,3 +2425,4 @@
 - **Mar 24, 09:59 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 24, 10:14 PM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
 - **Mar 24, 10:29 PM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 24, 10:45 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
