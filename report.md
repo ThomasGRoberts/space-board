@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | supercluster | 2 | 2 | 122 | 122 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -2484,3 +2484,4 @@
 - **Mar 24, 09:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 09:23 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 09:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 09:27 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
