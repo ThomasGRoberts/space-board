@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 21 | 41 |
-| supercluster | 2 | 2 | 80 | 80 |
-| nyt | 0 | 1 | 19 | 39 |
+| supercluster | 1 | 2 | 79 | 80 |
+| nyt | 0 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -2451,3 +2451,4 @@
 - **Mar 24, 12:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 12:17 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 12:19 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 24, 12:33 PM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
