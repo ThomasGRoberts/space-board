@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 115 | 115 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2476,3 +2476,4 @@
 - **Mar 24, 08:13 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 24, 08:28 AM** - Space supply chain gaps: Propulsion, hardened electronics and laser links (breaking_defense)
 - **Mar 24, 08:41 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
+- **Mar 24, 08:56 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
