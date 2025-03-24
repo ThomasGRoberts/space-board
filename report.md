@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 101 | 101 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 18 | 39 |
+| aidy | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2453,3 +2453,4 @@
 - **Mar 24, 05:37 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 05:51 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 24, 06:07 AM** - Crew-9 returns from space station (spacenews)
+- **Mar 24, 06:21 AM** - SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue (aidy)
