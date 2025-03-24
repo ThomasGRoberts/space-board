@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 20 | 40 |
+| spacenews | 2 | 2 | 21 | 41 |
 | supercluster | 2 | 2 | 94 | 94 |
 | nyt | 1 | 1 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
@@ -2441,3 +2441,4 @@
 - **Mar 24, 04:11 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 04:25 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 24, 04:39 AM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
+- **Mar 24, 04:53 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)

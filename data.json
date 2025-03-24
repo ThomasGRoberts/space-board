@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87283f08fa55222dd17e66414d1cce1e",
+    "trigger_count": 0,
+    "current_item_id": "983c8af32db670f934c721e2cae1b0c4",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6309,6 +6309,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "983c8af32db670f934c721e2cae1b0c4",
+            "source": "spacenews",
+            "text": "The European Union’s push for next generation space electronics and critical technologies",
+            "source_link": "https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T04:53:37.526917Z",
+            "shown_at": [
+                "2025-03-24T04:53:38.061807Z"
             ]
         }
     ]
