@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 21 | 41 |
-| nyt | 0 | 1 | 18 | 38 |
+| spacenews | 6 | 6 | 21 | 40 |
+| nyt | 0 | 1 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 2 | 2 | 23 | 23 |
@@ -2423,3 +2423,4 @@
 - **Mar 24, 09:43 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 24, 09:45 PM** - NASA examining options for another Starliner test flight (spacenews)
 - **Mar 24, 09:59 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
+- **Mar 24, 10:14 PM** - Highlights From Suni Williams and Butch Wilmore’s Return to Earth (nyt)
