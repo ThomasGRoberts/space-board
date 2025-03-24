@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| supercluster | 2 | 2 | 68 | 68 |
+| supercluster | 2 | 2 | 69 | 69 |
 | nyt | 1 | 1 | 20 | 40 |
-| aidy | 1 | 2 | 20 | 40 |
+| aidy | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2400,3 +2400,4 @@
 - **Mar 24, 12:05 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 24, 12:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Mar 24, 12:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Mar 24, 12:23 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
