@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 21 | 40 |
+| spacenews | 6 | 6 | 21 | 41 |
 | nyt | 0 | 1 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2410,3 +2410,4 @@
 - **Mar 24, 08:27 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 24, 08:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 24, 08:33 PM** - ESA issues call for proposals for European Launcher Challenge (spacenews)

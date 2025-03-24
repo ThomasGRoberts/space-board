@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 0,
+    "current_item_id": "18b3751f775c5d1a1d6e43a445c43e4a",
     "data": [
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
@@ -6333,6 +6333,18 @@
                 "2025-03-24T20:27:25.156751Z",
                 "2025-03-24T20:29:35.328858Z",
                 "2025-03-24T20:31:42.784304Z"
+            ]
+        },
+        {
+            "id": "18b3751f775c5d1a1d6e43a445c43e4a",
+            "source": "spacenews",
+            "text": "ESA issues call for proposals for European Launcher Challenge",
+            "source_link": "https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T20:33:34.358495Z",
+            "shown_at": [
+                "2025-03-24T20:33:34.870763Z"
             ]
         }
     ]
