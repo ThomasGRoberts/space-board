@@ -5,8 +5,8 @@
 | spacenews | 6 | 7 | 22 | 41 |
 | supercluster | 2 | 2 | 58 | 58 |
 | aidy | 1 | 2 | 19 | 38 |
-| nyt | 0 | 1 | 17 | 37 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| nyt | 0 | 1 | 18 | 38 |
+| breaking_defense | 0 | 0 | 17 | 37 |
 
 # Shown Order
 
@@ -2479,3 +2479,4 @@
 - **Mar 25, 03:57 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 03:59 AM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)
 - **Mar 25, 04:13 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 25, 04:29 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
