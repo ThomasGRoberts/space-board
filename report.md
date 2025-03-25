@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 20 | 42 |
+| spacenews | 3 | 7 | 20 | 41 |
 | supercluster | 2 | 2 | 100 | 100 |
-| aidy | 0 | 1 | 18 | 37 |
+| aidy | 0 | 1 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2544,3 +2544,4 @@
 - **Mar 25, 11:09 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 11:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 11:13 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
+- **Mar 25, 11:27 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
