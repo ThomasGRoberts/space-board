@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 23 | 45 |
+| spacenews | 6 | 11 | 23 | 44 |
 | supercluster | 1 | 1 | 58 | 58 |
 | aidy | 0 | 1 | 18 | 37 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2507,3 +2507,4 @@
 - **Mar 25, 12:39 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 25, 12:53 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
 - **Mar 25, 01:09 PM** - NASA terminating $420 million in contracts (spacenews)
+- **Mar 25, 01:25 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
