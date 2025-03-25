@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 80 | 80 |
-| aidy | 0 | 1 | 18 | 38 |
+| supercluster | 2 | 2 | 81 | 81 |
+| aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2515,3 +2515,4 @@
 - **Mar 25, 08:03 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 25, 08:17 AM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
 - **Mar 25, 08:33 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 08:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
