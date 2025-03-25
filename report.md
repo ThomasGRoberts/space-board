@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 41 |
-| supercluster | 2 | 2 | 93 | 93 |
+| supercluster | 2 | 2 | 94 | 94 |
 | aidy | 0 | 1 | 18 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 19 | 37 |
@@ -2536,3 +2536,4 @@
 - **Mar 25, 10:17 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 25, 10:31 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 25, 10:45 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 25, 10:59 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
