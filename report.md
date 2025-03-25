@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 24 | 45 |
-| supercluster | 1 | 2 | 98 | 114 |
+| supercluster | 1 | 2 | 96 | 114 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -2594,3 +2594,4 @@
 - **Mar 25, 10:05 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 25, 10:19 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 10:33 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
+- **Mar 25, 10:47 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
