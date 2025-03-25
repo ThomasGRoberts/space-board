@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 32 | 32 |
+| supercluster | 2 | 2 | 33 | 33 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2439,3 +2439,4 @@
 - **Mar 24, 11:55 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 25, 12:09 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 12:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 12:13 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
