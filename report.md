@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 23 | 44 |
 | supercluster | 1 | 1 | 65 | 65 |
-| aidy | 0 | 1 | 17 | 37 |
+| aidy | 0 | 1 | 18 | 38 |
 | nyt | 0 | 0 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
@@ -2516,3 +2516,4 @@
 - **Mar 25, 02:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 02:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 02:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 02:12 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
