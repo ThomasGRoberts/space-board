@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 22 | 44 |
-| supercluster | 2 | 2 | 67 | 67 |
+| supercluster | 2 | 2 | 68 | 68 |
 | aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 36 |
@@ -2519,3 +2519,4 @@
 - **Mar 25, 02:12 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 25, 02:27 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 02:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 02:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
