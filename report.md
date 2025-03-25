@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 23 | 44 |
+| spacenews | 8 | 13 | 24 | 45 |
 | supercluster | 1 | 2 | 91 | 100 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
@@ -2571,3 +2571,4 @@
 - **Mar 25, 07:27 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 25, 07:41 PM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
 - **Mar 25, 07:55 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 25, 08:09 PM** - California commits $95 million  to purchase of satellite methane data (spacenews)
