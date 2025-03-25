@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 22 | 44 |
-| supercluster | 2 | 2 | 73 | 73 |
+| supercluster | 2 | 2 | 74 | 74 |
 | aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 36 |
@@ -2529,3 +2529,4 @@
 - **Mar 25, 03:09 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 25, 03:23 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 03:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 03:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
