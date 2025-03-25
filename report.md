@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 37 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -2447,3 +2447,4 @@
 - **Mar 25, 12:23 AM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
 - **Mar 25, 12:37 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 12:51 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
+- **Mar 25, 01:07 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
