@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-25T00:01:48.096270+00:00",
-    "trigger_count": 6,
-    "current_item_id": "013129a8c56dbb1ad26c456a9600e71d",
+    "trigger_count": 0,
+    "current_item_id": "c51ae12700fce7a6e13d4185eaccc65b",
     "data": [
         {
             "id": "6417b0e9fae97e562ddd0adcaf8d051a",
@@ -6478,9 +6478,12 @@
             "source": "spacenews",
             "text": "NASA terminating $420 million in contracts",
             "source_link": "https://spacenews.com/nasa-terminating-420-million-in-contracts/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069179Z"
+            "fetched_datetime": "2025-03-25T12:31:54.069179Z",
+            "shown_at": [
+                "2025-03-25T13:09:33.603048Z"
+            ]
         }
     ]
 }

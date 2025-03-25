@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 22 | 44 |
+| spacenews | 6 | 11 | 23 | 45 |
 | supercluster | 1 | 1 | 58 | 58 |
 | aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 17 | 36 |
@@ -2506,3 +2506,4 @@
 - **Mar 25, 12:31 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 25, 12:39 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 25, 12:53 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
+- **Mar 25, 01:09 PM** - NASA terminating $420 million in contracts (spacenews)
