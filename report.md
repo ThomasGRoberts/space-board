@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 91 | 100 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -2572,3 +2572,4 @@
 - **Mar 25, 07:41 PM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
 - **Mar 25, 07:55 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 25, 08:09 PM** - California commits $95 million  to purchase of satellite methane data (spacenews)
+- **Mar 25, 08:24 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
