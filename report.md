@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 41 |
+| spacenews | 4 | 7 | 21 | 42 |
 | supercluster | 2 | 2 | 93 | 93 |
-| aidy | 0 | 1 | 18 | 38 |
+| aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2532,3 +2532,4 @@
 - **Mar 25, 09:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 09:57 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 09:59 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 10:02 AM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
