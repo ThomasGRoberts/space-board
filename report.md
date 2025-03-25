@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 44 |
 | supercluster | 1 | 2 | 98 | 107 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2581,3 +2581,4 @@
 - **Mar 25, 08:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 08:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 08:53 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 25, 09:07 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
