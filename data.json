@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-25T00:01:48.096270+00:00",
-    "trigger_count": 6,
-    "current_item_id": "665c6bbcd31cdade624971620af6f6d8",
+    "trigger_count": 0,
+    "current_item_id": "f9cb1cfdae693786bba5b432453572cc",
     "data": [
         {
             "id": "6417b0e9fae97e562ddd0adcaf8d051a",
@@ -6580,6 +6580,18 @@
             "fetched_datetime": "2025-03-25T17:33:32.821628Z",
             "shown_at": [
                 "2025-03-25T17:33:33.507677Z"
+            ]
+        },
+        {
+            "id": "f9cb1cfdae693786bba5b432453572cc",
+            "source": "spacenews",
+            "text": "Spain backs Sateliot with $15 million to expand connectivity constellation",
+            "source_link": "https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T19:41:11.285789Z",
+            "shown_at": [
+                "2025-03-25T19:41:11.786634Z"
             ]
         }
     ]

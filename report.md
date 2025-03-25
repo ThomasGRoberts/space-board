@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 23 | 43 |
+| spacenews | 7 | 12 | 24 | 44 |
 | supercluster | 1 | 2 | 98 | 100 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 18 | 37 |
@@ -2569,3 +2569,4 @@
 - **Mar 25, 07:23 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 07:25 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 07:27 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 25, 07:41 PM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
