@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 20 | 41 |
-| supercluster | 2 | 2 | 58 | 58 |
+| supercluster | 2 | 2 | 59 | 59 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2481,3 +2481,4 @@
 - **Mar 25, 04:13 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 25, 04:29 AM** - Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home (nyt)
 - **Mar 25, 04:43 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 25, 04:57 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
