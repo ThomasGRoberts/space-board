@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 23 | 44 |
-| supercluster | 1 | 2 | 91 | 93 |
+| supercluster | 1 | 2 | 92 | 94 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -2561,3 +2561,4 @@
 - **Mar 25, 06:29 PM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
 - **Mar 25, 06:43 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 25, 06:58 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 25, 07:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
