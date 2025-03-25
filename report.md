@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 44 |
-| supercluster | 1 | 2 | 92 | 101 |
+| supercluster | 1 | 2 | 93 | 102 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -2574,3 +2574,4 @@
 - **Mar 25, 08:09 PM** - California commits $95 million  to purchase of satellite methane data (spacenews)
 - **Mar 25, 08:24 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 25, 08:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 08:41 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
