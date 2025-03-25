@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 43 |
+| spacenews | 7 | 11 | 23 | 44 |
 | supercluster | 1 | 1 | 58 | 58 |
 | aidy | 0 | 1 | 18 | 38 |
 | nyt | 0 | 0 | 17 | 36 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 
 # Shown Order
 
@@ -2505,3 +2505,4 @@
 - **Mar 25, 11:27 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 25, 12:31 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 25, 12:39 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
+- **Mar 25, 12:53 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
