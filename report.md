@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 51 | 51 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -2469,3 +2469,4 @@
 - **Mar 25, 02:45 AM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
 - **Mar 25, 02:59 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 03:15 AM** - Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth (nyt)
+- **Mar 25, 03:29 AM** - How to maximize the resiliency of PNT (breaking_defense)
