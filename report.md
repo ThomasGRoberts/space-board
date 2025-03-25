@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 20 | 41 |
+| spacenews | 5 | 7 | 21 | 42 |
 | supercluster | 2 | 2 | 86 | 86 |
 | aidy | 0 | 1 | 18 | 37 |
 | nyt | 0 | 1 | 18 | 38 |
@@ -2521,3 +2521,4 @@
 - **Mar 25, 08:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 08:43 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 08:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 08:47 AM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
