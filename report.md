@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 91 | 93 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -2560,3 +2560,4 @@
 - **Mar 25, 06:15 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 25, 06:29 PM** - Exlabs and Antares form alliance to develop nuclear-powered spacecraft (spacenews)
 - **Mar 25, 06:43 PM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
+- **Mar 25, 06:58 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
