@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 23 | 44 |
 | supercluster | 2 | 2 | 79 | 79 |
-| aidy | 0 | 1 | 17 | 37 |
+| aidy | 0 | 1 | 18 | 38 |
 | nyt | 1 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
@@ -2538,3 +2538,4 @@
 - **Mar 25, 03:51 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 25, 04:05 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 25, 04:19 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
+- **Mar 25, 04:35 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
