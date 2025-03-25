@@ -1,9 +1,152 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-24T00:01:55.376558+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-03-25T00:01:48.096270+00:00",
+    "trigger_count": 3,
     "current_item_id": "1c3b9cccf2d4aea622cbb8ea073be638",
     "data": [
+        {
+            "id": "6417b0e9fae97e562ddd0adcaf8d051a",
+            "source": "spacenews",
+            "text": "NRO expands spy satellite network with back-to-back SpaceX launches",
+            "source_link": "https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T23:13:34.948743Z",
+            "shown_at": [
+                "2025-03-24T23:13:35.490959Z"
+            ]
+        },
+        {
+            "id": "18b3751f775c5d1a1d6e43a445c43e4a",
+            "source": "spacenews",
+            "text": "ESA issues call for proposals for European Launcher Challenge",
+            "source_link": "https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T20:33:34.358495Z",
+            "shown_at": [
+                "2025-03-24T20:33:34.870763Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-25T11:30:00.000Z",
+            "time_remaining": "0d 14h 58m",
+            "fetched_datetime": "2025-03-24T20:19:34.897440Z",
+            "shown_at": [
+                "2025-03-24T20:19:35.584676Z",
+                "2025-03-24T20:21:38.941263Z",
+                "2025-03-24T20:23:38.412278Z",
+                "2025-03-24T20:25:41.796033Z",
+                "2025-03-24T20:27:25.156751Z",
+                "2025-03-24T20:29:35.328858Z",
+                "2025-03-24T20:31:42.784304Z"
+            ]
+        },
+        {
+            "id": "c272eca5490c96f5f23e88f0bda5518d",
+            "source": "supercluster",
+            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
+            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-26T13:37:00.000Z",
+            "time_remaining": "1d 14h 39m",
+            "fetched_datetime": "2025-03-24T18:49:41.759677Z",
+            "shown_at": [
+                "2025-03-24T18:49:42.725308Z",
+                "2025-03-24T18:51:39.839802Z",
+                "2025-03-24T19:49:15.181425Z",
+                "2025-03-24T19:51:38.475743Z",
+                "2025-03-24T19:53:33.502126Z",
+                "2025-03-24T19:55:24.454214Z",
+                "2025-03-24T19:57:38.964122Z",
+                "2025-03-24T19:59:34.599606Z",
+                "2025-03-24T20:02:14.925573Z",
+                "2025-03-24T21:31:43.975338Z",
+                "2025-03-24T21:33:25.258692Z",
+                "2025-03-24T21:35:24.426262Z",
+                "2025-03-24T21:37:05.937092Z",
+                "2025-03-24T21:39:32.515212Z",
+                "2025-03-24T21:41:42.865854Z",
+                "2025-03-24T21:43:42.616899Z",
+                "2025-03-24T22:45:44.410243Z",
+                "2025-03-24T22:47:44.325481Z",
+                "2025-03-24T22:49:42.835577Z",
+                "2025-03-24T22:51:12.210830Z",
+                "2025-03-24T22:53:33.679532Z",
+                "2025-03-24T22:55:27.506089Z",
+                "2025-03-24T22:57:26.682475Z"
+            ]
+        },
+        {
+            "id": "c4b02dbb1bd06918856bffbd34474a8a",
+            "source": "spacenews",
+            "text": "Balancing national security and international cooperation in the competitive era of commercial space",
+            "source_link": "https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T13:03:45.359112Z",
+            "shown_at": [
+                "2025-03-24T13:03:45.959584Z"
+            ]
+        },
+        {
+            "id": "5d81701701fee840fab6ee62c09af2df",
+            "source": "spacenews",
+            "text": "MaiaSpace signs first commercial launch contract",
+            "source_link": "https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T11:19:45.101288Z",
+            "shown_at": [
+                "2025-03-24T11:19:46.337448Z",
+                "2025-03-24T22:59:37.579582Z"
+            ]
+        },
+        {
+            "id": "444b12a4c00c8ce18a98d35282743f61",
+            "source": "spacenews",
+            "text": "Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong",
+            "source_link": "https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T09:41:33.755183Z",
+            "shown_at": [
+                "2025-03-24T09:41:34.344243Z"
+            ]
+        },
+        {
+            "id": "a50041787d1cedecdab545a8842b12d6",
+            "source": "aidy",
+            "text": "House Bills and Executive Order Drive Major Shifts in U.S. Space Policy",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T07:45:36.217206Z",
+            "shown_at": [
+                "2025-03-24T07:45:36.701052Z",
+                "2025-03-24T20:47:15.726297Z"
+            ]
+        },
+        {
+            "id": "983c8af32db670f934c721e2cae1b0c4",
+            "source": "spacenews",
+            "text": "The European Union’s push for next generation space electronics and critical technologies",
+            "source_link": "https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-24T04:53:37.526917Z",
+            "shown_at": [
+                "2025-03-24T04:53:38.061807Z",
+                "2025-03-24T08:41:53.085152Z"
+            ]
+        },
         {
             "id": "87283f08fa55222dd17e66414d1cce1e",
             "source": "spacenews",
@@ -6239,149 +6382,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "983c8af32db670f934c721e2cae1b0c4",
-            "source": "spacenews",
-            "text": "The European Union’s push for next generation space electronics and critical technologies",
-            "source_link": "https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T04:53:37.526917Z",
-            "shown_at": [
-                "2025-03-24T04:53:38.061807Z",
-                "2025-03-24T08:41:53.085152Z"
-            ]
-        },
-        {
-            "id": "a50041787d1cedecdab545a8842b12d6",
-            "source": "aidy",
-            "text": "House Bills and Executive Order Drive Major Shifts in U.S. Space Policy",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T07:45:36.217206Z",
-            "shown_at": [
-                "2025-03-24T07:45:36.701052Z",
-                "2025-03-24T20:47:15.726297Z"
-            ]
-        },
-        {
-            "id": "444b12a4c00c8ce18a98d35282743f61",
-            "source": "spacenews",
-            "text": "Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong",
-            "source_link": "https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T09:41:33.755183Z",
-            "shown_at": [
-                "2025-03-24T09:41:34.344243Z"
-            ]
-        },
-        {
-            "id": "5d81701701fee840fab6ee62c09af2df",
-            "source": "spacenews",
-            "text": "MaiaSpace signs first commercial launch contract",
-            "source_link": "https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T11:19:45.101288Z",
-            "shown_at": [
-                "2025-03-24T11:19:46.337448Z",
-                "2025-03-24T22:59:37.579582Z"
-            ]
-        },
-        {
-            "id": "c4b02dbb1bd06918856bffbd34474a8a",
-            "source": "spacenews",
-            "text": "Balancing national security and international cooperation in the competitive era of commercial space",
-            "source_link": "https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T13:03:45.359112Z",
-            "shown_at": [
-                "2025-03-24T13:03:45.959584Z"
-            ]
-        },
-        {
-            "id": "c272eca5490c96f5f23e88f0bda5518d",
-            "source": "supercluster",
-            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
-            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-26T13:37:00.000Z",
-            "time_remaining": "1d 14h 39m",
-            "fetched_datetime": "2025-03-24T18:49:41.759677Z",
-            "shown_at": [
-                "2025-03-24T18:49:42.725308Z",
-                "2025-03-24T18:51:39.839802Z",
-                "2025-03-24T19:49:15.181425Z",
-                "2025-03-24T19:51:38.475743Z",
-                "2025-03-24T19:53:33.502126Z",
-                "2025-03-24T19:55:24.454214Z",
-                "2025-03-24T19:57:38.964122Z",
-                "2025-03-24T19:59:34.599606Z",
-                "2025-03-24T20:02:14.925573Z",
-                "2025-03-24T21:31:43.975338Z",
-                "2025-03-24T21:33:25.258692Z",
-                "2025-03-24T21:35:24.426262Z",
-                "2025-03-24T21:37:05.937092Z",
-                "2025-03-24T21:39:32.515212Z",
-                "2025-03-24T21:41:42.865854Z",
-                "2025-03-24T21:43:42.616899Z",
-                "2025-03-24T22:45:44.410243Z",
-                "2025-03-24T22:47:44.325481Z",
-                "2025-03-24T22:49:42.835577Z",
-                "2025-03-24T22:51:12.210830Z",
-                "2025-03-24T22:53:33.679532Z",
-                "2025-03-24T22:55:27.506089Z",
-                "2025-03-24T22:57:26.682475Z"
-            ]
-        },
-        {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-25T11:30:00.000Z",
-            "time_remaining": "0d 14h 58m",
-            "fetched_datetime": "2025-03-24T20:19:34.897440Z",
-            "shown_at": [
-                "2025-03-24T20:19:35.584676Z",
-                "2025-03-24T20:21:38.941263Z",
-                "2025-03-24T20:23:38.412278Z",
-                "2025-03-24T20:25:41.796033Z",
-                "2025-03-24T20:27:25.156751Z",
-                "2025-03-24T20:29:35.328858Z",
-                "2025-03-24T20:31:42.784304Z"
-            ]
-        },
-        {
-            "id": "18b3751f775c5d1a1d6e43a445c43e4a",
-            "source": "spacenews",
-            "text": "ESA issues call for proposals for European Launcher Challenge",
-            "source_link": "https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T20:33:34.358495Z",
-            "shown_at": [
-                "2025-03-24T20:33:34.870763Z"
-            ]
-        },
-        {
-            "id": "6417b0e9fae97e562ddd0adcaf8d051a",
-            "source": "spacenews",
-            "text": "NRO expands spy satellite network with back-to-back SpaceX launches",
-            "source_link": "https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T23:13:34.948743Z",
-            "shown_at": [
-                "2025-03-24T23:13:35.490959Z"
             ]
         }
     ]
