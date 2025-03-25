@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2460,3 +2460,4 @@
 - **Mar 25, 02:03 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 25, 02:17 AM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
 - **Mar 25, 02:31 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 02:33 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
