@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 44 |
+| spacenews | 6 | 13 | 23 | 45 |
 | supercluster | 1 | 2 | 98 | 121 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
@@ -2604,3 +2604,4 @@
 - **Mar 25, 11:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 11:17 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 25, 11:32 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 25, 11:47 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
