@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 21 | 41 |
+| spacenews | 6 | 7 | 22 | 42 |
 | supercluster | 2 | 2 | 37 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 18 | 38 |
@@ -2444,3 +2444,4 @@
 - **Mar 25, 12:18 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 12:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 12:21 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 25, 12:23 AM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
