@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 23 | 44 |
-| supercluster | 2 | 2 | 87 | 87 |
+| supercluster | 2 | 2 | 88 | 88 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 1 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 36 |
@@ -2551,3 +2551,4 @@
 - **Mar 25, 05:33 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 25, 05:47 PM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
 - **Mar 25, 06:01 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 06:03 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
