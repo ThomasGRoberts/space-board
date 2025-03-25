@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 23 | 43 |
 | supercluster | 2 | 2 | 93 | 93 |
 | aidy | 1 | 2 | 18 | 37 |
-| nyt | 1 | 1 | 17 | 36 |
+| nyt | 1 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2557,3 +2557,4 @@
 - **Mar 25, 06:09 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 06:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 06:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 06:15 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
