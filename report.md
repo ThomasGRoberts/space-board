@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 65 | 65 |
+| spacenews | 5 | 7 | 20 | 41 |
+| supercluster | 2 | 2 | 66 | 66 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2492,3 +2492,4 @@
 - **Mar 25, 05:25 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 25, 05:40 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
 - **Mar 25, 05:55 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 25, 06:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
