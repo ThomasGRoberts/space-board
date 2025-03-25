@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 20 | 41 |
+| spacenews | 5 | 7 | 21 | 42 |
 | supercluster | 2 | 2 | 72 | 72 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2499,3 +2499,4 @@
 - **Mar 25, 06:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 06:19 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 06:21 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 25, 06:23 AM** - U.S. Space Force budget trimmed in full-year continuing resolution (spacenews)
