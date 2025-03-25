@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 93 | 93 |
 | aidy | 0 | 1 | 18 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -2535,3 +2535,4 @@
 - **Mar 25, 10:02 AM** - Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18 (spacenews)
 - **Mar 25, 10:17 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 25, 10:31 AM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
+- **Mar 25, 10:45 AM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
