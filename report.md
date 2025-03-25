@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 22 | 41 |
 | supercluster | 2 | 2 | 44 | 44 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 1 | 17 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2456,3 +2456,4 @@
 - **Mar 25, 01:32 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 01:33 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 01:35 AM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
+- **Mar 25, 01:49 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
