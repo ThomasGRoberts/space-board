@@ -5,7 +5,7 @@
 | spacenews | 5 | 7 | 21 | 41 |
 | supercluster | 2 | 2 | 86 | 86 |
 | aidy | 0 | 1 | 18 | 38 |
-| nyt | 0 | 1 | 18 | 37 |
+| nyt | 0 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -2523,3 +2523,4 @@
 - **Mar 25, 08:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 08:47 AM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
 - **Mar 25, 09:03 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 25, 09:17 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
