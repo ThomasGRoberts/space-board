@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 21 | 41 |
-| supercluster | 2 | 2 | 37 | 37 |
+| supercluster | 2 | 2 | 38 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2448,3 +2448,4 @@
 - **Mar 25, 12:37 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 12:51 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
 - **Mar 25, 01:07 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
+- **Mar 25, 01:21 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
