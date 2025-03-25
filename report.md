@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 24 | 44 |
-| supercluster | 1 | 2 | 91 | 114 |
+| spacenews | 7 | 13 | 23 | 44 |
+| supercluster | 1 | 2 | 92 | 115 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -2595,3 +2595,4 @@
 - **Mar 25, 10:19 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 25, 10:33 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 25, 10:47 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
+- **Mar 25, 11:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
