@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-25T00:01:48.096270+00:00",
-    "trigger_count": 2,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 3,
+    "current_item_id": "412d4ca05e080a2e0b8462460929fc28",
     "data": [
         {
             "id": "6417b0e9fae97e562ddd0adcaf8d051a",
@@ -6438,15 +6438,43 @@
             ]
         },
         {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "id": "412d4ca05e080a2e0b8462460929fc28",
+            "source": "spacenews",
+            "text": "Companies in the Space Force commercial reserve program will not be publicly identified",
+            "source_link": "https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069036Z",
+            "shown_at": [
+                "2025-03-25T12:31:54.724463Z"
+            ]
+        },
+        {
+            "id": "10d6d900419ff0fa309e5d1b08a21a7d",
+            "source": "spacenews",
+            "text": "Space Force gets $40 million boost for commercial space services",
+            "source_link": "https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/",
             "shown": false,
-            "type": "launch",
-            "target_datetime": "2025-03-25T11:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-25T12:29:19.224218Z"
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069090Z"
+        },
+        {
+            "id": "013129a8c56dbb1ad26c456a9600e71d",
+            "source": "spacenews",
+            "text": "Maxar launches GPS-alternative navigation system for drones",
+            "source_link": "https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069128Z"
+        },
+        {
+            "id": "c51ae12700fce7a6e13d4185eaccc65b",
+            "source": "spacenews",
+            "text": "NASA terminating $420 million in contracts",
+            "source_link": "https://spacenews.com/nasa-terminating-420-million-in-contracts/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069179Z"
         }
     ]
 }
