@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 22 | 43 |
+| spacenews | 6 | 11 | 23 | 44 |
 | supercluster | 2 | 2 | 86 | 86 |
 | aidy | 0 | 1 | 17 | 37 |
 | nyt | 1 | 1 | 18 | 37 |
@@ -2547,3 +2547,4 @@
 - **Mar 25, 04:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 05:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 05:05 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 25, 05:19 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
