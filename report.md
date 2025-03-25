@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 44 |
 | supercluster | 1 | 2 | 98 | 121 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2603,3 +2603,4 @@
 - **Mar 25, 11:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 11:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 25, 11:17 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 25, 11:32 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
