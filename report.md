@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 23 | 44 |
 | supercluster | 2 | 2 | 72 | 72 |
 | aidy | 0 | 1 | 17 | 37 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2525,3 +2525,4 @@
 - **Mar 25, 02:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 02:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 25, 02:41 PM** - Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division (spacenews)
+- **Mar 25, 02:55 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
