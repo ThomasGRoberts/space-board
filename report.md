@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 58 | 58 |
 | aidy | 0 | 1 | 17 | 37 |
 | nyt | 0 | 0 | 18 | 37 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -2508,3 +2508,4 @@
 - **Mar 25, 12:53 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
 - **Mar 25, 01:09 PM** - NASA terminating $420 million in contracts (spacenews)
 - **Mar 25, 01:25 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
+- **Mar 25, 01:41 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
