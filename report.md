@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 22 | 46 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 2 | 2 | 19 | 36 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -2551,3 +2551,4 @@
 - **Mar 26, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:09 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Mar 26, 06:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 26, 06:37 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
