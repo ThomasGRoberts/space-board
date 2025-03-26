@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 45 |
-| aidy | 2 | 2 | 20 | 38 |
+| spacenews | 7 | 13 | 23 | 46 |
+| aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 20 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -2561,3 +2561,4 @@
 - **Mar 26, 02:05 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
 - **Mar 26, 02:19 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 26, 02:34 PM** - Space Force unveils strategic plan for AI integration (spacenews)
+- **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
