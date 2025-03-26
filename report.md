@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 24 | 46 |
-| aidy | 1 | 2 | 16 | 35 |
-| nyt | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
+| nyt | 1 | 2 | 16 | 34 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -2558,3 +2558,4 @@
 - **Mar 26, 11:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 26, 11:13 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Mar 26, 11:27 PM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
+- **Mar 26, 11:41 PM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
