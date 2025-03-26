@@ -6,7 +6,7 @@
 | aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -2552,3 +2552,4 @@
 - **Mar 26, 01:03 PM** - Data and artificial intelligence: the fuel behind space discovery (spacenews)
 - **Mar 26, 01:18 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 26, 01:37 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 01:39 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
