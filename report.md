@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 22 | 45 |
+| spacenews | 9 | 15 | 23 | 46 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 1 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
@@ -2549,3 +2549,4 @@
 - **Mar 26, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Mar 26, 06:09 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)

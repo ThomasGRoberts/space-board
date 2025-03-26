@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "c38d92409e4471adf2356b63f399e513",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6657,6 +6657,18 @@
             "fetched_datetime": "2025-03-26T16:59:48.769422Z",
             "shown_at": [
                 "2025-03-26T16:59:49.666263Z"
+            ]
+        },
+        {
+            "id": "c38d92409e4471adf2356b63f399e513",
+            "source": "spacenews",
+            "text": "Rocket Lab launches eight OroraTech satellites",
+            "source_link": "https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T18:09:30.016777Z",
+            "shown_at": [
+                "2025-03-26T18:09:30.692522Z"
             ]
         }
     ]
