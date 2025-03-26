@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 23 | 44 |
 | aidy | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 135 | 172 |
+| supercluster | 2 | 3 | 136 | 173 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2684,3 +2684,4 @@
 - **Mar 26, 08:02 AM** - California commits $95 million  to purchase of satellite methane data (spacenews)
 - **Mar 26, 08:18 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 08:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 26, 08:21 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
