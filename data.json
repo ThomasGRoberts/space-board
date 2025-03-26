@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aedc15ecc00eacccbb864e63e4be1e0c",
+    "trigger_count": 0,
+    "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6750,6 +6750,18 @@
             "fetched_datetime": "2025-03-26T19:19:35.557497Z",
             "shown_at": [
                 "2025-03-26T19:33:29.411283Z"
+            ]
+        },
+        {
+            "id": "d3cc03215a7d2252aec006f0e56f318b",
+            "source": "nyt",
+            "text": "NASA’s Webb Telescope Spots Auroras on Neptune for the First Time",
+            "source_link": "https://www.nytimes.com/2025/03/26/science/neptune-aurora-nasa-webb-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T21:45:35.568755Z",
+            "shown_at": [
+                "2025-03-26T21:45:36.122730Z"
             ]
         }
     ]
