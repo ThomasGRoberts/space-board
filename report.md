@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -2568,3 +2568,4 @@
 - **Mar 26, 08:33 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 08:47 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 26, 09:02 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 26, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
