@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 2 | 95 | 121 |
+| supercluster | 1 | 2 | 95 | 122 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
@@ -2606,3 +2606,4 @@
 - **Mar 25, 11:32 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 25, 11:47 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 26, 12:02 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 26, 12:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
