@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fea46bb2e965e4ed743c4e76f2cd1546",
+    "trigger_count": 0,
+    "current_item_id": "bdd49d819b1705e530ba37e84fbd5dd9",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6760,9 +6760,12 @@
             "source": "spacenews",
             "text": "China launches new Tianlian data relay satellite to support human spaceflight",
             "source_link": "https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-26T23:13:35.924228Z"
+            "fetched_datetime": "2025-03-26T23:13:35.924228Z",
+            "shown_at": [
+                "2025-03-26T23:27:29.485079Z"
+            ]
         }
     ]
 }
