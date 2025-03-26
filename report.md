@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 22 | 45 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 1 | 18 | 35 |
-| breaking_defense | 1 | 1 | 18 | 35 |
+| breaking_defense | 1 | 1 | 19 | 35 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -2541,3 +2541,4 @@
 - **Mar 26, 04:59 PM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 26, 05:13 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 26, 05:27 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 26, 05:41 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
