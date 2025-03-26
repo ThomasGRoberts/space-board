@@ -4,8 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 23 | 46 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 1 | 2 | 17 | 36 |
+| nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 37 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2554,3 +2555,4 @@
 - **Mar 26, 09:31 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 26, 09:45 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 26, 09:59 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 26, 10:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
