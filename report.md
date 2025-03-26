@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 44 |
+| spacenews | 6 | 12 | 23 | 45 |
 | aidy | 1 | 2 | 19 | 38 |
-| nyt | 1 | 1 | 19 | 36 |
+| nyt | 1 | 1 | 18 | 36 |
 | supercluster | 2 | 3 | 112 | 142 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 
@@ -2637,3 +2637,4 @@
 - **Mar 26, 02:35 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 26, 02:49 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 26, 03:03 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 26, 03:17 AM** - Former NASA astronauts endorse Isaacman as administrator (spacenews)
