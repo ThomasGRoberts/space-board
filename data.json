@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "5b1c7b029194087c4e420ec6418b41ee",
     "data": [
         {
@@ -6538,52 +6538,6 @@
             ]
         },
         {
-            "id": "5b1c7b029194087c4e420ec6418b41ee",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech",
-            "source_link": "https://www.supercluster.com/launches/finding-hot-wildfires-near-you",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-26T15:30:00.000Z",
-            "time_remaining": "0d 00h 00m",
-            "fetched_datetime": "2025-03-26T01:11:39.869723Z",
-            "shown_at": [
-                "2025-03-26T01:11:40.448646Z",
-                "2025-03-26T01:13:53.566864Z",
-                "2025-03-26T01:15:39.225393Z",
-                "2025-03-26T01:17:56.306829Z",
-                "2025-03-26T01:19:39.442104Z",
-                "2025-03-26T01:21:32.838755Z",
-                "2025-03-26T01:23:48.180690Z",
-                "2025-03-26T10:39:27.150425Z",
-                "2025-03-26T10:41:58.306874Z",
-                "2025-03-26T10:43:28.086248Z",
-                "2025-03-26T10:45:42.318074Z",
-                "2025-03-26T10:47:53.958441Z",
-                "2025-03-26T10:49:34.364359Z",
-                "2025-03-26T10:51:42.555214Z",
-                "2025-03-26T12:03:48.443275Z",
-                "2025-03-26T12:05:35.259794Z",
-                "2025-03-26T12:07:31.700095Z",
-                "2025-03-26T12:09:42.781307Z",
-                "2025-03-26T12:11:54.067738Z",
-                "2025-03-26T12:13:45.586170Z",
-                "2025-03-26T12:15:58.921319Z",
-                "2025-03-26T13:37:34.721847Z",
-                "2025-03-26T13:39:11.817052Z",
-                "2025-03-26T13:41:42.316074Z",
-                "2025-03-26T13:43:38.859264Z",
-                "2025-03-26T13:45:34.143075Z",
-                "2025-03-26T13:47:49.211775Z",
-                "2025-03-26T15:19:30.356768Z",
-                "2025-03-26T15:22:06.685063Z",
-                "2025-03-26T15:23:43.058809Z",
-                "2025-03-26T15:25:29.016331Z",
-                "2025-03-26T15:27:34.168722Z",
-                "2025-03-26T15:29:36.192915Z"
-            ]
-        },
-        {
             "id": "d9962a1c94f71836d19515ee7462ea84",
             "source": "aidy",
             "text": "House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat",
@@ -6666,6 +6620,20 @@
             "fetched_datetime": "2025-03-26T15:05:52.803967Z",
             "shown_at": [
                 "2025-03-26T15:05:53.860088Z"
+            ]
+        },
+        {
+            "id": "5b1c7b029194087c4e420ec6418b41ee",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech",
+            "source_link": "https://www.supercluster.com/launches/finding-hot-wildfires-near-you",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-26T15:30:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-03-26T15:32:25.937222Z",
+            "shown_at": [
+                "2025-03-26T15:32:26.776532Z"
             ]
         }
     ]
