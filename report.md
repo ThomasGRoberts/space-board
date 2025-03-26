@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 23 | 43 |
-| aidy | 1 | 2 | 19 | 38 |
-| nyt | 1 | 1 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
+| nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 126 | 163 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2668,3 +2668,4 @@
 - **Mar 26, 06:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 06:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 06:07 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 26, 06:22 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
