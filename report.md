@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 24 | 47 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 1 | 16 | 35 |
+| nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -2567,3 +2567,4 @@
 - **Mar 26, 08:18 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 26, 08:33 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 08:47 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
+- **Mar 26, 09:02 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
