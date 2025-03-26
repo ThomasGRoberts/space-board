@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 1 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -2543,3 +2543,4 @@
 - **Mar 26, 05:27 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 05:41 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Mar 26, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
