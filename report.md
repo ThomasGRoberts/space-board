@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 44 |
+| spacenews | 6 | 12 | 23 | 45 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
 | supercluster | 1 | 2 | 98 | 128 |
@@ -2615,3 +2615,4 @@
 - **Mar 26, 12:27 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 12:29 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 12:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 26, 12:57 AM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
