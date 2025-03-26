@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2555,3 +2555,4 @@
 - **Mar 26, 09:31 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 26, 09:45 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 26, 09:59 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 26, 11:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
