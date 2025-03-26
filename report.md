@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 46 |
 | aidy | 2 | 2 | 20 | 37 |
-| nyt | 1 | 1 | 19 | 37 |
-| breaking_defense | 0 | 0 | 19 | 36 |
+| nyt | 1 | 1 | 19 | 36 |
+| breaking_defense | 1 | 1 | 20 | 37 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -2562,3 +2562,4 @@
 - **Mar 26, 02:19 PM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 26, 02:34 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
+- **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)

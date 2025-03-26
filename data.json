@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "15708b7c0e8ad50be4b9645ecdf7b6db",
+    "trigger_count": 0,
+    "current_item_id": "cbab93c0697ec250e16230b311130603",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6648,6 +6648,18 @@
             "fetched_datetime": "2025-03-26T14:50:07.000679Z",
             "shown_at": [
                 "2025-03-26T14:50:07.576504Z"
+            ]
+        },
+        {
+            "id": "cbab93c0697ec250e16230b311130603",
+            "source": "breaking_defense",
+            "text": "Space Force ‘transitioning’ SATCOM contracts from DISA",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-transitioning-satcom-contracts-from-disa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T15:05:52.803967Z",
+            "shown_at": [
+                "2025-03-26T15:05:53.860088Z"
             ]
         }
     ]
