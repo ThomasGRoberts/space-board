@@ -5,7 +5,7 @@
 | spacenews | 7 | 11 | 23 | 44 |
 | aidy | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 134 | 185 |
+| supercluster | 2 | 3 | 135 | 186 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Mar 26, 10:11 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 26, 10:25 AM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
 - **Mar 26, 10:39 AM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 10:41 AM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
