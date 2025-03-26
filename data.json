@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1c3b9cccf2d4aea622cbb8ea073be638",
+    "trigger_count": 0,
+    "current_item_id": "d9962a1c94f71836d19515ee7462ea84",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6725,6 +6725,18 @@
                 "2025-03-26T01:19:39.442104Z",
                 "2025-03-26T01:21:32.838755Z",
                 "2025-03-26T01:23:48.180690Z"
+            ]
+        },
+        {
+            "id": "d9962a1c94f71836d19515ee7462ea84",
+            "source": "aidy",
+            "text": "House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T07:33:38.750918Z",
+            "shown_at": [
+                "2025-03-26T07:33:39.712537Z"
             ]
         }
     ]
