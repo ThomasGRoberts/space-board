@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
+    "trigger_count": 0,
+    "current_item_id": "681da219f27c5099ed6ae45f4bcd4368",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6721,6 +6721,18 @@
             "fetched_datetime": "2025-03-26T10:25:33.005301Z",
             "shown_at": [
                 "2025-03-26T10:25:33.596989Z"
+            ]
+        },
+        {
+            "id": "681da219f27c5099ed6ae45f4bcd4368",
+            "source": "spacenews",
+            "text": "Intuitive Machines emphasizes diversification beyond lunar landers",
+            "source_link": "https://spacenews.com/intuitive-machines-emphasizes-diversification-beyond-lunar-landers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T11:49:27.462092Z",
+            "shown_at": [
+                "2025-03-26T11:49:28.042047Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 23 | 43 |
+| spacenews | 8 | 11 | 24 | 44 |
 | aidy | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 2 | 84 | 142 |
@@ -2666,3 +2666,4 @@
 - **Mar 26, 11:07 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 26, 11:21 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 11:35 AM** - America’s space strategy in a changing Middle East (spacenews)
+- **Mar 26, 11:49 AM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
