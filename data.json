@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c38d92409e4471adf2356b63f399e513",
+    "trigger_count": 0,
+    "current_item_id": "c033cebf911bbb65a120e22bda835949",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6669,6 +6669,18 @@
             "fetched_datetime": "2025-03-26T18:09:30.016777Z",
             "shown_at": [
                 "2025-03-26T18:09:30.692522Z"
+            ]
+        },
+        {
+            "id": "c033cebf911bbb65a120e22bda835949",
+            "source": "breaking_defense",
+            "text": "New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms",
+            "source_link": "https://breakingdefense.com/2025/03/new-space-warfighting-framework-coming-to-codify-space-force-concepts-terms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T18:23:28.814943Z",
+            "shown_at": [
+                "2025-03-26T18:23:29.332966Z"
             ]
         }
     ]

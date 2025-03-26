@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 23 | 46 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 1 | 17 | 35 |
-| breaking_defense | 1 | 1 | 18 | 35 |
+| breaking_defense | 2 | 2 | 19 | 36 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -2550,3 +2550,4 @@
 - **Mar 26, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:09 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)
+- **Mar 26, 06:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
