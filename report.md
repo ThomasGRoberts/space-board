@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 22 | 43 |
+| spacenews | 6 | 11 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 126 | 163 |
@@ -2670,3 +2670,4 @@
 - **Mar 26, 06:07 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
 - **Mar 26, 06:22 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 26, 06:35 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
+- **Mar 26, 06:49 AM** - French VLEO 5G startup strikes telecoms infrastructure partnership (spacenews)
