@@ -6,7 +6,6 @@
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 19 | 37 |
-| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -2536,19 +2535,10 @@
 - **Mar 26, 02:34 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
-- **Mar 26, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 04:59 PM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 26, 05:13 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 26, 05:27 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 05:41 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
-- **Mar 26, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 06:09 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Mar 26, 06:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 26, 06:37 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
@@ -2557,24 +2547,10 @@
 - **Mar 26, 07:19 PM** - Space Force certifies Vulcan for national security launches (spacenews)
 - **Mar 26, 07:33 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
 - **Mar 26, 07:47 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
-- **Mar 26, 08:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 08:18 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
 - **Mar 26, 08:33 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 08:47 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 26, 09:02 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
-- **Mar 26, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Mar 26, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 09:31 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 26, 09:45 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 26, 09:59 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
