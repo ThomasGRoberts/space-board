@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 23 | 43 |
+| spacenews | 6 | 11 | 22 | 43 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 119 | 156 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2657,3 +2657,4 @@
 - **Mar 26, 04:51 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 04:53 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 04:55 AM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
+- **Mar 26, 05:11 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
