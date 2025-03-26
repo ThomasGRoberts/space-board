@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 23 | 43 |
-| aidy | 2 | 2 | 19 | 37 |
+| aidy | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 135 | 184 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| supercluster | 2 | 3 | 134 | 184 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -2701,3 +2701,4 @@
 - **Mar 26, 09:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 09:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 09:43 AM** - How to maximize the resiliency of PNT (breaking_defense)
+- **Mar 26, 09:57 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
