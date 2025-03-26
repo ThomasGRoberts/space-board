@@ -6,7 +6,7 @@
 | aidy | 2 | 2 | 18 | 36 |
 | nyt | 0 | 1 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2537,3 +2537,4 @@
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 26, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Mar 26, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
