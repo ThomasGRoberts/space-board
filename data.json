@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "00ffd9bc7195cffceabdc463f7fa58c3",
+    "trigger_count": 0,
+    "current_item_id": "3a541cde20a8e3398075328b5b62abe7",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6755,6 +6755,18 @@
             "fetched_datetime": "2025-03-26T13:03:35.343551Z",
             "shown_at": [
                 "2025-03-26T13:03:35.957898Z"
+            ]
+        },
+        {
+            "id": "3a541cde20a8e3398075328b5b62abe7",
+            "source": "spacenews",
+            "text": "Gravitics wins SpaceWERX award for tactically responsive space system",
+            "source_link": "https://spacenews.com/gravitics-wins-spacewerx-award-for-tactically-responsive-space-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T13:18:52.639209Z",
+            "shown_at": [
+                "2025-03-26T13:18:53.195811Z"
             ]
         }
     ]
