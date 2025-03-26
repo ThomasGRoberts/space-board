@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dec470503c081910b22e9640c885d238",
+    "trigger_count": 0,
+    "current_item_id": "25f6ccec45861e0ac389e19512fa448e",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6725,9 +6725,12 @@
             "source": "spacenews",
             "text": "Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts",
             "source_link": "https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-03-26T19:19:35.557497Z"
+            "fetched_datetime": "2025-03-26T19:19:35.557497Z",
+            "shown_at": [
+                "2025-03-26T19:33:29.411283Z"
+            ]
         }
     ]
 }
