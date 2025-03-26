@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 23 | 44 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 110 | 140 |
+| supercluster | 2 | 3 | 111 | 141 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -2632,3 +2632,4 @@
 - **Mar 26, 02:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 02:27 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 02:29 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Mar 26, 02:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
