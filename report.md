@@ -6,7 +6,7 @@
 | aidy | 2 | 2 | 19 | 36 |
 | nyt | 0 | 1 | 18 | 35 |
 | breaking_defense | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2536,3 +2536,4 @@
 - **Mar 26, 02:34 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 26, 04:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
