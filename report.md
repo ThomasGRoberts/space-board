@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 126 | 163 |
+| supercluster | 2 | 3 | 127 | 164 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 
 # Shown Order
@@ -2671,3 +2671,4 @@
 - **Mar 26, 06:22 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 26, 06:35 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 26, 06:49 AM** - French VLEO 5G startup strikes telecoms infrastructure partnership (spacenews)
+- **Mar 26, 07:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
