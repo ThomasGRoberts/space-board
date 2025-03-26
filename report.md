@@ -5,7 +5,7 @@
 | spacenews | 10 | 17 | 23 | 46 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 1 | 2 | 18 | 36 |
-| breaking_defense | 3 | 3 | 18 | 36 |
+| breaking_defense | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -2577,3 +2577,4 @@
 - **Mar 26, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 09:31 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 26, 09:45 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 26, 09:59 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
