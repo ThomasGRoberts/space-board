@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 22 | 45 |
 | aidy | 2 | 2 | 19 | 36 |
-| nyt | 0 | 1 | 17 | 35 |
+| nyt | 0 | 1 | 18 | 36 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -2540,3 +2540,4 @@
 - **Mar 26, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 04:59 PM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 26, 05:13 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 26, 05:27 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
