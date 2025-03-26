@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5a201d925d6c64f8a2c818f71bdc63d",
+    "trigger_count": 0,
+    "current_item_id": "00ffd9bc7195cffceabdc463f7fa58c3",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6743,6 +6743,18 @@
             "fetched_datetime": "2025-03-26T11:49:27.462092Z",
             "shown_at": [
                 "2025-03-26T11:49:28.042047Z"
+            ]
+        },
+        {
+            "id": "00ffd9bc7195cffceabdc463f7fa58c3",
+            "source": "spacenews",
+            "text": "Data and artificial intelligence: the fuel behind space discovery",
+            "source_link": "https://spacenews.com/data-and-artificial-intelligence-the-fuel-behind-space-discovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T13:03:35.343551Z",
+            "shown_at": [
+                "2025-03-26T13:03:35.957898Z"
             ]
         }
     ]

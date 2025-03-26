@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 21 | 44 |
+| spacenews | 5 | 12 | 22 | 45 |
 | aidy | 2 | 2 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 37 |
 | supercluster | 1 | 2 | 91 | 149 |
@@ -2677,3 +2677,4 @@
 - **Mar 26, 12:17 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 26, 12:32 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 26, 12:49 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 26, 01:03 PM** - Data and artificial intelligence: the fuel behind space discovery (spacenews)
