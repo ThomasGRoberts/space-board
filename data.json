@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0e5e614bcc03101d5111ceccb0cf8dc4",
+    "trigger_count": 0,
+    "current_item_id": "e68fcaf71dd68ec2b329dbca5c240ef2",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6682,6 +6682,18 @@
             "fetched_datetime": "2025-03-26T18:23:28.814943Z",
             "shown_at": [
                 "2025-03-26T18:23:29.332966Z"
+            ]
+        },
+        {
+            "id": "e68fcaf71dd68ec2b329dbca5c240ef2",
+            "source": "breaking_defense",
+            "text": "ULA’s Vulcan rocket certified for national security launches",
+            "source_link": "https://breakingdefense.com/2025/03/ulas-vulcan-rocket-certified-for-national-security-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T18:51:40.966988Z",
+            "shown_at": [
+                "2025-03-26T18:51:41.446743Z"
             ]
         }
     ]

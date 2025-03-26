@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 22 | 46 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 17 | 35 |
-| breaking_defense | 2 | 2 | 19 | 36 |
+| breaking_defense | 3 | 3 | 20 | 37 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -2552,3 +2552,4 @@
 - **Mar 26, 06:09 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Mar 26, 06:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 26, 06:37 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
+- **Mar 26, 06:51 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
