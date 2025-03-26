@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "013129a8c56dbb1ad26c456a9600e71d",
+    "trigger_count": 0,
+    "current_item_id": "5b1c7b029194087c4e420ec6418b41ee",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6649,6 +6649,20 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "5b1c7b029194087c4e420ec6418b41ee",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech",
+            "source_link": "https://www.supercluster.com/launches/finding-hot-wildfires-near-you",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-26T15:30:00.000Z",
+            "time_remaining": "0d 14h 18m",
+            "fetched_datetime": "2025-03-26T01:11:39.869723Z",
+            "shown_at": [
+                "2025-03-26T01:11:40.448646Z"
             ]
         }
     ]

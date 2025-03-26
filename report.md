@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 1 | 2 | 98 | 128 |
+| supercluster | 2 | 3 | 99 | 129 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -2616,3 +2616,4 @@
 - **Mar 26, 12:29 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 12:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 26, 12:57 AM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
+- **Mar 26, 01:11 AM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
