@@ -6,7 +6,7 @@
 | aidy | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 2 | 91 | 149 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Mar 26, 12:11 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 12:13 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 12:15 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 12:17 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
