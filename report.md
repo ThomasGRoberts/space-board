@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 45 |
 | aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 19 | 36 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -2557,3 +2557,4 @@
 - **Mar 26, 01:43 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:45 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:47 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 01:49 PM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
