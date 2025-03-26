@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 45 |
+| spacenews | 10 | 16 | 23 | 46 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 37 |
@@ -2553,3 +2553,4 @@
 - **Mar 26, 06:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 26, 06:37 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 26, 06:51 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 26, 07:05 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
