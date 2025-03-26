@@ -5,7 +5,7 @@
 | spacenews | 8 | 11 | 24 | 44 |
 | aidy | 2 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
-| supercluster | 1 | 2 | 84 | 142 |
+| supercluster | 1 | 2 | 85 | 143 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
@@ -2667,3 +2667,4 @@
 - **Mar 26, 11:21 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 11:35 AM** - America’s space strategy in a changing Middle East (spacenews)
 - **Mar 26, 11:49 AM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
+- **Mar 26, 12:03 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
