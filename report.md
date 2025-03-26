@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 23 | 45 |
+| spacenews | 6 | 12 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 112 | 149 |
+| supercluster | 2 | 3 | 113 | 150 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 
 # Shown Order
@@ -2649,3 +2649,4 @@
 - **Mar 26, 03:59 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 26, 04:13 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 26, 04:27 AM** - America’s space strategy in a changing Middle East (spacenews)
+- **Mar 26, 04:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
