@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 45 |
 | aidy | 2 | 2 | 20 | 37 |
-| nyt | 1 | 1 | 19 | 37 |
+| nyt | 1 | 1 | 19 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -2556,3 +2556,4 @@
 - **Mar 26, 01:41 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:43 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:45 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 01:47 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
