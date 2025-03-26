@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 44 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 112 | 142 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2635,3 +2635,4 @@
 - **Mar 26, 02:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 02:33 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 02:35 AM** - Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions (breaking_defense)
+- **Mar 26, 02:49 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
