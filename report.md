@@ -6,7 +6,7 @@
 | aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 19 | 36 |
 | breaking_defense | 1 | 1 | 19 | 36 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -2564,3 +2564,4 @@
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 26, 03:19 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 03:22 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
