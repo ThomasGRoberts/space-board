@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 23 | 47 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 36 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -2564,3 +2564,4 @@
 - **Mar 26, 08:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 08:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Mar 26, 08:18 PM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
