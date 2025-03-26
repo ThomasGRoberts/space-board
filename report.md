@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 46 |
-| aidy | 2 | 2 | 20 | 37 |
+| aidy | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 36 |
 | breaking_defense | 1 | 1 | 19 | 36 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -2565,3 +2565,4 @@
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 26, 03:19 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 03:22 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 03:23 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
