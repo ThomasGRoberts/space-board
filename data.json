@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3df6c968b60c64c627a704630e54e833",
+    "trigger_count": 0,
+    "current_item_id": "f9cfbae9b5aa5ca4d0b6874def808c07",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6760,6 +6760,18 @@
             "fetched_datetime": "2025-03-26T07:33:38.750918Z",
             "shown_at": [
                 "2025-03-26T07:33:39.712537Z"
+            ]
+        },
+        {
+            "id": "f9cfbae9b5aa5ca4d0b6874def808c07",
+            "source": "spacenews",
+            "text": "White House nominates Autry to be NASA’s chief financial officer",
+            "source_link": "https://spacenews.com/white-house-nominates-autry-to-be-nasas-chief-financial-officer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T10:25:33.005301Z",
+            "shown_at": [
+                "2025-03-26T10:25:33.596989Z"
             ]
         }
     ]

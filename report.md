@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 43 |
+| spacenews | 7 | 11 | 23 | 44 |
 | aidy | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 133 | 184 |
@@ -2703,3 +2703,4 @@
 - **Mar 26, 09:43 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 26, 09:57 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 26, 10:11 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 26, 10:25 AM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
