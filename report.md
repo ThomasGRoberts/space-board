@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -2557,3 +2557,4 @@
 - **Mar 26, 07:19 PM** - Space Force certifies Vulcan for national security launches (spacenews)
 - **Mar 26, 07:33 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
 - **Mar 26, 07:47 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 26, 08:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
