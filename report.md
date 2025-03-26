@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 22 | 43 |
+| spacenews | 6 | 11 | 23 | 44 |
 | aidy | 2 | 2 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 133 | 170 |
@@ -2681,3 +2681,4 @@
 - **Mar 26, 07:19 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 07:33 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 26, 07:47 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
+- **Mar 26, 08:02 AM** - California commits $95 million  to purchase of satellite methane data (spacenews)
