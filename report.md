@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
 | aidy | 2 | 2 | 20 | 37 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | supercluster | 2 | 3 | 133 | 184 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 
@@ -2702,3 +2702,4 @@
 - **Mar 26, 09:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Mar 26, 09:43 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 26, 09:57 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
+- **Mar 26, 10:11 AM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
