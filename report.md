@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 23 | 44 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 18 | 36 |
-| supercluster | 2 | 3 | 105 | 135 |
+| supercluster | 2 | 3 | 106 | 136 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -2627,3 +2627,4 @@
 - **Mar 26, 01:39 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
 - **Mar 26, 01:53 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
 - **Mar 26, 02:07 AM** - Chinese company targets crewed orbital spaceflight (spacenews)
+- **Mar 26, 02:21 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
