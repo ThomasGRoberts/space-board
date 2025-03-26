@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 44 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 36 |
 | supercluster | 2 | 3 | 105 | 135 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -2625,3 +2625,4 @@
 - **Mar 26, 01:23 AM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:25 AM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
 - **Mar 26, 01:39 AM** - Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought (nyt)
+- **Mar 26, 01:53 AM** - NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships (aidy)
