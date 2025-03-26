@@ -1,9 +1,168 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-25T00:01:48.096270+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6417b0e9fae97e562ddd0adcaf8d051a",
+    "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
+    "trigger_count": 0,
+    "current_item_id": "14f8cab27e13aeddd6029e03f78f63b9",
     "data": [
+        {
+            "id": "c77fe5a5a02c2f861d437a121069deec",
+            "source": "spacenews",
+            "text": "California commits $95 million  to purchase of satellite methane data",
+            "source_link": "https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T20:09:34.776400Z",
+            "shown_at": [
+                "2025-03-25T20:09:35.278831Z"
+            ]
+        },
+        {
+            "id": "f9cb1cfdae693786bba5b432453572cc",
+            "source": "spacenews",
+            "text": "Spain backs Sateliot with $15 million to expand connectivity constellation",
+            "source_link": "https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T19:41:11.285789Z",
+            "shown_at": [
+                "2025-03-25T19:41:11.786634Z"
+            ]
+        },
+        {
+            "id": "5443c9619ff7311aafb8a1ca136f441e",
+            "source": "aidy",
+            "text": "Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T17:33:32.821628Z",
+            "shown_at": [
+                "2025-03-25T17:33:33.507677Z"
+            ]
+        },
+        {
+            "id": "e5a201d925d6c64f8a2c818f71bdc63d",
+            "source": "nyt",
+            "text": "SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe",
+            "source_link": "https://www.nytimes.com/2025/03/25/science/sky-spiral-spacex-rocket-launch-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T15:51:40.998236Z",
+            "shown_at": [
+                "2025-03-25T15:51:42.208600Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-26T11:30:00.000Z",
+            "time_remaining": "0d 13h 26m",
+            "fetched_datetime": "2025-03-25T14:27:51.071950Z",
+            "shown_at": [
+                "2025-03-25T14:27:52.050996Z",
+                "2025-03-25T14:29:29.256534Z",
+                "2025-03-25T14:31:52.094929Z",
+                "2025-03-25T14:33:54.139865Z",
+                "2025-03-25T14:35:33.142874Z",
+                "2025-03-25T14:37:52.262128Z",
+                "2025-03-25T14:39:39.304896Z",
+                "2025-03-25T15:37:39.912372Z",
+                "2025-03-25T15:39:36.153823Z",
+                "2025-03-25T15:41:34.901088Z",
+                "2025-03-25T15:43:38.331370Z",
+                "2025-03-25T15:45:35.095282Z",
+                "2025-03-25T15:47:29.909942Z",
+                "2025-03-25T15:49:38.083984Z",
+                "2025-03-25T16:49:35.681248Z",
+                "2025-03-25T16:51:47.955058Z",
+                "2025-03-25T16:53:38.509316Z",
+                "2025-03-25T16:55:08.485995Z",
+                "2025-03-25T16:57:49.874398Z",
+                "2025-03-25T16:59:42.960767Z",
+                "2025-03-25T17:02:16.340276Z",
+                "2025-03-25T18:01:56.636547Z",
+                "2025-03-25T18:03:44.134323Z",
+                "2025-03-25T18:05:09.197390Z",
+                "2025-03-25T18:07:28.618346Z",
+                "2025-03-25T18:09:30.662406Z",
+                "2025-03-25T18:11:49.011645Z",
+                "2025-03-25T18:13:33.296519Z",
+                "2025-03-25T19:13:33.138247Z",
+                "2025-03-25T19:15:33.128615Z",
+                "2025-03-25T19:17:33.954124Z",
+                "2025-03-25T19:19:26.975578Z",
+                "2025-03-25T19:21:39.733170Z",
+                "2025-03-25T19:23:22.370496Z",
+                "2025-03-25T19:25:53.499606Z",
+                "2025-03-25T20:39:54.420284Z",
+                "2025-03-25T20:41:38.983399Z",
+                "2025-03-25T20:43:26.162882Z",
+                "2025-03-25T20:45:06.753653Z",
+                "2025-03-25T20:47:39.947566Z",
+                "2025-03-25T20:49:41.469367Z",
+                "2025-03-25T20:51:12.176110Z",
+                "2025-03-25T21:51:30.170166Z",
+                "2025-03-25T21:53:28.121372Z",
+                "2025-03-25T21:55:26.877578Z",
+                "2025-03-25T21:57:36.583913Z",
+                "2025-03-25T21:59:40.403477Z",
+                "2025-03-25T22:01:52.072335Z",
+                "2025-03-25T22:03:34.062370Z"
+            ]
+        },
+        {
+            "id": "c51ae12700fce7a6e13d4185eaccc65b",
+            "source": "spacenews",
+            "text": "NASA terminating $420 million in contracts",
+            "source_link": "https://spacenews.com/nasa-terminating-420-million-in-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069179Z",
+            "shown_at": [
+                "2025-03-25T13:09:33.603048Z"
+            ]
+        },
+        {
+            "id": "013129a8c56dbb1ad26c456a9600e71d",
+            "source": "spacenews",
+            "text": "Maxar launches GPS-alternative navigation system for drones",
+            "source_link": "https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069128Z",
+            "shown_at": [
+                "2025-03-25T12:53:43.658037Z",
+                "2025-03-25T17:19:33.426315Z"
+            ]
+        },
+        {
+            "id": "10d6d900419ff0fa309e5d1b08a21a7d",
+            "source": "spacenews",
+            "text": "Space Force gets $40 million boost for commercial space services",
+            "source_link": "https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069090Z",
+            "shown_at": [
+                "2025-03-25T12:39:33.472150Z"
+            ]
+        },
+        {
+            "id": "412d4ca05e080a2e0b8462460929fc28",
+            "source": "spacenews",
+            "text": "Companies in the Space Force commercial reserve program will not be publicly identified",
+            "source_link": "https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-25T12:31:54.069036Z",
+            "shown_at": [
+                "2025-03-25T12:31:54.724463Z"
+            ]
+        },
         {
             "id": "6417b0e9fae97e562ddd0adcaf8d051a",
             "source": "spacenews",
@@ -660,7 +819,8 @@
                 "2025-03-24T15:17:40.651075Z",
                 "2025-03-24T22:29:30.422242Z",
                 "2025-03-25T03:29:29.876816Z",
-                "2025-03-25T09:33:46.886304Z"
+                "2025-03-25T09:33:46.886304Z",
+                "2025-03-26T00:02:05.105399Z"
             ]
         },
         {
@@ -6479,165 +6639,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "412d4ca05e080a2e0b8462460929fc28",
-            "source": "spacenews",
-            "text": "Companies in the Space Force commercial reserve program will not be publicly identified",
-            "source_link": "https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069036Z",
-            "shown_at": [
-                "2025-03-25T12:31:54.724463Z"
-            ]
-        },
-        {
-            "id": "10d6d900419ff0fa309e5d1b08a21a7d",
-            "source": "spacenews",
-            "text": "Space Force gets $40 million boost for commercial space services",
-            "source_link": "https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069090Z",
-            "shown_at": [
-                "2025-03-25T12:39:33.472150Z"
-            ]
-        },
-        {
-            "id": "013129a8c56dbb1ad26c456a9600e71d",
-            "source": "spacenews",
-            "text": "Maxar launches GPS-alternative navigation system for drones",
-            "source_link": "https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069128Z",
-            "shown_at": [
-                "2025-03-25T12:53:43.658037Z",
-                "2025-03-25T17:19:33.426315Z"
-            ]
-        },
-        {
-            "id": "c51ae12700fce7a6e13d4185eaccc65b",
-            "source": "spacenews",
-            "text": "NASA terminating $420 million in contracts",
-            "source_link": "https://spacenews.com/nasa-terminating-420-million-in-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069179Z",
-            "shown_at": [
-                "2025-03-25T13:09:33.603048Z"
-            ]
-        },
-        {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-26T11:30:00.000Z",
-            "time_remaining": "0d 13h 26m",
-            "fetched_datetime": "2025-03-25T14:27:51.071950Z",
-            "shown_at": [
-                "2025-03-25T14:27:52.050996Z",
-                "2025-03-25T14:29:29.256534Z",
-                "2025-03-25T14:31:52.094929Z",
-                "2025-03-25T14:33:54.139865Z",
-                "2025-03-25T14:35:33.142874Z",
-                "2025-03-25T14:37:52.262128Z",
-                "2025-03-25T14:39:39.304896Z",
-                "2025-03-25T15:37:39.912372Z",
-                "2025-03-25T15:39:36.153823Z",
-                "2025-03-25T15:41:34.901088Z",
-                "2025-03-25T15:43:38.331370Z",
-                "2025-03-25T15:45:35.095282Z",
-                "2025-03-25T15:47:29.909942Z",
-                "2025-03-25T15:49:38.083984Z",
-                "2025-03-25T16:49:35.681248Z",
-                "2025-03-25T16:51:47.955058Z",
-                "2025-03-25T16:53:38.509316Z",
-                "2025-03-25T16:55:08.485995Z",
-                "2025-03-25T16:57:49.874398Z",
-                "2025-03-25T16:59:42.960767Z",
-                "2025-03-25T17:02:16.340276Z",
-                "2025-03-25T18:01:56.636547Z",
-                "2025-03-25T18:03:44.134323Z",
-                "2025-03-25T18:05:09.197390Z",
-                "2025-03-25T18:07:28.618346Z",
-                "2025-03-25T18:09:30.662406Z",
-                "2025-03-25T18:11:49.011645Z",
-                "2025-03-25T18:13:33.296519Z",
-                "2025-03-25T19:13:33.138247Z",
-                "2025-03-25T19:15:33.128615Z",
-                "2025-03-25T19:17:33.954124Z",
-                "2025-03-25T19:19:26.975578Z",
-                "2025-03-25T19:21:39.733170Z",
-                "2025-03-25T19:23:22.370496Z",
-                "2025-03-25T19:25:53.499606Z",
-                "2025-03-25T20:39:54.420284Z",
-                "2025-03-25T20:41:38.983399Z",
-                "2025-03-25T20:43:26.162882Z",
-                "2025-03-25T20:45:06.753653Z",
-                "2025-03-25T20:47:39.947566Z",
-                "2025-03-25T20:49:41.469367Z",
-                "2025-03-25T20:51:12.176110Z",
-                "2025-03-25T21:51:30.170166Z",
-                "2025-03-25T21:53:28.121372Z",
-                "2025-03-25T21:55:26.877578Z",
-                "2025-03-25T21:57:36.583913Z",
-                "2025-03-25T21:59:40.403477Z",
-                "2025-03-25T22:01:52.072335Z",
-                "2025-03-25T22:03:34.062370Z"
-            ]
-        },
-        {
-            "id": "e5a201d925d6c64f8a2c818f71bdc63d",
-            "source": "nyt",
-            "text": "SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe",
-            "source_link": "https://www.nytimes.com/2025/03/25/science/sky-spiral-spacex-rocket-launch-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T15:51:40.998236Z",
-            "shown_at": [
-                "2025-03-25T15:51:42.208600Z"
-            ]
-        },
-        {
-            "id": "5443c9619ff7311aafb8a1ca136f441e",
-            "source": "aidy",
-            "text": "Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T17:33:32.821628Z",
-            "shown_at": [
-                "2025-03-25T17:33:33.507677Z"
-            ]
-        },
-        {
-            "id": "f9cb1cfdae693786bba5b432453572cc",
-            "source": "spacenews",
-            "text": "Spain backs Sateliot with $15 million to expand connectivity constellation",
-            "source_link": "https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T19:41:11.285789Z",
-            "shown_at": [
-                "2025-03-25T19:41:11.786634Z"
-            ]
-        },
-        {
-            "id": "c77fe5a5a02c2f861d437a121069deec",
-            "source": "spacenews",
-            "text": "California commits $95 million  to purchase of satellite methane data",
-            "source_link": "https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T20:09:34.776400Z",
-            "shown_at": [
-                "2025-03-25T20:09:35.278831Z"
             ]
         }
     ]
