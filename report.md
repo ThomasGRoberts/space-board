@@ -5,8 +5,8 @@
 | spacenews | 6 | 12 | 22 | 45 |
 | aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 19 | 37 |
-| breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 23 | 23 |
+| breaking_defense | 0 | 0 | 18 | 36 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -2553,3 +2553,4 @@
 - **Mar 26, 01:18 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 26, 01:37 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
 - **Mar 26, 01:39 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
+- **Mar 26, 01:41 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
