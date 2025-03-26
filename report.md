@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 23 | 45 |
-| aidy | 2 | 2 | 18 | 36 |
+| aidy | 2 | 2 | 19 | 37 |
 | nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 1 | 1 | 18 | 35 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -2539,3 +2539,4 @@
 - **Mar 26, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Mar 26, 04:59 PM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
+- **Mar 26, 05:13 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
