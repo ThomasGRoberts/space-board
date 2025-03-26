@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 48 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 3 | 3 | 19 | 36 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -2556,3 +2556,4 @@
 - **Mar 26, 07:05 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 26, 07:19 PM** - Space Force certifies Vulcan for national security launches (spacenews)
 - **Mar 26, 07:33 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
+- **Mar 26, 07:47 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
