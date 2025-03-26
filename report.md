@@ -5,8 +5,8 @@
 | spacenews | 7 | 13 | 23 | 46 |
 | aidy | 2 | 2 | 20 | 37 |
 | nyt | 1 | 1 | 19 | 36 |
-| breaking_defense | 1 | 1 | 19 | 37 |
-| supercluster | 1 | 1 | 27 | 27 |
+| breaking_defense | 1 | 1 | 19 | 36 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -2563,3 +2563,4 @@
 - **Mar 26, 02:34 PM** - Space Force unveils strategic plan for AI integration (spacenews)
 - **Mar 26, 02:50 PM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 26, 03:05 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 26, 03:19 PM** - Rocket Lab Will Launch Wildfire Detection Satellites for OroraTech (supercluster)
