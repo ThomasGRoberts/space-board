@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-26T00:02:00.599442+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "9d2b5c369e151e0bb7f91a163570d25c",
     "data": [
         {
             "id": "c77fe5a5a02c2f861d437a121069deec",
@@ -6635,6 +6635,18 @@
             "shown_at": [
                 "2025-03-26T16:55:45.721716Z",
                 "2025-03-26T16:57:26.679054Z"
+            ]
+        },
+        {
+            "id": "9d2b5c369e151e0bb7f91a163570d25c",
+            "source": "spacenews",
+            "text": "Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities",
+            "source_link": "https://spacenews.com/critical-software-announces-strategic-investment-in-turion-space-to-strengthen-new-space-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-26T16:59:48.769422Z",
+            "shown_at": [
+                "2025-03-26T16:59:49.666263Z"
             ]
         }
     ]
