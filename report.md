@@ -5,8 +5,8 @@
 | spacenews | 12 | 18 | 23 | 46 |
 | supercluster | 1 | 1 | 43 | 43 |
 | nyt | 2 | 3 | 17 | 35 |
-| breaking_defense | 3 | 3 | 18 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| breaking_defense | 3 | 3 | 17 | 35 |
+| aidy | 2 | 3 | 18 | 37 |
 
 # Shown Order
 
@@ -2626,3 +2626,4 @@
 - **Mar 27, 06:39 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 27, 06:53 AM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 27, 07:07 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 27, 07:21 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
