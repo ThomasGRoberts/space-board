@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 23 | 46 |
-| supercluster | 1 | 1 | 36 | 36 |
+| spacenews | 12 | 18 | 23 | 45 |
+| supercluster | 1 | 1 | 37 | 37 |
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -2616,3 +2616,4 @@
 - **Mar 27, 05:41 AM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 27, 05:55 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 27, 06:11 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 27, 06:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
