@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 22 | 44 |
 | nyt | 2 | 2 | 17 | 35 |
-| breaking_defense | 2 | 3 | 17 | 35 |
+| breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 37 | 37 |
 
@@ -2651,3 +2651,4 @@
 - **Mar 27, 05:57 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 05:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 06:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 06:03 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
