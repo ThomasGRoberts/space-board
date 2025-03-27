@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
+    "trigger_count": 0,
+    "current_item_id": "587b3185b452433d07cf5aa93929cc7f",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6917,6 +6917,18 @@
                 "2025-03-27T17:57:39.866325Z",
                 "2025-03-27T17:59:41.264042Z",
                 "2025-03-27T18:02:05.508272Z"
+            ]
+        },
+        {
+            "id": "587b3185b452433d07cf5aa93929cc7f",
+            "source": "spacenews",
+            "text": "ESA taps Thales Alenia Space to build digital twin for European agriculture",
+            "source_link": "https://spacenews.com/esa-taps-thales-alenia-space-to-build-digital-twin-for-european-agriculture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T18:31:32.973528Z",
+            "shown_at": [
+                "2025-03-27T18:31:33.615948Z"
             ]
         }
     ]

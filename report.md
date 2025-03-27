@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 21 | 43 |
+| spacenews | 8 | 17 | 22 | 44 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 1 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2653,3 +2653,4 @@
 - **Mar 27, 06:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 06:03 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 27, 06:17 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 27, 06:31 PM** - ESA taps Thales Alenia Space to build digital twin for European agriculture (spacenews)
