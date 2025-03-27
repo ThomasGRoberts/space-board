@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 3 | 16 | 36 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 2 | 2 | 3 | 3 |
 
 # Shown Order
 
@@ -2600,3 +2600,4 @@
 - **Mar 27, 12:30 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 12:33 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 12:35 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
+- **Mar 27, 12:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
