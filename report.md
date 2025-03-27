@@ -5,7 +5,7 @@
 | spacenews | 12 | 18 | 23 | 46 |
 | supercluster | 1 | 1 | 22 | 22 |
 | nyt | 1 | 2 | 17 | 35 |
-| breaking_defense | 3 | 3 | 18 | 35 |
+| breaking_defense | 3 | 3 | 19 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
@@ -2593,3 +2593,4 @@
 - **Mar 27, 03:02 AM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Mar 27, 03:17 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 27, 03:32 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
+- **Mar 27, 03:45 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
