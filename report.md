@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 17 | 35 |
 | breaking_defense | 2 | 3 | 17 | 35 |
 | aidy | 1 | 3 | 18 | 36 |
-| supercluster | 2 | 2 | 23 | 23 |
+| supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
 
@@ -2633,3 +2633,4 @@
 - **Mar 27, 03:54 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 27, 04:10 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 27, 04:25 PM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)
+- **Mar 27, 04:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
