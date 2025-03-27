@@ -5,8 +5,8 @@
 | spacenews | 10 | 16 | 22 | 44 |
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 16 | 35 |
-| aidy | 1 | 3 | 17 | 37 |
-| supercluster | 2 | 2 | 11 | 11 |
+| aidy | 1 | 3 | 16 | 37 |
+| supercluster | 2 | 2 | 12 | 12 |
 
 # Shown Order
 
@@ -2613,3 +2613,4 @@
 - **Mar 27, 01:47 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 27, 02:02 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 02:03 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 27, 02:05 PM** - China Will Launch the Long March 7A Rocket (supercluster)
