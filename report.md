@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 22 | 45 |
 | supercluster | 1 | 1 | 57 | 57 |
-| nyt | 2 | 3 | 16 | 35 |
+| nyt | 2 | 3 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 3 | 17 | 36 |
 
@@ -2646,3 +2646,4 @@
 - **Mar 27, 09:11 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 09:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 09:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 09:17 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
