@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 17 | 35 |
 | breaking_defense | 2 | 3 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| supercluster | 2 | 2 | 32 | 32 |
+| supercluster | 2 | 2 | 33 | 33 |
 
 # Shown Order
 
@@ -2646,3 +2646,4 @@
 - **Mar 27, 05:35 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
 - **Mar 27, 05:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 05:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 05:53 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
