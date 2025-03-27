@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 50 | 50 |
 | nyt | 2 | 3 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 35 |
-| aidy | 1 | 3 | 17 | 36 |
+| aidy | 1 | 3 | 18 | 37 |
 
 # Shown Order
 
@@ -2637,3 +2637,4 @@
 - **Mar 27, 08:02 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 08:03 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 27, 08:17 AM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
+- **Mar 27, 08:32 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
