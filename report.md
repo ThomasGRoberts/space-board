@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 45 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 | nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -2563,3 +2563,4 @@
 - **Mar 27, 12:11 AM** - Space Force unveils multi-front push to fix its Unified Data Library (breaking_defense)
 - **Mar 27, 12:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 12:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 12:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
