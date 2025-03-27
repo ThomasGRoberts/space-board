@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 0,
+    "current_item_id": "9d12cc5d1361a0d814a35a6508f8b1e0",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6808,6 +6808,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "9d12cc5d1361a0d814a35a6508f8b1e0",
+            "source": "nyt",
+            "text": "Gaia to Shut Down After More Than a Decade of Mapping the Milky Way",
+            "source_link": "https://www.nytimes.com/2025/03/27/science/gaia-milky-way-spacecraft-retires.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T04:15:39.879807Z",
+            "shown_at": [
+                "2025-03-27T04:15:41.461337Z"
             ]
         }
     ]

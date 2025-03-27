@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 45 |
 | supercluster | 1 | 1 | 29 | 29 |
-| nyt | 1 | 2 | 16 | 35 |
+| nyt | 2 | 3 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 16 | 35 |
 
 # Shown Order
 
@@ -2601,3 +2601,4 @@
 - **Mar 27, 04:09 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 04:11 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 04:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 04:15 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
