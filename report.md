@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 22 | 44 |
 | nyt | 2 | 2 | 17 | 35 |
-| breaking_defense | 2 | 3 | 17 | 35 |
+| breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 3 | 18 | 36 |
 | supercluster | 2 | 2 | 30 | 30 |
 
@@ -2640,3 +2640,4 @@
 - **Mar 27, 04:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 04:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 04:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 04:53 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
