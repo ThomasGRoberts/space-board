@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 21 | 43 |
+| spacenews | 8 | 16 | 22 | 44 |
 | nyt | 2 | 2 | 17 | 35 |
 | breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2643,3 +2643,4 @@
 - **Mar 27, 04:53 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 27, 05:07 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 27, 05:22 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 27, 05:35 PM** - Space Industries sets ambitious goals for satellite assembly, integration and testing (spacenews)
