@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
+    "trigger_count": 0,
+    "current_item_id": "33a186210bbaf3886bb9074abbd8f169",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -7019,6 +7019,18 @@
             "fetched_datetime": "2025-03-27T22:03:45.162238Z",
             "shown_at": [
                 "2025-03-27T22:03:46.486740Z"
+            ]
+        },
+        {
+            "id": "33a186210bbaf3886bb9074abbd8f169",
+            "source": "spacenews",
+            "text": "Air Force nominee Troy Meink warns U.S. risks losing edge in space",
+            "source_link": "https://spacenews.com/air-force-nominee-troy-meink-warns-u-s-risks-losing-edge-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T22:45:34.402380Z",
+            "shown_at": [
+                "2025-03-27T22:45:34.824091Z"
             ]
         }
     ]
