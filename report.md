@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 22 | 45 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 1 | 4 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 51 | 51 |
 
 # Shown Order
@@ -2678,3 +2678,4 @@
 - **Mar 27, 08:53 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 27, 09:07 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 09:21 PM** - Miles Space flight tests water-fueled thruster (spacenews)
+- **Mar 27, 09:35 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
