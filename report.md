@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 36 | 36 |
 | nyt | 2 | 3 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
 
@@ -2614,3 +2614,4 @@
 - **Mar 27, 05:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 05:27 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 27, 05:41 AM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
+- **Mar 27, 05:55 AM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
