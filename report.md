@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 22 | 43 |
-| nyt | 2 | 3 | 15 | 35 |
+| spacenews | 10 | 16 | 21 | 43 |
+| nyt | 2 | 3 | 16 | 36 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 3 | 16 | 36 |
 | supercluster | 2 | 2 | 9 | 9 |
@@ -2608,3 +2608,4 @@
 - **Mar 27, 12:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 01:02 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 01:05 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 27, 01:20 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
