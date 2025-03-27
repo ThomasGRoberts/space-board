@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 21 | 45 |
-| nyt | 2 | 2 | 18 | 35 |
+| spacenews | 7 | 19 | 22 | 46 |
+| nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 44 | 44 |
@@ -2663,3 +2663,4 @@
 - **Mar 27, 07:23 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 07:25 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 07:27 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 27, 07:29 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
