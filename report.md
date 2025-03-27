@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 45 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -2605,3 +2605,4 @@
 - **Mar 27, 04:29 AM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 27, 04:43 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 27, 04:57 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 27, 05:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
