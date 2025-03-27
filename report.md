@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 1 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| supercluster | 2 | 2 | 51 | 51 |
+| supercluster | 2 | 2 | 52 | 52 |
 
 # Shown Order
 
@@ -2679,3 +2679,4 @@
 - **Mar 27, 09:07 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 09:21 PM** - Miles Space flight tests water-fueled thruster (spacenews)
 - **Mar 27, 09:35 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 27, 09:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
