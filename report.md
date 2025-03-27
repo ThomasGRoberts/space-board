@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 23 | 46 |
+| spacenews | 8 | 20 | 22 | 46 |
 | nyt | 1 | 2 | 18 | 34 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 2 | 2 | 58 | 58 |
+| supercluster | 2 | 2 | 59 | 59 |
 
 # Shown Order
 
@@ -2692,3 +2692,4 @@
 - **Mar 27, 10:45 PM** - Air Force nominee Troy Meink warns U.S. risks losing edge in space (spacenews)
 - **Mar 27, 10:59 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 27, 11:13 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 27, 11:27 PM** - China Will Launch the Long March 7A Rocket (supercluster)
