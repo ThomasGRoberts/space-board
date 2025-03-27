@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 0 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| supercluster | 2 | 2 | 37 | 37 |
+| supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
 
@@ -2656,3 +2656,4 @@
 - **Mar 27, 06:31 PM** - ESA taps Thales Alenia Space to build digital twin for European agriculture (spacenews)
 - **Mar 27, 06:45 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 27, 06:59 PM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
+- **Mar 27, 07:15 PM** - China Will Launch the Long March 7A Rocket (supercluster)
