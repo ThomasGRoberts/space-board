@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 1 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| supercluster | 2 | 2 | 53 | 53 |
+| supercluster | 2 | 2 | 54 | 54 |
 
 # Shown Order
 
@@ -2681,3 +2681,4 @@
 - **Mar 27, 09:35 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 27, 09:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 09:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 09:53 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
