@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 22 | 45 |
+| spacenews | 12 | 16 | 23 | 46 |
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 3 | 16 | 36 |
@@ -2599,3 +2599,4 @@
 - **Mar 27, 11:13 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Mar 27, 12:30 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 12:33 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 27, 12:35 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
