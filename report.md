@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 24 | 46 |
 | nyt | 1 | 2 | 18 | 35 |
-| breaking_defense | 1 | 4 | 17 | 35 |
+| breaking_defense | 2 | 5 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 2 | 2 | 58 | 58 |
 
@@ -2690,3 +2690,4 @@
 - **Mar 27, 10:17 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 27, 10:32 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 10:45 PM** - Air Force nominee Troy Meink warns U.S. risks losing edge in space (spacenews)
+- **Mar 27, 10:59 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
