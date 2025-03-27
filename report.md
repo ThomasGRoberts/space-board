@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 21 | 43 |
+| spacenews | 9 | 16 | 22 | 44 |
 | nyt | 2 | 2 | 17 | 35 |
 | breaking_defense | 2 | 3 | 17 | 35 |
 | aidy | 1 | 3 | 18 | 37 |
@@ -2632,3 +2632,4 @@
 - **Mar 27, 03:36 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 27, 03:54 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 27, 04:10 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 27, 04:25 PM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)
