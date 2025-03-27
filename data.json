@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
+    "trigger_count": 0,
+    "current_item_id": "0bb748e20f6ffd36b5ec8d922adff49d",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -7052,6 +7052,18 @@
             "fetched_datetime": "2025-03-27T22:59:42.061339Z",
             "shown_at": [
                 "2025-03-27T22:59:42.690346Z"
+            ]
+        },
+        {
+            "id": "0bb748e20f6ffd36b5ec8d922adff49d",
+            "source": "spacenews",
+            "text": "Rocket Lab, Stoke Space join National Security Space Launch competition",
+            "source_link": "https://spacenews.com/rocket-lab-stoke-space-join-national-security-space-launch-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T23:55:36.797120Z",
+            "shown_at": [
+                "2025-03-27T23:55:37.421476Z"
             ]
         }
     ]
