@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 21 | 45 |
 | nyt | 2 | 2 | 18 | 34 |
-| breaking_defense | 0 | 3 | 16 | 35 |
+| breaking_defense | 1 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 44 | 44 |
 
@@ -2664,3 +2664,4 @@
 - **Mar 27, 07:25 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 07:27 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 07:29 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
+- **Mar 27, 07:43 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)

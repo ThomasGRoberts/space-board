@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3b0034f4e0e3308d416596640402793a",
+    "trigger_count": 0,
+    "current_item_id": "9d995291c376cf11875fe60bdfbae6fc",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6961,6 +6961,18 @@
             "fetched_datetime": "2025-03-27T19:29:24.919884Z",
             "shown_at": [
                 "2025-03-27T19:29:29.575993Z"
+            ]
+        },
+        {
+            "id": "9d995291c376cf11875fe60bdfbae6fc",
+            "source": "breaking_defense",
+            "text": "‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing",
+            "source_link": "https://breakingdefense.com/2025/03/signalgate-scandal-prompts-questions-on-classified-disclosures-during-secaf-acquisition-czar-hearing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T19:43:25.311777Z",
+            "shown_at": [
+                "2025-03-27T19:43:25.924885Z"
             ]
         }
     ]
