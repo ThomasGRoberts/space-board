@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 20 | 43 |
+| spacenews | 9 | 16 | 21 | 44 |
 | nyt | 2 | 3 | 16 | 35 |
-| breaking_defense | 3 | 3 | 17 | 36 |
+| breaking_defense | 2 | 3 | 16 | 36 |
 | aidy | 1 | 3 | 17 | 37 |
 | supercluster | 2 | 2 | 16 | 16 |
 
@@ -2621,3 +2621,4 @@
 - **Mar 27, 02:15 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
 - **Mar 27, 02:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 02:48 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 27, 03:07 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
