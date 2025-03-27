@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 3 | 17 | 37 |
-| supercluster | 2 | 2 | 10 | 10 |
+| supercluster | 2 | 2 | 11 | 11 |
 
 # Shown Order
 
@@ -2612,3 +2612,4 @@
 - **Mar 27, 01:33 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 27, 01:47 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 27, 02:02 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 27, 02:03 PM** - China Will Launch the Long March 7A Rocket (supercluster)
