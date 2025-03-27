@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 21 | 45 |
-| nyt | 2 | 2 | 17 | 34 |
+| nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 1 | 4 | 17 | 36 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 18 | 35 |
 | supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
@@ -2665,3 +2665,4 @@
 - **Mar 27, 07:27 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 07:29 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
 - **Mar 27, 07:43 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 27, 07:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
