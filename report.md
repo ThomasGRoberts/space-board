@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 46 |
 | supercluster | 1 | 1 | 8 | 8 |
-| nyt | 1 | 2 | 16 | 34 |
+| nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 
@@ -2570,3 +2570,4 @@
 - **Mar 27, 12:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 12:39 AM** - Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong (spacenews)
 - **Mar 27, 12:53 AM** - U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance (aidy)
+- **Mar 27, 01:07 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
