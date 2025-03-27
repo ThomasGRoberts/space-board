@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 22 | 45 |
 | supercluster | 1 | 1 | 64 | 64 |
-| nyt | 2 | 3 | 16 | 35 |
+| nyt | 2 | 3 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 3 | 17 | 36 |
 
@@ -2657,3 +2657,4 @@
 - **Mar 27, 10:23 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 10:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 10:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 10:31 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
