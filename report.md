@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 3 | 3 | 17 | 35 |
 | aidy | 1 | 3 | 17 | 36 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -2597,4 +2597,3 @@
 - **Mar 27, 10:45 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 27, 10:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 27, 11:13 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
-- **Mar 27, 11:31 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
