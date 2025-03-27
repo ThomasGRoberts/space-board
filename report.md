@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 45 |
-| supercluster | 1 | 1 | 17 | 17 |
-| nyt | 1 | 2 | 17 | 35 |
+| supercluster | 1 | 1 | 18 | 18 |
+| nyt | 1 | 2 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 
@@ -2585,3 +2585,4 @@
 - **Mar 27, 02:33 AM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
 - **Mar 27, 02:47 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 02:49 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 02:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
