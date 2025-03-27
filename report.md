@@ -5,7 +5,7 @@
 | spacenews | 8 | 17 | 22 | 44 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 1 | 3 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 37 | 37 |
 
 # Shown Order
@@ -2654,3 +2654,4 @@
 - **Mar 27, 06:03 PM** - Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift (breaking_defense)
 - **Mar 27, 06:17 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 06:31 PM** - ESA taps Thales Alenia Space to build digital twin for European agriculture (spacenews)
+- **Mar 27, 06:45 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
