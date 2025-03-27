@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 23 | 45 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 | nyt | 1 | 2 | 17 | 35 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -2583,3 +2583,4 @@
 - **Mar 27, 02:05 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 27, 02:19 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 27, 02:33 AM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
+- **Mar 27, 02:47 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
