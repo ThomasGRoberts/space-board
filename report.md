@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 21 | 45 |
-| nyt | 2 | 2 | 18 | 35 |
-| breaking_defense | 1 | 4 | 16 | 35 |
+| nyt | 2 | 2 | 18 | 34 |
+| breaking_defense | 1 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | supercluster | 2 | 2 | 51 | 51 |
 
@@ -2675,3 +2675,4 @@
 - **Mar 27, 08:35 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 08:37 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 27, 08:39 PM** - MaiaSpace signs first commercial launch contract (spacenews)
+- **Mar 27, 08:53 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
