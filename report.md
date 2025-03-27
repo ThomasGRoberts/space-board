@@ -5,7 +5,7 @@
 | spacenews | 12 | 18 | 23 | 46 |
 | supercluster | 1 | 1 | 15 | 15 |
 | nyt | 1 | 2 | 17 | 35 |
-| breaking_defense | 3 | 3 | 18 | 35 |
+| breaking_defense | 3 | 3 | 19 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
@@ -2582,3 +2582,4 @@
 - **Mar 27, 01:49 AM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Mar 27, 02:05 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 27, 02:19 AM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
+- **Mar 27, 02:33 AM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
