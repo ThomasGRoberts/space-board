@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 16 | 35 |
 | breaking_defense | 2 | 3 | 16 | 35 |
 | aidy | 1 | 3 | 17 | 37 |
-| supercluster | 2 | 2 | 17 | 17 |
+| supercluster | 2 | 2 | 18 | 18 |
 
 # Shown Order
 
@@ -2623,3 +2623,4 @@
 - **Mar 27, 02:48 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 27, 03:07 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 27, 03:21 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 27, 03:23 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
