@@ -5,8 +5,8 @@
 | spacenews | 12 | 18 | 23 | 46 |
 | supercluster | 1 | 1 | 57 | 57 |
 | nyt | 2 | 3 | 17 | 35 |
-| breaking_defense | 3 | 3 | 17 | 35 |
-| aidy | 1 | 3 | 18 | 37 |
+| breaking_defense | 3 | 3 | 18 | 36 |
+| aidy | 1 | 3 | 17 | 37 |
 
 # Shown Order
 
@@ -2649,3 +2649,4 @@
 - **Mar 27, 09:17 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 27, 09:31 AM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 27, 09:45 AM** - FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift (aidy)
+- **Mar 27, 09:59 AM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
