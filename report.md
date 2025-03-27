@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 21 | 44 |
 | nyt | 2 | 2 | 18 | 35 |
-| breaking_defense | 1 | 4 | 17 | 36 |
+| breaking_defense | 1 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 18 | 36 |
-| supercluster | 2 | 2 | 44 | 44 |
+| supercluster | 2 | 2 | 45 | 45 |
 
 # Shown Order
 
@@ -2667,3 +2667,4 @@
 - **Mar 27, 07:43 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 27, 07:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 27, 08:11 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 27, 08:25 PM** - China Will Launch the Long March 7A Rocket (supercluster)
