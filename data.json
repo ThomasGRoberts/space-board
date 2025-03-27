@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 4,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 5,
+    "current_item_id": "fe2f78fbf26b2640f015faad72790570",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6827,15 +6827,18 @@
             ]
         },
         {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "id": "fe2f78fbf26b2640f015faad72790570",
             "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": false,
+            "text": "China Will Launch the Long March 7A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-7a3",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-27T11:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-27T12:26:14.753457Z"
+            "target_datetime": "2025-03-29T16:05:00.000Z",
+            "time_remaining": "2d 03h 34m",
+            "fetched_datetime": "2025-03-27T12:30:33.005464Z",
+            "shown_at": [
+                "2025-03-27T12:30:33.692849Z"
+            ]
         }
     ]
 }
