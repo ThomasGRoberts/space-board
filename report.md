@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 64 | 64 |
 | nyt | 2 | 3 | 17 | 35 |
 | breaking_defense | 3 | 3 | 17 | 35 |
-| aidy | 1 | 3 | 17 | 36 |
+| aidy | 1 | 3 | 18 | 37 |
 
 # Shown Order
 
@@ -2659,3 +2659,4 @@
 - **Mar 27, 10:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 10:31 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 27, 10:45 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
+- **Mar 27, 10:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
