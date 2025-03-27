@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9962a1c94f71836d19515ee7462ea84",
+    "trigger_count": 0,
+    "current_item_id": "0ab663f6be8ff273fe97473071387043",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6889,6 +6889,18 @@
             "fetched_datetime": "2025-03-27T07:21:56.546796Z",
             "shown_at": [
                 "2025-03-27T07:21:57.530855Z"
+            ]
+        },
+        {
+            "id": "0ab663f6be8ff273fe97473071387043",
+            "source": "spacenews",
+            "text": "Anywaves poised to expand antenna production in France and internationally",
+            "source_link": "https://spacenews.com/anywaves-poised-to-expand-antenna-production-in-france-and-internationally/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T11:13:33.643220Z",
+            "shown_at": [
+                "2025-03-27T11:13:34.329378Z"
             ]
         }
     ]
