@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-27T00:02:38.623036+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aedc15ecc00eacccbb864e63e4be1e0c",
+    "trigger_count": 0,
+    "current_item_id": "d11d4f9fe6c68bc43dd943ada25a1094",
     "data": [
         {
             "id": "bdd49d819b1705e530ba37e84fbd5dd9",
@@ -6930,6 +6930,18 @@
             "fetched_datetime": "2025-03-27T18:31:32.973528Z",
             "shown_at": [
                 "2025-03-27T18:31:33.615948Z"
+            ]
+        },
+        {
+            "id": "d11d4f9fe6c68bc43dd943ada25a1094",
+            "source": "spacenews",
+            "text": "China unveils planetary exploration roadmap targeting habitability and extraterrestrial life",
+            "source_link": "https://spacenews.com/china-unveils-planetary-exploration-roadmap-targeting-habitability-and-extraterrestrial-life/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-27T18:59:48.782265Z",
+            "shown_at": [
+                "2025-03-27T18:59:49.952067Z"
             ]
         }
     ]
