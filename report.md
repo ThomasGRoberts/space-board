@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 23 | 46 |
-| nyt | 1 | 2 | 17 | 34 |
+| nyt | 1 | 2 | 18 | 35 |
 | breaking_defense | 1 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 35 |
 | supercluster | 2 | 2 | 58 | 58 |
@@ -2688,3 +2688,4 @@
 - **Mar 27, 10:01 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 10:03 PM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
 - **Mar 27, 10:17 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 27, 10:32 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
