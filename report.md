@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 21 | 43 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 2 | 3 | 18 | 36 |
-| aidy | 1 | 3 | 17 | 36 |
+| aidy | 1 | 3 | 18 | 37 |
 | supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
@@ -2642,3 +2642,4 @@
 - **Mar 27, 04:51 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 27, 04:53 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 27, 05:07 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Mar 27, 05:22 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
