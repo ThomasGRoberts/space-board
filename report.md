@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 2 | 70 | 79 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 3 | 5 | 20 | 38 |
+| nyt | 3 | 5 | 21 | 39 |
 
 # Shown Order
 
@@ -2777,3 +2777,4 @@
 - **Mar 28, 06:27 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:29 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 28, 06:43 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 28, 06:57 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
