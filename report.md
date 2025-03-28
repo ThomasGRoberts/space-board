@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 24 | 45 |
 | breaking_defense | 2 | 5 | 18 | 35 |
-| supercluster | 1 | 2 | 42 | 44 |
+| supercluster | 1 | 2 | 43 | 45 |
 | aidy | 1 | 2 | 18 | 34 |
-| nyt | 3 | 5 | 21 | 36 |
+| nyt | 3 | 5 | 20 | 36 |
 
 # Shown Order
 
@@ -2724,3 +2724,4 @@
 - **Mar 28, 12:37 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 12:51 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 28, 01:07 PM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
+- **Mar 28, 01:21 PM** - China Will Launch the Long March 7A Rocket (supercluster)
