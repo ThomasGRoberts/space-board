@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 36 |
 | supercluster | 1 | 2 | 70 | 93 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 3 | 5 | 20 | 38 |
+| nyt | 3 | 5 | 21 | 39 |
 
 # Shown Order
 
@@ -2800,3 +2800,4 @@
 - **Mar 28, 08:51 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 28, 09:05 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 28, 09:19 PM** - Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business (spacenews)
+- **Mar 28, 09:33 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
