@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 18 | 35 |
 | supercluster | 2 | 2 | 128 | 128 |
 | aidy | 1 | 2 | 17 | 34 |
-| nyt | 2 | 4 | 19 | 35 |
+| nyt | 3 | 5 | 20 | 36 |
 
 # Shown Order
 
@@ -2801,3 +2801,4 @@
 - **Mar 28, 11:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 11:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 11:09 AM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
+- **Mar 28, 11:25 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
