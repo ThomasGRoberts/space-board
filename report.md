@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 88 | 88 |
+| supercluster | 2 | 2 | 89 | 89 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 0 | 2 | 17 | 34 |
 
@@ -2738,3 +2738,4 @@
 - **Mar 28, 03:59 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 28, 04:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 04:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 04:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
