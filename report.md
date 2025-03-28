@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 23 | 45 |
+| spacenews | 10 | 18 | 24 | 46 |
 | breaking_defense | 3 | 5 | 19 | 36 |
 | supercluster | 1 | 2 | 63 | 72 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2767,3 +2767,4 @@
 - **Mar 28, 05:17 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Mar 28, 05:33 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 28, 05:47 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 28, 06:01 PM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
