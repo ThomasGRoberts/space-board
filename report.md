@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 22 | 44 |
 | breaking_defense | 2 | 5 | 18 | 35 |
-| supercluster | 2 | 2 | 43 | 43 |
+| supercluster | 2 | 2 | 44 | 44 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 3 | 5 | 20 | 36 |
 
@@ -2717,3 +2717,4 @@
 - **Mar 28, 11:45 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 11:47 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 11:49 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 11:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
