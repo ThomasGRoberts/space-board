@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 19 | 35 |
 | supercluster | 1 | 2 | 49 | 58 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 3 | 5 | 20 | 36 |
+| nyt | 3 | 5 | 21 | 37 |
 
 # Shown Order
 
@@ -2744,3 +2744,4 @@
 - **Mar 28, 02:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:49 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Mar 28, 03:05 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 28, 03:19 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
