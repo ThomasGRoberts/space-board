@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 44 |
+| spacenews | 6 | 15 | 22 | 45 |
 | breaking_defense | 2 | 3 | 19 | 36 |
 | supercluster | 1 | 2 | 77 | 100 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2810,3 +2810,4 @@
 - **Mar 28, 09:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 10:02 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 28, 10:15 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 28, 10:29 PM** - GAO rejects TraCSS contract protest (spacenews)
