@@ -5,7 +5,7 @@
 | spacenews | 10 | 21 | 24 | 46 |
 | breaking_defense | 2 | 5 | 18 | 34 |
 | supercluster | 2 | 2 | 44 | 44 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 | nyt | 3 | 5 | 20 | 36 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Mar 28, 11:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 11:53 AM** - GAO rejects TraCSS contract protest (spacenews)
 - **Mar 28, 12:09 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
+- **Mar 28, 12:23 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
