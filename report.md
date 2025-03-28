@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | supercluster | 2 | 2 | 121 | 121 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | nyt | 1 | 3 | 18 | 35 |
 
 # Shown Order
@@ -2789,3 +2789,4 @@
 - **Mar 28, 09:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 09:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 09:41 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
+- **Mar 28, 09:55 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
