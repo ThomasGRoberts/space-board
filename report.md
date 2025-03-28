@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 79 | 79 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 28, 02:05 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 28, 02:19 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Mar 28, 02:33 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 28, 02:47 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
