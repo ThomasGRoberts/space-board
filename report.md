@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 22 | 45 |
+| spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 79 | 79 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 1 | 2 | 19 | 35 |
+| nyt | 1 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Mar 28, 02:02 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:03 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:05 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 28, 02:19 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
