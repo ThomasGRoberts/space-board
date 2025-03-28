@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87283f08fa55222dd17e66414d1cce1e",
+    "trigger_count": 0,
+    "current_item_id": "faf584ad90e6517326c26acd3a131ff1",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7130,6 +7130,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "faf584ad90e6517326c26acd3a131ff1",
+            "source": "aidy",
+            "text": "U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T07:21:16.855757Z",
+            "shown_at": [
+                "2025-03-28T07:21:17.293458Z"
             ]
         }
     ]
