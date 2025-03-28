@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 23 | 46 |
+| spacenews | 9 | 21 | 23 | 45 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 106 | 106 |
+| supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 0 | 2 | 17 | 34 |
 
@@ -2764,3 +2764,4 @@
 - **Mar 28, 06:43 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 06:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
