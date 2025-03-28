@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 24 | 45 |
 | breaking_defense | 3 | 5 | 18 | 36 |
-| supercluster | 1 | 2 | 64 | 73 |
+| supercluster | 1 | 2 | 65 | 74 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 3 | 5 | 21 | 38 |
 
@@ -2769,3 +2769,4 @@
 - **Mar 28, 05:47 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 28, 06:01 PM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
 - **Mar 28, 06:15 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 06:17 PM** - China Will Launch the Long March 7A Rocket (supercluster)
