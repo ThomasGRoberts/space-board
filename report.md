@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 19 | 35 |
-| nyt | 0 | 2 | 17 | 34 |
+| nyt | 0 | 2 | 18 | 35 |
 
 # Shown Order
 
@@ -2765,3 +2765,4 @@
 - **Mar 28, 06:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 06:51 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
