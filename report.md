@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 22 | 45 |
+| spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 72 | 72 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -2711,3 +2711,4 @@
 - **Mar 28, 12:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 12:53 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 12:55 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 28, 01:09 AM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
