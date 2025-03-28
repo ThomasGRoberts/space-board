@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 86 | 86 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Mar 28, 03:17 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 28, 03:31 AM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
 - **Mar 28, 03:45 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 28, 03:59 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
