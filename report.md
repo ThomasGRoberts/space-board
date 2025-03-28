@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 22 | 44 |
-| breaking_defense | 2 | 3 | 19 | 36 |
+| breaking_defense | 2 | 3 | 19 | 35 |
 | supercluster | 1 | 2 | 77 | 100 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 3 | 4 | 21 | 38 |
 
 # Shown Order
@@ -2808,3 +2808,4 @@
 - **Mar 28, 09:55 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 09:57 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 09:59 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 10:02 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
