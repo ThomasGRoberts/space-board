@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 24 | 45 |
 | breaking_defense | 2 | 4 | 18 | 35 |
-| supercluster | 1 | 2 | 50 | 59 |
+| supercluster | 1 | 2 | 51 | 60 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 3 | 5 | 21 | 37 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 28, 03:19 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 28, 03:33 PM** - Space Force certifies Vulcan for national security launches (spacenews)
 - **Mar 28, 03:47 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 03:49 PM** - China Will Launch the Long March 7A Rocket (supercluster)
