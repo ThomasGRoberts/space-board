@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 102 | 102 |
+| supercluster | 2 | 2 | 103 | 103 |
 | aidy | 1 | 2 | 19 | 35 |
-| nyt | 0 | 2 | 18 | 34 |
+| nyt | 0 | 2 | 17 | 34 |
 
 # Shown Order
 
@@ -2760,3 +2760,4 @@
 - **Mar 28, 06:22 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 28, 06:37 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 06:39 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 06:41 AM** - China Will Launch the Long March 7A Rocket (supercluster)
