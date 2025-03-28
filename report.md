@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 23 | 45 |
+| spacenews | 10 | 19 | 24 | 46 |
 | breaking_defense | 3 | 5 | 19 | 36 |
 | supercluster | 1 | 2 | 56 | 65 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2756,3 +2756,4 @@
 - **Mar 28, 04:04 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 28, 04:19 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 28, 04:33 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 28, 04:47 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
