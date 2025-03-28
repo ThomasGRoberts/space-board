@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 23 | 46 |
+| spacenews | 9 | 20 | 23 | 45 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 121 | 121 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 1 | 3 | 18 | 34 |
+| nyt | 1 | 3 | 19 | 35 |
 
 # Shown Order
 
@@ -2791,3 +2791,4 @@
 - **Mar 28, 09:41 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
 - **Mar 28, 09:55 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 28, 10:12 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 28, 10:27 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
