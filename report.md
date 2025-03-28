@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 22 | 45 |
+| spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 86 | 86 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -2733,3 +2733,4 @@
 - **Mar 28, 03:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 03:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 03:17 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 28, 03:31 AM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
