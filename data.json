@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 0,
+    "current_item_id": "3722817eb6d8c556d90989a2482e8d2b",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7125,6 +7125,18 @@
                 "2025-03-28T11:47:27.837723Z",
                 "2025-03-28T11:49:44.023252Z",
                 "2025-03-28T11:51:35.609730Z"
+            ]
+        },
+        {
+            "id": "3722817eb6d8c556d90989a2482e8d2b",
+            "source": "spacenews",
+            "text": "GAO rejects TraCSS contract protest",
+            "source_link": "https://spacenews.com/gao-rejects-tracss-contract-protest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T11:53:30.924426Z",
+            "shown_at": [
+                "2025-03-28T11:53:31.541403Z"
             ]
         }
     ]
