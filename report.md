@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 23 | 44 |
+| spacenews | 7 | 14 | 22 | 44 |
 | breaking_defense | 3 | 3 | 19 | 35 |
-| supercluster | 1 | 2 | 64 | 80 |
+| supercluster | 1 | 2 | 65 | 81 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 3 | 5 | 21 | 39 |
 
@@ -2780,3 +2780,4 @@
 - **Mar 28, 06:57 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 28, 07:13 PM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
 - **Mar 28, 07:27 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 07:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
