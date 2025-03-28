@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 77 | 107 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 3 | 4 | 20 | 39 |
+| nyt | 3 | 4 | 21 | 40 |
 
 # Shown Order
 
@@ -2822,3 +2822,4 @@
 - **Mar 28, 11:11 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Mar 28, 11:25 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 28, 11:39 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
+- **Mar 28, 11:53 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
