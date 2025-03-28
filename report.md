@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 45 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 115 | 115 |
+| supercluster | 2 | 2 | 116 | 116 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 3 | 18 | 35 |
 
@@ -2782,3 +2782,4 @@
 - **Mar 28, 08:53 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 09:09 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 28, 09:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 09:28 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
