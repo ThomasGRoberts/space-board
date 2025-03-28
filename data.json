@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5a201d925d6c64f8a2c818f71bdc63d",
+    "trigger_count": 0,
+    "current_item_id": "8b5e4bc492c10a2ac0254eaceeaf8687",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7177,6 +7177,18 @@
             "fetched_datetime": "2025-03-28T09:09:38.786387Z",
             "shown_at": [
                 "2025-03-28T09:09:39.298477Z"
+            ]
+        },
+        {
+            "id": "8b5e4bc492c10a2ac0254eaceeaf8687",
+            "source": "nyt",
+            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse",
+            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T10:41:35.380575Z",
+            "shown_at": [
+                "2025-03-28T10:41:35.917185Z"
             ]
         }
     ]

@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 121 | 121 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 1 | 3 | 18 | 35 |
+| nyt | 2 | 4 | 19 | 36 |
 
 # Shown Order
 
@@ -2792,3 +2792,4 @@
 - **Mar 28, 09:55 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 28, 10:12 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 10:27 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 28, 10:41 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
