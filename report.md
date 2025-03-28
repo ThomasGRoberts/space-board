@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
-| breaking_defense | 2 | 5 | 18 | 35 |
+| breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 107 | 107 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 2 | 18 | 35 |
@@ -2768,3 +2768,4 @@
 - **Mar 28, 06:51 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 28, 07:07 AM** - Pangea Aerospace raises Series A round to fund space propulsion work (spacenews)
 - **Mar 28, 07:21 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Mar 28, 07:37 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
