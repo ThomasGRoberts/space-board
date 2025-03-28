@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 22 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 67 | 67 |
-| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 2 | 2 | 68 | 68 |
+| aidy | 1 | 2 | 19 | 35 |
 | nyt | 1 | 2 | 18 | 34 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Mar 28, 12:25 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 28, 12:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 12:43 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 12:45 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
