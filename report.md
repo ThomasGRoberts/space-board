@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 23 | 45 |
-| breaking_defense | 2 | 5 | 18 | 34 |
+| breaking_defense | 2 | 5 | 19 | 35 |
 | supercluster | 1 | 2 | 49 | 51 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 3 | 5 | 20 | 36 |
@@ -2732,3 +2732,4 @@
 - **Mar 28, 01:32 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 01:35 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 01:37 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 28, 01:51 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
