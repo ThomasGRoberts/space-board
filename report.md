@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 22 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 73 | 73 |
+| supercluster | 2 | 2 | 74 | 74 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 2 | 18 | 34 |
 
@@ -2715,3 +2715,4 @@
 - **Mar 28, 01:23 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 01:37 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 28, 01:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 01:53 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
