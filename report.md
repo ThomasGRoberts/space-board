@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 44 |
+| spacenews | 8 | 16 | 23 | 45 |
 | breaking_defense | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 2 | 70 | 79 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -2778,3 +2778,4 @@
 - **Mar 28, 06:29 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 28, 06:43 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 28, 06:57 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 28, 07:13 PM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
