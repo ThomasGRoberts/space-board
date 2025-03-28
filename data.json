@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9962a1c94f71836d19515ee7462ea84",
+    "trigger_count": 0,
+    "current_item_id": "dd2142d62c663dd6495f82ee27025e87",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7194,6 +7194,18 @@
             "fetched_datetime": "2025-03-28T13:07:30.083846Z",
             "shown_at": [
                 "2025-03-28T13:07:30.535416Z"
+            ]
+        },
+        {
+            "id": "dd2142d62c663dd6495f82ee27025e87",
+            "source": "breaking_defense",
+            "text": "Space Force greenlights Rocket Lab, Stoke for future launches",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-greenlights-rocket-lab-stoke-for-future-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T16:19:31.957532Z",
+            "shown_at": [
+                "2025-03-28T16:19:32.400084Z"
             ]
         }
     ]
