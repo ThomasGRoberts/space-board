@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 36 |
 | supercluster | 1 | 2 | 70 | 86 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 3 | 5 | 20 | 38 |
+| nyt | 3 | 5 | 21 | 39 |
 
 # Shown Order
 
@@ -2788,3 +2788,4 @@
 - **Mar 28, 07:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 07:41 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
 - **Mar 28, 07:55 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 28, 08:09 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
