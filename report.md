@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 19 | 36 |
 | supercluster | 1 | 2 | 63 | 72 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 3 | 5 | 20 | 37 |
+| nyt | 3 | 5 | 21 | 38 |
 
 # Shown Order
 
@@ -2766,3 +2766,4 @@
 - **Mar 28, 05:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 05:17 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Mar 28, 05:33 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 28, 05:47 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
