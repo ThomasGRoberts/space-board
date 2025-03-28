@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 101 | 101 |
+| supercluster | 2 | 2 | 102 | 102 |
 | aidy | 1 | 2 | 19 | 35 |
 | nyt | 0 | 2 | 18 | 34 |
 
@@ -2759,3 +2759,4 @@
 - **Mar 28, 06:07 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 28, 06:22 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 28, 06:37 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 06:39 AM** - China Will Launch the Long March 7A Rocket (supercluster)
