@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 19 | 35 |
 | supercluster | 1 | 2 | 42 | 44 |
 | aidy | 1 | 2 | 18 | 34 |
-| nyt | 3 | 5 | 20 | 36 |
+| nyt | 3 | 5 | 21 | 36 |
 
 # Shown Order
 
@@ -2722,3 +2722,4 @@
 - **Mar 28, 12:09 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
 - **Mar 28, 12:23 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 28, 12:37 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 28, 12:51 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
