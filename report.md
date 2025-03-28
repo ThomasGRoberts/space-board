@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 21 | 44 |
-| breaking_defense | 1 | 3 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 84 | 107 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 3 | 4 | 21 | 39 |
@@ -2820,3 +2820,4 @@
 - **Mar 28, 11:07 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 11:09 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 11:11 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
+- **Mar 28, 11:25 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
