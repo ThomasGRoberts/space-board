@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "08a5c0f5dc422640d382eb3d3d2a12ea",
+    "trigger_count": 0,
+    "current_item_id": "2166b8626c757e65b3f9c3c87bde39a0",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7152,6 +7152,18 @@
             "fetched_datetime": "2025-03-28T12:09:29.171529Z",
             "shown_at": [
                 "2025-03-28T12:09:29.757012Z"
+            ]
+        },
+        {
+            "id": "2166b8626c757e65b3f9c3c87bde39a0",
+            "source": "spacenews",
+            "text": "Artemis 2.0: A model for really winning the new moon race",
+            "source_link": "https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T13:07:30.083846Z",
+            "shown_at": [
+                "2025-03-28T13:07:30.535416Z"
             ]
         }
     ]
