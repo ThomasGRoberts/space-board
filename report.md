@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 24 | 45 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | supercluster | 1 | 2 | 49 | 58 |
-| aidy | 1 | 2 | 18 | 34 |
+| aidy | 1 | 2 | 18 | 35 |
 | nyt | 3 | 5 | 20 | 36 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Mar 28, 02:43 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 02:49 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
