@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 21 | 45 |
-| breaking_defense | 2 | 3 | 19 | 36 |
-| supercluster | 1 | 2 | 79 | 102 |
+| breaking_defense | 1 | 3 | 18 | 36 |
+| supercluster | 1 | 2 | 80 | 103 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 3 | 4 | 21 | 39 |
 
@@ -2814,3 +2814,4 @@
 - **Mar 28, 10:43 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 28, 10:57 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 10:59 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 11:01 PM** - China Will Launch the Long March 7A Rocket (supercluster)
