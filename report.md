@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 23 | 46 |
+| spacenews | 9 | 21 | 22 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 80 | 80 |
-| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 2 | 2 | 81 | 81 |
+| aidy | 1 | 2 | 19 | 35 |
 | nyt | 1 | 2 | 18 | 34 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Mar 28, 02:33 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 28, 02:47 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 28, 03:02 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 03:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
