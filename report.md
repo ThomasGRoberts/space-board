@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
-| breaking_defense | 2 | 5 | 18 | 34 |
+| breaking_defense | 2 | 5 | 19 | 35 |
 | supercluster | 1 | 2 | 42 | 44 |
 | aidy | 1 | 2 | 18 | 34 |
 | nyt | 3 | 5 | 20 | 36 |
@@ -2721,3 +2721,4 @@
 - **Mar 28, 11:53 AM** - GAO rejects TraCSS contract protest (spacenews)
 - **Mar 28, 12:09 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
 - **Mar 28, 12:23 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 28, 12:37 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
