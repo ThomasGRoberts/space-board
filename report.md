@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 23 | 45 |
+| spacenews | 10 | 20 | 24 | 46 |
 | breaking_defense | 2 | 5 | 18 | 35 |
 | supercluster | 1 | 2 | 42 | 51 |
 | aidy | 1 | 2 | 18 | 34 |
-| nyt | 3 | 5 | 21 | 37 |
+| nyt | 3 | 5 | 21 | 36 |
 
 # Shown Order
 
@@ -2734,3 +2734,4 @@
 - **Mar 28, 01:37 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 28, 01:51 PM** - EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms (breaking_defense)
 - **Mar 28, 02:05 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
+- **Mar 28, 02:19 PM** - ESA taps Thales Alenia Space to build digital twin for European agriculture (spacenews)
