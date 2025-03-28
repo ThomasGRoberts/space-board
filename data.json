@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e68fcaf71dd68ec2b329dbca5c240ef2",
+    "trigger_count": 0,
+    "current_item_id": "41e7a78120b7f705fab59f31c51c8dae",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7250,6 +7250,18 @@
             "fetched_datetime": "2025-03-28T16:19:31.957532Z",
             "shown_at": [
                 "2025-03-28T16:19:32.400084Z"
+            ]
+        },
+        {
+            "id": "41e7a78120b7f705fab59f31c51c8dae",
+            "source": "spacenews",
+            "text": "Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business",
+            "source_link": "https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T21:19:33.640242Z",
+            "shown_at": [
+                "2025-03-28T21:19:34.162426Z"
             ]
         }
     ]
