@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 24 | 45 |
 | breaking_defense | 3 | 5 | 18 | 36 |
-| supercluster | 1 | 2 | 57 | 66 |
+| supercluster | 1 | 2 | 58 | 67 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 3 | 5 | 21 | 38 |
 
@@ -2758,3 +2758,4 @@
 - **Mar 28, 04:33 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 28, 04:47 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
 - **Mar 28, 05:03 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 05:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
