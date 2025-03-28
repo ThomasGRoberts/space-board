@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 22 | 45 |
+| spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 100 | 100 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -2755,3 +2755,4 @@
 - **Mar 28, 05:33 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 05:35 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 05:37 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
+- **Mar 28, 05:51 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
