@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 22 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 66 | 66 |
+| supercluster | 2 | 2 | 67 | 67 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 2 | 18 | 34 |
 
@@ -2704,3 +2704,4 @@
 - **Mar 28, 12:11 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 12:25 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 28, 12:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 12:43 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
