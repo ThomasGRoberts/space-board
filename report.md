@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 93 | 93 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 35 |
 
 # Shown Order
@@ -2746,3 +2746,4 @@
 - **Mar 28, 04:27 AM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 28, 04:41 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Mar 28, 04:55 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 28, 05:09 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
