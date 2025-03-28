@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 43 |
-| breaking_defense | 2 | 3 | 18 | 35 |
+| breaking_defense | 2 | 3 | 19 | 36 |
 | supercluster | 1 | 2 | 70 | 86 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 3 | 5 | 21 | 38 |
@@ -2787,3 +2787,4 @@
 - **Mar 28, 07:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 07:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 07:41 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 28, 07:55 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
