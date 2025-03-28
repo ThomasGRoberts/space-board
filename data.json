@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3722817eb6d8c556d90989a2482e8d2b",
+    "trigger_count": 0,
+    "current_item_id": "04e2ab2f52381a531da9ed041b1b0dbd",
     "data": [
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
@@ -7137,6 +7137,18 @@
             "fetched_datetime": "2025-03-28T11:53:30.924426Z",
             "shown_at": [
                 "2025-03-28T11:53:31.541403Z"
+            ]
+        },
+        {
+            "id": "04e2ab2f52381a531da9ed041b1b0dbd",
+            "source": "spacenews",
+            "text": "China’s megaconstellations take off, government backs commercial space",
+            "source_link": "https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T12:09:29.171529Z",
+            "shown_at": [
+                "2025-03-28T12:09:29.757012Z"
             ]
         }
     ]
