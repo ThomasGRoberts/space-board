@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 24 | 45 |
 | breaking_defense | 2 | 5 | 18 | 35 |
-| supercluster | 1 | 2 | 43 | 52 |
+| supercluster | 1 | 2 | 44 | 53 |
 | aidy | 1 | 2 | 18 | 34 |
 | nyt | 3 | 5 | 20 | 36 |
 
@@ -2736,3 +2736,4 @@
 - **Mar 28, 02:05 PM** - After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander (nyt)
 - **Mar 28, 02:19 PM** - ESA taps Thales Alenia Space to build digital twin for European agriculture (spacenews)
 - **Mar 28, 02:35 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 02:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
