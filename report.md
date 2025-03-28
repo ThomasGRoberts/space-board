@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
 | supercluster | 2 | 2 | 65 | 65 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 2 | 18 | 35 |
 
 # Shown Order
@@ -2702,3 +2702,4 @@
 - **Mar 27, 11:42 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 27, 11:55 PM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
 - **Mar 28, 12:11 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 28, 12:25 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
