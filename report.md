@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 44 |
 | breaking_defense | 3 | 3 | 19 | 35 |
-| supercluster | 1 | 2 | 65 | 81 |
+| supercluster | 1 | 2 | 66 | 82 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 3 | 5 | 21 | 39 |
 
@@ -2781,3 +2781,4 @@
 - **Mar 28, 07:13 PM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
 - **Mar 28, 07:27 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 07:29 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 28, 07:31 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
