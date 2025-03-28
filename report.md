@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 43 |
-| breaking_defense | 2 | 3 | 18 | 35 |
+| breaking_defense | 2 | 3 | 19 | 36 |
 | supercluster | 1 | 2 | 70 | 93 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 3 | 5 | 21 | 38 |
@@ -2798,3 +2798,4 @@
 - **Mar 28, 08:47 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 08:49 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 08:51 PM** - Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts (aidy)
+- **Mar 28, 09:05 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
