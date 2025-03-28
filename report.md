@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 44 |
+| spacenews | 7 | 14 | 22 | 44 |
 | breaking_defense | 2 | 3 | 19 | 35 |
-| supercluster | 1 | 2 | 65 | 88 |
+| supercluster | 1 | 2 | 66 | 89 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 3 | 5 | 21 | 39 |
 
@@ -2792,3 +2792,4 @@
 - **Mar 28, 08:23 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 28, 08:37 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 28, 08:39 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 28, 08:41 PM** - China Will Launch the Long March 7A Rocket (supercluster)
