@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 23 | 46 |
 | breaking_defense | 2 | 5 | 18 | 36 |
-| supercluster | 2 | 2 | 93 | 93 |
+| supercluster | 2 | 2 | 94 | 94 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 34 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 28, 04:41 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Mar 28, 04:55 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 28, 05:09 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
+- **Mar 28, 05:23 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
