@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 24 | 44 |
-| breaking_defense | 2 | 5 | 18 | 35 |
+| breaking_defense | 2 | 5 | 19 | 36 |
 | supercluster | 1 | 2 | 49 | 58 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 3 | 5 | 20 | 36 |
@@ -2743,3 +2743,4 @@
 - **Mar 28, 02:45 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:47 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 28, 02:49 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Mar 28, 03:05 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
