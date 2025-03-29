@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 45 |
-| breaking_defense | 1 | 3 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 112 | 142 |
 | nyt | 3 | 3 | 21 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -2876,3 +2876,4 @@
 - **Mar 29, 04:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 05:02 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 05:17 AM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
+- **Mar 29, 05:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
