@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 119 | 156 |
 | nyt | 3 | 3 | 21 | 39 |
-| aidy | 0 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2896,3 +2896,4 @@
 - **Mar 29, 07:17 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 07:19 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 07:21 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 07:23 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
