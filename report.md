@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 45 |
-| breaking_defense | 1 | 3 | 19 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 133 | 170 |
 | nyt | 2 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2920,3 +2920,4 @@
 - **Mar 29, 09:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 09:43 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 09:57 AM** - NASA terminating $420 million in contracts (spacenews)
+- **Mar 29, 10:13 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
