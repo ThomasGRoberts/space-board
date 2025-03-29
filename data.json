@@ -1,9 +1,169 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-28T00:02:17.795812+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-03-29T00:02:01.709264+00:00",
+    "trigger_count": 4,
     "current_item_id": "a77f4306cbf7f8522cf0659576693530",
     "data": [
+        {
+            "id": "41e7a78120b7f705fab59f31c51c8dae",
+            "source": "spacenews",
+            "text": "Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business",
+            "source_link": "https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T21:19:33.640242Z",
+            "shown_at": [
+                "2025-03-28T21:19:34.162426Z"
+            ]
+        },
+        {
+            "id": "dd2142d62c663dd6495f82ee27025e87",
+            "source": "breaking_defense",
+            "text": "Space Force greenlights Rocket Lab, Stoke for future launches",
+            "source_link": "https://breakingdefense.com/2025/03/space-force-greenlights-rocket-lab-stoke-for-future-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T16:19:31.957532Z",
+            "shown_at": [
+                "2025-03-28T16:19:32.400084Z"
+            ]
+        },
+        {
+            "id": "2166b8626c757e65b3f9c3c87bde39a0",
+            "source": "spacenews",
+            "text": "Artemis 2.0: A model for really winning the new moon race",
+            "source_link": "https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T13:07:30.083846Z",
+            "shown_at": [
+                "2025-03-28T13:07:30.535416Z"
+            ]
+        },
+        {
+            "id": "04e2ab2f52381a531da9ed041b1b0dbd",
+            "source": "spacenews",
+            "text": "China’s megaconstellations take off, government backs commercial space",
+            "source_link": "https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T12:09:29.171529Z",
+            "shown_at": [
+                "2025-03-28T12:09:29.757012Z"
+            ]
+        },
+        {
+            "id": "3722817eb6d8c556d90989a2482e8d2b",
+            "source": "spacenews",
+            "text": "GAO rejects TraCSS contract protest",
+            "source_link": "https://spacenews.com/gao-rejects-tracss-contract-protest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T11:53:30.924426Z",
+            "shown_at": [
+                "2025-03-28T11:53:31.541403Z",
+                "2025-03-28T22:29:39.908083Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-29T11:30:00.000Z",
+            "time_remaining": "0d 13h 30m",
+            "fetched_datetime": "2025-03-28T11:39:33.233650Z",
+            "shown_at": [
+                "2025-03-28T11:39:33.719159Z",
+                "2025-03-28T11:41:30.883078Z",
+                "2025-03-28T11:43:38.425244Z",
+                "2025-03-28T11:45:34.007773Z",
+                "2025-03-28T11:47:27.837723Z",
+                "2025-03-28T11:49:44.023252Z",
+                "2025-03-28T11:51:35.609730Z",
+                "2025-03-28T14:35:40.161108Z",
+                "2025-03-28T14:37:42.847712Z",
+                "2025-03-28T14:39:38.748563Z",
+                "2025-03-28T14:41:53.834544Z",
+                "2025-03-28T14:43:50.642478Z",
+                "2025-03-28T14:45:12.266925Z",
+                "2025-03-28T14:47:45.264698Z",
+                "2025-03-28T17:03:48.572836Z",
+                "2025-03-28T17:05:26.649503Z",
+                "2025-03-28T17:07:26.243701Z",
+                "2025-03-28T17:09:28.247270Z",
+                "2025-03-28T17:11:33.666147Z",
+                "2025-03-28T17:13:42.663145Z",
+                "2025-03-28T17:15:26.879056Z",
+                "2025-03-28T19:27:40.153573Z",
+                "2025-03-28T19:29:37.511885Z",
+                "2025-03-28T19:31:53.589043Z",
+                "2025-03-28T19:33:31.548784Z",
+                "2025-03-28T19:35:36.932614Z",
+                "2025-03-28T19:37:26.125203Z",
+                "2025-03-28T19:39:26.753217Z",
+                "2025-03-28T21:47:26.104732Z",
+                "2025-03-28T21:49:22.908406Z",
+                "2025-03-28T21:51:33.723708Z",
+                "2025-03-28T21:53:38.660432Z",
+                "2025-03-28T21:55:47.173273Z",
+                "2025-03-28T21:57:24.655645Z",
+                "2025-03-28T21:59:11.748642Z"
+            ]
+        },
+        {
+            "id": "a77f4306cbf7f8522cf0659576693530",
+            "source": "nyt",
+            "text": "March 2025 Partial Solar Eclipse: Where and How to Watch",
+            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T11:25:33.065446Z",
+            "shown_at": [
+                "2025-03-28T11:25:33.562074Z",
+                "2025-03-28T23:53:28.269845Z"
+            ]
+        },
+        {
+            "id": "8b5e4bc492c10a2ac0254eaceeaf8687",
+            "source": "nyt",
+            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse",
+            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T10:41:35.380575Z",
+            "shown_at": [
+                "2025-03-28T10:41:35.917185Z"
+            ]
+        },
+        {
+            "id": "08a5c0f5dc422640d382eb3d3d2a12ea",
+            "source": "nyt",
+            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse.",
+            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclpse-when-how-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T09:09:38.786387Z",
+            "shown_at": [
+                "2025-03-28T09:09:39.298477Z",
+                "2025-03-28T12:51:40.510560Z"
+            ]
+        },
+        {
+            "id": "faf584ad90e6517326c26acd3a131ff1",
+            "source": "aidy",
+            "text": "U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-28T07:21:16.855757Z",
+            "shown_at": [
+                "2025-03-28T07:21:17.293458Z",
+                "2025-03-28T14:49:39.277516Z"
+            ]
+        },
         {
             "id": "0bb748e20f6ffd36b5ec8d922adff49d",
             "source": "spacenews",
@@ -7125,166 +7285,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "faf584ad90e6517326c26acd3a131ff1",
-            "source": "aidy",
-            "text": "U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T07:21:16.855757Z",
-            "shown_at": [
-                "2025-03-28T07:21:17.293458Z",
-                "2025-03-28T14:49:39.277516Z"
-            ]
-        },
-        {
-            "id": "08a5c0f5dc422640d382eb3d3d2a12ea",
-            "source": "nyt",
-            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse.",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclpse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T09:09:38.786387Z",
-            "shown_at": [
-                "2025-03-28T09:09:39.298477Z",
-                "2025-03-28T12:51:40.510560Z"
-            ]
-        },
-        {
-            "id": "8b5e4bc492c10a2ac0254eaceeaf8687",
-            "source": "nyt",
-            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T10:41:35.380575Z",
-            "shown_at": [
-                "2025-03-28T10:41:35.917185Z"
-            ]
-        },
-        {
-            "id": "a77f4306cbf7f8522cf0659576693530",
-            "source": "nyt",
-            "text": "March 2025 Partial Solar Eclipse: Where and How to Watch",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T11:25:33.065446Z",
-            "shown_at": [
-                "2025-03-28T11:25:33.562074Z",
-                "2025-03-28T23:53:28.269845Z"
-            ]
-        },
-        {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-29T11:30:00.000Z",
-            "time_remaining": "0d 13h 30m",
-            "fetched_datetime": "2025-03-28T11:39:33.233650Z",
-            "shown_at": [
-                "2025-03-28T11:39:33.719159Z",
-                "2025-03-28T11:41:30.883078Z",
-                "2025-03-28T11:43:38.425244Z",
-                "2025-03-28T11:45:34.007773Z",
-                "2025-03-28T11:47:27.837723Z",
-                "2025-03-28T11:49:44.023252Z",
-                "2025-03-28T11:51:35.609730Z",
-                "2025-03-28T14:35:40.161108Z",
-                "2025-03-28T14:37:42.847712Z",
-                "2025-03-28T14:39:38.748563Z",
-                "2025-03-28T14:41:53.834544Z",
-                "2025-03-28T14:43:50.642478Z",
-                "2025-03-28T14:45:12.266925Z",
-                "2025-03-28T14:47:45.264698Z",
-                "2025-03-28T17:03:48.572836Z",
-                "2025-03-28T17:05:26.649503Z",
-                "2025-03-28T17:07:26.243701Z",
-                "2025-03-28T17:09:28.247270Z",
-                "2025-03-28T17:11:33.666147Z",
-                "2025-03-28T17:13:42.663145Z",
-                "2025-03-28T17:15:26.879056Z",
-                "2025-03-28T19:27:40.153573Z",
-                "2025-03-28T19:29:37.511885Z",
-                "2025-03-28T19:31:53.589043Z",
-                "2025-03-28T19:33:31.548784Z",
-                "2025-03-28T19:35:36.932614Z",
-                "2025-03-28T19:37:26.125203Z",
-                "2025-03-28T19:39:26.753217Z",
-                "2025-03-28T21:47:26.104732Z",
-                "2025-03-28T21:49:22.908406Z",
-                "2025-03-28T21:51:33.723708Z",
-                "2025-03-28T21:53:38.660432Z",
-                "2025-03-28T21:55:47.173273Z",
-                "2025-03-28T21:57:24.655645Z",
-                "2025-03-28T21:59:11.748642Z"
-            ]
-        },
-        {
-            "id": "3722817eb6d8c556d90989a2482e8d2b",
-            "source": "spacenews",
-            "text": "GAO rejects TraCSS contract protest",
-            "source_link": "https://spacenews.com/gao-rejects-tracss-contract-protest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T11:53:30.924426Z",
-            "shown_at": [
-                "2025-03-28T11:53:31.541403Z",
-                "2025-03-28T22:29:39.908083Z"
-            ]
-        },
-        {
-            "id": "04e2ab2f52381a531da9ed041b1b0dbd",
-            "source": "spacenews",
-            "text": "China’s megaconstellations take off, government backs commercial space",
-            "source_link": "https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T12:09:29.171529Z",
-            "shown_at": [
-                "2025-03-28T12:09:29.757012Z"
-            ]
-        },
-        {
-            "id": "2166b8626c757e65b3f9c3c87bde39a0",
-            "source": "spacenews",
-            "text": "Artemis 2.0: A model for really winning the new moon race",
-            "source_link": "https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T13:07:30.083846Z",
-            "shown_at": [
-                "2025-03-28T13:07:30.535416Z"
-            ]
-        },
-        {
-            "id": "dd2142d62c663dd6495f82ee27025e87",
-            "source": "breaking_defense",
-            "text": "Space Force greenlights Rocket Lab, Stoke for future launches",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-greenlights-rocket-lab-stoke-for-future-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T16:19:31.957532Z",
-            "shown_at": [
-                "2025-03-28T16:19:32.400084Z"
-            ]
-        },
-        {
-            "id": "41e7a78120b7f705fab59f31c51c8dae",
-            "source": "spacenews",
-            "text": "Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business",
-            "source_link": "https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T21:19:33.640242Z",
-            "shown_at": [
-                "2025-03-28T21:19:34.162426Z"
             ]
         }
     ]
