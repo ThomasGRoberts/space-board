@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 22 | 45 |
+| spacenews | 5 | 14 | 22 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
-| supercluster | 1 | 2 | 135 | 172 |
+| supercluster | 1 | 2 | 136 | 173 |
 | nyt | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2924,3 +2924,4 @@
 - **Mar 29, 10:27 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 29, 10:42 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 10:43 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 10:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
