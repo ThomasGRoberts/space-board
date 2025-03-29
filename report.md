@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 22 | 44 |
+| spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 140 | 177 |
 | nyt | 1 | 3 | 20 | 39 |
@@ -2930,3 +2930,4 @@
 - **Mar 29, 10:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 10:53 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 10:55 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 29, 11:12 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
