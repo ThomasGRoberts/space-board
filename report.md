@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 20 | 43 |
 | breaking_defense | 1 | 3 | 19 | 38 |
-| nyt | 0 | 3 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 37 |
+| nyt | 0 | 3 | 19 | 40 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 0 | 98 | 133 |
 
 # Shown Order
@@ -2906,3 +2906,4 @@
 - **Mar 29, 03:15 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 03:17 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 03:19 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 03:21 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
