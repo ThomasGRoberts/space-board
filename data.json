@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-29T00:02:01.709264+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9962a1c94f71836d19515ee7462ea84",
+    "trigger_count": 0,
+    "current_item_id": "4747e6a3a9ca323978063fb0eb863670",
     "data": [
         {
             "id": "41e7a78120b7f705fab59f31c51c8dae",
@@ -7293,6 +7293,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "4747e6a3a9ca323978063fb0eb863670",
+            "source": "spacenews",
+            "text": "Airbus wins contract for ExoMars lander platform",
+            "source_link": "https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-29T00:35:37.965802Z",
+            "shown_at": [
+                "2025-03-29T00:35:38.747071Z"
             ]
         }
     ]
