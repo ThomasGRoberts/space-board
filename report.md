@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 44 |
-| breaking_defense | 1 | 3 | 19 | 37 |
+| spacenews | 5 | 14 | 22 | 45 |
+| breaking_defense | 1 | 3 | 18 | 36 |
 | supercluster | 1 | 2 | 119 | 156 |
 | nyt | 3 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2897,3 +2897,4 @@
 - **Mar 29, 07:19 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 07:21 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 07:23 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Mar 29, 07:37 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
