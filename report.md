@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 19 | 42 |
+| spacenews | 2 | 12 | 20 | 43 |
 | breaking_defense | 0 | 3 | 18 | 37 |
 | nyt | 0 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2775,3 +2775,4 @@
 - **Mar 29, 05:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 05:17 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 29, 05:32 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
+- **Mar 29, 05:45 PM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)
