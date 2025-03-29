@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 91 | 121 |
-| nyt | 3 | 4 | 20 | 39 |
+| nyt | 3 | 4 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2844,3 +2844,4 @@
 - **Mar 29, 01:31 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 01:45 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
 - **Mar 29, 01:59 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 29, 02:13 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
