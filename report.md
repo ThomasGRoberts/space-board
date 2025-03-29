@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 126 | 163 |
-| nyt | 2 | 3 | 20 | 39 |
+| nyt | 2 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2910,3 +2910,4 @@
 - **Mar 29, 08:33 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 29, 08:47 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 29, 09:02 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 29, 09:15 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
