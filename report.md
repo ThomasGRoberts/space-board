@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 133 | 170 |
-| nyt | 2 | 3 | 21 | 39 |
+| nyt | 2 | 3 | 22 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2921,3 +2921,4 @@
 - **Mar 29, 09:43 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 09:57 AM** - NASA terminating $420 million in contracts (spacenews)
 - **Mar 29, 10:13 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 29, 10:27 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
