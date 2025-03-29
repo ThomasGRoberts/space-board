@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 22 | 44 |
+| spacenews | 5 | 14 | 21 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 133 | 170 |
 | nyt | 2 | 3 | 21 | 39 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 
 # Shown Order
 
@@ -2918,3 +2918,4 @@
 - **Mar 29, 09:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 09:39 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 09:41 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 29, 09:43 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
