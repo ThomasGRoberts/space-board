@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 20 | 42 |
-| breaking_defense | 0 | 2 | 18 | 37 |
+| breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -2798,3 +2798,4 @@
 - **Mar 29, 07:39 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 29, 07:53 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 08:07 PM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
+- **Mar 29, 08:23 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
