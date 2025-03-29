@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 20 | 44 |
 | breaking_defense | 1 | 3 | 20 | 38 |
-| nyt | 0 | 3 | 19 | 39 |
+| nyt | 0 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 0 | 0 | 91 | 126 |
 
@@ -2898,3 +2898,4 @@
 - **Mar 29, 02:09 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 02:23 PM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
 - **Mar 29, 02:39 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Mar 29, 02:53 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
