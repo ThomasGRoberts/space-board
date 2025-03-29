@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 0 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 0 | 0 | 84 | 126 |
+| supercluster | 0 | 0 | 85 | 127 |
 
 # Shown Order
 
@@ -2888,3 +2888,4 @@
 - **Mar 29, 01:09 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 29, 01:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 29, 01:37 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Mar 29, 01:51 PM** - China Will Launch the Long March 7A Rocket (supercluster)
