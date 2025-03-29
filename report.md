@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 44 |
-| breaking_defense | 1 | 3 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 84 | 114 |
 | nyt | 3 | 4 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -2832,3 +2832,4 @@
 - **Mar 29, 12:19 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 12:21 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 12:35 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
+- **Mar 29, 12:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
