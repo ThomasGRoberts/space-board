@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 22 | 44 |
+| spacenews | 5 | 14 | 21 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
-| supercluster | 1 | 2 | 112 | 149 |
+| supercluster | 1 | 2 | 113 | 150 |
 | nyt | 3 | 3 | 21 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2889,3 +2889,4 @@
 - **Mar 29, 06:27 AM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)
 - **Mar 29, 06:41 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 29, 06:55 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Mar 29, 07:09 AM** - China Will Launch the Long March 7A Rocket (supercluster)
