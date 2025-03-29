@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 44 |
+| spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 18 | 36 |
 | supercluster | 1 | 2 | 91 | 121 |
 | nyt | 3 | 4 | 21 | 39 |
@@ -2842,3 +2842,4 @@
 - **Mar 29, 01:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 01:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 01:31 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 29, 01:45 AM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
