@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -2800,3 +2800,4 @@
 - **Mar 29, 08:07 PM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Mar 29, 08:23 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 29, 08:37 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 29, 08:39 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
