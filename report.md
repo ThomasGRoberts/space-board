@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 20 | 43 |
 | breaking_defense | 1 | 3 | 19 | 38 |
-| nyt | 0 | 3 | 20 | 40 |
-| aidy | 1 | 2 | 19 | 37 |
+| nyt | 0 | 3 | 19 | 40 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 0 | 91 | 126 |
 
 # Shown Order
@@ -2884,3 +2884,4 @@
 - **Mar 29, 12:47 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 12:49 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 12:51 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 12:53 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
