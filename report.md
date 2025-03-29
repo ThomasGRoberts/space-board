@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 19 | 43 |
 | breaking_defense | 0 | 3 | 19 | 37 |
-| nyt | 0 | 3 | 18 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| nyt | 0 | 3 | 19 | 39 |
+| aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -2773,3 +2773,4 @@
 - **Mar 29, 05:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 05:13 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 05:15 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 29, 05:17 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
