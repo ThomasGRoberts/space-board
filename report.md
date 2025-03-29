@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 84 | 114 |
-| nyt | 3 | 4 | 20 | 39 |
+| nyt | 3 | 4 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2833,3 +2833,4 @@
 - **Mar 29, 12:21 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 12:35 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 29, 12:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 29, 01:03 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
