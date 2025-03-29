@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 20 | 44 |
 | breaking_defense | 1 | 3 | 20 | 38 |
-| nyt | 0 | 3 | 19 | 39 |
+| nyt | 0 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 2 | 84 | 121 |
+| supercluster | 0 | 0 | 84 | 120 |
 
 # Shown Order
 
@@ -2876,3 +2876,4 @@
 - **Mar 29, 10:55 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 29, 11:12 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 29, 11:25 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 29, 12:32 PM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
