@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 44 |
-| breaking_defense | 1 | 3 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 98 | 128 |
 | nyt | 3 | 4 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
@@ -2854,3 +2854,4 @@
 - **Mar 29, 02:39 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 02:41 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 29, 02:55 AM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
+- **Mar 29, 03:09 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
