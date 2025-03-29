@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 105 | 135 |
-| nyt | 3 | 3 | 20 | 38 |
+| nyt | 3 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 
 # Shown Order
@@ -2866,3 +2866,4 @@
 - **Mar 29, 03:51 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 29, 04:05 AM** - MaiaSpace signs first commercial launch contract (spacenews)
 - **Mar 29, 04:19 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 29, 04:33 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
