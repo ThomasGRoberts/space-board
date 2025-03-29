@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 45 |
-| breaking_defense | 1 | 3 | 18 | 36 |
+| breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 126 | 163 |
 | nyt | 3 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
@@ -2909,3 +2909,4 @@
 - **Mar 29, 08:31 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 08:33 AM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 29, 08:47 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
+- **Mar 29, 09:02 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
