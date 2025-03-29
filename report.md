@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -2810,3 +2810,4 @@
 - **Mar 29, 09:05 PM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Mar 29, 09:21 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 29, 09:35 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 29, 09:49 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
