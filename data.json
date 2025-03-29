@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-29T00:02:01.709264+00:00",
-    "trigger_count": 6,
-    "current_item_id": "08a5c0f5dc422640d382eb3d3d2a12ea",
+    "trigger_count": 0,
+    "current_item_id": "ec0f5574f8c0d94969eb2e35860b9905",
     "data": [
         {
             "id": "41e7a78120b7f705fab59f31c51c8dae",
@@ -7278,6 +7278,18 @@
                 "2025-03-29T20:45:31.848224Z",
                 "2025-03-29T20:47:34.691970Z",
                 "2025-03-29T20:49:48.920376Z"
+            ]
+        },
+        {
+            "id": "ec0f5574f8c0d94969eb2e35860b9905",
+            "source": "spacenews",
+            "text": "China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite",
+            "source_link": "https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-29T21:05:28.463420Z",
+            "shown_at": [
+                "2025-03-29T21:05:28.968974Z"
             ]
         }
     ]
