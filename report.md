@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 20 | 43 |
-| breaking_defense | 1 | 3 | 20 | 38 |
+| breaking_defense | 1 | 3 | 19 | 38 |
 | nyt | 0 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 0 | 0 | 85 | 127 |
+| supercluster | 0 | 0 | 86 | 128 |
 
 # Shown Order
 
@@ -2889,3 +2889,4 @@
 - **Mar 29, 01:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 29, 01:37 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 29, 01:51 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 01:53 PM** - China Will Launch the Long March 7A Rocket (supercluster)
