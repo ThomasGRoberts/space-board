@@ -5,7 +5,7 @@
 | spacenews | 2 | 11 | 19 | 42 |
 | breaking_defense | 0 | 3 | 19 | 37 |
 | nyt | 0 | 3 | 19 | 39 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -2785,3 +2785,4 @@
 - **Mar 29, 06:23 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 06:25 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 06:27 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Mar 29, 06:41 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
