@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 20 | 41 |
+| spacenews | 2 | 7 | 19 | 41 |
 | breaking_defense | 0 | 1 | 18 | 37 |
 | nyt | 0 | 3 | 19 | 40 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -2830,3 +2830,4 @@
 - **Mar 29, 11:11 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 11:13 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 29, 11:27 PM** - The European Union’s push for next generation space electronics and critical technologies (spacenews)
+- **Mar 29, 11:41 PM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
