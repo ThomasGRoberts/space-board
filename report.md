@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 21 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
-| supercluster | 1 | 2 | 77 | 107 |
+| supercluster | 1 | 2 | 78 | 108 |
 | nyt | 3 | 4 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2823,3 +2823,4 @@
 - **Mar 28, 11:25 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 28, 11:39 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
 - **Mar 28, 11:53 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
+- **Mar 29, 12:07 AM** - China Will Launch the Long March 7A Rocket (supercluster)
