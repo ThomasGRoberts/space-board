@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 19 | 41 |
-| breaking_defense | 0 | 2 | 18 | 37 |
-| nyt | 0 | 3 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 38 |
+| breaking_defense | 0 | 2 | 19 | 38 |
+| nyt | 0 | 3 | 18 | 39 |
+| aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -2809,3 +2809,4 @@
 - **Mar 29, 08:51 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 29, 09:05 PM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Mar 29, 09:21 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 29, 09:35 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
