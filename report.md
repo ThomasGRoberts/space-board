@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 18 | 36 |
 | supercluster | 1 | 2 | 105 | 135 |
 | nyt | 3 | 4 | 21 | 39 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 
 # Shown Order
 
@@ -2863,3 +2863,4 @@
 - **Mar 29, 03:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 03:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 03:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 03:51 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
