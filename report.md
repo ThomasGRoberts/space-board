@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | supercluster | 1 | 2 | 119 | 156 |
-| nyt | 3 | 3 | 21 | 39 |
+| nyt | 3 | 3 | 22 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2899,3 +2899,4 @@
 - **Mar 29, 07:23 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 07:37 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
 - **Mar 29, 07:51 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 29, 08:05 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
