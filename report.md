@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 19 | 43 |
+| spacenews | 2 | 12 | 20 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
 | nyt | 0 | 3 | 19 | 40 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -2896,3 +2896,4 @@
 - **Mar 29, 02:05 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 02:07 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 02:09 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 29, 02:23 PM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
