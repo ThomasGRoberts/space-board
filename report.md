@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 45 |
-| breaking_defense | 1 | 3 | 18 | 36 |
-| supercluster | 1 | 2 | 117 | 149 |
-| nyt | 3 | 3 | 21 | 39 |
+| breaking_defense | 1 | 3 | 19 | 37 |
+| supercluster | 1 | 2 | 116 | 149 |
+| nyt | 3 | 3 | 21 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 
 # Shown Order
@@ -2887,3 +2887,4 @@
 - **Mar 29, 06:11 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 29, 06:13 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 29, 06:27 AM** - Balancing national security and international cooperation in the competitive era of commercial space (spacenews)
+- **Mar 29, 06:41 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
