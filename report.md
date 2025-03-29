@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 20 | 44 |
-| breaking_defense | 1 | 3 | 20 | 38 |
+| spacenews | 2 | 12 | 20 | 43 |
+| breaking_defense | 1 | 3 | 19 | 38 |
 | nyt | 0 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 0 | 0 | 91 | 126 |
+| supercluster | 0 | 0 | 92 | 127 |
 
 # Shown Order
 
@@ -2899,3 +2899,4 @@
 - **Mar 29, 02:23 PM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
 - **Mar 29, 02:39 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 29, 02:53 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 29, 03:07 PM** - China Will Launch the Long March 7A Rocket (supercluster)
