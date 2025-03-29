@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 22 | 45 |
 | breaking_defense | 1 | 3 | 19 | 37 |
-| supercluster | 1 | 2 | 126 | 163 |
+| supercluster | 1 | 2 | 127 | 164 |
 | nyt | 2 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2911,3 +2911,4 @@
 - **Mar 29, 08:47 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 29, 09:02 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 29, 09:15 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 29, 09:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
