@@ -2767,4 +2767,4 @@
 - **Mar 29, 03:21 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 29, 03:35 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
 - **Mar 29, 03:49 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
-- **Mar 29, 04:05 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Mar 29, 04:07 PM** - China Will Launch the Long March 7A Rocket (supercluster)
