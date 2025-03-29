@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 19 | 41 |
-| breaking_defense | 0 | 2 | 18 | 37 |
-| nyt | 0 | 3 | 19 | 39 |
+| breaking_defense | 0 | 2 | 19 | 38 |
+| nyt | 0 | 3 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -2820,3 +2820,4 @@
 - **Mar 29, 10:03 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 29, 10:18 PM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
 - **Mar 29, 10:32 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 29, 10:45 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
