@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 21 | 44 |
 | breaking_defense | 1 | 3 | 19 | 37 |
-| supercluster | 1 | 2 | 112 | 142 |
+| supercluster | 1 | 2 | 113 | 143 |
 | nyt | 3 | 3 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
 
@@ -2878,3 +2878,4 @@
 - **Mar 29, 05:17 AM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
 - **Mar 29, 05:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 29, 05:45 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Mar 29, 05:59 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
