@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 20 | 44 |
-| breaking_defense | 1 | 3 | 19 | 37 |
+| breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 0 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 0 | 91 | 126 |
+| supercluster | 0 | 0 | 89 | 126 |
 
 # Shown Order
 
@@ -2886,3 +2886,4 @@
 - **Mar 29, 12:51 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Mar 29, 12:53 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Mar 29, 01:09 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
+- **Mar 29, 01:23 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
