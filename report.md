@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 19 | 37 |
 | nyt | 0 | 3 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 37 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2767,3 +2767,4 @@
 - **Mar 29, 03:21 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 29, 03:35 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
 - **Mar 29, 03:49 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 29, 05:05 PM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
