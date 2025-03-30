@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 38 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -2874,3 +2874,4 @@
 - **Mar 30, 11:07 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 30, 11:21 PM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
 - **Mar 30, 11:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
