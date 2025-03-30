@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 40 |
 | supercluster | 1 | 1 | 76 | 76 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
@@ -2886,3 +2886,4 @@
 - **Mar 30, 05:17 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 30, 05:32 AM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
 - **Mar 30, 05:45 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Mar 30, 05:59 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
