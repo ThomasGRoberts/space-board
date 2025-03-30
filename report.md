@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -2836,3 +2836,4 @@
 - **Mar 30, 12:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 12:43 PM** - Isar Aerospace’s first Spectrum launch fails (spacenews)
+- **Mar 30, 12:57 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
