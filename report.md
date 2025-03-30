@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 18 | 40 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
@@ -2932,3 +2932,4 @@
 - **Mar 30, 10:33 AM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
 - **Mar 30, 10:47 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 30, 11:01 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 30, 11:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
