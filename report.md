@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 18 | 38 |
+| spacenews | 2 | 5 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 18 | 38 |
@@ -2835,3 +2835,4 @@
 - **Mar 30, 12:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 12:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 12:43 PM** - Isar Aerospace’s first Spectrum launch fails (spacenews)

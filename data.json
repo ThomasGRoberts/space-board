@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-30T00:02:05.386566+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "e42f7c7b8f94f447c7911957213fa510",
     "data": [
         {
             "id": "ec0f5574f8c0d94969eb2e35860b9905",
@@ -7328,6 +7328,18 @@
                 "2025-03-30T12:37:38.279327Z",
                 "2025-03-30T12:39:31.965332Z",
                 "2025-03-30T12:41:50.909625Z"
+            ]
+        },
+        {
+            "id": "e42f7c7b8f94f447c7911957213fa510",
+            "source": "spacenews",
+            "text": "Isar Aerospace’s first Spectrum launch fails",
+            "source_link": "https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-30T12:43:56.608729Z",
+            "shown_at": [
+                "2025-03-30T12:43:57.531134Z"
             ]
         }
     ]
