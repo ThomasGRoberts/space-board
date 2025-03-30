@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 76 | 76 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
-| nyt | 0 | 3 | 19 | 39 |
+| nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
 
@@ -2885,3 +2885,4 @@
 - **Mar 30, 05:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 05:17 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 30, 05:32 AM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
+- **Mar 30, 05:45 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
