@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 40 |
 | supercluster | 1 | 1 | 83 | 83 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
@@ -2897,3 +2897,4 @@
 - **Mar 30, 06:29 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 30, 06:43 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 30, 06:59 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Mar 30, 07:13 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
