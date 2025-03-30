@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 39 |
+| spacenews | 2 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -2848,3 +2848,4 @@
 - **Mar 30, 01:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 01:53 PM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
 - **Mar 30, 02:07 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Mar 30, 02:21 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
