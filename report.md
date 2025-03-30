@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 62 | 62 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
 | nyt | 0 | 3 | 18 | 39 |
 
@@ -2863,3 +2863,4 @@
 - **Mar 30, 02:51 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 02:53 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 30, 03:11 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
+- **Mar 30, 03:25 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
