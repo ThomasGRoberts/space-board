@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 104 | 104 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 
@@ -2931,3 +2931,4 @@
 - **Mar 30, 10:19 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 10:33 AM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
 - **Mar 30, 10:47 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 30, 11:01 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
