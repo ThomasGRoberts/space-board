@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 18 | 40 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 2 | 18 | 39 |
@@ -2921,3 +2921,4 @@
 - **Mar 30, 09:23 AM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 30, 09:37 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 30, 09:51 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 30, 10:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
