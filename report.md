@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -2863,3 +2863,4 @@
 - **Mar 30, 07:45 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
 - **Mar 30, 07:59 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 30, 08:13 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Mar 30, 08:27 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
