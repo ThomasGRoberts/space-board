@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 40 |
 | supercluster | 1 | 1 | 97 | 97 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 2 | 18 | 39 |
 
@@ -2920,3 +2920,4 @@
 - **Mar 30, 09:09 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 30, 09:23 AM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 30, 09:37 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 30, 09:51 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
