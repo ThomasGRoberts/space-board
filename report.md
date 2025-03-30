@@ -5,8 +5,8 @@
 | spacenews | 1 | 4 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| nyt | 0 | 0 | 18 | 38 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2830,3 +2830,4 @@
 - **Mar 30, 11:01 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 30, 11:29 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 30, 12:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 12:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
