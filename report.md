@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -2860,3 +2860,4 @@
 - **Mar 30, 03:05 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Mar 30, 03:20 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 30, 03:33 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 30, 03:47 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
