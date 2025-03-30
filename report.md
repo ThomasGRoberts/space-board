@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -2874,3 +2874,4 @@
 - **Mar 30, 08:55 PM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Mar 30, 09:11 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 09:25 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 30, 09:39 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
