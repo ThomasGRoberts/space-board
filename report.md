@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 90 | 90 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
@@ -2908,3 +2908,4 @@
 - **Mar 30, 07:53 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 07:55 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 30, 08:09 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
+- **Mar 30, 08:23 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
