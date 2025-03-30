@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2863,3 +2863,4 @@
 - **Mar 30, 09:39 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 30, 10:08 PM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 30, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 10:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
