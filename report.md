@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 104 | 104 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
-| nyt | 0 | 2 | 18 | 39 |
+| nyt | 0 | 2 | 19 | 40 |
 
 # Shown Order
 
@@ -2928,3 +2928,4 @@
 - **Mar 30, 10:13 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 10:15 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 10:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 30, 10:19 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
