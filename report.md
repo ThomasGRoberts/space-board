@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 48 | 48 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 19 | 39 |
 
 # Shown Order
 
@@ -2841,3 +2841,4 @@
 - **Mar 30, 12:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 12:27 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 30, 12:41 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
+- **Mar 30, 12:56 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
