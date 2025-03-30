@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 18 | 40 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
@@ -2910,3 +2910,4 @@
 - **Mar 30, 08:09 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
 - **Mar 30, 08:23 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 30, 08:38 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
+- **Mar 30, 08:53 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
