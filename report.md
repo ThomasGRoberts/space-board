@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -2891,3 +2891,4 @@
 - **Mar 30, 06:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 06:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 06:36 PM** - Miles Space flight tests water-fueled thruster (spacenews)
+- **Mar 30, 06:49 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
