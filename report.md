@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 40 |
 | supercluster | 1 | 1 | 69 | 69 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
@@ -2875,3 +2875,4 @@
 - **Mar 30, 04:07 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 30, 04:21 AM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
 - **Mar 30, 04:35 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
+- **Mar 30, 04:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
