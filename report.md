@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -2871,3 +2871,4 @@
 - **Mar 30, 04:15 PM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
 - **Mar 30, 04:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 04:43 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Mar 30, 04:57 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
