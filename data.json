@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-30T00:02:05.386566+00:00",
-    "trigger_count": 0,
-    "current_item_id": "ff6bb768eab48f7b07810dceaeef5920",
+    "trigger_count": 1,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "ec0f5574f8c0d94969eb2e35860b9905",
@@ -7312,15 +7312,18 @@
             ]
         },
         {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-80",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-30T11:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-30T12:29:28.653101Z"
+            "target_datetime": "2025-03-30T19:20:00.000Z",
+            "time_remaining": "0d 06h 48m",
+            "fetched_datetime": "2025-03-30T12:31:57.323768Z",
+            "shown_at": [
+                "2025-03-30T12:31:57.872064Z"
+            ]
         }
     ]
 }
