@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -2861,3 +2861,4 @@
 - **Mar 30, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 07:45 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
+- **Mar 30, 07:59 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
