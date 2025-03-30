@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -2837,3 +2837,4 @@
 - **Mar 30, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 12:43 PM** - Isar Aerospace’s first Spectrum launch fails (spacenews)
 - **Mar 30, 12:57 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 30, 01:11 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
