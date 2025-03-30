@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 40 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 19 | 37 |
 | nyt | 0 | 3 | 18 | 39 |
@@ -2845,3 +2845,4 @@
 - **Mar 30, 01:11 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 30, 01:25 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 01:27 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 30, 01:29 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
