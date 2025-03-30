@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 19 | 38 |
+| spacenews | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 38 |
@@ -2882,3 +2882,4 @@
 - **Mar 30, 10:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 10:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 10:08 PM** - Airbus wins contract for ExoMars lander platform (spacenews)
