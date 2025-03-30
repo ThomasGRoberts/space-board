@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 104 | 104 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 1 | 18 | 38 |
 
 # Shown Order
@@ -2930,3 +2930,4 @@
 - **Mar 30, 10:17 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 10:19 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 10:33 AM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
+- **Mar 30, 10:47 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
