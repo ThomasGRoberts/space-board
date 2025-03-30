@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 19 | 40 |
 | supercluster | 1 | 1 | 62 | 62 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 3 | 18 | 39 |
 
 # Shown Order
@@ -2864,3 +2864,4 @@
 - **Mar 30, 02:53 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 30, 03:11 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Mar 30, 03:25 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Mar 30, 03:39 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
