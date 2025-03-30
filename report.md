@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -2872,3 +2872,4 @@
 - **Mar 30, 08:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 08:55 PM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
+- **Mar 30, 09:11 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
