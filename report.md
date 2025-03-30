@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 18 | 40 |
+| spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 97 | 97 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
@@ -2918,3 +2918,4 @@
 - **Mar 30, 09:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 09:07 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 09:09 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
+- **Mar 30, 09:23 AM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
