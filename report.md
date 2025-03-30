@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 19 | 38 |
+| spacenews | 2 | 4 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 38 |
@@ -2860,3 +2860,4 @@
 - **Mar 30, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 07:45 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
