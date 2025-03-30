@@ -2829,4 +2829,4 @@
 - **Mar 30, 10:47 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 30, 11:01 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 30, 11:29 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
-- **Mar 30, 11:43 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 30, 11:45 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
