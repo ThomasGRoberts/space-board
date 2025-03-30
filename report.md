@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 18 | 38 |
+| spacenews | 2 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 38 |
 | nyt | 1 | 1 | 18 | 38 |
@@ -2857,3 +2857,4 @@
 - **Mar 30, 02:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 02:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 03:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 30, 03:05 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
