@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 41 |
 | supercluster | 1 | 1 | 55 | 55 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 37 |
 | nyt | 0 | 3 | 19 | 39 |
 
@@ -2852,3 +2852,4 @@
 - **Mar 30, 01:37 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
 - **Mar 30, 01:39 AM** - Musk’s SpaceX Could Secure Billions in New Contracts Under Trump (nyt)
 - **Mar 30, 01:53 AM** - China unveils planetary exploration roadmap targeting habitability and extraterrestrial life (spacenews)
+- **Mar 30, 02:09 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
