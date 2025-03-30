@@ -4,9 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 38 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -2853,33 +2852,12 @@
 - **Mar 30, 06:49 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 30, 07:03 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 30, 07:17 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
-- **Mar 30, 07:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 07:45 PM** - Intuitive Machines emphasizes diversification beyond lunar landers (spacenews)
 - **Mar 30, 07:59 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 30, 08:13 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 30, 08:27 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
-- **Mar 30, 08:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 08:55 PM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Mar 30, 09:11 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 09:25 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 30, 09:39 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
-- **Mar 30, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 09:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 09:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 10:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 10:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Mar 30, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 10:08 PM** - Airbus wins contract for ExoMars lander platform (spacenews)
