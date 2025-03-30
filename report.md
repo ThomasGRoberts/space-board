@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -2871,3 +2871,4 @@
 - **Mar 30, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 10:39 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 30, 10:53 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 30, 11:07 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
