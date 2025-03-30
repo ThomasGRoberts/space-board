@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 40 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 1 | 19 | 37 |
 | nyt | 0 | 3 | 18 | 39 |
@@ -2877,3 +2877,4 @@
 - **Mar 30, 04:35 AM** - House Bills and Executive Order Drive Major Shifts in U.S. Space Policy (aidy)
 - **Mar 30, 04:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 30, 05:03 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
+- **Mar 30, 05:05 AM** - Isar Aerospace Will Launch First Flight of Spectrum Rocket (supercluster)
