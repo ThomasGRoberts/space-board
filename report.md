@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 1 | 18 | 37 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -2859,3 +2859,4 @@
 - **Mar 30, 03:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 03:05 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Mar 30, 03:20 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
+- **Mar 30, 03:33 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
