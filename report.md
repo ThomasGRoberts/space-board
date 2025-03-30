@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 19 | 37 |
+| breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -2881,3 +2881,4 @@
 - **Mar 30, 05:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 05:25 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 30, 05:39 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Mar 30, 05:53 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
