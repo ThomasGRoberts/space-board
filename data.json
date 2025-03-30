@@ -1,9 +1,101 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-29T00:02:01.709264+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-03-30T00:02:05.386566+00:00",
+    "trigger_count": 2,
     "current_item_id": "c033cebf911bbb65a120e22bda835949",
     "data": [
+        {
+            "id": "ec0f5574f8c0d94969eb2e35860b9905",
+            "source": "spacenews",
+            "text": "China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite",
+            "source_link": "https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-29T21:05:28.463420Z",
+            "shown_at": [
+                "2025-03-29T21:05:28.968974Z"
+            ]
+        },
+        {
+            "id": "ff6bb768eab48f7b07810dceaeef5920",
+            "source": "supercluster",
+            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
+            "source_link": "https://www.supercluster.com/launches/spectrum",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-30T11:30:00.000Z",
+            "time_remaining": "0d 12h 18m",
+            "fetched_datetime": "2025-03-29T17:05:49.465449Z",
+            "shown_at": [
+                "2025-03-29T17:05:50.399784Z",
+                "2025-03-29T17:07:25.791455Z",
+                "2025-03-29T17:09:24.736634Z",
+                "2025-03-29T17:11:37.850863Z",
+                "2025-03-29T17:13:30.409430Z",
+                "2025-03-29T17:15:14.499802Z",
+                "2025-03-29T18:13:40.631256Z",
+                "2025-03-29T18:15:40.881364Z",
+                "2025-03-29T18:17:46.584025Z",
+                "2025-03-29T18:19:54.600634Z",
+                "2025-03-29T18:21:37.791832Z",
+                "2025-03-29T18:23:23.245293Z",
+                "2025-03-29T18:25:55.691749Z",
+                "2025-03-29T19:25:36.173736Z",
+                "2025-03-29T19:27:46.437094Z",
+                "2025-03-29T19:29:47.320810Z",
+                "2025-03-29T19:31:48.146586Z",
+                "2025-03-29T19:33:25.403149Z",
+                "2025-03-29T19:35:04.336417Z",
+                "2025-03-29T19:37:35.115071Z",
+                "2025-03-29T20:37:40.606185Z",
+                "2025-03-29T20:39:37.934493Z",
+                "2025-03-29T20:41:28.313794Z",
+                "2025-03-29T20:43:38.511116Z",
+                "2025-03-29T20:45:31.848224Z",
+                "2025-03-29T20:47:34.691970Z",
+                "2025-03-29T20:49:48.920376Z",
+                "2025-03-29T21:49:38.555341Z",
+                "2025-03-29T21:51:31.627712Z",
+                "2025-03-29T21:53:38.261395Z",
+                "2025-03-29T21:55:40.704852Z",
+                "2025-03-29T21:57:23.749555Z",
+                "2025-03-29T21:59:22.751668Z",
+                "2025-03-29T22:02:06.129516Z",
+                "2025-03-29T22:59:32.036594Z",
+                "2025-03-29T23:01:46.457399Z",
+                "2025-03-29T23:03:33.884286Z",
+                "2025-03-29T23:05:34.624044Z",
+                "2025-03-29T23:07:40.949257Z",
+                "2025-03-29T23:09:42.160506Z",
+                "2025-03-29T23:11:28.157535Z"
+            ]
+        },
+        {
+            "id": "6da251b04a07b7f60b3e7aba72b456a5",
+            "source": "aidy",
+            "text": "FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-29T07:23:34.030991Z",
+            "shown_at": [
+                "2025-03-29T07:23:34.674013Z",
+                "2025-03-29T09:43:32.616397Z",
+                "2025-03-29T19:53:49.669164Z"
+            ]
+        },
+        {
+            "id": "4747e6a3a9ca323978063fb0eb863670",
+            "source": "spacenews",
+            "text": "Airbus wins contract for ExoMars lander platform",
+            "source_link": "https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-29T00:35:37.965802Z",
+            "shown_at": [
+                "2025-03-29T00:35:38.747071Z"
+            ]
+        },
         {
             "id": "41e7a78120b7f705fab59f31c51c8dae",
             "source": "spacenews",
@@ -7222,98 +7314,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "4747e6a3a9ca323978063fb0eb863670",
-            "source": "spacenews",
-            "text": "Airbus wins contract for ExoMars lander platform",
-            "source_link": "https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T00:35:37.965802Z",
-            "shown_at": [
-                "2025-03-29T00:35:38.747071Z"
-            ]
-        },
-        {
-            "id": "6da251b04a07b7f60b3e7aba72b456a5",
-            "source": "aidy",
-            "text": "FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T07:23:34.030991Z",
-            "shown_at": [
-                "2025-03-29T07:23:34.674013Z",
-                "2025-03-29T09:43:32.616397Z",
-                "2025-03-29T19:53:49.669164Z"
-            ]
-        },
-        {
-            "id": "ff6bb768eab48f7b07810dceaeef5920",
-            "source": "supercluster",
-            "text": "Isar Aerospace Will Launch First Flight of Spectrum Rocket",
-            "source_link": "https://www.supercluster.com/launches/spectrum",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-30T11:30:00.000Z",
-            "time_remaining": "0d 12h 18m",
-            "fetched_datetime": "2025-03-29T17:05:49.465449Z",
-            "shown_at": [
-                "2025-03-29T17:05:50.399784Z",
-                "2025-03-29T17:07:25.791455Z",
-                "2025-03-29T17:09:24.736634Z",
-                "2025-03-29T17:11:37.850863Z",
-                "2025-03-29T17:13:30.409430Z",
-                "2025-03-29T17:15:14.499802Z",
-                "2025-03-29T18:13:40.631256Z",
-                "2025-03-29T18:15:40.881364Z",
-                "2025-03-29T18:17:46.584025Z",
-                "2025-03-29T18:19:54.600634Z",
-                "2025-03-29T18:21:37.791832Z",
-                "2025-03-29T18:23:23.245293Z",
-                "2025-03-29T18:25:55.691749Z",
-                "2025-03-29T19:25:36.173736Z",
-                "2025-03-29T19:27:46.437094Z",
-                "2025-03-29T19:29:47.320810Z",
-                "2025-03-29T19:31:48.146586Z",
-                "2025-03-29T19:33:25.403149Z",
-                "2025-03-29T19:35:04.336417Z",
-                "2025-03-29T19:37:35.115071Z",
-                "2025-03-29T20:37:40.606185Z",
-                "2025-03-29T20:39:37.934493Z",
-                "2025-03-29T20:41:28.313794Z",
-                "2025-03-29T20:43:38.511116Z",
-                "2025-03-29T20:45:31.848224Z",
-                "2025-03-29T20:47:34.691970Z",
-                "2025-03-29T20:49:48.920376Z",
-                "2025-03-29T21:49:38.555341Z",
-                "2025-03-29T21:51:31.627712Z",
-                "2025-03-29T21:53:38.261395Z",
-                "2025-03-29T21:55:40.704852Z",
-                "2025-03-29T21:57:23.749555Z",
-                "2025-03-29T21:59:22.751668Z",
-                "2025-03-29T22:02:06.129516Z",
-                "2025-03-29T22:59:32.036594Z",
-                "2025-03-29T23:01:46.457399Z",
-                "2025-03-29T23:03:33.884286Z",
-                "2025-03-29T23:05:34.624044Z",
-                "2025-03-29T23:07:40.949257Z",
-                "2025-03-29T23:09:42.160506Z",
-                "2025-03-29T23:11:28.157535Z"
-            ]
-        },
-        {
-            "id": "ec0f5574f8c0d94969eb2e35860b9905",
-            "source": "spacenews",
-            "text": "China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite",
-            "source_link": "https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T21:05:28.463420Z",
-            "shown_at": [
-                "2025-03-29T21:05:28.968974Z"
             ]
         }
     ]
