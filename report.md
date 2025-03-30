@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 18 | 38 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 1 | 18 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 6 | 6 |
+| nyt | 0 | 0 | 18 | 38 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -2839,3 +2839,4 @@
 - **Mar 30, 12:57 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 30, 01:11 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 30, 01:25 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
+- **Mar 30, 01:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
