@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 1 | 1 | 20 | 38 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -2875,3 +2875,4 @@
 - **Mar 30, 09:11 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 09:25 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 30, 09:39 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
+- **Mar 30, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
