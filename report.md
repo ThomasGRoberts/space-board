@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -2869,3 +2869,4 @@
 - **Mar 30, 04:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 04:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 30, 04:15 PM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
+- **Mar 30, 04:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
