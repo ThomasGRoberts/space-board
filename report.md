@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 28 | 28 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2904,3 +2904,4 @@
 - **Mar 31, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 02:15 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 02:29 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Mar 31, 02:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
