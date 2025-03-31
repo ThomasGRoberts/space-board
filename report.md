@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 91 | 91 |
 | nyt | 0 | 1 | 19 | 38 |
 | spacenews | 3 | 5 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 
 # Shown Order
@@ -3006,3 +3006,4 @@
 - **Mar 31, 01:35 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 31, 01:49 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 31, 02:03 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
+- **Mar 31, 02:17 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
