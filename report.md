@@ -6,7 +6,7 @@
 | spacenews | 7 | 8 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -2945,3 +2945,4 @@
 - **Mar 31, 09:33 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 31, 09:47 PM** - White House nominates Autry to be NASA’s chief financial officer (spacenews)
 - **Mar 31, 10:01 PM** - Investigation into failed New Glenn landing completed (spacenews)
+- **Mar 31, 10:15 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
