@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 18 | 37 |
-| spacenews | 7 | 8 | 22 | 42 |
+| spacenews | 7 | 8 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -2947,3 +2947,4 @@
 - **Mar 31, 10:01 PM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Mar 31, 10:15 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Mar 31, 10:17 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Mar 31, 10:19 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
