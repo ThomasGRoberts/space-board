@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2959,3 +2959,4 @@
 - **Mar 31, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 08:29 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Mar 31, 08:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
