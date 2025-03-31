@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 0,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 1,
+    "current_item_id": "a19d36193207dc36757d11bb57d4560c",
     "data": [
         {
             "id": "dbbca267bcb67e2610c1f390be7d1c63",
@@ -7516,15 +7516,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "a19d36193207dc36757d11bb57d4560c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-80",
-            "shown": false,
+            "text": "SpaceX Will Launch Crewed Mission Over Earth's Polar Regions",
+            "source_link": "https://www.supercluster.com/launches/fram2",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-03-31T19:52:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-03-31T20:51:45.864237Z"
+            "target_datetime": "2025-04-01T01:46:00.000Z",
+            "time_remaining": "0d 04h 52m",
+            "fetched_datetime": "2025-03-31T20:53:55.581625Z",
+            "shown_at": [
+                "2025-03-31T20:53:56.162340Z"
+            ]
         }
     ]
 }
