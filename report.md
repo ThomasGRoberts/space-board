@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 21 | 21 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2893,3 +2893,4 @@
 - **Mar 31, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 01:02 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 01:19 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 31, 01:34 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
