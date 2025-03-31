@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 1 | 1 | 20 | 38 |
-| spacenews | 3 | 5 | 20 | 39 |
-| aidy | 1 | 2 | 20 | 39 |
+| spacenews | 3 | 5 | 21 | 40 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 
 # Shown Order
@@ -2994,3 +2994,4 @@
 - **Mar 31, 12:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 12:26 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 31, 12:39 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 31, 12:53 PM** - GAO rejects TraCSS contract protest (spacenews)
