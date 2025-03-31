@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 4 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 37 |
+| breaking_defense | 0 | 0 | 20 | 38 |
 
 # Shown Order
 
@@ -2993,3 +2993,4 @@
 - **Mar 31, 12:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 12:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 12:26 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Mar 31, 12:39 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
