@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 | nyt | 1 | 1 | 19 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -2939,3 +2939,4 @@
 - **Mar 31, 06:02 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 31, 06:17 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Mar 31, 06:31 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
+- **Mar 31, 06:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
