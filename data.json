@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3b0034f4e0e3308d416596640402793a",
+    "trigger_count": 0,
+    "current_item_id": "8dfec4caaccba993866e6c80bc71f7b6",
     "data": [
         {
             "id": "dbbca267bcb67e2610c1f390be7d1c63",
@@ -7559,6 +7559,18 @@
             "fetched_datetime": "2025-03-31T22:01:46.883004Z",
             "shown_at": [
                 "2025-03-31T22:01:47.717218Z"
+            ]
+        },
+        {
+            "id": "8dfec4caaccba993866e6c80bc71f7b6",
+            "source": "nyt",
+            "text": "NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS",
+            "source_link": "https://www.nytimes.com/2025/03/31/science/nasa-astronauts-stuck-space-press-conference.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T23:27:45.893060Z",
+            "shown_at": [
+                "2025-03-31T23:27:46.789545Z"
             ]
         }
     ]
