@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 3 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2996,3 +2996,4 @@
 - **Mar 31, 12:39 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 31, 12:53 PM** - GAO rejects TraCSS contract protest (spacenews)
 - **Mar 31, 01:07 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 31, 01:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
