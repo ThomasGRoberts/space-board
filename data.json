@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dfec4caaccba993866e6c80bc71f7b6",
+    "trigger_count": 0,
+    "current_item_id": "bcf980d51a350a9084a6f222897377d3",
     "data": [
         {
             "id": "dbbca267bcb67e2610c1f390be7d1c63",
@@ -7571,6 +7571,18 @@
             "fetched_datetime": "2025-03-31T23:27:45.893060Z",
             "shown_at": [
                 "2025-03-31T23:27:46.789545Z"
+            ]
+        },
+        {
+            "id": "bcf980d51a350a9084a6f222897377d3",
+            "source": "nyt",
+            "text": "Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere",
+            "source_link": "https://www.nytimes.com/2025/03/29/science/solar-partial-eclipse-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T23:41:42.992190Z",
+            "shown_at": [
+                "2025-03-31T23:41:44.325315Z"
             ]
         }
     ]

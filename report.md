@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 19 | 38 |
+| nyt | 2 | 3 | 20 | 39 |
 | spacenews | 7 | 8 | 22 | 41 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -2957,3 +2957,4 @@
 - **Mar 31, 10:57 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Mar 31, 11:13 PM** - Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense (spacenews)
 - **Mar 31, 11:27 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Mar 31, 11:41 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
