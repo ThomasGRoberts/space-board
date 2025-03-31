@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 | nyt | 1 | 1 | 19 | 38 |
-| spacenews | 1 | 2 | 20 | 38 |
+| spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
@@ -2907,3 +2907,4 @@
 - **Mar 31, 02:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 31, 02:57 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 31, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
