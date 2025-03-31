@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | nyt | 1 | 1 | 19 | 37 |
 | spacenews | 3 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2973,3 +2973,4 @@
 - **Mar 31, 10:01 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 31, 10:15 AM** - NASA adds Starship to launch contract (spacenews)
 - **Mar 31, 10:29 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 31, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
