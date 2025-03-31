@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 98 | 98 |
 | nyt | 0 | 1 | 20 | 38 |
-| spacenews | 3 | 5 | 20 | 39 |
+| spacenews | 3 | 5 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 
@@ -3016,3 +3016,4 @@
 - **Mar 31, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 02:45 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 31, 02:59 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Mar 31, 03:13 PM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
