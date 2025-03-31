@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 1 | 19 | 39 |
-| spacenews | 4 | 6 | 21 | 40 |
+| spacenews | 4 | 6 | 22 | 41 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -3036,3 +3036,4 @@
 - **Mar 31, 04:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 05:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 05:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 05:05 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
