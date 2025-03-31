@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 98 | 98 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | spacenews | 3 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
@@ -3014,3 +3014,4 @@
 - **Mar 31, 02:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 02:45 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
