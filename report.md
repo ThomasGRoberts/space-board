@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 1 | 1 | 19 | 37 |
 | spacenews | 2 | 3 | 20 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
@@ -2961,3 +2961,4 @@
 - **Mar 31, 08:29 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 31, 08:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 31, 08:59 AM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
+- **Mar 31, 09:17 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
