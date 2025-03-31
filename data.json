@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "08a5c0f5dc422640d382eb3d3d2a12ea",
+    "trigger_count": 0,
+    "current_item_id": "842f69d4af6fb946dff05f4d28999d45",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -7608,6 +7608,18 @@
             "fetched_datetime": "2025-03-31T15:55:28.570131Z",
             "shown_at": [
                 "2025-03-31T15:55:29.207272Z"
+            ]
+        },
+        {
+            "id": "842f69d4af6fb946dff05f4d28999d45",
+            "source": "spacenews",
+            "text": "“Standardization, automation, and industrialization are no longer optional”",
+            "source_link": "https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T17:33:44.064379Z",
+            "shown_at": [
+                "2025-03-31T17:33:45.026153Z"
             ]
         }
     ]

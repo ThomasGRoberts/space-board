@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 1 | 20 | 39 |
-| spacenews | 4 | 6 | 21 | 41 |
-| aidy | 1 | 2 | 20 | 40 |
+| spacenews | 5 | 7 | 22 | 42 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -3038,3 +3038,4 @@
 - **Mar 31, 05:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 05:05 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 31, 05:19 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
+- **Mar 31, 05:33 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
