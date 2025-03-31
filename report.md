@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 3 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2981,3 +2981,4 @@
 - **Mar 31, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 10:59 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Mar 31, 11:15 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
