@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 37 |
-| aidy | 0 | 1 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2949,3 +2949,4 @@
 - **Mar 31, 06:59 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 31, 07:17 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 31, 07:32 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
+- **Mar 31, 07:45 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
