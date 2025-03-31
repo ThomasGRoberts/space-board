@@ -1,9 +1,76 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-30T00:02:05.386566+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
+    "trigger_count": 6,
     "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
     "data": [
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-80",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-03-31T19:32:00.000Z",
+            "time_remaining": "0d 19h 44m",
+            "fetched_datetime": "2025-03-30T22:25:37.725369Z",
+            "shown_at": [
+                "2025-03-30T22:25:39.199871Z",
+                "2025-03-30T22:27:35.930564Z",
+                "2025-03-30T22:29:26.469130Z",
+                "2025-03-30T22:31:49.134399Z",
+                "2025-03-30T22:33:42.099892Z",
+                "2025-03-30T22:35:24.253873Z",
+                "2025-03-30T22:37:27.508657Z",
+                "2025-03-30T23:35:30.712015Z",
+                "2025-03-30T23:37:45.158882Z",
+                "2025-03-30T23:39:31.052274Z",
+                "2025-03-30T23:41:36.826169Z",
+                "2025-03-30T23:43:26.567628Z",
+                "2025-03-30T23:45:41.288090Z",
+                "2025-03-30T23:47:35.281518Z"
+            ]
+        },
+        {
+            "id": "dbbca267bcb67e2610c1f390be7d1c63",
+            "source": "nyt",
+            "text": "Orbital Rocket Crashes After First Launch From Continental Europe",
+            "source_link": "https://www.nytimes.com/2025/03/30/us/orbital-rocket-crash-europe.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-30T14:07:35.564880Z",
+            "shown_at": [
+                "2025-03-30T14:07:37.243351Z",
+                "2025-03-30T22:39:26.900781Z"
+            ]
+        },
+        {
+            "id": "e42f7c7b8f94f447c7911957213fa510",
+            "source": "spacenews",
+            "text": "Isar Aerospace’s first Spectrum launch fails",
+            "source_link": "https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-30T12:43:56.608729Z",
+            "shown_at": [
+                "2025-03-30T12:43:57.531134Z"
+            ]
+        },
+        {
+            "id": "e95cdc71cd8c63b75718c61619de55b2",
+            "source": "aidy",
+            "text": "FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-30T07:27:29.810278Z",
+            "shown_at": [
+                "2025-03-30T07:27:30.411545Z",
+                "2025-03-30T19:17:41.753868Z",
+                "2025-03-30T21:39:30.418256Z",
+                "2025-03-30T23:07:35.030255Z"
+            ]
+        },
         {
             "id": "ec0f5574f8c0d94969eb2e35860b9905",
             "source": "spacenews",
@@ -7329,73 +7396,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "e95cdc71cd8c63b75718c61619de55b2",
-            "source": "aidy",
-            "text": "FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T07:27:29.810278Z",
-            "shown_at": [
-                "2025-03-30T07:27:30.411545Z",
-                "2025-03-30T19:17:41.753868Z",
-                "2025-03-30T21:39:30.418256Z",
-                "2025-03-30T23:07:35.030255Z"
-            ]
-        },
-        {
-            "id": "e42f7c7b8f94f447c7911957213fa510",
-            "source": "spacenews",
-            "text": "Isar Aerospace’s first Spectrum launch fails",
-            "source_link": "https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T12:43:56.608729Z",
-            "shown_at": [
-                "2025-03-30T12:43:57.531134Z"
-            ]
-        },
-        {
-            "id": "dbbca267bcb67e2610c1f390be7d1c63",
-            "source": "nyt",
-            "text": "Orbital Rocket Crashes After First Launch From Continental Europe",
-            "source_link": "https://www.nytimes.com/2025/03/30/us/orbital-rocket-crash-europe.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T14:07:35.564880Z",
-            "shown_at": [
-                "2025-03-30T14:07:37.243351Z",
-                "2025-03-30T22:39:26.900781Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-80",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-03-31T19:32:00.000Z",
-            "time_remaining": "0d 19h 44m",
-            "fetched_datetime": "2025-03-30T22:25:37.725369Z",
-            "shown_at": [
-                "2025-03-30T22:25:39.199871Z",
-                "2025-03-30T22:27:35.930564Z",
-                "2025-03-30T22:29:26.469130Z",
-                "2025-03-30T22:31:49.134399Z",
-                "2025-03-30T22:33:42.099892Z",
-                "2025-03-30T22:35:24.253873Z",
-                "2025-03-30T22:37:27.508657Z",
-                "2025-03-30T23:35:30.712015Z",
-                "2025-03-30T23:37:45.158882Z",
-                "2025-03-30T23:39:31.052274Z",
-                "2025-03-30T23:41:36.826169Z",
-                "2025-03-30T23:43:26.567628Z",
-                "2025-03-30T23:45:41.288090Z",
-                "2025-03-30T23:47:35.281518Z"
             ]
         }
     ]
