@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 42 | 42 |
-| nyt | 1 | 1 | 20 | 38 |
-| spacenews | 1 | 2 | 19 | 38 |
+| nyt | 1 | 1 | 19 | 38 |
+| spacenews | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -2927,3 +2927,4 @@
 - **Mar 31, 04:37 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 04:51 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 31, 05:05 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 31, 05:19 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
