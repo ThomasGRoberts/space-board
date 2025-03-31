@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | nyt | 1 | 1 | 19 | 37 |
 | spacenews | 2 | 3 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2962,3 +2962,4 @@
 - **Mar 31, 08:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Mar 31, 08:59 AM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
 - **Mar 31, 09:17 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Mar 31, 09:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
