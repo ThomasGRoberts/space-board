@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | nyt | 1 | 1 | 19 | 38 |
 | spacenews | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -2917,3 +2917,4 @@
 - **Mar 31, 03:39 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 31, 03:53 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 31, 04:07 AM** - GAO rejects TraCSS contract protest (spacenews)
+- **Mar 31, 04:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
