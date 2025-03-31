@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 3 | 5 | 21 | 40 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2995,3 +2995,4 @@
 - **Mar 31, 12:26 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 31, 12:39 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 31, 12:53 PM** - GAO rejects TraCSS contract protest (spacenews)
+- **Mar 31, 01:07 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
