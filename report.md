@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 1 | 19 | 39 |
-| spacenews | 5 | 7 | 22 | 41 |
+| spacenews | 6 | 8 | 23 | 42 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -3052,3 +3052,4 @@
 - **Mar 31, 06:43 PM** - Miles Space flight tests water-fueled thruster (spacenews)
 - **Mar 31, 06:57 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 31, 07:11 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 31, 07:25 PM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
