@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 1 | 1 | 20 | 38 |
-| spacenews | 1 | 2 | 19 | 37 |
+| spacenews | 2 | 3 | 20 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -2960,3 +2960,4 @@
 - **Mar 31, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 08:29 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 31, 08:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Mar 31, 08:59 AM** - Chinese Bluetooth satellite startup raises early funding (spacenews)

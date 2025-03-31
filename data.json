@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dd2142d62c663dd6495f82ee27025e87",
+    "trigger_count": 0,
+    "current_item_id": "c536147367e31452946ef97231b71405",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -7486,6 +7486,18 @@
             "fetched_datetime": "2025-03-31T07:45:27.710159Z",
             "shown_at": [
                 "2025-03-31T07:45:28.124296Z"
+            ]
+        },
+        {
+            "id": "c536147367e31452946ef97231b71405",
+            "source": "spacenews",
+            "text": "Chinese Bluetooth satellite startup raises early funding",
+            "source_link": "https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T08:59:45.303542Z",
+            "shown_at": [
+                "2025-03-31T08:59:46.268046Z"
             ]
         }
     ]
