@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 49 | 49 |
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2937,3 +2937,4 @@
 - **Mar 31, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 05:47 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Mar 31, 06:02 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Mar 31, 06:17 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
