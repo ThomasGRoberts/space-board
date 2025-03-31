@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 1 | 1 | 19 | 38 |
-| spacenews | 1 | 2 | 19 | 37 |
+| spacenews | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
@@ -2950,3 +2950,4 @@
 - **Mar 31, 07:17 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 31, 07:32 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Mar 31, 07:45 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Mar 31, 08:02 AM** - NASA terminating $420 million in contracts (spacenews)
