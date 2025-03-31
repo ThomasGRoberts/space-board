@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 18 | 37 |
+| nyt | 0 | 1 | 19 | 38 |
 | spacenews | 7 | 8 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
@@ -2952,3 +2952,4 @@
 - **Mar 31, 10:23 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Mar 31, 10:25 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Mar 31, 10:27 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Mar 31, 10:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
