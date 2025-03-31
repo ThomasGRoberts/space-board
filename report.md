@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 18 | 37 |
-| spacenews | 6 | 8 | 22 | 41 |
+| spacenews | 6 | 8 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -2936,3 +2936,4 @@
 - **Mar 31, 07:25 PM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
 - **Mar 31, 08:53 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Mar 31, 08:55 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Mar 31, 08:57 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
