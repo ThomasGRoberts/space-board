@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 105 | 105 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | spacenews | 4 | 6 | 22 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
@@ -3026,3 +3026,4 @@
 - **Mar 31, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 03:55 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
+- **Mar 31, 04:09 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
