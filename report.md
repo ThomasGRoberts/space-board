@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 19 | 38 |
 | spacenews | 6 | 8 | 22 | 42 |
-| aidy | 1 | 2 | 20 | 40 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -2934,4 +2934,3 @@
 - **Mar 31, 06:57 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 31, 07:11 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 31, 07:25 PM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
-- **Mar 31, 07:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
