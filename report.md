@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 | nyt | 1 | 1 | 19 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -2908,3 +2908,4 @@
 - **Mar 31, 02:57 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Mar 31, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
