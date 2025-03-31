@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 | nyt | 1 | 1 | 19 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -2884,3 +2884,4 @@
 - **Mar 31, 12:03 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 31, 12:17 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 31, 12:31 AM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
+- **Mar 31, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
