@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 | nyt | 1 | 1 | 19 | 38 |
 | spacenews | 4 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
@@ -2986,3 +2986,4 @@
 - **Mar 31, 11:43 AM** - Nelson concerned about NASA layoffs and other changes (spacenews)
 - **Mar 31, 11:57 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 31, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
