@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 35 | 35 |
-| nyt | 1 | 1 | 19 | 37 |
+| nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
@@ -2913,3 +2913,4 @@
 - **Mar 31, 03:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 03:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 03:25 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
