@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | nyt | 0 | 1 | 19 | 39 |
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 20 | 40 |
@@ -3043,3 +3043,4 @@
 - **Mar 31, 06:01 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 31, 06:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 06:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 06:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
