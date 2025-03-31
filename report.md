@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 70 | 70 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 19 | 37 |
 | spacenews | 3 | 4 | 20 | 38 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
@@ -2972,3 +2972,4 @@
 - **Mar 31, 09:45 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 31, 10:01 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 31, 10:15 AM** - NASA adds Starship to launch contract (spacenews)
+- **Mar 31, 10:29 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
