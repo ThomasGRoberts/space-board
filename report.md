@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 | nyt | 0 | 1 | 19 | 39 |
 | spacenews | 5 | 7 | 22 | 41 |
 | aidy | 1 | 2 | 20 | 40 |
@@ -3041,3 +3041,4 @@
 - **Mar 31, 05:33 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Mar 31, 05:47 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 31, 06:01 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Mar 31, 06:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
