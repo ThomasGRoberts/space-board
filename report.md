@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 28 | 28 |
 | nyt | 1 | 1 | 19 | 38 |
-| spacenews | 1 | 2 | 19 | 38 |
+| spacenews | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
@@ -2905,3 +2905,4 @@
 - **Mar 31, 02:15 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 02:29 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 31, 02:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Mar 31, 02:57 AM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
