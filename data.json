@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "2e215a78057dd71591849d2ca2f355a2",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -7584,6 +7584,18 @@
             "fetched_datetime": "2025-03-31T11:43:29.654355Z",
             "shown_at": [
                 "2025-03-31T11:43:30.185331Z"
+            ]
+        },
+        {
+            "id": "2e215a78057dd71591849d2ca2f355a2",
+            "source": "spacenews",
+            "text": "Space Force to test satellite refueling technologies in orbit",
+            "source_link": "https://spacenews.com/space-force-to-test-satellite-refueling-technologies-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T15:55:28.570131Z",
+            "shown_at": [
+                "2025-03-31T15:55:29.207272Z"
             ]
         }
     ]
