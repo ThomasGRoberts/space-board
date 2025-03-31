@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 77 | 77 |
 | nyt | 1 | 1 | 19 | 38 |
-| spacenews | 3 | 4 | 20 | 38 |
+| spacenews | 4 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 
@@ -2983,3 +2983,4 @@
 - **Mar 31, 10:59 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 31, 11:15 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 31, 11:29 AM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
+- **Mar 31, 11:43 AM** - Nelson concerned about NASA layoffs and other changes (spacenews)

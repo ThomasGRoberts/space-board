@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0bb748e20f6ffd36b5ec8d922adff49d",
+    "trigger_count": 0,
+    "current_item_id": "908752e78652b539f2f4de1bdf1dbbf2",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -7531,6 +7531,18 @@
             "fetched_datetime": "2025-03-31T10:15:26.212963Z",
             "shown_at": [
                 "2025-03-31T10:15:26.622127Z"
+            ]
+        },
+        {
+            "id": "908752e78652b539f2f4de1bdf1dbbf2",
+            "source": "spacenews",
+            "text": "Nelson concerned about NASA layoffs and other changes",
+            "source_link": "https://spacenews.com/nelson-concerned-about-nasa-layoffs-and-other-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T11:43:29.654355Z",
+            "shown_at": [
+                "2025-03-31T11:43:30.185331Z"
             ]
         }
     ]
