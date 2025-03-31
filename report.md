@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 1 | 20 | 39 |
-| spacenews | 5 | 7 | 21 | 41 |
-| aidy | 1 | 2 | 20 | 40 |
+| spacenews | 5 | 7 | 22 | 42 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -3049,3 +3049,4 @@
 - **Mar 31, 06:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 06:28 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 06:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Mar 31, 06:43 PM** - Miles Space flight tests water-fueled thruster (spacenews)
