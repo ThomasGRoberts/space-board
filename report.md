@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 19 | 39 |
+| nyt | 0 | 1 | 19 | 38 |
 | spacenews | 6 | 8 | 23 | 42 |
 | aidy | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2935,3 +2935,4 @@
 - **Mar 31, 07:11 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 31, 07:25 PM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
 - **Mar 31, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Mar 31, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)

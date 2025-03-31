@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
@@ -7523,10 +7523,11 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-03-31T19:52:00.000Z",
-            "time_remaining": "0d 00h 12m",
+            "time_remaining": "0d 00h 10m",
             "fetched_datetime": "2025-03-31T19:39:09.188666Z",
             "shown_at": [
-                "2025-03-31T19:39:09.736488Z"
+                "2025-03-31T19:39:09.736488Z",
+                "2025-03-31T19:41:37.409638Z"
             ]
         }
     ]
