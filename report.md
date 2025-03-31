@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 | nyt | 0 | 1 | 19 | 38 |
 | spacenews | 3 | 5 | 21 | 39 |
 | aidy | 1 | 2 | 21 | 39 |
@@ -3018,3 +3018,4 @@
 - **Mar 31, 02:59 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 31, 03:13 PM** - Rocket Lab, Stoke Space join National Security Space Launch competition (spacenews)
 - **Mar 31, 03:27 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Mar 31, 03:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
