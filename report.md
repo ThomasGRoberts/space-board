@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 18 | 38 |
 | spacenews | 6 | 7 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -2942,3 +2942,4 @@
 - **Mar 31, 09:03 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Mar 31, 09:05 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 09:19 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Mar 31, 09:33 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
