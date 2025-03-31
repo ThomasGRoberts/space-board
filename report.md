@@ -5,8 +5,8 @@
 | nyt | 2 | 3 | 19 | 39 |
 | spacenews | 7 | 8 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 14 | 14 |
+| breaking_defense | 0 | 0 | 18 | 36 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -2959,3 +2959,4 @@
 - **Mar 31, 11:27 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Mar 31, 11:41 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Mar 31, 11:55 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Mar 31, 11:57 PM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
