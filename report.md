@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 1 | 2 | 19 | 38 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2947,3 +2947,4 @@
 - **Mar 31, 06:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 06:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Mar 31, 06:59 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Mar 31, 07:17 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
