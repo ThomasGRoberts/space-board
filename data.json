@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "5a0104c85d12764ff1d6e2fda3d08548",
     "data": [
         {
             "id": "bcf980d51a350a9084a6f222897377d3",
@@ -7621,6 +7621,18 @@
                 "2025-04-01T07:33:44.539508Z",
                 "2025-04-01T07:35:47.724046Z",
                 "2025-04-01T07:37:41.578191Z"
+            ]
+        },
+        {
+            "id": "5a0104c85d12764ff1d6e2fda3d08548",
+            "source": "aidy",
+            "text": "FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T07:39:40.392031Z",
+            "shown_at": [
+                "2025-04-01T07:39:40.967472Z"
             ]
         }
     ]
