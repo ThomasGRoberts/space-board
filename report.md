@@ -5,8 +5,8 @@
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 7 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 17 | 36 |
-| breaking_defense | 0 | 0 | 17 | 35 |
-| supercluster | 1 | 1 | 35 | 35 |
+| breaking_defense | 0 | 0 | 16 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3012,3 +3012,4 @@
 - **Apr 01, 10:32 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Apr 01, 10:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 11:02 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
+- **Apr 01, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
