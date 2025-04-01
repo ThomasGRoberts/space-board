@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 18 | 37 |
 | spacenews | 6 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 35 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -3010,3 +3010,4 @@
 - **Apr 01, 10:02 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 01, 10:17 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 10:32 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
+- **Apr 01, 10:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
