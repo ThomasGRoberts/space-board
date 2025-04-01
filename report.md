@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 37 |
 | spacenews | 6 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -3066,3 +3066,4 @@
 - **Apr 01, 04:37 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 04:51 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
 - **Apr 01, 05:05 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
+- **Apr 01, 05:19 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
