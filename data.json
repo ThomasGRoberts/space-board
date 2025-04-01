@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9962a1c94f71836d19515ee7462ea84",
+    "trigger_count": 0,
+    "current_item_id": "2b71ca01fdf047f37b5d293b45dc9cab",
     "data": [
         {
             "id": "bcf980d51a350a9084a6f222897377d3",
@@ -7711,6 +7711,18 @@
             "fetched_datetime": "2025-04-01T11:02:17.933083Z",
             "shown_at": [
                 "2025-04-01T11:02:18.663472Z"
+            ]
+        },
+        {
+            "id": "2b71ca01fdf047f37b5d293b45dc9cab",
+            "source": "spacenews",
+            "text": "MDA Space buys SatixFy to boost constellation production",
+            "source_link": "https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T15:36:58.828464Z",
+            "shown_at": [
+                "2025-04-01T15:36:59.462891Z"
             ]
         }
     ]
