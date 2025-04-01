@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 18 | 37 |
 | spacenews | 7 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -2999,3 +2999,4 @@
 - **Apr 01, 08:49 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 01, 09:05 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 09:19 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
+- **Apr 01, 09:33 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
