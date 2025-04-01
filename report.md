@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 37 |
+| nyt | 2 | 2 | 17 | 37 |
 | spacenews | 6 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
@@ -3055,3 +3055,4 @@
 - **Apr 01, 03:15 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 03:36 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 01, 03:52 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 01, 04:09 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
