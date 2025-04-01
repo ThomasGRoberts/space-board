@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 38 |
-| spacenews | 7 | 8 | 21 | 40 |
+| spacenews | 8 | 9 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -2954,3 +2954,4 @@
 - **Apr 01, 02:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Apr 01, 02:49 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Apr 01, 03:03 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
+- **Apr 01, 03:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)

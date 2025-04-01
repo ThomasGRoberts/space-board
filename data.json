@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3cc03215a7d2252aec006f0e56f318b",
+    "trigger_count": 0,
+    "current_item_id": "f8f6692636f55e18f6207bf2ceb130be",
     "data": [
         {
             "id": "bcf980d51a350a9084a6f222897377d3",
@@ -7579,6 +7579,18 @@
             "fetched_datetime": "2025-04-01T02:47:28.363309Z",
             "shown_at": [
                 "2025-04-01T02:47:28.977629Z"
+            ]
+        },
+        {
+            "id": "f8f6692636f55e18f6207bf2ceb130be",
+            "source": "spacenews",
+            "text": "SpaceX launches Fram2 private astronaut mission",
+            "source_link": "https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T03:17:33.124239Z",
+            "shown_at": [
+                "2025-04-01T03:17:33.699827Z"
             ]
         }
     ]
