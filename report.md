@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 38 |
 | spacenews | 6 | 9 | 20 | 41 |
-| aidy | 1 | 2 | 17 | 38 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 37 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
@@ -3032,3 +3032,4 @@
 - **Apr 01, 12:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 12:43 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 01, 12:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 01, 01:13 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
