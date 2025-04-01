@@ -6,7 +6,7 @@
 | spacenews | 4 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -3089,3 +3089,4 @@
 - **Apr 01, 07:21 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
 - **Apr 01, 07:35 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 01, 07:49 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Apr 01, 08:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
