@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 18 | 37 |
+| nyt | 0 | 2 | 17 | 37 |
 | spacenews | 3 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3019,3 +3019,4 @@
 - **Apr 01, 11:21 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 01, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
