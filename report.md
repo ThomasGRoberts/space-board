@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 37 |
-| spacenews | 8 | 9 | 20 | 40 |
+| spacenews | 8 | 9 | 21 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -2975,3 +2975,4 @@
 - **Apr 01, 06:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 06:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 06:28 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Apr 01, 06:41 AM** - Data and artificial intelligence: the fuel behind space discovery (spacenews)
