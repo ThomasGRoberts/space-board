@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 6 | 10 | 21 | 42 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 16 | 36 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -3030,3 +3030,4 @@
 - **Apr 01, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 12:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 12:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 12:43 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
