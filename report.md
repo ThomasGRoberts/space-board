@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 18 | 37 |
-| spacenews | 6 | 9 | 21 | 40 |
-| aidy | 1 | 2 | 17 | 37 |
+| nyt | 2 | 3 | 17 | 37 |
+| spacenews | 7 | 10 | 22 | 41 |
+| aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -3011,3 +3011,4 @@
 - **Apr 01, 10:17 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 10:32 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Apr 01, 10:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 01, 11:02 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
