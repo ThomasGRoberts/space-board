@@ -6,7 +6,7 @@
 | spacenews | 8 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -2967,3 +2967,4 @@
 - **Apr 01, 05:31 AM** - Miles Space flight tests water-fueled thruster (spacenews)
 - **Apr 01, 05:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 05:59 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 01, 06:14 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
