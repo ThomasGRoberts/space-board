@@ -5,8 +5,8 @@
 | nyt | 2 | 2 | 17 | 37 |
 | spacenews | 6 | 9 | 21 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 58 | 58 |
+| breaking_defense | 0 | 0 | 16 | 36 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -3047,3 +3047,4 @@
 - **Apr 01, 02:43 PM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Apr 01, 02:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 03:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
