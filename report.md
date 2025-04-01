@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 19 | 39 |
 | spacenews | 7 | 8 | 22 | 41 |
 | supercluster | 1 | 1 | 20 | 20 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -2966,3 +2966,4 @@
 - **Apr 01, 12:05 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Apr 01, 12:07 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
 - **Apr 01, 12:09 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Apr 01, 12:23 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
