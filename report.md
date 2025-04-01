@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 18 | 37 |
 | spacenews | 8 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -2988,3 +2988,4 @@
 - **Apr 01, 07:39 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 01, 07:53 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 01, 08:07 AM** - Space Force certifies Vulcan for national security launches (spacenews)
+- **Apr 01, 08:21 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
