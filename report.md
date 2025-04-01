@@ -6,7 +6,7 @@
 | spacenews | 8 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -2978,3 +2978,4 @@
 - **Apr 01, 06:41 AM** - Data and artificial intelligence: the fuel behind space discovery (spacenews)
 - **Apr 01, 06:55 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Apr 01, 07:11 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
+- **Apr 01, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
