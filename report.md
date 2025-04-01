@@ -6,6 +6,7 @@
 | spacenews | 8 | 9 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 36 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2955,3 +2956,4 @@
 - **Apr 01, 03:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
 - **Apr 01, 03:33 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 03:49 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 01, 04:03 AM** - China Will Launch the Long March 2D Rocket (supercluster)
