@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 17 | 36 |
+| nyt | 2 | 3 | 18 | 37 |
 | spacenews | 6 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
@@ -3020,3 +3020,4 @@
 - **Apr 01, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 11:32 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 01, 11:45 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
