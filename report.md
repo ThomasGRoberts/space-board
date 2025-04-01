@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 38 |
 | spacenews | 8 | 9 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -2956,3 +2956,4 @@
 - **Apr 01, 03:03 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 01, 03:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
 - **Apr 01, 03:33 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 01, 03:49 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
