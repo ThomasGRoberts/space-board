@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 17 | 37 |
+| nyt | 2 | 3 | 18 | 38 |
 | spacenews | 6 | 9 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
-| breaking_defense | 0 | 0 | 16 | 36 |
+| breaking_defense | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
@@ -3031,3 +3031,4 @@
 - **Apr 01, 12:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 12:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 12:43 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 01, 12:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
