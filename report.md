@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 7 | 9 | 21 | 40 |
-| aidy | 1 | 2 | 17 | 36 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 37 |
+| breaking_defense | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -3007,3 +3007,4 @@
 - **Apr 01, 09:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 10:02 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
