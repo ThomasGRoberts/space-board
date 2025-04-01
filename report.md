@@ -6,7 +6,7 @@
 | spacenews | 6 | 9 | 21 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -3034,3 +3034,4 @@
 - **Apr 01, 12:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 01:13 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 01, 01:32 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
+- **Apr 01, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
