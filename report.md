@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 17 | 36 |
+| nyt | 2 | 2 | 18 | 37 |
 | spacenews | 6 | 9 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 16 | 36 |
@@ -3042,3 +3042,4 @@
 - **Apr 01, 01:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 02:02 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
+- **Apr 01, 02:15 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
