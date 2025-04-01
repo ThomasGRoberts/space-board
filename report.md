@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 18 | 37 |
+| nyt | 2 | 3 | 17 | 37 |
 | spacenews | 8 | 9 | 21 | 40 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -2956,4 +2956,4 @@
 - **Apr 01, 03:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
 - **Apr 01, 03:33 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 03:49 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
-- **Apr 01, 04:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Apr 01, 04:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
