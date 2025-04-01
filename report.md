@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 18 | 38 |
 | spacenews | 7 | 8 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -2951,4 +2951,4 @@
 - **Apr 01, 12:51 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 01, 01:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 01:39 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
-- **Apr 01, 02:29 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Apr 01, 02:32 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
