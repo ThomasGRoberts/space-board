@@ -2951,4 +2951,4 @@
 - **Apr 01, 12:51 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 01, 01:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 01:39 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
-- **Apr 01, 02:45 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
+- **Apr 01, 02:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
