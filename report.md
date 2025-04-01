@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 37 |
 | spacenews | 4 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
@@ -3088,3 +3088,4 @@
 - **Apr 01, 07:03 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Apr 01, 07:21 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
 - **Apr 01, 07:35 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 01, 07:49 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
