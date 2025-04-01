@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 17 | 37 |
+| nyt | 2 | 3 | 18 | 38 |
 | spacenews | 8 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
@@ -2974,3 +2974,4 @@
 - **Apr 01, 06:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 06:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 06:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 06:28 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
