@@ -1,9 +1,160 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-03-31T00:01:45.211148+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
+    "trigger_count": 3,
     "current_item_id": "a19d36193207dc36757d11bb57d4560c",
     "data": [
+        {
+            "id": "bcf980d51a350a9084a6f222897377d3",
+            "source": "nyt",
+            "text": "Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere",
+            "source_link": "https://www.nytimes.com/2025/03/29/science/solar-partial-eclipse-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T23:41:42.992190Z",
+            "shown_at": [
+                "2025-03-31T23:41:44.325315Z"
+            ]
+        },
+        {
+            "id": "8dfec4caaccba993866e6c80bc71f7b6",
+            "source": "nyt",
+            "text": "NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS",
+            "source_link": "https://www.nytimes.com/2025/03/31/science/nasa-astronauts-stuck-space-press-conference.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T23:27:45.893060Z",
+            "shown_at": [
+                "2025-03-31T23:27:46.789545Z"
+            ]
+        },
+        {
+            "id": "b1bc14aa8a721d517e110914f9ffc471",
+            "source": "spacenews",
+            "text": "Investigation into failed New Glenn landing completed",
+            "source_link": "https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T22:01:46.883004Z",
+            "shown_at": [
+                "2025-03-31T22:01:47.717218Z"
+            ]
+        },
+        {
+            "id": "a19d36193207dc36757d11bb57d4560c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Crewed Mission Over Earth's Polar Regions",
+            "source_link": "https://www.supercluster.com/launches/fram2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-01T01:46:00.000Z",
+            "time_remaining": "0d 01h 44m",
+            "fetched_datetime": "2025-03-31T20:53:55.581625Z",
+            "shown_at": [
+                "2025-03-31T20:53:56.162340Z",
+                "2025-03-31T20:55:27.175187Z",
+                "2025-03-31T20:57:33.207304Z",
+                "2025-03-31T20:59:30.220141Z",
+                "2025-03-31T21:02:07.658776Z",
+                "2025-03-31T21:03:29.271563Z",
+                "2025-03-31T22:15:31.037347Z",
+                "2025-03-31T22:17:32.924825Z",
+                "2025-03-31T22:19:22.932155Z",
+                "2025-03-31T22:21:35.927684Z",
+                "2025-03-31T22:23:45.243487Z",
+                "2025-03-31T22:25:32.234062Z",
+                "2025-03-31T22:27:42.824507Z",
+                "2025-03-31T23:55:29.146975Z",
+                "2025-03-31T23:57:27.474042Z",
+                "2025-03-31T23:59:37.069619Z",
+                "2025-04-01T00:01:58.721021Z"
+            ]
+        },
+        {
+            "id": "0b1fbae24d87b862db5e735871f17983",
+            "source": "spacenews",
+            "text": "GITAI finalizes robotic arm study for Japan’s crewed lunar rover",
+            "source_link": "https://spacenews.com/gitai-finalizes-robotic-arm-study-for-japans-crewed-lunar-rover/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T19:25:28.196926Z",
+            "shown_at": [
+                "2025-03-31T19:25:28.712180Z"
+            ]
+        },
+        {
+            "id": "842f69d4af6fb946dff05f4d28999d45",
+            "source": "spacenews",
+            "text": "“Standardization, automation, and industrialization are no longer optional”",
+            "source_link": "https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T17:33:44.064379Z",
+            "shown_at": [
+                "2025-03-31T17:33:45.026153Z"
+            ]
+        },
+        {
+            "id": "2e215a78057dd71591849d2ca2f355a2",
+            "source": "spacenews",
+            "text": "Space Force to test satellite refueling technologies in orbit",
+            "source_link": "https://spacenews.com/space-force-to-test-satellite-refueling-technologies-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T15:55:28.570131Z",
+            "shown_at": [
+                "2025-03-31T15:55:29.207272Z"
+            ]
+        },
+        {
+            "id": "908752e78652b539f2f4de1bdf1dbbf2",
+            "source": "spacenews",
+            "text": "Nelson concerned about NASA layoffs and other changes",
+            "source_link": "https://spacenews.com/nelson-concerned-about-nasa-layoffs-and-other-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T11:43:29.654355Z",
+            "shown_at": [
+                "2025-03-31T11:43:30.185331Z"
+            ]
+        },
+        {
+            "id": "8ff92f578b2c101919b3ed3b0ed772fa",
+            "source": "spacenews",
+            "text": "NASA adds Starship to launch contract",
+            "source_link": "https://spacenews.com/nasa-adds-starship-to-launch-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T10:15:26.212963Z",
+            "shown_at": [
+                "2025-03-31T10:15:26.622127Z"
+            ]
+        },
+        {
+            "id": "c536147367e31452946ef97231b71405",
+            "source": "spacenews",
+            "text": "Chinese Bluetooth satellite startup raises early funding",
+            "source_link": "https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T08:59:45.303542Z",
+            "shown_at": [
+                "2025-03-31T08:59:46.268046Z"
+            ]
+        },
+        {
+            "id": "63ba7d6eb9a011c4a8ab143e9b653bc0",
+            "source": "aidy",
+            "text": "ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-03-31T07:45:27.710159Z",
+            "shown_at": [
+                "2025-03-31T07:45:28.124296Z",
+                "2025-03-31T09:17:46.783252Z"
+            ]
+        },
         {
             "id": "dbbca267bcb67e2610c1f390be7d1c63",
             "source": "nyt",
@@ -7436,156 +7587,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "63ba7d6eb9a011c4a8ab143e9b653bc0",
-            "source": "aidy",
-            "text": "ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T07:45:27.710159Z",
-            "shown_at": [
-                "2025-03-31T07:45:28.124296Z",
-                "2025-03-31T09:17:46.783252Z"
-            ]
-        },
-        {
-            "id": "c536147367e31452946ef97231b71405",
-            "source": "spacenews",
-            "text": "Chinese Bluetooth satellite startup raises early funding",
-            "source_link": "https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T08:59:45.303542Z",
-            "shown_at": [
-                "2025-03-31T08:59:46.268046Z"
-            ]
-        },
-        {
-            "id": "8ff92f578b2c101919b3ed3b0ed772fa",
-            "source": "spacenews",
-            "text": "NASA adds Starship to launch contract",
-            "source_link": "https://spacenews.com/nasa-adds-starship-to-launch-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T10:15:26.212963Z",
-            "shown_at": [
-                "2025-03-31T10:15:26.622127Z"
-            ]
-        },
-        {
-            "id": "908752e78652b539f2f4de1bdf1dbbf2",
-            "source": "spacenews",
-            "text": "Nelson concerned about NASA layoffs and other changes",
-            "source_link": "https://spacenews.com/nelson-concerned-about-nasa-layoffs-and-other-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T11:43:29.654355Z",
-            "shown_at": [
-                "2025-03-31T11:43:30.185331Z"
-            ]
-        },
-        {
-            "id": "2e215a78057dd71591849d2ca2f355a2",
-            "source": "spacenews",
-            "text": "Space Force to test satellite refueling technologies in orbit",
-            "source_link": "https://spacenews.com/space-force-to-test-satellite-refueling-technologies-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T15:55:28.570131Z",
-            "shown_at": [
-                "2025-03-31T15:55:29.207272Z"
-            ]
-        },
-        {
-            "id": "842f69d4af6fb946dff05f4d28999d45",
-            "source": "spacenews",
-            "text": "“Standardization, automation, and industrialization are no longer optional”",
-            "source_link": "https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T17:33:44.064379Z",
-            "shown_at": [
-                "2025-03-31T17:33:45.026153Z"
-            ]
-        },
-        {
-            "id": "0b1fbae24d87b862db5e735871f17983",
-            "source": "spacenews",
-            "text": "GITAI finalizes robotic arm study for Japan’s crewed lunar rover",
-            "source_link": "https://spacenews.com/gitai-finalizes-robotic-arm-study-for-japans-crewed-lunar-rover/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T19:25:28.196926Z",
-            "shown_at": [
-                "2025-03-31T19:25:28.712180Z"
-            ]
-        },
-        {
-            "id": "a19d36193207dc36757d11bb57d4560c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Crewed Mission Over Earth's Polar Regions",
-            "source_link": "https://www.supercluster.com/launches/fram2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-01T01:46:00.000Z",
-            "time_remaining": "0d 01h 46m",
-            "fetched_datetime": "2025-03-31T20:53:55.581625Z",
-            "shown_at": [
-                "2025-03-31T20:53:56.162340Z",
-                "2025-03-31T20:55:27.175187Z",
-                "2025-03-31T20:57:33.207304Z",
-                "2025-03-31T20:59:30.220141Z",
-                "2025-03-31T21:02:07.658776Z",
-                "2025-03-31T21:03:29.271563Z",
-                "2025-03-31T22:15:31.037347Z",
-                "2025-03-31T22:17:32.924825Z",
-                "2025-03-31T22:19:22.932155Z",
-                "2025-03-31T22:21:35.927684Z",
-                "2025-03-31T22:23:45.243487Z",
-                "2025-03-31T22:25:32.234062Z",
-                "2025-03-31T22:27:42.824507Z",
-                "2025-03-31T23:55:29.146975Z",
-                "2025-03-31T23:57:27.474042Z",
-                "2025-03-31T23:59:37.069619Z"
-            ]
-        },
-        {
-            "id": "b1bc14aa8a721d517e110914f9ffc471",
-            "source": "spacenews",
-            "text": "Investigation into failed New Glenn landing completed",
-            "source_link": "https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T22:01:46.883004Z",
-            "shown_at": [
-                "2025-03-31T22:01:47.717218Z"
-            ]
-        },
-        {
-            "id": "8dfec4caaccba993866e6c80bc71f7b6",
-            "source": "nyt",
-            "text": "NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS",
-            "source_link": "https://www.nytimes.com/2025/03/31/science/nasa-astronauts-stuck-space-press-conference.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T23:27:45.893060Z",
-            "shown_at": [
-                "2025-03-31T23:27:46.789545Z"
-            ]
-        },
-        {
-            "id": "bcf980d51a350a9084a6f222897377d3",
-            "source": "nyt",
-            "text": "Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere",
-            "source_link": "https://www.nytimes.com/2025/03/29/science/solar-partial-eclipse-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T23:41:42.992190Z",
-            "shown_at": [
-                "2025-03-31T23:41:44.325315Z"
             ]
         }
     ]
