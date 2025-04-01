@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6da251b04a07b7f60b3e7aba72b456a5",
+    "trigger_count": 0,
+    "current_item_id": "a19d36193207dc36757d11bb57d4560c",
     "data": [
         {
             "id": "bcf980d51a350a9084a6f222897377d3",
@@ -7563,6 +7563,20 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "a19d36193207dc36757d11bb57d4560c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Crewed Mission Over Earth's Polar Regions",
+            "source_link": "https://www.supercluster.com/launches/fram2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-01T01:46:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-04-01T01:53:38.651816Z",
+            "shown_at": [
+                "2025-04-01T01:53:39.183776Z"
             ]
         }
     ]
