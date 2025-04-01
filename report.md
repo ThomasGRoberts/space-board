@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 19 | 38 |
+| nyt | 2 | 3 | 20 | 39 |
 | spacenews | 7 | 8 | 22 | 41 |
 | supercluster | 1 | 1 | 20 | 20 |
 | aidy | 1 | 2 | 19 | 39 |
@@ -2968,3 +2968,4 @@
 - **Apr 01, 12:09 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 01, 12:23 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 12:37 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
+- **Apr 01, 12:51 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
