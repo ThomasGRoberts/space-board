@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 17 | 37 |
+| nyt | 2 | 2 | 17 | 36 |
 | spacenews | 5 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
 
@@ -3069,3 +3069,4 @@
 - **Apr 01, 05:19 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 01, 05:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 05:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 05:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
