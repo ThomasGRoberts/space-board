@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 19 | 39 |
 | spacenews | 7 | 8 | 22 | 41 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -2969,3 +2969,4 @@
 - **Apr 01, 12:23 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 12:37 AM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Apr 01, 12:51 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 01, 01:11 AM** - SpaceX Will Launch Crewed Mission Over Earth's Polar Regions (supercluster)
