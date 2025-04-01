@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 36 |
+| nyt | 2 | 2 | 19 | 37 |
 | spacenews | 4 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 35 |
@@ -3098,3 +3098,4 @@
 - **Apr 01, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 08:17 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 01, 08:31 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
+- **Apr 01, 08:45 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
