@@ -6,7 +6,6 @@
 | spacenews | 8 | 9 | 22 | 41 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2951,7 +2950,6 @@
 - **Apr 01, 12:51 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 01, 01:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 01:39 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
-- **Apr 01, 02:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Apr 01, 02:49 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
 - **Apr 01, 03:03 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 01, 03:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)

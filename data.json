@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "faf584ad90e6517326c26acd3a131ff1",
     "data": [
         {
@@ -7567,20 +7567,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 2D Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2d3",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-01T04:00:00.000Z",
-            "time_remaining": "0d 01h 12m",
-            "fetched_datetime": "2025-04-01T02:47:28.363309Z",
-            "shown_at": [
-                "2025-04-01T02:47:28.977629Z"
             ]
         },
         {
