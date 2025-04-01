@@ -5,8 +5,8 @@
 | nyt | 2 | 2 | 17 | 37 |
 | spacenews | 6 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 63 | 63 |
+| breaking_defense | 0 | 0 | 16 | 36 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -3056,3 +3056,4 @@
 - **Apr 01, 03:36 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 01, 03:52 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 04:09 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Apr 01, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
