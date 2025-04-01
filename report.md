@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 19 | 37 |
 | spacenews | 3 | 10 | 19 | 42 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
@@ -3121,3 +3121,4 @@
 - **Apr 01, 10:37 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Apr 01, 10:51 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Apr 01, 11:07 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Apr 01, 11:21 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
