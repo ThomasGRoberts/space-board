@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 6 | 9 | 21 | 41 |
-| aidy | 1 | 2 | 17 | 37 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 16 | 36 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -3041,3 +3041,4 @@
 - **Apr 01, 01:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 01:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 02:02 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
