@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 17 | 36 |
-| spacenews | 5 | 10 | 19 | 41 |
+| spacenews | 5 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 84 | 84 |
@@ -3086,3 +3086,4 @@
 - **Apr 01, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 07:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 07:03 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
+- **Apr 01, 07:21 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
