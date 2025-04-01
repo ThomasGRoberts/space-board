@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 36 |
+| nyt | 2 | 2 | 19 | 37 |
 | spacenews | 4 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 35 |
@@ -3109,3 +3109,4 @@
 - **Apr 01, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 09:27 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 09:41 PM** - Investigation into failed New Glenn landing completed (spacenews)
+- **Apr 01, 09:55 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
