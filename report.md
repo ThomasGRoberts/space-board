@@ -6,7 +6,7 @@
 | spacenews | 7 | 9 | 21 | 40 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 35 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -3001,3 +3001,4 @@
 - **Apr 01, 09:19 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
 - **Apr 01, 09:33 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 01, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
