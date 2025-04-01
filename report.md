@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 37 |
-| spacenews | 6 | 9 | 20 | 41 |
+| spacenews | 6 | 9 | 21 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 49 | 49 |
@@ -3033,3 +3033,4 @@
 - **Apr 01, 12:43 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 01, 12:57 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 01, 01:13 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Apr 01, 01:32 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
