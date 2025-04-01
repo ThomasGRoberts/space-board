@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 17 | 36 |
+| nyt | 2 | 2 | 18 | 37 |
 | spacenews | 7 | 10 | 21 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
@@ -3054,3 +3054,4 @@
 - **Apr 01, 03:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 03:15 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 01, 03:36 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
+- **Apr 01, 03:52 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
