@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 36 |
-| spacenews | 3 | 10 | 19 | 41 |
+| spacenews | 3 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 105 | 105 |
@@ -3119,3 +3119,4 @@
 - **Apr 01, 10:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 10:37 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Apr 01, 10:51 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
