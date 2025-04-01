@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 37 |
 | spacenews | 3 | 10 | 19 | 41 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 105 | 105 |
 
@@ -3118,3 +3118,4 @@
 - **Apr 01, 10:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 10:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 10:37 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
