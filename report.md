@@ -6,7 +6,7 @@
 | spacenews | 3 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3018,3 +3018,4 @@
 - **Apr 01, 11:07 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 01, 11:21 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 01, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
