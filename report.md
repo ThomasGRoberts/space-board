@@ -6,7 +6,7 @@
 | spacenews | 3 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
 
@@ -3111,3 +3111,4 @@
 - **Apr 01, 09:41 PM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 01, 09:55 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 01, 10:09 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Apr 01, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
