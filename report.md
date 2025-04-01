@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 19 | 37 |
 | spacenews | 4 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
@@ -3099,3 +3099,4 @@
 - **Apr 01, 08:17 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 01, 08:31 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
 - **Apr 01, 08:45 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Apr 01, 08:59 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
