@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 18 | 37 |
+| nyt | 2 | 3 | 17 | 37 |
 | spacenews | 6 | 10 | 21 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -3023,3 +3023,4 @@
 - **Apr 01, 11:45 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 01, 11:59 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 01, 12:13 PM** - NASA terminating $420 million in contracts (spacenews)
+- **Apr 01, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
