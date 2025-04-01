@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 17 | 37 |
 | spacenews | 5 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 17 | 37 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
@@ -3077,3 +3077,4 @@
 - **Apr 01, 05:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 01, 06:04 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
 - **Apr 01, 06:17 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Apr 01, 06:35 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
