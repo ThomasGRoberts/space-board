@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 18 | 37 |
+| nyt | 2 | 2 | 18 | 36 |
 | spacenews | 4 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
 
@@ -3100,3 +3100,4 @@
 - **Apr 01, 08:31 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
 - **Apr 01, 08:45 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 01, 08:59 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Apr 01, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
