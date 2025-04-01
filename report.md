@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 8 | 9 | 21 | 40 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 16 | 35 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -2979,3 +2979,4 @@
 - **Apr 01, 06:55 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Apr 01, 07:11 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Apr 01, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 07:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
