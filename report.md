@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 18 | 37 |
 | spacenews | 6 | 9 | 20 | 41 |
 | aidy | 1 | 2 | 17 | 38 |
-| breaking_defense | 0 | 0 | 16 | 35 |
+| breaking_defense | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
@@ -3043,3 +3043,4 @@
 - **Apr 01, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 02:02 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Apr 01, 02:15 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Apr 01, 02:29 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
