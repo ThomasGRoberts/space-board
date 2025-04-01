@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 17 | 37 |
-| spacenews | 6 | 9 | 21 | 41 |
-| aidy | 1 | 2 | 17 | 37 |
+| spacenews | 6 | 9 | 20 | 41 |
+| aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 16 | 36 |
 | supercluster | 1 | 1 | 63 | 63 |
 
@@ -3052,3 +3052,4 @@
 - **Apr 01, 03:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 03:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 03:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 01, 03:15 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
