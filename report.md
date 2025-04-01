@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 17 | 37 |
+| nyt | 2 | 2 | 17 | 36 |
 | spacenews | 5 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -3078,3 +3078,4 @@
 - **Apr 01, 06:04 PM** - Space Force to test satellite refueling technologies in orbit (spacenews)
 - **Apr 01, 06:17 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 01, 06:35 PM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Apr 01, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
