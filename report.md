@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 18 | 37 |
-| spacenews | 6 | 9 | 20 | 40 |
-| aidy | 1 | 2 | 18 | 37 |
+| spacenews | 6 | 9 | 21 | 41 |
+| aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -3009,3 +3009,4 @@
 - **Apr 01, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 10:02 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 01, 10:17 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 01, 10:32 AM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
