@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 17 | 37 |
 | spacenews | 8 | 9 | 21 | 40 |
-| aidy | 1 | 2 | 17 | 36 |
-| breaking_defense | 0 | 0 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
+| breaking_defense | 0 | 0 | 17 | 35 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -2966,3 +2966,4 @@
 - **Apr 01, 05:17 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 01, 05:31 AM** - Miles Space flight tests water-fueled thruster (spacenews)
 - **Apr 01, 05:45 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 01, 05:59 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
