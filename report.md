@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
 
@@ -3200,3 +3200,4 @@
 - **Apr 02, 09:33 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 02, 09:47 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 02, 10:02 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 10:05 PM** - China Will Launch Long March 6 Rocket (supercluster)
