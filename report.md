@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 5 | 5 |
 | spacenews | 3 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 19 | 38 |
-| nyt | 0 | 2 | 17 | 36 |
+| nyt | 0 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -3024,3 +3024,4 @@
 - **Apr 01, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 11:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 02, 12:03 AM** - Rocket Lab launches eight OroraTech satellites (spacenews)
+- **Apr 02, 12:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
