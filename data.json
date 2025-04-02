@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4283a5b3c177c24e293b981ee7c18ab",
+    "trigger_count": 0,
+    "current_item_id": "37f913e70ea6a1a34c3867633b4e49f3",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7929,6 +7929,18 @@
             "fetched_datetime": "2025-04-02T16:45:35.937420Z",
             "shown_at": [
                 "2025-04-02T16:45:36.578496Z"
+            ]
+        },
+        {
+            "id": "37f913e70ea6a1a34c3867633b4e49f3",
+            "source": "spacenews",
+            "text": "Project Kuiper readies long-awaited operational satellite launch",
+            "source_link": "https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T19:41:48.530190Z",
+            "shown_at": [
+                "2025-04-02T19:41:49.543955Z"
             ]
         }
     ]
