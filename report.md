@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
-| breaking_defense | 0 | 0 | 17 | 34 |
+| breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -3028,3 +3028,4 @@
 - **Apr 02, 02:21 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:23 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:25 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 02, 02:39 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
