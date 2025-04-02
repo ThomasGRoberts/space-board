@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 20 | 37 |
-| nyt | 0 | 2 | 18 | 35 |
+| nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 32 | 32 |
 
@@ -3071,3 +3071,4 @@
 - **Apr 02, 07:02 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 07:03 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 07:05 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 07:07 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
