@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 | spacenews | 3 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 2 | 18 | 37 |
@@ -3026,3 +3026,4 @@
 - **Apr 02, 12:03 AM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Apr 02, 12:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 02, 12:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Apr 02, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
