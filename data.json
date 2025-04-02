@@ -1,9 +1,79 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-01T00:01:58.156775+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
+    "trigger_count": 6,
     "current_item_id": "5a0104c85d12764ff1d6e2fda3d08548",
     "data": [
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-13",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-02T01:17:00.000Z",
+            "time_remaining": "0d 01h 29m",
+            "fetched_datetime": "2025-04-01T23:39:38.942603Z",
+            "shown_at": [
+                "2025-04-01T23:39:39.877278Z",
+                "2025-04-01T23:41:15.487624Z",
+                "2025-04-01T23:43:26.456417Z",
+                "2025-04-01T23:45:06.597213Z",
+                "2025-04-01T23:47:22.318388Z"
+            ]
+        },
+        {
+            "id": "2b71ca01fdf047f37b5d293b45dc9cab",
+            "source": "spacenews",
+            "text": "MDA Space buys SatixFy to boost constellation production",
+            "source_link": "https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T15:36:58.828464Z",
+            "shown_at": [
+                "2025-04-01T15:36:59.462891Z"
+            ]
+        },
+        {
+            "id": "16cd610f2f0c10c0266e2443bbbd6092",
+            "source": "spacenews",
+            "text": "China launches internet technology test satellites with Long March 2D",
+            "source_link": "https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T11:02:17.933083Z",
+            "shown_at": [
+                "2025-04-01T11:02:18.663472Z",
+                "2025-04-01T20:31:49.015517Z"
+            ]
+        },
+        {
+            "id": "5a0104c85d12764ff1d6e2fda3d08548",
+            "source": "aidy",
+            "text": "FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T07:39:40.392031Z",
+            "shown_at": [
+                "2025-04-01T07:39:40.967472Z",
+                "2025-04-01T12:43:51.978782Z",
+                "2025-04-01T17:49:40.571371Z",
+                "2025-04-01T23:49:27.367951Z"
+            ]
+        },
+        {
+            "id": "f8f6692636f55e18f6207bf2ceb130be",
+            "source": "spacenews",
+            "text": "SpaceX launches Fram2 private astronaut mission",
+            "source_link": "https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-01T03:17:33.124239Z",
+            "shown_at": [
+                "2025-04-01T03:17:33.699827Z"
+            ]
+        },
         {
             "id": "bcf980d51a350a9084a6f222897377d3",
             "source": "nyt",
@@ -7622,76 +7692,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "f8f6692636f55e18f6207bf2ceb130be",
-            "source": "spacenews",
-            "text": "SpaceX launches Fram2 private astronaut mission",
-            "source_link": "https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-01T03:17:33.124239Z",
-            "shown_at": [
-                "2025-04-01T03:17:33.699827Z"
-            ]
-        },
-        {
-            "id": "5a0104c85d12764ff1d6e2fda3d08548",
-            "source": "aidy",
-            "text": "FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-01T07:39:40.392031Z",
-            "shown_at": [
-                "2025-04-01T07:39:40.967472Z",
-                "2025-04-01T12:43:51.978782Z",
-                "2025-04-01T17:49:40.571371Z",
-                "2025-04-01T23:49:27.367951Z"
-            ]
-        },
-        {
-            "id": "16cd610f2f0c10c0266e2443bbbd6092",
-            "source": "spacenews",
-            "text": "China launches internet technology test satellites with Long March 2D",
-            "source_link": "https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-01T11:02:17.933083Z",
-            "shown_at": [
-                "2025-04-01T11:02:18.663472Z",
-                "2025-04-01T20:31:49.015517Z"
-            ]
-        },
-        {
-            "id": "2b71ca01fdf047f37b5d293b45dc9cab",
-            "source": "spacenews",
-            "text": "MDA Space buys SatixFy to boost constellation production",
-            "source_link": "https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-01T15:36:58.828464Z",
-            "shown_at": [
-                "2025-04-01T15:36:59.462891Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-13",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-02T01:17:00.000Z",
-            "time_remaining": "0d 01h 29m",
-            "fetched_datetime": "2025-04-01T23:39:38.942603Z",
-            "shown_at": [
-                "2025-04-01T23:39:39.877278Z",
-                "2025-04-01T23:41:15.487624Z",
-                "2025-04-01T23:43:26.456417Z",
-                "2025-04-01T23:45:06.597213Z",
-                "2025-04-01T23:47:22.318388Z"
             ]
         }
     ]
