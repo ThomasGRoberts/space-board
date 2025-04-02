@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -3121,3 +3121,4 @@
 - **Apr 02, 12:41 PM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
 - **Apr 02, 12:55 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Apr 02, 01:09 PM** - Biotech is the launchpad for human survival in space (spacenews)
+- **Apr 02, 01:23 PM** - China Will Launch Long March 6 Rocket (supercluster)
