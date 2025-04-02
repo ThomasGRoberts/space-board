@@ -2,7 +2,6 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 12 | 12 |
 | spacenews | 3 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 2 | 17 | 36 |
@@ -3017,21 +3016,9 @@
 - **Apr 01, 10:51 PM** - Gravitics wins SpaceWERX award for tactically responsive space system (spacenews)
 - **Apr 01, 11:07 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 01, 11:21 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
-- **Apr 01, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 01, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 01, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 01, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 01, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 01, 11:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 02, 12:03 AM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Apr 02, 12:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 02, 12:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
-- **Apr 02, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 02, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 02, 12:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 02, 01:13 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
