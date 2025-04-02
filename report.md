@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -3064,3 +3064,4 @@
 - **Apr 02, 06:09 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 02, 06:23 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 02, 06:39 AM** - GAO rejects TraCSS contract protest (spacenews)
+- **Apr 02, 06:53 AM** - China Will Launch Long March 6 Rocket (supercluster)
