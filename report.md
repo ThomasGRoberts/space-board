@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
-| breaking_defense | 0 | 0 | 18 | 34 |
+| breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
@@ -3140,3 +3140,4 @@
 - **Apr 02, 02:45 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:47 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:49 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Apr 02, 03:05 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
