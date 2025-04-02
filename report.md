@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3156,3 +3156,4 @@
 - **Apr 02, 04:45 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
 - **Apr 02, 04:59 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 05:02 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 05:05 PM** - China Will Launch Long March 6 Rocket (supercluster)
