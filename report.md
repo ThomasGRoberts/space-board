@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 41 |
+| spacenews | 5 | 11 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3120,3 +3120,4 @@
 - **Apr 02, 12:27 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Apr 02, 12:41 PM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
 - **Apr 02, 12:55 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
+- **Apr 02, 01:09 PM** - Biotech is the launchpad for human survival in space (spacenews)
