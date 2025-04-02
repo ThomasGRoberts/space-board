@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 22 | 42 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 116 | 116 |
@@ -3209,3 +3209,4 @@
 - **Apr 02, 10:17 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
 - **Apr 02, 10:32 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Apr 02, 10:45 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 02, 10:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
