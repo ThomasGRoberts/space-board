@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 0 | 2 | 17 | 36 |
+| nyt | 0 | 2 | 17 | 35 |
 | breaking_defense | 0 | 0 | 18 | 35 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3033,3 +3033,4 @@
 - **Apr 02, 03:07 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Apr 02, 03:21 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 03:23 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 03:25 AM** - China Will Launch Long March 6 Rocket (supercluster)
