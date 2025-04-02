@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 21 | 41 |
+| spacenews | 5 | 11 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3131,3 +3131,4 @@
 - **Apr 02, 01:38 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 02, 01:51 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 02, 02:07 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 02, 02:21 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
