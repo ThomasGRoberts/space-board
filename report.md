@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -3105,3 +3105,4 @@
 - **Apr 02, 10:43 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 10:45 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 10:47 AM** - CLPS companies seek expanded opportunities for commercial lunar landers (spacenews)
+- **Apr 02, 11:02 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
