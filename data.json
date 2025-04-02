@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e68fcaf71dd68ec2b329dbca5c240ef2",
+    "trigger_count": 0,
+    "current_item_id": "e51363753086690c5df29e3b5c3b1f3f",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7798,6 +7798,18 @@
             "fetched_datetime": "2025-04-02T10:47:35.961482Z",
             "shown_at": [
                 "2025-04-02T10:47:36.500274Z"
+            ]
+        },
+        {
+            "id": "e51363753086690c5df29e3b5c3b1f3f",
+            "source": "spacenews",
+            "text": "JAXA institute studying Mars lander concept",
+            "source_link": "https://spacenews.com/jaxa-institute-studying-mars-lander-concept/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T11:31:50.789961Z",
+            "shown_at": [
+                "2025-04-02T11:31:51.366072Z"
             ]
         }
     ]

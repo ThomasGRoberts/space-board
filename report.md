@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 42 |
+| spacenews | 3 | 10 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3107,3 +3107,4 @@
 - **Apr 02, 10:47 AM** - CLPS companies seek expanded opportunities for commercial lunar landers (spacenews)
 - **Apr 02, 11:02 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 02, 11:17 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
+- **Apr 02, 11:31 AM** - JAXA institute studying Mars lander concept (spacenews)
