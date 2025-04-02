@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 23 | 42 |
 | aidy | 1 | 2 | 19 | 37 |
-| nyt | 1 | 2 | 18 | 36 |
+| nyt | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 123 | 123 |
 
@@ -3218,3 +3218,4 @@
 - **Apr 02, 11:23 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 11:25 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 11:27 PM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
+- **Apr 02, 11:41 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
