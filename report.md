@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 18 | 35 |
+| nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -3139,3 +3139,4 @@
 - **Apr 02, 02:43 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:45 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:47 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 02:49 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
