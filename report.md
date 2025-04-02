@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
@@ -3173,3 +3173,4 @@
 - **Apr 02, 06:25 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 06:27 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 06:29 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 02, 06:43 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
