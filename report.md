@@ -5,7 +5,7 @@
 | spacenews | 7 | 11 | 23 | 43 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 1 | 3 | 19 | 37 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 109 | 109 |
 
 # Shown Order
@@ -3197,3 +3197,4 @@
 - **Apr 02, 08:51 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 02, 09:05 PM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
 - **Apr 02, 09:19 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 02, 09:33 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
