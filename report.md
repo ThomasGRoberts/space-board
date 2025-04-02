@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -3099,3 +3099,4 @@
 - **Apr 02, 10:17 AM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
 - **Apr 02, 10:32 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 10:35 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 10:37 AM** - China Will Launch Long March 6 Rocket (supercluster)
