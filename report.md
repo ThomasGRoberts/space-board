@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 41 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 74 | 74 |
@@ -3141,3 +3141,4 @@
 - **Apr 02, 02:47 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:49 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 02, 03:05 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Apr 02, 03:19 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
