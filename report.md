@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 41 |
+| spacenews | 5 | 11 | 22 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3153,3 +3153,4 @@
 - **Apr 02, 04:02 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Apr 02, 04:15 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 02, 04:29 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 02, 04:45 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
