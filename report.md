@@ -5,8 +5,8 @@
 | spacenews | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
-| breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 27 | 27 |
+| breaking_defense | 0 | 0 | 18 | 35 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -3066,3 +3066,4 @@
 - **Apr 02, 06:39 AM** - GAO rejects TraCSS contract protest (spacenews)
 - **Apr 02, 06:53 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 06:55 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 06:57 AM** - China Will Launch Long March 6 Rocket (supercluster)
