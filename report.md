@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -3111,3 +3111,4 @@
 - **Apr 02, 11:45 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Apr 02, 11:59 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 12:02 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 12:03 PM** - China Will Launch Long March 6 Rocket (supercluster)
