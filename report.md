@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 18 | 36 |
+| nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 88 | 88 |
 
@@ -3161,3 +3161,4 @@
 - **Apr 02, 05:09 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 05:11 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 05:13 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 05:15 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
