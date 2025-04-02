@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 12 | 12 |
-| spacenews | 3 | 10 | 19 | 41 |
+| spacenews | 3 | 10 | 20 | 42 |
 | aidy | 1 | 2 | 19 | 38 |
 | nyt | 0 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -3034,3 +3034,4 @@
 - **Apr 02, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 02, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 02, 12:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
+- **Apr 02, 01:13 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
