@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 40 |
+| spacenews | 2 | 10 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3052,3 +3052,4 @@
 - **Apr 02, 04:45 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 02, 04:59 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Apr 02, 05:13 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
+- **Apr 02, 05:27 AM** - Air Force nominee Troy Meink warns U.S. risks losing edge in space (spacenews)
