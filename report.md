@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -3133,3 +3133,4 @@
 - **Apr 02, 02:07 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 02, 02:21 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Apr 02, 02:35 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 02:37 PM** - China Will Launch Long March 6 Rocket (supercluster)
