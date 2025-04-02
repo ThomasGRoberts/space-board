@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 37 |
+| spacenews | 2 | 8 | 20 | 41 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -3097,3 +3097,4 @@
 - **Apr 02, 09:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Apr 02, 10:03 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Apr 02, 10:17 AM** - Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX (spacenews)
+- **Apr 02, 10:32 AM** - China Will Launch Long March 6 Rocket (supercluster)
