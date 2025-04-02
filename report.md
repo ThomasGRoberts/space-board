@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -3053,3 +3053,4 @@
 - **Apr 02, 04:59 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Apr 02, 05:13 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Apr 02, 05:27 AM** - Air Force nominee Troy Meink warns U.S. risks losing edge in space (spacenews)
+- **Apr 02, 05:41 AM** - China Will Launch Long March 6 Rocket (supercluster)
