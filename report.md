@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 116 | 116 |
+| supercluster | 1 | 1 | 117 | 117 |
 
 # Shown Order
 
@@ -3210,3 +3210,4 @@
 - **Apr 02, 10:32 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Apr 02, 10:45 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 02, 10:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 02, 11:13 PM** - China Will Launch Long March 6 Rocket (supercluster)
