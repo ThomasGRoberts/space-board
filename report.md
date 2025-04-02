@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 19 | 40 |
+| spacenews | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
@@ -3041,3 +3041,4 @@
 - **Apr 02, 03:35 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 02, 03:49 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Apr 02, 04:03 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Apr 02, 04:17 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
