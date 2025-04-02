@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4283a5b3c177c24e293b981ee7c18ab",
+    "trigger_count": 0,
+    "current_item_id": "1c4952e9f83481a07f9d93d6a41dc25b",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7784,6 +7784,18 @@
             "shown_at": [
                 "2025-04-02T07:35:29.893253Z",
                 "2025-04-02T08:47:42.515828Z"
+            ]
+        },
+        {
+            "id": "1c4952e9f83481a07f9d93d6a41dc25b",
+            "source": "spacenews",
+            "text": "CLPS companies seek expanded opportunities for commercial lunar landers",
+            "source_link": "https://spacenews.com/clps-companies-seek-expanded-opportunities-for-commercial-lunar-landers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T10:47:35.961482Z",
+            "shown_at": [
+                "2025-04-02T10:47:36.500274Z"
             ]
         }
     ]
