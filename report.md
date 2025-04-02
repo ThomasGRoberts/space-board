@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
@@ -3151,3 +3151,4 @@
 - **Apr 02, 03:57 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 03:59 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 04:02 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
+- **Apr 02, 04:15 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
