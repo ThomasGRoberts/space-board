@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -3187,3 +3187,4 @@
 - **Apr 02, 07:55 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 02, 08:09 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 02, 08:23 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
+- **Apr 02, 08:37 PM** - China Will Launch Long March 6 Rocket (supercluster)
