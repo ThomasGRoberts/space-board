@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cbab93c0697ec250e16230b311130603",
+    "trigger_count": 0,
+    "current_item_id": "95ce623268330b8c61cd0e4c02f981b7",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7831,6 +7831,18 @@
             "fetched_datetime": "2025-04-02T12:13:24.074710Z",
             "shown_at": [
                 "2025-04-02T12:13:24.789381Z"
+            ]
+        },
+        {
+            "id": "95ce623268330b8c61cd0e4c02f981b7",
+            "source": "spacenews",
+            "text": "Slingshot adapting satellite ‘fingerprinting’ technology for military applications",
+            "source_link": "https://spacenews.com/slingshot-adapting-satellite-fingerprinting-technology-for-military-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T12:41:27.133731Z",
+            "shown_at": [
+                "2025-04-02T12:41:27.674405Z"
             ]
         }
     ]

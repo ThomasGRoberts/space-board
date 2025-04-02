@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 20 | 41 |
+| spacenews | 4 | 10 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3118,3 +3118,4 @@
 - **Apr 02, 12:11 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 12:13 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 02, 12:27 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Apr 02, 12:41 PM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
