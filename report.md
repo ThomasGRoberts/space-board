@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -3144,3 +3144,4 @@
 - **Apr 02, 03:19 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Apr 02, 03:33 PM** - CLPS companies seek expanded opportunities for commercial lunar landers (spacenews)
 - **Apr 02, 03:47 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 03:49 PM** - China Will Launch Long March 6 Rocket (supercluster)
