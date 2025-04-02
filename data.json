@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c033cebf911bbb65a120e22bda835949",
+    "trigger_count": 0,
+    "current_item_id": "5215fb1a3c7b7c152d1ff2276efd47cf",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7742,6 +7742,18 @@
                 "2025-04-02T07:02:00.213965Z",
                 "2025-04-02T07:03:34.538368Z",
                 "2025-04-02T07:05:34.017550Z"
+            ]
+        },
+        {
+            "id": "5215fb1a3c7b7c152d1ff2276efd47cf",
+            "source": "aidy",
+            "text": "Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T07:35:29.289381Z",
+            "shown_at": [
+                "2025-04-02T07:35:29.893253Z"
             ]
         }
     ]
