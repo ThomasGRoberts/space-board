@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 41 |
+| spacenews | 2 | 9 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3085,3 +3085,4 @@
 - **Apr 02, 08:19 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Apr 02, 08:33 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Apr 02, 08:47 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
+- **Apr 02, 09:02 AM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
