@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
 
@@ -3177,3 +3177,4 @@
 - **Apr 02, 06:57 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Apr 02, 07:13 PM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
 - **Apr 02, 07:27 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 07:29 PM** - China Will Launch Long March 6 Rocket (supercluster)
