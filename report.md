@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 40 |
+| spacenews | 2 | 10 | 21 | 41 |
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3063,3 +3063,4 @@
 - **Apr 02, 05:55 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Apr 02, 06:09 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 02, 06:23 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 02, 06:39 AM** - GAO rejects TraCSS contract protest (spacenews)
