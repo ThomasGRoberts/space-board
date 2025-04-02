@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 41 |
+| spacenews | 2 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -3076,3 +3076,4 @@
 - **Apr 02, 07:35 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 02, 07:49 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
 - **Apr 02, 08:05 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 08:07 AM** - China Will Launch Long March 6 Rocket (supercluster)
