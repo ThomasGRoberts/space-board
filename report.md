@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -3165,3 +3165,4 @@
 - **Apr 02, 05:29 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 02, 05:43 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 02, 05:57 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
+- **Apr 02, 06:12 PM** - China Will Launch Long March 6 Rocket (supercluster)
