@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 20 | 41 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 19 | 36 |
-| breaking_defense | 0 | 0 | 19 | 36 |
+| breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -3095,3 +3095,4 @@
 - **Apr 02, 09:33 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 09:35 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 02, 09:49 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Apr 02, 10:03 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
