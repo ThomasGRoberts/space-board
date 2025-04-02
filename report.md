@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 41 |
+| spacenews | 2 | 10 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3074,3 +3074,4 @@
 - **Apr 02, 07:07 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 02, 07:22 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 02, 07:35 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
+- **Apr 02, 07:49 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
