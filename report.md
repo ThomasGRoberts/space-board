@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 22 | 41 |
+| spacenews | 7 | 10 | 23 | 42 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -3206,3 +3206,4 @@
 - **Apr 02, 10:11 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 10:13 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 10:15 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 10:17 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
