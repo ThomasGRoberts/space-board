@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -3088,3 +3088,4 @@
 - **Apr 02, 09:02 AM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Apr 02, 09:19 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 09:23 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 09:25 AM** - China Will Launch Long March 6 Rocket (supercluster)
