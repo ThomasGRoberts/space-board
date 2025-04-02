@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 20 | 41 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -3051,3 +3051,4 @@
 - **Apr 02, 04:43 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 04:45 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 02, 04:59 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Apr 02, 05:13 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
