@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3079,3 +3079,4 @@
 - **Apr 02, 08:07 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 08:09 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 08:11 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 08:13 AM** - China Will Launch Long March 6 Rocket (supercluster)
