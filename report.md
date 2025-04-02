@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 22 | 42 |
+| spacenews | 7 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
 
@@ -3211,3 +3211,4 @@
 - **Apr 02, 10:45 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 02, 10:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 02, 11:13 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 11:15 PM** - China Will Launch Long March 6 Rocket (supercluster)
