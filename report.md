@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 40 |
+| spacenews | 5 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
@@ -3175,3 +3175,4 @@
 - **Apr 02, 06:29 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 02, 06:43 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 02, 06:57 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
+- **Apr 02, 07:13 PM** - China launches new Tianlian data relay satellite to support human spaceflight (spacenews)
