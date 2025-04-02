@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3055,3 +3055,4 @@
 - **Apr 02, 05:27 AM** - Air Force nominee Troy Meink warns U.S. risks losing edge in space (spacenews)
 - **Apr 02, 05:41 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 05:43 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 05:45 AM** - China Will Launch Long March 6 Rocket (supercluster)
