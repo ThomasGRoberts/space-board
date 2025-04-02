@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -3075,3 +3075,4 @@
 - **Apr 02, 07:22 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Apr 02, 07:35 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 02, 07:49 AM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
+- **Apr 02, 08:05 AM** - China Will Launch Long March 6 Rocket (supercluster)
