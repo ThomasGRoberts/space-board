@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 41 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 102 | 102 |
@@ -3186,3 +3186,4 @@
 - **Apr 02, 07:41 PM** - Project Kuiper readies long-awaited operational satellite launch (spacenews)
 - **Apr 02, 07:55 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 02, 08:09 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Apr 02, 08:23 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
