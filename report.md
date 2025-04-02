@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 81 | 81 |
@@ -3152,3 +3152,4 @@
 - **Apr 02, 03:59 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 04:02 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Apr 02, 04:15 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
+- **Apr 02, 04:29 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
