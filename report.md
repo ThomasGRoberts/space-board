@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 21 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 19 | 36 |
+| nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -3167,3 +3167,4 @@
 - **Apr 02, 05:57 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Apr 02, 06:12 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 06:15 PM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 02, 06:17 PM** - China Will Launch Long March 6 Rocket (supercluster)
