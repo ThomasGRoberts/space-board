@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 21 | 42 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 36 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 35 |
 | supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
@@ -3129,3 +3129,4 @@
 - **Apr 02, 01:33 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 01:35 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 01:38 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 02, 01:51 PM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
