@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 41 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 19 | 35 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -3109,3 +3109,4 @@
 - **Apr 02, 11:17 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Apr 02, 11:31 AM** - JAXA institute studying Mars lander concept (spacenews)
 - **Apr 02, 11:45 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Apr 02, 11:59 AM** - China Will Launch Long March 6 Rocket (supercluster)
