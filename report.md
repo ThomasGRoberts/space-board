@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 5 | 5 |
-| spacenews | 3 | 10 | 20 | 42 |
+| spacenews | 3 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
 | nyt | 0 | 2 | 18 | 37 |
-| breaking_defense | 0 | 0 | 17 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -3025,3 +3025,4 @@
 - **Apr 01, 11:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 02, 12:03 AM** - Rocket Lab launches eight OroraTech satellites (spacenews)
 - **Apr 02, 12:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 02, 12:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
