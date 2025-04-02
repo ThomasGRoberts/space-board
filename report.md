@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 20 | 41 |
 | aidy | 1 | 2 | 18 | 37 |
-| nyt | 0 | 2 | 17 | 36 |
+| nyt | 0 | 2 | 17 | 35 |
 | breaking_defense | 0 | 0 | 17 | 35 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3023,4 +3023,4 @@
 - **Apr 02, 12:31 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 02, 12:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Apr 02, 01:13 AM** - Moog Ships Meteor Satellite Buses for National Security Space Mission (spacenews)
-- **Apr 02, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 02, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
