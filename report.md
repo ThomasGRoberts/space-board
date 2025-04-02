@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 19 | 41 |
-| aidy | 1 | 2 | 18 | 36 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -3029,3 +3029,4 @@
 - **Apr 02, 02:23 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 02:25 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 02, 02:39 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
+- **Apr 02, 02:53 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
