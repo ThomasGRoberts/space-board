@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 3 | 19 | 37 |
-| breaking_defense | 0 | 0 | 18 | 35 |
+| breaking_defense | 0 | 0 | 19 | 36 |
 | supercluster | 1 | 1 | 102 | 102 |
 
 # Shown Order
@@ -3185,3 +3185,4 @@
 - **Apr 02, 07:39 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 07:41 PM** - Project Kuiper readies long-awaited operational satellite launch (spacenews)
 - **Apr 02, 07:55 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 02, 08:09 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
