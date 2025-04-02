@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 42 |
+| spacenews | 7 | 11 | 23 | 43 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -3195,3 +3195,4 @@
 - **Apr 02, 08:47 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 08:49 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 08:51 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
+- **Apr 02, 09:05 PM** - Washington Harbour Partners invests in startup Turion Space (spacenews)

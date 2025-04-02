@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-02T00:01:58.099642+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b71ca01fdf047f37b5d293b45dc9cab",
+    "trigger_count": 0,
+    "current_item_id": "e01bf3c172ba451e1442f866885784ff",
     "data": [
         {
             "id": "2b71ca01fdf047f37b5d293b45dc9cab",
@@ -7952,6 +7952,18 @@
             "fetched_datetime": "2025-04-02T19:41:48.530190Z",
             "shown_at": [
                 "2025-04-02T19:41:49.543955Z"
+            ]
+        },
+        {
+            "id": "e01bf3c172ba451e1442f866885784ff",
+            "source": "spacenews",
+            "text": "Washington Harbour Partners invests in startup Turion Space",
+            "source_link": "https://spacenews.com/washington-harbour-partners-invests-in-startup-turion-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-02T21:05:28.532728Z",
+            "shown_at": [
+                "2025-04-02T21:05:29.147400Z"
             ]
         }
     ]
