@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 36 |
-| nyt | 1 | 3 | 18 | 36 |
+| nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 102 | 102 |
 
@@ -3184,3 +3184,4 @@
 - **Apr 02, 07:37 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 07:39 PM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 07:41 PM** - Project Kuiper readies long-awaited operational satellite launch (spacenews)
+- **Apr 02, 07:55 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
