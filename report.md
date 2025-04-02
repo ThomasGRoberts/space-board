@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 19 | 41 |
 | aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 2 | 18 | 36 |
-| breaking_defense | 0 | 0 | 17 | 34 |
+| breaking_defense | 0 | 0 | 18 | 35 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -3039,3 +3039,4 @@
 - **Apr 02, 03:32 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 03:33 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 02, 03:35 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 02, 03:49 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
