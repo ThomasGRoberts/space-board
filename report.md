@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 22 | 42 |
-| nyt | 1 | 1 | 19 | 37 |
+| nyt | 1 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 35 | 35 |
+| breaking_defense | 0 | 0 | 18 | 36 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3160,3 +3160,4 @@
 - **Apr 03, 09:02 AM** - Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA (spacenews)
 - **Apr 03, 09:19 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 03, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
