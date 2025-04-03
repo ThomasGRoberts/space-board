@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 130 | 130 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -3230,3 +3230,4 @@
 - **Apr 03, 12:37 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 03, 12:39 AM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 03, 12:53 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
+- **Apr 03, 01:07 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
