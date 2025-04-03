@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 20 | 24 | 47 |
+| spacenews | 13 | 20 | 25 | 48 |
 | nyt | 0 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 19 | 37 |
@@ -3265,3 +3265,4 @@
 - **Apr 03, 10:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 10:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 10:07 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Apr 03, 10:21 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
