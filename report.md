@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -3208,3 +3208,4 @@
 - **Apr 03, 03:02 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 03:17 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 03, 03:32 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
+- **Apr 03, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
