@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 22 | 43 |
+| spacenews | 9 | 11 | 22 | 42 |
 | nyt | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -3169,3 +3169,4 @@
 - **Apr 03, 09:47 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 10:05 AM** - Russia, China target SpaceX’s Starlink in escalating space electronic warfare (spacenews)
 - **Apr 03, 10:20 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 03, 10:35 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
