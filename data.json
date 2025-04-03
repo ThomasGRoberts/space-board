@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5a0104c85d12764ff1d6e2fda3d08548",
+    "trigger_count": 0,
+    "current_item_id": "88846049f302a94b46da3b27940c11e4",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8051,6 +8051,18 @@
             "fetched_datetime": "2025-04-03T13:33:31.005277Z",
             "shown_at": [
                 "2025-04-03T13:33:31.610292Z"
+            ]
+        },
+        {
+            "id": "88846049f302a94b46da3b27940c11e4",
+            "source": "spacenews",
+            "text": "China expands counterspace capabilities, new report finds",
+            "source_link": "https://spacenews.com/china-expands-counterspace-capabilities-new-report-finds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T14:02:15.353422Z",
+            "shown_at": [
+                "2025-04-03T14:02:16.096894Z"
             ]
         }
     ]

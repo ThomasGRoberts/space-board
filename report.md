@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 23 | 44 |
+| spacenews | 10 | 15 | 24 | 45 |
 | nyt | 0 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -3195,3 +3195,4 @@
 - **Apr 03, 01:19 PM** - Vast signs agreement to test Haven-1 at NASA facility (spacenews)
 - **Apr 03, 01:33 PM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
 - **Apr 03, 01:47 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 03, 02:02 PM** - China expands counterspace capabilities, new report finds (spacenews)
