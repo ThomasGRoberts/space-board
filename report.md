@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 25 | 47 |
 | nyt | 0 | 1 | 16 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 83 | 83 |
 
@@ -3243,3 +3243,4 @@
 - **Apr 03, 07:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 07:29 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 03, 07:45 PM** - Biotech is the launchpad for human survival in space (spacenews)
+- **Apr 03, 07:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
