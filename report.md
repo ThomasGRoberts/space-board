@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -3234,3 +3234,4 @@
 - **Apr 03, 06:29 PM** - Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced (spacenews)
 - **Apr 03, 06:43 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 03, 06:59 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 03, 07:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
