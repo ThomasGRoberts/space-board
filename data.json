@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "a8fbbf46b78c59d81305658b87d6f57b",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8071,6 +8071,18 @@
             "fetched_datetime": "2025-04-03T14:02:15.353422Z",
             "shown_at": [
                 "2025-04-03T14:02:16.096894Z"
+            ]
+        },
+        {
+            "id": "a8fbbf46b78c59d81305658b87d6f57b",
+            "source": "spacenews",
+            "text": "Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications",
+            "source_link": "https://spacenews.com/frontgrade-gaisler-and-wolfssl-collaborate-to-enhance-cybersecurity-in-space-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T14:47:26.534009Z",
+            "shown_at": [
+                "2025-04-03T14:47:27.222668Z"
             ]
         }
     ]
