@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 18 | 26 | 47 |
 | nyt | 0 | 1 | 16 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -3232,3 +3232,4 @@
 - **Apr 03, 05:59 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
 - **Apr 03, 06:15 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 03, 06:29 PM** - Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced (spacenews)
+- **Apr 03, 06:43 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
