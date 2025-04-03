@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 24 | 45 |
+| spacenews | 11 | 16 | 25 | 46 |
 | nyt | 0 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 17 | 37 |
 | breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -3228,3 +3228,4 @@
 - **Apr 03, 05:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:32 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 03, 05:45 PM** - Nelson concerned about NASA layoffs and other changes (spacenews)
