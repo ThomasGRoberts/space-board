@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 22 | 42 |
 | nyt | 1 | 1 | 19 | 36 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 130 | 130 |
+| supercluster | 1 | 1 | 131 | 131 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
@@ -3232,3 +3232,4 @@
 - **Apr 03, 12:53 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Apr 03, 01:07 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 03, 01:23 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 03, 01:37 AM** - China Will Launch Long March 6 Rocket (supercluster)
