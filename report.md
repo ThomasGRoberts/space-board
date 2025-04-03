@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 22 | 42 |
 | nyt | 1 | 1 | 18 | 37 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -3133,3 +3133,4 @@
 - **Apr 03, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:49 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
+- **Apr 03, 06:03 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
