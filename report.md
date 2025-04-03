@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3245,3 +3245,4 @@
 - **Apr 03, 07:45 PM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 03, 07:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 03, 08:13 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 03, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
