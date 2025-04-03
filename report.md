@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 25 | 47 |
-| nyt | 0 | 1 | 16 | 35 |
+| nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -3244,3 +3244,4 @@
 - **Apr 03, 07:29 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 03, 07:45 PM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 03, 07:59 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 03, 08:13 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
