@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 22 | 42 |
-| nyt | 0 | 1 | 17 | 36 |
+| nyt | 0 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -3182,3 +3182,4 @@
 - **Apr 03, 11:37 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 03, 11:52 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 03, 12:05 PM** - Moog Highlights Meteor Satellite Bus at Space Symposium (spacenews)
+- **Apr 03, 12:19 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
