@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 23 | 44 |
-| nyt | 0 | 1 | 18 | 36 |
+| spacenews | 11 | 15 | 24 | 45 |
+| nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -3215,3 +3215,4 @@
 - **Apr 03, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 04:02 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
