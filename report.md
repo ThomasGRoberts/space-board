@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 41 |
+| spacenews | 7 | 9 | 23 | 42 |
 | nyt | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -3112,3 +3112,4 @@
 - **Apr 03, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 03:23 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 03:37 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 03, 03:51 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
