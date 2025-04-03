@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 23 | 44 |
 | nyt | 0 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -3194,3 +3194,4 @@
 - **Apr 03, 01:05 PM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
 - **Apr 03, 01:19 PM** - Vast signs agreement to test Haven-1 at NASA facility (spacenews)
 - **Apr 03, 01:33 PM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
+- **Apr 03, 01:47 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
