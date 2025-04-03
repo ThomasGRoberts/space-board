@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 23 | 43 |
+| spacenews | 7 | 10 | 23 | 42 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
@@ -3104,4 +3104,4 @@
 - **Apr 03, 01:23 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 03, 01:51 AM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Apr 03, 02:07 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
-- **Apr 03, 02:48 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 03, 02:51 AM** - China Will Launch Long March 6 Rocket (supercluster)
