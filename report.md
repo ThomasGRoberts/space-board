@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3114,3 +3114,4 @@
 - **Apr 03, 03:37 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 03, 03:51 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Apr 03, 04:05 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 03, 04:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
