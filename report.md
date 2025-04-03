@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 25 | 48 |
-| nyt | 0 | 1 | 16 | 35 |
+| nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -3256,3 +3256,4 @@
 - **Apr 03, 08:55 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 09:11 PM** - Startups demonstrate in-orbit satellite autonomy (spacenews)
 - **Apr 03, 09:25 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 03, 09:39 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
