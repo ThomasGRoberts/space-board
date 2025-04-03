@@ -5,7 +5,7 @@
 | spacenews | 11 | 16 | 24 | 45 |
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 1 | 1 | 18 | 36 |
+| breaking_defense | 1 | 1 | 19 | 37 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -3205,3 +3205,4 @@
 - **Apr 03, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 02:47 PM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
+- **Apr 03, 03:02 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
