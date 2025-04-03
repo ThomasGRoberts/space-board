@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dfec4caaccba993866e6c80bc71f7b6",
+    "trigger_count": 0,
+    "current_item_id": "d4283a5b3c177c24e293b981ee7c18ab",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -7859,6 +7859,20 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "d4283a5b3c177c24e293b981ee7c18ab",
+            "source": "supercluster",
+            "text": "China Will Launch Long March 6 Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-64",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-03T02:10:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-04-03T02:21:50.167593Z",
+            "shown_at": [
+                "2025-04-03T02:21:51.065697Z"
             ]
         }
     ]
