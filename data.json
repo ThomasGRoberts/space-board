@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04e2ab2f52381a531da9ed041b1b0dbd",
+    "trigger_count": 0,
+    "current_item_id": "c36b56112af0805cccdb4d5dd4ac734d",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8094,6 +8094,18 @@
             "fetched_datetime": "2025-04-03T14:47:26.534009Z",
             "shown_at": [
                 "2025-04-03T14:47:27.222668Z"
+            ]
+        },
+        {
+            "id": "c36b56112af0805cccdb4d5dd4ac734d",
+            "source": "spacenews",
+            "text": "Voyager Technologies to acquire LEOcloud",
+            "source_link": "https://spacenews.com/voyager-technologies-to-acquire-leocloud/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T16:15:35.253776Z",
+            "shown_at": [
+                "2025-04-03T16:15:35.988744Z"
             ]
         }
     ]

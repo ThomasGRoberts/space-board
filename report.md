@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 24 | 45 |
+| spacenews | 12 | 16 | 25 | 46 |
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 1 | 1 | 18 | 36 |
+| breaking_defense | 1 | 1 | 17 | 36 |
 | supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
@@ -3216,3 +3216,4 @@
 - **Apr 03, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 04:02 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
+- **Apr 03, 04:15 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
