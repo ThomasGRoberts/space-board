@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -3159,3 +3159,4 @@
 - **Apr 03, 08:47 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 03, 09:02 AM** - Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA (spacenews)
 - **Apr 03, 09:19 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 03, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
