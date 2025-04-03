@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 22 | 42 |
 | nyt | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 | breaking_defense | 0 | 0 | 19 | 36 |
 
 # Shown Order
@@ -3221,3 +3221,4 @@
 - **Apr 02, 11:41 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
 - **Apr 02, 11:55 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 03, 12:09 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 03, 12:23 AM** - China Will Launch Long March 6 Rocket (supercluster)
