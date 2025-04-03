@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 24 | 45 |
-| nyt | 0 | 1 | 17 | 36 |
+| nyt | 0 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -3207,3 +3207,4 @@
 - **Apr 03, 02:47 PM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
 - **Apr 03, 03:02 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 03:17 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 03, 03:32 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
