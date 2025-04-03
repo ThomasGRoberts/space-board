@@ -5,7 +5,7 @@
 | spacenews | 7 | 11 | 21 | 42 |
 | nyt | 0 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 37 |
-| breaking_defense | 1 | 1 | 18 | 37 |
+| breaking_defense | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -3190,3 +3190,4 @@
 - **Apr 03, 12:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 12:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 12:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 12:49 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
