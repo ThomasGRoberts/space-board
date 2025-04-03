@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 25 | 46 |
+| spacenews | 12 | 17 | 25 | 47 |
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 2 | 2 | 18 | 37 |
@@ -3229,3 +3229,4 @@
 - **Apr 03, 05:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:32 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 03, 05:45 PM** - Nelson concerned about NASA layoffs and other changes (spacenews)
+- **Apr 03, 05:59 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
