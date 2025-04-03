@@ -5,7 +5,7 @@
 | spacenews | 12 | 17 | 25 | 46 |
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 3 | 3 | 19 | 38 |
 | supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
@@ -3230,3 +3230,4 @@
 - **Apr 03, 05:32 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 03, 05:45 PM** - Nelson concerned about NASA layoffs and other changes (spacenews)
 - **Apr 03, 05:59 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
+- **Apr 03, 06:15 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
