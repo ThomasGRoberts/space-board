@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3136,3 +3136,4 @@
 - **Apr 03, 06:03 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Apr 03, 06:17 AM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 03, 06:35 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
+- **Apr 03, 06:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
