@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -3125,3 +3125,4 @@
 - **Apr 03, 04:47 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 03, 05:02 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Apr 03, 05:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 03, 05:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
