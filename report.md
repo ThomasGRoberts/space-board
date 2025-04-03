@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -3158,3 +3158,4 @@
 - **Apr 03, 08:32 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Apr 03, 08:47 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 03, 09:02 AM** - Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA (spacenews)
+- **Apr 03, 09:19 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
