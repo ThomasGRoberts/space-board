@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 25 | 47 |
-| nyt | 0 | 1 | 17 | 36 |
+| nyt | 0 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
 
@@ -3259,3 +3259,4 @@
 - **Apr 03, 09:39 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 03, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 09:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 09:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
