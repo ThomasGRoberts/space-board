@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "f1df34ff43dad3c2b62b2fa8d047bdce",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8185,6 +8185,18 @@
             "fetched_datetime": "2025-04-03T18:29:50.872126Z",
             "shown_at": [
                 "2025-04-03T18:29:51.860653Z"
+            ]
+        },
+        {
+            "id": "f1df34ff43dad3c2b62b2fa8d047bdce",
+            "source": "spacenews",
+            "text": "U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’",
+            "source_link": "https://spacenews.com/u-s-space-force-chief-chinas-capabilities-in-orbit-a-destabilizing-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T20:41:44.450965Z",
+            "shown_at": [
+                "2025-04-03T20:41:45.172036Z"
             ]
         }
     ]
