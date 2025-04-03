@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e6ca85973e2a85503f178a40edf761fd",
+    "trigger_count": 0,
+    "current_item_id": "cf04e3ba33491ede32a5049f3eab9c93",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8198,6 +8198,18 @@
             "fetched_datetime": "2025-04-03T20:41:44.450965Z",
             "shown_at": [
                 "2025-04-03T20:41:45.172036Z"
+            ]
+        },
+        {
+            "id": "cf04e3ba33491ede32a5049f3eab9c93",
+            "source": "spacenews",
+            "text": "Startups demonstrate in-orbit satellite autonomy",
+            "source_link": "https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T21:11:33.483109Z",
+            "shown_at": [
+                "2025-04-03T21:11:34.175273Z"
             ]
         }
     ]
