@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -3257,3 +3257,4 @@
 - **Apr 03, 09:11 PM** - Startups demonstrate in-orbit satellite autonomy (spacenews)
 - **Apr 03, 09:25 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 03, 09:39 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 03, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
