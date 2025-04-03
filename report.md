@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 22 | 42 |
-| nyt | 1 | 1 | 19 | 37 |
-| aidy | 1 | 2 | 18 | 37 |
+| nyt | 1 | 1 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -3122,3 +3122,4 @@
 - **Apr 03, 04:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 04:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 04:33 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Apr 03, 04:47 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
