@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 16 | 25 | 46 |
 | nyt | 0 | 1 | 17 | 36 |
-| aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 1 | 1 | 17 | 36 |
+| aidy | 1 | 2 | 17 | 37 |
+| breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
@@ -3217,3 +3217,4 @@
 - **Apr 03, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 04:02 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
 - **Apr 03, 04:15 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
+- **Apr 03, 04:32 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
