@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 21 | 42 |
 | nyt | 1 | 1 | 18 | 36 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -3180,3 +3180,4 @@
 - **Apr 03, 11:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 11:22 AM** - China’s megaconstellations take off, government backs commercial space (spacenews)
 - **Apr 03, 11:37 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
+- **Apr 03, 11:52 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
