@@ -5,7 +5,7 @@
 | spacenews | 11 | 16 | 24 | 45 |
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
-| breaking_defense | 1 | 1 | 18 | 36 |
+| breaking_defense | 2 | 2 | 18 | 37 |
 | supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
@@ -3227,3 +3227,4 @@
 - **Apr 03, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 05:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 05:32 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)

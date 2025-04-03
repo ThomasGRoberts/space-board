@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "0f0fb07e87c9b4394d95d24c6d00629e",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8116,6 +8116,18 @@
             "fetched_datetime": "2025-04-03T16:15:35.253776Z",
             "shown_at": [
                 "2025-04-03T16:15:35.988744Z"
+            ]
+        },
+        {
+            "id": "0f0fb07e87c9b4394d95d24c6d00629e",
+            "source": "breaking_defense",
+            "text": "CSO Saltzman: US national security space policy ‘lagging’ needs",
+            "source_link": "https://breakingdefense.com/2025/04/cso-saltzman-us-national-security-space-policy-lagging-needs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T17:32:04.212127Z",
+            "shown_at": [
+                "2025-04-03T17:32:05.635258Z"
             ]
         }
     ]
