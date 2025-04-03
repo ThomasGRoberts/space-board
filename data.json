@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "faf584ad90e6517326c26acd3a131ff1",
+    "trigger_count": 0,
+    "current_item_id": "ae37b9b8bcb114387808734ef1bb164e",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -7993,6 +7993,18 @@
             "fetched_datetime": "2025-04-03T10:20:10.575162Z",
             "shown_at": [
                 "2025-04-03T10:20:11.641820Z"
+            ]
+        },
+        {
+            "id": "ae37b9b8bcb114387808734ef1bb164e",
+            "source": "spacenews",
+            "text": "Moog Highlights Meteor Satellite Bus at Space Symposium",
+            "source_link": "https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T12:05:30.479356Z",
+            "shown_at": [
+                "2025-04-03T12:05:31.198942Z"
             ]
         }
     ]
