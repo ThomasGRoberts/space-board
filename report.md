@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 22 | 44 |
+| spacenews | 9 | 14 | 23 | 44 |
 | nyt | 0 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 19 | 37 |
@@ -3193,3 +3193,4 @@
 - **Apr 03, 12:49 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 03, 01:05 PM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
 - **Apr 03, 01:19 PM** - Vast signs agreement to test Haven-1 at NASA facility (spacenews)
+- **Apr 03, 01:33 PM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)

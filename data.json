@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49c65cbbc294c0d2d6d198f13d325835",
+    "trigger_count": 0,
+    "current_item_id": "86a765c512a993810793064e6f565ae9",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8038,6 +8038,18 @@
             "fetched_datetime": "2025-04-03T13:05:37.490176Z",
             "shown_at": [
                 "2025-04-03T13:19:48.616444Z"
+            ]
+        },
+        {
+            "id": "86a765c512a993810793064e6f565ae9",
+            "source": "spacenews",
+            "text": "CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission",
+            "source_link": "https://spacenews.com/csf-president-dave-cavossa-testifies-before-the-u-s-china-economic-and-security-review-commission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:33:31.005277Z",
+            "shown_at": [
+                "2025-04-03T13:33:31.610292Z"
             ]
         }
     ]
