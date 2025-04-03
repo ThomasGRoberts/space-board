@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 22 | 42 |
+| spacenews | 7 | 10 | 23 | 42 |
 | nyt | 1 | 1 | 18 | 36 |
 | aidy | 1 | 2 | 19 | 37 |
 | supercluster | 1 | 1 | 130 | 130 |
@@ -3228,3 +3228,4 @@
 - **Apr 03, 12:32 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 03, 12:35 AM** - China Will Launch Long March 6 Rocket (supercluster)
 - **Apr 03, 12:37 AM** - China Will Launch Long March 6 Rocket (supercluster)
+- **Apr 03, 12:39 AM** - MDA Space buys SatixFy to boost constellation production (spacenews)
