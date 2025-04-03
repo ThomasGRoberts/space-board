@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
+    "trigger_count": 0,
+    "current_item_id": "de022790840864a6f56514090b0c198f",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -8015,6 +8015,27 @@
             "shown_at": [
                 "2025-04-03T12:05:31.198942Z"
             ]
+        },
+        {
+            "id": "de022790840864a6f56514090b0c198f",
+            "source": "spacenews",
+            "text": "Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft",
+            "source_link": "https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:05:37.490113Z",
+            "shown_at": [
+                "2025-04-03T13:05:38.350737Z"
+            ]
+        },
+        {
+            "id": "49c65cbbc294c0d2d6d198f13d325835",
+            "source": "spacenews",
+            "text": "Vast signs agreement to test Haven-1 at NASA facility",
+            "source_link": "https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:05:37.490176Z"
         }
     ]
 }
