@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b49bb9f5416acf3d75e2889f225a78d9",
+    "trigger_count": 0,
+    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -7969,6 +7969,18 @@
             "fetched_datetime": "2025-04-03T10:05:56.335114Z",
             "shown_at": [
                 "2025-04-03T10:05:57.246867Z"
+            ]
+        },
+        {
+            "id": "20cc007eafa4b5e564ba39b192521675",
+            "source": "breaking_defense",
+            "text": "Counterspace capabilities advancing around the globe: Secure World Foundation",
+            "source_link": "https://breakingdefense.com/2025/04/counterspace-capabilities-advancing-around-the-globe-secure-world-foundation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T10:20:10.575162Z",
+            "shown_at": [
+                "2025-04-03T10:20:11.641820Z"
             ]
         }
     ]
