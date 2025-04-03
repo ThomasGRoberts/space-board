@@ -6,6 +6,7 @@
 | nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3170,3 +3171,4 @@
 - **Apr 03, 10:21 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 03, 10:35 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Apr 03, 10:49 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
+- **Apr 03, 11:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
