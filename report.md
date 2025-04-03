@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -3148,3 +3148,4 @@
 - **Apr 03, 07:33 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 03, 07:47 AM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 03, 08:01 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 03, 08:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
