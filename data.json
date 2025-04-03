@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e6ca85973e2a85503f178a40edf761fd",
+    "trigger_count": 0,
+    "current_item_id": "b49bb9f5416acf3d75e2889f225a78d9",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -7957,6 +7957,18 @@
             "fetched_datetime": "2025-04-03T09:02:22.938392Z",
             "shown_at": [
                 "2025-04-03T09:02:24.052084Z"
+            ]
+        },
+        {
+            "id": "b49bb9f5416acf3d75e2889f225a78d9",
+            "source": "spacenews",
+            "text": "Russia, China target SpaceX’s Starlink in escalating space electronic warfare",
+            "source_link": "https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T10:05:56.335114Z",
+            "shown_at": [
+                "2025-04-03T10:05:57.246867Z"
             ]
         }
     ]
