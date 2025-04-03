@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 22 | 42 |
 | nyt | 1 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -3155,3 +3155,4 @@
 - **Apr 03, 08:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 08:32 AM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
