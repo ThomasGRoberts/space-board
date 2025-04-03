@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 24 | 45 |
-| nyt | 0 | 1 | 17 | 36 |
+| nyt | 0 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 1 | 1 | 18 | 37 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -3219,3 +3219,4 @@
 - **Apr 03, 04:15 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
 - **Apr 03, 04:32 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 03, 04:47 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 03, 05:02 PM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
