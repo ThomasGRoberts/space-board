@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 37 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -3172,3 +3172,4 @@
 - **Apr 03, 10:35 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Apr 03, 10:49 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 03, 11:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 03, 11:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
