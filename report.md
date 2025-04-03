@@ -5,7 +5,7 @@
 | spacenews | 13 | 19 | 25 | 47 |
 | nyt | 0 | 1 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 36 |
-| breaking_defense | 3 | 3 | 18 | 37 |
+| breaking_defense | 3 | 3 | 19 | 38 |
 | supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
@@ -3253,3 +3253,4 @@
 - **Apr 03, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 03, 08:41 PM** - U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’ (spacenews)
+- **Apr 03, 08:55 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
