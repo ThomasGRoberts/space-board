@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3c851c621186512394fe93a719b5042",
+    "trigger_count": 0,
+    "current_item_id": "7386a73104960179c6bbd7c7a349708f",
     "data": [
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
@@ -7913,6 +7913,18 @@
                 "2025-04-03T06:57:42.544881Z",
                 "2025-04-03T06:59:37.702675Z",
                 "2025-04-03T07:02:13.152146Z"
+            ]
+        },
+        {
+            "id": "7386a73104960179c6bbd7c7a349708f",
+            "source": "aidy",
+            "text": "FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T07:33:29.904794Z",
+            "shown_at": [
+                "2025-04-03T07:33:30.518434Z"
             ]
         }
     ]
