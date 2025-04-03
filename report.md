@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 25 | 48 |
 | nyt | 0 | 1 | 16 | 35 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | breaking_defense | 3 | 3 | 19 | 37 |
 | supercluster | 1 | 1 | 90 | 90 |
 
@@ -3255,3 +3255,4 @@
 - **Apr 03, 08:41 PM** - U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’ (spacenews)
 - **Apr 03, 08:55 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 09:11 PM** - Startups demonstrate in-orbit satellite autonomy (spacenews)
+- **Apr 03, 09:25 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
