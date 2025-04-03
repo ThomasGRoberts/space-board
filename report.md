@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 25 | 48 |
-| nyt | 0 | 1 | 16 | 35 |
+| nyt | 0 | 1 | 17 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -3267,3 +3267,4 @@
 - **Apr 03, 10:07 PM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Apr 03, 10:21 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 03, 10:35 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Apr 03, 10:49 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
