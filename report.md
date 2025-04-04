@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 113 | 113 |
 | spacenews | 3 | 16 | 19 | 45 |
-| breaking_defense | 1 | 4 | 19 | 37 |
+| breaking_defense | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 36 |
 
@@ -3351,3 +3351,4 @@
 - **Apr 04, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 08:17 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 04, 08:31 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
+- **Apr 04, 08:45 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
