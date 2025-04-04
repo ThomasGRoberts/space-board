@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 29 | 29 |
-| spacenews | 13 | 20 | 24 | 46 |
+| spacenews | 13 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 1 | 16 | 34 |
@@ -3217,3 +3217,4 @@
 - **Apr 04, 05:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:47 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 04, 06:02 AM** - CLPS companies seek expanded opportunities for commercial lunar landers (spacenews)
