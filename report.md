@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 120 | 120 |
-| spacenews | 4 | 17 | 20 | 45 |
+| spacenews | 5 | 18 | 21 | 46 |
 | breaking_defense | 1 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 36 |
@@ -3363,3 +3363,4 @@
 - **Apr 04, 09:27 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 04, 09:41 PM** - Space companies swept up in far-reaching trade war (spacenews)
 - **Apr 04, 09:55 PM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
+- **Apr 04, 10:09 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
