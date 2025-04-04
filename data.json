@@ -1,9 +1,234 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-03T00:02:05.550108+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
+    "trigger_count": 0,
+    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
     "data": [
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-72",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-06T02:40:00.000Z",
+            "time_remaining": "2d 02h 40m",
+            "fetched_datetime": "2025-04-03T23:55:32.710996Z",
+            "shown_at": [
+                "2025-04-03T23:55:33.585077Z",
+                "2025-04-03T23:57:05.803236Z",
+                "2025-04-03T23:59:34.434585Z"
+            ]
+        },
+        {
+            "id": "cf04e3ba33491ede32a5049f3eab9c93",
+            "source": "spacenews",
+            "text": "Startups demonstrate in-orbit satellite autonomy",
+            "source_link": "https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T21:11:33.483109Z",
+            "shown_at": [
+                "2025-04-03T21:11:34.175273Z"
+            ]
+        },
+        {
+            "id": "f1df34ff43dad3c2b62b2fa8d047bdce",
+            "source": "spacenews",
+            "text": "U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’",
+            "source_link": "https://spacenews.com/u-s-space-force-chief-chinas-capabilities-in-orbit-a-destabilizing-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T20:41:44.450965Z",
+            "shown_at": [
+                "2025-04-03T20:41:45.172036Z"
+            ]
+        },
+        {
+            "id": "ab3c80ff102525de3b3b8098a68552e0",
+            "source": "spacenews",
+            "text": "Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced",
+            "source_link": "https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T18:29:50.872126Z",
+            "shown_at": [
+                "2025-04-03T18:29:51.860653Z"
+            ]
+        },
+        {
+            "id": "5ab5f56644e4623a9cdbee487fd26895",
+            "source": "breaking_defense",
+            "text": "Space Force’s Saltzman: US national security space policy ‘lagging’ needs",
+            "source_link": "https://breakingdefense.com/2025/04/cso-saltzman-us-national-security-space-policy-lagging-needs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T18:15:40.478413Z",
+            "shown_at": [
+                "2025-04-03T18:15:41.392871Z",
+                "2025-04-03T19:29:59.474840Z"
+            ]
+        },
+        {
+            "id": "69ec2464533f0c8a042820151ea047d0",
+            "source": "spacenews",
+            "text": "SpinLaunch announces plans for broadband satellite constellation",
+            "source_link": "https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T17:59:29.047267Z",
+            "shown_at": [
+                "2025-04-03T17:59:29.826394Z"
+            ]
+        },
+        {
+            "id": "0f0fb07e87c9b4394d95d24c6d00629e",
+            "source": "breaking_defense",
+            "text": "CSO Saltzman: US national security space policy ‘lagging’ needs",
+            "source_link": "https://breakingdefense.com/2025/04/cso-saltzman-us-national-security-space-policy-lagging-needs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T17:32:04.212127Z",
+            "shown_at": [
+                "2025-04-03T17:32:05.635258Z"
+            ]
+        },
+        {
+            "id": "c36b56112af0805cccdb4d5dd4ac734d",
+            "source": "spacenews",
+            "text": "Voyager Technologies to acquire LEOcloud",
+            "source_link": "https://spacenews.com/voyager-technologies-to-acquire-leocloud/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T16:15:35.253776Z",
+            "shown_at": [
+                "2025-04-03T16:15:35.988744Z"
+            ]
+        },
+        {
+            "id": "a8fbbf46b78c59d81305658b87d6f57b",
+            "source": "spacenews",
+            "text": "Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications",
+            "source_link": "https://spacenews.com/frontgrade-gaisler-and-wolfssl-collaborate-to-enhance-cybersecurity-in-space-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T14:47:26.534009Z",
+            "shown_at": [
+                "2025-04-03T14:47:27.222668Z"
+            ]
+        },
+        {
+            "id": "88846049f302a94b46da3b27940c11e4",
+            "source": "spacenews",
+            "text": "China expands counterspace capabilities, new report finds",
+            "source_link": "https://spacenews.com/china-expands-counterspace-capabilities-new-report-finds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T14:02:15.353422Z",
+            "shown_at": [
+                "2025-04-03T14:02:16.096894Z"
+            ]
+        },
+        {
+            "id": "86a765c512a993810793064e6f565ae9",
+            "source": "spacenews",
+            "text": "CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission",
+            "source_link": "https://spacenews.com/csf-president-dave-cavossa-testifies-before-the-u-s-china-economic-and-security-review-commission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:33:31.005277Z",
+            "shown_at": [
+                "2025-04-03T13:33:31.610292Z"
+            ]
+        },
+        {
+            "id": "49c65cbbc294c0d2d6d198f13d325835",
+            "source": "spacenews",
+            "text": "Vast signs agreement to test Haven-1 at NASA facility",
+            "source_link": "https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:05:37.490176Z",
+            "shown_at": [
+                "2025-04-03T13:19:48.616444Z"
+            ]
+        },
+        {
+            "id": "de022790840864a6f56514090b0c198f",
+            "source": "spacenews",
+            "text": "Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft",
+            "source_link": "https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T13:05:37.490113Z",
+            "shown_at": [
+                "2025-04-03T13:05:38.350737Z"
+            ]
+        },
+        {
+            "id": "ae37b9b8bcb114387808734ef1bb164e",
+            "source": "spacenews",
+            "text": "Moog Highlights Meteor Satellite Bus at Space Symposium",
+            "source_link": "https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T12:05:30.479356Z",
+            "shown_at": [
+                "2025-04-03T12:05:31.198942Z"
+            ]
+        },
+        {
+            "id": "20cc007eafa4b5e564ba39b192521675",
+            "source": "breaking_defense",
+            "text": "Counterspace capabilities advancing around the globe: Secure World Foundation",
+            "source_link": "https://breakingdefense.com/2025/04/counterspace-capabilities-advancing-around-the-globe-secure-world-foundation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T10:20:10.575162Z",
+            "shown_at": [
+                "2025-04-03T10:20:11.641820Z",
+                "2025-04-03T12:49:54.265028Z",
+                "2025-04-03T16:32:15.198696Z",
+                "2025-04-04T00:02:09.149978Z"
+            ]
+        },
+        {
+            "id": "b49bb9f5416acf3d75e2889f225a78d9",
+            "source": "spacenews",
+            "text": "Russia, China target SpaceX’s Starlink in escalating space electronic warfare",
+            "source_link": "https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T10:05:56.335114Z",
+            "shown_at": [
+                "2025-04-03T10:05:57.246867Z"
+            ]
+        },
+        {
+            "id": "fe3f66dfc8e555b2a151b3d599c4695b",
+            "source": "spacenews",
+            "text": "Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA",
+            "source_link": "https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T09:02:22.938392Z",
+            "shown_at": [
+                "2025-04-03T09:02:24.052084Z"
+            ]
+        },
+        {
+            "id": "7386a73104960179c6bbd7c7a349708f",
+            "source": "aidy",
+            "text": "FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-03T07:33:29.904794Z",
+            "shown_at": [
+                "2025-04-03T07:33:30.518434Z",
+                "2025-04-03T18:43:14.123986Z"
+            ]
+        },
         {
             "id": "e01bf3c172ba451e1442f866885784ff",
             "source": "spacenews",
@@ -7905,230 +8130,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "7386a73104960179c6bbd7c7a349708f",
-            "source": "aidy",
-            "text": "FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T07:33:29.904794Z",
-            "shown_at": [
-                "2025-04-03T07:33:30.518434Z",
-                "2025-04-03T18:43:14.123986Z"
-            ]
-        },
-        {
-            "id": "fe3f66dfc8e555b2a151b3d599c4695b",
-            "source": "spacenews",
-            "text": "Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA",
-            "source_link": "https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T09:02:22.938392Z",
-            "shown_at": [
-                "2025-04-03T09:02:24.052084Z"
-            ]
-        },
-        {
-            "id": "b49bb9f5416acf3d75e2889f225a78d9",
-            "source": "spacenews",
-            "text": "Russia, China target SpaceX’s Starlink in escalating space electronic warfare",
-            "source_link": "https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T10:05:56.335114Z",
-            "shown_at": [
-                "2025-04-03T10:05:57.246867Z"
-            ]
-        },
-        {
-            "id": "20cc007eafa4b5e564ba39b192521675",
-            "source": "breaking_defense",
-            "text": "Counterspace capabilities advancing around the globe: Secure World Foundation",
-            "source_link": "https://breakingdefense.com/2025/04/counterspace-capabilities-advancing-around-the-globe-secure-world-foundation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T10:20:10.575162Z",
-            "shown_at": [
-                "2025-04-03T10:20:11.641820Z",
-                "2025-04-03T12:49:54.265028Z",
-                "2025-04-03T16:32:15.198696Z"
-            ]
-        },
-        {
-            "id": "ae37b9b8bcb114387808734ef1bb164e",
-            "source": "spacenews",
-            "text": "Moog Highlights Meteor Satellite Bus at Space Symposium",
-            "source_link": "https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T12:05:30.479356Z",
-            "shown_at": [
-                "2025-04-03T12:05:31.198942Z"
-            ]
-        },
-        {
-            "id": "de022790840864a6f56514090b0c198f",
-            "source": "spacenews",
-            "text": "Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft",
-            "source_link": "https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T13:05:37.490113Z",
-            "shown_at": [
-                "2025-04-03T13:05:38.350737Z"
-            ]
-        },
-        {
-            "id": "49c65cbbc294c0d2d6d198f13d325835",
-            "source": "spacenews",
-            "text": "Vast signs agreement to test Haven-1 at NASA facility",
-            "source_link": "https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T13:05:37.490176Z",
-            "shown_at": [
-                "2025-04-03T13:19:48.616444Z"
-            ]
-        },
-        {
-            "id": "86a765c512a993810793064e6f565ae9",
-            "source": "spacenews",
-            "text": "CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission",
-            "source_link": "https://spacenews.com/csf-president-dave-cavossa-testifies-before-the-u-s-china-economic-and-security-review-commission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T13:33:31.005277Z",
-            "shown_at": [
-                "2025-04-03T13:33:31.610292Z"
-            ]
-        },
-        {
-            "id": "88846049f302a94b46da3b27940c11e4",
-            "source": "spacenews",
-            "text": "China expands counterspace capabilities, new report finds",
-            "source_link": "https://spacenews.com/china-expands-counterspace-capabilities-new-report-finds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T14:02:15.353422Z",
-            "shown_at": [
-                "2025-04-03T14:02:16.096894Z"
-            ]
-        },
-        {
-            "id": "a8fbbf46b78c59d81305658b87d6f57b",
-            "source": "spacenews",
-            "text": "Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications",
-            "source_link": "https://spacenews.com/frontgrade-gaisler-and-wolfssl-collaborate-to-enhance-cybersecurity-in-space-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T14:47:26.534009Z",
-            "shown_at": [
-                "2025-04-03T14:47:27.222668Z"
-            ]
-        },
-        {
-            "id": "c36b56112af0805cccdb4d5dd4ac734d",
-            "source": "spacenews",
-            "text": "Voyager Technologies to acquire LEOcloud",
-            "source_link": "https://spacenews.com/voyager-technologies-to-acquire-leocloud/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T16:15:35.253776Z",
-            "shown_at": [
-                "2025-04-03T16:15:35.988744Z"
-            ]
-        },
-        {
-            "id": "0f0fb07e87c9b4394d95d24c6d00629e",
-            "source": "breaking_defense",
-            "text": "CSO Saltzman: US national security space policy ‘lagging’ needs",
-            "source_link": "https://breakingdefense.com/2025/04/cso-saltzman-us-national-security-space-policy-lagging-needs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T17:32:04.212127Z",
-            "shown_at": [
-                "2025-04-03T17:32:05.635258Z"
-            ]
-        },
-        {
-            "id": "69ec2464533f0c8a042820151ea047d0",
-            "source": "spacenews",
-            "text": "SpinLaunch announces plans for broadband satellite constellation",
-            "source_link": "https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T17:59:29.047267Z",
-            "shown_at": [
-                "2025-04-03T17:59:29.826394Z"
-            ]
-        },
-        {
-            "id": "5ab5f56644e4623a9cdbee487fd26895",
-            "source": "breaking_defense",
-            "text": "Space Force’s Saltzman: US national security space policy ‘lagging’ needs",
-            "source_link": "https://breakingdefense.com/2025/04/cso-saltzman-us-national-security-space-policy-lagging-needs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T18:15:40.478413Z",
-            "shown_at": [
-                "2025-04-03T18:15:41.392871Z",
-                "2025-04-03T19:29:59.474840Z"
-            ]
-        },
-        {
-            "id": "ab3c80ff102525de3b3b8098a68552e0",
-            "source": "spacenews",
-            "text": "Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced",
-            "source_link": "https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T18:29:50.872126Z",
-            "shown_at": [
-                "2025-04-03T18:29:51.860653Z"
-            ]
-        },
-        {
-            "id": "f1df34ff43dad3c2b62b2fa8d047bdce",
-            "source": "spacenews",
-            "text": "U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’",
-            "source_link": "https://spacenews.com/u-s-space-force-chief-chinas-capabilities-in-orbit-a-destabilizing-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T20:41:44.450965Z",
-            "shown_at": [
-                "2025-04-03T20:41:45.172036Z"
-            ]
-        },
-        {
-            "id": "cf04e3ba33491ede32a5049f3eab9c93",
-            "source": "spacenews",
-            "text": "Startups demonstrate in-orbit satellite autonomy",
-            "source_link": "https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T21:11:33.483109Z",
-            "shown_at": [
-                "2025-04-03T21:11:34.175273Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-72",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-06T02:40:00.000Z",
-            "time_remaining": "2d 02h 40m",
-            "fetched_datetime": "2025-04-03T23:55:32.710996Z",
-            "shown_at": [
-                "2025-04-03T23:55:33.585077Z",
-                "2025-04-03T23:57:05.803236Z",
-                "2025-04-03T23:59:34.434585Z"
             ]
         }
     ]
