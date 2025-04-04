@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 86 | 86 |
-| spacenews | 6 | 17 | 21 | 45 |
-| breaking_defense | 2 | 3 | 19 | 37 |
+| supercluster | 1 | 1 | 87 | 87 |
+| spacenews | 5 | 17 | 20 | 45 |
+| breaking_defense | 2 | 3 | 19 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 18 | 35 |
 
@@ -3309,3 +3309,4 @@
 - **Apr 04, 03:45 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 04, 03:59 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 04, 04:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 04:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
