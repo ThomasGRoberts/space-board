@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 57 | 57 |
 | spacenews | 11 | 19 | 25 | 46 |
 | breaking_defense | 2 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -3262,3 +3262,4 @@
 - **Apr 04, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 10:37 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 10:51 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
+- **Apr 04, 11:05 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
