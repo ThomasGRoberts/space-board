@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 85 | 85 |
-| spacenews | 6 | 17 | 21 | 45 |
+| spacenews | 6 | 17 | 22 | 46 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 18 | 35 |
@@ -3305,3 +3305,4 @@
 - **Apr 04, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 03:17 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 04, 03:31 PM** - Investigation into failed New Glenn landing completed (spacenews)
