@@ -6,7 +6,7 @@
 | spacenews | 5 | 16 | 21 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 0 | 17 | 35 |
+| nyt | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -3318,3 +3318,4 @@
 - **Apr 04, 04:27 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 04:41 PM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
 - **Apr 04, 04:57 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Apr 04, 05:11 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
