@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 4 | 4 |
-| spacenews | 13 | 20 | 24 | 46 |
+| spacenews | 13 | 20 | 23 | 46 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 0 | 1 | 16 | 35 |
@@ -3178,4 +3178,4 @@
 - **Apr 04, 12:17 AM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 04, 12:32 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 04, 12:47 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
-- **Apr 04, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 04, 01:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
