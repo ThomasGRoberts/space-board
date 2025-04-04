@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 3 | 3 |
 | spacenews | 13 | 20 | 25 | 47 |
-| breaking_defense | 3 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 35 |
+| breaking_defense | 3 | 3 | 18 | 36 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -3176,3 +3176,4 @@
 - **Apr 03, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 12:02 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 04, 12:17 AM** - Investigation into failed New Glenn landing completed (spacenews)
+- **Apr 04, 12:32 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
