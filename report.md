@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 | spacenews | 13 | 20 | 24 | 46 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
@@ -3209,3 +3209,4 @@
 - **Apr 04, 04:52 AM** - NASA adds Starship to launch contract (spacenews)
 - **Apr 04, 05:05 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 04, 05:19 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 04, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
