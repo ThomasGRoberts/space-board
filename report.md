@@ -6,7 +6,7 @@
 | spacenews | 10 | 18 | 24 | 46 |
 | breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
-| nyt | 0 | 0 | 16 | 34 |
+| nyt | 0 | 0 | 17 | 35 |
 
 # Shown Order
 
@@ -3274,3 +3274,4 @@
 - **Apr 04, 11:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 12:01 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Apr 04, 12:15 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
+- **Apr 04, 12:29 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
