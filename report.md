@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 120 | 120 |
-| spacenews | 2 | 15 | 18 | 43 |
+| spacenews | 4 | 17 | 19 | 44 |
 | breaking_defense | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 1 | 1 | 20 | 36 |
+| nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
 
@@ -3361,3 +3361,4 @@
 - **Apr 04, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 09:27 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 04, 09:41 PM** - Space companies swept up in far-reaching trade war (spacenews)
