@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | spacenews | 6 | 17 | 21 | 45 |
-| breaking_defense | 2 | 3 | 18 | 37 |
+| breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 18 | 35 |
 
@@ -3298,3 +3298,4 @@
 - **Apr 04, 02:35 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 04, 02:49 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 04, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
