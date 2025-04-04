@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 71 | 71 |
 | spacenews | 9 | 17 | 23 | 45 |
 | breaking_defense | 2 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -3284,3 +3284,4 @@
 - **Apr 04, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 12:57 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 01:11 PM** - Golden Dome: who and what should it defend? (spacenews)
+- **Apr 04, 01:25 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
