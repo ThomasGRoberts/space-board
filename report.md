@@ -6,7 +6,7 @@
 | spacenews | 5 | 18 | 21 | 45 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
-| nyt | 1 | 1 | 19 | 36 |
+| nyt | 1 | 1 | 19 | 35 |
 
 # Shown Order
 
