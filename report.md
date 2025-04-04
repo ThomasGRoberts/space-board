@@ -5,8 +5,8 @@
 | supercluster | 1 | 1 | 64 | 64 |
 | spacenews | 10 | 18 | 24 | 46 |
 | breaking_defense | 2 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 16 | 35 |
-| nyt | 0 | 1 | 17 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
+| nyt | 0 | 0 | 17 | 34 |
 
 # Shown Order
 
@@ -3273,3 +3273,4 @@
 - **Apr 04, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 11:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 12:01 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
+- **Apr 04, 12:15 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
