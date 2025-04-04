@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 15 | 15 |
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -3196,3 +3196,4 @@
 - **Apr 04, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 03:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 03:41 AM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
+- **Apr 04, 03:55 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
