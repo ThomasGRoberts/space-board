@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 64 | 64 |
 | spacenews | 11 | 18 | 24 | 45 |
-| breaking_defense | 2 | 3 | 17 | 36 |
-| aidy | 1 | 2 | 17 | 36 |
+| breaking_defense | 2 | 3 | 18 | 37 |
+| aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 1 | 17 | 35 |
 
 # Shown Order
@@ -3271,3 +3271,4 @@
 - **Apr 04, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 11:47 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
