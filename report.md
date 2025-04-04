@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 99 | 99 |
 | spacenews | 5 | 17 | 20 | 45 |
 | breaking_defense | 0 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
@@ -3329,3 +3329,4 @@
 - **Apr 04, 05:41 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 04, 05:55 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 06:09 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
+- **Apr 04, 06:23 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
