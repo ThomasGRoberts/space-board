@@ -6,7 +6,7 @@
 | spacenews | 6 | 17 | 22 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 0 | 17 | 35 |
+| nyt | 0 | 0 | 18 | 36 |
 
 # Shown Order
 
@@ -3307,3 +3307,4 @@
 - **Apr 04, 03:17 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 03:31 PM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 04, 03:45 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 04, 03:59 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
