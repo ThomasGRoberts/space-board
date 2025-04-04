@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -3241,3 +3241,4 @@
 - **Apr 04, 08:15 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 08:29 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
 - **Apr 04, 08:43 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 04, 08:57 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
