@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 127 | 127 |
-| spacenews | 5 | 18 | 21 | 45 |
+| spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 35 |
@@ -3376,3 +3376,4 @@
 - **Apr 04, 11:05 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 04, 11:19 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 04, 11:33 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 04, 11:47 PM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)

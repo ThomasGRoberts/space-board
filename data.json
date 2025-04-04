@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
+    "trigger_count": 0,
+    "current_item_id": "adfb32629005a33ae4464ce4fc65156a",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8419,6 +8419,18 @@
             "fetched_datetime": "2025-04-04T22:09:45.307624Z",
             "shown_at": [
                 "2025-04-04T22:09:46.389369Z"
+            ]
+        },
+        {
+            "id": "adfb32629005a33ae4464ce4fc65156a",
+            "source": "spacenews",
+            "text": "NASA seeks proposals for two private astronaut missions to ISS",
+            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T23:47:25.446114Z",
+            "shown_at": [
+                "2025-04-04T23:47:26.024498Z"
             ]
         }
     ]
