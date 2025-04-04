@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 127 | 127 |
-| spacenews | 5 | 18 | 20 | 45 |
+| spacenews | 5 | 18 | 21 | 46 |
 | breaking_defense | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 36 |
@@ -3374,3 +3374,4 @@
 - **Apr 04, 11:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 11:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 11:05 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Apr 04, 11:19 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
