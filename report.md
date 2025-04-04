@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 57 | 57 |
-| spacenews | 11 | 19 | 24 | 45 |
+| spacenews | 11 | 19 | 25 | 46 |
 | breaking_defense | 2 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
-| nyt | 0 | 1 | 17 | 35 |
+| nyt | 0 | 1 | 16 | 35 |
 
 # Shown Order
 
@@ -3261,3 +3261,4 @@
 - **Apr 04, 10:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 10:37 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 04, 10:51 AM** - SpaceX launches Fram2 private astronaut mission (spacenews)
