@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 50 | 50 |
 | spacenews | 12 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 | nyt | 0 | 1 | 16 | 34 |
 
 # Shown Order
@@ -3251,3 +3251,4 @@
 - **Apr 04, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 09:25 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 09:39 AM** - Biotech is the launchpad for human survival in space (spacenews)
+- **Apr 04, 09:53 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
