@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 106 | 106 |
-| spacenews | 4 | 17 | 19 | 44 |
+| spacenews | 4 | 17 | 20 | 45 |
 | breaking_defense | 0 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 36 |
@@ -3339,3 +3339,4 @@
 - **Apr 04, 06:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 06:51 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 04, 07:05 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 04, 07:21 PM** - Golden Dome: who and what should it defend? (spacenews)
