@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8edc6a41b67f8e518c40e1ff506cf2d6",
+    "trigger_count": 0,
+    "current_item_id": "9ab4516773e76b1da4134a63d5558996",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8390,9 +8390,12 @@
             "source": "spacenews",
             "text": "SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029",
             "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-04T21:41:55.131553Z"
+            "fetched_datetime": "2025-04-04T21:41:55.131553Z",
+            "shown_at": [
+                "2025-04-04T21:55:27.389795Z"
+            ]
         }
     ]
 }
