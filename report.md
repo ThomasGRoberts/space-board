@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 | spacenews | 10 | 17 | 24 | 45 |
 | breaking_defense | 2 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
@@ -3275,3 +3275,4 @@
 - **Apr 04, 12:01 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Apr 04, 12:15 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Apr 04, 12:29 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 04, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
