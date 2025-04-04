@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 | spacenews | 12 | 20 | 24 | 46 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -3242,3 +3242,4 @@
 - **Apr 04, 08:29 AM** - Artemis 2.0: A model for really winning the new moon race (spacenews)
 - **Apr 04, 08:43 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 04, 08:57 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 04, 09:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
