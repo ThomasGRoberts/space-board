@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 36 | 36 |
-| spacenews | 13 | 20 | 25 | 47 |
+| spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -3230,3 +3230,4 @@
 - **Apr 04, 07:02 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 07:17 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
 - **Apr 04, 07:32 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 04, 07:47 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
