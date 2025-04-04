@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | spacenews | 5 | 16 | 21 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -3320,3 +3320,4 @@
 - **Apr 04, 04:57 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Apr 04, 05:11 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 04, 05:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 05:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
