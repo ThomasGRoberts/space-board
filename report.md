@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 | spacenews | 6 | 17 | 21 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -3308,3 +3308,4 @@
 - **Apr 04, 03:31 PM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 04, 03:45 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 04, 03:59 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 04, 04:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
