@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | spacenews | 5 | 18 | 20 | 45 |
 | breaking_defense | 1 | 4 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 1 | 1 | 19 | 35 |
+| nyt | 1 | 1 | 18 | 35 |
 
 # Shown Order
 
@@ -3366,3 +3366,4 @@
 - **Apr 04, 10:09 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 04, 10:23 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 04, 10:37 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Apr 04, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
