@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 50 | 50 |
-| spacenews | 12 | 20 | 24 | 46 |
+| spacenews | 12 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 0 | 1 | 16 | 34 |
@@ -3250,3 +3250,4 @@
 - **Apr 04, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 09:25 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 04, 09:39 AM** - Biotech is the launchpad for human survival in space (spacenews)
