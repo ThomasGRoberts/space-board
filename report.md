@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 106 | 106 |
 | spacenews | 4 | 16 | 19 | 44 |
 | breaking_defense | 1 | 4 | 19 | 38 |
-| aidy | 1 | 2 | 18 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
 | nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
@@ -3341,3 +3341,4 @@
 - **Apr 04, 07:05 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 07:21 PM** - Golden Dome: who and what should it defend? (spacenews)
 - **Apr 04, 07:35 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
+- **Apr 04, 07:49 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
