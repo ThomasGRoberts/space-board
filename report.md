@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 71 | 71 |
-| spacenews | 8 | 17 | 23 | 45 |
+| spacenews | 9 | 17 | 24 | 45 |
 | breaking_defense | 2 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 17 | 35 |
@@ -3283,3 +3283,4 @@
 - **Apr 04, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 12:57 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 04, 01:11 PM** - Golden Dome: who and what should it defend? (spacenews)

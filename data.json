@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dd2142d62c663dd6495f82ee27025e87",
+    "trigger_count": 0,
+    "current_item_id": "3b3d7567596b5d8fed8e71fc21b1854e",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8249,6 +8249,18 @@
             "shown_at": [
                 "2025-04-04T07:32:14.813740Z",
                 "2025-04-04T09:53:50.275026Z"
+            ]
+        },
+        {
+            "id": "3b3d7567596b5d8fed8e71fc21b1854e",
+            "source": "spacenews",
+            "text": "Golden Dome: who and what should it defend?",
+            "source_link": "https://spacenews.com/golden-dome-who-and-what-should-it-defend/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T13:11:40.272485Z",
+            "shown_at": [
+                "2025-04-04T13:11:41.032434Z"
             ]
         }
     ]
