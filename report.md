@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 1 | 15 | 34 |
+| nyt | 0 | 1 | 16 | 35 |
 
 # Shown Order
 
@@ -3197,3 +3197,4 @@
 - **Apr 04, 03:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 03:41 AM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
 - **Apr 04, 03:55 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 04, 04:09 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
