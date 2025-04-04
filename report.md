@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 3 | 3 |
-| spacenews | 13 | 20 | 24 | 46 |
+| spacenews | 13 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 0 | 1 | 16 | 35 |
@@ -3175,3 +3175,4 @@
 - **Apr 03, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 03, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 12:02 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 04, 12:17 AM** - Investigation into failed New Glenn landing completed (spacenews)
