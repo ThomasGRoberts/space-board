@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | spacenews | 4 | 16 | 19 | 44 |
 | breaking_defense | 1 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 36 |
@@ -3343,3 +3343,4 @@
 - **Apr 04, 07:35 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 04, 07:49 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 04, 08:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
