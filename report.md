@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 36 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -3177,3 +3177,4 @@
 - **Apr 04, 12:02 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 04, 12:17 AM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 04, 12:32 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 04, 12:47 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
