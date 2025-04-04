@@ -6,7 +6,7 @@
 | spacenews | 6 | 17 | 21 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 0 | 17 | 35 |
+| nyt | 0 | 0 | 18 | 35 |
 
 # Shown Order
 
@@ -3296,3 +3296,4 @@
 - **Apr 04, 02:07 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 02:21 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
 - **Apr 04, 02:35 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Apr 04, 02:49 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
