@@ -3178,4 +3178,4 @@
 - **Apr 04, 12:17 AM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 04, 12:32 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Apr 04, 12:47 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
-- **Apr 04, 01:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 04, 01:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
