@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8303,6 +8303,18 @@
             "fetched_datetime": "2025-04-04T13:11:40.272485Z",
             "shown_at": [
                 "2025-04-04T13:11:41.032434Z"
+            ]
+        },
+        {
+            "id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
+            "source": "nyt",
+            "text": "SpaceX Astronauts Splash Down Off California Coast for the First Time",
+            "source_link": "https://www.nytimes.com/2025/04/04/science/spacex-fram2-splashdown-california.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T17:41:38.961779Z",
+            "shown_at": [
+                "2025-04-04T17:41:39.577196Z"
             ]
         }
     ]

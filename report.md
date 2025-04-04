@@ -6,7 +6,7 @@
 | spacenews | 5 | 16 | 21 | 45 |
 | breaking_defense | 1 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 0 | 0 | 18 | 35 |
+| nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
 
@@ -3326,3 +3326,4 @@
 - **Apr 04, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 05:41 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
