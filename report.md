@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 15 | 15 |
-| spacenews | 13 | 20 | 24 | 46 |
+| spacenews | 13 | 20 | 25 | 47 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
 | nyt | 0 | 1 | 16 | 34 |
@@ -3195,3 +3195,4 @@
 - **Apr 04, 03:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 03:25 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
+- **Apr 04, 03:41 AM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
