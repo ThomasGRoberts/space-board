@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 1 | 15 | 34 |
+| nyt | 0 | 1 | 16 | 35 |
 
 # Shown Order
 
@@ -3186,3 +3186,4 @@
 - **Apr 04, 02:13 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 02:27 AM** - Space Force to test satellite refueling technologies in orbit (spacenews)
 - **Apr 04, 02:41 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 04, 02:55 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
