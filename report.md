@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | spacenews | 4 | 17 | 19 | 45 |
 | breaking_defense | 0 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 19 | 36 |
@@ -3330,3 +3330,4 @@
 - **Apr 04, 05:55 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 04, 06:09 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
 - **Apr 04, 06:23 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
+- **Apr 04, 06:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
