@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 36 | 36 |
 | spacenews | 13 | 20 | 24 | 46 |
-| breaking_defense | 3 | 3 | 18 | 36 |
+| breaking_defense | 3 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 1 | 16 | 35 |
 
@@ -3227,3 +3227,4 @@
 - **Apr 04, 06:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 06:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 06:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 07:02 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
