@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 29 | 29 |
 | spacenews | 13 | 20 | 24 | 46 |
-| breaking_defense | 3 | 3 | 18 | 36 |
+| breaking_defense | 3 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 1 | 16 | 35 |
 
@@ -3216,3 +3216,4 @@
 - **Apr 04, 05:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 05:47 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
