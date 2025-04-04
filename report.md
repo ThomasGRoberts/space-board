@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 16 | 35 |
 
 # Shown Order
 
@@ -3208,3 +3208,4 @@
 - **Apr 04, 04:37 AM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 04:52 AM** - NASA adds Starship to launch contract (spacenews)
 - **Apr 04, 05:05 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 04, 05:19 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
