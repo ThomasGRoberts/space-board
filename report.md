@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 78 | 78 |
 | spacenews | 7 | 17 | 22 | 45 |
 | breaking_defense | 2 | 3 | 19 | 37 |
-| aidy | 1 | 2 | 17 | 35 |
+| aidy | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -3295,3 +3295,4 @@
 - **Apr 04, 02:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 02:07 PM** - Space Force greenlights Rocket Lab, Stoke for future launches (breaking_defense)
 - **Apr 04, 02:21 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
+- **Apr 04, 02:35 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
