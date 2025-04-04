@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 92 | 92 |
-| spacenews | 5 | 17 | 20 | 45 |
+| spacenews | 5 | 17 | 21 | 46 |
 | breaking_defense | 2 | 3 | 19 | 37 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 18 | 35 |
@@ -3316,3 +3316,4 @@
 - **Apr 04, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 04:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 04:27 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 04, 04:41 PM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
