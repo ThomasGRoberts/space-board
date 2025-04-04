@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f0fb07e87c9b4394d95d24c6d00629e",
+    "trigger_count": 0,
+    "current_item_id": "18dc951d9c8090fb862d4293edb9afaf",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8316,6 +8316,18 @@
             "fetched_datetime": "2025-04-04T17:41:38.961779Z",
             "shown_at": [
                 "2025-04-04T17:41:39.577196Z"
+            ]
+        },
+        {
+            "id": "18dc951d9c8090fb862d4293edb9afaf",
+            "source": "spacenews",
+            "text": "Fram2 completes polar orbit private astronaut mission",
+            "source_link": "https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T18:09:05.091368Z",
+            "shown_at": [
+                "2025-04-04T18:09:05.776025Z"
             ]
         }
     ]
