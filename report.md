@@ -6,7 +6,7 @@
 | spacenews | 4 | 17 | 19 | 45 |
 | breaking_defense | 0 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 18 | 36 |
-| nyt | 1 | 1 | 19 | 35 |
+| nyt | 1 | 1 | 20 | 36 |
 
 # Shown Order
 
@@ -3337,3 +3337,4 @@
 - **Apr 04, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 04, 06:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 04, 06:51 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
