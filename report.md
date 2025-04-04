@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 | spacenews | 11 | 20 | 24 | 46 |
-| breaking_defense | 3 | 3 | 18 | 36 |
+| breaking_defense | 2 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 1 | 17 | 35 |
 
@@ -3253,3 +3253,4 @@
 - **Apr 04, 09:39 AM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 04, 09:53 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 04, 10:08 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
+- **Apr 04, 10:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
