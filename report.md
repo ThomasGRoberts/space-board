@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 120 | 120 |
 | spacenews | 5 | 18 | 20 | 45 |
-| breaking_defense | 1 | 4 | 18 | 37 |
+| breaking_defense | 1 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 18 | 35 |
 | nyt | 1 | 1 | 19 | 36 |
 
@@ -3364,3 +3364,4 @@
 - **Apr 04, 09:41 PM** - Space companies swept up in far-reaching trade war (spacenews)
 - **Apr 04, 09:55 PM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 04, 10:09 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
+- **Apr 04, 10:23 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
