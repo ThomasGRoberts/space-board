@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16cd610f2f0c10c0266e2443bbbd6092",
+    "trigger_count": 0,
+    "current_item_id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -8184,6 +8184,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
+            "source": "aidy",
+            "text": "Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T07:32:13.924528Z",
+            "shown_at": [
+                "2025-04-04T07:32:14.813740Z"
             ]
         }
     ]
