@@ -6,7 +6,7 @@
 | spacenews | 13 | 20 | 24 | 47 |
 | breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 35 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 
 # Shown Order
 
@@ -3219,3 +3219,4 @@
 - **Apr 04, 05:47 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 04, 06:02 AM** - CLPS companies seek expanded opportunities for commercial lunar landers (spacenews)
 - **Apr 04, 06:17 AM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
+- **Apr 04, 06:32 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
