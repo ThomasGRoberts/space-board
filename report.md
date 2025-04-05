@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 20 | 39 |
-| supercluster | 0 | 1 | 134 | 233 |
+| supercluster | 0 | 1 | 135 | 234 |
 
 # Shown Order
 
@@ -3545,3 +3545,4 @@
 - **Apr 05, 06:05 PM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
 - **Apr 05, 06:19 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 05, 06:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
