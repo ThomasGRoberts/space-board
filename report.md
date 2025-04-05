@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 22 | 41 |
-| breaking_defense | 0 | 1 | 19 | 38 |
+| breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 136 | 246 |
+| supercluster | 0 | 1 | 135 | 246 |
 
 # Shown Order
 
@@ -3563,3 +3563,4 @@
 - **Apr 05, 07:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 07:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 07:57 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 05, 08:11 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
