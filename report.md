@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 22 | 47 |
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 190 |
 
 # Shown Order
@@ -3477,3 +3477,4 @@
 - **Apr 05, 10:25 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 05, 10:39 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 10:53 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
+- **Apr 05, 11:09 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
