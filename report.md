@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 134 | 212 |
+| supercluster | 0 | 1 | 134 | 213 |
 
 # Shown Order
 
@@ -3512,3 +3512,4 @@
 - **Apr 05, 02:35 PM** - China expands counterspace capabilities, new report finds (spacenews)
 - **Apr 05, 02:49 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 05, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
