@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 22 | 46 |
-| breaking_defense | 1 | 3 | 20 | 38 |
-| nyt | 1 | 1 | 19 | 36 |
+| breaking_defense | 1 | 3 | 20 | 37 |
+| nyt | 1 | 1 | 20 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
-| supercluster | 0 | 1 | 139 | 197 |
+| supercluster | 0 | 1 | 137 | 197 |
 
 # Shown Order
 
@@ -3485,3 +3485,4 @@
 - **Apr 05, 11:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 11:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 11:37 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
