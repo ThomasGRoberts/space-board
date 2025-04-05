@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 22 | 47 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 183 |
 
 # Shown Order
@@ -3466,3 +3466,4 @@
 - **Apr 05, 09:11 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 05, 09:27 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 09:41 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
+- **Apr 05, 09:55 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
