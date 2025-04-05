@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 133 | 148 |
+| supercluster | 0 | 1 | 134 | 149 |
 
 # Shown Order
 
@@ -3411,3 +3411,4 @@
 - **Apr 05, 03:09 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 03:23 AM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Apr 05, 03:37 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 05, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
