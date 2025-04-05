@@ -5,7 +5,7 @@
 | spacenews | 6 | 19 | 23 | 47 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 19 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 162 |
 
 # Shown Order
@@ -3432,3 +3432,4 @@
 - **Apr 05, 05:17 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 05:31 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 05, 05:45 AM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
+- **Apr 05, 05:59 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
