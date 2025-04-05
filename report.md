@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 20 | 41 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 21 | 39 |
 | supercluster | 0 | 1 | 140 | 267 |
@@ -3596,3 +3596,4 @@
 - **Apr 05, 11:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 11:29 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
+- **Apr 05, 11:43 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
