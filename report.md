@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 133 | 169 |
+| supercluster | 0 | 1 | 134 | 170 |
 
 # Shown Order
 
@@ -3445,3 +3445,4 @@
 - **Apr 05, 06:59 AM** - Moog Highlights Meteor Satellite Bus at Space Symposium (spacenews)
 - **Apr 05, 07:13 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 05, 07:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 05, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
