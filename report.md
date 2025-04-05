@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 22 | 43 |
-| breaking_defense | 1 | 3 | 19 | 38 |
+| spacenews | 5 | 11 | 21 | 43 |
+| breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 218 |
@@ -3519,3 +3519,4 @@
 - **Apr 05, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 03:17 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 05, 03:31 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
