@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 22 | 40 |
+| spacenews | 4 | 6 | 23 | 41 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -3575,3 +3575,4 @@
 - **Apr 05, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 09:07 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 05, 09:21 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 09:35 PM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
