@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 22 | 46 |
+| spacenews | 6 | 18 | 22 | 47 |
 | breaking_defense | 1 | 4 | 20 | 39 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
@@ -3465,3 +3465,4 @@
 - **Apr 05, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 09:11 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 05, 09:27 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 09:41 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
