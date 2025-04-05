@@ -5,7 +5,7 @@
 | spacenews | 6 | 19 | 22 | 47 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
+| aidy | 1 | 2 | 21 | 37 |
 | supercluster | 0 | 1 | 133 | 176 |
 
 # Shown Order
@@ -3455,3 +3455,4 @@
 - **Apr 05, 07:55 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 05, 08:11 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 08:25 AM** - NASA adds Starship to launch contract (spacenews)
+- **Apr 05, 08:41 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
