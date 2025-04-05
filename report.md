@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 22 | 44 |
 | breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 20 | 37 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 133 | 218 |
 
 # Shown Order
@@ -3521,3 +3521,4 @@
 - **Apr 05, 03:17 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 05, 03:31 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 03:45 PM** - Investigation into failed New Glenn landing completed (spacenews)
+- **Apr 05, 03:59 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
