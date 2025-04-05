@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 20 | 40 |
+| spacenews | 1 | 6 | 21 | 41 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
@@ -3586,3 +3586,4 @@
 - **Apr 05, 10:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 10:19 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 10:33 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 05, 10:47 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
