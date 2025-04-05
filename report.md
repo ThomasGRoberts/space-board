@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 22 | 45 |
+| spacenews | 6 | 19 | 23 | 46 |
 | breaking_defense | 1 | 4 | 21 | 38 |
 | nyt | 1 | 1 | 20 | 35 |
 | aidy | 1 | 2 | 19 | 35 |
@@ -3398,3 +3398,4 @@
 - **Apr 05, 01:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 01:45 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 01:59 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 02:13 AM** - Space Force to test satellite refueling technologies in orbit (spacenews)
