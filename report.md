@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 21 | 41 |
+| spacenews | 1 | 6 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 21 | 39 |
-| supercluster | 0 | 1 | 135 | 255 |
+| supercluster | 0 | 1 | 136 | 256 |
 
 # Shown Order
 
@@ -3579,3 +3579,4 @@
 - **Apr 05, 09:49 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 05, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 10:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 10:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
