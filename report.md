@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 22 | 47 |
+| spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 134 | 163 |
+| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 0 | 1 | 135 | 164 |
 
 # Shown Order
 
@@ -3434,3 +3434,4 @@
 - **Apr 05, 05:45 AM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
 - **Apr 05, 05:59 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 05, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
