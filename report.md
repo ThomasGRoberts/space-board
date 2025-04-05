@@ -5,8 +5,8 @@
 | spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 134 | 156 |
+| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 0 | 1 | 135 | 157 |
 
 # Shown Order
 
@@ -3423,3 +3423,4 @@
 - **Apr 05, 04:33 AM** - Space companies swept up in far-reaching trade war (spacenews)
 - **Apr 05, 04:47 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 05, 05:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
