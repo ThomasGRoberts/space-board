@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
-| supercluster | 0 | 1 | 133 | 204 |
+| supercluster | 0 | 1 | 134 | 205 |
 
 # Shown Order
 
@@ -3500,3 +3500,4 @@
 - **Apr 05, 01:09 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 01:23 PM** - Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced (spacenews)
 - **Apr 05, 01:37 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 05, 01:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
