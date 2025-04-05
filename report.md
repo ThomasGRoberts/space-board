@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 22 | 46 |
+| spacenews | 6 | 19 | 23 | 47 |
 | breaking_defense | 1 | 4 | 21 | 39 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 135 | 148 |
+| supercluster | 0 | 1 | 133 | 148 |
 
 # Shown Order
 
@@ -3409,3 +3409,4 @@
 - **Apr 05, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 02:55 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 03:09 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 03:23 AM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
