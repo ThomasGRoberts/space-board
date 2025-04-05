@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 22 | 44 |
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 37 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 133 | 204 |
 
 # Shown Order
@@ -3499,3 +3499,4 @@
 - **Apr 05, 12:55 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 01:09 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 01:23 PM** - Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced (spacenews)
+- **Apr 05, 01:37 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
