@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 38 |
+| breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 21 | 39 |
 | supercluster | 0 | 1 | 140 | 260 |
@@ -3585,3 +3585,4 @@
 - **Apr 05, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 10:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 10:19 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 05, 10:33 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
