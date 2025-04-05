@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 124 | 127 |
 | spacenews | 6 | 19 | 22 | 46 |
-| breaking_defense | 1 | 4 | 20 | 37 |
-| aidy | 1 | 2 | 18 | 35 |
+| breaking_defense | 1 | 4 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 35 |
+| aidy | 1 | 2 | 19 | 36 |
+| supercluster | 0 | 1 | 124 | 127 |
 
 # Shown Order
 
@@ -3377,3 +3377,4 @@
 - **Apr 04, 11:19 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 04, 11:33 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 04, 11:47 PM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)
+- **Apr 05, 12:02 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)

@@ -1,9 +1,121 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-04T00:02:04.210446+00:00",
-    "trigger_count": 6,
-    "current_item_id": "adfb32629005a33ae4464ce4fc65156a",
+    "last_run_datetime": "2025-04-05T00:02:03.744338+00:00",
+    "trigger_count": 0,
+    "current_item_id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
     "data": [
+        {
+            "id": "adfb32629005a33ae4464ce4fc65156a",
+            "source": "spacenews",
+            "text": "NASA seeks proposals for two private astronaut missions to ISS",
+            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T23:47:25.446114Z",
+            "shown_at": [
+                "2025-04-04T23:47:26.024498Z"
+            ]
+        },
+        {
+            "id": "b27aef160ce6f0480f8c2cb19045532e",
+            "source": "spacenews",
+            "text": "SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029",
+            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T22:09:45.307624Z",
+            "shown_at": [
+                "2025-04-04T22:09:46.389369Z"
+            ]
+        },
+        {
+            "id": "9ab4516773e76b1da4134a63d5558996",
+            "source": "spacenews",
+            "text": "SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029",
+            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T21:41:55.131553Z",
+            "shown_at": [
+                "2025-04-04T21:55:27.389795Z"
+            ]
+        },
+        {
+            "id": "8edc6a41b67f8e518c40e1ff506cf2d6",
+            "source": "spacenews",
+            "text": "Space companies swept up in far-reaching trade war",
+            "source_link": "https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T21:41:55.131479Z",
+            "shown_at": [
+                "2025-04-04T21:41:56.103200Z"
+            ]
+        },
+        {
+            "id": "450c9518a9e62515f97b042d21e45021",
+            "source": "breaking_defense",
+            "text": "From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine",
+            "source_link": "https://breakingdefense.com/2025/04/from-support-to-warfighting-space-force-releases-first-capstone-operations-doctrine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T19:35:31.535377Z",
+            "shown_at": [
+                "2025-04-04T19:35:32.252250Z",
+                "2025-04-04T20:45:49.496966Z"
+            ]
+        },
+        {
+            "id": "18dc951d9c8090fb862d4293edb9afaf",
+            "source": "spacenews",
+            "text": "Fram2 completes polar orbit private astronaut mission",
+            "source_link": "https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T18:09:05.091368Z",
+            "shown_at": [
+                "2025-04-04T18:09:05.776025Z"
+            ]
+        },
+        {
+            "id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
+            "source": "nyt",
+            "text": "SpaceX Astronauts Splash Down Off California Coast for the First Time",
+            "source_link": "https://www.nytimes.com/2025/04/04/science/spacex-fram2-splashdown-california.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T17:41:38.961779Z",
+            "shown_at": [
+                "2025-04-04T17:41:39.577196Z"
+            ]
+        },
+        {
+            "id": "3b3d7567596b5d8fed8e71fc21b1854e",
+            "source": "spacenews",
+            "text": "Golden Dome: who and what should it defend?",
+            "source_link": "https://spacenews.com/golden-dome-who-and-what-should-it-defend/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T13:11:40.272485Z",
+            "shown_at": [
+                "2025-04-04T13:11:41.032434Z",
+                "2025-04-04T19:21:55.642772Z"
+            ]
+        },
+        {
+            "id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
+            "source": "aidy",
+            "text": "Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-04T07:32:13.924528Z",
+            "shown_at": [
+                "2025-04-04T07:32:14.813740Z",
+                "2025-04-04T09:53:50.275026Z",
+                "2025-04-05T00:02:09.590536Z"
+            ]
+        },
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
@@ -8320,117 +8432,6 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
-            "source": "aidy",
-            "text": "Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T07:32:13.924528Z",
-            "shown_at": [
-                "2025-04-04T07:32:14.813740Z",
-                "2025-04-04T09:53:50.275026Z"
-            ]
-        },
-        {
-            "id": "3b3d7567596b5d8fed8e71fc21b1854e",
-            "source": "spacenews",
-            "text": "Golden Dome: who and what should it defend?",
-            "source_link": "https://spacenews.com/golden-dome-who-and-what-should-it-defend/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T13:11:40.272485Z",
-            "shown_at": [
-                "2025-04-04T13:11:41.032434Z",
-                "2025-04-04T19:21:55.642772Z"
-            ]
-        },
-        {
-            "id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
-            "source": "nyt",
-            "text": "SpaceX Astronauts Splash Down Off California Coast for the First Time",
-            "source_link": "https://www.nytimes.com/2025/04/04/science/spacex-fram2-splashdown-california.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T17:41:38.961779Z",
-            "shown_at": [
-                "2025-04-04T17:41:39.577196Z"
-            ]
-        },
-        {
-            "id": "18dc951d9c8090fb862d4293edb9afaf",
-            "source": "spacenews",
-            "text": "Fram2 completes polar orbit private astronaut mission",
-            "source_link": "https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T18:09:05.091368Z",
-            "shown_at": [
-                "2025-04-04T18:09:05.776025Z"
-            ]
-        },
-        {
-            "id": "450c9518a9e62515f97b042d21e45021",
-            "source": "breaking_defense",
-            "text": "From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine",
-            "source_link": "https://breakingdefense.com/2025/04/from-support-to-warfighting-space-force-releases-first-capstone-operations-doctrine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T19:35:31.535377Z",
-            "shown_at": [
-                "2025-04-04T19:35:32.252250Z",
-                "2025-04-04T20:45:49.496966Z"
-            ]
-        },
-        {
-            "id": "8edc6a41b67f8e518c40e1ff506cf2d6",
-            "source": "spacenews",
-            "text": "Space companies swept up in far-reaching trade war",
-            "source_link": "https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T21:41:55.131479Z",
-            "shown_at": [
-                "2025-04-04T21:41:56.103200Z"
-            ]
-        },
-        {
-            "id": "9ab4516773e76b1da4134a63d5558996",
-            "source": "spacenews",
-            "text": "SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029",
-            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T21:41:55.131553Z",
-            "shown_at": [
-                "2025-04-04T21:55:27.389795Z"
-            ]
-        },
-        {
-            "id": "b27aef160ce6f0480f8c2cb19045532e",
-            "source": "spacenews",
-            "text": "SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029",
-            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T22:09:45.307624Z",
-            "shown_at": [
-                "2025-04-04T22:09:46.389369Z"
-            ]
-        },
-        {
-            "id": "adfb32629005a33ae4464ce4fc65156a",
-            "source": "spacenews",
-            "text": "NASA seeks proposals for two private astronaut missions to ISS",
-            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T23:47:25.446114Z",
-            "shown_at": [
-                "2025-04-04T23:47:26.024498Z"
             ]
         }
     ]
