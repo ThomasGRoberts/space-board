@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 36 |
 | aidy | 1 | 2 | 20 | 37 |
-| supercluster | 0 | 1 | 133 | 197 |
+| supercluster | 0 | 1 | 134 | 198 |
 
 # Shown Order
 
@@ -3489,3 +3489,4 @@
 - **Apr 05, 11:51 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 12:07 PM** - U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’ (spacenews)
 - **Apr 05, 12:24 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 05, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
