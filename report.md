@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 22 | 42 |
 | breaking_defense | 1 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 19 | 38 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | supercluster | 0 | 1 | 133 | 239 |
 
 # Shown Order
@@ -3554,3 +3554,4 @@
 - **Apr 05, 06:47 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 05, 07:02 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 07:15 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
+- **Apr 05, 07:29 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
