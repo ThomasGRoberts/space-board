@@ -5,7 +5,7 @@
 | spacenews | 6 | 19 | 23 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 35 |
-| aidy | 1 | 2 | 19 | 35 |
+| aidy | 1 | 2 | 20 | 36 |
 | supercluster | 0 | 1 | 133 | 141 |
 
 # Shown Order
@@ -3399,3 +3399,4 @@
 - **Apr 05, 01:45 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 05, 01:59 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 02:13 AM** - Space Force to test satellite refueling technologies in orbit (spacenews)
+- **Apr 05, 02:27 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
