@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 22 | 47 |
 | breaking_defense | 1 | 4 | 20 | 38 |
-| nyt | 1 | 1 | 20 | 36 |
+| nyt | 1 | 1 | 19 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 135 | 178 |
+| supercluster | 0 | 1 | 136 | 179 |
 
 # Shown Order
 
@@ -3458,3 +3458,4 @@
 - **Apr 05, 08:41 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 05, 08:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 08:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
