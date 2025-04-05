@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 218 |
+| supercluster | 0 | 1 | 133 | 219 |
 
 # Shown Order
 
@@ -3522,3 +3522,4 @@
 - **Apr 05, 03:31 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 03:45 PM** - Investigation into failed New Glenn landing completed (spacenews)
 - **Apr 05, 03:59 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 05, 04:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
