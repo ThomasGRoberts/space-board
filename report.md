@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 21 | 39 |
-| supercluster | 0 | 1 | 133 | 260 |
+| supercluster | 0 | 1 | 134 | 261 |
 
 # Shown Order
 
@@ -3588,3 +3588,4 @@
 - **Apr 05, 10:33 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 05, 10:47 PM** - China launches internet technology test satellites with Long March 2D (spacenews)
 - **Apr 05, 11:01 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 05, 11:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
