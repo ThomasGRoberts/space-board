@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
-| nyt | 1 | 1 | 20 | 36 |
+| nyt | 1 | 1 | 21 | 36 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 140 | 155 |
 
@@ -3418,3 +3418,4 @@
 - **Apr 05, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 04:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 04:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 04:05 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
