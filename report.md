@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 22 | 47 |
+| spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 134 | 149 |
+| supercluster | 0 | 1 | 135 | 150 |
 
 # Shown Order
 
@@ -3412,3 +3412,4 @@
 - **Apr 05, 03:23 AM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Apr 05, 03:37 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 05, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 03:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
