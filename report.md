@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 19 | 37 |
 | nyt | 1 | 1 | 19 | 35 |
 | aidy | 1 | 2 | 19 | 35 |
-| supercluster | 0 | 1 | 125 | 128 |
+| supercluster | 0 | 1 | 126 | 129 |
 
 # Shown Order
 
@@ -3379,3 +3379,4 @@
 - **Apr 04, 11:47 PM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)
 - **Apr 05, 12:02 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 05, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 12:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
