@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 22 | 41 |
 | breaking_defense | 1 | 1 | 20 | 38 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 136 | 239 |
+| supercluster | 0 | 1 | 135 | 239 |
 
 # Shown Order
 
@@ -3551,3 +3551,4 @@
 - **Apr 05, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 06:47 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
