@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-05T00:02:03.744338+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7386a73104960179c6bbd7c7a349708f",
+    "trigger_count": 0,
+    "current_item_id": "c43260c164c12d49d6c85b9c392479f7",
     "data": [
         {
             "id": "adfb32629005a33ae4464ce4fc65156a",
@@ -8498,6 +8498,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "c43260c164c12d49d6c85b9c392479f7",
+            "source": "aidy",
+            "text": "Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-05T07:27:46.427001Z",
+            "shown_at": [
+                "2025-04-05T07:27:47.667641Z"
             ]
         }
     ]
