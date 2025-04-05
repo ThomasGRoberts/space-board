@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
-| nyt | 1 | 1 | 20 | 36 |
+| nyt | 1 | 1 | 21 | 37 |
 | aidy | 1 | 2 | 19 | 36 |
 | supercluster | 0 | 1 | 140 | 162 |
 
@@ -3429,3 +3429,4 @@
 - **Apr 05, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 05:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 05:17 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
