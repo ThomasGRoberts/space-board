@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 42 |
+| spacenews | 5 | 10 | 22 | 43 |
 | breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 37 |
@@ -3531,3 +3531,4 @@
 - **Apr 05, 04:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 04:27 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 05, 04:41 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 05, 04:55 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
