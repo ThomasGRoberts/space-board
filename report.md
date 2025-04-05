@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 21 | 39 |
-| supercluster | 0 | 1 | 134 | 240 |
+| supercluster | 0 | 1 | 135 | 241 |
 
 # Shown Order
 
@@ -3556,3 +3556,4 @@
 - **Apr 05, 07:15 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
 - **Apr 05, 07:29 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 05, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 07:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
