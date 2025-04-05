@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 19 | 37 |
 | aidy | 1 | 2 | 20 | 38 |
-| supercluster | 0 | 1 | 133 | 225 |
+| supercluster | 0 | 1 | 134 | 226 |
 
 # Shown Order
 
@@ -3533,3 +3533,4 @@
 - **Apr 05, 04:41 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 05, 04:55 PM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
 - **Apr 05, 05:09 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 05, 05:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
