@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 22 | 42 |
 | breaking_defense | 1 | 1 | 20 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
-| aidy | 1 | 2 | 20 | 38 |
+| aidy | 1 | 2 | 21 | 39 |
 | supercluster | 0 | 1 | 133 | 232 |
 
 # Shown Order
@@ -3543,3 +3543,4 @@
 - **Apr 05, 05:37 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 05, 05:51 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 05, 06:05 PM** - Washington Harbour Partners invests in startup Turion Space (spacenews)
+- **Apr 05, 06:19 PM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
