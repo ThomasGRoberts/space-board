@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
-| supercluster | 0 | 1 | 134 | 177 |
+| supercluster | 0 | 1 | 135 | 178 |
 
 # Shown Order
 
@@ -3457,3 +3457,4 @@
 - **Apr 05, 08:25 AM** - NASA adds Starship to launch contract (spacenews)
 - **Apr 05, 08:41 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 05, 08:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
