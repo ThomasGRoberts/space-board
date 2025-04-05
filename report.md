@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 22 | 46 |
+| spacenews | 6 | 19 | 23 | 47 |
 | breaking_defense | 1 | 4 | 21 | 39 |
 | nyt | 1 | 1 | 20 | 36 |
 | aidy | 1 | 2 | 19 | 36 |
-| supercluster | 0 | 1 | 134 | 169 |
+| supercluster | 0 | 1 | 133 | 169 |
 
 # Shown Order
 
@@ -3442,3 +3442,4 @@
 - **Apr 05, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 06:29 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 05, 06:45 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 06:59 AM** - Moog Highlights Meteor Satellite Bus at Space Symposium (spacenews)
