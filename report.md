@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 22 | 41 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 19 | 38 |
 | nyt | 0 | 1 | 19 | 38 |
 | aidy | 1 | 2 | 21 | 39 |
-| supercluster | 0 | 1 | 135 | 248 |
+| supercluster | 0 | 1 | 136 | 249 |
 
 # Shown Order
 
@@ -3568,3 +3568,4 @@
 - **Apr 05, 08:39 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 05, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 05, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
