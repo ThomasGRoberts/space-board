@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 44 |
+| spacenews | 5 | 11 | 22 | 43 |
 | breaking_defense | 1 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 20 | 37 |
-| aidy | 1 | 2 | 19 | 37 |
+| aidy | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 133 | 211 |
 
 # Shown Order
@@ -3510,3 +3510,4 @@
 - **Apr 05, 02:05 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 05, 02:19 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 05, 02:35 PM** - China expands counterspace capabilities, new report finds (spacenews)
+- **Apr 05, 02:49 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
