@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 21 | 45 |
+| spacenews | 6 | 19 | 22 | 46 |
 | breaking_defense | 1 | 4 | 20 | 38 |
 | nyt | 1 | 1 | 19 | 35 |
 | aidy | 1 | 2 | 18 | 35 |
@@ -3387,3 +3387,4 @@
 - **Apr 05, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 05, 12:32 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 05, 12:47 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 05, 01:02 AM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
