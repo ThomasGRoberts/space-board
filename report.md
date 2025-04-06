@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 19 | 40 |
 | spacenews | 2 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 38 |
-| nyt | 0 | 0 | 18 | 38 |
+| nyt | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
@@ -3523,3 +3523,4 @@
 - **Apr 06, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 11:45 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
