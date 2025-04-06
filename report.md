@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3360,3 +3360,4 @@
 - **Apr 06, 05:31 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 06, 05:45 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 05:59 AM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
+- **Apr 06, 06:13 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
