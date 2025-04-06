@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 2 | 6 | 19 | 42 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -3502,3 +3502,4 @@
 - **Apr 06, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 09:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 09:21 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 06, 09:37 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
