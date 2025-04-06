@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 6 | 19 | 41 |
-| breaking_defense | 0 | 1 | 18 | 39 |
+| breaking_defense | 0 | 1 | 19 | 40 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -3358,3 +3358,4 @@
 - **Apr 06, 05:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 05:31 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 06, 05:45 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
