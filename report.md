@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| nyt | 0 | 1 | 18 | 39 |
-| supercluster | 1 | 1 | 14 | 14 |
+| nyt | 0 | 1 | 18 | 38 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -3362,3 +3362,4 @@
 - **Apr 06, 05:59 AM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
 - **Apr 06, 06:13 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 06, 06:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 06:34 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
