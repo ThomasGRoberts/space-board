@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 40 |
-| spacenews | 2 | 6 | 19 | 41 |
+| spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -3493,3 +3493,4 @@
 - **Apr 06, 08:11 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 08:25 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 08:39 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
+- **Apr 06, 08:53 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
