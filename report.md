@@ -6,7 +6,7 @@
 | spacenews | 0 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 0 | 1 | 20 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3341,3 +3341,4 @@
 - **Apr 06, 02:25 AM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
 - **Apr 06, 02:39 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
 - **Apr 06, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 06, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
