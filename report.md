@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | spacenews | 2 | 6 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
@@ -3492,3 +3492,4 @@
 - **Apr 06, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 08:11 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 08:25 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 06, 08:39 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
