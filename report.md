@@ -6,7 +6,7 @@
 | spacenews | 0 | 6 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 20 | 39 |
-| supercluster | 0 | 0 | 136 | 265 |
+| supercluster | 0 | 0 | 137 | 266 |
 
 # Shown Order
 
@@ -3600,3 +3600,4 @@
 - **Apr 05, 11:57 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 06, 12:11 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 06, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 06, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
