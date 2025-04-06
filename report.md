@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
-| spacenews | 0 | 6 | 18 | 41 |
+| aidy | 1 | 2 | 19 | 39 |
+| spacenews | 0 | 6 | 19 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -3348,3 +3348,4 @@
 - **Apr 06, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 04:19 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 06, 04:33 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 06, 04:47 AM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
