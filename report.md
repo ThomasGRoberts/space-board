@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | spacenews | 1 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3448,3 +3448,4 @@
 - **Apr 06, 03:07 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 03:21 PM** - Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA (spacenews)
 - **Apr 06, 03:35 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 06, 03:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
