@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 19 | 40 |
 | spacenews | 2 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 104 | 104 |
+| nyt | 0 | 0 | 18 | 38 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -3505,3 +3505,4 @@
 - **Apr 06, 09:37 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 09:51 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 06, 10:07 PM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)
+- **Apr 06, 10:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
