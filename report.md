@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
-| spacenews | 1 | 6 | 20 | 42 |
-| breaking_defense | 0 | 1 | 18 | 38 |
+| spacenews | 1 | 6 | 20 | 41 |
+| breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -3436,3 +3436,4 @@
 - **Apr 06, 01:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 01:55 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 06, 02:09 PM** - Missile Defense Agency opens door to commercial firms for “Golden Dome” project (spacenews)
+- **Apr 06, 02:23 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
