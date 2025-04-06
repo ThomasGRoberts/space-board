@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 19 | 39 |
 | spacenews | 1 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 62 | 62 |
+| nyt | 0 | 1 | 19 | 38 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -3438,3 +3438,4 @@
 - **Apr 06, 02:09 PM** - Missile Defense Agency opens door to commercial firms for “Golden Dome” project (spacenews)
 - **Apr 06, 02:23 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 02:37 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
+- **Apr 06, 02:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
