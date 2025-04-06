@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
-| spacenews | 0 | 6 | 18 | 41 |
+| aidy | 1 | 2 | 19 | 39 |
+| spacenews | 0 | 6 | 19 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -3359,3 +3359,4 @@
 - **Apr 06, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 05:31 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 06, 05:45 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 06, 05:59 AM** - GITAI finalizes robotic arm study for Japan’s crewed lunar rover (spacenews)
