@@ -6,7 +6,7 @@
 | spacenews | 2 | 7 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 38 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -3451,3 +3451,4 @@
 - **Apr 06, 03:49 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 06, 04:03 PM** - Aetherflux raises $50 million for space-based solar power (spacenews)
 - **Apr 06, 04:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 04:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
