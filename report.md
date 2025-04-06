@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
-| nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 49 | 49 |
+| nyt | 0 | 1 | 19 | 38 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -3417,3 +3417,4 @@
 - **Apr 06, 11:59 AM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
 - **Apr 06, 12:13 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 06, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 12:30 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
