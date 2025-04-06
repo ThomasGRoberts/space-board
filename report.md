@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 39 |
 | spacenews | 0 | 5 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3426,3 +3426,4 @@
 - **Apr 06, 12:45 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 06, 01:00 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 01:13 PM** - SpaceX launches Fram2 private astronaut mission (spacenews)
+- **Apr 06, 01:27 PM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
