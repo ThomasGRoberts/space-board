@@ -6,7 +6,7 @@
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -3416,3 +3416,4 @@
 - **Apr 06, 11:45 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 06, 11:59 AM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
 - **Apr 06, 12:13 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
+- **Apr 06, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
