@@ -6,7 +6,7 @@
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3472,3 +3472,4 @@
 - **Apr 06, 05:59 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 06:13 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 06, 06:29 PM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
+- **Apr 06, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
