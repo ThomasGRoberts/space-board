@@ -6,7 +6,7 @@
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -3483,3 +3483,4 @@
 - **Apr 06, 07:11 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 07:26 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 06, 07:41 PM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
+- **Apr 06, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
