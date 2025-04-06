@@ -6,7 +6,7 @@
 | spacenews | 2 | 7 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 38 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -3461,3 +3461,4 @@
 - **Apr 06, 04:49 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 05:03 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 06, 05:17 PM** - Investigation into failed New Glenn landing completed (spacenews)
+- **Apr 06, 05:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
