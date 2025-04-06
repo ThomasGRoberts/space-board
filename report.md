@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | spacenews | 0 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | nyt | 0 | 1 | 20 | 39 |
@@ -3598,3 +3598,4 @@
 - **Apr 05, 11:29 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 05, 11:43 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 05, 11:57 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
+- **Apr 06, 12:11 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
