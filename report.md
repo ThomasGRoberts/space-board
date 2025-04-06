@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
-| spacenews | 2 | 7 | 19 | 41 |
+| spacenews | 2 | 7 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -3460,3 +3460,4 @@
 - **Apr 06, 04:34 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 06, 04:49 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 05:03 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 06, 05:17 PM** - Investigation into failed New Glenn landing completed (spacenews)
