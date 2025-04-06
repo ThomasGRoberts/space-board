@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-06T00:02:03.528242+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fe3f66dfc8e555b2a151b3d599c4695b",
+    "trigger_count": 0,
+    "current_item_id": "247e4ae9689b761b4326c33fc98fa187",
     "data": [
         {
             "id": "c43260c164c12d49d6c85b9c392479f7",
@@ -8436,6 +8436,18 @@
                 "2025-04-06T06:43:22.845966Z",
                 "2025-04-06T06:45:18.852551Z",
                 "2025-04-06T06:47:36.911045Z"
+            ]
+        },
+        {
+            "id": "247e4ae9689b761b4326c33fc98fa187",
+            "source": "aidy",
+            "text": "ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-06T07:31:51.566909Z",
+            "shown_at": [
+                "2025-04-06T07:31:52.526470Z"
             ]
         }
     ]
