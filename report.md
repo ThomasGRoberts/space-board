@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 40 |
+| aidy | 1 | 2 | 21 | 41 |
 | spacenews | 0 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 0 | 1 | 20 | 40 |
@@ -3620,3 +3620,4 @@
 - **Apr 06, 01:55 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 06, 02:12 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 02:25 AM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
+- **Apr 06, 02:39 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
