@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3404,3 +3404,4 @@
 - **Apr 06, 10:21 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 06, 10:35 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 10:49 AM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
+- **Apr 06, 11:03 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
