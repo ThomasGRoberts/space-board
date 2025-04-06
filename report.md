@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
-| spacenews | 0 | 6 | 19 | 41 |
+| spacenews | 0 | 5 | 20 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -3425,3 +3425,4 @@
 - **Apr 06, 12:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 12:45 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 06, 01:00 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 06, 01:13 PM** - SpaceX launches Fram2 private astronaut mission (spacenews)
