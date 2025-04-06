@@ -6,7 +6,7 @@
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 18 | 39 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3351,3 +3351,4 @@
 - **Apr 06, 04:47 AM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
 - **Apr 06, 05:02 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
 - **Apr 06, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
