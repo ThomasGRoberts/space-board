@@ -6,7 +6,7 @@
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -3494,3 +3494,4 @@
 - **Apr 06, 08:25 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 06, 08:39 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 06, 08:53 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
+- **Apr 06, 09:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
