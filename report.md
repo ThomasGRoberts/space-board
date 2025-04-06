@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 20 | 39 |
+| aidy | 1 | 2 | 21 | 40 |
 | spacenews | 0 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 0 | 1 | 20 | 39 |
@@ -3609,3 +3609,4 @@
 - **Apr 06, 12:41 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 06, 12:57 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 01:13 AM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
+- **Apr 06, 01:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
