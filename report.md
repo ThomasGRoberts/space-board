@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | spacenews | 2 | 7 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3459,3 +3459,4 @@
 - **Apr 06, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 04:34 PM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 06, 04:49 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 06, 05:03 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
