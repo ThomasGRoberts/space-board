@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 0 | 6 | 19 | 41 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -3413,3 +3413,4 @@
 - **Apr 06, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 06, 11:32 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 06, 11:45 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
