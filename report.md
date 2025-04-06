@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 19 | 39 |
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 98 | 98 |
+| nyt | 0 | 0 | 18 | 38 |
+| supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
 
@@ -3495,3 +3495,4 @@
 - **Apr 06, 08:39 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 06, 08:53 PM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
 - **Apr 06, 09:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 09:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
