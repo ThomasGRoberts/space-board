@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-06T00:02:03.528242+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dfec4caaccba993866e6c80bc71f7b6",
+    "trigger_count": 0,
+    "current_item_id": "a948d80cf0cd7d342984edc03ce11110",
     "data": [
         {
             "id": "c43260c164c12d49d6c85b9c392479f7",
@@ -8511,6 +8511,18 @@
             "shown_at": [
                 "2025-04-06T07:31:52.526470Z",
                 "2025-04-06T12:13:28.149036Z"
+            ]
+        },
+        {
+            "id": "a948d80cf0cd7d342984edc03ce11110",
+            "source": "spacenews",
+            "text": "Missile Defense Agency opens door to commercial firms for “Golden Dome” project",
+            "source_link": "https://spacenews.com/missile-defense-agency-opens-door-to-commercial-firms-for-golden-dome-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-06T14:09:36.176929Z",
+            "shown_at": [
+                "2025-04-06T14:09:37.254844Z"
             ]
         }
     ]
