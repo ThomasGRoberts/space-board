@@ -3340,4 +3340,4 @@
 - **Apr 06, 02:12 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 02:25 AM** - Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications (spacenews)
 - **Apr 06, 02:39 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
-- **Apr 06, 03:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 06, 03:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
