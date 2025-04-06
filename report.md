@@ -6,7 +6,7 @@
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -3473,3 +3473,4 @@
 - **Apr 06, 06:13 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 06, 06:29 PM** - Chinese Bluetooth satellite startup raises early funding (spacenews)
 - **Apr 06, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 06, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
