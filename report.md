@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
@@ -3349,3 +3349,4 @@
 - **Apr 06, 04:19 AM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Apr 06, 04:33 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 04:47 AM** - CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission (spacenews)
+- **Apr 06, 05:02 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
