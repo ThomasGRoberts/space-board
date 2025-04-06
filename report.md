@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 19 | 40 |
 | spacenews | 2 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| nyt | 0 | 0 | 19 | 38 |
-| supercluster | 1 | 1 | 111 | 111 |
+| nyt | 0 | 0 | 18 | 38 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -3516,3 +3516,4 @@
 - **Apr 06, 10:49 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 06, 11:03 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 06, 11:17 PM** - MDA Space buys SatixFy to boost constellation production (spacenews)
+- **Apr 06, 11:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
