@@ -6,7 +6,7 @@
 | spacenews | 0 | 6 | 19 | 41 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -3383,3 +3383,4 @@
 - **Apr 06, 08:13 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 06, 08:27 AM** - China launches internet technology test satellites with Long March 2D (spacenews)
 - **Apr 06, 08:41 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
+- **Apr 06, 08:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
