@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
 
@@ -3527,3 +3527,4 @@
 - **Apr 06, 11:59 PM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 07, 12:13 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 07, 12:29 AM** - NASA adds Starship to launch contract (spacenews)
+- **Apr 07, 12:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
