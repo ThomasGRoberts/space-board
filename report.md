@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 167 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -3601,3 +3601,4 @@
 - **Apr 07, 08:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:12 AM** - Nelson concerned about NASA layoffs and other changes (spacenews)
+- **Apr 07, 08:27 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
