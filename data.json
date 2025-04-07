@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e51363753086690c5df29e3b5c3b1f3f",
+    "trigger_count": 0,
+    "current_item_id": "11044cc6a0f903d12b7b5dcb32750f72",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8851,6 +8851,36 @@
             "shown_at": [
                 "2025-04-07T14:33:53.213889Z"
             ]
+        },
+        {
+            "id": "11044cc6a0f903d12b7b5dcb32750f72",
+            "source": "spacenews",
+            "text": "Space Force missile-tracking “Foo Fighter” satellites clear design milestone",
+            "source_link": "https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797891Z",
+            "shown_at": [
+                "2025-04-07T15:15:45.204970Z"
+            ]
+        },
+        {
+            "id": "37437b117a93c60a5c12f36c984ddc8a",
+            "source": "spacenews",
+            "text": "Olsen targets US space boom with new Florida office",
+            "source_link": "https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797944Z"
+        },
+        {
+            "id": "0b3502cbfa8ae24312a9d07686b4e570",
+            "source": "spacenews",
+            "text": "Space-based solar power is becoming reality — but the U.S. needs to help",
+            "source_link": "https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797984Z"
         }
     ]
 }
