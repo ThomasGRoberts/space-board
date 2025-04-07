@@ -5,7 +5,7 @@
 | spacenews | 11 | 13 | 27 | 46 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 126 | 202 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -3666,3 +3666,4 @@
 - **Apr 07, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:29 PM** - Axiom Space to launch orbital data centers on Kepler satellites (spacenews)
 - **Apr 07, 04:45 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 07, 04:59 PM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
