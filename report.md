@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| supercluster | 0 | 1 | 133 | 146 |
+| supercluster | 0 | 1 | 134 | 147 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
 
@@ -3571,3 +3571,4 @@
 - **Apr 07, 04:53 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 05:07 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 07, 05:21 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 07, 05:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
