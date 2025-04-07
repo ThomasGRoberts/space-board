@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | supercluster | 1 | 1 | 132 | 132 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -3546,3 +3546,4 @@
 - **Apr 07, 02:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 02:15 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 07, 02:29 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
