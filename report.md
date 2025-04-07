@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| supercluster | 0 | 1 | 133 | 174 |
+| supercluster | 0 | 1 | 134 | 175 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
 
@@ -3615,3 +3615,4 @@
 - **Apr 07, 09:41 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 09:55 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 07, 10:13 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 07, 10:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
