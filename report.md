@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 19 | 39 |
+| spacenews | 2 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
 | supercluster | 1 | 1 | 125 | 125 |
 | breaking_defense | 0 | 0 | 19 | 39 |
@@ -3537,3 +3537,4 @@
 - **Apr 07, 12:59 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 01:13 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 07, 01:27 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 07, 01:41 AM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
