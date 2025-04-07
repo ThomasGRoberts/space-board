@@ -5,8 +5,8 @@
 | spacenews | 15 | 17 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 19 | 38 |
-| nyt | 1 | 1 | 17 | 36 |
-| supercluster | 1 | 1 | 1 | 1 |
+| nyt | 1 | 1 | 17 | 35 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -3482,4 +3482,3 @@
 - **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 09:33 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 07, 10:05 PM** - FCC moves to update satellite power limits amid push for adaptive regulations (spacenews)
-- **Apr 07, 10:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
