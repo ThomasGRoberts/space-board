@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 16 | 27 | 47 |
+| spacenews | 14 | 16 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 0 | 1 | 126 | 223 |
 | breaking_defense | 3 | 3 | 19 | 38 |
@@ -3701,3 +3701,4 @@
 - **Apr 07, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:51 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
+- **Apr 07, 09:05 PM** - JAXA institute studying Mars lander concept (spacenews)
