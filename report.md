@@ -6,7 +6,6 @@
 | aidy | 1 | 2 | 17 | 36 |
 | breaking_defense | 3 | 3 | 19 | 38 |
 | nyt | 1 | 1 | 17 | 36 |
-| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3481,7 +3480,4 @@
 - **Apr 07, 09:05 PM** - JAXA institute studying Mars lander concept (spacenews)
 - **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 09:33 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
-- **Apr 07, 10:00 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 07, 10:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 07, 10:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 10:05 PM** - FCC moves to update satellite power limits amid push for adaptive regulations (spacenews)
