@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 27 | 46 |
+| spacenews | 13 | 15 | 28 | 47 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 0 | 1 | 126 | 216 |
 | breaking_defense | 3 | 3 | 19 | 38 |
@@ -3689,3 +3689,4 @@
 - **Apr 07, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 07:11 PM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)
 - **Apr 07, 07:25 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 07, 07:39 PM** - Space Symposium 2025 (spacenews)

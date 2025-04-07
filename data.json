@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf980d51a350a9084a6f222897377d3",
+    "trigger_count": 0,
+    "current_item_id": "bb56c1bb8cb5e452d048af6c6b01c042",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8963,6 +8963,18 @@
             "fetched_datetime": "2025-04-07T19:11:31.392803Z",
             "shown_at": [
                 "2025-04-07T19:11:32.146904Z"
+            ]
+        },
+        {
+            "id": "bb56c1bb8cb5e452d048af6c6b01c042",
+            "source": "spacenews",
+            "text": "Space Symposium 2025",
+            "source_link": "https://spacenews.com/space-symposium-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:39:34.976168Z",
+            "shown_at": [
+                "2025-04-07T19:39:35.923700Z"
             ]
         }
     ]
