@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 160 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -3591,3 +3591,4 @@
 - **Apr 07, 06:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 06:59 AM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
 - **Apr 07, 07:13 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 07, 07:27 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
