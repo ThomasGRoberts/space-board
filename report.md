@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | nyt | 1 | 1 | 16 | 35 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 2 | 2 | 7 | 7 |
 
 # Shown Order
 
@@ -3488,3 +3488,4 @@
 - **Apr 07, 11:17 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 07, 11:19 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 07, 11:21 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 07, 11:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
