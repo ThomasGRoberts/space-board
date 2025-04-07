@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| supercluster | 0 | 1 | 135 | 153 |
+| supercluster | 0 | 1 | 135 | 154 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 38 |
 
@@ -3582,3 +3582,4 @@
 - **Apr 07, 06:03 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 07, 06:17 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 07, 06:31 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 07, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
