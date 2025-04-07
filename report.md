@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 26 | 46 |
+| spacenews | 12 | 14 | 27 | 47 |
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 126 | 216 |
 | breaking_defense | 3 | 3 | 20 | 38 |
@@ -3687,3 +3687,4 @@
 - **Apr 07, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 07:11 PM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)

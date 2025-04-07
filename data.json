@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "bce68e9c71016f61000070b454db101a",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8950,6 +8950,18 @@
             "fetched_datetime": "2025-04-07T18:29:30.450196Z",
             "shown_at": [
                 "2025-04-07T18:29:31.079451Z"
+            ]
+        },
+        {
+            "id": "bce68e9c71016f61000070b454db101a",
+            "source": "spacenews",
+            "text": "Space Force reassigns GPS satellite launch from ULA to SpaceX",
+            "source_link": "https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:11:31.392803Z",
+            "shown_at": [
+                "2025-04-07T19:11:32.146904Z"
             ]
         }
     ]
