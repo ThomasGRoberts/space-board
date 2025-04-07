@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 24 | 44 |
+| spacenews | 10 | 11 | 25 | 45 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 126 | 195 |
-| breaking_defense | 2 | 2 | 20 | 39 |
+| breaking_defense | 2 | 2 | 20 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -3654,3 +3654,4 @@
 - **Apr 07, 02:47 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 07, 03:02 PM** - JAXA institute studying Mars lander concept (spacenews)
 - **Apr 07, 03:15 PM** - Space Force missile-tracking “Foo Fighter” satellites clear design milestone (spacenews)
+- **Apr 07, 03:32 PM** - Olsen targets US space boom with new Florida office (spacenews)

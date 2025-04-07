@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11044cc6a0f903d12b7b5dcb32750f72",
+    "trigger_count": 0,
+    "current_item_id": "37437b117a93c60a5c12f36c984ddc8a",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8869,9 +8869,12 @@
             "source": "spacenews",
             "text": "Olsen targets US space boom with new Florida office",
             "source_link": "https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797944Z"
+            "fetched_datetime": "2025-04-07T15:15:43.797944Z",
+            "shown_at": [
+                "2025-04-07T15:32:14.054517Z"
+            ]
         },
         {
             "id": "0b3502cbfa8ae24312a9d07686b4e570",
