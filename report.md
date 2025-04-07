@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 36 |
-| supercluster | 0 | 1 | 121 | 216 |
-| breaking_defense | 3 | 3 | 19 | 38 |
+| supercluster | 0 | 1 | 120 | 216 |
+| breaking_defense | 3 | 3 | 20 | 39 |
 | nyt | 0 | 0 | 18 | 36 |
 
 # Shown Order
@@ -3691,3 +3691,4 @@
 - **Apr 07, 07:25 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 07:39 PM** - Space Symposium 2025 (spacenews)
 - **Apr 07, 07:53 PM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
+- **Apr 07, 08:09 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
