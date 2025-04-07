@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 0 | 1 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 160 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
@@ -3592,3 +3592,4 @@
 - **Apr 07, 06:59 AM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
 - **Apr 07, 07:13 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 07, 07:27 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 07, 07:41 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)

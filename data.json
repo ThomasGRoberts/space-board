@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
+    "trigger_count": 0,
+    "current_item_id": "cf3a78381afd7c5414e6f7f18a1ecc48",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8701,6 +8701,18 @@
             "fetched_datetime": "2025-04-07T03:27:56.800126Z",
             "shown_at": [
                 "2025-04-07T03:27:57.853947Z"
+            ]
+        },
+        {
+            "id": "cf3a78381afd7c5414e6f7f18a1ecc48",
+            "source": "aidy",
+            "text": "Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T07:41:36.656695Z",
+            "shown_at": [
+                "2025-04-07T07:41:37.298496Z"
             ]
         }
     ]
