@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 48 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 119 | 216 |
 | breaking_defense | 3 | 3 | 20 | 38 |
 | nyt | 0 | 0 | 17 | 36 |
@@ -3692,3 +3692,4 @@
 - **Apr 07, 07:39 PM** - Space Symposium 2025 (spacenews)
 - **Apr 07, 07:53 PM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
 - **Apr 07, 08:09 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 07, 08:23 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
