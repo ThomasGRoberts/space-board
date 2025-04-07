@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | supercluster | 0 | 1 | 137 | 139 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 38 |
@@ -3559,3 +3559,4 @@
 - **Apr 07, 03:27 AM** - Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing (spacenews)
 - **Apr 07, 03:41 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 03:55 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
+- **Apr 07, 04:11 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
