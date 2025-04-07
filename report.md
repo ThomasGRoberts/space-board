@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 21 | 40 |
+| spacenews | 3 | 3 | 22 | 41 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 174 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -3611,3 +3611,4 @@
 - **Apr 07, 09:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 09:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 09:27 AM** - Biotech is the launchpad for human survival in space (spacenews)
