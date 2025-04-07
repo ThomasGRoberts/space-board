@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 19 | 39 |
-| aidy | 1 | 2 | 18 | 39 |
+| aidy | 1 | 2 | 19 | 40 |
 | supercluster | 1 | 1 | 132 | 132 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | nyt | 0 | 0 | 19 | 39 |
@@ -3547,3 +3547,4 @@
 - **Apr 07, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 02:15 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 02:29 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 07, 02:45 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
