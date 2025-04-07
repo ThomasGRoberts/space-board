@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 26 | 46 |
-| aidy | 1 | 2 | 17 | 36 |
-| supercluster | 0 | 1 | 126 | 209 |
+| aidy | 1 | 2 | 18 | 37 |
+| supercluster | 0 | 1 | 125 | 209 |
 | breaking_defense | 3 | 3 | 20 | 39 |
 | nyt | 0 | 0 | 18 | 37 |
 
@@ -3679,3 +3679,4 @@
 - **Apr 07, 05:59 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 07, 06:15 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 07, 06:29 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
+- **Apr 07, 06:43 PM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
