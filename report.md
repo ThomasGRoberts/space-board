@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 126 | 209 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -3676,3 +3676,4 @@
 - **Apr 07, 05:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 05:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 05:46 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
+- **Apr 07, 05:59 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
