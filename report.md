@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 27 | 46 |
-| aidy | 1 | 2 | 18 | 37 |
+| aidy | 1 | 2 | 17 | 37 |
 | supercluster | 0 | 1 | 126 | 209 |
-| breaking_defense | 2 | 2 | 18 | 37 |
+| breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -3677,3 +3677,4 @@
 - **Apr 07, 05:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 05:46 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
 - **Apr 07, 05:59 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
+- **Apr 07, 06:15 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
