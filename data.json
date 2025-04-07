@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "37437b117a93c60a5c12f36c984ddc8a",
+    "trigger_count": 0,
+    "current_item_id": "0b3502cbfa8ae24312a9d07686b4e570",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8881,9 +8881,12 @@
             "source": "spacenews",
             "text": "Space-based solar power is becoming reality — but the U.S. needs to help",
             "source_link": "https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797984Z"
+            "fetched_datetime": "2025-04-07T15:15:43.797984Z",
+            "shown_at": [
+                "2025-04-07T15:47:13.429494Z"
+            ]
         }
     ]
 }
