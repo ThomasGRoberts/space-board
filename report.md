@@ -5,7 +5,7 @@
 | spacenews | 11 | 13 | 27 | 46 |
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 0 | 1 | 126 | 209 |
-| breaking_defense | 2 | 2 | 19 | 38 |
+| breaking_defense | 3 | 3 | 20 | 39 |
 | nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -3678,3 +3678,4 @@
 - **Apr 07, 05:46 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
 - **Apr 07, 05:59 PM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 07, 06:15 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 07, 06:29 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)

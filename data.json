@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ab5f56644e4623a9cdbee487fd26895",
+    "trigger_count": 0,
+    "current_item_id": "024d9f58c3572f000d0702672b532d86",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8930,6 +8930,18 @@
             "fetched_datetime": "2025-04-07T16:29:28.273095Z",
             "shown_at": [
                 "2025-04-07T16:29:28.826492Z"
+            ]
+        },
+        {
+            "id": "024d9f58c3572f000d0702672b532d86",
+            "source": "breaking_defense",
+            "text": "Strengthening the Aerospace and Defense industrial supply chain",
+            "source_link": "https://breakingdefense.com/2025/04/strengthening-the-aerospace-and-defense-industrial-supply-chain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T18:29:30.450196Z",
+            "shown_at": [
+                "2025-04-07T18:29:31.079451Z"
             ]
         }
     ]
