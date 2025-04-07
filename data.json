@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "061195f7f4c0f268c32e1af85e22a3a1",
+    "trigger_count": 0,
+    "current_item_id": "e59833d230c3d9dc003c660bf2914a31",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8765,6 +8765,18 @@
             "fetched_datetime": "2025-04-07T11:55:24.670919Z",
             "shown_at": [
                 "2025-04-07T11:55:25.379254Z"
+            ]
+        },
+        {
+            "id": "e59833d230c3d9dc003c660bf2914a31",
+            "source": "spacenews",
+            "text": "Potential NASA Earth science cuts highlight budget uncertainty",
+            "source_link": "https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T12:09:54.085652Z",
+            "shown_at": [
+                "2025-04-07T12:09:55.265332Z"
             ]
         }
     ]
