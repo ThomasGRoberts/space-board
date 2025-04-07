@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
-| supercluster | 0 | 1 | 135 | 181 |
+| aidy | 1 | 2 | 20 | 39 |
+| supercluster | 0 | 1 | 134 | 181 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
 
@@ -3625,3 +3625,4 @@
 - **Apr 07, 10:43 AM** - U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’ (spacenews)
 - **Apr 07, 10:57 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 07, 11:13 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
+- **Apr 07, 11:27 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
