@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 48 |
 | aidy | 1 | 2 | 17 | 36 |
-| supercluster | 0 | 1 | 121 | 223 |
-| breaking_defense | 3 | 3 | 19 | 38 |
+| supercluster | 0 | 1 | 120 | 223 |
+| breaking_defense | 3 | 3 | 20 | 39 |
 | nyt | 1 | 1 | 18 | 36 |
 
 # Shown Order
@@ -3702,3 +3702,4 @@
 - **Apr 07, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:51 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 07, 09:05 PM** - JAXA institute studying Mars lander concept (spacenews)
+- **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
