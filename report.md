@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 126 | 202 |
 | breaking_defense | 2 | 2 | 19 | 37 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -3665,3 +3665,4 @@
 - **Apr 07, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:29 PM** - Axiom Space to launch orbital data centers on Kepler satellites (spacenews)
+- **Apr 07, 04:45 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
