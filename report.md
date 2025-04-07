@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 47 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 0 | 1 | 119 | 223 |
+| supercluster | 0 | 1 | 120 | 224 |
 | breaking_defense | 3 | 3 | 19 | 38 |
 | nyt | 1 | 1 | 17 | 36 |
 
@@ -3704,3 +3704,4 @@
 - **Apr 07, 09:05 PM** - JAXA institute studying Mars lander concept (spacenews)
 - **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 09:33 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 07, 09:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
