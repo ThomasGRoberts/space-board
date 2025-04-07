@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 24 | 43 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 0 | 1 | 130 | 188 |
+| supercluster | 0 | 1 | 129 | 189 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 19 | 38 |
 
@@ -3641,3 +3641,4 @@
 - **Apr 07, 01:07 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
 - **Apr 07, 01:21 PM** - Space has a communications problem (spacenews)
 - **Apr 07, 01:36 PM** - LeoLabs unveils mobile radar for space surveillance (spacenews)
+- **Apr 07, 01:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
