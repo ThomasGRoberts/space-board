@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8791,6 +8791,18 @@
                 "2025-04-07T22:00:15.514619Z",
                 "2025-04-07T22:01:53.380365Z",
                 "2025-04-07T22:03:53.579298Z"
+            ]
+        },
+        {
+            "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
+            "source": "spacenews",
+            "text": "FCC moves to update satellite power limits amid push for adaptive regulations",
+            "source_link": "https://spacenews.com/fcc-moves-to-update-satellite-power-limits-amid-push-for-adaptive-regulations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T22:05:30.318926Z",
+            "shown_at": [
+                "2025-04-07T22:05:31.001872Z"
             ]
         }
     ]
