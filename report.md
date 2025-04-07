@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| supercluster | 0 | 1 | 135 | 154 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| supercluster | 0 | 1 | 136 | 155 |
+| breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 0 | 0 | 20 | 38 |
 
 # Shown Order
@@ -3583,3 +3583,4 @@
 - **Apr 07, 06:17 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 07, 06:31 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 07, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 06:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
