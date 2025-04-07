@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 19 | 39 |
 | supercluster | 0 | 1 | 140 | 188 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -3635,3 +3635,4 @@
 - **Apr 07, 11:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 11:55 AM** - China’s megaconstellation launches could litter orbit for more than a century, analysts warn (spacenews)
 - **Apr 07, 12:09 PM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
+- **Apr 07, 12:23 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
