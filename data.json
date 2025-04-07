@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb56c1bb8cb5e452d048af6c6b01c042",
+    "trigger_count": 0,
+    "current_item_id": "bd3b6db6d015d47cf94a6d917e1a4bb0",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8975,6 +8975,18 @@
             "fetched_datetime": "2025-04-07T19:39:34.976168Z",
             "shown_at": [
                 "2025-04-07T19:39:35.923700Z"
+            ]
+        },
+        {
+            "id": "bd3b6db6d015d47cf94a6d917e1a4bb0",
+            "source": "spacenews",
+            "text": "Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix",
+            "source_link": "https://spacenews.com/viasat-adds-telesat-lightspeed-leo-connectivity-to-multi-orbit-mix/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:53:32.877443Z",
+            "shown_at": [
+                "2025-04-07T19:53:33.419681Z"
             ]
         }
     ]
