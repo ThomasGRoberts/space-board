@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 23 | 42 |
+| spacenews | 7 | 8 | 24 | 43 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 0 | 1 | 129 | 195 |
+| supercluster | 0 | 1 | 128 | 195 |
 | breaking_defense | 2 | 2 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
 
@@ -3652,3 +3652,4 @@
 - **Apr 07, 02:19 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 02:33 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 07, 02:47 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 07, 03:02 PM** - JAXA institute studying Mars lander concept (spacenews)
