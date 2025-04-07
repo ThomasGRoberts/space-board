@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 137 | 174 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
@@ -3614,3 +3614,4 @@
 - **Apr 07, 09:27 AM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 07, 09:41 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 09:55 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 07, 10:13 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
