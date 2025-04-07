@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "3ea1a73b9285312cc405d125b2cd43c5",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8654,6 +8654,18 @@
             "shown_at": [
                 "2025-02-19T00:51:58.082419Z",
                 "2025-02-20T05:37:28.360866Z"
+            ]
+        },
+        {
+            "id": "3ea1a73b9285312cc405d125b2cd43c5",
+            "source": "spacenews",
+            "text": "Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing",
+            "source_link": "https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T03:27:56.800126Z",
+            "shown_at": [
+                "2025-04-07T03:27:57.853947Z"
             ]
         }
     ]
