@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
-| supercluster | 0 | 1 | 139 | 146 |
+| aidy | 1 | 2 | 20 | 40 |
+| supercluster | 0 | 1 | 137 | 146 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 38 |
 
@@ -3570,3 +3570,4 @@
 - **Apr 07, 04:39 AM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
 - **Apr 07, 04:53 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 05:07 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 07, 05:21 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
