@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| supercluster | 0 | 1 | 133 | 167 |
+| supercluster | 0 | 1 | 134 | 168 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -3604,3 +3604,4 @@
 - **Apr 07, 08:27 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 08:43 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 07, 08:57 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 07, 09:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
