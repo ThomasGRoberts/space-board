@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 47 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 0 | 1 | 119 | 216 |
+| supercluster | 0 | 1 | 120 | 217 |
 | breaking_defense | 3 | 3 | 19 | 38 |
 | nyt | 0 | 0 | 17 | 36 |
 
@@ -3693,3 +3693,4 @@
 - **Apr 07, 07:53 PM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
 - **Apr 07, 08:09 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 07, 08:23 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
+- **Apr 07, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
