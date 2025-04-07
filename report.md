@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 23 | 42 |
+| spacenews | 8 | 8 | 24 | 43 |
 | aidy | 1 | 2 | 19 | 39 |
 | supercluster | 0 | 1 | 133 | 188 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -3640,3 +3640,4 @@
 - **Apr 07, 12:52 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 07, 01:07 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
 - **Apr 07, 01:21 PM** - Space has a communications problem (spacenews)
+- **Apr 07, 01:36 PM** - LeoLabs unveils mobile radar for space surveillance (spacenews)

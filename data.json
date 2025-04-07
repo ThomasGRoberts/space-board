@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "119c1c05332c012e6fe3f181a8efde8d",
+    "trigger_count": 0,
+    "current_item_id": "cccb706947777f8f7a943183b1ce7b00",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8804,6 +8804,18 @@
             "fetched_datetime": "2025-04-07T13:07:43.737617Z",
             "shown_at": [
                 "2025-04-07T13:21:44.531753Z"
+            ]
+        },
+        {
+            "id": "cccb706947777f8f7a943183b1ce7b00",
+            "source": "spacenews",
+            "text": "LeoLabs unveils mobile radar for space surveillance",
+            "source_link": "https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:36:02.799232Z",
+            "shown_at": [
+                "2025-04-07T13:36:04.230931Z"
             ]
         }
     ]
