@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 126 | 216 |
 | breaking_defense | 3 | 3 | 19 | 38 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -3688,3 +3688,4 @@
 - **Apr 07, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 07:11 PM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)
+- **Apr 07, 07:25 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
