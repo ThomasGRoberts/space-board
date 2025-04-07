@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 26 | 46 |
+| spacenews | 11 | 13 | 27 | 47 |
 | aidy | 1 | 2 | 18 | 37 |
-| supercluster | 0 | 1 | 129 | 202 |
+| supercluster | 0 | 1 | 128 | 202 |
 | breaking_defense | 2 | 2 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 36 |
 
@@ -3664,3 +3664,4 @@
 - **Apr 07, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 04:29 PM** - Axiom Space to launch orbital data centers on Kepler satellites (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "55d56989df2ef778835f27385bf57608",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8905,6 +8905,18 @@
             "fetched_datetime": "2025-04-07T16:02:02.938231Z",
             "shown_at": [
                 "2025-04-07T16:02:03.572732Z"
+            ]
+        },
+        {
+            "id": "55d56989df2ef778835f27385bf57608",
+            "source": "spacenews",
+            "text": "Axiom Space to launch orbital data centers on Kepler satellites",
+            "source_link": "https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T16:29:28.273095Z",
+            "shown_at": [
+                "2025-04-07T16:29:28.826492Z"
             ]
         }
     ]
