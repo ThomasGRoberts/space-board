@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf980d51a350a9084a6f222897377d3",
+    "trigger_count": 0,
+    "current_item_id": "ba91db756baac49a029bce2178d3d78f",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8836,6 +8836,18 @@
             "fetched_datetime": "2025-04-07T14:05:30.779421Z",
             "shown_at": [
                 "2025-04-07T14:05:36.326171Z"
+            ]
+        },
+        {
+            "id": "ba91db756baac49a029bce2178d3d78f",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement",
+            "source_link": "https://breakingdefense.com/2025/04/exclusive-nro-space-force-in-final-stages-of-commercial-isr-arrangement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T14:33:52.301992Z",
+            "shown_at": [
+                "2025-04-07T14:33:53.213889Z"
             ]
         }
     ]

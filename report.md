@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 23 | 43 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 133 | 195 |
-| breaking_defense | 1 | 1 | 19 | 38 |
+| breaking_defense | 2 | 2 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -3650,3 +3650,4 @@
 - **Apr 07, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 02:05 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 02:19 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
+- **Apr 07, 02:33 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
