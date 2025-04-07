@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 39 |
 | supercluster | 1 | 1 | 139 | 139 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -3558,3 +3558,4 @@
 - **Apr 07, 03:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 03:27 AM** - Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing (spacenews)
 - **Apr 07, 03:41 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 07, 03:55 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
