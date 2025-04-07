@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
 
@@ -3538,3 +3538,4 @@
 - **Apr 07, 01:13 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 07, 01:27 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 07, 01:41 AM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
+- **Apr 07, 01:58 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
