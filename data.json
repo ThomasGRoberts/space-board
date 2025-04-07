@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 0,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 1,
+    "current_item_id": "aec1bd1e31e2e8ca874281b7d37f3956",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8790,15 +8790,18 @@
             ]
         },
         {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "id": "aec1bd1e31e2e8ca874281b7d37f3956",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-11",
-            "shown": false,
+            "text": "Russia Will Launch Crew to the International Space Station",
+            "source_link": "https://www.supercluster.com/launches/soyuz-ms-27",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-07T22:11:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-07T23:10:05.704805Z"
+            "target_datetime": "2025-04-08T05:47:00.000Z",
+            "time_remaining": "0d 06h 35m",
+            "fetched_datetime": "2025-04-07T23:11:33.736626Z",
+            "shown_at": [
+                "2025-04-07T23:11:34.367242Z"
+            ]
         }
     ]
 }
