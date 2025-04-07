@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "061195f7f4c0f268c32e1af85e22a3a1",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8753,6 +8753,18 @@
             "shown_at": [
                 "2025-04-07T07:41:37.298496Z",
                 "2025-04-07T11:27:49.784528Z"
+            ]
+        },
+        {
+            "id": "061195f7f4c0f268c32e1af85e22a3a1",
+            "source": "spacenews",
+            "text": "China’s megaconstellation launches could litter orbit for more than a century, analysts warn",
+            "source_link": "https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T11:55:24.670919Z",
+            "shown_at": [
+                "2025-04-07T11:55:25.379254Z"
             ]
         }
     ]
