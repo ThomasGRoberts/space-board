@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e02b1ccf7fafc895cd2ac8a6afd5333",
+    "trigger_count": 0,
+    "current_item_id": "05d4cb69f424cfa2a54ab245f4b4692d",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8781,6 +8781,27 @@
             "shown_at": [
                 "2025-04-07T12:09:55.265332Z"
             ]
+        },
+        {
+            "id": "05d4cb69f424cfa2a54ab245f4b4692d",
+            "source": "spacenews",
+            "text": "Europe pursues ‘strategic autonomy’ amidst geopolitical shifts",
+            "source_link": "https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:07:43.737553Z",
+            "shown_at": [
+                "2025-04-07T13:07:44.439978Z"
+            ]
+        },
+        {
+            "id": "119c1c05332c012e6fe3f181a8efde8d",
+            "source": "spacenews",
+            "text": "Space has a communications problem",
+            "source_link": "https://spacenews.com/space-has-a-communications-problem/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:07:43.737617Z"
         }
     ]
 }

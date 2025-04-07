@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 22 | 41 |
+| spacenews | 7 | 7 | 23 | 42 |
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 133 | 188 |
 | breaking_defense | 0 | 0 | 19 | 39 |
@@ -3638,3 +3638,4 @@
 - **Apr 07, 12:23 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 12:37 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 07, 12:52 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
+- **Apr 07, 01:07 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
