@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 28 | 48 |
-| aidy | 1 | 2 | 17 | 36 |
+| aidy | 1 | 2 | 18 | 37 |
 | supercluster | 0 | 1 | 119 | 223 |
 | breaking_defense | 3 | 3 | 20 | 38 |
 | nyt | 1 | 1 | 17 | 36 |
@@ -3703,3 +3703,4 @@
 - **Apr 07, 08:51 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 07, 09:05 PM** - JAXA institute studying Mars lander concept (spacenews)
 - **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
+- **Apr 07, 09:33 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
