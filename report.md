@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 22 | 41 |
 | aidy | 1 | 2 | 19 | 38 |
-| supercluster | 0 | 1 | 136 | 188 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| supercluster | 0 | 1 | 135 | 188 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -3636,3 +3636,4 @@
 - **Apr 07, 11:55 AM** - China’s megaconstellation launches could litter orbit for more than a century, analysts warn (spacenews)
 - **Apr 07, 12:09 PM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
 - **Apr 07, 12:23 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 07, 12:37 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
