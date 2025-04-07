@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 20 | 39 |
-| supercluster | 0 | 1 | 134 | 182 |
+| supercluster | 0 | 1 | 135 | 183 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
 
@@ -3627,3 +3627,4 @@
 - **Apr 07, 11:13 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 07, 11:27 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 07, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
