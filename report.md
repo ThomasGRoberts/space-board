@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 21 | 39 |
+| spacenews | 3 | 3 | 22 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
 | supercluster | 0 | 1 | 140 | 153 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -3578,3 +3578,4 @@
 - **Apr 07, 05:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 05:49 AM** - Aetherflux raises $50 million for space-based solar power (spacenews)
