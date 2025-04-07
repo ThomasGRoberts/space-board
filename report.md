@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 23 | 42 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | supercluster | 0 | 1 | 133 | 195 |
 | breaking_defense | 2 | 2 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 38 |
@@ -3651,3 +3651,4 @@
 - **Apr 07, 02:05 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 02:19 PM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 07, 02:33 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 07, 02:47 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
