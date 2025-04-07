@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | supercluster | 0 | 1 | 140 | 153 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 20 | 38 |
 
 # Shown Order
 
@@ -3581,3 +3581,4 @@
 - **Apr 07, 05:49 AM** - Aetherflux raises $50 million for space-based solar power (spacenews)
 - **Apr 07, 06:03 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
 - **Apr 07, 06:17 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 07, 06:31 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
