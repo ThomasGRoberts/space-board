@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "c88e62f8e9fd42cdb84ec09d8f22ad9a",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8823,6 +8823,18 @@
             "fetched_datetime": "2025-04-07T13:36:02.799232Z",
             "shown_at": [
                 "2025-04-07T13:36:04.230931Z"
+            ]
+        },
+        {
+            "id": "c88e62f8e9fd42cdb84ec09d8f22ad9a",
+            "source": "breaking_defense",
+            "text": "Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA",
+            "source_link": "https://breakingdefense.com/2025/04/blue-origin-bezos-space-force-awards-first-next-gen-high-performance-launch-contracts-ula-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T14:05:30.779421Z",
+            "shown_at": [
+                "2025-04-07T14:05:36.326171Z"
             ]
         }
     ]
