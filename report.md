@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 19 | 40 |
-| supercluster | 1 | 1 | 127 | 127 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| supercluster | 1 | 1 | 128 | 128 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -3540,3 +3540,4 @@
 - **Apr 07, 01:41 AM** - SpinLaunch announces plans for broadband satellite constellation (spacenews)
 - **Apr 07, 01:58 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 01:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 02:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
