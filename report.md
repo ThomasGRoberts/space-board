@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 21 | 40 |
 | aidy | 1 | 2 | 19 | 38 |
 | supercluster | 0 | 1 | 140 | 181 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -3624,3 +3624,4 @@
 - **Apr 07, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 10:43 AM** - U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’ (spacenews)
 - **Apr 07, 10:57 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 07, 11:13 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
