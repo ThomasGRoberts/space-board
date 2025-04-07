@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b3502cbfa8ae24312a9d07686b4e570",
+    "trigger_count": 0,
+    "current_item_id": "fc0989a8b145388ddc69f62cca5089aa",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8886,6 +8886,18 @@
             "fetched_datetime": "2025-04-07T15:15:43.797984Z",
             "shown_at": [
                 "2025-04-07T15:47:13.429494Z"
+            ]
+        },
+        {
+            "id": "fc0989a8b145388ddc69f62cca5089aa",
+            "source": "spacenews",
+            "text": "Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission",
+            "source_link": "https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T16:02:02.938231Z",
+            "shown_at": [
+                "2025-04-07T16:02:03.572732Z"
             ]
         }
     ]
