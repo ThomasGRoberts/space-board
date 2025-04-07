@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "452c93bf44912972630639097d408633",
     "data": [
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
@@ -8996,6 +8996,18 @@
             "fetched_datetime": "2025-04-07T19:53:32.877443Z",
             "shown_at": [
                 "2025-04-07T19:53:33.419681Z"
+            ]
+        },
+        {
+            "id": "452c93bf44912972630639097d408633",
+            "source": "nyt",
+            "text": "Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86",
+            "source_link": "https://www.nytimes.com/2025/04/07/science/space/jeremiah-ostriker-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T20:51:39.863184Z",
+            "shown_at": [
+                "2025-04-07T20:51:41.094036Z"
             ]
         }
     ]

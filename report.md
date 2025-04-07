@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 17 | 36 |
 | supercluster | 0 | 1 | 126 | 223 |
 | breaking_defense | 3 | 3 | 19 | 38 |
-| nyt | 0 | 0 | 17 | 36 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -3700,3 +3700,4 @@
 - **Apr 07, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 07, 08:51 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
