@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 22 | 41 |
-| aidy | 1 | 2 | 19 | 38 |
+| aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 133 | 188 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | nyt | 0 | 0 | 19 | 39 |
@@ -3637,3 +3637,4 @@
 - **Apr 07, 12:09 PM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
 - **Apr 07, 12:23 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 12:37 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
+- **Apr 07, 12:52 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
