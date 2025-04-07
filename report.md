@@ -6,7 +6,7 @@
 | aidy | 1 | 2 | 20 | 39 |
 | supercluster | 0 | 1 | 140 | 146 |
 | breaking_defense | 0 | 0 | 19 | 38 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -3568,3 +3568,4 @@
 - **Apr 07, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 07, 04:39 AM** - Slingshot adapting satellite ‘fingerprinting’ technology for military applications (spacenews)
+- **Apr 07, 04:53 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
