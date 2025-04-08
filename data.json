@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "22086a13f07d3cf6981025ecfdef98f7",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8880,6 +8880,18 @@
             "fetched_datetime": "2025-04-08T09:03:41.649849Z",
             "shown_at": [
                 "2025-04-08T09:03:42.300400Z"
+            ]
+        },
+        {
+            "id": "22086a13f07d3cf6981025ecfdef98f7",
+            "source": "spacenews",
+            "text": "Geopolitical shifts accelerate demand for Starlink alternatives",
+            "source_link": "https://spacenews.com/geopolitical-shifts-accelerate-demand-for-starlink-alternatives/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T09:31:57.784396Z",
+            "shown_at": [
+                "2025-04-08T09:31:58.346296Z"
             ]
         }
     ]

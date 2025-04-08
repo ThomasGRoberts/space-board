@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 19 | 26 | 48 |
+| spacenews | 17 | 20 | 27 | 49 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -3529,3 +3529,4 @@
 - **Apr 08, 09:25 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 09:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 09:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 09:31 AM** - Geopolitical shifts accelerate demand for Starlink alternatives (spacenews)
