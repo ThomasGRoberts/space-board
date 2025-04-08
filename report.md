@@ -6,7 +6,7 @@
 | spacenews | 15 | 17 | 26 | 46 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 
 # Shown Order
 
@@ -3490,3 +3490,4 @@
 - **Apr 07, 11:21 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 12:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 12:21 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
+- **Apr 08, 12:35 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
