@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 26 | 29 | 52 |
+| spacenews | 22 | 29 | 30 | 52 |
 | nyt | 1 | 1 | 14 | 33 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 14 | 34 |
@@ -3556,3 +3556,4 @@
 - **Apr 08, 01:09 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 01:12 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 01:13 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 01:15 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
