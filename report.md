@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 6 | 6 |
+| supercluster | 1 | 1 | 6 | 6 |
 | spacenews | 15 | 17 | 27 | 46 |
-| nyt | 1 | 1 | 15 | 34 |
+| nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 
@@ -3488,3 +3488,4 @@
 - **Apr 07, 11:17 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 07, 11:19 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 07, 11:21 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 08, 12:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
