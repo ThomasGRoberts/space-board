@@ -1,9 +1,272 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-07T00:02:07.935824+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
+    "trigger_count": 5,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "aec1bd1e31e2e8ca874281b7d37f3956",
+            "source": "supercluster",
+            "text": "Russia Will Launch Crew to the International Space Station",
+            "source_link": "https://www.supercluster.com/launches/soyuz-ms-27",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-08T05:47:00.000Z",
+            "time_remaining": "0d 06h 25m",
+            "fetched_datetime": "2025-04-07T23:11:33.736626Z",
+            "shown_at": [
+                "2025-04-07T23:11:34.367242Z",
+                "2025-04-07T23:13:31.395274Z",
+                "2025-04-07T23:15:24.960809Z",
+                "2025-04-07T23:17:45.498771Z",
+                "2025-04-07T23:19:24.833459Z",
+                "2025-04-07T23:21:25.908362Z"
+            ]
+        },
+        {
+            "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
+            "source": "spacenews",
+            "text": "FCC moves to update satellite power limits amid push for adaptive regulations",
+            "source_link": "https://spacenews.com/fcc-moves-to-update-satellite-power-limits-amid-push-for-adaptive-regulations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T22:05:30.318926Z",
+            "shown_at": [
+                "2025-04-07T22:05:31.001872Z"
+            ]
+        },
+        {
+            "id": "452c93bf44912972630639097d408633",
+            "source": "nyt",
+            "text": "Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86",
+            "source_link": "https://www.nytimes.com/2025/04/07/science/space/jeremiah-ostriker-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T20:51:39.863184Z",
+            "shown_at": [
+                "2025-04-07T20:51:41.094036Z"
+            ]
+        },
+        {
+            "id": "bd3b6db6d015d47cf94a6d917e1a4bb0",
+            "source": "spacenews",
+            "text": "Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix",
+            "source_link": "https://spacenews.com/viasat-adds-telesat-lightspeed-leo-connectivity-to-multi-orbit-mix/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:53:32.877443Z",
+            "shown_at": [
+                "2025-04-07T19:53:33.419681Z"
+            ]
+        },
+        {
+            "id": "bb56c1bb8cb5e452d048af6c6b01c042",
+            "source": "spacenews",
+            "text": "Space Symposium 2025",
+            "source_link": "https://spacenews.com/space-symposium-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:39:34.976168Z",
+            "shown_at": [
+                "2025-04-07T19:39:35.923700Z"
+            ]
+        },
+        {
+            "id": "bce68e9c71016f61000070b454db101a",
+            "source": "spacenews",
+            "text": "Space Force reassigns GPS satellite launch from ULA to SpaceX",
+            "source_link": "https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T19:11:31.392803Z",
+            "shown_at": [
+                "2025-04-07T19:11:32.146904Z"
+            ]
+        },
+        {
+            "id": "024d9f58c3572f000d0702672b532d86",
+            "source": "breaking_defense",
+            "text": "Strengthening the Aerospace and Defense industrial supply chain",
+            "source_link": "https://breakingdefense.com/2025/04/strengthening-the-aerospace-and-defense-industrial-supply-chain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T18:29:30.450196Z",
+            "shown_at": [
+                "2025-04-07T18:29:31.079451Z"
+            ]
+        },
+        {
+            "id": "55d56989df2ef778835f27385bf57608",
+            "source": "spacenews",
+            "text": "Axiom Space to launch orbital data centers on Kepler satellites",
+            "source_link": "https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T16:29:28.273095Z",
+            "shown_at": [
+                "2025-04-07T16:29:28.826492Z"
+            ]
+        },
+        {
+            "id": "fc0989a8b145388ddc69f62cca5089aa",
+            "source": "spacenews",
+            "text": "Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission",
+            "source_link": "https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T16:02:02.938231Z",
+            "shown_at": [
+                "2025-04-07T16:02:03.572732Z"
+            ]
+        },
+        {
+            "id": "0b3502cbfa8ae24312a9d07686b4e570",
+            "source": "spacenews",
+            "text": "Space-based solar power is becoming reality — but the U.S. needs to help",
+            "source_link": "https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797984Z",
+            "shown_at": [
+                "2025-04-07T15:47:13.429494Z"
+            ]
+        },
+        {
+            "id": "37437b117a93c60a5c12f36c984ddc8a",
+            "source": "spacenews",
+            "text": "Olsen targets US space boom with new Florida office",
+            "source_link": "https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797944Z",
+            "shown_at": [
+                "2025-04-07T15:32:14.054517Z"
+            ]
+        },
+        {
+            "id": "11044cc6a0f903d12b7b5dcb32750f72",
+            "source": "spacenews",
+            "text": "Space Force missile-tracking “Foo Fighter” satellites clear design milestone",
+            "source_link": "https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T15:15:43.797891Z",
+            "shown_at": [
+                "2025-04-07T15:15:45.204970Z"
+            ]
+        },
+        {
+            "id": "ba91db756baac49a029bce2178d3d78f",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement",
+            "source_link": "https://breakingdefense.com/2025/04/exclusive-nro-space-force-in-final-stages-of-commercial-isr-arrangement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T14:33:52.301992Z",
+            "shown_at": [
+                "2025-04-07T14:33:53.213889Z",
+                "2025-04-07T20:09:31.629323Z"
+            ]
+        },
+        {
+            "id": "c88e62f8e9fd42cdb84ec09d8f22ad9a",
+            "source": "breaking_defense",
+            "text": "Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA",
+            "source_link": "https://breakingdefense.com/2025/04/blue-origin-bezos-space-force-awards-first-next-gen-high-performance-launch-contracts-ula-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T14:05:30.779421Z",
+            "shown_at": [
+                "2025-04-07T14:05:36.326171Z",
+                "2025-04-07T21:19:13.202578Z"
+            ]
+        },
+        {
+            "id": "cccb706947777f8f7a943183b1ce7b00",
+            "source": "spacenews",
+            "text": "LeoLabs unveils mobile radar for space surveillance",
+            "source_link": "https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:36:02.799232Z",
+            "shown_at": [
+                "2025-04-07T13:36:04.230931Z"
+            ]
+        },
+        {
+            "id": "119c1c05332c012e6fe3f181a8efde8d",
+            "source": "spacenews",
+            "text": "Space has a communications problem",
+            "source_link": "https://spacenews.com/space-has-a-communications-problem/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:07:43.737617Z",
+            "shown_at": [
+                "2025-04-07T13:21:44.531753Z"
+            ]
+        },
+        {
+            "id": "05d4cb69f424cfa2a54ab245f4b4692d",
+            "source": "spacenews",
+            "text": "Europe pursues ‘strategic autonomy’ amidst geopolitical shifts",
+            "source_link": "https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T13:07:43.737553Z",
+            "shown_at": [
+                "2025-04-07T13:07:44.439978Z"
+            ]
+        },
+        {
+            "id": "e59833d230c3d9dc003c660bf2914a31",
+            "source": "spacenews",
+            "text": "Potential NASA Earth science cuts highlight budget uncertainty",
+            "source_link": "https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T12:09:54.085652Z",
+            "shown_at": [
+                "2025-04-07T12:09:55.265332Z"
+            ]
+        },
+        {
+            "id": "061195f7f4c0f268c32e1af85e22a3a1",
+            "source": "spacenews",
+            "text": "China’s megaconstellation launches could litter orbit for more than a century, analysts warn",
+            "source_link": "https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T11:55:24.670919Z",
+            "shown_at": [
+                "2025-04-07T11:55:25.379254Z"
+            ]
+        },
+        {
+            "id": "cf3a78381afd7c5414e6f7f18a1ecc48",
+            "source": "aidy",
+            "text": "Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T07:41:36.656695Z",
+            "shown_at": [
+                "2025-04-07T07:41:37.298496Z",
+                "2025-04-07T11:27:49.784528Z",
+                "2025-04-07T20:23:26.591660Z"
+            ]
+        },
+        {
+            "id": "3ea1a73b9285312cc405d125b2cd43c5",
+            "source": "spacenews",
+            "text": "Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing",
+            "source_link": "https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-07T03:27:56.800126Z",
+            "shown_at": [
+                "2025-04-07T03:27:57.853947Z"
+            ]
+        },
         {
             "id": "ea2ae39fc183714ef8dc76dba749c7f3",
             "source": "spacenews",
@@ -8546,269 +8809,6 @@
             ]
         },
         {
-            "id": "3ea1a73b9285312cc405d125b2cd43c5",
-            "source": "spacenews",
-            "text": "Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing",
-            "source_link": "https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T03:27:56.800126Z",
-            "shown_at": [
-                "2025-04-07T03:27:57.853947Z"
-            ]
-        },
-        {
-            "id": "cf3a78381afd7c5414e6f7f18a1ecc48",
-            "source": "aidy",
-            "text": "Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T07:41:36.656695Z",
-            "shown_at": [
-                "2025-04-07T07:41:37.298496Z",
-                "2025-04-07T11:27:49.784528Z",
-                "2025-04-07T20:23:26.591660Z"
-            ]
-        },
-        {
-            "id": "061195f7f4c0f268c32e1af85e22a3a1",
-            "source": "spacenews",
-            "text": "China’s megaconstellation launches could litter orbit for more than a century, analysts warn",
-            "source_link": "https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T11:55:24.670919Z",
-            "shown_at": [
-                "2025-04-07T11:55:25.379254Z"
-            ]
-        },
-        {
-            "id": "e59833d230c3d9dc003c660bf2914a31",
-            "source": "spacenews",
-            "text": "Potential NASA Earth science cuts highlight budget uncertainty",
-            "source_link": "https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T12:09:54.085652Z",
-            "shown_at": [
-                "2025-04-07T12:09:55.265332Z"
-            ]
-        },
-        {
-            "id": "05d4cb69f424cfa2a54ab245f4b4692d",
-            "source": "spacenews",
-            "text": "Europe pursues ‘strategic autonomy’ amidst geopolitical shifts",
-            "source_link": "https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:07:43.737553Z",
-            "shown_at": [
-                "2025-04-07T13:07:44.439978Z"
-            ]
-        },
-        {
-            "id": "119c1c05332c012e6fe3f181a8efde8d",
-            "source": "spacenews",
-            "text": "Space has a communications problem",
-            "source_link": "https://spacenews.com/space-has-a-communications-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:07:43.737617Z",
-            "shown_at": [
-                "2025-04-07T13:21:44.531753Z"
-            ]
-        },
-        {
-            "id": "cccb706947777f8f7a943183b1ce7b00",
-            "source": "spacenews",
-            "text": "LeoLabs unveils mobile radar for space surveillance",
-            "source_link": "https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:36:02.799232Z",
-            "shown_at": [
-                "2025-04-07T13:36:04.230931Z"
-            ]
-        },
-        {
-            "id": "c88e62f8e9fd42cdb84ec09d8f22ad9a",
-            "source": "breaking_defense",
-            "text": "Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA",
-            "source_link": "https://breakingdefense.com/2025/04/blue-origin-bezos-space-force-awards-first-next-gen-high-performance-launch-contracts-ula-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T14:05:30.779421Z",
-            "shown_at": [
-                "2025-04-07T14:05:36.326171Z",
-                "2025-04-07T21:19:13.202578Z"
-            ]
-        },
-        {
-            "id": "ba91db756baac49a029bce2178d3d78f",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement",
-            "source_link": "https://breakingdefense.com/2025/04/exclusive-nro-space-force-in-final-stages-of-commercial-isr-arrangement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T14:33:52.301992Z",
-            "shown_at": [
-                "2025-04-07T14:33:53.213889Z",
-                "2025-04-07T20:09:31.629323Z"
-            ]
-        },
-        {
-            "id": "11044cc6a0f903d12b7b5dcb32750f72",
-            "source": "spacenews",
-            "text": "Space Force missile-tracking “Foo Fighter” satellites clear design milestone",
-            "source_link": "https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797891Z",
-            "shown_at": [
-                "2025-04-07T15:15:45.204970Z"
-            ]
-        },
-        {
-            "id": "37437b117a93c60a5c12f36c984ddc8a",
-            "source": "spacenews",
-            "text": "Olsen targets US space boom with new Florida office",
-            "source_link": "https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797944Z",
-            "shown_at": [
-                "2025-04-07T15:32:14.054517Z"
-            ]
-        },
-        {
-            "id": "0b3502cbfa8ae24312a9d07686b4e570",
-            "source": "spacenews",
-            "text": "Space-based solar power is becoming reality — but the U.S. needs to help",
-            "source_link": "https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797984Z",
-            "shown_at": [
-                "2025-04-07T15:47:13.429494Z"
-            ]
-        },
-        {
-            "id": "fc0989a8b145388ddc69f62cca5089aa",
-            "source": "spacenews",
-            "text": "Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission",
-            "source_link": "https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T16:02:02.938231Z",
-            "shown_at": [
-                "2025-04-07T16:02:03.572732Z"
-            ]
-        },
-        {
-            "id": "55d56989df2ef778835f27385bf57608",
-            "source": "spacenews",
-            "text": "Axiom Space to launch orbital data centers on Kepler satellites",
-            "source_link": "https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T16:29:28.273095Z",
-            "shown_at": [
-                "2025-04-07T16:29:28.826492Z"
-            ]
-        },
-        {
-            "id": "024d9f58c3572f000d0702672b532d86",
-            "source": "breaking_defense",
-            "text": "Strengthening the Aerospace and Defense industrial supply chain",
-            "source_link": "https://breakingdefense.com/2025/04/strengthening-the-aerospace-and-defense-industrial-supply-chain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T18:29:30.450196Z",
-            "shown_at": [
-                "2025-04-07T18:29:31.079451Z"
-            ]
-        },
-        {
-            "id": "bce68e9c71016f61000070b454db101a",
-            "source": "spacenews",
-            "text": "Space Force reassigns GPS satellite launch from ULA to SpaceX",
-            "source_link": "https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:11:31.392803Z",
-            "shown_at": [
-                "2025-04-07T19:11:32.146904Z"
-            ]
-        },
-        {
-            "id": "bb56c1bb8cb5e452d048af6c6b01c042",
-            "source": "spacenews",
-            "text": "Space Symposium 2025",
-            "source_link": "https://spacenews.com/space-symposium-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:39:34.976168Z",
-            "shown_at": [
-                "2025-04-07T19:39:35.923700Z"
-            ]
-        },
-        {
-            "id": "bd3b6db6d015d47cf94a6d917e1a4bb0",
-            "source": "spacenews",
-            "text": "Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix",
-            "source_link": "https://spacenews.com/viasat-adds-telesat-lightspeed-leo-connectivity-to-multi-orbit-mix/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:53:32.877443Z",
-            "shown_at": [
-                "2025-04-07T19:53:33.419681Z"
-            ]
-        },
-        {
-            "id": "452c93bf44912972630639097d408633",
-            "source": "nyt",
-            "text": "Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86",
-            "source_link": "https://www.nytimes.com/2025/04/07/science/space/jeremiah-ostriker-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T20:51:39.863184Z",
-            "shown_at": [
-                "2025-04-07T20:51:41.094036Z"
-            ]
-        },
-        {
-            "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
-            "source": "spacenews",
-            "text": "FCC moves to update satellite power limits amid push for adaptive regulations",
-            "source_link": "https://spacenews.com/fcc-moves-to-update-satellite-power-limits-amid-push-for-adaptive-regulations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T22:05:30.318926Z",
-            "shown_at": [
-                "2025-04-07T22:05:31.001872Z"
-            ]
-        },
-        {
-            "id": "aec1bd1e31e2e8ca874281b7d37f3956",
-            "source": "supercluster",
-            "text": "Russia Will Launch Crew to the International Space Station",
-            "source_link": "https://www.supercluster.com/launches/soyuz-ms-27",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-08T05:47:00.000Z",
-            "time_remaining": "0d 06h 25m",
-            "fetched_datetime": "2025-04-07T23:11:33.736626Z",
-            "shown_at": [
-                "2025-04-07T23:11:34.367242Z",
-                "2025-04-07T23:13:31.395274Z",
-                "2025-04-07T23:15:24.960809Z",
-                "2025-04-07T23:17:45.498771Z",
-                "2025-04-07T23:19:24.833459Z",
-                "2025-04-07T23:21:25.908362Z"
-            ]
-        },
-        {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from California",
@@ -8817,7 +8817,7 @@
             "type": "launch",
             "target_datetime": "2025-04-07T23:06:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-04-07T23:59:32.395695Z"
+            "fetched_datetime": "2025-04-08T00:01:52.710927Z"
         }
     ]
 }
