@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 34 | 34 |
 | spacenews | 14 | 17 | 27 | 48 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 36 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3482,57 +3482,24 @@
 - **Apr 07, 09:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 07, 09:33 PM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 07, 10:05 PM** - FCC moves to update satellite power limits amid push for adaptive regulations (spacenews)
-- **Apr 07, 11:11 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 07, 11:13 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 07, 11:15 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 07, 11:17 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 07, 11:19 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 07, 11:21 PM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 12:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 12:21 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 08, 12:35 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 08, 12:49 AM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
-- **Apr 08, 01:03 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:05 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:07 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:09 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:11 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:13 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 01:15 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 01:17 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 01:31 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 08, 01:45 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 08, 01:59 AM** - Golden Dome: who and what should it defend? (spacenews)
-- **Apr 08, 02:13 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:15 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:17 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:19 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:21 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:23 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 02:25 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 02:27 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 02:41 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 08, 02:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 08, 03:11 AM** - Moog Highlights Meteor Satellite Bus at Space Symposium (spacenews)
-- **Apr 08, 03:25 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:27 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:29 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:31 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:33 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:35 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 03:37 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 03:39 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 08, 03:53 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 08, 04:09 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 08, 04:23 AM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)
-- **Apr 08, 04:37 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:39 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:41 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:43 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:45 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:47 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
-- **Apr 08, 04:49 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 04:51 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 05:05 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 08, 05:19 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 08, 05:33 AM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
+- **Apr 08, 05:47 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
