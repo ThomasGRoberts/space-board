@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f12ef53732643518eee86886cca80e7a",
+    "trigger_count": 0,
+    "current_item_id": "103fac8c0cf312cc097e017278a685a8",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8938,6 +8938,18 @@
             "fetched_datetime": "2025-04-08T11:17:32.625821Z",
             "shown_at": [
                 "2025-04-08T11:17:33.193016Z"
+            ]
+        },
+        {
+            "id": "103fac8c0cf312cc097e017278a685a8",
+            "source": "spacenews",
+            "text": "Space Force to revamp training for a new era of space conflict",
+            "source_link": "https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T11:31:50.326768Z",
+            "shown_at": [
+                "2025-04-08T11:31:51.138799Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 20 | 23 | 29 | 50 |
+| spacenews | 21 | 24 | 30 | 51 |
 | nyt | 1 | 1 | 14 | 34 |
 | breaking_defense | 3 | 3 | 16 | 36 |
 | aidy | 1 | 2 | 14 | 34 |
@@ -3543,3 +3543,4 @@
 - **Apr 08, 11:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 11:14 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 11:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
+- **Apr 08, 11:31 AM** - Space Force to revamp training for a new era of space conflict (spacenews)
