@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 | spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
@@ -3515,3 +3515,4 @@
 - **Apr 08, 02:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 08, 03:11 AM** - Moog Highlights Meteor Satellite Bus at Space Symposium (spacenews)
 - **Apr 08, 03:25 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 08, 03:27 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
