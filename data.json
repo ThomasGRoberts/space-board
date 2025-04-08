@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "af78ce6d62e3bfb72ff1f445edb6d48a",
+    "trigger_count": 0,
+    "current_item_id": "58e94a5465fb4cbf4a858acf84f2cd9e",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -9003,9 +9003,12 @@
             "source": "spacenews",
             "text": "Umbra to develop maritime surveillance satellites for U.S. military",
             "source_link": "https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631862Z"
+            "fetched_datetime": "2025-04-08T13:15:36.631862Z",
+            "shown_at": [
+                "2025-04-08T13:29:49.131766Z"
+            ]
         },
         {
             "id": "cd3407e76b1db812eb352014c1d7c41f",
