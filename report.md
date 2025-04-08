@@ -3502,4 +3502,4 @@
 - **Apr 08, 05:05 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 08, 05:19 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 08, 05:33 AM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
-- **Apr 08, 05:47 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 08, 05:49 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
