@@ -6,7 +6,7 @@
 | spacenews | 15 | 17 | 26 | 46 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 16 | 35 |
 
 # Shown Order
 
@@ -3501,3 +3501,4 @@
 - **Apr 08, 01:15 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 01:17 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 01:31 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 08, 01:45 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
