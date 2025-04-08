@@ -5,8 +5,8 @@
 | spacenews | 19 | 22 | 28 | 49 |
 | nyt | 1 | 1 | 14 | 34 |
 | breaking_defense | 3 | 3 | 17 | 36 |
-| aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 20 | 20 |
+| aidy | 1 | 2 | 15 | 34 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3537,3 +3537,4 @@
 - **Apr 08, 10:45 AM** - Aitech unveils IQSat, a picosatellite for AI applications (spacenews)
 - **Apr 08, 10:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 11:02 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 11:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
