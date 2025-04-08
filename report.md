@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 17 | 26 | 47 |
-| nyt | 1 | 1 | 15 | 35 |
+| nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 17 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3504,3 +3504,4 @@
 - **Apr 08, 05:33 AM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
 - **Apr 08, 06:47 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 06:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 06:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
