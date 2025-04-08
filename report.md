@@ -6,7 +6,7 @@
 | spacenews | 14 | 17 | 26 | 47 |
 | nyt | 1 | 1 | 16 | 36 |
 | breaking_defense | 3 | 3 | 18 | 38 |
-| aidy | 1 | 2 | 16 | 35 |
+| aidy | 1 | 2 | 17 | 36 |
 
 # Shown Order
 
@@ -3523,3 +3523,4 @@
 - **Apr 08, 03:37 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 03:39 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 08, 03:53 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 08, 04:09 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
