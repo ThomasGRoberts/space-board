@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 6 | 6 |
-| spacenews | 15 | 17 | 26 | 46 |
+| spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 16 | 34 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -3491,3 +3491,4 @@
 - **Apr 08, 12:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 12:21 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 08, 12:35 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
+- **Apr 08, 12:49 AM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
