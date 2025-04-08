@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 20 | 25 | 29 | 51 |
+| spacenews | 21 | 26 | 30 | 52 |
 | nyt | 1 | 1 | 14 | 34 |
 | breaking_defense | 3 | 3 | 16 | 36 |
 | aidy | 1 | 2 | 15 | 34 |
@@ -3548,3 +3548,4 @@
 - **Apr 08, 11:59 AM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
 - **Apr 08, 12:15 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 08, 12:29 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
+- **Apr 08, 12:43 PM** - To build new weather satellite instruments, L3Harris opts for automated manufacturing (spacenews)

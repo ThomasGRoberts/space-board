@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "247e4ae9689b761b4326c33fc98fa187",
+    "trigger_count": 0,
+    "current_item_id": "806ef88d23d137cd20a0ca14c2d62ad1",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8965,6 +8965,18 @@
             "fetched_datetime": "2025-04-08T11:59:48.570390Z",
             "shown_at": [
                 "2025-04-08T11:59:49.573818Z"
+            ]
+        },
+        {
+            "id": "806ef88d23d137cd20a0ca14c2d62ad1",
+            "source": "spacenews",
+            "text": "To build new weather satellite instruments, L3Harris opts for automated manufacturing",
+            "source_link": "https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T12:43:55.188930Z",
+            "shown_at": [
+                "2025-04-08T12:43:55.792615Z"
             ]
         }
     ]
