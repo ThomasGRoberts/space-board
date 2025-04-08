@@ -5,7 +5,7 @@
 | spacenews | 18 | 21 | 28 | 49 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 17 | 37 |
-| aidy | 1 | 2 | 14 | 34 |
+| aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -3533,3 +3533,4 @@
 - **Apr 08, 09:45 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 09:59 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 08, 10:15 AM** - Boeing’s bet: supercharge satellite production (spacenews)
+- **Apr 08, 10:29 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
