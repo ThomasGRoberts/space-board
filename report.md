@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 21 | 24 | 30 | 51 |
-| nyt | 1 | 1 | 14 | 33 |
-| breaking_defense | 3 | 3 | 16 | 36 |
+| nyt | 1 | 1 | 15 | 34 |
+| breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 14 | 34 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -3544,3 +3544,4 @@
 - **Apr 08, 11:14 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 11:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 08, 11:31 AM** - Space Force to revamp training for a new era of space conflict (spacenews)
+- **Apr 08, 11:45 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
