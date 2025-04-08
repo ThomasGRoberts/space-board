@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 15 | 35 |
 | breaking_defense | 3 | 3 | 17 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3503,3 +3503,4 @@
 - **Apr 08, 05:19 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 08, 05:33 AM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
 - **Apr 08, 06:47 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 06:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
