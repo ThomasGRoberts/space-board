@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 | spacenews | 14 | 17 | 27 | 48 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
@@ -3525,3 +3525,4 @@
 - **Apr 08, 03:53 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 08, 04:09 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 08, 04:23 AM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)
+- **Apr 08, 04:37 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
