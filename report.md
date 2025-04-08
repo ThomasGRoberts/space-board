@@ -5,7 +5,7 @@
 | spacenews | 15 | 18 | 26 | 47 |
 | nyt | 1 | 1 | 15 | 35 |
 | breaking_defense | 3 | 3 | 17 | 37 |
-| aidy | 1 | 1 | 15 | 34 |
+| aidy | 2 | 2 | 16 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -3509,3 +3509,4 @@
 - **Apr 08, 06:55 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 07:09 AM** - Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations (spacenews)
 - **Apr 08, 07:23 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
+- **Apr 08, 07:37 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "450c9518a9e62515f97b042d21e45021",
+    "trigger_count": 0,
+    "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8838,6 +8838,18 @@
             "fetched_datetime": "2025-04-08T07:09:31.408312Z",
             "shown_at": [
                 "2025-04-08T07:09:31.988627Z"
+            ]
+        },
+        {
+            "id": "72cdb6633c87a4fea29311e78cbe94c5",
+            "source": "aidy",
+            "text": "FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T07:37:34.789223Z",
+            "shown_at": [
+                "2025-04-08T07:37:35.478381Z"
             ]
         }
     ]
