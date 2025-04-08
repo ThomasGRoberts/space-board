@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 | spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 18 | 36 |
@@ -3492,3 +3492,4 @@
 - **Apr 08, 12:21 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 08, 12:35 AM** - FCC Launches Deregulation Initiative Amid Expanded NASA Safety Review (aidy)
 - **Apr 08, 12:49 AM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
+- **Apr 08, 01:03 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
