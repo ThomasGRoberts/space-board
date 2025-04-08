@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 2,
-    "current_item_id": "aec1bd1e31e2e8ca874281b7d37f3956",
+    "trigger_count": 3,
+    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8810,17 +8810,17 @@
             ]
         },
         {
-            "id": "aec1bd1e31e2e8ca874281b7d37f3956",
+            "id": "110293b72efbc6c3cf4f5a3972811451",
             "source": "supercluster",
-            "text": "Russia Will Launch Crew to the International Space Station",
-            "source_link": "https://www.supercluster.com/launches/soyuz-ms-27",
+            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-08T05:47:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-08T06:45:40.586708Z",
+            "target_datetime": "2025-04-09T23:00:00.000Z",
+            "time_remaining": "1d 16h 12m",
+            "fetched_datetime": "2025-04-08T06:47:26.211014Z",
             "shown_at": [
-                "2025-04-08T06:45:41.094684Z"
+                "2025-04-08T06:47:26.792020Z"
             ]
         }
     ]
