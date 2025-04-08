@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 17 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -3524,3 +3524,4 @@
 - **Apr 08, 09:03 AM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
 - **Apr 08, 09:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 09:19 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 09:21 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
