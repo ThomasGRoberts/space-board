@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 | spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 16 | 34 |
-| breaking_defense | 3 | 3 | 18 | 37 |
+| breaking_defense | 3 | 3 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 35 |
 
 # Shown Order
@@ -3503,3 +3503,4 @@
 - **Apr 08, 01:31 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 08, 01:45 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
 - **Apr 08, 01:59 AM** - Golden Dome: who and what should it defend? (spacenews)
+- **Apr 08, 02:13 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
