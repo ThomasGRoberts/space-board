@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 21 | 26 | 30 | 52 |
 | nyt | 1 | 1 | 14 | 33 |
-| breaking_defense | 3 | 3 | 16 | 36 |
+| breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 14 | 34 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -3550,3 +3550,4 @@
 - **Apr 08, 12:29 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 08, 12:43 PM** - To build new weather satellite instruments, L3Harris opts for automated manufacturing (spacenews)
 - **Apr 08, 12:58 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 01:02 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
