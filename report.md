@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 20 | 27 | 48 |
+| spacenews | 18 | 21 | 28 | 49 |
 | nyt | 1 | 1 | 15 | 35 |
 | breaking_defense | 3 | 3 | 17 | 37 |
-| aidy | 1 | 2 | 15 | 34 |
+| aidy | 1 | 2 | 14 | 34 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -3532,3 +3532,4 @@
 - **Apr 08, 09:31 AM** - Geopolitical shifts accelerate demand for Starlink alternatives (spacenews)
 - **Apr 08, 09:45 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 09:59 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
+- **Apr 08, 10:15 AM** - Boeing’s bet: supercharge satellite production (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20cc007eafa4b5e564ba39b192521675",
+    "trigger_count": 0,
+    "current_item_id": "2e961a26c27add7969b003b5659bfbe4",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8894,6 +8894,18 @@
             "fetched_datetime": "2025-04-08T09:31:57.784396Z",
             "shown_at": [
                 "2025-04-08T09:31:58.346296Z"
+            ]
+        },
+        {
+            "id": "2e961a26c27add7969b003b5659bfbe4",
+            "source": "spacenews",
+            "text": "Boeing’s bet: supercharge satellite production",
+            "source_link": "https://spacenews.com/boeings-bet-supercharge-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T10:15:37.252727Z",
+            "shown_at": [
+                "2025-04-08T10:15:37.846255Z"
             ]
         }
     ]
