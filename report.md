@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 21 | 27 | 49 |
+| spacenews | 19 | 22 | 28 | 50 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -3534,3 +3534,4 @@
 - **Apr 08, 09:59 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 08, 10:15 AM** - Boeing’s bet: supercharge satellite production (spacenews)
 - **Apr 08, 10:29 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
+- **Apr 08, 10:45 AM** - Aitech unveils IQSat, a picosatellite for AI applications (spacenews)

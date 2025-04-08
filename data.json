@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "247e4ae9689b761b4326c33fc98fa187",
+    "trigger_count": 0,
+    "current_item_id": "91cc08d89ebc6350ed251237b86c4eb9",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8907,6 +8907,18 @@
             "fetched_datetime": "2025-04-08T10:15:37.252727Z",
             "shown_at": [
                 "2025-04-08T10:15:37.846255Z"
+            ]
+        },
+        {
+            "id": "91cc08d89ebc6350ed251237b86c4eb9",
+            "source": "spacenews",
+            "text": "Aitech unveils IQSat, a picosatellite for AI applications",
+            "source_link": "https://spacenews.com/aitech-unveils-iqsat-a-picosatellite-for-ai-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T10:45:32.245876Z",
+            "shown_at": [
+                "2025-04-08T10:45:32.819537Z"
             ]
         }
     ]
