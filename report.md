@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 18 | 26 | 47 |
+| spacenews | 16 | 19 | 27 | 48 |
 | nyt | 1 | 1 | 15 | 35 |
 | breaking_defense | 3 | 3 | 17 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
@@ -3521,3 +3521,4 @@
 - **Apr 08, 08:21 AM** - FCC moves to update satellite power limits amid push for adaptive regulations (spacenews)
 - **Apr 08, 08:35 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 08, 08:49 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 08, 09:03 AM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)

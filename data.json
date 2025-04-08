@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7386a73104960179c6bbd7c7a349708f",
+    "trigger_count": 0,
+    "current_item_id": "12a9a8693805230d757f93a9d582a48a",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8861,6 +8861,18 @@
             "fetched_datetime": "2025-04-08T07:37:34.789223Z",
             "shown_at": [
                 "2025-04-08T07:37:35.478381Z"
+            ]
+        },
+        {
+            "id": "12a9a8693805230d757f93a9d582a48a",
+            "source": "spacenews",
+            "text": "Starlink’s rise in the defense market forces industry to adapt",
+            "source_link": "https://spacenews.com/starlink-pushes-rivals-to-rethink-military-comms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T09:03:41.649849Z",
+            "shown_at": [
+                "2025-04-08T09:03:42.300400Z"
             ]
         }
     ]
