@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 | spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 18 | 36 |
@@ -3494,3 +3494,4 @@
 - **Apr 08, 12:49 AM** - Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications (spacenews)
 - **Apr 08, 01:03 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 01:05 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 08, 01:07 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
