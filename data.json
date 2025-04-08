@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b6291cbc77103b9c5e6f9e1b78349f26",
+    "trigger_count": 0,
+    "current_item_id": "8ef38f40a5efcf5dfe3e51bb84e46df6",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8825,6 +8825,18 @@
                 "2025-04-08T06:49:41.411511Z",
                 "2025-04-08T06:51:32.647653Z",
                 "2025-04-08T06:53:09.098349Z"
+            ]
+        },
+        {
+            "id": "8ef38f40a5efcf5dfe3e51bb84e46df6",
+            "source": "spacenews",
+            "text": "Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations",
+            "source_link": "https://spacenews.com/bluestaq-expands-globally-with-50m-from-one-bow-river-launches-uk-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T07:09:31.408312Z",
+            "shown_at": [
+                "2025-04-08T07:09:31.988627Z"
             ]
         }
     ]
