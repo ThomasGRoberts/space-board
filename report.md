@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 13 | 13 |
-| spacenews | 15 | 17 | 26 | 46 |
+| spacenews | 15 | 17 | 27 | 47 |
 | nyt | 1 | 1 | 16 | 34 |
 | breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 35 |
@@ -3502,3 +3502,4 @@
 - **Apr 08, 01:17 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 01:31 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 08, 01:45 AM** - Senate Funding Bill May Cut NASA Programs, Impacting Artemis Missions and Space Partnerships (aidy)
+- **Apr 08, 01:59 AM** - Golden Dome: who and what should it defend? (spacenews)
