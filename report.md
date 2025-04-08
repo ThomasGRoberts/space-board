@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 18 | 26 | 47 |
 | nyt | 1 | 1 | 15 | 35 |
-| breaking_defense | 3 | 3 | 17 | 36 |
+| breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -3508,3 +3508,4 @@
 - **Apr 08, 06:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 06:55 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 07:09 AM** - Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations (spacenews)
+- **Apr 08, 07:23 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
