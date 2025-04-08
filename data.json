@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "58e94a5465fb4cbf4a858acf84f2cd9e",
+    "trigger_count": 0,
+    "current_item_id": "cd3407e76b1db812eb352014c1d7c41f",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -9015,9 +9015,12 @@
             "source": "spacenews",
             "text": "How Space Systems Command is navigating change",
             "source_link": "https://spacenews.com/how-space-systems-command-is-navigating-change/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631901Z"
+            "fetched_datetime": "2025-04-08T13:15:36.631901Z",
+            "shown_at": [
+                "2025-04-08T13:53:29.310252Z"
+            ]
         }
     ]
 }

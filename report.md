@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 21 | 29 | 29 | 53 |
+| spacenews | 21 | 29 | 30 | 54 |
 | nyt | 1 | 1 | 14 | 33 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 14 | 33 |
@@ -3558,3 +3558,4 @@
 - **Apr 08, 01:13 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 01:15 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
 - **Apr 08, 01:29 PM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
+- **Apr 08, 01:53 PM** - How Space Systems Command is navigating change (spacenews)
