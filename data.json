@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4cabb41bfb766bd79843ef1415fc0441",
+    "trigger_count": 0,
+    "current_item_id": "66db5a8773934755d2bc5e3a936f55fe",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -9039,9 +9039,12 @@
             "source": "spacenews",
             "text": "GITAI creates US defense subsidiary to chase prime government contracts",
             "source_link": "https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621939Z"
+            "fetched_datetime": "2025-04-08T15:26:44.621939Z",
+            "shown_at": [
+                "2025-04-08T16:58:10.619098Z"
+            ]
         },
         {
             "id": "571300816217fe8f01f1de6bc620b402",
