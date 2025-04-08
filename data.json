@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "66db5a8773934755d2bc5e3a936f55fe",
+    "trigger_count": 0,
+    "current_item_id": "e66c39355ccae663361c4e8a514d9983",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -9072,6 +9072,15 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-04-08T15:26:44.622056Z"
+        },
+        {
+            "id": "e66c39355ccae663361c4e8a514d9983",
+            "source": "breaking_defense",
+            "text": "‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators",
+            "source_link": "https://breakingdefense.com/2025/04/hell-of-a-body-blow-ukraine-shift-may-stir-market-headwinds-for-us-sar-sat-operators/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T18:58:43.393059Z"
         }
     ]
 }
