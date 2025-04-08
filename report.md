@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 | spacenews | 14 | 17 | 26 | 47 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 18 | 37 |
@@ -3520,3 +3520,4 @@
 - **Apr 08, 03:31 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 03:33 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 03:35 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
+- **Apr 08, 03:37 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
