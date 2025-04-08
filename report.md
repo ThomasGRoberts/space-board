@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 28 | 28 | 52 |
+| spacenews | 23 | 33 | 29 | 53 |
 | nyt | 1 | 1 | 13 | 31 |
 | breaking_defense | 1 | 3 | 14 | 34 |
 | aidy | 1 | 2 | 13 | 32 |
@@ -3559,3 +3559,4 @@
 - **Apr 08, 01:15 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
 - **Apr 08, 01:29 PM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 08, 01:53 PM** - How Space Systems Command is navigating change (spacenews)
+- **Apr 08, 03:26 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)

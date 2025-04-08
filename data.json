@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd3407e76b1db812eb352014c1d7c41f",
+    "trigger_count": 0,
+    "current_item_id": "4cabb41bfb766bd79843ef1415fc0441",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -9021,6 +9021,54 @@
             "shown_at": [
                 "2025-04-08T13:53:29.310252Z"
             ]
+        },
+        {
+            "id": "4cabb41bfb766bd79843ef1415fc0441",
+            "source": "spacenews",
+            "text": "Space nuclear power poised for breakthroughs — if NASA and DoD stay committed",
+            "source_link": "https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621886Z",
+            "shown_at": [
+                "2025-04-08T15:26:45.373823Z"
+            ]
+        },
+        {
+            "id": "66db5a8773934755d2bc5e3a936f55fe",
+            "source": "spacenews",
+            "text": "GITAI creates US defense subsidiary to chase prime government contracts",
+            "source_link": "https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621939Z"
+        },
+        {
+            "id": "571300816217fe8f01f1de6bc620b402",
+            "source": "spacenews",
+            "text": "Lunar lander operators cite  growing demand beyond NASA",
+            "source_link": "https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621985Z"
+        },
+        {
+            "id": "21f2d9fd0ed79feb25d5c252255af891",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies introduces new reaction wheel",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.622021Z"
+        },
+        {
+            "id": "4cea0ea2c84b6699a06e72266cbbfb69",
+            "source": "spacenews",
+            "text": "GomSpace and Neuraspace partner to advance satellite collision avoidance",
+            "source_link": "https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.622056Z"
         }
     ]
 }
