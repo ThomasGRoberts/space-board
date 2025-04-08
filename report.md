@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 20 | 25 | 29 | 51 |
 | nyt | 1 | 1 | 15 | 34 |
-| breaking_defense | 3 | 3 | 16 | 35 |
-| aidy | 1 | 2 | 14 | 34 |
+| breaking_defense | 3 | 3 | 17 | 36 |
+| aidy | 1 | 2 | 14 | 33 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -3546,3 +3546,4 @@
 - **Apr 08, 11:31 AM** - Space Force to revamp training for a new era of space conflict (spacenews)
 - **Apr 08, 11:45 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 08, 11:59 AM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
+- **Apr 08, 12:15 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
