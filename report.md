@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 20 | 20 |
 | spacenews | 15 | 17 | 27 | 46 |
 | nyt | 1 | 1 | 16 | 35 |
-| breaking_defense | 3 | 3 | 17 | 36 |
+| breaking_defense | 3 | 3 | 18 | 37 |
 | aidy | 1 | 2 | 16 | 34 |
 
 # Shown Order
@@ -3511,3 +3511,4 @@
 - **Apr 08, 02:23 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 02:25 AM** - Russia Will Launch Crew to the International Space Station (supercluster)
 - **Apr 08, 02:27 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 08, 02:41 AM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
