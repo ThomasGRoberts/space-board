@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b6291cbc77103b9c5e6f9e1b78349f26",
+    "trigger_count": 0,
+    "current_item_id": "907da969e3fea6b540bd292feb968c53",
     "data": [
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
@@ -8951,6 +8951,18 @@
             "fetched_datetime": "2025-04-08T11:31:50.326768Z",
             "shown_at": [
                 "2025-04-08T11:31:51.138799Z"
+            ]
+        },
+        {
+            "id": "907da969e3fea6b540bd292feb968c53",
+            "source": "spacenews",
+            "text": "NASA developing options for agency restructuring in “unsettling” environment",
+            "source_link": "https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T11:59:48.570390Z",
+            "shown_at": [
+                "2025-04-08T11:59:49.573818Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 20 | 24 | 29 | 51 |
+| spacenews | 21 | 25 | 30 | 52 |
 | nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 3 | 3 | 16 | 35 |
 | aidy | 1 | 2 | 14 | 34 |
@@ -3545,3 +3545,4 @@
 - **Apr 08, 11:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 08, 11:31 AM** - Space Force to revamp training for a new era of space conflict (spacenews)
 - **Apr 08, 11:45 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 08, 11:59 AM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
