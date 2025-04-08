@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 18 | 26 | 47 |
-| nyt | 1 | 1 | 15 | 34 |
+| nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 3 | 3 | 17 | 37 |
 | aidy | 1 | 2 | 15 | 35 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -3517,3 +3517,4 @@
 - **Apr 08, 07:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 08:02 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 08, 08:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 08, 08:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
