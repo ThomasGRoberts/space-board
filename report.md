@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 14 | 34 |
 | breaking_defense | 3 | 3 | 17 | 36 |
 | aidy | 1 | 2 | 15 | 35 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -3535,3 +3535,4 @@
 - **Apr 08, 10:15 AM** - Boeing’s bet: supercharge satellite production (spacenews)
 - **Apr 08, 10:29 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 08, 10:45 AM** - Aitech unveils IQSat, a picosatellite for AI applications (spacenews)
+- **Apr 08, 10:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
