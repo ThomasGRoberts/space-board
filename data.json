@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
+    "trigger_count": 0,
+    "current_item_id": "355bc2a2b924cb985f9b36d243fb8eb7",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9274,6 +9274,18 @@
             "fetched_datetime": "2025-04-09T14:02:07.142774Z",
             "shown_at": [
                 "2025-04-09T14:02:08.230322Z"
+            ]
+        },
+        {
+            "id": "355bc2a2b924cb985f9b36d243fb8eb7",
+            "source": "spacenews",
+            "text": "The continued momentum of Artemis",
+            "source_link": "https://spacenews.com/the-continued-momentum-of-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T15:01:46.604866Z",
+            "shown_at": [
+                "2025-04-09T15:01:47.169905Z"
             ]
         }
     ]

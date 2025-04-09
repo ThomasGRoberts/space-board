@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 13 | 27 |
-| spacenews | 11 | 32 | 17 | 47 |
+| spacenews | 12 | 33 | 18 | 48 |
 | aidy | 1 | 2 | 10 | 23 |
 | supercluster | 0 | 1 | 63 | 95 |
 | nyt | 1 | 2 | 10 | 23 |
@@ -3659,3 +3659,4 @@
 - **Apr 09, 02:17 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 09, 02:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 02:47 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 09, 03:01 PM** - The continued momentum of Artemis (spacenews)
