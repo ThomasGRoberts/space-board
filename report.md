@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 11 | 28 |
-| spacenews | 15 | 33 | 20 | 48 |
+| spacenews | 16 | 34 | 21 | 49 |
 | aidy | 1 | 2 | 8 | 23 |
 | supercluster | 0 | 1 | 56 | 74 |
 | nyt | 1 | 2 | 8 | 23 |
@@ -3624,3 +3624,4 @@
 - **Apr 09, 09:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 10:11 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
 - **Apr 09, 10:25 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 09, 10:39 AM** - Seeing the light: Cubesats share optical data (spacenews)

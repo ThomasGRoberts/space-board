@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b6291cbc77103b9c5e6f9e1b78349f26",
+    "trigger_count": 0,
+    "current_item_id": "d22645db8e1ddcaeaf19daa8a01cb458",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9195,6 +9195,18 @@
             "fetched_datetime": "2025-04-09T10:11:41.972064Z",
             "shown_at": [
                 "2025-04-09T10:11:42.542011Z"
+            ]
+        },
+        {
+            "id": "d22645db8e1ddcaeaf19daa8a01cb458",
+            "source": "spacenews",
+            "text": "Seeing the light: Cubesats share optical data",
+            "source_link": "https://spacenews.com/seeing-the-light-cubesats-share-optical-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T10:39:39.561532Z",
+            "shown_at": [
+                "2025-04-09T10:39:40.057792Z"
             ]
         }
     ]
