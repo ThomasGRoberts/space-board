@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 10 | 28 |
 | spacenews | 18 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 7 | 23 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 | nyt | 0 | 1 | 7 | 23 |
 
 # Shown Order
@@ -3558,3 +3558,4 @@
 - **Apr 09, 02:49 AM** - Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector (spacenews)
 - **Apr 09, 03:03 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 09, 03:17 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 09, 03:31 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
