@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 10 | 28 |
+| breaking_defense | 4 | 7 | 11 | 29 |
 | spacenews | 18 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -3565,3 +3565,4 @@
 - **Apr 09, 03:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 03:41 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 03:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 03:45 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
