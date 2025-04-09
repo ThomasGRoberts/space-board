@@ -5,7 +5,7 @@
 | breaking_defense | 5 | 6 | 15 | 28 |
 | spacenews | 9 | 30 | 18 | 44 |
 | aidy | 1 | 2 | 11 | 24 |
-| supercluster | 0 | 1 | 70 | 102 |
+| supercluster | 0 | 1 | 71 | 103 |
 | nyt | 2 | 3 | 12 | 24 |
 
 # Shown Order
@@ -3674,3 +3674,4 @@
 - **Apr 09, 04:27 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 04:41 PM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 09, 04:55 PM** - Space Force to roll out strategy for international collaboration (spacenews)
+- **Apr 09, 05:09 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
