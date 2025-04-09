@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 11 | 27 |
+| breaking_defense | 4 | 7 | 12 | 28 |
 | spacenews | 15 | 35 | 20 | 49 |
 | aidy | 1 | 2 | 8 | 23 |
 | supercluster | 0 | 1 | 56 | 81 |
@@ -3633,3 +3633,4 @@
 - **Apr 09, 11:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 11:07 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 11:09 AM** - Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way (spacenews)
+- **Apr 09, 11:23 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
