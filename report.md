@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 10 | 28 |
 | spacenews | 18 | 32 | 21 | 48 |
-| aidy | 1 | 2 | 6 | 22 |
+| aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 46 | 46 |
 | nyt | 1 | 2 | 7 | 23 |
 
@@ -3579,3 +3579,4 @@
 - **Apr 09, 04:55 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
 - **Apr 09, 05:09 AM** - Fram2 completes polar orbit private astronaut mission (spacenews)
 - **Apr 09, 05:23 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
+- **Apr 09, 05:37 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
