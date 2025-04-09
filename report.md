@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 17 | 27 |
-| spacenews | 12 | 30 | 22 | 44 |
+| spacenews | 13 | 31 | 23 | 45 |
 | aidy | 1 | 2 | 13 | 23 |
 | supercluster | 0 | 1 | 91 | 123 |
 | nyt | 3 | 4 | 15 | 25 |
@@ -3706,3 +3706,4 @@
 - **Apr 09, 08:25 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 08:27 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 08:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 08:31 PM** - Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies (spacenews)
