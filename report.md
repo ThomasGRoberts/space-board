@@ -6,7 +6,7 @@
 | spacenews | 18 | 32 | 22 | 48 |
 | aidy | 1 | 2 | 6 | 22 |
 | supercluster | 1 | 1 | 39 | 39 |
-| nyt | 0 | 1 | 6 | 22 |
+| nyt | 1 | 2 | 7 | 23 |
 
 # Shown Order
 
@@ -3567,3 +3567,4 @@
 - **Apr 09, 03:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 03:45 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 09, 03:59 AM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
+- **Apr 09, 04:13 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
