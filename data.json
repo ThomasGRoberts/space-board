@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4cea0ea2c84b6699a06e72266cbbfb69",
+    "trigger_count": 0,
+    "current_item_id": "1414feda64893076cf315bf54e2a204e",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9041,6 +9041,36 @@
                 "2025-02-20T05:51:33.607086Z",
                 "2025-02-23T08:27:36.220127Z"
             ]
+        },
+        {
+            "id": "1414feda64893076cf315bf54e2a204e",
+            "source": "breaking_defense",
+            "text": "New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators",
+            "source_link": "https://breakingdefense.com/2025/04/new-space-force-orbital-watch-initiative-to-share-threat-info-with-commercial-operators/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637135Z",
+            "shown_at": [
+                "2025-04-09T01:37:33.190171Z"
+            ]
+        },
+        {
+            "id": "6f27e41e713a04e1ee3ee3c0616a98f0",
+            "source": "breaking_defense",
+            "text": "Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head",
+            "source_link": "https://breakingdefense.com/2025/04/time-for-space-force-to-clearly-say-it-needs-weapons-in-space-spacecom-head/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637176Z"
+        },
+        {
+            "id": "96df7d4bb06735cf95dee0ecb331eadf",
+            "source": "breaking_defense",
+            "text": "SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites",
+            "source_link": "https://breakingdefense.com/2025/04/sda-opens-contest-for-54-tranche-3-missile-tracking-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637202Z"
         }
     ]
 }
