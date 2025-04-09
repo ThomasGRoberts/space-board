@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 10 | 27 |
+| breaking_defense | 4 | 7 | 11 | 28 |
 | spacenews | 17 | 32 | 21 | 48 |
 | aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -3554,3 +3554,4 @@
 - **Apr 09, 01:53 AM** - RTX’s Blue Canyon Technologies introduces new reaction wheel (spacenews)
 - **Apr 09, 02:07 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 09, 02:21 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
+- **Apr 09, 02:35 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)

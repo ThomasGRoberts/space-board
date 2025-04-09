@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "571300816217fe8f01f1de6bc620b402",
+    "trigger_count": 0,
+    "current_item_id": "96df7d4bb06735cf95dee0ecb331eadf",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9077,9 +9077,12 @@
             "source": "breaking_defense",
             "text": "SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites",
             "source_link": "https://breakingdefense.com/2025/04/sda-opens-contest-for-54-tranche-3-missile-tracking-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-09T01:37:32.637202Z"
+            "fetched_datetime": "2025-04-09T01:37:32.637202Z",
+            "shown_at": [
+                "2025-04-09T02:35:51.118616Z"
+            ]
         }
     ]
 }
