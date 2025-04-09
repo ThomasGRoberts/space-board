@@ -6,7 +6,7 @@
 | spacenews | 18 | 32 | 22 | 48 |
 | aidy | 1 | 2 | 7 | 22 |
 | supercluster | 1 | 1 | 53 | 53 |
-| nyt | 1 | 2 | 7 | 22 |
+| nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
 
@@ -3589,3 +3589,4 @@
 - **Apr 09, 06:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 06:05 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 09, 06:19 AM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
+- **Apr 09, 06:33 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
