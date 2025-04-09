@@ -6,7 +6,7 @@
 | spacenews | 9 | 30 | 18 | 44 |
 | aidy | 1 | 2 | 12 | 24 |
 | supercluster | 0 | 1 | 77 | 109 |
-| nyt | 2 | 3 | 12 | 24 |
+| nyt | 2 | 3 | 13 | 25 |
 
 # Shown Order
 
@@ -3682,3 +3682,4 @@
 - **Apr 09, 05:19 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 05:21 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 05:23 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 09, 05:37 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
