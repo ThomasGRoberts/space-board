@@ -6,7 +6,7 @@
 | spacenews | 10 | 32 | 18 | 47 |
 | aidy | 1 | 2 | 9 | 23 |
 | supercluster | 0 | 1 | 56 | 88 |
-| nyt | 1 | 2 | 8 | 22 |
+| nyt | 1 | 2 | 9 | 23 |
 
 # Shown Order
 
@@ -3647,3 +3647,4 @@
 - **Apr 09, 12:35 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 09, 12:57 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 09, 01:15 PM** - Startups are preparing for the launch of space-based solar power (spacenews)
+- **Apr 09, 01:29 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
