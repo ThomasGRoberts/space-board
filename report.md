@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 5 | 17 | 26 |
+| breaking_defense | 4 | 5 | 18 | 27 |
 | spacenews | 14 | 32 | 24 | 45 |
 | aidy | 1 | 2 | 14 | 24 |
 | supercluster | 0 | 1 | 91 | 123 |
@@ -3710,3 +3710,4 @@
 - **Apr 09, 08:45 PM** - Space alliances hold strong despite broader geopolitical tensions (spacenews)
 - **Apr 09, 08:59 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 09:13 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 09, 09:27 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
