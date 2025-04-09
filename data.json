@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "bbd6bcd8cf0a49c59b69a9c613a6b63d",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9259,6 +9259,18 @@
             "fetched_datetime": "2025-04-09T13:15:36.104552Z",
             "shown_at": [
                 "2025-04-09T13:15:37.506503Z"
+            ]
+        },
+        {
+            "id": "bbd6bcd8cf0a49c59b69a9c613a6b63d",
+            "source": "spacenews",
+            "text": "China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions",
+            "source_link": "https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T14:02:07.142774Z",
+            "shown_at": [
+                "2025-04-09T14:02:08.230322Z"
             ]
         }
     ]

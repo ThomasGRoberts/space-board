@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 12 | 28 |
-| spacenews | 10 | 31 | 16 | 46 |
+| spacenews | 11 | 32 | 17 | 47 |
 | aidy | 1 | 2 | 9 | 23 |
 | supercluster | 0 | 1 | 63 | 95 |
 | nyt | 1 | 2 | 9 | 23 |
@@ -3655,3 +3655,4 @@
 - **Apr 09, 01:55 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 01:57 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 01:59 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 02:02 PM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
