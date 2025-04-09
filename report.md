@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 11 | 28 |
+| breaking_defense | 4 | 7 | 12 | 29 |
 | spacenews | 13 | 33 | 19 | 48 |
 | aidy | 1 | 2 | 8 | 23 |
 | supercluster | 0 | 1 | 63 | 88 |
@@ -3644,3 +3644,4 @@
 - **Apr 09, 12:15 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 12:17 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 12:19 PM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
+- **Apr 09, 12:35 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
