@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e56c4d64a77b42d486619ecb4f60ce4",
+    "trigger_count": 0,
+    "current_item_id": "b7783388c4ab292aa409ad91ba8b4ffb",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9432,6 +9432,18 @@
             "fetched_datetime": "2025-04-09T20:31:41.973352Z",
             "shown_at": [
                 "2025-04-09T20:31:42.815068Z"
+            ]
+        },
+        {
+            "id": "b7783388c4ab292aa409ad91ba8b4ffb",
+            "source": "spacenews",
+            "text": "Space alliances hold strong despite broader geopolitical tensions",
+            "source_link": "https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T20:45:49.281444Z",
+            "shown_at": [
+                "2025-04-09T20:45:50.479962Z"
             ]
         }
     ]
