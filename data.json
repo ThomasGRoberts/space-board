@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "a8fa3cc522c0ea59a8dfa1eda26acacf",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9466,6 +9466,27 @@
             "shown_at": [
                 "2025-04-09T21:13:21.480383Z"
             ]
+        },
+        {
+            "id": "a8fa3cc522c0ea59a8dfa1eda26acacf",
+            "source": "spacenews",
+            "text": "Space leaders emphasize collaboration amid geopolitical challenges",
+            "source_link": "https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:55:23.427848Z",
+            "shown_at": [
+                "2025-04-09T21:55:24.142010Z"
+            ]
+        },
+        {
+            "id": "381913a9f6e9ee5a1508f4f8c30a503f",
+            "source": "spacenews",
+            "text": "‘Everyone is doing AI’: Space sector urged to catch up",
+            "source_link": "https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:55:23.427914Z"
         }
     ]
 }
