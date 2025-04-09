@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 12 | 28 |
-| spacenews | 12 | 31 | 18 | 47 |
+| spacenews | 10 | 32 | 19 | 48 |
 | aidy | 1 | 2 | 9 | 23 |
-| supercluster | 0 | 1 | 58 | 88 |
+| supercluster | 0 | 1 | 56 | 88 |
 | nyt | 1 | 2 | 8 | 22 |
 
 # Shown Order
@@ -3646,3 +3646,4 @@
 - **Apr 09, 12:19 PM** - Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft (spacenews)
 - **Apr 09, 12:35 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 09, 12:57 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 09, 01:15 PM** - Startups are preparing for the launch of space-based solar power (spacenews)

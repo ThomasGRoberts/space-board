@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
+    "trigger_count": 0,
+    "current_item_id": "63cb6f1f0508a91883ed6162b8856a8f",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9239,6 +9239,18 @@
             "fetched_datetime": "2025-04-09T11:09:43.134992Z",
             "shown_at": [
                 "2025-04-09T11:09:44.352778Z"
+            ]
+        },
+        {
+            "id": "63cb6f1f0508a91883ed6162b8856a8f",
+            "source": "spacenews",
+            "text": "Startups are preparing for the launch of space-based solar power",
+            "source_link": "https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T13:15:36.104552Z",
+            "shown_at": [
+                "2025-04-09T13:15:37.506503Z"
             ]
         }
     ]
