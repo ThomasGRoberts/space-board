@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f27e41e713a04e1ee3ee3c0616a98f0",
+    "trigger_count": 0,
+    "current_item_id": "571300816217fe8f01f1de6bc620b402",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -45,9 +45,12 @@
             "source": "spacenews",
             "text": "Lunar lander operators cite  growing demand beyond NASA",
             "source_link": "https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621985Z"
+            "fetched_datetime": "2025-04-08T15:26:44.621985Z",
+            "shown_at": [
+                "2025-04-09T02:21:44.131124Z"
+            ]
         },
         {
             "id": "66db5a8773934755d2bc5e3a936f55fe",
