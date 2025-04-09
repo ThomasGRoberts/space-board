@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 11 | 28 |
 | spacenews | 15 | 34 | 20 | 48 |
 | aidy | 1 | 2 | 8 | 23 |
-| supercluster | 0 | 1 | 56 | 74 |
+| supercluster | 0 | 1 | 57 | 75 |
 | nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
@@ -3625,3 +3625,4 @@
 - **Apr 09, 10:11 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
 - **Apr 09, 10:25 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 09, 10:39 AM** - Seeing the light: Cubesats share optical data (spacenews)
+- **Apr 09, 10:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
