@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 6 | 15 | 28 |
-| spacenews | 10 | 31 | 19 | 44 |
+| spacenews | 11 | 32 | 20 | 45 |
 | aidy | 1 | 2 | 12 | 24 |
 | supercluster | 0 | 1 | 77 | 109 |
 | nyt | 2 | 3 | 13 | 24 |
@@ -3684,3 +3684,4 @@
 - **Apr 09, 05:23 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 05:37 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 05:51 PM** - Defense experts warn procurement bottlenecks risk U.S. space edge (spacenews)
+- **Apr 09, 06:05 PM** - Isaacman says NASA should pursue human moon and Mars programs simultaneously (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4c20689285a5fc5ff12169823f693b41",
+    "trigger_count": 0,
+    "current_item_id": "a207742b24d8f1573b35f196929a6c22",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9365,6 +9365,18 @@
             "fetched_datetime": "2025-04-09T17:51:29.185428Z",
             "shown_at": [
                 "2025-04-09T17:51:29.793350Z"
+            ]
+        },
+        {
+            "id": "a207742b24d8f1573b35f196929a6c22",
+            "source": "spacenews",
+            "text": "Isaacman says NASA should pursue human moon and Mars programs simultaneously",
+            "source_link": "https://spacenews.com/isaacman-says-nasa-should-pursue-human-moon-and-mars-programs-simultaneously/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T18:05:37.180116Z",
+            "shown_at": [
+                "2025-04-09T18:05:37.891876Z"
             ]
         }
     ]
