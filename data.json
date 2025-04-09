@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
+    "trigger_count": 0,
+    "current_item_id": "4c20689285a5fc5ff12169823f693b41",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9353,6 +9353,18 @@
             "fetched_datetime": "2025-04-09T16:55:27.534470Z",
             "shown_at": [
                 "2025-04-09T16:55:28.138057Z"
+            ]
+        },
+        {
+            "id": "4c20689285a5fc5ff12169823f693b41",
+            "source": "spacenews",
+            "text": "Defense experts warn procurement bottlenecks risk U.S. space edge",
+            "source_link": "https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T17:51:29.185428Z",
+            "shown_at": [
+                "2025-04-09T17:51:29.793350Z"
             ]
         }
     ]
