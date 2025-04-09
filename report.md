@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 17 | 27 |
 | spacenews | 14 | 32 | 24 | 46 |
-| aidy | 1 | 2 | 13 | 23 |
+| aidy | 1 | 2 | 14 | 24 |
 | supercluster | 0 | 1 | 91 | 123 |
 | nyt | 3 | 3 | 15 | 24 |
 
@@ -3708,3 +3708,4 @@
 - **Apr 09, 08:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 08:31 PM** - Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies (spacenews)
 - **Apr 09, 08:45 PM** - Space alliances hold strong despite broader geopolitical tensions (spacenews)
+- **Apr 09, 08:59 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
