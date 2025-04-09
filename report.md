@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 5 | 17 | 27 |
 | spacenews | 12 | 30 | 22 | 44 |
 | aidy | 1 | 2 | 13 | 24 |
-| supercluster | 0 | 1 | 86 | 118 |
+| supercluster | 0 | 1 | 87 | 119 |
 | nyt | 3 | 4 | 15 | 25 |
 
 # Shown Order
@@ -3701,3 +3701,4 @@
 - **Apr 09, 08:02 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 09, 08:17 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 08:19 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 08:22 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
