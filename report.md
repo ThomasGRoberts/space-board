@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 13 | 27 |
-| spacenews | 12 | 33 | 18 | 47 |
+| spacenews | 12 | 30 | 18 | 46 |
 | aidy | 1 | 2 | 10 | 23 |
 | supercluster | 0 | 1 | 63 | 95 |
-| nyt | 1 | 2 | 10 | 23 |
+| nyt | 2 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -3660,3 +3660,4 @@
 - **Apr 09, 02:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 02:47 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 03:01 PM** - The continued momentum of Artemis (spacenews)
+- **Apr 09, 03:17 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)

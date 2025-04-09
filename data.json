@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "355bc2a2b924cb985f9b36d243fb8eb7",
+    "trigger_count": 0,
+    "current_item_id": "edc2bc9d911102bb9c14d87cc6340ca9",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9286,6 +9286,18 @@
             "fetched_datetime": "2025-04-09T15:01:46.604866Z",
             "shown_at": [
                 "2025-04-09T15:01:47.169905Z"
+            ]
+        },
+        {
+            "id": "edc2bc9d911102bb9c14d87cc6340ca9",
+            "source": "nyt",
+            "text": "Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/moon-far-side-water-china.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T15:17:38.692430Z",
+            "shown_at": [
+                "2025-04-09T15:17:39.324288Z"
             ]
         }
     ]
