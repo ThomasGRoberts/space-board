@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf3a78381afd7c5414e6f7f18a1ecc48",
+    "trigger_count": 0,
+    "current_item_id": "3bb54cc052f94a6013348132e7b64172",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9307,6 +9307,18 @@
             "fetched_datetime": "2025-04-09T15:17:38.692430Z",
             "shown_at": [
                 "2025-04-09T15:17:39.324288Z"
+            ]
+        },
+        {
+            "id": "3bb54cc052f94a6013348132e7b64172",
+            "source": "spacenews",
+            "text": "Surge in NATO spending to benefit space sector",
+            "source_link": "https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T16:13:32.514083Z",
+            "shown_at": [
+                "2025-04-09T16:13:33.152652Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 14 | 28 |
-| spacenews | 7 | 29 | 17 | 43 |
+| spacenews | 8 | 30 | 18 | 44 |
 | aidy | 1 | 2 | 11 | 24 |
 | supercluster | 0 | 1 | 70 | 102 |
 | nyt | 2 | 3 | 11 | 24 |
@@ -3670,3 +3670,4 @@
 - **Apr 09, 03:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 03:45 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 09, 03:59 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
+- **Apr 09, 04:13 PM** - Surge in NATO spending to benefit space sector (spacenews)
