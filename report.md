@@ -6,7 +6,7 @@
 | spacenews | 14 | 32 | 24 | 45 |
 | aidy | 1 | 2 | 14 | 24 |
 | supercluster | 0 | 1 | 91 | 123 |
-| nyt | 3 | 3 | 15 | 24 |
+| nyt | 4 | 4 | 16 | 25 |
 
 # Shown Order
 
@@ -3709,3 +3709,4 @@
 - **Apr 09, 08:31 PM** - Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies (spacenews)
 - **Apr 09, 08:45 PM** - Space alliances hold strong despite broader geopolitical tensions (spacenews)
 - **Apr 09, 08:59 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 09, 09:13 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)

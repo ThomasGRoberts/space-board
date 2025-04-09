@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35b44693f1b6625d95a38e89c3f60cea",
+    "trigger_count": 0,
+    "current_item_id": "daa5d6663c6c977bf336caa099bf4e79",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9445,6 +9445,18 @@
             "fetched_datetime": "2025-04-09T20:45:49.281444Z",
             "shown_at": [
                 "2025-04-09T20:45:50.479962Z"
+            ]
+        },
+        {
+            "id": "daa5d6663c6c977bf336caa099bf4e79",
+            "source": "nyt",
+            "text": "Amazon to Launch First Project Kuiper Internet Satellites: What to Know",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:13:20.882496Z",
+            "shown_at": [
+                "2025-04-09T21:13:21.480383Z"
             ]
         }
     ]
