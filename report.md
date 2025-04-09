@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 11 | 28 |
 | spacenews | 17 | 32 | 22 | 47 |
 | aidy | 1 | 2 | 8 | 23 |
-| supercluster | 0 | 1 | 49 | 60 |
+| supercluster | 0 | 1 | 50 | 61 |
 | nyt | 1 | 2 | 7 | 23 |
 
 # Shown Order
@@ -3602,3 +3602,4 @@
 - **Apr 09, 07:29 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 07:43 AM** - Space Force missile-tracking “Foo Fighter” satellites clear design milestone (spacenews)
 - **Apr 09, 07:58 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 09, 08:16 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
