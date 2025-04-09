@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 5 | 13 | 27 |
-| spacenews | 7 | 30 | 17 | 46 |
+| spacenews | 7 | 30 | 17 | 45 |
 | aidy | 1 | 2 | 10 | 23 |
-| supercluster | 0 | 1 | 64 | 96 |
+| supercluster | 0 | 1 | 65 | 97 |
 | nyt | 2 | 3 | 11 | 24 |
 
 # Shown Order
@@ -3662,3 +3662,4 @@
 - **Apr 09, 03:01 PM** - The continued momentum of Artemis (spacenews)
 - **Apr 09, 03:17 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 09, 03:31 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 03:33 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
