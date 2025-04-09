@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 11 | 28 |
-| spacenews | 17 | 32 | 21 | 47 |
+| spacenews | 17 | 32 | 22 | 48 |
 | aidy | 1 | 2 | 8 | 23 |
 | supercluster | 0 | 1 | 56 | 60 |
 | nyt | 1 | 2 | 7 | 22 |
@@ -3600,3 +3600,4 @@
 - **Apr 09, 07:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 07:15 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 09, 07:29 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 09, 07:43 AM** - Space Force missile-tracking “Foo Fighter” satellites clear design milestone (spacenews)
