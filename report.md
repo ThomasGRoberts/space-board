@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 5 | 6 | 15 | 27 |
+| breaking_defense | 5 | 6 | 16 | 28 |
 | spacenews | 11 | 32 | 20 | 45 |
 | aidy | 1 | 2 | 12 | 24 |
 | supercluster | 0 | 1 | 77 | 109 |
@@ -3685,3 +3685,4 @@
 - **Apr 09, 05:37 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 05:51 PM** - Defense experts warn procurement bottlenecks risk U.S. space edge (spacenews)
 - **Apr 09, 06:05 PM** - Isaacman says NASA should pursue human moon and Mars programs simultaneously (spacenews)
+- **Apr 09, 06:19 PM** - Space Force’s Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
