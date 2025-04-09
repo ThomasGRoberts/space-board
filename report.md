@@ -6,7 +6,7 @@
 | spacenews | 14 | 35 | 19 | 49 |
 | aidy | 1 | 2 | 9 | 23 |
 | supercluster | 0 | 1 | 56 | 81 |
-| nyt | 1 | 2 | 7 | 22 |
+| nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
 
@@ -3635,3 +3635,4 @@
 - **Apr 09, 11:09 AM** - Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way (spacenews)
 - **Apr 09, 11:23 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
 - **Apr 09, 11:37 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
+- **Apr 09, 11:51 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
