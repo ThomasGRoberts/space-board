@@ -6,7 +6,7 @@
 | spacenews | 11 | 32 | 20 | 45 |
 | aidy | 1 | 2 | 13 | 24 |
 | supercluster | 0 | 1 | 84 | 116 |
-| nyt | 2 | 3 | 13 | 24 |
+| nyt | 2 | 3 | 14 | 25 |
 
 # Shown Order
 
@@ -3694,3 +3694,4 @@
 - **Apr 09, 06:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 06:45 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 06:47 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 09, 07:02 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
