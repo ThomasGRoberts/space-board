@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 13 | 28 |
 | spacenews | 11 | 32 | 17 | 47 |
-| aidy | 1 | 2 | 9 | 23 |
+| aidy | 1 | 2 | 10 | 24 |
 | supercluster | 0 | 1 | 63 | 95 |
 | nyt | 1 | 2 | 9 | 22 |
 
@@ -3657,3 +3657,4 @@
 - **Apr 09, 01:59 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 02:02 PM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
 - **Apr 09, 02:17 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
+- **Apr 09, 02:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
