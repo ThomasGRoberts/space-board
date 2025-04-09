@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 5 | 13 | 27 |
 | spacenews | 7 | 30 | 17 | 46 |
 | aidy | 1 | 2 | 10 | 23 |
-| supercluster | 0 | 1 | 63 | 95 |
+| supercluster | 0 | 1 | 64 | 96 |
 | nyt | 2 | 3 | 11 | 24 |
 
 # Shown Order
@@ -3661,3 +3661,4 @@
 - **Apr 09, 02:47 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 03:01 PM** - The continued momentum of Artemis (spacenews)
 - **Apr 09, 03:17 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
+- **Apr 09, 03:31 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
