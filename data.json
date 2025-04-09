@@ -1,9 +1,270 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-08T00:01:49.079347+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
+    "trigger_count": 4,
     "current_item_id": "e66c39355ccae663361c4e8a514d9983",
     "data": [
+        {
+            "id": "e66c39355ccae663361c4e8a514d9983",
+            "source": "breaking_defense",
+            "text": "‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators",
+            "source_link": "https://breakingdefense.com/2025/04/hell-of-a-body-blow-ukraine-shift-may-stir-market-headwinds-for-us-sar-sat-operators/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T18:58:43.393059Z"
+        },
+        {
+            "id": "4cea0ea2c84b6699a06e72266cbbfb69",
+            "source": "spacenews",
+            "text": "GomSpace and Neuraspace partner to advance satellite collision avoidance",
+            "source_link": "https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.622056Z"
+        },
+        {
+            "id": "21f2d9fd0ed79feb25d5c252255af891",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies introduces new reaction wheel",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.622021Z"
+        },
+        {
+            "id": "571300816217fe8f01f1de6bc620b402",
+            "source": "spacenews",
+            "text": "Lunar lander operators cite  growing demand beyond NASA",
+            "source_link": "https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621985Z"
+        },
+        {
+            "id": "66db5a8773934755d2bc5e3a936f55fe",
+            "source": "spacenews",
+            "text": "GITAI creates US defense subsidiary to chase prime government contracts",
+            "source_link": "https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621939Z",
+            "shown_at": [
+                "2025-04-08T16:58:10.619098Z"
+            ]
+        },
+        {
+            "id": "4cabb41bfb766bd79843ef1415fc0441",
+            "source": "spacenews",
+            "text": "Space nuclear power poised for breakthroughs — if NASA and DoD stay committed",
+            "source_link": "https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T15:26:44.621886Z",
+            "shown_at": [
+                "2025-04-08T15:26:45.373823Z"
+            ]
+        },
+        {
+            "id": "cd3407e76b1db812eb352014c1d7c41f",
+            "source": "spacenews",
+            "text": "How Space Systems Command is navigating change",
+            "source_link": "https://spacenews.com/how-space-systems-command-is-navigating-change/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T13:15:36.631901Z",
+            "shown_at": [
+                "2025-04-08T13:53:29.310252Z"
+            ]
+        },
+        {
+            "id": "58e94a5465fb4cbf4a858acf84f2cd9e",
+            "source": "spacenews",
+            "text": "Umbra to develop maritime surveillance satellites for U.S. military",
+            "source_link": "https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T13:15:36.631862Z",
+            "shown_at": [
+                "2025-04-08T13:29:49.131766Z"
+            ]
+        },
+        {
+            "id": "af78ce6d62e3bfb72ff1f445edb6d48a",
+            "source": "spacenews",
+            "text": "SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions",
+            "source_link": "https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T13:15:36.631809Z",
+            "shown_at": [
+                "2025-04-08T13:15:37.547878Z"
+            ]
+        },
+        {
+            "id": "806ef88d23d137cd20a0ca14c2d62ad1",
+            "source": "spacenews",
+            "text": "To build new weather satellite instruments, L3Harris opts for automated manufacturing",
+            "source_link": "https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T12:43:55.188930Z",
+            "shown_at": [
+                "2025-04-08T12:43:55.792615Z"
+            ]
+        },
+        {
+            "id": "907da969e3fea6b540bd292feb968c53",
+            "source": "spacenews",
+            "text": "NASA developing options for agency restructuring in “unsettling” environment",
+            "source_link": "https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T11:59:48.570390Z",
+            "shown_at": [
+                "2025-04-08T11:59:49.573818Z"
+            ]
+        },
+        {
+            "id": "103fac8c0cf312cc097e017278a685a8",
+            "source": "spacenews",
+            "text": "Space Force to revamp training for a new era of space conflict",
+            "source_link": "https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T11:31:50.326768Z",
+            "shown_at": [
+                "2025-04-08T11:31:51.138799Z"
+            ]
+        },
+        {
+            "id": "f12ef53732643518eee86886cca80e7a",
+            "source": "spacenews",
+            "text": "Artemis 2 preparations continue as doubts swirl around program’s future",
+            "source_link": "https://spacenews.com/artemis-2-preparations-continue-as-doubts-swirl-around-programs-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T11:17:32.625821Z",
+            "shown_at": [
+                "2025-04-08T11:17:33.193016Z"
+            ]
+        },
+        {
+            "id": "91cc08d89ebc6350ed251237b86c4eb9",
+            "source": "spacenews",
+            "text": "Aitech unveils IQSat, a picosatellite for AI applications",
+            "source_link": "https://spacenews.com/aitech-unveils-iqsat-a-picosatellite-for-ai-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T10:45:32.245876Z",
+            "shown_at": [
+                "2025-04-08T10:45:32.819537Z"
+            ]
+        },
+        {
+            "id": "2e961a26c27add7969b003b5659bfbe4",
+            "source": "spacenews",
+            "text": "Boeing’s bet: supercharge satellite production",
+            "source_link": "https://spacenews.com/boeings-bet-supercharge-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T10:15:37.252727Z",
+            "shown_at": [
+                "2025-04-08T10:15:37.846255Z"
+            ]
+        },
+        {
+            "id": "22086a13f07d3cf6981025ecfdef98f7",
+            "source": "spacenews",
+            "text": "Geopolitical shifts accelerate demand for Starlink alternatives",
+            "source_link": "https://spacenews.com/geopolitical-shifts-accelerate-demand-for-starlink-alternatives/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T09:31:57.784396Z",
+            "shown_at": [
+                "2025-04-08T09:31:58.346296Z"
+            ]
+        },
+        {
+            "id": "12a9a8693805230d757f93a9d582a48a",
+            "source": "spacenews",
+            "text": "Starlink’s rise in the defense market forces industry to adapt",
+            "source_link": "https://spacenews.com/starlink-pushes-rivals-to-rethink-military-comms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T09:03:41.649849Z",
+            "shown_at": [
+                "2025-04-08T09:03:42.300400Z"
+            ]
+        },
+        {
+            "id": "72cdb6633c87a4fea29311e78cbe94c5",
+            "source": "aidy",
+            "text": "FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T07:37:34.789223Z",
+            "shown_at": [
+                "2025-04-08T07:37:35.478381Z"
+            ]
+        },
+        {
+            "id": "8ef38f40a5efcf5dfe3e51bb84e46df6",
+            "source": "spacenews",
+            "text": "Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations",
+            "source_link": "https://spacenews.com/bluestaq-expands-globally-with-50m-from-one-bow-river-launches-uk-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-08T07:09:31.408312Z",
+            "shown_at": [
+                "2025-04-08T07:09:31.988627Z"
+            ]
+        },
+        {
+            "id": "110293b72efbc6c3cf4f5a3972811451",
+            "source": "supercluster",
+            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-09T23:00:00.000Z",
+            "time_remaining": "1d 09h 46m",
+            "fetched_datetime": "2025-04-08T06:47:26.211014Z",
+            "shown_at": [
+                "2025-04-08T06:47:26.792020Z",
+                "2025-04-08T06:49:41.411511Z",
+                "2025-04-08T06:51:32.647653Z",
+                "2025-04-08T06:53:09.098349Z",
+                "2025-04-08T07:51:40.514522Z",
+                "2025-04-08T07:53:40.563803Z",
+                "2025-04-08T07:55:34.041035Z",
+                "2025-04-08T07:57:47.367693Z",
+                "2025-04-08T07:59:31.518453Z",
+                "2025-04-08T08:02:09.744039Z",
+                "2025-04-08T08:05:43.459389Z",
+                "2025-04-08T09:17:30.597325Z",
+                "2025-04-08T09:19:44.841173Z",
+                "2025-04-08T09:21:44.297736Z",
+                "2025-04-08T09:23:24.261038Z",
+                "2025-04-08T09:25:35.765879Z",
+                "2025-04-08T09:27:28.250524Z",
+                "2025-04-08T09:29:42.669154Z",
+                "2025-04-08T10:59:45.702589Z",
+                "2025-04-08T11:02:14.664040Z",
+                "2025-04-08T11:05:43.808866Z",
+                "2025-04-08T11:07:43.346268Z",
+                "2025-04-08T11:09:32.476147Z",
+                "2025-04-08T11:11:40.702589Z",
+                "2025-04-08T11:14:21.204392Z",
+                "2025-04-08T12:58:09.192365Z",
+                "2025-04-08T13:02:09.827644Z",
+                "2025-04-08T13:05:44.487076Z",
+                "2025-04-08T13:07:23.265491Z",
+                "2025-04-08T13:09:49.555598Z",
+                "2025-04-08T13:12:05.632968Z",
+                "2025-04-08T13:13:28.259421Z"
+            ]
+        },
         {
             "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
             "source": "spacenews",
@@ -8774,313 +9035,6 @@
                 "2025-02-20T05:51:33.607086Z",
                 "2025-02-23T08:27:36.220127Z"
             ]
-        },
-        {
-            "id": "80ce6ce1fb6fb48d37bf004246aebb1e",
-            "source": "spacenews",
-            "text": "Trump’s Iron Dome order needs constructive debate to reach its full potential",
-            "source_link": "https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T14:02:05.269849Z",
-            "shown_at": [
-                "2025-02-18T20:49:38.360313Z",
-                "2025-02-19T03:07:29.077211Z",
-                "2025-02-19T05:17:29.433870Z",
-                "2025-02-19T11:39:31.822757Z",
-                "2025-02-19T12:57:41.673083Z",
-                "2025-02-20T00:33:45.589033Z",
-                "2025-02-20T10:05:54.398954Z",
-                "2025-02-21T10:37:35.706215Z",
-                "2025-02-21T19:47:26.797500Z"
-            ]
-        },
-        {
-            "id": "1a76022f35cf0f4a70a38ecde1b31a9c",
-            "source": "spacenews",
-            "text": "ESA astronaut with physical disability medically cleared for ISS missions",
-            "source_link": "https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T22:55:23.619432Z",
-            "shown_at": [
-                "2025-02-19T11:11:54.657691Z",
-                "2025-02-20T01:45:37.734504Z"
-            ]
-        },
-        {
-            "id": "f9cea5ee1ed3bc03eb77535e8ea19526",
-            "source": "spacenews",
-            "text": "Ravyn aims to distrupt missile sector",
-            "source_link": "https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-16T14:09:06.894495Z",
-            "shown_at": [
-                "2025-02-19T00:51:58.082419Z",
-                "2025-02-20T05:37:28.360866Z"
-            ]
-        },
-        {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
-            "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-09T23:00:00.000Z",
-            "time_remaining": "1d 09h 46m",
-            "fetched_datetime": "2025-04-08T06:47:26.211014Z",
-            "shown_at": [
-                "2025-04-08T06:47:26.792020Z",
-                "2025-04-08T06:49:41.411511Z",
-                "2025-04-08T06:51:32.647653Z",
-                "2025-04-08T06:53:09.098349Z",
-                "2025-04-08T07:51:40.514522Z",
-                "2025-04-08T07:53:40.563803Z",
-                "2025-04-08T07:55:34.041035Z",
-                "2025-04-08T07:57:47.367693Z",
-                "2025-04-08T07:59:31.518453Z",
-                "2025-04-08T08:02:09.744039Z",
-                "2025-04-08T08:05:43.459389Z",
-                "2025-04-08T09:17:30.597325Z",
-                "2025-04-08T09:19:44.841173Z",
-                "2025-04-08T09:21:44.297736Z",
-                "2025-04-08T09:23:24.261038Z",
-                "2025-04-08T09:25:35.765879Z",
-                "2025-04-08T09:27:28.250524Z",
-                "2025-04-08T09:29:42.669154Z",
-                "2025-04-08T10:59:45.702589Z",
-                "2025-04-08T11:02:14.664040Z",
-                "2025-04-08T11:05:43.808866Z",
-                "2025-04-08T11:07:43.346268Z",
-                "2025-04-08T11:09:32.476147Z",
-                "2025-04-08T11:11:40.702589Z",
-                "2025-04-08T11:14:21.204392Z",
-                "2025-04-08T12:58:09.192365Z",
-                "2025-04-08T13:02:09.827644Z",
-                "2025-04-08T13:05:44.487076Z",
-                "2025-04-08T13:07:23.265491Z",
-                "2025-04-08T13:09:49.555598Z",
-                "2025-04-08T13:12:05.632968Z",
-                "2025-04-08T13:13:28.259421Z"
-            ]
-        },
-        {
-            "id": "8ef38f40a5efcf5dfe3e51bb84e46df6",
-            "source": "spacenews",
-            "text": "Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations",
-            "source_link": "https://spacenews.com/bluestaq-expands-globally-with-50m-from-one-bow-river-launches-uk-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T07:09:31.408312Z",
-            "shown_at": [
-                "2025-04-08T07:09:31.988627Z"
-            ]
-        },
-        {
-            "id": "72cdb6633c87a4fea29311e78cbe94c5",
-            "source": "aidy",
-            "text": "FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T07:37:34.789223Z",
-            "shown_at": [
-                "2025-04-08T07:37:35.478381Z"
-            ]
-        },
-        {
-            "id": "12a9a8693805230d757f93a9d582a48a",
-            "source": "spacenews",
-            "text": "Starlink’s rise in the defense market forces industry to adapt",
-            "source_link": "https://spacenews.com/starlink-pushes-rivals-to-rethink-military-comms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T09:03:41.649849Z",
-            "shown_at": [
-                "2025-04-08T09:03:42.300400Z"
-            ]
-        },
-        {
-            "id": "22086a13f07d3cf6981025ecfdef98f7",
-            "source": "spacenews",
-            "text": "Geopolitical shifts accelerate demand for Starlink alternatives",
-            "source_link": "https://spacenews.com/geopolitical-shifts-accelerate-demand-for-starlink-alternatives/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T09:31:57.784396Z",
-            "shown_at": [
-                "2025-04-08T09:31:58.346296Z"
-            ]
-        },
-        {
-            "id": "2e961a26c27add7969b003b5659bfbe4",
-            "source": "spacenews",
-            "text": "Boeing’s bet: supercharge satellite production",
-            "source_link": "https://spacenews.com/boeings-bet-supercharge-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T10:15:37.252727Z",
-            "shown_at": [
-                "2025-04-08T10:15:37.846255Z"
-            ]
-        },
-        {
-            "id": "91cc08d89ebc6350ed251237b86c4eb9",
-            "source": "spacenews",
-            "text": "Aitech unveils IQSat, a picosatellite for AI applications",
-            "source_link": "https://spacenews.com/aitech-unveils-iqsat-a-picosatellite-for-ai-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T10:45:32.245876Z",
-            "shown_at": [
-                "2025-04-08T10:45:32.819537Z"
-            ]
-        },
-        {
-            "id": "f12ef53732643518eee86886cca80e7a",
-            "source": "spacenews",
-            "text": "Artemis 2 preparations continue as doubts swirl around program’s future",
-            "source_link": "https://spacenews.com/artemis-2-preparations-continue-as-doubts-swirl-around-programs-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:17:32.625821Z",
-            "shown_at": [
-                "2025-04-08T11:17:33.193016Z"
-            ]
-        },
-        {
-            "id": "103fac8c0cf312cc097e017278a685a8",
-            "source": "spacenews",
-            "text": "Space Force to revamp training for a new era of space conflict",
-            "source_link": "https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:31:50.326768Z",
-            "shown_at": [
-                "2025-04-08T11:31:51.138799Z"
-            ]
-        },
-        {
-            "id": "907da969e3fea6b540bd292feb968c53",
-            "source": "spacenews",
-            "text": "NASA developing options for agency restructuring in “unsettling” environment",
-            "source_link": "https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:59:48.570390Z",
-            "shown_at": [
-                "2025-04-08T11:59:49.573818Z"
-            ]
-        },
-        {
-            "id": "806ef88d23d137cd20a0ca14c2d62ad1",
-            "source": "spacenews",
-            "text": "To build new weather satellite instruments, L3Harris opts for automated manufacturing",
-            "source_link": "https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T12:43:55.188930Z",
-            "shown_at": [
-                "2025-04-08T12:43:55.792615Z"
-            ]
-        },
-        {
-            "id": "af78ce6d62e3bfb72ff1f445edb6d48a",
-            "source": "spacenews",
-            "text": "SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions",
-            "source_link": "https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631809Z",
-            "shown_at": [
-                "2025-04-08T13:15:37.547878Z"
-            ]
-        },
-        {
-            "id": "58e94a5465fb4cbf4a858acf84f2cd9e",
-            "source": "spacenews",
-            "text": "Umbra to develop maritime surveillance satellites for U.S. military",
-            "source_link": "https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631862Z",
-            "shown_at": [
-                "2025-04-08T13:29:49.131766Z"
-            ]
-        },
-        {
-            "id": "cd3407e76b1db812eb352014c1d7c41f",
-            "source": "spacenews",
-            "text": "How Space Systems Command is navigating change",
-            "source_link": "https://spacenews.com/how-space-systems-command-is-navigating-change/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631901Z",
-            "shown_at": [
-                "2025-04-08T13:53:29.310252Z"
-            ]
-        },
-        {
-            "id": "4cabb41bfb766bd79843ef1415fc0441",
-            "source": "spacenews",
-            "text": "Space nuclear power poised for breakthroughs — if NASA and DoD stay committed",
-            "source_link": "https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621886Z",
-            "shown_at": [
-                "2025-04-08T15:26:45.373823Z"
-            ]
-        },
-        {
-            "id": "66db5a8773934755d2bc5e3a936f55fe",
-            "source": "spacenews",
-            "text": "GITAI creates US defense subsidiary to chase prime government contracts",
-            "source_link": "https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621939Z",
-            "shown_at": [
-                "2025-04-08T16:58:10.619098Z"
-            ]
-        },
-        {
-            "id": "571300816217fe8f01f1de6bc620b402",
-            "source": "spacenews",
-            "text": "Lunar lander operators cite  growing demand beyond NASA",
-            "source_link": "https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621985Z"
-        },
-        {
-            "id": "21f2d9fd0ed79feb25d5c252255af891",
-            "source": "spacenews",
-            "text": "RTX’s Blue Canyon Technologies introduces new reaction wheel",
-            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622021Z"
-        },
-        {
-            "id": "4cea0ea2c84b6699a06e72266cbbfb69",
-            "source": "spacenews",
-            "text": "GomSpace and Neuraspace partner to advance satellite collision avoidance",
-            "source_link": "https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622056Z"
-        },
-        {
-            "id": "e66c39355ccae663361c4e8a514d9983",
-            "source": "breaking_defense",
-            "text": "‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators",
-            "source_link": "https://breakingdefense.com/2025/04/hell-of-a-body-blow-ukraine-shift-may-stir-market-headwinds-for-us-sar-sat-operators/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T18:58:43.393059Z"
         }
     ]
 }

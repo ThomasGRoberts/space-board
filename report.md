@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| breaking_defense | 1 | 4 | 9 | 26 |
 | spacenews | 17 | 32 | 20 | 47 |
-| nyt | 0 | 1 | 9 | 24 |
-| breaking_defense | 1 | 4 | 9 | 27 |
 | aidy | 1 | 2 | 9 | 25 |
 | supercluster | 1 | 1 | 32 | 32 |
+| nyt | 0 | 1 | 9 | 24 |
 
 # Shown Order
 
@@ -25,7 +25,6 @@
 - **Feb 18, 08:05 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 18, 08:21 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 18, 08:35 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
-- **Feb 18, 08:49 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 18, 09:03 PM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
 - **Feb 18, 09:17 PM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 18, 09:59 PM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
@@ -34,7 +33,6 @@
 - **Feb 18, 10:55 PM** - SpaceX invited to provide input on FAA air traffic control modernization (spacenews)
 - **Feb 18, 11:09 PM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 19, 12:35 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
-- **Feb 19, 12:51 AM** - Ravyn aims to distrupt missile sector (spacenews)
 - **Feb 19, 01:11 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 01:25 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 01:39 AM** - SES defends financial outlook after Moody’s downgrade (spacenews)
@@ -43,7 +41,6 @@
 - **Feb 19, 02:23 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 02:37 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 02:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
-- **Feb 19, 03:07 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 03:21 AM** - Legislative recommendations for the 119th Congress to advance non-governmental space (spacenews)
 - **Feb 19, 03:35 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
 - **Feb 19, 03:49 AM** - Software Beyond the Screen with Sunil Nagaraj (spacenews)
@@ -52,7 +49,6 @@
 - **Feb 19, 04:33 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 19, 04:47 AM** - Rocket Lab and SpaceX perform launches minutes apart (spacenews)
 - **Feb 19, 05:02 AM** - AAC starts work on maritime domain awareness constellation (spacenews)
-- **Feb 19, 05:17 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 05:31 AM** - Protected: EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 05:45 AM** - United States and India to expand collaboration in space innovation (spacenews)
 - **Feb 19, 05:59 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
@@ -74,14 +70,11 @@
 - **Feb 19, 10:29 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
 - **Feb 19, 10:43 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 10:57 AM** - Rubicon wins NASA contract to develop large ASCENT thruster (spacenews)
-- **Feb 19, 11:11 AM** - ESA astronaut with physical disability medically cleared for ISS missions (spacenews)
 - **Feb 19, 11:25 AM** - “…Light this candle!” (spacenews)
-- **Feb 19, 11:39 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 11:53 AM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 19, 12:10 PM** - Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter (spacenews)
 - **Feb 19, 12:27 PM** - EU Sets Ambitious Goals for In-Space Operations and Services (spacenews)
 - **Feb 19, 12:43 PM** - NASA layoffs on hold, for now (spacenews)
-- **Feb 19, 12:57 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 19, 01:11 PM** - SES defends financial outlook after Moody’s downgrade (spacenews)
 - **Feb 19, 01:25 PM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 19, 01:39 PM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
@@ -127,12 +120,10 @@
 - **Feb 19, 11:49 PM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 20, 12:05 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
 - **Feb 20, 12:19 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
-- **Feb 20, 12:33 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 20, 12:48 AM** - War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions (spacenews)
 - **Feb 20, 01:02 AM** - Defense executives demand clarity on space agencies’ missions (spacenews)
 - **Feb 20, 01:17 AM** - Report: Space Force strategy, resources insufficient to counter China (spacenews)
 - **Feb 20, 01:31 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
-- **Feb 20, 01:45 AM** - ESA astronaut with physical disability medically cleared for ISS missions (spacenews)
 - **Feb 20, 01:59 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 02:13 AM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
 - **Feb 20, 02:27 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
@@ -148,7 +139,6 @@
 - **Feb 20, 04:55 AM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
 - **Feb 20, 05:09 AM** - The State of Orbital Traffic Management – Replay (spacenews)
 - **Feb 20, 05:23 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
-- **Feb 20, 05:37 AM** - Ravyn aims to distrupt missile sector (spacenews)
 - **Feb 20, 05:51 AM** - Public offerings take the stage as the space industry learns from the SPAC boom and bust (spacenews)
 - **Feb 20, 06:05 AM** - OQ Technology gets EU funds to accelerate direct-to-smartphone efforts (spacenews)
 - **Feb 20, 06:21 AM** - True Anomaly opens Long Beach factory, citing proximity to Space Force customers (spacenews)
@@ -166,7 +156,6 @@
 - **Feb 20, 09:19 AM** - EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years (breaking_defense)
 - **Feb 20, 09:33 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
 - **Feb 20, 09:47 AM** - Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative (spacenews)
-- **Feb 20, 10:05 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 20, 10:19 AM** - Now more expensive: the role of government tariffs in spacecraft supply (spacenews)
 - **Feb 20, 10:33 AM** - Beijing district moves to boost commercial space development, reveals ambitious launch targets (spacenews)
 - **Feb 20, 10:47 AM** - Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission (breaking_defense)
@@ -250,7 +239,6 @@
 - **Feb 21, 09:55 AM** - Ohio Expands Military Leave Law to Include Space Force Members (aidy)
 - **Feb 21, 10:09 AM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 10:23 AM** - DoD needs to clarify Space Force roles and missions: Mitchell workshop (breaking_defense)
-- **Feb 21, 10:37 AM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 21, 11:05 AM** - Isar Aerospace completes testing of first Spectrum rocket (spacenews)
 - **Feb 21, 11:19 AM** - AI to power China’s mission to the edges of the solar system (spacenews)
 - **Feb 21, 12:33 PM** - NASA Faces Major Workforce Cuts Amid Economic Impact Concerns (aidy)
@@ -275,7 +263,6 @@
 - **Feb 21, 06:51 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 07:05 PM** - William R. Lucas, Official Blamed in Challenger Tragedy, Dies at 102 (nyt)
 - **Feb 21, 07:33 PM** - Saltzman bars Space Force staff from Mitchell Institute events (breaking_defense)
-- **Feb 21, 07:47 PM** - Trump’s Iron Dome order needs constructive debate to reach its full potential (spacenews)
 - **Feb 21, 08:01 PM** - Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding (aidy)
 - **Feb 21, 08:15 PM** - Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded. (nyt)
 - **Feb 21, 08:43 PM** - EDGE Group CEO says space, Africa two critical areas for growth in coming years (breaking_defense)
