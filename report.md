@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 5 | 6 | 19 | 28 |
+| breaking_defense | 5 | 6 | 20 | 29 |
 | spacenews | 16 | 33 | 26 | 46 |
 | aidy | 1 | 2 | 15 | 24 |
 | nyt | 5 | 5 | 17 | 26 |
@@ -3600,3 +3600,4 @@
 - **Apr 09, 11:13 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 11:15 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 11:17 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 11:19 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
