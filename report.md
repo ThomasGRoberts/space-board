@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 12 | 28 |
 | spacenews | 13 | 34 | 18 | 48 |
 | aidy | 1 | 2 | 9 | 23 |
-| supercluster | 0 | 1 | 58 | 83 |
+| supercluster | 0 | 1 | 59 | 84 |
 | nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
@@ -3638,3 +3638,4 @@
 - **Apr 09, 11:51 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 09, 12:05 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 12:07 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 12:09 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
