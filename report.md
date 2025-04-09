@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 5 | 18 | 27 |
+| breaking_defense | 5 | 6 | 19 | 28 |
 | spacenews | 16 | 33 | 25 | 45 |
 | aidy | 1 | 2 | 14 | 23 |
 | supercluster | 0 | 1 | 98 | 130 |
@@ -3719,3 +3719,4 @@
 - **Apr 09, 09:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 09:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 09:55 PM** - Space leaders emphasize collaboration amid geopolitical challenges (spacenews)
+- **Apr 09, 10:09 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
