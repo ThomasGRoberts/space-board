@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1414feda64893076cf315bf54e2a204e",
+    "trigger_count": 0,
+    "current_item_id": "21f2d9fd0ed79feb25d5c252255af891",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -33,9 +33,12 @@
             "source": "spacenews",
             "text": "RTX’s Blue Canyon Technologies introduces new reaction wheel",
             "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622021Z"
+            "fetched_datetime": "2025-04-08T15:26:44.622021Z",
+            "shown_at": [
+                "2025-04-09T01:53:36.661038Z"
+            ]
         },
         {
             "id": "571300816217fe8f01f1de6bc620b402",
