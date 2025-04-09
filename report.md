@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 6 | 15 | 28 |
 | spacenews | 9 | 30 | 18 | 44 |
-| aidy | 1 | 2 | 11 | 23 |
+| aidy | 1 | 2 | 12 | 24 |
 | supercluster | 0 | 1 | 77 | 109 |
 | nyt | 2 | 3 | 12 | 24 |
 
@@ -3681,3 +3681,4 @@
 - **Apr 09, 05:17 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 05:19 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 05:21 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 05:23 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
