@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 9 | 27 |
+| breaking_defense | 4 | 7 | 10 | 28 |
 | spacenews | 17 | 32 | 20 | 47 |
 | aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -3552,3 +3552,4 @@
 - **Apr 09, 01:23 AM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 09, 01:37 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 09, 01:53 AM** - RTX’s Blue Canyon Technologies introduces new reaction wheel (spacenews)
+- **Apr 09, 02:07 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)

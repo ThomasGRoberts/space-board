@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "21f2d9fd0ed79feb25d5c252255af891",
+    "trigger_count": 0,
+    "current_item_id": "6f27e41e713a04e1ee3ee3c0616a98f0",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9062,9 +9062,12 @@
             "source": "breaking_defense",
             "text": "Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head",
             "source_link": "https://breakingdefense.com/2025/04/time-for-space-force-to-clearly-say-it-needs-weapons-in-space-spacecom-head/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-09T01:37:32.637176Z"
+            "fetched_datetime": "2025-04-09T01:37:32.637176Z",
+            "shown_at": [
+                "2025-04-09T02:07:38.248591Z"
+            ]
         },
         {
             "id": "96df7d4bb06735cf95dee0ecb331eadf",
