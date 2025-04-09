@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 12 | 29 |
 | spacenews | 15 | 32 | 20 | 47 |
-| aidy | 1 | 2 | 8 | 23 |
+| aidy | 1 | 2 | 9 | 24 |
 | supercluster | 0 | 1 | 56 | 74 |
 | nyt | 1 | 2 | 7 | 22 |
 
@@ -3621,3 +3621,4 @@
 - **Apr 09, 09:37 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 09:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 09:41 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 09, 09:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
