@@ -6,7 +6,6 @@
 | spacenews | 16 | 33 | 27 | 47 |
 | aidy | 1 | 2 | 15 | 24 |
 | nyt | 5 | 5 | 17 | 26 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3593,12 +3592,5 @@
 - **Apr 09, 10:23 PM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
 - **Apr 09, 10:37 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 10:51 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
-- **Apr 09, 11:05 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:07 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:09 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:11 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:13 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:15 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:17 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 11:19 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 11:33 PM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
