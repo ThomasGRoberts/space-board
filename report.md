@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 5 | 6 | 19 | 28 |
 | spacenews | 16 | 33 | 26 | 46 |
-| aidy | 1 | 2 | 14 | 23 |
+| aidy | 1 | 2 | 15 | 24 |
 | supercluster | 0 | 1 | 98 | 130 |
 | nyt | 4 | 4 | 16 | 25 |
 
@@ -3721,3 +3721,4 @@
 - **Apr 09, 09:55 PM** - Space leaders emphasize collaboration amid geopolitical challenges (spacenews)
 - **Apr 09, 10:09 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 09, 10:23 PM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
+- **Apr 09, 10:37 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
