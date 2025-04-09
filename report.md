@@ -6,7 +6,7 @@
 | spacenews | 8 | 30 | 18 | 44 |
 | aidy | 1 | 2 | 11 | 24 |
 | supercluster | 0 | 1 | 70 | 102 |
-| nyt | 2 | 3 | 11 | 24 |
+| nyt | 2 | 3 | 12 | 25 |
 
 # Shown Order
 
@@ -3671,3 +3671,4 @@
 - **Apr 09, 03:45 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 09, 03:59 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 04:13 PM** - Surge in NATO spending to benefit space sector (spacenews)
+- **Apr 09, 04:27 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
