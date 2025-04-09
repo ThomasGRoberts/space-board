@@ -5,8 +5,8 @@
 | breaking_defense | 4 | 7 | 11 | 28 |
 | spacenews | 17 | 32 | 22 | 48 |
 | aidy | 1 | 2 | 8 | 23 |
-| supercluster | 0 | 1 | 53 | 60 |
-| nyt | 1 | 2 | 7 | 22 |
+| supercluster | 0 | 1 | 52 | 60 |
+| nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
 
@@ -3601,3 +3601,4 @@
 - **Apr 09, 07:15 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 09, 07:29 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 07:43 AM** - Space Force missile-tracking “Foo Fighter” satellites clear design milestone (spacenews)
+- **Apr 09, 07:58 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
