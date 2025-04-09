@@ -6,7 +6,7 @@
 | spacenews | 15 | 33 | 20 | 48 |
 | aidy | 1 | 2 | 9 | 23 |
 | supercluster | 0 | 1 | 56 | 74 |
-| nyt | 1 | 2 | 7 | 22 |
+| nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
 
@@ -3623,3 +3623,4 @@
 - **Apr 09, 09:41 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 09, 09:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 10:11 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
+- **Apr 09, 10:25 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
