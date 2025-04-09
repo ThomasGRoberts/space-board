@@ -6,7 +6,7 @@
 | spacenews | 18 | 33 | 22 | 48 |
 | aidy | 1 | 2 | 6 | 22 |
 | supercluster | 1 | 1 | 32 | 32 |
-| nyt | 0 | 1 | 6 | 22 |
+| nyt | 0 | 1 | 7 | 23 |
 
 # Shown Order
 
@@ -3556,3 +3556,4 @@
 - **Apr 09, 02:21 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 09, 02:35 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 02:49 AM** - Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector (spacenews)
+- **Apr 09, 03:03 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
