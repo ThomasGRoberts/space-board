@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c36b56112af0805cccdb4d5dd4ac734d",
+    "trigger_count": 0,
+    "current_item_id": "a74b3b637fc12bff33ac1911a4f79e4b",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9388,6 +9388,18 @@
             "fetched_datetime": "2025-04-09T18:05:37.180116Z",
             "shown_at": [
                 "2025-04-09T18:05:37.891876Z"
+            ]
+        },
+        {
+            "id": "a74b3b637fc12bff33ac1911a4f79e4b",
+            "source": "spacenews",
+            "text": "SpaceNews’ full Wednesday show daily from Space Symposium — now live",
+            "source_link": "https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T19:31:45.372166Z",
+            "shown_at": [
+                "2025-04-09T19:31:46.069311Z"
             ]
         }
     ]
