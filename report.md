@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 10 | 28 |
 | spacenews | 18 | 33 | 21 | 48 |
-| aidy | 1 | 2 | 6 | 22 |
+| aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 32 | 32 |
 | nyt | 0 | 1 | 7 | 23 |
 
@@ -3557,3 +3557,4 @@
 - **Apr 09, 02:35 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 02:49 AM** - Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector (spacenews)
 - **Apr 09, 03:03 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
+- **Apr 09, 03:17 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
