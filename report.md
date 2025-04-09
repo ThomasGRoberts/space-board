@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 11 | 28 |
 | spacenews | 16 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 8 | 23 |
-| supercluster | 0 | 1 | 51 | 68 |
+| supercluster | 0 | 1 | 52 | 69 |
 | nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
@@ -3614,3 +3614,4 @@
 - **Apr 09, 08:57 AM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 09, 09:13 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 09, 09:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 09:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
