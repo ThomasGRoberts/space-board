@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 7 | 10 | 28 |
+| breaking_defense | 4 | 7 | 11 | 29 |
 | spacenews | 18 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 7 | 23 |
 | supercluster | 1 | 1 | 46 | 46 |
-| nyt | 1 | 2 | 6 | 23 |
+| nyt | 1 | 2 | 6 | 22 |
 
 # Shown Order
 
@@ -3576,3 +3576,4 @@
 - **Apr 09, 04:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 04:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 09, 04:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 04:55 AM** - Counterspace capabilities advancing around the globe: Secure World Foundation (breaking_defense)
