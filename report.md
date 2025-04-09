@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 11 | 28 |
-| spacenews | 16 | 32 | 21 | 48 |
+| spacenews | 16 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 8 | 23 |
-| supercluster | 0 | 1 | 51 | 67 |
+| supercluster | 0 | 1 | 51 | 68 |
 | nyt | 1 | 2 | 8 | 23 |
 
 # Shown Order
@@ -3613,3 +3613,4 @@
 - **Apr 09, 08:43 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 08:57 AM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 09, 09:13 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 09, 09:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
