@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 7 | 10 | 28 |
-| spacenews | 17 | 32 | 21 | 48 |
+| spacenews | 18 | 33 | 22 | 49 |
 | aidy | 1 | 2 | 7 | 22 |
 | supercluster | 1 | 1 | 32 | 32 |
 | nyt | 0 | 1 | 6 | 22 |
@@ -3555,3 +3555,4 @@
 - **Apr 09, 02:07 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 09, 02:21 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 09, 02:35 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
+- **Apr 09, 02:49 AM** - Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector (spacenews)
