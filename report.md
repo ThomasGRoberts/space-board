@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 5 | 16 | 27 |
+| breaking_defense | 4 | 5 | 17 | 28 |
 | spacenews | 12 | 31 | 22 | 45 |
 | aidy | 1 | 2 | 13 | 24 |
 | supercluster | 0 | 1 | 84 | 116 |
@@ -3697,3 +3697,4 @@
 - **Apr 09, 07:02 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 09, 07:17 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
 - **Apr 09, 07:31 PM** - SpaceNews’ full Wednesday show daily from Space Symposium — now live (spacenews)
+- **Apr 09, 07:47 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
