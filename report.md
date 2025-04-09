@@ -5,7 +5,7 @@
 | breaking_defense | 4 | 7 | 10 | 28 |
 | spacenews | 18 | 32 | 21 | 47 |
 | aidy | 1 | 2 | 7 | 23 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 | nyt | 1 | 2 | 7 | 23 |
 
 # Shown Order
@@ -3570,3 +3570,4 @@
 - **Apr 09, 04:13 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 09, 04:27 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 09, 04:41 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 04:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
