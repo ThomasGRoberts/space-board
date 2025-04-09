@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66c39355ccae663361c4e8a514d9983",
+    "trigger_count": 0,
+    "current_item_id": "4cea0ea2c84b6699a06e72266cbbfb69",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -21,9 +21,12 @@
             "source": "spacenews",
             "text": "GomSpace and Neuraspace partner to advance satellite collision avoidance",
             "source_link": "https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622056Z"
+            "fetched_datetime": "2025-04-08T15:26:44.622056Z",
+            "shown_at": [
+                "2025-04-09T01:23:32.697800Z"
+            ]
         },
         {
             "id": "21f2d9fd0ed79feb25d5c252255af891",
