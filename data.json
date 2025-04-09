@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
+    "trigger_count": 0,
+    "current_item_id": "fb259873405c2d6e98a790906003b60c",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9320,6 +9320,18 @@
             "fetched_datetime": "2025-04-09T16:13:32.514083Z",
             "shown_at": [
                 "2025-04-09T16:13:33.152652Z"
+            ]
+        },
+        {
+            "id": "fb259873405c2d6e98a790906003b60c",
+            "source": "breaking_defense",
+            "text": "Orbital power: Shaping national security from space",
+            "source_link": "https://breakingdefense.com/2025/04/orbital-power-shaping-national-security-from-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T16:41:52.215607Z",
+            "shown_at": [
+                "2025-04-09T16:41:53.584466Z"
             ]
         }
     ]

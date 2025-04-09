@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 5 | 14 | 28 |
+| breaking_defense | 5 | 6 | 15 | 29 |
 | spacenews | 8 | 29 | 18 | 43 |
 | aidy | 1 | 2 | 11 | 24 |
 | supercluster | 0 | 1 | 70 | 102 |
@@ -3672,3 +3672,4 @@
 - **Apr 09, 03:59 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 09, 04:13 PM** - Surge in NATO spending to benefit space sector (spacenews)
 - **Apr 09, 04:27 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 09, 04:41 PM** - Orbital power: Shaping national security from space (breaking_defense)
