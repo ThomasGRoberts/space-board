@@ -6,7 +6,7 @@
 | spacenews | 16 | 33 | 27 | 47 |
 | aidy | 1 | 2 | 15 | 24 |
 | nyt | 5 | 5 | 17 | 26 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3596,3 +3596,4 @@
 - **Apr 09, 11:19 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 11:33 PM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
 - **Apr 09, 11:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 09, 11:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
