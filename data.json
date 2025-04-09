@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f27e41e713a04e1ee3ee3c0616a98f0",
+    "trigger_count": 0,
+    "current_item_id": "8b3ac446b2b7d5fac53260530b708f55",
     "data": [
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
@@ -9401,6 +9401,18 @@
             "fetched_datetime": "2025-04-09T19:31:45.372166Z",
             "shown_at": [
                 "2025-04-09T19:31:46.069311Z"
+            ]
+        },
+        {
+            "id": "8b3ac446b2b7d5fac53260530b708f55",
+            "source": "nyt",
+            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T20:02:16.769311Z",
+            "shown_at": [
+                "2025-04-09T20:02:17.384861Z"
             ]
         }
     ]

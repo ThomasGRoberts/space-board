@@ -6,7 +6,7 @@
 | spacenews | 12 | 30 | 22 | 44 |
 | aidy | 1 | 2 | 13 | 24 |
 | supercluster | 0 | 1 | 84 | 116 |
-| nyt | 2 | 3 | 14 | 24 |
+| nyt | 3 | 4 | 15 | 25 |
 
 # Shown Order
 
@@ -3698,3 +3698,4 @@
 - **Apr 09, 07:17 PM** - Voyager Technologies to acquire LEOcloud (spacenews)
 - **Apr 09, 07:31 PM** - SpaceNews’ full Wednesday show daily from Space Symposium — now live (spacenews)
 - **Apr 09, 07:47 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
+- **Apr 09, 08:02 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
