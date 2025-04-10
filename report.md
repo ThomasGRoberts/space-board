@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 19 | 30 |
 | spacenews | 14 | 29 | 25 | 45 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 18 | 26 |
 | supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
@@ -3389,3 +3389,4 @@
 - **Apr 10, 10:41 AM** - Rocket Lab sees demand for Electron despite rideshare competition (spacenews)
 - **Apr 10, 10:55 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 10, 11:09 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
+- **Apr 10, 11:23 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
