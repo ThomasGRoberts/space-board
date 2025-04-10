@@ -5,8 +5,8 @@
 | nyt | 5 | 5 | 18 | 26 |
 | breaking_defense | 5 | 6 | 20 | 28 |
 | spacenews | 16 | 33 | 27 | 47 |
-| aidy | 1 | 2 | 16 | 25 |
-| supercluster | 1 | 1 | 2 | 2 |
+| aidy | 1 | 2 | 16 | 24 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3292,3 +3292,4 @@
 - **Apr 10, 12:17 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 10, 12:31 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 10, 12:33 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 10, 12:35 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
