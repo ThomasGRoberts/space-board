@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 7 | 18 | 36 |
 | spacenews | 16 | 30 | 27 | 51 |
 | aidy | 1 | 2 | 17 | 31 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -3465,3 +3465,4 @@
 - **Apr 10, 09:12 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 09:25 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 09:39 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
+- **Apr 10, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
