@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 33 | 25 | 47 |
 | aidy | 1 | 2 | 18 | 25 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3346,3 +3346,4 @@
 - **Apr 10, 06:11 AM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 10, 06:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 06:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 06:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
