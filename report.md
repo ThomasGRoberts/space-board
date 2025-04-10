@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 27 |
-| breaking_defense | 2 | 6 | 18 | 28 |
+| breaking_defense | 2 | 6 | 19 | 29 |
 | spacenews | 15 | 33 | 25 | 46 |
 | aidy | 1 | 2 | 17 | 24 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -3331,3 +3331,4 @@
 - **Apr 10, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 04:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 04:31 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
+- **Apr 10, 04:45 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
