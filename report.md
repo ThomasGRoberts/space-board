@@ -5,7 +5,7 @@
 | nyt | 4 | 6 | 18 | 31 |
 | breaking_defense | 2 | 7 | 17 | 33 |
 | spacenews | 15 | 26 | 27 | 47 |
-| aidy | 1 | 2 | 16 | 28 |
+| aidy | 1 | 2 | 17 | 29 |
 | supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
@@ -3439,3 +3439,4 @@
 - **Apr 10, 06:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 06:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 06:22 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 10, 06:35 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
