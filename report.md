@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 7 | 17 | 32 |
 | spacenews | 18 | 26 | 29 | 47 |
 | aidy | 1 | 2 | 17 | 28 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 2 | 2 | 85 | 85 |
 
 # Shown Order
 
@@ -3429,3 +3429,4 @@
 - **Apr 10, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 04:25 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 04:39 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 10, 04:53 PM** - China Will Launch the Long March 3B Rocket (supercluster)
