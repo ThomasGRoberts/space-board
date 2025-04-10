@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 17 | 33 |
 | breaking_defense | 3 | 7 | 18 | 36 |
-| spacenews | 16 | 30 | 27 | 51 |
+| spacenews | 14 | 30 | 26 | 51 |
 | aidy | 1 | 2 | 17 | 31 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 
 # Shown Order
 
@@ -3466,3 +3466,4 @@
 - **Apr 10, 09:25 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 09:39 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 10, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 09:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
