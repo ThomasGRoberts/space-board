@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 30 |
 | spacenews | 15 | 29 | 26 | 45 |
 | aidy | 1 | 2 | 17 | 26 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -3392,3 +3392,4 @@
 - **Apr 10, 11:23 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 10, 11:37 AM** - Outgrowing Napoleon: How the Space Force can modernize its ranks (spacenews)
 - **Apr 10, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
