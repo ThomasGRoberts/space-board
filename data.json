@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "450c9518a9e62515f97b042d21e45021",
+    "trigger_count": 0,
+    "current_item_id": "0c552a9743994384be3b59c3773c523e",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9079,6 +9079,27 @@
             "shown_at": [
                 "2025-04-10T15:55:45.750998Z"
             ]
+        },
+        {
+            "id": "0c552a9743994384be3b59c3773c523e",
+            "source": "spacenews",
+            "text": "Vast signs three more payload partners for Haven-1",
+            "source_link": "https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T19:03:26.717808Z",
+            "shown_at": [
+                "2025-04-10T19:03:27.244105Z"
+            ]
+        },
+        {
+            "id": "b9553177eb364e76e812459c33967217",
+            "source": "spacenews",
+            "text": "Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems",
+            "source_link": "https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T19:03:26.717922Z"
         }
     ]
 }
