@@ -1,9 +1,364 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-09T00:02:03.582176+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
+    "trigger_count": 0,
+    "current_item_id": "cf3a78381afd7c5414e6f7f18a1ecc48",
     "data": [
+        {
+            "id": "110293b72efbc6c3cf4f5a3972811451",
+            "source": "supercluster",
+            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-10T00:22:00.000Z",
+            "time_remaining": "0d 00h 22m",
+            "fetched_datetime": "2025-04-09T23:47:27.101490Z",
+            "shown_at": [
+                "2025-04-09T23:47:27.677795Z",
+                "2025-04-09T23:49:30.780652Z",
+                "2025-04-09T23:51:39.847578Z",
+                "2025-04-09T23:53:18.812369Z",
+                "2025-04-09T23:55:23.961867Z",
+                "2025-04-09T23:57:21.884090Z",
+                "2025-04-09T23:59:36.741996Z"
+            ]
+        },
+        {
+            "id": "708f1b7722a8cf37850d099f0d7c7c74",
+            "source": "nyt",
+            "text": "Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T22:51:42.734475Z",
+            "shown_at": [
+                "2025-04-09T22:51:43.689182Z"
+            ]
+        },
+        {
+            "id": "5b0795b0215bb573a29e05334e960d2f",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis",
+            "source_link": "https://breakingdefense.com/2025/04/exclusive-nga-awards-new-luno-a-task-order-for-commercial-imagery-analysis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T22:09:38.425096Z",
+            "shown_at": [
+                "2025-04-09T22:09:39.510140Z"
+            ]
+        },
+        {
+            "id": "381913a9f6e9ee5a1508f4f8c30a503f",
+            "source": "spacenews",
+            "text": "‘Everyone is doing AI’: Space sector urged to catch up",
+            "source_link": "https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:55:23.427914Z",
+            "shown_at": [
+                "2025-04-09T22:23:52.465029Z"
+            ]
+        },
+        {
+            "id": "a8fa3cc522c0ea59a8dfa1eda26acacf",
+            "source": "spacenews",
+            "text": "Space leaders emphasize collaboration amid geopolitical challenges",
+            "source_link": "https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:55:23.427848Z",
+            "shown_at": [
+                "2025-04-09T21:55:24.142010Z"
+            ]
+        },
+        {
+            "id": "daa5d6663c6c977bf336caa099bf4e79",
+            "source": "nyt",
+            "text": "Amazon to Launch First Project Kuiper Internet Satellites: What to Know",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T21:13:20.882496Z",
+            "shown_at": [
+                "2025-04-09T21:13:21.480383Z"
+            ]
+        },
+        {
+            "id": "b7783388c4ab292aa409ad91ba8b4ffb",
+            "source": "spacenews",
+            "text": "Space alliances hold strong despite broader geopolitical tensions",
+            "source_link": "https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T20:45:49.281444Z",
+            "shown_at": [
+                "2025-04-09T20:45:50.479962Z"
+            ]
+        },
+        {
+            "id": "5e56c4d64a77b42d486619ecb4f60ce4",
+            "source": "spacenews",
+            "text": "Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies",
+            "source_link": "https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T20:31:41.973352Z",
+            "shown_at": [
+                "2025-04-09T20:31:42.815068Z"
+            ]
+        },
+        {
+            "id": "8b3ac446b2b7d5fac53260530b708f55",
+            "source": "nyt",
+            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T20:02:16.769311Z",
+            "shown_at": [
+                "2025-04-09T20:02:17.384861Z"
+            ]
+        },
+        {
+            "id": "a74b3b637fc12bff33ac1911a4f79e4b",
+            "source": "spacenews",
+            "text": "SpaceNews’ full Wednesday show daily from Space Symposium — now live",
+            "source_link": "https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T19:31:45.372166Z",
+            "shown_at": [
+                "2025-04-09T19:31:46.069311Z"
+            ]
+        },
+        {
+            "id": "a207742b24d8f1573b35f196929a6c22",
+            "source": "spacenews",
+            "text": "Isaacman says NASA should pursue human moon and Mars programs simultaneously",
+            "source_link": "https://spacenews.com/isaacman-says-nasa-should-pursue-human-moon-and-mars-programs-simultaneously/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T18:05:37.180116Z",
+            "shown_at": [
+                "2025-04-09T18:05:37.891876Z"
+            ]
+        },
+        {
+            "id": "4c20689285a5fc5ff12169823f693b41",
+            "source": "spacenews",
+            "text": "Defense experts warn procurement bottlenecks risk U.S. space edge",
+            "source_link": "https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T17:51:29.185428Z",
+            "shown_at": [
+                "2025-04-09T17:51:29.793350Z"
+            ]
+        },
+        {
+            "id": "e66d4249fb94f31bd4ea2ddbc20ed94c",
+            "source": "spacenews",
+            "text": "Space Force to roll out strategy for international collaboration",
+            "source_link": "https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T16:55:27.534470Z",
+            "shown_at": [
+                "2025-04-09T16:55:28.138057Z"
+            ]
+        },
+        {
+            "id": "fb259873405c2d6e98a790906003b60c",
+            "source": "breaking_defense",
+            "text": "Orbital power: Shaping national security from space",
+            "source_link": "https://breakingdefense.com/2025/04/orbital-power-shaping-national-security-from-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T16:41:52.215607Z",
+            "shown_at": [
+                "2025-04-09T16:41:53.584466Z"
+            ]
+        },
+        {
+            "id": "3bb54cc052f94a6013348132e7b64172",
+            "source": "spacenews",
+            "text": "Surge in NATO spending to benefit space sector",
+            "source_link": "https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T16:13:32.514083Z",
+            "shown_at": [
+                "2025-04-09T16:13:33.152652Z"
+            ]
+        },
+        {
+            "id": "edc2bc9d911102bb9c14d87cc6340ca9",
+            "source": "nyt",
+            "text": "Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/moon-far-side-water-china.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T15:17:38.692430Z",
+            "shown_at": [
+                "2025-04-09T15:17:39.324288Z"
+            ]
+        },
+        {
+            "id": "355bc2a2b924cb985f9b36d243fb8eb7",
+            "source": "spacenews",
+            "text": "The continued momentum of Artemis",
+            "source_link": "https://spacenews.com/the-continued-momentum-of-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T15:01:46.604866Z",
+            "shown_at": [
+                "2025-04-09T15:01:47.169905Z"
+            ]
+        },
+        {
+            "id": "bbd6bcd8cf0a49c59b69a9c613a6b63d",
+            "source": "spacenews",
+            "text": "China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions",
+            "source_link": "https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T14:02:07.142774Z",
+            "shown_at": [
+                "2025-04-09T14:02:08.230322Z"
+            ]
+        },
+        {
+            "id": "63cb6f1f0508a91883ed6162b8856a8f",
+            "source": "spacenews",
+            "text": "Startups are preparing for the launch of space-based solar power",
+            "source_link": "https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T13:15:36.104552Z",
+            "shown_at": [
+                "2025-04-09T13:15:37.506503Z"
+            ]
+        },
+        {
+            "id": "be039d82484a3d02fcc1965ad8e390d8",
+            "source": "spacenews",
+            "text": "Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way",
+            "source_link": "https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T11:09:43.134992Z",
+            "shown_at": [
+                "2025-04-09T11:09:44.352778Z"
+            ]
+        },
+        {
+            "id": "d22645db8e1ddcaeaf19daa8a01cb458",
+            "source": "spacenews",
+            "text": "Seeing the light: Cubesats share optical data",
+            "source_link": "https://spacenews.com/seeing-the-light-cubesats-share-optical-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T10:39:39.561532Z",
+            "shown_at": [
+                "2025-04-09T10:39:40.057792Z"
+            ]
+        },
+        {
+            "id": "28855e52f0142cebf8153cc7ce83d31a",
+            "source": "spacenews",
+            "text": "How to accelerate U.S. space acquisition and outpace threats",
+            "source_link": "https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T10:11:41.972064Z",
+            "shown_at": [
+                "2025-04-09T10:11:42.542011Z"
+            ]
+        },
+        {
+            "id": "35b44693f1b6625d95a38e89c3f60cea",
+            "source": "aidy",
+            "text": "Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T07:29:27.690546Z",
+            "shown_at": [
+                "2025-04-09T07:29:28.242938Z",
+                "2025-04-09T08:43:14.414830Z",
+                "2025-04-09T17:23:37.720251Z",
+                "2025-04-09T20:59:33.419305Z"
+            ]
+        },
+        {
+            "id": "fab21fd3d79b4fceca85f7ae2fd0d359",
+            "source": "nyt",
+            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T04:13:29.475070Z",
+            "shown_at": [
+                "2025-04-09T04:13:30.119929Z",
+                "2025-04-09T07:58:13.042534Z",
+                "2025-04-09T11:51:47.635984Z",
+                "2025-04-09T19:02:14.500445Z"
+            ]
+        },
+        {
+            "id": "6e9672fb887dcdeef7d75cbf9c996236",
+            "source": "spacenews",
+            "text": "Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector",
+            "source_link": "https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T02:49:44.044089Z",
+            "shown_at": [
+                "2025-04-09T02:49:44.539828Z"
+            ]
+        },
+        {
+            "id": "96df7d4bb06735cf95dee0ecb331eadf",
+            "source": "breaking_defense",
+            "text": "SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites",
+            "source_link": "https://breakingdefense.com/2025/04/sda-opens-contest-for-54-tranche-3-missile-tracking-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637202Z",
+            "shown_at": [
+                "2025-04-09T02:35:51.118616Z",
+                "2025-04-09T23:19:46.786093Z"
+            ]
+        },
+        {
+            "id": "6f27e41e713a04e1ee3ee3c0616a98f0",
+            "source": "breaking_defense",
+            "text": "Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head",
+            "source_link": "https://breakingdefense.com/2025/04/time-for-space-force-to-clearly-say-it-needs-weapons-in-space-spacecom-head/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637176Z",
+            "shown_at": [
+                "2025-04-09T02:07:38.248591Z",
+                "2025-04-09T03:45:43.375471Z",
+                "2025-04-09T19:47:28.530796Z"
+            ]
+        },
+        {
+            "id": "1414feda64893076cf315bf54e2a204e",
+            "source": "breaking_defense",
+            "text": "New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators",
+            "source_link": "https://breakingdefense.com/2025/04/new-space-force-orbital-watch-initiative-to-share-threat-info-with-commercial-operators/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-09T01:37:32.637135Z",
+            "shown_at": [
+                "2025-04-09T01:37:33.190171Z",
+                "2025-04-09T12:35:48.494201Z",
+                "2025-04-09T21:27:30.811183Z"
+            ]
+        },
         {
             "id": "e66c39355ccae663361c4e8a514d9983",
             "source": "breaking_defense",
@@ -486,7 +841,8 @@
                 "2025-04-09T09:55:42.099074Z",
                 "2025-04-09T14:32:08.317457Z",
                 "2025-04-09T15:59:42.195787Z",
-                "2025-04-09T22:37:27.896259Z"
+                "2025-04-09T22:37:27.896259Z",
+                "2025-04-10T00:02:08.117643Z"
             ]
         },
         {
@@ -8434,965 +8790,6 @@
                 "2025-02-21T22:09:40.734638Z",
                 "2025-02-26T05:47:32.758267Z",
                 "2025-02-26T08:02:22.192964Z"
-            ]
-        },
-        {
-            "id": "758483dd70a349e483f64bda6b38b969",
-            "source": "spacenews",
-            "text": "Musk and Trump repeat inaccurate claims about Starliner astronauts",
-            "source_link": "https://spacenews.com/musk-and-trump-repeat-inaccurate-claims-about-starliner-astronauts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T17:49:51.818006Z",
-            "shown_at": [
-                "2025-02-19T17:49:52.785741Z",
-                "2025-02-20T03:39:30.366077Z",
-                "2025-02-20T03:53:33.671943Z",
-                "2025-02-20T22:47:41.549055Z",
-                "2025-02-24T22:15:45.737043Z",
-                "2025-02-25T05:55:37.581569Z"
-            ]
-        },
-        {
-            "id": "b5e9269eca72f28dc1a281f278549d72",
-            "source": "spacenews",
-            "text": "True Anomaly opens Long Beach factory, citing proximity to Space Force customers",
-            "source_link": "https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T14:09:43.268758Z",
-            "shown_at": [
-                "2025-02-19T14:23:53.605830Z",
-                "2025-02-19T16:11:19.209636Z",
-                "2025-02-20T04:41:35.672056Z",
-                "2025-02-20T05:23:27.569284Z",
-                "2025-02-20T06:21:37.424357Z"
-            ]
-        },
-        {
-            "id": "ad74b0f1b492df016faeb411cc56d79b",
-            "source": "spacenews",
-            "text": "Now more expensive: the role of government tariffs in spacecraft supply",
-            "source_link": "https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T14:09:43.268695Z",
-            "shown_at": [
-                "2025-02-19T14:09:44.237768Z",
-                "2025-02-19T17:21:50.492224Z",
-                "2025-02-20T01:59:39.270214Z",
-                "2025-02-20T03:23:30.161165Z",
-                "2025-02-20T10:19:35.475734Z",
-                "2025-02-20T12:29:47.262007Z",
-                "2025-02-23T19:27:37.626066Z",
-                "2025-02-25T03:55:42.861775Z"
-            ]
-        },
-        {
-            "id": "d18819d20ace2acecc18b0f3332f8130",
-            "source": "spacenews",
-            "text": "War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions",
-            "source_link": "https://spacenews.com/war-and-space-the-effect-of-russian-aggression-in-georgia-and-ukraine-on-its-space-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T13:39:31.250757Z",
-            "shown_at": [
-                "2025-02-19T13:39:31.750284Z",
-                "2025-02-19T13:53:37.299930Z",
-                "2025-02-19T16:25:33.636689Z",
-                "2025-02-20T00:48:02.988830Z",
-                "2025-02-20T23:57:55.142659Z",
-                "2025-02-26T00:03:42.991088Z"
-            ]
-        },
-        {
-            "id": "5f0425b55790af6eda698a86a12e4ba5",
-            "source": "spacenews",
-            "text": "NASA layoffs on hold, for now",
-            "source_link": "https://spacenews.com/nasa-layoffs-on-hold-for-now/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T12:43:52.514926Z",
-            "shown_at": [
-                "2025-02-19T12:43:53.410098Z",
-                "2025-02-20T21:07:51.535253Z"
-            ]
-        },
-        {
-            "id": "fb19a21576d76b6c059c5fbe7b127581",
-            "source": "aidy",
-            "text": "NASA Faces Major Workforce Cuts Amid Economic Impact Concerns",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T08:45:44.718424Z",
-            "shown_at": [
-                "2025-02-19T08:45:45.334422Z",
-                "2025-02-19T20:17:37.700078Z",
-                "2025-02-20T02:13:50.172877Z",
-                "2025-02-20T13:13:38.109202Z",
-                "2025-02-20T15:51:52.227715Z",
-                "2025-02-20T23:15:28.556583Z",
-                "2025-02-21T02:55:47.278689Z",
-                "2025-02-21T05:21:15.724438Z",
-                "2025-02-21T07:43:32.788663Z",
-                "2025-02-21T12:33:41.175258Z",
-                "2025-02-21T15:02:34.110412Z",
-                "2025-02-21T18:37:38.475439Z",
-                "2025-02-21T22:51:42.816772Z",
-                "2025-02-22T01:27:26.646194Z",
-                "2025-02-22T04:57:27.757308Z",
-                "2025-02-22T06:07:50.848076Z",
-                "2025-02-23T06:49:27.323000Z",
-                "2025-02-24T01:57:12.545273Z",
-                "2025-02-24T04:21:55.610890Z",
-                "2025-02-24T06:19:50.974063Z",
-                "2025-02-24T19:59:38.072040Z",
-                "2025-02-25T09:45:50.468413Z",
-                "2025-02-25T16:41:37.168594Z",
-                "2025-02-26T04:13:28.938085Z",
-                "2025-02-26T08:35:40.765037Z"
-            ]
-        },
-        {
-            "id": "1d57fcc355ae7fab4acb399b581e6c66",
-            "source": "spacenews",
-            "text": "Rocket Lab and SpaceX perform launches minutes apart",
-            "source_link": "https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T01:11:36.336440Z",
-            "shown_at": [
-                "2025-02-19T01:11:36.901467Z",
-                "2025-02-19T04:47:28.025933Z",
-                "2025-02-19T07:55:29.856347Z",
-                "2025-02-19T17:07:37.288805Z",
-                "2025-02-24T14:03:31.105757Z"
-            ]
-        },
-        {
-            "id": "9600529d6b1067e9f8651640294d3bc0",
-            "source": "nyt",
-            "text": "Will That Asteroid Strike Earth? Risk Level Rises to Highest Ever Recorded.",
-            "source_link": "https://www.nytimes.com/2025/02/18/science/asteroid-2024-yr4-impact.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T22:41:52.230033Z",
-            "shown_at": [
-                "2025-02-18T22:41:53.219397Z",
-                "2025-02-19T15:41:46.722084Z",
-                "2025-02-19T19:21:39.028199Z",
-                "2025-02-19T21:43:33.969509Z",
-                "2025-02-20T01:31:47.118208Z",
-                "2025-02-20T12:45:32.399073Z",
-                "2025-02-20T13:55:48.891783Z",
-                "2025-02-20T15:37:51.495781Z",
-                "2025-02-20T16:49:58.102445Z",
-                "2025-02-20T18:02:13.978939Z",
-                "2025-02-20T19:13:31.855719Z",
-                "2025-02-20T20:25:33.638168Z",
-                "2025-02-20T21:49:35.791550Z",
-                "2025-02-20T23:02:00.617259Z",
-                "2025-02-21T00:11:51.330167Z",
-                "2025-02-21T01:27:55.887691Z",
-                "2025-02-21T02:41:44.010466Z",
-                "2025-02-21T03:53:09.690616Z",
-                "2025-02-21T05:07:36.491193Z",
-                "2025-02-21T06:19:43.543480Z",
-                "2025-02-21T07:29:48.992984Z",
-                "2025-02-21T08:58:15.839438Z",
-                "2025-02-21T10:09:30.224898Z",
-                "2025-02-21T12:47:36.100073Z",
-                "2025-02-21T14:01:53.832589Z",
-                "2025-02-21T15:17:34.948403Z",
-                "2025-02-21T17:11:47.278525Z",
-                "2025-02-21T18:51:40.516073Z",
-                "2025-02-21T20:15:26.646236Z",
-                "2025-02-21T21:39:39.966560Z",
-                "2025-02-21T23:05:53.396687Z",
-                "2025-02-22T00:29:37.578688Z",
-                "2025-02-22T06:21:38.401954Z",
-                "2025-02-22T07:33:45.690293Z",
-                "2025-02-22T11:23:31.491608Z",
-                "2025-02-22T15:51:43.136757Z",
-                "2025-02-22T17:02:14.187500Z",
-                "2025-02-22T20:35:43.679075Z",
-                "2025-02-22T21:45:52.253453Z",
-                "2025-02-23T01:07:40.798847Z",
-                "2025-02-23T07:04:00.926079Z",
-                "2025-02-23T08:13:24.197284Z",
-                "2025-02-23T12:32:08.591667Z",
-                "2025-02-23T13:47:51.705005Z",
-                "2025-02-23T16:07:31.763141Z",
-                "2025-02-23T17:59:30.178455Z",
-                "2025-02-23T21:35:35.155337Z",
-                "2025-02-24T02:39:40.224687Z",
-                "2025-02-24T18:15:40.067138Z",
-                "2025-02-25T01:13:57.254923Z",
-                "2025-02-25T06:23:09.666998Z"
-            ]
-        },
-        {
-            "id": "2953ccefd25e7e3d116831d0d6ed618b",
-            "source": "breaking_defense",
-            "text": "Space Force taps Firefly to launch mysterious Victus Sol ‘responsive space’ mission",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-taps-firefly-to-launch-mysterious-victus-sol-responsive-space-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T20:21:56.141252Z",
-            "shown_at": [
-                "2025-02-18T20:21:57.189399Z",
-                "2025-02-18T21:03:40.580581Z",
-                "2025-02-20T10:47:25.735739Z",
-                "2025-02-20T16:05:42.275165Z",
-                "2025-02-20T18:31:53.766593Z",
-                "2025-02-20T22:19:30.785515Z",
-                "2025-02-21T05:37:42.831602Z",
-                "2025-02-21T16:27:13.206480Z",
-                "2025-02-22T02:23:40.347763Z",
-                "2025-02-22T05:53:36.267530Z",
-                "2025-02-22T08:17:45.108988Z",
-                "2025-02-23T14:02:03.297200Z",
-                "2025-02-23T17:32:02.256762Z",
-                "2025-02-24T13:35:37.921046Z",
-                "2025-02-24T19:02:17.175250Z",
-                "2025-02-25T04:11:31.635655Z",
-                "2025-02-25T09:59:26.121660Z"
-            ]
-        },
-        {
-            "id": "2b20e892c6b3fa03b859c9b61c397db0",
-            "source": "spacenews",
-            "text": "SES defends financial outlook after Moody’s downgrade",
-            "source_link": "https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T20:05:46.149906Z",
-            "shown_at": [
-                "2025-02-18T20:05:46.616885Z",
-                "2025-02-19T01:39:34.366474Z",
-                "2025-02-19T07:41:36.724295Z",
-                "2025-02-19T13:11:46.463345Z",
-                "2025-02-19T14:39:29.612270Z",
-                "2025-02-19T19:49:35.398441Z",
-                "2025-02-20T11:59:28.699064Z",
-                "2025-02-22T04:29:35.770731Z",
-                "2025-02-23T21:49:40.729141Z"
-            ]
-        },
-        {
-            "id": "b487c47584e6c596cf95c0b5405f0bb5",
-            "source": "spacenews",
-            "text": "Rubicon wins NASA contract to develop large ASCENT thruster",
-            "source_link": "https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T18:53:27.656607Z",
-            "shown_at": [
-                "2025-02-18T18:53:28.142949Z",
-                "2025-02-18T21:17:30.062133Z",
-                "2025-02-19T00:35:32.574315Z",
-                "2025-02-19T02:23:31.378307Z",
-                "2025-02-19T02:37:31.834829Z",
-                "2025-02-19T05:59:29.740794Z",
-                "2025-02-19T06:28:13.288343Z",
-                "2025-02-19T10:29:33.340589Z",
-                "2025-02-19T10:57:37.510303Z",
-                "2025-02-19T20:31:54.505278Z",
-                "2025-02-20T07:32:12.469328Z",
-                "2025-02-20T17:33:32.663174Z",
-                "2025-02-21T07:02:01.295632Z",
-                "2025-02-23T01:21:52.343580Z"
-            ]
-        },
-        {
-            "id": "755fe8764bd45041f379e0b6baa24872",
-            "source": "spacenews",
-            "text": "Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter",
-            "source_link": "https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T14:35:47.461714Z",
-            "shown_at": [
-                "2025-02-18T22:27:34.892568Z",
-                "2025-02-19T12:10:28.328751Z",
-                "2025-02-19T22:25:31.200016Z"
-            ]
-        },
-        {
-            "id": "e5d44019f7a9b3b7146d843cdef3f1ca",
-            "source": "spacenews",
-            "text": "“…Light this candle!”",
-            "source_link": "https://spacenews.com/light-this-candle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T14:05:44.165661Z",
-            "shown_at": [
-                "2025-02-18T17:57:26.491872Z",
-                "2025-02-18T19:09:34.051061Z",
-                "2025-02-19T04:05:30.402171Z",
-                "2025-02-19T08:13:38.442839Z",
-                "2025-02-19T11:25:43.816048Z",
-                "2025-02-19T16:53:28.649498Z",
-                "2025-02-19T18:35:51.085069Z",
-                "2025-02-20T18:45:39.938577Z"
-            ]
-        },
-        {
-            "id": "2af21250ebd9d6c512b8358b8ba54d00",
-            "source": "spacenews",
-            "text": "Legislative recommendations for the 119th Congress to advance non-governmental space",
-            "source_link": "https://spacenews.com/legislative-recommendations-for-the-119th-congress-to-advance-non-governmental-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T13:35:35.385474Z",
-            "shown_at": [
-                "2025-02-18T17:29:37.142201Z",
-                "2025-02-18T17:43:41.631913Z",
-                "2025-02-19T03:21:50.865792Z",
-                "2025-02-19T06:45:36.622309Z",
-                "2025-02-19T07:13:53.169306Z",
-                "2025-02-19T17:35:44.812073Z",
-                "2025-02-20T11:45:35.380335Z",
-                "2025-02-21T04:37:36.250996Z",
-                "2025-02-21T13:31:59.275300Z",
-                "2025-02-22T06:51:42.918323Z",
-                "2025-02-23T04:57:52.303984Z",
-                "2025-02-23T07:17:50.262006Z",
-                "2025-02-24T18:33:39.892603Z"
-            ]
-        },
-        {
-            "id": "726d1c0542c691efe929a4e96454cf67",
-            "source": "spacenews",
-            "text": "Software Beyond the Screen with Sunil Nagaraj",
-            "source_link": "https://spacenews.com/software-beyond-the-screen-with-sunil-nagaraj/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T13:07:50.350309Z",
-            "shown_at": [
-                "2025-02-18T18:39:29.912178Z",
-                "2025-02-18T23:09:30.898621Z",
-                "2025-02-19T03:35:33.928049Z",
-                "2025-02-19T03:49:31.993855Z",
-                "2025-02-20T07:03:47.504694Z",
-                "2025-02-25T08:19:38.959044Z"
-            ]
-        },
-        {
-            "id": "6945fc268e04d8d86c30d88768a630a2",
-            "source": "spacenews",
-            "text": "United States and India to expand collaboration in space innovation",
-            "source_link": "https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T12:39:46.209205Z",
-            "shown_at": [
-                "2025-02-18T19:37:45.549911Z",
-                "2025-02-19T05:45:33.515362Z",
-                "2025-02-19T10:15:59.500005Z",
-                "2025-02-19T21:57:39.290248Z",
-                "2025-02-20T09:02:14.368873Z",
-                "2025-02-20T11:15:42.520461Z",
-                "2025-02-20T12:13:52.942473Z"
-            ]
-        },
-        {
-            "id": "5433a1b3dcc0189445954c191321ce18",
-            "source": "spacenews",
-            "text": "Beijing district moves to boost commercial space development, reveals ambitious launch targets",
-            "source_link": "https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T11:57:51.608960Z",
-            "shown_at": [
-                "2025-02-19T22:53:36.002948Z",
-                "2025-02-20T10:33:35.375467Z",
-                "2025-02-20T19:57:31.901837Z",
-                "2025-02-24T06:03:32.307056Z"
-            ]
-        },
-        {
-            "id": "cd178ebd01da994412cf0a98f3ff3460",
-            "source": "aidy",
-            "text": "Ohio Expands Military Leave Law to Include Space Force Members",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T08:47:23.314930Z",
-            "shown_at": [
-                "2025-02-18T17:15:35.614328Z",
-                "2025-02-19T02:09:47.642651Z",
-                "2025-02-19T07:27:38.545167Z",
-                "2025-02-20T02:27:48.566330Z",
-                "2025-02-20T14:23:38.761472Z",
-                "2025-02-20T18:17:42.481986Z",
-                "2025-02-21T00:27:37.459489Z",
-                "2025-02-21T01:43:57.308123Z",
-                "2025-02-21T09:55:07.332394Z",
-                "2025-02-22T02:37:28.955060Z",
-                "2025-02-22T20:21:54.876458Z",
-                "2025-02-23T12:18:00.032559Z",
-                "2025-02-24T00:39:55.699491Z",
-                "2025-02-25T01:31:38.667636Z",
-                "2025-02-25T05:27:38.281849Z",
-                "2025-02-25T06:37:49.402411Z"
-            ]
-        },
-        {
-            "id": "698506cd0f5b029705d0da2ccc34c2da",
-            "source": "breaking_defense",
-            "text": "EDGE Group CEO says space, Africa are 2 critical areas for growth in coming years",
-            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-18T06:23:47.897956Z",
-            "shown_at": [
-                "2025-02-18T19:51:44.920746Z",
-                "2025-02-19T09:59:46.640742Z",
-                "2025-02-19T13:25:18.167434Z",
-                "2025-02-19T14:53:43.176006Z",
-                "2025-02-19T23:35:51.533095Z",
-                "2025-02-20T02:41:38.838840Z",
-                "2025-02-20T09:19:58.958008Z",
-                "2025-02-21T00:41:49.131993Z",
-                "2025-02-21T01:57:49.512985Z",
-                "2025-02-21T07:57:11.484834Z",
-                "2025-02-22T19:53:31.450906Z",
-                "2025-02-22T21:03:34.550929Z",
-                "2025-02-24T12:03:36.154345Z",
-                "2025-02-25T06:09:47.306578Z"
-            ]
-        },
-        {
-            "id": "0c9672a2274f2c7a8350c4b3064dea47",
-            "source": "spacenews",
-            "text": "Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine ",
-            "source_link": "https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T20:14:12.565345Z",
-            "shown_at": [
-                "2025-02-19T15:10:35.419683Z",
-                "2025-02-19T18:19:45.005378Z",
-                "2025-02-20T06:35:46.898531Z",
-                "2025-02-20T08:32:05.009287Z"
-            ]
-        },
-        {
-            "id": "7064330e59d6d7350f12b74e64ef9614",
-            "source": "breaking_defense",
-            "text": "EDGE Group CEO says space, Africa two critical areas for growth in coming years",
-            "source_link": "https://breakingdefense.com/2025/02/edge-group-ceo-says-space-africa-two-critical-areas-for-growth-in-coming-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T18:57:31.125843Z",
-            "shown_at": [
-                "2025-02-19T01:25:46.177665Z",
-                "2025-02-19T06:59:36.629846Z",
-                "2025-02-19T08:29:54.756492Z",
-                "2025-02-19T10:43:21.678661Z",
-                "2025-02-19T16:39:30.549881Z",
-                "2025-02-19T22:39:09.515328Z",
-                "2025-02-19T23:07:35.291558Z",
-                "2025-02-20T04:55:43.863499Z",
-                "2025-02-20T14:37:39.363345Z",
-                "2025-02-20T19:43:49.112194Z",
-                "2025-02-21T06:47:48.868198Z",
-                "2025-02-21T14:32:16.988815Z",
-                "2025-02-21T17:39:33.990345Z",
-                "2025-02-21T20:43:44.598580Z",
-                "2025-02-22T03:33:51.519588Z",
-                "2025-02-22T07:05:10.482425Z",
-                "2025-02-22T09:41:52.455698Z",
-                "2025-02-22T12:05:33.581330Z",
-                "2025-02-22T13:59:35.412844Z",
-                "2025-02-22T17:31:55.419636Z",
-                "2025-02-22T23:23:25.805658Z",
-                "2025-02-23T02:47:43.336848Z",
-                "2025-02-23T03:59:47.464158Z",
-                "2025-02-23T08:55:39.018338Z",
-                "2025-02-23T22:17:25.068155Z",
-                "2025-02-24T02:11:53.014327Z",
-                "2025-02-24T09:09:49.041110Z"
-            ]
-        },
-        {
-            "id": "8046ee5d2431b682ec7ccc5d496cff7f",
-            "source": "spacenews",
-            "text": "SpaceX invited to provide input on FAA air traffic control modernization",
-            "source_link": "https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T18:27:32.801719Z",
-            "shown_at": [
-                "2025-02-18T22:55:42.686655Z",
-                "2025-02-20T08:17:29.384137Z",
-                "2025-02-22T13:45:34.397634Z",
-                "2025-02-24T12:49:45.756982Z"
-            ]
-        },
-        {
-            "id": "377e4081dffe5ecfdba6e3d22bd164d1",
-            "source": "aidy",
-            "text": "Senate Budget Proposal Prioritizes Defense, Cuts NASA Funding",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T17:45:14.609925Z",
-            "shown_at": [
-                "2025-02-19T04:19:34.332829Z",
-                "2025-02-19T04:33:26.611613Z",
-                "2025-02-19T08:59:27.465777Z",
-                "2025-02-19T11:53:29.233231Z",
-                "2025-02-20T04:09:26.934412Z",
-                "2025-02-20T08:02:11.484689Z",
-                "2025-02-20T17:05:39.508246Z",
-                "2025-02-20T19:30:01.594823Z",
-                "2025-02-20T20:39:38.129013Z",
-                "2025-02-20T22:05:38.246578Z",
-                "2025-02-21T04:09:41.344177Z",
-                "2025-02-21T13:45:43.789803Z",
-                "2025-02-21T16:55:47.016248Z",
-                "2025-02-21T20:01:56.667938Z",
-                "2025-02-22T07:19:29.676468Z",
-                "2025-02-22T11:09:47.180727Z",
-                "2025-02-22T19:11:13.323930Z",
-                "2025-02-22T21:31:45.289186Z",
-                "2025-02-22T22:41:43.405749Z",
-                "2025-02-23T02:05:07.478837Z",
-                "2025-02-23T04:29:32.557318Z",
-                "2025-02-23T05:39:51.289135Z",
-                "2025-02-23T09:51:34.452024Z",
-                "2025-02-23T11:05:29.471035Z",
-                "2025-02-23T18:29:32.728586Z",
-                "2025-02-23T23:15:44.242956Z"
-            ]
-        },
-        {
-            "id": "51d75f3107ad3a7185015cc5f7b3e769",
-            "source": "spacenews",
-            "text": "AAC starts work on maritime domain awareness constellation",
-            "source_link": "https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T17:03:28.978101Z",
-            "shown_at": [
-                "2025-02-19T05:02:14.608194Z",
-                "2025-02-19T15:27:34.967924Z",
-                "2025-02-22T21:59:25.173088Z",
-                "2025-02-23T03:45:07.446844Z",
-                "2025-02-24T08:25:39.194990Z"
-            ]
-        },
-        {
-            "id": "2c6e1bda7dbe739adbe5d9b4ee49de12",
-            "source": "spacenews",
-            "text": "EU Sets Ambitious Goals for In-Space Operations and Services",
-            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T15:53:43.481394Z",
-            "shown_at": [
-                "2025-02-18T18:25:31.233100Z",
-                "2025-02-18T19:23:11.757910Z",
-                "2025-02-19T12:27:37.147576Z",
-                "2025-02-19T21:01:56.701107Z",
-                "2025-02-19T22:11:43.348011Z",
-                "2025-02-22T09:27:50.102182Z",
-                "2025-02-24T01:43:36.871423Z"
-            ]
-        },
-        {
-            "id": "197dac3e9ea3f256f6be5799f53f8c72",
-            "source": "spacenews",
-            "text": "Protected: EU Sets Ambitious Goals for In-Space Operations and Services",
-            "source_link": "https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T15:39:33.165985Z",
-            "shown_at": [
-                "2025-02-18T18:11:41.335341Z",
-                "2025-02-19T05:31:54.646802Z",
-                "2025-02-19T09:15:35.070867Z",
-                "2025-02-20T02:55:29.423324Z",
-                "2025-02-20T06:49:18.482228Z",
-                "2025-02-22T14:55:37.251564Z"
-            ]
-        },
-        {
-            "id": "550252eed7dd27f09ee75aef1c468d0f",
-            "source": "spacenews",
-            "text": "Public offerings take the stage as the space industry learns from the SPAC boom and bust",
-            "source_link": "https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-17T14:43:38.864653Z",
-            "shown_at": [
-                "2025-02-18T20:35:31.321200Z",
-                "2025-02-18T21:59:28.105220Z",
-                "2025-02-19T01:55:40.865680Z",
-                "2025-02-19T02:51:50.339656Z",
-                "2025-02-19T09:31:48.657941Z",
-                "2025-02-19T18:51:52.790578Z",
-                "2025-02-20T04:25:37.121241Z",
-                "2025-02-20T05:51:33.607086Z",
-                "2025-02-23T08:27:36.220127Z"
-            ]
-        },
-        {
-            "id": "1414feda64893076cf315bf54e2a204e",
-            "source": "breaking_defense",
-            "text": "New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators",
-            "source_link": "https://breakingdefense.com/2025/04/new-space-force-orbital-watch-initiative-to-share-threat-info-with-commercial-operators/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T01:37:32.637135Z",
-            "shown_at": [
-                "2025-04-09T01:37:33.190171Z",
-                "2025-04-09T12:35:48.494201Z",
-                "2025-04-09T21:27:30.811183Z"
-            ]
-        },
-        {
-            "id": "6f27e41e713a04e1ee3ee3c0616a98f0",
-            "source": "breaking_defense",
-            "text": "Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head",
-            "source_link": "https://breakingdefense.com/2025/04/time-for-space-force-to-clearly-say-it-needs-weapons-in-space-spacecom-head/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T01:37:32.637176Z",
-            "shown_at": [
-                "2025-04-09T02:07:38.248591Z",
-                "2025-04-09T03:45:43.375471Z",
-                "2025-04-09T19:47:28.530796Z"
-            ]
-        },
-        {
-            "id": "96df7d4bb06735cf95dee0ecb331eadf",
-            "source": "breaking_defense",
-            "text": "SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites",
-            "source_link": "https://breakingdefense.com/2025/04/sda-opens-contest-for-54-tranche-3-missile-tracking-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T01:37:32.637202Z",
-            "shown_at": [
-                "2025-04-09T02:35:51.118616Z",
-                "2025-04-09T23:19:46.786093Z"
-            ]
-        },
-        {
-            "id": "6e9672fb887dcdeef7d75cbf9c996236",
-            "source": "spacenews",
-            "text": "Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector",
-            "source_link": "https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T02:49:44.044089Z",
-            "shown_at": [
-                "2025-04-09T02:49:44.539828Z"
-            ]
-        },
-        {
-            "id": "fab21fd3d79b4fceca85f7ae2fd0d359",
-            "source": "nyt",
-            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T04:13:29.475070Z",
-            "shown_at": [
-                "2025-04-09T04:13:30.119929Z",
-                "2025-04-09T07:58:13.042534Z",
-                "2025-04-09T11:51:47.635984Z",
-                "2025-04-09T19:02:14.500445Z"
-            ]
-        },
-        {
-            "id": "35b44693f1b6625d95a38e89c3f60cea",
-            "source": "aidy",
-            "text": "Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T07:29:27.690546Z",
-            "shown_at": [
-                "2025-04-09T07:29:28.242938Z",
-                "2025-04-09T08:43:14.414830Z",
-                "2025-04-09T17:23:37.720251Z",
-                "2025-04-09T20:59:33.419305Z"
-            ]
-        },
-        {
-            "id": "28855e52f0142cebf8153cc7ce83d31a",
-            "source": "spacenews",
-            "text": "How to accelerate U.S. space acquisition and outpace threats",
-            "source_link": "https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T10:11:41.972064Z",
-            "shown_at": [
-                "2025-04-09T10:11:42.542011Z"
-            ]
-        },
-        {
-            "id": "d22645db8e1ddcaeaf19daa8a01cb458",
-            "source": "spacenews",
-            "text": "Seeing the light: Cubesats share optical data",
-            "source_link": "https://spacenews.com/seeing-the-light-cubesats-share-optical-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T10:39:39.561532Z",
-            "shown_at": [
-                "2025-04-09T10:39:40.057792Z"
-            ]
-        },
-        {
-            "id": "be039d82484a3d02fcc1965ad8e390d8",
-            "source": "spacenews",
-            "text": "Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way",
-            "source_link": "https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T11:09:43.134992Z",
-            "shown_at": [
-                "2025-04-09T11:09:44.352778Z"
-            ]
-        },
-        {
-            "id": "63cb6f1f0508a91883ed6162b8856a8f",
-            "source": "spacenews",
-            "text": "Startups are preparing for the launch of space-based solar power",
-            "source_link": "https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T13:15:36.104552Z",
-            "shown_at": [
-                "2025-04-09T13:15:37.506503Z"
-            ]
-        },
-        {
-            "id": "bbd6bcd8cf0a49c59b69a9c613a6b63d",
-            "source": "spacenews",
-            "text": "China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions",
-            "source_link": "https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T14:02:07.142774Z",
-            "shown_at": [
-                "2025-04-09T14:02:08.230322Z"
-            ]
-        },
-        {
-            "id": "355bc2a2b924cb985f9b36d243fb8eb7",
-            "source": "spacenews",
-            "text": "The continued momentum of Artemis",
-            "source_link": "https://spacenews.com/the-continued-momentum-of-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T15:01:46.604866Z",
-            "shown_at": [
-                "2025-04-09T15:01:47.169905Z"
-            ]
-        },
-        {
-            "id": "edc2bc9d911102bb9c14d87cc6340ca9",
-            "source": "nyt",
-            "text": "Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/moon-far-side-water-china.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T15:17:38.692430Z",
-            "shown_at": [
-                "2025-04-09T15:17:39.324288Z"
-            ]
-        },
-        {
-            "id": "3bb54cc052f94a6013348132e7b64172",
-            "source": "spacenews",
-            "text": "Surge in NATO spending to benefit space sector",
-            "source_link": "https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:13:32.514083Z",
-            "shown_at": [
-                "2025-04-09T16:13:33.152652Z"
-            ]
-        },
-        {
-            "id": "fb259873405c2d6e98a790906003b60c",
-            "source": "breaking_defense",
-            "text": "Orbital power: Shaping national security from space",
-            "source_link": "https://breakingdefense.com/2025/04/orbital-power-shaping-national-security-from-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:41:52.215607Z",
-            "shown_at": [
-                "2025-04-09T16:41:53.584466Z"
-            ]
-        },
-        {
-            "id": "e66d4249fb94f31bd4ea2ddbc20ed94c",
-            "source": "spacenews",
-            "text": "Space Force to roll out strategy for international collaboration",
-            "source_link": "https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:55:27.534470Z",
-            "shown_at": [
-                "2025-04-09T16:55:28.138057Z"
-            ]
-        },
-        {
-            "id": "4c20689285a5fc5ff12169823f693b41",
-            "source": "spacenews",
-            "text": "Defense experts warn procurement bottlenecks risk U.S. space edge",
-            "source_link": "https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T17:51:29.185428Z",
-            "shown_at": [
-                "2025-04-09T17:51:29.793350Z"
-            ]
-        },
-        {
-            "id": "a207742b24d8f1573b35f196929a6c22",
-            "source": "spacenews",
-            "text": "Isaacman says NASA should pursue human moon and Mars programs simultaneously",
-            "source_link": "https://spacenews.com/isaacman-says-nasa-should-pursue-human-moon-and-mars-programs-simultaneously/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T18:05:37.180116Z",
-            "shown_at": [
-                "2025-04-09T18:05:37.891876Z"
-            ]
-        },
-        {
-            "id": "a74b3b637fc12bff33ac1911a4f79e4b",
-            "source": "spacenews",
-            "text": "SpaceNews’ full Wednesday show daily from Space Symposium — now live",
-            "source_link": "https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T19:31:45.372166Z",
-            "shown_at": [
-                "2025-04-09T19:31:46.069311Z"
-            ]
-        },
-        {
-            "id": "8b3ac446b2b7d5fac53260530b708f55",
-            "source": "nyt",
-            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T20:02:16.769311Z",
-            "shown_at": [
-                "2025-04-09T20:02:17.384861Z"
-            ]
-        },
-        {
-            "id": "5e56c4d64a77b42d486619ecb4f60ce4",
-            "source": "spacenews",
-            "text": "Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies",
-            "source_link": "https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T20:31:41.973352Z",
-            "shown_at": [
-                "2025-04-09T20:31:42.815068Z"
-            ]
-        },
-        {
-            "id": "b7783388c4ab292aa409ad91ba8b4ffb",
-            "source": "spacenews",
-            "text": "Space alliances hold strong despite broader geopolitical tensions",
-            "source_link": "https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T20:45:49.281444Z",
-            "shown_at": [
-                "2025-04-09T20:45:50.479962Z"
-            ]
-        },
-        {
-            "id": "daa5d6663c6c977bf336caa099bf4e79",
-            "source": "nyt",
-            "text": "Amazon to Launch First Project Kuiper Internet Satellites: What to Know",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T21:13:20.882496Z",
-            "shown_at": [
-                "2025-04-09T21:13:21.480383Z"
-            ]
-        },
-        {
-            "id": "a8fa3cc522c0ea59a8dfa1eda26acacf",
-            "source": "spacenews",
-            "text": "Space leaders emphasize collaboration amid geopolitical challenges",
-            "source_link": "https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T21:55:23.427848Z",
-            "shown_at": [
-                "2025-04-09T21:55:24.142010Z"
-            ]
-        },
-        {
-            "id": "381913a9f6e9ee5a1508f4f8c30a503f",
-            "source": "spacenews",
-            "text": "‘Everyone is doing AI’: Space sector urged to catch up",
-            "source_link": "https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T21:55:23.427914Z",
-            "shown_at": [
-                "2025-04-09T22:23:52.465029Z"
-            ]
-        },
-        {
-            "id": "5b0795b0215bb573a29e05334e960d2f",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis",
-            "source_link": "https://breakingdefense.com/2025/04/exclusive-nga-awards-new-luno-a-task-order-for-commercial-imagery-analysis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T22:09:38.425096Z",
-            "shown_at": [
-                "2025-04-09T22:09:39.510140Z"
-            ]
-        },
-        {
-            "id": "708f1b7722a8cf37850d099f0d7c7c74",
-            "source": "nyt",
-            "text": "Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T22:51:42.734475Z",
-            "shown_at": [
-                "2025-04-09T22:51:43.689182Z"
-            ]
-        },
-        {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
-            "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-10T00:22:00.000Z",
-            "time_remaining": "0d 00h 22m",
-            "fetched_datetime": "2025-04-09T23:47:27.101490Z",
-            "shown_at": [
-                "2025-04-09T23:47:27.677795Z",
-                "2025-04-09T23:49:30.780652Z",
-                "2025-04-09T23:51:39.847578Z",
-                "2025-04-09T23:53:18.812369Z",
-                "2025-04-09T23:55:23.961867Z",
-                "2025-04-09T23:57:21.884090Z",
-                "2025-04-09T23:59:36.741996Z"
             ]
         }
     ]
