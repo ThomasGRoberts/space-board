@@ -5,7 +5,7 @@
 | nyt | 2 | 6 | 18 | 34 |
 | breaking_defense | 2 | 7 | 18 | 37 |
 | spacenews | 14 | 30 | 25 | 51 |
-| aidy | 1 | 2 | 17 | 31 |
+| aidy | 1 | 2 | 18 | 32 |
 | supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
@@ -3474,3 +3474,4 @@
 - **Apr 10, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:07 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 10, 10:21 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
+- **Apr 10, 10:35 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
