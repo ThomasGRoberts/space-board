@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 28 |
 | spacenews | 15 | 33 | 25 | 47 |
 | aidy | 1 | 2 | 18 | 24 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -3312,3 +3312,4 @@
 - **Apr 10, 02:25 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 10, 02:39 AM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 10, 02:53 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 10, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
