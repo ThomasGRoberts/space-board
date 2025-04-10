@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 18 | 29 |
-| breaking_defense | 2 | 6 | 18 | 31 |
-| spacenews | 17 | 29 | 28 | 46 |
+| breaking_defense | 3 | 7 | 19 | 32 |
+| spacenews | 17 | 24 | 28 | 45 |
 | aidy | 1 | 2 | 17 | 27 |
 | supercluster | 2 | 2 | 84 | 84 |
 
@@ -3424,3 +3424,4 @@
 - **Apr 10, 02:43 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 10, 02:57 PM** - Indian propulsion maker joins US expansion push (spacenews)
 - **Apr 10, 03:13 PM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
+- **Apr 10, 03:28 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)

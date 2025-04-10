@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0e98941db4ac71ac6597c9fc980b9655",
+    "trigger_count": 0,
+    "current_item_id": "c634efbdd65fd8a30662a79126accb71",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9041,6 +9041,18 @@
             "fetched_datetime": "2025-04-10T14:57:21.480702Z",
             "shown_at": [
                 "2025-04-10T15:13:28.686491Z"
+            ]
+        },
+        {
+            "id": "c634efbdd65fd8a30662a79126accb71",
+            "source": "breaking_defense",
+            "text": "Contracts for SSC’s next iteration of MEO missile tracking satellites delayed",
+            "source_link": "https://breakingdefense.com/2025/04/contracts-for-sscs-next-iteration-of-meo-missile-tracking-satellites-delayed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T15:28:01.087400Z",
+            "shown_at": [
+                "2025-04-10T15:28:01.780221Z"
             ]
         }
     ]
