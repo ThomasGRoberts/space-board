@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 18 | 29 |
 | breaking_defense | 3 | 7 | 18 | 32 |
-| spacenews | 19 | 26 | 29 | 46 |
+| spacenews | 19 | 26 | 30 | 47 |
 | aidy | 1 | 2 | 17 | 27 |
 | supercluster | 2 | 2 | 84 | 84 |
 
@@ -3426,3 +3426,4 @@
 - **Apr 10, 03:13 PM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
 - **Apr 10, 03:28 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
 - **Apr 10, 03:41 PM** - TraCSS moves into next phase of development (spacenews)
+- **Apr 10, 03:55 PM** - Rise of the ‘twin’ (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "470107fccb2dafc66aebc8436c44344c",
+    "trigger_count": 0,
+    "current_item_id": "c43e18a8a4bbe1175a4347fcc843a197",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9072,9 +9072,12 @@
             "source": "spacenews",
             "text": "Rise of the ‘twin’",
             "source_link": "https://spacenews.com/rise-of-the-twin/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-10T15:41:49.040625Z"
+            "fetched_datetime": "2025-04-10T15:41:49.040625Z",
+            "shown_at": [
+                "2025-04-10T15:55:45.750998Z"
+            ]
         }
     ]
 }
