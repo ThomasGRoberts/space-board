@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 6 | 19 | 26 |
 | breaking_defense | 2 | 6 | 19 | 28 |
-| spacenews | 16 | 33 | 26 | 47 |
+| spacenews | 16 | 33 | 26 | 46 |
 | aidy | 1 | 2 | 17 | 24 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -3303,3 +3303,4 @@
 - **Apr 10, 01:41 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
