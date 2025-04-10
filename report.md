@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 30 |
-| spacenews | 15 | 32 | 25 | 46 |
+| spacenews | 15 | 32 | 26 | 47 |
 | aidy | 1 | 2 | 17 | 25 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -3365,3 +3365,4 @@
 - **Apr 10, 08:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:05 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 10, 08:19 AM** - CSO Saltzman: US national security space policy ‘lagging’ needs (breaking_defense)
+- **Apr 10, 08:33 AM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
