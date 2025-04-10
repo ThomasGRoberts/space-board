@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 32 | 26 | 47 |
-| aidy | 0 | 2 | 16 | 25 |
+| aidy | 1 | 2 | 17 | 25 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -3355,3 +3355,4 @@
 - **Apr 10, 06:55 AM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 07:09 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 10, 07:23 AM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
+- **Apr 10, 07:37 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)

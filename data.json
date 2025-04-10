@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "05d4cb69f424cfa2a54ab245f4b4692d",
+    "trigger_count": 0,
+    "current_item_id": "d13847197b7fc5ed1dacb2f5a560093b",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8860,6 +8860,18 @@
             "shown_at": [
                 "2025-04-10T00:59:04.240860Z",
                 "2025-04-10T04:31:56.946691Z"
+            ]
+        },
+        {
+            "id": "d13847197b7fc5ed1dacb2f5a560093b",
+            "source": "aidy",
+            "text": "Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T07:37:39.140248Z",
+            "shown_at": [
+                "2025-04-10T07:37:40.146633Z"
             ]
         }
     ]
