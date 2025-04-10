@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 18 | 30 |
-| spacenews | 15 | 27 | 26 | 44 |
+| spacenews | 17 | 29 | 27 | 45 |
 | aidy | 1 | 2 | 17 | 26 |
 | supercluster | 1 | 1 | 70 | 70 |
 
@@ -3402,3 +3402,4 @@
 - **Apr 10, 12:19 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 10, 12:33 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 10, 12:47 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
+- **Apr 10, 01:02 PM** - Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system (spacenews)

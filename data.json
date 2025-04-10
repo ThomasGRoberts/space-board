@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "05d4cb69f424cfa2a54ab245f4b4692d",
+    "trigger_count": 0,
+    "current_item_id": "58d7b4c5bf248424884e309f3a21ac7b",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8952,6 +8952,27 @@
             "shown_at": [
                 "2025-04-10T11:37:29.579890Z"
             ]
+        },
+        {
+            "id": "58d7b4c5bf248424884e309f3a21ac7b",
+            "source": "spacenews",
+            "text": "Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system",
+            "source_link": "https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T13:02:18.380232Z",
+            "shown_at": [
+                "2025-04-10T13:02:19.445397Z"
+            ]
+        },
+        {
+            "id": "3e5e396018644ee7189ff5c244532c9f",
+            "source": "spacenews",
+            "text": "Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory",
+            "source_link": "https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T13:02:18.380293Z"
         }
     ]
 }
