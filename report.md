@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 29 |
 | breaking_defense | 2 | 6 | 18 | 31 |
 | spacenews | 16 | 27 | 27 | 44 |
-| aidy | 1 | 2 | 16 | 26 |
+| aidy | 1 | 2 | 17 | 27 |
 | supercluster | 2 | 2 | 84 | 84 |
 
 # Shown Order
@@ -3421,3 +3421,4 @@
 - **Apr 10, 01:59 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 02:15 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
 - **Apr 10, 02:29 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 10, 02:43 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
