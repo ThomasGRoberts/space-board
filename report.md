@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 19 | 30 |
 | spacenews | 15 | 28 | 25 | 44 |
-| aidy | 1 | 2 | 17 | 25 |
+| aidy | 1 | 2 | 18 | 26 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -3400,3 +3400,4 @@
 - **Apr 10, 12:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 12:05 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 12:19 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
+- **Apr 10, 12:33 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
