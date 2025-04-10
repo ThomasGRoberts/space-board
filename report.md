@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 17 | 32 |
 | breaking_defense | 2 | 6 | 17 | 34 |
-| spacenews | 16 | 28 | 27 | 49 |
+| spacenews | 17 | 29 | 28 | 50 |
 | aidy | 1 | 2 | 17 | 30 |
 | supercluster | 1 | 1 | 98 | 98 |
 
@@ -3452,3 +3452,4 @@
 - **Apr 10, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 07:45 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 07:59 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 10, 08:13 PM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
