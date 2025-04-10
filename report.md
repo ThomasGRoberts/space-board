@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 34 |
 | spacenews | 17 | 28 | 28 | 49 |
 | aidy | 1 | 2 | 16 | 29 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
 
@@ -3443,3 +3443,4 @@
 - **Apr 10, 06:49 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 10, 07:03 PM** - Vast signs three more payload partners for Haven-1 (spacenews)
 - **Apr 10, 07:17 PM** - Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems (spacenews)
+- **Apr 10, 07:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
