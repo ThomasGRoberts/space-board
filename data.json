@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "daa5d6663c6c977bf336caa099bf4e79",
+    "trigger_count": 0,
+    "current_item_id": "ca79886f8c3805a45e0d18cb24183826",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9003,6 +9003,18 @@
                 "2025-04-10T13:53:40.835972Z",
                 "2025-04-10T13:55:34.318821Z",
                 "2025-04-10T13:57:33.825580Z"
+            ]
+        },
+        {
+            "id": "ca79886f8c3805a45e0d18cb24183826",
+            "source": "spacenews",
+            "text": "Türkiye’s space future: An ambitious path ahead",
+            "source_link": "https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:15:27.254222Z",
+            "shown_at": [
+                "2025-04-10T14:15:27.829055Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 29 |
 | breaking_defense | 2 | 6 | 18 | 30 |
-| spacenews | 15 | 26 | 26 | 43 |
+| spacenews | 16 | 27 | 27 | 44 |
 | aidy | 1 | 2 | 17 | 26 |
 | supercluster | 2 | 2 | 84 | 84 |
 
@@ -3419,3 +3419,4 @@
 - **Apr 10, 01:55 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 10, 01:57 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 10, 01:59 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 10, 02:15 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
