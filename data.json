@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "247e4ae9689b761b4326c33fc98fa187",
+    "trigger_count": 0,
+    "current_item_id": "299fffc74bb90451488473473b1d8026",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9018,6 +9018,27 @@
             "shown_at": [
                 "2025-04-10T14:15:27.829055Z"
             ]
+        },
+        {
+            "id": "299fffc74bb90451488473473b1d8026",
+            "source": "spacenews",
+            "text": "Indian propulsion maker joins US expansion push",
+            "source_link": "https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:57:21.480648Z",
+            "shown_at": [
+                "2025-04-10T14:57:22.029671Z"
+            ]
+        },
+        {
+            "id": "0e98941db4ac71ac6597c9fc980b9655",
+            "source": "spacenews",
+            "text": "True commercial alternatives for strategic communications and PNT don’t  exist — yet",
+            "source_link": "https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:57:21.480702Z"
         }
     ]
 }

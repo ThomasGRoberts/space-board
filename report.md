@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 19 | 29 |
 | breaking_defense | 2 | 6 | 18 | 31 |
-| spacenews | 16 | 27 | 27 | 44 |
+| spacenews | 18 | 29 | 28 | 45 |
 | aidy | 1 | 2 | 17 | 27 |
 | supercluster | 2 | 2 | 84 | 84 |
 
@@ -3422,3 +3422,4 @@
 - **Apr 10, 02:15 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
 - **Apr 10, 02:29 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 10, 02:43 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
+- **Apr 10, 02:57 PM** - Indian propulsion maker joins US expansion push (spacenews)
