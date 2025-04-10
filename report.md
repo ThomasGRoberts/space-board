@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 19 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
-| spacenews | 15 | 30 | 26 | 46 |
+| spacenews | 15 | 31 | 26 | 47 |
 | aidy | 1 | 2 | 17 | 25 |
 | supercluster | 1 | 1 | 63 | 63 |
 
@@ -3386,3 +3386,4 @@
 - **Apr 10, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 10:41 AM** - Rocket Lab sees demand for Electron despite rideshare competition (spacenews)

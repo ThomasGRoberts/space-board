@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "b3909baac645d34a77164985853f9417",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8913,6 +8913,18 @@
             "fetched_datetime": "2025-04-10T10:11:38.509059Z",
             "shown_at": [
                 "2025-04-10T10:11:39.211949Z"
+            ]
+        },
+        {
+            "id": "b3909baac645d34a77164985853f9417",
+            "source": "spacenews",
+            "text": "Rocket Lab sees demand for Electron despite rideshare competition",
+            "source_link": "https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T10:41:32.311205Z",
+            "shown_at": [
+                "2025-04-10T10:41:32.974859Z"
             ]
         }
     ]
