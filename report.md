@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 19 | 28 |
 | spacenews | 16 | 33 | 26 | 47 |
 | aidy | 1 | 2 | 17 | 24 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -3302,3 +3302,4 @@
 - **Apr 10, 01:27 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
 - **Apr 10, 01:41 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
