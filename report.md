@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 7 | 17 | 32 |
 | spacenews | 18 | 26 | 29 | 47 |
 | aidy | 1 | 2 | 17 | 28 |
-| supercluster | 2 | 2 | 91 | 91 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3411,13 +3411,6 @@
 - **Apr 10, 01:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 01:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 10, 01:45 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:47 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:49 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:51 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:53 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:55 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 10, 01:57 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 10, 01:59 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 02:15 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
 - **Apr 10, 02:29 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
