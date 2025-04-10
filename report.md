@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 17 | 32 |
+| nyt | 3 | 6 | 18 | 33 |
 | breaking_defense | 3 | 7 | 19 | 36 |
 | spacenews | 15 | 29 | 26 | 50 |
 | aidy | 1 | 2 | 16 | 30 |
@@ -3462,3 +3462,4 @@
 - **Apr 10, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:57 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 10, 09:12 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
