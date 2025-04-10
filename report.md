@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 7 | 18 | 33 |
 | spacenews | 15 | 26 | 27 | 47 |
 | aidy | 1 | 2 | 16 | 28 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 
 # Shown Order
 
@@ -3433,3 +3433,4 @@
 - **Apr 10, 05:53 PM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
 - **Apr 10, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 06:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 06:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
