@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 28 |
-| breaking_defense | 2 | 6 | 18 | 29 |
-| spacenews | 15 | 28 | 26 | 44 |
+| breaking_defense | 2 | 6 | 19 | 30 |
+| spacenews | 15 | 28 | 25 | 44 |
 | aidy | 1 | 2 | 17 | 26 |
 | supercluster | 1 | 1 | 70 | 70 |
 
@@ -3399,3 +3399,4 @@
 - **Apr 10, 12:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 12:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 12:05 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 10, 12:19 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
