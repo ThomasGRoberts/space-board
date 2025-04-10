@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 7 | 18 | 32 |
 | spacenews | 19 | 26 | 30 | 47 |
 | aidy | 1 | 2 | 16 | 27 |
-| supercluster | 2 | 2 | 84 | 84 |
+| supercluster | 2 | 2 | 85 | 85 |
 
 # Shown Order
 
@@ -3427,3 +3427,4 @@
 - **Apr 10, 03:28 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
 - **Apr 10, 03:41 PM** - TraCSS moves into next phase of development (spacenews)
 - **Apr 10, 03:55 PM** - Rise of the ‘twin’ (spacenews)
+- **Apr 10, 04:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
