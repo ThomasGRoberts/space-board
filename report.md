@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 32 | 25 | 47 |
 | aidy | 1 | 2 | 17 | 25 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -3357,3 +3357,4 @@
 - **Apr 10, 07:23 AM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
 - **Apr 10, 07:37 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 10, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 07:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
