@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 17 | 33 |
-| breaking_defense | 3 | 7 | 18 | 36 |
+| breaking_defense | 3 | 7 | 19 | 37 |
 | spacenews | 14 | 30 | 26 | 51 |
 | aidy | 1 | 2 | 17 | 31 |
 | supercluster | 1 | 1 | 112 | 112 |
@@ -3472,3 +3472,4 @@
 - **Apr 10, 10:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 10:07 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
