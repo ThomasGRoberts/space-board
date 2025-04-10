@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "58d7b4c5bf248424884e309f3a21ac7b",
+    "trigger_count": 0,
+    "current_item_id": "3e5e396018644ee7189ff5c244532c9f",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8970,9 +8970,12 @@
             "source": "spacenews",
             "text": "Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory",
             "source_link": "https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-10T13:02:18.380293Z"
+            "fetched_datetime": "2025-04-10T13:02:18.380293Z",
+            "shown_at": [
+                "2025-04-10T13:17:45.177083Z"
+            ]
         }
     ]
 }
