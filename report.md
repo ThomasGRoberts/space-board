@@ -5,7 +5,7 @@
 | nyt | 6 | 6 | 19 | 26 |
 | breaking_defense | 2 | 6 | 19 | 28 |
 | spacenews | 16 | 33 | 27 | 47 |
-| aidy | 1 | 2 | 16 | 24 |
+| aidy | 1 | 2 | 17 | 25 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -3300,3 +3300,4 @@
 - **Apr 10, 12:59 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 10, 01:13 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 10, 01:27 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
+- **Apr 10, 01:41 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
