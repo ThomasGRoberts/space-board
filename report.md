@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 20 | 27 |
+| nyt | 5 | 6 | 19 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 30 | 26 | 46 |
 | aidy | 1 | 2 | 17 | 26 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -3379,3 +3379,4 @@
 - **Apr 10, 09:43 AM** - Surge in NATO spending to benefit space sector (spacenews)
 - **Apr 10, 09:57 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 10, 10:11 AM** - A ‘little pillow fort’: Making plans to protect the Artemis 2 crew (spacenews)
+- **Apr 10, 10:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
