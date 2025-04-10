@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 26 |
 | breaking_defense | 2 | 6 | 18 | 29 |
-| spacenews | 15 | 33 | 25 | 46 |
+| spacenews | 15 | 33 | 26 | 47 |
 | aidy | 1 | 2 | 17 | 24 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -3332,3 +3332,4 @@
 - **Apr 10, 04:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 04:31 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 10, 04:45 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 10, 04:59 AM** - Missile Defense Agency opens door to commercial firms for “Golden Dome” project (spacenews)
