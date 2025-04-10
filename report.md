@@ -5,7 +5,7 @@
 | nyt | 2 | 6 | 17 | 33 |
 | breaking_defense | 3 | 7 | 19 | 36 |
 | spacenews | 15 | 29 | 26 | 50 |
-| aidy | 1 | 2 | 16 | 30 |
+| aidy | 1 | 2 | 17 | 31 |
 | supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
@@ -3463,3 +3463,4 @@
 - **Apr 10, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:57 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
 - **Apr 10, 09:12 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 10, 09:25 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
