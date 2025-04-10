@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 28 |
-| breaking_defense | 2 | 6 | 19 | 30 |
-| spacenews | 15 | 30 | 25 | 45 |
+| breaking_defense | 2 | 6 | 18 | 30 |
+| spacenews | 15 | 30 | 26 | 46 |
 | aidy | 1 | 2 | 17 | 25 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -3376,3 +3376,4 @@
 - **Apr 10, 09:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 09:15 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 09:29 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
+- **Apr 10, 09:43 AM** - Surge in NATO spending to benefit space sector (spacenews)
