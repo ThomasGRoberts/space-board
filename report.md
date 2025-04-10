@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 32 | 25 | 47 |
 | aidy | 1 | 2 | 17 | 25 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -3368,3 +3368,4 @@
 - **Apr 10, 08:33 AM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
 - **Apr 10, 08:47 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 10, 09:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 09:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
