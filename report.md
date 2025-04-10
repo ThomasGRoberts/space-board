@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 28 |
 | spacenews | 15 | 33 | 25 | 47 |
 | aidy | 1 | 2 | 18 | 24 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -3323,3 +3323,4 @@
 - **Apr 10, 03:35 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 10, 03:49 AM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
 - **Apr 10, 04:03 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 10, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
