@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 19 | 27 |
+| nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 32 | 25 | 47 |
 | aidy | 1 | 2 | 17 | 25 |
@@ -3363,3 +3363,4 @@
 - **Apr 10, 07:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 08:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 08:05 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
