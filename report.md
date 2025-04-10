@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 28 |
 | spacenews | 15 | 33 | 25 | 47 |
 | aidy | 1 | 2 | 18 | 24 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -3314,3 +3314,4 @@
 - **Apr 10, 02:53 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 10, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
