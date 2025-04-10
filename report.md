@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 19 | 26 |
+| nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 28 |
 | spacenews | 15 | 33 | 25 | 46 |
 | aidy | 1 | 2 | 17 | 24 |
@@ -3341,3 +3341,4 @@
 - **Apr 10, 05:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 05:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 05:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 05:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
