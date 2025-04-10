@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "11bd5d5768403581f271b85aa5a76c49",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9131,6 +9131,18 @@
             "fetched_datetime": "2025-04-10T20:13:32.473864Z",
             "shown_at": [
                 "2025-04-10T20:13:33.831798Z"
+            ]
+        },
+        {
+            "id": "11bd5d5768403581f271b85aa5a76c49",
+            "source": "breaking_defense",
+            "text": "Space Force takes ownership of first Meadowlands satellite jammer",
+            "source_link": "https://breakingdefense.com/2025/04/space-force-takes-ownership-of-first-meadowlands-satellite-jammer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T20:57:25.918030Z",
+            "shown_at": [
+                "2025-04-10T20:57:26.523232Z"
             ]
         }
     ]
