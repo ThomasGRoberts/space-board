@@ -2,7 +2,6 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 7 | 7 |
 | nyt | 5 | 5 | 18 | 26 |
 | breaking_defense | 5 | 6 | 20 | 28 |
 | spacenews | 16 | 33 | 27 | 47 |
@@ -3288,12 +3287,5 @@
 - **Apr 09, 10:51 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 09, 11:19 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 11:33 PM** - Space-based solar power is becoming reality — but the U.S. needs to help (spacenews)
-- **Apr 09, 11:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:55 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:57 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 09, 11:59 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 10, 12:02 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 10, 12:17 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
