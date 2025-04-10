@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 17 | 32 |
-| breaking_defense | 2 | 6 | 17 | 34 |
+| breaking_defense | 2 | 6 | 18 | 35 |
 | spacenews | 17 | 29 | 28 | 50 |
 | aidy | 1 | 2 | 17 | 30 |
 | supercluster | 1 | 1 | 98 | 98 |
@@ -3453,3 +3453,4 @@
 - **Apr 10, 07:45 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 07:59 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 10, 08:13 PM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
+- **Apr 10, 08:27 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
