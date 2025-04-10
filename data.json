@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "51e69bfd08f20ddd6b9d34f453699aa5",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8774,26 +8774,6 @@
             ]
         },
         {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
-            "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-10T00:59:00.000Z",
-            "time_remaining": "0d 00h 15m",
-            "fetched_datetime": "2025-04-10T00:31:57.671072Z",
-            "shown_at": [
-                "2025-04-10T00:31:58.233241Z",
-                "2025-04-10T00:33:30.630372Z",
-                "2025-04-10T00:35:22.804231Z",
-                "2025-04-10T00:37:34.081301Z",
-                "2025-04-10T00:39:27.227447Z",
-                "2025-04-10T00:41:31.203399Z",
-                "2025-04-10T00:43:45.589670Z"
-            ]
-        },
-        {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from Florida",
@@ -8811,6 +8791,18 @@
                 "2025-04-10T00:53:42.481583Z",
                 "2025-04-10T00:55:26.048575Z",
                 "2025-04-10T00:57:36.255320Z"
+            ]
+        },
+        {
+            "id": "51e69bfd08f20ddd6b9d34f453699aa5",
+            "source": "nyt",
+            "text": "Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T00:59:03.552993Z",
+            "shown_at": [
+                "2025-04-10T00:59:04.240860Z"
             ]
         }
     ]
