@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 29 |
-| breaking_defense | 2 | 6 | 17 | 30 |
+| breaking_defense | 2 | 6 | 18 | 31 |
 | spacenews | 16 | 27 | 27 | 44 |
 | aidy | 1 | 2 | 17 | 26 |
 | supercluster | 2 | 2 | 84 | 84 |
@@ -3420,3 +3420,4 @@
 - **Apr 10, 01:57 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 10, 01:59 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 02:15 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
+- **Apr 10, 02:29 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
