@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 6 | 18 | 30 |
 | spacenews | 16 | 26 | 27 | 44 |
 | aidy | 1 | 2 | 17 | 26 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -3404,3 +3404,4 @@
 - **Apr 10, 12:47 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
 - **Apr 10, 01:02 PM** - Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system (spacenews)
 - **Apr 10, 01:17 PM** - Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory (spacenews)
+- **Apr 10, 01:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
