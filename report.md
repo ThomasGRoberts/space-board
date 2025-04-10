@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 17 | 30 |
-| breaking_defense | 2 | 7 | 17 | 32 |
+| breaking_defense | 2 | 7 | 18 | 33 |
 | spacenews | 17 | 26 | 28 | 46 |
 | aidy | 1 | 2 | 16 | 28 |
-| supercluster | 2 | 2 | 84 | 84 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3429,3 +3429,4 @@
 - **Apr 10, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 04:25 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 04:39 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 10, 05:45 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
