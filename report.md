@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 33 | 25 | 47 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -3344,3 +3344,4 @@
 - **Apr 10, 05:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 10, 05:57 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 10, 06:11 AM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
+- **Apr 10, 06:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
