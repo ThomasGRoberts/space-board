@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 17 | 30 |
 | breaking_defense | 2 | 7 | 18 | 33 |
-| spacenews | 16 | 26 | 28 | 47 |
+| spacenews | 15 | 26 | 27 | 47 |
 | aidy | 1 | 2 | 16 | 28 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -3431,3 +3431,4 @@
 - **Apr 10, 04:39 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 10, 05:45 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 10, 05:53 PM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
+- **Apr 10, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
