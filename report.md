@@ -6,7 +6,7 @@
 | breaking_defense | 5 | 6 | 20 | 28 |
 | spacenews | 16 | 33 | 27 | 47 |
 | aidy | 1 | 2 | 16 | 24 |
-| supercluster | 2 | 2 | 8 | 8 |
+| supercluster | 2 | 2 | 9 | 9 |
 
 # Shown Order
 
@@ -3298,3 +3298,4 @@
 - **Apr 10, 12:41 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 10, 12:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 10, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
