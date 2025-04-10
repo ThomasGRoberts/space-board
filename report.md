@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 19 | 27 |
+| nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 18 | 29 |
 | spacenews | 15 | 30 | 26 | 46 |
 | aidy | 1 | 2 | 17 | 25 |
@@ -3387,3 +3387,4 @@
 - **Apr 10, 10:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 10:41 AM** - Rocket Lab sees demand for Electron despite rideshare competition (spacenews)
+- **Apr 10, 10:55 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
