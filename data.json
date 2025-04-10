@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "299fffc74bb90451488473473b1d8026",
+    "trigger_count": 0,
+    "current_item_id": "0e98941db4ac71ac6597c9fc980b9655",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -9036,9 +9036,12 @@
             "source": "spacenews",
             "text": "True commercial alternatives for strategic communications and PNT don’t  exist — yet",
             "source_link": "https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-10T14:57:21.480702Z"
+            "fetched_datetime": "2025-04-10T14:57:21.480702Z",
+            "shown_at": [
+                "2025-04-10T15:13:28.686491Z"
+            ]
         }
     ]
 }
