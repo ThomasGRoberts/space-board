@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 6 | 17 | 34 |
+| nyt | 1 | 6 | 18 | 35 |
 | breaking_defense | 2 | 7 | 18 | 38 |
-| spacenews | 14 | 30 | 26 | 52 |
+| spacenews | 14 | 30 | 25 | 52 |
 | aidy | 1 | 2 | 17 | 32 |
 | supercluster | 1 | 1 | 119 | 119 |
 
@@ -3484,3 +3484,4 @@
 - **Apr 10, 11:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 11:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 11:19 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 10, 11:35 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
