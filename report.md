@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 17 | 33 |
 | breaking_defense | 3 | 7 | 18 | 36 |
-| spacenews | 15 | 29 | 26 | 50 |
+| spacenews | 16 | 30 | 27 | 51 |
 | aidy | 1 | 2 | 17 | 31 |
 | supercluster | 1 | 1 | 105 | 105 |
 
@@ -3464,3 +3464,4 @@
 - **Apr 10, 08:57 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
 - **Apr 10, 09:12 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 09:25 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 10, 09:39 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
