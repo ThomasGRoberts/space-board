@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 28 |
 | breaking_defense | 2 | 6 | 18 | 30 |
-| spacenews | 15 | 27 | 25 | 43 |
+| spacenews | 15 | 27 | 26 | 44 |
 | aidy | 1 | 2 | 18 | 26 |
 | supercluster | 1 | 1 | 70 | 70 |
 
@@ -3401,3 +3401,4 @@
 - **Apr 10, 12:05 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 12:19 PM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
 - **Apr 10, 12:33 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 10, 12:47 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
