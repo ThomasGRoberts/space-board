@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 7 | 18 | 37 |
 | spacenews | 14 | 30 | 26 | 52 |
 | aidy | 1 | 2 | 17 | 32 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 
 # Shown Order
 
@@ -3476,3 +3476,4 @@
 - **Apr 10, 10:21 PM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 10, 10:35 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 10, 10:49 PM** - Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory (spacenews)
+- **Apr 10, 11:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
