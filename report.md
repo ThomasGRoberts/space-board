@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 20 | 26 |
 | breaking_defense | 2 | 6 | 18 | 28 |
 | spacenews | 15 | 33 | 25 | 47 |
-| aidy | 1 | 2 | 17 | 24 |
+| aidy | 1 | 2 | 18 | 25 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -3333,3 +3333,4 @@
 - **Apr 10, 04:31 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 10, 04:45 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 10, 04:59 AM** - Missile Defense Agency opens door to commercial firms for “Golden Dome” project (spacenews)
+- **Apr 10, 05:15 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
