@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "23a1733f2b7911de2124e8e24c3c2414",
     "data": [
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
@@ -8982,6 +8982,20 @@
             "fetched_datetime": "2025-04-10T13:02:18.380293Z",
             "shown_at": [
                 "2025-04-10T13:17:45.177083Z"
+            ]
+        },
+        {
+            "id": "23a1733f2b7911de2124e8e24c3c2414",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 3B Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-3b78",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-10T16:45:00.000Z",
+            "time_remaining": "0d 02h 59m",
+            "fetched_datetime": "2025-04-10T13:45:45.450035Z",
+            "shown_at": [
+                "2025-04-10T13:45:46.141171Z"
             ]
         }
     ]
