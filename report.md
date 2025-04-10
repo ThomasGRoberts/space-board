@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 18 | 29 |
 | breaking_defense | 3 | 7 | 19 | 32 |
-| spacenews | 17 | 24 | 28 | 45 |
+| spacenews | 19 | 26 | 29 | 46 |
 | aidy | 1 | 2 | 17 | 27 |
 | supercluster | 2 | 2 | 84 | 84 |
 
@@ -3425,3 +3425,4 @@
 - **Apr 10, 02:57 PM** - Indian propulsion maker joins US expansion push (spacenews)
 - **Apr 10, 03:13 PM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
 - **Apr 10, 03:28 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
+- **Apr 10, 03:41 PM** - TraCSS moves into next phase of development (spacenews)
