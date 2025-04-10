@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 20 | 27 |
+| nyt | 5 | 6 | 19 | 27 |
 | breaking_defense | 2 | 6 | 18 | 30 |
 | spacenews | 15 | 29 | 26 | 45 |
 | aidy | 1 | 2 | 17 | 26 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -3391,3 +3391,4 @@
 - **Apr 10, 11:09 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 10, 11:23 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 10, 11:37 AM** - Outgrowing Napoleon: How the Space Force can modernize its ranks (spacenews)
+- **Apr 10, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
