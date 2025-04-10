@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
-| spacenews | 15 | 32 | 25 | 47 |
+| spacenews | 15 | 31 | 25 | 46 |
 | aidy | 1 | 2 | 17 | 25 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -3369,3 +3369,4 @@
 - **Apr 10, 08:47 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 10, 09:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 10, 09:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 10, 09:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
