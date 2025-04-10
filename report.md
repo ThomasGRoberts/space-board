@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 20 | 27 |
 | breaking_defense | 2 | 6 | 18 | 29 |
-| spacenews | 15 | 30 | 26 | 46 |
+| spacenews | 16 | 31 | 27 | 47 |
 | aidy | 1 | 2 | 17 | 26 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -3378,3 +3378,4 @@
 - **Apr 10, 09:29 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 10, 09:43 AM** - Surge in NATO spending to benefit space sector (spacenews)
 - **Apr 10, 09:57 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 10, 10:11 AM** - A ‘little pillow fort’: Making plans to protect the Artemis 2 crew (spacenews)
