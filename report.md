@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 22 | 18 | 45 |
 | breaking_defense | 2 | 4 | 17 | 34 |
-| aidy | 1 | 2 | 16 | 32 |
+| aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 5 | 16 | 34 |
 | supercluster | 2 | 2 | 71 | 71 |
 
@@ -3336,3 +3336,4 @@
 - **Apr 11, 05:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 06:06 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 06:10 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 11, 06:31 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
