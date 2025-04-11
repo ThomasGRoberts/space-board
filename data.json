@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b0795b0215bb573a29e05334e960d2f",
+    "trigger_count": 0,
+    "current_item_id": "82abc7bd6dcedc5f01ee8279301b881e",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8742,6 +8742,18 @@
                 "2025-04-11T03:35:24.121455Z",
                 "2025-04-11T03:37:32.426103Z",
                 "2025-04-11T03:39:31.764111Z"
+            ]
+        },
+        {
+            "id": "82abc7bd6dcedc5f01ee8279301b881e",
+            "source": "nyt",
+            "text": "Effort to Get Starlink in South Africa Collides With Tension Over Musk",
+            "source_link": "https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T04:09:43.193968Z",
+            "shown_at": [
+                "2025-04-11T04:09:45.769143Z"
             ]
         }
     ]

@@ -5,7 +5,7 @@
 | spacenews | 14 | 29 | 25 | 50 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
-| nyt | 0 | 6 | 16 | 36 |
+| nyt | 1 | 7 | 17 | 37 |
 | supercluster | 2 | 2 | 8 | 8 |
 
 # Shown Order
@@ -3235,3 +3235,4 @@
 - **Apr 11, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 03:41 AM** - Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission (spacenews)
 - **Apr 11, 03:55 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 11, 04:09 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
