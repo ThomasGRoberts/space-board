@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 1 | 6 | 17 | 36 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 2 | 2 | 9 | 9 |
 
 # Shown Order
 
@@ -3240,3 +3240,4 @@
 - **Apr 11, 05:05 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 05:07 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 11, 05:21 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 11, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
