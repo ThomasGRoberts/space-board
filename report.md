@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 30 | 24 | 50 |
+| spacenews | 15 | 30 | 25 | 51 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3263,3 +3263,4 @@
 - **Apr 11, 08:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 11, 08:25 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 11, 08:39 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 11, 08:53 AM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)
