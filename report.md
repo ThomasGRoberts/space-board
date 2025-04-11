@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 25 | 50 |
-| breaking_defense | 2 | 4 | 18 | 36 |
+| breaking_defense | 2 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 2 | 2 | 9 | 9 |
@@ -3240,4 +3240,4 @@
 - **Apr 11, 05:05 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 05:07 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 11, 05:21 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
-- **Apr 11, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 05:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
