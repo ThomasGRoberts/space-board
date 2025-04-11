@@ -5,7 +5,7 @@
 | spacenews | 14 | 29 | 25 | 50 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
-| nyt | 0 | 6 | 16 | 36 |
+| nyt | 0 | 6 | 17 | 37 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -3224,3 +3224,4 @@
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 11, 02:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 02:57 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
