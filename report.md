@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 0 | 6 | 16 | 36 |
-| supercluster | 2 | 2 | 2 | 2 |
+| supercluster | 2 | 2 | 3 | 3 |
 
 # Shown Order
 
@@ -3227,3 +3227,4 @@
 - **Apr 11, 02:57 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 11, 03:11 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 03:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 03:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
