@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "af78ce6d62e3bfb72ff1f445edb6d48a",
+    "trigger_count": 0,
+    "current_item_id": "519bc35b3ddd5165859ca678e64ee62e",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8889,6 +8889,18 @@
             "fetched_datetime": "2025-04-11T14:11:39.273184Z",
             "shown_at": [
                 "2025-04-11T14:11:40.008531Z"
+            ]
+        },
+        {
+            "id": "519bc35b3ddd5165859ca678e64ee62e",
+            "source": "breaking_defense",
+            "text": "Space Force picks up pace of on-orbit refueling experiments",
+            "source_link": "https://breakingdefense.com/2025/04/space-force-picks-up-pace-of-on-orbit-refueling-experiments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T17:11:49.772514Z",
+            "shown_at": [
+                "2025-04-11T17:11:50.919080Z"
             ]
         }
     ]

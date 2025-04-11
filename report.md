@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 24 | 19 | 47 |
-| breaking_defense | 1 | 3 | 17 | 34 |
+| breaking_defense | 2 | 4 | 18 | 35 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 5 | 16 | 34 |
 | supercluster | 2 | 2 | 64 | 64 |
@@ -3327,3 +3327,4 @@
 - **Apr 11, 03:43 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 11, 04:17 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 11, 04:39 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
+- **Apr 11, 05:11 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
