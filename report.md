@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 30 | 26 | 53 |
+| spacenews | 14 | 30 | 27 | 54 |
 | breaking_defense | 2 | 7 | 18 | 38 |
 | aidy | 1 | 2 | 18 | 34 |
 | nyt | 0 | 6 | 17 | 36 |
@@ -3347,3 +3347,4 @@
 - **Apr 11, 12:32 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 11, 12:47 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 11, 01:02 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
