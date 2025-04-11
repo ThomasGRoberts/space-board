@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0bf5c5ffadc9ee5784a5a3c080b233cd",
+    "trigger_count": 0,
+    "current_item_id": "1946a76f52a178640ec9e2e7d3ce8c01",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8923,6 +8923,15 @@
             "shown_at": [
                 "2025-04-11T19:07:42.912758Z"
             ]
+        },
+        {
+            "id": "1946a76f52a178640ec9e2e7d3ce8c01",
+            "source": "spacenews",
+            "text": "White House proposal would slash NASA science budget and cancel major missions",
+            "source_link": "https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T19:33:09.656443Z"
         }
     ]
 }
