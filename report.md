@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 27 | 23 | 48 |
+| spacenews | 12 | 27 | 24 | 49 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3303,3 +3303,4 @@
 - **Apr 11, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:17 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 12:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
+- **Apr 11, 12:45 PM** - Space Force to roll out strategy for international collaboration (spacenews)
