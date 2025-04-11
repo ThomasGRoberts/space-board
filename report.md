@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 26 | 21 | 48 |
+| spacenews | 9 | 26 | 20 | 48 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 35 |
-| supercluster | 2 | 2 | 57 | 57 |
+| supercluster | 2 | 2 | 58 | 58 |
 
 # Shown Order
 
@@ -3317,3 +3317,4 @@
 - **Apr 11, 01:57 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 02:11 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)
 - **Apr 11, 02:49 PM** - Orbital power: Shaping national security from space (breaking_defense)
+- **Apr 11, 03:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
