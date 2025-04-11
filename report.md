@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 26 | 22 | 48 |
+| spacenews | 12 | 27 | 23 | 49 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3315,3 +3315,4 @@
 - **Apr 11, 01:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 01:43 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 11, 01:57 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 11, 02:11 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
+    "trigger_count": 0,
+    "current_item_id": "157d2c932d0d5bed9cde02f8f415fd9b",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8866,6 +8866,18 @@
             "fetched_datetime": "2025-04-11T13:13:44.876511Z",
             "shown_at": [
                 "2025-04-11T13:13:45.439892Z"
+            ]
+        },
+        {
+            "id": "157d2c932d0d5bed9cde02f8f415fd9b",
+            "source": "spacenews",
+            "text": "Winning the satellite industry’s most disruptive decade yet",
+            "source_link": "https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T14:11:39.273184Z",
+            "shown_at": [
+                "2025-04-11T14:11:40.008531Z"
             ]
         }
     ]
