@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 35 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
 
@@ -3294,3 +3294,4 @@
 - **Apr 11, 11:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:47 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
+- **Apr 11, 12:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
