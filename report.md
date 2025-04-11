@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 29 | 25 | 50 |
 | breaking_defense | 2 | 4 | 18 | 36 |
-| aidy | 1 | 2 | 17 | 34 |
+| aidy | 1 | 2 | 16 | 34 |
 | nyt | 0 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3223,4 +3223,4 @@
 - **Apr 11, 01:02 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
-- **Apr 11, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
