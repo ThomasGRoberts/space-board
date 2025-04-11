@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -3287,3 +3287,4 @@
 - **Apr 11, 11:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 11:19 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
 - **Apr 11, 11:33 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 11:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
