@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 29 | 24 | 50 |
-| breaking_defense | 2 | 4 | 17 | 35 |
+| breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 35 |
 | supercluster | 1 | 1 | 36 | 36 |
@@ -3282,3 +3282,4 @@
 - **Apr 11, 10:31 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 10:33 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 10:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 10:37 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
