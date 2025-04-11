@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 7 | 18 | 38 |
 | aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 6 | 17 | 35 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 
 # Shown Order
 
@@ -3338,3 +3338,4 @@
 - **Apr 10, 11:49 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 11, 12:03 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
 - **Apr 11, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 12:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
