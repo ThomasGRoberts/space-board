@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 30 | 26 | 53 |
-| breaking_defense | 2 | 4 | 18 | 37 |
+| breaking_defense | 2 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 0 | 6 | 17 | 36 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -3224,3 +3224,4 @@
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
