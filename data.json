@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8707,17 +8707,17 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "e41d3412d827e1d1d6b00b4cf3697247",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
+            "text": "SpaceX Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-192",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-11T01:54:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-11T02:53:45.793442Z",
+            "target_datetime": "2025-04-12T12:17:00.000Z",
+            "time_remaining": "1d 09h 21m",
+            "fetched_datetime": "2025-04-11T02:55:21.194384Z",
             "shown_at": [
-                "2025-04-11T02:53:46.851569Z"
+                "2025-04-11T02:55:21.741956Z"
             ]
         }
     ]
