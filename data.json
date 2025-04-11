@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
+    "trigger_count": 0,
+    "current_item_id": "0bf5c5ffadc9ee5784a5a3c080b233cd",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8910,6 +8910,18 @@
             "fetched_datetime": "2025-04-11T17:11:49.772514Z",
             "shown_at": [
                 "2025-04-11T17:11:50.919080Z"
+            ]
+        },
+        {
+            "id": "0bf5c5ffadc9ee5784a5a3c080b233cd",
+            "source": "spacenews",
+            "text": "Space industry confronts twin disruptors: AI and geopolitics",
+            "source_link": "https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T19:07:41.953761Z",
+            "shown_at": [
+                "2025-04-11T19:07:42.912758Z"
             ]
         }
     ]

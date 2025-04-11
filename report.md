@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 22 | 18 | 45 |
+| spacenews | 6 | 23 | 18 | 46 |
 | breaking_defense | 2 | 4 | 16 | 34 |
 | aidy | 1 | 2 | 16 | 32 |
-| nyt | 1 | 5 | 16 | 34 |
+| nyt | 1 | 5 | 16 | 33 |
 | supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
@@ -3337,3 +3337,4 @@
 - **Apr 11, 06:06 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 06:10 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 06:31 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 11, 07:07 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
