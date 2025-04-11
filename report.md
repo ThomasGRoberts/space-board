@@ -5,7 +5,7 @@
 | spacenews | 15 | 30 | 25 | 50 |
 | breaking_defense | 2 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
-| nyt | 1 | 6 | 15 | 35 |
+| nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
@@ -3261,3 +3261,4 @@
 - **Apr 11, 08:07 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 08:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 08:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
+- **Apr 11, 08:25 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
