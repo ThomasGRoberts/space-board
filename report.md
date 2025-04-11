@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 24 | 50 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 2 | 3 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -3251,3 +3251,4 @@
 - **Apr 11, 06:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 07:02 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 11, 07:15 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
+- **Apr 11, 07:29 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)

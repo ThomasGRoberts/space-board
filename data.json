@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "82abc7bd6dcedc5f01ee8279301b881e",
+    "trigger_count": 0,
+    "current_item_id": "ceb50af3e54ce64b4fc0f09af61aaa33",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8767,6 +8767,18 @@
             "fetched_datetime": "2025-04-11T04:23:33.307807Z",
             "shown_at": [
                 "2025-04-11T04:23:33.964721Z"
+            ]
+        },
+        {
+            "id": "ceb50af3e54ce64b4fc0f09af61aaa33",
+            "source": "aidy",
+            "text": "Space Shuttle Discovery Relocation Proposed in New Legislation",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T07:29:25.131458Z",
+            "shown_at": [
+                "2025-04-11T07:29:25.551987Z"
             ]
         }
     ]
