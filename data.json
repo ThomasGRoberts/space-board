@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66c39355ccae663361c4e8a514d9983",
+    "trigger_count": 0,
+    "current_item_id": "e1388705c5d4f186296c0e9f7537ce00",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8845,6 +8845,18 @@
                 "2025-04-11T12:09:38.545041Z",
                 "2025-04-11T12:11:13.356028Z",
                 "2025-04-11T12:13:43.088970Z"
+            ]
+        },
+        {
+            "id": "e1388705c5d4f186296c0e9f7537ce00",
+            "source": "spacenews",
+            "text": "Bridging the gap between AI hype and reality",
+            "source_link": "https://spacenews.com/bridging-the-gap-between-ai-hype-and-reality/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T13:13:44.876511Z",
+            "shown_at": [
+                "2025-04-11T13:13:45.439892Z"
             ]
         }
     ]

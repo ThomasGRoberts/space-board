@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 27 | 22 | 49 |
+| spacenews | 11 | 28 | 23 | 50 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3305,3 +3305,4 @@
 - **Apr 11, 12:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 11, 12:45 PM** - Space Force to roll out strategy for international collaboration (spacenews)
 - **Apr 11, 12:59 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
+- **Apr 11, 01:13 PM** - Bridging the gap between AI hype and reality (spacenews)
