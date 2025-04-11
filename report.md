@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 30 | 26 | 53 |
-| breaking_defense | 2 | 7 | 18 | 38 |
+| breaking_defense | 2 | 4 | 18 | 37 |
 | aidy | 1 | 2 | 18 | 34 |
 | nyt | 0 | 6 | 17 | 36 |
-| supercluster | 0 | 1 | 121 | 128 |
+| supercluster | 0 | 1 | 122 | 129 |
 
 # Shown Order
 
@@ -3350,3 +3350,4 @@
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 01:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 01:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
