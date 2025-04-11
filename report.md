@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 23 | 48 |
+| spacenews | 13 | 27 | 24 | 49 |
 | breaking_defense | 2 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3285,3 +3285,4 @@
 - **Apr 11, 10:37 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 11, 10:51 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 11, 11:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 11, 11:19 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
