@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 24 | 49 |
+| spacenews | 12 | 27 | 23 | 49 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -3288,3 +3288,4 @@
 - **Apr 11, 11:19 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
 - **Apr 11, 11:33 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 11:37 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
