@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 17 | 36 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
-| supercluster | 2 | 2 | 9 | 9 |
+| supercluster | 2 | 2 | 10 | 10 |
 
 # Shown Order
 
@@ -3239,3 +3239,4 @@
 - **Apr 11, 04:23 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
 - **Apr 11, 04:37 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 11, 04:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 04:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
