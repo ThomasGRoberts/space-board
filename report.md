@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 24 | 50 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -3273,3 +3273,4 @@
 - **Apr 11, 09:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 09:21 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 11, 09:35 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
+- **Apr 11, 09:51 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
