@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 25 | 50 |
-| breaking_defense | 2 | 4 | 17 | 35 |
+| breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 15 | 35 |
 | supercluster | 1 | 1 | 15 | 15 |
@@ -3249,3 +3249,4 @@
 - **Apr 11, 06:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 06:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 06:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 07:02 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
