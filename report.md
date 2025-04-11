@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 25 | 18 | 47 |
+| spacenews | 7 | 25 | 19 | 48 |
 | breaking_defense | 1 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 5 | 16 | 34 |
@@ -3326,3 +3326,4 @@
 - **Apr 11, 03:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 03:43 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 11, 04:17 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
+- **Apr 11, 04:39 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
