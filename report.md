@@ -5,8 +5,8 @@
 | spacenews | 15 | 30 | 25 | 50 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 33 |
-| nyt | 1 | 6 | 16 | 36 |
-| supercluster | 1 | 1 | 16 | 16 |
+| nyt | 1 | 6 | 16 | 35 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -3254,3 +3254,4 @@
 - **Apr 11, 07:29 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 11, 07:43 AM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
 - **Apr 11, 07:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 07:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
