@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 26 | 51 |
 | breaking_defense | 2 | 4 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 2 | 2 | 8 | 8 |
 
@@ -3237,3 +3237,4 @@
 - **Apr 11, 03:55 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 11, 04:09 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
 - **Apr 11, 04:23 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
+- **Apr 11, 04:37 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
