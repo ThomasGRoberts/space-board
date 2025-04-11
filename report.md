@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 25 | 50 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 35 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -3243,3 +3243,4 @@
 - **Apr 11, 06:25 AM** - LeoLabs unveils mobile radar for space surveillance (spacenews)
 - **Apr 11, 06:33 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 11, 06:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 06:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
