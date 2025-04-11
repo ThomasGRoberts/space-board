@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8720,6 +8720,20 @@
             "fetched_datetime": "2025-04-11T02:55:21.194384Z",
             "shown_at": [
                 "2025-04-11T02:55:21.741956Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-11T05:24:00.000Z",
+            "time_remaining": "0d 01h 58m",
+            "fetched_datetime": "2025-04-11T03:25:37.809555Z",
+            "shown_at": [
+                "2025-04-11T03:25:38.368509Z"
             ]
         }
     ]
