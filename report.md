@@ -5,7 +5,7 @@
 | spacenews | 11 | 27 | 22 | 49 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
-| nyt | 1 | 6 | 16 | 35 |
+| nyt | 1 | 6 | 17 | 36 |
 | supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
@@ -3313,3 +3313,4 @@
 - **Apr 11, 01:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 01:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 01:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 01:43 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
