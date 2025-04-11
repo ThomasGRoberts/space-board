@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 28 | 23 | 49 |
 | breaking_defense | 2 | 4 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 33 |
+| aidy | 1 | 2 | 17 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -3284,3 +3284,4 @@
 - **Apr 11, 10:35 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 10:37 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 11, 10:51 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
+- **Apr 11, 11:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
