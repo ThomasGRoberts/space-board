@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 30 | 24 | 50 |
+| spacenews | 15 | 30 | 25 | 51 |
 | breaking_defense | 2 | 4 | 17 | 35 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
@@ -3274,3 +3274,4 @@
 - **Apr 11, 09:21 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 11, 09:35 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 11, 09:51 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
+- **Apr 11, 10:07 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
