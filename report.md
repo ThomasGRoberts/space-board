@@ -5,7 +5,7 @@
 | spacenews | 14 | 30 | 26 | 53 |
 | breaking_defense | 2 | 7 | 19 | 39 |
 | aidy | 1 | 2 | 17 | 33 |
-| nyt | 1 | 6 | 17 | 35 |
+| nyt | 1 | 6 | 18 | 36 |
 | supercluster | 0 | 1 | 125 | 126 |
 
 # Shown Order
@@ -3345,3 +3345,4 @@
 - **Apr 11, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:32 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
+- **Apr 11, 12:47 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
