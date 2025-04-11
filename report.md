@@ -3223,4 +3223,4 @@
 - **Apr 11, 01:02 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
-- **Apr 11, 02:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 02:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
