@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 27 | 23 | 49 |
-| breaking_defense | 2 | 4 | 17 | 35 |
+| breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 33 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 43 | 43 |
@@ -3293,3 +3293,4 @@
 - **Apr 11, 11:41 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 11, 11:47 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
