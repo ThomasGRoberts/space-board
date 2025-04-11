@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 30 | 25 | 52 |
+| spacenews | 14 | 30 | 26 | 53 |
 | breaking_defense | 2 | 7 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 33 |
+| aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 6 | 18 | 35 |
 | supercluster | 1 | 1 | 119 | 119 |
 
@@ -3336,3 +3336,4 @@
 - **Apr 10, 11:19 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 10, 11:35 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 10, 11:49 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 11, 12:03 AM** - Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix (spacenews)
