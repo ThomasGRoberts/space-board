@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 29 | 25 | 50 |
+| spacenews | 15 | 30 | 26 | 51 |
 | breaking_defense | 2 | 4 | 18 | 36 |
 | aidy | 1 | 2 | 16 | 34 |
 | nyt | 1 | 6 | 17 | 36 |
@@ -3236,3 +3236,4 @@
 - **Apr 11, 03:41 AM** - Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission (spacenews)
 - **Apr 11, 03:55 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 11, 04:09 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
+- **Apr 11, 04:23 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)

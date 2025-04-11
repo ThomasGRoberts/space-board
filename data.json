@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
-    "trigger_count": 6,
-    "current_item_id": "82abc7bd6dcedc5f01ee8279301b881e",
+    "trigger_count": 0,
+    "current_item_id": "6508922f3aad430a31e4eab367a9a449",
     "data": [
         {
             "id": "49e94c8187624e0ffa41cad268446798",
@@ -8754,6 +8754,18 @@
             "fetched_datetime": "2025-04-11T04:09:43.193968Z",
             "shown_at": [
                 "2025-04-11T04:09:45.769143Z"
+            ]
+        },
+        {
+            "id": "6508922f3aad430a31e4eab367a9a449",
+            "source": "spacenews",
+            "text": "Space Force official: Trump’s executive order validates current commercial strategy",
+            "source_link": "https://spacenews.com/space-force-official-trumps-executive-order-validates-current-commercial-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-11T04:23:33.307807Z",
+            "shown_at": [
+                "2025-04-11T04:23:33.964721Z"
             ]
         }
     ]
