@@ -1,9 +1,359 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-10T00:02:03.543623+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-04-11T00:02:01.784178+00:00",
+    "trigger_count": 6,
     "current_item_id": "35b44693f1b6625d95a38e89c3f60cea",
     "data": [
+        {
+            "id": "49e94c8187624e0ffa41cad268446798",
+            "source": "spacenews",
+            "text": "China launches TJS-17, expanding classified geostationary satellite series",
+            "source_link": "https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T21:39:39.771614Z",
+            "shown_at": [
+                "2025-04-10T21:39:40.943906Z"
+            ]
+        },
+        {
+            "id": "11bd5d5768403581f271b85aa5a76c49",
+            "source": "breaking_defense",
+            "text": "Space Force takes ownership of first Meadowlands satellite jammer",
+            "source_link": "https://breakingdefense.com/2025/04/space-force-takes-ownership-of-first-meadowlands-satellite-jammer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T20:57:25.918030Z",
+            "shown_at": [
+                "2025-04-10T20:57:26.523232Z"
+            ]
+        },
+        {
+            "id": "b7c4e9429db40dd79f3363fee623a188",
+            "source": "spacenews",
+            "text": "Space Forge sees LEO as key to strengthening US chip independence",
+            "source_link": "https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T20:13:32.473864Z",
+            "shown_at": [
+                "2025-04-10T20:13:33.831798Z"
+            ]
+        },
+        {
+            "id": "b9553177eb364e76e812459c33967217",
+            "source": "spacenews",
+            "text": "Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems",
+            "source_link": "https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T19:03:26.717922Z",
+            "shown_at": [
+                "2025-04-10T19:17:43.287928Z"
+            ]
+        },
+        {
+            "id": "0c552a9743994384be3b59c3773c523e",
+            "source": "spacenews",
+            "text": "Vast signs three more payload partners for Haven-1",
+            "source_link": "https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T19:03:26.717808Z",
+            "shown_at": [
+                "2025-04-10T19:03:27.244105Z"
+            ]
+        },
+        {
+            "id": "c43e18a8a4bbe1175a4347fcc843a197",
+            "source": "spacenews",
+            "text": "Rise of the ‘twin’",
+            "source_link": "https://spacenews.com/rise-of-the-twin/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T15:41:49.040625Z",
+            "shown_at": [
+                "2025-04-10T15:55:45.750998Z"
+            ]
+        },
+        {
+            "id": "470107fccb2dafc66aebc8436c44344c",
+            "source": "spacenews",
+            "text": "TraCSS moves into next phase of development",
+            "source_link": "https://spacenews.com/tracss-moves-into-next-phase-of-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T15:41:49.040569Z",
+            "shown_at": [
+                "2025-04-10T15:41:50.050097Z"
+            ]
+        },
+        {
+            "id": "c634efbdd65fd8a30662a79126accb71",
+            "source": "breaking_defense",
+            "text": "Contracts for SSC’s next iteration of MEO missile tracking satellites delayed",
+            "source_link": "https://breakingdefense.com/2025/04/contracts-for-sscs-next-iteration-of-meo-missile-tracking-satellites-delayed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T15:28:01.087400Z",
+            "shown_at": [
+                "2025-04-10T15:28:01.780221Z"
+            ]
+        },
+        {
+            "id": "0e98941db4ac71ac6597c9fc980b9655",
+            "source": "spacenews",
+            "text": "True commercial alternatives for strategic communications and PNT don’t  exist — yet",
+            "source_link": "https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:57:21.480702Z",
+            "shown_at": [
+                "2025-04-10T15:13:28.686491Z"
+            ]
+        },
+        {
+            "id": "299fffc74bb90451488473473b1d8026",
+            "source": "spacenews",
+            "text": "Indian propulsion maker joins US expansion push",
+            "source_link": "https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:57:21.480648Z",
+            "shown_at": [
+                "2025-04-10T14:57:22.029671Z"
+            ]
+        },
+        {
+            "id": "ca79886f8c3805a45e0d18cb24183826",
+            "source": "spacenews",
+            "text": "Türkiye’s space future: An ambitious path ahead",
+            "source_link": "https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T14:15:27.254222Z",
+            "shown_at": [
+                "2025-04-10T14:15:27.829055Z"
+            ]
+        },
+        {
+            "id": "3e5e396018644ee7189ff5c244532c9f",
+            "source": "spacenews",
+            "text": "Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory",
+            "source_link": "https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T13:02:18.380293Z",
+            "shown_at": [
+                "2025-04-10T13:17:45.177083Z",
+                "2025-04-10T22:49:45.992776Z"
+            ]
+        },
+        {
+            "id": "58d7b4c5bf248424884e309f3a21ac7b",
+            "source": "spacenews",
+            "text": "Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system",
+            "source_link": "https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T13:02:18.380232Z",
+            "shown_at": [
+                "2025-04-10T13:02:19.445397Z"
+            ]
+        },
+        {
+            "id": "9b696a5c8cb877aeb58bf8dbf57d840b",
+            "source": "spacenews",
+            "text": "Outgrowing Napoleon: How the Space Force can modernize its ranks",
+            "source_link": "https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T11:37:29.036880Z",
+            "shown_at": [
+                "2025-04-10T11:37:29.579890Z"
+            ]
+        },
+        {
+            "id": "b3909baac645d34a77164985853f9417",
+            "source": "spacenews",
+            "text": "Rocket Lab sees demand for Electron despite rideshare competition",
+            "source_link": "https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T10:41:32.311205Z",
+            "shown_at": [
+                "2025-04-10T10:41:32.974859Z"
+            ]
+        },
+        {
+            "id": "bc3f63af3fb12946a4aedd37cb5be119",
+            "source": "spacenews",
+            "text": "A ‘little pillow fort’: Making plans to protect the Artemis 2 crew",
+            "source_link": "https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T10:11:38.509059Z",
+            "shown_at": [
+                "2025-04-10T10:11:39.211949Z"
+            ]
+        },
+        {
+            "id": "d13847197b7fc5ed1dacb2f5a560093b",
+            "source": "aidy",
+            "text": "Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T07:37:39.140248Z",
+            "shown_at": [
+                "2025-04-10T07:37:40.146633Z"
+            ]
+        },
+        {
+            "id": "51e69bfd08f20ddd6b9d34f453699aa5",
+            "source": "nyt",
+            "text": "Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed",
+            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-10T00:59:03.552993Z",
+            "shown_at": [
+                "2025-04-10T00:59:04.240860Z",
+                "2025-04-10T04:31:56.946691Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-11T01:43:00.000Z",
+            "time_remaining": "0d 02h 25m",
+            "fetched_datetime": "2025-04-10T00:45:40.353773Z",
+            "shown_at": [
+                "2025-04-10T00:45:41.045479Z",
+                "2025-04-10T00:47:27.769974Z",
+                "2025-04-10T00:49:38.618024Z",
+                "2025-04-10T00:51:43.782076Z",
+                "2025-04-10T00:53:42.481583Z",
+                "2025-04-10T00:55:26.048575Z",
+                "2025-04-10T00:57:36.255320Z",
+                "2025-04-10T01:55:49.979558Z",
+                "2025-04-10T01:57:27.638797Z",
+                "2025-04-10T01:59:47.359227Z",
+                "2025-04-10T02:02:16.820081Z",
+                "2025-04-10T02:05:39.263275Z",
+                "2025-04-10T02:07:41.751237Z",
+                "2025-04-10T02:09:32.584857Z",
+                "2025-04-10T03:07:09.652661Z",
+                "2025-04-10T03:09:34.390922Z",
+                "2025-04-10T03:11:34.881477Z",
+                "2025-04-10T03:13:29.008217Z",
+                "2025-04-10T03:15:44.791783Z",
+                "2025-04-10T03:17:51.133014Z",
+                "2025-04-10T03:19:22.126962Z",
+                "2025-04-10T04:17:40.250094Z",
+                "2025-04-10T04:19:31.606609Z",
+                "2025-04-10T04:21:08.427962Z",
+                "2025-04-10T04:23:29.221650Z",
+                "2025-04-10T04:25:25.296090Z",
+                "2025-04-10T04:27:33.950547Z",
+                "2025-04-10T04:29:33.705632Z",
+                "2025-04-10T05:29:34.948095Z",
+                "2025-04-10T05:31:46.640683Z",
+                "2025-04-10T05:33:27.991762Z",
+                "2025-04-10T05:35:36.077229Z",
+                "2025-04-10T05:37:29.086932Z",
+                "2025-04-10T05:39:05.898880Z",
+                "2025-04-10T05:41:31.130346Z",
+                "2025-04-10T06:41:35.327978Z",
+                "2025-04-10T06:43:31.186422Z",
+                "2025-04-10T06:45:34.896756Z",
+                "2025-04-10T06:47:27.303933Z",
+                "2025-04-10T06:49:29.821453Z",
+                "2025-04-10T06:51:30.068095Z",
+                "2025-04-10T06:53:26.173471Z",
+                "2025-04-10T07:51:43.741401Z",
+                "2025-04-10T07:53:25.170869Z",
+                "2025-04-10T07:55:32.818373Z",
+                "2025-04-10T07:57:44.713517Z",
+                "2025-04-10T07:59:31.408417Z",
+                "2025-04-10T08:02:02.320203Z",
+                "2025-04-10T08:03:23.267047Z",
+                "2025-04-10T09:02:09.108362Z",
+                "2025-04-10T09:03:14.631653Z",
+                "2025-04-10T09:05:41.190730Z",
+                "2025-04-10T09:07:29.493042Z",
+                "2025-04-10T09:09:31.604151Z",
+                "2025-04-10T09:11:33.109613Z",
+                "2025-04-10T09:13:26.912736Z",
+                "2025-04-10T10:25:47.997386Z",
+                "2025-04-10T10:27:21.913617Z",
+                "2025-04-10T10:29:21.427470Z",
+                "2025-04-10T10:32:09.437230Z",
+                "2025-04-10T10:35:27.545993Z",
+                "2025-04-10T10:37:31.428812Z",
+                "2025-04-10T10:39:39.214526Z",
+                "2025-04-10T11:51:48.914552Z",
+                "2025-04-10T11:53:45.941458Z",
+                "2025-04-10T11:55:23.620997Z",
+                "2025-04-10T11:57:42.256982Z",
+                "2025-04-10T11:59:26.332371Z",
+                "2025-04-10T12:01:58.911924Z",
+                "2025-04-10T12:03:29.933223Z",
+                "2025-04-10T13:31:50.923614Z",
+                "2025-04-10T13:33:32.741269Z",
+                "2025-04-10T13:35:22.199532Z",
+                "2025-04-10T13:37:26.052477Z",
+                "2025-04-10T13:39:33.753298Z",
+                "2025-04-10T13:41:32.688688Z",
+                "2025-04-10T13:43:29.018289Z",
+                "2025-04-10T16:11:34.821459Z",
+                "2025-04-10T16:13:33.704640Z",
+                "2025-04-10T16:15:29.665886Z",
+                "2025-04-10T16:17:25.365118Z",
+                "2025-04-10T16:19:41.646340Z",
+                "2025-04-10T16:21:59.922140Z",
+                "2025-04-10T16:23:24.576476Z",
+                "2025-04-10T18:07:40.525164Z",
+                "2025-04-10T18:09:37.767884Z",
+                "2025-04-10T18:11:33.311773Z",
+                "2025-04-10T18:13:33.297646Z",
+                "2025-04-10T18:15:21.173463Z",
+                "2025-04-10T18:17:26.556362Z",
+                "2025-04-10T18:19:13.243835Z",
+                "2025-04-10T19:31:44.270551Z",
+                "2025-04-10T19:33:35.511978Z",
+                "2025-04-10T19:35:21.318536Z",
+                "2025-04-10T19:37:22.697456Z",
+                "2025-04-10T19:39:35.831906Z",
+                "2025-04-10T19:41:28.858934Z",
+                "2025-04-10T19:43:29.689349Z",
+                "2025-04-10T20:43:28.767027Z",
+                "2025-04-10T20:45:25.731409Z",
+                "2025-04-10T20:47:39.477789Z",
+                "2025-04-10T20:49:29.647402Z",
+                "2025-04-10T20:51:25.917794Z",
+                "2025-04-10T20:53:45.245151Z",
+                "2025-04-10T20:55:36.326008Z",
+                "2025-04-10T21:53:38.380052Z",
+                "2025-04-10T21:55:25.988931Z",
+                "2025-04-10T21:57:37.194223Z",
+                "2025-04-10T21:59:32.493097Z",
+                "2025-04-10T22:01:32.514851Z",
+                "2025-04-10T22:03:44.481169Z",
+                "2025-04-10T22:05:30.811265Z",
+                "2025-04-10T23:05:31.073827Z",
+                "2025-04-10T23:07:20.839750Z",
+                "2025-04-10T23:09:40.013972Z",
+                "2025-04-10T23:11:28.502552Z",
+                "2025-04-10T23:13:24.750693Z",
+                "2025-04-10T23:15:26.684145Z",
+                "2025-04-10T23:17:27.707126Z"
+            ]
+        },
         {
             "id": "708f1b7722a8cf37850d099f0d7c7c74",
             "source": "nyt",
@@ -8480,704 +8830,6 @@
                 "2025-02-21T17:53:35.237872Z",
                 "2025-02-22T03:19:28.959000Z",
                 "2025-02-22T08:02:13.356489Z"
-            ]
-        },
-        {
-            "id": "d4ecfdba840619633449fa3ccfd4968f",
-            "source": "spacenews",
-            "text": "AI to power China’s mission to the edges of the solar system",
-            "source_link": "https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T11:19:47.414989Z",
-            "shown_at": [
-                "2025-02-21T11:19:48.819796Z",
-                "2025-02-24T09:51:39.851970Z"
-            ]
-        },
-        {
-            "id": "61cb810a0e54111b3d6e7b87cb934097",
-            "source": "spacenews",
-            "text": "Isar Aerospace completes testing of first Spectrum rocket",
-            "source_link": "https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T11:05:28.595168Z",
-            "shown_at": [
-                "2025-02-21T11:05:29.191366Z",
-                "2025-02-23T06:07:37.644865Z",
-                "2025-02-23T10:49:48.379363Z"
-            ]
-        },
-        {
-            "id": "fbfd92bebbd97f755b1f7a8b977521d0",
-            "source": "aidy",
-            "text": "NASA Reverses Employee Terminations Amid Protests and Congressional Pressure",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T08:41:33.989841Z",
-            "shown_at": [
-                "2025-02-21T08:41:34.457154Z",
-                "2025-02-22T00:02:04.015680Z",
-                "2025-02-22T03:47:41.587470Z",
-                "2025-02-22T09:55:47.741637Z",
-                "2025-02-22T14:27:33.048099Z",
-                "2025-02-22T16:47:29.149086Z",
-                "2025-02-22T17:59:38.880700Z",
-                "2025-02-23T03:15:48.786318Z",
-                "2025-02-23T17:17:32.027456Z",
-                "2025-02-23T20:51:35.910912Z",
-                "2025-02-23T22:03:37.025279Z",
-                "2025-02-24T07:29:26.867557Z",
-                "2025-02-24T13:19:32.934202Z",
-                "2025-02-24T16:19:32.428761Z",
-                "2025-02-24T18:47:46.238655Z",
-                "2025-02-24T21:15:31.177293Z",
-                "2025-02-26T06:09:42.653018Z",
-                "2025-02-26T07:19:42.750348Z",
-                "2025-02-26T10:10:27.046644Z",
-                "2025-02-26T23:15:34.090401Z",
-                "2025-02-27T06:22:00.341850Z"
-            ]
-        },
-        {
-            "id": "fc2de52289db650d7caf30732f8ede45",
-            "source": "spacenews",
-            "text": "ABL Space renamed Long Wall as it shifts focus to defense market ",
-            "source_link": "https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-21T02:13:24.575107Z",
-            "shown_at": [
-                "2025-02-21T02:13:25.075085Z",
-                "2025-02-21T05:51:18.508503Z",
-                "2025-02-22T19:39:30.598391Z",
-                "2025-02-25T18:21:41.144504Z"
-            ]
-        },
-        {
-            "id": "8a68708d899d488b8a729be11d69d9fc",
-            "source": "spacenews",
-            "text": "Musk calls for deorbiting ISS “as soon as possible”",
-            "source_link": "https://spacenews.com/musk-calls-for-deorbiting-iss-as-soon-as-possible/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T21:35:20.263330Z",
-            "shown_at": [
-                "2025-02-20T21:35:20.751876Z",
-                "2025-02-24T20:59:46.529463Z",
-                "2025-02-26T09:37:42.627049Z"
-            ]
-        },
-        {
-            "id": "067f1f188024238ae089c8b89a8a2a33",
-            "source": "spacenews",
-            "text": "Airbus takes another 300 million euros in space program charges",
-            "source_link": "https://spacenews.com/airbus-takes-another-300-million-euros-in-space-program-charges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T16:19:33.369714Z",
-            "shown_at": [
-                "2025-02-20T16:19:33.822225Z",
-                "2025-02-21T20:57:32.515327Z",
-                "2025-02-22T20:49:34.901532Z",
-                "2025-02-25T07:07:34.611224Z"
-            ]
-        },
-        {
-            "id": "2021c3532d1520b1bf0be7758db9e5d0",
-            "source": "spacenews",
-            "text": "China readies Tianwen-2 asteroid sample return spacecraft for launch",
-            "source_link": "https://spacenews.com/china-readies-tianwen-2-asteroid-sample-return-spacecraft-for-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T15:06:05.784045Z",
-            "shown_at": [
-                "2025-02-20T15:22:03.924563Z",
-                "2025-02-23T12:02:16.319787Z",
-                "2025-02-24T02:53:43.383054Z"
-            ]
-        },
-        {
-            "id": "3a183b5af07693b50712bebc40f7fbc6",
-            "source": "spacenews",
-            "text": "Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab",
-            "source_link": "https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T15:06:05.783995Z",
-            "shown_at": [
-                "2025-02-20T15:06:06.788349Z",
-                "2025-02-22T17:17:33.189812Z",
-                "2025-02-23T02:33:33.740955Z",
-                "2025-02-23T15:39:40.227421Z",
-                "2025-02-26T03:46:01.467890Z"
-            ]
-        },
-        {
-            "id": "6a3dfb25f005061298bac351fe249e16",
-            "source": "spacenews",
-            "text": "Companies are planning to build space critical infrastructure. Can space policy keep up?",
-            "source_link": "https://spacenews.com/companies-are-planning-to-build-space-critical-infrastructure-can-space-policy-keep-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T14:09:31.215100Z",
-            "shown_at": [
-                "2025-02-20T14:09:31.810799Z",
-                "2025-02-21T03:25:36.535087Z",
-                "2025-02-22T02:09:33.437103Z",
-                "2025-02-25T13:49:49.269589Z",
-                "2025-02-26T12:13:47.188789Z"
-            ]
-        },
-        {
-            "id": "a5fde7b069e28c28a16868980ae8d07f",
-            "source": "spacenews",
-            "text": "Jim Free, NASA associate administrator, to retire",
-            "source_link": "https://spacenews.com/jim-free-nasa-associate-administrator-to-retire/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T12:59:36.839344Z",
-            "shown_at": [
-                "2025-02-20T12:59:37.311855Z",
-                "2025-02-21T09:27:41.477210Z",
-                "2025-02-22T11:51:56.761396Z"
-            ]
-        },
-        {
-            "id": "145622462ec776c373a1f05e63c62fe1",
-            "source": "aidy",
-            "text": "Boeing Faces Potential Layoffs Amid Artemis Program Revisions and Cost Adjustments",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T08:45:33.936322Z",
-            "shown_at": [
-                "2025-02-20T08:45:34.399652Z",
-                "2025-02-21T06:33:47.011029Z",
-                "2025-02-21T21:25:37.906617Z",
-                "2025-02-22T08:32:05.252920Z",
-                "2025-02-22T13:15:46.905214Z",
-                "2025-02-22T15:37:45.047130Z",
-                "2025-02-23T00:51:32.084466Z",
-                "2025-02-23T07:59:35.316003Z",
-                "2025-02-23T13:32:18.193235Z",
-                "2025-02-23T14:43:35.035721Z",
-                "2025-02-23T15:53:28.466570Z",
-                "2025-02-24T03:09:45.349425Z",
-                "2025-02-24T14:45:38.530225Z",
-                "2025-02-24T23:59:41.189627Z",
-                "2025-02-25T20:13:46.387260Z",
-                "2025-02-25T23:21:39.650722Z",
-                "2025-02-26T03:01:57.555867Z",
-                "2025-02-26T12:59:36.135444Z",
-                "2025-02-26T14:24:18.936431Z",
-                "2025-02-26T18:15:26.831184Z",
-                "2025-02-27T01:55:29.405370Z",
-                "2025-02-27T03:05:35.122242Z"
-            ]
-        },
-        {
-            "id": "170e28e8ad5dc329de130b1dbc0539df",
-            "source": "spacenews",
-            "text": "Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative",
-            "source_link": "https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-20T00:05:44.033196Z",
-            "shown_at": [
-                "2025-02-20T00:05:45.057541Z",
-                "2025-02-20T00:19:36.109064Z",
-                "2025-02-20T03:09:31.166785Z",
-                "2025-02-20T09:47:33.605067Z",
-                "2025-02-21T01:13:15.007604Z",
-                "2025-02-21T08:12:22.252123Z"
-            ]
-        },
-        {
-            "id": "eb2da238b93b22648f9dd8fafeb8d2e3",
-            "source": "spacenews",
-            "text": "The State of Orbital Traffic Management – Replay",
-            "source_link": "https://spacenews.com/the-state-of-orbital-traffic-management/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T23:49:33.933424Z",
-            "shown_at": [
-                "2025-02-19T23:49:34.622316Z",
-                "2025-02-20T05:09:28.388996Z",
-                "2025-02-21T14:47:44.862746Z",
-                "2025-02-22T16:05:27.878716Z",
-                "2025-02-24T16:02:08.110418Z"
-            ]
-        },
-        {
-            "id": "6f121d666e9b350b849f63abe66b4bcf",
-            "source": "spacenews",
-            "text": "Defense executives demand clarity on space agencies’ missions",
-            "source_link": "https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T23:21:36.238621Z",
-            "shown_at": [
-                "2025-02-19T23:21:36.724608Z",
-                "2025-02-20T01:02:14.552789Z",
-                "2025-02-21T16:41:36.999763Z",
-                "2025-02-24T00:11:34.522014Z",
-                "2025-02-24T11:19:44.780502Z"
-            ]
-        },
-        {
-            "id": "cbcbec7a929ce6d440a89f15a6264e28",
-            "source": "breaking_defense",
-            "text": "DoD needs to clarify Space Force roles and missions: Mitchell workshop",
-            "source_link": "https://breakingdefense.com/2025/02/dod-needs-to-clarify-space-force-roles-and-missions-mitchell-workshop/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T21:29:46.427932Z",
-            "shown_at": [
-                "2025-02-19T21:30:03.381132Z",
-                "2025-02-20T09:33:36.455606Z",
-                "2025-02-20T11:02:05.468487Z",
-                "2025-02-20T17:19:45.044820Z",
-                "2025-02-20T20:53:30.875220Z",
-                "2025-02-21T03:09:31.411448Z",
-                "2025-02-21T09:13:40.640222Z",
-                "2025-02-21T10:23:32.800250Z",
-                "2025-02-21T23:47:30.518033Z",
-                "2025-02-22T04:43:29.151273Z",
-                "2025-02-22T16:19:26.909085Z",
-                "2025-02-22T22:13:40.590030Z",
-                "2025-02-23T05:11:44.745269Z",
-                "2025-02-23T07:31:56.065935Z",
-                "2025-02-23T12:47:58.509102Z",
-                "2025-02-24T03:23:27.223849Z",
-                "2025-02-24T07:43:45.140672Z",
-                "2025-02-24T17:45:35.404642Z",
-                "2025-02-24T20:13:30.273335Z",
-                "2025-02-25T00:45:27.890866Z",
-                "2025-02-25T07:21:41.305810Z",
-                "2025-02-25T11:11:37.928123Z",
-                "2025-02-25T16:55:30.362781Z"
-            ]
-        },
-        {
-            "id": "2f2b7792fcaea0a869061da6f72724e8",
-            "source": "spacenews",
-            "text": "OQ Technology gets EU funds to accelerate direct-to-smartphone efforts",
-            "source_link": "https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T21:15:42.304413Z",
-            "shown_at": [
-                "2025-02-19T21:15:42.845761Z",
-                "2025-02-20T06:05:28.978647Z",
-                "2025-02-22T05:39:26.924542Z",
-                "2025-02-26T15:53:42.705464Z",
-                "2025-02-26T21:07:54.820628Z"
-            ]
-        },
-        {
-            "id": "b9dadcba91d027f68b208bac2e4516a7",
-            "source": "breaking_defense",
-            "text": "In response to Viasat suit, SDA will recompete 10-satellite award to Tyvak",
-            "source_link": "https://breakingdefense.com/2025/02/in-response-to-viasat-suit-sda-will-recompete-10-satellite-award-to-tyvak/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T19:35:26.627876Z",
-            "shown_at": [
-                "2025-02-19T19:35:27.174852Z",
-                "2025-02-19T20:03:42.481346Z",
-                "2025-02-20T07:17:38.557643Z",
-                "2025-02-20T07:47:53.035933Z",
-                "2025-02-20T13:27:15.302073Z",
-                "2025-02-20T23:29:29.201616Z",
-                "2025-02-21T04:23:49.254148Z",
-                "2025-02-21T13:17:51.298453Z",
-                "2025-02-22T01:13:43.704429Z",
-                "2025-02-23T01:37:45.406396Z",
-                "2025-02-23T11:33:39.142543Z",
-                "2025-02-23T16:21:33.199576Z",
-                "2025-02-23T18:45:57.668461Z",
-                "2025-02-24T04:35:43.852634Z",
-                "2025-02-24T06:33:38.209347Z",
-                "2025-02-24T21:29:36.741728Z",
-                "2025-02-25T02:59:43.201985Z",
-                "2025-02-25T08:47:47.753735Z",
-                "2025-02-25T12:23:57.001903Z",
-                "2025-02-26T02:05:41.160239Z",
-                "2025-02-26T04:27:36.866008Z",
-                "2025-02-26T07:33:32.668521Z",
-                "2025-02-26T09:09:45.847280Z",
-                "2025-02-26T10:27:31.155560Z",
-                "2025-02-26T13:13:39.311511Z"
-            ]
-        },
-        {
-            "id": "71b5797454b8d0d94edf31eab52e6f78",
-            "source": "spacenews",
-            "text": "Report: Space Force strategy, resources insufficient to counter China",
-            "source_link": "https://spacenews.com/report-space-force-strategy-resources-insufficient-to-counter-china/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-19T18:03:30.486997Z",
-            "shown_at": [
-                "2025-02-19T18:03:30.909199Z",
-                "2025-02-19T19:07:53.777034Z",
-                "2025-02-20T01:17:48.899021Z",
-                "2025-02-21T22:09:40.734638Z",
-                "2025-02-26T05:47:32.758267Z",
-                "2025-02-26T08:02:22.192964Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-11T01:43:00.000Z",
-            "time_remaining": "0d 02h 25m",
-            "fetched_datetime": "2025-04-10T00:45:40.353773Z",
-            "shown_at": [
-                "2025-04-10T00:45:41.045479Z",
-                "2025-04-10T00:47:27.769974Z",
-                "2025-04-10T00:49:38.618024Z",
-                "2025-04-10T00:51:43.782076Z",
-                "2025-04-10T00:53:42.481583Z",
-                "2025-04-10T00:55:26.048575Z",
-                "2025-04-10T00:57:36.255320Z",
-                "2025-04-10T01:55:49.979558Z",
-                "2025-04-10T01:57:27.638797Z",
-                "2025-04-10T01:59:47.359227Z",
-                "2025-04-10T02:02:16.820081Z",
-                "2025-04-10T02:05:39.263275Z",
-                "2025-04-10T02:07:41.751237Z",
-                "2025-04-10T02:09:32.584857Z",
-                "2025-04-10T03:07:09.652661Z",
-                "2025-04-10T03:09:34.390922Z",
-                "2025-04-10T03:11:34.881477Z",
-                "2025-04-10T03:13:29.008217Z",
-                "2025-04-10T03:15:44.791783Z",
-                "2025-04-10T03:17:51.133014Z",
-                "2025-04-10T03:19:22.126962Z",
-                "2025-04-10T04:17:40.250094Z",
-                "2025-04-10T04:19:31.606609Z",
-                "2025-04-10T04:21:08.427962Z",
-                "2025-04-10T04:23:29.221650Z",
-                "2025-04-10T04:25:25.296090Z",
-                "2025-04-10T04:27:33.950547Z",
-                "2025-04-10T04:29:33.705632Z",
-                "2025-04-10T05:29:34.948095Z",
-                "2025-04-10T05:31:46.640683Z",
-                "2025-04-10T05:33:27.991762Z",
-                "2025-04-10T05:35:36.077229Z",
-                "2025-04-10T05:37:29.086932Z",
-                "2025-04-10T05:39:05.898880Z",
-                "2025-04-10T05:41:31.130346Z",
-                "2025-04-10T06:41:35.327978Z",
-                "2025-04-10T06:43:31.186422Z",
-                "2025-04-10T06:45:34.896756Z",
-                "2025-04-10T06:47:27.303933Z",
-                "2025-04-10T06:49:29.821453Z",
-                "2025-04-10T06:51:30.068095Z",
-                "2025-04-10T06:53:26.173471Z",
-                "2025-04-10T07:51:43.741401Z",
-                "2025-04-10T07:53:25.170869Z",
-                "2025-04-10T07:55:32.818373Z",
-                "2025-04-10T07:57:44.713517Z",
-                "2025-04-10T07:59:31.408417Z",
-                "2025-04-10T08:02:02.320203Z",
-                "2025-04-10T08:03:23.267047Z",
-                "2025-04-10T09:02:09.108362Z",
-                "2025-04-10T09:03:14.631653Z",
-                "2025-04-10T09:05:41.190730Z",
-                "2025-04-10T09:07:29.493042Z",
-                "2025-04-10T09:09:31.604151Z",
-                "2025-04-10T09:11:33.109613Z",
-                "2025-04-10T09:13:26.912736Z",
-                "2025-04-10T10:25:47.997386Z",
-                "2025-04-10T10:27:21.913617Z",
-                "2025-04-10T10:29:21.427470Z",
-                "2025-04-10T10:32:09.437230Z",
-                "2025-04-10T10:35:27.545993Z",
-                "2025-04-10T10:37:31.428812Z",
-                "2025-04-10T10:39:39.214526Z",
-                "2025-04-10T11:51:48.914552Z",
-                "2025-04-10T11:53:45.941458Z",
-                "2025-04-10T11:55:23.620997Z",
-                "2025-04-10T11:57:42.256982Z",
-                "2025-04-10T11:59:26.332371Z",
-                "2025-04-10T12:01:58.911924Z",
-                "2025-04-10T12:03:29.933223Z",
-                "2025-04-10T13:31:50.923614Z",
-                "2025-04-10T13:33:32.741269Z",
-                "2025-04-10T13:35:22.199532Z",
-                "2025-04-10T13:37:26.052477Z",
-                "2025-04-10T13:39:33.753298Z",
-                "2025-04-10T13:41:32.688688Z",
-                "2025-04-10T13:43:29.018289Z",
-                "2025-04-10T16:11:34.821459Z",
-                "2025-04-10T16:13:33.704640Z",
-                "2025-04-10T16:15:29.665886Z",
-                "2025-04-10T16:17:25.365118Z",
-                "2025-04-10T16:19:41.646340Z",
-                "2025-04-10T16:21:59.922140Z",
-                "2025-04-10T16:23:24.576476Z",
-                "2025-04-10T18:07:40.525164Z",
-                "2025-04-10T18:09:37.767884Z",
-                "2025-04-10T18:11:33.311773Z",
-                "2025-04-10T18:13:33.297646Z",
-                "2025-04-10T18:15:21.173463Z",
-                "2025-04-10T18:17:26.556362Z",
-                "2025-04-10T18:19:13.243835Z",
-                "2025-04-10T19:31:44.270551Z",
-                "2025-04-10T19:33:35.511978Z",
-                "2025-04-10T19:35:21.318536Z",
-                "2025-04-10T19:37:22.697456Z",
-                "2025-04-10T19:39:35.831906Z",
-                "2025-04-10T19:41:28.858934Z",
-                "2025-04-10T19:43:29.689349Z",
-                "2025-04-10T20:43:28.767027Z",
-                "2025-04-10T20:45:25.731409Z",
-                "2025-04-10T20:47:39.477789Z",
-                "2025-04-10T20:49:29.647402Z",
-                "2025-04-10T20:51:25.917794Z",
-                "2025-04-10T20:53:45.245151Z",
-                "2025-04-10T20:55:36.326008Z",
-                "2025-04-10T21:53:38.380052Z",
-                "2025-04-10T21:55:25.988931Z",
-                "2025-04-10T21:57:37.194223Z",
-                "2025-04-10T21:59:32.493097Z",
-                "2025-04-10T22:01:32.514851Z",
-                "2025-04-10T22:03:44.481169Z",
-                "2025-04-10T22:05:30.811265Z",
-                "2025-04-10T23:05:31.073827Z",
-                "2025-04-10T23:07:20.839750Z",
-                "2025-04-10T23:09:40.013972Z",
-                "2025-04-10T23:11:28.502552Z",
-                "2025-04-10T23:13:24.750693Z",
-                "2025-04-10T23:15:26.684145Z",
-                "2025-04-10T23:17:27.707126Z"
-            ]
-        },
-        {
-            "id": "51e69bfd08f20ddd6b9d34f453699aa5",
-            "source": "nyt",
-            "text": "Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T00:59:03.552993Z",
-            "shown_at": [
-                "2025-04-10T00:59:04.240860Z",
-                "2025-04-10T04:31:56.946691Z"
-            ]
-        },
-        {
-            "id": "d13847197b7fc5ed1dacb2f5a560093b",
-            "source": "aidy",
-            "text": "Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T07:37:39.140248Z",
-            "shown_at": [
-                "2025-04-10T07:37:40.146633Z"
-            ]
-        },
-        {
-            "id": "bc3f63af3fb12946a4aedd37cb5be119",
-            "source": "spacenews",
-            "text": "A ‘little pillow fort’: Making plans to protect the Artemis 2 crew",
-            "source_link": "https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T10:11:38.509059Z",
-            "shown_at": [
-                "2025-04-10T10:11:39.211949Z"
-            ]
-        },
-        {
-            "id": "b3909baac645d34a77164985853f9417",
-            "source": "spacenews",
-            "text": "Rocket Lab sees demand for Electron despite rideshare competition",
-            "source_link": "https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T10:41:32.311205Z",
-            "shown_at": [
-                "2025-04-10T10:41:32.974859Z"
-            ]
-        },
-        {
-            "id": "9b696a5c8cb877aeb58bf8dbf57d840b",
-            "source": "spacenews",
-            "text": "Outgrowing Napoleon: How the Space Force can modernize its ranks",
-            "source_link": "https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T11:37:29.036880Z",
-            "shown_at": [
-                "2025-04-10T11:37:29.579890Z"
-            ]
-        },
-        {
-            "id": "58d7b4c5bf248424884e309f3a21ac7b",
-            "source": "spacenews",
-            "text": "Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system",
-            "source_link": "https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T13:02:18.380232Z",
-            "shown_at": [
-                "2025-04-10T13:02:19.445397Z"
-            ]
-        },
-        {
-            "id": "3e5e396018644ee7189ff5c244532c9f",
-            "source": "spacenews",
-            "text": "Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory",
-            "source_link": "https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T13:02:18.380293Z",
-            "shown_at": [
-                "2025-04-10T13:17:45.177083Z",
-                "2025-04-10T22:49:45.992776Z"
-            ]
-        },
-        {
-            "id": "ca79886f8c3805a45e0d18cb24183826",
-            "source": "spacenews",
-            "text": "Türkiye’s space future: An ambitious path ahead",
-            "source_link": "https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:15:27.254222Z",
-            "shown_at": [
-                "2025-04-10T14:15:27.829055Z"
-            ]
-        },
-        {
-            "id": "299fffc74bb90451488473473b1d8026",
-            "source": "spacenews",
-            "text": "Indian propulsion maker joins US expansion push",
-            "source_link": "https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:57:21.480648Z",
-            "shown_at": [
-                "2025-04-10T14:57:22.029671Z"
-            ]
-        },
-        {
-            "id": "0e98941db4ac71ac6597c9fc980b9655",
-            "source": "spacenews",
-            "text": "True commercial alternatives for strategic communications and PNT don’t  exist — yet",
-            "source_link": "https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:57:21.480702Z",
-            "shown_at": [
-                "2025-04-10T15:13:28.686491Z"
-            ]
-        },
-        {
-            "id": "c634efbdd65fd8a30662a79126accb71",
-            "source": "breaking_defense",
-            "text": "Contracts for SSC’s next iteration of MEO missile tracking satellites delayed",
-            "source_link": "https://breakingdefense.com/2025/04/contracts-for-sscs-next-iteration-of-meo-missile-tracking-satellites-delayed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:28:01.087400Z",
-            "shown_at": [
-                "2025-04-10T15:28:01.780221Z"
-            ]
-        },
-        {
-            "id": "470107fccb2dafc66aebc8436c44344c",
-            "source": "spacenews",
-            "text": "TraCSS moves into next phase of development",
-            "source_link": "https://spacenews.com/tracss-moves-into-next-phase-of-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:41:49.040569Z",
-            "shown_at": [
-                "2025-04-10T15:41:50.050097Z"
-            ]
-        },
-        {
-            "id": "c43e18a8a4bbe1175a4347fcc843a197",
-            "source": "spacenews",
-            "text": "Rise of the ‘twin’",
-            "source_link": "https://spacenews.com/rise-of-the-twin/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:41:49.040625Z",
-            "shown_at": [
-                "2025-04-10T15:55:45.750998Z"
-            ]
-        },
-        {
-            "id": "0c552a9743994384be3b59c3773c523e",
-            "source": "spacenews",
-            "text": "Vast signs three more payload partners for Haven-1",
-            "source_link": "https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T19:03:26.717808Z",
-            "shown_at": [
-                "2025-04-10T19:03:27.244105Z"
-            ]
-        },
-        {
-            "id": "b9553177eb364e76e812459c33967217",
-            "source": "spacenews",
-            "text": "Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems",
-            "source_link": "https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T19:03:26.717922Z",
-            "shown_at": [
-                "2025-04-10T19:17:43.287928Z"
-            ]
-        },
-        {
-            "id": "b7c4e9429db40dd79f3363fee623a188",
-            "source": "spacenews",
-            "text": "Space Forge sees LEO as key to strengthening US chip independence",
-            "source_link": "https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T20:13:32.473864Z",
-            "shown_at": [
-                "2025-04-10T20:13:33.831798Z"
-            ]
-        },
-        {
-            "id": "11bd5d5768403581f271b85aa5a76c49",
-            "source": "breaking_defense",
-            "text": "Space Force takes ownership of first Meadowlands satellite jammer",
-            "source_link": "https://breakingdefense.com/2025/04/space-force-takes-ownership-of-first-meadowlands-satellite-jammer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T20:57:25.918030Z",
-            "shown_at": [
-                "2025-04-10T20:57:26.523232Z"
-            ]
-        },
-        {
-            "id": "49e94c8187624e0ffa41cad268446798",
-            "source": "spacenews",
-            "text": "China launches TJS-17, expanding classified geostationary satellite series",
-            "source_link": "https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T21:39:39.771614Z",
-            "shown_at": [
-                "2025-04-10T21:39:40.943906Z"
             ]
         }
     ]
