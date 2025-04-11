@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 29 | 25 | 50 |
 | breaking_defense | 2 | 4 | 18 | 36 |
-| aidy | 1 | 2 | 16 | 34 |
+| aidy | 1 | 2 | 17 | 35 |
 | nyt | 0 | 6 | 17 | 36 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3225,3 +3225,4 @@
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 11, 02:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 02:57 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
+- **Apr 11, 03:11 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
