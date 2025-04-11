@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 30 | 25 | 50 |
 | breaking_defense | 2 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 15 | 33 |
+| aidy | 1 | 2 | 16 | 34 |
 | nyt | 1 | 6 | 16 | 36 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -3241,3 +3241,4 @@
 - **Apr 11, 05:07 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 11, 05:21 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 11, 06:25 AM** - LeoLabs unveils mobile radar for space surveillance (spacenews)
+- **Apr 11, 06:33 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
