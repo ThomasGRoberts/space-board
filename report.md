@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 25 | 18 | 47 |
 | breaking_defense | 1 | 4 | 17 | 35 |
-| aidy | 1 | 2 | 16 | 32 |
+| aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 5 | 17 | 35 |
 | supercluster | 2 | 2 | 64 | 64 |
 
@@ -3325,3 +3325,4 @@
 - **Apr 11, 03:33 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 03:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 03:43 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
+- **Apr 11, 04:17 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
