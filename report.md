@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 30 | 26 | 53 |
-| breaking_defense | 2 | 7 | 18 | 38 |
+| breaking_defense | 2 | 7 | 19 | 39 |
 | aidy | 1 | 2 | 17 | 33 |
 | nyt | 1 | 6 | 17 | 35 |
 | supercluster | 1 | 1 | 126 | 126 |
@@ -3344,3 +3344,4 @@
 - **Apr 11, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 11, 12:32 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
