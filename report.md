@@ -6,7 +6,6 @@
 | breaking_defense | 2 | 4 | 19 | 38 |
 | aidy | 1 | 2 | 17 | 34 |
 | nyt | 0 | 6 | 17 | 36 |
-| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3222,6 +3221,4 @@
 - **Apr 11, 12:47 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 11, 01:02 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
-- **Apr 11, 01:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
