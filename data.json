@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "519bc35b3ddd5165859ca678e64ee62e",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
@@ -8728,26 +8728,6 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-12T05:11:00.000Z",
-            "time_remaining": "0d 03h 15m",
-            "fetched_datetime": "2025-04-12T01:25:35.149041Z",
-            "shown_at": [
-                "2025-04-12T01:25:36.244693Z",
-                "2025-04-12T01:35:09.551042Z",
-                "2025-04-12T01:37:05.584571Z",
-                "2025-04-12T01:39:21.114513Z",
-                "2025-04-12T01:45:21.802569Z",
-                "2025-04-12T01:49:43.284391Z",
-                "2025-04-12T01:55:36.991963Z"
-            ]
-        },
-        {
             "id": "2dbe0441410d3c72a6d62540ea39d968",
             "source": "spacenews",
             "text": "NOAA budget proposal would affect weather satellite, other space programs",
@@ -8757,6 +8737,20 @@
             "fetched_datetime": "2025-04-12T02:02:32.930487Z",
             "shown_at": [
                 "2025-04-12T02:02:33.697601Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-17",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-12T05:11:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-04-12T05:15:36.180587Z",
+            "shown_at": [
+                "2025-04-12T05:15:37.160748Z"
             ]
         }
     ]

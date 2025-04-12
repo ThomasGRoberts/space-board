@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 20 | 13 | 38 |
 | breaking_defense | 1 | 3 | 10 | 28 |
-| aidy | 1 | 2 | 10 | 27 |
+| aidy | 1 | 2 | 10 | 26 |
 | nyt | 0 | 1 | 10 | 26 |
-| supercluster | 1 | 2 | 70 | 78 |
+| supercluster | 1 | 2 | 64 | 72 |
 
 # Shown Order
 
@@ -3230,13 +3230,6 @@
 - **Apr 11, 06:31 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 07:07 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 12, 01:03 AM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
-- **Apr 12, 01:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 12, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 02:02 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
 - **Apr 12, 02:23 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 12, 02:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
@@ -3250,3 +3243,4 @@
 - **Apr 12, 04:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 04:17 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
 - **Apr 12, 04:43 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 12, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
