@@ -5,7 +5,7 @@
 | spacenews | 6 | 20 | 14 | 39 |
 | breaking_defense | 1 | 3 | 11 | 29 |
 | aidy | 1 | 2 | 11 | 28 |
-| nyt | 1 | 1 | 11 | 27 |
+| nyt | 1 | 1 | 12 | 28 |
 | supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
@@ -3239,3 +3239,4 @@
 - **Apr 12, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 02:02 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
 - **Apr 12, 02:23 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 12, 02:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
