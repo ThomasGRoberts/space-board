@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 19 | 13 | 39 |
+| spacenews | 5 | 19 | 14 | 40 |
 | breaking_defense | 1 | 3 | 11 | 30 |
 | supercluster | 2 | 2 | 71 | 71 |
-| aidy | 1 | 2 | 12 | 29 |
-| nyt | 1 | 2 | 11 | 29 |
+| aidy | 1 | 2 | 11 | 29 |
+| nyt | 1 | 1 | 11 | 28 |
 
 # Shown Order
 
@@ -3236,3 +3236,4 @@
 - **Apr 11, 06:10 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 06:31 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 11, 07:07 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
+- **Apr 12, 01:03 AM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
