@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 20 | 13 | 39 |
-| breaking_defense | 1 | 3 | 10 | 28 |
-| aidy | 1 | 2 | 11 | 27 |
+| breaking_defense | 1 | 3 | 11 | 29 |
+| aidy | 1 | 2 | 10 | 27 |
 | nyt | 0 | 1 | 10 | 26 |
 | supercluster | 1 | 2 | 77 | 78 |
 
@@ -3249,3 +3249,4 @@
 - **Apr 12, 04:05 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 04:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 04:17 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
+- **Apr 12, 04:43 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
