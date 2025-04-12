@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 8 | 21 |
 | aidy | 1 | 2 | 8 | 21 |
 | nyt | 2 | 3 | 9 | 22 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -3226,3 +3226,4 @@
 - **Apr 12, 10:03 PM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 12, 10:27 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 12, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 10:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
