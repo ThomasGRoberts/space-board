@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 6 | 24 |
 | aidy | 1 | 2 | 7 | 23 |
 | nyt | 1 | 2 | 8 | 24 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3183,3 +3183,4 @@
 - **Apr 12, 11:09 AM** - Bridging the gap between AI hype and reality (spacenews)
 - **Apr 12, 11:45 AM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 12, 12:16 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 12, 01:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
