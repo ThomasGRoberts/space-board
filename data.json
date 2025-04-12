@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "6d7cce57f037ea40b929e13085692367",
     "data": [
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
@@ -8746,6 +8746,18 @@
             "fetched_datetime": "2025-04-12T02:02:32.930487Z",
             "shown_at": [
                 "2025-04-12T02:02:33.697601Z"
+            ]
+        },
+        {
+            "id": "6d7cce57f037ea40b929e13085692367",
+            "source": "aidy",
+            "text": "NASA Faces 47% Budget Cut Threatening Key Science Missions",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T07:32:00.555736Z",
+            "shown_at": [
+                "2025-04-12T07:32:01.551205Z"
             ]
         }
     ]

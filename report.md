@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 20 | 12 | 37 |
+| spacenews | 5 | 20 | 12 | 36 |
 | breaking_defense | 1 | 3 | 9 | 26 |
-| aidy | 1 | 2 | 10 | 26 |
+| aidy | 1 | 3 | 10 | 27 |
 | nyt | 0 | 1 | 9 | 25 |
 | supercluster | 0 | 1 | 63 | 78 |
 
@@ -3252,3 +3252,4 @@
 - **Apr 12, 07:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 07:17 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 07:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 12, 07:32 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
