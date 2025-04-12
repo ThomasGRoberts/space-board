@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 20 | 14 | 40 |
-| breaking_defense | 1 | 3 | 10 | 29 |
+| breaking_defense | 1 | 3 | 11 | 30 |
 | aidy | 1 | 2 | 11 | 28 |
 | nyt | 1 | 1 | 11 | 27 |
 | supercluster | 2 | 2 | 71 | 71 |
@@ -3238,3 +3238,4 @@
 - **Apr 12, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 02:02 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
+- **Apr 12, 02:23 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
