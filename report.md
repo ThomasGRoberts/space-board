@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 8 | 24 |
-| breaking_defense | 0 | 2 | 6 | 22 |
+| breaking_defense | 0 | 2 | 7 | 23 |
 | aidy | 1 | 2 | 7 | 22 |
 | nyt | 2 | 3 | 8 | 23 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -3213,3 +3213,4 @@
 - **Apr 12, 06:55 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 12, 07:27 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 12, 07:59 PM** - Defense experts warn procurement bottlenecks risk U.S. space edge (spacenews)
+- **Apr 12, 08:27 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
