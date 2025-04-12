@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 20 | 13 | 38 |
-| breaking_defense | 1 | 3 | 11 | 28 |
+| breaking_defense | 1 | 3 | 10 | 28 |
 | aidy | 1 | 2 | 11 | 28 |
 | nyt | 1 | 1 | 11 | 27 |
-| supercluster | 1 | 2 | 72 | 73 |
+| supercluster | 1 | 2 | 73 | 74 |
 
 # Shown Order
 
@@ -3243,3 +3243,4 @@
 - **Apr 12, 03:09 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 12, 03:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 03:52 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 12, 03:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
