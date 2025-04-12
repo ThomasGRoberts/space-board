@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 20 | 12 | 37 |
 | breaking_defense | 1 | 3 | 10 | 27 |
-| aidy | 1 | 2 | 10 | 25 |
+| aidy | 1 | 2 | 10 | 26 |
 | nyt | 0 | 1 | 10 | 26 |
 | supercluster | 0 | 1 | 63 | 71 |
 
@@ -3244,3 +3244,4 @@
 - **Apr 12, 04:17 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
 - **Apr 12, 04:43 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 12, 06:11 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
+- **Apr 12, 06:39 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
