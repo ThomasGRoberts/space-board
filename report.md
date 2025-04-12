@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 6 | 23 |
 | aidy | 1 | 2 | 7 | 23 |
 | nyt | 2 | 3 | 8 | 24 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -3192,3 +3192,4 @@
 - **Apr 12, 02:15 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 12, 02:43 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
 - **Apr 12, 03:05 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
+- **Apr 12, 03:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
