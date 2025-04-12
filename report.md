@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 10 | 27 |
 | aidy | 1 | 2 | 10 | 26 |
 | nyt | 0 | 1 | 10 | 26 |
-| supercluster | 0 | 1 | 63 | 71 |
+| supercluster | 0 | 1 | 62 | 71 |
 
 # Shown Order
 
