@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 8 | 26 |
-| breaking_defense | 0 | 2 | 6 | 23 |
+| breaking_defense | 0 | 2 | 6 | 22 |
 | aidy | 1 | 2 | 6 | 22 |
-| nyt | 2 | 3 | 7 | 23 |
+| nyt | 2 | 3 | 8 | 24 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -3210,3 +3210,4 @@
 - **Apr 12, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 06:55 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
