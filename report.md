@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 19 | 13 | 40 |
+| spacenews | 5 | 19 | 13 | 39 |
 | breaking_defense | 1 | 3 | 11 | 29 |
 | aidy | 1 | 2 | 11 | 29 |
 | nyt | 1 | 1 | 11 | 28 |
-| supercluster | 2 | 2 | 65 | 65 |
+| supercluster | 2 | 2 | 66 | 66 |
 
 # Shown Order
 
@@ -3231,3 +3231,4 @@
 - **Apr 11, 07:07 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 12, 01:03 AM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
 - **Apr 12, 01:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 01:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
