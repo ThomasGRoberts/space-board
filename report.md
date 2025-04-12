@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 8 | 24 |
 | breaking_defense | 0 | 1 | 7 | 21 |
 | aidy | 1 | 2 | 7 | 22 |
-| nyt | 2 | 3 | 8 | 22 |
+| nyt | 2 | 3 | 9 | 23 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -3221,3 +3221,4 @@
 - **Apr 12, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 09:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 09:22 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
