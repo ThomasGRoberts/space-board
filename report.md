@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 8 | 23 |
 | breaking_defense | 0 | 1 | 7 | 21 |
-| aidy | 1 | 2 | 7 | 21 |
+| aidy | 1 | 2 | 8 | 22 |
 | nyt | 2 | 3 | 9 | 23 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -3222,3 +3222,4 @@
 - **Apr 12, 09:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 09:22 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 12, 09:43 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
