@@ -5,7 +5,7 @@
 | spacenews | 5 | 17 | 10 | 33 |
 | breaking_defense | 1 | 3 | 7 | 25 |
 | aidy | 1 | 2 | 8 | 24 |
-| nyt | 1 | 2 | 8 | 24 |
+| nyt | 1 | 2 | 9 | 24 |
 | supercluster | 0 | 1 | 41 | 84 |
 
 # Shown Order
@@ -3266,3 +3266,4 @@
 - **Apr 12, 10:35 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 12, 11:09 AM** - Bridging the gap between AI hype and reality (spacenews)
 - **Apr 12, 11:45 AM** - Orbital power: Shaping national security from space (breaking_defense)
+- **Apr 12, 12:16 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
