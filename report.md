@@ -5,7 +5,7 @@
 | spacenews | 5 | 20 | 13 | 38 |
 | breaking_defense | 1 | 3 | 10 | 28 |
 | aidy | 1 | 2 | 10 | 26 |
-| nyt | 0 | 1 | 9 | 26 |
+| nyt | 0 | 1 | 9 | 25 |
 | supercluster | 1 | 2 | 64 | 72 |
 
 # Shown Order
@@ -3243,4 +3243,4 @@
 - **Apr 12, 04:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 04:17 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
 - **Apr 12, 04:43 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
-- **Apr 12, 05:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 05:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
