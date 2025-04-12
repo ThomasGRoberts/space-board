@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 19 | 14 | 40 |
-| breaking_defense | 1 | 3 | 11 | 30 |
-| supercluster | 2 | 2 | 71 | 71 |
+| breaking_defense | 1 | 3 | 11 | 29 |
 | aidy | 1 | 2 | 11 | 29 |
 | nyt | 1 | 1 | 11 | 28 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -3192,13 +3192,6 @@
 - **Apr 11, 11:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 11, 11:47 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
-- **Apr 11, 12:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 11, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 11, 12:17 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 12:32 PM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 11, 12:45 PM** - Space Force to roll out strategy for international collaboration (spacenews)
