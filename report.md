@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 8 | 29 |
-| breaking_defense | 1 | 3 | 5 | 23 |
+| breaking_defense | 1 | 3 | 6 | 24 |
 | aidy | 1 | 2 | 7 | 23 |
 | nyt | 2 | 3 | 8 | 24 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -3191,3 +3191,4 @@
 - **Apr 12, 01:41 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 12, 02:15 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 12, 02:43 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
+- **Apr 12, 03:05 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
