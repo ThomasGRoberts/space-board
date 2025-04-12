@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "2dbe0441410d3c72a6d62540ea39d968",
     "data": [
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
@@ -8733,6 +8733,18 @@
                 "2025-04-12T01:45:21.802569Z",
                 "2025-04-12T01:49:43.284391Z",
                 "2025-04-12T01:55:36.991963Z"
+            ]
+        },
+        {
+            "id": "2dbe0441410d3c72a6d62540ea39d968",
+            "source": "spacenews",
+            "text": "NOAA budget proposal would affect weather satellite, other space programs",
+            "source_link": "https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T02:02:32.930487Z",
+            "shown_at": [
+                "2025-04-12T02:02:33.697601Z"
             ]
         }
     ]
