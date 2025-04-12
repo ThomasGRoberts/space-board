@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 7 | 26 |
+| spacenews | 3 | 10 | 8 | 27 |
 | breaking_defense | 0 | 2 | 5 | 23 |
 | aidy | 1 | 2 | 7 | 23 |
 | nyt | 2 | 3 | 8 | 24 |
@@ -3201,3 +3201,4 @@
 - **Apr 12, 03:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 12, 04:09 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 12, 04:47 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
+- **Apr 12, 05:25 PM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
