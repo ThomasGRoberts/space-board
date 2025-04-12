@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "98c0679da54dc27860708e5f57ca8d4f",
     "data": [
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
@@ -8704,6 +8704,18 @@
                 "2025-04-12T13:33:40.224016Z",
                 "2025-04-12T13:35:39.352670Z",
                 "2025-04-12T13:37:01.095311Z"
+            ]
+        },
+        {
+            "id": "98c0679da54dc27860708e5f57ca8d4f",
+            "source": "nyt",
+            "text": "How Lauren Sanchez Helped Design Blue Origin’s Flight Suits",
+            "source_link": "https://www.nytimes.com/2025/04/12/style/lauren-sanchez-blue-origin-spacesuit-monse.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T13:41:08.168811Z",
+            "shown_at": [
+                "2025-04-12T13:41:08.714806Z"
             ]
         }
     ]
