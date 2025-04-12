@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b3ac446b2b7d5fac53260530b708f55",
+    "trigger_count": 0,
+    "current_item_id": "048f22d452444d78a0fc8e82f2acb741",
     "data": [
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
@@ -8761,6 +8761,18 @@
             "fetched_datetime": "2025-04-12T07:32:00.555736Z",
             "shown_at": [
                 "2025-04-12T07:32:01.551205Z"
+            ]
+        },
+        {
+            "id": "048f22d452444d78a0fc8e82f2acb741",
+            "source": "nyt",
+            "text": "Jonathan McDowell on Retiring From Harvard and Leaving the U.S.",
+            "source_link": "https://www.nytimes.com/2025/04/12/science/jonathan-mcdowell-retirement-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T09:37:24.125093Z",
+            "shown_at": [
+                "2025-04-12T09:37:24.589813Z"
             ]
         }
     ]

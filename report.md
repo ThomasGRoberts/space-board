@@ -5,7 +5,7 @@
 | spacenews | 5 | 20 | 11 | 36 |
 | breaking_defense | 1 | 3 | 8 | 25 |
 | aidy | 1 | 2 | 9 | 25 |
-| nyt | 0 | 1 | 9 | 24 |
+| nyt | 1 | 2 | 9 | 25 |
 | supercluster | 0 | 1 | 49 | 78 |
 
 # Shown Order
@@ -3256,3 +3256,4 @@
 - **Apr 12, 07:51 AM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
 - **Apr 12, 08:33 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 12, 09:02 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
+- **Apr 12, 09:37 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
