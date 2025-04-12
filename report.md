@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 8 | 28 |
+| spacenews | 3 | 10 | 8 | 27 |
 | breaking_defense | 1 | 2 | 6 | 23 |
 | aidy | 1 | 2 | 7 | 23 |
-| nyt | 2 | 3 | 8 | 24 |
-| supercluster | 1 | 1 | 6 | 6 |
+| nyt | 2 | 3 | 7 | 24 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3193,3 +3193,4 @@
 - **Apr 12, 02:43 PM** - Türkiye’s space future: An ambitious path ahead (spacenews)
 - **Apr 12, 03:05 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 12, 03:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 12, 03:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
