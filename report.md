@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 20 | 14 | 39 |
 | breaking_defense | 1 | 3 | 11 | 29 |
-| aidy | 1 | 2 | 11 | 27 |
+| aidy | 1 | 2 | 12 | 28 |
 | nyt | 1 | 1 | 11 | 28 |
 | supercluster | 1 | 2 | 70 | 71 |
 
@@ -3240,3 +3240,4 @@
 - **Apr 12, 02:02 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
 - **Apr 12, 02:23 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 12, 02:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 12, 03:09 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
