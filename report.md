@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 10 | 33 |
-| breaking_defense | 1 | 3 | 7 | 24 |
+| breaking_defense | 1 | 3 | 8 | 25 |
 | aidy | 1 | 2 | 8 | 24 |
 | nyt | 1 | 2 | 8 | 24 |
 | supercluster | 0 | 1 | 42 | 84 |
@@ -3265,3 +3265,4 @@
 - **Apr 12, 10:33 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 12, 10:35 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 12, 11:09 AM** - Bridging the gap between AI hype and reality (spacenews)
+- **Apr 12, 11:45 AM** - Orbital power: Shaping national security from space (breaking_defense)
