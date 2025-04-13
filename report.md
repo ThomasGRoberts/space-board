@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 17 |
 | supercluster | 0 | 1 | 63 | 68 |
-| aidy | 1 | 2 | 10 | 17 |
+| aidy | 1 | 2 | 10 | 16 |
 | spacenews | 0 | 4 | 10 | 18 |
-| breaking_defense | 0 | 1 | 9 | 15 |
+| breaking_defense | 0 | 1 | 10 | 16 |
 
 # Shown Order
 
@@ -3272,3 +3272,4 @@
 - **Apr 13, 12:37 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 13, 01:02 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 13, 01:32 PM** - Seeing the light: Cubesats share optical data (spacenews)
+- **Apr 13, 01:57 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
