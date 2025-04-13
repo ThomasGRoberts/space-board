@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 18 |
-| supercluster | 0 | 1 | 63 | 89 |
+| supercluster | 0 | 1 | 64 | 90 |
 | aidy | 1 | 2 | 10 | 17 |
 | spacenews | 0 | 1 | 10 | 18 |
 | breaking_defense | 0 | 0 | 10 | 17 |
@@ -3306,3 +3306,4 @@
 - **Apr 13, 08:27 PM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
 - **Apr 13, 08:53 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 13, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 09:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
