@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 10 | 21 |
 | supercluster | 1 | 1 | 40 | 40 |
 | aidy | 1 | 2 | 9 | 20 |
-| spacenews | 0 | 6 | 8 | 22 |
+| spacenews | 0 | 6 | 9 | 23 |
 | breaking_defense | 0 | 1 | 8 | 19 |
 
 # Shown Order
@@ -3227,3 +3227,4 @@
 - **Apr 13, 01:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 01:39 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
 - **Apr 13, 02:31 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
+- **Apr 13, 03:21 AM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
