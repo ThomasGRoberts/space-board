@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 10 | 20 |
+| nyt | 2 | 2 | 11 | 21 |
 | supercluster | 1 | 1 | 47 | 47 |
 | aidy | 1 | 2 | 9 | 19 |
 | spacenews | 0 | 5 | 8 | 21 |
@@ -3236,3 +3236,4 @@
 - **Apr 13, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 04:49 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
