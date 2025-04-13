@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 10 | 20 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 | aidy | 1 | 2 | 9 | 20 |
-| spacenews | 0 | 6 | 8 | 22 |
+| spacenews | 0 | 5 | 8 | 21 |
 | breaking_defense | 0 | 1 | 9 | 19 |
 
 # Shown Order
@@ -3229,3 +3229,4 @@
 - **Apr 13, 02:31 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 13, 03:21 AM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
 - **Apr 13, 03:55 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
+- **Apr 13, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
