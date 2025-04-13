@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 10 | 19 |
 | supercluster | 1 | 1 | 61 | 61 |
-| aidy | 1 | 2 | 9 | 17 |
+| aidy | 1 | 2 | 10 | 18 |
 | spacenews | 0 | 5 | 9 | 19 |
 | breaking_defense | 0 | 1 | 9 | 17 |
 
@@ -3259,3 +3259,4 @@
 - **Apr 13, 09:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 09:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 09:59 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
+- **Apr 13, 10:31 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
