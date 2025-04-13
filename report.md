@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 10 | 18 |
 | supercluster | 0 | 1 | 69 | 88 |
-| aidy | 1 | 2 | 9 | 16 |
+| aidy | 1 | 2 | 10 | 17 |
 | spacenews | 0 | 1 | 10 | 17 |
 | breaking_defense | 0 | 0 | 10 | 16 |
 
@@ -3302,3 +3302,4 @@
 - **Apr 13, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 07:27 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
+- **Apr 13, 07:45 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
