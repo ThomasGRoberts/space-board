@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 10 | 18 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 | aidy | 1 | 2 | 9 | 17 |
 | spacenews | 0 | 5 | 9 | 19 |
 | breaking_defense | 0 | 1 | 9 | 16 |
@@ -3263,3 +3263,4 @@
 - **Apr 13, 11:09 AM** - Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems (spacenews)
 - **Apr 13, 11:41 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 13, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 12:14 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
