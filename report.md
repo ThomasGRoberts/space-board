@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 54 | 54 |
 | aidy | 1 | 2 | 9 | 18 |
 | spacenews | 0 | 5 | 9 | 21 |
-| breaking_defense | 0 | 1 | 8 | 17 |
+| breaking_defense | 0 | 1 | 9 | 18 |
 
 # Shown Order
 
@@ -3250,3 +3250,4 @@
 - **Apr 13, 07:11 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 13, 07:40 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 13, 08:07 AM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
+- **Apr 13, 08:49 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
