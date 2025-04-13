@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 63 | 75 |
+| supercluster | 0 | 1 | 64 | 76 |
 | aidy | 1 | 2 | 9 | 16 |
 | spacenews | 0 | 3 | 10 | 17 |
 | breaking_defense | 0 | 1 | 10 | 16 |
@@ -3284,3 +3284,4 @@
 - **Apr 13, 03:49 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 13, 04:07 PM** - Isaacman says NASA should pursue human moon and Mars programs simultaneously (spacenews)
 - **Apr 13, 04:29 PM** - Orbital power: Shaping national security from space (breaking_defense)
+- **Apr 13, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
