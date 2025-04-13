@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-13T00:01:54.761541+00:00",
-    "trigger_count": 6,
-    "current_item_id": "98c0679da54dc27860708e5f57ca8d4f",
+    "trigger_count": 0,
+    "current_item_id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
     "data": [
         {
             "id": "98c0679da54dc27860708e5f57ca8d4f",
@@ -8742,6 +8742,18 @@
                 "2025-02-27T19:57:35.872700Z",
                 "2025-02-28T06:57:48.097093Z",
                 "2025-03-01T13:19:37.046591Z"
+            ]
+        },
+        {
+            "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
+            "source": "aidy",
+            "text": "NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-13T07:40:03.750446Z",
+            "shown_at": [
+                "2025-04-13T07:40:04.515817Z"
             ]
         }
     ]

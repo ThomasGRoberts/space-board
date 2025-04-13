@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 11 | 20 |
 | supercluster | 1 | 1 | 54 | 54 |
-| aidy | 0 | 1 | 8 | 18 |
+| aidy | 1 | 2 | 9 | 19 |
 | spacenews | 0 | 5 | 9 | 21 |
 | breaking_defense | 0 | 1 | 9 | 18 |
 
@@ -3248,3 +3248,4 @@
 - **Apr 13, 07:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 07:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 07:11 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 13, 07:40 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
