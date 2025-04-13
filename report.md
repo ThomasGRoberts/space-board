@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 9 | 17 |
+| nyt | 0 | 2 | 10 | 18 |
 | supercluster | 0 | 1 | 70 | 82 |
 | aidy | 1 | 2 | 9 | 16 |
 | spacenews | 0 | 3 | 10 | 17 |
@@ -3291,3 +3291,4 @@
 - **Apr 13, 05:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 05:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 05:21 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
