@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 11 | 20 |
 | supercluster | 1 | 1 | 47 | 47 |
 | aidy | 1 | 2 | 10 | 20 |
-| spacenews | 0 | 5 | 8 | 21 |
+| spacenews | 0 | 5 | 9 | 22 |
 | breaking_defense | 0 | 1 | 8 | 18 |
 
 # Shown Order
@@ -3238,3 +3238,4 @@
 - **Apr 13, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 04:49 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 13, 05:11 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
+- **Apr 13, 05:47 AM** - Space has a communications problem (spacenews)
