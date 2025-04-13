@@ -1,9 +1,108 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-12T00:05:28.173939+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-04-13T00:01:54.761541+00:00",
+    "trigger_count": 5,
     "current_item_id": "72cdb6633c87a4fea29311e78cbe94c5",
     "data": [
+        {
+            "id": "98c0679da54dc27860708e5f57ca8d4f",
+            "source": "nyt",
+            "text": "How Lauren Sanchez Helped Design Blue Origin’s Flight Suits",
+            "source_link": "https://www.nytimes.com/2025/04/12/style/lauren-sanchez-blue-origin-spacesuit-monse.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T13:41:08.168811Z",
+            "shown_at": [
+                "2025-04-12T13:41:08.714806Z",
+                "2025-04-12T21:22:05.943663Z",
+                "2025-04-12T23:21:35.910649Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-73",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-14T01:59:00.000Z",
+            "time_remaining": "1d 02h 45m",
+            "fetched_datetime": "2025-04-12T13:29:10.868399Z",
+            "shown_at": [
+                "2025-04-12T13:29:11.488440Z",
+                "2025-04-12T13:32:01.082973Z",
+                "2025-04-12T13:33:40.224016Z",
+                "2025-04-12T13:35:39.352670Z",
+                "2025-04-12T13:37:01.095311Z",
+                "2025-04-12T15:41:43.708100Z",
+                "2025-04-12T15:45:51.690301Z",
+                "2025-04-12T15:47:25.452218Z",
+                "2025-04-12T15:49:49.903146Z",
+                "2025-04-12T15:51:38.268640Z",
+                "2025-04-12T15:55:28.396048Z",
+                "2025-04-12T15:59:39.984479Z",
+                "2025-04-12T18:17:36.779100Z",
+                "2025-04-12T18:21:29.797083Z",
+                "2025-04-12T18:29:28.352928Z",
+                "2025-04-12T18:33:45.197281Z",
+                "2025-04-12T18:39:47.341107Z",
+                "2025-04-12T18:41:50.778695Z",
+                "2025-04-12T18:47:20.192482Z",
+                "2025-04-12T20:49:30.724020Z",
+                "2025-04-12T20:53:33.887368Z",
+                "2025-04-12T20:55:27.279002Z",
+                "2025-04-12T20:57:34.564563Z",
+                "2025-04-12T21:05:22.110929Z",
+                "2025-04-12T21:11:34.587747Z",
+                "2025-04-12T21:17:08.480614Z",
+                "2025-04-12T22:51:36.148860Z",
+                "2025-04-12T22:53:27.244179Z",
+                "2025-04-12T22:59:37.875696Z",
+                "2025-04-12T23:03:21.162881Z",
+                "2025-04-12T23:09:31.334836Z",
+                "2025-04-12T23:11:46.086096Z",
+                "2025-04-12T23:13:33.742021Z"
+            ]
+        },
+        {
+            "id": "048f22d452444d78a0fc8e82f2acb741",
+            "source": "nyt",
+            "text": "Jonathan McDowell on Retiring From Harvard and Leaving the U.S.",
+            "source_link": "https://www.nytimes.com/2025/04/12/science/jonathan-mcdowell-retirement-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T09:37:24.125093Z",
+            "shown_at": [
+                "2025-04-12T09:37:24.589813Z",
+                "2025-04-12T18:55:27.453256Z"
+            ]
+        },
+        {
+            "id": "6d7cce57f037ea40b929e13085692367",
+            "source": "aidy",
+            "text": "NASA Faces 47% Budget Cut Threatening Key Science Missions",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T07:32:00.555736Z",
+            "shown_at": [
+                "2025-04-12T07:32:01.551205Z",
+                "2025-04-12T14:15:38.410114Z",
+                "2025-04-12T16:47:34.837140Z"
+            ]
+        },
+        {
+            "id": "2dbe0441410d3c72a6d62540ea39d968",
+            "source": "spacenews",
+            "text": "NOAA budget proposal would affect weather satellite, other space programs",
+            "source_link": "https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-12T02:02:32.930487Z",
+            "shown_at": [
+                "2025-04-12T02:02:33.697601Z"
+            ]
+        },
         {
             "id": "1946a76f52a178640ec9e2e7d3ce8c01",
             "source": "spacenews",
@@ -8611,156 +8710,6 @@
                 "2025-02-27T19:57:35.872700Z",
                 "2025-02-28T06:57:48.097093Z",
                 "2025-03-01T13:19:37.046591Z"
-            ]
-        },
-        {
-            "id": "a79d4d9266c04c852739fa261cfedf3d",
-            "source": "spacenews",
-            "text": "Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry",
-            "source_link": "https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T23:09:25.017956Z",
-            "shown_at": [
-                "2025-02-22T23:09:25.610341Z",
-                "2025-02-23T20:37:31.627973Z"
-            ]
-        },
-        {
-            "id": "040a7b11c746d46010a7a399ff2202cc",
-            "source": "spacenews",
-            "text": "China launches ChinaSat-10R communications satellite from Xichang",
-            "source_link": "https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T18:27:25.189759Z",
-            "shown_at": [
-                "2025-02-22T18:27:25.766462Z",
-                "2025-02-23T09:37:27.872110Z",
-                "2025-02-23T17:03:28.425433Z",
-                "2025-02-23T18:15:28.026644Z"
-            ]
-        },
-        {
-            "id": "879469882f1632044a3685c8a771ca5e",
-            "source": "aidy",
-            "text": "GAO to Review FAA Launch Regulations for Global Competitiveness Impact",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-22T08:45:48.703137Z",
-            "shown_at": [
-                "2025-02-22T08:45:49.620921Z",
-                "2025-02-23T19:41:33.258775Z",
-                "2025-02-24T08:40:17.074530Z",
-                "2025-02-24T22:29:38.929508Z",
-                "2025-02-25T03:27:50.413886Z",
-                "2025-02-25T10:57:27.322763Z",
-                "2025-02-25T13:19:34.081215Z",
-                "2025-02-25T17:53:48.072563Z",
-                "2025-02-26T17:05:33.895348Z",
-                "2025-02-27T09:55:29.084092Z",
-                "2025-02-28T00:59:34.642847Z",
-                "2025-02-28T15:17:40.681377Z"
-            ]
-        },
-        {
-            "id": "2dbe0441410d3c72a6d62540ea39d968",
-            "source": "spacenews",
-            "text": "NOAA budget proposal would affect weather satellite, other space programs",
-            "source_link": "https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T02:02:32.930487Z",
-            "shown_at": [
-                "2025-04-12T02:02:33.697601Z"
-            ]
-        },
-        {
-            "id": "6d7cce57f037ea40b929e13085692367",
-            "source": "aidy",
-            "text": "NASA Faces 47% Budget Cut Threatening Key Science Missions",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T07:32:00.555736Z",
-            "shown_at": [
-                "2025-04-12T07:32:01.551205Z",
-                "2025-04-12T14:15:38.410114Z",
-                "2025-04-12T16:47:34.837140Z"
-            ]
-        },
-        {
-            "id": "048f22d452444d78a0fc8e82f2acb741",
-            "source": "nyt",
-            "text": "Jonathan McDowell on Retiring From Harvard and Leaving the U.S.",
-            "source_link": "https://www.nytimes.com/2025/04/12/science/jonathan-mcdowell-retirement-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T09:37:24.125093Z",
-            "shown_at": [
-                "2025-04-12T09:37:24.589813Z",
-                "2025-04-12T18:55:27.453256Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-73",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-14T01:59:00.000Z",
-            "time_remaining": "1d 02h 45m",
-            "fetched_datetime": "2025-04-12T13:29:10.868399Z",
-            "shown_at": [
-                "2025-04-12T13:29:11.488440Z",
-                "2025-04-12T13:32:01.082973Z",
-                "2025-04-12T13:33:40.224016Z",
-                "2025-04-12T13:35:39.352670Z",
-                "2025-04-12T13:37:01.095311Z",
-                "2025-04-12T15:41:43.708100Z",
-                "2025-04-12T15:45:51.690301Z",
-                "2025-04-12T15:47:25.452218Z",
-                "2025-04-12T15:49:49.903146Z",
-                "2025-04-12T15:51:38.268640Z",
-                "2025-04-12T15:55:28.396048Z",
-                "2025-04-12T15:59:39.984479Z",
-                "2025-04-12T18:17:36.779100Z",
-                "2025-04-12T18:21:29.797083Z",
-                "2025-04-12T18:29:28.352928Z",
-                "2025-04-12T18:33:45.197281Z",
-                "2025-04-12T18:39:47.341107Z",
-                "2025-04-12T18:41:50.778695Z",
-                "2025-04-12T18:47:20.192482Z",
-                "2025-04-12T20:49:30.724020Z",
-                "2025-04-12T20:53:33.887368Z",
-                "2025-04-12T20:55:27.279002Z",
-                "2025-04-12T20:57:34.564563Z",
-                "2025-04-12T21:05:22.110929Z",
-                "2025-04-12T21:11:34.587747Z",
-                "2025-04-12T21:17:08.480614Z",
-                "2025-04-12T22:51:36.148860Z",
-                "2025-04-12T22:53:27.244179Z",
-                "2025-04-12T22:59:37.875696Z",
-                "2025-04-12T23:03:21.162881Z",
-                "2025-04-12T23:09:31.334836Z",
-                "2025-04-12T23:11:46.086096Z",
-                "2025-04-12T23:13:33.742021Z"
-            ]
-        },
-        {
-            "id": "98c0679da54dc27860708e5f57ca8d4f",
-            "source": "nyt",
-            "text": "How Lauren Sanchez Helped Design Blue Origin’s Flight Suits",
-            "source_link": "https://www.nytimes.com/2025/04/12/style/lauren-sanchez-blue-origin-spacesuit-monse.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T13:41:08.168811Z",
-            "shown_at": [
-                "2025-04-12T13:41:08.714806Z",
-                "2025-04-12T21:22:05.943663Z",
-                "2025-04-12T23:21:35.910649Z"
             ]
         }
     ]

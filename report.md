@@ -2,36 +2,27 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 9 | 23 |
-| breaking_defense | 0 | 1 | 8 | 20 |
-| aidy | 1 | 2 | 9 | 21 |
 | nyt | 2 | 3 | 10 | 22 |
 | supercluster | 1 | 1 | 33 | 33 |
+| aidy | 1 | 2 | 9 | 21 |
+| spacenews | 1 | 6 | 9 | 23 |
+| breaking_defense | 0 | 1 | 8 | 20 |
 
 # Shown Order
 
-- **Feb 22, 08:45 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
-- **Feb 22, 06:27 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
-- **Feb 22, 11:09 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
 - **Feb 23, 08:42 AM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
-- **Feb 23, 09:37 AM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 23, 10:05 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 11:19 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 01:17 PM** - KBR wins $176 million contract to modernize U.S. space surveillance site (spacenews)
 - **Feb 23, 02:57 PM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 04:49 PM** - Sync Your Calendar With the Solar System (nyt)
-- **Feb 23, 05:03 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
-- **Feb 23, 06:15 PM** - China launches ChinaSat-10R communications satellite from Xichang (spacenews)
 - **Feb 23, 07:13 PM** - Sync Your Calendar With the Solar System (nyt)
-- **Feb 23, 07:41 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 23, 08:23 PM** - Sync Your Calendar With the Solar System (nyt)
-- **Feb 23, 08:37 PM** - Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry (spacenews)
 - **Feb 23, 11:57 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 12:25 AM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Feb 24, 01:28 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 24, 05:47 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 07:01 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
-- **Feb 24, 08:40 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 24, 08:55 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 09:37 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 24, 10:05 AM** - Space Development Agency satellite procurements moving forward amid heightened scrutiny (spacenews)
@@ -47,7 +38,6 @@
 - **Feb 24, 05:31 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 24, 07:31 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 24, 07:46 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
-- **Feb 24, 10:29 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 24, 11:11 PM** - Despite looming defense cuts, analysts see long-term upside for space investments (spacenews)
 - **Feb 24, 11:31 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 24, 11:45 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
@@ -57,7 +47,6 @@
 - **Feb 25, 02:29 AM** - NASA associate administrator for exploration to retire (spacenews)
 - **Feb 25, 02:43 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 25, 03:13 AM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
-- **Feb 25, 03:27 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 04:25 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 25, 07:49 AM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 25, 08:33 AM** - NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected (aidy)
@@ -65,12 +54,10 @@
 - **Feb 25, 09:17 AM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 25, 10:13 AM** - NASA associate administrator for exploration to retire (spacenews)
 - **Feb 25, 10:29 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
-- **Feb 25, 10:57 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 11:25 AM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Feb 25, 11:39 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 25, 12:08 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 25, 12:37 PM** - KBR wins $176 million contract to modernize U.S. space surveillance site (spacenews)
-- **Feb 25, 01:19 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 02:03 PM** - Former FCC Space Bureau chief joins law firm (spacenews)
 - **Feb 25, 02:18 PM** - Magdrive raises $10.5 million and opens U.S. office (spacenews)
 - **Feb 25, 02:34 PM** - SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry (spacenews)
@@ -78,7 +65,6 @@
 - **Feb 25, 03:09 PM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 25, 05:10 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
 - **Feb 25, 05:25 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
-- **Feb 25, 05:53 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 25, 06:07 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 25, 06:35 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 25, 07:03 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
@@ -120,7 +106,6 @@
 - **Feb 26, 04:09 PM** - War of words heats up over Space Force’s strategic posture (spacenews)
 - **Feb 26, 04:23 PM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 26, 04:51 PM** - Space Force: Vive la difference, advises a new AEI policy paper (breaking_defense)
-- **Feb 26, 05:05 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 26, 05:19 PM** - Gilmour Space announces mid-March target for first Eris launch (spacenews)
 - **Feb 26, 05:33 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 26, 05:47 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
@@ -152,7 +137,6 @@
 - **Feb 27, 08:39 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 09:09 AM** - Keep NASA’s innovation engine going (spacenews)
 - **Feb 27, 09:40 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
-- **Feb 27, 09:55 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 27, 10:23 AM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
 - **Feb 27, 10:51 AM** - Embracing Darkness on the Isle of Rum (nyt)
 - **Feb 27, 11:08 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
@@ -188,7 +172,6 @@
 - **Feb 27, 11:45 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 11:59 PM** - NASA employees advised to delay responses to “what did you do” email (spacenews)
 - **Feb 28, 12:29 AM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
-- **Feb 28, 12:59 AM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 28, 01:13 AM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 28, 01:27 AM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 28, 01:41 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
@@ -227,7 +210,6 @@
 - **Feb 28, 02:05 PM** - How independent space companies can fight back against misinformation from Elon Musk and Donald Trump (spacenews)
 - **Feb 28, 02:19 PM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
 - **Feb 28, 02:48 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
-- **Feb 28, 03:17 PM** - GAO to Review FAA Launch Regulations for Global Competitiveness Impact (aidy)
 - **Feb 28, 03:32 PM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
 - **Feb 28, 04:03 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Feb 28, 04:17 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
