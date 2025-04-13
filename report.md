@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 10 | 19 |
-| supercluster | 0 | 1 | 64 | 95 |
+| supercluster | 0 | 1 | 62 | 95 |
 | aidy | 1 | 2 | 10 | 18 |
 | spacenews | 0 | 1 | 10 | 19 |
-| breaking_defense | 0 | 0 | 9 | 17 |
+| breaking_defense | 0 | 0 | 10 | 18 |
 
 # Shown Order
 
@@ -3315,3 +3315,4 @@
 - **Apr 13, 09:51 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 13, 10:17 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 13, 10:49 PM** - Space Force reassigns GPS satellite launch from ULA to SpaceX (spacenews)
+- **Apr 13, 11:17 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
