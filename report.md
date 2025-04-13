@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 10 | 19 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 | aidy | 1 | 2 | 9 | 18 |
 | spacenews | 0 | 5 | 9 | 20 |
 | breaking_defense | 0 | 1 | 9 | 18 |
@@ -3251,3 +3251,4 @@
 - **Apr 13, 07:40 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 13, 08:07 AM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 13, 08:49 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
+- **Apr 13, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
