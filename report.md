@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 65 | 77 |
+| supercluster | 0 | 1 | 66 | 78 |
 | aidy | 1 | 2 | 9 | 16 |
 | spacenews | 0 | 3 | 10 | 17 |
 | breaking_defense | 0 | 1 | 10 | 16 |
@@ -3286,3 +3286,4 @@
 - **Apr 13, 04:29 PM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 13, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 05:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 05:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
