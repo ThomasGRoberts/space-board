@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 10 | 17 |
-| supercluster | 0 | 1 | 64 | 83 |
+| nyt | 0 | 2 | 9 | 17 |
+| supercluster | 0 | 1 | 65 | 84 |
 | aidy | 1 | 2 | 10 | 16 |
 | spacenews | 0 | 3 | 10 | 18 |
 | breaking_defense | 0 | 0 | 10 | 16 |
@@ -3296,3 +3296,4 @@
 - **Apr 13, 05:59 PM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
 - **Apr 13, 06:19 PM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
 - **Apr 13, 06:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 07:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
