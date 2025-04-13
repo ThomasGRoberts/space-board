@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 10 | 19 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 | aidy | 1 | 2 | 9 | 18 |
 | spacenews | 0 | 5 | 9 | 20 |
-| breaking_defense | 0 | 1 | 9 | 18 |
+| breaking_defense | 0 | 1 | 9 | 17 |
 
 # Shown Order
 
@@ -3252,3 +3252,4 @@
 - **Apr 13, 08:07 AM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 13, 08:49 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 13, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
