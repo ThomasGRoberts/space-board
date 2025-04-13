@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 63 | 75 |
 | aidy | 1 | 2 | 10 | 16 |
 | spacenews | 0 | 3 | 10 | 18 |
-| breaking_defense | 0 | 1 | 9 | 15 |
+| breaking_defense | 0 | 1 | 10 | 16 |
 
 # Shown Order
 
@@ -3283,3 +3283,4 @@
 - **Apr 13, 03:13 PM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
 - **Apr 13, 03:49 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 13, 04:07 PM** - Isaacman says NASA should pursue human moon and Mars programs simultaneously (spacenews)
+- **Apr 13, 04:29 PM** - Orbital power: Shaping national security from space (breaking_defense)
