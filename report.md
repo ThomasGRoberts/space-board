@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 10 | 18 |
 | supercluster | 0 | 1 | 70 | 82 |
 | aidy | 1 | 2 | 10 | 17 |
-| spacenews | 0 | 3 | 9 | 17 |
+| spacenews | 0 | 3 | 10 | 18 |
 | breaking_defense | 0 | 0 | 9 | 15 |
 
 # Shown Order
@@ -3293,3 +3293,4 @@
 - **Apr 13, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 05:21 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 13, 05:39 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 13, 05:59 PM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
