@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 33 | 33 |
 | aidy | 1 | 2 | 9 | 21 |
 | spacenews | 1 | 6 | 10 | 23 |
-| breaking_defense | 0 | 1 | 8 | 19 |
+| breaking_defense | 0 | 1 | 9 | 20 |
 
 # Shown Order
 
@@ -3217,3 +3217,4 @@
 - **Apr 12, 11:21 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 12, 11:47 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 13, 12:09 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
+- **Apr 13, 12:40 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
