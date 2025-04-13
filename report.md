@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 10 | 18 |
-| supercluster | 0 | 1 | 69 | 88 |
+| supercluster | 0 | 1 | 67 | 88 |
 | aidy | 1 | 2 | 10 | 17 |
 | spacenews | 0 | 1 | 10 | 18 |
-| breaking_defense | 0 | 0 | 9 | 16 |
+| breaking_defense | 0 | 0 | 10 | 17 |
 
 # Shown Order
 
@@ -3304,3 +3304,4 @@
 - **Apr 13, 07:27 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 13, 07:45 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 13, 08:27 PM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
+- **Apr 13, 08:53 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
