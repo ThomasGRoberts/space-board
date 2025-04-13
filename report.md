@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 10 | 20 |
-| supercluster | 1 | 1 | 47 | 47 |
-| aidy | 1 | 2 | 10 | 19 |
+| supercluster | 1 | 1 | 48 | 48 |
+| aidy | 1 | 2 | 9 | 19 |
 | spacenews | 0 | 5 | 9 | 21 |
 | breaking_defense | 0 | 1 | 9 | 19 |
 
@@ -3240,3 +3240,4 @@
 - **Apr 13, 05:11 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 13, 05:47 AM** - Space has a communications problem (spacenews)
 - **Apr 13, 06:15 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
+- **Apr 13, 06:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
