@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 64 | 69 |
+| supercluster | 0 | 1 | 65 | 70 |
 | aidy | 1 | 2 | 9 | 16 |
 | spacenews | 0 | 3 | 10 | 17 |
 | breaking_defense | 0 | 1 | 10 | 16 |
@@ -3274,3 +3274,4 @@
 - **Apr 13, 01:32 PM** - Seeing the light: Cubesats share optical data (spacenews)
 - **Apr 13, 01:57 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 13, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
