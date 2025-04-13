@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 10 | 21 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | aidy | 1 | 2 | 9 | 20 |
-| spacenews | 1 | 6 | 9 | 23 |
+| spacenews | 1 | 6 | 9 | 22 |
 | breaking_defense | 0 | 1 | 9 | 20 |
 
 # Shown Order
@@ -3220,3 +3220,4 @@
 - **Apr 13, 12:40 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 13, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 01:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
