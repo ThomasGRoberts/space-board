@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 10 | 21 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 | aidy | 1 | 2 | 9 | 20 |
 | spacenews | 1 | 6 | 9 | 23 |
 | breaking_defense | 0 | 1 | 9 | 20 |
@@ -3218,3 +3218,4 @@
 - **Apr 12, 11:47 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 13, 12:09 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
 - **Apr 13, 12:40 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
+- **Apr 13, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
