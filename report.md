@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 17 |
-| supercluster | 0 | 1 | 65 | 70 |
+| supercluster | 0 | 1 | 66 | 71 |
 | aidy | 1 | 2 | 9 | 16 |
-| spacenews | 0 | 3 | 10 | 17 |
+| spacenews | 0 | 3 | 9 | 17 |
 | breaking_defense | 0 | 1 | 10 | 16 |
 
 # Shown Order
@@ -3275,3 +3275,4 @@
 - **Apr 13, 01:57 PM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 13, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
