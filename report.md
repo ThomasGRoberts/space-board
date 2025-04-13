@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 9 | 18 |
+| nyt | 0 | 2 | 10 | 19 |
 | supercluster | 0 | 1 | 69 | 95 |
 | aidy | 1 | 2 | 9 | 17 |
 | spacenews | 0 | 1 | 10 | 18 |
@@ -3312,3 +3312,4 @@
 - **Apr 13, 09:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 09:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 13, 09:51 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
