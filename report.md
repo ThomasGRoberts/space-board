@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 12 | 21 |
 | nyt | 2 | 2 | 11 | 21 |
-| spacenews | 5 | 5 | 15 | 25 |
+| spacenews | 5 | 5 | 15 | 24 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3295,3 +3295,4 @@
 - **Apr 14, 09:33 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 14, 09:47 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 14, 10:02 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 10:05 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
