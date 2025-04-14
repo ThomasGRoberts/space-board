@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 12 | 22 |
 | spacenews | 5 | 5 | 15 | 25 |
 | breaking_defense | 1 | 1 | 13 | 22 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -3305,3 +3305,4 @@
 - **Apr 14, 10:32 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 14, 10:47 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 14, 11:01 PM** - Orbital power: Shaping national security from space (breaking_defense)
+- **Apr 14, 11:15 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
