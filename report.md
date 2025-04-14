@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 19 |
+| aidy | 1 | 2 | 9 | 19 |
 | nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 18 |
 | breaking_defense | 0 | 0 | 9 | 17 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3222,3 +3222,4 @@
 - **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 14, 05:02 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 05:03 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 05:11 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
