@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 18 |
 | breaking_defense | 0 | 0 | 10 | 19 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3218,3 +3218,4 @@
 - **Apr 14, 01:23 AM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
 - **Apr 14, 01:47 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 14, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 14, 02:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
