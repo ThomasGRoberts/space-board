@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 11 | 20 |
 | nyt | 0 | 1 | 9 | 19 |
 | spacenews | 0 | 0 | 10 | 19 |
-| breaking_defense | 0 | 0 | 9 | 18 |
+| breaking_defense | 0 | 0 | 10 | 19 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -3247,3 +3247,4 @@
 - **Apr 14, 09:47 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:49 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:51 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
+- **Apr 14, 10:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
