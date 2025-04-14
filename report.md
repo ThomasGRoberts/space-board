@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 2 | 2 | 10 | 20 |
 | spacenews | 4 | 4 | 13 | 22 |
-| breaking_defense | 0 | 0 | 9 | 19 |
+| breaking_defense | 0 | 0 | 10 | 20 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -3258,3 +3258,4 @@
 - **Apr 14, 04:59 PM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 14, 05:15 PM** - Catch up on all of SpaceNews’ Space Symposium 2025 coverage (spacenews)
 - **Apr 14, 05:29 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 14, 05:43 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
