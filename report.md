@@ -5,7 +5,7 @@
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 2 | 2 | 10 | 19 |
 | spacenews | 3 | 3 | 11 | 21 |
-| breaking_defense | 0 | 0 | 9 | 18 |
+| breaking_defense | 0 | 0 | 10 | 19 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -3246,3 +3246,4 @@
 - **Apr 14, 03:32 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 14, 03:47 PM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
 - **Apr 14, 04:01 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 14, 04:15 PM** - Orbital power: Shaping national security from space (breaking_defense)
