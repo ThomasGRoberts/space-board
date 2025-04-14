@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 19 |
+| aidy | 1 | 2 | 11 | 20 |
 | nyt | 2 | 2 | 10 | 20 |
 | spacenews | 4 | 4 | 13 | 22 |
 | breaking_defense | 0 | 0 | 9 | 19 |
@@ -3257,3 +3257,4 @@
 - **Apr 14, 04:45 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 14, 04:59 PM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 14, 05:15 PM** - Catch up on all of SpaceNews’ Space Symposium 2025 coverage (spacenews)
+- **Apr 14, 05:29 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
