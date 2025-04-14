@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 2 | 2 | 11 | 21 |
-| spacenews | 4 | 4 | 12 | 22 |
+| spacenews | 4 | 4 | 13 | 23 |
 | breaking_defense | 0 | 0 | 9 | 19 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -3267,3 +3267,4 @@
 - **Apr 14, 06:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 06:09 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 06:12 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 14, 06:27 PM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
