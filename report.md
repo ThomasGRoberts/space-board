@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 19 |
+| aidy | 1 | 2 | 11 | 20 |
 | nyt | 0 | 1 | 10 | 19 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
@@ -3246,3 +3246,4 @@
 - **Apr 14, 09:39 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:47 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:49 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 09:51 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
