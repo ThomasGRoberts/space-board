@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 20 |
+| aidy | 1 | 2 | 11 | 21 |
 | nyt | 2 | 2 | 11 | 21 |
 | spacenews | 4 | 4 | 14 | 23 |
 | breaking_defense | 1 | 1 | 11 | 21 |
@@ -3280,3 +3280,4 @@
 - **Apr 14, 07:39 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 07:41 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 14, 07:55 PM** - Indian propulsion maker joins US expansion push (spacenews)
+- **Apr 14, 08:09 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
