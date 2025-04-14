@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "96df7d4bb06735cf95dee0ecb331eadf",
+    "trigger_count": 0,
+    "current_item_id": "71e19f59002c4e567709826002208f99",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8764,6 +8764,18 @@
             "fetched_datetime": "2025-04-14T07:45:48.270123Z",
             "shown_at": [
                 "2025-04-14T07:45:49.039030Z"
+            ]
+        },
+        {
+            "id": "71e19f59002c4e567709826002208f99",
+            "source": "spacenews",
+            "text": "No man’s airspace: Why our skies aren’t ready for the space boom",
+            "source_link": "https://spacenews.com/no-mans-airspace-why-our-skies-arent-ready-for-the-space-boom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T13:07:56.412092Z",
+            "shown_at": [
+                "2025-04-14T13:07:57.062070Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 0 | 1 | 9 | 19 |
-| spacenews | 0 | 0 | 10 | 19 |
+| spacenews | 1 | 1 | 11 | 20 |
 | breaking_defense | 0 | 0 | 10 | 19 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -3259,3 +3259,4 @@
 - **Apr 14, 12:03 PM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 12:14 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 12:49 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
+- **Apr 14, 01:07 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
