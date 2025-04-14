@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 2,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 3,
+    "current_item_id": "cc7165c093004fe73f5eb5eb4d98d217",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8704,17 +8704,17 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "cc7165c093004fe73f5eb5eb4d98d217",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-73",
+            "text": "Blue Origin Will Launch All Female Suborbital Mission",
+            "source_link": "https://www.supercluster.com/launches/ns-31",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-14T04:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-14T04:59:37.758227Z",
+            "target_datetime": "2025-04-14T13:30:00.000Z",
+            "time_remaining": "0d 08h 28m",
+            "fetched_datetime": "2025-04-14T05:01:57.122978Z",
             "shown_at": [
-                "2025-04-14T04:59:38.198480Z"
+                "2025-04-14T05:02:00.928576Z"
             ]
         }
     ]
