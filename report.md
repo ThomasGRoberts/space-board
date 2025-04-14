@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 19 |
 | nyt | 0 | 2 | 10 | 20 |
-| spacenews | 0 | 0 | 9 | 18 |
+| spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 10 | 18 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -3226,3 +3226,4 @@
 - **Apr 14, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 14, 02:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 03:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
