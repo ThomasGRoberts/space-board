@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 2 | 2 | 11 | 21 |
-| spacenews | 4 | 4 | 13 | 23 |
+| spacenews | 4 | 4 | 14 | 24 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -3279,3 +3279,4 @@
 - **Apr 14, 07:37 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 07:39 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 07:41 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
+- **Apr 14, 07:55 PM** - Indian propulsion maker joins US expansion push (spacenews)
