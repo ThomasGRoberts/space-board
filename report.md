@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 11 | 21 |
-| nyt | 2 | 2 | 11 | 21 |
+| nyt | 2 | 2 | 12 | 22 |
 | spacenews | 5 | 5 | 14 | 24 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -3290,3 +3290,4 @@
 - **Apr 14, 08:59 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 09:02 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 09:03 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 09:05 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
