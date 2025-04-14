@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 10 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3217,13 +3217,7 @@
 - **Apr 14, 12:57 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 01:23 AM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
 - **Apr 14, 01:47 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
-- **Apr 14, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:30 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 14, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 14, 02:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 03:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
+- **Apr 14, 04:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
