@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 19 |
 | nyt | 0 | 0 | 9 | 18 |
-| spacenews | 1 | 1 | 10 | 20 |
+| spacenews | 1 | 1 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3237,3 +3237,4 @@
 - **Apr 14, 01:07 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
 - **Apr 14, 02:32 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 02:41 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 02:47 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
