@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 9 | 19 |
+| aidy | 1 | 2 | 10 | 20 |
 | nyt | 0 | 2 | 10 | 20 |
 | spacenews | 0 | 0 | 9 | 18 |
-| breaking_defense | 0 | 0 | 10 | 18 |
+| breaking_defense | 0 | 0 | 9 | 18 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -3226,3 +3226,4 @@
 - **Apr 14, 05:16 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 05:17 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 05:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 14, 06:17 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
