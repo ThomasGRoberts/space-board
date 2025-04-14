@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 20 |
 | nyt | 0 | 1 | 9 | 19 |
-| spacenews | 1 | 1 | 11 | 20 |
+| spacenews | 1 | 1 | 10 | 20 |
 | breaking_defense | 0 | 0 | 10 | 19 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3220,43 +3220,19 @@
 - **Apr 14, 02:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 03:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
-- **Apr 14, 05:02 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 05:03 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 05:11 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 05:16 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 05:17 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 05:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 06:17 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 14, 06:45 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
-- **Apr 14, 07:15 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:17 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:21 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:25 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:31 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:35 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 07:41 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:45 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 14, 08:09 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 14, 08:33 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 14, 08:53 AM** - Space leaders emphasize collaboration amid geopolitical challenges (spacenews)
-- **Apr 14, 09:15 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:17 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:23 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:31 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:39 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:47 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 09:49 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:51 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 14, 10:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 14, 10:37 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 14, 11:07 AM** - Surge in NATO spending to benefit space sector (spacenews)
-- **Apr 14, 11:33 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 11:35 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 11:43 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 11:45 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 11:51 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 11:59 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
-- **Apr 14, 12:03 PM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 12:14 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 12:49 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 14, 01:07 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
+- **Apr 14, 01:33 PM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
