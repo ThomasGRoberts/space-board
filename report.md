@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 19 |
+| aidy | 1 | 2 | 11 | 20 |
 | nyt | 0 | 1 | 10 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
@@ -3257,3 +3257,4 @@
 - **Apr 14, 11:51 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 11:59 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 12:03 PM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 12:14 PM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
