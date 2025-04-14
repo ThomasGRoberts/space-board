@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 10 | 20 |
 | spacenews | 4 | 4 | 12 | 22 |
 | breaking_defense | 0 | 0 | 10 | 19 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -3264,3 +3264,4 @@
 - **Apr 14, 06:01 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 06:03 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 06:05 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 06:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
