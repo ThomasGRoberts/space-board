@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 10 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 10 | 19 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -3250,3 +3250,4 @@
 - **Apr 14, 10:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
 - **Apr 14, 10:37 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 14, 11:07 AM** - Surge in NATO spending to benefit space sector (spacenews)
+- **Apr 14, 11:33 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
