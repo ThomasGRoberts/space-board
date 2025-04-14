@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 19 |
-| nyt | 0 | 2 | 10 | 20 |
+| nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -3228,3 +3228,4 @@
 - **Apr 14, 05:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 06:17 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 14, 06:45 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
+- **Apr 14, 07:15 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
