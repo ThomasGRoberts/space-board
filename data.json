@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f13fd78471923c94330fc9be581ff160",
+    "trigger_count": 0,
+    "current_item_id": "c6a6381fb1d987ddf92bbccfee8e3f0c",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8779,6 +8779,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2025-04-14T14:59:45.972260Z"
+        },
+        {
+            "id": "c6a6381fb1d987ddf92bbccfee8e3f0c",
+            "source": "spacenews",
+            "text": "Multi-orbit success or a single-point of failure?",
+            "source_link": "https://spacenews.com/multi-orbit-success-or-a-single-point-of-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T15:18:03.431307Z",
+            "shown_at": [
+                "2025-04-14T15:18:04.470157Z"
+            ]
+        },
+        {
+            "id": "e63e058a3b53749c61d71d8abf473d3f",
+            "source": "spacenews",
+            "text": "Blue Origin launches all-woman New Shepard suborbital flight",
+            "source_link": "https://spacenews.com/blue-origin-launches-all-woman-new-shepard-suborbital-flight/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T15:18:03.431371Z"
         }
     ]
 }
