@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4cea0ea2c84b6699a06e72266cbbfb69",
+    "trigger_count": 0,
+    "current_item_id": "6f70a7e0e05d0ecd0ed9b00a54f1cacc",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8816,6 +8816,18 @@
             "fetched_datetime": "2025-04-14T15:18:03.431371Z",
             "shown_at": [
                 "2025-04-14T15:47:13.256126Z"
+            ]
+        },
+        {
+            "id": "6f70a7e0e05d0ecd0ed9b00a54f1cacc",
+            "source": "spacenews",
+            "text": "Catch up on all of SpaceNews’ Space Symposium 2025 coverage",
+            "source_link": "https://spacenews.com/catch-up-on-all-of-spacenews-space-symposium-2025-coverage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T17:15:27.092864Z",
+            "shown_at": [
+                "2025-04-14T17:15:28.060192Z"
             ]
         }
     ]
