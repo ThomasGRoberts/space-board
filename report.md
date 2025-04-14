@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 9 | 20 |
 | supercluster | 0 | 1 | 62 | 102 |
 | spacenews | 0 | 1 | 10 | 19 |
-| breaking_defense | 0 | 0 | 9 | 18 |
+| breaking_defense | 0 | 0 | 10 | 19 |
 
 # Shown Order
 
@@ -3318,3 +3318,4 @@
 - **Apr 14, 12:19 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 14, 12:57 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 01:23 AM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
+- **Apr 14, 01:47 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
