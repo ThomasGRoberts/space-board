@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 20 |
+| aidy | 1 | 2 | 11 | 21 |
 | nyt | 2 | 2 | 11 | 21 |
 | spacenews | 4 | 4 | 13 | 23 |
 | breaking_defense | 0 | 0 | 9 | 19 |
@@ -3268,3 +3268,4 @@
 - **Apr 14, 06:09 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 06:12 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 14, 06:27 PM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
+- **Apr 14, 06:41 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
