@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 0 | 1 | 9 | 18 |
+| aidy | 1 | 2 | 10 | 19 |
 | nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
@@ -3235,3 +3235,4 @@
 - **Apr 14, 07:31 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:35 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:41 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 07:45 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
