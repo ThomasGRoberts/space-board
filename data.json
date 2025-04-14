@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6a6381fb1d987ddf92bbccfee8e3f0c",
+    "trigger_count": 0,
+    "current_item_id": "9af0b588bd8289ebdc309a9e8c5330d9",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8776,9 +8776,12 @@
             "source": "nyt",
             "text": "DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings",
             "source_link": "https://www.nytimes.com/2025/04/14/science/astrogeology-mars-maps-spacex.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-14T14:59:45.972260Z"
+            "fetched_datetime": "2025-04-14T14:59:45.972260Z",
+            "shown_at": [
+                "2025-04-14T15:32:15.541395Z"
+            ]
         },
         {
             "id": "c6a6381fb1d987ddf92bbccfee8e3f0c",
