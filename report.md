@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 11 | 20 |
-| nyt | 2 | 2 | 10 | 20 |
+| nyt | 2 | 2 | 11 | 21 |
 | spacenews | 4 | 4 | 13 | 23 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -3278,3 +3278,4 @@
 - **Apr 14, 07:35 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 07:37 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 07:39 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 07:41 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
