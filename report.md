@@ -5,8 +5,8 @@
 | aidy | 1 | 2 | 11 | 21 |
 | nyt | 2 | 2 | 11 | 21 |
 | spacenews | 5 | 5 | 14 | 24 |
-| breaking_defense | 1 | 1 | 12 | 21 |
-| supercluster | 1 | 1 | 29 | 29 |
+| breaking_defense | 1 | 1 | 11 | 21 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -3285,3 +3285,4 @@
 - **Apr 14, 08:37 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
 - **Apr 14, 08:51 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 08:53 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 14, 08:55 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
