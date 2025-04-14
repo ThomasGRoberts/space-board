@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 12 | 22 |
 | nyt | 2 | 2 | 12 | 21 |
-| spacenews | 5 | 5 | 14 | 24 |
+| spacenews | 5 | 5 | 15 | 25 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -3292,3 +3292,4 @@
 - **Apr 14, 09:03 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 09:05 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 14, 09:19 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 14, 09:33 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
