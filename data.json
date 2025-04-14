@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cc7165c093004fe73f5eb5eb4d98d217",
+    "trigger_count": 0,
+    "current_item_id": "4eafd63133c88ddfca0cadf1e52e3ce4",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8741,15 +8741,18 @@
             ]
         },
         {
-            "id": "cc7165c093004fe73f5eb5eb4d98d217",
+            "id": "4eafd63133c88ddfca0cadf1e52e3ce4",
             "source": "supercluster",
-            "text": "Blue Origin Will Launch All Female Suborbital Mission",
-            "source_link": "https://www.supercluster.com/launches/ns-31",
-            "shown": false,
+            "text": "Northrop Grumman Will Launch Classified NRO Mission",
+            "source_link": "https://www.supercluster.com/launches/nrol-174",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-14T13:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-14T14:29:06.536258Z"
+            "target_datetime": "2025-04-16T19:00:00.000Z",
+            "time_remaining": "2d 04h 27m",
+            "fetched_datetime": "2025-04-14T14:32:07.352335Z",
+            "shown_at": [
+                "2025-04-14T14:32:08.252498Z"
+            ]
         }
     ]
 }
