@@ -2,15 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 9 | 19 |
-| supercluster | 0 | 1 | 66 | 99 |
 | aidy | 1 | 2 | 9 | 18 |
+| nyt | 0 | 2 | 9 | 19 |
+| supercluster | 0 | 1 | 67 | 100 |
 | spacenews | 0 | 1 | 10 | 19 |
 | breaking_defense | 0 | 0 | 10 | 18 |
 
 # Shown Order
 
-- **Feb 23, 08:42 AM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 23, 10:05 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 11:19 AM** - Earth’s 1st Asteroid Mining Prospector Heads to the Launchpad (nyt)
 - **Feb 23, 01:17 PM** - KBR wins $176 million contract to modernize U.S. space surveillance site (spacenews)
@@ -67,7 +66,6 @@
 - **Feb 25, 05:25 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 25, 06:07 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 25, 06:35 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
-- **Feb 25, 07:03 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 25, 07:31 PM** - More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes (spacenews)
 - **Feb 25, 07:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
 - **Feb 25, 08:41 PM** - China to send a spacecraft out of the ecliptic to study the Sun’s poles (spacenews)
@@ -110,7 +108,6 @@
 - **Feb 26, 05:33 PM** - Every Planet in Our Solar System Will Be Visible at Night This Week (nyt)
 - **Feb 26, 05:47 PM** - Too soon? GAO questions tech readiness of satellite laser links (breaking_defense)
 - **Feb 26, 06:45 PM** - A Parade of Planets Is Marching Through the Night Sky (nyt)
-- **Feb 26, 07:27 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 26, 07:41 PM** - Congressional watchdog flags risks in Space Development Agency’s satellite program (spacenews)
 - **Feb 26, 07:55 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
 - **Feb 26, 08:23 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
@@ -142,7 +139,6 @@
 - **Feb 27, 11:08 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 11:23 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
 - **Feb 27, 12:07 PM** - Sync Your Calendar With the Solar System (nyt)
-- **Feb 27, 12:22 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 12:39 PM** - Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative (spacenews)
 - **Feb 27, 01:21 PM** - How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission (nyt)
 - **Feb 27, 01:35 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
@@ -156,13 +152,11 @@
 - **Feb 27, 04:23 PM** - Congressional Hearings Focus on NASA's $93B Artemis Program and OSTP Nomination (aidy)
 - **Feb 27, 04:37 PM** - Swissto12 strengthens push beyond subsystems with SES antenna deal (spacenews)
 - **Feb 27, 05:21 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
-- **Feb 27, 05:35 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 06:03 PM** - Space Force team mapping service’s contributions to Iron Dome missile shield (breaking_defense)
 - **Feb 27, 06:31 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Feb 27, 06:45 PM** - Trump Admin Revives Space Command Move to Huntsville Amid Workforce Cuts (aidy)
 - **Feb 27, 06:59 PM** - The future of advanced air mobility under a new Congress and Trump administration (spacenews)
 - **Feb 27, 07:43 PM** - ‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea (nyt)
-- **Feb 27, 07:57 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 27, 08:39 PM** - Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew (nyt)
 - **Feb 27, 09:23 PM** - SES shareholder pushes to curb state control to tackle market challenges (spacenews)
 - **Feb 27, 10:33 PM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
@@ -186,7 +180,6 @@
 - **Feb 28, 05:17 AM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Feb 28, 05:45 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 28, 06:27 AM** - Embracing Darkness on the Isle of Rum (nyt)
-- **Feb 28, 06:57 AM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Feb 28, 07:11 AM** - War of words heats up over Space Force’s strategic posture (spacenews)
 - **Feb 28, 07:39 AM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Feb 28, 08:07 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
@@ -279,7 +272,6 @@
 - **Mar 01, 12:35 PM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 01, 12:49 PM** - Intuitive Machines’ Athena Lander Launches on Journey to the Moon (nyt)
 - **Mar 01, 01:05 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
-- **Mar 01, 01:19 PM** - Space Force Funding Boost Urged Amid Command Relocation Controversy (aidy)
 - **Mar 01, 01:47 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
 - **Mar 01, 02:01 PM** - Earth Safe From Asteroid 2024 YR4, NASA Says (nyt)
 - **Mar 01, 02:15 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
@@ -3320,3 +3312,4 @@
 - **Apr 13, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 13, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 14, 12:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
