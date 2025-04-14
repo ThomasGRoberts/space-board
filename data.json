@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b0795b0215bb573a29e05334e960d2f",
+    "trigger_count": 0,
+    "current_item_id": "ef3ee812e0ae7877177556c6c8ba2869",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8841,6 +8841,18 @@
             "fetched_datetime": "2025-04-14T17:15:27.092864Z",
             "shown_at": [
                 "2025-04-14T17:15:28.060192Z"
+            ]
+        },
+        {
+            "id": "ef3ee812e0ae7877177556c6c8ba2869",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director",
+            "source_link": "https://breakingdefense.com/2025/04/exclusive-derek-tournear-reinstated-as-space-development-agency-director/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T19:13:38.987102Z",
+            "shown_at": [
+                "2025-04-14T19:13:39.626340Z"
             ]
         }
     ]
