@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 18 |
 | breaking_defense | 0 | 0 | 9 | 17 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3221,3 +3221,4 @@
 - **Apr 14, 03:05 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 14, 05:02 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 05:03 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
