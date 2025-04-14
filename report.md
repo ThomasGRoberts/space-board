@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 11 | 20 |
-| nyt | 0 | 1 | 9 | 19 |
+| aidy | 1 | 2 | 10 | 19 |
+| nyt | 0 | 1 | 10 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 10 | 19 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -3248,3 +3248,4 @@
 - **Apr 14, 09:49 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:51 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 14, 10:11 AM** - Strengthening the Aerospace and Defense industrial supply chain (breaking_defense)
+- **Apr 14, 10:37 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
