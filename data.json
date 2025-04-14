@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-14T00:03:35.124591+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
+    "trigger_count": 0,
+    "current_item_id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
     "data": [
         {
             "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
@@ -8863,6 +8863,18 @@
             "fetched_datetime": "2025-04-14T19:13:38.987102Z",
             "shown_at": [
                 "2025-04-14T19:13:39.626340Z"
+            ]
+        },
+        {
+            "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
+            "source": "spacenews",
+            "text": "Derek Tournear to return as Space Development Agency director after investigation",
+            "source_link": "https://spacenews.com/derek-tournear-to-return-as-space-development-agency-director-after-investigation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-14T20:23:38.888268Z",
+            "shown_at": [
+                "2025-04-14T20:23:39.962791Z"
             ]
         }
     ]
