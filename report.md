@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 19 |
 | nyt | 0 | 2 | 9 | 20 |
-| spacenews | 0 | 0 | 10 | 18 |
-| breaking_defense | 0 | 0 | 9 | 18 |
+| spacenews | 0 | 0 | 9 | 18 |
+| breaking_defense | 0 | 0 | 10 | 19 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -3236,3 +3236,4 @@
 - **Apr 14, 07:35 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:41 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:45 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 14, 08:09 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
