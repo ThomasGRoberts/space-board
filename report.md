@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 10 | 19 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -3245,3 +3245,4 @@
 - **Apr 14, 09:31 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:39 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 09:47 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 09:49 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
