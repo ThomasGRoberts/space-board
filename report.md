@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 10 | 19 |
+| aidy | 1 | 1 | 10 | 18 |
 | nyt | 0 | 2 | 9 | 20 |
 | spacenews | 0 | 0 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -3233,3 +3233,4 @@
 - **Apr 14, 07:21 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:25 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
 - **Apr 14, 07:31 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
+- **Apr 14, 07:35 AM** - Blue Origin Will Launch All Female Suborbital Mission (supercluster)
