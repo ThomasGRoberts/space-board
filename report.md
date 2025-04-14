@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 9 | 19 |
+| aidy | 1 | 2 | 10 | 20 |
 | nyt | 2 | 2 | 10 | 20 |
 | spacenews | 3 | 3 | 12 | 21 |
 | breaking_defense | 0 | 0 | 9 | 18 |
@@ -3245,3 +3245,4 @@
 - **Apr 14, 03:18 PM** - Multi-orbit success or a single-point of failure? (spacenews)
 - **Apr 14, 03:32 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 14, 03:47 PM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
+- **Apr 14, 04:01 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
