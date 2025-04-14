@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| aidy | 1 | 2 | 12 | 22 |
+| aidy | 1 | 2 | 13 | 22 |
 | nyt | 2 | 2 | 13 | 22 |
 | spacenews | 5 | 5 | 15 | 25 |
 | breaking_defense | 1 | 1 | 12 | 22 |
@@ -3313,3 +3313,4 @@
 - **Apr 14, 11:25 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 11:27 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 14, 11:29 PM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
+- **Apr 14, 11:47 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
