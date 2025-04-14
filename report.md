@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | aidy | 1 | 2 | 10 | 19 |
 | nyt | 0 | 2 | 10 | 20 |
-| supercluster | 0 | 1 | 67 | 102 |
-| spacenews | 0 | 1 | 9 | 18 |
+| supercluster | 0 | 1 | 66 | 102 |
+| spacenews | 0 | 1 | 10 | 19 |
 | breaking_defense | 0 | 0 | 9 | 18 |
 
 # Shown Order
@@ -3317,3 +3317,4 @@
 - **Apr 14, 12:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 14, 12:19 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 14, 12:57 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 14, 01:23 AM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
