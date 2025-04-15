@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fb259873405c2d6e98a790906003b60c",
+    "trigger_count": 0,
+    "current_item_id": "85e11b54475b3980e48c5e66e5777c04",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -8744,6 +8744,18 @@
             "fetched_datetime": "2025-04-15T00:15:37.834757Z",
             "shown_at": [
                 "2025-04-15T00:15:38.874557Z"
+            ]
+        },
+        {
+            "id": "85e11b54475b3980e48c5e66e5777c04",
+            "source": "nyt",
+            "text": "Blue Origin’s First All-Female Spaceflight Stunt",
+            "source_link": "https://www.nytimes.com/2025/04/14/arts/blue-origin-lauren-sanchez-katy-perry.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T00:43:39.989243Z",
+            "shown_at": [
+                "2025-04-15T00:43:40.587368Z"
             ]
         }
     ]
