@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 29 |
 | breaking_defense | 1 | 1 | 17 | 26 |
-| nyt | 4 | 4 | 17 | 27 |
+| nyt | 4 | 4 | 18 | 28 |
 | supercluster | 1 | 1 | 97 | 97 |
 | aidy | 1 | 2 | 17 | 27 |
 
@@ -3306,3 +3306,4 @@
 - **Apr 15, 08:33 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 15, 08:47 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 15, 09:01 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
+- **Apr 15, 09:15 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
