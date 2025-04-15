@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 27 |
 | nyt | 4 | 4 | 18 | 28 |
 | supercluster | 1 | 1 | 111 | 111 |
-| aidy | 1 | 2 | 17 | 27 |
+| aidy | 1 | 2 | 18 | 28 |
 
 # Shown Order
 
@@ -3326,3 +3326,4 @@
 - **Apr 15, 10:49 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 10:51 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 10:53 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
+- **Apr 15, 11:07 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
