@@ -5,7 +5,7 @@
 | spacenews | 3 | 8 | 20 | 34 |
 | breaking_defense | 1 | 2 | 20 | 32 |
 | nyt | 2 | 4 | 21 | 32 |
-| supercluster | 0 | 1 | 133 | 160 |
+| supercluster | 0 | 1 | 134 | 161 |
 | aidy | 1 | 2 | 20 | 31 |
 
 # Shown Order
@@ -3408,3 +3408,4 @@
 - **Apr 15, 07:59 PM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 15, 08:13 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 15, 08:27 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 15, 08:42 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
