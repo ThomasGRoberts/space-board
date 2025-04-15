@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 21 | 32 |
+| spacenews | 4 | 7 | 22 | 33 |
 | breaking_defense | 1 | 1 | 20 | 30 |
 | nyt | 2 | 4 | 20 | 30 |
 | supercluster | 0 | 1 | 133 | 139 |
@@ -3372,3 +3372,4 @@
 - **Apr 15, 03:55 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 03:57 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 04:13 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 15, 04:27 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
