@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 21 | 34 |
-| breaking_defense | 1 | 1 | 20 | 30 |
+| breaking_defense | 0 | 1 | 19 | 30 |
 | nyt | 2 | 4 | 21 | 32 |
-| supercluster | 0 | 1 | 133 | 153 |
+| supercluster | 0 | 1 | 134 | 154 |
 | aidy | 1 | 2 | 20 | 31 |
 
 # Shown Order
@@ -3396,3 +3396,4 @@
 - **Apr 15, 06:33 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 15, 06:47 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 15, 07:01 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
+- **Apr 15, 07:15 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
