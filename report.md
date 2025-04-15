@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 17 | 27 |
-| breaking_defense | 1 | 1 | 13 | 23 |
+| breaking_defense | 1 | 1 | 14 | 24 |
 | nyt | 4 | 4 | 14 | 24 |
 | supercluster | 1 | 1 | 62 | 62 |
 | aidy | 1 | 2 | 14 | 23 |
@@ -3249,3 +3249,4 @@
 - **Apr 15, 02:23 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 02:25 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 15, 02:39 AM** - Boeing’s bet: supercharge satellite production (spacenews)
+- **Apr 15, 02:53 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
