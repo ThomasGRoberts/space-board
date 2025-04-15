@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 20 | 30 |
-| breaking_defense | 1 | 1 | 17 | 27 |
+| breaking_defense | 1 | 1 | 18 | 28 |
 | nyt | 4 | 4 | 18 | 28 |
 | supercluster | 1 | 1 | 111 | 111 |
 | aidy | 1 | 2 | 18 | 28 |
@@ -3327,3 +3327,4 @@
 - **Apr 15, 10:51 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 10:53 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
 - **Apr 15, 11:07 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 15, 11:21 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
