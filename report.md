@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 21 | 34 |
-| breaking_defense | 0 | 1 | 19 | 30 |
-| nyt | 2 | 4 | 21 | 31 |
+| breaking_defense | 0 | 1 | 20 | 31 |
+| nyt | 2 | 4 | 20 | 31 |
 | supercluster | 0 | 1 | 133 | 160 |
 | aidy | 1 | 2 | 21 | 32 |
 
@@ -3404,3 +3404,4 @@
 - **Apr 15, 07:25 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:27 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:29 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
+- **Apr 15, 07:43 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
