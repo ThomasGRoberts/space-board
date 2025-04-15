@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 19 | 29 |
+| spacenews | 6 | 6 | 20 | 30 |
 | breaking_defense | 1 | 1 | 17 | 26 |
 | nyt | 4 | 4 | 18 | 28 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -3314,3 +3314,4 @@
 - **Apr 15, 09:37 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 09:39 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 09:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 09:43 AM** - TraCSS moves into next phase of development (spacenews)
