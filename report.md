@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 22 | 33 |
 | breaking_defense | 1 | 1 | 20 | 29 |
 | nyt | 2 | 4 | 20 | 31 |
-| supercluster | 0 | 1 | 126 | 139 |
+| supercluster | 0 | 1 | 127 | 140 |
 | aidy | 1 | 2 | 20 | 30 |
 
 # Shown Order
@@ -3374,3 +3374,4 @@
 - **Apr 15, 04:13 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
 - **Apr 15, 04:27 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 15, 04:41 PM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
+- **Apr 15, 04:55 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
