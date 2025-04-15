@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 17 | 26 |
 | nyt | 4 | 4 | 18 | 28 |
 | supercluster | 1 | 1 | 104 | 104 |
-| aidy | 1 | 2 | 16 | 27 |
+| aidy | 1 | 2 | 17 | 28 |
 
 # Shown Order
 
@@ -3315,3 +3315,4 @@
 - **Apr 15, 09:39 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 09:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 09:43 AM** - TraCSS moves into next phase of development (spacenews)
+- **Apr 15, 09:57 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
