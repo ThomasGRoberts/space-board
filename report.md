@@ -5,7 +5,7 @@
 | spacenews | 3 | 8 | 20 | 35 |
 | breaking_defense | 1 | 2 | 20 | 33 |
 | nyt | 2 | 4 | 21 | 33 |
-| supercluster | 0 | 1 | 133 | 174 |
+| supercluster | 0 | 1 | 134 | 175 |
 | aidy | 1 | 2 | 20 | 32 |
 
 # Shown Order
@@ -3430,3 +3430,4 @@
 - **Apr 15, 10:25 PM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
 - **Apr 15, 10:39 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 15, 10:53 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 15, 11:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
