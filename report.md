@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 22 | 33 |
+| spacenews | 4 | 7 | 21 | 33 |
 | breaking_defense | 1 | 1 | 20 | 29 |
 | nyt | 2 | 4 | 20 | 30 |
-| supercluster | 0 | 1 | 128 | 134 |
+| supercluster | 0 | 1 | 129 | 135 |
 | aidy | 1 | 2 | 20 | 30 |
 
 # Shown Order
@@ -3365,3 +3365,4 @@
 - **Apr 15, 03:29 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 15, 03:43 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 03:45 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 03:47 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
