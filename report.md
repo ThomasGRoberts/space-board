@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 20 | 35 |
+| spacenews | 3 | 8 | 21 | 36 |
 | breaking_defense | 1 | 2 | 20 | 32 |
 | nyt | 2 | 4 | 20 | 32 |
 | supercluster | 0 | 1 | 133 | 174 |
@@ -3427,3 +3427,4 @@
 - **Apr 15, 10:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 10:09 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 10:11 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 15, 10:25 PM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
