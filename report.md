@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 29 |
 | breaking_defense | 1 | 1 | 17 | 26 |
-| nyt | 4 | 4 | 17 | 26 |
+| nyt | 4 | 4 | 18 | 27 |
 | supercluster | 1 | 1 | 90 | 90 |
 | aidy | 1 | 2 | 16 | 26 |
 
@@ -3295,3 +3295,4 @@
 - **Apr 15, 07:21 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 15, 07:35 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 15, 07:49 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 15, 08:03 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
