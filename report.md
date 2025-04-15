@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 18 | 28 |
+| spacenews | 6 | 6 | 19 | 29 |
 | breaking_defense | 1 | 1 | 16 | 25 |
 | nyt | 4 | 4 | 17 | 26 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -3292,3 +3292,4 @@
 - **Apr 15, 07:02 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:05 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:07 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
+- **Apr 15, 07:21 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
