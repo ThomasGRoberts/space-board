@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 16 | 26 |
 | nyt | 4 | 4 | 17 | 27 |
 | supercluster | 1 | 1 | 97 | 97 |
-| aidy | 1 | 2 | 16 | 26 |
+| aidy | 1 | 2 | 17 | 27 |
 
 # Shown Order
 
@@ -3304,3 +3304,4 @@
 - **Apr 15, 08:29 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:33 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
+- **Apr 15, 08:47 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
