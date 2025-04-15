@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b0795b0215bb573a29e05334e960d2f",
+    "trigger_count": 0,
+    "current_item_id": "167d293d408c687b99eec7b76cd40772",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -8954,6 +8954,18 @@
             "fetched_datetime": "2025-04-15T14:03:43.207717Z",
             "shown_at": [
                 "2025-04-15T14:03:44.536303Z"
+            ]
+        },
+        {
+            "id": "167d293d408c687b99eec7b76cd40772",
+            "source": "spacenews",
+            "text": "Astranis clinches $115 million Taiwan deal despite satellite setback",
+            "source_link": "https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T19:59:42.538055Z",
+            "shown_at": [
+                "2025-04-15T19:59:43.566940Z"
             ]
         }
     ]
