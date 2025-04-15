@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 20 | 30 |
 | breaking_defense | 1 | 1 | 17 | 27 |
-| nyt | 4 | 4 | 18 | 27 |
+| nyt | 4 | 4 | 19 | 28 |
 | supercluster | 1 | 1 | 104 | 104 |
 | aidy | 1 | 2 | 17 | 28 |
 
@@ -3317,3 +3317,4 @@
 - **Apr 15, 09:43 AM** - TraCSS moves into next phase of development (spacenews)
 - **Apr 15, 09:57 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 15, 10:11 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 15, 10:25 AM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
