@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 15 | 24 |
+| spacenews | 6 | 6 | 16 | 25 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 3 | 3 | 14 | 23 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -3226,3 +3226,4 @@
 - **Apr 14, 11:29 PM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
 - **Apr 14, 11:47 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 12:01 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 15, 12:15 AM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)

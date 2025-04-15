@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "25b40db25cef09bf6b807b1a6dc88fc9",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -8731,6 +8731,18 @@
             "fetched_datetime": "2025-04-15T00:01:54.285811Z",
             "shown_at": [
                 "2025-04-15T00:01:54.923510Z"
+            ]
+        },
+        {
+            "id": "25b40db25cef09bf6b807b1a6dc88fc9",
+            "source": "spacenews",
+            "text": "Maryland congressmen vow to block proposed NASA science budget cuts",
+            "source_link": "https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T00:15:37.834757Z",
+            "shown_at": [
+                "2025-04-15T00:15:38.874557Z"
             ]
         }
     ]
