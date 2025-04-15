@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 21 | 36 |
-| breaking_defense | 1 | 2 | 20 | 32 |
+| breaking_defense | 1 | 2 | 21 | 33 |
 | nyt | 2 | 4 | 20 | 33 |
 | supercluster | 0 | 1 | 133 | 181 |
-| aidy | 1 | 2 | 21 | 33 |
+| aidy | 1 | 2 | 20 | 33 |
 
 # Shown Order
 
@@ -3439,3 +3439,4 @@
 - **Apr 15, 11:19 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 11:21 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 11:35 PM** - Space Command headquarters battle reignites (spacenews)
+- **Apr 15, 11:49 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
