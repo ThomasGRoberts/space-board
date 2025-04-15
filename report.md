@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 20 | 35 |
 | breaking_defense | 1 | 2 | 21 | 33 |
-| nyt | 2 | 4 | 20 | 32 |
+| nyt | 2 | 4 | 21 | 33 |
 | supercluster | 0 | 1 | 133 | 174 |
 | aidy | 1 | 2 | 20 | 32 |
 
@@ -3429,3 +3429,4 @@
 - **Apr 15, 10:11 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 10:25 PM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
 - **Apr 15, 10:39 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 15, 10:53 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
