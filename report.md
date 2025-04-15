@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 15 | 24 |
 | nyt | 4 | 4 | 16 | 26 |
 | supercluster | 1 | 1 | 76 | 76 |
-| aidy | 1 | 2 | 14 | 24 |
+| aidy | 1 | 2 | 15 | 25 |
 
 # Shown Order
 
@@ -3269,3 +3269,4 @@
 - **Apr 15, 04:39 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 04:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 04:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 04:45 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
