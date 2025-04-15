@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 20 | 35 |
 | breaking_defense | 1 | 2 | 21 | 32 |
-| nyt | 2 | 4 | 20 | 32 |
+| nyt | 2 | 4 | 21 | 33 |
 | supercluster | 0 | 1 | 133 | 167 |
 | aidy | 1 | 2 | 20 | 32 |
 
@@ -3418,3 +3418,4 @@
 - **Apr 15, 08:57 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 15, 09:15 PM** - Surge in NATO spending to benefit space sector (spacenews)
 - **Apr 15, 09:29 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 15, 09:43 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
