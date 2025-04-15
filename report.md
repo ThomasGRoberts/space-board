@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 21 | 33 |
 | breaking_defense | 1 | 1 | 20 | 30 |
 | nyt | 2 | 4 | 21 | 31 |
-| supercluster | 0 | 1 | 130 | 146 |
+| supercluster | 0 | 1 | 129 | 147 |
 | aidy | 1 | 2 | 20 | 30 |
 
 # Shown Order
@@ -3385,3 +3385,4 @@
 - **Apr 15, 05:23 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 15, 05:37 PM** - Outgrowing Napoleon: How the Space Force can modernize its ranks (spacenews)
 - **Apr 15, 05:51 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
+- **Apr 15, 06:05 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
