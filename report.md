@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 20 | 34 |
+| spacenews | 3 | 8 | 21 | 35 |
 | breaking_defense | 1 | 2 | 20 | 31 |
 | nyt | 2 | 4 | 20 | 32 |
 | supercluster | 0 | 1 | 133 | 167 |
@@ -3416,3 +3416,4 @@
 - **Apr 15, 08:53 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:55 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:57 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 15, 09:15 PM** - Surge in NATO spending to benefit space sector (spacenews)
