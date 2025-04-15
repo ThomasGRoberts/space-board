@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
+    "trigger_count": 0,
+    "current_item_id": "28dad9176c640d32c21eb5083d1f0f04",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -9009,6 +9009,18 @@
             "shown_at": [
                 "2025-04-15T20:13:27.882489Z",
                 "2025-04-15T21:29:08.916216Z"
+            ]
+        },
+        {
+            "id": "28dad9176c640d32c21eb5083d1f0f04",
+            "source": "spacenews",
+            "text": "Space Command headquarters battle reignites",
+            "source_link": "https://spacenews.com/space-command-headquarters-battle-reignites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T23:35:35.842007Z",
+            "shown_at": [
+                "2025-04-15T23:35:36.730448Z"
             ]
         }
     ]
