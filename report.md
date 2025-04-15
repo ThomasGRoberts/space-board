@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 17 | 27 |
+| spacenews | 6 | 6 | 18 | 28 |
 | breaking_defense | 1 | 1 | 15 | 24 |
 | nyt | 4 | 4 | 16 | 25 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -3270,3 +3270,4 @@
 - **Apr 15, 04:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 04:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 04:45 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
+- **Apr 15, 04:59 AM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
