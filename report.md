@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 20 | 35 |
 | breaking_defense | 1 | 2 | 21 | 32 |
-| nyt | 2 | 4 | 20 | 31 |
+| nyt | 2 | 4 | 21 | 32 |
 | supercluster | 0 | 1 | 133 | 160 |
 | aidy | 1 | 2 | 20 | 31 |
 
@@ -3407,3 +3407,4 @@
 - **Apr 15, 07:43 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 15, 07:59 PM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 15, 08:13 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 15, 08:27 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
