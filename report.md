@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 28 |
 | breaking_defense | 1 | 1 | 16 | 25 |
-| nyt | 4 | 4 | 16 | 26 |
+| nyt | 4 | 4 | 17 | 27 |
 | supercluster | 1 | 1 | 83 | 83 |
 | aidy | 1 | 2 | 15 | 25 |
 
@@ -3283,3 +3283,4 @@
 - **Apr 15, 05:55 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 06:09 AM** - Multi-orbit success or a single-point of failure? (spacenews)
 - **Apr 15, 06:23 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 15, 06:37 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
