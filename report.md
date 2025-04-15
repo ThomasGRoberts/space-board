@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 22 | 32 |
+| spacenews | 6 | 7 | 23 | 33 |
 | breaking_defense | 1 | 1 | 20 | 29 |
-| nyt | 2 | 4 | 20 | 30 |
+| nyt | 2 | 4 | 20 | 29 |
 | supercluster | 0 | 1 | 126 | 132 |
 | aidy | 1 | 2 | 20 | 30 |
 
@@ -3361,3 +3361,4 @@
 - **Apr 15, 02:43 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 02:45 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 02:59 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 15, 03:15 PM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
