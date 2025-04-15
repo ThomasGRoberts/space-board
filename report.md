@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 19 | 28 |
+| spacenews | 6 | 6 | 20 | 29 |
 | breaking_defense | 1 | 1 | 16 | 26 |
-| nyt | 4 | 4 | 18 | 27 |
+| nyt | 4 | 4 | 17 | 27 |
 | supercluster | 1 | 1 | 97 | 97 |
 | aidy | 1 | 2 | 16 | 26 |
 
@@ -3303,3 +3303,4 @@
 - **Apr 15, 08:27 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:29 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 08:33 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
