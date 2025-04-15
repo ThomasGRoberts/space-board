@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 16 | 25 |
-| breaking_defense | 1 | 1 | 12 | 22 |
+| breaking_defense | 1 | 1 | 13 | 23 |
 | nyt | 3 | 3 | 13 | 23 |
 | supercluster | 1 | 1 | 48 | 48 |
 | aidy | 1 | 2 | 13 | 22 |
@@ -3227,3 +3227,4 @@
 - **Apr 14, 11:47 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 12:01 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 15, 12:15 AM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)
+- **Apr 15, 12:29 AM** - Orbital power: Shaping national security from space (breaking_defense)
