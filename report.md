@@ -5,8 +5,8 @@
 | spacenews | 6 | 6 | 21 | 31 |
 | breaking_defense | 1 | 1 | 18 | 28 |
 | nyt | 4 | 4 | 20 | 29 |
-| supercluster | 1 | 1 | 118 | 118 |
-| aidy | 1 | 2 | 18 | 29 |
+| supercluster | 1 | 1 | 119 | 119 |
+| aidy | 1 | 2 | 18 | 28 |
 
 # Shown Order
 
@@ -3340,3 +3340,4 @@
 - **Apr 15, 12:17 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 15, 12:31 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 15, 12:47 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 15, 01:02 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
