@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 21 | 34 |
 | breaking_defense | 1 | 1 | 20 | 30 |
-| nyt | 2 | 4 | 20 | 31 |
+| nyt | 2 | 4 | 21 | 32 |
 | supercluster | 0 | 1 | 133 | 153 |
 | aidy | 1 | 2 | 20 | 31 |
 
@@ -3395,3 +3395,4 @@
 - **Apr 15, 06:19 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 15, 06:33 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 15, 06:47 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
+- **Apr 15, 07:01 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
