@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 18 | 27 |
 | nyt | 4 | 4 | 19 | 29 |
 | supercluster | 1 | 1 | 118 | 118 |
-| aidy | 1 | 2 | 17 | 28 |
+| aidy | 1 | 2 | 18 | 29 |
 
 # Shown Order
 
@@ -3337,3 +3337,4 @@
 - **Apr 15, 11:59 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 12:01 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 12:03 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
+- **Apr 15, 12:17 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
