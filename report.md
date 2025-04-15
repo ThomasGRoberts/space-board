@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 16 | 26 |
 | breaking_defense | 1 | 1 | 13 | 23 |
-| nyt | 4 | 4 | 14 | 23 |
+| nyt | 4 | 4 | 15 | 24 |
 | supercluster | 1 | 1 | 55 | 55 |
 | aidy | 1 | 2 | 13 | 23 |
 
@@ -3239,3 +3239,4 @@
 - **Apr 15, 01:13 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 01:27 AM** - Vast signs three more payload partners for Haven-1 (spacenews)
 - **Apr 15, 01:41 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
+- **Apr 15, 01:55 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
