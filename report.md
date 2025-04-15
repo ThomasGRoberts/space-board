@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 21 | 31 |
-| breaking_defense | 1 | 1 | 18 | 28 |
+| breaking_defense | 1 | 1 | 19 | 29 |
 | nyt | 4 | 4 | 20 | 29 |
 | supercluster | 1 | 1 | 125 | 125 |
 | aidy | 1 | 2 | 19 | 29 |
@@ -3349,3 +3349,4 @@
 - **Apr 15, 01:17 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 01:19 PM** - Space Force to roll out strategy for international collaboration (spacenews)
 - **Apr 15, 01:35 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 15, 01:49 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
