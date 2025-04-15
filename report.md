@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 29 |
-| breaking_defense | 1 | 1 | 16 | 25 |
+| breaking_defense | 1 | 1 | 17 | 26 |
 | nyt | 4 | 4 | 17 | 27 |
 | supercluster | 1 | 1 | 97 | 97 |
 | aidy | 1 | 2 | 17 | 27 |
@@ -3305,3 +3305,4 @@
 - **Apr 15, 08:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 08:33 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 15, 08:47 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
+- **Apr 15, 09:01 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
