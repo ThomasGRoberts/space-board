@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "167d293d408c687b99eec7b76cd40772",
+    "trigger_count": 0,
+    "current_item_id": "f0c4b79b705a63572e89b40662ff476e",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -8966,6 +8966,18 @@
             "fetched_datetime": "2025-04-15T19:59:42.538055Z",
             "shown_at": [
                 "2025-04-15T19:59:43.566940Z"
+            ]
+        },
+        {
+            "id": "f0c4b79b705a63572e89b40662ff476e",
+            "source": "breaking_defense",
+            "text": "Latest DoD IG report clears a hurdle for SPACECOM move to Alabama",
+            "source_link": "https://breakingdefense.com/2025/04/latest-dod-ig-report-clears-a-hurdle-for-spacecom-move-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T20:13:27.245419Z",
+            "shown_at": [
+                "2025-04-15T20:13:27.882489Z"
             ]
         }
     ]
