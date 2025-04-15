@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 29 |
-| breaking_defense | 1 | 1 | 16 | 25 |
+| breaking_defense | 1 | 1 | 17 | 26 |
 | nyt | 4 | 4 | 17 | 26 |
 | supercluster | 1 | 1 | 90 | 90 |
 | aidy | 1 | 2 | 16 | 26 |
@@ -3294,3 +3294,4 @@
 - **Apr 15, 07:07 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 07:21 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 15, 07:35 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 15, 07:49 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
