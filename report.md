@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 18 | 28 |
+| spacenews | 6 | 6 | 18 | 27 |
 | breaking_defense | 1 | 1 | 15 | 25 |
 | nyt | 4 | 4 | 17 | 26 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 | aidy | 1 | 2 | 15 | 24 |
 
 # Shown Order
@@ -3277,3 +3277,4 @@
 - **Apr 15, 05:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 05:45 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 05:47 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 05:49 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
