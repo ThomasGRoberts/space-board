@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 20 | 33 |
-| breaking_defense | 1 | 1 | 20 | 29 |
+| breaking_defense | 1 | 1 | 21 | 30 |
 | nyt | 2 | 4 | 20 | 31 |
 | supercluster | 0 | 1 | 133 | 153 |
 | aidy | 1 | 2 | 21 | 31 |
@@ -3393,3 +3393,4 @@
 - **Apr 15, 06:15 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 06:17 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 06:19 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 15, 06:33 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
