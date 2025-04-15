@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 16 | 25 |
 | nyt | 4 | 4 | 17 | 27 |
 | supercluster | 1 | 1 | 90 | 90 |
-| aidy | 1 | 2 | 15 | 25 |
+| aidy | 1 | 2 | 16 | 26 |
 
 # Shown Order
 
@@ -3291,3 +3291,4 @@
 - **Apr 15, 06:59 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:02 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:05 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 15, 07:07 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
