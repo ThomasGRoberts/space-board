@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 18 | 28 |
 | breaking_defense | 1 | 1 | 15 | 25 |
-| nyt | 4 | 4 | 16 | 25 |
+| nyt | 4 | 4 | 17 | 26 |
 | supercluster | 1 | 1 | 76 | 76 |
 | aidy | 1 | 2 | 15 | 24 |
 
@@ -3272,3 +3272,4 @@
 - **Apr 15, 04:45 AM** - FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment (aidy)
 - **Apr 15, 04:59 AM** - True commercial alternatives for strategic communications and PNT don’t  exist — yet (spacenews)
 - **Apr 15, 05:13 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 15, 05:27 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
