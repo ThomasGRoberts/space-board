@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 16 | 25 |
 | nyt | 4 | 4 | 17 | 26 |
 | supercluster | 1 | 1 | 90 | 90 |
-| aidy | 1 | 2 | 16 | 26 |
+| aidy | 2 | 3 | 17 | 27 |
 
 # Shown Order
 
@@ -3293,3 +3293,4 @@
 - **Apr 15, 07:05 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 07:07 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 07:21 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
+- **Apr 15, 07:35 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
