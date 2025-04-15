@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 20 | 33 |
+| spacenews | 3 | 7 | 21 | 34 |
 | breaking_defense | 1 | 1 | 21 | 30 |
 | nyt | 2 | 4 | 20 | 30 |
 | supercluster | 0 | 1 | 133 | 146 |
@@ -3383,3 +3383,4 @@
 - **Apr 15, 05:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 15, 05:09 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 15, 05:23 PM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
+- **Apr 15, 05:37 PM** - Outgrowing Napoleon: How the Space Force can modernize its ranks (spacenews)
