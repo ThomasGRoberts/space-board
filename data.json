@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef3ee812e0ae7877177556c6c8ba2869",
+    "trigger_count": 0,
+    "current_item_id": "46b12f26b6f8f58daf72e3ebb1eee608",
     "data": [
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
@@ -8888,6 +8888,18 @@
             "shown_at": [
                 "2025-04-15T07:35:37.838685Z",
                 "2025-04-15T12:17:44.611698Z"
+            ]
+        },
+        {
+            "id": "46b12f26b6f8f58daf72e3ebb1eee608",
+            "source": "spacenews",
+            "text": "Startups to demonstrate new spacecraft docking technique",
+            "source_link": "https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T14:03:43.207717Z",
+            "shown_at": [
+                "2025-04-15T14:03:44.536303Z"
             ]
         }
     ]
