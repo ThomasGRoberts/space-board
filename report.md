@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 34 |
 | aidy | 1 | 2 | 20 | 33 |
 | nyt | 0 | 4 | 20 | 34 |
-| supercluster | 0 | 1 | 133 | 188 |
+| supercluster | 0 | 1 | 134 | 189 |
 
 # Shown Order
 
@@ -3379,3 +3379,4 @@
 - **Apr 16, 12:50 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 16, 01:03 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
 - **Apr 16, 01:17 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
+- **Apr 16, 01:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
