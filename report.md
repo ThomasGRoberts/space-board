@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 20 | 36 |
+| spacenews | 3 | 9 | 21 | 37 |
 | breaking_defense | 1 | 2 | 20 | 33 |
 | aidy | 1 | 2 | 21 | 34 |
 | nyt | 0 | 4 | 19 | 33 |
@@ -3376,3 +3376,4 @@
 - **Apr 16, 12:29 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 12:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 12:33 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 16, 12:50 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
