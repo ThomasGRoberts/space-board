@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 21 | 36 |
 | breaking_defense | 1 | 2 | 21 | 33 |
 | aidy | 1 | 2 | 20 | 33 |
-| nyt | 1 | 4 | 19 | 33 |
+| nyt | 1 | 4 | 20 | 34 |
 | supercluster | 0 | 1 | 133 | 181 |
 
 # Shown Order
@@ -3367,3 +3367,4 @@
 - **Apr 15, 11:21 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 11:35 PM** - Space Command headquarters battle reignites (spacenews)
 - **Apr 15, 11:49 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 16, 12:05 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
