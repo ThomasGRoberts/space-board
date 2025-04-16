@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 41 |
+| spacenews | 4 | 10 | 20 | 41 |
 | breaking_defense | 1 | 2 | 20 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
-| nyt | 0 | 4 | 18 | 36 |
+| nyt | 0 | 4 | 19 | 37 |
 | supercluster | 0 | 1 | 126 | 237 |
 
 # Shown Order
@@ -3457,3 +3457,4 @@
 - **Apr 16, 10:04 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 16, 10:27 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 10:42 AM** - Bipartisan caucus criticizes proposed NASA science budget cuts (spacenews)
+- **Apr 16, 10:55 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
