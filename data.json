@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11bd5d5768403581f271b85aa5a76c49",
+    "trigger_count": 0,
+    "current_item_id": "23bee0babc607d42ca487405751acfc7",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -8994,6 +8994,18 @@
             "fetched_datetime": "2025-04-16T10:42:02.851419Z",
             "shown_at": [
                 "2025-04-16T10:42:03.825571Z"
+            ]
+        },
+        {
+            "id": "23bee0babc607d42ca487405751acfc7",
+            "source": "spacenews",
+            "text": "In-flight connectivity – where national policy and global service (don’t) mix",
+            "source_link": "https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T13:01:57.334012Z",
+            "shown_at": [
+                "2025-04-16T13:01:57.903642Z"
             ]
         }
     ]
