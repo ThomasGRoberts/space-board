@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 17 | 38 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -3261,3 +3261,4 @@
 - **Apr 16, 09:43 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 16, 09:57 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 09:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 16, 10:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
