@@ -3,9 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 41 |
-| breaking_defense | 2 | 2 | 20 | 39 |
+| breaking_defense | 2 | 2 | 19 | 39 |
 | aidy | 1 | 2 | 19 | 40 |
 | nyt | 0 | 2 | 18 | 38 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3247,3 +3248,4 @@
 - **Apr 16, 06:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 16, 07:17 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 07:31 PM** - Space Command headquarters battle reignites (spacenews)
+- **Apr 16, 07:45 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
