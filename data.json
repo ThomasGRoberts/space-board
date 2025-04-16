@@ -1,9 +1,110 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-15T00:01:50.762695+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
+    "trigger_count": 6,
     "current_item_id": "5b0795b0215bb573a29e05334e960d2f",
     "data": [
+        {
+            "id": "28dad9176c640d32c21eb5083d1f0f04",
+            "source": "spacenews",
+            "text": "Space Command headquarters battle reignites",
+            "source_link": "https://spacenews.com/space-command-headquarters-battle-reignites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T23:35:35.842007Z",
+            "shown_at": [
+                "2025-04-15T23:35:36.730448Z"
+            ]
+        },
+        {
+            "id": "f0c4b79b705a63572e89b40662ff476e",
+            "source": "breaking_defense",
+            "text": "Latest DoD IG report clears a hurdle for SPACECOM move to Alabama",
+            "source_link": "https://breakingdefense.com/2025/04/latest-dod-ig-report-clears-a-hurdle-for-spacecom-move-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T20:13:27.245419Z",
+            "shown_at": [
+                "2025-04-15T20:13:27.882489Z",
+                "2025-04-15T21:29:08.916216Z"
+            ]
+        },
+        {
+            "id": "167d293d408c687b99eec7b76cd40772",
+            "source": "spacenews",
+            "text": "Astranis clinches $115 million Taiwan deal despite satellite setback",
+            "source_link": "https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T19:59:42.538055Z",
+            "shown_at": [
+                "2025-04-15T19:59:43.566940Z"
+            ]
+        },
+        {
+            "id": "46b12f26b6f8f58daf72e3ebb1eee608",
+            "source": "spacenews",
+            "text": "Startups to demonstrate new spacecraft docking technique",
+            "source_link": "https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T14:03:43.207717Z",
+            "shown_at": [
+                "2025-04-15T14:03:44.536303Z"
+            ]
+        },
+        {
+            "id": "650b2d9bf192c2f5c596a5beadea1ba5",
+            "source": "aidy",
+            "text": "White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T07:35:37.371200Z",
+            "shown_at": [
+                "2025-04-15T07:35:37.838685Z",
+                "2025-04-15T12:17:44.611698Z",
+                "2025-04-15T20:57:43.527582Z"
+            ]
+        },
+        {
+            "id": "85e11b54475b3980e48c5e66e5777c04",
+            "source": "nyt",
+            "text": "Blue Origin’s First All-Female Spaceflight Stunt",
+            "source_link": "https://www.nytimes.com/2025/04/14/arts/blue-origin-lauren-sanchez-katy-perry.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T00:43:39.989243Z",
+            "shown_at": [
+                "2025-04-15T00:43:40.587368Z",
+                "2025-04-15T01:55:41.967043Z"
+            ]
+        },
+        {
+            "id": "25b40db25cef09bf6b807b1a6dc88fc9",
+            "source": "spacenews",
+            "text": "Maryland congressmen vow to block proposed NASA science budget cuts",
+            "source_link": "https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T00:15:37.834757Z",
+            "shown_at": [
+                "2025-04-15T00:15:38.874557Z"
+            ]
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-15T00:01:54.285811Z",
+            "shown_at": [
+                "2025-04-15T00:01:54.923510Z",
+                "2025-04-15T04:17:32.607005Z"
+            ]
+        },
         {
             "id": "586f7d4a6463ba60565fcc7cc2a0fb7c",
             "source": "spacenews",
@@ -8760,268 +8861,6 @@
                 "2025-02-28T11:28:01.451776Z",
                 "2025-03-02T11:57:44.229951Z",
                 "2025-03-02T20:09:29.038673Z"
-            ]
-        },
-        {
-            "id": "a13d421da746623718e816b1b1fdfafd",
-            "source": "spacenews",
-            "text": "NASA associate administrator for exploration to retire",
-            "source_link": "https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:29:45.568686Z",
-            "shown_at": [
-                "2025-02-25T02:29:46.392631Z",
-                "2025-02-25T10:13:30.311548Z",
-                "2025-02-26T22:17:51.906167Z"
-            ]
-        },
-        {
-            "id": "c557fae18a43a28f997d7e408505ac16",
-            "source": "nyt",
-            "text": "Embracing Darkness on the Isle of Rum",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-dark-sky-rum.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:15:32.993813Z",
-            "shown_at": [
-                "2025-02-25T02:43:27.481040Z",
-                "2025-02-25T15:09:42.566878Z",
-                "2025-02-26T01:05:46.230301Z",
-                "2025-02-26T07:47:29.103404Z",
-                "2025-02-26T09:23:43.531234Z",
-                "2025-02-26T11:59:50.903703Z",
-                "2025-02-26T16:23:32.648832Z",
-                "2025-02-27T10:51:42.899289Z",
-                "2025-02-27T23:17:45.567515Z",
-                "2025-02-28T06:27:41.508081Z",
-                "2025-02-28T12:53:46.516679Z",
-                "2025-03-02T21:21:48.084391Z",
-                "2025-03-03T10:19:38.703276Z"
-            ]
-        },
-        {
-            "id": "69b52a437726fb3b6301d8d7e5050d36",
-            "source": "nyt",
-            "text": "Earth Safe From Asteroid 2024 YR4, NASA Says",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/asteroid-2024-yr4.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T02:15:32.993682Z",
-            "shown_at": [
-                "2025-02-25T02:15:33.455639Z",
-                "2025-02-25T11:39:51.070775Z",
-                "2025-02-25T17:25:43.333657Z",
-                "2025-02-26T22:47:37.763903Z",
-                "2025-02-27T17:21:36.883343Z",
-                "2025-02-28T07:39:45.294333Z",
-                "2025-02-28T14:48:01.968479Z",
-                "2025-03-01T11:23:40.296791Z",
-                "2025-03-01T14:01:50.457078Z"
-            ]
-        },
-        {
-            "id": "e6ef354cd041b74f4f9183f021d24b1c",
-            "source": "spacenews",
-            "text": "Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative",
-            "source_link": "https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T00:29:31.036014Z",
-            "shown_at": [
-                "2025-02-25T00:29:31.707274Z",
-                "2025-02-27T12:39:56.837272Z",
-                "2025-03-02T00:59:44.317922Z",
-                "2025-03-02T02:13:48.941633Z"
-            ]
-        },
-        {
-            "id": "68d9d0d6bdcbbc4157c993e0cb95c875",
-            "source": "breaking_defense",
-            "text": "Space Force team mapping service’s contributions to Iron Dome missile shield",
-            "source_link": "https://breakingdefense.com/2025/02/space-force-team-mapping-services-contributions-to-iron-dome-missile-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T23:31:43.349316Z",
-            "shown_at": [
-                "2025-02-24T23:31:43.946027Z",
-                "2025-02-25T18:07:45.986483Z",
-                "2025-02-26T00:49:40.407643Z",
-                "2025-02-26T11:45:32.162114Z",
-                "2025-02-27T00:12:00.589457Z",
-                "2025-02-27T15:27:39.243759Z",
-                "2025-02-27T18:03:31.623034Z",
-                "2025-02-28T01:27:32.155898Z",
-                "2025-02-28T03:49:34.545599Z",
-                "2025-02-28T10:03:34.380203Z",
-                "2025-02-28T19:07:36.545459Z",
-                "2025-03-01T03:45:37.824289Z",
-                "2025-03-01T15:27:13.134202Z",
-                "2025-03-02T01:14:22.592708Z",
-                "2025-03-02T05:59:08.437001Z",
-                "2025-03-02T08:19:35.074124Z",
-                "2025-03-02T16:53:38.777123Z",
-                "2025-03-02T18:03:27.745185Z",
-                "2025-03-02T21:35:33.402666Z",
-                "2025-03-03T01:13:54.287303Z",
-                "2025-03-03T04:53:27.673092Z",
-                "2025-03-03T06:07:48.569691Z",
-                "2025-03-03T13:57:48.647998Z",
-                "2025-03-03T16:37:35.951298Z",
-                "2025-03-03T22:21:56.928933Z"
-            ]
-        },
-        {
-            "id": "4df30f99353d2609db2ea096174c0a8c",
-            "source": "spacenews",
-            "text": "Despite looming defense cuts, analysts see long-term upside for space investments",
-            "source_link": "https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T23:11:38.251709Z",
-            "shown_at": [
-                "2025-02-24T23:11:38.781317Z",
-                "2025-03-01T04:15:45.254240Z",
-                "2025-03-01T22:33:43.024360Z"
-            ]
-        },
-        {
-            "id": "d600a30a260340be4b51140a7d7bcfc8",
-            "source": "spacenews",
-            "text": "More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes",
-            "source_link": "https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T19:46:02.565289Z",
-            "shown_at": [
-                "2025-02-24T19:46:03.550169Z",
-                "2025-02-25T19:31:27.174344Z"
-            ]
-        },
-        {
-            "id": "5f60768a5b57e804b85d87fa3964b64b",
-            "source": "nyt",
-            "text": "Every Planet in Our Solar System Will Be Visible at Night This Week",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-24T15:47:51.241000Z",
-            "shown_at": [
-                "2025-02-24T15:47:52.107402Z",
-                "2025-02-24T23:45:28.345794Z",
-                "2025-02-25T09:17:32.254725Z",
-                "2025-02-26T06:37:44.754383Z",
-                "2025-02-26T17:33:32.340180Z",
-                "2025-02-26T21:35:42.897804Z",
-                "2025-02-28T17:27:38.446432Z",
-                "2025-02-28T20:10:00.547587Z",
-                "2025-02-28T22:30:04.628507Z",
-                "2025-03-01T02:19:39.480016Z",
-                "2025-03-01T07:05:32.553410Z",
-                "2025-03-01T15:12:10.408999Z",
-                "2025-03-01T18:43:33.507272Z",
-                "2025-03-03T05:39:48.434033Z"
-            ]
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T00:01:54.285811Z",
-            "shown_at": [
-                "2025-04-15T00:01:54.923510Z",
-                "2025-04-15T04:17:32.607005Z"
-            ]
-        },
-        {
-            "id": "25b40db25cef09bf6b807b1a6dc88fc9",
-            "source": "spacenews",
-            "text": "Maryland congressmen vow to block proposed NASA science budget cuts",
-            "source_link": "https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T00:15:37.834757Z",
-            "shown_at": [
-                "2025-04-15T00:15:38.874557Z"
-            ]
-        },
-        {
-            "id": "85e11b54475b3980e48c5e66e5777c04",
-            "source": "nyt",
-            "text": "Blue Origin’s First All-Female Spaceflight Stunt",
-            "source_link": "https://www.nytimes.com/2025/04/14/arts/blue-origin-lauren-sanchez-katy-perry.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T00:43:39.989243Z",
-            "shown_at": [
-                "2025-04-15T00:43:40.587368Z",
-                "2025-04-15T01:55:41.967043Z"
-            ]
-        },
-        {
-            "id": "650b2d9bf192c2f5c596a5beadea1ba5",
-            "source": "aidy",
-            "text": "White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T07:35:37.371200Z",
-            "shown_at": [
-                "2025-04-15T07:35:37.838685Z",
-                "2025-04-15T12:17:44.611698Z",
-                "2025-04-15T20:57:43.527582Z"
-            ]
-        },
-        {
-            "id": "46b12f26b6f8f58daf72e3ebb1eee608",
-            "source": "spacenews",
-            "text": "Startups to demonstrate new spacecraft docking technique",
-            "source_link": "https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T14:03:43.207717Z",
-            "shown_at": [
-                "2025-04-15T14:03:44.536303Z"
-            ]
-        },
-        {
-            "id": "167d293d408c687b99eec7b76cd40772",
-            "source": "spacenews",
-            "text": "Astranis clinches $115 million Taiwan deal despite satellite setback",
-            "source_link": "https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T19:59:42.538055Z",
-            "shown_at": [
-                "2025-04-15T19:59:43.566940Z"
-            ]
-        },
-        {
-            "id": "f0c4b79b705a63572e89b40662ff476e",
-            "source": "breaking_defense",
-            "text": "Latest DoD IG report clears a hurdle for SPACECOM move to Alabama",
-            "source_link": "https://breakingdefense.com/2025/04/latest-dod-ig-report-clears-a-hurdle-for-spacecom-move-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T20:13:27.245419Z",
-            "shown_at": [
-                "2025-04-15T20:13:27.882489Z",
-                "2025-04-15T21:29:08.916216Z"
-            ]
-        },
-        {
-            "id": "28dad9176c640d32c21eb5083d1f0f04",
-            "source": "spacenews",
-            "text": "Space Command headquarters battle reignites",
-            "source_link": "https://spacenews.com/space-command-headquarters-battle-reignites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T23:35:35.842007Z",
-            "shown_at": [
-                "2025-04-15T23:35:36.730448Z"
             ]
         }
     ]
