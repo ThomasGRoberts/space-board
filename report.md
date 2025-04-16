@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 34 |
 | aidy | 1 | 2 | 20 | 34 |
 | nyt | 0 | 4 | 20 | 35 |
-| supercluster | 0 | 1 | 134 | 196 |
+| supercluster | 0 | 1 | 135 | 197 |
 
 # Shown Order
 
@@ -3391,3 +3391,4 @@
 - **Apr 16, 02:13 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 16, 02:27 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 16, 02:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 02:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
