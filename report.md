@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 20 | 39 |
+| spacenews | 3 | 9 | 21 | 40 |
 | breaking_defense | 1 | 2 | 20 | 36 |
 | aidy | 1 | 2 | 20 | 36 |
 | nyt | 0 | 4 | 19 | 37 |
-| supercluster | 0 | 1 | 135 | 230 |
+| supercluster | 0 | 1 | 133 | 230 |
 
 # Shown Order
 
@@ -3442,3 +3442,4 @@
 - **Apr 16, 08:23 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 08:25 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 08:28 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 08:32 AM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
