@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 40 |
 | breaking_defense | 1 | 2 | 19 | 40 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | nyt | 0 | 2 | 19 | 39 |
 | supercluster | 0 | 0 | 133 | 266 |
 
@@ -3520,3 +3520,4 @@
 - **Apr 16, 05:27 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 05:29 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 05:31 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 05:33 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
