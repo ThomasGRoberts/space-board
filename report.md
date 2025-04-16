@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 41 |
+| spacenews | 4 | 10 | 20 | 41 |
 | breaking_defense | 1 | 2 | 20 | 38 |
 | aidy | 1 | 2 | 20 | 38 |
-| nyt | 0 | 4 | 18 | 37 |
+| nyt | 0 | 4 | 19 | 38 |
 | supercluster | 0 | 1 | 126 | 244 |
 
 # Shown Order
@@ -3468,3 +3468,4 @@
 - **Apr 16, 11:23 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 16, 11:37 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 16, 11:51 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
+- **Apr 16, 12:05 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
