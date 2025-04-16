@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 40 |
-| breaking_defense | 1 | 2 | 19 | 36 |
+| breaking_defense | 1 | 2 | 20 | 37 |
 | aidy | 1 | 2 | 20 | 37 |
-| nyt | 0 | 4 | 19 | 37 |
+| nyt | 0 | 4 | 18 | 37 |
 | supercluster | 0 | 1 | 133 | 237 |
 
 # Shown Order
@@ -3455,3 +3455,4 @@
 - **Apr 16, 09:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 09:45 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 16, 10:04 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 16, 10:27 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
