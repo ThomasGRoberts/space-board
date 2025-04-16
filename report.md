@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 20 | 40 |
+| spacenews | 5 | 8 | 21 | 41 |
 | breaking_defense | 1 | 2 | 18 | 38 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 18 | 39 |
 | nyt | 0 | 2 | 17 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -3266,3 +3266,4 @@
 - **Apr 16, 10:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 10:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 10:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 16, 10:11 PM** - Multi-orbit success or a single-point of failure? (spacenews)
