@@ -5,8 +5,8 @@
 | spacenews | 4 | 7 | 20 | 41 |
 | breaking_defense | 2 | 3 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| nyt | 0 | 2 | 18 | 38 |
-| supercluster | 0 | 0 | 128 | 259 |
+| nyt | 0 | 2 | 19 | 39 |
+| supercluster | 0 | 0 | 126 | 259 |
 
 # Shown Order
 
@@ -3523,3 +3523,4 @@
 - **Apr 16, 05:33 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 16, 05:47 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 16, 06:02 PM** - Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems (spacenews)
+- **Apr 16, 06:17 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
