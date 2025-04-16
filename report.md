@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 37 |
-| breaking_defense | 1 | 2 | 20 | 33 |
+| breaking_defense | 1 | 2 | 21 | 34 |
 | aidy | 1 | 2 | 21 | 33 |
 | nyt | 0 | 4 | 19 | 33 |
-| supercluster | 0 | 1 | 138 | 188 |
+| supercluster | 0 | 1 | 137 | 188 |
 
 # Shown Order
 
@@ -3377,3 +3377,4 @@
 - **Apr 16, 12:31 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 12:33 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 16, 12:50 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
+- **Apr 16, 01:03 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
