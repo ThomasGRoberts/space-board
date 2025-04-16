@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 39 |
 | breaking_defense | 1 | 2 | 21 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
+| aidy | 1 | 2 | 20 | 35 |
 | nyt | 0 | 4 | 20 | 36 |
-| supercluster | 0 | 1 | 135 | 218 |
+| supercluster | 0 | 1 | 136 | 219 |
 
 # Shown Order
 
@@ -3425,3 +3425,4 @@
 - **Apr 16, 05:59 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
 - **Apr 16, 06:13 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 06:15 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 06:20 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
