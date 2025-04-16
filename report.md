@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 20 | 40 |
-| breaking_defense | 1 | 2 | 17 | 38 |
+| breaking_defense | 1 | 2 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 18 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -3269,3 +3269,4 @@
 - **Apr 16, 10:11 PM** - Multi-orbit success or a single-point of failure? (spacenews)
 - **Apr 16, 10:25 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 16, 10:39 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 16, 10:53 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
