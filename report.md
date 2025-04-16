@@ -3491,3 +3491,4 @@
 - **Apr 16, 01:57 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 02:13 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
 - **Apr 16, 02:27 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
+- **Apr 16, 02:41 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
