@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 19 | 39 |
 | aidy | 1 | 2 | 20 | 40 |
 | nyt | 0 | 2 | 18 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3247,3 +3247,4 @@
 - **Apr 16, 06:17 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 16, 06:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 16, 07:03 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 07:05 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
