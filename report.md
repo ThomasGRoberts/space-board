@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 20 | 41 |
 | breaking_defense | 1 | 2 | 19 | 39 |
-| aidy | 1 | 2 | 19 | 39 |
+| aidy | 1 | 2 | 20 | 40 |
 | nyt | 0 | 2 | 19 | 39 |
 | supercluster | 0 | 0 | 133 | 266 |
 
@@ -3509,3 +3509,4 @@
 - **Apr 16, 04:11 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 04:13 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 04:15 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
+- **Apr 16, 04:17 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
