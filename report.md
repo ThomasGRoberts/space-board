@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 17 | 38 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3248,3 +3248,4 @@
 - **Apr 16, 06:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 16, 07:17 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 07:31 PM** - Space Command headquarters battle reignites (spacenews)
+- **Apr 16, 08:33 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 0,
-    "current_item_id": "4eafd63133c88ddfca0cadf1e52e3ce4",
+    "trigger_count": 1,
+    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -8776,15 +8776,18 @@
             ]
         },
         {
-            "id": "4eafd63133c88ddfca0cadf1e52e3ce4",
+            "id": "c272eca5490c96f5f23e88f0bda5518d",
             "source": "supercluster",
-            "text": "Northrop Grumman Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-174",
-            "shown": false,
+            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
+            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-16T19:33:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-16T20:31:58.454409Z"
+            "target_datetime": "2025-04-18T13:37:00.000Z",
+            "time_remaining": "1d 17h 03m",
+            "fetched_datetime": "2025-04-16T20:33:35.629452Z",
+            "shown_at": [
+                "2025-04-16T20:33:36.868844Z"
+            ]
         }
     ]
 }
