@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 40 |
 | breaking_defense | 1 | 2 | 20 | 36 |
-| aidy | 1 | 2 | 20 | 36 |
+| aidy | 1 | 2 | 21 | 37 |
 | nyt | 0 | 4 | 19 | 36 |
 | supercluster | 0 | 1 | 133 | 230 |
 
@@ -3443,3 +3443,4 @@
 - **Apr 16, 08:25 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 08:28 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 08:32 AM** - ‘Everyone is doing AI’: Space sector urged to catch up (spacenews)
+- **Apr 16, 08:45 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
