@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 19 | 41 |
+| spacenews | 4 | 8 | 20 | 42 |
 | breaking_defense | 1 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| nyt | 0 | 2 | 19 | 39 |
+| nyt | 0 | 2 | 18 | 39 |
 | supercluster | 0 | 0 | 133 | 259 |
 
 # Shown Order
@@ -3500,3 +3500,4 @@
 - **Apr 16, 02:55 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 02:57 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 16, 03:16 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 16, 03:31 PM** - A ‘little pillow fort’: Making plans to protect the Artemis 2 crew (spacenews)
