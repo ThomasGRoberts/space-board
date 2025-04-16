@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 20 | 40 |
+| spacenews | 6 | 9 | 21 | 41 |
 | breaking_defense | 1 | 2 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 17 | 38 |
@@ -3277,3 +3277,4 @@
 - **Apr 16, 11:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 11:17 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 11:19 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 16, 11:21 PM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
