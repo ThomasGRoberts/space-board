@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 19 | 39 |
-| breaking_defense | 1 | 2 | 18 | 39 |
+| breaking_defense | 1 | 2 | 18 | 38 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 17 | 38 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3250,3 +3250,4 @@
 - **Apr 16, 07:31 PM** - Space Command headquarters battle reignites (spacenews)
 - **Apr 16, 08:33 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 08:35 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 16, 08:37 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
