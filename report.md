@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 41 |
 | breaking_defense | 1 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| nyt | 0 | 2 | 18 | 38 |
+| nyt | 0 | 2 | 19 | 39 |
 | supercluster | 0 | 0 | 129 | 259 |
 
 # Shown Order
@@ -3512,3 +3512,4 @@
 - **Apr 16, 04:17 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 16, 04:35 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 04:49 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
+- **Apr 16, 05:03 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
