@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 21 | 37 |
 | breaking_defense | 1 | 2 | 21 | 34 |
 | aidy | 1 | 2 | 20 | 34 |
-| nyt | 0 | 4 | 19 | 34 |
+| nyt | 0 | 4 | 20 | 35 |
 | supercluster | 0 | 1 | 133 | 195 |
 
 # Shown Order
@@ -3389,3 +3389,4 @@
 - **Apr 16, 01:45 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 16, 01:59 AM** - Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system (spacenews)
 - **Apr 16, 02:13 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 16, 02:27 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
