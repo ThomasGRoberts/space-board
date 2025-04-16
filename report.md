@@ -6,7 +6,6 @@
 | breaking_defense | 2 | 2 | 20 | 39 |
 | aidy | 1 | 2 | 19 | 40 |
 | nyt | 0 | 2 | 18 | 39 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3246,12 +3245,5 @@
 - **Apr 16, 06:02 PM** - Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems (spacenews)
 - **Apr 16, 06:17 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 16, 06:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
-- **Apr 16, 07:03 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:05 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:07 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:09 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:11 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:13 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
-- **Apr 16, 07:15 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 07:17 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 07:31 PM** - Space Command headquarters battle reignites (spacenews)
