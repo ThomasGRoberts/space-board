@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 20 | 42 |
 | breaking_defense | 1 | 2 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
-| nyt | 0 | 4 | 18 | 39 |
+| nyt | 0 | 4 | 19 | 40 |
 | supercluster | 0 | 1 | 133 | 258 |
 
 # Shown Order
@@ -3490,3 +3490,4 @@
 - **Apr 16, 01:43 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 16, 01:57 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 16, 02:13 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
+- **Apr 16, 02:27 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
