@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dedc0fd6a51cd511920e72c059aa136d",
+    "trigger_count": 0,
+    "current_item_id": "79e1aa17b39dc19c568641eefea8c191",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -8811,9 +8811,12 @@
             "source": "spacenews",
             "text": "Space Force eases entry for commercial firms with layered launch standards",
             "source_link": "https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-16T20:45:50.369384Z"
+            "fetched_datetime": "2025-04-16T20:45:50.369384Z",
+            "shown_at": [
+                "2025-04-16T21:00:01.986062Z"
+            ]
         }
     ]
 }
