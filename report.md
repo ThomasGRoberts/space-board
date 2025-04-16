@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 38 |
 | breaking_defense | 1 | 2 | 21 | 36 |
-| aidy | 1 | 2 | 21 | 35 |
-| nyt | 0 | 4 | 19 | 35 |
+| aidy | 1 | 2 | 20 | 35 |
+| nyt | 0 | 4 | 20 | 36 |
 | supercluster | 0 | 1 | 133 | 209 |
 
 # Shown Order
@@ -3411,3 +3411,4 @@
 - **Apr 16, 04:05 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 16, 04:19 AM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
 - **Apr 16, 04:33 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
+- **Apr 16, 04:47 AM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
