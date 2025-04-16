@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "4eafd63133c88ddfca0cadf1e52e3ce4",
     "data": [
         {
@@ -8780,14 +8780,11 @@
             "source": "supercluster",
             "text": "Northrop Grumman Will Launch Classified NRO Mission",
             "source_link": "https://www.supercluster.com/launches/nrol-174",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-04-16T19:33:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-04-16T19:45:40.811909Z",
-            "shown_at": [
-                "2025-04-16T19:45:41.573295Z"
-            ]
+            "fetched_datetime": "2025-04-16T19:47:29.618959Z"
         }
     ]
 }
