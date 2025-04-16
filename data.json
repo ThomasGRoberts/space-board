@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "470107fccb2dafc66aebc8436c44344c",
+    "trigger_count": 0,
+    "current_item_id": "d8c879a849ec37fc94471fd1ed5b130f",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -8926,6 +8926,18 @@
                 "2025-02-28T11:28:01.451776Z",
                 "2025-03-02T11:57:44.229951Z",
                 "2025-03-02T20:09:29.038673Z"
+            ]
+        },
+        {
+            "id": "d8c879a849ec37fc94471fd1ed5b130f",
+            "source": "aidy",
+            "text": "White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T07:29:41.446425Z",
+            "shown_at": [
+                "2025-04-16T07:29:42.465603Z"
             ]
         }
     ]
