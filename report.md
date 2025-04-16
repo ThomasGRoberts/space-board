@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 20 | 40 |
-| breaking_defense | 1 | 2 | 17 | 38 |
+| breaking_defense | 1 | 2 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 18 | 38 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -3258,3 +3258,4 @@
 - **Apr 16, 09:00 PM** - Space Force eases entry for commercial firms with layered launch standards (spacenews)
 - **Apr 16, 09:15 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 16, 09:30 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
+- **Apr 16, 09:43 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
