@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 19 | 41 |
+| spacenews | 4 | 10 | 20 | 42 |
 | breaking_defense | 1 | 2 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 39 |
 | nyt | 0 | 4 | 19 | 39 |
@@ -3489,3 +3489,4 @@
 - **Apr 16, 01:41 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 01:43 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 16, 01:57 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
+- **Apr 16, 02:13 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
