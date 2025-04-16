@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "650b2d9bf192c2f5c596a5beadea1ba5",
+    "trigger_count": 0,
+    "current_item_id": "2f8828dca036728899b566cc9243f381",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -9048,6 +9048,18 @@
             "fetched_datetime": "2025-04-16T13:01:57.334012Z",
             "shown_at": [
                 "2025-04-16T13:01:57.903642Z"
+            ]
+        },
+        {
+            "id": "2f8828dca036728899b566cc9243f381",
+            "source": "breaking_defense",
+            "text": "Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries",
+            "source_link": "https://breakingdefense.com/2025/04/space-forces-rapid-launch-victus-sats-to-push-both-acquisition-and-operational-boundaries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T17:47:42.109118Z",
+            "shown_at": [
+                "2025-04-16T17:47:42.722291Z"
             ]
         }
     ]
