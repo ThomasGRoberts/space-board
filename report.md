@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 20 | 38 |
+| spacenews | 3 | 9 | 21 | 39 |
 | breaking_defense | 1 | 2 | 20 | 36 |
-| aidy | 1 | 2 | 21 | 36 |
+| aidy | 1 | 2 | 20 | 36 |
 | nyt | 0 | 4 | 19 | 36 |
-| supercluster | 0 | 1 | 134 | 223 |
+| supercluster | 0 | 1 | 133 | 223 |
 
 # Shown Order
 
@@ -3431,3 +3431,4 @@
 - **Apr 16, 06:30 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 06:35 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 06:42 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 16, 07:09 AM** - TraCSS moves into next phase of development (spacenews)
