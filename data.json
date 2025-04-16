@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b0795b0215bb573a29e05334e960d2f",
+    "trigger_count": 0,
+    "current_item_id": "873498308c4ee26e86bf3a26b879d15c",
     "data": [
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
@@ -8961,6 +8961,18 @@
             "fetched_datetime": "2025-04-16T07:29:41.446425Z",
             "shown_at": [
                 "2025-04-16T07:29:42.465603Z"
+            ]
+        },
+        {
+            "id": "873498308c4ee26e86bf3a26b879d15c",
+            "source": "spacenews",
+            "text": "Bipartisan caucus criticizes proposed NASA science budget cuts",
+            "source_link": "https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T10:42:02.851419Z",
+            "shown_at": [
+                "2025-04-16T10:42:03.825571Z"
             ]
         }
     ]
