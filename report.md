@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 20 | 37 |
+| spacenews | 3 | 9 | 21 | 38 |
 | breaking_defense | 1 | 2 | 20 | 35 |
 | aidy | 1 | 2 | 21 | 35 |
-| nyt | 0 | 4 | 20 | 35 |
+| nyt | 0 | 4 | 19 | 35 |
 | supercluster | 0 | 1 | 140 | 209 |
 
 # Shown Order
@@ -3409,3 +3409,4 @@
 - **Apr 16, 04:02 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 04:03 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 04:05 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
+- **Apr 16, 04:19 AM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
