@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 20 | 41 |
 | breaking_defense | 1 | 2 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 38 |
+| aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 2 | 18 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -3268,3 +3268,4 @@
 - **Apr 16, 10:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 16, 10:11 PM** - Multi-orbit success or a single-point of failure? (spacenews)
 - **Apr 16, 10:25 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 16, 10:39 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
