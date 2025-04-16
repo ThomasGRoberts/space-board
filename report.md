@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 40 |
 | breaking_defense | 1 | 2 | 20 | 37 |
-| aidy | 1 | 2 | 20 | 36 |
+| aidy | 1 | 2 | 20 | 37 |
 | nyt | 0 | 4 | 19 | 37 |
 | supercluster | 0 | 1 | 133 | 237 |
 
@@ -3454,3 +3454,4 @@
 - **Apr 16, 09:41 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 09:43 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 09:45 AM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
+- **Apr 16, 10:04 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
