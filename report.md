@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 39 |
-| breaking_defense | 1 | 2 | 20 | 35 |
+| breaking_defense | 1 | 2 | 21 | 36 |
 | aidy | 1 | 2 | 21 | 36 |
 | nyt | 0 | 4 | 19 | 36 |
 | supercluster | 0 | 1 | 138 | 216 |
@@ -3421,3 +3421,4 @@
 - **Apr 16, 05:15 AM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 05:17 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 16, 05:31 AM** - Isaacman says NASA should pursue human moon and Mars programs simultaneously (spacenews)
+- **Apr 16, 05:45 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
