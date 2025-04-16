@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 42 |
 | breaking_defense | 1 | 2 | 20 | 40 |
 | aidy | 1 | 2 | 20 | 40 |
-| nyt | 0 | 2 | 18 | 38 |
+| nyt | 0 | 2 | 19 | 39 |
 | supercluster | 0 | 0 | 132 | 259 |
 
 # Shown Order
@@ -3501,3 +3501,4 @@
 - **Apr 16, 02:57 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 16, 03:16 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 16, 03:31 PM** - A ‘little pillow fort’: Making plans to protect the Artemis 2 crew (spacenews)
+- **Apr 16, 03:45 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
