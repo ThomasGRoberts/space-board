@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 20 | 41 |
 | breaking_defense | 1 | 2 | 20 | 38 |
-| aidy | 1 | 2 | 20 | 37 |
+| aidy | 1 | 2 | 19 | 37 |
 | nyt | 0 | 4 | 19 | 38 |
-| supercluster | 0 | 1 | 126 | 244 |
+| supercluster | 0 | 1 | 127 | 245 |
 
 # Shown Order
 
@@ -3469,3 +3469,4 @@
 - **Apr 16, 11:37 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 16, 11:51 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 16, 12:05 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 16, 12:19 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
