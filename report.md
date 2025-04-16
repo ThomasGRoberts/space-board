@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 20 | 41 |
-| breaking_defense | 1 | 2 | 19 | 38 |
+| breaking_defense | 1 | 2 | 20 | 39 |
 | aidy | 1 | 2 | 20 | 38 |
-| nyt | 0 | 4 | 19 | 38 |
+| nyt | 0 | 4 | 18 | 38 |
 | supercluster | 0 | 1 | 133 | 251 |
 
 # Shown Order
@@ -3477,3 +3477,4 @@
 - **Apr 16, 12:29 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 12:31 PM** - Northrop Grumman Will Launch Classified NRO Mission (supercluster)
 - **Apr 16, 12:33 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 16, 12:47 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
