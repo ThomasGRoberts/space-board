@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 20 | 39 |
-| breaking_defense | 1 | 2 | 20 | 36 |
+| breaking_defense | 1 | 2 | 21 | 37 |
 | aidy | 1 | 3 | 20 | 37 |
 | nyt | 0 | 4 | 19 | 36 |
 | supercluster | 0 | 1 | 133 | 223 |
@@ -3433,3 +3433,4 @@
 - **Apr 16, 06:42 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 16, 07:09 AM** - TraCSS moves into next phase of development (spacenews)
 - **Apr 16, 07:29 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 16, 07:43 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
