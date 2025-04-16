@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 20 | 39 |
 | breaking_defense | 1 | 2 | 20 | 37 |
 | aidy | 1 | 2 | 20 | 36 |
-| nyt | 0 | 4 | 19 | 36 |
+| nyt | 0 | 4 | 20 | 37 |
 | supercluster | 0 | 1 | 133 | 223 |
 
 # Shown Order
@@ -3434,3 +3434,4 @@
 - **Apr 16, 07:09 AM** - TraCSS moves into next phase of development (spacenews)
 - **Apr 16, 07:29 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 16, 07:43 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 16, 07:59 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
