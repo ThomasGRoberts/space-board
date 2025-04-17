@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 55 | 55 |
 | breaking_defense | 1 | 3 | 8 | 28 |
 | aidy | 0 | 1 | 8 | 27 |
-| nyt | 1 | 1 | 7 | 26 |
+| nyt | 1 | 1 | 8 | 27 |
 
 # Shown Order
 
@@ -3299,3 +3299,4 @@
 - **Apr 17, 05:53 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 05:55 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 17, 06:09 PM** - In-flight connectivity – where national policy and global service (don’t) mix (spacenews)
+- **Apr 17, 06:23 PM** - Sync Your Calendar With the Solar System (nyt)
