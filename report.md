@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 15 | 35 |
 | supercluster | 1 | 2 | 70 | 76 |
 | breaking_defense | 1 | 2 | 10 | 27 |
-| aidy | 0 | 1 | 8 | 27 |
+| aidy | 0 | 1 | 9 | 28 |
 | nyt | 1 | 1 | 9 | 27 |
 
 # Shown Order
@@ -3331,3 +3331,4 @@
 - **Apr 17, 09:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 17, 09:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 17, 09:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 17, 09:43 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
