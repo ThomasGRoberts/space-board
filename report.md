@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 15 | 35 |
 | supercluster | 2 | 2 | 41 | 41 |
-| breaking_defense | 2 | 3 | 8 | 28 |
+| breaking_defense | 2 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 8 | 27 |
 | nyt | 1 | 1 | 8 | 27 |
 
@@ -3278,3 +3278,4 @@
 - **Apr 17, 03:33 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 17, 03:47 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
 - **Apr 17, 04:02 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
+- **Apr 17, 04:15 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
