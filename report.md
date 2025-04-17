@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 14 | 34 |
+| spacenews | 9 | 13 | 15 | 35 |
 | supercluster | 2 | 2 | 41 | 41 |
 | breaking_defense | 2 | 3 | 8 | 28 |
 | aidy | 0 | 1 | 8 | 28 |
-| nyt | 1 | 1 | 8 | 26 |
+| nyt | 1 | 1 | 7 | 26 |
 
 # Shown Order
 
@@ -3276,3 +3276,4 @@
 - **Apr 17, 03:05 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)
 - **Apr 17, 03:19 PM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
 - **Apr 17, 03:33 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 17, 03:47 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
+    "trigger_count": 0,
+    "current_item_id": "7617f759ed4107a614ee7de4e5a6ec0f",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8860,6 +8860,18 @@
             "fetched_datetime": "2025-04-17T15:19:49.947663Z",
             "shown_at": [
                 "2025-04-17T15:19:50.933449Z"
+            ]
+        },
+        {
+            "id": "7617f759ed4107a614ee7de4e5a6ec0f",
+            "source": "spacenews",
+            "text": "L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’",
+            "source_link": "https://spacenews.com/l3harris-expands-space-manufacturing-as-companies-vie-for-position-in-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T15:47:27.403319Z",
+            "shown_at": [
+                "2025-04-17T15:47:28.114522Z"
             ]
         }
     ]
