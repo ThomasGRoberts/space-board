@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "048f22d452444d78a0fc8e82f2acb741",
+    "trigger_count": 0,
+    "current_item_id": "8171778bfb47af5ef73394e523297a2b",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8906,6 +8906,18 @@
             "fetched_datetime": "2025-04-17T15:47:27.403319Z",
             "shown_at": [
                 "2025-04-17T15:47:28.114522Z"
+            ]
+        },
+        {
+            "id": "8171778bfb47af5ef73394e523297a2b",
+            "source": "spacenews",
+            "text": "Multilateral coordination will be needed for commercial space stations",
+            "source_link": "https://spacenews.com/multilateral-coordination-will-be-needed-for-commercial-space-stations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T19:47:42.631090Z",
+            "shown_at": [
+                "2025-04-17T19:47:44.668394Z"
             ]
         }
     ]
