@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 13 | 33 |
-| supercluster | 2 | 2 | 35 | 35 |
+| supercluster | 2 | 2 | 36 | 36 |
 | breaking_defense | 2 | 3 | 9 | 29 |
 | aidy | 0 | 1 | 8 | 27 |
 | nyt | 1 | 1 | 8 | 27 |
@@ -3267,3 +3267,4 @@
 - **Apr 17, 02:21 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 17, 02:35 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 17, 02:49 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 17, 02:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
