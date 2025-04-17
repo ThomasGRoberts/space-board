@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 15 | 34 |
+| spacenews | 9 | 13 | 16 | 35 |
 | supercluster | 2 | 2 | 62 | 62 |
-| breaking_defense | 1 | 3 | 9 | 28 |
+| breaking_defense | 1 | 3 | 8 | 28 |
 | aidy | 0 | 1 | 8 | 28 |
 | nyt | 1 | 1 | 8 | 26 |
 
@@ -3309,3 +3309,4 @@
 - **Apr 17, 07:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 07:03 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 07:05 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 17, 07:19 PM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
