@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 15 | 36 |
+| spacenews | 7 | 12 | 15 | 35 |
 | supercluster | 1 | 2 | 63 | 83 |
-| breaking_defense | 1 | 2 | 9 | 27 |
+| breaking_defense | 1 | 2 | 10 | 28 |
 | aidy | 0 | 1 | 9 | 27 |
-| nyt | 1 | 1 | 10 | 27 |
+| nyt | 1 | 1 | 9 | 27 |
 
 # Shown Order
 
@@ -3345,3 +3345,4 @@
 - **Apr 17, 10:55 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 17, 11:09 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 17, 11:23 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
+- **Apr 17, 11:37 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
