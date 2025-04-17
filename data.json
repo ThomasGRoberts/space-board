@@ -1,9 +1,128 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-16T00:02:20.160104+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
+    "trigger_count": 6,
     "current_item_id": "ceb50af3e54ce64b4fc0f09af61aaa33",
     "data": [
+        {
+            "id": "2322bb236f0b797fecad5a2622000b2e",
+            "source": "spacenews",
+            "text": "Minotaur IV rocket launches spy payloads for National Reconnaissance Office",
+            "source_link": "https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T23:21:27.308398Z",
+            "shown_at": [
+                "2025-04-16T23:21:28.008545Z"
+            ]
+        },
+        {
+            "id": "79e1aa17b39dc19c568641eefea8c191",
+            "source": "spacenews",
+            "text": "Space Force eases entry for commercial firms with layered launch standards",
+            "source_link": "https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T20:45:50.369384Z",
+            "shown_at": [
+                "2025-04-16T21:00:01.986062Z"
+            ]
+        },
+        {
+            "id": "dedc0fd6a51cd511920e72c059aa136d",
+            "source": "spacenews",
+            "text": "Ground twin built for Boeing’s 2026 quantum satellite demo",
+            "source_link": "https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T20:45:50.369328Z",
+            "shown_at": [
+                "2025-04-16T20:45:50.975251Z"
+            ]
+        },
+        {
+            "id": "c272eca5490c96f5f23e88f0bda5518d",
+            "source": "supercluster",
+            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
+            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-18T13:37:00.000Z",
+            "time_remaining": "1d 14h 17m",
+            "fetched_datetime": "2025-04-16T20:33:35.629452Z",
+            "shown_at": [
+                "2025-04-16T20:33:36.868844Z",
+                "2025-04-16T20:35:26.238126Z",
+                "2025-04-16T20:37:41.186824Z",
+                "2025-04-16T20:39:21.931516Z",
+                "2025-04-16T20:41:42.494661Z",
+                "2025-04-16T20:43:28.732073Z",
+                "2025-04-16T21:57:29.021161Z",
+                "2025-04-16T21:59:33.717217Z",
+                "2025-04-16T22:02:07.583200Z",
+                "2025-04-16T22:03:02.256049Z",
+                "2025-04-16T22:05:04.392632Z",
+                "2025-04-16T22:07:33.640510Z",
+                "2025-04-16T22:09:35.684997Z",
+                "2025-04-16T23:07:43.042968Z",
+                "2025-04-16T23:09:41.889188Z",
+                "2025-04-16T23:11:35.229440Z",
+                "2025-04-16T23:13:21.940875Z",
+                "2025-04-16T23:15:23.597878Z",
+                "2025-04-16T23:17:22.327505Z",
+                "2025-04-16T23:19:22.944129Z"
+            ]
+        },
+        {
+            "id": "2f8828dca036728899b566cc9243f381",
+            "source": "breaking_defense",
+            "text": "Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries",
+            "source_link": "https://breakingdefense.com/2025/04/space-forces-rapid-launch-victus-sats-to-push-both-acquisition-and-operational-boundaries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T17:47:42.109118Z",
+            "shown_at": [
+                "2025-04-16T17:47:42.722291Z",
+                "2025-04-16T22:53:29.277675Z"
+            ]
+        },
+        {
+            "id": "23bee0babc607d42ca487405751acfc7",
+            "source": "spacenews",
+            "text": "In-flight connectivity – where national policy and global service (don’t) mix",
+            "source_link": "https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T13:01:57.334012Z",
+            "shown_at": [
+                "2025-04-16T13:01:57.903642Z"
+            ]
+        },
+        {
+            "id": "873498308c4ee26e86bf3a26b879d15c",
+            "source": "spacenews",
+            "text": "Bipartisan caucus criticizes proposed NASA science budget cuts",
+            "source_link": "https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T10:42:02.851419Z",
+            "shown_at": [
+                "2025-04-16T10:42:03.825571Z"
+            ]
+        },
+        {
+            "id": "d8c879a849ec37fc94471fd1ed5b130f",
+            "source": "aidy",
+            "text": "White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts.",
+            "source_link": "https://app.aidyhq.com/topic/114/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-16T07:29:41.446425Z",
+            "shown_at": [
+                "2025-04-16T07:29:42.465603Z",
+                "2025-04-16T13:43:30.307862Z"
+            ]
+        },
         {
             "id": "28dad9176c640d32c21eb5083d1f0f04",
             "source": "spacenews",
@@ -8616,241 +8735,6 @@
                 "2025-02-25T14:51:44.848097Z",
                 "2025-02-28T17:13:39.200238Z",
                 "2025-03-03T17:19:37.532839Z"
-            ]
-        },
-        {
-            "id": "5481989ff0372870f30bb980c376fb27",
-            "source": "spacenews",
-            "text": "SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry",
-            "source_link": "https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000242Z",
-            "shown_at": [
-                "2025-02-25T14:34:38.968443Z",
-                "2025-03-02T14:59:54.104728Z",
-                "2025-03-02T22:03:35.179852Z"
-            ]
-        },
-        {
-            "id": "e4a05f56712120fe72dc74c9036f7b38",
-            "source": "spacenews",
-            "text": "Magdrive raises $10.5 million and opens U.S. office",
-            "source_link": "https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000207Z",
-            "shown_at": [
-                "2025-02-25T14:18:08.558064Z",
-                "2025-02-26T23:29:43.793570Z"
-            ]
-        },
-        {
-            "id": "9440a5f8935677b3e60a493272161dda",
-            "source": "spacenews",
-            "text": "Former FCC Space Bureau chief joins law firm",
-            "source_link": "https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T14:03:37.000159Z",
-            "shown_at": [
-                "2025-02-25T14:03:37.565405Z",
-                "2025-03-02T13:49:27.419853Z"
-            ]
-        },
-        {
-            "id": "e8fae0b183738b5e819f5ecdab449aad",
-            "source": "spacenews",
-            "text": "China to send a spacecraft out of the ecliptic to study the Sun’s poles",
-            "source_link": "https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T11:25:28.205706Z",
-            "shown_at": [
-                "2025-02-25T11:25:28.722574Z",
-                "2025-02-25T17:10:13.083977Z",
-                "2025-02-25T20:41:37.078556Z",
-                "2025-03-01T03:02:10.595237Z",
-                "2025-03-02T08:05:39.953022Z"
-            ]
-        },
-        {
-            "id": "a4bb245a614fdc2d85fd06519fa1fda0",
-            "source": "spacenews",
-            "text": "SpaceX completes investigation into Starship Flight 7 mishap",
-            "source_link": "https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T09:03:36.051501Z",
-            "shown_at": [
-                "2025-02-25T09:03:36.557330Z",
-                "2025-02-26T06:51:45.698967Z",
-                "2025-02-26T10:59:38.921106Z",
-                "2025-03-01T11:09:37.129021Z",
-                "2025-03-03T06:35:26.421652Z"
-            ]
-        },
-        {
-            "id": "2c0b0d36be16a6906f387131807c3db1",
-            "source": "aidy",
-            "text": "NASA Leadership Shake-Up: New Administrator with Commercial Space Background Expected",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T08:33:26.485753Z",
-            "shown_at": [
-                "2025-02-25T08:33:26.930638Z",
-                "2025-02-25T21:55:34.198554Z",
-                "2025-02-27T05:11:45.853219Z",
-                "2025-02-28T04:33:32.900054Z",
-                "2025-02-28T09:49:28.739878Z",
-                "2025-02-28T12:23:48.759070Z",
-                "2025-02-28T18:23:14.799077Z",
-                "2025-02-28T23:41:52.269539Z",
-                "2025-03-01T16:51:53.158874Z",
-                "2025-03-01T21:49:36.174400Z",
-                "2025-03-02T05:02:11.616074Z",
-                "2025-03-02T11:15:46.104076Z",
-                "2025-03-02T22:59:35.438988Z"
-            ]
-        },
-        {
-            "id": "b9d3546999cd05feb8c14e86c07b9cb8",
-            "source": "nyt",
-            "text": "‘Ultrahigh Energy’ Neutrino Found With a Telescope Under the Sea",
-            "source_link": "https://www.nytimes.com/2025/02/12/science/astrophysics-universe-neutrinos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-25T03:13:35.588225Z",
-            "shown_at": [
-                "2025-02-25T03:13:35.967235Z",
-                "2025-02-25T18:35:36.241648Z",
-                "2025-02-25T21:13:33.483627Z",
-                "2025-02-26T14:53:32.848809Z",
-                "2025-02-26T19:55:28.083461Z",
-                "2025-02-27T19:43:40.367714Z",
-                "2025-02-28T11:28:01.451776Z",
-                "2025-03-02T11:57:44.229951Z",
-                "2025-03-02T20:09:29.038673Z"
-            ]
-        },
-        {
-            "id": "d8c879a849ec37fc94471fd1ed5b130f",
-            "source": "aidy",
-            "text": "White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T07:29:41.446425Z",
-            "shown_at": [
-                "2025-04-16T07:29:42.465603Z",
-                "2025-04-16T13:43:30.307862Z"
-            ]
-        },
-        {
-            "id": "873498308c4ee26e86bf3a26b879d15c",
-            "source": "spacenews",
-            "text": "Bipartisan caucus criticizes proposed NASA science budget cuts",
-            "source_link": "https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T10:42:02.851419Z",
-            "shown_at": [
-                "2025-04-16T10:42:03.825571Z"
-            ]
-        },
-        {
-            "id": "23bee0babc607d42ca487405751acfc7",
-            "source": "spacenews",
-            "text": "In-flight connectivity – where national policy and global service (don’t) mix",
-            "source_link": "https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T13:01:57.334012Z",
-            "shown_at": [
-                "2025-04-16T13:01:57.903642Z"
-            ]
-        },
-        {
-            "id": "2f8828dca036728899b566cc9243f381",
-            "source": "breaking_defense",
-            "text": "Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries",
-            "source_link": "https://breakingdefense.com/2025/04/space-forces-rapid-launch-victus-sats-to-push-both-acquisition-and-operational-boundaries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T17:47:42.109118Z",
-            "shown_at": [
-                "2025-04-16T17:47:42.722291Z",
-                "2025-04-16T22:53:29.277675Z"
-            ]
-        },
-        {
-            "id": "c272eca5490c96f5f23e88f0bda5518d",
-            "source": "supercluster",
-            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
-            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-18T13:37:00.000Z",
-            "time_remaining": "1d 14h 17m",
-            "fetched_datetime": "2025-04-16T20:33:35.629452Z",
-            "shown_at": [
-                "2025-04-16T20:33:36.868844Z",
-                "2025-04-16T20:35:26.238126Z",
-                "2025-04-16T20:37:41.186824Z",
-                "2025-04-16T20:39:21.931516Z",
-                "2025-04-16T20:41:42.494661Z",
-                "2025-04-16T20:43:28.732073Z",
-                "2025-04-16T21:57:29.021161Z",
-                "2025-04-16T21:59:33.717217Z",
-                "2025-04-16T22:02:07.583200Z",
-                "2025-04-16T22:03:02.256049Z",
-                "2025-04-16T22:05:04.392632Z",
-                "2025-04-16T22:07:33.640510Z",
-                "2025-04-16T22:09:35.684997Z",
-                "2025-04-16T23:07:43.042968Z",
-                "2025-04-16T23:09:41.889188Z",
-                "2025-04-16T23:11:35.229440Z",
-                "2025-04-16T23:13:21.940875Z",
-                "2025-04-16T23:15:23.597878Z",
-                "2025-04-16T23:17:22.327505Z",
-                "2025-04-16T23:19:22.944129Z"
-            ]
-        },
-        {
-            "id": "dedc0fd6a51cd511920e72c059aa136d",
-            "source": "spacenews",
-            "text": "Ground twin built for Boeing’s 2026 quantum satellite demo",
-            "source_link": "https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T20:45:50.369328Z",
-            "shown_at": [
-                "2025-04-16T20:45:50.975251Z"
-            ]
-        },
-        {
-            "id": "79e1aa17b39dc19c568641eefea8c191",
-            "source": "spacenews",
-            "text": "Space Force eases entry for commercial firms with layered launch standards",
-            "source_link": "https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T20:45:50.369384Z",
-            "shown_at": [
-                "2025-04-16T21:00:01.986062Z"
-            ]
-        },
-        {
-            "id": "2322bb236f0b797fecad5a2622000b2e",
-            "source": "spacenews",
-            "text": "Minotaur IV rocket launches spy payloads for National Reconnaissance Office",
-            "source_link": "https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T23:21:27.308398Z",
-            "shown_at": [
-                "2025-04-16T23:21:28.008545Z"
             ]
         }
     ]
