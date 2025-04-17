@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 15 | 34 |
-| supercluster | 2 | 2 | 48 | 48 |
+| supercluster | 2 | 2 | 49 | 49 |
 | breaking_defense | 2 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 7 | 27 |
 | nyt | 1 | 1 | 8 | 27 |
@@ -3290,3 +3290,4 @@
 - **Apr 17, 04:57 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 17, 05:11 PM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
 - **Apr 17, 05:25 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 17, 05:41 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
