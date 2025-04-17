@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 13 | 33 |
 | supercluster | 2 | 2 | 34 | 34 |
-| breaking_defense | 2 | 3 | 8 | 28 |
+| breaking_defense | 2 | 3 | 9 | 29 |
 | aidy | 0 | 1 | 8 | 28 |
 | nyt | 1 | 1 | 8 | 27 |
 
@@ -3265,3 +3265,4 @@
 - **Apr 17, 01:53 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 17, 02:07 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 17, 02:21 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 17, 02:35 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
