@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 21 | 41 |
+| spacenews | 5 | 8 | 17 | 38 |
 | supercluster | 1 | 1 | 27 | 27 |
-| breaking_defense | 1 | 2 | 18 | 38 |
-| aidy | 1 | 2 | 18 | 39 |
-| nyt | 0 | 0 | 17 | 36 |
+| breaking_defense | 1 | 2 | 14 | 35 |
+| aidy | 1 | 2 | 15 | 36 |
+| nyt | 1 | 1 | 15 | 34 |
 
 # Shown Order
 
@@ -3250,3 +3250,4 @@
 - **Apr 17, 12:29 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 12:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 12:34 AM** - TraCSS moves into next phase of development (spacenews)
+- **Apr 17, 04:41 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
