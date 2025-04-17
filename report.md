@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 17 | 38 |
+| spacenews | 4 | 8 | 11 | 31 |
 | supercluster | 1 | 1 | 27 | 27 |
-| breaking_defense | 1 | 2 | 14 | 35 |
-| aidy | 1 | 2 | 15 | 35 |
-| nyt | 1 | 1 | 14 | 34 |
+| breaking_defense | 2 | 3 | 10 | 30 |
+| aidy | 0 | 1 | 9 | 29 |
+| nyt | 1 | 1 | 9 | 28 |
 
 # Shown Order
 
@@ -3251,3 +3251,4 @@
 - **Apr 17, 12:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 12:34 AM** - TraCSS moves into next phase of development (spacenews)
 - **Apr 17, 04:41 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 17, 12:11 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
