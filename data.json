@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b46517b6b2634e552535f504d0f440a",
+    "trigger_count": 0,
+    "current_item_id": "0d1040ccc543a4c1299f72cd93d9bfe4",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8807,9 +8807,12 @@
             "source": "spacenews",
             "text": "Texas Space Commission awards $26 million to five companies",
             "source_link": "https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.838923Z"
+            "fetched_datetime": "2025-04-17T13:09:24.838923Z",
+            "shown_at": [
+                "2025-04-17T13:25:35.273765Z"
+            ]
         },
         {
             "id": "feee70b6eb3158c6aa349b1da177052c",
