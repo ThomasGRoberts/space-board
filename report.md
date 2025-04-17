@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 16 | 36 |
+| spacenews | 10 | 13 | 16 | 35 |
 | supercluster | 2 | 2 | 62 | 62 |
-| breaking_defense | 1 | 3 | 8 | 27 |
+| breaking_defense | 1 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 8 | 27 |
 | nyt | 1 | 1 | 9 | 27 |
 
@@ -3312,3 +3312,4 @@
 - **Apr 17, 07:19 PM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
 - **Apr 17, 07:33 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 17, 07:47 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 17, 08:02 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
