@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 15 | 35 |
-| supercluster | 1 | 2 | 63 | 69 |
-| breaking_defense | 1 | 2 | 10 | 28 |
+| supercluster | 1 | 2 | 64 | 70 |
+| breaking_defense | 1 | 2 | 10 | 27 |
 | aidy | 0 | 1 | 9 | 27 |
 | nyt | 1 | 1 | 9 | 27 |
 
@@ -3324,3 +3324,4 @@
 - **Apr 17, 08:45 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 17, 08:59 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 17, 09:15 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
+- **Apr 17, 09:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
