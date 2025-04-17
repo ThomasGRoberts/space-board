@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 20 | 41 |
 | supercluster | 1 | 1 | 20 | 20 |
-| breaking_defense | 1 | 2 | 17 | 38 |
+| breaking_defense | 1 | 2 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 1 | 18 | 37 |
 
@@ -3241,3 +3241,4 @@
 - **Apr 16, 11:21 PM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 16, 11:35 PM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 16, 11:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 17, 12:05 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
