@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 20 | 40 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | aidy | 1 | 2 | 19 | 39 |
 | nyt | 0 | 1 | 17 | 37 |
@@ -3243,3 +3243,4 @@
 - **Apr 16, 11:49 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 17, 12:05 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 17, 12:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 17, 12:21 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
