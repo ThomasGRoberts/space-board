@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 16 | 35 |
-| supercluster | 2 | 2 | 63 | 63 |
+| supercluster | 2 | 2 | 64 | 64 |
 | breaking_defense | 1 | 2 | 9 | 27 |
 | aidy | 0 | 1 | 8 | 27 |
 | nyt | 1 | 1 | 9 | 27 |
@@ -3314,3 +3314,4 @@
 - **Apr 17, 07:47 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 17, 08:02 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 17, 08:17 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 17, 08:19 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
