@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 15 | 34 |
-| supercluster | 2 | 2 | 42 | 42 |
+| supercluster | 2 | 2 | 43 | 43 |
 | breaking_defense | 2 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 7 | 27 |
 | nyt | 1 | 1 | 8 | 27 |
@@ -3280,3 +3280,4 @@
 - **Apr 17, 04:02 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 17, 04:15 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 17, 04:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 17, 04:31 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
