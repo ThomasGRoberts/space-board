@@ -6,7 +6,7 @@
 | supercluster | 2 | 2 | 41 | 41 |
 | breaking_defense | 2 | 3 | 8 | 28 |
 | aidy | 0 | 1 | 8 | 27 |
-| nyt | 1 | 1 | 7 | 26 |
+| nyt | 1 | 1 | 8 | 27 |
 
 # Shown Order
 
@@ -3277,3 +3277,4 @@
 - **Apr 17, 03:19 PM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
 - **Apr 17, 03:33 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 17, 03:47 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
+- **Apr 17, 04:02 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
