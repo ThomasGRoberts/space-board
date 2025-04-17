@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "9b46517b6b2634e552535f504d0f440a",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8789,6 +8789,45 @@
                 "2025-04-17T13:05:23.402690Z",
                 "2025-04-17T13:07:22.462660Z"
             ]
+        },
+        {
+            "id": "9b46517b6b2634e552535f504d0f440a",
+            "source": "spacenews",
+            "text": "U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide",
+            "source_link": "https://spacenews.com/u-s-space-force-lays-out-battle-plan-for-space-in-new-warfighting-guide/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T13:09:24.838817Z",
+            "shown_at": [
+                "2025-04-17T13:09:25.507098Z"
+            ]
+        },
+        {
+            "id": "0d1040ccc543a4c1299f72cd93d9bfe4",
+            "source": "spacenews",
+            "text": "Texas Space Commission awards $26 million to five companies",
+            "source_link": "https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T13:09:24.838923Z"
+        },
+        {
+            "id": "feee70b6eb3158c6aa349b1da177052c",
+            "source": "spacenews",
+            "text": "Mission team details complex rescue of Chinese lunar spacecraft",
+            "source_link": "https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T13:09:24.839001Z"
+        },
+        {
+            "id": "86448b3da09473fccf33b7e5a71f2253",
+            "source": "spacenews",
+            "text": "Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities",
+            "source_link": "https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T13:09:24.839076Z"
         }
     ]
 }
