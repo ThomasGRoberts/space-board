@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 11 | 31 |
-| supercluster | 2 | 2 | 28 | 28 |
+| supercluster | 2 | 2 | 29 | 29 |
 | breaking_defense | 2 | 3 | 9 | 29 |
 | aidy | 0 | 1 | 8 | 28 |
 | nyt | 1 | 1 | 9 | 27 |
@@ -3253,3 +3253,4 @@
 - **Apr 17, 04:41 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 17, 12:11 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 17, 12:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 17, 12:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
