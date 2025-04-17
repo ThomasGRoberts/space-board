@@ -5,7 +5,7 @@
 | spacenews | 7 | 11 | 14 | 33 |
 | supercluster | 2 | 2 | 34 | 34 |
 | breaking_defense | 2 | 3 | 8 | 28 |
-| aidy | 0 | 1 | 7 | 27 |
+| aidy | 0 | 1 | 8 | 28 |
 | nyt | 1 | 1 | 8 | 27 |
 
 # Shown Order
@@ -3263,3 +3263,4 @@
 - **Apr 17, 01:25 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
 - **Apr 17, 01:39 PM** - Mission team details complex rescue of Chinese lunar spacecraft (spacenews)
 - **Apr 17, 01:53 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
+- **Apr 17, 02:07 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
