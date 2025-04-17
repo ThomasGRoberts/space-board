@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 15 | 34 |
-| supercluster | 2 | 2 | 55 | 55 |
+| supercluster | 2 | 2 | 56 | 56 |
 | breaking_defense | 1 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 7 | 27 |
 | nyt | 1 | 1 | 8 | 27 |
@@ -3301,3 +3301,4 @@
 - **Apr 17, 06:09 PM** - In-flight connectivity – where national policy and global service (don’t) mix (spacenews)
 - **Apr 17, 06:23 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 17, 06:37 PM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
+- **Apr 17, 06:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
