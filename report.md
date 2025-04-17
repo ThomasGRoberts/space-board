@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 13 | 33 |
+| spacenews | 7 | 12 | 14 | 34 |
 | supercluster | 2 | 2 | 34 | 34 |
 | breaking_defense | 2 | 3 | 9 | 28 |
 | aidy | 0 | 1 | 7 | 27 |
@@ -3262,3 +3262,4 @@
 - **Apr 17, 01:09 PM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
 - **Apr 17, 01:25 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
 - **Apr 17, 01:39 PM** - Mission team details complex rescue of Chinese lunar spacecraft (spacenews)
+- **Apr 17, 01:53 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)

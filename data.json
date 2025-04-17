@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "feee70b6eb3158c6aa349b1da177052c",
+    "trigger_count": 0,
+    "current_item_id": "86448b3da09473fccf33b7e5a71f2253",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8831,9 +8831,12 @@
             "source": "spacenews",
             "text": "Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities",
             "source_link": "https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.839076Z"
+            "fetched_datetime": "2025-04-17T13:09:24.839076Z",
+            "shown_at": [
+                "2025-04-17T13:53:44.509312Z"
+            ]
         }
     ]
 }
