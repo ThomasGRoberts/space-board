@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 15 | 35 |
+| spacenews | 8 | 13 | 15 | 36 |
 | supercluster | 1 | 2 | 63 | 76 |
 | breaking_defense | 1 | 2 | 9 | 27 |
-| aidy | 0 | 1 | 9 | 28 |
+| aidy | 0 | 1 | 9 | 27 |
 | nyt | 1 | 1 | 10 | 27 |
 
 # Shown Order
@@ -3333,3 +3333,4 @@
 - **Apr 17, 09:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 17, 09:43 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 17, 09:57 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 17, 10:11 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
