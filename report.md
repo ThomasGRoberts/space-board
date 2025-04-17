@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 15 | 35 |
-| supercluster | 1 | 2 | 64 | 84 |
+| supercluster | 1 | 2 | 65 | 85 |
 | breaking_defense | 1 | 2 | 10 | 27 |
 | aidy | 0 | 1 | 8 | 27 |
 | nyt | 1 | 1 | 9 | 27 |
@@ -3347,3 +3347,4 @@
 - **Apr 17, 11:23 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 17, 11:37 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 17, 11:52 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 17, 11:53 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
