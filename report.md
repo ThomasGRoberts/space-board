@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 15 | 35 |
-| supercluster | 1 | 2 | 70 | 83 |
+| supercluster | 1 | 2 | 69 | 83 |
 | breaking_defense | 1 | 2 | 9 | 27 |
 | aidy | 0 | 1 | 9 | 28 |
-| nyt | 1 | 1 | 9 | 26 |
+| nyt | 1 | 1 | 10 | 27 |
 
 # Shown Order
 
@@ -3343,3 +3343,4 @@
 - **Apr 17, 10:51 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 10:53 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 17, 10:55 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 17, 11:09 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
