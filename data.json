@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-17T00:02:14.798484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "157d2c932d0d5bed9cde02f8f415fd9b",
+    "trigger_count": 0,
+    "current_item_id": "21e97073443ad5170fdf7445c4fdd1d1",
     "data": [
         {
             "id": "2322bb236f0b797fecad5a2622000b2e",
@@ -8847,6 +8847,18 @@
             "fetched_datetime": "2025-04-17T13:09:24.839076Z",
             "shown_at": [
                 "2025-04-17T13:53:44.509312Z"
+            ]
+        },
+        {
+            "id": "21e97073443ad5170fdf7445c4fdd1d1",
+            "source": "spacenews",
+            "text": "Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA",
+            "source_link": "https://spacenews.com/creotech-instruments-secures-e52-million-esa-contract-to-build-polish-satellite-constellation-camila/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-17T15:19:49.947663Z",
+            "shown_at": [
+                "2025-04-17T15:19:50.933449Z"
             ]
         }
     ]

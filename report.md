@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 14 | 33 |
+| spacenews | 8 | 12 | 15 | 34 |
 | supercluster | 2 | 2 | 41 | 41 |
 | breaking_defense | 2 | 3 | 8 | 28 |
 | aidy | 0 | 1 | 7 | 27 |
@@ -3274,3 +3274,4 @@
 - **Apr 17, 02:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 17, 03:02 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 17, 03:05 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)
+- **Apr 17, 03:19 PM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
