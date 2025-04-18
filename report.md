@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 21 | 36 |
-| supercluster | 1 | 2 | 106 | 133 |
+| supercluster | 1 | 2 | 107 | 134 |
 | breaking_defense | 1 | 2 | 16 | 28 |
 | nyt | 0 | 1 | 15 | 27 |
 | aidy | 0 | 0 | 15 | 27 |
@@ -3352,3 +3352,4 @@
 - **Apr 18, 07:37 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 18, 07:51 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 18, 08:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 08:07 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
