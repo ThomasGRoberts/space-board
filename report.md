@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 36 |
 | supercluster | 0 | 1 | 42 | 49 |
-| breaking_defense | 0 | 2 | 19 | 28 |
+| breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 0 | 1 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
 
@@ -3287,3 +3287,4 @@
 - **Apr 18, 01:07 PM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 18, 01:21 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 18, 01:35 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 18, 01:49 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
