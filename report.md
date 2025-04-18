@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 36 |
+| spacenews | 2 | 10 | 20 | 35 |
 | supercluster | 0 | 1 | 70 | 98 |
-| breaking_defense | 1 | 2 | 20 | 29 |
+| breaking_defense | 1 | 2 | 21 | 30 |
 | nyt | 1 | 2 | 20 | 30 |
 | aidy | 0 | 0 | 20 | 29 |
 
@@ -3364,3 +3364,4 @@
 - **Apr 18, 09:27 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 18, 09:43 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 18, 09:57 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 18, 10:11 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
