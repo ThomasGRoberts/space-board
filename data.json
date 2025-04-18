@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-18T00:01:33.074807+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
+    "trigger_count": 0,
+    "current_item_id": "e604654a1e6a60ea0c9672e238e16df7",
     "data": [
         {
             "id": "8171778bfb47af5ef73394e523297a2b",
@@ -8799,6 +8799,18 @@
             "fetched_datetime": "2025-02-26T19:41:17.303133Z",
             "shown_at": [
                 "2025-02-26T19:41:17.727966Z"
+            ]
+        },
+        {
+            "id": "e604654a1e6a60ea0c9672e238e16df7",
+            "source": "spacenews",
+            "text": "NASA safety panel warns of increasing risks to ISS operations",
+            "source_link": "https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T02:25:29.022366Z",
+            "shown_at": [
+                "2025-04-18T02:25:29.507502Z"
             ]
         }
     ]
