@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 21 | 36 |
 | supercluster | 1 | 2 | 105 | 132 |
 | breaking_defense | 1 | 2 | 15 | 28 |
-| nyt | 0 | 1 | 14 | 27 |
+| nyt | 0 | 1 | 15 | 28 |
 | aidy | 0 | 0 | 15 | 27 |
 
 # Shown Order
@@ -3349,3 +3349,4 @@
 - **Apr 18, 07:07 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 07:09 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 18, 07:23 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 18, 07:37 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
