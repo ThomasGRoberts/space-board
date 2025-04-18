@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 70 | 97 |
 | breaking_defense | 1 | 2 | 10 | 27 |
 | nyt | 1 | 1 | 10 | 27 |
-| aidy | 0 | 1 | 9 | 27 |
+| aidy | 0 | 1 | 10 | 28 |
 
 # Shown Order
 
@@ -3292,3 +3292,4 @@
 - **Apr 18, 01:09 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 01:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 01:13 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 01:15 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
