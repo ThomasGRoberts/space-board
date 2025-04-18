@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 36 |
-| supercluster | 0 | 1 | 57 | 78 |
+| supercluster | 0 | 1 | 58 | 79 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
@@ -3333,3 +3333,4 @@
 - **Apr 18, 06:23 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 18, 06:37 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 18, 06:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 06:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
