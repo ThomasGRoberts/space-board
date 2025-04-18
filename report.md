@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 17 | 36 |
 | supercluster | 1 | 2 | 77 | 104 |
 | breaking_defense | 1 | 2 | 11 | 27 |
-| nyt | 1 | 1 | 11 | 26 |
+| nyt | 1 | 1 | 12 | 27 |
 | aidy | 0 | 1 | 11 | 28 |
 
 # Shown Order
@@ -3305,3 +3305,4 @@
 - **Apr 18, 02:23 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 02:25 AM** - NASA safety panel warns of increasing risks to ISS operations (spacenews)
 - **Apr 18, 02:39 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 18, 02:53 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
