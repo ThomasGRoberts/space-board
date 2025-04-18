@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 20 | 36 |
-| supercluster | 0 | 1 | 63 | 84 |
-| breaking_defense | 1 | 2 | 21 | 29 |
+| supercluster | 0 | 1 | 64 | 85 |
+| breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 29 |
 | aidy | 0 | 0 | 20 | 28 |
 
@@ -3343,3 +3343,4 @@
 - **Apr 18, 07:21 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 18, 07:35 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 18, 07:49 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 18, 08:03 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
