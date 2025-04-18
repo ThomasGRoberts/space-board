@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 24 | 36 |
+| spacenews | 8 | 12 | 25 | 36 |
 | supercluster | 1 | 2 | 133 | 160 |
 | breaking_defense | 1 | 2 | 19 | 28 |
 | nyt | 0 | 1 | 18 | 28 |
@@ -3391,3 +3391,4 @@
 - **Apr 18, 11:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 11:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 11:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 11:53 AM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
