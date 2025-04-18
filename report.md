@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 35 |
-| supercluster | 1 | 2 | 70 | 97 |
+| supercluster | 1 | 2 | 71 | 98 |
 | breaking_defense | 1 | 2 | 11 | 28 |
 | nyt | 1 | 1 | 11 | 27 |
 | aidy | 0 | 1 | 10 | 27 |
@@ -3296,3 +3296,4 @@
 - **Apr 18, 01:29 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 18, 01:43 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 18, 01:57 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
+- **Apr 18, 02:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
