@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 49 | 63 |
 | breaking_defense | 1 | 3 | 20 | 28 |
 | nyt | 1 | 2 | 21 | 28 |
-| aidy | 0 | 0 | 19 | 27 |
+| aidy | 0 | 0 | 20 | 28 |
 
 # Shown Order
 
@@ -3308,3 +3308,4 @@
 - **Apr 18, 03:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 03:29 PM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
 - **Apr 18, 03:45 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 18, 03:59 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
