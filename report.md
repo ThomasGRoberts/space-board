@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 36 |
-| supercluster | 0 | 1 | 71 | 98 |
-| breaking_defense | 1 | 2 | 20 | 30 |
-| nyt | 1 | 2 | 20 | 29 |
-| aidy | 0 | 0 | 20 | 28 |
+| supercluster | 0 | 1 | 70 | 98 |
+| breaking_defense | 1 | 2 | 20 | 29 |
+| nyt | 1 | 2 | 21 | 30 |
+| aidy | 0 | 0 | 19 | 28 |
 
 # Shown Order
 
@@ -3362,3 +3362,4 @@
 - **Apr 18, 09:23 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:27 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
+- **Apr 18, 09:43 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
