@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 19 | 35 |
-| supercluster | 1 | 2 | 91 | 118 |
+| supercluster | 1 | 2 | 92 | 119 |
 | breaking_defense | 1 | 2 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | aidy | 0 | 1 | 13 | 27 |
@@ -3329,3 +3329,4 @@
 - **Apr 18, 05:01 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 18, 05:15 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 18, 05:29 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 18, 05:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
