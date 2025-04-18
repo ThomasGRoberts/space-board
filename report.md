@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 126 | 153 |
 | breaking_defense | 1 | 2 | 18 | 28 |
 | nyt | 0 | 1 | 17 | 27 |
-| aidy | 0 | 0 | 17 | 27 |
+| aidy | 0 | 0 | 18 | 28 |
 
 # Shown Order
 
@@ -3381,3 +3381,4 @@
 - **Apr 18, 10:37 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 10:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 10:41 AM** - Bridging the gap between AI hype and reality (spacenews)
+- **Apr 18, 10:57 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
