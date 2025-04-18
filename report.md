@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 36 |
-| supercluster | 0 | 1 | 51 | 72 |
+| supercluster | 0 | 1 | 52 | 73 |
 | breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
@@ -3323,3 +3323,4 @@
 - **Apr 18, 05:25 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 18, 05:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 05:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
