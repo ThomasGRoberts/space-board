@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 21 | 36 |
-| supercluster | 0 | 1 | 79 | 107 |
+| supercluster | 0 | 1 | 80 | 108 |
 | breaking_defense | 1 | 2 | 20 | 30 |
 | nyt | 1 | 2 | 20 | 29 |
 | aidy | 0 | 0 | 20 | 28 |
@@ -3379,3 +3379,4 @@
 - **Apr 18, 11:41 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 18, 11:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 11:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 11:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
