@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 19 | 36 |
 | supercluster | 1 | 2 | 91 | 118 |
 | breaking_defense | 1 | 2 | 13 | 27 |
-| nyt | 0 | 1 | 12 | 26 |
+| nyt | 0 | 1 | 13 | 27 |
 | aidy | 0 | 1 | 13 | 28 |
 
 # Shown Order
@@ -3327,3 +3327,4 @@
 - **Apr 18, 04:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 04:47 AM** - Space Force eases entry for commercial firms with layered launch standards (spacenews)
 - **Apr 18, 05:01 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 18, 05:15 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
