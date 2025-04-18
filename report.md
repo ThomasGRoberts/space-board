@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 36 |
-| supercluster | 0 | 1 | 49 | 70 |
+| supercluster | 0 | 1 | 50 | 71 |
 | breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
@@ -3321,3 +3321,4 @@
 - **Apr 18, 04:57 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 18, 05:11 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 18, 05:25 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 18, 05:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
