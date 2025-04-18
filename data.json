@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-18T00:01:33.074807+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9af0b588bd8289ebdc309a9e8c5330d9",
+    "trigger_count": 0,
+    "current_item_id": "290f69260da2a222603c0db2265eafd3",
     "data": [
         {
             "id": "8171778bfb47af5ef73394e523297a2b",
@@ -8901,6 +8901,18 @@
             "fetched_datetime": "2025-04-18T15:45:29.826262Z",
             "shown_at": [
                 "2025-04-18T15:45:30.405162Z"
+            ]
+        },
+        {
+            "id": "290f69260da2a222603c0db2265eafd3",
+            "source": "spacenews",
+            "text": "States bid to host a revamped NASA headquarters",
+            "source_link": "https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T23:13:39.130857Z",
+            "shown_at": [
+                "2025-04-18T23:13:40.288440Z"
             ]
         }
     ]

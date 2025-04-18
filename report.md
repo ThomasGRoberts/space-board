@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 36 |
+| spacenews | 3 | 11 | 22 | 37 |
 | supercluster | 0 | 1 | 77 | 105 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 30 |
@@ -3374,3 +3374,4 @@
 - **Apr 18, 10:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 10:42 PM** - Mission team details complex rescue of Chinese lunar spacecraft (spacenews)
 - **Apr 18, 10:57 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 18, 11:13 PM** - States bid to host a revamped NASA headquarters (spacenews)
