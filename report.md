@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 77 | 105 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 30 |
-| aidy | 0 | 0 | 19 | 28 |
+| aidy | 0 | 0 | 20 | 29 |
 
 # Shown Order
 
@@ -3375,3 +3375,4 @@
 - **Apr 18, 10:42 PM** - Mission team details complex rescue of Chinese lunar spacecraft (spacenews)
 - **Apr 18, 10:57 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 18, 11:13 PM** - States bid to host a revamped NASA headquarters (spacenews)
+- **Apr 18, 11:27 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
