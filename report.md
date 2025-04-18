@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 105 | 132 |
 | breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
-| aidy | 0 | 1 | 14 | 27 |
+| aidy | 0 | 1 | 15 | 28 |
 
 # Shown Order
 
@@ -3348,3 +3348,4 @@
 - **Apr 18, 07:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 07:07 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 07:09 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
+- **Apr 18, 07:23 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
