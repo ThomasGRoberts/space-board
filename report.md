@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 22 | 36 |
-| supercluster | 1 | 2 | 114 | 141 |
+| supercluster | 1 | 2 | 115 | 142 |
 | breaking_defense | 1 | 2 | 17 | 28 |
 | nyt | 0 | 1 | 16 | 27 |
 | aidy | 0 | 0 | 16 | 27 |
@@ -3364,3 +3364,4 @@
 - **Apr 18, 09:03 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 18, 09:17 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 09:21 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
