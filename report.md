@@ -5,7 +5,7 @@
 | spacenews | 3 | 12 | 22 | 36 |
 | supercluster | 0 | 1 | 49 | 70 |
 | breaking_defense | 1 | 3 | 20 | 28 |
-| nyt | 1 | 2 | 20 | 28 |
+| nyt | 1 | 2 | 21 | 29 |
 | aidy | 0 | 0 | 19 | 27 |
 
 # Shown Order
@@ -3318,3 +3318,4 @@
 - **Apr 18, 04:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 04:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 04:43 PM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
+- **Apr 18, 04:57 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
