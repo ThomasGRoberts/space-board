@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 17 | 36 |
+| spacenews | 8 | 13 | 17 | 35 |
 | supercluster | 1 | 2 | 77 | 104 |
-| breaking_defense | 1 | 2 | 11 | 27 |
+| breaking_defense | 1 | 2 | 12 | 28 |
 | nyt | 1 | 1 | 12 | 27 |
 | aidy | 0 | 1 | 11 | 27 |
 
@@ -3306,3 +3306,4 @@
 - **Apr 18, 02:25 AM** - NASA safety panel warns of increasing risks to ISS operations (spacenews)
 - **Apr 18, 02:39 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 18, 02:53 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 18, 03:09 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
