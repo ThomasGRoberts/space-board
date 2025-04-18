@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 24 | 36 |
 | supercluster | 0 | 2 | 133 | 167 |
 | breaking_defense | 0 | 2 | 19 | 28 |
-| nyt | 0 | 1 | 19 | 27 |
+| nyt | 0 | 1 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 28 |
 
 # Shown Order
@@ -3404,3 +3404,4 @@
 - **Apr 18, 01:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 01:07 PM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 18, 01:21 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 18, 01:35 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
