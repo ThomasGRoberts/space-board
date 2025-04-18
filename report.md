@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 24 | 36 |
-| supercluster | 1 | 2 | 126 | 153 |
+| supercluster | 1 | 2 | 127 | 154 |
 | breaking_defense | 1 | 2 | 19 | 28 |
 | nyt | 0 | 1 | 18 | 28 |
 | aidy | 0 | 0 | 18 | 27 |
@@ -3384,3 +3384,4 @@
 - **Apr 18, 10:57 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 18, 11:11 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 18, 11:25 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 18, 11:39 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
