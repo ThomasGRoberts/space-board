@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 98 | 125 |
 | breaking_defense | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 26 |
-| aidy | 0 | 1 | 13 | 27 |
+| aidy | 0 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -3337,3 +3337,4 @@
 - **Apr 18, 05:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:57 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
+- **Apr 18, 06:11 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
