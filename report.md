@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 23 | 36 |
 | supercluster | 1 | 2 | 119 | 146 |
 | breaking_defense | 1 | 2 | 17 | 28 |
-| nyt | 0 | 1 | 16 | 27 |
+| nyt | 0 | 1 | 17 | 28 |
 | aidy | 0 | 0 | 17 | 28 |
 
 # Shown Order
@@ -3371,3 +3371,4 @@
 - **Apr 18, 09:29 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:31 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 18, 09:45 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 18, 09:59 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
