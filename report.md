@@ -6,7 +6,7 @@
 | supercluster | 1 | 2 | 119 | 146 |
 | breaking_defense | 1 | 2 | 17 | 28 |
 | nyt | 0 | 1 | 16 | 27 |
-| aidy | 0 | 0 | 16 | 27 |
+| aidy | 0 | 0 | 17 | 28 |
 
 # Shown Order
 
@@ -3370,3 +3370,4 @@
 - **Apr 18, 09:27 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:29 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:31 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
+- **Apr 18, 09:45 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
