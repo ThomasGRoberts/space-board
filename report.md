@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 20 | 36 |
+| spacenews | 2 | 12 | 21 | 37 |
 | supercluster | 0 | 1 | 70 | 91 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 29 |
@@ -3350,3 +3350,4 @@
 - **Apr 18, 08:11 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 08:13 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 08:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 08:17 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
