@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 24 | 36 |
 | supercluster | 1 | 2 | 126 | 153 |
-| breaking_defense | 1 | 2 | 18 | 28 |
+| breaking_defense | 1 | 2 | 19 | 29 |
 | nyt | 0 | 1 | 18 | 28 |
-| aidy | 0 | 0 | 18 | 28 |
+| aidy | 0 | 0 | 18 | 27 |
 
 # Shown Order
 
@@ -3383,3 +3383,4 @@
 - **Apr 18, 10:41 AM** - Bridging the gap between AI hype and reality (spacenews)
 - **Apr 18, 10:57 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 18, 11:11 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 18, 11:25 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
