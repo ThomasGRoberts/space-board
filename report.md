@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 18 | 36 |
 | supercluster | 1 | 2 | 84 | 111 |
 | breaking_defense | 1 | 2 | 12 | 27 |
-| nyt | 1 | 1 | 12 | 26 |
+| nyt | 1 | 1 | 13 | 27 |
 | aidy | 0 | 1 | 12 | 28 |
 
 # Shown Order
@@ -3316,3 +3316,4 @@
 - **Apr 18, 03:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 03:37 AM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 18, 03:51 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 18, 04:05 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
