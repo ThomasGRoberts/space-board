@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 36 |
 | supercluster | 0 | 1 | 43 | 56 |
-| breaking_defense | 1 | 3 | 19 | 28 |
+| breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 0 | 1 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
 
@@ -3298,3 +3298,4 @@
 - **Apr 18, 02:19 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 18, 02:33 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 18, 02:47 PM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
+- **Apr 18, 03:02 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
