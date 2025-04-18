@@ -5,8 +5,8 @@
 | spacenews | 2 | 10 | 21 | 36 |
 | supercluster | 0 | 1 | 77 | 105 |
 | breaking_defense | 1 | 2 | 20 | 29 |
-| nyt | 1 | 2 | 20 | 29 |
-| aidy | 0 | 0 | 20 | 28 |
+| nyt | 1 | 2 | 21 | 30 |
+| aidy | 0 | 0 | 19 | 28 |
 
 # Shown Order
 
@@ -3373,3 +3373,4 @@
 - **Apr 18, 10:37 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 10:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 10:42 PM** - Mission team details complex rescue of Chinese lunar spacecraft (spacenews)
+- **Apr 18, 10:57 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
