@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 22 | 36 |
+| spacenews | 3 | 12 | 21 | 36 |
 | supercluster | 0 | 1 | 56 | 77 |
 | breaking_defense | 1 | 2 | 20 | 28 |
-| nyt | 1 | 2 | 20 | 28 |
+| nyt | 1 | 2 | 21 | 29 |
 | aidy | 0 | 0 | 19 | 27 |
 
 # Shown Order
@@ -3329,3 +3329,4 @@
 - **Apr 18, 05:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:55 PM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
+- **Apr 18, 06:09 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
