@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 17 | 35 |
-| supercluster | 1 | 2 | 79 | 106 |
+| supercluster | 1 | 2 | 80 | 107 |
 | breaking_defense | 1 | 2 | 12 | 27 |
 | nyt | 1 | 1 | 12 | 27 |
 | aidy | 0 | 1 | 11 | 27 |
@@ -3309,3 +3309,4 @@
 - **Apr 18, 03:09 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 18, 03:23 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 03:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 03:27 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
