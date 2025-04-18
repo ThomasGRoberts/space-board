@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 19 | 35 |
-| supercluster | 1 | 2 | 93 | 120 |
+| supercluster | 1 | 2 | 94 | 121 |
 | breaking_defense | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 | aidy | 0 | 1 | 13 | 27 |
@@ -3331,3 +3331,4 @@
 - **Apr 18, 05:29 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 18, 05:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 05:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
