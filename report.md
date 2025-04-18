@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 22 | 36 |
 | supercluster | 1 | 2 | 112 | 139 |
-| breaking_defense | 1 | 2 | 16 | 28 |
+| breaking_defense | 1 | 2 | 17 | 28 |
 | nyt | 0 | 1 | 16 | 28 |
 | aidy | 0 | 0 | 16 | 27 |
 
@@ -3361,3 +3361,4 @@
 - **Apr 18, 08:19 AM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
 - **Apr 18, 08:33 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 18, 08:49 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 18, 09:03 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
