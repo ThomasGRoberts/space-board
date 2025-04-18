@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 15 | 35 |
-| supercluster | 1 | 2 | 64 | 91 |
+| supercluster | 1 | 2 | 65 | 92 |
 | breaking_defense | 1 | 2 | 10 | 28 |
 | nyt | 1 | 1 | 10 | 27 |
 | aidy | 0 | 1 | 9 | 27 |
@@ -3286,3 +3286,4 @@
 - **Apr 18, 12:33 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
 - **Apr 18, 12:47 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 18, 01:02 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 01:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
