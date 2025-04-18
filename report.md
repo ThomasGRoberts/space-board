@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 36 |
 | supercluster | 0 | 1 | 56 | 77 |
-| breaking_defense | 1 | 2 | 20 | 28 |
+| breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 28 |
 
@@ -3331,3 +3331,4 @@
 - **Apr 18, 05:55 PM** - White House proposal would slash NASA science budget and cancel major missions (spacenews)
 - **Apr 18, 06:09 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 18, 06:23 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 18, 06:37 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
