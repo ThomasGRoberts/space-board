@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 22 | 37 |
+| spacenews | 8 | 13 | 22 | 36 |
 | supercluster | 1 | 2 | 112 | 139 |
 | breaking_defense | 1 | 2 | 16 | 28 |
 | nyt | 0 | 1 | 15 | 27 |
-| aidy | 0 | 0 | 15 | 27 |
+| aidy | 0 | 0 | 16 | 28 |
 
 # Shown Order
 
@@ -3359,3 +3359,4 @@
 - **Apr 18, 08:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 08:17 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 08:19 AM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
+- **Apr 18, 08:33 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
