@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 20 | 36 |
 | supercluster | 1 | 2 | 98 | 125 |
-| breaking_defense | 1 | 2 | 14 | 27 |
+| breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | aidy | 0 | 1 | 14 | 28 |
 
@@ -3339,3 +3339,4 @@
 - **Apr 18, 05:57 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 18, 06:11 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 18, 06:25 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
+- **Apr 18, 06:39 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
