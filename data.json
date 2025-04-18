@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-18T00:01:33.074807+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
+    "trigger_count": 0,
+    "current_item_id": "783e9623f0a8b9b5c64f47ca95f08029",
     "data": [
         {
             "id": "8171778bfb47af5ef73394e523297a2b",
@@ -8909,6 +8909,18 @@
             "fetched_datetime": "2025-04-18T02:25:29.022366Z",
             "shown_at": [
                 "2025-04-18T02:25:29.507502Z"
+            ]
+        },
+        {
+            "id": "783e9623f0a8b9b5c64f47ca95f08029",
+            "source": "spacenews",
+            "text": "Moon, Mars — China leads to both",
+            "source_link": "https://spacenews.com/moon-mars-china-leads-to-both/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T13:07:26.187064Z",
+            "shown_at": [
+                "2025-04-18T13:07:26.696798Z"
             ]
         }
     ]
