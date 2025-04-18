@@ -5,8 +5,8 @@
 | spacenews | 2 | 12 | 21 | 37 |
 | supercluster | 0 | 1 | 70 | 91 |
 | breaking_defense | 1 | 2 | 20 | 29 |
-| nyt | 1 | 2 | 20 | 29 |
-| aidy | 0 | 0 | 20 | 28 |
+| nyt | 1 | 2 | 21 | 30 |
+| aidy | 0 | 0 | 19 | 28 |
 
 # Shown Order
 
@@ -3351,3 +3351,4 @@
 - **Apr 18, 08:13 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 08:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 08:17 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 18, 08:31 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
