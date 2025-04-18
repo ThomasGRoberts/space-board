@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 36 |
-| supercluster | 0 | 1 | 42 | 56 |
+| supercluster | 0 | 1 | 43 | 57 |
 | breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 0 | 1 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
@@ -3299,3 +3299,4 @@
 - **Apr 18, 02:33 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 18, 02:47 PM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
 - **Apr 18, 03:02 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
+- **Apr 18, 03:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
