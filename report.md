@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 49 | 56 |
 | breaking_defense | 1 | 3 | 20 | 28 |
 | nyt | 0 | 1 | 19 | 27 |
-| aidy | 0 | 0 | 19 | 27 |
+| aidy | 0 | 0 | 20 | 28 |
 
 # Shown Order
 
@@ -3296,3 +3296,4 @@
 - **Apr 18, 02:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 02:17 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 02:19 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 18, 02:33 PM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
