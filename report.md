@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 24 | 36 |
 | supercluster | 1 | 2 | 126 | 153 |
 | breaking_defense | 1 | 2 | 18 | 28 |
-| nyt | 0 | 1 | 17 | 27 |
+| nyt | 0 | 1 | 18 | 28 |
 | aidy | 0 | 0 | 18 | 28 |
 
 # Shown Order
@@ -3382,3 +3382,4 @@
 - **Apr 18, 10:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 10:41 AM** - Bridging the gap between AI hype and reality (spacenews)
 - **Apr 18, 10:57 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 18, 11:11 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
