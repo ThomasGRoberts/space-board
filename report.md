@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 70 | 98 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 21 | 30 |
-| aidy | 0 | 0 | 19 | 28 |
+| aidy | 0 | 0 | 20 | 29 |
 
 # Shown Order
 
@@ -3363,3 +3363,4 @@
 - **Apr 18, 09:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 09:27 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 18, 09:43 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
+- **Apr 18, 09:57 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
