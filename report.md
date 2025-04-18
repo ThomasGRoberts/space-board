@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 21 | 36 |
+| spacenews | 4 | 12 | 22 | 37 |
 | supercluster | 0 | 1 | 49 | 63 |
 | breaking_defense | 1 | 3 | 20 | 28 |
 | nyt | 0 | 1 | 20 | 28 |
@@ -3306,3 +3306,4 @@
 - **Apr 18, 03:23 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 03:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 03:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 03:29 PM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
