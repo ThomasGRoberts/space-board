@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 15 | 35 |
-| supercluster | 1 | 2 | 70 | 90 |
+| supercluster | 1 | 2 | 69 | 90 |
 | breaking_defense | 1 | 2 | 9 | 27 |
-| nyt | 1 | 1 | 9 | 26 |
+| nyt | 1 | 1 | 10 | 27 |
 | aidy | 0 | 1 | 9 | 28 |
 
 # Shown Order
@@ -3282,3 +3282,4 @@
 - **Apr 18, 12:01 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 12:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 12:05 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
+- **Apr 18, 12:19 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
