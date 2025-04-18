@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 19 | 35 |
+| spacenews | 8 | 13 | 20 | 36 |
 | supercluster | 1 | 2 | 98 | 125 |
 | breaking_defense | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
@@ -3336,3 +3336,4 @@
 - **Apr 18, 05:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 05:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 18, 05:57 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
