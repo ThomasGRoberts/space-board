@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 15 | 36 |
 | supercluster | 1 | 2 | 63 | 90 |
-| breaking_defense | 1 | 2 | 9 | 27 |
+| breaking_defense | 1 | 2 | 10 | 28 |
 | nyt | 1 | 1 | 10 | 27 |
 | aidy | 0 | 1 | 9 | 27 |
 
@@ -3284,3 +3284,4 @@
 - **Apr 18, 12:05 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 18, 12:19 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 18, 12:33 AM** - NOAA budget proposal would affect weather satellite, other space programs (spacenews)
+- **Apr 18, 12:47 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
