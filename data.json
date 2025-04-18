@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-18T00:01:33.074807+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b46517b6b2634e552535f504d0f440a",
+    "trigger_count": 0,
+    "current_item_id": "f9627f77bbc5170bff8f49b03b762221",
     "data": [
         {
             "id": "8171778bfb47af5ef73394e523297a2b",
@@ -8823,6 +8823,18 @@
             "fetched_datetime": "2025-04-18T13:49:30.556102Z",
             "shown_at": [
                 "2025-04-18T13:49:31.152131Z"
+            ]
+        },
+        {
+            "id": "f9627f77bbc5170bff8f49b03b762221",
+            "source": "nyt",
+            "text": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+            "source_link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T15:45:29.826262Z",
+            "shown_at": [
+                "2025-04-18T15:45:30.405162Z"
             ]
         }
     ]
