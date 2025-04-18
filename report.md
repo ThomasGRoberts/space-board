@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 25 | 36 |
 | supercluster | 1 | 2 | 133 | 160 |
 | breaking_defense | 0 | 2 | 18 | 28 |
-| nyt | 0 | 1 | 18 | 27 |
+| nyt | 0 | 1 | 19 | 28 |
 | aidy | 0 | 0 | 19 | 28 |
 
 # Shown Order
@@ -3393,3 +3393,4 @@
 - **Apr 18, 11:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 11:53 AM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
 - **Apr 18, 12:07 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 18, 12:21 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
