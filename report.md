@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 18 | 35 |
-| supercluster | 1 | 2 | 84 | 111 |
-| breaking_defense | 1 | 2 | 13 | 28 |
+| supercluster | 1 | 2 | 85 | 112 |
+| breaking_defense | 1 | 2 | 13 | 27 |
 | nyt | 1 | 1 | 13 | 27 |
 | aidy | 0 | 1 | 12 | 27 |
 
@@ -3318,3 +3318,4 @@
 - **Apr 18, 03:51 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 18, 04:05 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
 - **Apr 18, 04:19 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 18, 04:33 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
