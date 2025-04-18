@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 23 | 36 |
 | supercluster | 1 | 2 | 119 | 146 |
-| breaking_defense | 1 | 2 | 17 | 28 |
+| breaking_defense | 1 | 2 | 18 | 29 |
 | nyt | 0 | 1 | 17 | 28 |
 | aidy | 0 | 0 | 17 | 27 |
 
@@ -3372,3 +3372,4 @@
 - **Apr 18, 09:31 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 18, 09:45 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 18, 09:59 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 18, 10:13 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
