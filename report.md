@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 36 |
-| supercluster | 0 | 1 | 49 | 63 |
+| supercluster | 0 | 1 | 49 | 64 |
 | breaking_defense | 1 | 3 | 20 | 29 |
 | nyt | 1 | 2 | 20 | 28 |
 | aidy | 0 | 0 | 20 | 27 |
@@ -3310,3 +3310,4 @@
 - **Apr 18, 03:45 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 18, 03:59 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 18, 04:15 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 18, 04:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
