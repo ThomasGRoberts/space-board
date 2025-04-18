@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 70 | 91 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | nyt | 1 | 2 | 21 | 30 |
-| aidy | 0 | 0 | 19 | 28 |
+| aidy | 0 | 0 | 20 | 29 |
 
 # Shown Order
 
@@ -3352,3 +3352,4 @@
 - **Apr 18, 08:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 18, 08:17 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 18, 08:31 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 18, 08:45 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
