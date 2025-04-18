@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 15 | 35 |
 | supercluster | 1 | 2 | 70 | 90 |
-| breaking_defense | 1 | 2 | 10 | 27 |
-| nyt | 1 | 1 | 9 | 27 |
-| aidy | 0 | 1 | 8 | 27 |
+| breaking_defense | 1 | 2 | 9 | 27 |
+| nyt | 1 | 1 | 9 | 26 |
+| aidy | 0 | 1 | 9 | 28 |
 
 # Shown Order
 
@@ -3281,3 +3281,4 @@
 - **Apr 17, 11:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 12:01 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 12:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 12:05 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
