@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 20 | 36 |
-| supercluster | 1 | 2 | 100 | 127 |
+| supercluster | 1 | 2 | 101 | 128 |
 | breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 1 | 14 | 27 |
 | aidy | 0 | 1 | 14 | 27 |
@@ -3342,3 +3342,4 @@
 - **Apr 18, 06:39 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 18, 06:53 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 18, 06:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 18, 06:57 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
