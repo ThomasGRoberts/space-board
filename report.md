@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 35 |
 | breaking_defense | 1 | 2 | 20 | 35 |
 | supercluster | 0 | 1 | 119 | 154 |
-| aidy | 0 | 0 | 19 | 34 |
+| aidy | 0 | 0 | 20 | 35 |
 
 # Shown Order
 
@@ -3427,3 +3427,4 @@
 - **Apr 19, 07:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 07:15 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 19, 07:29 AM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 19, 07:45 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
