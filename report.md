@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 36 |
-| breaking_defense | 1 | 2 | 19 | 36 |
+| breaking_defense | 1 | 2 | 20 | 37 |
 | supercluster | 0 | 1 | 126 | 161 |
 | aidy | 0 | 0 | 20 | 36 |
 
@@ -3439,3 +3439,4 @@
 - **Apr 19, 08:27 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 19, 08:41 AM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
 - **Apr 19, 08:55 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 19, 09:11 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
