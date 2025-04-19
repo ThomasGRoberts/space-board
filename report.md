@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -3347,3 +3347,4 @@
 - **Apr 19, 04:57 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 05:11 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 19, 05:25 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
+- **Apr 19, 05:39 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
