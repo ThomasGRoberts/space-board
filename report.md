@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 38 |
 | breaking_defense | 1 | 2 | 20 | 39 |
 | aidy | 0 | 0 | 20 | 38 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3293,3 +3293,4 @@
 - **Apr 19, 11:19 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 19, 11:33 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 19, 11:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 11:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
