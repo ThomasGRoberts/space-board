@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
@@ -3334,3 +3334,4 @@
 - **Apr 19, 03:31 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 03:33 PM** - Bipartisan caucus criticizes proposed NASA science budget cuts (spacenews)
 - **Apr 19, 03:47 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 19, 04:01 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
