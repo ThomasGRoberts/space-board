@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 | supercluster | 1 | 1 | 75 | 75 |
 
 # Shown Order
@@ -3400,3 +3400,4 @@
 - **Apr 19, 10:41 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 10:43 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
 - **Apr 19, 10:57 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 19, 11:13 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
