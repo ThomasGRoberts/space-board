@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -3323,3 +3323,4 @@
 - **Apr 19, 02:21 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 02:23 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
 - **Apr 19, 02:37 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 19, 02:51 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
