@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 20 | 32 |
 | breaking_defense | 1 | 2 | 20 | 31 |
 | supercluster | 0 | 1 | 98 | 126 |
-| aidy | 0 | 0 | 19 | 30 |
+| aidy | 0 | 0 | 20 | 31 |
 
 # Shown Order
 
@@ -3383,3 +3383,4 @@
 - **Apr 19, 02:27 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 02:29 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 19, 02:43 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
+- **Apr 19, 02:57 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
