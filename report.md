@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 20 | 44 |
+| spacenews | 1 | 6 | 21 | 45 |
 | nyt | 1 | 1 | 21 | 40 |
 | breaking_defense | 1 | 1 | 20 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3311,3 +3311,4 @@
 - **Apr 19, 01:09 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 01:11 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 01:13 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 19, 01:27 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
