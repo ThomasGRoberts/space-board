@@ -1,9 +1,72 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-18T00:01:33.074807+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-04-19T00:02:08.358541+00:00",
+    "trigger_count": 3,
     "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
+        {
+            "id": "290f69260da2a222603c0db2265eafd3",
+            "source": "spacenews",
+            "text": "States bid to host a revamped NASA headquarters",
+            "source_link": "https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T23:13:39.130857Z",
+            "shown_at": [
+                "2025-04-18T23:13:40.288440Z"
+            ]
+        },
+        {
+            "id": "f9627f77bbc5170bff8f49b03b762221",
+            "source": "nyt",
+            "text": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+            "source_link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T15:45:29.826262Z",
+            "shown_at": [
+                "2025-04-18T15:45:30.405162Z"
+            ]
+        },
+        {
+            "id": "4604a1a8f51d60951eb99cae73413cf6",
+            "source": "breaking_defense",
+            "text": "NGA field testing new processor to speed imagery to US regional commands",
+            "source_link": "https://breakingdefense.com/2025/04/nga-field-testing-new-processor-to-speed-imagery-to-us-regional-commands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T13:49:30.556102Z",
+            "shown_at": [
+                "2025-04-18T13:49:31.152131Z",
+                "2025-04-18T17:25:32.088952Z",
+                "2025-04-18T19:49:43.876337Z",
+                "2025-04-18T22:11:47.957772Z"
+            ]
+        },
+        {
+            "id": "783e9623f0a8b9b5c64f47ca95f08029",
+            "source": "spacenews",
+            "text": "Moon, Mars — China leads to both",
+            "source_link": "https://spacenews.com/moon-mars-china-leads-to-both/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T13:07:26.187064Z",
+            "shown_at": [
+                "2025-04-18T13:07:26.696798Z"
+            ]
+        },
+        {
+            "id": "e604654a1e6a60ea0c9672e238e16df7",
+            "source": "spacenews",
+            "text": "NASA safety panel warns of increasing risks to ISS operations",
+            "source_link": "https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-18T02:25:29.022366Z",
+            "shown_at": [
+                "2025-04-18T02:25:29.507502Z"
+            ]
+        },
         {
             "id": "8171778bfb47af5ef73394e523297a2b",
             "source": "spacenews",
@@ -103,7 +166,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-04-19T10:41:00.000Z",
-            "time_remaining": "0d 10h 41m",
+            "time_remaining": "0d 10h 38m",
             "fetched_datetime": "2025-04-17T12:55:44.834625Z",
             "shown_at": [
                 "2025-04-17T12:55:45.699844Z",
@@ -213,7 +276,8 @@
                 "2025-04-18T22:39:32.180134Z",
                 "2025-04-18T23:55:29.944994Z",
                 "2025-04-18T23:57:33.426037Z",
-                "2025-04-18T23:59:22.681226Z"
+                "2025-04-18T23:59:22.681226Z",
+                "2025-04-19T00:02:08.946698Z"
             ]
         },
         {
@@ -8786,138 +8850,6 @@
                 "2025-02-27T02:23:32.416648Z",
                 "2025-03-01T09:13:29.734822Z",
                 "2025-03-03T05:25:48.659061Z"
-            ]
-        },
-        {
-            "id": "8c2ddc1f4963fb37fa39b4c68727c19a",
-            "source": "nyt",
-            "text": "Intuitive Machines’ Athena Lander Launches on Journey to the Moon",
-            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T01:41:56.007316Z",
-            "shown_at": [
-                "2025-02-27T01:41:56.518142Z",
-                "2025-02-27T16:09:53.066085Z",
-                "2025-02-27T18:31:41.654550Z",
-                "2025-02-28T05:17:27.681812Z",
-                "2025-02-28T21:19:51.856599Z",
-                "2025-03-01T12:49:36.892363Z",
-                "2025-03-02T16:37:25.751239Z",
-                "2025-03-02T22:31:47.063786Z"
-            ]
-        },
-        {
-            "id": "9013e83bca0066b0eff8831f37463d35",
-            "source": "spacenews",
-            "text": "Space industry hunts for ways to adapt to Trump’s trade policies",
-            "source_link": "https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T01:27:43.837230Z",
-            "shown_at": [
-                "2025-02-27T01:27:44.792580Z",
-                "2025-03-01T01:51:47.699728Z",
-                "2025-03-01T20:07:35.852478Z",
-                "2025-03-05T00:03:39.952886Z"
-            ]
-        },
-        {
-            "id": "dde66d5f0ee2e863bf5def6707f5c5af",
-            "source": "nyt",
-            "text": "How to Watch the Launch of Intuitive Machines’s Second Moon Landing Mission",
-            "source_link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T20:23:44.063228Z",
-            "shown_at": [
-                "2025-02-26T20:23:45.030470Z",
-                "2025-02-27T08:23:53.318656Z",
-                "2025-02-27T13:21:56.309948Z",
-                "2025-02-28T00:29:25.763108Z",
-                "2025-02-28T09:07:55.069443Z",
-                "2025-02-28T23:55:35.196955Z",
-                "2025-03-01T17:34:01.421572Z",
-                "2025-03-01T21:07:32.396490Z",
-                "2025-03-03T11:29:32.866146Z",
-                "2025-03-03T16:51:33.452630Z",
-                "2025-03-05T03:15:40.601839Z",
-                "2025-03-05T10:45:18.911173Z"
-            ]
-        },
-        {
-            "id": "a41ee220594b780c0680f4410e3cc2bb",
-            "source": "spacenews",
-            "text": "Congressional watchdog flags risks in Space Development Agency’s satellite program",
-            "source_link": "https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-26T19:41:17.303133Z",
-            "shown_at": [
-                "2025-02-26T19:41:17.727966Z"
-            ]
-        },
-        {
-            "id": "e604654a1e6a60ea0c9672e238e16df7",
-            "source": "spacenews",
-            "text": "NASA safety panel warns of increasing risks to ISS operations",
-            "source_link": "https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-18T02:25:29.022366Z",
-            "shown_at": [
-                "2025-04-18T02:25:29.507502Z"
-            ]
-        },
-        {
-            "id": "783e9623f0a8b9b5c64f47ca95f08029",
-            "source": "spacenews",
-            "text": "Moon, Mars — China leads to both",
-            "source_link": "https://spacenews.com/moon-mars-china-leads-to-both/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-18T13:07:26.187064Z",
-            "shown_at": [
-                "2025-04-18T13:07:26.696798Z"
-            ]
-        },
-        {
-            "id": "4604a1a8f51d60951eb99cae73413cf6",
-            "source": "breaking_defense",
-            "text": "NGA field testing new processor to speed imagery to US regional commands",
-            "source_link": "https://breakingdefense.com/2025/04/nga-field-testing-new-processor-to-speed-imagery-to-us-regional-commands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-18T13:49:30.556102Z",
-            "shown_at": [
-                "2025-04-18T13:49:31.152131Z",
-                "2025-04-18T17:25:32.088952Z",
-                "2025-04-18T19:49:43.876337Z",
-                "2025-04-18T22:11:47.957772Z"
-            ]
-        },
-        {
-            "id": "f9627f77bbc5170bff8f49b03b762221",
-            "source": "nyt",
-            "text": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-            "source_link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-18T15:45:29.826262Z",
-            "shown_at": [
-                "2025-04-18T15:45:30.405162Z"
-            ]
-        },
-        {
-            "id": "290f69260da2a222603c0db2265eafd3",
-            "source": "spacenews",
-            "text": "States bid to host a revamped NASA headquarters",
-            "source_link": "https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-18T23:13:39.130857Z",
-            "shown_at": [
-                "2025-04-18T23:13:40.288440Z"
             ]
         }
     ]
