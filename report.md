@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 45 |
 | nyt | 1 | 1 | 20 | 38 |
-| breaking_defense | 1 | 2 | 19 | 38 |
+| breaking_defense | 1 | 2 | 20 | 39 |
 | aidy | 0 | 0 | 20 | 38 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -3291,3 +3291,4 @@
 - **Apr 19, 10:51 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 11:05 AM** - NASA safety panel warns of increasing risks to ISS operations (spacenews)
 - **Apr 19, 11:19 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 19, 11:33 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
