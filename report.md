@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 21 | 44 |
+| spacenews | 1 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -3313,3 +3313,4 @@
 - **Apr 19, 01:13 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 19, 01:27 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 19, 01:41 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 19, 01:55 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
