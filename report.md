@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -3324,3 +3324,4 @@
 - **Apr 19, 02:23 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
 - **Apr 19, 02:37 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
 - **Apr 19, 02:51 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 19, 03:05 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
