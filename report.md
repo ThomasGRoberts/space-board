@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 21 | 40 |
 | nyt | 1 | 1 | 20 | 33 |
 | breaking_defense | 1 | 2 | 20 | 34 |
-| supercluster | 0 | 1 | 109 | 141 |
+| supercluster | 0 | 1 | 109 | 142 |
 | aidy | 0 | 0 | 20 | 33 |
 
 # Shown Order
@@ -3408,3 +3408,4 @@
 - **Apr 19, 05:21 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 19, 05:35 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 19, 05:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 05:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
