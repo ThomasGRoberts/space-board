@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -3380,3 +3380,4 @@
 - **Apr 19, 08:33 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 19, 08:47 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 19, 09:03 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
+- **Apr 19, 09:17 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
