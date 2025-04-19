@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 37 |
-| breaking_defense | 1 | 2 | 19 | 37 |
+| breaking_defense | 1 | 2 | 20 | 38 |
 | supercluster | 0 | 1 | 126 | 168 |
 | aidy | 0 | 0 | 20 | 37 |
 
@@ -3450,3 +3450,4 @@
 - **Apr 19, 09:41 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 09:55 AM** - States bid to host a revamped NASA headquarters (spacenews)
 - **Apr 19, 10:09 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 19, 10:23 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
