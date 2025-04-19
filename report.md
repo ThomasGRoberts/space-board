@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 45 |
+| spacenews | 2 | 10 | 21 | 46 |
 | nyt | 1 | 1 | 21 | 39 |
 | breaking_defense | 1 | 1 | 20 | 38 |
 | aidy | 0 | 0 | 19 | 38 |
@@ -3300,3 +3300,4 @@
 - **Apr 19, 11:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 11:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 12:02 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 19, 12:15 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
