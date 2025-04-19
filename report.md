@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 21 | 36 |
 | nyt | 1 | 2 | 20 | 30 |
-| breaking_defense | 1 | 2 | 19 | 29 |
+| breaking_defense | 1 | 2 | 20 | 30 |
 | supercluster | 0 | 1 | 84 | 112 |
 | aidy | 0 | 0 | 20 | 29 |
 
@@ -3362,3 +3362,4 @@
 - **Apr 19, 12:09 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 19, 12:23 AM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
 - **Apr 19, 12:37 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 19, 12:51 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
