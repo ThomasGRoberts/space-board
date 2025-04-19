@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
+| spacenews | 2 | 5 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
@@ -3354,3 +3354,4 @@
 - **Apr 19, 05:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 05:49 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 05:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 05:53 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
