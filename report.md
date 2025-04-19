@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 21 | 46 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 1 | 1 | 20 | 38 |
-| aidy | 0 | 0 | 19 | 38 |
+| aidy | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -3301,3 +3301,4 @@
 - **Apr 19, 11:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 12:02 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 19, 12:15 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
+- **Apr 19, 12:29 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
