@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 20 | 33 |
 | breaking_defense | 1 | 2 | 20 | 32 |
 | supercluster | 0 | 1 | 105 | 133 |
-| aidy | 0 | 0 | 19 | 31 |
+| aidy | 0 | 0 | 20 | 32 |
 
 # Shown Order
 
@@ -3394,3 +3394,4 @@
 - **Apr 19, 03:37 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 03:39 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 19, 03:53 AM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 19, 04:07 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
