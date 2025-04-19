@@ -5,8 +5,8 @@
 | spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 53 | 53 |
+| aidy | 0 | 0 | 20 | 39 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -3364,3 +3364,4 @@
 - **Apr 19, 06:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 07:01 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 07:03 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 07:05 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
