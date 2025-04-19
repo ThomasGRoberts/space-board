@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 33 |
+| nyt | 1 | 1 | 21 | 34 |
 | breaking_defense | 1 | 2 | 20 | 34 |
 | supercluster | 0 | 1 | 112 | 147 |
 | aidy | 0 | 0 | 20 | 33 |
@@ -3414,3 +3414,4 @@
 - **Apr 19, 05:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 05:59 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 06:01 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 06:03 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
