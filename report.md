@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 33 |
 | breaking_defense | 1 | 2 | 20 | 33 |
 | supercluster | 0 | 1 | 112 | 140 |
-| aidy | 0 | 0 | 19 | 32 |
+| aidy | 0 | 0 | 20 | 33 |
 
 # Shown Order
 
@@ -3405,3 +3405,4 @@
 - **Apr 19, 04:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 04:49 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 19, 05:05 AM** - Space Command headquarters battle reignites (spacenews)
+- **Apr 19, 05:21 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
