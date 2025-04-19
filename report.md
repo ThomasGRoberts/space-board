@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 36 |
 | breaking_defense | 1 | 2 | 20 | 37 |
-| supercluster | 0 | 1 | 122 | 161 |
+| supercluster | 0 | 1 | 122 | 162 |
 | aidy | 0 | 0 | 20 | 36 |
 
 # Shown Order
@@ -3440,3 +3440,4 @@
 - **Apr 19, 08:41 AM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
 - **Apr 19, 08:55 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 19, 09:11 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 19, 09:27 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
