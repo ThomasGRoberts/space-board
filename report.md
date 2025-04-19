@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 41 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 41 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -3391,3 +3391,4 @@
 - **Apr 19, 09:47 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 10:02 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 19, 10:15 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
+- **Apr 19, 10:30 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
