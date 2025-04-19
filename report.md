@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
 | aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 47 | 47 |
 
@@ -3357,3 +3357,4 @@
 - **Apr 19, 05:53 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
 - **Apr 19, 06:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 19, 06:23 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 19, 06:37 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
