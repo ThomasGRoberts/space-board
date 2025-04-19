@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 20 | 43 |
-| nyt | 1 | 1 | 20 | 40 |
+| spacenews | 2 | 7 | 21 | 44 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -3321,3 +3321,4 @@
 - **Apr 19, 02:17 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 02:19 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 02:21 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 02:23 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
