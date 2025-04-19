@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 21 | 37 |
 | nyt | 1 | 2 | 20 | 31 |
-| breaking_defense | 1 | 2 | 19 | 30 |
+| breaking_defense | 1 | 2 | 20 | 31 |
 | supercluster | 0 | 1 | 91 | 119 |
 | aidy | 0 | 0 | 20 | 30 |
 
@@ -3373,3 +3373,4 @@
 - **Apr 19, 01:19 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 01:33 AM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
 - **Apr 19, 01:47 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 19, 02:02 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
