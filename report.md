@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
@@ -3389,3 +3389,4 @@
 - **Apr 19, 09:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 09:32 PM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 19, 09:47 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 19, 10:02 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
