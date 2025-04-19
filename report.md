@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 20 | 41 |
+| spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
@@ -3387,3 +3387,4 @@
 - **Apr 19, 09:25 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 09:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 09:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 09:32 PM** - Moon, Mars — China leads to both (spacenews)
