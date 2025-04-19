@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
+| breaking_defense | 0 | 1 | 20 | 41 |
 | aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 40 | 40 |
 
@@ -3346,3 +3346,4 @@
 - **Apr 19, 04:43 PM** - Astranis clinches $115 million Taiwan deal despite satellite setback (spacenews)
 - **Apr 19, 04:57 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 19, 05:11 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
+- **Apr 19, 05:25 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
