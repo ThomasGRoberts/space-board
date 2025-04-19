@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 40 |
 | nyt | 1 | 1 | 20 | 33 |
-| breaking_defense | 1 | 2 | 19 | 33 |
+| breaking_defense | 1 | 2 | 20 | 34 |
 | supercluster | 0 | 1 | 112 | 140 |
 | aidy | 0 | 0 | 20 | 33 |
 
@@ -3406,3 +3406,4 @@
 - **Apr 19, 04:49 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 19, 05:05 AM** - Space Command headquarters battle reignites (spacenews)
 - **Apr 19, 05:21 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 19, 05:35 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
