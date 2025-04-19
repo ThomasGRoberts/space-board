@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 21 | 36 |
+| spacenews | 3 | 10 | 22 | 37 |
 | nyt | 1 | 2 | 20 | 31 |
 | breaking_defense | 1 | 2 | 20 | 30 |
 | supercluster | 0 | 1 | 91 | 119 |
@@ -3371,3 +3371,4 @@
 - **Apr 19, 01:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 01:17 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 01:19 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 19, 01:33 AM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
