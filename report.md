@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 20 | 30 |
 | breaking_defense | 1 | 2 | 20 | 29 |
 | supercluster | 0 | 1 | 84 | 112 |
-| aidy | 0 | 0 | 19 | 28 |
+| aidy | 0 | 0 | 20 | 29 |
 
 # Shown Order
 
@@ -3361,3 +3361,4 @@
 - **Apr 19, 12:07 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 12:09 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 19, 12:23 AM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
+- **Apr 19, 12:37 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
