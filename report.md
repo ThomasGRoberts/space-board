@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 34 |
 | breaking_defense | 1 | 2 | 20 | 34 |
 | supercluster | 0 | 1 | 112 | 147 |
-| aidy | 0 | 0 | 19 | 33 |
+| aidy | 0 | 0 | 20 | 34 |
 
 # Shown Order
 
@@ -3416,3 +3416,4 @@
 - **Apr 19, 06:01 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 06:03 AM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 19, 06:17 AM** - States bid to host a revamped NASA headquarters (spacenews)
+- **Apr 19, 06:32 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
