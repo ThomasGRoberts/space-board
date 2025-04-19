@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 19 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 68 | 68 |
@@ -3388,3 +3388,4 @@
 - **Apr 19, 09:27 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 09:29 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 09:32 PM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 19, 09:47 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
