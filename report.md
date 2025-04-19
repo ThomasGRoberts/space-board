@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 40 |
+| aidy | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
@@ -3377,3 +3377,4 @@
 - **Apr 19, 08:13 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 08:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 08:18 PM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
+- **Apr 19, 08:33 PM** - Sync Your Calendar With the Solar System (nyt)
