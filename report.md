@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 44 |
+| spacenews | 2 | 10 | 20 | 44 |
 | nyt | 1 | 1 | 20 | 37 |
 | breaking_defense | 1 | 2 | 20 | 38 |
 | aidy | 0 | 0 | 20 | 37 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3284,3 +3284,4 @@
 - **Apr 19, 10:09 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 19, 10:23 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 19, 10:41 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 10:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
