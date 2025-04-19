@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3315,3 +3315,4 @@
 - **Apr 19, 01:41 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 19, 01:55 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 19, 02:09 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 19, 02:11 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
