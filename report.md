@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 36 |
 | breaking_defense | 1 | 2 | 20 | 36 |
 | supercluster | 0 | 1 | 126 | 161 |
-| aidy | 0 | 0 | 19 | 35 |
+| aidy | 0 | 0 | 20 | 36 |
 
 # Shown Order
 
@@ -3438,3 +3438,4 @@
 - **Apr 19, 08:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 08:27 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 19, 08:41 AM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
+- **Apr 19, 08:55 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
