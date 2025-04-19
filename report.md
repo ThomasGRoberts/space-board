@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 39 |
+| spacenews | 2 | 10 | 21 | 40 |
 | nyt | 1 | 1 | 21 | 33 |
 | breaking_defense | 1 | 2 | 20 | 33 |
 | supercluster | 0 | 1 | 112 | 140 |
@@ -3404,3 +3404,4 @@
 - **Apr 19, 04:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 04:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 04:49 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
+- **Apr 19, 05:05 AM** - Space Command headquarters battle reignites (spacenews)
