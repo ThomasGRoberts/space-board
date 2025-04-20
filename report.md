@@ -5,8 +5,8 @@
 | spacenews | 1 | 4 | 20 | 41 |
 | supercluster | 1 | 1 | 82 | 82 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 21 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3409,3 +3409,4 @@
 - **Apr 19, 11:55 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 20, 12:09 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 12:25 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 20, 12:39 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
