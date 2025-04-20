@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 20 | 40 |
+| spacenews | 1 | 2 | 19 | 40 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3367,3 +3367,4 @@
 - **Apr 20, 11:45 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 20, 11:59 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 20, 12:13 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 20, 01:29 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)

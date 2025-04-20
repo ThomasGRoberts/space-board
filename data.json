@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-20T00:01:55.238044+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 6,
+    "current_item_id": "e53cb8ef2fe713dd7a903a1b27572652",
     "data": [
         {
             "id": "750b4808ee0034fe5634ac2dfffcc267",
@@ -8851,15 +8851,18 @@
             ]
         },
         {
-            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "id": "e53cb8ef2fe713dd7a903a1b27572652",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-145",
-            "shown": false,
+            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
+            "source_link": "https://www.supercluster.com/launches/spacex-crs-32",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-20T12:29:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-20T13:27:25.345729Z"
+            "target_datetime": "2025-04-21T08:15:00.000Z",
+            "time_remaining": "0d 18h 45m",
+            "fetched_datetime": "2025-04-20T13:29:32.158904Z",
+            "shown_at": [
+                "2025-04-20T13:29:32.674820Z"
+            ]
         }
     ]
 }
