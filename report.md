@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 41 |
 | supercluster | 1 | 1 | 103 | 103 |
-| nyt | 0 | 1 | 19 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
 
@@ -3440,3 +3440,4 @@
 - **Apr 20, 03:25 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 03:27 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 03:30 AM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
+- **Apr 20, 03:43 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
