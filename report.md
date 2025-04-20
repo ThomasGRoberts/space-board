@@ -5,8 +5,8 @@
 | spacenews | 1 | 4 | 20 | 41 |
 | supercluster | 1 | 1 | 89 | 89 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 21 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3420,3 +3420,4 @@
 - **Apr 20, 01:07 AM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 20, 01:22 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 01:35 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 20, 01:50 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
