@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
@@ -3489,3 +3489,4 @@
 - **Apr 20, 08:55 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 20, 09:09 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 09:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 20, 09:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
