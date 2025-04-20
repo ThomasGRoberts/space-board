@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 22 | 22 |
@@ -3404,3 +3404,4 @@
 - **Apr 20, 05:19 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 05:21 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 20, 05:35 PM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 20, 05:49 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
