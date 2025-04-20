@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 50 | 50 |
@@ -3448,3 +3448,4 @@
 - **Apr 20, 10:01 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 10:03 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 20, 10:17 PM** - Derek Tournear to return as Space Development Agency director after investigation (spacenews)
+- **Apr 20, 10:31 PM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
