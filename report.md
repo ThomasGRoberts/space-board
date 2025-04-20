@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 110 | 110 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -3452,3 +3452,4 @@
 - **Apr 20, 04:39 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 04:41 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 20, 04:55 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 20, 05:09 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
