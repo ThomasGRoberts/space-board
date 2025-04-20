@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -3395,3 +3395,4 @@
 - **Apr 20, 04:25 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 20, 04:39 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 04:53 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 20, 05:07 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
