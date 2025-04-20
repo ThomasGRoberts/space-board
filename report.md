@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 20 | 41 |
-| nyt | 0 | 1 | 20 | 40 |
+| spacenews | 0 | 2 | 20 | 40 |
+| nyt | 1 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -3382,3 +3382,4 @@
 - **Apr 20, 02:43 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 20, 02:57 PM** - Catch up on all of SpaceNews’ Space Symposium 2025 coverage (spacenews)
 - **Apr 20, 03:12 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 20, 03:29 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
