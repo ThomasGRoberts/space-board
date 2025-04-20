@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 19 | 40 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
@@ -3438,3 +3438,4 @@
 - **Apr 20, 08:51 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 20, 09:07 PM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)
 - **Apr 20, 09:21 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 20, 09:35 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
