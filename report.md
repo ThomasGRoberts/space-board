@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 20 | 41 |
 | supercluster | 0 | 1 | 140 | 145 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
 | aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
@@ -3508,3 +3508,4 @@
 - **Apr 20, 10:33 AM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
 - **Apr 20, 10:47 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
 - **Apr 20, 11:02 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 20, 11:17 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
