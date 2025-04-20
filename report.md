@@ -5,8 +5,8 @@
 | spacenews | 1 | 3 | 20 | 41 |
 | supercluster | 1 | 1 | 131 | 131 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 21 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3486,3 +3486,4 @@
 - **Apr 20, 08:13 AM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 20, 08:27 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 08:41 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 20, 08:55 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
