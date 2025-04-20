@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3428,3 +3428,4 @@
 - **Apr 20, 07:55 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 20, 08:09 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 08:23 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 20, 08:37 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
