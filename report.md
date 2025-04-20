@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 19 | 40 |
 | nyt | 1 | 1 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
+| aidy | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
@@ -3446,3 +3446,4 @@
 - **Apr 20, 09:57 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 09:59 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 10:01 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 20, 10:03 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
