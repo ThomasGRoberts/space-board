@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 103 | 103 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -3441,3 +3441,4 @@
 - **Apr 20, 03:27 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 03:30 AM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
 - **Apr 20, 03:43 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 20, 03:57 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
