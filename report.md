@@ -5,8 +5,8 @@
 | spacenews | 1 | 3 | 20 | 41 |
 | supercluster | 1 | 1 | 124 | 124 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 21 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3475,3 +3475,4 @@
 - **Apr 20, 07:03 AM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
 - **Apr 20, 07:17 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 20, 07:31 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 20, 07:45 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
