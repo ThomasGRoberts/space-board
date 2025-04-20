@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 20 | 41 |
+| spacenews | 1 | 4 | 21 | 42 |
 | supercluster | 1 | 1 | 96 | 96 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
@@ -3428,3 +3428,4 @@
 - **Apr 20, 02:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 02:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 02:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Apr 20, 02:17 AM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
