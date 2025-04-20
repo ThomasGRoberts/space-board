@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 19 | 40 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
@@ -3405,3 +3405,4 @@
 - **Apr 20, 05:21 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 20, 05:35 PM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 20, 05:49 PM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 20, 06:03 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
