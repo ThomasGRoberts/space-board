@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 20 | 40 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
@@ -3460,3 +3460,4 @@
 - **Apr 20, 11:13 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 20, 11:27 PM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
 - **Apr 20, 11:41 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 20, 11:55 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
