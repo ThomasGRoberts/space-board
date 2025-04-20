@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -3417,3 +3417,4 @@
 - **Apr 20, 06:45 PM** - In-flight connectivity – where national policy and global service (don’t) mix (spacenews)
 - **Apr 20, 06:59 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 20, 07:13 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
+- **Apr 20, 07:27 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
