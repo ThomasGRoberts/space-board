@@ -6,7 +6,7 @@
 | supercluster | 0 | 1 | 140 | 152 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -3518,3 +3518,4 @@
 - **Apr 20, 11:43 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 11:45 AM** - Minotaur IV rocket launches spy payloads for National Reconnaissance Office (spacenews)
 - **Apr 20, 11:59 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 20, 12:13 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
