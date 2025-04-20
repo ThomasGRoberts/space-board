@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 117 | 117 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -3463,3 +3463,4 @@
 - **Apr 20, 05:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 05:51 AM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)
 - **Apr 20, 06:05 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
+- **Apr 20, 06:19 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
