@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 19 | 40 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
@@ -3416,3 +3416,4 @@
 - **Apr 20, 06:32 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 20, 06:45 PM** - In-flight connectivity – where national policy and global service (don’t) mix (spacenews)
 - **Apr 20, 06:59 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
+- **Apr 20, 07:13 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
