@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 20 | 41 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
@@ -3410,3 +3410,4 @@
 - **Apr 20, 12:09 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 20, 12:25 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 20, 12:39 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
+- **Apr 20, 12:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
