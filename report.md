@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 19 | 40 |
+| spacenews | 1 | 2 | 20 | 41 |
 | nyt | 0 | 1 | 19 | 39 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3369,3 +3369,4 @@
 - **Apr 20, 12:13 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 20, 01:29 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 01:31 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 20, 01:45 PM** - NASA safety panel warns of increasing risks to ISS operations (spacenews)
