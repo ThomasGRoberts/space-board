@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 21 | 42 |
+| spacenews | 1 | 4 | 20 | 42 |
 | supercluster | 1 | 1 | 82 | 82 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
-| aidy | 0 | 0 | 20 | 39 |
+| aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -3408,3 +3408,4 @@
 - **Apr 19, 11:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 11:55 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
 - **Apr 20, 12:09 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 20, 12:25 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
