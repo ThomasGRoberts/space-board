@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 41 |
-| supercluster | 0 | 1 | 142 | 145 |
-| nyt | 0 | 1 | 20 | 40 |
+| supercluster | 0 | 1 | 141 | 145 |
+| nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
 
@@ -3506,3 +3506,4 @@
 - **Apr 20, 10:29 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 10:31 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 10:33 AM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
+- **Apr 20, 10:47 AM** - Blue Origin’s First All-Female Spaceflight Stunt (nyt)
