@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 21 | 42 |
 | supercluster | 1 | 1 | 89 | 89 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
 
@@ -3418,3 +3418,4 @@
 - **Apr 20, 01:03 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 01:06 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 20, 01:07 AM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 20, 01:22 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
