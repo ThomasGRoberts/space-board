@@ -3,14 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 21 | 42 |
+| supercluster | 1 | 1 | 82 | 82 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
-- **Feb 27, 02:23 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Feb 27, 04:43 AM** - House hearing debates ways to improve Artemis (spacenews)
 - **Feb 27, 08:39 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Feb 27, 10:23 AM** - China adds to SuperView remote sensing constellation with Long March 2C launch (spacenews)
@@ -65,7 +64,6 @@
 - **Mar 01, 07:47 AM** - Virgin Galactic to start assembly of first new spaceplane in March (spacenews)
 - **Mar 01, 08:02 AM** - AEI Calls for Space Force Overhaul Amid New Regulatory Focus on ISAM and Launch Data (aidy)
 - **Mar 01, 08:46 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
-- **Mar 01, 09:13 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Mar 01, 09:55 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 11:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 01, 11:51 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
@@ -135,7 +133,6 @@
 - **Mar 03, 04:11 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 03, 04:25 AM** - Live Video: Firefly’s Blue Ghost Mission 1 Lands on the Moon (nyt)
 - **Mar 03, 05:09 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
-- **Mar 03, 05:25 AM** - Falcon 9 launches second Intuitive Machines lunar lander (spacenews)
 - **Mar 03, 06:49 AM** - NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts (nyt)
 - **Mar 03, 07:17 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 03, 07:33 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
