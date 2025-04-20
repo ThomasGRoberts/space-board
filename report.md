@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 21 | 42 |
 | supercluster | 1 | 1 | 82 | 82 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
 
@@ -3407,3 +3407,4 @@
 - **Apr 19, 11:51 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 11:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Apr 19, 11:55 PM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
+- **Apr 20, 12:09 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
