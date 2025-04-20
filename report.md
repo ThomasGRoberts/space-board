@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 20 | 41 |
 | supercluster | 1 | 1 | 138 | 138 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 1 | 20 | 40 |
+| breaking_defense | 0 | 1 | 21 | 41 |
 | aidy | 0 | 0 | 21 | 40 |
 
 # Shown Order
@@ -3497,3 +3497,4 @@
 - **Apr 20, 09:23 AM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
 - **Apr 20, 09:37 AM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
 - **Apr 20, 09:51 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 20, 10:05 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
