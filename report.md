@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 19 | 40 |
 | nyt | 0 | 1 | 19 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | aidy | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3368,3 +3368,4 @@
 - **Apr 20, 11:59 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 20, 12:13 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 20, 01:29 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 20, 01:31 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
