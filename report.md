@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 57 | 57 |
 
@@ -3459,3 +3459,4 @@
 - **Apr 20, 11:11 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 11:13 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 20, 11:27 PM** - Blue Origin launches all-woman New Shepard suborbital flight (spacenews)
+- **Apr 20, 11:41 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
