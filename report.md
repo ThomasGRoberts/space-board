@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 19 | 40 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3377,3 +3377,4 @@
 - **Apr 20, 02:33 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 02:35 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 20, 02:37 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 20, 02:39 PM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
