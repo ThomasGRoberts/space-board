@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 39 |
 | nyt | 1 | 2 | 16 | 36 |
-| breaking_defense | 0 | 0 | 14 | 33 |
+| breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -3439,3 +3439,4 @@
 - **Apr 21, 04:56 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 21, 05:13 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 21, 05:27 PM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)
+- **Apr 21, 05:42 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
