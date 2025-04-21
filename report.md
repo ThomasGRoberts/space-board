@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 39 |
 | nyt | 1 | 2 | 16 | 36 |
-| breaking_defense | 0 | 0 | 14 | 33 |
+| breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -3461,3 +3461,4 @@
 - **Apr 21, 07:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 21, 07:33 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 21, 07:48 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
+- **Apr 21, 08:03 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
