@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 99 | 99 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3499,3 +3499,4 @@
 - **Apr 21, 06:29 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 21, 06:45 AM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 21, 06:59 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
+- **Apr 21, 07:13 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
