@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 19 | 39 |
+| spacenews | 5 | 6 | 19 | 38 |
 | nyt | 1 | 2 | 15 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -3431,3 +3431,4 @@
 - **Apr 21, 04:27 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 21, 04:41 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 04:43 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 04:45 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
