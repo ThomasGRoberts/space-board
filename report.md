@@ -5,7 +5,7 @@
 | spacenews | 5 | 5 | 19 | 38 |
 | nyt | 2 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 14 | 34 |
-| aidy | 0 | 0 | 14 | 34 |
+| aidy | 0 | 0 | 15 | 35 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -3415,3 +3415,4 @@
 - **Apr 21, 02:05 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 21, 02:19 PM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 21, 02:33 PM** - Taking the Ground Out of Ground Systems (spacenews)
+- **Apr 21, 02:47 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
