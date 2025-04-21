@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 64 | 64 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3443,3 +3443,4 @@
 - **Apr 21, 12:25 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 12:27 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 21, 12:41 AM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 21, 12:55 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
