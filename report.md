@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 38 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 14 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -3471,3 +3471,4 @@
 - **Apr 21, 08:29 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 08:31 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 21, 08:45 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 21, 08:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
