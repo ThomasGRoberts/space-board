@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 38 |
-| nyt | 2 | 3 | 16 | 37 |
+| nyt | 2 | 3 | 16 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 14 | 34 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -3486,3 +3486,4 @@
 - **Apr 21, 10:27 PM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
 - **Apr 21, 10:41 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 21, 10:55 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 10:57 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
