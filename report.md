@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 19 | 39 |
+| spacenews | 5 | 6 | 19 | 38 |
 | nyt | 1 | 2 | 15 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3463,3 +3463,4 @@
 - **Apr 21, 07:48 PM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 21, 08:03 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 21, 08:17 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 08:19 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
