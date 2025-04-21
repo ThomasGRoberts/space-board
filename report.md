@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 64 | 64 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3444,3 +3444,4 @@
 - **Apr 21, 12:27 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 21, 12:41 AM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 21, 12:55 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 21, 01:13 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
