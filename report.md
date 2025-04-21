@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 18 | 37 |
+| spacenews | 5 | 5 | 19 | 38 |
 | nyt | 2 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 14 | 34 |
@@ -3414,3 +3414,4 @@
 - **Apr 21, 01:51 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 21, 02:05 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 21, 02:19 PM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
+- **Apr 21, 02:33 PM** - Taking the Ground Out of Ground Systems (spacenews)
