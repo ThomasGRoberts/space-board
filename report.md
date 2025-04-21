@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 19 | 38 |
+| spacenews | 5 | 6 | 20 | 39 |
 | nyt | 1 | 2 | 16 | 36 |
-| breaking_defense | 0 | 0 | 14 | 34 |
+| breaking_defense | 0 | 0 | 14 | 33 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -3438,3 +3438,4 @@
 - **Apr 21, 04:53 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 04:56 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 21, 05:13 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 21, 05:27 PM** - Maryland congressmen vow to block proposed NASA science budget cuts (spacenews)
