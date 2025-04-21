@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 19 | 39 |
 | nyt | 2 | 2 | 16 | 36 |
-| breaking_defense | 0 | 0 | 14 | 33 |
+| breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -3417,3 +3417,4 @@
 - **Apr 21, 02:33 PM** - Taking the Ground Out of Ground Systems (spacenews)
 - **Apr 21, 02:47 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 21, 03:04 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
+- **Apr 21, 03:17 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
