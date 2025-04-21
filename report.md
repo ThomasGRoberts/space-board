@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 38 |
-| nyt | 1 | 2 | 15 | 36 |
+| nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 14 | 34 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -3458,3 +3458,4 @@
 - **Apr 21, 07:13 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 07:16 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 07:17 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 07:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
