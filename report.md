@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 16 | 35 |
+| spacenews | 4 | 5 | 17 | 36 |
 | nyt | 1 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 15 | 35 |
 | aidy | 0 | 0 | 15 | 35 |
@@ -3410,3 +3410,4 @@
 - **Apr 21, 01:30 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:33 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:35 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 01:37 PM** - Taking ‘remote care’ to new heights — how space can shape the future of healthcare (spacenews)
