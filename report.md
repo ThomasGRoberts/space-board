@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 39 |
 | nyt | 2 | 3 | 16 | 37 |
-| breaking_defense | 0 | 0 | 14 | 33 |
+| breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -3495,3 +3495,4 @@
 - **Apr 21, 11:11 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 21, 11:25 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Apr 21, 11:39 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
+- **Apr 21, 11:53 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
