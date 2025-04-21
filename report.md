@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 20 | 40 |
 | supercluster | 1 | 1 | 78 | 78 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | aidy | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -3463,3 +3463,4 @@
 - **Apr 21, 02:47 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 02:49 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 02:51 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 21, 02:53 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
