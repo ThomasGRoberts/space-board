@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-21T00:01:55.176022+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb7b79a76ab7d4e3a65e4eb69e3c4683",
+    "trigger_count": 0,
+    "current_item_id": "0cda39c9837a9797d339a8844be33f8d",
     "data": [
         {
             "id": "89727c8b039de286602653ce80161664",
@@ -8923,9 +8923,12 @@
             "source": "spacenews",
             "text": "SpaceX launches cargo Dragon to ISS with additional crew supplies",
             "source_link": "https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-21T13:37:47.894230Z"
+            "fetched_datetime": "2025-04-21T13:37:47.894230Z",
+            "shown_at": [
+                "2025-04-21T14:05:49.302078Z"
+            ]
         },
         {
             "id": "f4557fe80481be47e9376f8db63b9cb1",
