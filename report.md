@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 16 | 36 |
-| nyt | 1 | 1 | 17 | 36 |
+| nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 15 | 35 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -3411,3 +3411,4 @@
 - **Apr 21, 01:33 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:35 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:37 PM** - Taking ‘remote care’ to new heights — how space can shape the future of healthcare (spacenews)
+- **Apr 21, 01:51 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
