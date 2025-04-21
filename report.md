@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 19 | 38 |
 | nyt | 1 | 2 | 16 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
-| aidy | 0 | 0 | 14 | 34 |
+| aidy | 0 | 0 | 15 | 35 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -3426,3 +3426,4 @@
 - **Apr 21, 03:41 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 03:43 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 03:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 21, 03:59 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
