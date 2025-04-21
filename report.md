@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 19 | 39 |
 | nyt | 1 | 2 | 16 | 36 |
-| breaking_defense | 0 | 0 | 14 | 33 |
+| breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -3450,3 +3450,4 @@
 - **Apr 21, 06:09 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 21, 06:23 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 21, 06:37 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
+- **Apr 21, 06:51 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
