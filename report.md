@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 18 | 38 |
+| spacenews | 5 | 6 | 19 | 39 |
 | nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 14 | 33 |
 | aidy | 0 | 0 | 15 | 34 |
@@ -3472,3 +3472,4 @@
 - **Apr 21, 08:31 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 21, 08:45 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 21, 08:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
+- **Apr 21, 09:15 PM** - In-flight connectivity – where national policy and global service (don’t) mix (spacenews)
