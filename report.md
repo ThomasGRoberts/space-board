@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3454,3 +3454,4 @@
 - **Apr 21, 01:41 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 01:43 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 21, 01:57 AM** - Multi-orbit success or a single-point of failure? (spacenews)
+- **Apr 21, 02:11 AM** - Sync Your Calendar With the Solar System (nyt)
