@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 39 |
+| breaking_defense | 0 | 0 | 18 | 38 |
 | aidy | 0 | 0 | 18 | 38 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3404,4 +3404,4 @@
 - **Apr 21, 07:41 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 21, 07:55 AM** - Startups to demonstrate new spacecraft docking technique (spacenews)
 - **Apr 21, 08:11 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
-- **Apr 21, 09:11 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 21, 09:13 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
