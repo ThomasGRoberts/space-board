@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 19 | 38 |
 | nyt | 2 | 3 | 16 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
-| aidy | 0 | 0 | 14 | 34 |
+| aidy | 0 | 0 | 15 | 35 |
 | supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
@@ -3481,3 +3481,4 @@
 - **Apr 21, 09:51 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 09:53 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 09:55 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 09:57 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
