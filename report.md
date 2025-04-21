@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 78 | 78 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3465,3 +3465,4 @@
 - **Apr 21, 02:51 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 02:53 AM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 21, 03:07 AM** - Space Force eases entry for commercial firms with layered launch standards (spacenews)
+- **Apr 21, 03:21 AM** - DOGE Cuts Hobble Office That Would Aid NASA and SpaceX Mars Landings (nyt)
