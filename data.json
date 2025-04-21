@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-21T00:01:55.176022+00:00",
-    "trigger_count": 6,
-    "current_item_id": "650b2d9bf192c2f5c596a5beadea1ba5",
+    "trigger_count": 0,
+    "current_item_id": "af534f0525a72b30c03efd69dae22058",
     "data": [
         {
             "id": "89727c8b039de286602653ce80161664",
@@ -8965,6 +8965,18 @@
             "fetched_datetime": "2025-04-21T14:33:42.841366Z",
             "shown_at": [
                 "2025-04-21T14:33:43.902803Z"
+            ]
+        },
+        {
+            "id": "af534f0525a72b30c03efd69dae22058",
+            "source": "spacenews",
+            "text": "DARPA requests proposals for water-prospecting lunar orbiter",
+            "source_link": "https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T15:04:00.509607Z",
+            "shown_at": [
+                "2025-04-21T15:04:01.701672Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 18 | 38 |
+| spacenews | 6 | 6 | 19 | 39 |
 | nyt | 2 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 14 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
@@ -3416,3 +3416,4 @@
 - **Apr 21, 02:19 PM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 21, 02:33 PM** - Taking the Ground Out of Ground Systems (spacenews)
 - **Apr 21, 02:47 PM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
+- **Apr 21, 03:04 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
