@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 92 | 92 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | aidy | 0 | 0 | 19 | 39 |
@@ -3487,3 +3487,4 @@
 - **Apr 21, 05:11 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 05:13 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 21, 05:29 AM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
+- **Apr 21, 05:43 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
