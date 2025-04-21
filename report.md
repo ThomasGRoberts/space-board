@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 16 | 36 |
+| spacenews | 1 | 2 | 16 | 35 |
 | nyt | 1 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 16 | 35 |
 | aidy | 0 | 0 | 15 | 35 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -3407,3 +3407,4 @@
 - **Apr 21, 01:23 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:25 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 01:27 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 01:30 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
