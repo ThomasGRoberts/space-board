@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 20 | 40 |
 | supercluster | 1 | 1 | 85 | 85 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | aidy | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -3474,3 +3474,4 @@
 - **Apr 21, 03:57 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 03:59 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 04:01 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 21, 04:03 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
