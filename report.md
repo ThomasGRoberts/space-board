@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3455,3 +3455,4 @@
 - **Apr 21, 01:43 AM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 21, 01:57 AM** - Multi-orbit success or a single-point of failure? (spacenews)
 - **Apr 21, 02:11 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 21, 02:25 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
