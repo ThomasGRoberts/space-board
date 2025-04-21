@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-21T00:01:55.176022+00:00",
-    "trigger_count": 0,
-    "current_item_id": "e53cb8ef2fe713dd7a903a1b27572652",
+    "trigger_count": 1,
+    "current_item_id": "9767f20cb6dae6c32dcda9e4ed48c588",
     "data": [
         {
             "id": "89727c8b039de286602653ce80161664",
@@ -8888,17 +8888,17 @@
             ]
         },
         {
-            "id": "e53cb8ef2fe713dd7a903a1b27572652",
+            "id": "9767f20cb6dae6c32dcda9e4ed48c588",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
-            "source_link": "https://www.supercluster.com/launches/spacex-crs-32",
+            "text": "SpaceX Will Launch Bandwagon Rideshare Mission",
+            "source_link": "https://www.supercluster.com/launches/bandwagon-3",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-21T08:15:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-21T09:13:30.260985Z",
+            "target_datetime": "2025-04-22T00:48:00.000Z",
+            "time_remaining": "0d 11h 24m",
+            "fetched_datetime": "2025-04-21T13:23:37.755547Z",
             "shown_at": [
-                "2025-04-21T09:13:30.702510Z"
+                "2025-04-21T13:23:38.433125Z"
             ]
         }
     ]
