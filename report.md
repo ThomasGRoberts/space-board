@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 18 | 38 |
+| spacenews | 5 | 6 | 19 | 39 |
 | nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 14 | 33 |
 | aidy | 0 | 0 | 15 | 34 |
@@ -3483,3 +3483,4 @@
 - **Apr 21, 09:55 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 21, 09:57 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 21, 10:13 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 21, 10:27 PM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
