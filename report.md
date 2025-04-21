@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 85 | 85 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| aidy | 0 | 0 | 19 | 39 |
+| aidy | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -3477,3 +3477,4 @@
 - **Apr 21, 04:03 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 21, 04:17 AM** - Catch up on all of SpaceNews’ Space Symposium 2025 coverage (spacenews)
 - **Apr 21, 04:31 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Apr 21, 04:45 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
