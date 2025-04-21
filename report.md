@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 19 | 39 |
 | nyt | 1 | 1 | 20 | 40 |
 | supercluster | 1 | 1 | 92 | 92 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | aidy | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -3485,3 +3485,4 @@
 - **Apr 21, 05:07 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 05:09 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Apr 21, 05:11 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Apr 21, 05:13 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
