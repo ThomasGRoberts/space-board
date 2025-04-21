@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 19 | 39 |
+| spacenews | 6 | 6 | 19 | 38 |
 | nyt | 1 | 2 | 15 | 36 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 15 | 34 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3419,3 +3419,4 @@
 - **Apr 21, 03:04 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 21, 03:17 PM** - Latest DoD IG report clears a hurdle for SPACECOM move to Alabama (breaking_defense)
 - **Apr 21, 03:32 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 21, 03:33 PM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
