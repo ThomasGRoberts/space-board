@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 8 | 25 |
-| spacenews | 2 | 7 | 9 | 28 |
+| nyt | 0 | 2 | 8 | 24 |
+| spacenews | 2 | 7 | 10 | 29 |
 | breaking_defense | 0 | 0 | 9 | 23 |
 | aidy | 0 | 0 | 9 | 24 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -3472,3 +3472,4 @@
 - **Apr 22, 09:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 09:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 22, 09:21 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
