@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "c28983c69a53b7eb7a1fa7f962e13bcd",
     "data": [
         {
             "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
@@ -8911,6 +8911,18 @@
                 "2025-04-22T13:57:37.995858Z",
                 "2025-04-22T13:59:25.882558Z",
                 "2025-04-22T14:02:08.987211Z"
+            ]
+        },
+        {
+            "id": "c28983c69a53b7eb7a1fa7f962e13bcd",
+            "source": "spacenews",
+            "text": "SpaceX launches third mid-inclination rideshare mission",
+            "source_link": "https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-22T14:03:30.917263Z",
+            "shown_at": [
+                "2025-04-22T14:03:31.753593Z"
             ]
         }
     ]
