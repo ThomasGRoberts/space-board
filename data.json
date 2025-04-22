@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
-    "trigger_count": 0,
-    "current_item_id": "9767f20cb6dae6c32dcda9e4ed48c588",
+    "trigger_count": 1,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
@@ -8895,17 +8895,17 @@
             ]
         },
         {
-            "id": "9767f20cb6dae6c32dcda9e4ed48c588",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Bandwagon Rideshare Mission",
-            "source_link": "https://www.supercluster.com/launches/bandwagon-3",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-74",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-22T00:48:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-22T01:47:27.116694Z",
+            "target_datetime": "2025-04-25T01:32:00.000Z",
+            "time_remaining": "2d 11h 40m",
+            "fetched_datetime": "2025-04-22T13:51:37.599429Z",
             "shown_at": [
-                "2025-04-22T01:47:27.760196Z"
+                "2025-04-22T13:51:38.150556Z"
             ]
         }
     ]

@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 15 | 35 |
-| spacenews | 6 | 7 | 19 | 38 |
-| breaking_defense | 0 | 0 | 13 | 33 |
-| aidy | 0 | 0 | 14 | 33 |
+| nyt | 2 | 3 | 9 | 26 |
+| spacenews | 3 | 7 | 12 | 28 |
+| breaking_defense | 0 | 0 | 8 | 23 |
+| aidy | 0 | 0 | 9 | 24 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -3400,4 +3400,4 @@
 - **Apr 21, 11:53 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 22, 12:21 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 22, 12:35 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
-- **Apr 22, 01:47 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 22, 01:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
