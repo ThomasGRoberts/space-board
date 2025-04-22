@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "9767f20cb6dae6c32dcda9e4ed48c588",
     "data": [
         {
@@ -8899,11 +8899,14 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Bandwagon Rideshare Mission",
             "source_link": "https://www.supercluster.com/launches/bandwagon-3",
-            "shown": false,
+            "shown": true,
             "type": "launch",
             "target_datetime": "2025-04-22T00:48:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-04-22T00:59:43.463683Z"
+            "fetched_datetime": "2025-04-22T01:01:56.931939Z",
+            "shown_at": [
+                "2025-04-22T01:01:57.582117Z"
+            ]
         }
     ]
 }
