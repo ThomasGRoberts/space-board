@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 9 | 25 |
 | spacenews | 2 | 7 | 10 | 29 |
-| breaking_defense | 0 | 0 | 8 | 23 |
+| breaking_defense | 0 | 0 | 9 | 24 |
 | aidy | 0 | 0 | 9 | 23 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -3463,3 +3463,4 @@
 - **Apr 22, 08:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 08:09 PM** - U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide (spacenews)
 - **Apr 22, 08:23 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 22, 08:37 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
