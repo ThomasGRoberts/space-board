@@ -6,7 +6,7 @@
 | spacenews | 3 | 8 | 10 | 28 |
 | breaking_defense | 0 | 0 | 9 | 23 |
 | aidy | 0 | 0 | 9 | 24 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3410,3 +3410,4 @@
 - **Apr 22, 02:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 22, 02:33 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 22, 02:47 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 22, 03:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
