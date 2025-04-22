@@ -6,7 +6,7 @@
 | spacenews | 4 | 9 | 10 | 29 |
 | breaking_defense | 0 | 0 | 9 | 23 |
 | aidy | 0 | 0 | 9 | 24 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -3488,3 +3488,4 @@
 - **Apr 22, 11:01 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 22, 11:15 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 22, 11:29 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 22, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
