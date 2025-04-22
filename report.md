@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 9 | 26 |
 | spacenews | 4 | 8 | 11 | 29 |
-| breaking_defense | 0 | 0 | 8 | 23 |
+| breaking_defense | 0 | 0 | 9 | 24 |
 | aidy | 0 | 0 | 9 | 23 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -3408,3 +3408,4 @@
 - **Apr 22, 02:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 02:03 PM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
 - **Apr 22, 02:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 22, 02:33 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
