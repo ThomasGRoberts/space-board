@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 9 | 25 |
 | spacenews | 2 | 7 | 10 | 29 |
 | breaking_defense | 0 | 0 | 9 | 24 |
-| aidy | 0 | 0 | 8 | 23 |
+| aidy | 0 | 0 | 9 | 24 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -3442,3 +3442,4 @@
 - **Apr 22, 05:45 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 22, 05:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 22, 06:13 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 22, 06:27 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
