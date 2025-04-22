@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 25 |
 | spacenews | 2 | 7 | 10 | 29 |
-| breaking_defense | 0 | 0 | 8 | 23 |
+| breaking_defense | 0 | 0 | 9 | 24 |
 | aidy | 0 | 0 | 9 | 23 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -3474,3 +3474,4 @@
 - **Apr 22, 09:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 09:21 PM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
 - **Apr 22, 09:36 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 22, 09:49 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
