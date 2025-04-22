@@ -6,7 +6,7 @@
 | spacenews | 6 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 62 | 62 |
 | breaking_defense | 0 | 0 | 14 | 34 |
-| aidy | 0 | 0 | 14 | 33 |
+| aidy | 0 | 0 | 15 | 34 |
 
 # Shown Order
 
@@ -3461,3 +3461,4 @@
 - **Apr 22, 12:17 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 22, 12:19 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 22, 12:21 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
+- **Apr 22, 12:35 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
