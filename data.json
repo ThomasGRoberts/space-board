@@ -1,9 +1,164 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-21T00:01:55.176022+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
+    "trigger_count": 4,
     "current_item_id": "2f8828dca036728899b566cc9243f381",
     "data": [
+        {
+            "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
+            "source": "nyt",
+            "text": "Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement.",
+            "source_link": "https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T20:59:47.355304Z",
+            "shown_at": [
+                "2025-04-21T20:59:48.384741Z"
+            ]
+        },
+        {
+            "id": "af534f0525a72b30c03efd69dae22058",
+            "source": "spacenews",
+            "text": "DARPA requests proposals for water-prospecting lunar orbiter",
+            "source_link": "https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T15:04:00.509607Z",
+            "shown_at": [
+                "2025-04-21T15:04:01.701672Z"
+            ]
+        },
+        {
+            "id": "f79ed5cbaf5a561689146eb5f05646bd",
+            "source": "spacenews",
+            "text": "Taking the Ground Out of Ground Systems",
+            "source_link": "https://spacenews.com/taking-the-ground-out-of-ground-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T14:33:42.841366Z",
+            "shown_at": [
+                "2025-04-21T14:33:43.902803Z"
+            ]
+        },
+        {
+            "id": "eb7b79a76ab7d4e3a65e4eb69e3c4683",
+            "source": "nyt",
+            "text": "Lyrids Meteor Shower 2025: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/04/21/science/lyrid-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T13:51:41.055371Z",
+            "shown_at": [
+                "2025-04-21T13:51:42.012505Z",
+                "2025-04-21T15:45:36.575020Z",
+                "2025-04-21T19:19:27.593874Z"
+            ]
+        },
+        {
+            "id": "f4557fe80481be47e9376f8db63b9cb1",
+            "source": "spacenews",
+            "text": "Chinese orbital logistics startup InfinAstro raises angel round funding",
+            "source_link": "https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T13:37:47.894270Z",
+            "shown_at": [
+                "2025-04-21T14:19:25.238294Z"
+            ]
+        },
+        {
+            "id": "0cda39c9837a9797d339a8844be33f8d",
+            "source": "spacenews",
+            "text": "SpaceX launches cargo Dragon to ISS with additional crew supplies",
+            "source_link": "https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T13:37:47.894230Z",
+            "shown_at": [
+                "2025-04-21T14:05:49.302078Z"
+            ]
+        },
+        {
+            "id": "e1ea3ba1e57b6a6472e117c9374357ce",
+            "source": "spacenews",
+            "text": "Taking ‘remote care’ to new heights — how space can shape the future of healthcare",
+            "source_link": "https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-21T13:37:47.894175Z",
+            "shown_at": [
+                "2025-04-21T13:37:49.167681Z",
+                "2025-04-21T16:13:40.404637Z"
+            ]
+        },
+        {
+            "id": "9767f20cb6dae6c32dcda9e4ed48c588",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Bandwagon Rideshare Mission",
+            "source_link": "https://www.supercluster.com/launches/bandwagon-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-22T00:48:00.000Z",
+            "time_remaining": "0d 01h 38m",
+            "fetched_datetime": "2025-04-21T13:23:37.755547Z",
+            "shown_at": [
+                "2025-04-21T13:23:38.433125Z",
+                "2025-04-21T13:25:27.901563Z",
+                "2025-04-21T13:27:23.458649Z",
+                "2025-04-21T13:30:52.297440Z",
+                "2025-04-21T13:33:38.547386Z",
+                "2025-04-21T13:35:34.602081Z",
+                "2025-04-21T15:32:04.128647Z",
+                "2025-04-21T15:33:42.147795Z",
+                "2025-04-21T15:35:30.558156Z",
+                "2025-04-21T15:37:38.817744Z",
+                "2025-04-21T15:39:23.429389Z",
+                "2025-04-21T15:41:54.462555Z",
+                "2025-04-21T15:43:26.454611Z",
+                "2025-04-21T16:41:34.830142Z",
+                "2025-04-21T16:43:08.363883Z",
+                "2025-04-21T16:45:23.375600Z",
+                "2025-04-21T16:47:05.587830Z",
+                "2025-04-21T16:49:50.783750Z",
+                "2025-04-21T16:51:32.808382Z",
+                "2025-04-21T16:53:26.102003Z",
+                "2025-04-21T17:55:31.672349Z",
+                "2025-04-21T17:57:41.824279Z",
+                "2025-04-21T17:59:31.403464Z",
+                "2025-04-21T18:02:05.078289Z",
+                "2025-04-21T18:03:40.621832Z",
+                "2025-04-21T18:05:22.870375Z",
+                "2025-04-21T18:07:40.194301Z",
+                "2025-04-21T19:05:06.851813Z",
+                "2025-04-21T19:07:33.016878Z",
+                "2025-04-21T19:09:41.091121Z",
+                "2025-04-21T19:11:50.282970Z",
+                "2025-04-21T19:13:23.432865Z",
+                "2025-04-21T19:16:08.703150Z",
+                "2025-04-21T19:17:38.102930Z",
+                "2025-04-21T20:17:42.665001Z",
+                "2025-04-21T20:19:21.419933Z",
+                "2025-04-21T20:21:34.635546Z",
+                "2025-04-21T20:23:42.358636Z",
+                "2025-04-21T20:25:30.793514Z",
+                "2025-04-21T20:27:31.126563Z",
+                "2025-04-21T20:29:24.473692Z",
+                "2025-04-21T21:43:34.092689Z",
+                "2025-04-21T21:45:32.174753Z",
+                "2025-04-21T21:47:33.232705Z",
+                "2025-04-21T21:49:03.800364Z",
+                "2025-04-21T21:51:40.395610Z",
+                "2025-04-21T21:53:23.654292Z",
+                "2025-04-21T21:55:34.001471Z",
+                "2025-04-21T22:55:33.412677Z",
+                "2025-04-21T22:57:37.992237Z",
+                "2025-04-21T22:59:32.434604Z",
+                "2025-04-21T23:02:21.335349Z",
+                "2025-04-21T23:05:24.322305Z",
+                "2025-04-21T23:07:24.873958Z",
+                "2025-04-21T23:09:33.871568Z"
+            ]
+        },
         {
             "id": "89727c8b039de286602653ce80161664",
             "source": "spacenews",
@@ -8792,281 +8947,6 @@
             "fetched_datetime": "2025-02-27T22:47:45.574509Z",
             "shown_at": [
                 "2025-02-27T22:47:47.207906Z"
-            ]
-        },
-        {
-            "id": "2342dba4bb1cd6bb4dd4369a8b07905f",
-            "source": "spacenews",
-            "text": "SES shareholder pushes to curb state control to tackle market challenges",
-            "source_link": "https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T21:23:48.155415Z",
-            "shown_at": [
-                "2025-02-27T21:23:49.281762Z",
-                "2025-03-03T22:49:30.963606Z",
-                "2025-03-04T20:27:31.297234Z",
-                "2025-03-06T06:52:08.287494Z"
-            ]
-        },
-        {
-            "id": "8d6693c59bd7b50f480e2cac23b5d420",
-            "source": "nyt",
-            "text": "Katy Perry and Gayle King Are Among Blue Origin’s All-Female Space Crew",
-            "source_link": "https://www.nytimes.com/2025/02/27/us/blue-origin-mission-crew-katy-perry-gayle-king.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T20:39:40.844434Z",
-            "shown_at": [
-                "2025-02-27T20:39:41.666924Z",
-                "2025-03-01T04:43:39.987900Z",
-                "2025-03-01T16:23:35.262597Z",
-                "2025-03-01T19:53:27.931489Z",
-                "2025-03-03T00:56:00.380039Z",
-                "2025-03-05T08:19:51.523112Z",
-                "2025-03-05T19:29:39.939325Z",
-                "2025-03-06T01:13:34.762752Z",
-                "2025-03-06T09:47:51.317828Z"
-            ]
-        },
-        {
-            "id": "ece7e4f4ea9d624c7dbed275c5c5d8ce",
-            "source": "spacenews",
-            "text": "Swissto12 strengthens push beyond subsystems with SES antenna deal",
-            "source_link": "https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T16:37:44.674802Z",
-            "shown_at": [
-                "2025-02-27T16:37:45.785691Z",
-                "2025-02-28T01:13:47.206258Z",
-                "2025-02-28T09:35:30.075589Z",
-                "2025-03-01T16:09:45.145426Z",
-                "2025-03-02T12:39:32.692665Z",
-                "2025-03-04T22:51:47.184311Z"
-            ]
-        },
-        {
-            "id": "32b54768e6cd0f8ef8d7bce3b8e93087",
-            "source": "nyt",
-            "text": "NASA’S Lunar Trailblazer Hitches Ride to the Moon to Map Water for Astronauts",
-            "source_link": "https://www.nytimes.com/2025/02/27/science/nasa-lunar-trailblazer-water-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T14:59:42.101257Z",
-            "shown_at": [
-                "2025-02-27T14:59:42.719452Z",
-                "2025-03-02T04:19:32.487908Z",
-                "2025-03-02T14:17:30.258000Z",
-                "2025-03-03T06:49:35.246366Z",
-                "2025-03-03T20:55:28.804970Z",
-                "2025-03-04T22:07:31.895093Z",
-                "2025-03-05T07:05:35.173972Z",
-                "2025-03-05T15:01:52.360865Z",
-                "2025-03-06T04:45:42.576000Z",
-                "2025-03-06T08:17:57.216276Z",
-                "2025-03-06T12:11:57.253755Z"
-            ]
-        },
-        {
-            "id": "0a915faa6ea987abb63064b269554a69",
-            "source": "spacenews",
-            "text": "The future of advanced air mobility under a new Congress and Trump administration",
-            "source_link": "https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T14:31:31.123327Z",
-            "shown_at": [
-                "2025-02-27T14:31:31.640461Z",
-                "2025-02-27T18:59:32.669788Z",
-                "2025-03-01T18:57:33.213632Z",
-                "2025-03-02T11:29:29.274581Z",
-                "2025-03-03T00:25:30.623192Z",
-                "2025-03-03T07:47:29.006337Z"
-            ]
-        },
-        {
-            "id": "eba71980a359801bc3c1800cf41edbc4",
-            "source": "spacenews",
-            "text": "Virgin Galactic to start assembly of first new spaceplane in March",
-            "source_link": "https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T11:23:47.818319Z",
-            "shown_at": [
-                "2025-02-27T11:23:48.705918Z",
-                "2025-03-01T07:47:36.964759Z",
-                "2025-03-03T10:05:51.658635Z"
-            ]
-        },
-        {
-            "id": "51098996eb9b9767be99d723ddb2b980",
-            "source": "spacenews",
-            "text": "China adds to SuperView remote sensing constellation with Long March 2C launch",
-            "source_link": "https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-27T10:23:45.011628Z",
-            "shown_at": [
-                "2025-02-27T10:23:46.095204Z",
-                "2025-02-28T15:32:13.430204Z",
-                "2025-03-02T05:46:07.307710Z",
-                "2025-03-02T18:32:02.586840Z"
-            ]
-        },
-        {
-            "id": "9767f20cb6dae6c32dcda9e4ed48c588",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Bandwagon Rideshare Mission",
-            "source_link": "https://www.supercluster.com/launches/bandwagon-3",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-22T00:48:00.000Z",
-            "time_remaining": "0d 01h 38m",
-            "fetched_datetime": "2025-04-21T13:23:37.755547Z",
-            "shown_at": [
-                "2025-04-21T13:23:38.433125Z",
-                "2025-04-21T13:25:27.901563Z",
-                "2025-04-21T13:27:23.458649Z",
-                "2025-04-21T13:30:52.297440Z",
-                "2025-04-21T13:33:38.547386Z",
-                "2025-04-21T13:35:34.602081Z",
-                "2025-04-21T15:32:04.128647Z",
-                "2025-04-21T15:33:42.147795Z",
-                "2025-04-21T15:35:30.558156Z",
-                "2025-04-21T15:37:38.817744Z",
-                "2025-04-21T15:39:23.429389Z",
-                "2025-04-21T15:41:54.462555Z",
-                "2025-04-21T15:43:26.454611Z",
-                "2025-04-21T16:41:34.830142Z",
-                "2025-04-21T16:43:08.363883Z",
-                "2025-04-21T16:45:23.375600Z",
-                "2025-04-21T16:47:05.587830Z",
-                "2025-04-21T16:49:50.783750Z",
-                "2025-04-21T16:51:32.808382Z",
-                "2025-04-21T16:53:26.102003Z",
-                "2025-04-21T17:55:31.672349Z",
-                "2025-04-21T17:57:41.824279Z",
-                "2025-04-21T17:59:31.403464Z",
-                "2025-04-21T18:02:05.078289Z",
-                "2025-04-21T18:03:40.621832Z",
-                "2025-04-21T18:05:22.870375Z",
-                "2025-04-21T18:07:40.194301Z",
-                "2025-04-21T19:05:06.851813Z",
-                "2025-04-21T19:07:33.016878Z",
-                "2025-04-21T19:09:41.091121Z",
-                "2025-04-21T19:11:50.282970Z",
-                "2025-04-21T19:13:23.432865Z",
-                "2025-04-21T19:16:08.703150Z",
-                "2025-04-21T19:17:38.102930Z",
-                "2025-04-21T20:17:42.665001Z",
-                "2025-04-21T20:19:21.419933Z",
-                "2025-04-21T20:21:34.635546Z",
-                "2025-04-21T20:23:42.358636Z",
-                "2025-04-21T20:25:30.793514Z",
-                "2025-04-21T20:27:31.126563Z",
-                "2025-04-21T20:29:24.473692Z",
-                "2025-04-21T21:43:34.092689Z",
-                "2025-04-21T21:45:32.174753Z",
-                "2025-04-21T21:47:33.232705Z",
-                "2025-04-21T21:49:03.800364Z",
-                "2025-04-21T21:51:40.395610Z",
-                "2025-04-21T21:53:23.654292Z",
-                "2025-04-21T21:55:34.001471Z",
-                "2025-04-21T22:55:33.412677Z",
-                "2025-04-21T22:57:37.992237Z",
-                "2025-04-21T22:59:32.434604Z",
-                "2025-04-21T23:02:21.335349Z",
-                "2025-04-21T23:05:24.322305Z",
-                "2025-04-21T23:07:24.873958Z",
-                "2025-04-21T23:09:33.871568Z"
-            ]
-        },
-        {
-            "id": "e1ea3ba1e57b6a6472e117c9374357ce",
-            "source": "spacenews",
-            "text": "Taking ‘remote care’ to new heights — how space can shape the future of healthcare",
-            "source_link": "https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:37:47.894175Z",
-            "shown_at": [
-                "2025-04-21T13:37:49.167681Z",
-                "2025-04-21T16:13:40.404637Z"
-            ]
-        },
-        {
-            "id": "0cda39c9837a9797d339a8844be33f8d",
-            "source": "spacenews",
-            "text": "SpaceX launches cargo Dragon to ISS with additional crew supplies",
-            "source_link": "https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:37:47.894230Z",
-            "shown_at": [
-                "2025-04-21T14:05:49.302078Z"
-            ]
-        },
-        {
-            "id": "f4557fe80481be47e9376f8db63b9cb1",
-            "source": "spacenews",
-            "text": "Chinese orbital logistics startup InfinAstro raises angel round funding",
-            "source_link": "https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:37:47.894270Z",
-            "shown_at": [
-                "2025-04-21T14:19:25.238294Z"
-            ]
-        },
-        {
-            "id": "eb7b79a76ab7d4e3a65e4eb69e3c4683",
-            "source": "nyt",
-            "text": "Lyrids Meteor Shower 2025: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/04/21/science/lyrid-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:51:41.055371Z",
-            "shown_at": [
-                "2025-04-21T13:51:42.012505Z",
-                "2025-04-21T15:45:36.575020Z",
-                "2025-04-21T19:19:27.593874Z"
-            ]
-        },
-        {
-            "id": "f79ed5cbaf5a561689146eb5f05646bd",
-            "source": "spacenews",
-            "text": "Taking the Ground Out of Ground Systems",
-            "source_link": "https://spacenews.com/taking-the-ground-out-of-ground-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T14:33:42.841366Z",
-            "shown_at": [
-                "2025-04-21T14:33:43.902803Z"
-            ]
-        },
-        {
-            "id": "af534f0525a72b30c03efd69dae22058",
-            "source": "spacenews",
-            "text": "DARPA requests proposals for water-prospecting lunar orbiter",
-            "source_link": "https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T15:04:00.509607Z",
-            "shown_at": [
-                "2025-04-21T15:04:01.701672Z"
-            ]
-        },
-        {
-            "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
-            "source": "nyt",
-            "text": "Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement.",
-            "source_link": "https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T20:59:47.355304Z",
-            "shown_at": [
-                "2025-04-21T20:59:48.384741Z"
             ]
         }
     ]
