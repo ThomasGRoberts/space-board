@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 9 | 26 |
 | spacenews | 3 | 8 | 10 | 29 |
 | breaking_defense | 0 | 0 | 9 | 23 |
-| aidy | 0 | 0 | 9 | 23 |
+| aidy | 0 | 0 | 10 | 24 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -3409,3 +3409,4 @@
 - **Apr 22, 02:03 PM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
 - **Apr 22, 02:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 22, 02:33 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 22, 02:47 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
