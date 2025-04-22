@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 9 | 24 |
+| nyt | 1 | 2 | 10 | 25 |
 | spacenews | 2 | 7 | 10 | 29 |
 | breaking_defense | 0 | 0 | 8 | 23 |
 | aidy | 0 | 0 | 9 | 24 |
@@ -3429,3 +3429,4 @@
 - **Apr 22, 04:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 04:32 PM** - Space Command headquarters battle reignites (spacenews)
+- **Apr 22, 04:47 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
