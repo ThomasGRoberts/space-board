@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 9 | 25 |
 | spacenews | 2 | 7 | 10 | 29 |
-| breaking_defense | 0 | 0 | 8 | 23 |
+| breaking_defense | 0 | 0 | 9 | 24 |
 | aidy | 0 | 0 | 9 | 23 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -3430,3 +3430,4 @@
 - **Apr 22, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 04:32 PM** - Space Command headquarters battle reignites (spacenews)
 - **Apr 22, 04:47 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
+- **Apr 22, 05:02 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
