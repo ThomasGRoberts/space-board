@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 8 | 25 |
 | spacenews | 4 | 9 | 11 | 29 |
 | breaking_defense | 0 | 0 | 9 | 23 |
-| aidy | 0 | 0 | 8 | 23 |
+| aidy | 0 | 0 | 9 | 24 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -3487,3 +3487,4 @@
 - **Apr 22, 10:47 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 22, 11:01 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 22, 11:15 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 22, 11:29 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
