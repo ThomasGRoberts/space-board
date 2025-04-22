@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 9 | 25 |
 | spacenews | 4 | 9 | 11 | 30 |
-| breaking_defense | 0 | 0 | 8 | 23 |
+| breaking_defense | 0 | 0 | 9 | 23 |
 | aidy | 0 | 0 | 8 | 23 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -3486,3 +3486,4 @@
 - **Apr 22, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 22, 10:47 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 22, 11:01 PM** - Northwood raises $30 million to establish ground station network (spacenews)
+- **Apr 22, 11:15 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
