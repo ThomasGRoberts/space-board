@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 9 | 25 |
 | spacenews | 2 | 8 | 10 | 29 |
 | breaking_defense | 0 | 0 | 9 | 24 |
-| aidy | 0 | 0 | 8 | 23 |
+| aidy | 0 | 0 | 9 | 24 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -3420,3 +3420,4 @@
 - **Apr 22, 03:17 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 22, 03:33 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 22, 03:47 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 22, 04:02 PM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
