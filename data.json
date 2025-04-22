@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d8c879a849ec37fc94471fd1ed5b130f",
+    "trigger_count": 0,
+    "current_item_id": "6bf5e883a61a69a9806321593bf94f4d",
     "data": [
         {
             "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
@@ -8992,6 +8992,18 @@
             "fetched_datetime": "2025-04-22T14:03:30.917263Z",
             "shown_at": [
                 "2025-04-22T14:03:31.753593Z"
+            ]
+        },
+        {
+            "id": "6bf5e883a61a69a9806321593bf94f4d",
+            "source": "spacenews",
+            "text": "SAIC wins $55 million Space Development Agency contract for satellite network integration",
+            "source_link": "https://spacenews.com/saic-wins-55-million-space-development-agency-contract-for-satellite-network-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-22T22:20:00.542643Z",
+            "shown_at": [
+                "2025-04-22T22:20:01.811285Z"
             ]
         }
     ]
