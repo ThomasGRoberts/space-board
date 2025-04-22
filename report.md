@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 16 | 36 |
-| spacenews | 5 | 6 | 19 | 38 |
+| spacenews | 6 | 7 | 20 | 39 |
 | supercluster | 1 | 1 | 62 | 62 |
 | breaking_defense | 0 | 0 | 15 | 34 |
 | aidy | 0 | 0 | 14 | 34 |
@@ -3460,3 +3460,4 @@
 - **Apr 22, 12:15 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 22, 12:17 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
 - **Apr 22, 12:19 AM** - SpaceX Will Launch Bandwagon Rideshare Mission (supercluster)
+- **Apr 22, 12:21 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)

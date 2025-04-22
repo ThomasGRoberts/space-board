@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-22T00:02:05.318067+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9767f20cb6dae6c32dcda9e4ed48c588",
+    "trigger_count": 0,
+    "current_item_id": "eecf326432b573df89b1774e61517fe5",
     "data": [
         {
             "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
@@ -8954,6 +8954,18 @@
             "fetched_datetime": "2025-02-27T22:47:45.574509Z",
             "shown_at": [
                 "2025-02-27T22:47:47.207906Z"
+            ]
+        },
+        {
+            "id": "eecf326432b573df89b1774e61517fe5",
+            "source": "spacenews",
+            "text": "OMB suggests NOAA scale back plans for geostationary satellites",
+            "source_link": "https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-22T00:21:37.704027Z",
+            "shown_at": [
+                "2025-04-22T00:21:38.242238Z"
             ]
         }
     ]
