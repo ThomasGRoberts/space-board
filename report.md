@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 25 | 35 |
-| supercluster | 1 | 2 | 147 | 188 |
+| supercluster | 1 | 2 | 148 | 189 |
 | nyt | 1 | 2 | 22 | 31 |
 | breaking_defense | 0 | 0 | 22 | 30 |
 | aidy | 0 | 0 | 9 | 18 |
@@ -3668,3 +3668,4 @@
 - **Apr 23, 07:39 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 07:53 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 23, 08:07 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 23, 08:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
