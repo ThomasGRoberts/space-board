@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 90 | 90 |
 | nyt | 0 | 2 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 23 |
-| aidy | 0 | 0 | 12 | 23 |
+| aidy | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -3525,3 +3525,4 @@
 - **Apr 23, 05:09 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 05:23 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 23, 05:39 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 23, 05:53 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
