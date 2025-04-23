@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 21 | 34 |
 | supercluster | 1 | 1 | 125 | 125 |
 | nyt | 1 | 3 | 18 | 27 |
-| breaking_defense | 0 | 0 | 17 | 25 |
+| breaking_defense | 0 | 0 | 18 | 26 |
 | aidy | 0 | 0 | 14 | 23 |
 
 # Shown Order
@@ -3576,3 +3576,4 @@
 - **Apr 23, 10:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 10:45 AM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 23, 10:59 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
