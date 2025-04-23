@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 36 |
-| supercluster | 1 | 2 | 150 | 195 |
+| spacenews | 6 | 8 | 26 | 35 |
+| supercluster | 1 | 2 | 149 | 196 |
 | nyt | 1 | 1 | 22 | 30 |
 | breaking_defense | 0 | 0 | 22 | 31 |
 | aidy | 0 | 0 | 8 | 17 |
@@ -3678,3 +3678,4 @@
 - **Apr 23, 08:35 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 08:49 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
 - **Apr 23, 09:03 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 23, 09:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
