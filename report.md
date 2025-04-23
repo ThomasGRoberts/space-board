@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 25 | 34 |
-| supercluster | 1 | 2 | 154 | 188 |
+| spacenews | 6 | 8 | 26 | 35 |
+| supercluster | 1 | 2 | 153 | 188 |
 | nyt | 1 | 2 | 22 | 31 |
 | breaking_defense | 0 | 0 | 21 | 30 |
 | aidy | 0 | 0 | 9 | 18 |
@@ -3666,3 +3666,4 @@
 - **Apr 23, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 07:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 07:39 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 23, 07:53 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
