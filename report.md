@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 19 | 32 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 | nyt | 1 | 3 | 17 | 26 |
 | breaking_defense | 0 | 0 | 16 | 24 |
 | aidy | 0 | 0 | 14 | 23 |
@@ -3558,3 +3558,4 @@
 - **Apr 23, 08:51 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 23, 09:05 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
 - **Apr 23, 09:19 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 23, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
