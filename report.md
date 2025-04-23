@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 16 | 31 |
 | supercluster | 1 | 1 | 90 | 90 |
 | nyt | 0 | 2 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 | aidy | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -3524,3 +3524,4 @@
 - **Apr 23, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 05:09 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 05:23 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
+- **Apr 23, 05:39 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
