@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 35 |
 | supercluster | 1 | 1 | 132 | 132 |
 | nyt | 1 | 3 | 19 | 28 |
-| breaking_defense | 0 | 0 | 18 | 26 |
+| breaking_defense | 0 | 0 | 19 | 27 |
 | aidy | 0 | 0 | 14 | 23 |
 
 # Shown Order
@@ -3586,3 +3586,4 @@
 - **Apr 23, 11:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 11:43 AM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
+- **Apr 23, 11:57 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
