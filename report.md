@@ -5,7 +5,7 @@
 | spacenews | 5 | 8 | 26 | 36 |
 | supercluster | 1 | 2 | 154 | 209 |
 | nyt | 1 | 1 | 22 | 31 |
-| breaking_defense | 0 | 0 | 22 | 30 |
+| breaking_defense | 0 | 0 | 23 | 31 |
 | aidy | 0 | 0 | 7 | 16 |
 
 # Shown Order
@@ -3697,3 +3697,4 @@
 - **Apr 23, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 10:27 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 10:41 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
+- **Apr 23, 10:55 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
