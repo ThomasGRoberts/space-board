@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-23T00:01:50.908416+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8a7ed061ff5e40e3add2a924e68a4e56",
+    "trigger_count": 0,
+    "current_item_id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
     "data": [
         {
             "id": "8a7ed061ff5e40e3add2a924e68a4e56",
@@ -9147,6 +9147,18 @@
                 "2025-04-23T12:19:25.117617Z",
                 "2025-04-23T12:21:35.840701Z",
                 "2025-04-23T12:23:37.084281Z"
+            ]
+        },
+        {
+            "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
+            "source": "spacenews",
+            "text": "The guardian’s rifle: why mission-essential space support cannot be outsourced",
+            "source_link": "https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T13:01:02.536404Z",
+            "shown_at": [
+                "2025-04-23T13:01:03.197815Z"
             ]
         }
     ]
