@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 36 |
 | supercluster | 1 | 2 | 161 | 216 |
-| nyt | 1 | 1 | 22 | 31 |
+| nyt | 1 | 1 | 23 | 32 |
 | breaking_defense | 0 | 0 | 22 | 31 |
 | aidy | 0 | 0 | 7 | 15 |
 
@@ -3705,3 +3705,4 @@
 - **Apr 23, 11:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 11:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 11:21 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 23, 11:23 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
