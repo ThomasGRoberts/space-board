@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 25 | 35 |
 | supercluster | 1 | 2 | 154 | 202 |
-| nyt | 1 | 1 | 22 | 30 |
+| nyt | 1 | 1 | 23 | 31 |
 | breaking_defense | 0 | 0 | 22 | 30 |
 | aidy | 0 | 0 | 8 | 17 |
 
@@ -3685,3 +3685,4 @@
 - **Apr 23, 09:25 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 09:27 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 09:29 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 23, 09:31 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
