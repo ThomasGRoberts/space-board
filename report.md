@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 13 | 31 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 | nyt | 0 | 2 | 10 | 24 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 | aidy | 0 | 0 | 10 | 23 |
@@ -3493,3 +3493,4 @@
 - **Apr 23, 01:51 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 23, 02:05 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
 - **Apr 23, 02:19 AM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 23, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
