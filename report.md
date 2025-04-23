@@ -2,19 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 9 | 25 |
 | spacenews | 4 | 9 | 10 | 29 |
+| supercluster | 1 | 1 | 62 | 62 |
+| nyt | 0 | 2 | 9 | 25 |
 | breaking_defense | 0 | 0 | 8 | 23 |
 | aidy | 0 | 0 | 9 | 23 |
-| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
-- **Feb 27, 10:47 PM** - Space Development Agency pushes back on GAO’s criticism  (spacenews)
-- **Feb 28, 08:39 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
-- **Feb 28, 10:31 AM** - South Korea approves strategic plans for space (spacenews)
-- **Feb 28, 10:59 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
-- **Feb 28, 12:09 PM** - Rocket Lab reaffirms 2025 first launch of Neutron (spacenews)
 - **Feb 28, 01:07 PM** - Space endurance: A call for more dialogue, not less  (spacenews)
 - **Feb 28, 01:21 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Feb 28, 02:05 PM** - How independent space companies can fight back against misinformation from Elon Musk and Donald Trump (spacenews)
@@ -31,14 +26,10 @@
 - **Feb 28, 10:57 PM** - Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch (spacenews)
 - **Feb 28, 11:27 PM** - Two senators question Air Force nominee’s SpaceX connections (spacenews)
 - **Mar 01, 12:09 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
-- **Mar 01, 05:41 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 06:37 AM** - FCC mulls C-band options, raising prospect of another satellite windfall (spacenews)
-- **Mar 01, 06:51 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 07:19 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 01, 08:46 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
-- **Mar 01, 09:55 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 11:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
-- **Mar 01, 11:51 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 12:21 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
 - **Mar 01, 12:35 PM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
 - **Mar 01, 01:05 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
@@ -49,11 +40,9 @@
 - **Mar 01, 08:37 PM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 01, 10:19 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 01, 10:47 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
-- **Mar 01, 11:02 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 01, 11:45 PM** - Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative (spacenews)
 - **Mar 02, 02:41 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 02, 03:09 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
-- **Mar 02, 03:24 AM** - Rocket Lab reaffirms 2025 first launch of Neutron (spacenews)
 - **Mar 02, 03:37 AM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 02, 03:51 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 02, 04:33 AM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
@@ -68,7 +57,6 @@
 - **Mar 02, 10:17 AM** - China to train Pakistani astronaut for Tiangong space station mission (spacenews)
 - **Mar 02, 10:59 AM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 02, 01:07 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
-- **Mar 02, 01:35 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 02, 02:45 PM** - NOAA Space Office Layoffs Disrupt Operations; SpaceX Starship Launch Approved (aidy)
 - **Mar 02, 03:27 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 02, 03:41 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
@@ -99,7 +87,6 @@
 - **Mar 03, 02:13 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
 - **Mar 03, 03:13 PM** - Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk (breaking_defense)
 - **Mar 03, 03:27 PM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
-- **Mar 03, 03:55 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 03, 04:09 PM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 03, 05:05 PM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 05:47 PM** - Maxar wins mystery commercial GEO order amid market slowdown (spacenews)
@@ -158,7 +145,6 @@
 - **Mar 05, 05:13 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
 - **Mar 05, 05:41 AM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
 - **Mar 05, 05:55 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
-- **Mar 05, 06:23 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 06:38 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 05, 06:51 AM** - FAA gives approval for next Starship test flight (spacenews)
 - **Mar 05, 07:33 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
@@ -168,9 +154,7 @@
 - **Mar 05, 09:19 AM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
 - **Mar 05, 09:33 AM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 05, 09:47 AM** - Apex’s first satellite marks one year in orbit (spacenews)
-- **Mar 05, 10:02 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 10:59 AM** - Varda Space capsule lands in Australia with critical data for hypersonic vehicles (spacenews)
-- **Mar 05, 11:13 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 11:55 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
 - **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 05, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
@@ -204,7 +188,6 @@
 - **Mar 05, 10:07 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
 - **Mar 05, 10:21 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 05, 10:35 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
-- **Mar 05, 10:49 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 05, 11:03 PM** - Firings sap NOAA office responsible for licensing remote sensing satellite firms (breaking_defense)
 - **Mar 05, 11:17 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
 - **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
@@ -230,7 +213,6 @@
 - **Mar 06, 06:09 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 06, 06:23 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 06, 07:07 AM** - Firefly’s Blue Ghost Mission 1 Successfully Lands on the Moon (nyt)
-- **Mar 06, 07:21 AM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 06, 07:35 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
 - **Mar 06, 08:03 AM** - Falcon 9 booster lost after droneship landing (spacenews)
 - **Mar 06, 08:31 AM** - U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies (aidy)
@@ -269,7 +251,6 @@
 - **Mar 06, 07:43 PM** - Skylo raises $30 million to fuel direct-to-smartphone expansion (spacenews)
 - **Mar 06, 07:57 PM** - How to Watch Firefly’s Blue Ghost Mission 1 Moon Landing (nyt)
 - **Mar 06, 08:12 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
-- **Mar 06, 08:39 PM** - U.S. Space Force to Expand to 25,000 Personnel by 2028 Under "Golden Dome" Initiative (aidy)
 - **Mar 06, 08:53 PM** - IM-2 lunar lander touches down, status unclear (spacenews)
 - **Mar 06, 09:09 PM** - How to See the Planet Parade as Seven Planets Align in the Night Sky (nyt)
 - **Mar 06, 09:25 PM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
