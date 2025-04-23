@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 26 | 36 |
 | supercluster | 1 | 2 | 158 | 216 |
 | nyt | 1 | 1 | 23 | 31 |
-| breaking_defense | 0 | 0 | 22 | 31 |
+| breaking_defense | 0 | 0 | 23 | 32 |
 | aidy | 0 | 0 | 6 | 15 |
 
 # Shown Order
@@ -3707,3 +3707,4 @@
 - **Apr 23, 11:21 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 11:23 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 11:37 PM** - Atmos Space Cargo declares first test flight a success despite reentry uncertainty (spacenews)
+- **Apr 23, 11:51 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
