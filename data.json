@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-23T00:01:50.908416+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f8828dca036728899b566cc9243f381",
+    "trigger_count": 0,
+    "current_item_id": "adb753a5328fd95e3831e29a44805df5",
     "data": [
         {
             "id": "8a7ed061ff5e40e3add2a924e68a4e56",
@@ -9084,6 +9084,18 @@
             "fetched_datetime": "2025-04-23T04:13:30.355866Z",
             "shown_at": [
                 "2025-04-23T04:13:30.928924Z"
+            ]
+        },
+        {
+            "id": "adb753a5328fd95e3831e29a44805df5",
+            "source": "nyt",
+            "text": "At the American Museum of Natural History, a Look to Outer Space",
+            "source_link": "https://www.nytimes.com/2025/04/23/arts/design/natural-history-museum-space-photography.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T09:19:30.153873Z",
+            "shown_at": [
+                "2025-04-23T09:19:30.729112Z"
             ]
         }
     ]
