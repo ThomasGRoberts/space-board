@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 25 | 35 |
 | supercluster | 1 | 2 | 147 | 167 |
 | nyt | 1 | 2 | 21 | 30 |
-| breaking_defense | 0 | 0 | 20 | 29 |
+| breaking_defense | 0 | 0 | 21 | 30 |
 | aidy | 0 | 0 | 12 | 20 |
 
 # Shown Order
@@ -3637,3 +3637,4 @@
 - **Apr 23, 04:46 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 04:47 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 05:02 PM** - Atmos Space Cargo declares first test flight a success despite reentry uncertainty (spacenews)
+- **Apr 23, 05:17 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
