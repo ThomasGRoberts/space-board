@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 26 | 36 |
 | supercluster | 1 | 2 | 154 | 195 |
 | nyt | 1 | 1 | 22 | 30 |
-| breaking_defense | 0 | 0 | 21 | 30 |
+| breaking_defense | 0 | 0 | 22 | 31 |
 | aidy | 0 | 0 | 8 | 17 |
 
 # Shown Order
@@ -3677,3 +3677,4 @@
 - **Apr 23, 08:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:35 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 08:49 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
+- **Apr 23, 09:03 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
