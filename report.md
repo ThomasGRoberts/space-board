@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 24 | 34 |
+| spacenews | 6 | 8 | 25 | 35 |
 | supercluster | 1 | 2 | 147 | 160 |
 | nyt | 1 | 2 | 21 | 30 |
 | breaking_defense | 0 | 0 | 20 | 29 |
-| aidy | 0 | 0 | 13 | 21 |
+| aidy | 0 | 0 | 12 | 21 |
 
 # Shown Order
 
@@ -3626,3 +3626,4 @@
 - **Apr 23, 03:45 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 03:47 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 03:49 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
+- **Apr 23, 04:05 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
