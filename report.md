@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 25 | 35 |
-| supercluster | 1 | 2 | 149 | 190 |
-| nyt | 1 | 2 | 22 | 31 |
+| supercluster | 1 | 2 | 150 | 191 |
+| nyt | 1 | 2 | 21 | 31 |
 | breaking_defense | 0 | 0 | 22 | 30 |
 | aidy | 0 | 0 | 9 | 18 |
 
@@ -3670,3 +3670,4 @@
 - **Apr 23, 08:07 PM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 23, 08:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 23, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
