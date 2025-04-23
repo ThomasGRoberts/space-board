@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 26 | 36 |
 | supercluster | 1 | 2 | 154 | 202 |
 | nyt | 1 | 1 | 22 | 31 |
-| breaking_defense | 0 | 0 | 21 | 30 |
+| breaking_defense | 0 | 0 | 22 | 31 |
 | aidy | 0 | 0 | 8 | 16 |
 
 # Shown Order
@@ -3687,3 +3687,4 @@
 - **Apr 23, 09:29 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 09:31 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 23, 09:45 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
+- **Apr 23, 09:59 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
