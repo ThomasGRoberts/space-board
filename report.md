@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 35 |
+| spacenews | 6 | 12 | 23 | 36 |
 | supercluster | 2 | 2 | 139 | 139 |
 | nyt | 1 | 3 | 20 | 29 |
 | breaking_defense | 0 | 0 | 19 | 27 |
@@ -3595,3 +3595,4 @@
 - **Apr 23, 12:21 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 12:23 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 12:25 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 23, 12:39 PM** - Northwood raises $30 million to establish ground station network (spacenews)
