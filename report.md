@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 17 | 31 |
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 2 | 14 | 25 |
-| breaking_defense | 0 | 0 | 13 | 22 |
+| breaking_defense | 0 | 0 | 14 | 23 |
 | aidy | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -3535,3 +3535,4 @@
 - **Apr 23, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 06:21 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 23, 06:35 AM** - Moon, Mars — China leads to both (spacenews)
+- **Apr 23, 06:49 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
