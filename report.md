@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 11 | 30 |
 | supercluster | 1 | 1 | 62 | 62 |
-| nyt | 0 | 2 | 9 | 25 |
+| nyt | 0 | 2 | 9 | 24 |
 | breaking_defense | 0 | 0 | 9 | 23 |
-| aidy | 0 | 0 | 8 | 23 |
+| aidy | 0 | 0 | 9 | 24 |
 
 # Shown Order
 
@@ -3480,3 +3480,4 @@
 - **Apr 23, 12:13 AM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 23, 12:27 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 23, 12:41 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
+- **Apr 23, 12:55 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
