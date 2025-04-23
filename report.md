@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 24 | 34 |
 | supercluster | 1 | 2 | 140 | 153 |
 | nyt | 1 | 2 | 21 | 30 |
-| breaking_defense | 0 | 0 | 20 | 28 |
+| breaking_defense | 0 | 0 | 21 | 29 |
 | aidy | 0 | 0 | 13 | 22 |
 
 # Shown Order
@@ -3617,3 +3617,4 @@
 - **Apr 23, 02:49 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 23, 02:51 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 03:07 PM** - Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA (spacenews)
+- **Apr 23, 03:21 PM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
