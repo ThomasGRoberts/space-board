@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 35 |
-| supercluster | 2 | 2 | 133 | 133 |
+| supercluster | 2 | 2 | 134 | 134 |
 | nyt | 1 | 3 | 19 | 28 |
 | breaking_defense | 0 | 0 | 19 | 27 |
 | aidy | 0 | 0 | 14 | 23 |
@@ -3588,3 +3588,4 @@
 - **Apr 23, 11:43 AM** - Ground twin built for Boeing’s 2026 quantum satellite demo (spacenews)
 - **Apr 23, 11:57 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 23, 12:11 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 23, 12:13 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
