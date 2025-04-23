@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 20 | 33 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 | nyt | 1 | 3 | 18 | 27 |
 | breaking_defense | 0 | 0 | 17 | 25 |
 | aidy | 0 | 0 | 14 | 23 |
@@ -3568,3 +3568,4 @@
 - **Apr 23, 09:47 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 23, 10:02 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 23, 10:17 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 23, 10:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
