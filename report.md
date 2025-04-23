@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 25 | 35 |
+| spacenews | 6 | 8 | 26 | 36 |
 | supercluster | 1 | 2 | 154 | 195 |
 | nyt | 1 | 2 | 22 | 31 |
 | breaking_defense | 0 | 0 | 21 | 30 |
@@ -3676,3 +3676,4 @@
 - **Apr 23, 08:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:35 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
+- **Apr 23, 08:49 PM** - Texas Space Commission awards $26 million to five companies (spacenews)
