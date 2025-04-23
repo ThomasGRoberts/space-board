@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 25 | 35 |
-| supercluster | 1 | 2 | 147 | 181 |
+| supercluster | 1 | 2 | 148 | 182 |
 | nyt | 1 | 2 | 21 | 30 |
-| breaking_defense | 0 | 0 | 22 | 30 |
+| breaking_defense | 0 | 0 | 21 | 30 |
 | aidy | 0 | 0 | 10 | 19 |
 
 # Shown Order
@@ -3658,3 +3658,4 @@
 - **Apr 23, 06:43 PM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 06:57 PM** - Multilateral coordination will be needed for commercial space stations (spacenews)
 - **Apr 23, 07:11 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 23, 07:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
