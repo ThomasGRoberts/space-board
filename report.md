@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 31 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 | nyt | 0 | 2 | 13 | 24 |
 | breaking_defense | 0 | 0 | 13 | 23 |
 | aidy | 0 | 0 | 13 | 23 |
@@ -3526,3 +3526,4 @@
 - **Apr 23, 05:23 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 23, 05:39 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 23, 05:53 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 23, 06:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
