@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 18 | 31 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 | nyt | 0 | 2 | 15 | 24 |
 | breaking_defense | 0 | 0 | 15 | 23 |
 | aidy | 0 | 0 | 14 | 23 |
@@ -3547,3 +3547,4 @@
 - **Apr 23, 07:40 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 23, 07:53 AM** - States bid to host a revamped NASA headquarters (spacenews)
 - **Apr 23, 08:07 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
+- **Apr 23, 08:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
