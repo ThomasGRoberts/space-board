@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 24 | 37 |
 | supercluster | 2 | 2 | 139 | 139 |
 | nyt | 1 | 3 | 20 | 29 |
-| breaking_defense | 0 | 0 | 19 | 27 |
+| breaking_defense | 0 | 0 | 20 | 28 |
 | aidy | 0 | 0 | 14 | 23 |
 
 # Shown Order
@@ -3597,3 +3597,4 @@
 - **Apr 23, 12:25 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 12:39 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 23, 01:01 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
+- **Apr 23, 01:21 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
