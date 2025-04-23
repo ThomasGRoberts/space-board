@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 14 | 31 |
 | supercluster | 1 | 1 | 83 | 83 |
-| nyt | 0 | 2 | 11 | 24 |
+| nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 | aidy | 0 | 0 | 11 | 23 |
 
@@ -3511,3 +3511,4 @@
 - **Apr 23, 03:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 03:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 03:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 23, 03:59 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
