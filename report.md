@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 18 | 31 |
+| spacenews | 6 | 12 | 19 | 32 |
 | supercluster | 1 | 1 | 111 | 111 |
 | nyt | 0 | 2 | 16 | 25 |
 | breaking_defense | 0 | 0 | 15 | 23 |
@@ -3555,3 +3555,4 @@
 - **Apr 23, 08:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:35 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
+- **Apr 23, 08:51 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
