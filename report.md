@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 11 | 30 |
+| spacenews | 5 | 11 | 12 | 31 |
 | supercluster | 1 | 1 | 62 | 62 |
 | nyt | 0 | 2 | 9 | 24 |
 | breaking_defense | 0 | 0 | 9 | 23 |
@@ -3481,3 +3481,4 @@
 - **Apr 23, 12:27 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 23, 12:41 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
 - **Apr 23, 12:55 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
+- **Apr 23, 01:09 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
