@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 26 | 36 |
-| supercluster | 1 | 2 | 155 | 203 |
-| nyt | 1 | 1 | 22 | 31 |
+| supercluster | 1 | 2 | 156 | 204 |
+| nyt | 1 | 1 | 22 | 30 |
 | breaking_defense | 0 | 0 | 22 | 31 |
 | aidy | 0 | 0 | 7 | 16 |
 
@@ -3689,3 +3689,4 @@
 - **Apr 23, 09:45 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 23, 09:59 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 23, 10:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 23, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
