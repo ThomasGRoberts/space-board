@@ -6,7 +6,7 @@
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 2 | 14 | 24 |
 | breaking_defense | 0 | 0 | 14 | 23 |
-| aidy | 0 | 0 | 13 | 23 |
+| aidy | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -3536,3 +3536,4 @@
 - **Apr 23, 06:21 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 23, 06:35 AM** - Moon, Mars — China leads to both (spacenews)
 - **Apr 23, 06:49 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 23, 07:05 AM** - White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts. (aidy)
