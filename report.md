@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 19 | 32 |
 | supercluster | 1 | 1 | 111 | 111 |
 | nyt | 0 | 2 | 16 | 25 |
-| breaking_defense | 0 | 0 | 15 | 23 |
+| breaking_defense | 0 | 0 | 16 | 24 |
 | aidy | 0 | 0 | 14 | 23 |
 
 # Shown Order
@@ -3556,3 +3556,4 @@
 - **Apr 23, 08:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 23, 08:35 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 23, 08:51 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
+- **Apr 23, 09:05 AM** - Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries (breaking_defense)
