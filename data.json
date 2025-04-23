@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-23T00:01:50.908416+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c64f0ae39d24d81c66b3935db7761912",
+    "trigger_count": 0,
+    "current_item_id": "cf71afd9b64dc17651cdaac279677ad3",
     "data": [
         {
             "id": "8a7ed061ff5e40e3add2a924e68a4e56",
@@ -8973,6 +8973,18 @@
                 "2025-02-28T13:07:33.860489Z",
                 "2025-03-01T13:47:32.329618Z",
                 "2025-03-05T19:59:31.259907Z"
+            ]
+        },
+        {
+            "id": "cf71afd9b64dc17651cdaac279677ad3",
+            "source": "spacenews",
+            "text": "Iridium shields supply chain as higher tariffs loom",
+            "source_link": "https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T00:41:53.072548Z",
+            "shown_at": [
+                "2025-04-23T00:41:54.026093Z"
             ]
         }
     ]
