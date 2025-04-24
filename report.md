@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 26 | 47 |
+| spacenews | 4 | 10 | 27 | 48 |
 | nyt | 0 | 1 | 23 | 41 |
 | supercluster | 0 | 1 | 74 | 199 |
 | breaking_defense | 0 | 0 | 23 | 41 |
@@ -3685,3 +3685,4 @@
 - **Apr 24, 10:25 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 10:41 AM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 24, 10:55 AM** - Boeing reports progress on containing Starliner costs (spacenews)
+- **Apr 24, 11:09 AM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
