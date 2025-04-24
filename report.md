@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 43 |
-| supercluster | 1 | 2 | 169 | 273 |
-| nyt | 1 | 1 | 25 | 39 |
+| supercluster | 1 | 2 | 170 | 274 |
+| nyt | 1 | 1 | 24 | 39 |
 | breaking_defense | 0 | 0 | 25 | 39 |
 | aidy | 0 | 0 | 0 | 14 |
 
@@ -3751,3 +3751,4 @@
 - **Apr 24, 07:09 AM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 24, 07:25 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 07:39 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 07:41 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
