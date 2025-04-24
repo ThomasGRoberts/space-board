@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 53 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 0 | 109 | 228 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| aidy | 0 | 0 | 0 | 8 |
+| aidy | 0 | 0 | 0 | 7 |
 
 # Shown Order
 
@@ -3797,3 +3797,4 @@
 - **Apr 24, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 09:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 09:49 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 24, 10:03 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
