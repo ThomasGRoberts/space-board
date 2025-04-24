@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 26 | 50 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 88 | 214 |
+| supercluster | 0 | 0 | 89 | 215 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 13 |
 
@@ -3727,3 +3727,4 @@
 - **Apr 24, 02:45 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 02:59 PM** - Taking the Ground Out of Ground Systems (spacenews)
 - **Apr 24, 03:13 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 24, 03:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
