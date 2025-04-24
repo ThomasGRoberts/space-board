@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 102 | 221 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 10 |
@@ -3767,3 +3767,4 @@
 - **Apr 24, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 06:47 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 24, 07:01 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 24, 07:15 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
