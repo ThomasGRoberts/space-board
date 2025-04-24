@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 26 | 48 |
+| spacenews | 4 | 10 | 27 | 49 |
 | nyt | 0 | 1 | 23 | 42 |
 | supercluster | 0 | 1 | 74 | 206 |
 | breaking_defense | 0 | 0 | 23 | 42 |
@@ -3695,3 +3695,4 @@
 - **Apr 24, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 11:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 11:51 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 24, 12:05 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
