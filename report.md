@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 43 |
 | supercluster | 1 | 2 | 175 | 272 |
 | nyt | 1 | 1 | 25 | 39 |
-| breaking_defense | 0 | 0 | 24 | 38 |
+| breaking_defense | 0 | 0 | 25 | 39 |
 | aidy | 0 | 0 | 0 | 14 |
 
 # Shown Order
@@ -3749,3 +3749,4 @@
 - **Apr 24, 06:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 06:55 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 24, 07:09 AM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
+- **Apr 24, 07:25 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
