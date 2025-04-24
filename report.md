@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 45 |
-| nyt | 0 | 1 | 24 | 41 |
-| supercluster | 0 | 1 | 78 | 196 |
+| nyt | 0 | 1 | 23 | 41 |
+| supercluster | 0 | 1 | 79 | 197 |
 | breaking_defense | 0 | 0 | 23 | 40 |
 | aidy | 0 | 0 | 0 | 14 |
 
@@ -3679,3 +3679,4 @@
 - **Apr 24, 08:55 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 24, 09:11 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 24, 10:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 10:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
