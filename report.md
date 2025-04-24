@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 26 | 36 |
-| supercluster | 1 | 2 | 156 | 218 |
+| supercluster | 1 | 2 | 157 | 219 |
 | nyt | 1 | 1 | 22 | 31 |
 | breaking_defense | 0 | 0 | 23 | 31 |
 | aidy | 0 | 0 | 6 | 15 |
@@ -3672,3 +3672,4 @@
 - **Apr 23, 11:51 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 12:05 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:07 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 12:09 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
