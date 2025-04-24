@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 25 | 41 |
 | supercluster | 1 | 2 | 168 | 258 |
 | nyt | 1 | 1 | 24 | 37 |
-| breaking_defense | 0 | 0 | 24 | 36 |
+| breaking_defense | 0 | 0 | 25 | 37 |
 | aidy | 0 | 0 | 2 | 14 |
 
 # Shown Order
@@ -3729,3 +3729,4 @@
 - **Apr 24, 05:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 05:03 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 24, 05:17 AM** - States bid to host a revamped NASA headquarters (spacenews)
+- **Apr 24, 05:31 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
