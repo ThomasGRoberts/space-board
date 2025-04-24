@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 28 | 53 |
+| spacenews | 9 | 14 | 29 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 0 | 0 | 102 | 228 |
 | breaking_defense | 0 | 0 | 23 | 45 |
@@ -3799,3 +3799,4 @@
 - **Apr 24, 09:49 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 10:03 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 24, 10:17 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
+- **Apr 24, 10:31 PM** - NASA cancels lease for Earth science office in New York (spacenews)
