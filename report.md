@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 44 |
+| spacenews | 1 | 7 | 26 | 45 |
 | supercluster | 1 | 2 | 175 | 286 |
 | nyt | 1 | 1 | 25 | 41 |
 | breaking_defense | 0 | 0 | 24 | 40 |
@@ -3768,3 +3768,4 @@
 - **Apr 24, 08:49 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 08:52 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 08:55 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 24, 09:11 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
