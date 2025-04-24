@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 25 | 40 |
 | supercluster | 1 | 2 | 168 | 251 |
 | nyt | 1 | 1 | 24 | 36 |
-| breaking_defense | 0 | 0 | 23 | 35 |
+| breaking_defense | 0 | 0 | 24 | 36 |
 | aidy | 0 | 0 | 3 | 14 |
 
 # Shown Order
@@ -3719,3 +3719,4 @@
 - **Apr 24, 04:05 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 04:07 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 24, 04:21 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
+- **Apr 24, 04:35 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
