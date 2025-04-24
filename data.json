@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "f0f9f3805661a914644d0cbf293715cd",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9304,6 +9304,18 @@
             "fetched_datetime": "2025-04-24T17:05:21.713784Z",
             "shown_at": [
                 "2025-04-24T17:05:22.305894Z"
+            ]
+        },
+        {
+            "id": "f0f9f3805661a914644d0cbf293715cd",
+            "source": "spacenews",
+            "text": "Report warns U.S. risks strategic drift in space as China gains ground",
+            "source_link": "https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T17:47:36.507909Z",
+            "shown_at": [
+                "2025-04-24T17:47:37.547738Z"
             ]
         }
     ]

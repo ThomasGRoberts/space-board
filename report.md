@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 52 |
-| nyt | 0 | 1 | 24 | 45 |
+| spacenews | 7 | 13 | 28 | 52 |
+| nyt | 0 | 1 | 23 | 45 |
 | supercluster | 0 | 0 | 95 | 221 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 11 |
@@ -3755,3 +3755,4 @@
 - **Apr 24, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 05:47 PM** - Report warns U.S. risks strategic drift in space as China gains ground (spacenews)
