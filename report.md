@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 42 |
-| supercluster | 1 | 2 | 169 | 266 |
+| supercluster | 1 | 2 | 170 | 267 |
 | nyt | 1 | 1 | 24 | 38 |
 | breaking_defense | 0 | 0 | 25 | 38 |
 | aidy | 0 | 0 | 1 | 14 |
@@ -3741,3 +3741,4 @@
 - **Apr 24, 06:13 AM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
 - **Apr 24, 06:27 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 24, 06:41 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 06:43 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
