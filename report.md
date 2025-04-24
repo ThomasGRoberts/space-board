@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 26 | 49 |
 | nyt | 0 | 1 | 23 | 43 |
 | supercluster | 0 | 1 | 81 | 213 |
-| breaking_defense | 0 | 0 | 23 | 42 |
+| breaking_defense | 0 | 0 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 14 |
 
 # Shown Order
@@ -3704,3 +3704,4 @@
 - **Apr 24, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 12:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 12:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 12:49 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
