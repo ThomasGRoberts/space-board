@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6bf5e883a61a69a9806321593bf94f4d",
+    "trigger_count": 0,
+    "current_item_id": "4d89b19fcdbe3ae3cfbd30d8728bc299",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9263,6 +9263,18 @@
             "fetched_datetime": "2025-04-24T13:05:35.077429Z",
             "shown_at": [
                 "2025-04-24T13:05:36.229633Z"
+            ]
+        },
+        {
+            "id": "4d89b19fcdbe3ae3cfbd30d8728bc299",
+            "source": "spacenews",
+            "text": "China Report: Debris risks, startup funding and previewing Space Day",
+            "source_link": "https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T16:09:05.073270Z",
+            "shown_at": [
+                "2025-04-24T16:09:05.862426Z"
             ]
         }
     ]
