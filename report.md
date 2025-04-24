@@ -3748,3 +3748,4 @@
 - **Apr 24, 04:51 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 05:05 PM** - Shenzhou-20 crewed spacecraft arrives at Tiangong space station (spacenews)
 - **Apr 24, 05:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 24, 05:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
