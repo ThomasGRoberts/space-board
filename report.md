@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 24 | 36 |
-| supercluster | 1 | 2 | 166 | 230 |
+| spacenews | 2 | 7 | 25 | 37 |
+| supercluster | 1 | 2 | 165 | 230 |
 | nyt | 1 | 1 | 24 | 33 |
 | breaking_defense | 0 | 0 | 23 | 32 |
 | aidy | 0 | 0 | 5 | 14 |
@@ -3688,3 +3688,4 @@
 - **Apr 24, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 01:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 01:15 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 24, 01:29 AM** - NASA safety panel warns of increasing risks to ISS operations (spacenews)
