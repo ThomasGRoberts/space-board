@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4f8524284ac6e6512ea485a1acab7785",
+    "trigger_count": 0,
+    "current_item_id": "15fe58cfa37f8717f74f2881b108cd06",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9185,9 +9185,12 @@
             "source": "spacenews",
             "text": "Boeing reports progress on containing Starliner costs",
             "source_link": "https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-24T10:41:33.591308Z"
+            "fetched_datetime": "2025-04-24T10:41:33.591308Z",
+            "shown_at": [
+                "2025-04-24T10:55:32.660883Z"
+            ]
         }
     ]
 }
