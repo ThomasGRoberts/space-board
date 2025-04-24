@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
+    "trigger_count": 0,
+    "current_item_id": "96733d45c871bac6bf29b38e2f72e99b",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9221,6 +9221,18 @@
             "fetched_datetime": "2025-04-24T11:09:36.459014Z",
             "shown_at": [
                 "2025-04-24T11:09:37.453773Z"
+            ]
+        },
+        {
+            "id": "96733d45c871bac6bf29b38e2f72e99b",
+            "source": "spacenews",
+            "text": "Hidden and hampered: elevating the Office of Commercial Space Transportation",
+            "source_link": "https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T13:05:35.077429Z",
+            "shown_at": [
+                "2025-04-24T13:05:36.229633Z"
             ]
         }
     ]
