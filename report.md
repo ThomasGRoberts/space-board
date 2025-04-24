@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 45 |
 | nyt | 0 | 1 | 24 | 41 |
-| supercluster | 1 | 2 | 81 | 196 |
+| supercluster | 1 | 2 | 79 | 196 |
 | breaking_defense | 0 | 0 | 24 | 40 |
 | aidy | 0 | 0 | 0 | 14 |
 
@@ -3678,4 +3678,4 @@
 - **Apr 24, 08:25 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 08:55 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 24, 09:11 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
-- **Apr 24, 09:41 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 09:43 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
