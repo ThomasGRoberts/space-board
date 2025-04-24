@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 45 |
+| spacenews | 3 | 9 | 26 | 46 |
 | nyt | 0 | 1 | 23 | 41 |
-| supercluster | 0 | 1 | 77 | 199 |
+| supercluster | 0 | 1 | 76 | 199 |
 | breaking_defense | 0 | 0 | 24 | 41 |
 | aidy | 0 | 0 | 0 | 14 |
 
@@ -3683,3 +3683,4 @@
 - **Apr 24, 10:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 10:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 10:25 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 24, 10:41 AM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)

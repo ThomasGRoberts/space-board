@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
+    "trigger_count": 0,
+    "current_item_id": "4f8524284ac6e6512ea485a1acab7785",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9167,6 +9167,27 @@
                 "2025-02-28T17:41:38.410012Z",
                 "2025-03-01T06:37:27.134070Z"
             ]
+        },
+        {
+            "id": "4f8524284ac6e6512ea485a1acab7785",
+            "source": "spacenews",
+            "text": "Katalyst Space acquires Atomos to accelerate in-space services",
+            "source_link": "https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T10:41:33.591255Z",
+            "shown_at": [
+                "2025-04-24T10:41:34.217365Z"
+            ]
+        },
+        {
+            "id": "15fe58cfa37f8717f74f2881b108cd06",
+            "source": "spacenews",
+            "text": "Boeing reports progress on containing Starliner costs",
+            "source_link": "https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T10:41:33.591308Z"
         }
     ]
 }
