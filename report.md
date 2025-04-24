@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 42 |
 | supercluster | 1 | 2 | 168 | 265 |
 | nyt | 1 | 1 | 24 | 38 |
-| breaking_defense | 0 | 0 | 24 | 37 |
+| breaking_defense | 0 | 0 | 25 | 38 |
 | aidy | 0 | 0 | 1 | 14 |
 
 # Shown Order
@@ -3739,3 +3739,4 @@
 - **Apr 24, 05:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 05:59 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 24, 06:13 AM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
+- **Apr 24, 06:27 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
