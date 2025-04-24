@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 27 | 52 |
 | nyt | 0 | 1 | 23 | 45 |
 | supercluster | 0 | 0 | 102 | 221 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 10 |
 
 # Shown Order
@@ -3766,3 +3766,4 @@
 - **Apr 24, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 06:47 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
+- **Apr 24, 07:01 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
