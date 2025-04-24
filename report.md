@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 95 | 221 |
-| breaking_defense | 0 | 0 | 24 | 45 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 11 |
 
 # Shown Order
@@ -3757,3 +3757,4 @@
 - **Apr 24, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 05:47 PM** - Report warns U.S. risks strategic drift in space as China gains ground (spacenews)
 - **Apr 24, 06:02 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 24, 06:16 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
