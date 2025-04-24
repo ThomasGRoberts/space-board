@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 41 |
-| supercluster | 1 | 2 | 173 | 265 |
+| spacenews | 1 | 7 | 26 | 42 |
+| supercluster | 1 | 2 | 171 | 265 |
 | nyt | 1 | 1 | 25 | 38 |
 | breaking_defense | 0 | 0 | 24 | 37 |
 | aidy | 0 | 0 | 1 | 14 |
@@ -3738,3 +3738,4 @@
 - **Apr 24, 05:55 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 05:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 05:59 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
+- **Apr 24, 06:13 AM** - L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’ (spacenews)
