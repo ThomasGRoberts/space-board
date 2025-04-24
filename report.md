@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 26 | 36 |
-| supercluster | 1 | 2 | 159 | 221 |
+| spacenews | 4 | 8 | 25 | 36 |
+| supercluster | 1 | 2 | 160 | 222 |
 | nyt | 1 | 1 | 22 | 31 |
 | breaking_defense | 0 | 0 | 23 | 31 |
 | aidy | 0 | 0 | 6 | 15 |
@@ -3675,3 +3675,4 @@
 - **Apr 24, 12:09 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:11 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:13 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 12:15 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
