@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 28 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 0 | 102 | 222 |
+| supercluster | 0 | 0 | 103 | 223 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 7 |
 
@@ -3800,3 +3800,4 @@
 - **Apr 24, 10:03 PM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 24, 10:17 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 24, 10:31 PM** - NASA cancels lease for Earth science office in New York (spacenews)
+- **Apr 24, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
