@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
+    "trigger_count": 0,
+    "current_item_id": "d3ceca90e1006f3eb01061eac3e61a47",
     "data": [
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
@@ -9284,6 +9284,18 @@
             "fetched_datetime": "2025-04-24T16:09:05.073270Z",
             "shown_at": [
                 "2025-04-24T16:09:05.862426Z"
+            ]
+        },
+        {
+            "id": "d3ceca90e1006f3eb01061eac3e61a47",
+            "source": "spacenews",
+            "text": "Shenzhou-20 crewed spacecraft arrives at Tiangong space station",
+            "source_link": "https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T17:05:21.713784Z",
+            "shown_at": [
+                "2025-04-24T17:05:22.305894Z"
             ]
         }
     ]
