@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 28 | 53 |
-| nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 0 | 103 | 222 |
+| nyt | 0 | 1 | 23 | 45 |
+| supercluster | 0 | 0 | 104 | 223 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 8 |
 
@@ -3790,3 +3790,4 @@
 - **Apr 24, 09:07 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 24, 09:21 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 24, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 09:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
