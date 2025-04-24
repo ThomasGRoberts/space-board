@@ -1,9 +1,128 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-23T00:01:50.908416+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
+    "trigger_count": 5,
     "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
     "data": [
+        {
+            "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
+            "source": "spacenews",
+            "text": "The guardian’s rifle: why mission-essential space support cannot be outsourced",
+            "source_link": "https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T13:01:02.536404Z",
+            "shown_at": [
+                "2025-04-23T13:01:03.197815Z"
+            ]
+        },
+        {
+            "id": "7ccdc09b01a76db5fab7dcca489b4940",
+            "source": "supercluster",
+            "text": "China Will Launch Crew to Tiangong Space Station",
+            "source_link": "https://www.supercluster.com/launches/shenzhou-20",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-24T09:17:00.000Z",
+            "time_remaining": "0d 09h 55m",
+            "fetched_datetime": "2025-04-23T12:11:34.967165Z",
+            "shown_at": [
+                "2025-04-23T12:11:35.580855Z",
+                "2025-04-23T12:13:27.436580Z",
+                "2025-04-23T12:15:30.920175Z",
+                "2025-04-23T12:17:33.334011Z",
+                "2025-04-23T12:19:25.117617Z",
+                "2025-04-23T12:21:35.840701Z",
+                "2025-04-23T12:23:37.084281Z",
+                "2025-04-23T14:37:31.594866Z",
+                "2025-04-23T14:39:15.761379Z",
+                "2025-04-23T14:41:42.598076Z",
+                "2025-04-23T14:43:27.944676Z",
+                "2025-04-23T14:45:46.541988Z",
+                "2025-04-23T14:48:05.619090Z",
+                "2025-04-23T14:49:42.720774Z",
+                "2025-04-23T15:35:35.359595Z",
+                "2025-04-23T15:37:44.564225Z",
+                "2025-04-23T15:39:34.102413Z",
+                "2025-04-23T15:41:35.645391Z",
+                "2025-04-23T15:43:35.795991Z",
+                "2025-04-23T15:45:28.182747Z",
+                "2025-04-23T15:47:26.467386Z",
+                "2025-04-23T18:29:05.281865Z",
+                "2025-04-23T18:31:53.680794Z",
+                "2025-04-23T18:33:34.578306Z",
+                "2025-04-23T18:35:29.818925Z",
+                "2025-04-23T18:37:31.468216Z",
+                "2025-04-23T18:39:35.784137Z",
+                "2025-04-23T18:41:14.298709Z",
+                "2025-04-23T21:17:27.758400Z",
+                "2025-04-23T21:19:29.881078Z",
+                "2025-04-23T21:21:35.504024Z",
+                "2025-04-23T21:23:45.542214Z",
+                "2025-04-23T21:25:44.582258Z",
+                "2025-04-23T21:27:30.143873Z",
+                "2025-04-23T21:29:25.451321Z",
+                "2025-04-23T23:09:30.537349Z",
+                "2025-04-23T23:11:27.427332Z",
+                "2025-04-23T23:13:31.301272Z",
+                "2025-04-23T23:15:38.752677Z",
+                "2025-04-23T23:17:40.427814Z",
+                "2025-04-23T23:19:25.830854Z",
+                "2025-04-23T23:21:39.432734Z"
+            ]
+        },
+        {
+            "id": "adb753a5328fd95e3831e29a44805df5",
+            "source": "nyt",
+            "text": "At the American Museum of Natural History, a Look to Outer Space",
+            "source_link": "https://www.nytimes.com/2025/04/23/arts/design/natural-history-museum-space-photography.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T09:19:30.153873Z",
+            "shown_at": [
+                "2025-04-23T09:19:30.729112Z",
+                "2025-04-23T13:52:15.893356Z"
+            ]
+        },
+        {
+            "id": "7da5c5f5fcc0acf0d3e67a8484eccc3c",
+            "source": "spacenews",
+            "text": "Atmos Space Cargo declares first test flight a success despite reentry uncertainty",
+            "source_link": "https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T04:13:30.355866Z",
+            "shown_at": [
+                "2025-04-23T04:13:30.928924Z",
+                "2025-04-23T17:02:12.704636Z",
+                "2025-04-23T23:37:25.518981Z"
+            ]
+        },
+        {
+            "id": "6a89dc386ae3fccee081df9521457050",
+            "source": "spacenews",
+            "text": "Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan",
+            "source_link": "https://spacenews.com/astra-targets-cargo-delivery-with-rocket-4-in-pentagon-backed-plan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T01:09:31.799320Z",
+            "shown_at": [
+                "2025-04-23T01:09:32.506679Z",
+                "2025-04-23T14:08:40.708646Z"
+            ]
+        },
+        {
+            "id": "cf71afd9b64dc17651cdaac279677ad3",
+            "source": "spacenews",
+            "text": "Iridium shields supply chain as higher tariffs loom",
+            "source_link": "https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-23T00:41:53.072548Z",
+            "shown_at": [
+                "2025-04-23T00:41:54.026093Z"
+            ]
+        },
         {
             "id": "8a7ed061ff5e40e3add2a924e68a4e56",
             "source": "spacenews",
@@ -9047,229 +9166,6 @@
             "shown_at": [
                 "2025-02-28T17:41:38.410012Z",
                 "2025-03-01T06:37:27.134070Z"
-            ]
-        },
-        {
-            "id": "90bd9dc21f5863e85741d2afa03c3e08",
-            "source": "breaking_defense",
-            "text": "Warren, Duckworth probe Air Force secretary nominee on dealings with Elon Musk",
-            "source_link": "https://breakingdefense.com/2025/02/warren-duckworth-probe-air-force-secretary-nominee-on-dealings-with-elon-musk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T16:31:49.534227Z",
-            "shown_at": [
-                "2025-02-28T16:31:49.982879Z",
-                "2025-02-28T22:43:26.051928Z",
-                "2025-03-01T00:09:31.016537Z",
-                "2025-03-01T07:19:29.169867Z",
-                "2025-03-01T20:21:47.321289Z",
-                "2025-03-02T09:47:49.410806Z",
-                "2025-03-02T10:59:31.211144Z",
-                "2025-03-02T22:45:46.207743Z",
-                "2025-03-03T15:13:42.515975Z",
-                "2025-03-04T23:49:35.655505Z",
-                "2025-03-05T12:51:38.704693Z",
-                "2025-03-05T14:19:37.166326Z",
-                "2025-03-05T20:41:32.581476Z",
-                "2025-03-06T01:41:47.317532Z",
-                "2025-03-06T22:49:39.510856Z"
-            ]
-        },
-        {
-            "id": "771880cce27d8fc40638d79c5dabd108",
-            "source": "nyt",
-            "text": "How to See the Planet Parade as Seven Planets Align in the Night Sky",
-            "source_link": "https://www.nytimes.com/2025/02/24/science/astronomy-planets-stargazing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T16:17:38.061870Z",
-            "shown_at": [
-                "2025-02-28T16:17:38.521652Z",
-                "2025-02-28T18:53:33.901944Z",
-                "2025-03-01T22:19:33.126756Z",
-                "2025-03-02T06:41:47.385444Z",
-                "2025-03-03T12:45:42.695520Z",
-                "2025-03-05T04:43:11.619318Z",
-                "2025-03-05T17:05:40.874060Z",
-                "2025-03-05T18:15:44.730608Z",
-                "2025-03-06T21:09:29.354029Z",
-                "2025-03-07T09:07:56.594863Z"
-            ]
-        },
-        {
-            "id": "b36b749357651b593dcbec7dd00de61f",
-            "source": "spacenews",
-            "text": "China to train Pakistani astronaut for Tiangong space station mission",
-            "source_link": "https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T14:19:44.380203Z",
-            "shown_at": [
-                "2025-02-28T14:19:44.955994Z",
-                "2025-03-02T10:17:34.505428Z",
-                "2025-03-06T04:31:51.943392Z",
-                "2025-03-07T10:03:31.002603Z"
-            ]
-        },
-        {
-            "id": "3153765a316e7b45eacf5cc234c561ec",
-            "source": "spacenews",
-            "text": "How independent space companies can fight back against misinformation from Elon Musk and Donald Trump",
-            "source_link": "https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T14:05:26.464550Z",
-            "shown_at": [
-                "2025-02-28T14:05:27.041710Z",
-                "2025-03-02T06:55:35.336964Z"
-            ]
-        },
-        {
-            "id": "65392c774644eb41db120718c25a24e0",
-            "source": "spacenews",
-            "text": "Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch",
-            "source_link": "https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T13:07:33.362634Z",
-            "shown_at": [
-                "2025-02-28T13:21:43.616669Z",
-                "2025-02-28T22:57:33.335301Z",
-                "2025-03-02T19:41:52.958783Z",
-                "2025-03-04T17:51:43.652443Z"
-            ]
-        },
-        {
-            "id": "d6074b2e56a4cf3c094a4f38a07450ad",
-            "source": "spacenews",
-            "text": "Space endurance: A call for more dialogue, not less ",
-            "source_link": "https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T13:07:33.362571Z",
-            "shown_at": [
-                "2025-02-28T13:07:33.860489Z",
-                "2025-03-01T13:47:32.329618Z",
-                "2025-03-05T19:59:31.259907Z"
-            ]
-        },
-        {
-            "id": "cf71afd9b64dc17651cdaac279677ad3",
-            "source": "spacenews",
-            "text": "Iridium shields supply chain as higher tariffs loom",
-            "source_link": "https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T00:41:53.072548Z",
-            "shown_at": [
-                "2025-04-23T00:41:54.026093Z"
-            ]
-        },
-        {
-            "id": "6a89dc386ae3fccee081df9521457050",
-            "source": "spacenews",
-            "text": "Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan",
-            "source_link": "https://spacenews.com/astra-targets-cargo-delivery-with-rocket-4-in-pentagon-backed-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T01:09:31.799320Z",
-            "shown_at": [
-                "2025-04-23T01:09:32.506679Z",
-                "2025-04-23T14:08:40.708646Z"
-            ]
-        },
-        {
-            "id": "7da5c5f5fcc0acf0d3e67a8484eccc3c",
-            "source": "spacenews",
-            "text": "Atmos Space Cargo declares first test flight a success despite reentry uncertainty",
-            "source_link": "https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T04:13:30.355866Z",
-            "shown_at": [
-                "2025-04-23T04:13:30.928924Z",
-                "2025-04-23T17:02:12.704636Z",
-                "2025-04-23T23:37:25.518981Z"
-            ]
-        },
-        {
-            "id": "adb753a5328fd95e3831e29a44805df5",
-            "source": "nyt",
-            "text": "At the American Museum of Natural History, a Look to Outer Space",
-            "source_link": "https://www.nytimes.com/2025/04/23/arts/design/natural-history-museum-space-photography.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T09:19:30.153873Z",
-            "shown_at": [
-                "2025-04-23T09:19:30.729112Z",
-                "2025-04-23T13:52:15.893356Z"
-            ]
-        },
-        {
-            "id": "7ccdc09b01a76db5fab7dcca489b4940",
-            "source": "supercluster",
-            "text": "China Will Launch Crew to Tiangong Space Station",
-            "source_link": "https://www.supercluster.com/launches/shenzhou-20",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-24T09:17:00.000Z",
-            "time_remaining": "0d 09h 55m",
-            "fetched_datetime": "2025-04-23T12:11:34.967165Z",
-            "shown_at": [
-                "2025-04-23T12:11:35.580855Z",
-                "2025-04-23T12:13:27.436580Z",
-                "2025-04-23T12:15:30.920175Z",
-                "2025-04-23T12:17:33.334011Z",
-                "2025-04-23T12:19:25.117617Z",
-                "2025-04-23T12:21:35.840701Z",
-                "2025-04-23T12:23:37.084281Z",
-                "2025-04-23T14:37:31.594866Z",
-                "2025-04-23T14:39:15.761379Z",
-                "2025-04-23T14:41:42.598076Z",
-                "2025-04-23T14:43:27.944676Z",
-                "2025-04-23T14:45:46.541988Z",
-                "2025-04-23T14:48:05.619090Z",
-                "2025-04-23T14:49:42.720774Z",
-                "2025-04-23T15:35:35.359595Z",
-                "2025-04-23T15:37:44.564225Z",
-                "2025-04-23T15:39:34.102413Z",
-                "2025-04-23T15:41:35.645391Z",
-                "2025-04-23T15:43:35.795991Z",
-                "2025-04-23T15:45:28.182747Z",
-                "2025-04-23T15:47:26.467386Z",
-                "2025-04-23T18:29:05.281865Z",
-                "2025-04-23T18:31:53.680794Z",
-                "2025-04-23T18:33:34.578306Z",
-                "2025-04-23T18:35:29.818925Z",
-                "2025-04-23T18:37:31.468216Z",
-                "2025-04-23T18:39:35.784137Z",
-                "2025-04-23T18:41:14.298709Z",
-                "2025-04-23T21:17:27.758400Z",
-                "2025-04-23T21:19:29.881078Z",
-                "2025-04-23T21:21:35.504024Z",
-                "2025-04-23T21:23:45.542214Z",
-                "2025-04-23T21:25:44.582258Z",
-                "2025-04-23T21:27:30.143873Z",
-                "2025-04-23T21:29:25.451321Z",
-                "2025-04-23T23:09:30.537349Z",
-                "2025-04-23T23:11:27.427332Z",
-                "2025-04-23T23:13:31.301272Z",
-                "2025-04-23T23:15:38.752677Z",
-                "2025-04-23T23:17:40.427814Z",
-                "2025-04-23T23:19:25.830854Z",
-                "2025-04-23T23:21:39.432734Z"
-            ]
-        },
-        {
-            "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
-            "source": "spacenews",
-            "text": "The guardian’s rifle: why mission-essential space support cannot be outsourced",
-            "source_link": "https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T13:01:02.536404Z",
-            "shown_at": [
-                "2025-04-23T13:01:03.197815Z"
             ]
         }
     ]
