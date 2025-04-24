@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 40 |
-| supercluster | 1 | 2 | 168 | 251 |
+| supercluster | 1 | 2 | 169 | 252 |
 | nyt | 1 | 1 | 24 | 36 |
 | breaking_defense | 0 | 0 | 24 | 36 |
 | aidy | 0 | 0 | 2 | 14 |
@@ -3720,3 +3720,4 @@
 - **Apr 24, 04:07 AM** - Astronomers Detect a Signature of Life on a Distant Planet (nyt)
 - **Apr 24, 04:21 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
 - **Apr 24, 04:35 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
+- **Apr 24, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
