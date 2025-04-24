@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 28 | 53 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 0 | 102 | 221 |
+| supercluster | 0 | 0 | 103 | 222 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 8 |
 
@@ -3789,3 +3789,4 @@
 - **Apr 24, 08:53 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 24, 09:07 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 24, 09:21 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
+- **Apr 24, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
