@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 52 |
+| spacenews | 7 | 13 | 28 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
-| supercluster | 0 | 0 | 102 | 225 |
+| supercluster | 0 | 0 | 102 | 224 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 10 |
 
@@ -3765,3 +3765,4 @@
 - **Apr 24, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 06:47 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
