@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 25 | 39 |
 | supercluster | 1 | 2 | 168 | 244 |
 | nyt | 1 | 1 | 24 | 35 |
-| breaking_defense | 0 | 0 | 23 | 34 |
+| breaking_defense | 0 | 0 | 24 | 35 |
 | aidy | 0 | 0 | 3 | 14 |
 
 # Shown Order
@@ -3709,3 +3709,4 @@
 - **Apr 24, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 03:11 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 24, 03:25 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
+- **Apr 24, 03:39 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
