@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 28 | 54 |
-| nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 0 | 103 | 223 |
+| nyt | 0 | 1 | 23 | 45 |
+| supercluster | 0 | 0 | 104 | 223 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 7 |
 
@@ -3801,3 +3801,4 @@
 - **Apr 24, 10:17 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 24, 10:31 PM** - NASA cancels lease for Earth science office in New York (spacenews)
 - **Apr 24, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
