@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 37 |
-| supercluster | 1 | 2 | 163 | 232 |
+| supercluster | 1 | 2 | 164 | 233 |
 | nyt | 1 | 1 | 23 | 33 |
 | breaking_defense | 0 | 0 | 23 | 33 |
 | aidy | 0 | 0 | 5 | 14 |
@@ -3692,3 +3692,4 @@
 - **Apr 24, 01:43 AM** - Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power (breaking_defense)
 - **Apr 24, 01:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 01:59 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 02:01 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
