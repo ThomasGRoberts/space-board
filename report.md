@@ -5,8 +5,8 @@
 | spacenews | 7 | 13 | 27 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
 | supercluster | 0 | 0 | 102 | 228 |
-| breaking_defense | 0 | 0 | 23 | 44 |
-| aidy | 0 | 0 | 0 | 9 |
+| breaking_defense | 0 | 0 | 24 | 45 |
+| aidy | 0 | 0 | 0 | 8 |
 
 # Shown Order
 
@@ -3786,3 +3786,4 @@
 - **Apr 24, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 08:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 08:39 PM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
+- **Apr 24, 08:53 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
