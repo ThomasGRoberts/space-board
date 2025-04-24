@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 24 | 36 |
 | supercluster | 1 | 2 | 168 | 230 |
-| nyt | 1 | 1 | 23 | 32 |
+| nyt | 1 | 1 | 24 | 33 |
 | breaking_defense | 0 | 0 | 23 | 32 |
 | aidy | 0 | 0 | 5 | 14 |
 
@@ -3687,3 +3687,4 @@
 - **Apr 24, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 01:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 24, 01:15 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
