@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 36 |
 | supercluster | 1 | 2 | 161 | 223 |
 | nyt | 1 | 1 | 23 | 32 |
-| breaking_defense | 0 | 0 | 22 | 31 |
+| breaking_defense | 0 | 0 | 23 | 32 |
 | aidy | 0 | 0 | 6 | 14 |
 
 # Shown Order
@@ -3679,3 +3679,4 @@
 - **Apr 24, 12:17 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:19 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 24, 12:33 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
+- **Apr 24, 12:47 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
