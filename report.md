@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 53 |
-| nyt | 0 | 1 | 23 | 45 |
+| spacenews | 7 | 13 | 27 | 52 |
+| nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 0 | 102 | 221 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 9 |
@@ -3777,3 +3777,4 @@
 - **Apr 24, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 07:43 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
 - **Apr 24, 07:57 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 24, 08:11 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
