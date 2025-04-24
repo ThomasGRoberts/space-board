@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 36 |
 | supercluster | 1 | 2 | 161 | 223 |
-| nyt | 1 | 1 | 22 | 31 |
+| nyt | 1 | 1 | 23 | 32 |
 | breaking_defense | 0 | 0 | 23 | 31 |
 | aidy | 0 | 0 | 6 | 15 |
 
@@ -3677,3 +3677,4 @@
 - **Apr 24, 12:13 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:15 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 12:17 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 12:19 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
