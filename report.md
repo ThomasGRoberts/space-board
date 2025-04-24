@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 41 |
 | supercluster | 1 | 2 | 175 | 265 |
-| nyt | 1 | 1 | 24 | 37 |
+| nyt | 1 | 1 | 25 | 38 |
 | breaking_defense | 0 | 0 | 24 | 37 |
 | aidy | 0 | 0 | 1 | 14 |
 
@@ -3737,3 +3737,4 @@
 - **Apr 24, 05:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 05:55 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 05:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Apr 24, 05:59 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
