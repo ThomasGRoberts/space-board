@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 25 | 38 |
 | supercluster | 1 | 2 | 165 | 237 |
 | nyt | 1 | 1 | 24 | 34 |
-| breaking_defense | 0 | 0 | 23 | 33 |
+| breaking_defense | 0 | 0 | 24 | 34 |
 | aidy | 0 | 0 | 4 | 14 |
 
 # Shown Order
@@ -3699,3 +3699,4 @@
 - **Apr 24, 02:09 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Apr 24, 02:11 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 24, 02:25 AM** - Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities (spacenews)
+- **Apr 24, 02:39 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
