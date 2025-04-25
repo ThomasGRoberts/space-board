@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 26 | 53 |
+| spacenews | 7 | 14 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 2 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3667,3 +3667,4 @@
 - **Apr 25, 09:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 09:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 09:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 09:17 PM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
