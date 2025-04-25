@@ -6,7 +6,7 @@
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 2 | 2 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 
 # Shown Order
 
@@ -3680,3 +3680,4 @@
 - **Apr 25, 10:15 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 25, 10:29 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 25, 10:43 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 25, 10:57 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
