@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-24T00:01:57.917425+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
+    "trigger_count": 2,
     "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
     "data": [
+        {
+            "id": "23615b56481570b3fefcba2e235d3be7",
+            "source": "spacenews",
+            "text": "NASA cancels lease for Earth science office in New York",
+            "source_link": "https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T22:31:57.822483Z",
+            "shown_at": [
+                "2025-04-24T22:31:58.593788Z"
+            ]
+        },
+        {
+            "id": "b7bb6ee0ddd78092c9aa4fd4990991f1",
+            "source": "spacenews",
+            "text": "OroraTech opens US office to expand wildfire monitoring network",
+            "source_link": "https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T21:21:32.904449Z",
+            "shown_at": [
+                "2025-04-24T21:21:33.541714Z"
+            ]
+        },
+        {
+            "id": "f0f9f3805661a914644d0cbf293715cd",
+            "source": "spacenews",
+            "text": "Report warns U.S. risks strategic drift in space as China gains ground",
+            "source_link": "https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T17:47:36.507909Z",
+            "shown_at": [
+                "2025-04-24T17:47:37.547738Z"
+            ]
+        },
+        {
+            "id": "d3ceca90e1006f3eb01061eac3e61a47",
+            "source": "spacenews",
+            "text": "Shenzhou-20 crewed spacecraft arrives at Tiangong space station",
+            "source_link": "https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T17:05:21.713784Z",
+            "shown_at": [
+                "2025-04-24T17:05:22.305894Z"
+            ]
+        },
+        {
+            "id": "4d89b19fcdbe3ae3cfbd30d8728bc299",
+            "source": "spacenews",
+            "text": "China Report: Debris risks, startup funding and previewing Space Day",
+            "source_link": "https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T16:09:05.073270Z",
+            "shown_at": [
+                "2025-04-24T16:09:05.862426Z"
+            ]
+        },
+        {
+            "id": "96733d45c871bac6bf29b38e2f72e99b",
+            "source": "spacenews",
+            "text": "Hidden and hampered: elevating the Office of Commercial Space Transportation",
+            "source_link": "https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T13:05:35.077429Z",
+            "shown_at": [
+                "2025-04-24T13:05:36.229633Z",
+                "2025-04-24T22:17:34.518279Z"
+            ]
+        },
+        {
+            "id": "d8e804370c0841c116cddc526f624468",
+            "source": "spacenews",
+            "text": "Okapi raises 13 million euros to expand space traffic management suite",
+            "source_link": "https://spacenews.com/okapi-raises-13-million-euros-to-expand-space-traffic-management-suite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T11:09:36.459014Z",
+            "shown_at": [
+                "2025-04-24T11:09:37.453773Z"
+            ]
+        },
+        {
+            "id": "15fe58cfa37f8717f74f2881b108cd06",
+            "source": "spacenews",
+            "text": "Boeing reports progress on containing Starliner costs",
+            "source_link": "https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T10:41:33.591308Z",
+            "shown_at": [
+                "2025-04-24T10:55:32.660883Z"
+            ]
+        },
+        {
+            "id": "4f8524284ac6e6512ea485a1acab7785",
+            "source": "spacenews",
+            "text": "Katalyst Space acquires Atomos to accelerate in-space services",
+            "source_link": "https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-24T10:41:33.591255Z",
+            "shown_at": [
+                "2025-04-24T10:41:34.217365Z"
+            ]
+        },
         {
             "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
             "source": "spacenews",
@@ -9146,260 +9255,6 @@
                 "2025-03-05T06:51:37.110222Z",
                 "2025-03-06T10:45:33.955529Z",
                 "2025-03-08T02:21:41.694142Z"
-            ]
-        },
-        {
-            "id": "91ebcf59e8bb8bdb7f4444d64708571b",
-            "source": "spacenews",
-            "text": "Varda Space capsule lands in Australia with critical data for hypersonic vehicles",
-            "source_link": "https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-01T12:35:44.082135Z",
-            "shown_at": [
-                "2025-03-01T12:35:44.685393Z",
-                "2025-03-03T04:11:56.953742Z",
-                "2025-03-05T10:59:47.872355Z",
-                "2025-03-06T02:09:08.491508Z",
-                "2025-03-07T03:53:27.241730Z"
-            ]
-        },
-        {
-            "id": "261bdcb5094326904c4836fce579545f",
-            "source": "aidy",
-            "text": "U.S. Space Policy: Senators Demand Probe into NASA/FAA Contracts with Musk Companies",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-01T08:46:02.957122Z",
-            "shown_at": [
-                "2025-03-01T08:46:03.439127Z",
-                "2025-03-01T20:37:50.600621Z",
-                "2025-03-02T02:41:28.941453Z",
-                "2025-03-02T03:51:38.837513Z",
-                "2025-03-02T18:17:23.433711Z",
-                "2025-03-03T01:29:42.092777Z",
-                "2025-03-03T05:09:11.309558Z",
-                "2025-03-03T07:33:52.407204Z",
-                "2025-03-04T19:43:39.217964Z",
-                "2025-03-05T05:13:44.805769Z",
-                "2025-03-05T18:29:52.758916Z",
-                "2025-03-06T02:37:29.640468Z",
-                "2025-03-06T04:59:46.789909Z",
-                "2025-03-06T08:31:52.879820Z",
-                "2025-03-06T10:02:06.815504Z",
-                "2025-03-06T22:21:40.981016Z",
-                "2025-03-07T11:02:10.524376Z",
-                "2025-03-07T14:21:46.005514Z"
-            ]
-        },
-        {
-            "id": "68de52e7c6bb29226cf34faef65f3de4",
-            "source": "spacenews",
-            "text": "Two senators question Air Force nominee’s SpaceX connections",
-            "source_link": "https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T23:27:41.662202Z",
-            "shown_at": [
-                "2025-02-28T23:27:42.605937Z",
-                "2025-03-03T21:26:00.081318Z",
-                "2025-03-05T03:01:54.703114Z",
-                "2025-03-05T16:02:35.575603Z"
-            ]
-        },
-        {
-            "id": "d50c0bb6e6817d621ec9cbf10ba2b68b",
-            "source": "spacenews",
-            "text": "Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative",
-            "source_link": "https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T21:47:33.429680Z",
-            "shown_at": [
-                "2025-02-28T21:47:33.930425Z",
-                "2025-03-01T23:45:40.141568Z",
-                "2025-03-03T12:31:51.863976Z",
-                "2025-03-06T05:41:56.024013Z",
-                "2025-03-07T17:47:49.968391Z"
-            ]
-        },
-        {
-            "id": "d9475214f0b0b778ca513ad14c969ca4",
-            "source": "breaking_defense",
-            "text": "Firings sap NOAA office responsible for licensing remote sensing satellite firms",
-            "source_link": "https://breakingdefense.com/2025/02/firings-sap-noaa-office-responsible-for-licensing-remote-sensing-satellite-firms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T21:33:36.213806Z",
-            "shown_at": [
-                "2025-02-28T21:33:36.721039Z",
-                "2025-03-01T11:37:45.230362Z",
-                "2025-03-01T13:05:37.663866Z",
-                "2025-03-01T14:15:07.832819Z",
-                "2025-03-01T22:47:38.858077Z",
-                "2025-03-02T03:37:36.786722Z",
-                "2025-03-02T15:41:16.172279Z",
-                "2025-03-02T19:13:40.584159Z",
-                "2025-03-03T07:17:43.029832Z",
-                "2025-03-03T11:01:58.534958Z",
-                "2025-03-03T12:11:52.219022Z",
-                "2025-03-05T02:47:44.136692Z",
-                "2025-03-05T03:59:50.446821Z",
-                "2025-03-05T19:14:10.227860Z",
-                "2025-03-05T23:03:28.742548Z",
-                "2025-03-06T09:02:26.852858Z",
-                "2025-03-06T14:59:27.785914Z",
-                "2025-03-07T09:22:01.505241Z"
-            ]
-        },
-        {
-            "id": "e986b95f3cd1bdf69cc53af10940da0b",
-            "source": "spacenews",
-            "text": "Skylo raises $30 million to fuel direct-to-smartphone expansion",
-            "source_link": "https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T20:23:32.130293Z",
-            "shown_at": [
-                "2025-02-28T20:23:32.750336Z",
-                "2025-03-01T12:21:50.795098Z",
-                "2025-03-02T04:33:37.239080Z",
-                "2025-03-06T19:43:26.671611Z"
-            ]
-        },
-        {
-            "id": "2b200c9f7a3ea69a74b1dd477fb200f3",
-            "source": "spacenews",
-            "text": "Office of Space Commerce hit by layoffs",
-            "source_link": "https://spacenews.com/office-of-space-commerce-hit-by-layoffs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T18:39:40.886106Z",
-            "shown_at": [
-                "2025-02-28T18:39:41.988238Z"
-            ]
-        },
-        {
-            "id": "7437e1126e551d9ab667da1631205036",
-            "source": "spacenews",
-            "text": "FCC mulls C-band options, raising prospect of another satellite windfall",
-            "source_link": "https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-02-28T17:41:37.874273Z",
-            "shown_at": [
-                "2025-02-28T17:41:38.410012Z",
-                "2025-03-01T06:37:27.134070Z"
-            ]
-        },
-        {
-            "id": "4f8524284ac6e6512ea485a1acab7785",
-            "source": "spacenews",
-            "text": "Katalyst Space acquires Atomos to accelerate in-space services",
-            "source_link": "https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T10:41:33.591255Z",
-            "shown_at": [
-                "2025-04-24T10:41:34.217365Z"
-            ]
-        },
-        {
-            "id": "15fe58cfa37f8717f74f2881b108cd06",
-            "source": "spacenews",
-            "text": "Boeing reports progress on containing Starliner costs",
-            "source_link": "https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T10:41:33.591308Z",
-            "shown_at": [
-                "2025-04-24T10:55:32.660883Z"
-            ]
-        },
-        {
-            "id": "d8e804370c0841c116cddc526f624468",
-            "source": "spacenews",
-            "text": "Okapi raises 13 million euros to expand space traffic management suite",
-            "source_link": "https://spacenews.com/okapi-raises-13-million-euros-to-expand-space-traffic-management-suite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T11:09:36.459014Z",
-            "shown_at": [
-                "2025-04-24T11:09:37.453773Z"
-            ]
-        },
-        {
-            "id": "96733d45c871bac6bf29b38e2f72e99b",
-            "source": "spacenews",
-            "text": "Hidden and hampered: elevating the Office of Commercial Space Transportation",
-            "source_link": "https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T13:05:35.077429Z",
-            "shown_at": [
-                "2025-04-24T13:05:36.229633Z",
-                "2025-04-24T22:17:34.518279Z"
-            ]
-        },
-        {
-            "id": "4d89b19fcdbe3ae3cfbd30d8728bc299",
-            "source": "spacenews",
-            "text": "China Report: Debris risks, startup funding and previewing Space Day",
-            "source_link": "https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T16:09:05.073270Z",
-            "shown_at": [
-                "2025-04-24T16:09:05.862426Z"
-            ]
-        },
-        {
-            "id": "d3ceca90e1006f3eb01061eac3e61a47",
-            "source": "spacenews",
-            "text": "Shenzhou-20 crewed spacecraft arrives at Tiangong space station",
-            "source_link": "https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T17:05:21.713784Z",
-            "shown_at": [
-                "2025-04-24T17:05:22.305894Z"
-            ]
-        },
-        {
-            "id": "f0f9f3805661a914644d0cbf293715cd",
-            "source": "spacenews",
-            "text": "Report warns U.S. risks strategic drift in space as China gains ground",
-            "source_link": "https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T17:47:36.507909Z",
-            "shown_at": [
-                "2025-04-24T17:47:37.547738Z"
-            ]
-        },
-        {
-            "id": "b7bb6ee0ddd78092c9aa4fd4990991f1",
-            "source": "spacenews",
-            "text": "OroraTech opens US office to expand wildfire monitoring network",
-            "source_link": "https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T21:21:32.904449Z",
-            "shown_at": [
-                "2025-04-24T21:21:33.541714Z"
-            ]
-        },
-        {
-            "id": "23615b56481570b3fefcba2e235d3be7",
-            "source": "spacenews",
-            "text": "NASA cancels lease for Earth science office in New York",
-            "source_link": "https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T22:31:57.822483Z",
-            "shown_at": [
-                "2025-04-24T22:31:58.593788Z"
             ]
         }
     ]
