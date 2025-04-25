@@ -6,7 +6,7 @@
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -3599,3 +3599,4 @@
 - **Apr 25, 02:23 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 25, 02:40 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 25, 02:54 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 02:55 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
