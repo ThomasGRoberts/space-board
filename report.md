@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 28 | 53 |
+| spacenews | 9 | 13 | 29 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 0 | 0 | 116 | 228 |
 | breaking_defense | 0 | 0 | 23 | 46 |
@@ -3762,3 +3762,4 @@
 - **Apr 24, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 24, 11:57 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 12:11 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 25, 12:27 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
