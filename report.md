@@ -6,6 +6,7 @@
 | nyt | 0 | 1 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 5 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3475,3 +3476,4 @@
 - **Apr 25, 12:57 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 01:13 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 25, 01:27 AM** - Boeing reports progress on containing Starliner costs (spacenews)
+- **Apr 25, 01:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
