@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 26 | 53 |
+| spacenews | 6 | 14 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 2 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3677,3 +3677,4 @@
 - **Apr 25, 10:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 10:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 10:14 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 10:15 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
