@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 2 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -3506,3 +3506,4 @@
 - **Apr 25, 05:01 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 05:15 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 25, 05:29 AM** - Northwood raises $30 million to establish ground station network (spacenews)
+- **Apr 25, 05:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
