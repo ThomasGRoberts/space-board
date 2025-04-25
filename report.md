@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 53 |
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3527,3 +3527,4 @@
 - **Apr 25, 07:09 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 25, 07:23 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 25, 07:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 07:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
