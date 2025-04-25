@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -3528,3 +3528,4 @@
 - **Apr 25, 07:23 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 25, 07:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 07:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 07:43 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
