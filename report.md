@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 26 | 53 |
+| spacenews | 8 | 12 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3566,3 +3566,4 @@
 - **Apr 25, 10:47 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 11:01 AM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 25, 11:15 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 25, 11:29 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
