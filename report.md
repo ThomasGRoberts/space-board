@@ -6,7 +6,7 @@
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -3649,3 +3649,4 @@
 - **Apr 25, 07:11 PM** - GPS disruption and satellite maneuvers now hallmarks of modern warfare (spacenews)
 - **Apr 25, 07:25 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 25, 07:39 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 25, 07:53 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
