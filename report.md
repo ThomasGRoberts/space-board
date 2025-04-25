@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 26 | 53 |
+| spacenews | 8 | 12 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3576,3 +3576,4 @@
 - **Apr 25, 12:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 12:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 12:15 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 25, 12:29 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
