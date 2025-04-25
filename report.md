@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 26 | 53 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 2 | 2 | 24 | 48 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 
 # Shown Order
 
@@ -3671,3 +3671,4 @@
 - **Apr 25, 09:31 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 25, 09:45 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 25, 09:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 10:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
