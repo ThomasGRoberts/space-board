@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 52 |
-| nyt | 0 | 1 | 21 | 46 |
+| nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -3534,3 +3534,4 @@
 - **Apr 25, 07:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 07:51 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 07:53 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 25, 08:07 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
