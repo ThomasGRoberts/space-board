@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7016df82698e5562ead89cb9f0372f05",
+    "trigger_count": 0,
+    "current_item_id": "94a65db9422d397a2bff735b0066f0e6",
     "data": [
         {
             "id": "23615b56481570b3fefcba2e235d3be7",
@@ -9176,6 +9176,18 @@
             "fetched_datetime": "2025-04-25T13:13:35.949714Z",
             "shown_at": [
                 "2025-04-25T13:13:36.609959Z"
+            ]
+        },
+        {
+            "id": "94a65db9422d397a2bff735b0066f0e6",
+            "source": "breaking_defense",
+            "text": "Elon Musk sat in on job interview for Air Force’s top civilian",
+            "source_link": "https://breakingdefense.com/2025/04/elon-musk-sat-in-on-job-interview-for-air-forces-top-civilian/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-25T18:41:40.748581Z",
+            "shown_at": [
+                "2025-04-25T18:41:42.124926Z"
             ]
         }
     ]

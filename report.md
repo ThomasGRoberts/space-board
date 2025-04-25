@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 53 |
 | nyt | 0 | 0 | 23 | 47 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 112 | 112 |
 
@@ -3638,3 +3638,4 @@
 - **Apr 25, 05:59 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 25, 06:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 25, 06:27 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
+- **Apr 25, 06:41 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
