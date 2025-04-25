@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 28 | 53 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 0 | 118 | 230 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| supercluster | 0 | 0 | 119 | 231 |
+| breaking_defense | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 6 |
 
 # Shown Order
@@ -3765,3 +3765,4 @@
 - **Apr 25, 12:27 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 25, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 25, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 25, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
