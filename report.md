@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 53 |
+| spacenews | 7 | 14 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 2 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3657,3 +3657,4 @@
 - **Apr 25, 08:03 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 08:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 08:07 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
+- **Apr 25, 08:21 PM** - Axiom Space names new CEO (spacenews)

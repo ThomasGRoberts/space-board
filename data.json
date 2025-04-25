@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eecf326432b573df89b1774e61517fe5",
+    "trigger_count": 0,
+    "current_item_id": "115db984065561ee1435c5a8c9758f49",
     "data": [
         {
             "id": "23615b56481570b3fefcba2e235d3be7",
@@ -9217,6 +9217,18 @@
             "fetched_datetime": "2025-04-25T19:11:28.047314Z",
             "shown_at": [
                 "2025-04-25T19:11:28.459831Z"
+            ]
+        },
+        {
+            "id": "115db984065561ee1435c5a8c9758f49",
+            "source": "spacenews",
+            "text": "Axiom Space names new CEO",
+            "source_link": "https://spacenews.com/axiom-space-names-new-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-25T20:21:42.803045Z",
+            "shown_at": [
+                "2025-04-25T20:21:43.857241Z"
             ]
         }
     ]
