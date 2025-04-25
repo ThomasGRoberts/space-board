@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 52 |
+| spacenews | 6 | 13 | 26 | 53 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 2 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3646,3 +3646,4 @@
 - **Apr 25, 07:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 07:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 07:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 07:11 PM** - GPS disruption and satellite maneuvers now hallmarks of modern warfare (spacenews)
