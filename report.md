@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 26 | 54 |
+| spacenews | 7 | 14 | 26 | 53 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 2 | 2 | 24 | 47 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 126 | 126 |
 
@@ -3659,3 +3659,4 @@
 - **Apr 25, 08:07 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 25, 08:21 PM** - Axiom Space names new CEO (spacenews)
 - **Apr 25, 08:35 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 25, 08:49 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
