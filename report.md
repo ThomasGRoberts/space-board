@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3526,3 +3526,4 @@
 - **Apr 25, 06:55 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 07:09 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 25, 07:23 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
+- **Apr 25, 07:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
