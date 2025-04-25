@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 27 | 52 |
-| nyt | 0 | 1 | 21 | 45 |
+| nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 3 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -3484,3 +3484,4 @@
 - **Apr 25, 03:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 03:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 03:07 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 25, 03:21 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
