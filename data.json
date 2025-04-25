@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4604a1a8f51d60951eb99cae73413cf6",
+    "trigger_count": 0,
+    "current_item_id": "618c0250185b68d5635f897e4b1e0122",
     "data": [
         {
             "id": "23615b56481570b3fefcba2e235d3be7",
@@ -9048,6 +9048,18 @@
                 "2025-04-25T09:43:29.427985Z",
                 "2025-04-25T09:45:57.155941Z",
                 "2025-04-25T09:47:22.234427Z"
+            ]
+        },
+        {
+            "id": "618c0250185b68d5635f897e4b1e0122",
+            "source": "spacenews",
+            "text": "China selects international payloads for Chang’e-8 lunar south pole mission",
+            "source_link": "https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-25T10:05:46.824546Z",
+            "shown_at": [
+                "2025-04-25T10:05:47.877522Z"
             ]
         }
     ]

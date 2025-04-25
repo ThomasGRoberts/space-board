@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 27 | 52 |
+| spacenews | 10 | 11 | 28 | 53 |
 | nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3554,3 +3554,4 @@
 - **Apr 25, 09:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 09:47 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 09:49 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
+- **Apr 25, 10:05 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
