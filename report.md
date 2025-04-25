@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -3536,3 +3536,4 @@
 - **Apr 25, 07:53 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 08:07 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 25, 08:21 AM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
+- **Apr 25, 08:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
