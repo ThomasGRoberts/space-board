@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
-| nyt | 0 | 0 | 22 | 45 |
+| spacenews | 8 | 12 | 27 | 53 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 63 | 63 |
@@ -3567,3 +3567,4 @@
 - **Apr 25, 11:01 AM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 25, 11:15 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 25, 11:29 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
+- **Apr 25, 11:45 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
