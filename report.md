@@ -6,7 +6,7 @@
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -3578,3 +3578,4 @@
 - **Apr 25, 12:15 PM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
 - **Apr 25, 12:29 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 25, 12:45 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 25, 12:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
