@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
-    "trigger_count": 6,
-    "current_item_id": "af534f0525a72b30c03efd69dae22058",
+    "trigger_count": 0,
+    "current_item_id": "65e7021a139a7ac008037b19a27eb92b",
     "data": [
         {
             "id": "23615b56481570b3fefcba2e235d3be7",
@@ -9070,6 +9070,18 @@
             "fetched_datetime": "2025-04-25T10:05:46.824546Z",
             "shown_at": [
                 "2025-04-25T10:05:47.877522Z"
+            ]
+        },
+        {
+            "id": "65e7021a139a7ac008037b19a27eb92b",
+            "source": "breaking_defense",
+            "text": "$150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding",
+            "source_link": "https://breakingdefense.com/2025/04/150b-defense-boost-in-reconciliation-bill-to-immediately-go-towards-golden-dome-shipbuilding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-25T11:15:29.466642Z",
+            "shown_at": [
+                "2025-04-25T11:15:30.117673Z"
             ]
         }
     ]
