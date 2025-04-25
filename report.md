@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 25 | 54 |
+| spacenews | 5 | 14 | 25 | 53 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 2 | 2 | 24 | 47 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 140 | 140 |
 
@@ -3679,3 +3679,4 @@
 - **Apr 25, 10:14 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 10:15 PM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 25, 10:29 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 25, 10:43 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
