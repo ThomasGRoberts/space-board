@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
-| breaking_defense | 0 | 0 | 21 | 45 |
+| breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 2 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -3503,3 +3503,4 @@
 - **Apr 25, 04:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 04:56 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 04:59 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 05:01 AM** - NGA field testing new processor to speed imagery to US regional commands (breaking_defense)
