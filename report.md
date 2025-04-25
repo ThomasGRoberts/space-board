@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 26 | 54 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 2 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 147 | 147 |
@@ -3688,3 +3688,4 @@
 - **Apr 25, 11:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 11:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 11:11 PM** - Shenzhou-20 crewed spacecraft arrives at Tiangong space station (spacenews)
+- **Apr 25, 11:26 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
