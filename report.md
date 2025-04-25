@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 53 |
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -3537,3 +3537,4 @@
 - **Apr 25, 08:07 AM** - Astronomers Detect a Possible Signature of Life on a Distant Planet (nyt)
 - **Apr 25, 08:21 AM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
 - **Apr 25, 08:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 25, 08:37 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
