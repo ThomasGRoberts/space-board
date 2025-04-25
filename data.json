@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-25T00:02:07.151993+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
+    "trigger_count": 0,
+    "current_item_id": "32dbf73dd336144a79ef83b6c63e838c",
     "data": [
         {
             "id": "23615b56481570b3fefcba2e235d3be7",
@@ -9112,6 +9112,18 @@
             "fetched_datetime": "2025-04-25T11:29:36.535047Z",
             "shown_at": [
                 "2025-04-25T11:29:37.184268Z"
+            ]
+        },
+        {
+            "id": "32dbf73dd336144a79ef83b6c63e838c",
+            "source": "spacenews",
+            "text": "ISS implementation partners need to survive the transition to commercial LEO destinations",
+            "source_link": "https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-25T13:13:35.949714Z",
+            "shown_at": [
+                "2025-04-25T13:13:36.609959Z"
             ]
         }
     ]
