@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 27 | 53 |
 | nyt | 0 | 0 | 22 | 46 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -3586,3 +3586,4 @@
 - **Apr 25, 01:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 01:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 25, 01:13 PM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
+- **Apr 25, 01:27 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
