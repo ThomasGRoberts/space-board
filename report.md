@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 26 | 53 |
-| breaking_defense | 2 | 2 | 26 | 48 |
-| supercluster | 0 | 1 | 168 | 175 |
+| breaking_defense | 2 | 2 | 26 | 47 |
+| supercluster | 0 | 1 | 169 | 176 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3671,3 +3671,4 @@
 - **Apr 26, 02:57 AM** - Report warns U.S. risks strategic drift in space as China gains ground (spacenews)
 - **Apr 26, 03:11 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 26, 03:25 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 26, 03:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
