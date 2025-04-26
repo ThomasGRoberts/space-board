@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 26 | 52 |
+| spacenews | 1 | 7 | 27 | 53 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 178 | 315 |
+| supercluster | 0 | 1 | 177 | 315 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3869,3 +3869,4 @@
 - **Apr 26, 10:03 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 10:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 10:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 10:09 PM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
