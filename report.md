@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 26 | 52 |
+| spacenews | 2 | 7 | 26 | 51 |
 | breaking_defense | 0 | 2 | 25 | 50 |
-| supercluster | 0 | 1 | 175 | 287 |
+| supercluster | 0 | 1 | 176 | 288 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3831,3 +3831,4 @@
 - **Apr 26, 06:05 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 26, 06:21 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 26, 06:35 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 26, 06:49 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
