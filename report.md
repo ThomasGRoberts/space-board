@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 27 | 54 |
-| breaking_defense | 2 | 2 | 25 | 47 |
+| spacenews | 5 | 14 | 27 | 53 |
+| breaking_defense | 2 | 2 | 26 | 48 |
 | supercluster | 0 | 1 | 168 | 203 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3710,3 +3710,4 @@
 - **Apr 26, 06:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 06:43 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
 - **Apr 26, 06:57 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 26, 07:11 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
