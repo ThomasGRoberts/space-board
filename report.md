@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 47 |
-| supercluster | 0 | 1 | 169 | 210 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 168 | 210 |
+| nyt | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3719,3 +3719,4 @@
 - **Apr 26, 07:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 07:37 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 07:39 AM** - Axiom Space names new CEO (spacenews)
+- **Apr 26, 07:53 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
