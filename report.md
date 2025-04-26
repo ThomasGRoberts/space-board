@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 52 |
-| breaking_defense | 2 | 2 | 26 | 49 |
-| supercluster | 0 | 1 | 169 | 232 |
+| breaking_defense | 1 | 2 | 25 | 49 |
+| supercluster | 0 | 1 | 170 | 233 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3752,3 +3752,4 @@
 - **Apr 26, 10:45 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 26, 10:59 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 26, 11:13 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 11:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
