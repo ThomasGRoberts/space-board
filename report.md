@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 26 | 53 |
+| spacenews | 5 | 14 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 47 |
-| supercluster | 0 | 1 | 175 | 217 |
+| supercluster | 0 | 1 | 174 | 217 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3728,3 +3728,4 @@
 - **Apr 26, 08:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 08:33 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 08:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 08:37 AM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
