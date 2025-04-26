@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 26 | 53 |
 | breaking_defense | 1 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 245 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3769,3 +3769,4 @@
 - **Apr 26, 12:19 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 12:23 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 12:25 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
+- **Apr 26, 12:39 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
