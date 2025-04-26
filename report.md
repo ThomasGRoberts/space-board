@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 54 |
-| breaking_defense | 2 | 2 | 25 | 47 |
+| breaking_defense | 2 | 2 | 26 | 48 |
 | supercluster | 0 | 1 | 168 | 210 |
 | nyt | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3720,3 +3720,4 @@
 - **Apr 26, 07:37 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 07:39 AM** - Axiom Space names new CEO (spacenews)
 - **Apr 26, 07:53 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 26, 08:07 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
