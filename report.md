@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 27 | 54 |
 | breaking_defense | 2 | 2 | 25 | 47 |
 | supercluster | 0 | 1 | 168 | 182 |
-| nyt | 0 | 0 | 24 | 45 |
+| nyt | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3679,3 +3679,4 @@
 - **Apr 26, 03:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:51 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:53 AM** - China launches 6 classified experimental satellites with Long March 6A (spacenews)
+- **Apr 26, 04:09 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
