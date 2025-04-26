@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 48 |
-| supercluster | 0 | 1 | 170 | 224 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 168 | 224 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3739,3 +3739,4 @@
 - **Apr 26, 09:29 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 09:31 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 09:33 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
+- **Apr 26, 09:47 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
