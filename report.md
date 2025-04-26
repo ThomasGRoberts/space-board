@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 52 |
-| breaking_defense | 0 | 2 | 25 | 49 |
+| breaking_defense | 0 | 2 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 308 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3861,3 +3861,4 @@
 - **Apr 26, 08:59 PM** - GPS disruption and satellite maneuvers now hallmarks of modern warfare (spacenews)
 - **Apr 26, 09:13 PM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
 - **Apr 26, 09:27 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 26, 09:41 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
