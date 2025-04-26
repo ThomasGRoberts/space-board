@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 26 | 54 |
 | breaking_defense | 2 | 2 | 26 | 49 |
-| supercluster | 0 | 1 | 168 | 224 |
+| supercluster | 0 | 1 | 169 | 225 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3741,3 +3741,4 @@
 - **Apr 26, 09:33 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 26, 09:47 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 26, 10:02 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 26, 10:17 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
