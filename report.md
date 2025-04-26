@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 26 | 52 |
+| spacenews | 1 | 7 | 26 | 51 |
 | breaking_defense | 0 | 2 | 25 | 50 |
-| supercluster | 0 | 1 | 175 | 294 |
+| supercluster | 0 | 1 | 176 | 295 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3841,3 +3841,4 @@
 - **Apr 26, 07:03 PM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
 - **Apr 26, 07:17 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 26, 07:31 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 26, 07:45 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
