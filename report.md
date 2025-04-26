@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 26 | 53 |
 | breaking_defense | 1 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 266 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3799,3 +3799,4 @@
 - **Apr 26, 03:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:15 PM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
+- **Apr 26, 03:29 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
