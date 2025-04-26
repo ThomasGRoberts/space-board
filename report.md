@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 26 | 53 |
 | breaking_defense | 1 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 259 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3789,3 +3789,4 @@
 - **Apr 26, 02:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 02:17 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 02:19 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
+- **Apr 26, 02:33 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
