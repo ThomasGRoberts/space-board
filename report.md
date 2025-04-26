@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 25 | 52 |
+| spacenews | 2 | 10 | 26 | 53 |
 | breaking_defense | 1 | 2 | 26 | 49 |
 | supercluster | 0 | 1 | 175 | 266 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3798,3 +3798,4 @@
 - **Apr 26, 03:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 03:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 03:15 PM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
