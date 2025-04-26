@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 25 | 53 |
-| breaking_defense | 2 | 2 | 24 | 47 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | supercluster | 1 | 1 | 161 | 161 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3650,3 +3650,4 @@
 - **Apr 26, 01:02 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 01:06 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 26, 01:19 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
+- **Apr 26, 01:33 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
