@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 26 | 52 |
-| breaking_defense | 1 | 2 | 25 | 49 |
+| breaking_defense | 1 | 2 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 280 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3820,3 +3820,4 @@
 - **Apr 26, 05:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 05:07 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 26, 05:21 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
+- **Apr 26, 05:35 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
