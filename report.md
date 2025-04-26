@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 26 | 52 |
 | breaking_defense | 1 | 2 | 26 | 49 |
-| supercluster | 0 | 1 | 171 | 259 |
+| supercluster | 0 | 1 | 171 | 260 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3791,3 +3791,4 @@
 - **Apr 26, 02:19 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 26, 02:33 PM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
 - **Apr 26, 02:47 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 26, 03:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
