@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 26 | 53 |
 | breaking_defense | 2 | 2 | 26 | 47 |
-| supercluster | 1 | 1 | 168 | 168 |
+| supercluster | 1 | 1 | 169 | 169 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3661,3 +3661,4 @@
 - **Apr 26, 02:01 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 26, 02:15 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 26, 02:29 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 26, 02:43 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
