@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 25 | 51 |
 | breaking_defense | 0 | 2 | 26 | 50 |
-| supercluster | 0 | 1 | 175 | 301 |
+| supercluster | 0 | 1 | 176 | 302 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3851,3 +3851,4 @@
 - **Apr 26, 07:59 PM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
 - **Apr 26, 08:15 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 26, 08:29 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 26, 08:45 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
