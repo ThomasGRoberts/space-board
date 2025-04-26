@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 25 | 52 |
+| spacenews | 2 | 10 | 26 | 53 |
 | breaking_defense | 1 | 2 | 26 | 49 |
 | supercluster | 0 | 1 | 175 | 252 |
 | nyt | 0 | 0 | 25 | 47 |
@@ -3778,3 +3778,4 @@
 - **Apr 26, 01:17 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 01:19 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 01:22 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 01:23 PM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
