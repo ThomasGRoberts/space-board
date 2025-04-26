@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 26 | 52 |
+| spacenews | 4 | 11 | 27 | 53 |
 | breaking_defense | 1 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 238 |
 | nyt | 0 | 0 | 25 | 47 |
@@ -3758,3 +3758,4 @@
 - **Apr 26, 11:21 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 11:23 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 11:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 26, 11:27 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
