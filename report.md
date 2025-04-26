@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 52 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 301 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3849,3 +3849,4 @@
 - **Apr 26, 07:55 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 07:57 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 07:59 PM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
+- **Apr 26, 08:15 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
