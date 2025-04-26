@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 52 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 308 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3860,3 +3860,4 @@
 - **Apr 26, 08:57 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 08:59 PM** - GPS disruption and satellite maneuvers now hallmarks of modern warfare (spacenews)
 - **Apr 26, 09:13 PM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
+- **Apr 26, 09:27 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
