@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 27 | 52 |
-| breaking_defense | 0 | 1 | 24 | 50 |
+| breaking_defense | 0 | 1 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -3621,3 +3621,4 @@
 - **Apr 27, 02:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 02:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 27, 02:59 PM** - NASA cancels lease for Earth science office in New York (spacenews)
+- **Apr 27, 03:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
