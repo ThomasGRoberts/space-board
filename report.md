@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 27 | 52 |
-| breaking_defense | 0 | 1 | 24 | 50 |
+| breaking_defense | 0 | 1 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -3611,3 +3611,4 @@
 - **Apr 27, 01:47 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 01:49 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 02:03 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
+- **Apr 27, 02:17 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
