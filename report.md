@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 25 | 50 |
+| spacenews | 2 | 4 | 26 | 51 |
 | breaking_defense | 0 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3624,3 +3624,4 @@
 - **Apr 27, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 06:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 06:03 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
