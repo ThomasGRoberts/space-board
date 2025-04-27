@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 52 |
 | breaking_defense | 0 | 2 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 343 |
+| supercluster | 0 | 0 | 176 | 344 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3961,3 +3961,4 @@
 - **Apr 27, 06:43 AM** - Shenzhou-20 crewed spacecraft arrives at Tiangong space station (spacenews)
 - **Apr 27, 06:57 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 27, 07:11 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 27, 07:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
