@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3602,31 +3602,11 @@
 - **Apr 27, 12:39 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 12:53 PM** - Axiom Space names new CEO (spacenews)
 - **Apr 27, 01:07 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
-- **Apr 27, 01:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:45 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 01:47 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 01:49 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 02:03 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 27, 02:17 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
-- **Apr 27, 02:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:33 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 02:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 02:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 27, 02:59 PM** - NASA cancels lease for Earth science office in New York (spacenews)
 - **Apr 27, 03:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
-- **Apr 27, 03:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:31 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:33 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Apr 27, 03:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 03:41 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 27, 03:55 PM** - China Will Launch the Long March 3B Rocket (supercluster)
