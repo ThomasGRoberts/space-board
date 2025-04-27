@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 25 | 51 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 40 | 40 |
@@ -3665,3 +3665,4 @@
 - **Apr 27, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 09:47 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
+- **Apr 27, 10:02 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
