@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 27 | 53 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4003,3 +4003,4 @@
 - **Apr 27, 10:57 AM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
 - **Apr 27, 11:11 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 11:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 11:27 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
