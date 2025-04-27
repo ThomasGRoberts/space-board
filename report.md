@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 24 | 50 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -3657,3 +3657,4 @@
 - **Apr 27, 08:51 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 27, 09:05 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 09:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 09:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
