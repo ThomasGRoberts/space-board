@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 26 | 53 |
 | breaking_defense | 0 | 2 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 346 |
-| nyt | 0 | 0 | 25 | 49 |
+| supercluster | 0 | 0 | 175 | 344 |
+| nyt | 0 | 0 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3999,3 +3999,4 @@
 - **Apr 27, 10:25 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 10:27 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 10:29 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
+- **Apr 27, 10:43 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
