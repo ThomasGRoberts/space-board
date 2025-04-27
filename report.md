@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3609,3 +3609,4 @@
 - **Apr 27, 02:59 PM** - NASA cancels lease for Earth science office in New York (spacenews)
 - **Apr 27, 03:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 03:41 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 27, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
