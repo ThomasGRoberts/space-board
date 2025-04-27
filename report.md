@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 53 |
-| breaking_defense | 0 | 2 | 25 | 50 |
+| breaking_defense | 0 | 2 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 343 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3940,3 +3940,4 @@
 - **Apr 27, 04:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 04:51 AM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
 - **Apr 27, 05:05 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 05:19 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
