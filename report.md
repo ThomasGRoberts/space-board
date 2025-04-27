@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 25 | 52 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| spacenews | 3 | 4 | 25 | 51 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -3636,3 +3636,4 @@
 - **Apr 27, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 10:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
+- **Apr 27, 11:13 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
