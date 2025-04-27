@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 26 | 52 |
-| breaking_defense | 0 | 2 | 25 | 49 |
+| spacenews | 1 | 6 | 26 | 51 |
+| breaking_defense | 0 | 2 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 329 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3890,3 +3890,4 @@
 - **Apr 26, 11:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:02 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
 - **Apr 27, 12:15 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 12:30 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
