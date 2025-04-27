@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 52 |
-| breaking_defense | 0 | 2 | 25 | 49 |
+| breaking_defense | 0 | 2 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 336 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3900,3 +3900,4 @@
 - **Apr 27, 12:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:57 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
 - **Apr 27, 01:11 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 01:25 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
