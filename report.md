@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 52 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -3619,3 +3619,4 @@
 - **Apr 27, 02:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 02:41 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 02:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Apr 27, 02:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
