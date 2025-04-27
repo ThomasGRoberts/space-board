@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 27 | 53 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4012,3 +4012,4 @@
 - **Apr 27, 11:41 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 27, 11:55 AM** - Shenzhou-20 crewed spacecraft arrives at Tiangong space station (spacenews)
 - **Apr 27, 12:10 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 27, 12:25 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
