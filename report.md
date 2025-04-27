@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 51 |
-| breaking_defense | 0 | 0 | 23 | 49 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -3637,3 +3637,4 @@
 - **Apr 27, 06:59 PM** - Boeing reports progress on containing Starliner costs (spacenews)
 - **Apr 27, 07:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 07:27 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 07:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
