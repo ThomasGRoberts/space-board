@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 52 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -3629,3 +3629,4 @@
 - **Apr 27, 03:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 03:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 03:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Apr 27, 03:41 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
