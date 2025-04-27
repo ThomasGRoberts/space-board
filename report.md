@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 52 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -3609,3 +3609,4 @@
 - **Apr 27, 01:43 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 01:45 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 01:47 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Apr 27, 01:49 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
