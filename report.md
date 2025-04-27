@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 27 | 52 |
+| spacenews | 2 | 4 | 26 | 52 |
 | breaking_defense | 0 | 1 | 25 | 51 |
-| supercluster | 0 | 0 | 170 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4023,3 +4023,4 @@
 - **Apr 27, 12:53 PM** - Axiom Space names new CEO (spacenews)
 - **Apr 27, 01:07 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 01:21 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 01:23 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
