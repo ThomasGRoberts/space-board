@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 53 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 0 | 0 | 170 | 345 |
+| supercluster | 0 | 0 | 171 | 346 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4014,3 +4014,4 @@
 - **Apr 27, 12:10 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 12:25 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:27 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 12:29 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
