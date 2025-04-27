@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 25 | 50 |
 | breaking_defense | 0 | 0 | 23 | 49 |
-| nyt | 0 | 0 | 24 | 50 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -3647,3 +3647,4 @@
 - **Apr 27, 07:55 PM** - Taking ‘remote care’ to new heights — how space can shape the future of healthcare (spacenews)
 - **Apr 27, 08:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 08:23 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 27, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
