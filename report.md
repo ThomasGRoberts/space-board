@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 26 | 52 |
 | breaking_defense | 0 | 2 | 25 | 50 |
 | supercluster | 0 | 1 | 175 | 343 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3909,3 +3909,4 @@
 - **Apr 27, 01:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 01:51 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 01:53 AM** - Atmos Space Cargo declares first test flight a success despite reentry uncertainty (spacenews)
+- **Apr 27, 02:09 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
