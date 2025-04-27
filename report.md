@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -3617,3 +3617,4 @@
 - **Apr 27, 05:07 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 27, 05:21 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 05:35 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 27, 05:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
