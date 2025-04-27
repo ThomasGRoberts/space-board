@@ -2,15 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 26 | 51 |
+| spacenews | 1 | 6 | 27 | 52 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 179 | 329 |
+| supercluster | 0 | 1 | 177 | 329 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Mar 02, 05:21 PM** - Air Force selects Pacific landing sites to test space cargo deliveries (spacenews)
 - **Mar 03, 09:25 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 10:47 AM** - U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates (aidy)
 - **Mar 03, 01:13 PM** - Radiation as a service: How the private sector can protect America’s space infrastructure (spacenews)
@@ -3889,3 +3888,4 @@
 - **Apr 26, 11:55 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 11:57 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 26, 11:59 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 12:02 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)

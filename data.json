@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-26T00:02:06.233066+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
+    "last_run_datetime": "2025-04-27T00:02:01.788540+00:00",
+    "trigger_count": 0,
+    "current_item_id": "618c0250185b68d5635f897e4b1e0122",
     "data": [
+        {
+            "id": "c0f401bb8e24f8eb0c626e30a06d23ab",
+            "source": "spacenews",
+            "text": "China to lend Chang’e-5 moon samples to U.S. universities",
+            "source_link": "https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-26T21:13:29.690267Z",
+            "shown_at": [
+                "2025-04-26T21:13:30.249543Z"
+            ]
+        },
         {
             "id": "115db984065561ee1435c5a8c9758f49",
             "source": "spacenews",
@@ -128,7 +140,8 @@
             "fetched_datetime": "2025-04-25T10:05:46.824546Z",
             "shown_at": [
                 "2025-04-25T10:05:47.877522Z",
-                "2025-04-26T13:23:23.798649Z"
+                "2025-04-26T13:23:23.798649Z",
+                "2025-04-27T00:02:07.921633Z"
             ]
         },
         {
@@ -9370,30 +9383,6 @@
                 "2025-03-09T04:51:47.193619Z",
                 "2025-03-09T06:03:25.565216Z",
                 "2025-03-09T08:29:28.237704Z"
-            ]
-        },
-        {
-            "id": "0d0c3bede3c767262abf09fb3c0054e6",
-            "source": "spacenews",
-            "text": "Air Force selects Pacific landing sites to test space cargo deliveries",
-            "source_link": "https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-02T17:21:28.110029Z",
-            "shown_at": [
-                "2025-03-02T17:21:28.627362Z"
-            ]
-        },
-        {
-            "id": "c0f401bb8e24f8eb0c626e30a06d23ab",
-            "source": "spacenews",
-            "text": "China to lend Chang’e-5 moon samples to U.S. universities",
-            "source_link": "https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-26T21:13:29.690267Z",
-            "shown_at": [
-                "2025-04-26T21:13:30.249543Z"
             ]
         }
     ]
