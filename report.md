@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 26 | 53 |
 | breaking_defense | 0 | 2 | 25 | 50 |
 | supercluster | 0 | 0 | 175 | 343 |
-| nyt | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3929,3 +3929,4 @@
 - **Apr 27, 03:47 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 03:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 03:51 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
+- **Apr 27, 04:07 AM** - It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming (nyt)
