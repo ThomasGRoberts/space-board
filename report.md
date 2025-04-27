@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -3622,3 +3622,4 @@
 - **Apr 27, 02:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 27, 02:59 PM** - NASA cancels lease for Earth science office in New York (spacenews)
 - **Apr 27, 03:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 27, 03:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
