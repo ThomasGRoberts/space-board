@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 26 | 53 |
 | breaking_defense | 0 | 2 | 25 | 50 |
 | supercluster | 0 | 0 | 175 | 343 |
-| nyt | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3949,3 +3949,4 @@
 - **Apr 27, 05:43 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 05:45 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 05:47 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
+- **Apr 27, 06:01 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
