@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 53 |
 | breaking_defense | 0 | 2 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 344 |
-| nyt | 0 | 0 | 25 | 49 |
+| supercluster | 0 | 0 | 175 | 343 |
+| nyt | 0 | 0 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3919,3 +3919,4 @@
 - **Apr 27, 02:47 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 02:49 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 02:51 AM** - NRO reaches milestone with over 200 satellites deployed in two years (spacenews)
+- **Apr 27, 03:05 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
