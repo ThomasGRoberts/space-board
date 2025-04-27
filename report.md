@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 25 | 51 |
+| spacenews | 2 | 3 | 26 | 52 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3644,3 +3644,4 @@
 - **Apr 27, 07:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 07:55 PM** - Taking ‘remote care’ to new heights — how space can shape the future of healthcare (spacenews)
