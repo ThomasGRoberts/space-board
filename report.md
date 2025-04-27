@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 26 | 51 |
+| spacenews | 1 | 6 | 27 | 52 |
 | breaking_defense | 0 | 2 | 25 | 50 |
-| supercluster | 0 | 1 | 178 | 336 |
+| supercluster | 0 | 1 | 177 | 336 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3898,3 +3898,4 @@
 - **Apr 27, 12:51 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:53 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 12:57 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
