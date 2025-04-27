@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 26 | 52 |
 | breaking_defense | 0 | 0 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -3635,3 +3635,4 @@
 - **Apr 27, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 10:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
