@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3638,3 +3638,4 @@
 - **Apr 27, 07:13 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 27, 07:27 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 27, 07:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
