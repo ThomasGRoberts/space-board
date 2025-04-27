@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 25 | 50 |
-| breaking_defense | 0 | 0 | 23 | 49 |
+| spacenews | 2 | 2 | 26 | 51 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -3654,3 +3654,4 @@
 - **Apr 27, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 08:51 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
