@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 27 | 53 |
-| breaking_defense | 0 | 2 | 24 | 50 |
+| breaking_defense | 0 | 2 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 343 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4001,3 +4001,4 @@
 - **Apr 27, 10:29 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
 - **Apr 27, 10:43 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 10:57 AM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
+- **Apr 27, 11:11 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
