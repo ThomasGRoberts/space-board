@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 26 | 52 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 336 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3899,3 +3899,4 @@
 - **Apr 27, 12:53 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:55 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:57 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
+- **Apr 27, 01:11 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
