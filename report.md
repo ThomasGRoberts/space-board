@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 52 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3604,3 +3604,4 @@
 - **Apr 27, 01:07 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 01:35 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Apr 27, 01:37 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Apr 27, 01:39 PM** - China Will Launch the Long March 3B Rocket (supercluster)
