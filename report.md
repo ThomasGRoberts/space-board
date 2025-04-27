@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 25 | 51 |
+| spacenews | 3 | 4 | 26 | 52 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 49 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 40 | 40 |
 
@@ -3667,3 +3667,4 @@
 - **Apr 27, 09:47 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 27, 10:02 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 10:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
+- **Apr 27, 10:32 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)

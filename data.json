@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-27T00:02:01.788540+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a7093f627e666c4aacf01fe82ab5646",
+    "trigger_count": 0,
+    "current_item_id": "5678137d38e6d0a77db6a3f753ba91bf",
     "data": [
         {
             "id": "c0f401bb8e24f8eb0c626e30a06d23ab",
@@ -9190,9 +9190,12 @@
             "source": "spacenews",
             "text": "Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network",
             "source_link": "https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-27T22:17:35.179109Z"
+            "fetched_datetime": "2025-04-27T22:17:35.179109Z",
+            "shown_at": [
+                "2025-04-27T22:32:04.345141Z"
+            ]
         }
     ]
 }
