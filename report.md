@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -3626,3 +3626,4 @@
 - **Apr 27, 06:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 06:03 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
 - **Apr 27, 06:17 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 27, 06:31 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
