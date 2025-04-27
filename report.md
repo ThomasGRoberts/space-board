@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -3639,3 +3639,4 @@
 - **Apr 27, 11:13 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 11:27 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
 - **Apr 27, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
