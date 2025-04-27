@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 26 | 52 |
-| breaking_defense | 0 | 0 | 23 | 49 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3638,3 +3638,4 @@
 - **Apr 27, 10:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 11:13 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 11:27 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
+- **Apr 27, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
