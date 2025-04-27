@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3629,3 +3629,4 @@
 - **Apr 27, 10:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 27, 10:32 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
 - **Apr 27, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 10:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
