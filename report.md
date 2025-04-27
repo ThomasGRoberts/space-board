@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 26 | 52 |
+| spacenews | 1 | 6 | 27 | 53 |
 | breaking_defense | 0 | 2 | 25 | 51 |
-| supercluster | 0 | 0 | 176 | 350 |
+| supercluster | 0 | 0 | 175 | 350 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3968,3 +3968,4 @@
 - **Apr 27, 07:33 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 07:35 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 07:37 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 27, 07:39 AM** - Taking ‘remote care’ to new heights — how space can shape the future of healthcare (spacenews)
