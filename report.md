@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 27 | 53 |
-| breaking_defense | 0 | 1 | 24 | 50 |
-| supercluster | 0 | 0 | 175 | 346 |
+| breaking_defense | 0 | 1 | 25 | 51 |
+| supercluster | 0 | 0 | 175 | 345 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4021,3 +4021,4 @@
 - **Apr 27, 12:37 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 27, 12:39 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 12:53 PM** - Axiom Space names new CEO (spacenews)
+- **Apr 27, 01:07 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
