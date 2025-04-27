@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 26 | 52 |
 | breaking_defense | 0 | 0 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -3645,3 +3645,4 @@
 - **Apr 27, 11:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 11:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 27, 11:55 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
