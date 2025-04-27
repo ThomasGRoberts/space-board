@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 1 | 23 | 49 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -3616,3 +3616,4 @@
 - **Apr 27, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 05:07 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 27, 05:21 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 27, 05:35 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
