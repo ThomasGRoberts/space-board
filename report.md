@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 47 |
-| breaking_defense | 1 | 1 | 19 | 43 |
+| breaking_defense | 1 | 1 | 20 | 44 |
 | nyt | 0 | 0 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -3668,3 +3668,4 @@
 - **Apr 28, 09:53 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 10:07 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 10:21 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
+- **Apr 28, 10:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
