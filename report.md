@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 24 | 50 |
+| spacenews | 4 | 5 | 23 | 50 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -3679,3 +3679,4 @@
 - **Apr 28, 09:38 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 28, 09:42 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 10:05 AM** - Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready (spacenews)
+- **Apr 28, 10:29 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
