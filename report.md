@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 44 |
 | nyt | 0 | 0 | 19 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 16 | 16 |
+| supercluster | 2 | 2 | 17 | 17 |
 
 # Shown Order
 
@@ -3663,3 +3663,4 @@
 - **Apr 28, 03:41 PM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 28, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
