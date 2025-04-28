@@ -2,7 +2,6 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 14 | 14 |
 | spacenews | 3 | 4 | 26 | 52 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
@@ -3604,23 +3603,9 @@
 - **Apr 27, 10:02 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 10:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 27, 10:32 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
-- **Apr 27, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 10:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 27, 11:13 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 11:27 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
-- **Apr 27, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Apr 27, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 11:55 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 28, 12:09 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 12:23 AM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
