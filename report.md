@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 14 | 14 |
-| spacenews | 3 | 4 | 25 | 51 |
+| spacenews | 3 | 4 | 26 | 52 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 49 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3623,3 +3623,4 @@
 - **Apr 27, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 27, 11:55 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 28, 12:09 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 28, 12:23 AM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
