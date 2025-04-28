@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 47 |
+| spacenews | 5 | 6 | 22 | 46 |
 | breaking_defense | 1 | 1 | 20 | 44 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -3660,4 +3660,3 @@
 - **Apr 28, 07:17 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 28, 07:31 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 07:59 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
-- **Apr 28, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
