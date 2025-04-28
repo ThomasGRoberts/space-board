@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -3670,3 +3670,4 @@
 - **Apr 28, 08:23 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 08:41 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 09:00 AM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
+- **Apr 28, 09:20 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
