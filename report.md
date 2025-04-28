@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 22 | 48 |
+| spacenews | 4 | 6 | 23 | 49 |
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3650,3 +3650,4 @@
 - **Apr 28, 02:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 02:41 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
