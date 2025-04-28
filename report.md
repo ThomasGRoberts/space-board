@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 25 | 51 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3612,3 +3612,4 @@
 - **Apr 28, 12:23 AM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 28, 12:38 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 01:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 28, 01:53 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
