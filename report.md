@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 43 | 43 |
+| supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
 
@@ -3702,3 +3702,4 @@
 - **Apr 28, 07:17 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 28, 07:31 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
