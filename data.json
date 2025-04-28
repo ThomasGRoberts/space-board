@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
+    "trigger_count": 0,
+    "current_item_id": "2fb4f433db644b27cccaf43eb99d2ac5",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9118,6 +9118,18 @@
             "fetched_datetime": "2025-03-03T17:47:29.275532Z",
             "shown_at": [
                 "2025-03-03T17:47:29.692470Z"
+            ]
+        },
+        {
+            "id": "2fb4f433db644b27cccaf43eb99d2ac5",
+            "source": "breaking_defense",
+            "text": "Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense",
+            "source_link": "https://breakingdefense.com/2025/04/shipbuilding-golden-dome-and-munitions-win-big-as-gop-unveils-150b-bill-to-boost-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T00:38:38.887975Z",
+            "shown_at": [
+                "2025-04-28T00:38:39.409441Z"
             ]
         }
     ]
