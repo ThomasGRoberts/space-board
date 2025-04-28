@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 35 | 35 |
+| supercluster | 2 | 2 | 36 | 36 |
 
 # Shown Order
 
@@ -3691,3 +3691,4 @@
 - **Apr 28, 06:07 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 06:21 PM** - Spire Global closes stalled $241 million maritime sale (spacenews)
 - **Apr 28, 06:35 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 28, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
