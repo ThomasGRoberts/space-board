@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -3651,13 +3651,6 @@
 - **Apr 28, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:41 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
-- **Apr 28, 02:55 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 02:57 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 02:59 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 03:02 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 03:05 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 03:07 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 03:09 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 03:11 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 03:25 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 03:41 PM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
@@ -3681,13 +3674,6 @@
 - **Apr 28, 05:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 05:23 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 05:37 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
-- **Apr 28, 05:51 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 05:53 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 05:55 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 05:57 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 05:59 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 06:02 PM** - China Will Launch Communication Satellites (supercluster)
-- **Apr 28, 06:06 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 06:07 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 06:21 PM** - Spire Global closes stalled $241 million maritime sale (spacenews)
 - **Apr 28, 06:35 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
