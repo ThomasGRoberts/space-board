@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 24 | 48 |
-| breaking_defense | 1 | 1 | 21 | 44 |
+| spacenews | 4 | 6 | 23 | 48 |
+| breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 28 | 28 |
@@ -3678,3 +3678,4 @@
 - **Apr 28, 05:04 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 05:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
