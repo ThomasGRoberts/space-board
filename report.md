@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 25 | 52 |
+| spacenews | 3 | 4 | 25 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3611,4 +3611,4 @@
 - **Apr 28, 12:09 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 12:23 AM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 28, 12:38 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
-- **Apr 28, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
