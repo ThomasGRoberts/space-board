@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "65e7021a139a7ac008037b19a27eb92b",
+    "trigger_count": 0,
+    "current_item_id": "af84c0071c31ce82c125c479b1d5df0c",
     "data": [
         {
             "id": "5678137d38e6d0a77db6a3f753ba91bf",
@@ -9229,6 +9229,18 @@
                 "2025-04-28T17:59:27.412348Z",
                 "2025-04-28T18:02:08.682166Z",
                 "2025-04-28T18:06:03.972368Z"
+            ]
+        },
+        {
+            "id": "af84c0071c31ce82c125c479b1d5df0c",
+            "source": "spacenews",
+            "text": "Spire Global closes stalled $241 million maritime sale",
+            "source_link": "https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T18:21:31.936192Z",
+            "shown_at": [
+                "2025-04-28T18:21:32.556887Z"
             ]
         }
     ]
