@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 44 |
 | nyt | 0 | 0 | 19 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 8 | 8 |
+| supercluster | 2 | 2 | 9 | 9 |
 
 # Shown Order
 
@@ -3652,3 +3652,4 @@
 - **Apr 28, 02:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:41 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 02:55 PM** - China Will Launch Communication Satellites (supercluster)
+- **Apr 28, 02:57 PM** - China Will Launch Communication Satellites (supercluster)
