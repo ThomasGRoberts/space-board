@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 0 | 0 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 9 | 9 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3643,12 +3643,6 @@
 - **Apr 28, 12:51 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 28, 01:08 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 01:21 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
-- **Apr 28, 02:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:12 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:19 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:21 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 28, 02:23 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 28, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 02:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Apr 28, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)

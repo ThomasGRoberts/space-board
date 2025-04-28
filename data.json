@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 1,
+    "trigger_count": 2,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
@@ -9160,26 +9160,6 @@
             ]
         },
         {
-            "id": "c272eca5490c96f5f23e88f0bda5518d",
-            "source": "supercluster",
-            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
-            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-28T14:29:00.000Z",
-            "time_remaining": "0d 00h 05m",
-            "fetched_datetime": "2025-04-28T14:09:44.533596Z",
-            "shown_at": [
-                "2025-04-28T14:09:45.459443Z",
-                "2025-04-28T14:12:01.221496Z",
-                "2025-04-28T14:13:32.731514Z",
-                "2025-04-28T14:15:32.411037Z",
-                "2025-04-28T14:19:36.260148Z",
-                "2025-04-28T14:21:52.887695Z",
-                "2025-04-28T14:23:39.817218Z"
-            ]
-        },
-        {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from California",
@@ -9187,11 +9167,12 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-04-28T20:39:00.000Z",
-            "time_remaining": "0d 06h 11m",
+            "time_remaining": "0d 06h 09m",
             "fetched_datetime": "2025-04-28T14:25:31.104864Z",
             "shown_at": [
                 "2025-04-28T14:25:32.048618Z",
-                "2025-04-28T14:27:36.143016Z"
+                "2025-04-28T14:27:36.143016Z",
+                "2025-04-28T14:29:17.450933Z"
             ]
         }
     ]
