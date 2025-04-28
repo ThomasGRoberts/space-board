@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 28 | 28 |
+| supercluster | 2 | 2 | 29 | 29 |
 
 # Shown Order
 
@@ -3681,3 +3681,4 @@
 - **Apr 28, 05:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 05:23 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 05:37 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
+- **Apr 28, 05:51 PM** - China Will Launch Communication Satellites (supercluster)
