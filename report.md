@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 23 | 49 |
+| spacenews | 3 | 4 | 24 | 50 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3659,3 +3659,4 @@
 - **Apr 28, 07:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 28, 07:13 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 07:29 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 28, 07:45 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
