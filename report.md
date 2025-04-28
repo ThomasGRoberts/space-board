@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 22 | 49 |
-| breaking_defense | 1 | 1 | 20 | 44 |
+| breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 0 | 19 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 14 | 14 |
@@ -3658,3 +3658,4 @@
 - **Apr 28, 03:05 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 03:07 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 03:09 PM** - China Will Launch Communication Satellites (supercluster)
+- **Apr 28, 03:11 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
