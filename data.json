@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "65e7021a139a7ac008037b19a27eb92b",
+    "trigger_count": 0,
+    "current_item_id": "6b8d2efb2f56f82ccef92692721790f6",
     "data": [
         {
             "id": "5678137d38e6d0a77db6a3f753ba91bf",
@@ -9183,6 +9183,18 @@
                 "2025-04-28T09:32:30.211471Z",
                 "2025-04-28T09:35:55.830054Z",
                 "2025-04-28T09:38:13.061570Z"
+            ]
+        },
+        {
+            "id": "6b8d2efb2f56f82ccef92692721790f6",
+            "source": "spacenews",
+            "text": "Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready",
+            "source_link": "https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T10:05:30.073014Z",
+            "shown_at": [
+                "2025-04-28T10:05:30.563958Z"
             ]
         }
     ]
