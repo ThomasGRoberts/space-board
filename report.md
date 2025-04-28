@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 23 | 48 |
 | breaking_defense | 1 | 1 | 21 | 45 |
-| nyt | 0 | 0 | 19 | 44 |
+| nyt | 0 | 0 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 21 | 21 |
 
@@ -3669,3 +3669,4 @@
 - **Apr 28, 04:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Apr 28, 04:11 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **Apr 28, 04:25 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
