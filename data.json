@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "4a829aa48ac245018fdd007bb338c70f",
     "data": [
         {
@@ -9240,14 +9240,11 @@
             "source": "supercluster",
             "text": "China Will Launch Communication Satellites",
             "source_link": "https://www.supercluster.com/launches/satnet-leo-group-03",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-04-28T20:05:37.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-04-28T20:13:44.830157Z",
-            "shown_at": [
-                "2025-04-28T20:13:45.959746Z"
-            ]
+            "fetched_datetime": "2025-04-28T20:15:33.307984Z"
         }
     ]
 }
