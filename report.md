@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 21 | 46 |
+| spacenews | 4 | 7 | 22 | 47 |
 | breaking_defense | 1 | 1 | 19 | 43 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3667,3 +3667,4 @@
 - **Apr 28, 09:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 09:53 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 10:07 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 28, 10:21 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "adb753a5328fd95e3831e29a44805df5",
+    "trigger_count": 0,
+    "current_item_id": "637ba07531c00a55df18ef7f42ba56b3",
     "data": [
         {
             "id": "5678137d38e6d0a77db6a3f753ba91bf",
@@ -9205,6 +9205,18 @@
                 "2025-04-28T21:47:25.697431Z",
                 "2025-04-28T21:49:29.801249Z",
                 "2025-04-28T21:51:35.614439Z"
+            ]
+        },
+        {
+            "id": "637ba07531c00a55df18ef7f42ba56b3",
+            "source": "spacenews",
+            "text": "China and Malaysia to study international equatorial spaceport project",
+            "source_link": "https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T22:21:54.224374Z",
+            "shown_at": [
+                "2025-04-28T22:21:54.939131Z"
             ]
         }
     ]
