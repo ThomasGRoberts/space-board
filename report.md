@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 22 | 48 |
+| spacenews | 4 | 6 | 23 | 49 |
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3660,3 +3660,4 @@
 - **Apr 28, 03:09 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 03:11 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 03:25 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 28, 03:41 PM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
