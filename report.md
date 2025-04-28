@@ -3639,3 +3639,4 @@
 - **Apr 28, 05:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 28, 05:17 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 05:31 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 28, 05:47 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
