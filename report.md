@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 24 | 50 |
 | breaking_defense | 1 | 1 | 22 | 47 |
-| nyt | 0 | 0 | 21 | 47 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3614,3 +3614,4 @@
 - **Apr 28, 01:53 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 28, 02:07 AM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
 - **Apr 28, 03:09 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 28, 03:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
