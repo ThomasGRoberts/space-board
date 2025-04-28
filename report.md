@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 25 | 51 |
-| breaking_defense | 1 | 1 | 22 | 48 |
+| breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -3613,4 +3613,4 @@
 - **Apr 28, 12:38 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 01:53 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 28, 02:07 AM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
-- **Apr 28, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 28, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
