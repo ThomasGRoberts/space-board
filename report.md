@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 23 | 49 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 0 | 0 | 21 | 46 |
+| nyt | 0 | 0 | 20 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -3691,3 +3691,4 @@
 - **Apr 28, 11:11 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 11:25 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 28, 11:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 28, 11:41 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
