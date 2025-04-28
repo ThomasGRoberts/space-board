@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 23 | 48 |
-| breaking_defense | 1 | 1 | 21 | 44 |
+| breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 35 | 35 |
@@ -3688,3 +3688,4 @@
 - **Apr 28, 05:59 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 06:02 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 06:06 PM** - China Will Launch Communication Satellites (supercluster)
+- **Apr 28, 06:07 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
