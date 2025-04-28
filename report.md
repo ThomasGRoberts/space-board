@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -3660,3 +3660,4 @@
 - **Apr 28, 07:13 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 07:29 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 28, 07:45 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
+- **Apr 28, 08:02 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
