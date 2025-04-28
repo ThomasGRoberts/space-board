@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 43 |
 | nyt | 0 | 0 | 18 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3662,3 +3662,4 @@
 - **Apr 28, 07:59 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 09:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 09:45 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 28, 09:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
