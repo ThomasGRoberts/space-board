@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -3650,3 +3650,4 @@
 - **Apr 28, 06:17 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 06:32 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 28, 06:45 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
+- **Apr 28, 06:59 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
