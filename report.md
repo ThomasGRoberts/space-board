@@ -3649,3 +3649,4 @@
 - **Apr 28, 06:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 28, 06:17 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 06:32 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 28, 06:45 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
