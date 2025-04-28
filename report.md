@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 21 | 46 |
+| spacenews | 5 | 6 | 22 | 47 |
 | breaking_defense | 1 | 1 | 20 | 43 |
 | nyt | 0 | 0 | 18 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3665,3 +3665,4 @@
 - **Apr 28, 09:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 09:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 09:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 28, 09:53 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
