@@ -3613,4 +3613,4 @@
 - **Apr 28, 12:38 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 01:53 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 28, 02:07 AM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
-- **Apr 28, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 28, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
