@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -3700,3 +3700,4 @@
 - **Apr 28, 11:53 AM** - Head of FAA’s commercial space office takes buyout (spacenews)
 - **Apr 28, 12:07 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 28, 12:21 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
+- **Apr 28, 12:37 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
