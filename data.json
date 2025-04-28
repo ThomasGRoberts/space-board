@@ -1,9 +1,74 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-27T00:02:01.788540+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
+    "trigger_count": 3,
     "current_item_id": "eb7b79a76ab7d4e3a65e4eb69e3c4683",
     "data": [
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-9",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-28T00:51:00.000Z",
+            "time_remaining": "0d 00h 57m",
+            "fetched_datetime": "2025-04-27T22:45:42.407888Z",
+            "shown_at": [
+                "2025-04-27T22:45:43.069636Z",
+                "2025-04-27T22:47:40.423274Z",
+                "2025-04-27T22:49:42.468597Z",
+                "2025-04-27T22:51:27.836314Z",
+                "2025-04-27T22:53:34.913070Z",
+                "2025-04-27T22:55:19.404747Z",
+                "2025-04-27T22:57:25.758308Z",
+                "2025-04-27T23:41:41.423715Z",
+                "2025-04-27T23:43:24.283783Z",
+                "2025-04-27T23:45:33.882205Z",
+                "2025-04-27T23:47:37.726336Z",
+                "2025-04-27T23:49:41.256938Z",
+                "2025-04-27T23:51:35.858844Z",
+                "2025-04-27T23:53:23.532239Z"
+            ]
+        },
+        {
+            "id": "5678137d38e6d0a77db6a3f753ba91bf",
+            "source": "spacenews",
+            "text": "Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network",
+            "source_link": "https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-27T22:17:35.179109Z",
+            "shown_at": [
+                "2025-04-27T22:32:04.345141Z"
+            ]
+        },
+        {
+            "id": "0a7093f627e666c4aacf01fe82ab5646",
+            "source": "spacenews",
+            "text": "Armed services committees propose $150 billion funding boost for defense",
+            "source_link": "https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-27T22:17:35.179053Z",
+            "shown_at": [
+                "2025-04-27T22:17:35.938365Z"
+            ]
+        },
+        {
+            "id": "5fc94a421b8353ecb21ea74a80e39e63",
+            "source": "spacenews",
+            "text": "Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg",
+            "source_link": "https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-27T10:57:25.552078Z",
+            "shown_at": [
+                "2025-04-27T10:57:26.108292Z",
+                "2025-04-27T18:03:45.116778Z",
+                "2025-04-27T23:27:28.355099Z"
+            ]
+        },
         {
             "id": "c0f401bb8e24f8eb0c626e30a06d23ab",
             "source": "spacenews",
@@ -9051,128 +9116,6 @@
             "fetched_datetime": "2025-03-03T17:47:29.275532Z",
             "shown_at": [
                 "2025-03-03T17:47:29.692470Z"
-            ]
-        },
-        {
-            "id": "f59c791cc2bc7709fbcc5cba9c07a76d",
-            "source": "spacenews",
-            "text": "End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper",
-            "source_link": "https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T13:41:22.950094Z",
-            "shown_at": [
-                "2025-03-03T13:41:23.557449Z",
-                "2025-03-07T06:13:32.240976Z",
-                "2025-03-07T08:51:40.682230Z"
-            ]
-        },
-        {
-            "id": "b7bc375fe95cd193914d6c3de5c2d8f6",
-            "source": "spacenews",
-            "text": "Radiation as a service: How the private sector can protect America’s space infrastructure",
-            "source_link": "https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T13:13:14.360595Z",
-            "shown_at": [
-                "2025-03-03T13:13:14.909684Z",
-                "2025-03-05T05:41:36.609119Z",
-                "2025-03-05T18:43:52.383533Z"
-            ]
-        },
-        {
-            "id": "2920dd192001db0abe45b662c53f1df3",
-            "source": "aidy",
-            "text": "U.S. Space Programs Face Budget Strain Amid Legislative and Funding Debates",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T09:25:41.334548Z",
-            "shown_at": [
-                "2025-03-03T09:25:41.701153Z",
-                "2025-03-03T10:47:40.575814Z",
-                "2025-03-03T17:05:30.144640Z",
-                "2025-03-03T19:57:38.198345Z",
-                "2025-03-05T03:45:29.509886Z",
-                "2025-03-05T07:33:44.575246Z",
-                "2025-03-05T15:15:44.539708Z",
-                "2025-03-06T03:49:52.576448Z",
-                "2025-03-06T06:09:33.602364Z",
-                "2025-03-07T01:55:24.942434Z",
-                "2025-03-07T16:13:38.694616Z",
-                "2025-03-07T19:27:27.812473Z",
-                "2025-03-08T14:35:33.768908Z",
-                "2025-03-08T17:15:34.185576Z",
-                "2025-03-08T21:09:28.990945Z",
-                "2025-03-09T04:51:47.193619Z",
-                "2025-03-09T06:03:25.565216Z",
-                "2025-03-09T08:29:28.237704Z"
-            ]
-        },
-        {
-            "id": "5fc94a421b8353ecb21ea74a80e39e63",
-            "source": "spacenews",
-            "text": "Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg",
-            "source_link": "https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T10:57:25.552078Z",
-            "shown_at": [
-                "2025-04-27T10:57:26.108292Z",
-                "2025-04-27T18:03:45.116778Z",
-                "2025-04-27T23:27:28.355099Z"
-            ]
-        },
-        {
-            "id": "0a7093f627e666c4aacf01fe82ab5646",
-            "source": "spacenews",
-            "text": "Armed services committees propose $150 billion funding boost for defense",
-            "source_link": "https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T22:17:35.179053Z",
-            "shown_at": [
-                "2025-04-27T22:17:35.938365Z"
-            ]
-        },
-        {
-            "id": "5678137d38e6d0a77db6a3f753ba91bf",
-            "source": "spacenews",
-            "text": "Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network",
-            "source_link": "https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T22:17:35.179109Z",
-            "shown_at": [
-                "2025-04-27T22:32:04.345141Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-9",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-28T00:51:00.000Z",
-            "time_remaining": "0d 00h 57m",
-            "fetched_datetime": "2025-04-27T22:45:42.407888Z",
-            "shown_at": [
-                "2025-04-27T22:45:43.069636Z",
-                "2025-04-27T22:47:40.423274Z",
-                "2025-04-27T22:49:42.468597Z",
-                "2025-04-27T22:51:27.836314Z",
-                "2025-04-27T22:53:34.913070Z",
-                "2025-04-27T22:55:19.404747Z",
-                "2025-04-27T22:57:25.758308Z",
-                "2025-04-27T23:41:41.423715Z",
-                "2025-04-27T23:43:24.283783Z",
-                "2025-04-27T23:45:33.882205Z",
-                "2025-04-27T23:47:37.726336Z",
-                "2025-04-27T23:49:41.256938Z",
-                "2025-04-27T23:51:35.858844Z",
-                "2025-04-27T23:53:23.532239Z"
             ]
         }
     ]
