@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 24 | 49 |
+| spacenews | 4 | 6 | 23 | 48 |
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 34 | 34 |
+| supercluster | 2 | 2 | 35 | 35 |
 
 # Shown Order
 
@@ -3687,3 +3687,4 @@
 - **Apr 28, 05:57 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 05:59 PM** - China Will Launch Communication Satellites (supercluster)
 - **Apr 28, 06:02 PM** - China Will Launch Communication Satellites (supercluster)
+- **Apr 28, 06:06 PM** - China Will Launch Communication Satellites (supercluster)
