@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 43 |
 | nyt | 0 | 0 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3671,3 +3671,4 @@
 - **Apr 28, 10:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 28, 10:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 10:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 28, 10:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
