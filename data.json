@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
     "data": [
         {
@@ -9191,30 +9191,6 @@
             ]
         },
         {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
-            "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-04-28T23:00:00.000Z",
-            "time_remaining": "0d 00h 00m",
-            "fetched_datetime": "2025-04-28T21:43:34.208789Z",
-            "shown_at": [
-                "2025-04-28T21:43:34.953514Z",
-                "2025-04-28T21:45:28.146686Z",
-                "2025-04-28T21:47:25.697431Z",
-                "2025-04-28T21:49:29.801249Z",
-                "2025-04-28T21:51:35.614439Z",
-                "2025-04-28T22:49:32.973875Z",
-                "2025-04-28T22:51:09.518853Z",
-                "2025-04-28T22:53:25.557340Z",
-                "2025-04-28T22:55:29.551594Z",
-                "2025-04-28T22:57:36.735336Z",
-                "2025-04-28T22:59:26.815756Z"
-            ]
-        },
-        {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
             "source": "spacenews",
             "text": "China and Malaysia to study international equatorial spaceport project",
@@ -9224,6 +9200,20 @@
             "fetched_datetime": "2025-04-28T22:21:54.224374Z",
             "shown_at": [
                 "2025-04-28T22:21:54.939131Z"
+            ]
+        },
+        {
+            "id": "110293b72efbc6c3cf4f5a3972811451",
+            "source": "supercluster",
+            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-04-28T23:00:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-04-28T23:01:55.393872Z",
+            "shown_at": [
+                "2025-04-28T23:01:55.948575Z"
             ]
         }
     ]

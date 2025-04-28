@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 47 |
 | breaking_defense | 1 | 1 | 20 | 43 |
-| nyt | 0 | 0 | 19 | 42 |
+| nyt | 0 | 0 | 18 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3660,18 +3660,8 @@
 - **Apr 28, 07:17 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 28, 07:31 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 07:59 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
-- **Apr 28, 09:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 09:45 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 09:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 09:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 09:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Apr 28, 09:53 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 10:07 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 10:21 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
 - **Apr 28, 10:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
-- **Apr 28, 10:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 10:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 10:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 10:55 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 10:57 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Apr 28, 10:59 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Apr 28, 11:01 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
