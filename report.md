@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -3690,3 +3690,4 @@
 - **Apr 28, 10:57 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 11:11 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **Apr 28, 11:25 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
+- **Apr 28, 11:39 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
