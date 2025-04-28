@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
+    "trigger_count": 0,
+    "current_item_id": "a6650c8317d84037eb10a5f86ad9a67f",
     "data": [
         {
             "id": "5678137d38e6d0a77db6a3f753ba91bf",
@@ -9213,6 +9213,18 @@
             "fetched_datetime": "2025-04-28T10:05:30.073014Z",
             "shown_at": [
                 "2025-04-28T10:05:30.563958Z"
+            ]
+        },
+        {
+            "id": "a6650c8317d84037eb10a5f86ad9a67f",
+            "source": "spacenews",
+            "text": "Head of FAA’s commercial space office takes buyout",
+            "source_link": "https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T11:53:29.848594Z",
+            "shown_at": [
+                "2025-04-28T11:53:31.040098Z"
             ]
         }
     ]
