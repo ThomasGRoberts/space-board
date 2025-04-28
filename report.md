@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 0 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3644,3 +3644,4 @@
 - **Apr 28, 01:08 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 28, 01:21 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 02:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 28, 02:12 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
