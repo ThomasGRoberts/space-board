@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 41 |
 | nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3678,3 +3678,4 @@
 - **Apr 29, 10:21 AM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
 - **Apr 29, 10:35 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 10:49 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 29, 11:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
