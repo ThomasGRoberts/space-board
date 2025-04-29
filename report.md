@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 23 | 47 |
+| spacenews | 9 | 13 | 24 | 48 |
 | breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3710,3 +3710,4 @@
 - **Apr 29, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 04:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 04:53 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 29, 05:07 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
