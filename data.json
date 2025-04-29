@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "23319938f6b904418e3c4a27356de10e",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9172,17 +9172,17 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "23319938f6b904418e3c4a27356de10e",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-10",
+            "text": "Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping",
+            "source_link": "https://www.supercluster.com/launches/biomass",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-29T02:34:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-29T03:33:35.592436Z",
+            "target_datetime": "2025-04-29T09:15:00.000Z",
+            "time_remaining": "0d 05h 38m",
+            "fetched_datetime": "2025-04-29T03:36:05.562554Z",
             "shown_at": [
-                "2025-04-29T03:33:37.549025Z"
+                "2025-04-29T03:36:06.678208Z"
             ]
         }
     ]
