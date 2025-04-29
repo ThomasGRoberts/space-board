@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 20 | 39 |
 | nyt | 2 | 2 | 21 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -3774,3 +3774,4 @@
 - **Apr 29, 11:02 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 29, 11:15 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 11:29 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
+- **Apr 29, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
