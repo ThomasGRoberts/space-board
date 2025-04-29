@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 22 | 45 |
 | breaking_defense | 1 | 2 | 18 | 39 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 2 | 2 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -3699,3 +3699,4 @@
 - **Apr 29, 01:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 01:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 01:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 29, 01:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
