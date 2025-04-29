@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 2 | 20 | 42 |
 | nyt | 1 | 1 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -3647,31 +3646,11 @@
 - **Apr 28, 10:07 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 10:21 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
 - **Apr 28, 10:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
-- **Apr 29, 12:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 12:15 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 12:29 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 12:43 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
-- **Apr 29, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 01:13 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 01:27 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 01:41 AM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
-- **Apr 29, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 02:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 02:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 02:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Apr 29, 02:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 02:12 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 02:27 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
