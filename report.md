@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 23 | 45 |
+| spacenews | 7 | 11 | 22 | 45 |
 | breaking_defense | 1 | 2 | 18 | 38 |
 | nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3687,3 +3687,4 @@
 - **Apr 29, 01:32 PM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 29, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 02:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
