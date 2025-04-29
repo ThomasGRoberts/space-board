@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "e1f5425b325583b6cd0fe407c23e2044",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9429,6 +9429,18 @@
             "fetched_datetime": "2025-04-29T22:33:27.534083Z",
             "shown_at": [
                 "2025-04-29T22:33:28.197336Z"
+            ]
+        },
+        {
+            "id": "e1f5425b325583b6cd0fe407c23e2044",
+            "source": "spacenews",
+            "text": "Space Force embraces commercial tech in major overhaul of surveillance satellite program",
+            "source_link": "https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T23:57:35.599984Z",
+            "shown_at": [
+                "2025-04-29T23:57:36.770839Z"
             ]
         }
     ]

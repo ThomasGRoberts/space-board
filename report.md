@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 27 | 47 |
+| spacenews | 11 | 15 | 28 | 48 |
 | breaking_defense | 1 | 2 | 20 | 39 |
-| nyt | 2 | 2 | 21 | 39 |
+| nyt | 2 | 2 | 21 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 66 | 66 |
 
@@ -3781,3 +3781,4 @@
 - **Apr 29, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 11:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 11:57 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
