@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 38 |
 | nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3685,3 +3685,4 @@
 - **Apr 29, 12:47 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 01:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **Apr 29, 01:32 PM** - Northwood raises $30 million to establish ground station network (spacenews)
+- **Apr 29, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
