@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 24 | 47 |
 | breaking_defense | 1 | 2 | 18 | 39 |
-| nyt | 2 | 2 | 18 | 38 |
+| nyt | 2 | 2 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -3741,3 +3741,4 @@
 - **Apr 29, 07:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 07:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 07:59 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **Apr 29, 08:13 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
