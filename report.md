@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 45 |
 | breaking_defense | 1 | 2 | 18 | 42 |
-| nyt | 1 | 1 | 18 | 41 |
+| nyt | 1 | 1 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -3663,3 +3663,4 @@
 - **Apr 29, 01:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 01:13 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
