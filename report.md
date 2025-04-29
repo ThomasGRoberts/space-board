@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 44 |
-| breaking_defense | 1 | 2 | 20 | 42 |
+| breaking_defense | 1 | 2 | 20 | 41 |
 | nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3709,3 +3709,4 @@
 - **Apr 29, 08:25 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 29, 08:39 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 08:53 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **Apr 29, 09:07 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
