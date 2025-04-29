@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 39 |
 | nyt | 2 | 2 | 20 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -3764,3 +3764,4 @@
 - **Apr 29, 10:05 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 10:19 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
 - **Apr 29, 10:33 PM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
+- **Apr 29, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
