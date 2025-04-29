@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 23 | 46 |
-| breaking_defense | 1 | 2 | 18 | 39 |
+| breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 1 | 1 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -3691,3 +3691,4 @@
 - **Apr 29, 12:02 PM** - Apex raises $200 million to accelerate satellite production (spacenews)
 - **Apr 29, 12:17 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
 - **Apr 29, 12:32 PM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
+- **Apr 29, 12:47 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
