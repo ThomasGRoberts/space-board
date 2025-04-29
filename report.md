@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 44 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 19 | 40 |
+| nyt | 1 | 1 | 18 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3665,3 +3665,4 @@
 - **Apr 29, 04:25 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:27 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:29 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
+- **Apr 29, 04:32 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
