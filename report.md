@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 20 | 39 |
 | nyt | 2 | 2 | 21 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -3776,3 +3776,4 @@
 - **Apr 29, 11:29 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
 - **Apr 29, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
