@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 44 |
-| breaking_defense | 1 | 2 | 19 | 39 |
+| spacenews | 7 | 11 | 23 | 45 |
+| breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 19 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -3690,3 +3690,4 @@
 - **Apr 29, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 02:43 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 02:57 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **Apr 29, 03:11 PM** - GPS disruption and satellite maneuvers now hallmarks of modern warfare (spacenews)
