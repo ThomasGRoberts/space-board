@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -3733,3 +3733,4 @@
 - **Apr 29, 07:02 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 07:17 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 07:31 PM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
+- **Apr 29, 07:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
