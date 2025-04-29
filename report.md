@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 44 |
-| breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 19 | 41 |
+| breaking_defense | 1 | 2 | 20 | 42 |
+| nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -3698,3 +3698,4 @@
 - **Apr 29, 07:23 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 07:25 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
 - **Apr 29, 07:41 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **Apr 29, 07:55 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
