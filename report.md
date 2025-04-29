@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 19 | 43 |
+| spacenews | 3 | 7 | 20 | 44 |
 | breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3675,3 +3675,4 @@
 - **Apr 29, 08:53 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 29, 10:16 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 10:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 29, 10:21 AM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
