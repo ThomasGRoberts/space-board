@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 42 |
 | nyt | 1 | 1 | 18 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3657,3 +3657,4 @@
 - **Apr 29, 12:29 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 12:43 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
 - **Apr 29, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
