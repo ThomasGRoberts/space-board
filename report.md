@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 46 |
+| spacenews | 4 | 7 | 20 | 45 |
 | breaking_defense | 1 | 2 | 18 | 42 |
 | nyt | 1 | 1 | 18 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3656,3 +3656,4 @@
 - **Apr 29, 12:15 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 12:29 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 12:43 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
+- **Apr 29, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
