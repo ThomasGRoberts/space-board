@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 21 | 44 |
 | breaking_defense | 1 | 2 | 19 | 40 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -3687,3 +3687,4 @@
 - **Apr 29, 11:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 11:17 AM** - Atlas launches first operational Project Kuiper satellites (spacenews)
 - **Apr 29, 11:32 AM** - China launches third batch of Guowang megaconstellation satellites (spacenews)
+- **Apr 29, 11:47 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
