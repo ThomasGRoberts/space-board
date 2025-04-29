@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 43 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 19 | 40 |
+| nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3673,4 +3673,4 @@
 - **Apr 29, 08:25 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 29, 08:39 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 08:53 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
-- **Apr 29, 09:47 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
+- **Apr 29, 09:49 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
