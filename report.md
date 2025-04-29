@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 45 |
+| spacenews | 7 | 11 | 23 | 46 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 18 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3700,3 +3700,4 @@
 - **Apr 29, 01:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 01:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 01:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 29, 01:32 PM** - Northwood raises $30 million to establish ground station network (spacenews)
