@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 18 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -3712,3 +3712,4 @@
 - **Apr 29, 04:53 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 29, 05:07 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 29, 05:21 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 29, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
