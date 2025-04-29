@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "a3e847f2b9b39a4bda9c9122a408cfdf",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9158,6 +9158,18 @@
                 "2025-04-29T00:09:26.152805Z",
                 "2025-04-29T00:11:12.540058Z",
                 "2025-04-29T00:14:02.074971Z"
+            ]
+        },
+        {
+            "id": "a3e847f2b9b39a4bda9c9122a408cfdf",
+            "source": "nyt",
+            "text": "Amazon Launches First 27 Project Kuiper Internet Satellites",
+            "source_link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T00:15:35.452152Z",
+            "shown_at": [
+                "2025-04-29T00:15:36.578141Z"
             ]
         }
     ]
