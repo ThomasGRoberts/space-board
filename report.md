@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 44 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 19 | 40 |
+| nyt | 1 | 1 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -3707,3 +3707,4 @@
 - **Apr 29, 08:21 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 08:23 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 08:25 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
+- **Apr 29, 08:39 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
