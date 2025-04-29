@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 45 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 18 | 40 |
+| nyt | 1 | 1 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -3667,3 +3667,4 @@
 - **Apr 29, 04:29 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:32 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:35 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
+- **Apr 29, 04:49 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
