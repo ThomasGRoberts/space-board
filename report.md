@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 45 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 18 | 40 |
+| nyt | 1 | 1 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
 
@@ -3687,3 +3687,4 @@
 - **Apr 29, 06:25 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 06:27 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 06:29 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
+- **Apr 29, 06:43 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
