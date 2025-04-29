@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "adb753a5328fd95e3831e29a44805df5",
+    "trigger_count": 0,
+    "current_item_id": "417886723542cd78c7ca8cc88379ce55",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9337,6 +9337,18 @@
             "fetched_datetime": "2025-04-29T16:07:34.125130Z",
             "shown_at": [
                 "2025-04-29T16:07:34.694403Z"
+            ]
+        },
+        {
+            "id": "417886723542cd78c7ca8cc88379ce55",
+            "source": "spacenews",
+            "text": "Alpha launch of Lockheed tech demo satellite fails",
+            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T18:33:34.078865Z",
+            "shown_at": [
+                "2025-04-29T18:33:34.736986Z"
             ]
         }
     ]

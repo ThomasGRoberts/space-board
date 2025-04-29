@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 23 | 47 |
+| spacenews | 9 | 14 | 24 | 48 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 19 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3722,3 +3722,4 @@
 - **Apr 29, 05:49 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 29, 06:05 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 29, 06:19 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 29, 06:33 PM** - Alpha launch of Lockheed tech demo satellite fails (spacenews)
