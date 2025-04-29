@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 24 | 47 |
 | breaking_defense | 1 | 2 | 18 | 39 |
-| nyt | 2 | 2 | 18 | 38 |
+| nyt | 2 | 2 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -3731,3 +3731,4 @@
 - **Apr 29, 06:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 07:02 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **Apr 29, 07:17 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
