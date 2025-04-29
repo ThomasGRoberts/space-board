@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 45 |
+| spacenews | 4 | 7 | 20 | 44 |
 | breaking_defense | 1 | 2 | 19 | 41 |
-| nyt | 1 | 1 | 18 | 40 |
+| nyt | 1 | 1 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3657,3 +3657,4 @@
 - **Apr 29, 02:27 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 03:36 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 03:37 AM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
+- **Apr 29, 03:51 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
