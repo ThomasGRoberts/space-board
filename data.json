@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dfb58e354b9b66ff02fb860a06dcf7fb",
+    "trigger_count": 0,
+    "current_item_id": "ee57d1456f95052bef2d58ba2869849a",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9400,6 +9400,18 @@
             "shown_at": [
                 "2025-04-29T21:23:47.394563Z",
                 "2025-04-29T22:19:37.513607Z"
+            ]
+        },
+        {
+            "id": "ee57d1456f95052bef2d58ba2869849a",
+            "source": "spacenews",
+            "text": "Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions",
+            "source_link": "https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T22:33:27.534083Z",
+            "shown_at": [
+                "2025-04-29T22:33:28.197336Z"
             ]
         }
     ]
