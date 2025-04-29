@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 1 | 1 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -3692,3 +3692,4 @@
 - **Apr 29, 12:17 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
 - **Apr 29, 12:32 PM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
 - **Apr 29, 12:47 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **Apr 29, 01:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
