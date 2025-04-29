@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 44 |
-| breaking_defense | 1 | 2 | 19 | 42 |
+| breaking_defense | 1 | 2 | 19 | 41 |
 | nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -3655,4 +3655,4 @@
 - **Apr 29, 01:41 AM** - SpaceX launches third mid-inclination rideshare mission (spacenews)
 - **Apr 29, 02:12 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 02:27 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
-- **Apr 29, 03:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
