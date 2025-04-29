@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 24 | 47 |
+| spacenews | 9 | 14 | 25 | 48 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 19 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3742,3 +3742,4 @@
 - **Apr 29, 07:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 07:59 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **Apr 29, 08:13 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 29, 08:27 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
