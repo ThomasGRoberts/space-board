@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 19 | 42 |
+| spacenews | 4 | 7 | 20 | 43 |
 | breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3685,3 +3685,4 @@
 - **Apr 29, 11:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 11:13 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 11:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
+- **Apr 29, 11:17 AM** - Atlas launches first operational Project Kuiper satellites (spacenews)
