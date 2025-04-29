@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 45 |
+| spacenews | 7 | 11 | 23 | 46 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 1 | 1 | 18 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3690,3 +3690,4 @@
 - **Apr 29, 11:47 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 12:02 PM** - Apex raises $200 million to accelerate satellite production (spacenews)
 - **Apr 29, 12:17 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
+- **Apr 29, 12:32 PM** - Slingshot targets international market with sovereign space tracking systems (spacenews)

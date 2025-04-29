@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6391db278d080f7903fb5036af340841",
+    "trigger_count": 0,
+    "current_item_id": "084e2f3c1a4fc69cbe8253769194f9c9",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9261,6 +9261,18 @@
             "fetched_datetime": "2025-04-29T12:02:04.893088Z",
             "shown_at": [
                 "2025-04-29T12:17:26.010181Z"
+            ]
+        },
+        {
+            "id": "084e2f3c1a4fc69cbe8253769194f9c9",
+            "source": "spacenews",
+            "text": "Slingshot targets international market with sovereign space tracking systems",
+            "source_link": "https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T12:32:08.583858Z",
+            "shown_at": [
+                "2025-04-29T12:32:09.255386Z"
             ]
         }
     ]
