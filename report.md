@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 2 | 2 | 18 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -3673,18 +3672,9 @@
 - **Apr 29, 08:25 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 29, 08:39 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 08:53 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
-- **Apr 29, 10:16 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 10:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 10:21 AM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
 - **Apr 29, 10:35 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 29, 10:49 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
-- **Apr 29, 11:03 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:05 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:08 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:09 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:11 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:13 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 11:15 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 11:17 AM** - Atlas launches first operational Project Kuiper satellites (spacenews)
 - **Apr 29, 11:32 AM** - China launches third batch of Guowang megaconstellation satellites (spacenews)
 - **Apr 29, 11:47 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
@@ -3692,12 +3682,5 @@
 - **Apr 29, 12:17 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
 - **Apr 29, 12:32 PM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
 - **Apr 29, 12:47 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
-- **Apr 29, 01:02 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:05 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:07 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:09 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:11 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:13 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
-- **Apr 29, 01:15 PM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 01:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **Apr 29, 01:32 PM** - Northwood raises $30 million to establish ground station network (spacenews)
