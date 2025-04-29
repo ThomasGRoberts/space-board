@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 24 | 47 |
 | breaking_defense | 1 | 2 | 18 | 39 |
-| nyt | 2 | 2 | 18 | 37 |
+| nyt | 2 | 2 | 19 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -3701,3 +3701,4 @@
 - **Apr 29, 03:39 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 29, 03:53 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
 - **Apr 29, 04:07 PM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
+- **Apr 29, 04:24 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
