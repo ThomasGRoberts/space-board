@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 20 | 44 |
-| breaking_defense | 1 | 2 | 20 | 42 |
+| breaking_defense | 1 | 2 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -3669,3 +3669,4 @@
 - **Apr 29, 04:35 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 29, 04:49 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 05:03 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 29, 05:17 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
