@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a3e847f2b9b39a4bda9c9122a408cfdf",
+    "trigger_count": 0,
+    "current_item_id": "687cfa9fd954918b0b9051f4efa43e6c",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9170,6 +9170,18 @@
             "fetched_datetime": "2025-04-29T00:15:35.452152Z",
             "shown_at": [
                 "2025-04-29T00:15:36.578141Z"
+            ]
+        },
+        {
+            "id": "687cfa9fd954918b0b9051f4efa43e6c",
+            "source": "breaking_defense",
+            "text": "Amazon launches first 27 operational Kuiper satellites to compete with Starlink",
+            "source_link": "https://breakingdefense.com/2025/04/amazon-launches-first-27-operational-kuiper-satellites-to-compete-with-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T00:29:04.683737Z",
+            "shown_at": [
+                "2025-04-29T00:29:05.224271Z"
             ]
         }
     ]
