@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 4,
-    "current_item_id": "23319938f6b904418e3c4a27356de10e",
+    "trigger_count": 5,
+    "current_item_id": "c272eca5490c96f5f23e88f0bda5518d",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9190,15 +9190,18 @@
             ]
         },
         {
-            "id": "23319938f6b904418e3c4a27356de10e",
+            "id": "c272eca5490c96f5f23e88f0bda5518d",
             "source": "supercluster",
-            "text": "Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping",
-            "source_link": "https://www.supercluster.com/launches/biomass",
-            "shown": false,
+            "text": "Firefly Will Launch Elytra Spacecraft for Lockheed Martin",
+            "source_link": "https://www.supercluster.com/launches/message-in-a-booster",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-29T09:15:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-29T10:13:26.897171Z"
+            "target_datetime": "2025-04-29T13:37:00.000Z",
+            "time_remaining": "0d 03h 20m",
+            "fetched_datetime": "2025-04-29T10:16:05.331660Z",
+            "shown_at": [
+                "2025-04-29T10:16:06.456432Z"
+            ]
         }
     ]
 }
