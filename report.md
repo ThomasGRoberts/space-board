@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 24 | 47 |
 | breaking_defense | 1 | 2 | 18 | 39 |
-| nyt | 2 | 2 | 18 | 39 |
+| nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -3713,3 +3713,4 @@
 - **Apr 29, 05:07 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 29, 05:21 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **Apr 29, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 29, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
