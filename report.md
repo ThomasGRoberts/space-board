@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 44 |
+| spacenews | 4 | 7 | 21 | 45 |
 | breaking_defense | 1 | 2 | 19 | 41 |
 | nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3696,3 +3696,4 @@
 - **Apr 29, 07:19 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 07:21 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 07:23 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
+- **Apr 29, 07:25 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
