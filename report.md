@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 21 | 44 |
+| spacenews | 6 | 10 | 22 | 45 |
 | breaking_defense | 1 | 2 | 18 | 39 |
 | nyt | 1 | 1 | 19 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3689,3 +3689,4 @@
 - **Apr 29, 11:32 AM** - China launches third batch of Guowang megaconstellation satellites (spacenews)
 - **Apr 29, 11:47 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **Apr 29, 12:02 PM** - Apex raises $200 million to accelerate satellite production (spacenews)
+- **Apr 29, 12:17 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fb84a16c56bda11f333d5dfd3859a32a",
+    "trigger_count": 0,
+    "current_item_id": "6391db278d080f7903fb5036af340841",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9256,9 +9256,12 @@
             "source": "spacenews",
             "text": "Amazon establishes contact with first operational Kuiper satellites",
             "source_link": "https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-04-29T12:02:04.893088Z"
+            "fetched_datetime": "2025-04-29T12:02:04.893088Z",
+            "shown_at": [
+                "2025-04-29T12:17:26.010181Z"
+            ]
         }
     ]
 }
