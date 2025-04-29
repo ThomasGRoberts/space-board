@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c1f4c83a50d5644e2ab06895befe72a",
+    "trigger_count": 0,
+    "current_item_id": "9dcdf6958c9f35fe88a7faa779eadd18",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9224,6 +9224,18 @@
             "fetched_datetime": "2025-04-29T11:17:31.827066Z",
             "shown_at": [
                 "2025-04-29T11:17:32.397101Z"
+            ]
+        },
+        {
+            "id": "9dcdf6958c9f35fe88a7faa779eadd18",
+            "source": "spacenews",
+            "text": "China launches third batch of Guowang megaconstellation satellites",
+            "source_link": "https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T11:32:07.237234Z",
+            "shown_at": [
+                "2025-04-29T11:32:07.975149Z"
             ]
         }
     ]
