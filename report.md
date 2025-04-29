@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 45 |
+| spacenews | 8 | 12 | 23 | 46 |
 | breaking_defense | 1 | 2 | 19 | 39 |
 | nyt | 2 | 2 | 18 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3699,3 +3699,4 @@
 - **Apr 29, 03:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 03:39 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **Apr 29, 03:53 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)

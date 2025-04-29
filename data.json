@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2fb4f433db644b27cccaf43eb99d2ac5",
+    "trigger_count": 0,
+    "current_item_id": "7108e380ec82411f955158d6e12b52f9",
     "data": [
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
@@ -9292,6 +9292,18 @@
                 "2025-04-29T15:33:34.630746Z",
                 "2025-04-29T15:35:27.294936Z",
                 "2025-04-29T15:37:29.082942Z"
+            ]
+        },
+        {
+            "id": "7108e380ec82411f955158d6e12b52f9",
+            "source": "spacenews",
+            "text": "Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite",
+            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T15:53:35.805111Z",
+            "shown_at": [
+                "2025-04-29T15:53:36.355000Z"
             ]
         }
     ]
