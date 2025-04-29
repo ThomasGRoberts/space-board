@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 44 |
+| spacenews | 4 | 7 | 21 | 45 |
 | breaking_defense | 1 | 2 | 19 | 41 |
 | nyt | 1 | 1 | 18 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3666,3 +3666,4 @@
 - **Apr 29, 04:27 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:29 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
 - **Apr 29, 04:32 AM** - Arianespace to Launch ESA’s Biomass Satellite for Global Forest Mapping (supercluster)
+- **Apr 29, 04:35 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
