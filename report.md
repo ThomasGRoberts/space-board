@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 20 | 43 |
 | breaking_defense | 1 | 2 | 19 | 40 |
-| nyt | 1 | 1 | 18 | 39 |
+| nyt | 1 | 1 | 19 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -3676,3 +3676,4 @@
 - **Apr 29, 10:16 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 10:19 AM** - Firefly Will Launch Elytra Spacecraft for Lockheed Martin (supercluster)
 - **Apr 29, 10:21 AM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
+- **Apr 29, 10:35 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
