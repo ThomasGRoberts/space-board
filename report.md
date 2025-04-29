@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 23 | 47 |
+| spacenews | 9 | 13 | 24 | 47 |
 | breaking_defense | 1 | 2 | 19 | 40 |
 | nyt | 2 | 2 | 18 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3720,3 +3720,4 @@
 - **Apr 29, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 05:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 05:49 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 29, 06:05 PM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
