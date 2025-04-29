@@ -1,9 +1,73 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-28T00:02:03.167871+00:00",
-    "trigger_count": 0,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
+    "trigger_count": 1,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
+        {
+            "id": "637ba07531c00a55df18ef7f42ba56b3",
+            "source": "spacenews",
+            "text": "China and Malaysia to study international equatorial spaceport project",
+            "source_link": "https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T22:21:54.224374Z",
+            "shown_at": [
+                "2025-04-28T22:21:54.939131Z"
+            ]
+        },
+        {
+            "id": "af84c0071c31ce82c125c479b1d5df0c",
+            "source": "spacenews",
+            "text": "Spire Global closes stalled $241 million maritime sale",
+            "source_link": "https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T18:21:31.936192Z",
+            "shown_at": [
+                "2025-04-28T18:21:32.556887Z"
+            ]
+        },
+        {
+            "id": "a6650c8317d84037eb10a5f86ad9a67f",
+            "source": "spacenews",
+            "text": "Head of FAA’s commercial space office takes buyout",
+            "source_link": "https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T11:53:29.848594Z",
+            "shown_at": [
+                "2025-04-28T11:53:31.040098Z"
+            ]
+        },
+        {
+            "id": "6b8d2efb2f56f82ccef92692721790f6",
+            "source": "spacenews",
+            "text": "Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready",
+            "source_link": "https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T10:05:30.073014Z",
+            "shown_at": [
+                "2025-04-28T10:05:30.563958Z"
+            ]
+        },
+        {
+            "id": "2fb4f433db644b27cccaf43eb99d2ac5",
+            "source": "breaking_defense",
+            "text": "Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense",
+            "source_link": "https://breakingdefense.com/2025/04/shipbuilding-golden-dome-and-munitions-win-big-as-gop-unveils-150b-bill-to-boost-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-28T00:38:38.887975Z",
+            "shown_at": [
+                "2025-04-28T00:38:39.409441Z",
+                "2025-04-28T05:17:29.399485Z",
+                "2025-04-28T07:13:42.197435Z",
+                "2025-04-28T16:11:48.217559Z",
+                "2025-04-28T22:35:43.066988Z"
+            ]
+        },
         {
             "id": "5678137d38e6d0a77db6a3f753ba91bf",
             "source": "spacenews",
@@ -9078,140 +9142,18 @@
             ]
         },
         {
-            "id": "b145b5fef0abaad175f4ecca05ea1c38",
-            "source": "spacenews",
-            "text": "Voyager to adopt partnership strategy for Golden Dome program",
-            "source_link": "https://spacenews.com/voyager-to-adopt-partnership-strategy-for-golden-dome-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T20:13:36.319230Z",
-            "shown_at": [
-                "2025-03-03T20:13:36.821790Z",
-                "2025-03-05T12:09:52.149994Z",
-                "2025-03-07T02:37:30.050493Z",
-                "2025-03-09T12:37:48.946020Z"
-            ]
-        },
-        {
-            "id": "a343f1a36b6574da3fb3796872edf014",
-            "source": "breaking_defense",
-            "text": "How to stop American AI from becoming the next Myspace",
-            "source_link": "https://breakingdefense.com/2025/03/how-to-stop-american-ai-from-becoming-the-next-myspace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T19:29:32.554069Z",
-            "shown_at": [
-                "2025-03-03T19:29:33.059683Z",
-                "2025-03-04T15:27:33.236174Z",
-                "2025-03-04T16:39:31.868079Z",
-                "2025-03-04T21:09:41.975127Z",
-                "2025-03-05T07:48:14.244923Z",
-                "2025-03-06T00:29:47.481082Z",
-                "2025-03-07T03:25:35.452748Z",
-                "2025-03-09T17:53:37.949842Z",
-                "2025-03-10T15:31:54.925537Z",
-                "2025-03-10T18:55:49.878952Z"
-            ]
-        },
-        {
-            "id": "02b59a513a799296446add7c933e1e9e",
-            "source": "spacenews",
-            "text": "Falcon 9 booster lost after droneship landing",
-            "source_link": "https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T18:43:34.419058Z",
-            "shown_at": [
-                "2025-03-03T18:43:34.962469Z",
-                "2025-03-06T08:03:36.577262Z"
-            ]
-        },
-        {
-            "id": "a4523199a91e0140d5794cb1e376e845",
-            "source": "spacenews",
-            "text": "Maxar wins mystery commercial GEO order amid market slowdown",
-            "source_link": "https://spacenews.com/maxar-wins-mystery-commercial-geo-order-amid-market-slowdown/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T17:47:29.275532Z",
-            "shown_at": [
-                "2025-03-03T17:47:29.692470Z"
-            ]
-        },
-        {
-            "id": "2fb4f433db644b27cccaf43eb99d2ac5",
-            "source": "breaking_defense",
-            "text": "Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense",
-            "source_link": "https://breakingdefense.com/2025/04/shipbuilding-golden-dome-and-munitions-win-big-as-gop-unveils-150b-bill-to-boost-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T00:38:38.887975Z",
-            "shown_at": [
-                "2025-04-28T00:38:39.409441Z",
-                "2025-04-28T05:17:29.399485Z",
-                "2025-04-28T07:13:42.197435Z",
-                "2025-04-28T16:11:48.217559Z",
-                "2025-04-28T22:35:43.066988Z"
-            ]
-        },
-        {
-            "id": "6b8d2efb2f56f82ccef92692721790f6",
-            "source": "spacenews",
-            "text": "Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready",
-            "source_link": "https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T10:05:30.073014Z",
-            "shown_at": [
-                "2025-04-28T10:05:30.563958Z"
-            ]
-        },
-        {
-            "id": "a6650c8317d84037eb10a5f86ad9a67f",
-            "source": "spacenews",
-            "text": "Head of FAA’s commercial space office takes buyout",
-            "source_link": "https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T11:53:29.848594Z",
-            "shown_at": [
-                "2025-04-28T11:53:31.040098Z"
-            ]
-        },
-        {
-            "id": "af84c0071c31ce82c125c479b1d5df0c",
-            "source": "spacenews",
-            "text": "Spire Global closes stalled $241 million maritime sale",
-            "source_link": "https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T18:21:31.936192Z",
-            "shown_at": [
-                "2025-04-28T18:21:32.556887Z"
-            ]
-        },
-        {
-            "id": "637ba07531c00a55df18ef7f42ba56b3",
-            "source": "spacenews",
-            "text": "China and Malaysia to study international equatorial spaceport project",
-            "source_link": "https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T22:21:54.224374Z",
-            "shown_at": [
-                "2025-04-28T22:21:54.939131Z"
-            ]
-        },
-        {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-ka-01",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-10",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-04-28T23:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-04-28T23:59:35.306451Z"
+            "target_datetime": "2025-04-29T02:34:00.000Z",
+            "time_remaining": "0d 02h 31m",
+            "fetched_datetime": "2025-04-29T00:02:08.905596Z",
+            "shown_at": [
+                "2025-04-29T00:02:10.004878Z"
+            ]
         }
     ]
 }

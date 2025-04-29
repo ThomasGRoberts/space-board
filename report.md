@@ -2,18 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 20 | 46 |
+| spacenews | 4 | 7 | 20 | 45 |
 | breaking_defense | 1 | 1 | 19 | 42 |
 | nyt | 0 | 0 | 17 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
-- **Mar 03, 05:47 PM** - Maxar wins mystery commercial GEO order amid market slowdown (spacenews)
-- **Mar 03, 06:43 PM** - Falcon 9 booster lost after droneship landing (spacenews)
-- **Mar 03, 07:29 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
-- **Mar 03, 08:13 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 03, 09:39 PM** - BAE lands $151 million contract for missile-warning satellite ground system (spacenews)
 - **Mar 03, 10:07 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
 - **Mar 03, 11:17 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
@@ -23,16 +19,13 @@
 - **Mar 04, 02:45 PM** - SpaceX scrubs Starship launch (spacenews)
 - **Mar 04, 02:59 PM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 04, 03:13 PM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
-- **Mar 04, 03:27 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 04, 04:11 PM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
 - **Mar 04, 04:25 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
-- **Mar 04, 04:39 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 04, 05:07 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 04, 05:21 PM** - Space Systems Command chief backs ‘important’ work of Space Development Agency (breaking_defense)
 - **Mar 04, 06:33 PM** - New thinking needed to safeguard our spectrum (breaking_defense)
 - **Mar 04, 07:15 PM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 04, 08:41 PM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
-- **Mar 04, 09:09 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 04, 09:23 PM** - Isar Aerospace secures first Asian customer ahead of debut launch (spacenews)
 - **Mar 04, 09:39 PM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 04, 10:22 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
@@ -47,13 +40,11 @@
 - **Mar 05, 04:15 AM** - Astranis demonstrates GPS capability in race for Space Force contract (spacenews)
 - **Mar 05, 04:29 AM** - NASA to launch Earth science smallsat mission on Firefly Alpha (spacenews)
 - **Mar 05, 06:38 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
-- **Mar 05, 07:48 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 05, 08:03 AM** - Spire demonstrates optical links between cubesats (spacenews)
 - **Mar 05, 08:35 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 05, 09:19 AM** - Space Force chief calls for greater focus on ‘space superiority’ (spacenews)
 - **Mar 05, 09:47 AM** - Apex’s first satellite marks one year in orbit (spacenews)
 - **Mar 05, 11:55 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
-- **Mar 05, 12:09 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 05, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 05, 01:37 PM** - ISS astronauts reject call for early retirement of the station (spacenews)
 - **Mar 05, 01:51 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
@@ -74,7 +65,6 @@
 - **Mar 05, 10:35 PM** - Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort (spacenews)
 - **Mar 05, 11:17 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
 - **Mar 05, 11:45 PM** - NASA still working to restore contact with Lunar Trailblazer (spacenews)
-- **Mar 06, 12:29 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 06, 12:57 AM** - Space launch executives warn U.S. infrastructure unprepared for coming launch surge (spacenews)
 - **Mar 06, 01:27 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 06, 02:23 AM** - SpaceX Scrubs 8th Starship Rocket Test Flight (nyt)
@@ -85,7 +75,6 @@
 - **Mar 06, 05:13 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 06, 06:23 AM** - Secret Space Force payloads monitor China’s satellite surveillance network, official says (breaking_defense)
 - **Mar 06, 07:35 AM** - As industry frets licensing bottlenecks, NOAA reinstates top commercial space officials: Sources (breaking_defense)
-- **Mar 06, 08:03 AM** - Falcon 9 booster lost after droneship landing (spacenews)
 - **Mar 06, 08:47 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 06, 09:32 AM** - Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference (spacenews)
 - **Mar 06, 10:17 AM** - New thinking needed to safeguard our spectrum (breaking_defense)
@@ -123,10 +112,8 @@
 - **Mar 07, 01:27 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
 - **Mar 07, 01:41 AM** - SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight (nyt)
 - **Mar 07, 02:09 AM** - EU space monitoring program moves toward ‘strategic autonomy’ (breaking_defense)
-- **Mar 07, 02:37 AM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 07, 02:51 AM** - Why NASA Is Trying to Go Back to the Moon (nyt)
 - **Mar 07, 03:09 AM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
-- **Mar 07, 03:25 AM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 07, 04:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 07, 04:21 AM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 07, 04:35 AM** - Space-based capabilities are critical to enabling a missile shield for America (breaking_defense)
@@ -279,7 +266,6 @@
 - **Mar 09, 11:39 AM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 09, 11:53 AM** - SDA again postpones launch of first ‘operational’ data relay, missile warning satellites (breaking_defense)
 - **Mar 09, 12:23 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
-- **Mar 09, 12:37 PM** - Voyager to adopt partnership strategy for Golden Dome program (spacenews)
 - **Mar 09, 12:53 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 09, 01:09 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 09, 01:37 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
@@ -297,7 +283,6 @@
 - **Mar 09, 05:11 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 05:25 PM** - AST SpaceMobile charts another path for European space sovereignty (spacenews)
 - **Mar 09, 05:39 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
-- **Mar 09, 05:53 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 09, 06:23 PM** - U.S. Space Policy: New Cybersecurity Rules Proposed for Space Systems Amid Artemis Delays (aidy)
 - **Mar 09, 06:37 PM** - Regulations are in the crosshairs. But which ones? (spacenews)
 - **Mar 09, 06:51 PM** - SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch (nyt)
@@ -369,7 +354,6 @@
 - **Mar 10, 02:45 PM** - Artemis Program Oversight Intensifies Amid Legislative Hearings to Outpace China by 2030 (aidy)
 - **Mar 10, 02:59 PM** - Starship Explosions Show SpaceX No Longer Defying Gravity (nyt)
 - **Mar 10, 03:17 PM** - Voyager, Palantir deepen alliance to develop military space tech (spacenews)
-- **Mar 10, 03:31 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 10, 03:45 PM** - Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec (breaking_defense)
 - **Mar 10, 04:15 PM** - Space Force Command Reforms Lead U.S. Space Policy Changes Today (aidy)
 - **Mar 10, 04:29 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
@@ -381,7 +365,6 @@
 - **Mar 10, 06:11 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 10, 06:26 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 10, 06:41 PM** - SES invests in Lynk Global to break into direct-to-device market (spacenews)
-- **Mar 10, 06:55 PM** - How to stop American AI from becoming the next Myspace (breaking_defense)
 - **Mar 10, 07:23 PM** - Space Force R&D Boosted with $18.55B, FY2025 Budget Maintains NASA/NOAA Levels (aidy)
 - **Mar 10, 07:37 PM** - Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight (nyt)
 - **Mar 10, 07:51 PM** - Eric Schmidt Joins Relativity Space as C.E.O. (nyt)
@@ -3664,3 +3647,4 @@
 - **Apr 28, 10:07 PM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 28, 10:21 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
 - **Apr 28, 10:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **Apr 29, 12:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
