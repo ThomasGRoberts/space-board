@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 28 | 54 |
 | supercluster | 0 | 1 | 168 | 227 |
 | nyt | 0 | 2 | 24 | 44 |
-| breaking_defense | 1 | 2 | 23 | 43 |
+| breaking_defense | 1 | 2 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3912,3 +3912,4 @@
 - **Apr 30, 11:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 11:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 11:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
