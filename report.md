@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 28 | 49 |
+| spacenews | 11 | 15 | 29 | 50 |
 | supercluster | 1 | 1 | 115 | 115 |
 | nyt | 1 | 2 | 22 | 40 |
 | breaking_defense | 0 | 1 | 21 | 40 |
@@ -3748,3 +3748,4 @@
 - **Apr 30, 06:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 06:39 AM** - Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready (spacenews)
