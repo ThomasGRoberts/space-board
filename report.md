@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 29 | 49 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | nyt | 1 | 2 | 22 | 41 |
 | breaking_defense | 0 | 1 | 21 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3741,3 +3741,4 @@
 - **Apr 30, 05:41 AM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
 - **Apr 30, 05:55 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 30, 06:11 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 30, 06:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
