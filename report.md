@@ -5,7 +5,7 @@
 | spacenews | 11 | 15 | 28 | 48 |
 | supercluster | 1 | 1 | 73 | 73 |
 | nyt | 1 | 2 | 21 | 39 |
-| breaking_defense | 0 | 1 | 20 | 38 |
+| breaking_defense | 0 | 1 | 21 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3689,3 +3689,4 @@
 - **Apr 30, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 12:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 12:55 AM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
+- **Apr 30, 01:11 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
