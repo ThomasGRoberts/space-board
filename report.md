@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 29 | 49 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | nyt | 1 | 2 | 22 | 40 |
 | breaking_defense | 0 | 1 | 21 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3711,3 +3711,4 @@
 - **Apr 30, 02:53 AM** - China Report: Debris risks, startup funding and previewing Space Day (spacenews)
 - **Apr 30, 03:07 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 30, 03:21 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
+- **Apr 30, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
