@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 15 | 28 | 48 |
+| spacenews | 11 | 15 | 29 | 49 |
 | supercluster | 1 | 1 | 94 | 94 |
 | nyt | 1 | 2 | 22 | 40 |
 | breaking_defense | 0 | 1 | 21 | 40 |
@@ -3718,3 +3718,4 @@
 - **Apr 30, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 03:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 03:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 03:49 AM** - Spire Global closes stalled $241 million maritime sale (spacenews)
