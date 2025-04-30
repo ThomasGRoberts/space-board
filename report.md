@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 29 | 49 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 | nyt | 1 | 2 | 22 | 41 |
 | breaking_defense | 0 | 1 | 21 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3731,3 +3731,4 @@
 - **Apr 30, 04:45 AM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 30, 04:59 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 30, 05:14 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **Apr 30, 05:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
