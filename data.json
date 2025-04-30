@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b3328c91062b4206ea87418a99c986df",
+    "trigger_count": 0,
+    "current_item_id": "97e458d692bb02debcd0d554495eb349",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9349,6 +9349,18 @@
             "fetched_datetime": "2025-04-30T13:05:52.444173Z",
             "shown_at": [
                 "2025-04-30T13:05:53.189042Z"
+            ]
+        },
+        {
+            "id": "97e458d692bb02debcd0d554495eb349",
+            "source": "breaking_defense",
+            "text": "Changes in FCC rules to support GPS alternatives could impact DoD",
+            "source_link": "https://breakingdefense.com/2025/04/changes-in-fcc-rules-to-support-gps-alternatives-could-impact-dod/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T13:19:39.992085Z",
+            "shown_at": [
+                "2025-04-30T13:19:40.732152Z"
             ]
         }
     ]

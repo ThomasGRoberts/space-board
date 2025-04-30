@@ -5,7 +5,7 @@
 | spacenews | 10 | 17 | 29 | 51 |
 | supercluster | 1 | 1 | 157 | 157 |
 | nyt | 0 | 2 | 22 | 41 |
-| breaking_defense | 0 | 1 | 22 | 40 |
+| breaking_defense | 1 | 2 | 23 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3811,3 +3811,4 @@
 - **Apr 30, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 01:05 PM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)
+- **Apr 30, 01:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
