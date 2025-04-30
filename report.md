@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 28 | 47 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 | nyt | 1 | 2 | 21 | 39 |
 | breaking_defense | 0 | 1 | 20 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3681,3 +3681,4 @@
 - **Apr 29, 11:57 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
 - **Apr 30, 12:12 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 30, 12:27 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 30, 12:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
