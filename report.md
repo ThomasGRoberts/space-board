@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 28 | 48 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | nyt | 1 | 2 | 21 | 40 |
 | breaking_defense | 0 | 1 | 20 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3691,3 +3691,4 @@
 - **Apr 30, 12:55 AM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
 - **Apr 30, 01:11 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 30, 01:27 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 30, 01:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
