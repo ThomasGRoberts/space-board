@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 28 | 52 |
-| supercluster | 0 | 1 | 166 | 192 |
+| supercluster | 0 | 1 | 167 | 193 |
 | nyt | 0 | 2 | 24 | 42 |
 | breaking_defense | 1 | 2 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3864,3 +3864,4 @@
 - **Apr 30, 06:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 30, 06:23 PM** - China launches third batch of Guowang megaconstellation satellites (spacenews)
 - **Apr 30, 06:37 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **Apr 30, 06:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
