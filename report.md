@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 27 | 54 |
+| spacenews | 10 | 20 | 28 | 55 |
 | supercluster | 0 | 1 | 168 | 227 |
 | nyt | 0 | 2 | 24 | 45 |
 | breaking_defense | 1 | 2 | 24 | 44 |
@@ -3914,3 +3914,4 @@
 - **Apr 30, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 11:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 30, 11:23 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **Apr 30, 11:37 PM** - Waltz defends ‘Golden Dome’ missile shield amid partisan divide (spacenews)
