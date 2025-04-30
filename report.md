@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 28 | 54 |
 | supercluster | 0 | 1 | 168 | 213 |
-| nyt | 0 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 24 | 44 |
 | breaking_defense | 1 | 2 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3893,3 +3893,4 @@
 - **Apr 30, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 09:01 PM** - NASA investigating problem with Psyche electric thrusters (spacenews)
 - **Apr 30, 09:15 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **Apr 30, 09:29 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
