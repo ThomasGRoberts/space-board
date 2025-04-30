@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 16 | 31 | 50 |
 | supercluster | 1 | 1 | 136 | 136 |
-| nyt | 1 | 2 | 22 | 41 |
+| nyt | 1 | 2 | 23 | 42 |
 | breaking_defense | 0 | 1 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3781,3 +3781,4 @@
 - **Apr 30, 09:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 10:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 10:05 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **Apr 30, 10:19 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
