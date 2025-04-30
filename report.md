@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 28 | 51 |
+| spacenews | 11 | 19 | 29 | 52 |
 | supercluster | 0 | 1 | 168 | 192 |
 | nyt | 0 | 2 | 23 | 42 |
 | breaking_defense | 1 | 2 | 24 | 42 |
@@ -3862,3 +3862,4 @@
 - **Apr 30, 06:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:09 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **Apr 30, 06:23 PM** - China launches third batch of Guowang megaconstellation satellites (spacenews)
