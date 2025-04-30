@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 28 | 52 |
 | supercluster | 0 | 1 | 168 | 199 |
 | nyt | 0 | 2 | 24 | 42 |
-| breaking_defense | 1 | 2 | 23 | 41 |
+| breaking_defense | 1 | 2 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3871,3 +3871,4 @@
 - **Apr 30, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 07:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 07:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 07:05 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
