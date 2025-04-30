@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 28 | 51 |
+| spacenews | 11 | 18 | 29 | 52 |
 | supercluster | 1 | 1 | 164 | 164 |
 | nyt | 0 | 2 | 23 | 41 |
 | breaking_defense | 1 | 2 | 23 | 41 |
@@ -3820,3 +3820,4 @@
 - **Apr 30, 01:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 02:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 02:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 02:05 PM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
