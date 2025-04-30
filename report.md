@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 30 | 52 |
 | supercluster | 0 | 1 | 161 | 164 |
-| nyt | 0 | 2 | 23 | 41 |
+| nyt | 0 | 2 | 24 | 42 |
 | breaking_defense | 1 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3823,3 +3823,4 @@
 - **Apr 30, 02:05 PM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
 - **Apr 30, 02:22 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 30, 02:35 PM** - Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034 (spacenews)
+- **Apr 30, 02:49 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
