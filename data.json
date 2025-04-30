@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a3e847f2b9b39a4bda9c9122a408cfdf",
+    "trigger_count": 0,
+    "current_item_id": "8eda1feab195f3679e83a80ae92b9cf9",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9277,6 +9277,18 @@
             "fetched_datetime": "2025-04-30T08:03:25.066182Z",
             "shown_at": [
                 "2025-04-30T08:03:25.609090Z"
+            ]
+        },
+        {
+            "id": "8eda1feab195f3679e83a80ae92b9cf9",
+            "source": "spacenews",
+            "text": "China is making stainless steel tanks for its future super heavy-lift rockets",
+            "source_link": "https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T09:35:42.286668Z",
+            "shown_at": [
+                "2025-04-30T09:35:43.894160Z"
             ]
         }
     ]
