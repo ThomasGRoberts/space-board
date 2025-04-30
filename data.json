@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "147b726a6e05009dea2cebb942b68e0f",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9316,6 +9316,18 @@
             "fetched_datetime": "2025-04-30T09:35:42.286668Z",
             "shown_at": [
                 "2025-04-30T09:35:43.894160Z"
+            ]
+        },
+        {
+            "id": "147b726a6e05009dea2cebb942b68e0f",
+            "source": "spacenews",
+            "text": "Vega launches Biomass satellite",
+            "source_link": "https://spacenews.com/vega-launches-biomass-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T12:03:26.066428Z",
+            "shown_at": [
+                "2025-04-30T12:03:26.739749Z"
             ]
         }
     ]
