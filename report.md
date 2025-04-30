@@ -5,7 +5,7 @@
 | spacenews | 11 | 18 | 29 | 52 |
 | supercluster | 1 | 1 | 164 | 164 |
 | nyt | 0 | 2 | 23 | 41 |
-| breaking_defense | 1 | 2 | 23 | 41 |
+| breaking_defense | 1 | 2 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3821,3 +3821,4 @@
 - **Apr 30, 02:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 02:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 02:05 PM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
+- **Apr 30, 02:22 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
