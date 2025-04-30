@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 15 | 29 | 49 |
 | supercluster | 1 | 1 | 101 | 101 |
-| nyt | 1 | 2 | 21 | 40 |
+| nyt | 1 | 2 | 22 | 41 |
 | breaking_defense | 0 | 1 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3730,3 +3730,4 @@
 - **Apr 30, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 04:45 AM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 30, 04:59 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **Apr 30, 05:14 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
