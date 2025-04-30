@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 28 | 50 |
+| spacenews | 10 | 17 | 29 | 51 |
 | supercluster | 1 | 1 | 157 | 157 |
 | nyt | 1 | 2 | 23 | 41 |
 | breaking_defense | 0 | 1 | 22 | 41 |
@@ -3810,3 +3810,4 @@
 - **Apr 30, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Apr 30, 01:05 PM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)

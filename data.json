@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "b3328c91062b4206ea87418a99c986df",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9337,6 +9337,18 @@
             "fetched_datetime": "2025-04-30T12:03:26.066428Z",
             "shown_at": [
                 "2025-04-30T12:03:26.739749Z"
+            ]
+        },
+        {
+            "id": "b3328c91062b4206ea87418a99c986df",
+            "source": "spacenews",
+            "text": "If European leaders want to beef up defense in space, they should look to the Space Development Agency",
+            "source_link": "https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T13:05:52.444173Z",
+            "shown_at": [
+                "2025-04-30T13:05:53.189042Z"
             ]
         }
     ]
