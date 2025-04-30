@@ -5,7 +5,7 @@
 | spacenews | 11 | 15 | 28 | 48 |
 | supercluster | 1 | 1 | 66 | 66 |
 | nyt | 2 | 2 | 21 | 38 |
-| breaking_defense | 1 | 2 | 20 | 39 |
+| breaking_defense | 1 | 2 | 21 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3679,3 +3679,4 @@
 - **Apr 29, 11:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 29, 11:57 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
+- **Apr 30, 12:12 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
