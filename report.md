@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 29 | 52 |
-| supercluster | 0 | 1 | 166 | 178 |
-| nyt | 0 | 2 | 23 | 41 |
+| supercluster | 0 | 1 | 164 | 178 |
+| nyt | 0 | 2 | 24 | 42 |
 | breaking_defense | 1 | 2 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3843,3 +3843,4 @@
 - **Apr 30, 04:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 04:17 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **Apr 30, 04:31 PM** - ISS implementation partners need to survive the transition to commercial LEO destinations (spacenews)
+- **Apr 30, 04:45 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
