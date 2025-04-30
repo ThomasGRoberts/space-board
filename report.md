@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 28 | 51 |
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 | nyt | 0 | 2 | 23 | 41 |
 | breaking_defense | 1 | 2 | 23 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3813,3 +3813,4 @@
 - **Apr 30, 01:05 PM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)
 - **Apr 30, 01:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **Apr 30, 01:35 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **Apr 30, 01:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
