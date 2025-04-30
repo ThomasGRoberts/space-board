@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2fb4f433db644b27cccaf43eb99d2ac5",
+    "trigger_count": 0,
+    "current_item_id": "8968aeca1770a1efe15092089aa9edfb",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9254,6 +9254,18 @@
             "shown_at": [
                 "2025-03-05T00:32:24.700473Z",
                 "2025-03-07T05:03:35.128863Z"
+            ]
+        },
+        {
+            "id": "8968aeca1770a1efe15092089aa9edfb",
+            "source": "spacenews",
+            "text": "China’s Shenzhou-19 astronauts return to Earth after six-month mission",
+            "source_link": "https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T08:03:25.066182Z",
+            "shown_at": [
+                "2025-04-30T08:03:25.609090Z"
             ]
         }
     ]
