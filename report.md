@@ -5,7 +5,7 @@
 | spacenews | 11 | 15 | 29 | 49 |
 | supercluster | 1 | 1 | 115 | 115 |
 | nyt | 1 | 2 | 21 | 40 |
-| breaking_defense | 0 | 1 | 21 | 40 |
+| breaking_defense | 0 | 1 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3749,3 +3749,4 @@
 - **Apr 30, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 06:39 AM** - Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready (spacenews)
+- **Apr 30, 06:53 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
