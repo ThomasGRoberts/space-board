@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
-    "trigger_count": 6,
-    "current_item_id": "687cfa9fd954918b0b9051f4efa43e6c",
+    "trigger_count": 0,
+    "current_item_id": "7c6e6af10d4b0dbfdd07e5b1674d0665",
     "data": [
         {
             "id": "e1f5425b325583b6cd0fe407c23e2044",
@@ -9403,6 +9403,18 @@
             "fetched_datetime": "2025-04-30T14:35:40.895273Z",
             "shown_at": [
                 "2025-04-30T14:35:41.526899Z"
+            ]
+        },
+        {
+            "id": "7c6e6af10d4b0dbfdd07e5b1674d0665",
+            "source": "spacenews",
+            "text": "Senate Commerce Committee advances Isaacman nomination to lead NASA",
+            "source_link": "https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-30T15:33:27.367761Z",
+            "shown_at": [
+                "2025-04-30T15:33:28.293328Z"
             ]
         }
     ]

@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 29 | 52 |
-| supercluster | 0 | 1 | 165 | 171 |
+| spacenews | 13 | 20 | 30 | 53 |
+| supercluster | 0 | 1 | 164 | 171 |
 | nyt | 0 | 2 | 23 | 41 |
 | breaking_defense | 1 | 2 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3832,3 +3832,4 @@
 - **Apr 30, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Apr 30, 03:19 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **Apr 30, 03:33 PM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
