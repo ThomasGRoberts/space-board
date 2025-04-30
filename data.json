@@ -1,9 +1,278 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-04-29T00:02:05.802720+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-04-30T00:02:06.732577+00:00",
+    "trigger_count": 2,
     "current_item_id": "e1f5425b325583b6cd0fe407c23e2044",
     "data": [
+        {
+            "id": "e1f5425b325583b6cd0fe407c23e2044",
+            "source": "spacenews",
+            "text": "Space Force embraces commercial tech in major overhaul of surveillance satellite program",
+            "source_link": "https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T23:57:35.599984Z",
+            "shown_at": [
+                "2025-04-29T23:57:36.770839Z"
+            ]
+        },
+        {
+            "id": "ee57d1456f95052bef2d58ba2869849a",
+            "source": "spacenews",
+            "text": "Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions",
+            "source_link": "https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T22:33:27.534083Z",
+            "shown_at": [
+                "2025-04-29T22:33:28.197336Z"
+            ]
+        },
+        {
+            "id": "dfb58e354b9b66ff02fb860a06dcf7fb",
+            "source": "spacenews",
+            "text": "FCC opens new battlefront in satellite power struggle",
+            "source_link": "https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T21:23:46.391481Z",
+            "shown_at": [
+                "2025-04-29T21:23:47.394563Z",
+                "2025-04-29T22:19:37.513607Z",
+                "2025-04-29T23:29:32.525038Z"
+            ]
+        },
+        {
+            "id": "417886723542cd78c7ca8cc88379ce55",
+            "source": "spacenews",
+            "text": "Alpha launch of Lockheed tech demo satellite fails",
+            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T18:33:34.078865Z",
+            "shown_at": [
+                "2025-04-29T18:33:34.736986Z"
+            ]
+        },
+        {
+            "id": "9c9c7377035f4761a3c6d737cb3f3f14",
+            "source": "spacenews",
+            "text": "French startup developing space weapon to defend satellites and clean orbital debris",
+            "source_link": "https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T16:07:34.125130Z",
+            "shown_at": [
+                "2025-04-29T16:07:34.694403Z"
+            ]
+        },
+        {
+            "id": "7108e380ec82411f955158d6e12b52f9",
+            "source": "spacenews",
+            "text": "Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite",
+            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T15:53:35.805111Z",
+            "shown_at": [
+                "2025-04-29T15:53:36.355000Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-6-75",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-01T02:17:00.000Z",
+            "time_remaining": "1d 02h 21m",
+            "fetched_datetime": "2025-04-29T14:37:51.214569Z",
+            "shown_at": [
+                "2025-04-29T14:37:52.349986Z",
+                "2025-04-29T14:39:31.336086Z",
+                "2025-04-29T14:41:59.591656Z",
+                "2025-04-29T15:25:50.759061Z",
+                "2025-04-29T15:27:47.356630Z",
+                "2025-04-29T15:29:40.590678Z",
+                "2025-04-29T15:32:03.206470Z",
+                "2025-04-29T15:33:34.630746Z",
+                "2025-04-29T15:35:27.294936Z",
+                "2025-04-29T15:37:29.082942Z",
+                "2025-04-29T16:39:35.843865Z",
+                "2025-04-29T16:41:30.651554Z",
+                "2025-04-29T16:43:32.117528Z",
+                "2025-04-29T16:45:31.249377Z",
+                "2025-04-29T16:47:26.833370Z",
+                "2025-04-29T16:49:24.322387Z",
+                "2025-04-29T16:51:46.221216Z",
+                "2025-04-29T17:35:27.587397Z",
+                "2025-04-29T17:37:32.149679Z",
+                "2025-04-29T17:39:47.598173Z",
+                "2025-04-29T17:41:31.626061Z",
+                "2025-04-29T17:43:24.369802Z",
+                "2025-04-29T17:45:25.160283Z",
+                "2025-04-29T17:47:24.528335Z",
+                "2025-04-29T18:47:42.373312Z",
+                "2025-04-29T18:49:39.441609Z",
+                "2025-04-29T18:51:44.929235Z",
+                "2025-04-29T18:53:36.056439Z",
+                "2025-04-29T18:55:24.688997Z",
+                "2025-04-29T18:57:24.949389Z",
+                "2025-04-29T18:59:33.394944Z",
+                "2025-04-29T19:45:24.246003Z",
+                "2025-04-29T19:47:40.862141Z",
+                "2025-04-29T19:49:33.328579Z",
+                "2025-04-29T19:51:11.367778Z",
+                "2025-04-29T19:53:30.202522Z",
+                "2025-04-29T19:55:25.883521Z",
+                "2025-04-29T19:57:26.708841Z",
+                "2025-04-29T20:41:39.199879Z",
+                "2025-04-29T20:43:04.189410Z",
+                "2025-04-29T20:45:33.431090Z",
+                "2025-04-29T20:47:29.002437Z",
+                "2025-04-29T20:49:03.472256Z",
+                "2025-04-29T20:51:47.460288Z",
+                "2025-04-29T20:53:32.278591Z",
+                "2025-04-29T21:37:43.021228Z",
+                "2025-04-29T21:39:40.227563Z",
+                "2025-04-29T21:41:41.161739Z",
+                "2025-04-29T21:43:24.948780Z",
+                "2025-04-29T21:45:00.696703Z",
+                "2025-04-29T21:47:37.455559Z",
+                "2025-04-29T21:49:21.814976Z",
+                "2025-04-29T22:47:44.956565Z",
+                "2025-04-29T22:49:00.708060Z",
+                "2025-04-29T22:51:30.460778Z",
+                "2025-04-29T22:53:34.369906Z",
+                "2025-04-29T22:55:33.141125Z",
+                "2025-04-29T22:57:23.989105Z",
+                "2025-04-29T22:59:02.677386Z",
+                "2025-04-29T23:43:38.228781Z",
+                "2025-04-29T23:45:43.423238Z",
+                "2025-04-29T23:47:21.316963Z",
+                "2025-04-29T23:49:36.975987Z",
+                "2025-04-29T23:51:43.824791Z",
+                "2025-04-29T23:53:54.194933Z",
+                "2025-04-29T23:55:31.913559Z"
+            ]
+        },
+        {
+            "id": "ba2f00d14db61b42a3e6b87ec065263f",
+            "source": "nyt",
+            "text": "Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth",
+            "source_link": "https://www.nytimes.com/2025/04/29/science/molecular-cloud-eos-stars-milky-way.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T13:17:40.196415Z",
+            "shown_at": [
+                "2025-04-29T13:17:41.160163Z",
+                "2025-04-29T17:21:45.613216Z",
+                "2025-04-29T20:13:05.444982Z"
+            ]
+        },
+        {
+            "id": "084e2f3c1a4fc69cbe8253769194f9c9",
+            "source": "spacenews",
+            "text": "Slingshot targets international market with sovereign space tracking systems",
+            "source_link": "https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T12:32:08.583858Z",
+            "shown_at": [
+                "2025-04-29T12:32:09.255386Z"
+            ]
+        },
+        {
+            "id": "6391db278d080f7903fb5036af340841",
+            "source": "spacenews",
+            "text": "Amazon establishes contact with first operational Kuiper satellites",
+            "source_link": "https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T12:02:04.893088Z",
+            "shown_at": [
+                "2025-04-29T12:17:26.010181Z"
+            ]
+        },
+        {
+            "id": "fb84a16c56bda11f333d5dfd3859a32a",
+            "source": "spacenews",
+            "text": "Apex raises $200 million to accelerate satellite production",
+            "source_link": "https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T12:02:04.893033Z",
+            "shown_at": [
+                "2025-04-29T12:02:05.383457Z"
+            ]
+        },
+        {
+            "id": "9dcdf6958c9f35fe88a7faa779eadd18",
+            "source": "spacenews",
+            "text": "China launches third batch of Guowang megaconstellation satellites",
+            "source_link": "https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T11:32:07.237234Z",
+            "shown_at": [
+                "2025-04-29T11:32:07.975149Z"
+            ]
+        },
+        {
+            "id": "8c1f4c83a50d5644e2ab06895befe72a",
+            "source": "spacenews",
+            "text": "Atlas launches first operational Project Kuiper satellites",
+            "source_link": "https://spacenews.com/atlas-launches-first-operational-project-kuiper-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T11:17:31.827066Z",
+            "shown_at": [
+                "2025-04-29T11:17:32.397101Z"
+            ]
+        },
+        {
+            "id": "687cfa9fd954918b0b9051f4efa43e6c",
+            "source": "breaking_defense",
+            "text": "Amazon launches first 27 operational Kuiper satellites to compete with Starlink",
+            "source_link": "https://breakingdefense.com/2025/04/amazon-launches-first-27-operational-kuiper-satellites-to-compete-with-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T00:29:04.683737Z",
+            "shown_at": [
+                "2025-04-29T00:29:05.224271Z",
+                "2025-04-29T01:27:57.441629Z",
+                "2025-04-29T02:27:08.746582Z",
+                "2025-04-29T04:05:30.825402Z",
+                "2025-04-29T07:55:41.461867Z",
+                "2025-04-29T12:47:26.393939Z",
+                "2025-04-29T14:43:39.255897Z",
+                "2025-04-29T19:02:14.042617Z",
+                "2025-04-29T19:59:47.505562Z"
+            ]
+        },
+        {
+            "id": "a3e847f2b9b39a4bda9c9122a408cfdf",
+            "source": "nyt",
+            "text": "Amazon Launches First 27 Project Kuiper Internet Satellites",
+            "source_link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-04-29T00:15:35.452152Z",
+            "shown_at": [
+                "2025-04-29T00:15:36.578141Z",
+                "2025-04-29T01:13:27.897550Z",
+                "2025-04-29T02:12:20.476641Z",
+                "2025-04-29T04:49:23.838921Z",
+                "2025-04-29T05:47:26.210080Z",
+                "2025-04-29T07:41:32.532403Z",
+                "2025-04-29T11:47:31.776485Z",
+                "2025-04-29T14:57:28.624089Z",
+                "2025-04-29T16:24:22.916541Z",
+                "2025-04-29T21:09:26.675155Z",
+                "2025-04-29T22:05:38.936719Z"
+            ]
+        },
         {
             "id": "637ba07531c00a55df18ef7f42ba56b3",
             "source": "spacenews",
@@ -8904,543 +9173,6 @@
             "shown_at": [
                 "2025-03-05T00:32:24.700473Z",
                 "2025-03-07T05:03:35.128863Z"
-            ]
-        },
-        {
-            "id": "c7893741134a87b93e4fcd9c8a784711",
-            "source": "spacenews",
-            "text": "Space launch executives warn U.S. infrastructure unprepared for coming launch surge",
-            "source_link": "https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T21:39:31.994341Z",
-            "shown_at": [
-                "2025-03-04T21:39:32.523870Z",
-                "2025-03-06T00:57:25.116183Z",
-                "2025-03-08T07:11:37.349789Z",
-                "2025-03-09T15:01:52.388120Z",
-                "2025-03-11T01:45:51.804862Z"
-            ]
-        },
-        {
-            "id": "c046b8a400acdc67d6e76493e18c7431",
-            "source": "spacenews",
-            "text": "Isar Aerospace secures first Asian customer ahead of debut launch",
-            "source_link": "https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T21:23:35.731089Z",
-            "shown_at": [
-                "2025-03-04T21:23:36.246192Z",
-                "2025-03-08T14:19:39.328028Z",
-                "2025-03-09T00:51:37.775979Z",
-                "2025-03-09T05:35:37.293210Z",
-                "2025-03-09T22:11:42.995465Z"
-            ]
-        },
-        {
-            "id": "048ab1b1a5455ba060ac82d4cf1dc427",
-            "source": "spacenews",
-            "text": "Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference",
-            "source_link": "https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T19:15:17.611775Z",
-            "shown_at": [
-                "2025-03-04T19:15:18.140239Z",
-                "2025-03-06T09:32:12.872826Z",
-                "2025-03-07T11:17:33.355634Z",
-                "2025-03-08T03:33:29.084610Z",
-                "2025-03-08T13:09:36.940498Z",
-                "2025-03-11T11:03:27.527981Z"
-            ]
-        },
-        {
-            "id": "561f8825949f5e6e98c911a88e591649",
-            "source": "breaking_defense",
-            "text": "New thinking needed to safeguard our spectrum",
-            "source_link": "https://breakingdefense.com/2025/03/new-thinking-needed-to-safeguard-our-spectrum/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T18:33:35.554031Z",
-            "shown_at": [
-                "2025-03-04T18:33:35.974099Z",
-                "2025-03-05T06:38:04.927333Z",
-                "2025-03-05T18:02:04.992713Z",
-                "2025-03-06T02:51:55.774775Z",
-                "2025-03-06T10:17:46.621394Z",
-                "2025-03-06T11:29:31.411426Z",
-                "2025-03-08T17:31:47.970079Z",
-                "2025-03-09T07:43:43.389443Z",
-                "2025-03-11T10:49:44.130722Z"
-            ]
-        },
-        {
-            "id": "e633fac6079751766f11f80997f1db94",
-            "source": "breaking_defense",
-            "text": "Space Systems Command chief backs ‘important’ work of Space Development Agency",
-            "source_link": "https://breakingdefense.com/2025/03/space-systems-command-chief-backs-important-work-of-space-development-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T17:21:45.095388Z",
-            "shown_at": [
-                "2025-03-04T17:21:45.587562Z",
-                "2025-03-04T22:37:28.672498Z",
-                "2025-03-05T01:31:57.508099Z",
-                "2025-03-05T15:29:35.072256Z",
-                "2025-03-06T20:12:02.551410Z",
-                "2025-03-07T15:05:48.460052Z",
-                "2025-03-08T04:02:23.556307Z",
-                "2025-03-08T12:25:57.739586Z",
-                "2025-03-08T20:11:58.161223Z",
-                "2025-03-08T21:23:35.356977Z",
-                "2025-03-11T14:42:23.800934Z"
-            ]
-        },
-        {
-            "id": "da1a1c970936d78dadce702162c8b9b4",
-            "source": "spacenews",
-            "text": "Astranis demonstrates GPS capability in race for Space Force contract",
-            "source_link": "https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T16:11:34.954586Z",
-            "shown_at": [
-                "2025-03-04T16:11:35.394389Z",
-                "2025-03-05T04:15:36.839375Z",
-                "2025-03-08T22:08:28.814882Z"
-            ]
-        },
-        {
-            "id": "6014834ccec20370e706afbf1cd730bf",
-            "source": "nyt",
-            "text": "SpaceX Scrubs 8th Starship Rocket Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:31:43.632639Z",
-            "shown_at": [
-                "2025-03-04T14:31:44.035245Z",
-                "2025-03-04T20:41:41.399314Z",
-                "2025-03-05T11:55:32.498966Z",
-                "2025-03-06T02:23:36.201766Z",
-                "2025-03-06T03:35:45.463818Z",
-                "2025-03-07T18:17:46.602180Z",
-                "2025-03-09T06:17:33.855052Z",
-                "2025-03-09T10:26:16.098680Z",
-                "2025-03-10T12:45:33.042182Z",
-                "2025-03-11T10:35:37.049365Z"
-            ]
-        },
-        {
-            "id": "368608108b2e05748a429a9742f78bae",
-            "source": "spacenews",
-            "text": "Space Force chief calls for greater focus on ‘space superiority’",
-            "source_link": "https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413882Z",
-            "shown_at": [
-                "2025-03-04T15:13:35.278740Z",
-                "2025-03-05T09:19:37.094923Z",
-                "2025-03-05T22:07:36.479196Z"
-            ]
-        },
-        {
-            "id": "0eea273096d08f09273d59afc2ff3912",
-            "source": "spacenews",
-            "text": "Spire demonstrates optical links between cubesats",
-            "source_link": "https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413847Z",
-            "shown_at": [
-                "2025-03-04T14:59:40.096142Z",
-                "2025-03-05T08:03:31.250355Z",
-                "2025-03-06T23:03:44.757198Z",
-                "2025-03-08T19:41:39.458102Z",
-                "2025-03-09T11:25:36.049434Z",
-                "2025-03-10T05:21:57.724488Z"
-            ]
-        },
-        {
-            "id": "356b37c5c5791fee1de3cd780caa12a9",
-            "source": "spacenews",
-            "text": "SpaceX scrubs Starship launch",
-            "source_link": "https://spacenews.com/spacex-scrubs-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413811Z",
-            "shown_at": [
-                "2025-03-04T14:45:32.819324Z",
-                "2025-03-05T01:47:29.717676Z",
-                "2025-03-05T17:33:33.781598Z",
-                "2025-03-09T03:12:02.300248Z"
-            ]
-        },
-        {
-            "id": "af9b1b9b57835a92dcfe32354b2d7a27",
-            "source": "spacenews",
-            "text": "Albedo secures $12 million STRATFI contract",
-            "source_link": "https://spacenews.com/albedo-secures-12-million-stratfi-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:15:38.413760Z",
-            "shown_at": [
-                "2025-03-04T14:15:39.316606Z",
-                "2025-03-08T10:45:45.567604Z"
-            ]
-        },
-        {
-            "id": "35cc067eebfdcb2b223e3ceb4b06cb38",
-            "source": "aidy",
-            "text": "Space Force Command Reforms Lead U.S. Space Policy Changes Today",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-04T14:01:38.500263Z",
-            "shown_at": [
-                "2025-03-04T14:01:38.916698Z",
-                "2025-03-04T17:07:56.208307Z",
-                "2025-03-04T22:22:22.876078Z",
-                "2025-03-05T02:32:10.210718Z",
-                "2025-03-05T12:23:35.039710Z",
-                "2025-03-06T18:17:42.772802Z",
-                "2025-03-07T17:32:10.383921Z",
-                "2025-03-07T20:37:51.513961Z",
-                "2025-03-08T00:13:31.609816Z",
-                "2025-03-08T02:35:29.384685Z",
-                "2025-03-08T07:25:29.426885Z",
-                "2025-03-09T07:15:28.235136Z",
-                "2025-03-09T12:23:29.953946Z",
-                "2025-03-09T19:33:39.895903Z",
-                "2025-03-09T21:57:11.761842Z",
-                "2025-03-10T01:59:29.615617Z",
-                "2025-03-10T16:15:53.964389Z",
-                "2025-03-11T11:31:59.064503Z",
-                "2025-03-11T12:51:37.019153Z"
-            ]
-        },
-        {
-            "id": "506f019d9da8ee498f2bf9f76e50911f",
-            "source": "nyt",
-            "text": "Live Video: Watch SpaceX’s 8th Starship Rocket Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T23:17:36.790171Z",
-            "shown_at": [
-                "2025-03-03T23:17:37.216819Z",
-                "2025-03-04T16:25:57.541925Z",
-                "2025-03-04T23:21:34.326087Z",
-                "2025-03-06T17:35:30.348826Z",
-                "2025-03-07T07:37:31.168705Z",
-                "2025-03-07T11:31:47.708672Z",
-                "2025-03-09T00:23:40.935280Z",
-                "2025-03-09T11:39:38.451756Z",
-                "2025-03-09T12:53:35.746873Z",
-                "2025-03-10T00:59:51.797656Z",
-                "2025-03-10T16:29:49.779011Z",
-                "2025-03-10T19:37:32.835094Z"
-            ]
-        },
-        {
-            "id": "7c78b41f5a6e9781c529ad5639332d8a",
-            "source": "nyt",
-            "text": "SpaceX Prepares for 8th Starship Rocket Test Flight: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/03/03/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T22:07:45.536935Z",
-            "shown_at": [
-                "2025-03-03T22:07:46.609540Z",
-                "2025-03-05T00:47:55.073069Z",
-                "2025-03-05T02:02:35.436804Z",
-                "2025-03-05T22:21:39.318281Z",
-                "2025-03-06T10:59:37.961380Z",
-                "2025-03-09T18:51:48.877994Z"
-            ]
-        },
-        {
-            "id": "0a9390b4c028e7db901ea67c057b75c0",
-            "source": "spacenews",
-            "text": "BAE lands $151 million contract for missile-warning satellite ground system",
-            "source_link": "https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-03T21:39:31.571284Z",
-            "shown_at": [
-                "2025-03-03T21:39:32.079392Z",
-                "2025-03-07T13:51:37.941101Z"
-            ]
-        },
-        {
-            "id": "a3e847f2b9b39a4bda9c9122a408cfdf",
-            "source": "nyt",
-            "text": "Amazon Launches First 27 Project Kuiper Internet Satellites",
-            "source_link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T00:15:35.452152Z",
-            "shown_at": [
-                "2025-04-29T00:15:36.578141Z",
-                "2025-04-29T01:13:27.897550Z",
-                "2025-04-29T02:12:20.476641Z",
-                "2025-04-29T04:49:23.838921Z",
-                "2025-04-29T05:47:26.210080Z",
-                "2025-04-29T07:41:32.532403Z",
-                "2025-04-29T11:47:31.776485Z",
-                "2025-04-29T14:57:28.624089Z",
-                "2025-04-29T16:24:22.916541Z",
-                "2025-04-29T21:09:26.675155Z",
-                "2025-04-29T22:05:38.936719Z"
-            ]
-        },
-        {
-            "id": "687cfa9fd954918b0b9051f4efa43e6c",
-            "source": "breaking_defense",
-            "text": "Amazon launches first 27 operational Kuiper satellites to compete with Starlink",
-            "source_link": "https://breakingdefense.com/2025/04/amazon-launches-first-27-operational-kuiper-satellites-to-compete-with-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T00:29:04.683737Z",
-            "shown_at": [
-                "2025-04-29T00:29:05.224271Z",
-                "2025-04-29T01:27:57.441629Z",
-                "2025-04-29T02:27:08.746582Z",
-                "2025-04-29T04:05:30.825402Z",
-                "2025-04-29T07:55:41.461867Z",
-                "2025-04-29T12:47:26.393939Z",
-                "2025-04-29T14:43:39.255897Z",
-                "2025-04-29T19:02:14.042617Z",
-                "2025-04-29T19:59:47.505562Z"
-            ]
-        },
-        {
-            "id": "8c1f4c83a50d5644e2ab06895befe72a",
-            "source": "spacenews",
-            "text": "Atlas launches first operational Project Kuiper satellites",
-            "source_link": "https://spacenews.com/atlas-launches-first-operational-project-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T11:17:31.827066Z",
-            "shown_at": [
-                "2025-04-29T11:17:32.397101Z"
-            ]
-        },
-        {
-            "id": "9dcdf6958c9f35fe88a7faa779eadd18",
-            "source": "spacenews",
-            "text": "China launches third batch of Guowang megaconstellation satellites",
-            "source_link": "https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T11:32:07.237234Z",
-            "shown_at": [
-                "2025-04-29T11:32:07.975149Z"
-            ]
-        },
-        {
-            "id": "fb84a16c56bda11f333d5dfd3859a32a",
-            "source": "spacenews",
-            "text": "Apex raises $200 million to accelerate satellite production",
-            "source_link": "https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:02:04.893033Z",
-            "shown_at": [
-                "2025-04-29T12:02:05.383457Z"
-            ]
-        },
-        {
-            "id": "6391db278d080f7903fb5036af340841",
-            "source": "spacenews",
-            "text": "Amazon establishes contact with first operational Kuiper satellites",
-            "source_link": "https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:02:04.893088Z",
-            "shown_at": [
-                "2025-04-29T12:17:26.010181Z"
-            ]
-        },
-        {
-            "id": "084e2f3c1a4fc69cbe8253769194f9c9",
-            "source": "spacenews",
-            "text": "Slingshot targets international market with sovereign space tracking systems",
-            "source_link": "https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:32:08.583858Z",
-            "shown_at": [
-                "2025-04-29T12:32:09.255386Z"
-            ]
-        },
-        {
-            "id": "ba2f00d14db61b42a3e6b87ec065263f",
-            "source": "nyt",
-            "text": "Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth",
-            "source_link": "https://www.nytimes.com/2025/04/29/science/molecular-cloud-eos-stars-milky-way.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T13:17:40.196415Z",
-            "shown_at": [
-                "2025-04-29T13:17:41.160163Z",
-                "2025-04-29T17:21:45.613216Z",
-                "2025-04-29T20:13:05.444982Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-6-75",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-01T02:17:00.000Z",
-            "time_remaining": "1d 02h 21m",
-            "fetched_datetime": "2025-04-29T14:37:51.214569Z",
-            "shown_at": [
-                "2025-04-29T14:37:52.349986Z",
-                "2025-04-29T14:39:31.336086Z",
-                "2025-04-29T14:41:59.591656Z",
-                "2025-04-29T15:25:50.759061Z",
-                "2025-04-29T15:27:47.356630Z",
-                "2025-04-29T15:29:40.590678Z",
-                "2025-04-29T15:32:03.206470Z",
-                "2025-04-29T15:33:34.630746Z",
-                "2025-04-29T15:35:27.294936Z",
-                "2025-04-29T15:37:29.082942Z",
-                "2025-04-29T16:39:35.843865Z",
-                "2025-04-29T16:41:30.651554Z",
-                "2025-04-29T16:43:32.117528Z",
-                "2025-04-29T16:45:31.249377Z",
-                "2025-04-29T16:47:26.833370Z",
-                "2025-04-29T16:49:24.322387Z",
-                "2025-04-29T16:51:46.221216Z",
-                "2025-04-29T17:35:27.587397Z",
-                "2025-04-29T17:37:32.149679Z",
-                "2025-04-29T17:39:47.598173Z",
-                "2025-04-29T17:41:31.626061Z",
-                "2025-04-29T17:43:24.369802Z",
-                "2025-04-29T17:45:25.160283Z",
-                "2025-04-29T17:47:24.528335Z",
-                "2025-04-29T18:47:42.373312Z",
-                "2025-04-29T18:49:39.441609Z",
-                "2025-04-29T18:51:44.929235Z",
-                "2025-04-29T18:53:36.056439Z",
-                "2025-04-29T18:55:24.688997Z",
-                "2025-04-29T18:57:24.949389Z",
-                "2025-04-29T18:59:33.394944Z",
-                "2025-04-29T19:45:24.246003Z",
-                "2025-04-29T19:47:40.862141Z",
-                "2025-04-29T19:49:33.328579Z",
-                "2025-04-29T19:51:11.367778Z",
-                "2025-04-29T19:53:30.202522Z",
-                "2025-04-29T19:55:25.883521Z",
-                "2025-04-29T19:57:26.708841Z",
-                "2025-04-29T20:41:39.199879Z",
-                "2025-04-29T20:43:04.189410Z",
-                "2025-04-29T20:45:33.431090Z",
-                "2025-04-29T20:47:29.002437Z",
-                "2025-04-29T20:49:03.472256Z",
-                "2025-04-29T20:51:47.460288Z",
-                "2025-04-29T20:53:32.278591Z",
-                "2025-04-29T21:37:43.021228Z",
-                "2025-04-29T21:39:40.227563Z",
-                "2025-04-29T21:41:41.161739Z",
-                "2025-04-29T21:43:24.948780Z",
-                "2025-04-29T21:45:00.696703Z",
-                "2025-04-29T21:47:37.455559Z",
-                "2025-04-29T21:49:21.814976Z",
-                "2025-04-29T22:47:44.956565Z",
-                "2025-04-29T22:49:00.708060Z",
-                "2025-04-29T22:51:30.460778Z",
-                "2025-04-29T22:53:34.369906Z",
-                "2025-04-29T22:55:33.141125Z",
-                "2025-04-29T22:57:23.989105Z",
-                "2025-04-29T22:59:02.677386Z",
-                "2025-04-29T23:43:38.228781Z",
-                "2025-04-29T23:45:43.423238Z",
-                "2025-04-29T23:47:21.316963Z",
-                "2025-04-29T23:49:36.975987Z",
-                "2025-04-29T23:51:43.824791Z",
-                "2025-04-29T23:53:54.194933Z",
-                "2025-04-29T23:55:31.913559Z"
-            ]
-        },
-        {
-            "id": "7108e380ec82411f955158d6e12b52f9",
-            "source": "spacenews",
-            "text": "Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite",
-            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T15:53:35.805111Z",
-            "shown_at": [
-                "2025-04-29T15:53:36.355000Z"
-            ]
-        },
-        {
-            "id": "9c9c7377035f4761a3c6d737cb3f3f14",
-            "source": "spacenews",
-            "text": "French startup developing space weapon to defend satellites and clean orbital debris",
-            "source_link": "https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T16:07:34.125130Z",
-            "shown_at": [
-                "2025-04-29T16:07:34.694403Z"
-            ]
-        },
-        {
-            "id": "417886723542cd78c7ca8cc88379ce55",
-            "source": "spacenews",
-            "text": "Alpha launch of Lockheed tech demo satellite fails",
-            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T18:33:34.078865Z",
-            "shown_at": [
-                "2025-04-29T18:33:34.736986Z"
-            ]
-        },
-        {
-            "id": "dfb58e354b9b66ff02fb860a06dcf7fb",
-            "source": "spacenews",
-            "text": "FCC opens new battlefront in satellite power struggle",
-            "source_link": "https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T21:23:46.391481Z",
-            "shown_at": [
-                "2025-04-29T21:23:47.394563Z",
-                "2025-04-29T22:19:37.513607Z",
-                "2025-04-29T23:29:32.525038Z"
-            ]
-        },
-        {
-            "id": "ee57d1456f95052bef2d58ba2869849a",
-            "source": "spacenews",
-            "text": "Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions",
-            "source_link": "https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T22:33:27.534083Z",
-            "shown_at": [
-                "2025-04-29T22:33:28.197336Z"
-            ]
-        },
-        {
-            "id": "e1f5425b325583b6cd0fe407c23e2044",
-            "source": "spacenews",
-            "text": "Space Force embraces commercial tech in major overhaul of surveillance satellite program",
-            "source_link": "https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T23:57:35.599984Z",
-            "shown_at": [
-                "2025-04-29T23:57:36.770839Z"
             ]
         }
     ]
