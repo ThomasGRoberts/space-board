@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 27 | 55 |
-| breaking_defense | 0 | 1 | 25 | 48 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
 
@@ -3780,3 +3780,4 @@
 - **May 01, 03:35 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **May 01, 03:49 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 01, 04:03 PM** - Waltz defends ‘Golden Dome’ missile shield amid partisan divide (spacenews)
+- **May 01, 04:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
