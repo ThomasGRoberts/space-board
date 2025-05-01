@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 26 | 54 |
+| spacenews | 7 | 16 | 27 | 55 |
 | breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 0 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3748,3 +3748,4 @@
 - **May 01, 12:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 12:31 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 01, 12:45 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 12:59 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
