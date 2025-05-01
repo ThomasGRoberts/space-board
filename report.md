@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 26 | 57 |
-| breaking_defense | 1 | 1 | 24 | 46 |
+| spacenews | 7 | 18 | 26 | 56 |
+| breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 70 | 70 |
@@ -3736,3 +3736,4 @@
 - **May 01, 11:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 11:19 AM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
+- **May 01, 11:33 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
