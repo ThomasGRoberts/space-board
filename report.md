@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 56 |
-| breaking_defense | 1 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -3656,3 +3656,4 @@
 - **May 01, 03:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 03:38 AM** - Head of FAA’s commercial space office takes buyout (spacenews)
+- **May 01, 03:51 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
