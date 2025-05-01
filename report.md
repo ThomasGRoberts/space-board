@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 28 | 56 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| breaking_defense | 1 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 147 | 147 |
@@ -3853,3 +3853,4 @@
 - **May 01, 10:59 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
 - **May 01, 11:13 PM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
 - **May 01, 11:27 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 01, 11:41 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
