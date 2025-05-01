@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 28 | 57 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 133 | 133 |
 
@@ -3831,3 +3831,4 @@
 - **May 01, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 08:51 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **May 01, 09:05 PM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
+- **May 01, 09:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
