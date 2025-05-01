@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 
 # Shown Order
 
@@ -3843,3 +3843,4 @@
 - **May 01, 10:02 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
 - **May 01, 10:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 01, 10:32 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **May 01, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
