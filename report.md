@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 26 | 57 |
-| breaking_defense | 1 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 56 | 56 |
@@ -3716,3 +3716,4 @@
 - **May 01, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 09:23 AM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
+- **May 01, 09:39 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
