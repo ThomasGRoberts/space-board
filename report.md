@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 15 | 26 | 55 |
+| spacenews | 4 | 15 | 27 | 56 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3789,3 +3789,4 @@
 - **May 01, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 04:32 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 01, 04:45 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 04:59 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
