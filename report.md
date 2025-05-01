@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 16 | 28 | 56 |
+| spacenews | 5 | 16 | 27 | 56 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -3791,3 +3791,4 @@
 - **May 01, 04:45 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 01, 04:59 PM** - China and Malaysia to study international equatorial spaceport project (spacenews)
 - **May 01, 05:13 PM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
+- **May 01, 05:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
