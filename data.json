@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-01T00:02:02.780584+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7bb6ee0ddd78092c9aa4fd4990991f1",
+    "trigger_count": 0,
+    "current_item_id": "e3dfc0eb15ffb5cf75c701dce4ecdd62",
     "data": [
         {
             "id": "618e1aa35fa8241403ff361875c7bea0",
@@ -9254,6 +9254,18 @@
             "fetched_datetime": "2025-05-01T12:02:01.122573Z",
             "shown_at": [
                 "2025-05-01T12:02:01.696148Z"
+            ]
+        },
+        {
+            "id": "e3dfc0eb15ffb5cf75c701dce4ecdd62",
+            "source": "spacenews",
+            "text": "Expanding the human presence in orbit faces growing risk from space debris",
+            "source_link": "https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-01T13:13:41.232264Z",
+            "shown_at": [
+                "2025-05-01T13:13:42.752176Z"
             ]
         }
     ]
