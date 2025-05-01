@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 27 | 56 |
+| spacenews | 8 | 20 | 26 | 56 |
 | breaking_defense | 1 | 1 | 24 | 45 |
 | nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -3708,3 +3708,4 @@
 - **May 01, 08:25 AM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
 - **May 01, 08:39 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 01, 08:55 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 01, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
