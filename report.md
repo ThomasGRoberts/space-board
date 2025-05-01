@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 27 | 56 |
+| spacenews | 6 | 16 | 28 | 57 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3811,3 +3811,4 @@
 - **May 01, 06:43 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 01, 06:57 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 01, 07:11 PM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
+- **May 01, 07:27 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
