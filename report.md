@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 55 |
-| breaking_defense | 1 | 1 | 25 | 47 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
 
@@ -3741,3 +3741,4 @@
 - **May 01, 12:02 PM** - NASA delays astrophysics mission call for proposals amid budget uncertainties (spacenews)
 - **May 01, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 12:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 01, 12:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
