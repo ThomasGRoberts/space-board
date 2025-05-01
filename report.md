@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 56 |
-| breaking_defense | 1 | 1 | 25 | 45 |
-| nyt | 0 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 24 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -3647,3 +3647,4 @@
 - **May 01, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 02:41 AM** - Isaacman calls potential NASA science cuts not “optimal” (spacenews)
 - **May 01, 02:55 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 01, 03:09 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
