@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-01T00:02:02.780584+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e1f5425b325583b6cd0fe407c23e2044",
+    "trigger_count": 0,
+    "current_item_id": "c0ee9c34da9e1cf40aea0efac5219400",
     "data": [
         {
             "id": "618e1aa35fa8241403ff361875c7bea0",
@@ -9411,6 +9411,18 @@
             "fetched_datetime": "2025-05-01T21:33:25.663466Z",
             "shown_at": [
                 "2025-05-01T21:33:26.335148Z"
+            ]
+        },
+        {
+            "id": "c0ee9c34da9e1cf40aea0efac5219400",
+            "source": "spacenews",
+            "text": "Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use",
+            "source_link": "https://spacenews.com/ursa-major-wins-28-5-million-air-force-contract-to-flight-test-draper-engine-for-hypersonic-use/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-01T23:13:31.406940Z",
+            "shown_at": [
+                "2025-05-01T23:13:32.134561Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 28 | 56 |
+| spacenews | 6 | 16 | 29 | 57 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3851,3 +3851,4 @@
 - **May 01, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 10:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 10:59 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
+- **May 01, 11:13 PM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
