@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 56 |
-| breaking_defense | 1 | 1 | 25 | 46 |
-| nyt | 0 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -3677,3 +3677,4 @@
 - **May 01, 05:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 05:29 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
 - **May 01, 05:43 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 01, 05:57 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
