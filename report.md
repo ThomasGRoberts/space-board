@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 56 |
-| breaking_defense | 1 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 24 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -3697,3 +3697,4 @@
 - **May 01, 07:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 07:27 AM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
 - **May 01, 07:43 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
+- **May 01, 07:57 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
