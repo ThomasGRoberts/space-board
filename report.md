@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 26 | 56 |
 | breaking_defense | 1 | 1 | 25 | 47 |
-| nyt | 0 | 1 | 24 | 47 |
+| nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 70 | 70 |
 
@@ -3737,3 +3737,4 @@
 - **May 01, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 11:19 AM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
 - **May 01, 11:33 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 01, 11:47 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
