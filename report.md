@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -3678,3 +3678,4 @@
 - **May 01, 05:29 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
 - **May 01, 05:43 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 01, 05:57 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 06:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
