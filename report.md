@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 24 | 44 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3639,3 +3639,4 @@
 - **May 01, 01:59 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 01, 02:13 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 01, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 01, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
