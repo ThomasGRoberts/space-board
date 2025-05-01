@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 24 | 45 |
 | nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -3698,3 +3698,4 @@
 - **May 01, 07:27 AM** - Okapi raises 13 million euros to expand space traffic management suite (spacenews)
 - **May 01, 07:43 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **May 01, 07:57 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 01, 08:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
