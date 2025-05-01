@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 56 |
 | breaking_defense | 1 | 1 | 24 | 45 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -3658,3 +3658,4 @@
 - **May 01, 03:38 AM** - Head of FAA’s commercial space office takes buyout (spacenews)
 - **May 01, 03:51 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **May 01, 04:05 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 04:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
