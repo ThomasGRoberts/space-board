@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -3750,3 +3750,4 @@
 - **May 01, 12:45 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 01, 12:59 PM** - OroraTech opens US office to expand wildfire monitoring network (spacenews)
 - **May 01, 01:13 PM** - Expanding the human presence in orbit faces growing risk from space debris (spacenews)
+- **May 01, 01:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
