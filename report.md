@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -3812,3 +3812,4 @@
 - **May 01, 06:57 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 01, 07:11 PM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
 - **May 01, 07:27 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
+- **May 01, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
