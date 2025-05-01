@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-01T00:02:02.780584+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba2f00d14db61b42a3e6b87ec065263f",
+    "trigger_count": 0,
+    "current_item_id": "fc4ec78c2a275750663335934e878398",
     "data": [
         {
             "id": "618e1aa35fa8241403ff361875c7bea0",
@@ -9232,6 +9232,18 @@
                 "2025-05-01T11:13:25.882749Z",
                 "2025-05-01T11:15:29.594375Z",
                 "2025-05-01T11:17:42.590937Z"
+            ]
+        },
+        {
+            "id": "fc4ec78c2a275750663335934e878398",
+            "source": "spacenews",
+            "text": "NASA delays astrophysics mission call for proposals amid budget uncertainties",
+            "source_link": "https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-01T12:02:01.122573Z",
+            "shown_at": [
+                "2025-05-01T12:02:01.696148Z"
             ]
         }
     ]

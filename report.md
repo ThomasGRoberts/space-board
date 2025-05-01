@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 26 | 56 |
+| spacenews | 8 | 19 | 27 | 57 |
 | breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3738,3 +3738,4 @@
 - **May 01, 11:19 AM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
 - **May 01, 11:33 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 01, 11:47 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 01, 12:02 PM** - NASA delays astrophysics mission call for proposals amid budget uncertainties (spacenews)
