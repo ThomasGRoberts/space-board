@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 16 | 27 | 55 |
-| breaking_defense | 0 | 1 | 25 | 48 |
+| spacenews | 5 | 16 | 28 | 56 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 112 | 112 |
@@ -3800,3 +3800,4 @@
 - **May 01, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 05:43 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **May 01, 05:57 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 06:12 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
