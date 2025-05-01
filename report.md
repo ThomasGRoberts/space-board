@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -3740,3 +3740,4 @@
 - **May 01, 11:47 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 01, 12:02 PM** - NASA delays astrophysics mission call for proposals amid budget uncertainties (spacenews)
 - **May 01, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 01, 12:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
