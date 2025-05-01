@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 26 | 56 |
 | breaking_defense | 0 | 1 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
 
@@ -3768,3 +3768,4 @@
 - **May 01, 02:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 02:39 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **May 01, 02:53 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
