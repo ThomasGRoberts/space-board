@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 28 | 55 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 165 | 234 |
+| supercluster | 0 | 1 | 166 | 235 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3867,3 +3867,4 @@
 - **May 01, 12:05 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 01, 12:19 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 01, 12:33 AM** - Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready (spacenews)
+- **May 01, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
