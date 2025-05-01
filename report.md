@@ -3,9 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 55 |
-| breaking_defense | 1 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 24 | 44 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3637,3 +3638,4 @@
 - **May 01, 01:32 AM** - FCC opens new battlefront in satellite power struggle (spacenews)
 - **May 01, 01:59 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 01, 02:13 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 01, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
