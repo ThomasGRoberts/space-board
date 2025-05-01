@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-01T00:02:02.780584+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba2f00d14db61b42a3e6b87ec065263f",
+    "trigger_count": 0,
+    "current_item_id": "a555bef21971a97e316b798bc830e33a",
     "data": [
         {
             "id": "618e1aa35fa8241403ff361875c7bea0",
@@ -9381,6 +9381,18 @@
             "fetched_datetime": "2025-05-01T20:09:39.698373Z",
             "shown_at": [
                 "2025-05-01T20:09:40.351794Z"
+            ]
+        },
+        {
+            "id": "a555bef21971a97e316b798bc830e33a",
+            "source": "breaking_defense",
+            "text": "Ursa Major looks to fly Draper engine, takes aim at rocket engine markets",
+            "source_link": "https://breakingdefense.com/2025/05/ursa-major-looks-to-fly-draper-engine-takes-aim-at-rocket-engine-markets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-01T21:33:25.663466Z",
+            "shown_at": [
+                "2025-05-01T21:33:26.335148Z"
             ]
         }
     ]

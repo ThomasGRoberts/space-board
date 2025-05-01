@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 28 | 56 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 1 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 133 | 133 |
@@ -3832,3 +3832,4 @@
 - **May 01, 08:51 PM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **May 01, 09:05 PM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
 - **May 01, 09:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 01, 09:33 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
