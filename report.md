@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 26 | 56 |
+| spacenews | 8 | 20 | 27 | 56 |
 | breaking_defense | 1 | 1 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3705,3 +3705,4 @@
 - **May 01, 08:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 08:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 08:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 01, 08:25 AM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
