@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 55 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 77 | 77 |
@@ -3746,3 +3746,4 @@
 - **May 01, 12:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 12:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 01, 12:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 01, 12:31 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
