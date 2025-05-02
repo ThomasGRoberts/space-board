@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -3743,3 +3743,4 @@
 - **May 02, 10:47 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
 - **May 02, 11:03 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 11:17 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **May 02, 11:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
