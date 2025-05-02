@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -3788,3 +3788,4 @@
 - **May 02, 04:05 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
 - **May 02, 04:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 04:33 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 02, 04:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
