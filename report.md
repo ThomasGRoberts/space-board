@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 29 | 56 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -3807,3 +3807,4 @@
 - **May 02, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 06:03 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
 - **May 02, 06:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 06:35 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
