@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -3701,3 +3701,4 @@
 - **May 02, 06:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 06:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 06:51 AM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
+- **May 02, 07:07 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
