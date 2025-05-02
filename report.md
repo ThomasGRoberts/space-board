@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 
 # Shown Order
 
@@ -3849,3 +3849,4 @@
 - **May 02, 10:15 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
 - **May 02, 10:29 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 02, 10:43 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 02, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
