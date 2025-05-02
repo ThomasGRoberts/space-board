@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 27 | 54 |
+| spacenews | 7 | 16 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3660,3 +3660,4 @@
 - **May 02, 02:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 02:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 03:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 03:03 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
