@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 27 | 54 |
+| spacenews | 7 | 16 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3690,3 +3690,4 @@
 - **May 02, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 05:51 AM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
