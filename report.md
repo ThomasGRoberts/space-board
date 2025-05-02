@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 29 | 55 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| spacenews | 8 | 13 | 28 | 55 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -3775,3 +3775,4 @@
 - **May 02, 02:22 PM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
 - **May 02, 02:37 PM** - NASA to continue Lunar Trailblazer recovery efforts through mid-June (spacenews)
 - **May 02, 02:51 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 03:07 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
