@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 
 # Shown Order
 
@@ -3859,3 +3859,4 @@
 - **May 02, 11:11 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
 - **May 02, 11:25 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 02, 11:39 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 02, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
