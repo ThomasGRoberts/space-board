@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 27 | 54 |
+| spacenews | 7 | 14 | 27 | 53 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -3725,3 +3725,4 @@
 - **May 02, 09:17 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **May 02, 09:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 09:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
