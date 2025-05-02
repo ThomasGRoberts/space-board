@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -3703,3 +3703,4 @@
 - **May 02, 06:51 AM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **May 02, 07:07 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 07:21 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **May 02, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
