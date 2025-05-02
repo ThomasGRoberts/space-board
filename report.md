@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 28 | 54 |
+| spacenews | 8 | 12 | 29 | 55 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3783,3 +3783,4 @@
 - **May 02, 03:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 03:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 03:35 PM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
