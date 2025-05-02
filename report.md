@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 54 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -3732,3 +3732,4 @@
 - **May 02, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 09:49 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 02, 10:05 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 10:19 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
