@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -3765,3 +3765,4 @@
 - **May 02, 01:17 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 02, 01:35 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 02, 01:51 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
+- **May 02, 02:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
