@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-02T00:02:17.018247+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "7d2c90ce804ab768dda7e9804b3e211d",
     "data": [
         {
             "id": "c0ee9c34da9e1cf40aea0efac5219400",
@@ -9418,6 +9418,18 @@
             "shown_at": [
                 "2025-05-02T19:49:26.186229Z",
                 "2025-05-02T20:49:32.775176Z"
+            ]
+        },
+        {
+            "id": "7d2c90ce804ab768dda7e9804b3e211d",
+            "source": "spacenews",
+            "text": "Europe begins probing SES–Intelsat merger on competition grounds",
+            "source_link": "https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-02T21:20:05.180023Z",
+            "shown_at": [
+                "2025-05-02T21:20:05.800803Z"
             ]
         }
     ]
