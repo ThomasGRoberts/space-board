@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 27 | 54 |
+| spacenews | 7 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3761,3 +3761,4 @@
 - **May 02, 12:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 12:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 01:03 PM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
