@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -3798,3 +3798,4 @@
 - **May 02, 05:05 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 02, 05:19 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 02, 05:33 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 02, 05:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
