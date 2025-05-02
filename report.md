@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 28 | 55 |
-| breaking_defense | 1 | 2 | 24 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| breaking_defense | 1 | 2 | 24 | 48 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -3654,4 +3654,4 @@
 - **May 02, 01:09 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 02, 01:23 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 02, 01:39 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
-- **May 02, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 02, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
