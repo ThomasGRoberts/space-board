@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 28 | 55 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3776,3 +3776,4 @@
 - **May 02, 02:37 PM** - NASA to continue Lunar Trailblazer recovery efforts through mid-June (spacenews)
 - **May 02, 02:51 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 03:07 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 02, 03:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
