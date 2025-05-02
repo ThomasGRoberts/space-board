@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 28 | 55 |
+| spacenews | 8 | 13 | 27 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 
 # Shown Order
 
@@ -3851,3 +3851,4 @@
 - **May 02, 10:43 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 02, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 10:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 11:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
