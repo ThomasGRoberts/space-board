@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 27 | 56 |
+| spacenews | 7 | 14 | 28 | 56 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3826,3 +3826,4 @@
 - **May 02, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 08:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 08:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 08:22 PM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
