@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 54 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -3752,3 +3752,4 @@
 - **May 02, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 11:45 AM** - Vega launches Biomass satellite (spacenews)
 - **May 02, 11:59 AM** - Lockheed Martin delivers completed Orion to NASA for Artemis 2 (spacenews)
+- **May 02, 12:15 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
