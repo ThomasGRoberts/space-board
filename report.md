@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -3763,3 +3763,4 @@
 - **May 02, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 01:03 PM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 02, 01:17 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
+- **May 02, 01:35 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
