@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 28 | 54 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -3712,3 +3712,4 @@
 - **May 02, 07:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:49 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 02, 08:03 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 02, 08:18 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
