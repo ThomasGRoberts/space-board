@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -3691,3 +3691,4 @@
 - **May 02, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 05:51 AM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
+- **May 02, 06:05 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
