@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 54 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -3753,3 +3753,4 @@
 - **May 02, 11:45 AM** - Vega launches Biomass satellite (spacenews)
 - **May 02, 11:59 AM** - Lockheed Martin delivers completed Orion to NASA for Artemis 2 (spacenews)
 - **May 02, 12:15 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 02, 12:32 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
