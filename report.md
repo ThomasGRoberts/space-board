@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 27 | 54 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| spacenews | 7 | 16 | 28 | 55 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -3710,3 +3710,4 @@
 - **May 02, 07:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 07:49 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
