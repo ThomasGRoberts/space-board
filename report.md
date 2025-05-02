@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 28 | 55 |
 | breaking_defense | 1 | 2 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -3661,3 +3661,4 @@
 - **May 02, 02:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 03:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 03:03 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
+- **May 02, 03:17 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
