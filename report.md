@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 28 | 55 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -3682,3 +3682,4 @@
 - **May 02, 04:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 04:55 AM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)
 - **May 02, 05:09 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 05:23 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
