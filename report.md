@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -3734,3 +3734,4 @@
 - **May 02, 10:05 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 10:19 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 02, 10:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 10:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
