@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -3683,3 +3683,4 @@
 - **May 02, 04:55 AM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)
 - **May 02, 05:09 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 05:23 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 02, 05:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
