@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 27 | 53 |
+| spacenews | 7 | 14 | 28 | 54 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3750,3 +3750,4 @@
 - **May 02, 11:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 11:45 AM** - Vega launches Biomass satellite (spacenews)
