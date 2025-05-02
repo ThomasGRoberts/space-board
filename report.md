@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 29 | 56 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | supercluster | 1 | 1 | 161 | 161 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3813,3 +3813,4 @@
 - **May 02, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 02, 01:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 02, 01:09 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
+- **May 02, 01:23 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
