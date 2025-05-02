@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 54 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| spacenews | 7 | 13 | 28 | 55 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -3772,3 +3772,4 @@
 - **May 02, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 02:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 02:22 PM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
