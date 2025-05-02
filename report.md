@@ -3654,4 +3654,4 @@
 - **May 02, 01:09 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 02, 01:23 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 02, 01:39 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
-- **May 02, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 02, 02:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
