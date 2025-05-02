@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 28 | 56 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| breaking_defense | 1 | 2 | 25 | 49 |
 | supercluster | 1 | 1 | 154 | 154 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3804,3 +3804,4 @@
 - **May 02, 12:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 02, 12:11 AM** - Spire Global closes stalled $241 million maritime sale (spacenews)
 - **May 02, 12:25 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 12:41 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
