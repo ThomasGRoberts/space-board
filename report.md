@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 27 | 55 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| spacenews | 8 | 13 | 28 | 56 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 132 | 132 |
@@ -3846,3 +3846,4 @@
 - **May 02, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 10:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 10:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 10:15 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
