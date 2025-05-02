@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 27 | 55 |
+| spacenews | 7 | 16 | 27 | 54 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3704,3 +3704,4 @@
 - **May 02, 07:07 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 07:21 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **May 02, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
