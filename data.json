@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-02T00:02:17.018247+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4745e93544fb07520955d9e82897a3df",
+    "trigger_count": 0,
+    "current_item_id": "e96d2f1ef756e0fb2221ab092401d662",
     "data": [
         {
             "id": "c0ee9c34da9e1cf40aea0efac5219400",
@@ -9278,6 +9278,18 @@
             "fetched_datetime": "2025-05-02T11:59:37.641372Z",
             "shown_at": [
                 "2025-05-02T11:59:38.209822Z"
+            ]
+        },
+        {
+            "id": "e96d2f1ef756e0fb2221ab092401d662",
+            "source": "spacenews",
+            "text": "Building the space workforce — how to compete for top talent in a new frontier",
+            "source_link": "https://spacenews.com/building-the-space-workforce-how-to-compete-for-top-talent-in-a-new-frontier/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-02T13:17:38.818638Z",
+            "shown_at": [
+                "2025-05-02T13:17:39.427415Z"
             ]
         }
     ]
