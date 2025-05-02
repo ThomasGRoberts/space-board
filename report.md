@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 29 | 56 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| spacenews | 9 | 14 | 30 | 57 |
+| breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 111 | 111 |
@@ -3815,3 +3815,4 @@
 - **May 02, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 02, 07:05 PM** - China is making stainless steel tanks for its future super heavy-lift rockets (spacenews)
