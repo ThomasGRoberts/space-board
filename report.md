@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 29 | 57 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 1 | 1 | 21 | 46 |
+| nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 111 | 111 |
 
@@ -3816,3 +3816,4 @@
 - **May 02, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 07:05 PM** - China is making stainless steel tanks for its future super heavy-lift rockets (spacenews)
+- **May 02, 07:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
