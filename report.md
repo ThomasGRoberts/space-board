@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 55 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -3764,3 +3764,4 @@
 - **May 02, 01:03 PM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 02, 01:17 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 02, 01:35 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 02, 01:51 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
