@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-02T00:02:17.018247+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "4745e93544fb07520955d9e82897a3df",
     "data": [
         {
             "id": "c0ee9c34da9e1cf40aea0efac5219400",
@@ -9306,6 +9306,18 @@
                 "2025-03-06T14:15:54.947478Z",
                 "2025-03-08T18:24:13.231060Z",
                 "2025-03-09T23:35:47.690331Z"
+            ]
+        },
+        {
+            "id": "4745e93544fb07520955d9e82897a3df",
+            "source": "spacenews",
+            "text": "Radian Aerospace unveils plans for reentry vehicle",
+            "source_link": "https://spacenews.com/radian-aerospace-unveils-plans-for-reentry-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-02T01:09:34.154832Z",
+            "shown_at": [
+                "2025-05-02T01:09:35.152351Z"
             ]
         }
     ]
