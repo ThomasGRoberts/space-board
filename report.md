@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 
 # Shown Order
 
@@ -3829,3 +3829,4 @@
 - **May 02, 08:22 PM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
 - **May 02, 08:35 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 02, 08:49 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 02, 09:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
