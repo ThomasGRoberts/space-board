@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 28 | 54 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -3722,3 +3722,4 @@
 - **May 02, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 02, 08:47 AM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
 - **May 02, 09:02 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 02, 09:17 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
