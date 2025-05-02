@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 28 | 56 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 2 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 111 | 111 |
@@ -3818,3 +3818,4 @@
 - **May 02, 07:05 PM** - China is making stainless steel tanks for its future super heavy-lift rockets (spacenews)
 - **May 02, 07:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 07:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 02, 07:49 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)

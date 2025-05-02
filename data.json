@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-02T00:02:17.018247+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2fb4f433db644b27cccaf43eb99d2ac5",
+    "trigger_count": 0,
+    "current_item_id": "4f4340b11776d7272e938b32779338c4",
     "data": [
         {
             "id": "c0ee9c34da9e1cf40aea0efac5219400",
@@ -9389,6 +9389,18 @@
             "fetched_datetime": "2025-05-02T17:19:41.264028Z",
             "shown_at": [
                 "2025-05-02T17:19:42.260437Z"
+            ]
+        },
+        {
+            "id": "4f4340b11776d7272e938b32779338c4",
+            "source": "breaking_defense",
+            "text": "Army to stand up new space career field for enlisted personnel in October 2026",
+            "source_link": "https://breakingdefense.com/2025/05/army-to-stand-up-new-space-career-field-for-enlisted-personnel-in-october-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-02T19:49:25.630054Z",
+            "shown_at": [
+                "2025-05-02T19:49:26.186229Z"
             ]
         }
     ]
