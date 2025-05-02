@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -3819,3 +3819,4 @@
 - **May 02, 07:19 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 02, 07:35 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 02, 07:49 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 02, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
