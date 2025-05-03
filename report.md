@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 25 | 54 |
 | breaking_defense | 1 | 2 | 25 | 48 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | supercluster | 0 | 1 | 175 | 272 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4019,3 +4019,4 @@
 - **May 03, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:23 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
+- **May 03, 05:37 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
