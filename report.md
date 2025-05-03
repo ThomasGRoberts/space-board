@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 24 | 52 |
-| breaking_defense | 0 | 2 | 24 | 47 |
+| breaking_defense | 0 | 2 | 25 | 48 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -3763,3 +3763,4 @@
 - **May 03, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 08:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **May 03, 08:31 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 03, 08:45 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
