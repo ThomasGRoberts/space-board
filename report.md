@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 26 | 55 |
 | breaking_defense | 1 | 2 | 25 | 47 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 25 | 47 |
 | supercluster | 0 | 1 | 168 | 251 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3989,3 +3989,4 @@
 - **May 03, 02:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 02:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 02:35 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
+- **May 03, 02:49 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
