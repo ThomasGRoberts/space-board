@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 8 | 24 | 52 |
-| breaking_defense | 0 | 1 | 24 | 46 |
+| breaking_defense | 0 | 1 | 25 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 23 | 23 |
@@ -3783,3 +3783,4 @@
 - **May 03, 10:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 10:11 PM** - Vega launches Biomass satellite (spacenews)
 - **May 03, 10:25 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 03, 10:39 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
