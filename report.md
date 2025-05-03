@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
-| breaking_defense | 1 | 2 | 24 | 47 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 209 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3930,3 +3930,4 @@
 - **May 03, 08:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 08:49 AM** - Atlas launches first operational Project Kuiper satellites (spacenews)
 - **May 03, 09:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 03, 09:17 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
