@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| nyt | 1 | 1 | 23 | 45 |
+| nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 209 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3929,3 +3929,4 @@
 - **May 03, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 08:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 08:49 AM** - Atlas launches first operational Project Kuiper satellites (spacenews)
+- **May 03, 09:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
