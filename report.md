@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 55 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 158 | 188 |
+| supercluster | 0 | 1 | 158 | 189 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3901,3 +3901,4 @@
 - **May 03, 06:01 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
 - **May 03, 06:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 06:29 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 03, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
