@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 24 | 52 |
 | breaking_defense | 1 | 2 | 25 | 47 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -3752,3 +3752,4 @@
 - **May 03, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 07:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 07:19 PM** - Expanding the human presence in orbit faces growing risk from space debris (spacenews)
+- **May 03, 07:33 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
