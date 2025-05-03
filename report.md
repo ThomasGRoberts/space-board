@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 28 | 55 |
+| spacenews | 6 | 13 | 29 | 56 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 164 | 230 |
+| supercluster | 0 | 1 | 163 | 230 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3958,3 +3958,4 @@
 - **May 03, 11:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 11:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 11:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 11:39 AM** - Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034 (spacenews)
