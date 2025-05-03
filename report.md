@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 27 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 163 | 232 |
+| supercluster | 0 | 1 | 164 | 233 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3963,3 +3963,4 @@
 - **May 03, 12:07 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 03, 12:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 12:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
