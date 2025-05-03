@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 188 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3899,3 +3899,4 @@
 - **May 03, 05:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 06:01 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
+- **May 03, 06:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
