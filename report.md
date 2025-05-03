@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
-| breaking_defense | 1 | 2 | 24 | 47 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 223 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3950,3 +3950,4 @@
 - **May 03, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 10:41 AM** - China to lend Chang’e-5 moon samples to U.S. universities (spacenews)
 - **May 03, 10:55 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 03, 11:11 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
