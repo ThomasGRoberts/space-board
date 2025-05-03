@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 27 | 55 |
+| spacenews | 6 | 13 | 28 | 56 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | supercluster | 0 | 1 | 161 | 188 |
@@ -3898,3 +3898,4 @@
 - **May 03, 05:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 06:01 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
