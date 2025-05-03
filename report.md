@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 153 | 153 |
+| supercluster | 1 | 1 | 154 | 154 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3851,3 +3851,4 @@
 - **May 03, 01:13 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 03, 01:27 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 01:41 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 03, 01:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
