@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 27 | 55 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3842,3 +3842,4 @@
 - **May 03, 12:21 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 03, 12:39 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 03, 12:56 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
