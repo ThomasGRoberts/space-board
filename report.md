@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 28 | 56 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| spacenews | 6 | 13 | 28 | 55 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 188 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3900,3 +3900,4 @@
 - **May 03, 05:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 06:01 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
 - **May 03, 06:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 03, 06:29 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
