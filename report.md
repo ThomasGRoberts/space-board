@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3754,3 +3754,4 @@
 - **May 03, 07:19 PM** - Expanding the human presence in orbit faces growing risk from space debris (spacenews)
 - **May 03, 07:33 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 03, 07:47 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 03, 08:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
