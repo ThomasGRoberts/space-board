@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 27 | 56 |
 | breaking_defense | 1 | 2 | 23 | 47 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 153 | 153 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3849,3 +3849,4 @@
 - **May 03, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 01:13 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
+- **May 03, 01:27 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
