@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 28 | 55 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 160 | 202 |
+| supercluster | 0 | 1 | 160 | 203 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3921,3 +3921,4 @@
 - **May 03, 07:53 AM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
 - **May 03, 08:07 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 03, 08:21 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 03, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
