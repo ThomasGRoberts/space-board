@@ -5,7 +5,7 @@
 | spacenews | 4 | 11 | 26 | 54 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 163 | 239 |
+| supercluster | 0 | 1 | 164 | 240 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3973,3 +3973,4 @@
 - **May 03, 01:09 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 03, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 01:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 01:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
