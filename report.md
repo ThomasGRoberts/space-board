@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -3775,3 +3775,4 @@
 - **May 03, 09:29 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 09:43 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 03, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 03, 09:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
