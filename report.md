@@ -5,7 +5,7 @@
 | spacenews | 4 | 11 | 26 | 54 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 161 | 237 |
+| supercluster | 0 | 1 | 162 | 238 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3971,3 +3971,4 @@
 - **May 03, 12:39 PM** - Apex raises $200 million to accelerate satellite production (spacenews)
 - **May 03, 12:53 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 03, 01:09 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 03, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
