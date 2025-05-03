@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 195 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3909,3 +3909,4 @@
 - **May 03, 06:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 06:57 AM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
+- **May 03, 07:11 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
