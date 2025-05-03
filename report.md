@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 10 | 24 | 53 |
+| spacenews | 1 | 10 | 25 | 54 |
 | breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 175 | 272 |
@@ -4018,3 +4018,4 @@
 - **May 03, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 05:23 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
