@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 55 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 157 | 181 |
+| supercluster | 0 | 1 | 157 | 182 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3891,3 +3891,4 @@
 - **May 03, 05:02 AM** - Apex raises $200 million to accelerate satellite production (spacenews)
 - **May 03, 05:17 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 05:31 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 03, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
