@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 27 | 55 |
+| spacenews | 6 | 13 | 28 | 56 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 160 | 160 |
@@ -3858,3 +3858,4 @@
 - **May 03, 02:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 03, 02:09 AM** - Apex raises $200 million to accelerate satellite production (spacenews)
