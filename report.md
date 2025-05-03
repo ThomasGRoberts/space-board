@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 27 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 161 | 230 |
+| supercluster | 0 | 1 | 162 | 231 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3961,3 +3961,4 @@
 - **May 03, 11:39 AM** - Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034 (spacenews)
 - **May 03, 11:53 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 03, 12:07 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 03, 12:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
