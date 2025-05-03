@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 51 |
+| spacenews | 1 | 8 | 25 | 52 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3761,3 +3761,4 @@
 - **May 03, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 08:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 03, 08:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
