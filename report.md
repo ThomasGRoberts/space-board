@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -3794,3 +3794,4 @@
 - **May 03, 11:09 PM** - NASA investigating problem with Psyche electric thrusters (spacenews)
 - **May 03, 11:23 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 11:37 PM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 03, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
