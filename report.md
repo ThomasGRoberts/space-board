@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 11 | 25 | 55 |
 | breaking_defense | 1 | 2 | 25 | 47 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 25 | 47 |
 | supercluster | 0 | 1 | 175 | 265 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4009,3 +4009,4 @@
 - **May 03, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 04:27 PM** - Lockheed Martin delivers completed Orion to NASA for Artemis 2 (spacenews)
+- **May 03, 04:41 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
