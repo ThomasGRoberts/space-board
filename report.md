@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 28 | 55 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 159 | 195 |
+| supercluster | 0 | 1 | 159 | 196 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3911,3 +3911,4 @@
 - **May 03, 06:57 AM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
 - **May 03, 07:11 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 03, 07:25 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 03, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
