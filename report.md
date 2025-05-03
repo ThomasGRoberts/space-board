@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 28 | 55 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 159 | 167 |
+| supercluster | 0 | 1 | 159 | 168 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3871,3 +3871,4 @@
 - **May 03, 03:05 AM** - Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg (spacenews)
 - **May 03, 03:19 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 03, 03:33 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 03, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
