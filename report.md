@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 8 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| nyt | 0 | 1 | 24 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 23 | 23 |
 
@@ -3782,3 +3782,4 @@
 - **May 03, 10:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 10:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 03, 10:11 PM** - Vega launches Biomass satellite (spacenews)
+- **May 03, 10:25 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
