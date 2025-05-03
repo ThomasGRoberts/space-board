@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 56 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 202 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3920,3 +3920,4 @@
 - **May 03, 07:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 07:53 AM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
 - **May 03, 08:07 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 03, 08:21 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
