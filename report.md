@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 25 | 47 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -3749,3 +3749,4 @@
 - **May 03, 05:23 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
 - **May 03, 05:37 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 03, 05:51 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 03, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
