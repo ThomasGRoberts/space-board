@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 11 | 25 | 55 |
-| breaking_defense | 1 | 2 | 25 | 47 |
+| breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 1 | 1 | 25 | 46 |
 | supercluster | 0 | 1 | 172 | 265 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4010,3 +4010,4 @@
 - **May 03, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 04:27 PM** - Lockheed Martin delivers completed Orion to NASA for Artemis 2 (spacenews)
 - **May 03, 04:41 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 03, 04:55 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
