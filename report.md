@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 27 | 55 |
 | breaking_defense | 1 | 2 | 25 | 47 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 244 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3979,3 +3979,4 @@
 - **May 03, 01:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 01:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 01:37 PM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
+- **May 03, 01:51 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
