@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 26 | 54 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 251 |
+| supercluster | 0 | 1 | 169 | 252 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3991,3 +3991,4 @@
 - **May 03, 02:35 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
 - **May 03, 02:49 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 03, 03:03 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 03, 03:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
