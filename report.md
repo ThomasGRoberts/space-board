@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 25 | 54 |
-| breaking_defense | 1 | 2 | 25 | 47 |
+| breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 1 | 25 | 47 |
-| supercluster | 0 | 1 | 174 | 272 |
+| supercluster | 0 | 1 | 173 | 272 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4020,3 +4020,4 @@
 - **May 03, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 03, 05:23 PM** - FCC opens new battlefront in satellite power struggle (spacenews)
 - **May 03, 05:37 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 03, 05:51 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
