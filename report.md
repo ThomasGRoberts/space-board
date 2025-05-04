@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -3812,3 +3812,4 @@
 - **May 04, 11:27 AM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **May 04, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 04, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
