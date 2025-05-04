@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 65 | 65 |
 | spacenews | 0 | 6 | 24 | 52 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3843,3 +3843,4 @@
 - **May 04, 03:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 03:57 AM** - Space Force embraces commercial tech in major overhaul of surveillance satellite program (spacenews)
 - **May 04, 04:11 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 04, 04:25 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
