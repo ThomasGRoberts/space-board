@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 23 | 49 |
-| breaking_defense | 0 | 1 | 23 | 48 |
+| spacenews | 1 | 4 | 24 | 50 |
+| breaking_defense | 0 | 1 | 22 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 40 | 40 |
@@ -3848,3 +3848,4 @@
 - **May 04, 02:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 02:35 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 04, 02:49 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 04, 03:03 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
