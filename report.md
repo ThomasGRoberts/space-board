@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 24 | 52 |
+| spacenews | 0 | 6 | 23 | 52 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3792,4 +3792,4 @@
 - **May 04, 07:55 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 08:09 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 04, 08:39 AM** - Europe begins probing SES–Intelsat merger on competition grounds (spacenews)
-- **May 04, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 09:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
