@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -3880,3 +3880,4 @@
 - **May 04, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 09:59 PM** - If European leaders want to beef up defense in space, they should look to the Space Development Agency (spacenews)
 - **May 04, 10:13 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 04, 10:27 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
