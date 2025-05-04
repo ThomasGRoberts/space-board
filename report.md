@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | spacenews | 0 | 6 | 24 | 52 |
-| breaking_defense | 0 | 1 | 25 | 48 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3874,3 +3874,4 @@
 - **May 04, 06:45 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
 - **May 04, 06:59 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 07:13 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 04, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
