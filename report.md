@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 48 |
+| spacenews | 1 | 2 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3868,3 +3868,4 @@
 - **May 04, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 09:02 PM** - Head of FAA’s commercial space office takes buyout (spacenews)
