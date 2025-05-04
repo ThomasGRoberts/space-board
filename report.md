@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3794,3 +3794,4 @@
 - **May 04, 08:39 AM** - Europe begins probing SES–Intelsat merger on competition grounds (spacenews)
 - **May 04, 09:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 09:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 04, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
