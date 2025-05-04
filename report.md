@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -3891,3 +3891,4 @@
 - **May 04, 10:55 PM** - Atlas launches first operational Project Kuiper satellites (spacenews)
 - **May 04, 11:09 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 04, 11:23 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 04, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
