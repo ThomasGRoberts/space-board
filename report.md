@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -3863,3 +3863,4 @@
 - **May 04, 08:33 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 08:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 08:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
