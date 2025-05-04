@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 24 | 51 |
+| spacenews | 1 | 5 | 24 | 50 |
 | breaking_defense | 0 | 1 | 22 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 34 | 34 |
+| supercluster | 2 | 2 | 35 | 35 |
 
 # Shown Order
 
@@ -3840,3 +3840,4 @@
 - **May 04, 01:54 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 04, 02:07 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
 - **May 04, 02:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 02:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
