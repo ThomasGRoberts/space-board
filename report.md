@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -3861,3 +3861,4 @@
 - **May 04, 08:05 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
 - **May 04, 08:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 04, 08:33 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 04, 08:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
