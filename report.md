@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 23 | 47 |
+| spacenews | 1 | 2 | 24 | 48 |
 | breaking_defense | 0 | 1 | 22 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3838,3 +3838,4 @@
 - **May 04, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 06:10 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 06:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 06:13 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
