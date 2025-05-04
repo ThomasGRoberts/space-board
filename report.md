@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -3860,3 +3860,4 @@
 - **May 04, 08:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 08:05 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
 - **May 04, 08:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 04, 08:33 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
