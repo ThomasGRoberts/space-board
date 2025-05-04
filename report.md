@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -3800,3 +3800,4 @@
 - **May 04, 10:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 04, 10:17 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
 - **May 04, 10:31 AM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
+- **May 04, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
