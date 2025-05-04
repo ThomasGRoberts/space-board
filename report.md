@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 41 | 41 |
+| supercluster | 2 | 2 | 42 | 42 |
 
 # Shown Order
 
@@ -3850,3 +3850,4 @@
 - **May 04, 02:49 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 03:03 PM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 04, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 03:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
