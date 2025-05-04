@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 23 | 50 |
+| spacenews | 0 | 5 | 24 | 51 |
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3819,3 +3819,4 @@
 - **May 04, 11:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 11:55 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 04, 12:09 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 04, 12:25 PM** - Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready (spacenews)
