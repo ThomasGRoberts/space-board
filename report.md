@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 25 | 49 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| spacenews | 1 | 2 | 24 | 49 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -3869,3 +3869,4 @@
 - **May 04, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 09:02 PM** - Head of FAA’s commercial space office takes buyout (spacenews)
+- **May 04, 09:17 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
