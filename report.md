@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 | spacenews | 0 | 6 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
@@ -3834,3 +3834,4 @@
 - **May 04, 02:59 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
 - **May 04, 03:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 04, 03:29 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 04, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
