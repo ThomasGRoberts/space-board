@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | spacenews | 0 | 6 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
@@ -3854,3 +3854,4 @@
 - **May 04, 04:53 AM** - Vega launches Biomass satellite (spacenews)
 - **May 04, 05:07 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 04, 05:21 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 04, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
