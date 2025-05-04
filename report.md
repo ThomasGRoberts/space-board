@@ -3792,4 +3792,4 @@
 - **May 04, 07:55 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 08:09 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 04, 08:39 AM** - Europe begins probing SES–Intelsat merger on competition grounds (spacenews)
-- **May 04, 08:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 08:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
