@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 23 | 50 |
+| spacenews | 1 | 5 | 24 | 51 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3838,3 +3838,4 @@
 - **May 04, 01:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 01:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 01:54 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 04, 02:07 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
