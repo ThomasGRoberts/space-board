@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 44 | 44 |
-| spacenews | 0 | 7 | 24 | 51 |
+| spacenews | 0 | 7 | 25 | 52 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3811,3 +3811,4 @@
 - **May 04, 12:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 01:02 AM** - NASA investigating problem with Psyche electric thrusters (spacenews)
