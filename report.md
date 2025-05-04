@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -3802,3 +3802,4 @@
 - **May 04, 10:31 AM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
 - **May 04, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 04, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
