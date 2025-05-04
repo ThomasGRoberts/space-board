@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 44 | 44 |
 | spacenews | 0 | 6 | 24 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3813,3 +3813,4 @@
 - **May 04, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 01:02 AM** - NASA investigating problem with Psyche electric thrusters (spacenews)
 - **May 04, 01:17 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 04, 01:33 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
