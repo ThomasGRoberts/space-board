@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 58 | 58 |
-| spacenews | 0 | 6 | 24 | 52 |
+| spacenews | 0 | 6 | 25 | 53 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3831,3 +3831,4 @@
 - **May 04, 02:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 02:59 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
