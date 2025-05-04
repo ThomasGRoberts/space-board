@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 | spacenews | 0 | 7 | 24 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
@@ -3804,3 +3804,4 @@
 - **May 04, 12:05 AM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
 - **May 04, 12:19 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 04, 12:33 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 04, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
