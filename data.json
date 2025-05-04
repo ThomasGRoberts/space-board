@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-04T00:01:53.117801+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba2f00d14db61b42a3e6b87ec065263f",
+    "trigger_count": 0,
+    "current_item_id": "65a0b0acde9a56f64db4112b4a36c0c3",
     "data": [
         {
             "id": "7d2c90ce804ab768dda7e9804b3e211d",
@@ -9322,6 +9322,18 @@
                 "2025-05-04T12:49:01.497781Z",
                 "2025-05-04T12:51:40.761725Z",
                 "2025-05-04T12:53:36.426697Z"
+            ]
+        },
+        {
+            "id": "65a0b0acde9a56f64db4112b4a36c0c3",
+            "source": "spacenews",
+            "text": "Army creates space career field for enlisted soldiers",
+            "source_link": "https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-04T13:11:44.154411Z",
+            "shown_at": [
+                "2025-05-04T13:11:45.150051Z"
             ]
         }
     ]
