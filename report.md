@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 48 |
-| breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 1 | 24 | 48 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -3850,3 +3850,4 @@
 - **May 04, 07:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 07:09 PM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
 - **May 04, 07:23 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 04, 07:37 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
