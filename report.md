@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 24 | 50 |
-| breaking_defense | 0 | 1 | 22 | 47 |
+| breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -3829,3 +3829,4 @@
 - **May 04, 12:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 12:55 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 01:11 PM** - Army creates space career field for enlisted soldiers (spacenews)
+- **May 04, 01:25 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
