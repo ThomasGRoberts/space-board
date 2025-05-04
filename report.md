@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 48 |
-| breaking_defense | 0 | 1 | 22 | 48 |
+| breaking_defense | 0 | 1 | 23 | 49 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 54 | 54 |
@@ -3866,3 +3866,4 @@
 - **May 04, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 04, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 04, 04:32 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
