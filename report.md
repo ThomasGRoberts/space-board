@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -3870,3 +3870,4 @@
 - **May 04, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 09:02 PM** - Head of FAA’s commercial space office takes buyout (spacenews)
 - **May 04, 09:17 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 04, 09:31 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
