@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 23 | 48 |
+| spacenews | 1 | 3 | 24 | 49 |
 | breaking_defense | 0 | 1 | 22 | 48 |
 | nyt | 0 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3858,3 +3858,4 @@
 - **May 04, 03:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 03:32 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 04, 03:47 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 04, 04:03 PM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
