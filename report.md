@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 93 | 93 |
-| spacenews | 0 | 6 | 25 | 52 |
+| spacenews | 0 | 6 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 1 | 24 | 47 |
+| nyt | 0 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3882,3 +3882,4 @@
 - **May 04, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 07:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 07:41 AM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
+- **May 04, 07:55 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
