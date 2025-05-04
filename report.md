@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 58 | 58 |
 | spacenews | 0 | 6 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 1 | 24 | 47 |
+| nyt | 0 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3832,3 +3832,4 @@
 - **May 04, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 02:59 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
+- **May 04, 03:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
