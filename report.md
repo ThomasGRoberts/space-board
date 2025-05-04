@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -3832,3 +3832,4 @@
 - **May 04, 05:31 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 04, 05:45 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 05:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 06:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
