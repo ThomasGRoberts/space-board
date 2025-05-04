@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | spacenews | 0 | 6 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
@@ -3864,3 +3864,4 @@
 - **May 04, 05:49 AM** - Head of FAA’s commercial space office takes buyout (spacenews)
 - **May 04, 06:03 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 04, 06:17 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 04, 06:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
