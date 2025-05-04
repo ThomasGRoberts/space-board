@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -3842,3 +3842,4 @@
 - **May 04, 06:27 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 04, 06:41 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 04, 06:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 06:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
