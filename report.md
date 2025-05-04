@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 44 | 44 |
 | spacenews | 0 | 6 | 24 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3812,3 +3812,4 @@
 - **May 04, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 01:02 AM** - NASA investigating problem with Psyche electric thrusters (spacenews)
+- **May 04, 01:17 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
