@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 86 | 86 |
 | spacenews | 0 | 6 | 24 | 52 |
-| breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 1 | 25 | 47 |
+| breaking_defense | 0 | 1 | 25 | 49 |
+| nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3873,3 +3873,4 @@
 - **May 04, 06:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 06:45 AM** - EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit (spacenews)
 - **May 04, 06:59 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 04, 07:13 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
