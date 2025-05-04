@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -3882,3 +3882,4 @@
 - **May 04, 10:13 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 04, 10:27 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 04, 10:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 04, 10:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
