@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 154 | 210 |
 | spacenews | 12 | 13 | 32 | 56 |
-| breaking_defense | 2 | 2 | 22 | 46 |
+| breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4119,3 +4119,4 @@
 - **May 05, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 10:39 PM** - NASA budget proposal draws strong criticism (spacenews)
 - **May 05, 10:55 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 05, 11:13 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
