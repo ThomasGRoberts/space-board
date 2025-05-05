@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -3990,3 +3990,4 @@
 - **May 05, 08:45 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 05, 08:59 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 05, 09:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 09:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
