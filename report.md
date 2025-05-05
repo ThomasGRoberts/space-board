@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 141 | 141 |
+| supercluster | 1 | 1 | 142 | 142 |
 | spacenews | 1 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 25 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4010,3 +4010,4 @@
 - **May 05, 10:41 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 05, 10:55 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 05, 11:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 11:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
