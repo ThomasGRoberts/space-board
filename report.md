@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -3919,3 +3919,4 @@
 - **May 05, 01:49 AM** - NASA delays astrophysics mission call for proposals amid budget uncertainties (spacenews)
 - **May 05, 02:03 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 02:17 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 05, 02:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
