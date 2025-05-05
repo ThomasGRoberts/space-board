@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 126 | 126 |
 | spacenews | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3987,3 +3987,4 @@
 - **May 05, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 08:31 AM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
+- **May 05, 08:45 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
