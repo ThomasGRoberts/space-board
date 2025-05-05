@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ac43dd08820bae23ee76140c20fd397f",
+    "trigger_count": 0,
+    "current_item_id": "6e59f47bf1b05dd93f443a9853616e9d",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9600,6 +9600,27 @@
             "shown_at": [
                 "2025-05-05T15:02:12.634984Z"
             ]
+        },
+        {
+            "id": "6e59f47bf1b05dd93f443a9853616e9d",
+            "source": "spacenews",
+            "text": "Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker",
+            "source_link": "https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:17:44.499080Z",
+            "shown_at": [
+                "2025-05-05T15:17:45.502712Z"
+            ]
+        },
+        {
+            "id": "e4998c85a0297f48f0bf6beb760f574a",
+            "source": "spacenews",
+            "text": "Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference",
+            "source_link": "https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:17:44.499135Z"
         }
     ]
 }

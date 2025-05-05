@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 168 |
-| spacenews | 3 | 4 | 26 | 50 |
+| spacenews | 5 | 6 | 27 | 51 |
 | breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4050,3 +4050,4 @@
 - **May 05, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 02:47 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 05, 03:02 PM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
+- **May 05, 03:17 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
