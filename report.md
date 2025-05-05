@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 | spacenews | 1 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -4000,3 +4000,4 @@
 - **May 05, 09:43 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 05, 09:57 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 10:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 10:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
