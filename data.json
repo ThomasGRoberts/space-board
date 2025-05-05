@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "21bc4ab7769ce67941c4a33ac939ea53",
+    "trigger_count": 0,
+    "current_item_id": "25a754a455b9f954dc48fb7cdf3da094",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9654,9 +9654,12 @@
             "source": "spacenews",
             "text": "FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance",
             "source_link": "https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178082Z"
+            "fetched_datetime": "2025-05-05T15:47:40.178082Z",
+            "shown_at": [
+                "2025-05-05T16:17:45.596062Z"
+            ]
         }
     ]
 }
