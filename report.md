@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 63 | 63 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3898,3 +3898,4 @@
 - **May 04, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 04, 11:53 PM** - Europe begins probing SES–Intelsat merger on competition grounds (spacenews)
 - **May 05, 12:09 AM** - Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense (breaking_defense)
+- **May 05, 12:25 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
