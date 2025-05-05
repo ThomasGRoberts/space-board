@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 154 | 154 |
 | spacenews | 2 | 3 | 26 | 50 |
-| breaking_defense | 0 | 0 | 24 | 46 |
+| breaking_defense | 0 | 0 | 25 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4030,3 +4030,4 @@
 - **May 05, 12:35 PM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 05, 12:49 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 05, 01:05 PM** - Securing the skies: tackling the growing threat of GPS interference (spacenews)
+- **May 05, 01:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
