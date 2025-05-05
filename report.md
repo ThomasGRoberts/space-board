@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 189 |
-| spacenews | 8 | 9 | 30 | 54 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| spacenews | 9 | 10 | 31 | 55 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4085,3 +4085,4 @@
 - **May 05, 06:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 06:55 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 07:09 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
+- **May 05, 07:23 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)

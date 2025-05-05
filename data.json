@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9755e100041a8f28137614bb22adecd",
+    "trigger_count": 0,
+    "current_item_id": "19e6cdf71e5c337e806c65f629b7d581",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9689,6 +9689,18 @@
             "fetched_datetime": "2025-05-05T15:47:40.178082Z",
             "shown_at": [
                 "2025-05-05T16:17:45.596062Z"
+            ]
+        },
+        {
+            "id": "19e6cdf71e5c337e806c65f629b7d581",
+            "source": "spacenews",
+            "text": "Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’",
+            "source_link": "https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T19:23:28.131480Z",
+            "shown_at": [
+                "2025-05-05T19:23:28.688671Z"
             ]
         }
     ]
