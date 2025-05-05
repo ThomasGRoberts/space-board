@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 91 | 91 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3938,3 +3938,4 @@
 - **May 05, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 03:43 AM** - China’s Shenzhou-19 astronauts return to Earth after six-month mission (spacenews)
 - **May 05, 03:57 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 05, 04:11 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
