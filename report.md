@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 70 | 70 |
 | spacenews | 1 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3907,3 +3907,4 @@
 - **May 05, 12:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 12:53 AM** - China’s Shenzhou-19 astronauts return to Earth after six-month mission (spacenews)
+- **May 05, 01:07 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
