@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19e6cdf71e5c337e806c65f629b7d581",
+    "trigger_count": 0,
+    "current_item_id": "f0e945b989a11ef964a17e57ee9414da",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9701,6 +9701,18 @@
             "fetched_datetime": "2025-05-05T19:23:28.131480Z",
             "shown_at": [
                 "2025-05-05T19:23:28.688671Z"
+            ]
+        },
+        {
+            "id": "f0e945b989a11ef964a17e57ee9414da",
+            "source": "spacenews",
+            "text": "Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push",
+            "source_link": "https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T19:37:26.917111Z",
+            "shown_at": [
+                "2025-05-05T19:37:27.723411Z"
             ]
         }
     ]

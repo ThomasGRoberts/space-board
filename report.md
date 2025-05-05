@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 189 |
-| spacenews | 9 | 10 | 31 | 55 |
+| spacenews | 10 | 11 | 32 | 56 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4086,3 +4086,4 @@
 - **May 05, 06:55 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 07:09 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
 - **May 05, 07:23 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
+- **May 05, 07:37 PM** - Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push (spacenews)
