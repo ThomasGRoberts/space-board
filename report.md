@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 155 | 190 |
+| supercluster | 0 | 1 | 156 | 191 |
 | spacenews | 10 | 11 | 31 | 56 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
@@ -4089,3 +4089,4 @@
 - **May 05, 07:37 PM** - Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push (spacenews)
 - **May 05, 07:51 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 05, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 08:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
