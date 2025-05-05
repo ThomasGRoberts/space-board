@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 161 | 175 |
 | spacenews | 8 | 9 | 30 | 53 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4065,3 +4065,4 @@
 - **May 05, 04:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 04:59 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 05, 05:15 PM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
+- **May 05, 05:29 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
