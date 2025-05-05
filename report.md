@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 126 | 126 |
-| spacenews | 1 | 1 | 24 | 48 |
+| spacenews | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3986,3 +3986,4 @@
 - **May 05, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 08:31 AM** - Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use (spacenews)
