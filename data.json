@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "65a0b0acde9a56f64db4112b4a36c0c3",
+    "trigger_count": 0,
+    "current_item_id": "35d62026b802dd52d23acd7bbc33cbd0",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9522,6 +9522,18 @@
                 "2025-05-05T07:47:24.298196Z",
                 "2025-05-05T09:43:32.216504Z",
                 "2025-05-05T10:41:35.771446Z"
+            ]
+        },
+        {
+            "id": "35d62026b802dd52d23acd7bbc33cbd0",
+            "source": "spacenews",
+            "text": "Inversion completes first flight of reentry vehicle, but without reentry",
+            "source_link": "https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T11:37:44.568221Z",
+            "shown_at": [
+                "2025-05-05T11:37:45.469011Z"
             ]
         }
     ]
