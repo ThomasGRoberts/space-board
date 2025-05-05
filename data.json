@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e552284260173d3e1bc82f2f75571c11",
+    "trigger_count": 0,
+    "current_item_id": "9165092354b8b7dc27e4185073e24866",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9744,6 +9744,18 @@
             "fetched_datetime": "2025-05-05T21:02:00.607428Z",
             "shown_at": [
                 "2025-05-05T21:02:01.236341Z"
+            ]
+        },
+        {
+            "id": "9165092354b8b7dc27e4185073e24866",
+            "source": "spacenews",
+            "text": "Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5",
+            "source_link": "https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T21:43:30.427081Z",
+            "shown_at": [
+                "2025-05-05T21:43:30.937526Z"
             ]
         }
     ]
