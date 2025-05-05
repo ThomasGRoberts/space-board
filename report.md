@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 84 | 84 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3928,3 +3928,4 @@
 - **May 05, 02:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 02:45 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 05, 02:59 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 05, 03:13 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
