@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 154 | 168 |
-| spacenews | 8 | 9 | 29 | 52 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| spacenews | 8 | 9 | 30 | 53 |
+| breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4053,3 +4053,4 @@
 - **May 05, 03:17 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
 - **May 05, 03:33 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 05, 03:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
+- **May 05, 04:02 PM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)

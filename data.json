@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "37c94a36be807d13848810d97c6cb525",
+    "trigger_count": 0,
+    "current_item_id": "21bc4ab7769ce67941c4a33ac939ea53",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9642,9 +9642,12 @@
             "source": "spacenews",
             "text": "Defense Spending Drives Government Space Budgets to Historic High",
             "source_link": "https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178042Z"
+            "fetched_datetime": "2025-05-05T15:47:40.178042Z",
+            "shown_at": [
+                "2025-05-05T16:02:12.929412Z"
+            ]
         },
         {
             "id": "25a754a455b9f954dc48fb7cdf3da094",
