@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 162 | 176 |
+| supercluster | 0 | 1 | 163 | 177 |
 | spacenews | 8 | 9 | 30 | 53 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4067,3 +4067,4 @@
 - **May 05, 05:15 PM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 05, 05:29 PM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 05, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
