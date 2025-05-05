@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 149 | 149 |
-| spacenews | 2 | 2 | 26 | 49 |
+| supercluster | 1 | 1 | 150 | 150 |
+| spacenews | 2 | 2 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4022,3 +4022,4 @@
 - **May 05, 12:07 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 12:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 12:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 12:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
