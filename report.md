@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -3950,3 +3950,4 @@
 - **May 05, 04:53 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 05, 05:09 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 05, 05:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 05:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
