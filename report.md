@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 98 | 98 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3948,3 +3948,4 @@
 - **May 05, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 04:39 AM** - Defense-focused space startup True Anomaly raises $260 million (spacenews)
 - **May 05, 04:53 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
+- **May 05, 05:09 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
