@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 155 | 155 |
+| supercluster | 1 | 1 | 156 | 156 |
 | spacenews | 2 | 3 | 26 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -4032,3 +4032,4 @@
 - **May 05, 01:05 PM** - Securing the skies: tackling the growing threat of GPS interference (spacenews)
 - **May 05, 01:19 PM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 05, 01:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
