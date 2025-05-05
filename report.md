@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 168 |
 | spacenews | 2 | 3 | 26 | 49 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4048,3 +4048,4 @@
 - **May 05, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 02:47 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)

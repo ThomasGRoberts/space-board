@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "17f4de81427056cfca1a3d9e6dcffa28",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9575,6 +9575,18 @@
             "fetched_datetime": "2025-05-05T13:05:50.613736Z",
             "shown_at": [
                 "2025-05-05T13:05:51.347536Z"
+            ]
+        },
+        {
+            "id": "17f4de81427056cfca1a3d9e6dcffa28",
+            "source": "breaking_defense",
+            "text": "Today’s spectrum battle offers a golden opportunity",
+            "source_link": "https://breakingdefense.com/2025/05/todays-spectrum-battle-offers-a-golden-opportunity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T14:47:36.966783Z",
+            "shown_at": [
+                "2025-05-05T14:47:37.663020Z"
             ]
         }
     ]
