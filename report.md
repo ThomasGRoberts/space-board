@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 133 | 133 |
 | spacenews | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 1 | 1 | 25 | 48 |
+| nyt | 1 | 1 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3997,3 +3997,4 @@
 - **May 05, 09:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 09:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 09:29 AM** - NASA investigating problem with Psyche electric thrusters (spacenews)
+- **May 05, 09:43 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
