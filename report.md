@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -3961,3 +3961,4 @@
 - **May 05, 06:08 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
 - **May 05, 06:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 06:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
