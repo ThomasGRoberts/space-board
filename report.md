@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -3959,3 +3959,4 @@
 - **May 05, 05:39 AM** - China is making stainless steel tanks for its future super heavy-lift rockets (spacenews)
 - **May 05, 05:53 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 05, 06:08 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
+- **May 05, 06:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
