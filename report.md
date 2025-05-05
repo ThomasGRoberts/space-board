@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 77 | 77 |
 | spacenews | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3918,3 +3918,4 @@
 - **May 05, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 01:49 AM** - NASA delays astrophysics mission call for proposals amid budget uncertainties (spacenews)
 - **May 05, 02:03 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 05, 02:17 AM** - Amazon Launches First 27 Project Kuiper Internet Satellites (nyt)
