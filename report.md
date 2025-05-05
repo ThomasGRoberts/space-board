@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 128 | 128 |
+| supercluster | 1 | 1 | 129 | 129 |
 | spacenews | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3991,3 +3991,4 @@
 - **May 05, 08:59 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 05, 09:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 09:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 09:20 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
