@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6a7bb97a99b7f24211f9b6bc0a8dcd85",
+    "trigger_count": 0,
+    "current_item_id": "9d1a1b667c71c625177c4e747369f5d7",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9545,6 +9545,18 @@
             "fetched_datetime": "2025-05-05T11:37:44.568221Z",
             "shown_at": [
                 "2025-05-05T11:37:45.469011Z"
+            ]
+        },
+        {
+            "id": "9d1a1b667c71c625177c4e747369f5d7",
+            "source": "spacenews",
+            "text": "Securing the skies: tackling the growing threat of GPS interference",
+            "source_link": "https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T13:05:50.613736Z",
+            "shown_at": [
+                "2025-05-05T13:05:51.347536Z"
             ]
         }
     ]
