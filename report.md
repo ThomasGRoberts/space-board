@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 147 | 147 |
 | spacenews | 2 | 2 | 26 | 49 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4019,3 +4019,4 @@
 - **May 05, 11:23 AM** - Army creates space career field for enlisted soldiers (spacenews)
 - **May 05, 11:37 AM** - Inversion completes first flight of reentry vehicle, but without reentry (spacenews)
 - **May 05, 11:51 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 05, 12:07 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
