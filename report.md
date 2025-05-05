@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 147 | 147 |
 | spacenews | 2 | 2 | 26 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 1 | 1 | 25 | 48 |
+| nyt | 1 | 1 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4018,3 +4018,4 @@
 - **May 05, 11:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 11:23 AM** - Army creates space career field for enlisted soldiers (spacenews)
 - **May 05, 11:37 AM** - Inversion completes first flight of reentry vehicle, but without reentry (spacenews)
+- **May 05, 11:51 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
