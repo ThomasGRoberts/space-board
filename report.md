@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 155 | 169 |
+| supercluster | 0 | 1 | 156 | 170 |
 | spacenews | 8 | 9 | 30 | 53 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4057,3 +4057,4 @@
 - **May 05, 04:17 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
 - **May 05, 04:31 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 05, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
