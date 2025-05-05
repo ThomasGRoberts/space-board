@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 154 | 168 |
 | spacenews | 8 | 9 | 30 | 53 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4055,3 +4055,4 @@
 - **May 05, 03:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 05, 04:02 PM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)
 - **May 05, 04:17 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
+- **May 05, 04:31 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
