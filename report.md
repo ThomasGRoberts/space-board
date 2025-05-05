@@ -2,15 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 63 | 63 |
 | spacenews | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
-- **Mar 06, 09:39 PM** - York taps commercial satellite technology for classified defense missions (spacenews)
 - **Mar 06, 10:07 PM** - SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch (nyt)
 - **Mar 06, 10:35 PM** - Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain (nyt)
 - **Mar 06, 11:17 PM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
@@ -47,7 +46,6 @@
 - **Mar 07, 11:17 PM** - NGA suspends Ukraine’s access to commercial satellite imagery (breaking_defense)
 - **Mar 07, 11:59 PM** - Space Development Agency’s satellite program pushes launch timeline (spacenews)
 - **Mar 08, 12:57 AM** - Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear (nyt)
-- **Mar 08, 01:11 AM** - York taps commercial satellite technology for classified defense missions (spacenews)
 - **Mar 08, 02:07 AM** - Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight (nyt)
 - **Mar 08, 03:18 AM** - Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports (nyt)
 - **Mar 08, 04:31 AM** - Moon Lander’s Journey to Lunar Surface Ends With Uncertainty (nyt)
