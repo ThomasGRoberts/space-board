@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 140 | 140 |
 | spacenews | 1 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 1 | 1 | 26 | 49 |
+| breaking_defense | 0 | 0 | 25 | 48 |
+| nyt | 1 | 1 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4008,3 +4008,4 @@
 - **May 05, 10:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 10:25 AM** - Waltz defends ‘Golden Dome’ missile shield amid partisan divide (spacenews)
 - **May 05, 10:41 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 05, 10:55 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
