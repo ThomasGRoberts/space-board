@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 157 | 161 |
+| supercluster | 0 | 1 | 156 | 162 |
 | spacenews | 2 | 3 | 26 | 50 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -4041,3 +4041,4 @@
 - **May 05, 01:49 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 05, 02:03 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
 - **May 05, 02:17 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 05, 02:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
