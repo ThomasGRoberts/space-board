@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17f4de81427056cfca1a3d9e6dcffa28",
+    "trigger_count": 0,
+    "current_item_id": "ac43dd08820bae23ee76140c20fd397f",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9587,6 +9587,18 @@
             "fetched_datetime": "2025-05-05T14:47:36.966783Z",
             "shown_at": [
                 "2025-05-05T14:47:37.663020Z"
+            ]
+        },
+        {
+            "id": "ac43dd08820bae23ee76140c20fd397f",
+            "source": "spacenews",
+            "text": "Space Economy Faces Ticking Clock on Collision Risk",
+            "source_link": "https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:02:11.543781Z",
+            "shown_at": [
+                "2025-05-05T15:02:12.634984Z"
             ]
         }
     ]
