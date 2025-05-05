@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 161 | 161 |
-| spacenews | 2 | 3 | 26 | 49 |
+| spacenews | 2 | 3 | 27 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4039,3 +4039,4 @@
 - **May 05, 01:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 01:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 01:49 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 05, 02:03 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
