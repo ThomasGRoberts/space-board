@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 154 | 203 |
-| spacenews | 11 | 12 | 32 | 57 |
-| breaking_defense | 2 | 2 | 23 | 46 |
+| spacenews | 11 | 12 | 32 | 56 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4109,3 +4109,4 @@
 - **May 05, 09:29 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
 - **May 05, 09:43 PM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
 - **May 05, 09:57 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 05, 10:11 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
