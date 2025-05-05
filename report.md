@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 105 | 105 |
 | spacenews | 1 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3957,3 +3957,4 @@
 - **May 05, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 05:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 05:39 AM** - China is making stainless steel tanks for its future super heavy-lift rockets (spacenews)
+- **May 05, 05:53 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
