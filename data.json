@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a6650c8317d84037eb10a5f86ad9a67f",
+    "trigger_count": 0,
+    "current_item_id": "2f0a16ba000ca51a01f43920decf74df",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9471,6 +9471,18 @@
                 "2025-03-10T18:26:16.609551Z",
                 "2025-03-11T08:03:45.149182Z",
                 "2025-03-11T15:49:41.806389Z"
+            ]
+        },
+        {
+            "id": "2f0a16ba000ca51a01f43920decf74df",
+            "source": "nyt",
+            "text": "Eta Aquarids Meteor Show Peak: How and When to Watch",
+            "source_link": "https://www.nytimes.com/2025/05/05/science/eta-aquarids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T07:47:23.800141Z",
+            "shown_at": [
+                "2025-05-05T07:47:24.298196Z"
             ]
         }
     ]
