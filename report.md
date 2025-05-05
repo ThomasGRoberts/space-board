@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 155 | 196 |
+| supercluster | 0 | 1 | 154 | 196 |
 | spacenews | 10 | 11 | 32 | 56 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4098,3 +4098,4 @@
 - **May 05, 08:19 PM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
 - **May 05, 08:33 PM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 05, 08:47 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 05, 09:02 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)

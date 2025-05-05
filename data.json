@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba2f00d14db61b42a3e6b87ec065263f",
+    "trigger_count": 0,
+    "current_item_id": "02bb096cd4f9ba1f360250bff41b0423",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9724,6 +9724,18 @@
             "fetched_datetime": "2025-05-05T19:37:26.917111Z",
             "shown_at": [
                 "2025-05-05T19:37:27.723411Z"
+            ]
+        },
+        {
+            "id": "02bb096cd4f9ba1f360250bff41b0423",
+            "source": "breaking_defense",
+            "text": "Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO",
+            "source_link": "https://breakingdefense.com/2025/05/golden-domes-need-for-more-sbis-may-moot-savings-from-lower-launch-costs-cbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T21:02:00.607428Z",
+            "shown_at": [
+                "2025-05-05T21:02:01.236341Z"
             ]
         }
     ]
