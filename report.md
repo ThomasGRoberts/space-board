@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 155 | 210 |
-| spacenews | 12 | 13 | 33 | 57 |
+| supercluster | 0 | 1 | 154 | 210 |
+| spacenews | 12 | 13 | 32 | 57 |
 | breaking_defense | 2 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4118,3 +4118,4 @@
 - **May 05, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 10:39 PM** - NASA budget proposal draws strong criticism (spacenews)
+- **May 05, 10:55 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
