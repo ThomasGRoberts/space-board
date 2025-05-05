@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 119 | 119 |
 | spacenews | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -3978,3 +3978,4 @@
 - **May 05, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 07:33 AM** - Head of FAA’s commercial space office takes buyout (spacenews)
 - **May 05, 07:47 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 05, 08:02 AM** - Amazon launches first 27 operational Kuiper satellites to compete with Starlink (breaking_defense)
