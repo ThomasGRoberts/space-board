@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 154 | 168 |
-| spacenews | 5 | 6 | 27 | 50 |
-| breaking_defense | 1 | 1 | 25 | 47 |
+| spacenews | 5 | 6 | 28 | 51 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4051,3 +4051,4 @@
 - **May 05, 02:47 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 05, 03:02 PM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 05, 03:17 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
+- **May 05, 03:33 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
