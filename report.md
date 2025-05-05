@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 203 |
-| spacenews | 10 | 11 | 31 | 55 |
+| spacenews | 10 | 11 | 32 | 56 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4106,3 +4106,4 @@
 - **May 05, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 09:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 05, 09:29 PM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
