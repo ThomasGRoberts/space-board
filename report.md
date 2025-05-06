@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -3940,3 +3940,4 @@
 - **May 06, 11:32 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 06, 11:49 AM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
 - **May 06, 12:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 12:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
