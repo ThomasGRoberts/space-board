@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 22 | 47 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
 
@@ -3962,3 +3962,4 @@
 - **May 06, 02:05 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
 - **May 06, 02:19 PM** - Starlink Outpaces Launches: SpaceX Enters New Era of Profitability (spacenews)
 - **May 06, 02:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 02:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
