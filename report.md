@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 30 | 56 |
+| spacenews | 11 | 13 | 31 | 57 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3938,3 +3938,4 @@
 - **May 06, 11:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 11:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 11:32 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 06, 11:49 AM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
