@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6a7bb97a99b7f24211f9b6bc0a8dcd85",
+    "trigger_count": 0,
+    "current_item_id": "490139f097ebdc5332f88cb629d7c16b",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9495,6 +9495,18 @@
             "fetched_datetime": "2025-05-06T14:19:31.355538Z",
             "shown_at": [
                 "2025-05-06T14:19:32.030748Z"
+            ]
+        },
+        {
+            "id": "490139f097ebdc5332f88cb629d7c16b",
+            "source": "spacenews",
+            "text": "SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation",
+            "source_link": "https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T16:05:34.452046Z",
+            "shown_at": [
+                "2025-05-06T16:05:35.154626Z"
             ]
         }
     ]

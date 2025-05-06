@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 28 | 58 |
+| spacenews | 7 | 15 | 29 | 58 |
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3979,3 +3979,4 @@
 - **May 06, 03:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 03:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 03:49 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 06, 04:05 PM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
