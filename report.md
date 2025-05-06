@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 13 | 32 | 56 |
+| spacenews | 12 | 13 | 33 | 57 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3848,3 +3848,4 @@
 - **May 06, 02:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 02:05 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 02:21 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 06, 02:35 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
