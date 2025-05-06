@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 31 | 56 |
-| breaking_defense | 2 | 2 | 22 | 46 |
+| breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 84 | 84 |
@@ -3947,3 +3947,4 @@
 - **May 06, 12:14 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 12:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 12:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
+- **May 06, 12:32 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
