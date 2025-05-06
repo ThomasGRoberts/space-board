@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 56 |
 | breaking_defense | 2 | 2 | 23 | 46 |
-| nyt | 0 | 1 | 21 | 46 |
+| nyt | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -3899,3 +3899,4 @@
 - **May 06, 07:11 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 07:27 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 06, 07:41 AM** - Inversion completes first flight of reentry vehicle, but without reentry (spacenews)
+- **May 06, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
