@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 31 | 57 |
-| breaking_defense | 2 | 2 | 22 | 46 |
+| breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
@@ -3958,3 +3958,4 @@
 - **May 06, 01:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 01:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 01:34 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 06, 01:49 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
