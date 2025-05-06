@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -3880,3 +3880,4 @@
 - **May 06, 05:15 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 06, 05:35 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 06, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 05:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
