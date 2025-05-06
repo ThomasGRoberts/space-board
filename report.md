@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 56 |
-| breaking_defense | 2 | 2 | 23 | 46 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 0 | 1 | 154 | 217 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4044,3 +4044,4 @@
 - **May 05, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 05, 11:41 PM** - Atlas launches first operational Project Kuiper satellites (spacenews)
 - **May 05, 11:55 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 06, 12:09 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
