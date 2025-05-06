@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 56 |
-| breaking_defense | 2 | 2 | 23 | 46 |
+| breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -3881,3 +3881,4 @@
 - **May 06, 05:35 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 06, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 05:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
