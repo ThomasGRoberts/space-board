@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 27 | 59 |
 | breaking_defense | 2 | 4 | 24 | 47 |
-| nyt | 0 | 1 | 22 | 44 |
+| nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 154 | 154 |
 
@@ -4052,3 +4052,4 @@
 - **May 06, 11:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 11:07 PM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
 - **May 06, 11:21 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 06, 11:35 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
