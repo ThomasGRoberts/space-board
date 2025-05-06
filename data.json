@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7108e380ec82411f955158d6e12b52f9",
+    "trigger_count": 0,
+    "current_item_id": "8815d2bddf4d996c858f7626e2766c74",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9465,6 +9465,18 @@
             "fetched_datetime": "2025-05-06T13:03:11.636031Z",
             "shown_at": [
                 "2025-05-06T13:03:12.185265Z"
+            ]
+        },
+        {
+            "id": "8815d2bddf4d996c858f7626e2766c74",
+            "source": "spacenews",
+            "text": "Starlink Outpaces Launches: SpaceX Enters New Era of Profitability",
+            "source_link": "https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T14:19:31.355538Z",
+            "shown_at": [
+                "2025-05-06T14:19:32.030748Z"
             ]
         }
     ]

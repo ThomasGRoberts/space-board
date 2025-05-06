@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 31 | 57 |
-| breaking_defense | 2 | 2 | 23 | 47 |
+| spacenews | 12 | 14 | 32 | 58 |
+| breaking_defense | 2 | 2 | 22 | 47 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
@@ -3960,3 +3960,4 @@
 - **May 06, 01:34 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 01:49 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 06, 02:05 PM** - Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite (spacenews)
+- **May 06, 02:19 PM** - Starlink Outpaces Launches: SpaceX Enters New Era of Profitability (spacenews)
