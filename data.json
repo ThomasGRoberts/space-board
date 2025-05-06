@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "a134bcf145611b9528da33ac37784ff5",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9589,6 +9589,18 @@
             "fetched_datetime": "2025-05-06T20:29:27.907614Z",
             "shown_at": [
                 "2025-05-06T20:29:28.545039Z"
+            ]
+        },
+        {
+            "id": "a134bcf145611b9528da33ac37784ff5",
+            "source": "breaking_defense",
+            "text": "Space Force eyeing international launch sites to increase ‘resilience’",
+            "source_link": "https://breakingdefense.com/2025/05/space-force-eyeing-international-launch-sites-to-increase-reslience/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T20:57:28.774051Z",
+            "shown_at": [
+                "2025-05-06T20:57:29.350608Z"
             ]
         }
     ]
