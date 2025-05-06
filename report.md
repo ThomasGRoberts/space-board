@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 13 | 31 | 56 |
+| spacenews | 12 | 13 | 32 | 57 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 21 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3918,3 +3918,4 @@
 - **May 06, 09:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 09:19 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 09:34 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 06, 09:47 AM** - Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push (spacenews)
