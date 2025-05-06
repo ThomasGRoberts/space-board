@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 28 | 58 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -3981,3 +3981,4 @@
 - **May 06, 03:49 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 04:05 PM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
 - **May 06, 04:19 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 06, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
