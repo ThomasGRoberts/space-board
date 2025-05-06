@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 57 |
 | breaking_defense | 2 | 2 | 22 | 47 |
-| nyt | 0 | 1 | 21 | 47 |
+| nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -3929,3 +3929,4 @@
 - **May 06, 10:19 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 10:33 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
 - **May 06, 10:47 AM** - Slingshot targets international market with sovereign space tracking systems (spacenews)
+- **May 06, 11:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
