@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 56 |
 | breaking_defense | 2 | 2 | 22 | 46 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -3856,3 +3856,4 @@
 - **May 06, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 03:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 03:05 AM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
