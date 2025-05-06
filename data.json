@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "cd3b10636a1494d0809a5a3e73639915",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9633,6 +9633,18 @@
             "fetched_datetime": "2025-05-06T21:25:31.208443Z",
             "shown_at": [
                 "2025-05-06T21:25:31.803594Z"
+            ]
+        },
+        {
+            "id": "cd3b10636a1494d0809a5a3e73639915",
+            "source": "spacenews",
+            "text": "Space Force chief makes case for increased funding before House panel",
+            "source_link": "https://spacenews.com/space-force-chief-makes-case-for-increased-funding-before-house-panel/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T22:07:26.985967Z",
+            "shown_at": [
+                "2025-05-06T22:07:27.678601Z"
             ]
         }
     ]
