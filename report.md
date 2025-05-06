@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -3972,3 +3972,4 @@
 - **May 06, 03:02 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 06, 03:18 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
 - **May 06, 03:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
