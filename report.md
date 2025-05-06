@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 28 | 58 |
+| spacenews | 8 | 16 | 29 | 59 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3998,3 +3998,4 @@
 - **May 06, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 05:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 05:42 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 05:43 PM** - Vega launches Biomass satellite (spacenews)
