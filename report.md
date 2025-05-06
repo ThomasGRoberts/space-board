@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -3860,3 +3860,4 @@
 - **May 06, 03:19 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 06, 03:33 AM** - Expanding the human presence in orbit faces growing risk from space debris (spacenews)
 - **May 06, 03:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 03:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
