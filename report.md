@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 
 # Shown Order
 
@@ -4033,3 +4033,4 @@
 - **May 06, 09:11 PM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 06, 09:25 PM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
 - **May 06, 09:39 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 06, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
