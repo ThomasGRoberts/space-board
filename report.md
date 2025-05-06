@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 56 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 0 | 1 | 21 | 45 |
+| nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -3906,3 +3906,4 @@
 - **May 06, 08:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 08:08 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 08:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 08:15 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
