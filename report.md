@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 14 | 31 | 57 |
+| spacenews | 9 | 14 | 31 | 58 |
 | breaking_defense | 1 | 2 | 22 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3970,3 +3970,4 @@
 - **May 06, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 02:47 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 03:02 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 06, 03:18 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
