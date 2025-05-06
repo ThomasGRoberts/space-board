@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 
 # Shown Order
 
@@ -3991,3 +3991,4 @@
 - **May 06, 04:47 PM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
 - **May 06, 05:01 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 06, 05:15 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 06, 05:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
