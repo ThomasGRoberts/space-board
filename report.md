@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 13 | 32 | 56 |
+| spacenews | 12 | 13 | 32 | 57 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3888,3 +3888,4 @@
 - **May 06, 06:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 06:05 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 06:22 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 06, 06:38 AM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
