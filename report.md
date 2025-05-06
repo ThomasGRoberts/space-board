@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 13 | 32 | 57 |
 | breaking_defense | 2 | 2 | 22 | 47 |
-| nyt | 0 | 1 | 21 | 47 |
+| nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -3920,3 +3920,4 @@
 - **May 06, 09:34 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 06, 09:47 AM** - Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push (spacenews)
 - **May 06, 10:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 10:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
