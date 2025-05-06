@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 
 # Shown Order
 
@@ -4043,3 +4043,4 @@
 - **May 06, 10:07 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 06, 10:21 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 06, 10:35 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 06, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
