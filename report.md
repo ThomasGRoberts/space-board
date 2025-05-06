@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 
 # Shown Order
 
@@ -4023,3 +4023,4 @@
 - **May 06, 08:07 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 06, 08:29 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 06, 08:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 08:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
