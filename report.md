@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 27 | 58 |
+| spacenews | 9 | 19 | 28 | 59 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4031,3 +4031,4 @@
 - **May 06, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 08:57 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 06, 09:11 PM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
+- **May 06, 09:25 PM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)

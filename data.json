@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0192cb989d5f46e67927e03e01dfc9c3",
+    "trigger_count": 0,
+    "current_item_id": "3d34db413b9b6cea642edf4f17978574",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9613,6 +9613,18 @@
             "fetched_datetime": "2025-05-06T21:11:44.550571Z",
             "shown_at": [
                 "2025-05-06T21:11:45.195301Z"
+            ]
+        },
+        {
+            "id": "3d34db413b9b6cea642edf4f17978574",
+            "source": "spacenews",
+            "text": "India’s satellite crackdown brings fresh challenges for Starlink and OneWeb",
+            "source_link": "https://spacenews.com/indias-satellite-crackdown-brings-fresh-challenges-for-starlink-and-oneweb/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T21:25:31.208443Z",
+            "shown_at": [
+                "2025-05-06T21:25:31.803594Z"
             ]
         }
     ]
