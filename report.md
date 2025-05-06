@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 31 | 57 |
+| spacenews | 12 | 14 | 32 | 58 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3949,3 +3949,4 @@
 - **May 06, 12:17 PM** - Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth (nyt)
 - **May 06, 12:32 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 06, 12:46 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
+- **May 06, 01:03 PM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)

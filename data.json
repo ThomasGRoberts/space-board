@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19e6cdf71e5c337e806c65f629b7d581",
+    "trigger_count": 0,
+    "current_item_id": "58c96258e1c60372e4342bedc083d923",
     "data": [
         {
             "id": "a42b51070663e93e392f68cce0767e50",
@@ -9443,6 +9443,18 @@
                 "2025-05-06T12:11:52.992696Z",
                 "2025-05-06T12:14:01.443003Z",
                 "2025-05-06T12:15:48.865473Z"
+            ]
+        },
+        {
+            "id": "58c96258e1c60372e4342bedc083d923",
+            "source": "spacenews",
+            "text": "The U.S. is risking its economic and defense leadership in low Earth orbit ",
+            "source_link": "https://spacenews.com/the-u-s-is-risking-its-economic-and-defense-leadership-in-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-06T13:03:11.636031Z",
+            "shown_at": [
+                "2025-05-06T13:03:12.185265Z"
             ]
         }
     ]
