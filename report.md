@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -3869,3 +3869,4 @@
 - **May 06, 04:02 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 04:15 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 06, 04:32 AM** - NASA budget proposal draws strong criticism (spacenews)
+- **May 06, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
