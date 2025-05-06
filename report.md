@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -3890,3 +3890,4 @@
 - **May 06, 06:22 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 06, 06:38 AM** - Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions (spacenews)
 - **May 06, 06:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 06:58 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
