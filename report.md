@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 13 | 32 | 56 |
+| spacenews | 12 | 13 | 33 | 57 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3838,3 +3838,4 @@
 - **May 06, 01:06 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 01:09 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 06, 01:23 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 06, 01:37 AM** - Amazon establishes contact with first operational Kuiper satellites (spacenews)
