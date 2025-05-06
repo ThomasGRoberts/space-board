@@ -1,9 +1,194 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-05T00:02:07.990822+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-05-06T00:02:03.237018+00:00",
+    "trigger_count": 3,
     "current_item_id": "6a7bb97a99b7f24211f9b6bc0a8dcd85",
     "data": [
+        {
+            "id": "a42b51070663e93e392f68cce0767e50",
+            "source": "spacenews",
+            "text": "NASA budget proposal draws strong criticism",
+            "source_link": "https://spacenews.com/nasa-budget-proposal-draws-strong-criticism/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T22:39:39.654505Z",
+            "shown_at": [
+                "2025-05-05T22:39:40.260893Z"
+            ]
+        },
+        {
+            "id": "9165092354b8b7dc27e4185073e24866",
+            "source": "spacenews",
+            "text": "Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5",
+            "source_link": "https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T21:43:30.427081Z",
+            "shown_at": [
+                "2025-05-05T21:43:30.937526Z"
+            ]
+        },
+        {
+            "id": "02bb096cd4f9ba1f360250bff41b0423",
+            "source": "breaking_defense",
+            "text": "Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO",
+            "source_link": "https://breakingdefense.com/2025/05/golden-domes-need-for-more-sbis-may-moot-savings-from-lower-launch-costs-cbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T21:02:00.607428Z",
+            "shown_at": [
+                "2025-05-05T21:02:01.236341Z"
+            ]
+        },
+        {
+            "id": "f0e945b989a11ef964a17e57ee9414da",
+            "source": "spacenews",
+            "text": "Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push",
+            "source_link": "https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T19:37:26.917111Z",
+            "shown_at": [
+                "2025-05-05T19:37:27.723411Z"
+            ]
+        },
+        {
+            "id": "19e6cdf71e5c337e806c65f629b7d581",
+            "source": "spacenews",
+            "text": "Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’",
+            "source_link": "https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T19:23:28.131480Z",
+            "shown_at": [
+                "2025-05-05T19:23:28.688671Z"
+            ]
+        },
+        {
+            "id": "25a754a455b9f954dc48fb7cdf3da094",
+            "source": "spacenews",
+            "text": "FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance",
+            "source_link": "https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:47:40.178082Z",
+            "shown_at": [
+                "2025-05-05T16:17:45.596062Z"
+            ]
+        },
+        {
+            "id": "21bc4ab7769ce67941c4a33ac939ea53",
+            "source": "spacenews",
+            "text": "Defense Spending Drives Government Space Budgets to Historic High",
+            "source_link": "https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:47:40.178042Z",
+            "shown_at": [
+                "2025-05-05T16:02:12.929412Z"
+            ]
+        },
+        {
+            "id": "37c94a36be807d13848810d97c6cb525",
+            "source": "spacenews",
+            "text": "The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight",
+            "source_link": "https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:47:40.177990Z",
+            "shown_at": [
+                "2025-05-05T15:47:41.543671Z"
+            ]
+        },
+        {
+            "id": "e4998c85a0297f48f0bf6beb760f574a",
+            "source": "spacenews",
+            "text": "Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference",
+            "source_link": "https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:17:44.499135Z",
+            "shown_at": [
+                "2025-05-05T15:33:45.166699Z"
+            ]
+        },
+        {
+            "id": "6e59f47bf1b05dd93f443a9853616e9d",
+            "source": "spacenews",
+            "text": "Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker",
+            "source_link": "https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:17:44.499080Z",
+            "shown_at": [
+                "2025-05-05T15:17:45.502712Z"
+            ]
+        },
+        {
+            "id": "ac43dd08820bae23ee76140c20fd397f",
+            "source": "spacenews",
+            "text": "Space Economy Faces Ticking Clock on Collision Risk",
+            "source_link": "https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T15:02:11.543781Z",
+            "shown_at": [
+                "2025-05-05T15:02:12.634984Z"
+            ]
+        },
+        {
+            "id": "17f4de81427056cfca1a3d9e6dcffa28",
+            "source": "breaking_defense",
+            "text": "Today’s spectrum battle offers a golden opportunity",
+            "source_link": "https://breakingdefense.com/2025/05/todays-spectrum-battle-offers-a-golden-opportunity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T14:47:36.966783Z",
+            "shown_at": [
+                "2025-05-05T14:47:37.663020Z",
+                "2025-05-05T23:13:07.731207Z"
+            ]
+        },
+        {
+            "id": "9d1a1b667c71c625177c4e747369f5d7",
+            "source": "spacenews",
+            "text": "Securing the skies: tackling the growing threat of GPS interference",
+            "source_link": "https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T13:05:50.613736Z",
+            "shown_at": [
+                "2025-05-05T13:05:51.347536Z"
+            ]
+        },
+        {
+            "id": "35d62026b802dd52d23acd7bbc33cbd0",
+            "source": "spacenews",
+            "text": "Inversion completes first flight of reentry vehicle, but without reentry",
+            "source_link": "https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T11:37:44.568221Z",
+            "shown_at": [
+                "2025-05-05T11:37:45.469011Z"
+            ]
+        },
+        {
+            "id": "2f0a16ba000ca51a01f43920decf74df",
+            "source": "nyt",
+            "text": "Eta Aquarids Meteor Show Peak: How and When to Watch",
+            "source_link": "https://www.nytimes.com/2025/05/05/science/eta-aquarids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-05T07:47:23.800141Z",
+            "shown_at": [
+                "2025-05-05T07:47:24.298196Z",
+                "2025-05-05T09:43:32.216504Z",
+                "2025-05-05T10:41:35.771446Z",
+                "2025-05-05T13:49:33.204046Z",
+                "2025-05-05T21:57:35.594515Z"
+            ]
+        },
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
@@ -9353,441 +9538,6 @@
                 "2025-03-09T02:29:48.538886Z",
                 "2025-03-09T14:05:36.568526Z",
                 "2025-03-11T01:17:42.017052Z"
-            ]
-        },
-        {
-            "id": "2e0dab8a654f5f967fcf73aa45f97f64",
-            "source": "spacenews",
-            "text": "U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers",
-            "source_link": "https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T18:45:38.797558Z",
-            "shown_at": [
-                "2025-03-07T18:45:39.347418Z",
-                "2025-03-08T11:55:28.160745Z",
-                "2025-03-10T09:09:13.243792Z",
-                "2025-03-11T09:51:29.358164Z"
-            ]
-        },
-        {
-            "id": "90280504ac5364697d5f1bce5cace41c",
-            "source": "breaking_defense",
-            "text": "NGA suspends Ukraine’s access to commercial satellite imagery",
-            "source_link": "https://breakingdefense.com/2025/03/nga-suspends-ukraines-access-to-commercial-satellite-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T18:31:37.493715Z",
-            "shown_at": [
-                "2025-03-07T18:31:38.113409Z",
-                "2025-03-07T20:51:56.108356Z",
-                "2025-03-07T23:17:35.330627Z",
-                "2025-03-09T00:05:27.292706Z",
-                "2025-03-09T05:21:34.671294Z",
-                "2025-03-09T06:31:56.715397Z",
-                "2025-03-09T13:09:35.492391Z",
-                "2025-03-09T16:41:47.873056Z",
-                "2025-03-09T22:53:50.946654Z",
-                "2025-03-10T11:47:47.353942Z",
-                "2025-03-10T20:33:34.944949Z",
-                "2025-03-11T08:17:36.934955Z",
-                "2025-03-11T18:36:05.690893Z"
-            ]
-        },
-        {
-            "id": "e1230cfc649bfa20d39863d6fc2fa9cb",
-            "source": "spacenews",
-            "text": "IM-2 lunar lander mission ends",
-            "source_link": "https://spacenews.com/im-2-lunar-lander-mission-ends/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T18:02:09.473459Z",
-            "shown_at": [
-                "2025-03-07T18:02:10.598023Z"
-            ]
-        },
-        {
-            "id": "7f42e6db0039e0224c27a2c77e2be4ce",
-            "source": "spacenews",
-            "text": "Regulations are in the crosshairs. But which ones?",
-            "source_link": "https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T14:35:52.173048Z",
-            "shown_at": [
-                "2025-03-07T14:35:52.912853Z",
-                "2025-03-07T16:36:04.265961Z",
-                "2025-03-08T17:02:03.852289Z",
-                "2025-03-09T18:37:52.103110Z"
-            ]
-        },
-        {
-            "id": "bab6e334d7562893adb41098f054b2d6",
-            "source": "spacenews",
-            "text": "Make America test again: How rapid, iterative testing will advance hypersonic development",
-            "source_link": "https://spacenews.com/make-america-test-again-how-rapid-iterative-testing-will-advance-hypersonic-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T14:07:31.254815Z",
-            "shown_at": [
-                "2025-03-07T14:07:31.791265Z",
-                "2025-03-07T21:07:38.831603Z",
-                "2025-03-12T00:33:51.061138Z"
-            ]
-        },
-        {
-            "id": "23b2f8a195d1325aa0419afdc5627332",
-            "source": "spacenews",
-            "text": "China highlights commercial space sector in government work report",
-            "source_link": "https://spacenews.com/china-highlights-commercial-space-sector-in-government-work-report/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T12:19:34.302937Z",
-            "shown_at": [
-                "2025-03-07T12:19:34.956415Z",
-                "2025-03-09T09:27:45.699098Z",
-                "2025-03-09T19:47:36.310739Z"
-            ]
-        },
-        {
-            "id": "ea4dfabf1a6bb1dfe1a9ddf830087980",
-            "source": "aidy",
-            "text": "FCC Finalizes VLP Rules for 6 GHz Band, Boosting Space-Based Communications",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T08:37:38.196881Z",
-            "shown_at": [
-                "2025-03-07T08:37:39.161553Z",
-                "2025-03-07T09:49:32.624273Z",
-                "2025-03-07T22:47:30.085962Z",
-                "2025-03-08T16:03:25.329610Z",
-                "2025-03-08T23:51:43.011831Z",
-                "2025-03-10T12:15:49.043824Z"
-            ]
-        },
-        {
-            "id": "c86f91bd699435c58e18f7cec4c4e665",
-            "source": "nyt",
-            "text": "SpaceX’s Starship Rocket Disrupts Florida Airports With Unsuccessful Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T01:41:12.768050Z",
-            "shown_at": [
-                "2025-03-07T01:41:13.304847Z",
-                "2025-03-07T16:49:30.348873Z",
-                "2025-03-08T17:45:57.820617Z",
-                "2025-03-09T22:39:34.752684Z",
-                "2025-03-10T02:27:58.840657Z",
-                "2025-03-10T03:41:47.067819Z",
-                "2025-03-11T19:33:33.088229Z"
-            ]
-        },
-        {
-            "id": "3084834f8bee4e80cbac879f85252619",
-            "source": "nyt",
-            "text": "Intuitive Machines’ Athena Lander Is on the Moon, but Its Fate Is Unclear",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/intuitive-machines-athena-moon-lander.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T00:59:28.804906Z",
-            "shown_at": [
-                "2025-03-07T01:27:27.918218Z",
-                "2025-03-07T06:27:49.235914Z",
-                "2025-03-07T13:09:35.647971Z",
-                "2025-03-08T00:57:47.068578Z",
-                "2025-03-08T09:17:36.228056Z",
-                "2025-03-09T05:07:48.645634Z",
-                "2025-03-11T21:00:48.016202Z"
-            ]
-        },
-        {
-            "id": "da0eec305a2913a59dba491a18e2d1c8",
-            "source": "nyt",
-            "text": "Breakup of SpaceX’s Starship Rocket Disrupts Florida Airports",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T00:59:28.804455Z",
-            "shown_at": [
-                "2025-03-07T01:13:30.930572Z",
-                "2025-03-08T03:18:14.125792Z",
-                "2025-03-08T16:33:31.938124Z",
-                "2025-03-08T19:13:31.943357Z",
-                "2025-03-10T06:03:42.938764Z",
-                "2025-03-10T23:59:39.209632Z"
-            ]
-        },
-        {
-            "id": "8742b94c1ef1f75101d95fc334a9efe2",
-            "source": "nyt",
-            "text": "Moon Lander’s Journey to Lunar Surface Ends With Uncertainty",
-            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T00:59:28.804414Z",
-            "shown_at": [
-                "2025-03-07T00:59:29.288760Z",
-                "2025-03-08T04:31:56.921439Z",
-                "2025-03-08T08:08:00.369874Z",
-                "2025-03-09T08:57:48.322964Z",
-                "2025-03-11T06:39:44.006972Z",
-                "2025-03-12T02:47:36.266148Z"
-            ]
-        },
-        {
-            "id": "6005a98086e6509170f0b4fa709e06a6",
-            "source": "spacenews",
-            "text": "Starship destroyed on second consecutive test flight",
-            "source_link": "https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-07T00:43:40.248781Z",
-            "shown_at": [
-                "2025-03-07T00:43:41.327343Z",
-                "2025-03-09T07:57:49.090287Z",
-                "2025-03-11T06:11:43.072757Z"
-            ]
-        },
-        {
-            "id": "e01e8b18f878d81ca34adc3b94ffadcc",
-            "source": "nyt",
-            "text": "Live Video: Watch SpaceX Return Starship to the Launchpad for Its 8th Test Flight",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T23:17:30.978822Z",
-            "shown_at": [
-                "2025-03-06T23:17:31.540565Z",
-                "2025-03-07T04:07:27.503239Z",
-                "2025-03-07T14:51:52.266420Z",
-                "2025-03-07T22:33:41.505510Z",
-                "2025-03-08T02:07:33.805950Z",
-                "2025-03-08T05:41:37.274769Z",
-                "2025-03-09T21:14:10.182878Z",
-                "2025-03-10T08:39:41.040816Z",
-                "2025-03-10T22:15:35.733689Z",
-                "2025-03-11T11:48:09.421260Z",
-                "2025-03-11T14:16:37.812229Z",
-                "2025-03-12T01:05:28.091771Z"
-            ]
-        },
-        {
-            "id": "d7dc97ec870e3ad7973e66d3f65d04e7",
-            "source": "nyt",
-            "text": "Live Updates: Moon Lander’s Fate on the Lunar Surface Is Uncertain",
-            "source_link": "https://www.nytimes.com/live/2025/03/06/science/moon-landing",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T22:35:27.149586Z",
-            "shown_at": [
-                "2025-03-06T22:35:27.651781Z",
-                "2025-03-08T13:51:48.877131Z",
-                "2025-03-09T15:17:35.328305Z",
-                "2025-03-09T20:01:59.561258Z"
-            ]
-        },
-        {
-            "id": "54db80e69eeb12268b98c80e66f345d4",
-            "source": "nyt",
-            "text": "SpaceX Returns Starship to Launchpad for 8th Test Flight: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/03/06/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-06T22:07:37.665040Z",
-            "shown_at": [
-                "2025-03-06T22:07:38.215018Z",
-                "2025-03-09T16:27:31.903540Z",
-                "2025-03-10T07:19:33.892707Z",
-                "2025-03-10T18:26:16.609551Z",
-                "2025-03-11T08:03:45.149182Z",
-                "2025-03-11T15:49:41.806389Z"
-            ]
-        },
-        {
-            "id": "2f0a16ba000ca51a01f43920decf74df",
-            "source": "nyt",
-            "text": "Eta Aquarids Meteor Show Peak: How and When to Watch",
-            "source_link": "https://www.nytimes.com/2025/05/05/science/eta-aquarids-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T07:47:23.800141Z",
-            "shown_at": [
-                "2025-05-05T07:47:24.298196Z",
-                "2025-05-05T09:43:32.216504Z",
-                "2025-05-05T10:41:35.771446Z",
-                "2025-05-05T13:49:33.204046Z",
-                "2025-05-05T21:57:35.594515Z"
-            ]
-        },
-        {
-            "id": "35d62026b802dd52d23acd7bbc33cbd0",
-            "source": "spacenews",
-            "text": "Inversion completes first flight of reentry vehicle, but without reentry",
-            "source_link": "https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T11:37:44.568221Z",
-            "shown_at": [
-                "2025-05-05T11:37:45.469011Z"
-            ]
-        },
-        {
-            "id": "9d1a1b667c71c625177c4e747369f5d7",
-            "source": "spacenews",
-            "text": "Securing the skies: tackling the growing threat of GPS interference",
-            "source_link": "https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T13:05:50.613736Z",
-            "shown_at": [
-                "2025-05-05T13:05:51.347536Z"
-            ]
-        },
-        {
-            "id": "17f4de81427056cfca1a3d9e6dcffa28",
-            "source": "breaking_defense",
-            "text": "Today’s spectrum battle offers a golden opportunity",
-            "source_link": "https://breakingdefense.com/2025/05/todays-spectrum-battle-offers-a-golden-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T14:47:36.966783Z",
-            "shown_at": [
-                "2025-05-05T14:47:37.663020Z",
-                "2025-05-05T23:13:07.731207Z"
-            ]
-        },
-        {
-            "id": "ac43dd08820bae23ee76140c20fd397f",
-            "source": "spacenews",
-            "text": "Space Economy Faces Ticking Clock on Collision Risk",
-            "source_link": "https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:02:11.543781Z",
-            "shown_at": [
-                "2025-05-05T15:02:12.634984Z"
-            ]
-        },
-        {
-            "id": "6e59f47bf1b05dd93f443a9853616e9d",
-            "source": "spacenews",
-            "text": "Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker",
-            "source_link": "https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:17:44.499080Z",
-            "shown_at": [
-                "2025-05-05T15:17:45.502712Z"
-            ]
-        },
-        {
-            "id": "e4998c85a0297f48f0bf6beb760f574a",
-            "source": "spacenews",
-            "text": "Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference",
-            "source_link": "https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:17:44.499135Z",
-            "shown_at": [
-                "2025-05-05T15:33:45.166699Z"
-            ]
-        },
-        {
-            "id": "37c94a36be807d13848810d97c6cb525",
-            "source": "spacenews",
-            "text": "The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight",
-            "source_link": "https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.177990Z",
-            "shown_at": [
-                "2025-05-05T15:47:41.543671Z"
-            ]
-        },
-        {
-            "id": "21bc4ab7769ce67941c4a33ac939ea53",
-            "source": "spacenews",
-            "text": "Defense Spending Drives Government Space Budgets to Historic High",
-            "source_link": "https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178042Z",
-            "shown_at": [
-                "2025-05-05T16:02:12.929412Z"
-            ]
-        },
-        {
-            "id": "25a754a455b9f954dc48fb7cdf3da094",
-            "source": "spacenews",
-            "text": "FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance",
-            "source_link": "https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178082Z",
-            "shown_at": [
-                "2025-05-05T16:17:45.596062Z"
-            ]
-        },
-        {
-            "id": "19e6cdf71e5c337e806c65f629b7d581",
-            "source": "spacenews",
-            "text": "Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’",
-            "source_link": "https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T19:23:28.131480Z",
-            "shown_at": [
-                "2025-05-05T19:23:28.688671Z"
-            ]
-        },
-        {
-            "id": "f0e945b989a11ef964a17e57ee9414da",
-            "source": "spacenews",
-            "text": "Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push",
-            "source_link": "https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T19:37:26.917111Z",
-            "shown_at": [
-                "2025-05-05T19:37:27.723411Z"
-            ]
-        },
-        {
-            "id": "02bb096cd4f9ba1f360250bff41b0423",
-            "source": "breaking_defense",
-            "text": "Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO",
-            "source_link": "https://breakingdefense.com/2025/05/golden-domes-need-for-more-sbis-may-moot-savings-from-lower-launch-costs-cbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T21:02:00.607428Z",
-            "shown_at": [
-                "2025-05-05T21:02:01.236341Z"
-            ]
-        },
-        {
-            "id": "9165092354b8b7dc27e4185073e24866",
-            "source": "spacenews",
-            "text": "Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5",
-            "source_link": "https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T21:43:30.427081Z",
-            "shown_at": [
-                "2025-05-05T21:43:30.937526Z"
-            ]
-        },
-        {
-            "id": "a42b51070663e93e392f68cce0767e50",
-            "source": "spacenews",
-            "text": "NASA budget proposal draws strong criticism",
-            "source_link": "https://spacenews.com/nasa-budget-proposal-draws-strong-criticism/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T22:39:39.654505Z",
-            "shown_at": [
-                "2025-05-05T22:39:40.260893Z"
             ]
         }
     ]
