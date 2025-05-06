@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3830,3 +3830,4 @@
 - **May 06, 12:09 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 06, 12:39 AM** - French startup developing space weapon to defend satellites and clean orbital debris (spacenews)
 - **May 06, 12:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 06, 12:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
