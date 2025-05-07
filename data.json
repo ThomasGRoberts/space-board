@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a1f63e673e2dc21de5467c15b04460d",
+    "trigger_count": 0,
+    "current_item_id": "c6ffa28789bd92a3f205df96af92fe45",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9484,6 +9484,18 @@
             "fetched_datetime": "2025-05-07T11:43:39.694855Z",
             "shown_at": [
                 "2025-05-07T11:43:40.767704Z"
+            ]
+        },
+        {
+            "id": "c6ffa28789bd92a3f205df96af92fe45",
+            "source": "spacenews",
+            "text": "Space: the new frontier for transatlantic cooperation",
+            "source_link": "https://spacenews.com/space-the-new-frontier-for-transatlantic-cooperation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T13:15:53.495664Z",
+            "shown_at": [
+                "2025-05-07T13:15:54.190330Z"
             ]
         }
     ]
