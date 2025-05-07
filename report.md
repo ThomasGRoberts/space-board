@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 26 | 58 |
+| spacenews | 8 | 20 | 27 | 59 |
 | breaking_defense | 2 | 4 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3905,3 +3905,4 @@
 - **May 07, 06:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 06:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 06:13 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 07, 06:27 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
