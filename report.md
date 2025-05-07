@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| spacenews | 8 | 20 | 26 | 58 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 54 | 54 |
@@ -3937,3 +3937,4 @@
 - **May 07, 09:05 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 09:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 09:33 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
+- **May 07, 09:47 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
