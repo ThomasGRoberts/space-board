@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3857,3 +3857,4 @@
 - **May 07, 12:03 AM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
 - **May 07, 12:17 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 07, 12:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 07, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
