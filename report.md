@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 25 | 52 |
 | breaking_defense | 2 | 4 | 23 | 47 |
-| nyt | 1 | 1 | 23 | 45 |
+| nyt | 1 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 138 | 138 |
 
@@ -4059,3 +4059,4 @@
 - **May 07, 09:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 09:57 PM** - Retired Air Force officer nominated to be NASA deputy administrator (spacenews)
 - **May 07, 10:11 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 07, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
