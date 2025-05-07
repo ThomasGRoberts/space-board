@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 58 |
 | breaking_defense | 2 | 4 | 24 | 46 |
-| nyt | 1 | 1 | 23 | 44 |
+| nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -3959,3 +3959,4 @@
 - **May 07, 11:25 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
 - **May 07, 11:43 AM** - Resilience lunar lander enters orbit around the moon (spacenews)
 - **May 07, 12:02 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 07, 12:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
