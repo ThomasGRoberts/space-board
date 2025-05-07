@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "71137203f5dcdee366105a6688a59943",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9567,6 +9567,18 @@
             "fetched_datetime": "2025-05-07T15:17:25.548048Z",
             "shown_at": [
                 "2025-05-07T15:17:26.128910Z"
+            ]
+        },
+        {
+            "id": "71137203f5dcdee366105a6688a59943",
+            "source": "spacenews",
+            "text": "ClearSpace completes second phase of UK debris-removal mission",
+            "source_link": "https://spacenews.com/clearspace-completes-second-phase-of-uk-debris-removal-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T16:59:27.422375Z",
+            "shown_at": [
+                "2025-05-07T16:59:28.127093Z"
             ]
         }
     ]

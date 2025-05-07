@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 25 | 54 |
+| spacenews | 9 | 17 | 26 | 55 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4007,3 +4007,4 @@
 - **May 07, 04:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 04:59 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
