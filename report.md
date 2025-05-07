@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 0 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -3877,3 +3877,4 @@
 - **May 07, 03:23 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 03:38 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
 - **May 07, 03:51 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
+- **May 07, 04:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
