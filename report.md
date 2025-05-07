@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 54 |
-| breaking_defense | 3 | 4 | 24 | 47 |
+| breaking_defense | 4 | 5 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 110 | 110 |
@@ -4017,3 +4017,4 @@
 - **May 07, 05:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 05:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)

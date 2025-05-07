@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "d1ab2da583517e9c5843a71392d7cb8d",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9588,6 +9588,18 @@
             "fetched_datetime": "2025-05-07T16:59:27.422375Z",
             "shown_at": [
                 "2025-05-07T16:59:28.127093Z"
+            ]
+        },
+        {
+            "id": "d1ab2da583517e9c5843a71392d7cb8d",
+            "source": "breaking_defense",
+            "text": "German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses",
+            "source_link": "https://breakingdefense.com/2025/05/german-space-commanders-christmas-wish-satellites-with-ew-infused-defenses/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T17:57:24.134215Z",
+            "shown_at": [
+                "2025-05-07T17:57:24.684375Z"
             ]
         }
     ]
