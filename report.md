@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 26 | 57 |
+| spacenews | 8 | 20 | 27 | 58 |
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3936,3 +3936,4 @@
 - **May 07, 09:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 09:05 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 09:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 07, 09:33 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
