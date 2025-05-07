@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 24 | 46 |
-| nyt | 1 | 1 | 22 | 44 |
+| breaking_defense | 2 | 4 | 23 | 46 |
+| nyt | 1 | 1 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -3971,3 +3971,4 @@
 - **May 07, 01:15 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 07, 01:32 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 01:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
