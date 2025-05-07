@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 23 | 45 |
+| breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 75 | 75 |
@@ -3969,3 +3969,4 @@
 - **May 07, 12:36 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 12:57 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
 - **May 07, 01:15 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
+- **May 07, 01:32 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
