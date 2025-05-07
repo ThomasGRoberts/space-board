@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 26 | 58 |
-| breaking_defense | 2 | 4 | 24 | 46 |
+| breaking_defense | 2 | 3 | 24 | 45 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -3981,3 +3981,4 @@
 - **May 07, 02:17 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 02:31 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 07, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 02:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
