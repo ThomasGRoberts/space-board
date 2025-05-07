@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 0 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -3927,3 +3927,4 @@
 - **May 07, 08:09 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 08:23 AM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
 - **May 07, 08:37 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
+- **May 07, 08:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
