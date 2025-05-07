@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 138 | 138 |
+| supercluster | 1 | 1 | 139 | 139 |
 
 # Shown Order
 
@@ -4061,3 +4061,4 @@
 - **May 07, 10:11 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 10:42 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
+- **May 07, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
