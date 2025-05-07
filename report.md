@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 27 | 58 |
+| spacenews | 9 | 20 | 27 | 57 |
 | breaking_defense | 2 | 4 | 23 | 46 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 75 | 75 |
 
@@ -3966,3 +3966,4 @@
 - **May 07, 12:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 12:30 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 12:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 12:36 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
