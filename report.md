@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 53 |
-| breaking_defense | 4 | 5 | 25 | 47 |
+| spacenews | 8 | 17 | 26 | 54 |
+| breaking_defense | 4 | 5 | 24 | 47 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 117 | 117 |
@@ -4028,3 +4028,4 @@
 - **May 07, 06:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 06:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 06:55 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
+- **May 07, 07:12 PM** - Inside the $320B Opportunity to Connect the Unconnected (spacenews)
