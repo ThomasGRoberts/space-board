@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 27 | 59 |
-| breaking_defense | 2 | 4 | 24 | 46 |
+| breaking_defense | 2 | 4 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -3865,3 +3865,4 @@
 - **May 07, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 07, 12:47 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 01:02 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
+- **May 07, 01:15 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
