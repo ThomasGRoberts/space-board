@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 25 | 53 |
-| breaking_defense | 4 | 5 | 25 | 47 |
+| spacenews | 9 | 17 | 26 | 54 |
+| breaking_defense | 4 | 5 | 24 | 47 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 110 | 110 |
@@ -4018,3 +4018,4 @@
 - **May 07, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 05:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 07, 06:13 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
