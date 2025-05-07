@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 27 | 58 |
+| spacenews | 10 | 21 | 28 | 59 |
 | breaking_defense | 2 | 4 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3977,3 +3977,4 @@
 - **May 07, 01:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 01:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 02:02 PM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
