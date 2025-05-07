@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -3907,3 +3907,4 @@
 - **May 07, 06:13 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 06:27 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 07, 06:41 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 07, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
