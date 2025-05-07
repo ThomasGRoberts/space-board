@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 68 | 68 |
@@ -3958,3 +3958,4 @@
 - **May 07, 11:11 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 11:25 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
 - **May 07, 11:43 AM** - Resilience lunar lander enters orbit around the moon (spacenews)
+- **May 07, 12:02 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
