@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 5 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
 
@@ -4020,3 +4020,4 @@
 - **May 07, 05:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 07, 06:13 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
 - **May 07, 06:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 07, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
