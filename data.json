@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "490139f097ebdc5332f88cb629d7c16b",
+    "trigger_count": 0,
+    "current_item_id": "49bfba2d9235a9c584e045aedd5812c3",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9462,6 +9462,18 @@
             "shown_at": [
                 "2025-05-07T09:19:18.874543Z",
                 "2025-05-07T11:11:41.699671Z"
+            ]
+        },
+        {
+            "id": "49bfba2d9235a9c584e045aedd5812c3",
+            "source": "spacenews",
+            "text": "Resilience lunar lander enters orbit around the moon",
+            "source_link": "https://spacenews.com/resilience-lunar-lander-enters-orbit-around-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T11:43:39.694855Z",
+            "shown_at": [
+                "2025-05-07T11:43:40.767704Z"
             ]
         }
     ]
