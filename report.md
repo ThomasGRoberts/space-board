@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -3908,3 +3908,4 @@
 - **May 07, 06:27 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 07, 06:41 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 07, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 06:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
