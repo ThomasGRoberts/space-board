@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 26 | 54 |
+| spacenews | 8 | 17 | 25 | 54 |
 | breaking_defense | 4 | 5 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -4021,3 +4021,4 @@
 - **May 07, 06:13 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
 - **May 07, 06:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
