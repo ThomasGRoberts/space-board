@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 26 | 57 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 89 | 89 |
 
@@ -3989,3 +3989,4 @@
 - **May 07, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 03:02 PM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
 - **May 07, 03:17 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 07, 03:33 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
