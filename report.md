@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 25 | 58 |
+| spacenews | 8 | 20 | 26 | 59 |
 | breaking_defense | 2 | 4 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3865,3 +3865,4 @@
 - **May 07, 02:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 02:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 02:27 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 07, 02:41 AM** - Waltz defends ‘Golden Dome’ missile shield amid partisan divide (spacenews)
