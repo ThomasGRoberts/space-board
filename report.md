@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 26 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 12 | 12 |
@@ -3876,3 +3876,4 @@
 - **May 07, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 03:23 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 03:38 AM** - U.S. Space Force taps 12 firms for $237 million small-satellite procurement (spacenews)
+- **May 07, 03:51 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
