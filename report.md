@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 25 | 52 |
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 138 | 138 |
@@ -4058,3 +4058,4 @@
 - **May 07, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 09:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 09:57 PM** - Retired Air Force officer nominated to be NASA deputy administrator (spacenews)
+- **May 07, 10:11 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
