@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -3980,3 +3980,4 @@
 - **May 07, 02:02 PM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
 - **May 07, 02:17 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 02:31 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 07, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
