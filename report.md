@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 52 |
-| breaking_defense | 4 | 5 | 24 | 47 |
-| nyt | 1 | 1 | 23 | 45 |
+| breaking_defense | 4 | 5 | 25 | 48 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 124 | 124 |
 
@@ -4037,3 +4037,4 @@
 - **May 07, 07:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 07:55 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
