@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 61 | 61 |
@@ -3947,3 +3947,4 @@
 - **May 07, 10:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 10:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 10:29 AM** - Army creates space career field for enlisted soldiers (spacenews)
+- **May 07, 10:43 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
