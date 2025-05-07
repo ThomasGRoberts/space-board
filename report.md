@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 26 | 58 |
+| spacenews | 8 | 20 | 27 | 59 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 161 | 161 |
 | nyt | 0 | 1 | 22 | 45 |
@@ -4015,3 +4015,4 @@
 - **May 06, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 06, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 07, 12:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 07, 12:03 AM** - Senate Commerce Committee advances Isaacman nomination to lead NASA (spacenews)
