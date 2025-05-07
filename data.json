@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "721c7bda2930b618558a210214c5873b",
+    "trigger_count": 0,
+    "current_item_id": "280c2cfb6f9063449f91610e45cd63f7",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9537,6 +9537,18 @@
             "fetched_datetime": "2025-05-07T15:02:11.856319Z",
             "shown_at": [
                 "2025-05-07T15:02:12.816154Z"
+            ]
+        },
+        {
+            "id": "280c2cfb6f9063449f91610e45cd63f7",
+            "source": "breaking_defense",
+            "text": "Space RCO head sees potential ‘product line’ for orbital warfare satellites",
+            "source_link": "https://breakingdefense.com/2025/05/space-rco-head-sees-potential-product-line-for-orbital-warfare-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T15:17:25.548048Z",
+            "shown_at": [
+                "2025-05-07T15:17:26.128910Z"
             ]
         }
     ]
