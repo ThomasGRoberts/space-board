@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f0a16ba000ca51a01f43920decf74df",
+    "trigger_count": 0,
+    "current_item_id": "b69178b3e743da84de63f138691144ad",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9429,6 +9429,18 @@
                 "2025-05-07T08:59:31.657763Z",
                 "2025-05-07T09:02:00.132663Z",
                 "2025-05-07T09:03:26.727012Z"
+            ]
+        },
+        {
+            "id": "b69178b3e743da84de63f138691144ad",
+            "source": "nyt",
+            "text": "What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years",
+            "source_link": "https://www.nytimes.com/2025/05/07/science/kosmos-482-soviet-spacecraft-reentry.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T09:19:18.116058Z",
+            "shown_at": [
+                "2025-05-07T09:19:18.874543Z"
             ]
         }
     ]
