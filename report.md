@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -3970,3 +3970,4 @@
 - **May 07, 12:57 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
 - **May 07, 01:15 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 07, 01:32 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 07, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
