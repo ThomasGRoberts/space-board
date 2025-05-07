@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 26 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -3886,3 +3886,4 @@
 - **May 07, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 04:19 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 04:33 AM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
+- **May 07, 04:47 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
