@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -3938,3 +3938,4 @@
 - **May 07, 09:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 09:33 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 07, 09:47 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 07, 10:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
