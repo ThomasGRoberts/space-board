@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 146 | 146 |
+| supercluster | 1 | 1 | 147 | 147 |
 
 # Shown Order
 
@@ -4072,3 +4072,4 @@
 - **May 07, 11:23 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 11:37 PM** - Leshin to step down as JPL director (spacenews)
 - **May 07, 11:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
