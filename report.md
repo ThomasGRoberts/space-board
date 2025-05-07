@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 0 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -3868,3 +3868,4 @@
 - **May 07, 02:41 AM** - Waltz defends ‘Golden Dome’ missile shield amid partisan divide (spacenews)
 - **May 07, 02:55 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 07, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 03:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
