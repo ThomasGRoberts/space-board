@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 24 | 46 |
 | nyt | 0 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -3887,3 +3887,4 @@
 - **May 07, 04:19 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 07, 04:33 AM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 07, 04:47 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 07, 05:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
