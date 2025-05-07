@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 21 | 27 | 58 |
 | breaking_defense | 2 | 4 | 23 | 46 |
-| nyt | 1 | 1 | 22 | 43 |
+| nyt | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 82 | 82 |
 
@@ -3978,3 +3978,4 @@
 - **May 07, 01:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 02:02 PM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
+- **May 07, 02:17 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
