@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6a7bb97a99b7f24211f9b6bc0a8dcd85",
+    "trigger_count": 0,
+    "current_item_id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9674,6 +9674,18 @@
             "fetched_datetime": "2025-05-07T22:41:59.175969Z",
             "shown_at": [
                 "2025-05-07T22:42:00.355090Z"
+            ]
+        },
+        {
+            "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
+            "source": "spacenews",
+            "text": "Leshin to step down as JPL director",
+            "source_link": "https://spacenews.com/leshin-to-step-down-as-jpl-director/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T23:37:35.395892Z",
+            "shown_at": [
+                "2025-05-07T23:37:36.775693Z"
             ]
         }
     ]

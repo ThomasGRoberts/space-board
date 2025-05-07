@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 25 | 52 |
+| spacenews | 8 | 16 | 26 | 53 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4070,3 +4070,4 @@
 - **May 07, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 11:09 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 07, 11:23 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 07, 11:37 PM** - Leshin to step down as JPL director (spacenews)
