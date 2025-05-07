@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 26 | 58 |
+| spacenews | 10 | 21 | 27 | 58 |
 | breaking_defense | 2 | 3 | 24 | 45 |
 | nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -3987,3 +3987,4 @@
 - **May 07, 02:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 02:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 03:02 PM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)

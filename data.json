@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-07T00:01:56.686482+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "721c7bda2930b618558a210214c5873b",
     "data": [
         {
             "id": "cd3b10636a1494d0809a5a3e73639915",
@@ -9525,6 +9525,18 @@
             "fetched_datetime": "2025-05-07T14:02:06.431475Z",
             "shown_at": [
                 "2025-05-07T14:02:07.211757Z"
+            ]
+        },
+        {
+            "id": "721c7bda2930b618558a210214c5873b",
+            "source": "spacenews",
+            "text": "Why NASA should apply the CLPS mindset to low-cost science missions, not just landers",
+            "source_link": "https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-07T15:02:11.856319Z",
+            "shown_at": [
+                "2025-05-07T15:02:12.816154Z"
             ]
         }
     ]
