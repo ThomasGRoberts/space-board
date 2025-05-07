@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 26 | 56 |
+| spacenews | 10 | 16 | 26 | 55 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -3990,3 +3990,4 @@
 - **May 07, 03:02 PM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
 - **May 07, 03:17 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 07, 03:33 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 07, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
