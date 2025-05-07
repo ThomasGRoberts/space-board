@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 25 | 52 |
+| spacenews | 6 | 14 | 25 | 51 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 131 | 131 |
+| supercluster | 1 | 1 | 132 | 132 |
 
 # Shown Order
 
@@ -4050,3 +4050,4 @@
 - **May 07, 08:58 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 07, 09:13 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 07, 09:27 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 07, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
