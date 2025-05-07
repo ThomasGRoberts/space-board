@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 27 | 58 |
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 0 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -3926,3 +3926,4 @@
 - **May 07, 08:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 08:09 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 07, 08:23 AM** - Lohmeier defends qualifications for Air Force post as senators question past remarks (spacenews)
+- **May 07, 08:37 AM** - Changes in FCC rules to support GPS alternatives could impact DoD (breaking_defense)
