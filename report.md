@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 25 | 52 |
+| spacenews | 7 | 15 | 26 | 52 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4060,3 +4060,4 @@
 - **May 07, 09:57 PM** - Retired Air Force officer nominated to be NASA deputy administrator (spacenews)
 - **May 07, 10:11 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 07, 10:42 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
