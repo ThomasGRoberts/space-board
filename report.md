@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 26 | 52 |
 | breaking_defense | 2 | 4 | 23 | 47 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 
 # Shown Order
 
@@ -4062,3 +4062,4 @@
 - **May 07, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 10:42 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
 - **May 07, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
