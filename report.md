@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 26 | 54 |
+| spacenews | 8 | 16 | 25 | 54 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4001,3 +4001,4 @@
 - **May 07, 04:17 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 07, 04:32 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 07, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
