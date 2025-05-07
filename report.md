@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 54 |
 | breaking_defense | 3 | 4 | 24 | 47 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 103 | 103 |
 
@@ -4009,3 +4009,4 @@
 - **May 07, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 07, 04:59 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 07, 05:13 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 07, 05:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
