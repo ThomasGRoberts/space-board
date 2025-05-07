@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 26 | 54 |
+| spacenews | 9 | 17 | 25 | 54 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
 
@@ -4010,3 +4010,4 @@
 - **May 07, 04:59 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 07, 05:13 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 05:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 07, 05:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
