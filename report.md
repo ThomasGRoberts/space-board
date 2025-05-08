@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 26 | 53 |
+| spacenews | 10 | 20 | 27 | 54 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 264 |
@@ -4190,3 +4190,4 @@
 - **May 08, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 04:05 PM** - NASA backtracks on VIPER commercial partnership (spacenews)
