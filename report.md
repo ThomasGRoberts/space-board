@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 28 | 53 |
+| spacenews | 11 | 19 | 29 | 54 |
 | breaking_defense | 0 | 4 | 24 | 48 |
-| nyt | 0 | 1 | 24 | 47 |
+| nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 161 | 285 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4224,3 +4224,4 @@
 - **May 08, 07:11 PM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 08, 07:25 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
 - **May 08, 07:39 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 08, 07:55 PM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f0a16ba000ca51a01f43920decf74df",
+    "trigger_count": 0,
+    "current_item_id": "b6978bd1baf333e6e3516481934fbcc4",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9795,6 +9795,18 @@
             "fetched_datetime": "2025-05-08T19:11:38.880982Z",
             "shown_at": [
                 "2025-05-08T19:11:39.552479Z"
+            ]
+        },
+        {
+            "id": "b6978bd1baf333e6e3516481934fbcc4",
+            "source": "spacenews",
+            "text": "U.S. Space Force narrows field in $100 million space laser terminal program",
+            "source_link": "https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T19:55:33.390253Z",
+            "shown_at": [
+                "2025-05-08T19:55:34.107675Z"
             ]
         }
     ]
