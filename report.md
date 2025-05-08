@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 250 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4172,3 +4172,4 @@
 - **May 08, 02:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:07 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 08, 02:23 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 08, 02:37 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
