@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 161 | 229 |
+| supercluster | 0 | 1 | 162 | 230 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4141,3 +4141,4 @@
 - **May 08, 10:41 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 08, 10:55 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 08, 11:10 AM** - Commercial competition and cooperation at the moon (spacenews)
+- **May 08, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
