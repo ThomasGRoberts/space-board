@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c0ee9c34da9e1cf40aea0efac5219400",
+    "trigger_count": 0,
+    "current_item_id": "cf069ea55231a1cf2ecf6422ba0ef713",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9781,6 +9781,18 @@
             "fetched_datetime": "2025-05-08T15:07:34.922946Z",
             "shown_at": [
                 "2025-05-08T15:07:35.516842Z"
+            ]
+        },
+        {
+            "id": "cf069ea55231a1cf2ecf6422ba0ef713",
+            "source": "spacenews",
+            "text": "Military satellite program highlights role of ‘mission integrators’",
+            "source_link": "https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T19:11:38.880982Z",
+            "shown_at": [
+                "2025-05-08T19:11:39.552479Z"
             ]
         }
     ]
