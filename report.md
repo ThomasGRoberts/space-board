@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 164 | 201 |
+| nyt | 1 | 1 | 25 | 47 |
+| supercluster | 0 | 1 | 162 | 201 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4099,3 +4099,4 @@
 - **May 08, 06:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 06:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 06:51 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 08, 07:07 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
