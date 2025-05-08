@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ae3a44bba3ad37083d3c34b5284fdf71",
+    "trigger_count": 0,
+    "current_item_id": "ac7357ad06cf81487885436f482b5b5a",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9815,6 +9815,18 @@
             "fetched_datetime": "2025-05-08T19:55:33.390253Z",
             "shown_at": [
                 "2025-05-08T19:55:34.107675Z"
+            ]
+        },
+        {
+            "id": "ac7357ad06cf81487885436f482b5b5a",
+            "source": "breaking_defense",
+            "text": "Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff",
+            "source_link": "https://breakingdefense.com/2025/05/whos-who-in-defense-dan-caine-chairman-joint-chiefs-of-staff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T20:39:28.623125Z",
+            "shown_at": [
+                "2025-05-08T20:39:29.334405Z"
             ]
         }
     ]
