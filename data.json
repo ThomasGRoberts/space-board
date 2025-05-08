@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b69178b3e743da84de63f138691144ad",
+    "trigger_count": 0,
+    "current_item_id": "ca6394d5830f3e4d9a46955a6e44fd6a",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9634,6 +9634,18 @@
             "fetched_datetime": "2025-03-10T11:05:44.689265Z",
             "shown_at": [
                 "2025-03-10T11:20:04.868195Z"
+            ]
+        },
+        {
+            "id": "ca6394d5830f3e4d9a46955a6e44fd6a",
+            "source": "spacenews",
+            "text": "Commercial competition and cooperation at the moon",
+            "source_link": "https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T11:10:32.531872Z",
+            "shown_at": [
+                "2025-05-08T11:10:33.655641Z"
             ]
         }
     ]
