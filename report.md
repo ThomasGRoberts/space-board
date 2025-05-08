@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 1 | 1 | 24 | 45 |
-| supercluster | 1 | 1 | 166 | 166 |
+| nyt | 1 | 1 | 25 | 46 |
+| supercluster | 0 | 1 | 165 | 166 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4049,3 +4049,4 @@
 - **May 08, 01:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:03 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 08, 02:17 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
