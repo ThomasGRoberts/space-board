@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ae3a44bba3ad37083d3c34b5284fdf71",
+    "trigger_count": 0,
+    "current_item_id": "9e1a71d1d4e9d957786a055ee96ca183",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9654,6 +9654,18 @@
             "fetched_datetime": "2025-05-08T11:10:32.531872Z",
             "shown_at": [
                 "2025-05-08T11:10:33.655641Z"
+            ]
+        },
+        {
+            "id": "9e1a71d1d4e9d957786a055ee96ca183",
+            "source": "spacenews",
+            "text": "NASA backtracks on VIPER commercial partnership",
+            "source_link": "https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T11:53:26.385710Z",
+            "shown_at": [
+                "2025-05-08T11:53:27.045012Z"
             ]
         }
     ]
