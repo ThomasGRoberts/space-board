@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 28 | 54 |
 | breaking_defense | 1 | 4 | 25 | 48 |
-| nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 164 | 292 |
+| nyt | 0 | 1 | 24 | 47 |
+| supercluster | 0 | 1 | 163 | 292 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4234,3 +4234,4 @@
 - **May 08, 08:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 08:25 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 08, 08:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 08, 08:53 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
