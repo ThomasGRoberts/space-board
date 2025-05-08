@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 53 |
+| spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 162 | 195 |
+| supercluster | 0 | 1 | 163 | 196 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4092,3 +4092,4 @@
 - **May 08, 06:07 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 06:22 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 08, 06:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 06:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
