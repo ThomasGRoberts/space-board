@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7aa04a6cefd9ca9b024864a083e0462",
+    "trigger_count": 0,
+    "current_item_id": "313e34aa3600d5efef4be90a4d3d9ed9",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9829,6 +9829,18 @@
             "fetched_datetime": "2025-05-08T20:39:28.623125Z",
             "shown_at": [
                 "2025-05-08T20:39:29.334405Z"
+            ]
+        },
+        {
+            "id": "313e34aa3600d5efef4be90a4d3d9ed9",
+            "source": "spacenews",
+            "text": "China issues regulatory framework to support direct-to-device satellite services",
+            "source_link": "https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T21:21:39.912512Z",
+            "shown_at": [
+                "2025-05-08T21:21:40.467832Z"
             ]
         }
     ]

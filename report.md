@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 28 | 54 |
+| spacenews | 12 | 19 | 29 | 55 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 161 | 292 |
@@ -4236,3 +4236,4 @@
 - **May 08, 08:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 08, 08:53 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 09:07 PM** - NASA to continue Lunar Trailblazer recovery efforts through mid-June (spacenews)
+- **May 08, 09:21 PM** - China issues regulatory framework to support direct-to-device satellite services (spacenews)
