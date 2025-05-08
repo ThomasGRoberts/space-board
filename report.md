@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 27 | 53 |
 | breaking_defense | 1 | 4 | 24 | 48 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 264 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4192,3 +4192,4 @@
 - **May 08, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 04:05 PM** - NASA backtracks on VIPER commercial partnership (spacenews)
 - **May 08, 04:19 PM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
+- **May 08, 04:35 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
