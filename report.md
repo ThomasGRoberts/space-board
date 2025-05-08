@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 26 | 53 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 161 | 194 |
+| supercluster | 0 | 1 | 162 | 195 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4091,3 +4091,4 @@
 - **May 08, 05:51 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 08, 06:07 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 06:22 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
+- **May 08, 06:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
