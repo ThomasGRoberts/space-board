@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 26 | 53 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 162 | 202 |
+| supercluster | 0 | 1 | 163 | 203 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4102,3 +4102,4 @@
 - **May 08, 07:07 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 07:21 AM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 08, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
