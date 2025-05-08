@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 29 | 54 |
+| spacenews | 13 | 19 | 30 | 55 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 0 | 1 | 161 | 292 |
@@ -4237,3 +4237,4 @@
 - **May 08, 08:53 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 09:07 PM** - NASA to continue Lunar Trailblazer recovery efforts through mid-June (spacenews)
 - **May 08, 09:21 PM** - China issues regulatory framework to support direct-to-device satellite services (spacenews)
+- **May 08, 09:35 PM** - German defense firm partners with Iceye to build SAR satellites (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "313e34aa3600d5efef4be90a4d3d9ed9",
+    "trigger_count": 0,
+    "current_item_id": "3c3aff481572080eac96d6afec29e103",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9841,6 +9841,18 @@
             "fetched_datetime": "2025-05-08T21:21:39.912512Z",
             "shown_at": [
                 "2025-05-08T21:21:40.467832Z"
+            ]
+        },
+        {
+            "id": "3c3aff481572080eac96d6afec29e103",
+            "source": "spacenews",
+            "text": "German defense firm partners with Iceye to build SAR satellites",
+            "source_link": "https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T21:35:46.394251Z",
+            "shown_at": [
+                "2025-05-08T21:35:47.496968Z"
             ]
         }
     ]
