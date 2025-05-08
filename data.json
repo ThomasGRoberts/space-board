@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9e1a71d1d4e9d957786a055ee96ca183",
+    "trigger_count": 0,
+    "current_item_id": "d534364504b5082cec46a999e1157b4d",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9667,6 +9667,27 @@
             "shown_at": [
                 "2025-05-08T11:53:27.045012Z"
             ]
+        },
+        {
+            "id": "d534364504b5082cec46a999e1157b4d",
+            "source": "spacenews",
+            "text": "Sierra Space completes ground demo of navigation satellite for U.S. Space Force program",
+            "source_link": "https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T12:07:32.281918Z",
+            "shown_at": [
+                "2025-05-08T12:07:32.964498Z"
+            ]
+        },
+        {
+            "id": "364e914b557f892744a0195f649cc094",
+            "source": "spacenews",
+            "text": "Silicon solar power specialist gets $21 million for mass production",
+            "source_link": "https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T12:07:32.281975Z"
         }
     ]
 }
