@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 162 | 181 |
+| supercluster | 0 | 1 | 163 | 182 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4072,3 +4072,4 @@
 - **May 08, 04:11 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 04:25 AM** - Radian Aerospace unveils plans for reentry vehicle (spacenews)
 - **May 08, 04:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 04:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
