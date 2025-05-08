@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 52 |
+| spacenews | 8 | 16 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 161 | 215 |
@@ -4120,3 +4120,4 @@
 - **May 08, 08:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 08:49 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 08, 09:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 08, 09:17 AM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
