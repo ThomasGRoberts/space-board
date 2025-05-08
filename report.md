@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 26 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 163 | 231 |
+| supercluster | 0 | 1 | 164 | 232 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4143,3 +4143,4 @@
 - **May 08, 11:10 AM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 08, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
