@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 154 | 154 |
+| supercluster | 1 | 1 | 155 | 155 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4033,3 +4033,4 @@
 - **May 08, 12:35 AM** - Building the space workforce — how to compete for top talent in a new frontier (spacenews)
 - **May 08, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 12:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
