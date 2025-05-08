@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 52 |
-| breaking_defense | 2 | 4 | 24 | 48 |
+| spacenews | 8 | 16 | 27 | 53 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 161 | 194 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4090,3 +4090,4 @@
 - **May 08, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 05:51 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 08, 06:07 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 08, 06:22 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
