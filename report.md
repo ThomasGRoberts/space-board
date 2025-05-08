@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 29 | 55 |
+| spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 161 | 306 |
@@ -4258,3 +4258,4 @@
 - **May 08, 10:59 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
 - **May 08, 11:13 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 11:27 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
+- **May 08, 11:42 PM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)

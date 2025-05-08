@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71137203f5dcdee366105a6688a59943",
+    "trigger_count": 0,
+    "current_item_id": "87976ff6a5e47f124bc163e8e22c519b",
     "data": [
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
@@ -9873,6 +9873,18 @@
             "fetched_datetime": "2025-05-08T21:35:46.394251Z",
             "shown_at": [
                 "2025-05-08T21:35:47.496968Z"
+            ]
+        },
+        {
+            "id": "87976ff6a5e47f124bc163e8e22c519b",
+            "source": "spacenews",
+            "text": "Rocket Lab’s Neutron tapped for U.S. military cargo test",
+            "source_link": "https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T23:42:20.513083Z",
+            "shown_at": [
+                "2025-05-08T23:42:21.150886Z"
             ]
         }
     ]
