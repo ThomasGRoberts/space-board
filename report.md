@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 52 |
+| spacenews | 8 | 16 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 161 | 166 |
@@ -4050,3 +4050,4 @@
 - **May 08, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:03 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 08, 02:17 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 08, 02:32 AM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
