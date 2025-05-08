@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 1 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 164 | 187 |
+| nyt | 1 | 1 | 25 | 46 |
+| supercluster | 0 | 1 | 163 | 187 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4079,3 +4079,4 @@
 - **May 08, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 04:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 04:53 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 08, 05:09 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
