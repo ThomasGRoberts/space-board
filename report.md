@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 159 | 306 |
+| supercluster | 0 | 1 | 159 | 307 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4259,3 +4259,4 @@
 - **May 08, 11:13 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 08, 11:27 PM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 08, 11:42 PM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
+- **May 08, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
