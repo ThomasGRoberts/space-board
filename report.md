@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 163 | 168 |
+| supercluster | 0 | 1 | 164 | 169 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4053,3 +4053,4 @@
 - **May 08, 02:32 AM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
 - **May 08, 02:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 02:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
