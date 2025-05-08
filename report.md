@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 27 | 53 |
+| spacenews | 9 | 17 | 26 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 162 | 230 |
+| supercluster | 0 | 1 | 163 | 231 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4142,3 +4142,4 @@
 - **May 08, 10:55 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 08, 11:10 AM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 08, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
