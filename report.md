@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 27 | 53 |
+| spacenews | 12 | 20 | 28 | 54 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 168 | 243 |
@@ -4160,3 +4160,4 @@
 - **May 08, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 01:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 01:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 01:09 PM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
