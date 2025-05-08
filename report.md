@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 25 | 52 |
+| spacenews | 8 | 16 | 26 | 53 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 46 |
 | supercluster | 1 | 1 | 159 | 159 |
@@ -4040,3 +4040,4 @@
 - **May 08, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 01:07 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 08, 01:22 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 08, 01:35 AM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
