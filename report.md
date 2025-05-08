@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 27 | 54 |
+| spacenews | 11 | 20 | 28 | 55 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 45 |
-| supercluster | 0 | 1 | 168 | 236 |
+| supercluster | 0 | 1 | 166 | 236 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4151,3 +4151,4 @@
 - **May 08, 11:39 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 08, 11:53 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
 - **May 08, 12:07 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
+- **May 08, 12:21 PM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
