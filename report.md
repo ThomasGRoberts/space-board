@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 163 | 215 |
+| nyt | 1 | 1 | 25 | 47 |
+| supercluster | 0 | 1 | 161 | 215 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4119,3 +4119,4 @@
 - **May 08, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 08:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 08:49 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 08, 09:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
