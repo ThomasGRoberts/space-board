@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 162 | 216 |
+| supercluster | 0 | 1 | 163 | 217 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4122,3 +4122,4 @@
 - **May 08, 09:03 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 08, 09:17 AM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 08, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
