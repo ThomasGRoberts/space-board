@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 29 | 54 |
+| spacenews | 12 | 18 | 30 | 55 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 0 | 1 | 161 | 299 |
@@ -4247,3 +4247,4 @@
 - **May 08, 10:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 10:03 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 08, 10:17 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 08, 10:32 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
