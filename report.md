@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 27 | 53 |
+| spacenews | 9 | 17 | 27 | 52 |
 | breaking_defense | 0 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 1 | 168 | 279 |
+| supercluster | 0 | 1 | 169 | 280 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4214,3 +4214,4 @@
 - **May 08, 06:13 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 08, 06:27 PM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 08, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
