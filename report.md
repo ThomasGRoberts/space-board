@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 28 | 53 |
-| breaking_defense | 0 | 4 | 23 | 48 |
+| spacenews | 9 | 18 | 27 | 53 |
+| breaking_defense | 0 | 4 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 278 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4211,3 +4211,4 @@
 - **May 08, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 05:59 PM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
+- **May 08, 06:13 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
