@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 28 | 54 |
 | breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 161 | 236 |
+| supercluster | 0 | 1 | 162 | 237 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4153,3 +4153,4 @@
 - **May 08, 12:07 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
 - **May 08, 12:21 PM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
 - **May 08, 12:37 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 08, 12:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
