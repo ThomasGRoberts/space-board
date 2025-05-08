@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 52 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 1 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 167 | 173 |
+| nyt | 1 | 1 | 25 | 46 |
+| supercluster | 0 | 1 | 165 | 173 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4059,3 +4059,4 @@
 - **May 08, 02:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 02:59 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 08, 03:13 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
