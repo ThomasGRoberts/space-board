@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 53 |
-| breaking_defense | 2 | 4 | 24 | 47 |
+| breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 0 | 1 | 168 | 222 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4128,3 +4128,4 @@
 - **May 08, 09:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 09:45 AM** - Ursa Major looks to fly Draper engine, takes aim at rocket engine markets (breaking_defense)
