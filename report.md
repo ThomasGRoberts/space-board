@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 27 | 54 |
 | breaking_defense | 2 | 4 | 24 | 48 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 243 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4162,3 +4162,4 @@
 - **May 08, 01:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 01:09 PM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
 - **May 08, 01:23 PM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 08, 01:37 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
