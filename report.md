@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 27 | 53 |
-| breaking_defense | 2 | 4 | 24 | 48 |
+| spacenews | 8 | 16 | 26 | 53 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 0 | 1 | 163 | 217 |
+| supercluster | 0 | 1 | 164 | 218 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4123,3 +4123,4 @@
 - **May 08, 09:17 AM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
 - **May 08, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 08, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 08, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
