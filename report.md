@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 30 | 57 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 161 | 329 |
+| supercluster | 0 | 0 | 162 | 330 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4402,3 +4402,4 @@
 - **May 09, 04:02 PM** - White House budget proposal would phase out SLS and Orion, scale back ISS operations (spacenews)
 - **May 09, 04:17 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 09, 04:31 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 09, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
