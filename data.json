@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-09T00:01:55.634184+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "b743123acadbddebae640447389c7e3a",
     "data": [
         {
             "id": "87976ff6a5e47f124bc163e8e22c519b",
@@ -9927,6 +9927,18 @@
             "fetched_datetime": "2025-05-09T13:05:47.933280Z",
             "shown_at": [
                 "2025-05-09T13:05:48.623899Z"
+            ]
+        },
+        {
+            "id": "b743123acadbddebae640447389c7e3a",
+            "source": "spacenews",
+            "text": "Trump assaults American space science",
+            "source_link": "https://spacenews.com/trump-assaults-american-space-science/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-09T15:02:10.735923Z",
+            "shown_at": [
+                "2025-05-09T15:02:11.825782Z"
             ]
         }
     ]

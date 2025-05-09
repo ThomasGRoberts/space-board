@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 30 | 57 |
+| spacenews | 11 | 21 | 31 | 58 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 164 | 330 |
+| supercluster | 0 | 0 | 163 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4389,3 +4389,4 @@
 - **May 09, 02:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 02:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 03:02 PM** - Trump assaults American space science (spacenews)
