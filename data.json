@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-09T00:01:55.634184+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "dd3a639f77b98672bcc7f927ff5b3019",
     "data": [
         {
             "id": "87976ff6a5e47f124bc163e8e22c519b",
@@ -9874,6 +9874,18 @@
             "fetched_datetime": "2025-05-09T11:12:23.360902Z",
             "shown_at": [
                 "2025-05-09T11:12:24.031245Z"
+            ]
+        },
+        {
+            "id": "dd3a639f77b98672bcc7f927ff5b3019",
+            "source": "spacenews",
+            "text": "Space agencies grapple with potential changes to Artemis",
+            "source_link": "https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-09T11:55:31.106465Z",
+            "shown_at": [
+                "2025-05-09T11:55:31.892137Z"
             ]
         }
     ]
