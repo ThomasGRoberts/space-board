@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-09T00:01:55.634184+00:00",
-    "trigger_count": 6,
-    "current_item_id": "37c94a36be807d13848810d97c6cb525",
+    "trigger_count": 0,
+    "current_item_id": "23e424fd8c28ae7a40931273394a6ec1",
     "data": [
         {
             "id": "87976ff6a5e47f124bc163e8e22c519b",
@@ -9896,6 +9896,18 @@
             "fetched_datetime": "2025-05-09T11:55:31.106465Z",
             "shown_at": [
                 "2025-05-09T11:55:31.892137Z"
+            ]
+        },
+        {
+            "id": "23e424fd8c28ae7a40931273394a6ec1",
+            "source": "spacenews",
+            "text": "Startups need a clear path to working with the European Defence Agency",
+            "source_link": "https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-09T13:05:47.933280Z",
+            "shown_at": [
+                "2025-05-09T13:05:48.623899Z"
             ]
         }
     ]
