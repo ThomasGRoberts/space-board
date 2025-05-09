@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 161 | 322 |
+| supercluster | 0 | 0 | 161 | 323 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4320,3 +4320,4 @@
 - **May 09, 07:51 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 09, 08:05 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 09, 08:19 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
+- **May 09, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
