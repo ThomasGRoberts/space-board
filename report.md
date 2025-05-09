@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 159 | 322 |
+| supercluster | 0 | 0 | 160 | 323 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4280,3 +4280,4 @@
 - **May 09, 03:57 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 09, 04:15 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 09, 04:29 AM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
+- **May 09, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
