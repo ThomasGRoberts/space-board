@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 30 | 55 |
 | breaking_defense | 1 | 3 | 24 | 47 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 161 | 320 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4248,3 +4248,4 @@
 - **May 09, 01:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 01:07 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 09, 01:22 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
