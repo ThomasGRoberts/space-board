@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 28 | 57 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 170 | 335 |
+| supercluster | 0 | 0 | 169 | 335 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4470,3 +4470,4 @@
 - **May 09, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 10:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 10:43 PM** - Startups need a clear path to working with the European Defence Agency (spacenews)
+- **May 09, 10:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
