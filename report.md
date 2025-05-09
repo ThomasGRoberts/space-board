@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 31 | 57 |
-| breaking_defense | 1 | 3 | 24 | 48 |
+| breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 0 | 0 | 154 | 322 |
+| supercluster | 0 | 0 | 155 | 323 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4351,3 +4351,4 @@
 - **May 09, 10:57 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 09, 11:12 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 09, 11:27 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 09, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
