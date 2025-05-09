@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 28 | 57 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 0 | 0 | 169 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4460,3 +4460,4 @@
 - **May 09, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 09:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
+- **May 09, 10:02 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
