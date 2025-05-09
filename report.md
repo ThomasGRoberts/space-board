@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 161 | 322 |
+| supercluster | 0 | 0 | 161 | 323 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4270,3 +4270,4 @@
 - **May 09, 03:02 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 09, 03:15 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 09, 03:29 AM** - German defense firm partners with Iceye to build SAR satellites (spacenews)
+- **May 09, 03:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
