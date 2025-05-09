@@ -1,9 +1,154 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-08T00:01:58.476824+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-05-09T00:01:55.634184+00:00",
+    "trigger_count": 2,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "87976ff6a5e47f124bc163e8e22c519b",
+            "source": "spacenews",
+            "text": "Rocket Lab’s Neutron tapped for U.S. military cargo test",
+            "source_link": "https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T23:42:20.513083Z",
+            "shown_at": [
+                "2025-05-08T23:42:21.150886Z"
+            ]
+        },
+        {
+            "id": "3c3aff481572080eac96d6afec29e103",
+            "source": "spacenews",
+            "text": "German defense firm partners with Iceye to build SAR satellites",
+            "source_link": "https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T21:35:46.394251Z",
+            "shown_at": [
+                "2025-05-08T21:35:47.496968Z"
+            ]
+        },
+        {
+            "id": "313e34aa3600d5efef4be90a4d3d9ed9",
+            "source": "spacenews",
+            "text": "China issues regulatory framework to support direct-to-device satellite services",
+            "source_link": "https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T21:21:39.912512Z",
+            "shown_at": [
+                "2025-05-08T21:21:40.467832Z"
+            ]
+        },
+        {
+            "id": "ac7357ad06cf81487885436f482b5b5a",
+            "source": "breaking_defense",
+            "text": "Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff",
+            "source_link": "https://breakingdefense.com/2025/05/whos-who-in-defense-dan-caine-chairman-joint-chiefs-of-staff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T20:39:28.623125Z",
+            "shown_at": [
+                "2025-05-08T20:39:29.334405Z"
+            ]
+        },
+        {
+            "id": "b6978bd1baf333e6e3516481934fbcc4",
+            "source": "spacenews",
+            "text": "U.S. Space Force narrows field in $100 million space laser terminal program",
+            "source_link": "https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T19:55:33.390253Z",
+            "shown_at": [
+                "2025-05-08T19:55:34.107675Z"
+            ]
+        },
+        {
+            "id": "cf069ea55231a1cf2ecf6422ba0ef713",
+            "source": "spacenews",
+            "text": "Military satellite program highlights role of ‘mission integrators’",
+            "source_link": "https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T19:11:38.880982Z",
+            "shown_at": [
+                "2025-05-08T19:11:39.552479Z"
+            ]
+        },
+        {
+            "id": "d0a9fd316b8a96b982d709c550576a53",
+            "source": "spacenews",
+            "text": "The best way to prepare humans for Mars? The moon.",
+            "source_link": "https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T15:07:34.922946Z",
+            "shown_at": [
+                "2025-05-08T15:07:35.516842Z"
+            ]
+        },
+        {
+            "id": "6bd95d7edaca31d1012da461f2505706",
+            "source": "spacenews",
+            "text": "Beyond Golden Dome: why effective missile defense begins far left of launch",
+            "source_link": "https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T13:09:54.387709Z",
+            "shown_at": [
+                "2025-05-08T13:09:55.497677Z"
+            ]
+        },
+        {
+            "id": "364e914b557f892744a0195f649cc094",
+            "source": "spacenews",
+            "text": "Silicon solar power specialist gets $21 million for mass production",
+            "source_link": "https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T12:07:32.281975Z",
+            "shown_at": [
+                "2025-05-08T12:21:53.247761Z"
+            ]
+        },
+        {
+            "id": "d534364504b5082cec46a999e1157b4d",
+            "source": "spacenews",
+            "text": "Sierra Space completes ground demo of navigation satellite for U.S. Space Force program",
+            "source_link": "https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T12:07:32.281918Z",
+            "shown_at": [
+                "2025-05-08T12:07:32.964498Z"
+            ]
+        },
+        {
+            "id": "9e1a71d1d4e9d957786a055ee96ca183",
+            "source": "spacenews",
+            "text": "NASA backtracks on VIPER commercial partnership",
+            "source_link": "https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T11:53:26.385710Z",
+            "shown_at": [
+                "2025-05-08T11:53:27.045012Z",
+                "2025-05-08T16:05:32.788475Z"
+            ]
+        },
+        {
+            "id": "ca6394d5830f3e4d9a46955a6e44fd6a",
+            "source": "spacenews",
+            "text": "Commercial competition and cooperation at the moon",
+            "source_link": "https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-08T11:10:32.531872Z",
+            "shown_at": [
+                "2025-05-08T11:10:33.655641Z"
+            ]
+        },
         {
             "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
             "source": "spacenews",
@@ -166,7 +311,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-05-10T00:01:00.000Z",
-            "time_remaining": "1d 00h 01m",
+            "time_remaining": "0d 23h 59m",
             "fetched_datetime": "2025-05-07T02:17:35.617409Z",
             "shown_at": [
                 "2025-05-07T02:17:36.163424Z",
@@ -476,7 +621,8 @@
                 "2025-05-08T22:55:41.933942Z",
                 "2025-05-08T22:57:41.865821Z",
                 "2025-05-08T23:57:39.891360Z",
-                "2025-05-08T23:59:43.341924Z"
+                "2025-05-08T23:59:43.341924Z",
+                "2025-05-09T00:01:56.183072Z"
             ]
         },
         {
@@ -9581,312 +9727,6 @@
             "fetched_datetime": "2025-03-10T18:41:34.625054Z",
             "shown_at": [
                 "2025-03-10T18:41:35.334284Z"
-            ]
-        },
-        {
-            "id": "8c35ae2984a4c680b882dc91597fb10b",
-            "source": "spacenews",
-            "text": "Space Symposium to break records",
-            "source_link": "https://spacenews.com/space-symposium-to-break-records/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T17:13:33.491656Z",
-            "shown_at": [
-                "2025-03-10T17:27:50.560297Z"
-            ]
-        },
-        {
-            "id": "c86400ca287709aac6fb0be63454d8d5",
-            "source": "spacenews",
-            "text": "NASA closes offices, lays off staff as it prepares for larger workforce reductions",
-            "source_link": "https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T17:13:33.491607Z",
-            "shown_at": [
-                "2025-03-10T17:13:34.004041Z",
-                "2025-03-15T08:11:54.905444Z",
-                "2025-03-16T04:05:50.983893Z"
-            ]
-        },
-        {
-            "id": "a0dc7723d933217c21a2d4d25371980b",
-            "source": "spacenews",
-            "text": "LeoLabs to build space-monitoring radar in Indo-Pacific region",
-            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T16:59:40.826777Z",
-            "shown_at": [
-                "2025-03-10T16:59:41.307563Z",
-                "2025-03-15T18:21:39.639950Z",
-                "2025-03-15T21:43:41.392066Z"
-            ]
-        },
-        {
-            "id": "fe6b8a882f0958a7c8a1da1fbdacaa65",
-            "source": "breaking_defense",
-            "text": "Emirati consortium to launch first satellite of Sirb constellation by late 2026, early 2027: Exec",
-            "source_link": "https://breakingdefense.com/2025/03/emirati-consortium-to-launch-first-satellite-of-sirb-constellation-by-late-2026-early-2027-exec/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T15:45:41.785673Z",
-            "shown_at": [
-                "2025-03-10T15:45:42.241414Z",
-                "2025-03-11T07:07:35.711201Z",
-                "2025-03-12T02:19:32.344220Z",
-                "2025-03-15T21:57:36.619612Z",
-                "2025-03-16T12:39:44.252660Z",
-                "2025-03-16T13:51:44.949466Z",
-                "2025-03-16T21:11:15.197869Z",
-                "2025-03-16T22:23:45.424828Z",
-                "2025-03-16T23:33:32.293143Z"
-            ]
-        },
-        {
-            "id": "368685ab2dc7e0d2fac173930ebc0d8a",
-            "source": "spacenews",
-            "text": "Voyager, Palantir deepen alliance to develop military space tech",
-            "source_link": "https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T15:17:33.750099Z",
-            "shown_at": [
-                "2025-03-10T15:17:34.165772Z",
-                "2025-03-11T03:50:00.686395Z"
-            ]
-        },
-        {
-            "id": "d4814956fb580fb83c2cf0e72dd363e2",
-            "source": "spacenews",
-            "text": "Space M&A poised for takeoff in 2025",
-            "source_link": "https://spacenews.com/space-ma-poised-for-takeoff-in-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:57:38.760918Z",
-            "shown_at": [
-                "2025-03-10T13:57:39.263036Z"
-            ]
-        },
-        {
-            "id": "791bfe908fe82d76e38c78379329a87c",
-            "source": "spacenews",
-            "text": "America needs a strong NASA",
-            "source_link": "https://spacenews.com/america-needs-a-strong-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803360Z",
-            "shown_at": [
-                "2025-03-10T13:43:35.343441Z",
-                "2025-03-15T04:07:41.134809Z"
-            ]
-        },
-        {
-            "id": "ad4187fb95d43e5ead28c27213c2ba4b",
-            "source": "spacenews",
-            "text": "LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region",
-            "source_link": "https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803317Z",
-            "shown_at": [
-                "2025-03-10T13:29:39.331115Z",
-                "2025-03-16T17:51:39.792805Z"
-            ]
-        },
-        {
-            "id": "4eed20812a0814f43280a2fa91bff6fc",
-            "source": "spacenews",
-            "text": "SpaceWERX selects eight companies for $440 million in public-private partnerships",
-            "source_link": "https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T13:15:39.803251Z",
-            "shown_at": [
-                "2025-03-10T13:15:40.414971Z",
-                "2025-03-16T22:37:57.329261Z",
-                "2025-03-17T02:13:35.288516Z"
-            ]
-        },
-        {
-            "id": "d063c8b2381248b9568cbf34397d39ef",
-            "source": "spacenews",
-            "text": "Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network",
-            "source_link": "https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T12:59:08.743353Z",
-            "shown_at": [
-                "2025-03-10T12:59:09.495129Z"
-            ]
-        },
-        {
-            "id": "ad1574ff006aba303ba9d6d2f13a5be8",
-            "source": "spacenews",
-            "text": "Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market",
-            "source_link": "https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T12:31:47.143826Z",
-            "shown_at": [
-                "2025-03-10T12:31:47.899212Z"
-            ]
-        },
-        {
-            "id": "a7ba1133a0f2cab89b910e3396d36c96",
-            "source": "spacenews",
-            "text": "Deep Blue Aerospace raises new funds, targets mid-year orbital launch",
-            "source_link": "https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-10T11:05:44.689265Z",
-            "shown_at": [
-                "2025-03-10T11:20:04.868195Z"
-            ]
-        },
-        {
-            "id": "ca6394d5830f3e4d9a46955a6e44fd6a",
-            "source": "spacenews",
-            "text": "Commercial competition and cooperation at the moon",
-            "source_link": "https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T11:10:32.531872Z",
-            "shown_at": [
-                "2025-05-08T11:10:33.655641Z"
-            ]
-        },
-        {
-            "id": "9e1a71d1d4e9d957786a055ee96ca183",
-            "source": "spacenews",
-            "text": "NASA backtracks on VIPER commercial partnership",
-            "source_link": "https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T11:53:26.385710Z",
-            "shown_at": [
-                "2025-05-08T11:53:27.045012Z",
-                "2025-05-08T16:05:32.788475Z"
-            ]
-        },
-        {
-            "id": "d534364504b5082cec46a999e1157b4d",
-            "source": "spacenews",
-            "text": "Sierra Space completes ground demo of navigation satellite for U.S. Space Force program",
-            "source_link": "https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T12:07:32.281918Z",
-            "shown_at": [
-                "2025-05-08T12:07:32.964498Z"
-            ]
-        },
-        {
-            "id": "364e914b557f892744a0195f649cc094",
-            "source": "spacenews",
-            "text": "Silicon solar power specialist gets $21 million for mass production",
-            "source_link": "https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T12:07:32.281975Z",
-            "shown_at": [
-                "2025-05-08T12:21:53.247761Z"
-            ]
-        },
-        {
-            "id": "6bd95d7edaca31d1012da461f2505706",
-            "source": "spacenews",
-            "text": "Beyond Golden Dome: why effective missile defense begins far left of launch",
-            "source_link": "https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T13:09:54.387709Z",
-            "shown_at": [
-                "2025-05-08T13:09:55.497677Z"
-            ]
-        },
-        {
-            "id": "d0a9fd316b8a96b982d709c550576a53",
-            "source": "spacenews",
-            "text": "The best way to prepare humans for Mars? The moon.",
-            "source_link": "https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T15:07:34.922946Z",
-            "shown_at": [
-                "2025-05-08T15:07:35.516842Z"
-            ]
-        },
-        {
-            "id": "cf069ea55231a1cf2ecf6422ba0ef713",
-            "source": "spacenews",
-            "text": "Military satellite program highlights role of ‘mission integrators’",
-            "source_link": "https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T19:11:38.880982Z",
-            "shown_at": [
-                "2025-05-08T19:11:39.552479Z"
-            ]
-        },
-        {
-            "id": "b6978bd1baf333e6e3516481934fbcc4",
-            "source": "spacenews",
-            "text": "U.S. Space Force narrows field in $100 million space laser terminal program",
-            "source_link": "https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T19:55:33.390253Z",
-            "shown_at": [
-                "2025-05-08T19:55:34.107675Z"
-            ]
-        },
-        {
-            "id": "ac7357ad06cf81487885436f482b5b5a",
-            "source": "breaking_defense",
-            "text": "Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff",
-            "source_link": "https://breakingdefense.com/2025/05/whos-who-in-defense-dan-caine-chairman-joint-chiefs-of-staff/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T20:39:28.623125Z",
-            "shown_at": [
-                "2025-05-08T20:39:29.334405Z"
-            ]
-        },
-        {
-            "id": "313e34aa3600d5efef4be90a4d3d9ed9",
-            "source": "spacenews",
-            "text": "China issues regulatory framework to support direct-to-device satellite services",
-            "source_link": "https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T21:21:39.912512Z",
-            "shown_at": [
-                "2025-05-08T21:21:40.467832Z"
-            ]
-        },
-        {
-            "id": "3c3aff481572080eac96d6afec29e103",
-            "source": "spacenews",
-            "text": "German defense firm partners with Iceye to build SAR satellites",
-            "source_link": "https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T21:35:46.394251Z",
-            "shown_at": [
-                "2025-05-08T21:35:47.496968Z"
-            ]
-        },
-        {
-            "id": "87976ff6a5e47f124bc163e8e22c519b",
-            "source": "spacenews",
-            "text": "Rocket Lab’s Neutron tapped for U.S. military cargo test",
-            "source_link": "https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T23:42:20.513083Z",
-            "shown_at": [
-                "2025-05-08T23:42:21.150886Z"
             ]
         }
     ]
