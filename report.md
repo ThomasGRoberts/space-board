@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 30 | 56 |
-| breaking_defense | 1 | 3 | 24 | 48 |
+| breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 160 | 324 |
+| supercluster | 0 | 0 | 159 | 325 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4282,3 +4282,4 @@
 - **May 09, 04:29 AM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
 - **May 09, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 04:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
