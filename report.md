@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 30 | 57 |
 | breaking_defense | 1 | 1 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 0 | 0 | 161 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4421,3 +4421,4 @@
 - **May 09, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 05:55 PM** - Inversion completes first flight of reentry vehicle, but without reentry (spacenews)
 - **May 09, 06:09 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 09, 06:23 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
