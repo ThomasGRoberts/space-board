@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 1 | 161 | 320 |
+| supercluster | 0 | 1 | 162 | 321 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4250,3 +4250,4 @@
 - **May 09, 01:07 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 09, 01:22 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 09, 01:35 AM** - House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment (spacenews)
+- **May 09, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
