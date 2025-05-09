@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 29 | 57 |
 | breaking_defense | 1 | 1 | 25 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 165 | 329 |
+| nyt | 0 | 0 | 24 | 48 |
+| supercluster | 0 | 0 | 164 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4441,3 +4441,4 @@
 - **May 09, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 07:49 PM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 09, 08:03 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 09, 08:17 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
