@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 30 | 58 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 0 | 0 | 161 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4430,3 +4430,4 @@
 - **May 09, 06:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 06:51 PM** - Engine change delays ispace-built lunar lander mission (spacenews)
+- **May 09, 07:07 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
