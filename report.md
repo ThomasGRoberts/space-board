@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 161 | 322 |
+| supercluster | 0 | 0 | 162 | 323 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4310,3 +4310,4 @@
 - **May 09, 06:51 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 09, 07:05 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
 - **May 09, 07:19 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
+- **May 09, 07:36 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
