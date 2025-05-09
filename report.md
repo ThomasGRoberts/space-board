@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 31 | 57 |
 | breaking_defense | 1 | 3 | 24 | 48 |
-| nyt | 0 | 0 | 22 | 45 |
-| supercluster | 0 | 0 | 160 | 322 |
+| nyt | 0 | 0 | 23 | 46 |
+| supercluster | 0 | 0 | 159 | 322 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4350,3 +4350,4 @@
 - **May 09, 10:43 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 09, 10:57 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 09, 11:12 AM** - Space Force sharpens focus on deterring rivals (spacenews)
+- **May 09, 11:27 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
