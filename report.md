@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 30 | 55 |
 | breaking_defense | 1 | 3 | 24 | 47 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | supercluster | 0 | 1 | 161 | 313 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4238,3 +4238,4 @@
 - **May 09, 12:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 12:11 AM** - Army to stand up new space career field for enlisted personnel in October 2026 (breaking_defense)
+- **May 09, 12:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
