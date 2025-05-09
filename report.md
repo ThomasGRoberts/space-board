@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 31 | 57 |
+| spacenews | 12 | 21 | 31 | 58 |
 | breaking_defense | 1 | 3 | 24 | 48 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 22 | 45 |
 | supercluster | 0 | 0 | 161 | 322 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4349,3 +4349,4 @@
 - **May 09, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 10:43 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 09, 10:57 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 09, 11:12 AM** - Space Force sharpens focus on deterring rivals (spacenews)
