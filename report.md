@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 30 | 56 |
+| spacenews | 11 | 19 | 30 | 57 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 0 | 0 | 161 | 322 |
@@ -4299,3 +4299,4 @@
 - **May 09, 05:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 05:53 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 09, 06:09 AM** - Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion (nyt)
+- **May 09, 06:23 AM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
