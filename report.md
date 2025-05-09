@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 29 | 57 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 0 | 0 | 168 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4451,3 +4451,4 @@
 - **May 09, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 08:49 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 09, 09:03 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 09, 09:19 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
