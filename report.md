@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 21 | 30 | 57 |
+| spacenews | 10 | 20 | 31 | 57 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 163 | 329 |
+| supercluster | 0 | 0 | 162 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4379,3 +4379,4 @@
 - **May 09, 01:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 01:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 02:03 PM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
