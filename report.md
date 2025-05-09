@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 30 | 56 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 23 | 47 |
-| supercluster | 0 | 0 | 160 | 323 |
+| supercluster | 0 | 0 | 161 | 324 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4291,3 +4291,4 @@
 - **May 09, 05:11 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 09, 05:25 AM** - Securing the skies: tackling the growing threat of GPS interference (spacenews)
 - **May 09, 05:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 05:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
