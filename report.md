@@ -5,7 +5,7 @@
 | spacenews | 12 | 21 | 31 | 57 |
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 0 | 0 | 155 | 323 |
+| supercluster | 0 | 0 | 156 | 324 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4352,3 +4352,4 @@
 - **May 09, 11:12 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 09, 11:27 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 09, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
