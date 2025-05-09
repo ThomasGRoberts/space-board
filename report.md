@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 30 | 57 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 161 | 329 |
+| supercluster | 0 | 0 | 162 | 330 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4392,3 +4392,4 @@
 - **May 09, 03:02 PM** - Trump assaults American space science (spacenews)
 - **May 09, 03:17 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 09, 03:32 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 09, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
