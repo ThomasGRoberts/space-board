@@ -5,7 +5,7 @@
 | spacenews | 7 | 19 | 28 | 57 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 168 | 329 |
+| supercluster | 0 | 0 | 169 | 330 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4462,3 +4462,4 @@
 - **May 09, 09:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 09, 10:02 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 09, 10:15 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 09, 10:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
