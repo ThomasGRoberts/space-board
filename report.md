@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 30 | 56 |
-| breaking_defense | 1 | 3 | 23 | 48 |
+| spacenews | 12 | 20 | 31 | 57 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | supercluster | 0 | 0 | 161 | 329 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4347,3 +4347,4 @@
 - **May 09, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 10:43 AM** - China to launch new modules to Tiangong space station (spacenews)
