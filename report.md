@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 29 | 57 |
+| spacenews | 10 | 20 | 30 | 58 |
 | breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 168 | 333 |
+| supercluster | 0 | 0 | 168 | 332 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4439,3 +4439,4 @@
 - **May 09, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 09, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 09, 07:49 PM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
