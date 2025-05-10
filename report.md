@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4020,3 +4020,4 @@
 - **May 10, 08:43 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 08:57 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 10, 09:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 09:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
