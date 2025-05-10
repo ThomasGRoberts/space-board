@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4040,3 +4040,4 @@
 - **May 10, 10:35 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 10:49 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 10, 11:03 AM** - China to launch new modules to Tiangong space station (spacenews)
+- **May 10, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
