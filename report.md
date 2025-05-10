@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 24 | 54 |
-| breaking_defense | 0 | 1 | 22 | 46 |
+| breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 72 | 72 |
@@ -4108,3 +4108,4 @@
 - **May 10, 05:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 05:19 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
+- **May 10, 05:33 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
