@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 24 | 53 |
-| breaking_defense | 0 | 1 | 22 | 47 |
+| breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 93 | 93 |
@@ -4138,3 +4138,4 @@
 - **May 10, 08:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 08:07 PM** - Leshin to step down as JPL director (spacenews)
+- **May 10, 08:24 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
