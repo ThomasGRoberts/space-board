@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 25 | 55 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4007,3 +4007,4 @@
 - **May 10, 07:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 07:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 10, 07:47 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
