@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 
 # Shown Order
 
@@ -4151,3 +4151,4 @@
 - **May 10, 09:21 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 09:35 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 10, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 09:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
