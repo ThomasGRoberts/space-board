@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 24 | 54 |
+| spacenews | 3 | 13 | 24 | 53 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -4052,3 +4052,4 @@
 - **May 10, 12:02 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 10, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 12:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 12:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
