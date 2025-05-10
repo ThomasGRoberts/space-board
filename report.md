@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4050,3 +4050,4 @@
 - **May 10, 11:32 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 11:47 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 10, 12:02 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
+- **May 10, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
