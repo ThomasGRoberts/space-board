@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -4090,3 +4090,4 @@
 - **May 10, 03:27 PM** - Trump administration to keep National Space Council (spacenews)
 - **May 10, 03:41 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 03:55 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 10, 04:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
