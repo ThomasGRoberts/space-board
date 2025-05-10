@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -4121,3 +4121,4 @@
 - **May 10, 06:29 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 06:43 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 06:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
