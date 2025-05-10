@@ -3987,4 +3987,4 @@
 - **May 09, 11:15 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 09, 11:43 PM** - Leshin to step down as JPL director (spacenews)
 - **May 09, 11:57 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
-- **May 10, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 10, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
