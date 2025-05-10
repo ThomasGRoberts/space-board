@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4003,3 +4003,4 @@
 - **May 10, 02:35 AM** - Trump assaults American space science (spacenews)
 - **May 10, 02:49 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 10, 03:04 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
