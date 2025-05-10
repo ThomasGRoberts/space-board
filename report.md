@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 26 | 56 |
+| spacenews | 6 | 17 | 25 | 56 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4011,3 +4011,4 @@
 - **May 10, 08:01 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
 - **May 10, 08:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 08:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 08:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
