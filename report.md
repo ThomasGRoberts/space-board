@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 10 | 24 | 53 |
-| breaking_defense | 0 | 0 | 22 | 46 |
-| nyt | 1 | 1 | 24 | 47 |
+| spacenews | 1 | 9 | 24 | 52 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 100 | 100 |
 
@@ -4148,3 +4148,4 @@
 - **May 10, 09:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 09:07 PM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
+- **May 10, 09:21 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
