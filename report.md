@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4013,3 +4013,4 @@
 - **May 10, 03:32 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
 - **May 10, 03:45 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 04:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
