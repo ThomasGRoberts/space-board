@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-10T00:02:27.441879+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "80e0ad5ebd2c37a9122babff966c942f",
     "data": [
         {
             "id": "155a6e448a7c8a9325d7411a0405a812",
@@ -9603,6 +9603,18 @@
                 "2025-05-10T10:49:48.748436Z",
                 "2025-05-10T11:47:41.928557Z",
                 "2025-05-10T14:43:24.602140Z"
+            ]
+        },
+        {
+            "id": "80e0ad5ebd2c37a9122babff966c942f",
+            "source": "spacenews",
+            "text": "Trump administration to keep National Space Council",
+            "source_link": "https://spacenews.com/trump-administration-to-keep-national-space-council/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-10T15:27:32.188466Z",
+            "shown_at": [
+                "2025-05-10T15:27:32.791118Z"
             ]
         }
     ]
