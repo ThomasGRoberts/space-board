@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 23 | 53 |
+| spacenews | 2 | 12 | 24 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4069,3 +4069,4 @@
 - **May 10, 01:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 01:32 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 10, 01:47 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 10, 02:02 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
