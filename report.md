@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4023,3 +4023,4 @@
 - **May 10, 04:27 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 10, 04:41 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 10, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
