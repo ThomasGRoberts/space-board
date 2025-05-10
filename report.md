@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 56 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4022,3 +4022,4 @@
 - **May 10, 04:13 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 04:27 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 10, 04:41 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 10, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
