@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -3988,3 +3988,4 @@
 - **May 09, 11:43 PM** - Leshin to step down as JPL director (spacenews)
 - **May 09, 11:57 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 10, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
