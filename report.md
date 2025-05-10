@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 15 | 23 | 54 |
+| spacenews | 3 | 15 | 24 | 55 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4049,3 +4049,4 @@
 - **May 10, 11:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 11:32 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 11:47 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 10, 12:02 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
