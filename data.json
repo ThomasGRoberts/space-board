@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-10T00:02:27.441879+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f0a16ba000ca51a01f43920decf74df",
+    "trigger_count": 0,
+    "current_item_id": "033275039dac9254eaceb0d2a9615731",
     "data": [
         {
             "id": "155a6e448a7c8a9325d7411a0405a812",
@@ -9543,6 +9543,18 @@
                 "2025-05-10T10:15:10.312449Z",
                 "2025-05-10T10:17:47.109039Z",
                 "2025-05-10T10:19:37.657507Z"
+            ]
+        },
+        {
+            "id": "033275039dac9254eaceb0d2a9615731",
+            "source": "nyt",
+            "text": "Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century",
+            "source_link": "https://www.nytimes.com/2025/05/10/science/kosmos-482-crash-soviet-spacecraft.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-10T10:49:48.077021Z",
+            "shown_at": [
+                "2025-05-10T10:49:48.748436Z"
             ]
         }
     ]

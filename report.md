@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 24 | 55 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 23 | 23 |
 
@@ -4038,3 +4038,4 @@
 - **May 10, 10:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 10:21 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 10:35 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 10, 10:49 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
