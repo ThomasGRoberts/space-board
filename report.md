@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 23 | 53 |
+| spacenews | 3 | 13 | 24 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4059,3 +4059,4 @@
 - **May 10, 12:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 12:33 PM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 10, 12:47 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 10, 01:02 PM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
