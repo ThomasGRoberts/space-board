@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4072,3 +4072,4 @@
 - **May 10, 02:02 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
 - **May 10, 02:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 02:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 02:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
