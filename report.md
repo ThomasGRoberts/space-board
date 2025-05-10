@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 52 |
+| spacenews | 1 | 8 | 24 | 51 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 107 | 107 |
 
@@ -4159,3 +4159,4 @@
 - **May 10, 10:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 10:03 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
 - **May 10, 10:17 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 10, 10:32 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
