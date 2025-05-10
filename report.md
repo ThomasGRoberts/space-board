@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 56 |
-| breaking_defense | 0 | 1 | 23 | 47 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -4001,3 +4001,4 @@
 - **May 10, 02:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 02:21 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 02:35 AM** - Trump assaults American space science (spacenews)
+- **May 10, 02:49 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
