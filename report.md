@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4012,3 +4012,4 @@
 - **May 10, 03:17 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 03:32 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
 - **May 10, 03:45 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 10, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
