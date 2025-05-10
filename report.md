@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 50 |
+| spacenews | 1 | 7 | 23 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 115 | 115 |
+| supercluster | 1 | 1 | 116 | 116 |
 
 # Shown Order
 
@@ -4171,3 +4171,4 @@
 - **May 10, 11:15 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 11:29 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
