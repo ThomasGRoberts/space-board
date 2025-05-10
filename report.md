@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 25 | 55 |
+| spacenews | 6 | 17 | 26 | 56 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4008,3 +4008,4 @@
 - **May 10, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 07:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 10, 07:47 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 10, 08:01 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
