@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 26 | 56 |
+| spacenews | 6 | 17 | 27 | 56 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4020,3 +4020,4 @@
 - **May 10, 04:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 04:13 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 10, 04:27 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
