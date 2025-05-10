@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 56 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -4034,3 +4034,4 @@
 - **May 10, 05:37 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 05:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
