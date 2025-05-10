@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 25 | 55 |
-| breaking_defense | 0 | 1 | 22 | 46 |
+| breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4006,3 +4006,4 @@
 - **May 10, 06:21 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 10, 07:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 07:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
