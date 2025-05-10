@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4029,3 +4029,4 @@
 - **May 10, 09:25 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 10, 09:39 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 09:53 AM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
+- **May 10, 10:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
