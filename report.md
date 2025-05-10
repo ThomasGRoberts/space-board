@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 23 | 54 |
+| spacenews | 2 | 12 | 23 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
 
@@ -4110,3 +4110,4 @@
 - **May 10, 05:19 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
 - **May 10, 05:33 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 05:47 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 10, 06:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
