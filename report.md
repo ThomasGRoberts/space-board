@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4005,3 +4005,4 @@
 - **May 10, 06:05 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 06:21 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 10, 07:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
