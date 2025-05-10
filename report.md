@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 26 | 56 |
+| spacenews | 6 | 17 | 25 | 56 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4004,4 +4004,4 @@
 - **May 10, 05:37 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 06:05 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 06:21 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
-- **May 10, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
