@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 23 | 53 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 
 # Shown Order
 
@@ -4140,3 +4140,4 @@
 - **May 10, 08:07 PM** - Leshin to step down as JPL director (spacenews)
 - **May 10, 08:24 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 10, 08:39 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 10, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
