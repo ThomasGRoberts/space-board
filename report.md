@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 56 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -3992,3 +3992,4 @@
 - **May 10, 01:23 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 01:37 AM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
 - **May 10, 01:51 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 10, 02:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
