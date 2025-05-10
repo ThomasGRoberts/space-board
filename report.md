@@ -4004,4 +4004,4 @@
 - **May 10, 05:37 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 06:05 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 06:21 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
-- **May 10, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
