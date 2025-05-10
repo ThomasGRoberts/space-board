@@ -3990,3 +3990,4 @@
 - **May 10, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 01:23 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 10, 01:37 AM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
