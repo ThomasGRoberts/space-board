@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4009,3 +4009,4 @@
 - **May 10, 07:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 10, 07:47 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 10, 08:01 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
+- **May 10, 08:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
