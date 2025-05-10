@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 23 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 10, 08:24 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 10, 08:39 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 10, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
