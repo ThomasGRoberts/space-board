@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 56 |
-| breaking_defense | 0 | 1 | 23 | 47 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -4011,3 +4011,4 @@
 - **May 10, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 10, 03:17 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 03:32 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
+- **May 10, 03:45 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
