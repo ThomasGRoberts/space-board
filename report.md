@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 112 | 112 |
 
@@ -4219,3 +4219,4 @@
 - **May 11, 06:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 06:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 07:02 PM** - Trump administration to keep National Space Council (spacenews)
+- **May 11, 07:17 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
