@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 26 | 49 |
+| spacenews | 1 | 4 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 11, 11:19 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
 - **May 11, 11:33 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 11, 11:47 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 12:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
