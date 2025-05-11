@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4079,3 +4079,4 @@
 - **May 11, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
+- **May 11, 05:51 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
