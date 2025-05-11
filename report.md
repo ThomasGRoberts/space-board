@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 26 | 50 |
 | nyt | 0 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -4139,3 +4139,4 @@
 - **May 11, 11:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 11:19 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
+- **May 11, 11:33 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
