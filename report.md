@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
-| supercluster | 1 | 1 | 121 | 121 |
+| supercluster | 1 | 1 | 122 | 122 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4170,3 +4170,4 @@
 - **May 10, 11:57 PM** - The best way to prepare humans for Mars? The moon. (spacenews)
 - **May 11, 12:11 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 11, 12:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
