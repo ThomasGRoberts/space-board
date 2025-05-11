@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4089,3 +4089,4 @@
 - **May 11, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 06:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 06:35 AM** - Space Force sharpens focus on deterring rivals (spacenews)
+- **May 11, 06:49 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
