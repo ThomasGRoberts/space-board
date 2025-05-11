@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 25 | 48 |
+| nyt | 0 | 1 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 98 | 98 |
@@ -4200,3 +4200,4 @@
 - **May 11, 05:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 05:05 PM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
 - **May 11, 05:21 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 11, 05:35 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
