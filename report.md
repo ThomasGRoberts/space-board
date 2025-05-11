@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -4151,3 +4151,4 @@
 - **May 11, 12:17 PM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 11, 12:32 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 11, 12:45 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
