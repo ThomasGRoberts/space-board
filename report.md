@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 105 | 105 |
 
@@ -4209,3 +4209,4 @@
 - **May 11, 05:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 06:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 06:03 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
+- **May 11, 06:17 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
