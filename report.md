@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4062,3 +4062,4 @@
 - **May 11, 03:57 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 11, 04:11 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 11, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
