@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 26 | 49 |
+| spacenews | 1 | 4 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -4153,3 +4153,4 @@
 - **May 11, 12:45 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 11, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
