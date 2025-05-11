@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 
 # Shown Order
 
@@ -4252,3 +4252,4 @@
 - **May 11, 10:10 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 11, 10:23 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 11, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 10:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
