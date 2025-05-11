@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 
 # Shown Order
 
@@ -4221,3 +4221,4 @@
 - **May 11, 07:02 PM** - Trump administration to keep National Space Council (spacenews)
 - **May 11, 07:17 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 11, 07:32 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 07:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
