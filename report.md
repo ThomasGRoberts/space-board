@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 51 |
 | nyt | 1 | 1 | 26 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -4109,3 +4109,4 @@
 - **May 11, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:29 AM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
+- **May 11, 08:43 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
