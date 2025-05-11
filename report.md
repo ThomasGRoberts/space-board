@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 26 | 49 |
+| nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 
 # Shown Order
 
@@ -4183,3 +4183,4 @@
 - **May 11, 03:37 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 11, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 03:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
