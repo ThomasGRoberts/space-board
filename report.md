@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 50 |
+| spacenews | 1 | 7 | 26 | 51 |
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4108,3 +4108,4 @@
 - **May 11, 08:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 08:29 AM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
