@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
 
@@ -4191,3 +4191,4 @@
 - **May 11, 04:07 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
 - **May 11, 04:21 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 11, 04:35 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
