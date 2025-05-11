@@ -4179,3 +4179,4 @@
 - **May 11, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 12:53 AM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 11, 01:09 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
+- **May 11, 01:23 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
