@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 26 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 84 | 84 |
 
@@ -4179,3 +4179,4 @@
 - **May 11, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 03:07 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
+- **May 11, 03:22 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
