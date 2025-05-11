@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4111,3 +4111,4 @@
 - **May 11, 08:29 AM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
 - **May 11, 08:43 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 11, 08:57 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 11, 09:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
