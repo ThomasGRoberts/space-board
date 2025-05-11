@@ -3,18 +3,14 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 51 |
-| breaking_defense | 0 | 0 | 22 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
-| aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 121 | 121 |
+| breaking_defense | 0 | 0 | 22 | 47 |
+| aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Mar 10, 10:29 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
-- **Mar 10, 10:43 PM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
-- **Mar 10, 11:15 PM** - Evolving threats from cyber to lasers and jammers (spacenews)
 - **Mar 11, 02:31 AM** - Intelsat CEO reveals separate bet on Lynk Global amid SES merger (spacenews)
-- **Mar 11, 03:02 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 07:49 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 11, 10:21 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 11, 12:05 PM** - Momentus and Solstar to offer on-demand communications for Vigoride (spacenews)
@@ -24,14 +20,12 @@
 - **Mar 11, 01:53 PM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
 - **Mar 11, 05:52 PM** - Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics (spacenews)
 - **Mar 11, 06:07 PM** - Viasat and Space42 co-invest in shared direct-to-device satellite prototype (spacenews)
-- **Mar 11, 06:21 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 11, 06:49 PM** - Long March 8 launches Thousand Sails satellites from commercial spaceport (spacenews)
 - **Mar 11, 08:31 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 11, 09:29 PM** - Saturn Gains 128 New Moons, Bringing Its Total to 274 (nyt)
 - **Mar 11, 09:57 PM** - Space Force eyes commercial satellites to boost surveillance in geostationary orbit (spacenews)
 - **Mar 12, 12:19 AM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 12, 12:49 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
-- **Mar 12, 01:49 AM** - Intelligence agency copes with workforce reductions amid AI modernization (spacenews)
 - **Mar 12, 02:05 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
 - **Mar 12, 02:33 AM** - Boeing remains committed to space business (spacenews)
 - **Mar 12, 11:13 PM** - Florida Senate Bill Recognizes Space Force in State Law, Passed March 11, 2025 (aidy)
@@ -58,7 +52,6 @@
 - **Mar 15, 02:56 AM** - SpaceX Launches NASA’s Crew-10 Mission to the I.S.S. (nyt)
 - **Mar 15, 03:11 AM** - Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby (nyt)
 - **Mar 15, 03:39 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
-- **Mar 15, 05:17 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 05:31 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 15, 05:45 AM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
 - **Mar 15, 05:59 AM** - Intelsat secures first customer for communications system aimed at border security (spacenews)
@@ -90,7 +83,6 @@
 - **Mar 15, 08:01 PM** - SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S. (nyt)
 - **Mar 15, 08:31 PM** - Intelligence and dual-use commercial satellites launch on Transporter-13 (spacenews)
 - **Mar 15, 08:45 PM** - NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions (breaking_defense)
-- **Mar 15, 09:15 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 15, 09:29 PM** - NASA Layoffs Spark Legal Action Amid New CR Funding Shifts (aidy)
 - **Mar 15, 10:39 PM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 15, 11:07 PM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
@@ -113,7 +105,6 @@
 - **Mar 16, 06:29 AM** - Planetary defense may get a boost from Jared Isaacman (spacenews)
 - **Mar 16, 07:13 AM** - FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed (aidy)
 - **Mar 16, 07:27 AM** - ULA Vulcan Rocket Certification Delayed, Impacting Defense Missions (aidy)
-- **Mar 16, 07:41 AM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 16, 07:55 AM** - Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices (spacenews)
 - **Mar 16, 08:09 AM** - Space Systems Command reviewing expensive legacy programs for possible commercial shift (breaking_defense)
 - **Mar 16, 08:37 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
@@ -125,7 +116,6 @@
 - **Mar 16, 10:17 AM** - Rocket Lab to expand into laser communications with Mynaric acquisition (spacenews)
 - **Mar 16, 10:31 AM** - Awaiting Space Force certification, ULA says future missions could aim to baffle Chinese watcher sats (breaking_defense)
 - **Mar 16, 11:55 AM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
-- **Mar 16, 12:09 PM** - How to Watch NASA’s SPHEREx and PUNCH Missions Launch on a SpaceX Rocket (nyt)
 - **Mar 16, 01:09 PM** - NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects (aidy)
 - **Mar 16, 01:37 PM** - Falcon 9 launches NASA astrophysics and heliophysics missions (spacenews)
 - **Mar 16, 02:35 PM** - Video: Blood Moon Total Lunar Eclipse (nyt)
