@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -4091,3 +4091,4 @@
 - **May 11, 06:35 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 11, 06:49 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 11, 07:05 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
