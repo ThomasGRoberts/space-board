@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 51 |
+| spacenews | 1 | 7 | 25 | 50 |
 | nyt | 1 | 1 | 25 | 48 |
-| supercluster | 1 | 1 | 136 | 136 |
+| supercluster | 1 | 1 | 137 | 137 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4191,3 +4191,4 @@
 - **May 11, 02:05 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 11, 02:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 11, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
