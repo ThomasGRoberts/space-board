@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -4181,3 +4181,4 @@
 - **May 11, 03:07 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 11, 03:22 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 11, 03:37 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 11, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
