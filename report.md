@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 51 |
-| nyt | 1 | 1 | 25 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -4070,3 +4070,4 @@
 - **May 11, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 04:39 AM** - Trump administration to keep National Space Council (spacenews)
 - **May 11, 04:53 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
+- **May 11, 05:09 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
