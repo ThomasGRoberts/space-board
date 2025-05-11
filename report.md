@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 140 | 140 |
 
@@ -4259,3 +4259,4 @@
 - **May 11, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 10:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 10:51 PM** - Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push (spacenews)
+- **May 11, 11:05 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
