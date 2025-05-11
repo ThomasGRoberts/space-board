@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -4129,3 +4129,4 @@
 - **May 11, 10:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 10:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 10:23 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
+- **May 11, 10:37 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
