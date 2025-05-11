@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 48 |
+| spacenews | 1 | 3 | 26 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4168,3 +4168,4 @@
 - **May 11, 02:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 02:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 02:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 02:11 PM** - Resilience lunar lander enters orbit around the moon (spacenews)
