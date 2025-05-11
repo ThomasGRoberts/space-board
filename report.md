@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4101,3 +4101,4 @@
 - **May 11, 07:33 AM** - Space Force awards contracts for missile-warning ground systems (spacenews)
 - **May 11, 07:47 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 11, 08:02 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 08:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
