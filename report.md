@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 51 |
-| nyt | 1 | 1 | 25 | 48 |
+| nyt | 1 | 1 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -4110,3 +4110,4 @@
 - **May 11, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:29 AM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
 - **May 11, 08:43 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 11, 08:57 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
