@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 50 |
+| spacenews | 1 | 7 | 25 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
 | supercluster | 1 | 1 | 135 | 135 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4187,3 +4187,4 @@
 - **May 11, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 01:51 AM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
