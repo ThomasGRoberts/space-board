@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -4161,3 +4161,4 @@
 - **May 11, 01:15 PM** - Leshin to step down as JPL director (spacenews)
 - **May 11, 01:29 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 11, 01:43 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 01:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
