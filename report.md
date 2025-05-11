@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4121,3 +4121,4 @@
 - **May 11, 09:27 AM** - NASA budget proposal draws strong criticism (spacenews)
 - **May 11, 09:41 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 11, 09:55 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 10:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
