@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 51 |
+| spacenews | 1 | 7 | 24 | 50 |
 | nyt | 1 | 1 | 25 | 48 |
-| supercluster | 1 | 1 | 128 | 128 |
+| supercluster | 1 | 1 | 129 | 129 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4180,3 +4180,4 @@
 - **May 11, 12:53 AM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 11, 01:09 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 11, 01:23 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 11, 01:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
