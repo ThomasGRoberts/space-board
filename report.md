@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 26 | 50 |
+| spacenews | 1 | 6 | 25 | 50 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4131,3 +4131,4 @@
 - **May 11, 10:23 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
 - **May 11, 10:37 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 11, 10:51 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 11:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
