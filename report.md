@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 51 |
+| spacenews | 1 | 7 | 25 | 50 |
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4103,3 +4103,4 @@
 - **May 11, 08:02 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 11, 08:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 08:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 08:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
