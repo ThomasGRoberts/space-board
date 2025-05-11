@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 25 | 51 |
 | nyt | 1 | 1 | 25 | 48 |
 | supercluster | 1 | 1 | 149 | 149 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4208,3 +4208,4 @@
 - **May 11, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 03:43 AM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
+- **May 11, 03:57 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
