@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -4171,3 +4171,4 @@
 - **May 11, 02:11 PM** - Resilience lunar lander enters orbit around the moon (spacenews)
 - **May 11, 02:25 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 11, 02:39 PM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 11, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
