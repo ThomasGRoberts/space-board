@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 26 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -4169,3 +4169,4 @@
 - **May 11, 02:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 02:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 02:11 PM** - Resilience lunar lander enters orbit around the moon (spacenews)
+- **May 11, 02:25 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
