@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4132,3 +4132,4 @@
 - **May 11, 10:37 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 11, 10:51 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 11, 11:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 11:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
