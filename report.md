@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 25 | 48 |
+| spacenews | 0 | 2 | 26 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4188,3 +4188,4 @@
 - **May 11, 03:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 04:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 04:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 04:07 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
