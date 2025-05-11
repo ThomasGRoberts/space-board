@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 50 |
+| spacenews | 1 | 7 | 26 | 51 |
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4098,3 +4098,4 @@
 - **May 11, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 07:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 11, 07:33 AM** - Space Force awards contracts for missile-warning ground systems (spacenews)
