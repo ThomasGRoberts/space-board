@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 49 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -4232,3 +4232,4 @@
 - **May 12, 04:10 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 12, 04:23 PM** - Pentagon taps more firms to build commercial-military satellite network (spacenews)
 - **May 12, 04:37 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
+- **May 12, 04:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
