@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4166,3 +4166,4 @@
 - **May 12, 08:49 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 12, 09:03 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 09:17 AM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
+- **May 12, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
