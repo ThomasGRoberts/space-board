@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dd3a639f77b98672bcc7f927ff5b3019",
+    "trigger_count": 0,
+    "current_item_id": "8ae8e673d87d59509830e4787a2877f5",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9736,6 +9736,18 @@
             "fetched_datetime": "2025-05-12T11:42:46.039106Z",
             "shown_at": [
                 "2025-05-12T11:42:46.980306Z"
+            ]
+        },
+        {
+            "id": "8ae8e673d87d59509830e4787a2877f5",
+            "source": "spacenews",
+            "text": "Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority",
+            "source_link": "https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T13:02:22.106847Z",
+            "shown_at": [
+                "2025-05-12T13:02:23.214889Z"
             ]
         }
     ]

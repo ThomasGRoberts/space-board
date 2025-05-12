@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 25 | 51 |
+| spacenews | 4 | 5 | 26 | 51 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4198,3 +4198,4 @@
 - **May 12, 12:13 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 12, 12:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 12:46 PM** - Space agencies grapple with potential changes to Artemis (spacenews)
+- **May 12, 01:02 PM** - Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority (spacenews)
