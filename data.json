@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b69178b3e743da84de63f138691144ad",
+    "trigger_count": 0,
+    "current_item_id": "1de1718378daffb4be844cff2a162ebf",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9690,6 +9690,18 @@
                 "2025-05-12T10:39:53.447863Z",
                 "2025-05-12T10:41:18.561726Z",
                 "2025-05-12T10:43:41.468965Z"
+            ]
+        },
+        {
+            "id": "1de1718378daffb4be844cff2a162ebf",
+            "source": "spacenews",
+            "text": "How smaller satellites are reshaping the geostationary orbit market",
+            "source_link": "https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:13:37.747431Z",
+            "shown_at": [
+                "2025-05-12T11:13:38.653721Z"
             ]
         }
     ]

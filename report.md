@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 49 |
+| spacenews | 2 | 3 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4185,3 +4185,4 @@
 - **May 12, 10:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 10:45 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 12, 10:59 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 12, 11:13 AM** - How smaller satellites are reshaping the geostationary orbit market (spacenews)
