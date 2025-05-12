@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 
 # Shown Order
 
@@ -4303,3 +4303,4 @@
 - **May 12, 11:09 PM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 12, 11:23 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 11:37 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 12, 11:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
