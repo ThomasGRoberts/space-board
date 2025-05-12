@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 49 |
-| nyt | 0 | 1 | 23 | 49 |
+| nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -4174,3 +4174,4 @@
 - **May 12, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 09:46 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 12, 10:02 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
