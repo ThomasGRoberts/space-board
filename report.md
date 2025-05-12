@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
 
@@ -4252,3 +4252,4 @@
 - **May 12, 06:05 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 06:19 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 12, 06:35 PM** - China issues regulatory framework to support direct-to-device satellite services (spacenews)
+- **May 12, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
