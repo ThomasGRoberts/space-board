@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4158,3 +4158,4 @@
 - **May 12, 08:19 AM** - Inversion completes first flight of reentry vehicle, but without reentry (spacenews)
 - **May 12, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 08:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 08:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
