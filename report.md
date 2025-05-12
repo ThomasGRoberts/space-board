@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 25 | 49 |
+| spacenews | 1 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4153,3 +4153,4 @@
 - **May 12, 05:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 05:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 05:22 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
+- **May 12, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
