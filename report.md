@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -4243,3 +4243,4 @@
 - **May 12, 05:19 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 12, 05:37 PM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
 - **May 12, 05:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
