@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 168 | 168 |
 | spacenews | 1 | 2 | 25 | 50 |
-| nyt | 0 | 1 | 25 | 50 |
+| nyt | 0 | 1 | 26 | 51 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4300,3 +4300,4 @@
 - **May 12, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 02:59 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
+- **May 12, 03:13 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
