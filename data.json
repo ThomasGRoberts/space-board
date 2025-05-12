@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a895719eb93301fef764a23ad6f3f09f",
+    "trigger_count": 0,
+    "current_item_id": "f017e951209c36f668edf28a659b3237",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9820,9 +9820,12 @@
             "source": "spacenews",
             "text": "Lockheed Martin increases investment in solid rocket startup X-Bow Systems",
             "source_link": "https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-12T16:23:34.091691Z"
+            "fetched_datetime": "2025-05-12T16:23:34.091691Z",
+            "shown_at": [
+                "2025-05-12T16:37:32.669764Z"
+            ]
         }
     ]
 }

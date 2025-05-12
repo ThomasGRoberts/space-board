@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 26 | 51 |
+| spacenews | 7 | 7 | 27 | 52 |
 | nyt | 1 | 1 | 23 | 49 |
 | breaking_defense | 1 | 1 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4231,3 +4231,4 @@
 - **May 12, 03:55 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 12, 04:10 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 12, 04:23 PM** - Pentagon taps more firms to build commercial-military satellite network (spacenews)
+- **May 12, 04:37 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
