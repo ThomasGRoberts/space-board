@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4142,3 +4142,4 @@
 - **May 12, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 12, 06:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
