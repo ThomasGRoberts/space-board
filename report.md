@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 10 | 28 | 53 |
+| spacenews | 10 | 10 | 27 | 53 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 
 # Shown Order
 
@@ -4293,3 +4293,4 @@
 - **May 12, 10:11 PM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
 - **May 12, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 10:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 12, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
