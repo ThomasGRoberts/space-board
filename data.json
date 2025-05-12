@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3aa6f27ee2777edd65f86d21d7b85270",
+    "trigger_count": 0,
+    "current_item_id": "a24578d6d5246dc46fcca9145839a34d",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9714,6 +9714,18 @@
             "fetched_datetime": "2025-05-12T11:27:54.545647Z",
             "shown_at": [
                 "2025-05-12T11:27:55.223398Z"
+            ]
+        },
+        {
+            "id": "a24578d6d5246dc46fcca9145839a34d",
+            "source": "spacenews",
+            "text": "MDA Space sees options for robotic arm technology should Gateway be canceled",
+            "source_link": "https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:42:46.039106Z",
+            "shown_at": [
+                "2025-05-12T11:42:46.980306Z"
             ]
         }
     ]

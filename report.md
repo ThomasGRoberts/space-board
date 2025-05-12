@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 24 | 50 |
+| spacenews | 3 | 4 | 25 | 51 |
 | nyt | 1 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4187,3 +4187,4 @@
 - **May 12, 10:59 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 11:13 AM** - How smaller satellites are reshaping the geostationary orbit market (spacenews)
 - **May 12, 11:27 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 12, 11:42 AM** - MDA Space sees options for robotic arm technology should Gateway be canceled (spacenews)
