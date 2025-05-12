@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f0a16ba000ca51a01f43920decf74df",
+    "trigger_count": 0,
+    "current_item_id": "46e2a4d3a1ef999543393642a8fef6a4",
     "data": [
         {
             "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
@@ -9765,6 +9765,18 @@
             "shown_at": [
                 "2025-03-11T02:31:58.234385Z",
                 "2025-03-16T21:25:37.681972Z"
+            ]
+        },
+        {
+            "id": "46e2a4d3a1ef999543393642a8fef6a4",
+            "source": "spacenews",
+            "text": "Rocket Lab sees Mynaric deal as key for its constellation plans",
+            "source_link": "https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T00:29:32.247484Z",
+            "shown_at": [
+                "2025-05-12T00:29:32.709737Z"
             ]
         }
     ]
