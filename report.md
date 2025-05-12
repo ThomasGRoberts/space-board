@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
 
@@ -4282,3 +4282,4 @@
 - **May 12, 08:59 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 12, 09:13 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 12, 09:27 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 12, 09:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
