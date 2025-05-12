@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 168 | 168 |
+| supercluster | 1 | 1 | 169 | 169 |
 | spacenews | 1 | 2 | 26 | 50 |
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -4302,3 +4302,4 @@
 - **May 12, 02:59 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
 - **May 12, 03:13 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 03:27 AM** - Leshin to step down as JPL director (spacenews)
+- **May 12, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
