@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4148,3 +4148,4 @@
 - **May 12, 07:20 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
 - **May 12, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
