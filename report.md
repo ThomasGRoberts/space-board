@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 12, 05:22 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 12, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 12, 06:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
