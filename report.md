@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4234,3 +4234,4 @@
 - **May 12, 04:37 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
 - **May 12, 04:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 04:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
