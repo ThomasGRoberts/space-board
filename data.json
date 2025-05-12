@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1de1718378daffb4be844cff2a162ebf",
+    "trigger_count": 0,
+    "current_item_id": "3aa6f27ee2777edd65f86d21d7b85270",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9702,6 +9702,18 @@
             "fetched_datetime": "2025-05-12T11:13:37.747431Z",
             "shown_at": [
                 "2025-05-12T11:13:38.653721Z"
+            ]
+        },
+        {
+            "id": "3aa6f27ee2777edd65f86d21d7b85270",
+            "source": "nyt",
+            "text": "NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/05/12/science/don-pettit-photos-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:27:54.545647Z",
+            "shown_at": [
+                "2025-05-12T11:27:55.223398Z"
             ]
         }
     ]

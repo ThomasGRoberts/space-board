@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 1 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 31 | 31 |
@@ -4186,3 +4186,4 @@
 - **May 12, 10:45 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 12, 10:59 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 11:13 AM** - How smaller satellites are reshaping the geostationary orbit market (spacenews)
+- **May 12, 11:27 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
