@@ -4140,4 +4140,4 @@
 - **May 12, 04:53 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 12, 05:22 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 12, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
-- **May 12, 06:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 12, 06:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
