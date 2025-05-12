@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 25 | 50 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4144,3 +4144,4 @@
 - **May 12, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 04:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 04:39 AM** - Resilience lunar lander enters orbit around the moon (spacenews)
+- **May 12, 04:53 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
