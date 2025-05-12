@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 26 | 51 |
-| nyt | 1 | 1 | 24 | 49 |
+| spacenews | 7 | 7 | 27 | 52 |
+| nyt | 1 | 1 | 23 | 49 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 66 | 66 |
@@ -4241,3 +4241,4 @@
 - **May 12, 05:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 05:05 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 12, 05:19 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 12, 05:37 PM** - Rocket Lab’s Neutron tapped for U.S. military cargo test (spacenews)
