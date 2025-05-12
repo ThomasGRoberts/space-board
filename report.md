@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 25 | 51 |
+| spacenews | 4 | 5 | 26 | 51 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4208,3 +4208,4 @@
 - **May 12, 01:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 01:32 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 12, 01:48 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 12, 02:02 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
