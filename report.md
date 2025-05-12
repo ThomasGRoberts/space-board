@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 10 | 27 | 52 |
+| spacenews | 10 | 10 | 28 | 53 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4300,3 +4300,4 @@
 - **May 12, 11:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 11:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 11:09 PM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
