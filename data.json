@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "b8e35c9ff6dbc4b003323de28a5f36f9",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9873,6 +9873,18 @@
             "fetched_datetime": "2025-05-12T19:17:36.756637Z",
             "shown_at": [
                 "2025-05-12T19:17:37.399969Z"
+            ]
+        },
+        {
+            "id": "b8e35c9ff6dbc4b003323de28a5f36f9",
+            "source": "spacenews",
+            "text": "Space Force selects vendors to build cloud-based ground station marketplaces",
+            "source_link": "https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T19:59:47.607913Z",
+            "shown_at": [
+                "2025-05-12T19:59:48.205146Z"
             ]
         }
     ]
