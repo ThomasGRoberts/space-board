@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 49 |
+| spacenews | 1 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4165,3 +4165,4 @@
 - **May 12, 08:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 08:49 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 12, 09:03 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 12, 09:17 AM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
