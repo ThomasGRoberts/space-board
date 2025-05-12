@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4210,3 +4210,4 @@
 - **May 12, 01:48 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 02:02 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
 - **May 12, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
