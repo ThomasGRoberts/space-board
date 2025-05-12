@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4167,3 +4167,4 @@
 - **May 12, 09:03 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 09:17 AM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
 - **May 12, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
