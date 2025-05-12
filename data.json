@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd3b10636a1494d0809a5a3e73639915",
+    "trigger_count": 0,
+    "current_item_id": "a895719eb93301fef764a23ad6f3f09f",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9802,6 +9802,27 @@
             "shown_at": [
                 "2025-05-12T15:11:50.627924Z"
             ]
+        },
+        {
+            "id": "a895719eb93301fef764a23ad6f3f09f",
+            "source": "spacenews",
+            "text": "Pentagon taps more firms to build commercial-military satellite network",
+            "source_link": "https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T16:23:34.091639Z",
+            "shown_at": [
+                "2025-05-12T16:23:34.744016Z"
+            ]
+        },
+        {
+            "id": "f017e951209c36f668edf28a659b3237",
+            "source": "spacenews",
+            "text": "Lockheed Martin increases investment in solid rocket startup X-Bow Systems",
+            "source_link": "https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T16:23:34.091691Z"
         }
     ]
 }
