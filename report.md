@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 26 | 51 |
 | nyt | 1 | 1 | 24 | 49 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| breaking_defense | 1 | 1 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 73 | 73 |
 
@@ -4250,3 +4250,4 @@
 - **May 12, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:05 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 12, 06:19 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
