@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 27 | 52 |
-| nyt | 1 | 1 | 23 | 48 |
+| spacenews | 7 | 7 | 26 | 52 |
+| nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 73 | 73 |
@@ -4249,3 +4249,4 @@
 - **May 12, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 06:05 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
