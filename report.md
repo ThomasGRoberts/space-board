@@ -6,7 +6,6 @@
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4135,22 +4134,8 @@
 - **May 12, 03:13 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 03:27 AM** - Leshin to step down as JPL director (spacenews)
 - **May 12, 03:57 AM** - Today’s spectrum battle offers a golden opportunity (breaking_defense)
-- **May 12, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 04:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 04:39 AM** - Resilience lunar lander enters orbit around the moon (spacenews)
 - **May 12, 04:53 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
-- **May 12, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 12, 05:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 05:22 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 12, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
