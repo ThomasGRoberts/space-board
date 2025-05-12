@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -4273,3 +4273,4 @@
 - **May 12, 08:13 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 08:27 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 12, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 08:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
