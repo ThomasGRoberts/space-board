@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 49 |
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -4143,3 +4143,4 @@
 - **May 12, 06:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 06:47 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
