@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 25 | 50 |
-| nyt | 1 | 1 | 23 | 49 |
+| nyt | 1 | 1 | 24 | 50 |
 | breaking_defense | 1 | 1 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 59 | 59 |
@@ -4227,3 +4227,4 @@
 - **May 12, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 03:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 03:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 03:41 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
