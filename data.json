@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b76805a4a24bb648430af3a479014fe",
+    "trigger_count": 0,
+    "current_item_id": "a840074f601a20c9708ead6aa5499238",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9779,6 +9779,18 @@
             "fetched_datetime": "2025-05-12T14:57:31.535060Z",
             "shown_at": [
                 "2025-05-12T14:57:32.109036Z"
+            ]
+        },
+        {
+            "id": "a840074f601a20c9708ead6aa5499238",
+            "source": "spacenews",
+            "text": "Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice",
+            "source_link": "https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T15:11:50.011384Z",
+            "shown_at": [
+                "2025-05-12T15:11:50.627924Z"
             ]
         }
     ]
