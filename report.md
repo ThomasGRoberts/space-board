@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 25 | 50 |
+| spacenews | 1 | 2 | 24 | 50 |
 | nyt | 0 | 1 | 24 | 50 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4146,3 +4146,4 @@
 - **May 12, 06:47 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 12, 07:05 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 07:20 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
+- **May 12, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
