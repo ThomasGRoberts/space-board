@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -4188,3 +4188,4 @@
 - **May 12, 11:13 AM** - How smaller satellites are reshaping the geostationary orbit market (spacenews)
 - **May 12, 11:27 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 12, 11:42 AM** - MDA Space sees options for robotic arm technology should Gateway be canceled (spacenews)
+- **May 12, 11:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
