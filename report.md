@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 154 | 154 |
-| spacenews | 1 | 2 | 25 | 50 |
+| spacenews | 1 | 2 | 26 | 51 |
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4281,3 +4281,4 @@
 - **May 12, 12:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 12:57 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 12, 01:16 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 12, 01:32 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
