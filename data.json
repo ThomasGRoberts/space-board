@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "033275039dac9254eaceb0d2a9615731",
+    "trigger_count": 0,
+    "current_item_id": "1b76805a4a24bb648430af3a479014fe",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9767,6 +9767,18 @@
             "fetched_datetime": "2025-05-12T13:02:22.106847Z",
             "shown_at": [
                 "2025-05-12T13:02:23.214889Z"
+            ]
+        },
+        {
+            "id": "1b76805a4a24bb648430af3a479014fe",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming",
+            "source_link": "https://breakingdefense.com/2025/05/exclusive-us-loosens-some-rules-for-offensive-counterspace-ops-wargaming/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T14:57:31.535060Z",
+            "shown_at": [
+                "2025-05-12T14:57:32.109036Z"
             ]
         }
     ]
