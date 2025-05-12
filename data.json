@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd3b10636a1494d0809a5a3e73639915",
+    "trigger_count": 0,
+    "current_item_id": "2a974d71e09a41fa5bd710b5760146c6",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9905,6 +9905,18 @@
             "fetched_datetime": "2025-05-12T19:59:47.607913Z",
             "shown_at": [
                 "2025-05-12T19:59:48.205146Z"
+            ]
+        },
+        {
+            "id": "2a974d71e09a41fa5bd710b5760146c6",
+            "source": "spacenews",
+            "text": "China adds to classified TJS, Yaogan satellite series with two launches",
+            "source_link": "https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T22:11:49.409466Z",
+            "shown_at": [
+                "2025-05-12T22:11:50.498721Z"
             ]
         }
     ]
