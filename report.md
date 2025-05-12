@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -4294,3 +4294,4 @@
 - **May 12, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 10:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 12, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
