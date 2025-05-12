@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 | spacenews | 1 | 2 | 26 | 50 |
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
@@ -4272,3 +4272,4 @@
 - **May 12, 12:02 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 12, 12:15 AM** - Eta Aquarids Meteor Show Peak: How and When to Watch (nyt)
 - **May 12, 12:29 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
+- **May 12, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
