@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 10 | 28 | 53 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 101 | 101 |
 
@@ -4292,3 +4292,4 @@
 - **May 12, 09:58 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 12, 10:11 PM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
 - **May 12, 10:25 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 12, 10:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
