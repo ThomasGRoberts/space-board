@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4263,3 +4263,4 @@
 - **May 12, 07:17 PM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
 - **May 12, 07:31 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 12, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 12, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
