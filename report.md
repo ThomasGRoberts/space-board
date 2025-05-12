@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 26 | 51 |
+| spacenews | 7 | 7 | 27 | 52 |
 | nyt | 1 | 1 | 23 | 49 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4251,3 +4251,4 @@
 - **May 12, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 06:05 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 06:19 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
+- **May 12, 06:35 PM** - China issues regulatory framework to support direct-to-device satellite services (spacenews)
