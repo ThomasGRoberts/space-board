@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 27 | 52 |
 | nyt | 1 | 1 | 24 | 49 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 87 | 87 |
 
@@ -4271,3 +4271,4 @@
 - **May 12, 07:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 07:59 PM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
 - **May 12, 08:13 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 12, 08:27 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
