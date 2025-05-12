@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 161 | 161 |
 | spacenews | 1 | 2 | 25 | 50 |
-| nyt | 0 | 1 | 25 | 50 |
+| nyt | 0 | 1 | 26 | 51 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4290,3 +4290,4 @@
 - **May 12, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 02:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 12, 02:03 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
+- **May 12, 02:17 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
