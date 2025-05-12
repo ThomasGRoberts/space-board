@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 147 | 147 |
 | spacenews | 0 | 1 | 25 | 49 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 147 | 147 |
 
 # Shown Order
 
@@ -4269,3 +4269,4 @@
 - **May 11, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 11, 11:47 PM** - IonQ to acquire Capella Space in bid to build ultra-secure quantum network (spacenews)
+- **May 12, 12:02 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
