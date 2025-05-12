@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 27 | 52 |
-| nyt | 1 | 1 | 24 | 49 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 49 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 94 | 94 |
 
@@ -4281,3 +4281,4 @@
 - **May 12, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 12, 08:59 PM** - Space: the new frontier for transatlantic cooperation (spacenews)
 - **May 12, 09:13 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 12, 09:27 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
