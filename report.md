@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 27 | 52 |
-| nyt | 1 | 1 | 23 | 49 |
+| nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 
 # Shown Order
 
@@ -4272,3 +4272,4 @@
 - **May 12, 07:59 PM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
 - **May 12, 08:13 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 12, 08:27 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 12, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
