@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 6,
-    "current_item_id": "033275039dac9254eaceb0d2a9615731",
+    "trigger_count": 0,
+    "current_item_id": "09ea87096f02396cc02004b0bae99944",
     "data": [
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
@@ -9853,6 +9853,18 @@
             "fetched_datetime": "2025-05-12T16:23:34.091691Z",
             "shown_at": [
                 "2025-05-12T16:37:32.669764Z"
+            ]
+        },
+        {
+            "id": "09ea87096f02396cc02004b0bae99944",
+            "source": "spacenews",
+            "text": "Foreign SpaceX launch customers seek relief from U.S. tariffs",
+            "source_link": "https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T19:17:36.756637Z",
+            "shown_at": [
+                "2025-05-12T19:17:37.399969Z"
             ]
         }
     ]
