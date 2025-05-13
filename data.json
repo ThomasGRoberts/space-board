@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-12T00:02:01.703374+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
+    "trigger_count": 5,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "2a974d71e09a41fa5bd710b5760146c6",
+            "source": "spacenews",
+            "text": "China adds to classified TJS, Yaogan satellite series with two launches",
+            "source_link": "https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T22:11:49.409466Z",
+            "shown_at": [
+                "2025-05-12T22:11:50.498721Z"
+            ]
+        },
+        {
+            "id": "b8e35c9ff6dbc4b003323de28a5f36f9",
+            "source": "spacenews",
+            "text": "Space Force selects vendors to build cloud-based ground station marketplaces",
+            "source_link": "https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T19:59:47.607913Z",
+            "shown_at": [
+                "2025-05-12T19:59:48.205146Z"
+            ]
+        },
+        {
+            "id": "09ea87096f02396cc02004b0bae99944",
+            "source": "spacenews",
+            "text": "Foreign SpaceX launch customers seek relief from U.S. tariffs",
+            "source_link": "https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T19:17:36.756637Z",
+            "shown_at": [
+                "2025-05-12T19:17:37.399969Z"
+            ]
+        },
+        {
+            "id": "f017e951209c36f668edf28a659b3237",
+            "source": "spacenews",
+            "text": "Lockheed Martin increases investment in solid rocket startup X-Bow Systems",
+            "source_link": "https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T16:23:34.091691Z",
+            "shown_at": [
+                "2025-05-12T16:37:32.669764Z"
+            ]
+        },
+        {
+            "id": "a895719eb93301fef764a23ad6f3f09f",
+            "source": "spacenews",
+            "text": "Pentagon taps more firms to build commercial-military satellite network",
+            "source_link": "https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T16:23:34.091639Z",
+            "shown_at": [
+                "2025-05-12T16:23:34.744016Z"
+            ]
+        },
+        {
+            "id": "a840074f601a20c9708ead6aa5499238",
+            "source": "spacenews",
+            "text": "Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice",
+            "source_link": "https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T15:11:50.011384Z",
+            "shown_at": [
+                "2025-05-12T15:11:50.627924Z"
+            ]
+        },
+        {
+            "id": "1b76805a4a24bb648430af3a479014fe",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming",
+            "source_link": "https://breakingdefense.com/2025/05/exclusive-us-loosens-some-rules-for-offensive-counterspace-ops-wargaming/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T14:57:31.535060Z",
+            "shown_at": [
+                "2025-05-12T14:57:32.109036Z",
+                "2025-05-12T15:55:36.814627Z"
+            ]
+        },
+        {
+            "id": "8ae8e673d87d59509830e4787a2877f5",
+            "source": "spacenews",
+            "text": "Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority",
+            "source_link": "https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T13:02:22.106847Z",
+            "shown_at": [
+                "2025-05-12T13:02:23.214889Z"
+            ]
+        },
+        {
+            "id": "a24578d6d5246dc46fcca9145839a34d",
+            "source": "spacenews",
+            "text": "MDA Space sees options for robotic arm technology should Gateway be canceled",
+            "source_link": "https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:42:46.039106Z",
+            "shown_at": [
+                "2025-05-12T11:42:46.980306Z"
+            ]
+        },
+        {
+            "id": "3aa6f27ee2777edd65f86d21d7b85270",
+            "source": "nyt",
+            "text": "NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/05/12/science/don-pettit-photos-nasa-astronaut.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:27:54.545647Z",
+            "shown_at": [
+                "2025-05-12T11:27:55.223398Z",
+                "2025-05-12T17:05:32.718761Z",
+                "2025-05-12T21:13:37.777733Z"
+            ]
+        },
+        {
+            "id": "1de1718378daffb4be844cff2a162ebf",
+            "source": "spacenews",
+            "text": "How smaller satellites are reshaping the geostationary orbit market",
+            "source_link": "https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T11:13:37.747431Z",
+            "shown_at": [
+                "2025-05-12T11:13:38.653721Z"
+            ]
+        },
+        {
+            "id": "46e2a4d3a1ef999543393642a8fef6a4",
+            "source": "spacenews",
+            "text": "Rocket Lab sees Mynaric deal as key for its constellation plans",
+            "source_link": "https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-12T00:29:32.247484Z",
+            "shown_at": [
+                "2025-05-12T00:29:32.709737Z"
+            ]
+        },
         {
             "id": "80e0ad5ebd2c37a9122babff966c942f",
             "source": "spacenews",
@@ -9483,457 +9630,17 @@
             ]
         },
         {
-            "id": "3e886219c71608468437f58e90d1da74",
-            "source": "breaking_defense",
-            "text": "Space Systems Command reviewing expensive legacy programs for possible commercial shift",
-            "source_link": "https://breakingdefense.com/2025/03/ssc-reviewing-expensive-legacy-programs-for-possible-commercial-shift/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T20:31:56.462298Z",
-            "shown_at": [
-                "2025-03-11T20:31:56.947565Z",
-                "2025-03-12T00:49:13.853672Z",
-                "2025-03-15T09:13:28.064942Z",
-                "2025-03-15T15:41:52.588785Z",
-                "2025-03-15T23:07:39.196712Z",
-                "2025-03-16T03:09:48.528324Z",
-                "2025-03-16T08:09:26.488768Z",
-                "2025-03-16T09:21:52.475823Z",
-                "2025-03-16T15:03:32.758224Z",
-                "2025-03-16T17:37:50.268059Z",
-                "2025-03-17T01:57:35.560581Z",
-                "2025-03-17T11:05:27.621051Z",
-                "2025-03-17T12:15:41.724486Z",
-                "2025-03-17T13:47:33.124082Z",
-                "2025-03-17T17:29:27.750903Z",
-                "2025-03-17T20:22:04.650038Z",
-                "2025-03-17T21:31:52.438800Z",
-                "2025-03-17T22:45:41.921800Z",
-                "2025-03-18T01:25:54.638343Z",
-                "2025-03-18T03:22:08.341264Z",
-                "2025-03-18T07:21:37.306949Z",
-                "2025-03-18T15:21:37.097169Z",
-                "2025-03-18T17:45:23.381513Z"
-            ]
-        },
-        {
-            "id": "60c65b21c31db559f8bb5575c7c3f8e0",
-            "source": "spacenews",
-            "text": "Long March 8 launches Thousand Sails satellites from commercial spaceport",
-            "source_link": "https://spacenews.com/long-march-8-launches-thousand-sails-satellites-from-commercial-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T18:49:36.004757Z",
-            "shown_at": [
-                "2025-03-11T18:49:36.370501Z"
-            ]
-        },
-        {
-            "id": "51da7c06ac823867cbc37d1002f47ac2",
-            "source": "spacenews",
-            "text": "Viasat and Space42 co-invest in shared direct-to-device satellite prototype",
-            "source_link": "https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T17:52:12.881167Z",
-            "shown_at": [
-                "2025-03-11T18:07:34.225200Z",
-                "2025-03-16T01:43:42.979680Z"
-            ]
-        },
-        {
-            "id": "f43f23d9ad135fd1413497d66c00e547",
-            "source": "spacenews",
-            "text": "Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics",
-            "source_link": "https://spacenews.com/arianespace-sees-stronger-institutional-demand-for-ariane-6-amid-shifting-geopolitics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T17:52:12.881097Z",
-            "shown_at": [
-                "2025-03-11T17:52:13.312470Z",
-                "2025-03-16T05:17:10.635795Z",
-                "2025-03-17T01:01:53.684660Z",
-                "2025-03-17T09:39:07.682740Z"
-            ]
-        },
-        {
-            "id": "7144c801817e006eb9e376b911105b0a",
-            "source": "spacenews",
-            "text": "Planetary defense may get a boost from Jared Isaacman",
-            "source_link": "https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T13:39:55.161343Z",
-            "shown_at": [
-                "2025-03-11T13:53:30.977759Z",
-                "2025-03-16T06:29:45.678981Z",
-                "2025-03-18T07:07:29.681983Z"
-            ]
-        },
-        {
-            "id": "5c3dc8bacb4b5e1b26426d3c321c2504",
-            "source": "spacenews",
-            "text": "Working around ongoing supply-chain bottlenecks",
-            "source_link": "https://spacenews.com/working-around-ongoing-supply-chain-bottlenecks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T13:39:55.161293Z",
-            "shown_at": [
-                "2025-03-11T13:39:56.275319Z",
-                "2025-03-17T05:21:33.387514Z"
-            ]
-        },
-        {
-            "id": "13ac0f0d65589228ed5db3b402d51e4e",
-            "source": "spacenews",
-            "text": "Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices",
-            "source_link": "https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T13:06:19.232768Z",
-            "shown_at": [
-                "2025-03-11T13:22:09.830965Z",
-                "2025-03-16T07:55:45.041095Z",
-                "2025-03-16T16:41:32.985343Z",
-                "2025-03-18T03:07:37.496667Z"
-            ]
-        },
-        {
-            "id": "ee61ffdfb6c1c68484a4e94d99def40d",
-            "source": "spacenews",
-            "text": "Bringing Mars to Earth: solving Mars Sample Return",
-            "source_link": "https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T13:06:19.232717Z",
-            "shown_at": [
-                "2025-03-11T13:06:19.741577Z",
-                "2025-03-17T11:47:46.728669Z",
-                "2025-03-18T09:29:46.450317Z"
-            ]
-        },
-        {
-            "id": "a4531323b85b661799293a8e00d92f80",
-            "source": "spacenews",
-            "text": "Momentus and Solstar to offer on-demand communications for Vigoride",
-            "source_link": "https://spacenews.com/momentus-and-solstar-to-offer-on-demand-communications-for-vigoride/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T12:05:40.967202Z",
-            "shown_at": [
-                "2025-03-11T12:05:41.855546Z",
-                "2025-03-17T03:26:03.122961Z"
-            ]
-        },
-        {
-            "id": "c6be1fc6a2095245d93c42d03551b4a8",
-            "source": "aidy",
-            "text": "NASA Layoffs Spark Legal Action Amid New CR Funding Shifts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T07:49:25.058381Z",
-            "shown_at": [
-                "2025-03-11T07:49:25.532366Z",
-                "2025-03-11T10:21:45.181857Z",
-                "2025-03-12T00:19:41.189249Z",
-                "2025-03-15T10:13:38.193451Z",
-                "2025-03-15T21:29:37.892639Z",
-                "2025-03-16T04:49:45.968277Z",
-                "2025-03-16T15:45:34.709063Z",
-                "2025-03-16T19:31:55.239461Z",
-                "2025-03-17T01:43:55.623639Z",
-                "2025-03-17T05:39:37.002120Z",
-                "2025-03-17T15:17:32.762651Z",
-                "2025-03-17T20:35:35.469550Z",
-                "2025-03-17T21:47:28.946006Z",
-                "2025-03-18T04:07:52.966901Z"
-            ]
-        },
-        {
-            "id": "c70dfe0905bfa91a455934de7c02c20b",
-            "source": "spacenews",
-            "text": "Intelsat CEO reveals separate bet on Lynk Global amid SES merger",
-            "source_link": "https://spacenews.com/intelsat-ceo-reveals-separate-bet-on-lynk-global-amid-ses-merger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-11T02:31:57.211400Z",
-            "shown_at": [
-                "2025-03-11T02:31:58.234385Z",
-                "2025-03-16T21:25:37.681972Z"
-            ]
-        },
-        {
-            "id": "46e2a4d3a1ef999543393642a8fef6a4",
-            "source": "spacenews",
-            "text": "Rocket Lab sees Mynaric deal as key for its constellation plans",
-            "source_link": "https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T00:29:32.247484Z",
-            "shown_at": [
-                "2025-05-12T00:29:32.709737Z"
-            ]
-        },
-        {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from California",
             "source_link": "https://www.supercluster.com/launches/starlink-15-4",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-13T00:00:00.000Z",
-            "time_remaining": "0d 00h 00m",
-            "fetched_datetime": "2025-05-12T06:41:42.477870Z",
+            "target_datetime": "2025-05-13T01:15:00.000Z",
+            "time_remaining": "0d 01h 12m",
+            "fetched_datetime": "2025-05-13T00:02:10.258922Z",
             "shown_at": [
-                "2025-05-12T06:41:43.027673Z",
-                "2025-05-12T06:43:41.268313Z",
-                "2025-05-12T06:45:42.841255Z",
-                "2025-05-12T07:35:30.936370Z",
-                "2025-05-12T07:37:41.622763Z",
-                "2025-05-12T07:39:44.518265Z",
-                "2025-05-12T07:41:41.617291Z",
-                "2025-05-12T07:43:20.731983Z",
-                "2025-05-12T07:45:45.148710Z",
-                "2025-05-12T07:48:03.328033Z",
-                "2025-05-12T08:35:32.590598Z",
-                "2025-05-12T08:37:32.976230Z",
-                "2025-05-12T08:39:34.450090Z",
-                "2025-05-12T08:41:19.409940Z",
-                "2025-05-12T08:43:38.605131Z",
-                "2025-05-12T08:45:55.674259Z",
-                "2025-05-12T08:47:35.088072Z",
-                "2025-05-12T09:31:56.336142Z",
-                "2025-05-12T09:33:30.892232Z",
-                "2025-05-12T09:35:44.886640Z",
-                "2025-05-12T09:37:47.015157Z",
-                "2025-05-12T09:39:36.244249Z",
-                "2025-05-12T09:41:23.404522Z",
-                "2025-05-12T09:43:30.077427Z",
-                "2025-05-12T10:31:34.133966Z",
-                "2025-05-12T10:33:48.787109Z",
-                "2025-05-12T10:35:23.918083Z",
-                "2025-05-12T10:37:38.935708Z",
-                "2025-05-12T10:39:53.447863Z",
-                "2025-05-12T10:41:18.561726Z",
-                "2025-05-12T10:43:41.468965Z",
-                "2025-05-12T11:57:39.546887Z",
-                "2025-05-12T11:59:38.734596Z",
-                "2025-05-12T12:02:15.239065Z",
-                "2025-05-12T12:05:33.943974Z",
-                "2025-05-12T12:07:28.649883Z",
-                "2025-05-12T12:09:34.883303Z",
-                "2025-05-12T12:11:57.161741Z",
-                "2025-05-12T13:17:49.745035Z",
-                "2025-05-12T13:19:24.750446Z",
-                "2025-05-12T13:21:57.602582Z",
-                "2025-05-12T13:23:28.680925Z",
-                "2025-05-12T13:25:28.301957Z",
-                "2025-05-12T13:27:34.030714Z",
-                "2025-05-12T13:29:43.840747Z",
-                "2025-05-12T14:15:46.261587Z",
-                "2025-05-12T14:17:51.258216Z",
-                "2025-05-12T14:19:28.962458Z",
-                "2025-05-12T14:21:44.312987Z",
-                "2025-05-12T14:23:23.680620Z",
-                "2025-05-12T14:25:43.974240Z",
-                "2025-05-12T14:27:44.412675Z",
-                "2025-05-12T15:25:38.049520Z",
-                "2025-05-12T15:27:04.673416Z",
-                "2025-05-12T15:29:26.629320Z",
-                "2025-05-12T15:32:07.215972Z",
-                "2025-05-12T15:33:27.230104Z",
-                "2025-05-12T15:36:21.435741Z",
-                "2025-05-12T15:39:42.403981Z",
-                "2025-05-12T16:51:48.586727Z",
-                "2025-05-12T16:53:34.124070Z",
-                "2025-05-12T16:55:46.150239Z",
-                "2025-05-12T16:57:27.357033Z",
-                "2025-05-12T16:59:03.982676Z",
-                "2025-05-12T17:02:08.155392Z",
-                "2025-05-12T17:03:36.400802Z",
-                "2025-05-12T17:51:53.617400Z",
-                "2025-05-12T17:53:05.795419Z",
-                "2025-05-12T17:55:25.151698Z",
-                "2025-05-12T17:57:30.159101Z",
-                "2025-05-12T17:59:29.787634Z",
-                "2025-05-12T18:02:01.267592Z",
-                "2025-05-12T18:03:28.694870Z",
-                "2025-05-12T18:49:47.491851Z",
-                "2025-05-12T18:51:35.715547Z",
-                "2025-05-12T18:53:35.942918Z",
-                "2025-05-12T18:55:25.624602Z",
-                "2025-05-12T18:57:45.817726Z",
-                "2025-05-12T18:59:38.926815Z",
-                "2025-05-12T19:02:06.906238Z",
-                "2025-05-12T19:45:37.857193Z",
-                "2025-05-12T19:47:22.255545Z",
-                "2025-05-12T19:49:32.148485Z",
-                "2025-05-12T19:51:47.702848Z",
-                "2025-05-12T19:53:45.695678Z",
-                "2025-05-12T19:55:37.001950Z",
-                "2025-05-12T19:57:41.710415Z",
-                "2025-05-12T20:41:41.265478Z",
-                "2025-05-12T20:43:47.433209Z",
-                "2025-05-12T20:45:01.576490Z",
-                "2025-05-12T20:51:44.417014Z",
-                "2025-05-12T20:53:29.983030Z",
-                "2025-05-12T20:55:43.283096Z",
-                "2025-05-12T20:57:40.677134Z",
-                "2025-05-12T21:41:48.133864Z",
-                "2025-05-12T21:43:23.614695Z",
-                "2025-05-12T21:45:43.080015Z",
-                "2025-05-12T21:47:34.900978Z",
-                "2025-05-12T21:50:29.080599Z",
-                "2025-05-12T21:53:24.105498Z",
-                "2025-05-12T21:55:35.884527Z",
-                "2025-05-12T22:53:31.674976Z",
-                "2025-05-12T22:55:33.228707Z",
-                "2025-05-12T22:57:32.321641Z",
-                "2025-05-12T22:59:33.655272Z",
-                "2025-05-12T23:02:17.740290Z",
-                "2025-05-12T23:05:27.350652Z",
-                "2025-05-12T23:07:43.876922Z",
-                "2025-05-12T23:51:46.527057Z",
-                "2025-05-12T23:53:37.098556Z",
-                "2025-05-12T23:55:20.298448Z",
-                "2025-05-12T23:57:23.513865Z",
-                "2025-05-12T23:59:06.256585Z"
-            ]
-        },
-        {
-            "id": "1de1718378daffb4be844cff2a162ebf",
-            "source": "spacenews",
-            "text": "How smaller satellites are reshaping the geostationary orbit market",
-            "source_link": "https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:13:37.747431Z",
-            "shown_at": [
-                "2025-05-12T11:13:38.653721Z"
-            ]
-        },
-        {
-            "id": "3aa6f27ee2777edd65f86d21d7b85270",
-            "source": "nyt",
-            "text": "NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/05/12/science/don-pettit-photos-nasa-astronaut.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:27:54.545647Z",
-            "shown_at": [
-                "2025-05-12T11:27:55.223398Z",
-                "2025-05-12T17:05:32.718761Z",
-                "2025-05-12T21:13:37.777733Z"
-            ]
-        },
-        {
-            "id": "a24578d6d5246dc46fcca9145839a34d",
-            "source": "spacenews",
-            "text": "MDA Space sees options for robotic arm technology should Gateway be canceled",
-            "source_link": "https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:42:46.039106Z",
-            "shown_at": [
-                "2025-05-12T11:42:46.980306Z"
-            ]
-        },
-        {
-            "id": "8ae8e673d87d59509830e4787a2877f5",
-            "source": "spacenews",
-            "text": "Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority",
-            "source_link": "https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T13:02:22.106847Z",
-            "shown_at": [
-                "2025-05-12T13:02:23.214889Z"
-            ]
-        },
-        {
-            "id": "1b76805a4a24bb648430af3a479014fe",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming",
-            "source_link": "https://breakingdefense.com/2025/05/exclusive-us-loosens-some-rules-for-offensive-counterspace-ops-wargaming/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T14:57:31.535060Z",
-            "shown_at": [
-                "2025-05-12T14:57:32.109036Z",
-                "2025-05-12T15:55:36.814627Z"
-            ]
-        },
-        {
-            "id": "a840074f601a20c9708ead6aa5499238",
-            "source": "spacenews",
-            "text": "Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice",
-            "source_link": "https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T15:11:50.011384Z",
-            "shown_at": [
-                "2025-05-12T15:11:50.627924Z"
-            ]
-        },
-        {
-            "id": "a895719eb93301fef764a23ad6f3f09f",
-            "source": "spacenews",
-            "text": "Pentagon taps more firms to build commercial-military satellite network",
-            "source_link": "https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T16:23:34.091639Z",
-            "shown_at": [
-                "2025-05-12T16:23:34.744016Z"
-            ]
-        },
-        {
-            "id": "f017e951209c36f668edf28a659b3237",
-            "source": "spacenews",
-            "text": "Lockheed Martin increases investment in solid rocket startup X-Bow Systems",
-            "source_link": "https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T16:23:34.091691Z",
-            "shown_at": [
-                "2025-05-12T16:37:32.669764Z"
-            ]
-        },
-        {
-            "id": "09ea87096f02396cc02004b0bae99944",
-            "source": "spacenews",
-            "text": "Foreign SpaceX launch customers seek relief from U.S. tariffs",
-            "source_link": "https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T19:17:36.756637Z",
-            "shown_at": [
-                "2025-05-12T19:17:37.399969Z"
-            ]
-        },
-        {
-            "id": "b8e35c9ff6dbc4b003323de28a5f36f9",
-            "source": "spacenews",
-            "text": "Space Force selects vendors to build cloud-based ground station marketplaces",
-            "source_link": "https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T19:59:47.607913Z",
-            "shown_at": [
-                "2025-05-12T19:59:48.205146Z"
-            ]
-        },
-        {
-            "id": "2a974d71e09a41fa5bd710b5760146c6",
-            "source": "spacenews",
-            "text": "China adds to classified TJS, Yaogan satellite series with two launches",
-            "source_link": "https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T22:11:49.409466Z",
-            "shown_at": [
-                "2025-05-12T22:11:50.498721Z"
+                "2025-05-13T00:02:10.871313Z"
             ]
         }
     ]
