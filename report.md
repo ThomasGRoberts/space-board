@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 20 | 43 |
 | nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -4259,3 +4259,4 @@
 - **May 13, 05:32 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 13, 05:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 05:52 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 05:56 PM** - China Will Launch the Long March 2D Rocket (supercluster)
