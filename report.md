@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -4225,3 +4225,4 @@
 - **May 13, 12:23 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 12:37 PM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
 - **May 13, 12:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 12:53 PM** - China Will Launch the Long March 2D Rocket (supercluster)
