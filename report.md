@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4140,3 +4140,4 @@
 - **May 13, 12:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 01:05 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 13, 02:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 13, 02:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
