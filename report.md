@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
 | breaking_defense | 0 | 1 | 19 | 42 |
-| nyt | 0 | 1 | 20 | 44 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4248,3 +4248,4 @@
 - **May 13, 04:16 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 13, 04:32 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 04:33 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 04:35 PM** - China Will Launch the Long March 2D Rocket (supercluster)
