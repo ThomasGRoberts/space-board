@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4135,16 +4134,7 @@
 - **May 12, 11:09 PM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 12, 11:23 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 12, 11:37 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
-- **May 13, 12:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 12:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 12:09 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
 - **May 13, 12:23 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 12:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
-- **May 13, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 01:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 13, 01:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 01:05 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
