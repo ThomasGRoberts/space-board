@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1a65942858c90bb843aaf7b7a110295e",
+    "trigger_count": 0,
+    "current_item_id": "0c8d176af661f303592d46e3b5b2e8c5",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9777,9 +9777,12 @@
             "source": "spacenews",
             "text": "Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications",
             "source_link": "https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-13T13:09:44.999600Z"
+            "fetched_datetime": "2025-05-13T13:09:44.999600Z",
+            "shown_at": [
+                "2025-05-13T13:24:00.609429Z"
+            ]
         }
     ]
 }
