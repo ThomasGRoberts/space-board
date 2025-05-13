@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 53 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4139,3 +4139,4 @@
 - **May 13, 12:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 12:09 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
 - **May 13, 12:23 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 13, 12:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
