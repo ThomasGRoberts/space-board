@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 25 | 52 |
 | breaking_defense | 2 | 3 | 20 | 43 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 83 | 83 |
 
@@ -4266,3 +4266,4 @@
 - **May 13, 06:07 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:09 PM** - Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side (spacenews)
 - **May 13, 06:25 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 13, 06:44 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
