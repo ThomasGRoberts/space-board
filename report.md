@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 27 | 51 |
+| spacenews | 10 | 11 | 28 | 52 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4211,3 +4211,4 @@
 - **May 13, 10:36 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 10:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 10:51 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
+- **May 13, 11:05 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)

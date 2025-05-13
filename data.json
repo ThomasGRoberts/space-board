@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0192cb989d5f46e67927e03e01dfc9c3",
+    "trigger_count": 0,
+    "current_item_id": "cbd43bc894bcba0526886bc5a3f14cb8",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9716,6 +9716,18 @@
                 "2025-05-13T10:29:39.184379Z",
                 "2025-05-13T10:32:38.749206Z",
                 "2025-05-13T10:36:04.098947Z"
+            ]
+        },
+        {
+            "id": "cbd43bc894bcba0526886bc5a3f14cb8",
+            "source": "spacenews",
+            "text": "How Earth observation satellite operators are teaming up to tip and cue one another",
+            "source_link": "https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T11:05:37.819749Z",
+            "shown_at": [
+                "2025-05-13T11:05:39.707064Z"
             ]
         }
     ]
