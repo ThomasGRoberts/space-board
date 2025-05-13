@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 26 | 53 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 97 | 97 |
 
@@ -4287,3 +4287,4 @@
 - **May 13, 08:23 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 08:25 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 13, 08:39 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
+- **May 13, 08:54 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
