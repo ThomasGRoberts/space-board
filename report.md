@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 27 | 52 |
 | breaking_defense | 1 | 1 | 21 | 45 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -4212,3 +4212,4 @@
 - **May 13, 10:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 10:51 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 13, 11:05 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
+- **May 13, 11:19 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
