@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 19 | 42 |
 | nyt | 0 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -4236,3 +4236,4 @@
 - **May 13, 01:46 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 13, 02:33 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 03:03 PM** - I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman. (spacenews)
+- **May 13, 03:25 PM** - China Will Launch the Long March 2D Rocket (supercluster)
