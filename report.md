@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -4292,3 +4292,4 @@
 - **May 13, 09:27 PM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)
 - **May 13, 09:45 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:47 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 09:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
