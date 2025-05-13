@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4278,3 +4278,4 @@
 - **May 13, 07:29 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 13, 07:43 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 13, 07:57 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
+- **May 13, 08:11 PM** - China Will Launch the Long March 2D Rocket (supercluster)
