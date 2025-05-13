@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b69178b3e743da84de63f138691144ad",
+    "trigger_count": 0,
+    "current_item_id": "b505393a60e849b689dfe54f48a41741",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9860,6 +9860,18 @@
             "fetched_datetime": "2025-05-13T18:25:43.796899Z",
             "shown_at": [
                 "2025-05-13T18:25:44.885387Z"
+            ]
+        },
+        {
+            "id": "b505393a60e849b689dfe54f48a41741",
+            "source": "breaking_defense",
+            "text": "Space stalwart Troy Meink confirmed as Air Force secretary",
+            "source_link": "https://breakingdefense.com/2025/05/space-stalwart-troy-meink-confirmed-as-air-force-secretary/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T18:57:46.377819Z",
+            "shown_at": [
+                "2025-05-13T18:57:46.975369Z"
             ]
         }
     ]
