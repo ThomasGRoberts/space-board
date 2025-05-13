@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 26 | 52 |
+| spacenews | 10 | 14 | 27 | 53 |
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4231,3 +4231,4 @@
 - **May 13, 01:02 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 01:05 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 01:07 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 01:09 PM** - Space debris crisis: the national security threat we’re ignoring (spacenews)

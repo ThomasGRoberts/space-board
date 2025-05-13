@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+    "trigger_count": 0,
+    "current_item_id": "1a65942858c90bb843aaf7b7a110295e",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9759,6 +9759,27 @@
             "shown_at": [
                 "2025-05-13T11:33:41.639227Z"
             ]
+        },
+        {
+            "id": "1a65942858c90bb843aaf7b7a110295e",
+            "source": "spacenews",
+            "text": "Space debris crisis: the national security threat we’re ignoring",
+            "source_link": "https://spacenews.com/space-debris-crisis-the-national-security-threat-were-ignoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T13:09:44.999547Z",
+            "shown_at": [
+                "2025-05-13T13:09:46.015399Z"
+            ]
+        },
+        {
+            "id": "0c8d176af661f303592d46e3b5b2e8c5",
+            "source": "spacenews",
+            "text": "Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications",
+            "source_link": "https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T13:09:44.999600Z"
         }
     ]
 }
