@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -4214,3 +4214,4 @@
 - **May 13, 11:05 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
 - **May 13, 11:19 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 11:33 AM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
+- **May 13, 11:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
