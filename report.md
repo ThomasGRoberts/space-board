@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4290,3 +4290,4 @@
 - **May 13, 08:54 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 09:13 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 13, 09:27 PM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)
+- **May 13, 09:45 PM** - China Will Launch the Long March 2D Rocket (supercluster)
