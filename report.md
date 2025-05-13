@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 28 | 53 |
-| breaking_defense | 0 | 1 | 18 | 42 |
+| breaking_defense | 0 | 1 | 19 | 43 |
 | nyt | 0 | 1 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -4244,3 +4244,4 @@
 - **May 13, 03:37 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 03:40 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 03:41 PM** - Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side (spacenews)
+- **May 13, 03:57 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
