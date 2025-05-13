@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 26 | 50 |
+| spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4200,3 +4200,4 @@
 - **May 13, 09:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:39 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 13, 09:53 AM** - Space Force sharpens focus on deterring rivals (spacenews)
