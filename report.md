@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 10 | 27 | 52 |
+| spacenews | 10 | 10 | 28 | 53 |
 | breaking_defense | 1 | 1 | 22 | 48 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4137,3 +4137,4 @@
 - **May 12, 11:37 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 13, 12:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 12:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 13, 12:09 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
