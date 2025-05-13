@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4174,3 +4174,4 @@
 - **May 13, 07:13 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 07:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:29 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 07:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
