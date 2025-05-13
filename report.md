@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 26 | 53 |
+| spacenews | 9 | 19 | 25 | 53 |
 | breaking_defense | 3 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -4298,3 +4298,4 @@
 - **May 13, 09:55 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:57 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:59 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
+- **May 13, 10:13 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
