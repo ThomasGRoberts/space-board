@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 51 |
+| spacenews | 8 | 16 | 25 | 52 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 1 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4275,3 +4275,4 @@
 - **May 13, 07:23 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:25 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:27 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 07:29 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
