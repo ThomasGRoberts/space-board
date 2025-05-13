@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4139,21 +4138,7 @@
 - **May 13, 12:23 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 12:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 01:05 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
-- **May 13, 02:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 13, 02:29 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 02:43 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 13, 02:57 AM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
-- **May 13, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 13, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 13, 03:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
