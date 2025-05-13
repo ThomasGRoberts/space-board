@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 26 | 51 |
+| spacenews | 9 | 10 | 26 | 50 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4193,3 +4193,4 @@
 - **May 13, 08:57 AM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
 - **May 13, 09:12 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 13, 09:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 09:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
