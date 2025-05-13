@@ -6,6 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4142,3 +4143,4 @@
 - **May 13, 02:43 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 13, 02:57 AM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
 - **May 13, 03:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 13, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
