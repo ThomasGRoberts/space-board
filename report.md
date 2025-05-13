@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 52 |
-| breaking_defense | 3 | 4 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 43 |
+| spacenews | 9 | 18 | 26 | 53 |
+| breaking_defense | 3 | 4 | 20 | 43 |
+| nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 97 | 97 |
 
@@ -4289,3 +4289,4 @@
 - **May 13, 08:39 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 13, 08:54 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 09:13 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 13, 09:27 PM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)

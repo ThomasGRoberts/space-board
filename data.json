@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b76805a4a24bb648430af3a479014fe",
+    "trigger_count": 0,
+    "current_item_id": "e8cde62c758427b0906eef45f442574e",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9904,6 +9904,18 @@
             "fetched_datetime": "2025-05-13T20:39:34.550835Z",
             "shown_at": [
                 "2025-05-13T20:39:35.228839Z"
+            ]
+        },
+        {
+            "id": "e8cde62c758427b0906eef45f442574e",
+            "source": "spacenews",
+            "text": "AST SpaceMobile ramping up launches ahead of beta service this year",
+            "source_link": "https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T21:27:41.614201Z",
+            "shown_at": [
+                "2025-05-13T21:27:42.332644Z"
             ]
         }
     ]
