@@ -6,6 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4138,3 +4139,4 @@
 - **May 13, 12:23 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 12:37 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 01:05 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
+- **May 13, 01:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
