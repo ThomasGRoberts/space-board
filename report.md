@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 25 | 50 |
+| spacenews | 9 | 10 | 26 | 51 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4160,3 +4160,4 @@
 - **May 13, 05:43 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 05:45 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 05:47 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
+- **May 13, 06:02 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
