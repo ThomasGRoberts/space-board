@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
-| breaking_defense | 1 | 2 | 19 | 42 |
+| breaking_defense | 2 | 3 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -4265,3 +4265,4 @@
 - **May 13, 06:05 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:07 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:09 PM** - Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side (spacenews)
+- **May 13, 06:25 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
