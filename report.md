@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4145,3 +4145,4 @@
 - **May 13, 03:25 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 04:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 04:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 04:41 AM** - China Will Launch the Long March 2D Rocket (supercluster)
