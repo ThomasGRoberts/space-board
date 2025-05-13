@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4192,3 +4192,4 @@
 - **May 13, 08:42 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 13, 08:57 AM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
 - **May 13, 09:12 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 13, 09:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
