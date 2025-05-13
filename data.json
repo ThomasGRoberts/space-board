@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "033275039dac9254eaceb0d2a9615731",
+    "trigger_count": 0,
+    "current_item_id": "c4fcede859dd76ef52ed4373a644f692",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9729,6 +9729,18 @@
             "fetched_datetime": "2025-05-13T11:05:37.819749Z",
             "shown_at": [
                 "2025-05-13T11:05:39.707064Z"
+            ]
+        },
+        {
+            "id": "c4fcede859dd76ef52ed4373a644f692",
+            "source": "spacenews",
+            "text": "Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties",
+            "source_link": "https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T11:33:40.580614Z",
+            "shown_at": [
+                "2025-05-13T11:33:41.639227Z"
             ]
         }
     ]

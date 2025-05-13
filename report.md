@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 27 | 51 |
-| breaking_defense | 1 | 1 | 21 | 45 |
+| spacenews | 10 | 12 | 28 | 52 |
+| breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -4213,3 +4213,4 @@
 - **May 13, 10:51 AM** - FAA gives environmental approval for increased Starship launch rate (spacenews)
 - **May 13, 11:05 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
 - **May 13, 11:19 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 13, 11:33 AM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
