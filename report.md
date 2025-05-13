@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 27 | 52 |
 | breaking_defense | 1 | 1 | 21 | 44 |
-| nyt | 0 | 1 | 21 | 46 |
+| nyt | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4215,3 +4215,4 @@
 - **May 13, 11:19 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 13, 11:33 AM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 13, 11:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 11:49 AM** - China Will Launch the Long March 2D Rocket (supercluster)
