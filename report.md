@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 21 | 45 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -4201,3 +4201,4 @@
 - **May 13, 09:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 09:39 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 13, 09:53 AM** - Space Force sharpens focus on deterring rivals (spacenews)
+- **May 13, 10:07 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
