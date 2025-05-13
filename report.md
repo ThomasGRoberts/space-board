@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 1 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -4268,3 +4268,4 @@
 - **May 13, 06:25 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 13, 06:44 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 06:57 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 13, 07:15 PM** - China Will Launch the Long March 2D Rocket (supercluster)
