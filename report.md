@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 27 | 52 |
-| breaking_defense | 1 | 1 | 21 | 43 |
-| nyt | 0 | 1 | 20 | 44 |
+| breaking_defense | 1 | 1 | 20 | 43 |
+| nyt | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -4234,3 +4234,4 @@
 - **May 13, 01:09 PM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
 - **May 13, 01:24 PM** - Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications (spacenews)
 - **May 13, 01:46 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 13, 02:33 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
