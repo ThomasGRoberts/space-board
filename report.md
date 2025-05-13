@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -4310,3 +4310,4 @@
 - **May 13, 10:57 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
 - **May 13, 11:11 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 11:25 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 13, 11:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
