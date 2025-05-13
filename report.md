@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 25 | 50 |
-| breaking_defense | 1 | 1 | 20 | 45 |
+| breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -4149,3 +4149,4 @@
 - **May 13, 04:43 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 04:45 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 04:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 04:49 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
