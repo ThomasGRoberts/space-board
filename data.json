@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b69178b3e743da84de63f138691144ad",
+    "trigger_count": 0,
+    "current_item_id": "88586f3883fafaffe6fc3021ca459873",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9784,6 +9784,18 @@
             "fetched_datetime": "2025-05-13T13:09:44.999600Z",
             "shown_at": [
                 "2025-05-13T13:24:00.609429Z"
+            ]
+        },
+        {
+            "id": "88586f3883fafaffe6fc3021ca459873",
+            "source": "spacenews",
+            "text": "I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman.",
+            "source_link": "https://spacenews.com/im-an-exoplanet-scientist-heres-what-we-lose-if-we-dont-launch-roman/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T15:03:04.126916Z",
+            "shown_at": [
+                "2025-05-13T15:03:04.768148Z"
             ]
         }
     ]

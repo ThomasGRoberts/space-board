@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 27 | 52 |
+| spacenews | 11 | 15 | 28 | 53 |
 | breaking_defense | 0 | 1 | 19 | 43 |
 | nyt | 0 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4235,3 +4235,4 @@
 - **May 13, 01:24 PM** - Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications (spacenews)
 - **May 13, 01:46 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 13, 02:33 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 13, 03:03 PM** - I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman. (spacenews)
