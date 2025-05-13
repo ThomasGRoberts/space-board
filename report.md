@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 21 | 45 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4181,3 +4181,4 @@
 - **May 13, 07:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:41 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 13, 07:55 AM** - Space: the new frontier for transatlantic cooperation (spacenews)
+- **May 13, 08:11 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
