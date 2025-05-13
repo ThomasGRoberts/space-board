@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 25 | 53 |
-| breaking_defense | 3 | 4 | 21 | 43 |
+| breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -4300,3 +4300,4 @@
 - **May 13, 09:59 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 13, 10:13 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 10:27 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 13, 10:42 PM** - China Will Launch the Long March 2D Rocket (supercluster)
