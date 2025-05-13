@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 25 | 52 |
+| spacenews | 9 | 19 | 26 | 53 |
 | breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4307,3 +4307,4 @@
 - **May 13, 10:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 10:53 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 10:55 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 10:57 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
