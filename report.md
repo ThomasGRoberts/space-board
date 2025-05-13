@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 27 | 52 |
+| spacenews | 9 | 10 | 28 | 53 |
 | breaking_defense | 1 | 1 | 22 | 48 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4147,3 +4147,4 @@
 - **May 13, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 01:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 13, 01:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 13, 01:05 AM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
