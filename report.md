@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 52 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 21 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4151,3 +4151,4 @@
 - **May 13, 02:57 AM** - Silicon solar power specialist gets $21 million for mass production (spacenews)
 - **May 13, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 13, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 13, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
