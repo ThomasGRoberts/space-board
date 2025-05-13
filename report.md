@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
-| breaking_defense | 0 | 1 | 19 | 42 |
+| breaking_defense | 1 | 2 | 20 | 43 |
 | nyt | 0 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -4256,3 +4256,4 @@
 - **May 13, 04:45 PM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 13, 05:00 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 13, 05:16 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 13, 05:32 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)

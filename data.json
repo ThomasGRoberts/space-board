@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-13T00:02:06.929190+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b69178b3e743da84de63f138691144ad",
+    "trigger_count": 0,
+    "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
     "data": [
         {
             "id": "2a974d71e09a41fa5bd710b5760146c6",
@@ -9827,6 +9827,18 @@
             "fetched_datetime": "2025-05-13T15:41:40.776886Z",
             "shown_at": [
                 "2025-05-13T15:41:41.438679Z"
+            ]
+        },
+        {
+            "id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
+            "source": "breaking_defense",
+            "text": "Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China",
+            "source_link": "https://breakingdefense.com/2025/05/space-force-should-get-a-quarter-of-pentagon-spending-if-dod-is-serious-about-countering-china/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-13T17:32:44.718313Z",
+            "shown_at": [
+                "2025-05-13T17:32:45.488566Z"
             ]
         }
     ]
