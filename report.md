@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 25 | 52 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 90 | 90 |
 
@@ -4276,3 +4276,4 @@
 - **May 13, 07:25 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:27 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 07:29 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
+- **May 13, 07:43 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
