@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 19 | 42 |
 | nyt | 0 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -4246,3 +4246,4 @@
 - **May 13, 03:41 PM** - Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side (spacenews)
 - **May 13, 03:57 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 13, 04:16 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 13, 04:32 PM** - China Will Launch the Long March 2D Rocket (supercluster)
