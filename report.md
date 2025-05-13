@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 1 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
 
@@ -4280,3 +4280,4 @@
 - **May 13, 07:57 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 13, 08:11 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 08:13 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 08:15 PM** - China Will Launch the Long March 2D Rocket (supercluster)
