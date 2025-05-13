@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 21 | 45 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4171,3 +4171,4 @@
 - **May 13, 06:43 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:45 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 06:59 AM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
+- **May 13, 07:13 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
