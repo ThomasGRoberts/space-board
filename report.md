@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4153,3 +4153,4 @@
 - **May 13, 05:05 AM** - Space Force awards contracts for missile-warning ground systems (spacenews)
 - **May 13, 05:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 13, 05:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 05:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
