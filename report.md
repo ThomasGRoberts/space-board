@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 
 # Shown Order
 
@@ -4312,3 +4312,4 @@
 - **May 13, 11:25 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 13, 11:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 11:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 11:43 PM** - China Will Launch the Long March 2D Rocket (supercluster)
