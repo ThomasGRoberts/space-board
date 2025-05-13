@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4166,3 +4166,4 @@
 - **May 13, 06:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 06:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 13, 06:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
