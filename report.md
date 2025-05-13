@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 27 | 51 |
+| spacenews | 9 | 12 | 28 | 52 |
 | breaking_defense | 1 | 1 | 21 | 44 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4223,3 +4223,4 @@
 - **May 13, 11:59 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 12:05 PM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 13, 12:23 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
+- **May 13, 12:37 PM** - Why NASA should apply the CLPS mindset to low-cost science missions, not just landers (spacenews)
