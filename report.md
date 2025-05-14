@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 27 | 54 |
-| breaking_defense | 3 | 4 | 21 | 42 |
+| spacenews | 11 | 21 | 26 | 54 |
+| breaking_defense | 3 | 4 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 43 | 43 |
@@ -4215,3 +4215,4 @@
 - **May 14, 11:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 11:28 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 11:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 11:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
