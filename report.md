@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 54 |
 | breaking_defense | 3 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4196,3 +4196,4 @@
 - **May 14, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 09:25 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
 - **May 14, 09:39 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 14, 09:53 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
