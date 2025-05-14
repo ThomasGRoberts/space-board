@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a2da00d7b9f067174a663172a876d152",
+    "trigger_count": 0,
+    "current_item_id": "6d1480c8dce1a2d42417a0c8b3d2d5a0",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9835,6 +9835,18 @@
             "fetched_datetime": "2025-05-14T22:33:41.657832Z",
             "shown_at": [
                 "2025-05-14T22:33:42.848537Z"
+            ]
+        },
+        {
+            "id": "6d1480c8dce1a2d42417a0c8b3d2d5a0",
+            "source": "spacenews",
+            "text": "Rocket Lab to launch NASA astrophysics smallsat mission",
+            "source_link": "https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T22:47:15.896629Z",
+            "shown_at": [
+                "2025-05-14T22:47:17.179519Z"
             ]
         }
     ]

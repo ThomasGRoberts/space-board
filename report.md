@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 26 | 51 |
+| spacenews | 11 | 20 | 27 | 52 |
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4209,3 +4209,4 @@
 - **May 14, 10:05 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 14, 10:19 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 10:33 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
+- **May 14, 10:47 PM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
