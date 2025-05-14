@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 52 |
+| spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 43 |
 | supercluster | 1 | 1 | 146 | 146 |
 | nyt | 0 | 1 | 20 | 42 |
@@ -4296,3 +4296,4 @@
 - **May 14, 03:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 03:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 03:41 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 14, 03:43 AM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
