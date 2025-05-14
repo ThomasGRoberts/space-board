@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -4206,3 +4206,4 @@
 - **May 14, 07:15 PM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 14, 07:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 14, 07:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 07:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
