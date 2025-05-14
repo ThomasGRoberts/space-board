@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 54 |
 | breaking_defense | 3 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -4206,3 +4206,4 @@
 - **May 14, 10:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 10:21 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 14, 10:35 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 14, 10:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
