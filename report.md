@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4176,3 +4176,4 @@
 - **May 14, 07:09 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 14, 07:23 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 14, 07:37 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 14, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
