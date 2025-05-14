@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 26 | 52 |
-| breaking_defense | 3 | 4 | 21 | 41 |
+| breaking_defense | 3 | 4 | 22 | 42 |
 | nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4153,3 +4153,4 @@
 - **May 14, 03:43 AM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
 - **May 14, 03:59 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 05:13 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
