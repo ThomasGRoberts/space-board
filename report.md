@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 53 |
+| spacenews | 9 | 18 | 26 | 52 |
 | breaking_defense | 3 | 4 | 22 | 43 |
-| supercluster | 1 | 1 | 139 | 139 |
-| nyt | 0 | 1 | 21 | 42 |
+| supercluster | 1 | 1 | 140 | 140 |
+| nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4289,3 +4289,4 @@
 - **May 14, 02:45 AM** - I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman. (spacenews)
 - **May 14, 02:59 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 14, 03:13 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 14, 03:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
