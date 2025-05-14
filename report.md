@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 43 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4165,3 +4165,4 @@
 - **May 14, 06:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 06:09 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 14, 06:24 AM** - ClearSpace completes second phase of UK debris-removal mission (spacenews)
+- **May 14, 06:39 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
