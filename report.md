@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 26 | 54 |
-| breaking_defense | 3 | 4 | 22 | 42 |
+| breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -4231,3 +4231,4 @@
 - **May 14, 01:30 PM** - Big ideas need big rockets (spacenews)
 - **May 14, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 01:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 01:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
