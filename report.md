@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 28 | 54 |
-| breaking_defense | 3 | 4 | 21 | 42 |
+| breaking_defense | 3 | 4 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
@@ -4185,3 +4185,4 @@
 - **May 14, 08:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 08:07 AM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 14, 08:21 AM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
+- **May 14, 08:39 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
