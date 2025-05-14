@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53becb94e4c079c02ab8b8689cc39b52",
+    "trigger_count": 0,
+    "current_item_id": "cf89951b6100e0e4689369699d253aa6",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9787,6 +9787,18 @@
             "fetched_datetime": "2025-05-14T18:17:47.002167Z",
             "shown_at": [
                 "2025-05-14T18:17:47.661752Z"
+            ]
+        },
+        {
+            "id": "cf89951b6100e0e4689369699d253aa6",
+            "source": "nyt",
+            "text": "First Visible Aurora Spotted Over Mars by NASA Rover",
+            "source_link": "https://www.nytimes.com/2025/05/14/science/mars-aurora-northern-lights.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T18:33:31.501650Z",
+            "shown_at": [
+                "2025-05-14T18:33:32.072794Z"
             ]
         }
     ]
