@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
 | breaking_defense | 3 | 4 | 21 | 43 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4269,3 +4269,4 @@
 - **May 14, 12:51 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 14, 01:07 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 01:21 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 14, 01:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
