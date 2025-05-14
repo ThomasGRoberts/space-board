@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 24 | 50 |
+| spacenews | 9 | 19 | 25 | 51 |
 | breaking_defense | 0 | 3 | 22 | 42 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4206,3 +4206,4 @@
 - **May 14, 09:47 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 14, 09:49 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 14, 09:51 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 14, 10:05 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
