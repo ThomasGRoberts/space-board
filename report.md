@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 25 | 51 |
-| breaking_defense | 0 | 3 | 21 | 41 |
-| nyt | 2 | 2 | 23 | 42 |
+| breaking_defense | 0 | 3 | 22 | 42 |
+| nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -4222,3 +4222,4 @@
 - **May 14, 08:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 08:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 08:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 08:55 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
