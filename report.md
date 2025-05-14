@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 53 |
+| spacenews | 11 | 20 | 27 | 54 |
 | breaking_defense | 3 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 21 | 43 |
+| nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
 
@@ -4183,3 +4183,4 @@
 - **May 14, 07:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 08:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 08:07 AM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
