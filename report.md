@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 52 |
+| spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4174,3 +4174,4 @@
 - **May 14, 07:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 07:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 07:09 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
+- **May 14, 07:23 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
