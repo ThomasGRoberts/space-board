@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 26 | 51 |
-| breaking_defense | 0 | 3 | 20 | 41 |
+| breaking_defense | 0 | 3 | 21 | 42 |
 | nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -4202,3 +4202,4 @@
 - **May 14, 06:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 06:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 06:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 07:01 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
