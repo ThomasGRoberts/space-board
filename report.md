@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 26 | 52 |
 | breaking_defense | 2 | 3 | 22 | 42 |
-| nyt | 0 | 0 | 21 | 40 |
+| nyt | 1 | 1 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -4193,3 +4193,4 @@
 - **May 14, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 05:45 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
+- **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
