@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 20 | 41 |
 | nyt | 2 | 2 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4214,3 +4214,4 @@
 - **May 14, 11:19 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
 - **May 14, 11:33 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 14, 11:35 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 14, 11:37 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
