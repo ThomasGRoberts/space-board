@@ -6,7 +6,6 @@
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4188,40 +4187,16 @@
 - **May 14, 03:59 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 04:15 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 04:32 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
-- **May 14, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 05:45 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 14, 06:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 14, 06:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:54 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 06:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:01 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 07:15 PM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 14, 07:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 14, 07:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:52 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 07:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:59 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 14, 08:13 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 14, 08:27 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
-- **May 14, 08:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **May 14, 08:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 08:55 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 14, 09:09 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 14, 09:23 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
