@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 25 | 53 |
-| breaking_defense | 3 | 4 | 20 | 42 |
+| breaking_defense | 3 | 4 | 21 | 43 |
 | supercluster | 1 | 1 | 118 | 118 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4258,3 +4258,4 @@
 - **May 13, 11:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 11:53 PM** - NASA backtracks on VIPER commercial partnership (spacenews)
 - **May 14, 12:07 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 14, 12:21 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
