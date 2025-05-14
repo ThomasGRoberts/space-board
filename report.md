@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4157,3 +4157,4 @@
 - **May 14, 05:27 AM** - Space agencies grapple with potential changes to Artemis (spacenews)
 - **May 14, 05:41 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 05:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
