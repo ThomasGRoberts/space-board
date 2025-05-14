@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 27 | 54 |
+| spacenews | 13 | 22 | 28 | 55 |
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4207,3 +4207,4 @@
 - **May 14, 10:21 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 14, 10:35 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 14, 10:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 14, 11:03 AM** - Space-based solar power startups are banking on Starship’s success (spacenews)
