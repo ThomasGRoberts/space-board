@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 26 | 53 |
+| spacenews | 11 | 21 | 27 | 54 |
 | breaking_defense | 3 | 3 | 23 | 42 |
 | nyt | 0 | 0 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4248,3 +4248,4 @@
 - **May 14, 02:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 02:59 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 14, 03:15 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 14, 03:29 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
