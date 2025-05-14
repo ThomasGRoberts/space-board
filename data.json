@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
     "data": [
         {
@@ -9810,14 +9810,11 @@
             "source": "supercluster",
             "text": "Gilmour Space Will Launch Demo Flight of Eris Rocket",
             "source_link": "https://www.supercluster.com/launches/eris-demo-flight",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-05-14T21:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-05-14T21:37:08.094700Z",
-            "shown_at": [
-                "2025-05-14T21:37:08.651581Z"
-            ]
+            "fetched_datetime": "2025-05-14T21:39:40.887659Z"
         }
     ]
 }
