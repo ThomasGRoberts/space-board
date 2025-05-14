@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 26 | 51 |
-| breaking_defense | 0 | 3 | 21 | 41 |
+| spacenews | 11 | 18 | 26 | 50 |
+| breaking_defense | 0 | 3 | 21 | 42 |
 | nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -4212,3 +4212,4 @@
 - **May 14, 07:52 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 07:59 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
