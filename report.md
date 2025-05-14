@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4202,3 +4202,4 @@
 - **May 14, 09:09 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 14, 09:23 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 09:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 14, 09:45 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
