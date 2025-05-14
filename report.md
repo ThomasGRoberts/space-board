@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 26 | 51 |
+| spacenews | 11 | 20 | 27 | 52 |
 | breaking_defense | 2 | 3 | 22 | 42 |
 | nyt | 0 | 0 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4192,3 +4192,4 @@
 - **May 14, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 05:45 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)

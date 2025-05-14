@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b505393a60e849b689dfe54f48a41741",
+    "trigger_count": 0,
+    "current_item_id": "3cb1914f193c2c83b6b712d0936a94dd",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9763,6 +9763,18 @@
                 "2025-05-14T17:39:29.668146Z",
                 "2025-05-14T17:41:44.306888Z",
                 "2025-05-14T17:43:23.494179Z"
+            ]
+        },
+        {
+            "id": "3cb1914f193c2c83b6b712d0936a94dd",
+            "source": "spacenews",
+            "text": "Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea",
+            "source_link": "https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T18:01:32.227923Z",
+            "shown_at": [
+                "2025-05-14T18:01:33.116974Z"
             ]
         }
     ]
