@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 26 | 53 |
+| spacenews | 12 | 21 | 27 | 54 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4217,3 +4217,4 @@
 - **May 14, 11:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 11:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 14, 11:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 14, 12:10 PM** - Satellite industry continues modest revenue growth trends (spacenews)
