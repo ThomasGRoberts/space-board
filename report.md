@@ -6,7 +6,6 @@
 | breaking_defense | 3 | 3 | 23 | 42 |
 | nyt | 0 | 0 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4185,13 +4184,6 @@
 - **May 14, 02:59 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 14, 03:15 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 14, 03:29 PM** - Lockheed Martin increases investment in solid rocket startup X-Bow Systems (spacenews)
-- **May 14, 03:44 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **May 14, 03:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 03:59 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 04:15 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 04:32 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
