@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 52 |
+| spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4154,3 +4154,4 @@
 - **May 14, 03:59 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 05:13 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 14, 05:27 AM** - Space agencies grapple with potential changes to Artemis (spacenews)
