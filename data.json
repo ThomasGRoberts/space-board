@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "413be58287cb157d1028f0b4f705cc6d",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9710,6 +9710,18 @@
             "fetched_datetime": "2025-05-14T08:07:25.462690Z",
             "shown_at": [
                 "2025-05-14T08:21:58.896243Z"
+            ]
+        },
+        {
+            "id": "413be58287cb157d1028f0b4f705cc6d",
+            "source": "spacenews",
+            "text": "Varda Space reentry capsule lands in Australia, completes hypersonic research mission",
+            "source_link": "https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T09:25:48.050556Z",
+            "shown_at": [
+                "2025-05-14T09:25:48.863586Z"
             ]
         }
     ]

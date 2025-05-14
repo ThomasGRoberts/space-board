@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 27 | 53 |
+| spacenews | 12 | 21 | 28 | 54 |
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4194,3 +4194,4 @@
 - **May 14, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 09:25 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
