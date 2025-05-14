@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 26 | 52 |
+| spacenews | 10 | 19 | 27 | 53 |
 | breaking_defense | 3 | 3 | 23 | 42 |
 | nyt | 0 | 0 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4194,3 +4194,4 @@
 - **May 14, 03:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 03:59 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 04:15 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 14, 04:32 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
