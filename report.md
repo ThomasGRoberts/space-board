@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4196,3 +4196,4 @@
 - **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 14, 06:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 14, 06:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 06:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
