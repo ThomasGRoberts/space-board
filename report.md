@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4218,3 +4218,4 @@
 - **May 14, 11:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 14, 11:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 12:10 PM** - Satellite industry continues modest revenue growth trends (spacenews)
+- **May 14, 12:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
