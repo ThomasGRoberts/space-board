@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 25 | 53 |
 | breaking_defense | 3 | 4 | 20 | 42 |
 | supercluster | 1 | 1 | 125 | 125 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4267,3 +4267,4 @@
 - **May 14, 12:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 12:49 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 12:51 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
+- **May 14, 01:07 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
