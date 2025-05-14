@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4187,3 +4187,4 @@
 - **May 14, 08:21 AM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
 - **May 14, 08:39 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 14, 08:53 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 14, 09:08 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
