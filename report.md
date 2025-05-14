@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 26 | 52 |
+| spacenews | 12 | 21 | 27 | 53 |
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4210,3 +4210,4 @@
 - **May 14, 10:19 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 10:33 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
 - **May 14, 10:47 PM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
+- **May 14, 11:02 PM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)

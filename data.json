@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6d1480c8dce1a2d42417a0c8b3d2d5a0",
+    "trigger_count": 0,
+    "current_item_id": "91b20d3b64931bb5452d92ab8a086a1d",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9847,6 +9847,18 @@
             "fetched_datetime": "2025-05-14T22:47:15.896629Z",
             "shown_at": [
                 "2025-05-14T22:47:17.179519Z"
+            ]
+        },
+        {
+            "id": "91b20d3b64931bb5452d92ab8a086a1d",
+            "source": "spacenews",
+            "text": "China launches first of 2,800 satellites for AI space computing constellation",
+            "source_link": "https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T23:02:15.698749Z",
+            "shown_at": [
+                "2025-05-14T23:02:16.684178Z"
             ]
         }
     ]
