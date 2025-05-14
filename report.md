@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 1 | 19 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4261,3 +4261,4 @@
 - **May 14, 12:21 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 14, 12:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 12:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 14, 12:41 AM** - China Will Launch the Long March 2D Rocket (supercluster)
