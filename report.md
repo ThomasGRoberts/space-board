@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 22 | 42 |
 | nyt | 0 | 0 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -4230,3 +4230,4 @@
 - **May 14, 01:16 PM** - Space cuisine and the foundation of new space culture (spacenews)
 - **May 14, 01:30 PM** - Big ideas need big rockets (spacenews)
 - **May 14, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 01:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
