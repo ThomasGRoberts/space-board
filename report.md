@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 25 | 50 |
+| spacenews | 10 | 19 | 26 | 51 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4208,3 +4208,4 @@
 - **May 14, 09:51 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 14, 10:05 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 14, 10:19 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 14, 10:33 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
