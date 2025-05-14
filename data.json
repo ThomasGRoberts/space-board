@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3aa6f27ee2777edd65f86d21d7b85270",
+    "trigger_count": 0,
+    "current_item_id": "ece501bc39098958356e2bf86f73559a",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9777,6 +9777,27 @@
             "shown_at": [
                 "2025-05-14T12:10:34.647471Z"
             ]
+        },
+        {
+            "id": "ece501bc39098958356e2bf86f73559a",
+            "source": "spacenews",
+            "text": "Space cuisine and the foundation of new space culture",
+            "source_link": "https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T13:16:00.052925Z",
+            "shown_at": [
+                "2025-05-14T13:16:00.704139Z"
+            ]
+        },
+        {
+            "id": "7e91a203f1688327be89af1dbb94e308",
+            "source": "spacenews",
+            "text": "Big ideas need big rockets",
+            "source_link": "https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T13:16:00.053132Z"
         }
     ]
 }
