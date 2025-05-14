@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 53 |
-| breaking_defense | 3 | 4 | 22 | 43 |
+| breaking_defense | 3 | 4 | 22 | 42 |
 | supercluster | 1 | 1 | 146 | 146 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4297,3 +4297,4 @@
 - **May 14, 03:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 03:41 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 03:43 AM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
+- **May 14, 03:59 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
