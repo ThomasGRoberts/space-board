@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 21 | 41 |
 | nyt | 0 | 0 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4190,3 +4190,4 @@
 - **May 14, 04:32 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
 - **May 14, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
