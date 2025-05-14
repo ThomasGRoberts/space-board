@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4216,3 +4216,4 @@
 - **May 14, 08:13 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 14, 08:27 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 14, 08:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 14, 08:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
