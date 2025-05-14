@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 27 | 54 |
 | breaking_defense | 3 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 21 | 42 |
+| nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4209,3 +4209,4 @@
 - **May 14, 10:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 11:03 AM** - Space-based solar power startups are banking on Starship’s success (spacenews)
 - **May 14, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
