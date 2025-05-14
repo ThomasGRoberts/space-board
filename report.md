@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 27 | 52 |
+| spacenews | 13 | 22 | 28 | 53 |
 | breaking_defense | 0 | 3 | 21 | 41 |
 | nyt | 2 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4211,3 +4211,4 @@
 - **May 14, 10:33 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
 - **May 14, 10:47 PM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 14, 11:02 PM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
+- **May 14, 11:19 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
