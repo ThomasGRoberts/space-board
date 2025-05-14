@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 26 | 50 |
+| spacenews | 12 | 19 | 27 | 51 |
 | breaking_defense | 0 | 3 | 21 | 42 |
-| nyt | 2 | 2 | 22 | 42 |
+| nyt | 2 | 2 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -4213,3 +4213,4 @@
 - **May 14, 07:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:59 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 14, 08:13 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)

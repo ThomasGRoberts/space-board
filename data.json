@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b505393a60e849b689dfe54f48a41741",
+    "trigger_count": 0,
+    "current_item_id": "f03e2697c6bb67d0639f0e6bcc4334c2",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9817,6 +9817,18 @@
             "shown_at": [
                 "2025-05-14T18:33:32.072794Z",
                 "2025-05-14T19:29:44.516012Z"
+            ]
+        },
+        {
+            "id": "f03e2697c6bb67d0639f0e6bcc4334c2",
+            "source": "spacenews",
+            "text": "Kepler demonstrates space-to-ground optical links for proposed relay network ",
+            "source_link": "https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T20:13:59.018525Z",
+            "shown_at": [
+                "2025-05-14T20:13:59.878290Z"
             ]
         }
     ]
