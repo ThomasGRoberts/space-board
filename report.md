@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 27 | 51 |
 | breaking_defense | 0 | 3 | 21 | 42 |
-| nyt | 2 | 2 | 22 | 41 |
+| nyt | 2 | 2 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -4204,3 +4204,4 @@
 - **May 14, 06:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 14, 07:01 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 07:15 PM** - Commercial competition and cooperation at the moon (spacenews)
+- **May 14, 07:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
