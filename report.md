@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 43 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -4175,3 +4175,4 @@
 - **May 14, 07:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 07:09 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 14, 07:23 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
+- **May 14, 07:37 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
