@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 21 | 41 |
 | nyt | 0 | 0 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4188,3 +4188,4 @@
 - **May 14, 03:59 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 14, 04:15 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 04:32 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
+- **May 14, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
