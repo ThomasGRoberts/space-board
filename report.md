@@ -5,7 +5,7 @@
 | spacenews | 9 | 19 | 26 | 53 |
 | breaking_defense | 3 | 4 | 20 | 42 |
 | supercluster | 1 | 1 | 118 | 118 |
-| nyt | 0 | 1 | 19 | 42 |
+| nyt | 0 | 1 | 20 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4257,3 +4257,4 @@
 - **May 13, 11:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 11:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 13, 11:53 PM** - NASA backtracks on VIPER commercial partnership (spacenews)
+- **May 14, 12:07 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
