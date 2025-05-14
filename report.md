@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 22 | 42 |
-| nyt | 0 | 1 | 21 | 43 |
+| nyt | 0 | 1 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4152,4 +4152,4 @@
 - **May 14, 03:13 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 14, 03:43 AM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
 - **May 14, 03:59 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
-- **May 14, 04:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 14, 04:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
