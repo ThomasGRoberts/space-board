@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 26 | 53 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | supercluster | 1 | 1 | 132 | 132 |
-| nyt | 0 | 1 | 20 | 42 |
+| nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4277,3 +4277,4 @@
 - **May 14, 01:45 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 01:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 01:49 AM** - Commercial competition and cooperation at the moon (spacenews)
+- **May 14, 02:03 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
