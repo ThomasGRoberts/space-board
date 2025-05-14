@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 26 | 53 |
-| breaking_defense | 3 | 4 | 21 | 42 |
+| breaking_defense | 3 | 4 | 22 | 43 |
 | supercluster | 1 | 1 | 132 | 132 |
 | nyt | 0 | 1 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4278,3 +4278,4 @@
 - **May 14, 01:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 14, 01:49 AM** - Commercial competition and cooperation at the moon (spacenews)
 - **May 14, 02:03 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 14, 02:17 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
