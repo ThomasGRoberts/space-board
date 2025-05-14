@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -4210,3 +4210,4 @@
 - **May 14, 11:03 AM** - Space-based solar power startups are banking on Starship’s success (spacenews)
 - **May 14, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 11:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
