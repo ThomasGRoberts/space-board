@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -4220,3 +4220,4 @@
 - **May 14, 12:10 PM** - Satellite industry continues modest revenue growth trends (spacenews)
 - **May 14, 12:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 14, 12:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 14, 12:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
