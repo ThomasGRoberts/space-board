@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 3 | 20 | 41 |
 | nyt | 2 | 2 | 22 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4212,3 +4212,4 @@
 - **May 14, 10:47 PM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 14, 11:02 PM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
 - **May 14, 11:19 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
+- **May 14, 11:33 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
