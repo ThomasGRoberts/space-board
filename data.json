@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 2,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 3,
+    "current_item_id": "b7459c04e55b4105394c323745e57875",
     "data": [
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
@@ -9806,15 +9806,18 @@
             ]
         },
         {
-            "id": "02d8b5609d44ff92d1ec2851e8751d2a",
+            "id": "b7459c04e55b4105394c323745e57875",
             "source": "supercluster",
-            "text": "Gilmour Space Will Launch Demo Flight of Eris Rocket",
-            "source_link": "https://www.supercluster.com/launches/eris-demo-flight",
-            "shown": false,
+            "text": "China Will Launch the ZhuQue-2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-14T21:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-14T21:41:34.989430Z"
+            "target_datetime": "2025-05-15T04:10:00.000Z",
+            "time_remaining": "0d 06h 26m",
+            "fetched_datetime": "2025-05-14T21:43:35.064796Z",
+            "shown_at": [
+                "2025-05-14T21:43:35.734357Z"
+            ]
         }
     ]
 }
