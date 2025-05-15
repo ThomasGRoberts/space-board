@@ -1,9 +1,216 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-14T00:01:55.941843+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
+    "trigger_count": 6,
     "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
     "data": [
+        {
+            "id": "54c517151f13578081f212dd8cd6fd77",
+            "source": "spacenews",
+            "text": "Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding",
+            "source_link": "https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T23:19:24.407900Z",
+            "shown_at": [
+                "2025-05-14T23:19:24.718971Z"
+            ]
+        },
+        {
+            "id": "91b20d3b64931bb5452d92ab8a086a1d",
+            "source": "spacenews",
+            "text": "China launches first of 2,800 satellites for AI space computing constellation",
+            "source_link": "https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T23:02:15.698749Z",
+            "shown_at": [
+                "2025-05-14T23:02:16.684178Z"
+            ]
+        },
+        {
+            "id": "6d1480c8dce1a2d42417a0c8b3d2d5a0",
+            "source": "spacenews",
+            "text": "Rocket Lab to launch NASA astrophysics smallsat mission",
+            "source_link": "https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T22:47:15.896629Z",
+            "shown_at": [
+                "2025-05-14T22:47:17.179519Z"
+            ]
+        },
+        {
+            "id": "a2da00d7b9f067174a663172a876d152",
+            "source": "spacenews",
+            "text": "Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia",
+            "source_link": "https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T22:33:41.657832Z",
+            "shown_at": [
+                "2025-05-14T22:33:42.848537Z"
+            ]
+        },
+        {
+            "id": "b7459c04e55b4105394c323745e57875",
+            "source": "supercluster",
+            "text": "China Will Launch the ZhuQue-2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-15T04:10:00.000Z",
+            "time_remaining": "0d 04h 24m",
+            "fetched_datetime": "2025-05-14T21:43:35.064796Z",
+            "shown_at": [
+                "2025-05-14T21:43:35.734357Z",
+                "2025-05-14T21:45:37.012573Z",
+                "2025-05-14T21:47:35.416298Z",
+                "2025-05-14T21:49:05.147754Z",
+                "2025-05-14T23:33:45.587933Z",
+                "2025-05-14T23:35:22.217015Z",
+                "2025-05-14T23:37:24.844450Z",
+                "2025-05-14T23:39:33.674086Z",
+                "2025-05-14T23:41:59.276651Z",
+                "2025-05-14T23:43:22.081143Z",
+                "2025-05-14T23:45:53.995112Z"
+            ]
+        },
+        {
+            "id": "f03e2697c6bb67d0639f0e6bcc4334c2",
+            "source": "spacenews",
+            "text": "Kepler demonstrates space-to-ground optical links for proposed relay network ",
+            "source_link": "https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T20:13:59.018525Z",
+            "shown_at": [
+                "2025-05-14T20:13:59.878290Z",
+                "2025-05-14T22:05:27.485875Z"
+            ]
+        },
+        {
+            "id": "cf89951b6100e0e4689369699d253aa6",
+            "source": "nyt",
+            "text": "First Visible Aurora Spotted Over Mars by NASA Rover",
+            "source_link": "https://www.nytimes.com/2025/05/14/science/mars-aurora-northern-lights.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T18:33:31.501650Z",
+            "shown_at": [
+                "2025-05-14T18:33:32.072794Z",
+                "2025-05-14T19:29:44.516012Z"
+            ]
+        },
+        {
+            "id": "53becb94e4c079c02ab8b8689cc39b52",
+            "source": "nyt",
+            "text": "NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow",
+            "source_link": "https://www.nytimes.com/2025/05/14/science/mars-aurora-northern-lights.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T18:17:47.002167Z",
+            "shown_at": [
+                "2025-05-14T18:17:47.661752Z"
+            ]
+        },
+        {
+            "id": "3cb1914f193c2c83b6b712d0936a94dd",
+            "source": "spacenews",
+            "text": "Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea",
+            "source_link": "https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T18:01:32.227923Z",
+            "shown_at": [
+                "2025-05-14T18:01:33.116974Z"
+            ]
+        },
+        {
+            "id": "7e91a203f1688327be89af1dbb94e308",
+            "source": "spacenews",
+            "text": "Big ideas need big rockets",
+            "source_link": "https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T13:16:00.053132Z",
+            "shown_at": [
+                "2025-05-14T13:30:01.413534Z"
+            ]
+        },
+        {
+            "id": "ece501bc39098958356e2bf86f73559a",
+            "source": "spacenews",
+            "text": "Space cuisine and the foundation of new space culture",
+            "source_link": "https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T13:16:00.052925Z",
+            "shown_at": [
+                "2025-05-14T13:16:00.704139Z"
+            ]
+        },
+        {
+            "id": "700cc6f50a37ff9fd2c2177a67e1a9f2",
+            "source": "spacenews",
+            "text": "Satellite industry continues modest revenue growth trends",
+            "source_link": "https://spacenews.com/satellite-industry-continues-modest-revenue-growth-trends/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T12:10:33.575919Z",
+            "shown_at": [
+                "2025-05-14T12:10:34.647471Z"
+            ]
+        },
+        {
+            "id": "6c07b139d7b2feed503db2669bf5a018",
+            "source": "spacenews",
+            "text": "Space-based solar power startups are banking on Starship’s success",
+            "source_link": "https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T11:03:32.924389Z",
+            "shown_at": [
+                "2025-05-14T11:03:33.533903Z"
+            ]
+        },
+        {
+            "id": "413be58287cb157d1028f0b4f705cc6d",
+            "source": "spacenews",
+            "text": "Varda Space reentry capsule lands in Australia, completes hypersonic research mission",
+            "source_link": "https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T09:25:48.050556Z",
+            "shown_at": [
+                "2025-05-14T09:25:48.863586Z"
+            ]
+        },
+        {
+            "id": "e30fb14463bbf94079b0c8c25d6ccc6b",
+            "source": "spacenews",
+            "text": "European banks help OroraTech raise more funds for wildfire-monitoring constellation",
+            "source_link": "https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T08:07:25.462690Z",
+            "shown_at": [
+                "2025-05-14T08:21:58.896243Z"
+            ]
+        },
+        {
+            "id": "ee016b5caf6f185178083448965c33f7",
+            "source": "spacenews",
+            "text": "Eutelsat plots digital upgrades for follow-on OneWeb satellites",
+            "source_link": "https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-14T08:07:25.462636Z",
+            "shown_at": [
+                "2025-05-14T08:07:26.074202Z",
+                "2025-05-14T14:27:36.814359Z"
+            ]
+        },
         {
             "id": "f4016fcab1592f08a9020a470dbe277d",
             "source": "spacenews",
@@ -9376,509 +9583,6 @@
             "fetched_datetime": "2025-03-15T14:45:27.247424Z",
             "shown_at": [
                 "2025-03-15T14:45:27.999440Z"
-            ]
-        },
-        {
-            "id": "bf9a57596eb02d7716ba7b844a44d2d7",
-            "source": "aidy",
-            "text": "FAA Opens Public Comment on SpaceX Falcon 9 Expansion; NASA HQ Relocation Bill Proposed",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T07:41:36.874050Z",
-            "shown_at": [
-                "2025-03-15T07:41:37.531543Z",
-                "2025-03-15T12:53:17.444103Z",
-                "2025-03-15T15:27:47.178705Z",
-                "2025-03-15T22:39:50.489282Z",
-                "2025-03-16T05:59:31.124078Z",
-                "2025-03-16T07:13:30.542416Z",
-                "2025-03-16T17:09:34.611537Z",
-                "2025-03-16T20:43:41.613459Z",
-                "2025-03-17T00:15:52.952452Z",
-                "2025-03-17T12:29:31.182716Z",
-                "2025-03-18T16:47:37.851350Z",
-                "2025-03-19T00:31:50.212554Z",
-                "2025-03-19T04:01:59.200805Z",
-                "2025-03-19T06:21:34.473527Z",
-                "2025-03-19T09:51:36.227533Z",
-                "2025-03-20T02:11:32.361674Z",
-                "2025-03-20T04:33:29.750521Z",
-                "2025-03-20T20:31:40.977777Z",
-                "2025-03-21T08:43:12.148399Z",
-                "2025-03-21T15:57:29.438726Z"
-            ]
-        },
-        {
-            "id": "1d1522efc3297320c86a9b25882066ff",
-            "source": "spacenews",
-            "text": "Rocket Lab launches Japanese SAR satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T02:27:37.324150Z",
-            "shown_at": [
-                "2025-03-15T02:27:37.919478Z",
-                "2025-03-21T03:27:35.527869Z",
-                "2025-03-21T20:39:44.528615Z"
-            ]
-        },
-        {
-            "id": "22d0c6776bb6d7430d777254fb907c45",
-            "source": "nyt",
-            "text": "Video Shows Mars and Deimos Close Up During ESA’s Hera Flyby",
-            "source_link": "https://www.nytimes.com/2025/03/14/science/mars-deimos-hera-flyby.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720764Z",
-            "shown_at": [
-                "2025-03-15T03:11:41.013920Z",
-                "2025-03-15T16:23:40.233917Z",
-                "2025-03-16T08:52:25.151630Z",
-                "2025-03-16T10:03:35.314654Z",
-                "2025-03-16T19:45:33.435497Z",
-                "2025-03-17T21:03:47.015729Z",
-                "2025-03-17T23:29:31.037229Z",
-                "2025-03-19T16:37:48.245314Z"
-            ]
-        },
-        {
-            "id": "03c721b86e0fce311f46e3b26e1cd832",
-            "source": "nyt",
-            "text": "SpaceX Launches NASA’s Crew-10 Mission to the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/03/14/science/nasa-spacex-astronauts-iss-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720732Z",
-            "shown_at": [
-                "2025-03-15T02:56:03.130842Z",
-                "2025-03-15T17:37:29.500728Z",
-                "2025-03-16T00:53:18.525785Z",
-                "2025-03-17T14:32:28.275870Z",
-                "2025-03-18T03:53:40.387642Z",
-                "2025-03-20T11:37:08.927684Z",
-                "2025-03-21T22:07:27.201088Z"
-            ]
-        },
-        {
-            "id": "932b6b5a1795eb1d9afc24490a33c18c",
-            "source": "nyt",
-            "text": "Photos Show Blood Moon Lunar Eclipse Around the World",
-            "source_link": "https://www.nytimes.com/2025/03/14/science/space/blood-moon-lunar-eclipse-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720692Z",
-            "shown_at": [
-                "2025-03-15T02:41:36.549622Z",
-                "2025-03-15T08:27:38.827570Z",
-                "2025-03-17T00:29:53.225805Z",
-                "2025-03-17T13:19:37.644165Z",
-                "2025-03-18T16:05:48.288700Z",
-                "2025-03-21T02:25:41.760832Z",
-                "2025-03-21T03:41:45.232789Z",
-                "2025-03-22T00:43:36.971933Z"
-            ]
-        },
-        {
-            "id": "282050260fd4afed0fd2b78552b5a749",
-            "source": "nyt",
-            "text": "Elon Musk’s Starlink Pushes Its Way Into India",
-            "source_link": "https://www.nytimes.com/2025/03/13/business/starlink-india-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720262Z",
-            "shown_at": [
-                "2025-03-15T02:11:39.186524Z",
-                "2025-03-16T02:39:28.004832Z",
-                "2025-03-16T06:15:44.654030Z",
-                "2025-03-16T17:23:45.759500Z",
-                "2025-03-16T22:07:28.372135Z",
-                "2025-03-17T06:27:30.333092Z",
-                "2025-03-17T22:17:32.079608Z",
-                "2025-03-18T10:53:14.982754Z",
-                "2025-03-20T03:37:55.038693Z",
-                "2025-03-21T10:11:44.880562Z"
-            ]
-        },
-        {
-            "id": "aa096bc2bd0f2baee82657fce5793709",
-            "source": "nyt",
-            "text": "Video: Blood Moon Total Lunar Eclipse",
-            "source_link": "https://www.nytimes.com/2025/03/13/science/lunar-eclipse-blood-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:41:33.720215Z",
-            "shown_at": [
-                "2025-03-15T01:41:34.179649Z",
-                "2025-03-15T12:40:01.112629Z",
-                "2025-03-15T13:49:41.530356Z",
-                "2025-03-16T14:35:48.190604Z",
-                "2025-03-16T18:35:32.307827Z",
-                "2025-03-17T10:51:43.187940Z",
-                "2025-03-18T06:37:34.826683Z",
-                "2025-03-19T00:59:55.128247Z",
-                "2025-03-19T07:59:35.924916Z",
-                "2025-03-20T23:55:48.251078Z",
-                "2025-03-21T14:03:16.632282Z"
-            ]
-        },
-        {
-            "id": "0e58248d184a2d42506b063610d72049",
-            "source": "breaking_defense",
-            "text": "NRO, MDA pulled out of annual DC Satellite conference due to travel restrictions",
-            "source_link": "https://breakingdefense.com/2025/03/nro-mda-pulled-out-of-annual-dc-satellite-conference-due-to-travel-restrictions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:27:34.160245Z",
-            "shown_at": [
-                "2025-03-15T01:27:34.683275Z",
-                "2025-03-15T05:45:40.566466Z",
-                "2025-03-15T20:45:34.368521Z",
-                "2025-03-16T00:18:13.374872Z",
-                "2025-03-16T05:31:27.888276Z",
-                "2025-03-16T16:27:29.642217Z",
-                "2025-03-17T00:47:51.539270Z",
-                "2025-03-17T04:37:27.759147Z",
-                "2025-03-17T23:59:33.777213Z",
-                "2025-03-18T12:21:43.434495Z",
-                "2025-03-18T16:33:44.456126Z",
-                "2025-03-18T23:02:08.530146Z",
-                "2025-03-19T01:27:37.843614Z",
-                "2025-03-19T02:37:41.371549Z",
-                "2025-03-19T04:57:34.196121Z",
-                "2025-03-19T14:39:30.836609Z",
-                "2025-03-19T15:55:33.774768Z",
-                "2025-03-20T03:51:47.764836Z",
-                "2025-03-20T08:27:46.743995Z",
-                "2025-03-20T19:31:50.003553Z"
-            ]
-        },
-        {
-            "id": "dff32a2867a47349524647fef7bcf479",
-            "source": "aidy",
-            "text": "NASA Faces 25% Budget Cut, Threatening Key Science Missions and Future Projects",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-15T01:13:57.753971Z",
-            "shown_at": [
-                "2025-03-15T01:13:58.662646Z",
-                "2025-03-15T03:39:36.832716Z",
-                "2025-03-15T05:31:57.107088Z",
-                "2025-03-16T08:37:42.342257Z",
-                "2025-03-16T09:49:50.980405Z",
-                "2025-03-16T11:55:44.179236Z",
-                "2025-03-16T13:09:36.624880Z",
-                "2025-03-16T18:19:58.756267Z",
-                "2025-03-17T02:56:28.501388Z",
-                "2025-03-17T04:23:43.750800Z",
-                "2025-03-17T06:57:27.387862Z",
-                "2025-03-17T18:15:36.259870Z",
-                "2025-03-18T00:13:11.430814Z",
-                "2025-03-18T05:35:51.998593Z",
-                "2025-03-18T06:51:39.930449Z",
-                "2025-03-18T08:45:38.936428Z",
-                "2025-03-18T11:21:56.567906Z",
-                "2025-03-18T12:37:38.365478Z",
-                "2025-03-19T11:02:02.181618Z",
-                "2025-03-19T12:29:52.556395Z",
-                "2025-03-19T13:53:35.420000Z",
-                "2025-03-19T22:02:09.219240Z",
-                "2025-03-20T19:17:57.690224Z",
-                "2025-03-21T05:09:43.794664Z",
-                "2025-03-21T11:07:43.102030Z",
-                "2025-03-21T23:45:40.241174Z"
-            ]
-        },
-        {
-            "id": "54b7db14a39e8934a999f8618a8d5af2",
-            "source": "nyt",
-            "text": "SpaceX Launches NASA’s SPHEREx and PUNCH Missions",
-            "source_link": "https://www.nytimes.com/2025/03/11/science/spacex-nasa-spherex-punch-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:55:27.773876Z",
-            "shown_at": [
-                "2025-03-13T00:23:46.875441Z",
-                "2025-03-15T06:29:53.834773Z",
-                "2025-03-16T03:51:39.830646Z",
-                "2025-03-17T02:41:52.903113Z",
-                "2025-03-19T12:43:33.210607Z"
-            ]
-        },
-        {
-            "id": "d8fdcca59fd5a59e9c2e956100f6ba42",
-            "source": "nyt",
-            "text": "SpaceX Scrubs Launch of Crew-10 Astronauts for NASA to the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/03/12/science/nasa-spacex-astronauts-iss-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:55:27.773828Z",
-            "shown_at": [
-                "2025-03-12T23:55:28.260348Z",
-                "2025-03-15T20:01:59.546551Z",
-                "2025-03-16T05:03:31.011395Z",
-                "2025-03-17T19:53:26.957095Z"
-            ]
-        },
-        {
-            "id": "63d4183ec3a1990b6941250f35f3f1f9",
-            "source": "spacenews",
-            "text": "Falcon 9 launches NASA astrophysics and heliophysics missions",
-            "source_link": "https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001129Z",
-            "shown_at": [
-                "2025-03-13T00:09:45.954140Z",
-                "2025-03-16T13:37:50.276554Z",
-                "2025-03-18T18:17:35.359331Z"
-            ]
-        },
-        {
-            "id": "fd0f2f175e9eaaa338f5fa5d725ed2dc",
-            "source": "spacenews",
-            "text": "Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator",
-            "source_link": "https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001098Z",
-            "shown_at": [
-                "2025-03-13T00:37:34.159469Z"
-            ]
-        },
-        {
-            "id": "2eb8b91c3d3c34e762d7cbea1c4f61a1",
-            "source": "spacenews",
-            "text": "Intelsat secures first customer for communications system aimed at border security",
-            "source_link": "https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001067Z",
-            "shown_at": [
-                "2025-03-13T00:51:35.169918Z",
-                "2025-03-15T05:59:33.741157Z",
-                "2025-03-19T14:54:05.672966Z"
-            ]
-        },
-        {
-            "id": "0680a64ac8b9171b5402ea9ad08bf275",
-            "source": "spacenews",
-            "text": "China opens 2028 Mars sample return mission to international cooperation ",
-            "source_link": "https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-12T23:41:29.001036Z",
-            "shown_at": [
-                "2025-03-13T01:07:29.174209Z",
-                "2025-03-15T19:33:26.397080Z"
-            ]
-        },
-        {
-            "id": "ee016b5caf6f185178083448965c33f7",
-            "source": "spacenews",
-            "text": "Eutelsat plots digital upgrades for follow-on OneWeb satellites",
-            "source_link": "https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T08:07:25.462636Z",
-            "shown_at": [
-                "2025-05-14T08:07:26.074202Z",
-                "2025-05-14T14:27:36.814359Z"
-            ]
-        },
-        {
-            "id": "e30fb14463bbf94079b0c8c25d6ccc6b",
-            "source": "spacenews",
-            "text": "European banks help OroraTech raise more funds for wildfire-monitoring constellation",
-            "source_link": "https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T08:07:25.462690Z",
-            "shown_at": [
-                "2025-05-14T08:21:58.896243Z"
-            ]
-        },
-        {
-            "id": "413be58287cb157d1028f0b4f705cc6d",
-            "source": "spacenews",
-            "text": "Varda Space reentry capsule lands in Australia, completes hypersonic research mission",
-            "source_link": "https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T09:25:48.050556Z",
-            "shown_at": [
-                "2025-05-14T09:25:48.863586Z"
-            ]
-        },
-        {
-            "id": "6c07b139d7b2feed503db2669bf5a018",
-            "source": "spacenews",
-            "text": "Space-based solar power startups are banking on Starship’s success",
-            "source_link": "https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T11:03:32.924389Z",
-            "shown_at": [
-                "2025-05-14T11:03:33.533903Z"
-            ]
-        },
-        {
-            "id": "700cc6f50a37ff9fd2c2177a67e1a9f2",
-            "source": "spacenews",
-            "text": "Satellite industry continues modest revenue growth trends",
-            "source_link": "https://spacenews.com/satellite-industry-continues-modest-revenue-growth-trends/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T12:10:33.575919Z",
-            "shown_at": [
-                "2025-05-14T12:10:34.647471Z"
-            ]
-        },
-        {
-            "id": "ece501bc39098958356e2bf86f73559a",
-            "source": "spacenews",
-            "text": "Space cuisine and the foundation of new space culture",
-            "source_link": "https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T13:16:00.052925Z",
-            "shown_at": [
-                "2025-05-14T13:16:00.704139Z"
-            ]
-        },
-        {
-            "id": "7e91a203f1688327be89af1dbb94e308",
-            "source": "spacenews",
-            "text": "Big ideas need big rockets",
-            "source_link": "https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T13:16:00.053132Z",
-            "shown_at": [
-                "2025-05-14T13:30:01.413534Z"
-            ]
-        },
-        {
-            "id": "3cb1914f193c2c83b6b712d0936a94dd",
-            "source": "spacenews",
-            "text": "Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea",
-            "source_link": "https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T18:01:32.227923Z",
-            "shown_at": [
-                "2025-05-14T18:01:33.116974Z"
-            ]
-        },
-        {
-            "id": "53becb94e4c079c02ab8b8689cc39b52",
-            "source": "nyt",
-            "text": "NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow",
-            "source_link": "https://www.nytimes.com/2025/05/14/science/mars-aurora-northern-lights.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T18:17:47.002167Z",
-            "shown_at": [
-                "2025-05-14T18:17:47.661752Z"
-            ]
-        },
-        {
-            "id": "cf89951b6100e0e4689369699d253aa6",
-            "source": "nyt",
-            "text": "First Visible Aurora Spotted Over Mars by NASA Rover",
-            "source_link": "https://www.nytimes.com/2025/05/14/science/mars-aurora-northern-lights.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T18:33:31.501650Z",
-            "shown_at": [
-                "2025-05-14T18:33:32.072794Z",
-                "2025-05-14T19:29:44.516012Z"
-            ]
-        },
-        {
-            "id": "f03e2697c6bb67d0639f0e6bcc4334c2",
-            "source": "spacenews",
-            "text": "Kepler demonstrates space-to-ground optical links for proposed relay network ",
-            "source_link": "https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T20:13:59.018525Z",
-            "shown_at": [
-                "2025-05-14T20:13:59.878290Z",
-                "2025-05-14T22:05:27.485875Z"
-            ]
-        },
-        {
-            "id": "b7459c04e55b4105394c323745e57875",
-            "source": "supercluster",
-            "text": "China Will Launch the ZhuQue-2 Rocket",
-            "source_link": "https://www.supercluster.com/launches/zhuque-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-15T04:10:00.000Z",
-            "time_remaining": "0d 04h 24m",
-            "fetched_datetime": "2025-05-14T21:43:35.064796Z",
-            "shown_at": [
-                "2025-05-14T21:43:35.734357Z",
-                "2025-05-14T21:45:37.012573Z",
-                "2025-05-14T21:47:35.416298Z",
-                "2025-05-14T21:49:05.147754Z",
-                "2025-05-14T23:33:45.587933Z",
-                "2025-05-14T23:35:22.217015Z",
-                "2025-05-14T23:37:24.844450Z",
-                "2025-05-14T23:39:33.674086Z",
-                "2025-05-14T23:41:59.276651Z",
-                "2025-05-14T23:43:22.081143Z",
-                "2025-05-14T23:45:53.995112Z"
-            ]
-        },
-        {
-            "id": "a2da00d7b9f067174a663172a876d152",
-            "source": "spacenews",
-            "text": "Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia",
-            "source_link": "https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T22:33:41.657832Z",
-            "shown_at": [
-                "2025-05-14T22:33:42.848537Z"
-            ]
-        },
-        {
-            "id": "6d1480c8dce1a2d42417a0c8b3d2d5a0",
-            "source": "spacenews",
-            "text": "Rocket Lab to launch NASA astrophysics smallsat mission",
-            "source_link": "https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T22:47:15.896629Z",
-            "shown_at": [
-                "2025-05-14T22:47:17.179519Z"
-            ]
-        },
-        {
-            "id": "91b20d3b64931bb5452d92ab8a086a1d",
-            "source": "spacenews",
-            "text": "China launches first of 2,800 satellites for AI space computing constellation",
-            "source_link": "https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T23:02:15.698749Z",
-            "shown_at": [
-                "2025-05-14T23:02:16.684178Z"
-            ]
-        },
-        {
-            "id": "54c517151f13578081f212dd8cd6fd77",
-            "source": "spacenews",
-            "text": "Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding",
-            "source_link": "https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-14T23:19:24.407900Z",
-            "shown_at": [
-                "2025-05-14T23:19:24.718971Z"
             ]
         }
     ]
