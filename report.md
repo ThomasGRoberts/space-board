@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4160,3 +4160,4 @@
 - **May 15, 11:15 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
 - **May 15, 11:29 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 15, 11:43 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 15, 11:57 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
