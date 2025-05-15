@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 28 | 53 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 | nyt | 2 | 2 | 22 | 42 |
 | breaking_defense | 0 | 3 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4101,3 +4101,4 @@
 - **May 15, 12:45 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 15, 01:02 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 15, 01:15 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
+- **May 15, 01:29 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
