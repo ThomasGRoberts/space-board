@@ -4092,4 +4092,4 @@
 - **May 15, 03:39 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 04:07 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
-- **May 15, 04:33 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 15, 04:35 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
