@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 28 | 55 |
-| nyt | 2 | 2 | 22 | 44 |
+| nyt | 2 | 2 | 23 | 45 |
 | breaking_defense | 0 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 81 | 81 |
@@ -4210,3 +4210,4 @@
 - **May 15, 04:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 04:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 04:29 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 15, 04:43 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
