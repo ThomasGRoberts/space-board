@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 28 | 54 |
 | nyt | 2 | 2 | 22 | 43 |
-| breaking_defense | 0 | 3 | 20 | 42 |
+| breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -4096,3 +4096,4 @@
 - **May 15, 05:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 05:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 05:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 05:19 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
