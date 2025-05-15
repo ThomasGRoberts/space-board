@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 28 | 55 |
+| spacenews | 10 | 22 | 29 | 56 |
 | nyt | 2 | 2 | 23 | 44 |
-| breaking_defense | 0 | 3 | 22 | 44 |
+| breaking_defense | 0 | 3 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 67 | 67 |
 
@@ -4191,3 +4191,4 @@
 - **May 15, 02:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 02:32 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 15, 02:47 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 15, 03:02 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
