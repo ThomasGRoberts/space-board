@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "a2fffb2982275347f7182c68fc039a94",
     "data": [
         {
             "id": "54c517151f13578081f212dd8cd6fd77",
@@ -9651,6 +9651,27 @@
                 "2025-05-15T10:57:42.929823Z",
                 "2025-05-15T10:59:36.400681Z"
             ]
+        },
+        {
+            "id": "a2fffb2982275347f7182c68fc039a94",
+            "source": "spacenews",
+            "text": "How IM-2 payload operators made the most of the mission’s landing issues",
+            "source_link": "https://spacenews.com/how-im-2-payload-operators-made-the-most-of-the-missions-landing-issues/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-15T11:02:05.075921Z",
+            "shown_at": [
+                "2025-05-15T11:02:06.224074Z"
+            ]
+        },
+        {
+            "id": "a50d528f360beff5c977fe7f8c8f90f0",
+            "source": "spacenews",
+            "text": "Aschbacher calls on Europe to increase space spending",
+            "source_link": "https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-15T11:02:05.075976Z"
         }
     ]
 }
