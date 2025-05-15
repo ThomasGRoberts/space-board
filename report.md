@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 21 | 30 | 56 |
 | nyt | 0 | 2 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 43 |
+| breaking_defense | 0 | 0 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -4242,3 +4242,4 @@
 - **May 15, 07:17 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 15, 07:32 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 15, 07:47 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 15, 08:02 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
