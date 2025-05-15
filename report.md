@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 54 |
 | supercluster | 1 | 1 | 32 | 32 |
-| nyt | 2 | 2 | 22 | 42 |
+| nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4119,3 +4119,4 @@
 - **May 15, 02:37 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 02:39 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 02:41 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 15, 02:56 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
