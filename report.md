@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 29 | 55 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 1 | 1 | 22 | 43 |
+| breaking_defense | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4161,3 +4161,4 @@
 - **May 15, 10:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 10:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 10:37 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
