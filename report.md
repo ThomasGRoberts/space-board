@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 28 | 54 |
-| nyt | 2 | 2 | 22 | 44 |
+| nyt | 2 | 2 | 23 | 45 |
 | breaking_defense | 0 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
@@ -4200,3 +4200,4 @@
 - **May 15, 03:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 03:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 03:31 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 15, 03:45 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
