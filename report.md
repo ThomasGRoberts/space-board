@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 1 | 1 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4167,3 +4167,4 @@
 - **May 15, 11:21 PM** - Norway signs Artemis Accords (spacenews)
 - **May 15, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
