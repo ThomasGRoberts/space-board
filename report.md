@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 28 | 54 |
+| spacenews | 10 | 22 | 29 | 55 |
 | nyt | 2 | 2 | 23 | 44 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4181,3 +4181,4 @@
 - **May 15, 01:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 01:35 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 15, 01:49 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 15, 02:03 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
