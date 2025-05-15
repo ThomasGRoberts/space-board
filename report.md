@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -4129,3 +4129,4 @@
 - **May 15, 08:14 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 15, 08:27 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 08:41 AM** - NASA backtracks on VIPER commercial partnership (spacenews)
+- **May 15, 08:55 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
