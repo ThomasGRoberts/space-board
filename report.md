@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 44 |
 | breaking_defense | 0 | 3 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -4204,3 +4204,4 @@
 - **May 15, 03:59 PM** - Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development (spacenews)
 - **May 15, 04:15 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 04:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 04:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
