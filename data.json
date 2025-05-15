@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf069ea55231a1cf2ecf6422ba0ef713",
+    "trigger_count": 0,
+    "current_item_id": "b7459c04e55b4105394c323745e57875",
     "data": [
         {
             "id": "54c517151f13578081f212dd8cd6fd77",
@@ -9573,6 +9573,20 @@
             "fetched_datetime": "2025-03-15T14:45:27.247424Z",
             "shown_at": [
                 "2025-03-15T14:45:27.999440Z"
+            ]
+        },
+        {
+            "id": "b7459c04e55b4105394c323745e57875",
+            "source": "supercluster",
+            "text": "China Will Launch the ZhuQue-2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-15T04:10:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-05-15T04:21:47.196887Z",
+            "shown_at": [
+                "2025-05-15T04:21:48.214085Z"
             ]
         }
     ]
