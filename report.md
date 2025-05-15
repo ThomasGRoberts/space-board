@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 18 | 27 | 55 |
+| spacenews | 6 | 19 | 28 | 56 |
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4164,3 +4164,4 @@
 - **May 15, 10:37 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 15, 10:51 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 15, 11:05 PM** - Space agencies grapple with potential changes to Artemis (spacenews)
+- **May 15, 11:21 PM** - Norway signs Artemis Accords (spacenews)
