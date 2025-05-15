@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 30 | 55 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 1 | 1 | 22 | 43 |
+| breaking_defense | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4151,3 +4151,4 @@
 - **May 15, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 09:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 09:41 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
