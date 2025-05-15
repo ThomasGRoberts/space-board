@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -4149,3 +4149,4 @@
 - **May 15, 10:05 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 15, 10:19 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 15, 10:33 AM** - Beyond Golden Dome: why effective missile defense begins far left of launch (spacenews)
+- **May 15, 10:47 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
