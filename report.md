@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 28 | 53 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 | nyt | 2 | 2 | 22 | 41 |
 | breaking_defense | 0 | 3 | 20 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4097,3 +4097,4 @@
 - **May 15, 12:37 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 12:40 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 12:41 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 15, 12:43 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
