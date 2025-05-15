@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 29 | 55 |
+| spacenews | 9 | 20 | 30 | 56 |
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4259,3 +4259,4 @@
 - **May 15, 09:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 09:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 09:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 09:13 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
