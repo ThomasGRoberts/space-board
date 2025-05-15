@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4155,3 +4155,4 @@
 - **May 15, 09:55 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 15, 10:09 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 15, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
