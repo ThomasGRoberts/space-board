@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 23 | 45 |
 | breaking_defense | 0 | 3 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4212,3 +4212,4 @@
 - **May 15, 04:29 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 04:43 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 15, 04:57 PM** - Space agencies grapple with potential changes to Artemis (spacenews)
+- **May 15, 05:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
