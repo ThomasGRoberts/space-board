@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 44 |
 | breaking_defense | 0 | 3 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -4193,3 +4193,4 @@
 - **May 15, 02:47 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 15, 03:02 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 15, 03:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 03:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
