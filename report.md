@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 28 | 55 |
+| spacenews | 13 | 22 | 28 | 54 |
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4092,4 +4092,4 @@
 - **May 15, 03:39 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 04:07 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
-- **May 15, 05:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 15, 05:07 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
