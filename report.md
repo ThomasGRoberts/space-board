@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 29 | 55 |
-| nyt | 2 | 2 | 23 | 44 |
+| nyt | 2 | 2 | 24 | 45 |
 | breaking_defense | 0 | 2 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 88 | 88 |
@@ -4220,3 +4220,4 @@
 - **May 15, 05:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 05:24 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 05:25 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
+- **May 15, 05:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
