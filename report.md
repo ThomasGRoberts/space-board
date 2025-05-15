@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -4172,3 +4172,4 @@
 - **May 15, 12:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 12:53 PM** - Solestial banks $17 million and welcomes new CEO (spacenews)
 - **May 15, 01:07 PM** - Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development (spacenews)
+- **May 15, 01:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
