@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 29 | 55 |
-| nyt | 2 | 2 | 23 | 45 |
+| nyt | 2 | 2 | 22 | 44 |
 | breaking_defense | 0 | 3 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -4203,3 +4203,4 @@
 - **May 15, 03:45 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 03:59 PM** - Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development (spacenews)
 - **May 15, 04:15 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 04:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
