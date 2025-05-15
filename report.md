@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 44 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4183,3 +4183,4 @@
 - **May 15, 01:49 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 15, 02:03 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
 - **May 15, 02:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 02:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
