@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 54 |
 | supercluster | 1 | 1 | 39 | 39 |
-| nyt | 2 | 2 | 22 | 42 |
+| nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4129,3 +4129,4 @@
 - **May 15, 03:35 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 03:37 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 03:39 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
