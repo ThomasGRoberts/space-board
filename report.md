@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -4252,3 +4252,4 @@
 - **May 15, 08:15 PM** - Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority (spacenews)
 - **May 15, 08:32 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 15, 08:45 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 15, 09:00 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
