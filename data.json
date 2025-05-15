@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a2fffb2982275347f7182c68fc039a94",
+    "trigger_count": 0,
+    "current_item_id": "a50d528f360beff5c977fe7f8c8f90f0",
     "data": [
         {
             "id": "54c517151f13578081f212dd8cd6fd77",
@@ -9669,9 +9669,12 @@
             "source": "spacenews",
             "text": "Aschbacher calls on Europe to increase space spending",
             "source_link": "https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-15T11:02:05.075976Z"
+            "fetched_datetime": "2025-05-15T11:02:05.075976Z",
+            "shown_at": [
+                "2025-05-15T11:15:09.470879Z"
+            ]
         }
     ]
 }
