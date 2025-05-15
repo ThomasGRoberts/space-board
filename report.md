@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 27 | 54 |
+| spacenews | 13 | 22 | 28 | 55 |
 | nyt | 2 | 2 | 22 | 43 |
-| breaking_defense | 0 | 3 | 21 | 43 |
+| breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -4108,3 +4108,4 @@
 - **May 15, 06:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 06:17 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 15, 06:32 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 15, 06:47 AM** - Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side (spacenews)
