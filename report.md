@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 29 | 55 |
+| spacenews | 9 | 20 | 30 | 56 |
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4231,3 +4231,4 @@
 - **May 15, 06:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 06:21 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 06:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 15, 06:49 PM** - Space-based solar power startups are banking on Starship’s success (spacenews)
