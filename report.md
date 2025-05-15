@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 28 | 55 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -4162,3 +4162,4 @@
 - **May 15, 10:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 10:37 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 15, 10:51 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
