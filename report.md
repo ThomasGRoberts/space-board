@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 23 | 28 | 55 |
 | nyt | 2 | 2 | 22 | 42 |
-| breaking_defense | 0 | 3 | 21 | 42 |
+| breaking_defense | 0 | 3 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -4158,3 +4158,4 @@
 - **May 15, 10:59 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 11:02 AM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
 - **May 15, 11:15 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
+- **May 15, 11:29 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
