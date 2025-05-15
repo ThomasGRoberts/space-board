@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e1f390814052ca6bcf21009e94bc1d18",
+    "trigger_count": 0,
+    "current_item_id": "4284263e9f3e15ef02b56d71bc1fc9b9",
     "data": [
         {
             "id": "54c517151f13578081f212dd8cd6fd77",
@@ -9698,6 +9698,18 @@
             "fetched_datetime": "2025-05-15T12:53:46.977199Z",
             "shown_at": [
                 "2025-05-15T12:53:47.647173Z"
+            ]
+        },
+        {
+            "id": "4284263e9f3e15ef02b56d71bc1fc9b9",
+            "source": "spacenews",
+            "text": "Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development",
+            "source_link": "https://spacenews.com/accelerating-investment-in-the-final-frontier-leveraging-administrative-approvals-to-bolster-commercial-space-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-15T13:07:53.438972Z",
+            "shown_at": [
+                "2025-05-15T13:07:54.183102Z"
             ]
         }
     ]

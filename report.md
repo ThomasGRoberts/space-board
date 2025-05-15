@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 29 | 55 |
+| spacenews | 12 | 24 | 30 | 56 |
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4171,3 +4171,4 @@
 - **May 15, 12:25 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 15, 12:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 12:53 PM** - Solestial banks $17 million and welcomes new CEO (spacenews)
+- **May 15, 01:07 PM** - Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development (spacenews)
