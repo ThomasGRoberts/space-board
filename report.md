@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4140,3 +4140,4 @@
 - **May 15, 09:23 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 15, 09:37 AM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
 - **May 15, 09:51 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 09:53 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
