@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 53 |
 | supercluster | 1 | 1 | 11 | 11 |
-| nyt | 2 | 2 | 22 | 41 |
+| nyt | 2 | 2 | 23 | 42 |
 | breaking_defense | 0 | 3 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4089,3 +4089,4 @@
 - **May 14, 11:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 14, 11:45 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 14, 11:47 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 15, 12:03 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
