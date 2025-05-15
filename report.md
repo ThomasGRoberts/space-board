@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 30 | 55 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 1 | 1 | 22 | 44 |
+| breaking_defense | 1 | 1 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4156,3 +4156,4 @@
 - **May 15, 10:09 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 15, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 15, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 10:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
