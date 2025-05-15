@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4094,3 +4094,4 @@
 - **May 15, 04:07 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 15, 05:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 05:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 05:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
