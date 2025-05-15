@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 27 | 55 |
-| nyt | 2 | 2 | 23 | 43 |
+| spacenews | 10 | 22 | 27 | 54 |
+| nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 15, 09:37 AM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
 - **May 15, 09:51 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 09:53 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **May 15, 09:55 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
