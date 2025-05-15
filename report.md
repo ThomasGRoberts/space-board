@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 28 | 53 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 | nyt | 2 | 2 | 22 | 42 |
 | breaking_defense | 0 | 3 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4103,3 +4103,4 @@
 - **May 15, 01:15 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 15, 01:29 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 15, 01:31 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 15, 01:33 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
