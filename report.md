@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 28 | 54 |
-| supercluster | 1 | 1 | 33 | 33 |
-| nyt | 2 | 2 | 22 | 43 |
+| supercluster | 1 | 1 | 34 | 34 |
+| nyt | 2 | 2 | 22 | 42 |
 | breaking_defense | 0 | 3 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4122,3 +4122,4 @@
 - **May 15, 02:56 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 03:11 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 15, 03:25 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 15, 03:27 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
