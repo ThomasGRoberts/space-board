@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 27 | 54 |
+| spacenews | 13 | 22 | 28 | 55 |
 | nyt | 2 | 2 | 22 | 43 |
 | breaking_defense | 0 | 3 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4118,3 +4118,4 @@
 - **May 15, 07:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 07:17 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 07:32 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 15, 07:45 AM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
