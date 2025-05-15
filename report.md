@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4154,3 +4154,4 @@
 - **May 15, 09:41 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 09:55 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 15, 10:09 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
+- **May 15, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
