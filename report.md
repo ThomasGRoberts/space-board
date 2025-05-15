@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 26 | 54 |
+| spacenews | 10 | 22 | 27 | 55 |
 | nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 0 | 3 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4138,3 +4138,4 @@
 - **May 15, 09:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 09:10 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 09:23 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 15, 09:37 AM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
