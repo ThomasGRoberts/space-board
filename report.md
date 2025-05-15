@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 30 | 56 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 43 |
+| breaking_defense | 1 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 109 | 109 |
 
@@ -4250,3 +4250,4 @@
 - **May 15, 08:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 08:13 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 08:15 PM** - Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority (spacenews)
+- **May 15, 08:32 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)

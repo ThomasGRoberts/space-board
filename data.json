@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-15T00:02:07.644339+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8ae8e673d87d59509830e4787a2877f5",
+    "trigger_count": 0,
+    "current_item_id": "0992ec68cc6e0c90b51779191c4aeeae",
     "data": [
         {
             "id": "54c517151f13578081f212dd8cd6fd77",
@@ -9799,6 +9799,18 @@
             "fetched_datetime": "2025-05-15T19:17:44.188224Z",
             "shown_at": [
                 "2025-05-15T19:17:44.867705Z"
+            ]
+        },
+        {
+            "id": "0992ec68cc6e0c90b51779191c4aeeae",
+            "source": "breaking_defense",
+            "text": "Space Force testing space-based sensors to track airborne targets",
+            "source_link": "https://breakingdefense.com/2025/05/space-force-testing-space-based-sensors-to-track-airborne-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-15T20:32:02.427146Z",
+            "shown_at": [
+                "2025-05-15T20:32:03.081271Z"
             ]
         }
     ]
