@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 28 | 55 |
-| nyt | 2 | 2 | 22 | 43 |
-| breaking_defense | 0 | 3 | 21 | 42 |
+| nyt | 2 | 2 | 22 | 42 |
+| breaking_defense | 0 | 3 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -4168,3 +4168,4 @@
 - **May 15, 12:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 12:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 12:11 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
+- **May 15, 12:25 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
