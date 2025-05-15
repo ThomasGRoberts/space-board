@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 1 | 1 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 117 | 117 |
+| supercluster | 2 | 2 | 118 | 118 |
 
 # Shown Order
 
@@ -4261,3 +4261,4 @@
 - **May 15, 09:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **May 15, 09:13 PM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
 - **May 15, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 15, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
