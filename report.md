@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 28 | 56 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 | breaking_defense | 1 | 1 | 23 | 43 |
 | nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4121,3 +4121,4 @@
 - **May 15, 11:49 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 16, 12:05 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 12:19 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
+- **May 16, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
