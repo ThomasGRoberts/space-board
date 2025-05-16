@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 27 | 55 |
 | breaking_defense | 2 | 2 | 22 | 44 |
-| nyt | 1 | 3 | 21 | 44 |
+| nyt | 1 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4151,3 +4151,4 @@
 - **May 16, 03:37 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 03:39 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 03:41 PM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
+- **May 16, 03:55 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
