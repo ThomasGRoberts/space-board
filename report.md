@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 29 | 56 |
+| spacenews | 8 | 21 | 30 | 57 |
 | supercluster | 1 | 1 | 70 | 70 |
 | breaking_defense | 1 | 1 | 23 | 44 |
 | nyt | 0 | 2 | 24 | 46 |
@@ -4188,3 +4188,4 @@
 - **May 16, 06:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 06:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 06:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 06:32 AM** - Norway signs Artemis Accords (spacenews)
