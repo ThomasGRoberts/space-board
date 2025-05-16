@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4139,3 +4139,4 @@
 - **May 16, 12:03 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 16, 12:17 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 12:49 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 16, 02:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)

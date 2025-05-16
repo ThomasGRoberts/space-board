@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 5,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 6,
+    "current_item_id": "b7459c04e55b4105394c323745e57875",
     "data": [
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
@@ -9667,15 +9667,18 @@
             ]
         },
         {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "id": "b7459c04e55b4105394c323745e57875",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-5",
-            "shown": false,
+            "text": "China Will Launch the ZhuQue-2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-16T13:43:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-16T14:41:48.663175Z"
+            "target_datetime": "2025-05-17T04:15:00.000Z",
+            "time_remaining": "0d 13h 31m",
+            "fetched_datetime": "2025-05-16T14:43:36.140421Z",
+            "shown_at": [
+                "2025-05-16T14:43:36.757578Z"
+            ]
         }
     ]
 }
