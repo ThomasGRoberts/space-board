@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 26 | 56 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 43 | 43 |
 
@@ -4201,3 +4201,4 @@
 - **May 16, 08:25 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 08:27 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 08:29 PM** - Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority (spacenews)
+- **May 16, 08:43 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
