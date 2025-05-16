@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 26 | 56 |
+| spacenews | 7 | 16 | 26 | 55 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4213,3 +4213,4 @@
 - **May 16, 09:25 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 16, 09:39 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 09:53 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 16, 10:07 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
