@@ -5,7 +5,7 @@
 | spacenews | 9 | 20 | 30 | 57 |
 | supercluster | 1 | 1 | 84 | 84 |
 | breaking_defense | 1 | 1 | 24 | 45 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4211,3 +4211,4 @@
 - **May 16, 08:27 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 16, 08:41 AM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
 - **May 16, 08:55 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 16, 09:09 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
