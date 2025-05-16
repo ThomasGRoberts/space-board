@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -4185,3 +4185,4 @@
 - **May 16, 07:02 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 16, 07:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 07:19 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 07:21 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
