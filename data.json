@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 6,
-    "current_item_id": "603004373c6f099fd53e930dafa0f3c2",
+    "trigger_count": 0,
+    "current_item_id": "0b40c237842cc98a250b83aaeec49651",
     "data": [
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
@@ -9725,6 +9725,18 @@
             "fetched_datetime": "2025-05-16T04:35:26.988831Z",
             "shown_at": [
                 "2025-05-16T04:35:27.711934Z"
+            ]
+        },
+        {
+            "id": "0b40c237842cc98a250b83aaeec49651",
+            "source": "spacenews",
+            "text": "Virgin Galactic says production of new spaceplanes on track",
+            "source_link": "https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T08:41:30.279867Z",
+            "shown_at": [
+                "2025-05-16T08:41:31.043905Z"
             ]
         }
     ]

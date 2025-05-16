@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 30 | 56 |
+| spacenews | 9 | 20 | 31 | 57 |
 | supercluster | 1 | 1 | 84 | 84 |
 | breaking_defense | 1 | 1 | 23 | 44 |
 | nyt | 0 | 2 | 23 | 46 |
@@ -4209,3 +4209,4 @@
 - **May 16, 08:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 08:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 08:27 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
+- **May 16, 08:41 AM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
