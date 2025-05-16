@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 30 | 57 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | breaking_defense | 1 | 1 | 23 | 45 |
 | nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4212,3 +4212,4 @@
 - **May 16, 08:41 AM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
 - **May 16, 08:55 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 09:09 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 16, 09:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
