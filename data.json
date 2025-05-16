@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "924e376a357f7be6c1397b92187f6922",
     "data": [
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
@@ -9673,6 +9673,18 @@
             "fetched_datetime": "2025-05-16T02:57:25.538361Z",
             "shown_at": [
                 "2025-05-16T02:57:26.087886Z"
+            ]
+        },
+        {
+            "id": "924e376a357f7be6c1397b92187f6922",
+            "source": "spacenews",
+            "text": "Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds",
+            "source_link": "https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T04:35:26.988831Z",
+            "shown_at": [
+                "2025-05-16T04:35:27.711934Z"
             ]
         }
     ]

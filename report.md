@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 28 | 56 |
+| spacenews | 8 | 21 | 29 | 57 |
 | supercluster | 1 | 1 | 56 | 56 |
 | breaking_defense | 1 | 1 | 23 | 44 |
 | nyt | 0 | 2 | 23 | 45 |
@@ -4168,3 +4168,4 @@
 - **May 16, 04:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 04:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 04:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 04:35 AM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
