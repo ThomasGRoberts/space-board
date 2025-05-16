@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 27 | 56 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4181,3 +4181,4 @@
 - **May 16, 06:29 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 06:32 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 06:33 PM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
+- **May 16, 06:47 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
