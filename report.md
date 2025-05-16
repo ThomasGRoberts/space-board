@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -4214,3 +4214,4 @@
 - **May 16, 09:39 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 09:53 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 16, 10:07 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 10:09 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
