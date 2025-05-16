@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 25 | 55 |
+| spacenews | 7 | 16 | 26 | 56 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 57 | 57 |
 
@@ -4220,3 +4220,4 @@
 - **May 16, 10:15 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 10:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 10:19 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 10:21 PM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
