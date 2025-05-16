@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 55 |
-| breaking_defense | 2 | 2 | 22 | 43 |
+| breaking_defense | 2 | 2 | 23 | 44 |
 | nyt | 1 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -4152,3 +4152,4 @@
 - **May 16, 03:39 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 03:41 PM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
 - **May 16, 03:55 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 16, 04:09 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
