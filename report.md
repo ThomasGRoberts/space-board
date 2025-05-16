@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 26 | 55 |
+| spacenews | 8 | 17 | 27 | 56 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4180,3 +4180,4 @@
 - **May 16, 06:27 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 06:29 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 06:32 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 06:33 PM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
