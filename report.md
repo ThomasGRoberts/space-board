@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 64 | 64 |
@@ -4232,3 +4232,4 @@
 - **May 16, 11:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 11:19 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 16, 11:33 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 16, 11:47 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
