@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 26 | 55 |
 | breaking_defense | 2 | 2 | 23 | 45 |
-| nyt | 1 | 3 | 22 | 46 |
+| nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4174,3 +4174,4 @@
 - **May 16, 05:49 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 16, 06:03 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 16, 06:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 06:19 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
