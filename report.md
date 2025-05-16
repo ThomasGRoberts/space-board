@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -4195,3 +4195,4 @@
 - **May 16, 07:59 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 16, 08:15 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 08:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 08:19 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
