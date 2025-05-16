@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 30 | 57 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 | breaking_defense | 1 | 1 | 23 | 45 |
-| nyt | 0 | 2 | 24 | 46 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4213,3 +4213,4 @@
 - **May 16, 08:55 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 09:09 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 09:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
