@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 29 | 57 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | breaking_defense | 1 | 1 | 23 | 45 |
 | nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4244,3 +4244,4 @@
 - **May 16, 12:03 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 16, 12:17 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 12:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
