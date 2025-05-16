@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 30 | 57 |
-| supercluster | 1 | 1 | 92 | 92 |
+| spacenews | 9 | 19 | 30 | 56 |
+| supercluster | 1 | 1 | 93 | 93 |
 | breaking_defense | 1 | 1 | 23 | 45 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4223,3 +4223,4 @@
 - **May 16, 09:53 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 16, 10:07 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 16, 10:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 10:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
