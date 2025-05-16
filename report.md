@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 27 | 55 |
 | breaking_defense | 1 | 1 | 22 | 44 |
-| nyt | 0 | 2 | 21 | 44 |
+| nyt | 1 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4141,3 +4141,4 @@
 - **May 16, 12:49 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 02:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 02:45 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
+- **May 16, 02:59 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
