@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -4191,3 +4191,4 @@
 - **May 16, 07:27 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 07:29 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 07:32 PM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
+- **May 16, 07:45 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
