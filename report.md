@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 25 | 53 |
+| spacenews | 7 | 12 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4230,3 +4230,4 @@
 - **May 16, 11:13 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 11:15 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 11:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 11:19 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
