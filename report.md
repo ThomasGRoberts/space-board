@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 26 | 56 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 50 | 50 |
 
@@ -4211,3 +4211,4 @@
 - **May 16, 09:21 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 09:23 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 09:25 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
+- **May 16, 09:39 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
