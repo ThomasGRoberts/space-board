@@ -5,7 +5,7 @@
 | spacenews | 7 | 20 | 29 | 56 |
 | supercluster | 1 | 1 | 42 | 42 |
 | breaking_defense | 1 | 1 | 23 | 44 |
-| nyt | 0 | 2 | 22 | 44 |
+| nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4150,3 +4150,4 @@
 - **May 16, 02:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 02:43 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 16, 02:57 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
+- **May 16, 03:11 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
