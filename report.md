@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 3 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4173,3 +4173,4 @@
 - **May 16, 05:35 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 16, 05:49 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 16, 06:03 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 16, 06:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
