@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 29 | 57 |
 | supercluster | 1 | 1 | 105 | 105 |
 | breaking_defense | 1 | 1 | 24 | 45 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4242,3 +4242,4 @@
 - **May 16, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 11:49 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 16, 12:03 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
+- **May 16, 12:17 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
