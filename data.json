@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7459c04e55b4105394c323745e57875",
+    "trigger_count": 0,
+    "current_item_id": "594d907ad49e0d18f20d44551ca98fb9",
     "data": [
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
@@ -9678,6 +9678,18 @@
             "fetched_datetime": "2025-05-16T14:43:36.140421Z",
             "shown_at": [
                 "2025-05-16T14:43:36.757578Z"
+            ]
+        },
+        {
+            "id": "594d907ad49e0d18f20d44551ca98fb9",
+            "source": "spacenews",
+            "text": "SES to demonstrate ‘satellite orchestration’ tech for military communications",
+            "source_link": "https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T14:45:23.861705Z",
+            "shown_at": [
+                "2025-05-16T14:45:24.658264Z"
             ]
         }
     ]

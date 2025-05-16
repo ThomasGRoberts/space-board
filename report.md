@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 26 | 54 |
+| spacenews | 7 | 17 | 27 | 55 |
 | breaking_defense | 1 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4140,3 +4140,4 @@
 - **May 16, 12:17 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 16, 12:49 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 02:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 02:45 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
