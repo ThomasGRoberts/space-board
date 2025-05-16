@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 26 | 54 |
+| spacenews | 7 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4223,3 +4223,4 @@
 - **May 16, 10:21 PM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
 - **May 16, 10:35 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 16, 10:49 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 16, 11:05 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
