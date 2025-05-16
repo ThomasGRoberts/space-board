@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 28 | 56 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 | breaking_defense | 1 | 1 | 23 | 43 |
 | nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4123,3 +4123,4 @@
 - **May 16, 12:19 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
 - **May 16, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 12:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
