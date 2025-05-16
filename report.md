@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 28 | 56 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 | breaking_defense | 1 | 1 | 23 | 43 |
 | nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4152,3 +4152,4 @@
 - **May 16, 02:57 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
 - **May 16, 03:11 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 16, 03:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 03:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
