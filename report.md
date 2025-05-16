@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 26 | 55 |
+| spacenews | 7 | 16 | 25 | 55 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -4204,3 +4204,4 @@
 - **May 16, 08:43 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 16, 08:57 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 16, 09:11 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 09:13 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
