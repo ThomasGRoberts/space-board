@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 25 | 55 |
+| spacenews | 7 | 16 | 26 | 56 |
 | breaking_defense | 2 | 2 | 23 | 45 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 43 | 43 |
 
@@ -4200,3 +4200,4 @@
 - **May 16, 08:23 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 08:25 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 08:27 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 08:29 PM** - Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority (spacenews)
