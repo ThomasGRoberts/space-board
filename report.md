@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 29 | 56 |
+| spacenews | 9 | 19 | 30 | 57 |
 | supercluster | 1 | 1 | 91 | 91 |
 | breaking_defense | 1 | 1 | 23 | 45 |
 | nyt | 0 | 2 | 23 | 46 |
@@ -4219,3 +4219,4 @@
 - **May 16, 09:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 09:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 16, 09:39 AM** - Solestial banks $17 million and welcomes new CEO (spacenews)
