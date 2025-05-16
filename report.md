@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 29 | 57 |
-| supercluster | 1 | 1 | 98 | 98 |
-| breaking_defense | 1 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 99 | 99 |
+| breaking_defense | 1 | 1 | 23 | 44 |
 | nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4233,3 +4233,4 @@
 - **May 16, 10:51 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 16, 11:07 AM** - Beyond launch: SpaceX’s expanding role in U.S. defense (spacenews)
 - **May 16, 11:21 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 16, 11:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
