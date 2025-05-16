@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 44 |
 | nyt | 1 | 3 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4155,3 +4155,4 @@
 - **May 16, 04:09 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 16, 04:23 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 04:25 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 04:27 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
