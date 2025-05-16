@@ -5,7 +5,7 @@
 | spacenews | 6 | 19 | 28 | 55 |
 | supercluster | 1 | 1 | 35 | 35 |
 | breaking_defense | 1 | 1 | 23 | 44 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4139,3 +4139,4 @@
 - **May 16, 01:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 01:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 01:47 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 16, 02:02 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
