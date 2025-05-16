@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 54 |
+| spacenews | 7 | 17 | 27 | 55 |
 | breaking_defense | 2 | 2 | 22 | 44 |
 | nyt | 1 | 3 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4150,3 +4150,4 @@
 - **May 16, 03:35 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 03:37 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 03:39 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 16, 03:41 PM** - China adds to classified TJS, Yaogan satellite series with two launches (spacenews)
