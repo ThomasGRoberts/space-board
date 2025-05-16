@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 26 | 56 |
+| spacenews | 8 | 17 | 26 | 55 |
 | breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4183,3 +4183,4 @@
 - **May 16, 06:33 PM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
 - **May 16, 06:47 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 16, 07:02 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 16, 07:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
