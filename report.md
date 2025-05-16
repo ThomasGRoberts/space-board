@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 55 |
-| breaking_defense | 2 | 2 | 22 | 44 |
+| breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
@@ -4162,3 +4162,4 @@
 - **May 16, 04:35 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 16, 04:37 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 16, 04:51 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 16, 05:07 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
