@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 29 | 56 |
+| spacenews | 7 | 20 | 28 | 56 |
 | supercluster | 1 | 1 | 49 | 49 |
 | breaking_defense | 1 | 1 | 23 | 44 |
-| nyt | 0 | 2 | 22 | 44 |
+| nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4160,3 +4160,4 @@
 - **May 16, 03:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 03:39 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 16, 03:53 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
+- **May 16, 04:07 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
