@@ -5,7 +5,7 @@
 | spacenews | 8 | 19 | 29 | 57 |
 | supercluster | 1 | 1 | 98 | 98 |
 | breaking_defense | 1 | 1 | 24 | 45 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4232,3 +4232,4 @@
 - **May 16, 10:37 AM** - Pentagon taps more firms to build commercial-military satellite network (spacenews)
 - **May 16, 10:51 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 16, 11:07 AM** - Beyond launch: SpaceX’s expanding role in U.S. defense (spacenews)
+- **May 16, 11:21 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
