@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b76805a4a24bb648430af3a479014fe",
+    "trigger_count": 0,
+    "current_item_id": "5d4560029aa78723ff2f001ce315c20c",
     "data": [
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
@@ -9643,6 +9643,18 @@
                 "2025-03-21T07:06:46.770839Z",
                 "2025-03-21T21:53:37.605414Z",
                 "2025-03-23T15:49:34.219158Z"
+            ]
+        },
+        {
+            "id": "5d4560029aa78723ff2f001ce315c20c",
+            "source": "spacenews",
+            "text": "House hearing on asteroid threats also takes up budget threats",
+            "source_link": "https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T02:57:25.538361Z",
+            "shown_at": [
+                "2025-05-16T02:57:26.087886Z"
             ]
         }
     ]

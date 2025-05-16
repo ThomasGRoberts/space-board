@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 28 | 55 |
+| spacenews | 7 | 20 | 29 | 56 |
 | supercluster | 1 | 1 | 42 | 42 |
 | breaking_defense | 1 | 1 | 23 | 44 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4149,3 +4149,4 @@
 - **May 16, 02:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 02:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 16, 02:43 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 16, 02:57 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
