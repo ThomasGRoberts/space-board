@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 22 | 52 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4129,4 +4129,4 @@
 - **May 17, 07:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 07:45 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 17, 08:13 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 17, 08:53 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **May 17, 08:55 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
