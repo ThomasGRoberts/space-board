@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -4249,3 +4249,4 @@
 - **May 17, 08:19 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 17, 08:33 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 17, 08:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
