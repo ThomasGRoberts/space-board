@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 24 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| nyt | 1 | 1 | 23 | 45 |
+| nyt | 1 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 40 | 40 |
 
@@ -4186,3 +4186,4 @@
 - **May 17, 02:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 02:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 02:25 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 17, 02:39 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
