@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 44 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4130,3 +4130,4 @@
 - **May 17, 07:45 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 17, 08:13 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 17, 09:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 09:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
