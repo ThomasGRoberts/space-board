@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 80 | 80 |
+| nyt | 1 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 81 | 81 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4192,3 +4192,4 @@
 - **May 17, 01:41 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 17, 01:55 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 01:57 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 01:59 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
