@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-17T00:02:10.140325+00:00",
-    "trigger_count": 4,
-    "current_item_id": "b7459c04e55b4105394c323745e57875",
+    "trigger_count": 5,
+    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
     "data": [
         {
             "id": "abd7486501b6797516fb8d605cac115d",
@@ -9603,17 +9603,17 @@
             ]
         },
         {
-            "id": "b7459c04e55b4105394c323745e57875",
+            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
             "source": "supercluster",
-            "text": "China Will Launch the ZhuQue-2 Rocket",
-            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
+            "source_link": "https://www.supercluster.com/launches/the-sea-god-sees",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-17T04:15:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-17T05:13:46.532516Z",
+            "target_datetime": "2025-05-17T08:15:00.000Z",
+            "time_remaining": "0d 02h 59m",
+            "fetched_datetime": "2025-05-17T05:15:26.187031Z",
             "shown_at": [
-                "2025-05-17T05:13:47.199019Z"
+                "2025-05-17T05:15:26.855690Z"
             ]
         }
     ]
