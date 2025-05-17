@@ -1,9 +1,187 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-16T00:02:14.549649+00:00",
-    "trigger_count": 6,
-    "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
+    "last_run_datetime": "2025-05-17T00:02:10.140325+00:00",
+    "trigger_count": 0,
+    "current_item_id": "b7459c04e55b4105394c323745e57875",
     "data": [
+        {
+            "id": "abd7486501b6797516fb8d605cac115d",
+            "source": "spacenews",
+            "text": "FAA license update brings SpaceX closer to next Starship launch",
+            "source_link": "https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T17:35:12.533709Z",
+            "shown_at": [
+                "2025-05-16T17:35:13.279884Z"
+            ]
+        },
+        {
+            "id": "dde87825458b2e9b2bdcf4075a289b00",
+            "source": "breaking_defense",
+            "text": "Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget",
+            "source_link": "https://breakingdefense.com/2025/05/lawmakers-fret-over-rumor-of-white-house-cuts-to-nro-commercial-imagery-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T15:13:58.459957Z",
+            "shown_at": [
+                "2025-05-16T15:13:59.947589Z",
+                "2025-05-16T19:59:36.089723Z"
+            ]
+        },
+        {
+            "id": "0fc919d3b1ba63cf16ec57257726d5e0",
+            "source": "nyt",
+            "text": "Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95",
+            "source_link": "https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T14:59:33.782767Z",
+            "shown_at": [
+                "2025-05-16T14:59:34.593044Z",
+                "2025-05-16T17:49:39.345427Z",
+                "2025-05-16T22:35:27.231977Z",
+                "2025-05-16T23:33:48.282830Z"
+            ]
+        },
+        {
+            "id": "594d907ad49e0d18f20d44551ca98fb9",
+            "source": "spacenews",
+            "text": "SES to demonstrate ‘satellite orchestration’ tech for military communications",
+            "source_link": "https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T14:45:23.861705Z",
+            "shown_at": [
+                "2025-05-16T14:45:24.658264Z"
+            ]
+        },
+        {
+            "id": "b7459c04e55b4105394c323745e57875",
+            "source": "supercluster",
+            "text": "China Will Launch the ZhuQue-2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/zhuque-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-17T04:15:00.000Z",
+            "time_remaining": "0d 04h 57m",
+            "fetched_datetime": "2025-05-16T14:43:36.140421Z",
+            "shown_at": [
+                "2025-05-16T14:43:36.757578Z",
+                "2025-05-16T15:27:37.750028Z",
+                "2025-05-16T15:29:35.381317Z",
+                "2025-05-16T15:31:45.626037Z",
+                "2025-05-16T15:33:27.550661Z",
+                "2025-05-16T15:35:29.681974Z",
+                "2025-05-16T15:37:26.561533Z",
+                "2025-05-16T15:39:51.715518Z",
+                "2025-05-16T16:23:34.226791Z",
+                "2025-05-16T16:25:41.622953Z",
+                "2025-05-16T16:27:35.068444Z",
+                "2025-05-16T16:29:25.686994Z",
+                "2025-05-16T16:32:00.223413Z",
+                "2025-05-16T16:33:32.841046Z",
+                "2025-05-16T16:35:38.132483Z",
+                "2025-05-16T17:21:41.460200Z",
+                "2025-05-16T17:23:57.434797Z",
+                "2025-05-16T17:25:19.477494Z",
+                "2025-05-16T17:27:42.070813Z",
+                "2025-05-16T17:29:47.814587Z",
+                "2025-05-16T17:31:48.768310Z",
+                "2025-05-16T17:33:35.795243Z",
+                "2025-05-16T18:17:37.287430Z",
+                "2025-05-16T18:19:39.860557Z",
+                "2025-05-16T18:21:43.822362Z",
+                "2025-05-16T18:24:11.457734Z",
+                "2025-05-16T18:27:36.773672Z",
+                "2025-05-16T18:29:27.130196Z",
+                "2025-05-16T18:32:00.512463Z",
+                "2025-05-16T19:17:38.661920Z",
+                "2025-05-16T19:19:23.359241Z",
+                "2025-05-16T19:21:15.804562Z",
+                "2025-05-16T19:23:27.260197Z",
+                "2025-05-16T19:25:44.584403Z",
+                "2025-05-16T19:27:31.691223Z",
+                "2025-05-16T19:29:21.177513Z",
+                "2025-05-16T20:15:57.753973Z",
+                "2025-05-16T20:17:42.672631Z",
+                "2025-05-16T20:19:25.235634Z",
+                "2025-05-16T20:21:40.879301Z",
+                "2025-05-16T20:23:24.063230Z",
+                "2025-05-16T20:25:32.276156Z",
+                "2025-05-16T20:27:42.348682Z",
+                "2025-05-16T21:11:40.551243Z",
+                "2025-05-16T21:13:52.519190Z",
+                "2025-05-16T21:15:35.442761Z",
+                "2025-05-16T21:17:26.243938Z",
+                "2025-05-16T21:19:28.947060Z",
+                "2025-05-16T21:21:37.097242Z",
+                "2025-05-16T21:23:36.445058Z",
+                "2025-05-16T22:07:33.587227Z",
+                "2025-05-16T22:09:33.568078Z",
+                "2025-05-16T22:11:43.816935Z",
+                "2025-05-16T22:13:40.194562Z",
+                "2025-05-16T22:15:34.640211Z",
+                "2025-05-16T22:17:24.771956Z",
+                "2025-05-16T22:19:30.283573Z",
+                "2025-05-16T23:05:07.922388Z",
+                "2025-05-16T23:07:25.561243Z",
+                "2025-05-16T23:09:42.180686Z",
+                "2025-05-16T23:11:28.190066Z",
+                "2025-05-16T23:13:33.922177Z",
+                "2025-05-16T23:15:26.064165Z",
+                "2025-05-16T23:17:47.174881Z",
+                "2025-05-17T00:02:14.886047Z"
+            ]
+        },
+        {
+            "id": "2be66dad8753067733c56194813ede6b",
+            "source": "spacenews",
+            "text": "Beyond launch: SpaceX’s expanding role in U.S. defense",
+            "source_link": "https://spacenews.com/spacexs-expanding-role-in-u-s-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T11:07:31.375360Z",
+            "shown_at": [
+                "2025-05-16T11:07:32.037574Z"
+            ]
+        },
+        {
+            "id": "0b40c237842cc98a250b83aaeec49651",
+            "source": "spacenews",
+            "text": "Virgin Galactic says production of new spaceplanes on track",
+            "source_link": "https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T08:41:30.279867Z",
+            "shown_at": [
+                "2025-05-16T08:41:31.043905Z"
+            ]
+        },
+        {
+            "id": "924e376a357f7be6c1397b92187f6922",
+            "source": "spacenews",
+            "text": "Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds",
+            "source_link": "https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T04:35:26.988831Z",
+            "shown_at": [
+                "2025-05-16T04:35:27.711934Z"
+            ]
+        },
+        {
+            "id": "5d4560029aa78723ff2f001ce315c20c",
+            "source": "spacenews",
+            "text": "House hearing on asteroid threats also takes up budget threats",
+            "source_link": "https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-16T02:57:25.538361Z",
+            "shown_at": [
+                "2025-05-16T02:57:26.087886Z"
+            ]
+        },
         {
             "id": "26e6c5e51ca05818f6b3cf6f1d2116f2",
             "source": "spacenews",
@@ -9487,334 +9665,6 @@
                 "2025-03-17T17:43:36.207984Z",
                 "2025-03-18T17:01:57.990550Z",
                 "2025-03-23T18:09:32.017730Z"
-            ]
-        },
-        {
-            "id": "2ff10968d8fb4819ea78b5a94ea6f957",
-            "source": "breaking_defense",
-            "text": "Space supply chain gaps: Propulsion, hardened electronics and laser links",
-            "source_link": "https://breakingdefense.com/2025/03/space-supply-chain-gaps-propulsion-hardened-electronics-and-laser-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T16:17:34.843365Z",
-            "shown_at": [
-                "2025-03-17T16:17:35.526846Z",
-                "2025-03-17T18:57:15.024306Z",
-                "2025-03-18T06:05:37.337422Z",
-                "2025-03-18T09:43:46.616961Z",
-                "2025-03-18T11:07:52.196818Z",
-                "2025-03-19T07:17:39.326083Z",
-                "2025-03-19T09:37:27.146527Z",
-                "2025-03-20T17:09:48.989907Z",
-                "2025-03-21T01:42:00.135442Z",
-                "2025-03-21T14:31:46.068549Z",
-                "2025-03-21T15:43:27.133326Z",
-                "2025-03-22T00:57:37.972227Z",
-                "2025-03-22T04:29:09.628290Z",
-                "2025-03-22T21:29:45.963446Z",
-                "2025-03-23T09:31:48.146689Z",
-                "2025-03-23T10:41:50.576413Z",
-                "2025-03-24T00:49:46.828096Z",
-                "2025-03-24T07:03:34.269456Z",
-                "2025-03-24T08:28:05.451323Z",
-                "2025-03-24T12:47:33.732282Z"
-            ]
-        },
-        {
-            "id": "f5ddac627c3c9bcd88dd484c83fe8be6",
-            "source": "spacenews",
-            "text": "Firefly Aerospace wraps up successful Blue Ghost 1 mission",
-            "source_link": "https://spacenews.com/firefly-aerospace-wraps-up-successful-blue-ghost-1-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T15:47:12.274735Z",
-            "shown_at": [
-                "2025-03-17T15:47:13.004280Z",
-                "2025-03-18T08:17:57.047060Z",
-                "2025-03-20T02:53:32.933352Z",
-                "2025-03-20T04:05:54.865653Z",
-                "2025-03-22T19:47:28.495587Z"
-            ]
-        },
-        {
-            "id": "c324960b4cf94063c4d4172632161fa5",
-            "source": "spacenews",
-            "text": "Ceres-1 rocket launches 8 Chinese commercial satellites",
-            "source_link": "https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T13:33:32.131972Z",
-            "shown_at": [
-                "2025-03-17T13:33:32.707107Z",
-                "2025-03-17T14:47:37.715594Z",
-                "2025-03-21T09:42:10.232589Z",
-                "2025-03-23T04:07:44.831363Z",
-                "2025-03-23T08:47:46.574080Z"
-            ]
-        },
-        {
-            "id": "896b54faf739bd7e03d8750950655594",
-            "source": "spacenews",
-            "text": "Apollo left footprints — Mars must leave a legacy",
-            "source_link": "https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T13:05:43.850687Z",
-            "shown_at": [
-                "2025-03-17T13:05:44.424350Z",
-                "2025-03-19T10:05:39.716253Z",
-                "2025-03-22T01:39:42.603603Z",
-                "2025-03-22T18:34:33.821131Z"
-            ]
-        },
-        {
-            "id": "95c11148b5b97d73244509f2b30053f9",
-            "source": "spacenews",
-            "text": "NASA gets extension to submit layoff plans",
-            "source_link": "https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T10:37:30.377924Z",
-            "shown_at": [
-                "2025-03-17T10:37:31.000963Z"
-            ]
-        },
-        {
-            "id": "2c6062bf8002a4d4ed36efc208ac6c2f",
-            "source": "aidy",
-            "text": "SpaceX Crew-10 Launch Delayed to March 21 Due to Hydraulic Issue",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T07:43:49.436111Z",
-            "shown_at": [
-                "2025-03-17T07:43:50.526859Z",
-                "2025-03-17T16:32:13.985189Z",
-                "2025-03-18T02:49:29.518354Z",
-                "2025-03-18T21:51:42.884938Z",
-                "2025-03-19T08:41:54.874669Z",
-                "2025-03-20T05:44:12.107464Z",
-                "2025-03-20T08:43:39.904862Z",
-                "2025-03-20T09:55:34.183177Z",
-                "2025-03-20T12:49:37.298540Z",
-                "2025-03-20T15:43:35.921194Z",
-                "2025-03-20T16:55:57.588196Z",
-                "2025-03-21T09:57:37.890588Z",
-                "2025-03-21T13:33:36.415350Z",
-                "2025-03-22T09:59:38.590948Z",
-                "2025-03-22T12:25:45.999492Z",
-                "2025-03-23T00:21:46.229748Z",
-                "2025-03-23T11:12:02.380378Z",
-                "2025-03-23T17:55:39.006192Z",
-                "2025-03-23T22:39:42.220231Z",
-                "2025-03-24T06:21:47.560506Z"
-            ]
-        },
-        {
-            "id": "07d066dd4e9f6b4e5199381bf8b98ccb",
-            "source": "spacenews",
-            "text": "Constellr releases  first-light imagery of Tokyo",
-            "source_link": "https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T07:13:32.057794Z",
-            "shown_at": [
-                "2025-03-17T07:13:32.666109Z",
-                "2025-03-18T14:21:38.765249Z",
-                "2025-03-19T02:09:46.628364Z",
-                "2025-03-23T07:37:41.279404Z"
-            ]
-        },
-        {
-            "id": "b0839e908dd83aaabf392290d0b5b453",
-            "source": "spacenews",
-            "text": "Space National Guard debate reignited with bipartisan legislation",
-            "source_link": "https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T04:09:26.857403Z",
-            "shown_at": [
-                "2025-03-17T04:09:27.403267Z",
-                "2025-03-21T07:06:46.770839Z",
-                "2025-03-21T21:53:37.605414Z",
-                "2025-03-23T15:49:34.219158Z"
-            ]
-        },
-        {
-            "id": "5d4560029aa78723ff2f001ce315c20c",
-            "source": "spacenews",
-            "text": "House hearing on asteroid threats also takes up budget threats",
-            "source_link": "https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T02:57:25.538361Z",
-            "shown_at": [
-                "2025-05-16T02:57:26.087886Z"
-            ]
-        },
-        {
-            "id": "924e376a357f7be6c1397b92187f6922",
-            "source": "spacenews",
-            "text": "Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds",
-            "source_link": "https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T04:35:26.988831Z",
-            "shown_at": [
-                "2025-05-16T04:35:27.711934Z"
-            ]
-        },
-        {
-            "id": "0b40c237842cc98a250b83aaeec49651",
-            "source": "spacenews",
-            "text": "Virgin Galactic says production of new spaceplanes on track",
-            "source_link": "https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T08:41:30.279867Z",
-            "shown_at": [
-                "2025-05-16T08:41:31.043905Z"
-            ]
-        },
-        {
-            "id": "2be66dad8753067733c56194813ede6b",
-            "source": "spacenews",
-            "text": "Beyond launch: SpaceX’s expanding role in U.S. defense",
-            "source_link": "https://spacenews.com/spacexs-expanding-role-in-u-s-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T11:07:31.375360Z",
-            "shown_at": [
-                "2025-05-16T11:07:32.037574Z"
-            ]
-        },
-        {
-            "id": "b7459c04e55b4105394c323745e57875",
-            "source": "supercluster",
-            "text": "China Will Launch the ZhuQue-2 Rocket",
-            "source_link": "https://www.supercluster.com/launches/zhuque-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-17T04:15:00.000Z",
-            "time_remaining": "0d 04h 57m",
-            "fetched_datetime": "2025-05-16T14:43:36.140421Z",
-            "shown_at": [
-                "2025-05-16T14:43:36.757578Z",
-                "2025-05-16T15:27:37.750028Z",
-                "2025-05-16T15:29:35.381317Z",
-                "2025-05-16T15:31:45.626037Z",
-                "2025-05-16T15:33:27.550661Z",
-                "2025-05-16T15:35:29.681974Z",
-                "2025-05-16T15:37:26.561533Z",
-                "2025-05-16T15:39:51.715518Z",
-                "2025-05-16T16:23:34.226791Z",
-                "2025-05-16T16:25:41.622953Z",
-                "2025-05-16T16:27:35.068444Z",
-                "2025-05-16T16:29:25.686994Z",
-                "2025-05-16T16:32:00.223413Z",
-                "2025-05-16T16:33:32.841046Z",
-                "2025-05-16T16:35:38.132483Z",
-                "2025-05-16T17:21:41.460200Z",
-                "2025-05-16T17:23:57.434797Z",
-                "2025-05-16T17:25:19.477494Z",
-                "2025-05-16T17:27:42.070813Z",
-                "2025-05-16T17:29:47.814587Z",
-                "2025-05-16T17:31:48.768310Z",
-                "2025-05-16T17:33:35.795243Z",
-                "2025-05-16T18:17:37.287430Z",
-                "2025-05-16T18:19:39.860557Z",
-                "2025-05-16T18:21:43.822362Z",
-                "2025-05-16T18:24:11.457734Z",
-                "2025-05-16T18:27:36.773672Z",
-                "2025-05-16T18:29:27.130196Z",
-                "2025-05-16T18:32:00.512463Z",
-                "2025-05-16T19:17:38.661920Z",
-                "2025-05-16T19:19:23.359241Z",
-                "2025-05-16T19:21:15.804562Z",
-                "2025-05-16T19:23:27.260197Z",
-                "2025-05-16T19:25:44.584403Z",
-                "2025-05-16T19:27:31.691223Z",
-                "2025-05-16T19:29:21.177513Z",
-                "2025-05-16T20:15:57.753973Z",
-                "2025-05-16T20:17:42.672631Z",
-                "2025-05-16T20:19:25.235634Z",
-                "2025-05-16T20:21:40.879301Z",
-                "2025-05-16T20:23:24.063230Z",
-                "2025-05-16T20:25:32.276156Z",
-                "2025-05-16T20:27:42.348682Z",
-                "2025-05-16T21:11:40.551243Z",
-                "2025-05-16T21:13:52.519190Z",
-                "2025-05-16T21:15:35.442761Z",
-                "2025-05-16T21:17:26.243938Z",
-                "2025-05-16T21:19:28.947060Z",
-                "2025-05-16T21:21:37.097242Z",
-                "2025-05-16T21:23:36.445058Z",
-                "2025-05-16T22:07:33.587227Z",
-                "2025-05-16T22:09:33.568078Z",
-                "2025-05-16T22:11:43.816935Z",
-                "2025-05-16T22:13:40.194562Z",
-                "2025-05-16T22:15:34.640211Z",
-                "2025-05-16T22:17:24.771956Z",
-                "2025-05-16T22:19:30.283573Z",
-                "2025-05-16T23:05:07.922388Z",
-                "2025-05-16T23:07:25.561243Z",
-                "2025-05-16T23:09:42.180686Z",
-                "2025-05-16T23:11:28.190066Z",
-                "2025-05-16T23:13:33.922177Z",
-                "2025-05-16T23:15:26.064165Z",
-                "2025-05-16T23:17:47.174881Z"
-            ]
-        },
-        {
-            "id": "594d907ad49e0d18f20d44551ca98fb9",
-            "source": "spacenews",
-            "text": "SES to demonstrate ‘satellite orchestration’ tech for military communications",
-            "source_link": "https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T14:45:23.861705Z",
-            "shown_at": [
-                "2025-05-16T14:45:24.658264Z"
-            ]
-        },
-        {
-            "id": "0fc919d3b1ba63cf16ec57257726d5e0",
-            "source": "nyt",
-            "text": "Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95",
-            "source_link": "https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T14:59:33.782767Z",
-            "shown_at": [
-                "2025-05-16T14:59:34.593044Z",
-                "2025-05-16T17:49:39.345427Z",
-                "2025-05-16T22:35:27.231977Z",
-                "2025-05-16T23:33:48.282830Z"
-            ]
-        },
-        {
-            "id": "dde87825458b2e9b2bdcf4075a289b00",
-            "source": "breaking_defense",
-            "text": "Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget",
-            "source_link": "https://breakingdefense.com/2025/05/lawmakers-fret-over-rumor-of-white-house-cuts-to-nro-commercial-imagery-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T15:13:58.459957Z",
-            "shown_at": [
-                "2025-05-16T15:13:59.947589Z",
-                "2025-05-16T19:59:36.089723Z"
-            ]
-        },
-        {
-            "id": "abd7486501b6797516fb8d605cac115d",
-            "source": "spacenews",
-            "text": "FAA license update brings SpaceX closer to next Starship launch",
-            "source_link": "https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T17:35:12.533709Z",
-            "shown_at": [
-                "2025-05-16T17:35:13.279884Z"
             ]
         }
     ]
