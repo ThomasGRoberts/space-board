@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4157,3 +4157,4 @@
 - **May 17, 11:22 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 11:35 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 17, 11:49 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 17, 12:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
