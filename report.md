@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 103 | 103 |
 
@@ -4276,3 +4276,4 @@
 - **May 17, 10:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 10:53 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 17, 11:09 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
