@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 24 | 53 |
-| breaking_defense | 1 | 2 | 22 | 46 |
-| nyt | 1 | 1 | 21 | 45 |
+| breaking_defense | 1 | 2 | 22 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4121,3 +4121,4 @@
 - **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
 - **May 17, 05:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 05:17 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **May 17, 05:19 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
