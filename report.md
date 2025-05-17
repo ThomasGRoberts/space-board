@@ -4119,4 +4119,4 @@
 - **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
-- **May 17, 04:45 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 04:47 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
