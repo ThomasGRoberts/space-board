@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 24 | 50 |
 | breaking_defense | 0 | 2 | 23 | 45 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 47 | 47 |
 
@@ -4196,3 +4196,4 @@
 - **May 17, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 03:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 03:21 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 17, 03:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
