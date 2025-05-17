@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 50 |
+| spacenews | 2 | 10 | 22 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4155,3 +4155,4 @@
 - **May 17, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:22 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 17, 11:35 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
