@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 44 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4137,3 +4137,4 @@
 - **May 17, 09:27 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 17, 09:41 AM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
 - **May 17, 09:55 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 17, 10:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
