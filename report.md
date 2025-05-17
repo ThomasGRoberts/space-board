@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 92 | 92 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4208,3 +4208,4 @@
 - **May 17, 03:03 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 03:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 03:07 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
+- **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
