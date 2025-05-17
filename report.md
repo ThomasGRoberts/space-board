@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 24 | 50 |
 | breaking_defense | 0 | 2 | 23 | 45 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 68 | 68 |
 
@@ -4226,3 +4226,4 @@
 - **May 17, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 06:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 06:11 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 17, 06:25 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
