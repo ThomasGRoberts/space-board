@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 85 | 85 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4199,3 +4199,4 @@
 - **May 17, 02:07 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 02:09 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 17, 02:24 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 17, 02:39 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
