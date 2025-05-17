@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 53 |
+| spacenews | 5 | 12 | 24 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 92 | 92 |
+| nyt | 1 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 93 | 93 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4210,3 +4210,4 @@
 - **May 17, 03:07 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 17, 03:53 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
