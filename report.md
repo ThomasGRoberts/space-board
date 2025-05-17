@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 21 | 45 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4169,3 +4169,4 @@
 - **May 17, 12:45 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 17, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
