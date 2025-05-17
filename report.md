@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4200,3 +4200,4 @@
 - **May 17, 03:49 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 17, 04:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 04:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 04:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
