@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 24 | 53 |
-| breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 22 | 46 |
+| spacenews | 4 | 12 | 23 | 53 |
+| breaking_defense | 1 | 2 | 23 | 46 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -4132,3 +4132,4 @@
 - **May 17, 06:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 06:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 06:17 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 17, 06:32 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
