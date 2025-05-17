@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4179,3 +4179,4 @@
 - **May 17, 01:43 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 17, 01:57 PM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
 - **May 17, 02:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 02:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
