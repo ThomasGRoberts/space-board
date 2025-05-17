@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 49 |
 | breaking_defense | 0 | 2 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 75 | 75 |
 
@@ -4236,3 +4236,4 @@
 - **May 17, 07:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 07:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 07:09 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 17, 07:23 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
