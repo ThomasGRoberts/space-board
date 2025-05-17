@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 53 |
+| spacenews | 6 | 12 | 26 | 54 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 78 | 78 |
@@ -4187,3 +4187,4 @@
 - **May 17, 01:07 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 01:09 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 01:11 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 01:13 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
