@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 53 |
+| spacenews | 5 | 12 | 25 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 45 |
 | supercluster | 1 | 1 | 99 | 99 |
@@ -4217,3 +4217,4 @@
 - **May 17, 04:01 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 04:03 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 04:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
