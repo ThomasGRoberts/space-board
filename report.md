@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 22 | 52 |
-| breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 21 | 44 |
+| breaking_defense | 1 | 2 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -4146,3 +4146,4 @@
 - **May 17, 10:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 10:25 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 17, 10:39 AM** - Foreign SpaceX launch customers seek relief from U.S. tariffs (spacenews)
+- **May 17, 10:53 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
