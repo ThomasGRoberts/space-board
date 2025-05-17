@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 24 | 53 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4119,4 +4119,4 @@
 - **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
-- **May 17, 04:49 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 04:51 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
