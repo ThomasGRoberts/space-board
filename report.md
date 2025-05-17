@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 48 |
+| spacenews | 2 | 8 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4277,3 +4277,4 @@
 - **May 17, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 10:53 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 17, 11:09 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 17, 11:23 PM** - MDA Space sees options for robotic arm technology should Gateway be canceled (spacenews)
