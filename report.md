@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 23 | 50 |
+| spacenews | 3 | 10 | 24 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 1 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4187,3 +4187,4 @@
 - **May 17, 02:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 02:25 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 17, 02:39 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 17, 02:53 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
