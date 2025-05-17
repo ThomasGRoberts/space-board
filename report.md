@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4259,3 +4259,4 @@
 - **May 17, 09:15 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 17, 09:29 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 17, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
