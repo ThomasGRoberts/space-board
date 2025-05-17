@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4198,3 +4198,4 @@
 - **May 17, 03:21 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 17, 03:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 17, 03:49 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
+- **May 17, 04:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
