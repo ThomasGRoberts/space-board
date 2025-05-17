@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 23 | 50 |
+| spacenews | 2 | 10 | 24 | 51 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4227,3 +4227,4 @@
 - **May 17, 06:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 06:11 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 06:25 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 17, 06:39 PM** - Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice (spacenews)
