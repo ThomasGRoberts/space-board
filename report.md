@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -4210,3 +4210,4 @@
 - **May 17, 04:45 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 17, 04:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 05:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 05:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
