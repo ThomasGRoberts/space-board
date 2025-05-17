@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4124,3 +4124,4 @@
 - **May 17, 05:19 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 17, 05:33 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 17, 05:47 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
+- **May 17, 06:02 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
