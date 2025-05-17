@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 50 |
-| breaking_defense | 1 | 2 | 21 | 45 |
-| nyt | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 2 | 22 | 46 |
+| nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -4154,3 +4154,4 @@
 - **May 17, 11:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 11:22 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
