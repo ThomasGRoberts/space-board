@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 50 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
 
@@ -4268,3 +4268,4 @@
 - **May 17, 09:57 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 10:12 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 17, 10:25 PM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
+- **May 17, 10:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
