@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 65 | 65 |
+| nyt | 1 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 66 | 66 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4171,3 +4171,4 @@
 - **May 16, 11:33 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 16, 11:47 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 17, 12:02 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 12:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
