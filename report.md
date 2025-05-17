@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4145,3 +4145,4 @@
 - **May 17, 07:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 07:45 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 17, 07:59 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **May 17, 08:01 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
