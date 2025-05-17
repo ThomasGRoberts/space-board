@@ -6,6 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4118,3 +4119,4 @@
 - **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
+- **May 17, 04:21 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
