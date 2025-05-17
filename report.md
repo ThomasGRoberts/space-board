@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -4219,3 +4219,4 @@
 - **May 17, 05:29 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 17, 05:43 PM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
 - **May 17, 05:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 05:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
