@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 22 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -4166,3 +4166,4 @@
 - **May 17, 12:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 12:17 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 17, 12:32 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
+- **May 17, 12:45 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
