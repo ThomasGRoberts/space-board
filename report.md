@@ -3,10 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 24 | 53 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4119,36 +4118,13 @@
 - **May 17, 03:21 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 04:07 AM** - Space Force selects vendors to build cloud-based ground station marketplaces (spacenews)
-- **May 17, 05:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 05:17 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 05:19 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 17, 05:33 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 17, 05:47 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
-- **May 17, 06:02 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:05 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:07 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:09 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:11 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 06:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 06:17 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 17, 06:32 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 06:47 AM** - Norway signs Artemis Accords (spacenews)
-- **May 17, 07:02 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:05 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:07 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:09 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:11 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 07:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 07:17 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 17, 07:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 07:45 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
-- **May 17, 07:59 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:01 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:03 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:05 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:07 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:09 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **May 17, 08:11 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **May 17, 08:13 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
