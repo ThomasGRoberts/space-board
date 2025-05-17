@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4178,3 +4178,4 @@
 - **May 17, 01:29 PM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 17, 01:43 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 17, 01:57 PM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
+- **May 17, 02:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
