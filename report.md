@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 23 | 50 |
+| spacenews | 3 | 10 | 24 | 51 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 0 | 1 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4197,3 +4197,4 @@
 - **May 17, 03:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 03:21 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 17, 03:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 17, 03:49 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
