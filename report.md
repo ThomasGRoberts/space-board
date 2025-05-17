@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 78 | 78 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4189,3 +4189,4 @@
 - **May 17, 01:11 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 01:13 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
 - **May 17, 01:27 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
+- **May 17, 01:41 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
