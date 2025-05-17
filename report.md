@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 23 | 49 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| spacenews | 2 | 9 | 24 | 50 |
+| breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 82 | 82 |
@@ -4247,3 +4247,4 @@
 - **May 17, 08:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 08:05 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 17, 08:19 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 17, 08:33 PM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
