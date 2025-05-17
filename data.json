@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-17T00:02:10.140325+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b505393a60e849b689dfe54f48a41741",
+    "trigger_count": 0,
+    "current_item_id": "fc49b8c8d480cbd3ff108cbdf3bbcc5c",
     "data": [
         {
             "id": "abd7486501b6797516fb8d605cac115d",
@@ -9669,6 +9669,18 @@
                 "2025-05-17T13:09:32.566547Z",
                 "2025-05-17T13:11:42.412717Z",
                 "2025-05-17T13:13:36.061911Z"
+            ]
+        },
+        {
+            "id": "fc49b8c8d480cbd3ff108cbdf3bbcc5c",
+            "source": "spacenews",
+            "text": "Landspace launches 6 satellites with enhanced Zhuque-2 rocket",
+            "source_link": "https://spacenews.com/landspace-launches-6-satellites-with-enhanced-zhuque-2-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-17T13:29:30.837058Z",
+            "shown_at": [
+                "2025-05-17T13:29:31.535593Z"
             ]
         }
     ]
