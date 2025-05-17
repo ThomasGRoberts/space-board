@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-17T00:02:10.140325+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf89951b6100e0e4689369699d253aa6",
+    "trigger_count": 0,
+    "current_item_id": "6698395e51b4ba25265ad046d12f63cb",
     "data": [
         {
             "id": "abd7486501b6797516fb8d605cac115d",
@@ -9682,6 +9682,18 @@
             "fetched_datetime": "2025-05-17T13:29:30.837058Z",
             "shown_at": [
                 "2025-05-17T13:29:31.535593Z"
+            ]
+        },
+        {
+            "id": "6698395e51b4ba25265ad046d12f63cb",
+            "source": "spacenews",
+            "text": "Rocket Lab launches radar imaging satellite for iQPS",
+            "source_link": "https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-17T13:57:29.047785Z",
+            "shown_at": [
+                "2025-05-17T13:57:29.592020Z"
             ]
         }
     ]

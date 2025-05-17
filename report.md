@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 23 | 50 |
+| spacenews | 4 | 10 | 24 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 1 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4177,3 +4177,4 @@
 - **May 17, 01:15 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 17, 01:29 PM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 17, 01:43 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 17, 01:57 PM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
