@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 96 | 96 |
 
@@ -4266,3 +4266,4 @@
 - **May 17, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 09:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 09:57 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 17, 10:12 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
