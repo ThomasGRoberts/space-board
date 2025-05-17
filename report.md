@@ -4129,4 +4129,4 @@
 - **May 17, 07:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 07:45 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 17, 08:13 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 17, 08:35 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **May 17, 08:37 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
