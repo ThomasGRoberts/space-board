@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 49 |
-| breaking_defense | 0 | 1 | 22 | 46 |
+| breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 110 | 110 |
@@ -4285,3 +4285,4 @@
 - **May 17, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 11:51 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
