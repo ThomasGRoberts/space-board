@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 89 | 89 |
 
@@ -4256,3 +4256,4 @@
 - **May 17, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 09:02 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 17, 09:15 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
