@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 71 | 71 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4179,3 +4179,4 @@
 - **May 17, 12:15 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 12:17 AM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 17, 12:31 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 17, 12:45 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
