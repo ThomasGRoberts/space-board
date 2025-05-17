@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 21 | 50 |
-| breaking_defense | 1 | 2 | 21 | 45 |
-| nyt | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 2 | 22 | 46 |
+| nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -4164,3 +4164,4 @@
 - **May 17, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 12:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 12:17 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
