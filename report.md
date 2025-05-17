@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 24 | 50 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -4258,3 +4258,4 @@
 - **May 17, 09:02 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 09:15 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 17, 09:29 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
+- **May 17, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
