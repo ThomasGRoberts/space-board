@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 87 | 87 |
+| nyt | 1 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 88 | 88 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4202,3 +4202,4 @@
 - **May 17, 02:39 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 02:53 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 02:55 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 02:57 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
