@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -4279,3 +4279,4 @@
 - **May 17, 11:09 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 17, 11:23 PM** - MDA Space sees options for robotic arm technology should Gateway be canceled (spacenews)
 - **May 17, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 17, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
