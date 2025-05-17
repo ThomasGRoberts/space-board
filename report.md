@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 53 |
+| spacenews | 6 | 12 | 26 | 54 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 85 | 85 |
@@ -4197,3 +4197,4 @@
 - **May 17, 02:03 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 02:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **May 17, 02:07 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **May 17, 02:09 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
