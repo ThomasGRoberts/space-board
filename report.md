@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 25 | 49 |
-| supercluster | 1 | 1 | 152 | 152 |
+| supercluster | 1 | 1 | 153 | 153 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4341,3 +4341,4 @@
 - **May 18, 05:37 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 18, 05:51 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 18, 06:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 18, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
