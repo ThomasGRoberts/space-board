@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 27 | 50 |
 | supercluster | 0 | 1 | 175 | 236 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4461,3 +4461,4 @@
 - **May 18, 04:55 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 18, 05:09 PM** - Capella Space bets on quantum future under IonQ ownership (spacenews)
 - **May 18, 05:25 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 18, 05:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
