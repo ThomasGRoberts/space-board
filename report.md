@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 49 |
 | supercluster | 1 | 1 | 166 | 166 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4360,3 +4360,4 @@
 - **May 18, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 07:29 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 07:43 AM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
+- **May 18, 07:57 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
