@@ -5,7 +5,7 @@
 | spacenews | 3 | 8 | 24 | 49 |
 | supercluster | 1 | 1 | 138 | 138 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4320,3 +4320,4 @@
 - **May 18, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 03:41 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 18, 03:55 AM** - PSLV launch of Indian radar imaging satellite fails (spacenews)
+- **May 18, 04:09 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
