@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 236 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4460,3 +4460,4 @@
 - **May 18, 04:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 04:55 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 18, 05:09 PM** - Capella Space bets on quantum future under IonQ ownership (spacenews)
+- **May 18, 05:25 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
