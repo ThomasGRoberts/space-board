@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 26 | 48 |
 | supercluster | 0 | 1 | 175 | 187 |
 | breaking_defense | 0 | 1 | 25 | 47 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 26 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4390,3 +4390,4 @@
 - **May 18, 10:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 10:17 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 10:31 AM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
+- **May 18, 10:45 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
