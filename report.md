@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 50 |
-| supercluster | 0 | 1 | 175 | 279 |
+| supercluster | 0 | 1 | 176 | 280 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4523,3 +4523,4 @@
 - **May 18, 11:09 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 18, 11:23 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 18, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
