@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 48 |
-| supercluster | 0 | 1 | 176 | 181 |
+| supercluster | 0 | 1 | 177 | 182 |
 | breaking_defense | 0 | 1 | 25 | 46 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4382,3 +4382,4 @@
 - **May 18, 09:35 AM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
 - **May 18, 09:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 18, 10:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 10:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
