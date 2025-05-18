@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 26 | 48 |
 | supercluster | 0 | 1 | 175 | 180 |
 | breaking_defense | 0 | 1 | 25 | 47 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 26 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4380,3 +4380,4 @@
 - **May 18, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 09:21 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 09:35 AM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
+- **May 18, 09:49 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
