@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 222 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4440,3 +4440,4 @@
 - **May 18, 02:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 03:02 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 18, 03:15 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 18, 03:29 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
