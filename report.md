@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 48 |
-| supercluster | 1 | 1 | 174 | 174 |
+| supercluster | 1 | 1 | 175 | 175 |
 | breaking_defense | 0 | 1 | 25 | 46 |
-| nyt | 0 | 1 | 25 | 47 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4372,3 +4372,4 @@
 - **May 18, 08:39 AM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 18, 08:53 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 18, 09:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
