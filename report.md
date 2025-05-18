@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 49 |
-| supercluster | 0 | 1 | 175 | 215 |
+| supercluster | 0 | 1 | 176 | 216 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | nyt | 0 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4431,3 +4431,4 @@
 - **May 18, 02:05 PM** - Aschbacher calls on Europe to increase space spending (spacenews)
 - **May 18, 02:19 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 02:33 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
+- **May 18, 02:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
