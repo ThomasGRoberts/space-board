@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 49 |
-| supercluster | 0 | 1 | 175 | 229 |
+| supercluster | 0 | 1 | 176 | 230 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4451,3 +4451,4 @@
 - **May 18, 03:59 PM** - Rocket Lab sees Mynaric deal as key for its constellation plans (spacenews)
 - **May 18, 04:13 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 18, 04:27 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 18, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
