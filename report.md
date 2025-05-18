@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 278 |
-| breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4520,3 +4520,4 @@
 - **May 18, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 10:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 10:55 PM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
+- **May 18, 11:09 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
