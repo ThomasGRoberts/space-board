@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 26 | 48 |
-| supercluster | 0 | 1 | 179 | 208 |
+| spacenews | 4 | 6 | 27 | 49 |
+| supercluster | 0 | 1 | 178 | 208 |
 | breaking_defense | 0 | 1 | 25 | 46 |
 | nyt | 0 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4418,3 +4418,4 @@
 - **May 18, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 01:07 PM** - NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration (spacenews)

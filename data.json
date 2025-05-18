@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-18T00:02:02.420011+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "c36cdc8420311bf639b970eb2fb65f5e",
     "data": [
         {
             "id": "6698395e51b4ba25265ad046d12f63cb",
@@ -9923,6 +9923,18 @@
             "fetched_datetime": "2025-05-18T03:55:32.119222Z",
             "shown_at": [
                 "2025-05-18T03:55:32.654561Z"
+            ]
+        },
+        {
+            "id": "c36cdc8420311bf639b970eb2fb65f5e",
+            "source": "spacenews",
+            "text": "NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration",
+            "source_link": "https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T13:07:50.445844Z",
+            "shown_at": [
+                "2025-05-18T13:07:51.137888Z"
             ]
         }
     ]
