@@ -4280,3 +4280,4 @@
 - **May 17, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 17, 11:51 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 12:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 18, 12:19 AM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
