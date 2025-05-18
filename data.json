@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-18T00:02:02.420011+00:00",
-    "trigger_count": 6,
-    "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
+    "trigger_count": 0,
+    "current_item_id": "0ba648b0c95ab454560ff0e28856ceef",
     "data": [
         {
             "id": "6698395e51b4ba25265ad046d12f63cb",
@@ -9813,6 +9813,18 @@
                 "2025-03-20T13:31:57.433602Z",
                 "2025-03-23T02:57:20.270514Z",
                 "2025-03-23T05:17:44.557656Z"
+            ]
+        },
+        {
+            "id": "0ba648b0c95ab454560ff0e28856ceef",
+            "source": "spacenews",
+            "text": "PSLV launch of Indian radar imaging satellite fails",
+            "source_link": "https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T03:55:32.119222Z",
+            "shown_at": [
+                "2025-05-18T03:55:32.654561Z"
             ]
         }
     ]
