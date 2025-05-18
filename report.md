@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 27 | 50 |
+| spacenews | 3 | 5 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 264 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4501,3 +4501,4 @@
 - **May 18, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 08:59 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
 - **May 18, 09:15 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 18, 09:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
