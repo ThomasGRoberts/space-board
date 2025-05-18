@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 49 |
 | supercluster | 1 | 1 | 145 | 145 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 24 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4330,3 +4330,4 @@
 - **May 18, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 04:39 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 18, 04:53 AM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
+- **May 18, 05:07 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
