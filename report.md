@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 24 | 48 |
 | supercluster | 1 | 1 | 145 | 145 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4328,3 +4328,4 @@
 - **May 18, 04:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 04:39 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
