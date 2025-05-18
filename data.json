@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-18T00:02:02.420011+00:00",
-    "trigger_count": 6,
-    "current_item_id": "abd7486501b6797516fb8d605cac115d",
+    "trigger_count": 0,
+    "current_item_id": "4053b2c701a88ad65bb20420016b0f3f",
     "data": [
         {
             "id": "6698395e51b4ba25265ad046d12f63cb",
@@ -9975,6 +9975,18 @@
             "fetched_datetime": "2025-05-18T13:07:50.445844Z",
             "shown_at": [
                 "2025-05-18T13:07:51.137888Z"
+            ]
+        },
+        {
+            "id": "4053b2c701a88ad65bb20420016b0f3f",
+            "source": "spacenews",
+            "text": "Capella Space bets on quantum future under IonQ ownership",
+            "source_link": "https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T17:09:40.096992Z",
+            "shown_at": [
+                "2025-05-18T17:09:40.738324Z"
             ]
         }
     ]
