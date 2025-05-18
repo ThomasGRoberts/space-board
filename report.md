@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 49 |
 | supercluster | 1 | 1 | 124 | 124 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4299,3 +4299,4 @@
 - **May 18, 01:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 01:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 01:45 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 18, 02:02 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
