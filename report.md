@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 49 |
 | supercluster | 1 | 1 | 117 | 117 |
-| breaking_defense | 0 | 1 | 22 | 46 |
+| breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4288,3 +4288,4 @@
 - **May 18, 12:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 12:47 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
