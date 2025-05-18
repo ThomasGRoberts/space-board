@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 49 |
 | supercluster | 1 | 1 | 152 | 152 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 24 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4340,3 +4340,4 @@
 - **May 18, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 05:37 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 18, 05:51 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
+- **May 18, 06:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
