@@ -3,18 +3,15 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 49 |
+| supercluster | 1 | 1 | 110 | 110 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
-- **Mar 17, 05:43 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
-- **Mar 17, 05:57 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 17, 07:11 PM** - Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing (spacenews)
 - **Mar 17, 08:07 PM** - SES shrinks board as shareholder calls for bigger changes (spacenews)
-- **Mar 17, 09:17 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 18, 01:11 AM** - Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth (nyt)
 - **Mar 18, 02:35 AM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 18, 05:03 AM** - Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth (nyt)
@@ -30,7 +27,6 @@
 - **Mar 18, 02:37 PM** - Elon Musk’s Starlink Expands Across White House Complex (nyt)
 - **Mar 18, 02:51 PM** - Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
 - **Mar 18, 03:51 PM** - Samara Aerospace poised for spaceflight testing of Hummingbird technology (spacenews)
-- **Mar 18, 05:01 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
 - **Mar 18, 06:01 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 18, 06:49 PM** - U.S. restores satellite imagery support to Ukraine amid ceasefire tensions (spacenews)
 - **Mar 18, 09:07 PM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)
@@ -123,7 +119,6 @@
 - **Mar 20, 10:41 PM** - Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit (nyt)
 - **Mar 20, 10:55 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 20, 11:09 PM** - How to maximize the resiliency of PNT (breaking_defense)
-- **Mar 20, 11:39 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 21, 12:11 AM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 21, 12:25 AM** - How to maximize the resiliency of PNT (breaking_defense)
 - **Mar 21, 01:07 AM** - Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home (nyt)
@@ -283,7 +278,6 @@
 - **Mar 23, 04:59 PM** - Space Force prepared to divest legacy systems in favor of market-ready solutions (spacenews)
 - **Mar 23, 05:27 PM** - NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day (nyt)
 - **Mar 23, 05:42 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
-- **Mar 23, 06:09 PM** - Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract (spacenews)
 - **Mar 23, 06:53 PM** - 5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says (breaking_defense)
 - **Mar 23, 07:07 PM** - Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities (aidy)
 - **Mar 23, 07:21 PM** - Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding (spacenews)
@@ -350,7 +344,6 @@
 - **Mar 24, 04:03 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 24, 04:17 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 04:32 PM** - GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen? (breaking_defense)
-- **Mar 24, 04:45 PM** - Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby (spacenews)
 - **Mar 24, 05:13 PM** - Export Controls Modernized for Space Items, SLS Gains Legislative Support (aidy)
 - **Mar 24, 05:27 PM** - Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99 (nyt)
 - **Mar 24, 05:41 PM** - Trump eliminated a key space advisory committee at the worst time (breaking_defense)
