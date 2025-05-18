@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 264 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4500,3 +4500,4 @@
 - **May 18, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 08:59 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
+- **May 18, 09:15 PM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
