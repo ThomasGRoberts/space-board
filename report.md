@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 243 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4470,3 +4470,4 @@
 - **May 18, 06:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 06:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 06:09 PM** - Big ideas need big rockets (spacenews)
+- **May 18, 06:23 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
