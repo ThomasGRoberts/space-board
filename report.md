@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 49 |
 | supercluster | 1 | 1 | 159 | 159 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4350,3 +4350,4 @@
 - **May 18, 06:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 06:33 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 18, 06:47 AM** - Norway signs Artemis Accords (spacenews)
+- **May 18, 07:02 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
