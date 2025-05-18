@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 50 |
-| supercluster | 0 | 1 | 176 | 251 |
+| supercluster | 0 | 1 | 177 | 252 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4483,3 +4483,4 @@
 - **May 18, 07:21 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 18, 07:35 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 18, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 18, 07:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
