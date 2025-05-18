@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 49 |
 | supercluster | 1 | 1 | 117 | 117 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4289,3 +4289,4 @@
 - **May 18, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 12:47 AM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 18, 01:03 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
