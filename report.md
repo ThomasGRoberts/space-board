@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 26 | 48 |
 | supercluster | 0 | 1 | 175 | 201 |
 | breaking_defense | 0 | 1 | 25 | 47 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 26 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4410,3 +4410,4 @@
 - **May 18, 12:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 12:09 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 18, 12:25 PM** - MDA Space sees options for robotic arm technology should Gateway be canceled (spacenews)
+- **May 18, 12:39 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
