@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 271 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4511,3 +4511,4 @@
 - **May 18, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 09:59 PM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 18, 10:13 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 18, 10:27 PM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
