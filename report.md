@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 14 | 30 | 57 |
+| spacenews | 11 | 14 | 31 | 58 |
 | supercluster | 0 | 0 | 154 | 329 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 47 |
@@ -4717,3 +4717,4 @@
 - **May 19, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 08:59 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 19, 09:13 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 19, 09:27 PM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
