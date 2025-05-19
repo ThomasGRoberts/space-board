@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-18T00:02:02.420011+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
+    "trigger_count": 5,
     "current_item_id": "cbd43bc894bcba0526886bc5a3f14cb8",
     "data": [
+        {
+            "id": "4053b2c701a88ad65bb20420016b0f3f",
+            "source": "spacenews",
+            "text": "Capella Space bets on quantum future under IonQ ownership",
+            "source_link": "https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T17:09:40.096992Z",
+            "shown_at": [
+                "2025-05-18T17:09:40.738324Z"
+            ]
+        },
+        {
+            "id": "c36cdc8420311bf639b970eb2fb65f5e",
+            "source": "spacenews",
+            "text": "NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration",
+            "source_link": "https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T13:07:50.445844Z",
+            "shown_at": [
+                "2025-05-18T13:07:51.137888Z"
+            ]
+        },
+        {
+            "id": "0ba648b0c95ab454560ff0e28856ceef",
+            "source": "spacenews",
+            "text": "PSLV launch of Indian radar imaging satellite fails",
+            "source_link": "https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-18T03:55:32.119222Z",
+            "shown_at": [
+                "2025-05-18T03:55:32.654561Z"
+            ]
+        },
         {
             "id": "6698395e51b4ba25265ad046d12f63cb",
             "source": "spacenews",
@@ -9973,90 +10009,6 @@
                 "2025-03-22T01:53:38.532460Z",
                 "2025-03-24T08:13:49.498029Z",
                 "2025-03-24T10:37:40.000094Z"
-            ]
-        },
-        {
-            "id": "af225c9f8f60af87a26666c664b855af",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Set for Overdue Trip Home to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T01:11:48.674485Z",
-            "shown_at": [
-                "2025-03-18T01:11:49.341677Z",
-                "2025-03-20T04:47:27.796834Z",
-                "2025-03-20T19:59:18.467965Z",
-                "2025-03-23T04:21:30.977498Z",
-                "2025-03-24T01:45:52.942325Z",
-                "2025-03-24T23:41:32.361755Z"
-            ]
-        },
-        {
-            "id": "cf8c4b0f62f8452e9393d923b3faa641",
-            "source": "spacenews",
-            "text": "SES shrinks board as shareholder calls for bigger changes",
-            "source_link": "https://spacenews.com/ses-shrinks-board-as-shareholder-calls-for-bigger-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T20:07:07.406515Z",
-            "shown_at": [
-                "2025-03-17T20:07:07.873377Z",
-                "2025-03-19T18:15:40.705285Z",
-                "2025-03-22T16:13:31.661868Z"
-            ]
-        },
-        {
-            "id": "e16a95daf28e7f2f99fef3b515413e4c",
-            "source": "spacenews",
-            "text": "Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing",
-            "source_link": "https://spacenews.com/reliant-space-supports-firefly-aerospaces-blue-ghost-mission-1-lunar-landing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-17T19:11:41.054499Z",
-            "shown_at": [
-                "2025-03-17T19:11:41.994223Z",
-                "2025-03-19T08:55:41.454727Z",
-                "2025-03-20T08:57:38.437366Z",
-                "2025-03-20T13:31:57.433602Z",
-                "2025-03-23T02:57:20.270514Z",
-                "2025-03-23T05:17:44.557656Z"
-            ]
-        },
-        {
-            "id": "0ba648b0c95ab454560ff0e28856ceef",
-            "source": "spacenews",
-            "text": "PSLV launch of Indian radar imaging satellite fails",
-            "source_link": "https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T03:55:32.119222Z",
-            "shown_at": [
-                "2025-05-18T03:55:32.654561Z"
-            ]
-        },
-        {
-            "id": "c36cdc8420311bf639b970eb2fb65f5e",
-            "source": "spacenews",
-            "text": "NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration",
-            "source_link": "https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T13:07:50.445844Z",
-            "shown_at": [
-                "2025-05-18T13:07:51.137888Z"
-            ]
-        },
-        {
-            "id": "4053b2c701a88ad65bb20420016b0f3f",
-            "source": "spacenews",
-            "text": "Capella Space bets on quantum future under IonQ ownership",
-            "source_link": "https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T17:09:40.096992Z",
-            "shown_at": [
-                "2025-05-18T17:09:40.738324Z"
             ]
         }
     ]
