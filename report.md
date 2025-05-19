@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 26 | 50 |
-| supercluster | 0 | 1 | 177 | 320 |
+| spacenews | 2 | 5 | 27 | 51 |
+| supercluster | 0 | 1 | 176 | 320 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4564,3 +4564,4 @@
 - **May 19, 04:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 04:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 04:37 AM** - I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman. (spacenews)
