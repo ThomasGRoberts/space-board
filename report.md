@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 51 |
-| supercluster | 0 | 1 | 177 | 329 |
+| supercluster | 0 | 1 | 178 | 330 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4579,3 +4579,4 @@
 - **May 19, 06:02 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 19, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
