@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 28 | 54 |
+| spacenews | 7 | 9 | 29 | 55 |
 | supercluster | 0 | 0 | 161 | 342 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
@@ -4660,3 +4660,4 @@
 - **May 19, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 03:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 03:09 PM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
