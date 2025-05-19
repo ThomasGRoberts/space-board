@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 29 | 55 |
-| supercluster | 0 | 0 | 154 | 335 |
+| supercluster | 0 | 0 | 155 | 335 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4664,3 +4664,4 @@
 - **May 19, 03:23 PM** - Japan’s iQPS lines up eight SAR launches (spacenews)
 - **May 19, 03:37 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 19, 03:51 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 19, 04:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
