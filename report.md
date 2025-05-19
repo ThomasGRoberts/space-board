@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 27 | 54 |
+| spacenews | 6 | 10 | 28 | 55 |
 | supercluster | 0 | 0 | 168 | 343 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4647,3 +4647,4 @@
 - **May 19, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 01:07 PM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
+- **May 19, 01:21 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)

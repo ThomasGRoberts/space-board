@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "740dc2695c92cb67d40b28b6a148f37a",
+    "trigger_count": 0,
+    "current_item_id": "52d0734f96ef8a012fe202785f5bd184",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10181,9 +10181,12 @@
             "source": "spacenews",
             "text": "Sophia Space raises $3.5 million for orbiting data centers",
             "source_link": "https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343906Z"
+            "fetched_datetime": "2025-05-19T13:07:32.343906Z",
+            "shown_at": [
+                "2025-05-19T13:21:50.941818Z"
+            ]
         },
         {
             "id": "1398fc7ca2b8d5fd3d30f390dd85ab4b",
