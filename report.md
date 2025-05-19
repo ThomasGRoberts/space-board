@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 27 | 50 |
 | supercluster | 0 | 1 | 175 | 306 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4546,3 +4546,4 @@
 - **May 19, 02:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 02:45 AM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 19, 02:59 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 19, 03:13 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
