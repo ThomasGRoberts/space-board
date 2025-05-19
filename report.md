@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 29 | 56 |
+| spacenews | 9 | 12 | 30 | 57 |
 | supercluster | 0 | 0 | 154 | 329 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4685,3 +4685,4 @@
 - **May 19, 05:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 19, 05:43 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 19, 05:57 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 19, 06:11 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
