@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 14 | 31 | 57 |
-| supercluster | 0 | 0 | 154 | 329 |
+| supercluster | 0 | 0 | 154 | 330 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4708,3 +4708,4 @@
 - **May 19, 08:03 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 19, 08:17 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 19, 08:31 PM** - Gabbard signals shift in U.S. intelligence collection priorities (spacenews)
+- **May 19, 08:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
