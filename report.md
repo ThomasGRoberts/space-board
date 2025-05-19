@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 29 | 55 |
 | supercluster | 0 | 0 | 167 | 343 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4649,3 +4649,4 @@
 - **May 19, 01:07 PM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 19, 01:21 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 19, 01:36 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
+- **May 19, 01:51 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
