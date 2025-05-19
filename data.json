@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "52d0734f96ef8a012fe202785f5bd184",
+    "trigger_count": 0,
+    "current_item_id": "1398fc7ca2b8d5fd3d30f390dd85ab4b",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10193,9 +10193,12 @@
             "source": "spacenews",
             "text": "Commercial radar satellite firm eyes role in U.S. missile defense",
             "source_link": "https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343952Z"
+            "fetched_datetime": "2025-05-19T13:07:32.343952Z",
+            "shown_at": [
+                "2025-05-19T13:36:34.731444Z"
+            ]
         }
     ]
 }
