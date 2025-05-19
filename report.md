@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 29 | 54 |
+| spacenews | 7 | 9 | 29 | 55 |
 | supercluster | 0 | 0 | 161 | 343 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
@@ -4650,3 +4650,4 @@
 - **May 19, 01:21 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 19, 01:36 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
 - **May 19, 01:51 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
+- **May 19, 02:07 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b76805a4a24bb648430af3a479014fe",
+    "trigger_count": 0,
+    "current_item_id": "b26bc66358eaa68de607249acd798e58",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10199,6 +10199,18 @@
             "fetched_datetime": "2025-05-19T13:07:32.343952Z",
             "shown_at": [
                 "2025-05-19T13:36:34.731444Z"
+            ]
+        },
+        {
+            "id": "b26bc66358eaa68de607249acd798e58",
+            "source": "spacenews",
+            "text": "Seraphim picks 10 startups for 15th space accelerator",
+            "source_link": "https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T14:07:44.092073Z",
+            "shown_at": [
+                "2025-05-19T14:07:44.805803Z"
             ]
         }
     ]
