@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
+    "trigger_count": 0,
+    "current_item_id": "21a04cd9b76546266a3743d65ae47ed6",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10384,6 +10384,18 @@
             "fetched_datetime": "2025-05-19T20:31:54.581924Z",
             "shown_at": [
                 "2025-05-19T20:31:55.133973Z"
+            ]
+        },
+        {
+            "id": "21a04cd9b76546266a3743d65ae47ed6",
+            "source": "spacenews",
+            "text": "SI Imaging Services to offer leasing of high-resolution imaging satellite",
+            "source_link": "https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T23:07:05.951638Z",
+            "shown_at": [
+                "2025-05-19T23:07:06.626560Z"
             ]
         }
     ]
