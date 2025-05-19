@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 27 | 53 |
-| supercluster | 0 | 0 | 170 | 349 |
+| spacenews | 4 | 7 | 28 | 54 |
+| supercluster | 0 | 0 | 169 | 348 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4636,3 +4636,4 @@
 - **May 19, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 11:37 AM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)
 - **May 19, 11:51 AM** - Voyager Technologies files to go public (spacenews)
+- **May 19, 12:05 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)

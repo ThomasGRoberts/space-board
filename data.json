@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8a951ce0a81fa36017956a2d785190c6",
+    "trigger_count": 0,
+    "current_item_id": "f34056f7d2843500140e067f6094f78c",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10141,6 +10141,18 @@
             "fetched_datetime": "2025-05-19T11:51:40.735317Z",
             "shown_at": [
                 "2025-05-19T11:51:41.368621Z"
+            ]
+        },
+        {
+            "id": "f34056f7d2843500140e067f6094f78c",
+            "source": "spacenews",
+            "text": "China to launch Tianwen-2 asteroid sampling mission on May 28",
+            "source_link": "https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T12:05:50.481286Z",
+            "shown_at": [
+                "2025-05-19T12:05:51.517327Z"
             ]
         }
     ]
