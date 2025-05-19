@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 26 | 52 |
 | supercluster | 0 | 1 | 175 | 348 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4606,3 +4606,4 @@
 - **May 19, 08:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 08:36 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 19, 08:51 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 19, 09:05 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
