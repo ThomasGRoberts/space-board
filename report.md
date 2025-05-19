@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 313 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4555,3 +4555,4 @@
 - **May 19, 03:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 03:41 AM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
+- **May 19, 03:55 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
