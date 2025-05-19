@@ -5,7 +5,7 @@
 | spacenews | 9 | 12 | 30 | 57 |
 | supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4693,3 +4693,4 @@
 - **May 19, 06:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 06:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 06:39 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
