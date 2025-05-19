@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 27 | 54 |
+| spacenews | 4 | 7 | 27 | 53 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4638,3 +4638,4 @@
 - **May 19, 11:51 AM** - Voyager Technologies files to go public (spacenews)
 - **May 19, 12:05 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 19, 12:19 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 19, 12:33 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
