@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 30 | 56 |
 | supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4672,3 +4672,4 @@
 - **May 19, 04:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 04:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 04:19 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
+- **May 19, 04:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
