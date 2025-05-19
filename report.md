@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 57 |
-| supercluster | 0 | 0 | 155 | 330 |
+| supercluster | 0 | 0 | 156 | 331 |
 | breaking_defense | 2 | 2 | 24 | 49 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4698,3 +4698,4 @@
 - **May 19, 07:07 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 19, 07:21 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 19, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 07:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
