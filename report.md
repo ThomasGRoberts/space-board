@@ -5,7 +5,7 @@
 | spacenews | 11 | 14 | 30 | 57 |
 | supercluster | 0 | 0 | 154 | 329 |
 | breaking_defense | 3 | 3 | 25 | 49 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4716,3 +4716,4 @@
 - **May 19, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 08:59 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 19, 09:13 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
