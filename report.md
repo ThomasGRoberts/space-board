@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 26 | 52 |
+| spacenews | 2 | 5 | 26 | 53 |
 | supercluster | 0 | 0 | 175 | 350 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 25 | 50 |
@@ -4614,3 +4614,4 @@
 - **May 19, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 09:38 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
