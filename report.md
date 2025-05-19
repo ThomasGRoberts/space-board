@@ -5,7 +5,7 @@
 | spacenews | 10 | 13 | 30 | 57 |
 | supercluster | 0 | 0 | 154 | 329 |
 | breaking_defense | 3 | 3 | 25 | 49 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4706,3 +4706,4 @@
 - **May 19, 07:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 07:49 PM** - NATO allies to pledge capabilities to address growing threats (spacenews)
 - **May 19, 08:03 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 19, 08:17 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
