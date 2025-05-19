@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 27 | 53 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4639,3 +4639,4 @@
 - **May 19, 12:05 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 19, 12:19 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 19, 12:33 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
+- **May 19, 12:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
