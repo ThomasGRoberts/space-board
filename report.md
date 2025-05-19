@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 29 | 56 |
+| spacenews | 8 | 11 | 30 | 56 |
 | supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
@@ -4683,3 +4683,4 @@
 - **May 19, 05:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 05:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 05:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 19, 05:43 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
