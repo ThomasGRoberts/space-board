@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 57 |
 | supercluster | 0 | 0 | 154 | 329 |
-| breaking_defense | 1 | 1 | 24 | 48 |
+| breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4696,3 +4696,4 @@
 - **May 19, 06:39 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 19, 06:53 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 19, 07:07 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
+- **May 19, 07:21 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)

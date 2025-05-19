@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ee016b5caf6f185178083448965c33f7",
+    "trigger_count": 0,
+    "current_item_id": "4b7a070a488c16f87918546315672f2e",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10300,6 +10300,18 @@
             "fetched_datetime": "2025-05-19T18:11:38.805358Z",
             "shown_at": [
                 "2025-05-19T18:11:39.378761Z"
+            ]
+        },
+        {
+            "id": "4b7a070a488c16f87918546315672f2e",
+            "source": "breaking_defense",
+            "text": "NATO aims to bolster investments in space, intelligence sharing",
+            "source_link": "https://breakingdefense.com/2025/05/nato-aims-to-bolster-investments-in-space-intelligence-sharing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T19:21:43.501175Z",
+            "shown_at": [
+                "2025-05-19T19:21:44.734177Z"
             ]
         }
     ]
