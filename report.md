@@ -4607,3 +4607,4 @@
 - **May 19, 08:36 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 19, 08:51 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 19, 09:05 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 19, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
