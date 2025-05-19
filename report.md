@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 30 | 56 |
+| spacenews | 10 | 13 | 31 | 57 |
 | supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 2 | 2 | 24 | 49 |
 | nyt | 0 | 0 | 22 | 47 |
@@ -4704,3 +4704,4 @@
 - **May 19, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 07:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 07:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 07:49 PM** - NATO allies to pledge capabilities to address growing threats (spacenews)

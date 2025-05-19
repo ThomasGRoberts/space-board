@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "585f8c2c7d029d455e452cb814f71793",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10319,6 +10319,18 @@
             "fetched_datetime": "2025-05-19T19:21:43.501175Z",
             "shown_at": [
                 "2025-05-19T19:21:44.734177Z"
+            ]
+        },
+        {
+            "id": "585f8c2c7d029d455e452cb814f71793",
+            "source": "spacenews",
+            "text": "NATO allies to pledge capabilities to address growing threats",
+            "source_link": "https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T19:49:33.386168Z",
+            "shown_at": [
+                "2025-05-19T19:49:34.037301Z"
             ]
         }
     ]
