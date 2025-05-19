@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 52 |
-| supercluster | 0 | 0 | 170 | 349 |
+| supercluster | 0 | 0 | 169 | 348 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4626,3 +4626,4 @@
 - **May 19, 10:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 10:39 AM** - PSLV launch of Indian radar imaging satellite fails (spacenews)
 - **May 19, 10:53 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
+- **May 19, 11:09 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
