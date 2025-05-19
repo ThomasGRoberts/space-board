@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 30 | 56 |
 | supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4662,3 +4662,4 @@
 - **May 19, 03:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 03:09 PM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
 - **May 19, 03:23 PM** - Japan’s iQPS lines up eight SAR launches (spacenews)
+- **May 19, 03:37 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
