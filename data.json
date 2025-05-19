@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fc919d3b1ba63cf16ec57257726d5e0",
+    "trigger_count": 0,
+    "current_item_id": "104dd17f2cea4dfa1716a9bd33c7517d",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10212,6 +10212,18 @@
             "fetched_datetime": "2025-05-19T14:07:44.092073Z",
             "shown_at": [
                 "2025-05-19T14:07:44.805803Z"
+            ]
+        },
+        {
+            "id": "104dd17f2cea4dfa1716a9bd33c7517d",
+            "source": "breaking_defense",
+            "text": "Space Force FORGEing ahead with missile warning ground system",
+            "source_link": "https://breakingdefense.com/2025/05/space-force-forgeing-ahead-with-missile-warning-ground-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T14:41:40.077422Z",
+            "shown_at": [
+                "2025-05-19T14:41:40.678506Z"
             ]
         }
     ]
