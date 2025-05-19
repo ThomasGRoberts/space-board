@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "585f8c2c7d029d455e452cb814f71793",
+    "trigger_count": 0,
+    "current_item_id": "f0fe81b6914dcdb528c196dba515b27c",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10331,6 +10331,18 @@
             "fetched_datetime": "2025-05-19T19:49:33.386168Z",
             "shown_at": [
                 "2025-05-19T19:49:34.037301Z"
+            ]
+        },
+        {
+            "id": "f0fe81b6914dcdb528c196dba515b27c",
+            "source": "breaking_defense",
+            "text": "ODNI looking to reform contracting practices: Gabbard",
+            "source_link": "https://breakingdefense.com/2025/05/odni-looking-to-reform-contracting-practices-gabbard/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T20:03:30.937396Z",
+            "shown_at": [
+                "2025-05-19T20:03:31.468716Z"
             ]
         }
     ]
