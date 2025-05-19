@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 30 | 56 |
-| supercluster | 0 | 0 | 154 | 336 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| supercluster | 0 | 0 | 154 | 335 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4674,3 +4674,4 @@
 - **May 19, 04:19 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 19, 04:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 19, 04:47 PM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
+- **May 19, 05:02 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
