@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 26 | 52 |
+| spacenews | 3 | 6 | 27 | 53 |
 | supercluster | 0 | 0 | 175 | 350 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 24 | 50 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4635,3 +4635,4 @@
 - **May 19, 11:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 11:37 AM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)
+- **May 19, 11:51 AM** - Voyager Technologies files to go public (spacenews)
