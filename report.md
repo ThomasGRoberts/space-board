@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 334 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4586,3 +4586,4 @@
 - **May 19, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 06:32 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
 - **May 19, 06:49 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 19, 07:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
