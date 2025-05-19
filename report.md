@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 52 |
 | supercluster | 0 | 0 | 175 | 350 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4615,3 +4615,4 @@
 - **May 19, 09:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:38 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
+- **May 19, 09:55 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
