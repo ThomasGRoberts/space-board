@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 29 | 55 |
-| supercluster | 0 | 0 | 161 | 337 |
+| supercluster | 0 | 0 | 161 | 336 |
 | breaking_defense | 0 | 0 | 23 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4651,3 +4651,4 @@
 - **May 19, 01:36 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
 - **May 19, 01:51 PM** - EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming (breaking_defense)
 - **May 19, 02:07 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
+- **May 19, 02:24 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
