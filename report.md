@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 292 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4526,3 +4526,4 @@
 - **May 19, 12:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 12:51 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
 - **May 19, 01:07 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 19, 01:21 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
