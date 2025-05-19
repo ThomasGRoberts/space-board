@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 14 | 31 | 57 |
-| supercluster | 0 | 0 | 156 | 331 |
+| supercluster | 0 | 0 | 157 | 331 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4720,3 +4720,4 @@
 - **May 19, 09:27 PM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
 - **May 19, 09:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 19, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
