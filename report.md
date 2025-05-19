@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 57 |
-| supercluster | 0 | 0 | 154 | 329 |
+| supercluster | 0 | 0 | 155 | 330 |
 | breaking_defense | 2 | 2 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4697,3 +4697,4 @@
 - **May 19, 06:53 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 19, 07:07 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 19, 07:21 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 19, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
