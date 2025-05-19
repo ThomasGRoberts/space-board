@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 30 | 56 |
-| supercluster | 0 | 0 | 159 | 336 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| spacenews | 8 | 10 | 30 | 55 |
+| supercluster | 0 | 0 | 157 | 336 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4663,3 +4663,4 @@
 - **May 19, 03:09 PM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
 - **May 19, 03:23 PM** - Japan’s iQPS lines up eight SAR launches (spacenews)
 - **May 19, 03:37 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 19, 03:51 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
