@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf89951b6100e0e4689369699d253aa6",
+    "trigger_count": 0,
+    "current_item_id": "0443d4b8f6b2aa1c4b4017d97be9fa5d",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10344,6 +10344,18 @@
             "fetched_datetime": "2025-05-19T20:03:30.937396Z",
             "shown_at": [
                 "2025-05-19T20:03:31.468716Z"
+            ]
+        },
+        {
+            "id": "0443d4b8f6b2aa1c4b4017d97be9fa5d",
+            "source": "spacenews",
+            "text": "Gabbard signals shift in U.S. intelligence collection priorities",
+            "source_link": "https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T20:31:54.581924Z",
+            "shown_at": [
+                "2025-05-19T20:31:55.133973Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 30 | 57 |
+| spacenews | 11 | 14 | 31 | 58 |
 | supercluster | 0 | 0 | 154 | 329 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 47 |
@@ -4707,3 +4707,4 @@
 - **May 19, 07:49 PM** - NATO allies to pledge capabilities to address growing threats (spacenews)
 - **May 19, 08:03 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 19, 08:17 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 19, 08:31 PM** - Gabbard signals shift in U.S. intelligence collection priorities (spacenews)
