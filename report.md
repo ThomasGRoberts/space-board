@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 30 | 56 |
-| supercluster | 0 | 0 | 160 | 336 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| supercluster | 0 | 0 | 159 | 336 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4684,3 +4684,4 @@
 - **May 19, 05:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 05:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 19, 05:43 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
+- **May 19, 05:57 PM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
