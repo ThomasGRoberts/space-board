@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 285 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4515,3 +4515,4 @@
 - **May 18, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 18, 11:51 PM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
+- **May 19, 12:08 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
