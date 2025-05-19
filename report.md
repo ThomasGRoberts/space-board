@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 30 | 55 |
-| supercluster | 0 | 0 | 159 | 336 |
+| spacenews | 9 | 11 | 31 | 56 |
+| supercluster | 0 | 0 | 158 | 336 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4673,3 +4673,4 @@
 - **May 19, 04:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 04:19 PM** - Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties (spacenews)
 - **May 19, 04:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 19, 04:47 PM** - Scientists urge NASA to act on Apophis mission concept (spacenews)

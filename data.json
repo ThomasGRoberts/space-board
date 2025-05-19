@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf89951b6100e0e4689369699d253aa6",
+    "trigger_count": 0,
+    "current_item_id": "6341047b8dc7cb68f28a0a27f3f0b355",
     "data": [
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
@@ -10255,6 +10255,18 @@
             "fetched_datetime": "2025-05-19T15:23:31.470975Z",
             "shown_at": [
                 "2025-05-19T15:23:32.138940Z"
+            ]
+        },
+        {
+            "id": "6341047b8dc7cb68f28a0a27f3f0b355",
+            "source": "spacenews",
+            "text": "Scientists urge NASA to act on Apophis mission concept",
+            "source_link": "https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T16:47:11.632619Z",
+            "shown_at": [
+                "2025-05-19T16:47:12.156125Z"
             ]
         }
     ]
