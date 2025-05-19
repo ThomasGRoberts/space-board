@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 52 |
-| supercluster | 0 | 0 | 173 | 350 |
+| supercluster | 0 | 0 | 172 | 350 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4616,3 +4616,4 @@
 - **May 19, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 19, 09:38 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
 - **May 19, 09:55 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 19, 10:09 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
