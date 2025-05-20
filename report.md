@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 23 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| nyt | 2 | 2 | 21 | 43 |
+| nyt | 2 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 66 | 66 |
 
@@ -4326,3 +4326,4 @@
 - **May 20, 11:15 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 11:17 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 11:19 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 11:21 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
