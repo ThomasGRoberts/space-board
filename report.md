@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 55 |
+| spacenews | 8 | 17 | 26 | 56 |
 | breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4281,3 +4281,4 @@
 - **May 20, 05:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 06:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 06:03 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 20, 06:17 PM** - Space cuisine and the foundation of new space culture (spacenews)
