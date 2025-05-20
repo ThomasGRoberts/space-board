@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7e91a203f1688327be89af1dbb94e308",
+    "trigger_count": 0,
+    "current_item_id": "fe2f78fbf26b2640f015faad72790570",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9718,6 +9718,20 @@
             "shown_at": [
                 "2025-05-20T09:09:30.982002Z",
                 "2025-05-20T10:07:46.849376Z"
+            ]
+        },
+        {
+            "id": "fe2f78fbf26b2640f015faad72790570",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 7A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-7ajt",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-20T11:50:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-05-20T12:02:07.124855Z",
+            "shown_at": [
+                "2025-05-20T12:02:08.381986Z"
             ]
         }
     ]
