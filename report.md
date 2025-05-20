@@ -5,7 +5,7 @@
 | spacenews | 12 | 15 | 31 | 58 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | supercluster | 0 | 0 | 154 | 329 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4642,3 +4642,4 @@
 - **May 20, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 12:45 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 12:59 AM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
+- **May 20, 01:13 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
