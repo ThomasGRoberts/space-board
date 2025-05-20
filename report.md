@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 30 | 55 |
+| spacenews | 12 | 14 | 29 | 55 |
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4249,3 +4249,4 @@
 - **May 20, 09:09 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 09:23 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 09:37 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 09:39 AM** - China Will Launch the Long March 7A Rocket (supercluster)
