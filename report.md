@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 47 |
 | nyt | 1 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4235,3 +4235,4 @@
 - **May 20, 01:42 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 20, 01:57 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 01:59 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 02:02 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
