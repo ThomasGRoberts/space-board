@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 26 | 56 |
 | breaking_defense | 2 | 3 | 23 | 46 |
-| nyt | 2 | 2 | 21 | 44 |
+| nyt | 2 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 38 | 38 |
 
@@ -4282,3 +4282,4 @@
 - **May 20, 06:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 06:03 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 20, 06:17 PM** - Space cuisine and the foundation of new space culture (spacenews)
+- **May 20, 06:32 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
