@@ -5,7 +5,7 @@
 | spacenews | 12 | 15 | 31 | 58 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | supercluster | 0 | 0 | 154 | 329 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4662,3 +4662,4 @@
 - **May 20, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 02:37 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 20, 02:51 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
+- **May 20, 03:07 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
