@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 27 | 57 |
+| spacenews | 9 | 20 | 26 | 57 |
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 48 | 48 |
+| supercluster | 2 | 2 | 49 | 49 |
 
 # Shown Order
 
@@ -4299,3 +4299,4 @@
 - **May 20, 08:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 08:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 08:29 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 08:31 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
