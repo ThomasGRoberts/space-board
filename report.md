@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 26 | 57 |
-| breaking_defense | 2 | 4 | 22 | 46 |
+| breaking_defense | 2 | 4 | 23 | 47 |
 | nyt | 2 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 45 | 45 |
@@ -4294,3 +4294,4 @@
 - **May 20, 07:15 PM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
 - **May 20, 07:30 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
 - **May 20, 07:43 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 20, 07:57 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
