@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
+    "trigger_count": 0,
+    "current_item_id": "51061ec5e3025f2be63c6d8da6c9c988",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9734,6 +9734,18 @@
                 "2025-05-20T12:51:34.066373Z",
                 "2025-05-20T12:53:49.121875Z",
                 "2025-05-20T12:55:43.345246Z"
+            ]
+        },
+        {
+            "id": "51061ec5e3025f2be63c6d8da6c9c988",
+            "source": "spacenews",
+            "text": "Wyvern publicly releases 25 hyperspectral images",
+            "source_link": "https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T12:57:34.901401Z",
+            "shown_at": [
+                "2025-05-20T12:57:35.539047Z"
             ]
         }
     ]
