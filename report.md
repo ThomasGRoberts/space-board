@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 27 | 56 |
-| breaking_defense | 3 | 3 | 23 | 46 |
+| breaking_defense | 3 | 3 | 24 | 47 |
 | nyt | 1 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -4232,3 +4232,4 @@
 - **May 20, 12:57 PM** - Wyvern publicly releases 25 hyperspectral images (spacenews)
 - **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 20, 01:25 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 20, 01:42 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
