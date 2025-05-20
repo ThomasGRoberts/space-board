@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4206,3 +4206,4 @@
 - **May 20, 03:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 04:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 05:02 AM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
+- **May 20, 05:17 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
