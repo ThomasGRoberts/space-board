@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4268,3 +4268,4 @@
 - **May 20, 10:49 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
 - **May 20, 11:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 11:19 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
+- **May 20, 11:33 AM** - China Will Launch the Long March 7A Rocket (supercluster)
