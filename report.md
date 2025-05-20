@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 29 | 55 |
+| spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4225,3 +4225,4 @@
 - **May 20, 06:53 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 06:55 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 06:57 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 06:59 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
