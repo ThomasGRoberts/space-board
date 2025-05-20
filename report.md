@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 47 | 47 |
+| supercluster | 2 | 2 | 48 | 48 |
 
 # Shown Order
 
@@ -4298,3 +4298,4 @@
 - **May 20, 08:11 PM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
 - **May 20, 08:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 08:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 08:29 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
