@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 27 | 57 |
 | breaking_defense | 2 | 4 | 22 | 46 |
-| nyt | 2 | 2 | 21 | 43 |
+| nyt | 2 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 45 | 45 |
 
@@ -4293,3 +4293,4 @@
 - **May 20, 07:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 07:15 PM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
 - **May 20, 07:30 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
+- **May 20, 07:43 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
