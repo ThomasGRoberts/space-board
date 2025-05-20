@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4228,3 +4228,4 @@
 - **May 20, 06:59 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 20, 07:13 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 07:27 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
+- **May 20, 07:41 AM** - China Will Launch the Long March 7A Rocket (supercluster)
