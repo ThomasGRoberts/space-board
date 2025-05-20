@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 26 | 57 |
 | breaking_defense | 1 | 4 | 22 | 46 |
-| nyt | 2 | 2 | 21 | 44 |
+| nyt | 2 | 2 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 54 | 54 |
+| supercluster | 2 | 2 | 55 | 55 |
 
 # Shown Order
 
@@ -4308,3 +4308,4 @@
 - **May 20, 09:11 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 20, 09:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 09:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 09:29 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
