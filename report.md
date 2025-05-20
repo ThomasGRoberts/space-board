@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 27 | 57 |
+| spacenews | 9 | 20 | 26 | 57 |
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 53 | 53 |
+| supercluster | 2 | 2 | 54 | 54 |
 
 # Shown Order
 
@@ -4307,3 +4307,4 @@
 - **May 20, 08:55 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 20, 09:11 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
 - **May 20, 09:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 09:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
