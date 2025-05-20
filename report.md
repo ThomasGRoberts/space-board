@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
-| breaking_defense | 3 | 3 | 23 | 47 |
+| breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
@@ -4257,3 +4257,4 @@
 - **May 20, 09:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 09:53 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
 - **May 20, 10:07 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
+- **May 20, 10:21 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
