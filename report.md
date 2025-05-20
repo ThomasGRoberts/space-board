@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 24 | 49 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4204,4 +4204,4 @@
 - **May 20, 02:51 AM** - Senate forms ‘Golden Dome Caucus’ to champion missile defense shield (spacenews)
 - **May 20, 03:07 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 03:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
-- **May 20, 04:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
