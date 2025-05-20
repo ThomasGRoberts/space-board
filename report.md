@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 56 |
-| breaking_defense | 3 | 3 | 23 | 46 |
+| breaking_defense | 2 | 3 | 22 | 46 |
 | nyt | 1 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 2 | 2 | 11 | 11 |
 
 # Shown Order
 
@@ -4242,3 +4242,4 @@
 - **May 20, 02:11 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 02:13 PM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
 - **May 20, 02:27 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
+- **May 20, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
