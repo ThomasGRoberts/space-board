@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4216,3 +4216,4 @@
 - **May 20, 05:57 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 05:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 06:02 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
+- **May 20, 06:17 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
