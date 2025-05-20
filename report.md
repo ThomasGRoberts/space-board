@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 26 | 56 |
+| spacenews | 9 | 20 | 27 | 57 |
 | breaking_defense | 1 | 4 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4315,3 +4315,4 @@
 - **May 20, 09:37 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 09:39 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 20, 09:53 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 20, 10:09 PM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
