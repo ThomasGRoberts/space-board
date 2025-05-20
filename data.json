@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "21a04cd9b76546266a3743d65ae47ed6",
+    "trigger_count": 0,
+    "current_item_id": "9afab0e68411f5331271f49736b88797",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9844,6 +9844,18 @@
             "fetched_datetime": "2025-05-20T16:09:52.610591Z",
             "shown_at": [
                 "2025-05-20T16:09:56.910651Z"
+            ]
+        },
+        {
+            "id": "9afab0e68411f5331271f49736b88797",
+            "source": "spacenews",
+            "text": "Jason Rainbow Appointed Business Intelligence Manager at SpaceNews",
+            "source_link": "https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T17:21:51.873480Z",
+            "shown_at": [
+                "2025-05-20T17:21:52.932534Z"
             ]
         }
     ]

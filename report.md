@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 55 |
+| spacenews | 9 | 17 | 27 | 56 |
 | breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4271,3 +4271,4 @@
 - **May 20, 04:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 04:53 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 20, 05:07 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
+- **May 20, 05:21 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
