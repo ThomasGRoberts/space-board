@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 29 | 55 |
+| spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4255,3 +4255,4 @@
 - **May 20, 09:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 09:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 09:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 09:53 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
