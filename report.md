@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 28 | 56 |
 | breaking_defense | 3 | 3 | 23 | 46 |
-| nyt | 1 | 1 | 20 | 44 |
+| nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -4231,3 +4231,4 @@
 - **May 20, 12:55 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 12:57 PM** - Wyvern publicly releases 25 hyperspectral images (spacenews)
 - **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)
+- **May 20, 01:25 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
