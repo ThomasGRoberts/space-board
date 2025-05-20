@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4226,4 +4226,3 @@
 - **May 20, 11:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 11:19 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 20, 11:47 AM** - Big ideas need big rockets (spacenews)
-- **May 20, 12:02 PM** - China Will Launch the Long March 7A Rocket (supercluster)
