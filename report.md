@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -4256,3 +4256,4 @@
 - **May 20, 09:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 09:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 09:53 AM** - How Earth observation satellite operators are teaming up to tip and cue one another (spacenews)
+- **May 20, 10:07 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
