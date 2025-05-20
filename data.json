@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4b7a070a488c16f87918546315672f2e",
+    "trigger_count": 0,
+    "current_item_id": "1796b1f6378c7d816e332777755a42be",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9822,6 +9822,18 @@
             "fetched_datetime": "2025-05-20T15:27:12.039260Z",
             "shown_at": [
                 "2025-05-20T15:27:12.728612Z"
+            ]
+        },
+        {
+            "id": "1796b1f6378c7d816e332777755a42be",
+            "source": "spacenews",
+            "text": "Kuva to offer maritime-domain insights with satellite on deck",
+            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T16:09:52.610591Z",
+            "shown_at": [
+                "2025-05-20T16:09:56.910651Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 55 |
+| spacenews | 9 | 17 | 27 | 56 |
 | breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4260,3 +4260,4 @@
 - **May 20, 03:51 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 03:53 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 03:55 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 20, 04:09 PM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
