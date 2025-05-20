@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 23 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 18 | 18 |
+| supercluster | 2 | 2 | 19 | 19 |
 
 # Shown Order
 
@@ -4253,3 +4253,4 @@
 - **May 20, 03:11 PM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
 - **May 20, 03:27 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 20, 03:41 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 03:43 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
