@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 60 | 60 |
+| supercluster | 2 | 2 | 61 | 61 |
 
 # Shown Order
 
@@ -4320,3 +4320,4 @@
 - **May 20, 10:37 PM** - Kuva to offer maritime-domain insights with growing constellation (spacenews)
 - **May 20, 10:51 PM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
 - **May 20, 11:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 11:09 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
