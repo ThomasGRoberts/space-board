@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 3,
-    "current_item_id": "fe2f78fbf26b2640f015faad72790570",
+    "trigger_count": 4,
+    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9721,15 +9721,18 @@
             ]
         },
         {
-            "id": "fe2f78fbf26b2640f015faad72790570",
+            "id": "1b51759bd910f8feff496d0a375975ef",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 7A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-7ajt",
-            "shown": false,
+            "text": "China Will Launch the Kinetica 1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/kinetica-1gv",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-20T11:50:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-20T12:49:43.755984Z"
+            "target_datetime": "2025-05-21T04:00:00.000Z",
+            "time_remaining": "0d 15h 08m",
+            "fetched_datetime": "2025-05-20T12:51:33.388158Z",
+            "shown_at": [
+                "2025-05-20T12:51:34.066373Z"
+            ]
         }
     ]
 }
