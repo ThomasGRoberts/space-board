@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 15 | 31 | 57 |
 | breaking_defense | 3 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 154 | 329 |
+| supercluster | 0 | 0 | 155 | 330 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4633,3 +4633,4 @@
 - **May 19, 11:49 PM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
 - **May 20, 12:03 AM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
 - **May 20, 12:17 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 20, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
