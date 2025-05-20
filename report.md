@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 47 |
 | nyt | 1 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4227,3 +4227,4 @@
 - **May 20, 11:19 AM** - DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot (breaking_defense)
 - **May 20, 11:47 AM** - Big ideas need big rockets (spacenews)
 - **May 20, 12:51 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 12:53 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
