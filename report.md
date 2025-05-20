@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 15 | 31 | 57 |
-| breaking_defense | 3 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 158 | 333 |
+| breaking_defense | 3 | 3 | 25 | 50 |
+| supercluster | 0 | 0 | 157 | 331 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4670,3 +4670,4 @@
 - **May 20, 03:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 03:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 03:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
