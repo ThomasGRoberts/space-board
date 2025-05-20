@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 23 | 28 | 59 |
-| breaking_defense | 1 | 4 | 21 | 46 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 61 | 61 |
+| supercluster | 2 | 2 | 62 | 62 |
 
 # Shown Order
 
@@ -4321,3 +4321,4 @@
 - **May 20, 10:51 PM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
 - **May 20, 11:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 11:09 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 20, 11:11 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
