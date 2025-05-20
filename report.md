@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 52 | 52 |
+| supercluster | 2 | 2 | 53 | 53 |
 
 # Shown Order
 
@@ -4306,3 +4306,4 @@
 - **May 20, 08:39 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 08:55 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 20, 09:11 PM** - Senate confirms Troy Meink as Air Force secretary with bipartisan support (spacenews)
+- **May 20, 09:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
