@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 15 | 31 | 57 |
 | breaking_defense | 3 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 155 | 330 |
+| supercluster | 0 | 0 | 156 | 331 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4634,3 +4634,4 @@
 - **May 20, 12:03 AM** - Space debris crisis: the national security threat we’re ignoring (spacenews)
 - **May 20, 12:17 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 20, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 12:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
