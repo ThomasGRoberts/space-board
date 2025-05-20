@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0992ec68cc6e0c90b51779191c4aeeae",
+    "trigger_count": 0,
+    "current_item_id": "6248afe125eb72431c02154104da4a4f",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9912,6 +9912,18 @@
             "fetched_datetime": "2025-05-20T19:15:23.460915Z",
             "shown_at": [
                 "2025-05-20T19:30:16.134039Z"
+            ]
+        },
+        {
+            "id": "6248afe125eb72431c02154104da4a4f",
+            "source": "spacenews",
+            "text": "MDA Space raises SatixFy offer by 43% to counter competing bid",
+            "source_link": "https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T20:11:57.237665Z",
+            "shown_at": [
+                "2025-05-20T20:11:58.330528Z"
             ]
         }
     ]

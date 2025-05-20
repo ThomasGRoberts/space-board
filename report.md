@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 26 | 56 |
+| spacenews | 10 | 20 | 27 | 57 |
 | breaking_defense | 1 | 4 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4295,3 +4295,4 @@
 - **May 20, 07:30 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
 - **May 20, 07:43 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 20, 07:57 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
+- **May 20, 08:11 PM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
