@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4b7a070a488c16f87918546315672f2e",
+    "trigger_count": 0,
+    "current_item_id": "db5d6a64cc8c25e2b56084bba716b991",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9790,6 +9790,18 @@
                 "2025-05-20T14:49:32.253418Z",
                 "2025-05-20T14:51:34.265271Z",
                 "2025-05-20T14:53:35.805583Z"
+            ]
+        },
+        {
+            "id": "db5d6a64cc8c25e2b56084bba716b991",
+            "source": "spacenews",
+            "text": "Geospatial intelligence agency urges faster AI deployment",
+            "source_link": "https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T15:11:47.286970Z",
+            "shown_at": [
+                "2025-05-20T15:11:48.100154Z"
             ]
         }
     ]
