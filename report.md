@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 27 | 56 |
 | breaking_defense | 2 | 3 | 23 | 46 |
-| nyt | 2 | 2 | 20 | 44 |
+| nyt | 2 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 31 | 31 |
 
@@ -4272,3 +4272,4 @@
 - **May 20, 04:53 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 20, 05:07 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 20, 05:21 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
+- **May 20, 05:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
