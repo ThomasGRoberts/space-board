@@ -5,7 +5,7 @@
 | spacenews | 12 | 15 | 31 | 58 |
 | breaking_defense | 3 | 3 | 24 | 49 |
 | supercluster | 0 | 0 | 154 | 329 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4652,3 +4652,4 @@
 - **May 20, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 01:41 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 20, 01:55 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
+- **May 20, 02:09 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
