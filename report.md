@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 23 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 25 | 25 |
+| supercluster | 2 | 2 | 26 | 26 |
 
 # Shown Order
 
@@ -4263,3 +4263,4 @@
 - **May 20, 04:09 PM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
 - **May 20, 04:23 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 20, 04:38 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
