@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 21 | 27 | 58 |
+| spacenews | 11 | 22 | 28 | 59 |
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4317,3 +4317,4 @@
 - **May 20, 09:53 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 20, 10:09 PM** - Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds (spacenews)
 - **May 20, 10:23 PM** - Kuva to offer maritime-domain insights (spacenews)
+- **May 20, 10:37 PM** - Kuva to offer maritime-domain insights with growing constellation (spacenews)
