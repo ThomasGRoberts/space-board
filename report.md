@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 
 # Shown Order
 
@@ -4296,3 +4296,4 @@
 - **May 20, 07:43 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 20, 07:57 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 20, 08:11 PM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
+- **May 20, 08:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
