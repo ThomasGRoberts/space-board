@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "db5d6a64cc8c25e2b56084bba716b991",
+    "trigger_count": 0,
+    "current_item_id": "bfdf97f833ed80a4d99225a6c204f7d1",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9802,6 +9802,18 @@
             "fetched_datetime": "2025-05-20T15:11:47.286970Z",
             "shown_at": [
                 "2025-05-20T15:11:48.100154Z"
+            ]
+        },
+        {
+            "id": "bfdf97f833ed80a4d99225a6c204f7d1",
+            "source": "nyt",
+            "text": "Trump’s Gulf Trip Also Brought Benefits to Elon Musk",
+            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T15:27:12.039260Z",
+            "shown_at": [
+                "2025-05-20T15:27:12.728612Z"
             ]
         }
     ]

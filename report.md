@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 26 | 56 |
 | breaking_defense | 2 | 3 | 23 | 46 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 2 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 17 | 17 |
 
@@ -4251,3 +4251,4 @@
 - **May 20, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 02:55 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 20, 03:11 PM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
+- **May 20, 03:27 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
