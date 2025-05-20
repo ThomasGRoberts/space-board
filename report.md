@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 29 | 56 |
+| spacenews | 12 | 14 | 29 | 55 |
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4219,3 +4219,4 @@
 - **May 20, 06:17 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 20, 06:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 20, 06:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 06:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
