@@ -1,9 +1,189 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-19T00:02:14.540148+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
+    "trigger_count": 6,
     "current_item_id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
     "data": [
+        {
+            "id": "21a04cd9b76546266a3743d65ae47ed6",
+            "source": "spacenews",
+            "text": "SI Imaging Services to offer leasing of high-resolution imaging satellite",
+            "source_link": "https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T23:07:05.951638Z",
+            "shown_at": [
+                "2025-05-19T23:07:06.626560Z"
+            ]
+        },
+        {
+            "id": "0443d4b8f6b2aa1c4b4017d97be9fa5d",
+            "source": "spacenews",
+            "text": "Gabbard signals shift in U.S. intelligence collection priorities",
+            "source_link": "https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T20:31:54.581924Z",
+            "shown_at": [
+                "2025-05-19T20:31:55.133973Z"
+            ]
+        },
+        {
+            "id": "f0fe81b6914dcdb528c196dba515b27c",
+            "source": "breaking_defense",
+            "text": "ODNI looking to reform contracting practices: Gabbard",
+            "source_link": "https://breakingdefense.com/2025/05/odni-looking-to-reform-contracting-practices-gabbard/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T20:03:30.937396Z",
+            "shown_at": [
+                "2025-05-19T20:03:31.468716Z"
+            ]
+        },
+        {
+            "id": "585f8c2c7d029d455e452cb814f71793",
+            "source": "spacenews",
+            "text": "NATO allies to pledge capabilities to address growing threats",
+            "source_link": "https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T19:49:33.386168Z",
+            "shown_at": [
+                "2025-05-19T19:49:34.037301Z"
+            ]
+        },
+        {
+            "id": "4b7a070a488c16f87918546315672f2e",
+            "source": "breaking_defense",
+            "text": "NATO aims to bolster investments in space, intelligence sharing",
+            "source_link": "https://breakingdefense.com/2025/05/nato-aims-to-bolster-investments-in-space-intelligence-sharing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T19:21:43.501175Z",
+            "shown_at": [
+                "2025-05-19T19:21:44.734177Z"
+            ]
+        },
+        {
+            "id": "6f89984d8f386ccbf11b7801b4cae709",
+            "source": "spacenews",
+            "text": "SatVu’s thermal imaging satellite winning over customers despite early setback",
+            "source_link": "https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T18:11:38.805358Z",
+            "shown_at": [
+                "2025-05-19T18:11:39.378761Z"
+            ]
+        },
+        {
+            "id": "6341047b8dc7cb68f28a0a27f3f0b355",
+            "source": "spacenews",
+            "text": "Scientists urge NASA to act on Apophis mission concept",
+            "source_link": "https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T16:47:11.632619Z",
+            "shown_at": [
+                "2025-05-19T16:47:12.156125Z"
+            ]
+        },
+        {
+            "id": "dcd882ebaf1c6f263735014a75592f81",
+            "source": "spacenews",
+            "text": "Japan’s iQPS lines up eight SAR launches",
+            "source_link": "https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T15:23:31.470975Z",
+            "shown_at": [
+                "2025-05-19T15:23:32.138940Z"
+            ]
+        },
+        {
+            "id": "104dd17f2cea4dfa1716a9bd33c7517d",
+            "source": "breaking_defense",
+            "text": "Space Force FORGEing ahead with missile warning ground system",
+            "source_link": "https://breakingdefense.com/2025/05/space-force-forgeing-ahead-with-missile-warning-ground-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T14:41:40.077422Z",
+            "shown_at": [
+                "2025-05-19T14:41:40.678506Z"
+            ]
+        },
+        {
+            "id": "b26bc66358eaa68de607249acd798e58",
+            "source": "spacenews",
+            "text": "Seraphim picks 10 startups for 15th space accelerator",
+            "source_link": "https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T14:07:44.092073Z",
+            "shown_at": [
+                "2025-05-19T14:07:44.805803Z"
+            ]
+        },
+        {
+            "id": "1398fc7ca2b8d5fd3d30f390dd85ab4b",
+            "source": "spacenews",
+            "text": "Commercial radar satellite firm eyes role in U.S. missile defense",
+            "source_link": "https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T13:07:32.343952Z",
+            "shown_at": [
+                "2025-05-19T13:36:34.731444Z"
+            ]
+        },
+        {
+            "id": "52d0734f96ef8a012fe202785f5bd184",
+            "source": "spacenews",
+            "text": "Sophia Space raises $3.5 million for orbiting data centers",
+            "source_link": "https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T13:07:32.343906Z",
+            "shown_at": [
+                "2025-05-19T13:21:50.941818Z"
+            ]
+        },
+        {
+            "id": "740dc2695c92cb67d40b28b6a148f37a",
+            "source": "spacenews",
+            "text": "As Washington rethinks broadband strategy, satellite solutions deserve equal consideration",
+            "source_link": "https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T13:07:32.343837Z",
+            "shown_at": [
+                "2025-05-19T13:07:33.114173Z"
+            ]
+        },
+        {
+            "id": "f34056f7d2843500140e067f6094f78c",
+            "source": "spacenews",
+            "text": "China to launch Tianwen-2 asteroid sampling mission on May 28",
+            "source_link": "https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T12:05:50.481286Z",
+            "shown_at": [
+                "2025-05-19T12:05:51.517327Z"
+            ]
+        },
+        {
+            "id": "8a951ce0a81fa36017956a2d785190c6",
+            "source": "spacenews",
+            "text": "Voyager Technologies files to go public",
+            "source_link": "https://spacenews.com/voyager-technologies-files-to-go-public/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-19T11:51:40.735317Z",
+            "shown_at": [
+                "2025-05-19T11:51:41.368621Z"
+            ]
+        },
         {
             "id": "4053b2c701a88ad65bb20420016b0f3f",
             "source": "spacenews",
@@ -9945,466 +10125,6 @@
                 "2025-03-25T02:45:37.614469Z",
                 "2025-03-25T08:47:39.638208Z",
                 "2025-03-25T14:41:33.564623Z"
-            ]
-        },
-        {
-            "id": "c57ba2a54153aa2e57379a290abd531d",
-            "source": "breaking_defense",
-            "text": "5 Chinese satellites practiced ‘dogfighting’ in space, Space Force says",
-            "source_link": "https://breakingdefense.com/2025/03/5-chinese-satellites-practiced-dogfighting-in-space-space-force-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:37:41.471274Z",
-            "shown_at": [
-                "2025-03-18T21:37:42.459708Z",
-                "2025-03-19T00:17:28.428139Z",
-                "2025-03-19T03:47:34.547729Z",
-                "2025-03-19T10:47:10.351277Z",
-                "2025-03-19T11:59:40.713586Z",
-                "2025-03-20T07:15:12.473762Z",
-                "2025-03-20T09:41:49.706485Z",
-                "2025-03-20T11:09:39.421552Z",
-                "2025-03-21T22:21:25.594387Z",
-                "2025-03-22T03:19:48.221800Z",
-                "2025-03-22T10:41:15.923261Z",
-                "2025-03-23T08:05:47.836505Z",
-                "2025-03-23T14:05:34.950894Z",
-                "2025-03-23T18:53:53.036313Z"
-            ]
-        },
-        {
-            "id": "b4ef4d0277ae4d7047b87d77371b848f",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Enter Crucial Stage of Their Return Flight Home",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:23:31.243890Z",
-            "shown_at": [
-                "2025-03-18T21:23:31.825345Z",
-                "2025-03-19T03:19:55.268758Z",
-                "2025-03-20T09:13:47.267339Z",
-                "2025-03-21T04:53:45.571058Z",
-                "2025-03-21T08:59:37.158949Z",
-                "2025-03-23T07:51:40.452341Z",
-                "2025-03-23T23:23:46.226621Z",
-                "2025-03-24T06:49:49.676512Z",
-                "2025-03-25T04:29:01.319680Z"
-            ]
-        },
-        {
-            "id": "4446806785e13482ca21628092c0bc4c",
-            "source": "spacenews",
-            "text": "Space Force prepared to divest legacy systems in favor of market-ready solutions",
-            "source_link": "https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T21:07:37.293921Z",
-            "shown_at": [
-                "2025-03-18T21:07:37.937382Z",
-                "2025-03-20T01:43:44.523927Z",
-                "2025-03-23T16:59:45.057762Z",
-                "2025-03-25T03:59:44.406630Z"
-            ]
-        },
-        {
-            "id": "6227961426c59e1c606c33487255788d",
-            "source": "spacenews",
-            "text": "U.S. restores satellite imagery support to Ukraine amid ceasefire tensions",
-            "source_link": "https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T18:49:36.994309Z",
-            "shown_at": [
-                "2025-03-18T18:49:37.713852Z",
-                "2025-03-19T11:17:56.150660Z",
-                "2025-03-21T16:39:41.097321Z",
-                "2025-03-22T10:13:46.143109Z"
-            ]
-        },
-        {
-            "id": "cbe55c83b487bb3d9b6d4002611dd3a8",
-            "source": "spacenews",
-            "text": "Samara Aerospace poised for spaceflight testing of Hummingbird technology",
-            "source_link": "https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T15:51:29.242347Z",
-            "shown_at": [
-                "2025-03-18T15:51:29.875103Z"
-            ]
-        },
-        {
-            "id": "2b54c28bc7abf637f1be1a06fc698834",
-            "source": "spacenews",
-            "text": "Proteus Space™ Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
-            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T14:51:51.275438Z",
-            "shown_at": [
-                "2025-03-18T14:51:53.410246Z",
-                "2025-03-24T01:03:29.873688Z"
-            ]
-        },
-        {
-            "id": "49c51a9449935b19719ab3ed49765d4f",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Await Splashdown That Will Bring Them Home",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T13:21:59.915910Z",
-            "shown_at": [
-                "2025-03-18T13:22:00.482948Z",
-                "2025-03-20T02:25:29.684548Z",
-                "2025-03-21T01:07:59.838123Z",
-                "2025-03-22T04:15:32.090195Z",
-                "2025-03-23T09:02:08.516019Z",
-                "2025-03-23T12:37:29.797900Z",
-                "2025-03-23T20:59:37.792067Z",
-                "2025-03-23T22:11:41.861834Z",
-                "2025-03-24T12:33:45.930145Z",
-                "2025-03-25T05:40:55.276118Z"
-            ]
-        },
-        {
-            "id": "8870fc3abb140ca75cdac76c8a2b0a7b",
-            "source": "spacenews",
-            "text": "Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18",
-            "source_link": "https://spacenews.com/psionic-achieves-milestone-in-in-flight-testing-of-space-navigation-doppler-lidar-system-aboard-nasa-f-18/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T13:07:41.382302Z",
-            "shown_at": [
-                "2025-03-18T13:07:41.962756Z",
-                "2025-03-22T05:11:37.775801Z",
-                "2025-03-24T02:15:47.736741Z",
-                "2025-03-25T10:02:13.110354Z"
-            ]
-        },
-        {
-            "id": "910c29e3d6b8d865ecc38d2727bab252",
-            "source": "spacenews",
-            "text": "Isar Aerospace sets date for first launch after receiving license",
-            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T11:37:25.152283Z",
-            "shown_at": [
-                "2025-03-18T11:37:25.710914Z",
-                "2025-03-19T21:33:17.455134Z",
-                "2025-03-20T10:11:21.242644Z",
-                "2025-03-22T22:11:54.333492Z"
-            ]
-        },
-        {
-            "id": "58ac38ad3689a1606f7917e8ac0448c4",
-            "source": "spacenews",
-            "text": "Rocket Lab launches final set of Kinéis satellites",
-            "source_link": "https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T10:25:50.173076Z",
-            "shown_at": [
-                "2025-03-18T10:25:50.908864Z",
-                "2025-03-19T16:09:39.131821Z",
-                "2025-03-21T04:39:09.859604Z",
-                "2025-03-21T15:29:42.661087Z",
-                "2025-03-21T23:03:34.184359Z"
-            ]
-        },
-        {
-            "id": "b24c54abb8ddfa924275de1eb640f00e",
-            "source": "spacenews",
-            "text": "Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding",
-            "source_link": "https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T10:11:34.915732Z",
-            "shown_at": [
-                "2025-03-18T10:11:35.516489Z",
-                "2025-03-19T04:15:43.261778Z",
-                "2025-03-23T19:21:49.842435Z",
-                "2025-03-25T01:35:27.273508Z",
-                "2025-03-25T07:35:37.417100Z"
-            ]
-        },
-        {
-            "id": "8718faa4330af1fa2d8fb30db7013777",
-            "source": "aidy",
-            "text": "Export Controls Modernized for Space Items, SLS Gains Legislative Support",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T07:35:45.295038Z",
-            "shown_at": [
-                "2025-03-18T07:35:46.254542Z",
-                "2025-03-18T18:01:57.698930Z",
-                "2025-03-19T05:11:39.970358Z",
-                "2025-03-19T20:25:47.155893Z",
-                "2025-03-20T03:21:29.587492Z",
-                "2025-03-20T22:55:33.719765Z",
-                "2025-03-21T00:11:45.622898Z",
-                "2025-03-21T03:57:44.909608Z",
-                "2025-03-21T20:09:45.178140Z",
-                "2025-03-21T22:35:56.326805Z",
-                "2025-03-22T04:43:31.332044Z",
-                "2025-03-22T18:19:46.622685Z",
-                "2025-03-23T01:33:29.822124Z",
-                "2025-03-23T09:59:34.792599Z",
-                "2025-03-23T16:45:32.134370Z",
-                "2025-03-23T21:27:47.727274Z",
-                "2025-03-24T00:05:47.286518Z",
-                "2025-03-24T14:47:46.894617Z",
-                "2025-03-24T16:03:32.622277Z",
-                "2025-03-24T17:13:46.092311Z"
-            ]
-        },
-        {
-            "id": "d0b07b13640e4575d62e3491fc9259fb",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Leave the I.S.S., Beginning Their Overdue Trip to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T05:17:52.536709Z",
-            "shown_at": [
-                "2025-03-18T05:17:53.439620Z",
-                "2025-03-18T09:16:02.962684Z",
-                "2025-03-18T12:07:53.274448Z",
-                "2025-03-19T04:29:45.013898Z",
-                "2025-03-19T09:09:32.463333Z",
-                "2025-03-19T15:27:49.307854Z",
-                "2025-03-21T15:13:59.538637Z",
-                "2025-03-21T20:55:46.885757Z",
-                "2025-03-22T12:53:30.836445Z",
-                "2025-03-22T16:27:58.659199Z",
-                "2025-03-22T23:39:51.543813Z",
-                "2025-03-23T10:27:28.227797Z",
-                "2025-03-25T03:15:35.648136Z"
-            ]
-        },
-        {
-            "id": "12d905cd65a7c2765d7df8720f9ebff4",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Set to Leave I.S.S. and Begin Overdue Trip to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T05:03:31.874486Z",
-            "shown_at": [
-                "2025-03-18T05:03:32.697682Z",
-                "2025-03-18T23:45:33.982609Z",
-                "2025-03-19T14:07:51.970712Z",
-                "2025-03-20T10:25:34.918568Z",
-                "2025-03-20T16:27:42.625425Z",
-                "2025-03-20T17:39:51.675466Z",
-                "2025-03-21T23:17:53.307646Z",
-                "2025-03-22T10:27:30.007958Z",
-                "2025-03-22T22:25:31.846639Z",
-                "2025-03-23T02:02:03.248406Z",
-                "2025-03-23T16:17:43.244101Z",
-                "2025-03-25T00:51:36.439410Z"
-            ]
-        },
-        {
-            "id": "cfa53c200cdfe3045bf8d04cad04edc6",
-            "source": "nyt",
-            "text": "Elon Musk’s Starlink Expands Across White House Complex",
-            "source_link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T02:35:46.873278Z",
-            "shown_at": [
-                "2025-03-18T02:35:47.910690Z",
-                "2025-03-18T14:37:51.383421Z",
-                "2025-03-19T05:39:38.279931Z",
-                "2025-03-19T20:44:00.460213Z",
-                "2025-03-21T18:59:35.514160Z",
-                "2025-03-22T01:53:38.532460Z",
-                "2025-03-24T08:13:49.498029Z",
-                "2025-03-24T10:37:40.000094Z"
-            ]
-        },
-        {
-            "id": "8a951ce0a81fa36017956a2d785190c6",
-            "source": "spacenews",
-            "text": "Voyager Technologies files to go public",
-            "source_link": "https://spacenews.com/voyager-technologies-files-to-go-public/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T11:51:40.735317Z",
-            "shown_at": [
-                "2025-05-19T11:51:41.368621Z"
-            ]
-        },
-        {
-            "id": "f34056f7d2843500140e067f6094f78c",
-            "source": "spacenews",
-            "text": "China to launch Tianwen-2 asteroid sampling mission on May 28",
-            "source_link": "https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T12:05:50.481286Z",
-            "shown_at": [
-                "2025-05-19T12:05:51.517327Z"
-            ]
-        },
-        {
-            "id": "740dc2695c92cb67d40b28b6a148f37a",
-            "source": "spacenews",
-            "text": "As Washington rethinks broadband strategy, satellite solutions deserve equal consideration",
-            "source_link": "https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343837Z",
-            "shown_at": [
-                "2025-05-19T13:07:33.114173Z"
-            ]
-        },
-        {
-            "id": "52d0734f96ef8a012fe202785f5bd184",
-            "source": "spacenews",
-            "text": "Sophia Space raises $3.5 million for orbiting data centers",
-            "source_link": "https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343906Z",
-            "shown_at": [
-                "2025-05-19T13:21:50.941818Z"
-            ]
-        },
-        {
-            "id": "1398fc7ca2b8d5fd3d30f390dd85ab4b",
-            "source": "spacenews",
-            "text": "Commercial radar satellite firm eyes role in U.S. missile defense",
-            "source_link": "https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343952Z",
-            "shown_at": [
-                "2025-05-19T13:36:34.731444Z"
-            ]
-        },
-        {
-            "id": "b26bc66358eaa68de607249acd798e58",
-            "source": "spacenews",
-            "text": "Seraphim picks 10 startups for 15th space accelerator",
-            "source_link": "https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T14:07:44.092073Z",
-            "shown_at": [
-                "2025-05-19T14:07:44.805803Z"
-            ]
-        },
-        {
-            "id": "104dd17f2cea4dfa1716a9bd33c7517d",
-            "source": "breaking_defense",
-            "text": "Space Force FORGEing ahead with missile warning ground system",
-            "source_link": "https://breakingdefense.com/2025/05/space-force-forgeing-ahead-with-missile-warning-ground-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T14:41:40.077422Z",
-            "shown_at": [
-                "2025-05-19T14:41:40.678506Z"
-            ]
-        },
-        {
-            "id": "dcd882ebaf1c6f263735014a75592f81",
-            "source": "spacenews",
-            "text": "Japan’s iQPS lines up eight SAR launches",
-            "source_link": "https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T15:23:31.470975Z",
-            "shown_at": [
-                "2025-05-19T15:23:32.138940Z"
-            ]
-        },
-        {
-            "id": "6341047b8dc7cb68f28a0a27f3f0b355",
-            "source": "spacenews",
-            "text": "Scientists urge NASA to act on Apophis mission concept",
-            "source_link": "https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T16:47:11.632619Z",
-            "shown_at": [
-                "2025-05-19T16:47:12.156125Z"
-            ]
-        },
-        {
-            "id": "6f89984d8f386ccbf11b7801b4cae709",
-            "source": "spacenews",
-            "text": "SatVu’s thermal imaging satellite winning over customers despite early setback",
-            "source_link": "https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T18:11:38.805358Z",
-            "shown_at": [
-                "2025-05-19T18:11:39.378761Z"
-            ]
-        },
-        {
-            "id": "4b7a070a488c16f87918546315672f2e",
-            "source": "breaking_defense",
-            "text": "NATO aims to bolster investments in space, intelligence sharing",
-            "source_link": "https://breakingdefense.com/2025/05/nato-aims-to-bolster-investments-in-space-intelligence-sharing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T19:21:43.501175Z",
-            "shown_at": [
-                "2025-05-19T19:21:44.734177Z"
-            ]
-        },
-        {
-            "id": "585f8c2c7d029d455e452cb814f71793",
-            "source": "spacenews",
-            "text": "NATO allies to pledge capabilities to address growing threats",
-            "source_link": "https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T19:49:33.386168Z",
-            "shown_at": [
-                "2025-05-19T19:49:34.037301Z"
-            ]
-        },
-        {
-            "id": "f0fe81b6914dcdb528c196dba515b27c",
-            "source": "breaking_defense",
-            "text": "ODNI looking to reform contracting practices: Gabbard",
-            "source_link": "https://breakingdefense.com/2025/05/odni-looking-to-reform-contracting-practices-gabbard/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T20:03:30.937396Z",
-            "shown_at": [
-                "2025-05-19T20:03:31.468716Z"
-            ]
-        },
-        {
-            "id": "0443d4b8f6b2aa1c4b4017d97be9fa5d",
-            "source": "spacenews",
-            "text": "Gabbard signals shift in U.S. intelligence collection priorities",
-            "source_link": "https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T20:31:54.581924Z",
-            "shown_at": [
-                "2025-05-19T20:31:55.133973Z"
-            ]
-        },
-        {
-            "id": "21a04cd9b76546266a3743d65ae47ed6",
-            "source": "spacenews",
-            "text": "SI Imaging Services to offer leasing of high-resolution imaging satellite",
-            "source_link": "https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T23:07:05.951638Z",
-            "shown_at": [
-                "2025-05-19T23:07:06.626560Z"
             ]
         }
     ]
