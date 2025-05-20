@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
-| breaking_defense | 3 | 3 | 23 | 48 |
+| breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
@@ -4237,3 +4237,4 @@
 - **May 20, 07:53 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 07:55 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
 - **May 20, 08:11 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 20, 08:25 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
