@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 43 | 43 |
 
@@ -4266,3 +4266,4 @@
 - **May 20, 10:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 10:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 10:49 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
+- **May 20, 11:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
