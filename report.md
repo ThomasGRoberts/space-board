@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 28 | 55 |
+| spacenews | 9 | 15 | 29 | 56 |
 | breaking_defense | 3 | 3 | 23 | 47 |
 | nyt | 1 | 1 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4230,3 +4230,4 @@
 - **May 20, 12:53 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 12:55 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 20, 12:57 PM** - Wyvern publicly releases 25 hyperspectral images (spacenews)
+- **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)

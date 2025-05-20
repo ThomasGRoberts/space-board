@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "51061ec5e3025f2be63c6d8da6c9c988",
+    "trigger_count": 0,
+    "current_item_id": "0fc781cf323ae2e0fc12df22302f6302",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9746,6 +9746,18 @@
             "fetched_datetime": "2025-05-20T12:57:34.901401Z",
             "shown_at": [
                 "2025-05-20T12:57:35.539047Z"
+            ]
+        },
+        {
+            "id": "0fc781cf323ae2e0fc12df22302f6302",
+            "source": "spacenews",
+            "text": "Starfish Space ready to launch docking demonstration mission",
+            "source_link": "https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T13:11:58.150099Z",
+            "shown_at": [
+                "2025-05-20T13:11:59.333581Z"
             ]
         }
     ]
