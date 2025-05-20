@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 29 | 55 |
+| spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 0 | 0 | 21 | 46 |
+| nyt | 0 | 0 | 20 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4215,3 +4215,4 @@
 - **May 20, 05:55 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 05:57 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 05:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 06:02 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
