@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 23 | 47 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 39 | 39 |
+| supercluster | 2 | 2 | 40 | 40 |
 
 # Shown Order
 
@@ -4285,3 +4285,4 @@
 - **May 20, 06:32 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 06:47 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 20, 07:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 07:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
