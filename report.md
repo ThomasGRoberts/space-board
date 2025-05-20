@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4209,3 +4209,4 @@
 - **May 20, 05:17 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 20, 05:32 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 20, 05:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 05:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
