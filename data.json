@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71a796f5c116759be5b9aa4b13a44334",
+    "trigger_count": 0,
+    "current_item_id": "8e581561b13c907dbab56b058006df27",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9867,6 +9867,18 @@
             "fetched_datetime": "2025-05-20T17:21:51.873480Z",
             "shown_at": [
                 "2025-05-20T17:21:52.932534Z"
+            ]
+        },
+        {
+            "id": "8e581561b13c907dbab56b058006df27",
+            "source": "breaking_defense",
+            "text": "Building on DoD demos, NOVI plans dual-use imagery constellation",
+            "source_link": "https://breakingdefense.com/2025/05/building-on-dod-demos-novi-plans-dual-use-imagery-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T18:47:28.967858Z",
+            "shown_at": [
+                "2025-05-20T18:47:29.948967Z"
             ]
         }
     ]
