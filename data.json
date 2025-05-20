@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8cde62c758427b0906eef45f442574e",
+    "trigger_count": 0,
+    "current_item_id": "71a796f5c116759be5b9aa4b13a44334",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9740,6 +9740,18 @@
                 "2025-05-20T08:47:20.119674Z",
                 "2025-05-20T08:49:34.451722Z",
                 "2025-05-20T08:51:42.983362Z"
+            ]
+        },
+        {
+            "id": "71a796f5c116759be5b9aa4b13a44334",
+            "source": "nyt",
+            "text": "Gulf Deal-Making Spree Also Benefited Elon Musk and His Family",
+            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T09:09:30.566091Z",
+            "shown_at": [
+                "2025-05-20T09:09:30.982002Z"
             ]
         }
     ]

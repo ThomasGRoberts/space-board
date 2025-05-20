@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 30 | 56 |
 | breaking_defense | 3 | 3 | 23 | 48 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 1 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4246,3 +4246,4 @@
 - **May 20, 08:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 08:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 08:53 AM** - AST SpaceMobile ramping up launches ahead of beta service this year (spacenews)
+- **May 20, 09:09 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
