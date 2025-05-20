@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fa20d0b025afd89a60473b8e766a8c8b",
+    "trigger_count": 0,
+    "current_item_id": "7e7f07911ca24b57006667f654acaf36",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9905,9 +9905,12 @@
             "source": "spacenews",
             "text": "China launches classified comms satellite, conducts commercial sea launch",
             "source_link": "https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-20T19:15:23.460915Z"
+            "fetched_datetime": "2025-05-20T19:15:23.460915Z",
+            "shown_at": [
+                "2025-05-20T19:30:16.134039Z"
+            ]
         }
     ]
 }
