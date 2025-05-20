@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 15 | 31 | 57 |
-| breaking_defense | 3 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 158 | 333 |
+| breaking_defense | 3 | 3 | 25 | 50 |
+| supercluster | 0 | 0 | 157 | 332 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4660,3 +4660,4 @@
 - **May 20, 02:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 02:37 AM** - Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China (breaking_defense)
