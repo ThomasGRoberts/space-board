@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 23 | 46 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 31 | 31 |
+| supercluster | 2 | 2 | 32 | 32 |
 
 # Shown Order
 
@@ -4273,3 +4273,4 @@
 - **May 20, 05:07 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 20, 05:21 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 20, 05:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
+- **May 20, 05:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
