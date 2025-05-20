@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 25 | 49 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4205,3 +4205,4 @@
 - **May 20, 03:07 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 20, 03:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 03:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
