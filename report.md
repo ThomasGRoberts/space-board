@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4220,3 +4220,4 @@
 - **May 20, 06:32 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 20, 06:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **May 20, 06:47 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **May 20, 06:49 AM** - China Will Launch the Long March 7A Rocket (supercluster)
