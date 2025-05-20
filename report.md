@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 47 |
 | nyt | 1 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4233,3 +4233,4 @@
 - **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 20, 01:25 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 20, 01:42 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 20, 01:57 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
