@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "fa20d0b025afd89a60473b8e766a8c8b",
     "data": [
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
@@ -9887,6 +9887,27 @@
             "shown_at": [
                 "2025-05-20T18:47:29.948967Z"
             ]
+        },
+        {
+            "id": "fa20d0b025afd89a60473b8e766a8c8b",
+            "source": "spacenews",
+            "text": "Satellite firms brace for potential imagery budget cuts in 2026",
+            "source_link": "https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T19:15:23.460847Z",
+            "shown_at": [
+                "2025-05-20T19:15:24.641067Z"
+            ]
+        },
+        {
+            "id": "7e7f07911ca24b57006667f654acaf36",
+            "source": "spacenews",
+            "text": "China launches classified comms satellite, conducts commercial sea launch",
+            "source_link": "https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T19:15:23.460915Z"
         }
     ]
 }

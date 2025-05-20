@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 55 |
+| spacenews | 10 | 19 | 26 | 56 |
 | breaking_defense | 3 | 4 | 23 | 47 |
 | nyt | 2 | 2 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4291,3 +4291,4 @@
 - **May 20, 07:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 07:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 20, 07:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 20, 07:15 PM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
