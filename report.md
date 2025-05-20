@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 23 | 29 | 59 |
+| spacenews | 11 | 23 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 59 | 59 |
+| supercluster | 2 | 2 | 60 | 60 |
 
 # Shown Order
 
@@ -4319,3 +4319,4 @@
 - **May 20, 10:23 PM** - Kuva to offer maritime-domain insights (spacenews)
 - **May 20, 10:37 PM** - Kuva to offer maritime-domain insights with growing constellation (spacenews)
 - **May 20, 10:51 PM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
+- **May 20, 11:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
