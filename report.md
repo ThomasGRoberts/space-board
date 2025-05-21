@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 29 | 55 |
 | breaking_defense | 3 | 5 | 21 | 44 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 88 | 88 |
 
@@ -4248,3 +4248,4 @@
 - **May 21, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 06:05 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
