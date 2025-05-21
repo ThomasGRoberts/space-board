@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d37c6f19b2b779d1b93f6b91a5d33ea8",
+    "trigger_count": 0,
+    "current_item_id": "376269a493e340a8cab9eea8b6e0af2d",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9779,6 +9779,18 @@
             "fetched_datetime": "2025-05-21T16:19:48.648240Z",
             "shown_at": [
                 "2025-05-21T16:19:49.670023Z"
+            ]
+        },
+        {
+            "id": "376269a493e340a8cab9eea8b6e0af2d",
+            "source": "spacenews",
+            "text": "AI could deliver insights when paired with (the right) humans",
+            "source_link": "https://spacenews.com/ai-could-deliver-insights-when-paired-with-the-right-humans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T16:33:37.503433Z",
+            "shown_at": [
+                "2025-05-21T16:33:38.064321Z"
             ]
         }
     ]

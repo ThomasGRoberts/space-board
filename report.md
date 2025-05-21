@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 29 | 55 |
+| spacenews | 12 | 21 | 30 | 56 |
 | breaking_defense | 3 | 5 | 22 | 45 |
-| nyt | 0 | 2 | 20 | 42 |
+| nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -4230,3 +4230,4 @@
 - **May 21, 03:49 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 21, 04:05 PM** - Beyond launch: SpaceX’s expanding role in U.S. defense (spacenews)
 - **May 21, 04:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 21, 04:33 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
