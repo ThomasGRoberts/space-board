@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 28 | 57 |
 | breaking_defense | 2 | 3 | 21 | 42 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4190,3 +4190,4 @@
 - **May 21, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 10:37 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 21, 10:52 PM** - Norway signs Artemis Accords (spacenews)
+- **May 21, 11:05 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
