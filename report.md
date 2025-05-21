@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -4208,3 +4208,4 @@
 - **May 21, 01:21 PM** - Satellite startups race to enhance wildfire detection and response (spacenews)
 - **May 21, 01:37 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 21, 01:53 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
+- **May 21, 02:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
