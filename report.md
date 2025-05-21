@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 29 | 56 |
 | breaking_defense | 1 | 4 | 21 | 44 |
-| nyt | 1 | 2 | 20 | 41 |
+| nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 67 | 67 |
 
@@ -4216,3 +4216,4 @@
 - **May 21, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 02:21 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
+- **May 21, 02:35 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
