@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 31 | 57 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| nyt | 0 | 2 | 19 | 41 |
+| nyt | 0 | 2 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 102 | 102 |
 
@@ -4272,3 +4272,4 @@
 - **May 21, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:53 PM** - Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander (spacenews)
+- **May 21, 09:07 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
