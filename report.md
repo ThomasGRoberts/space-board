@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 31 | 57 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| nyt | 0 | 2 | 19 | 41 |
+| nyt | 0 | 2 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4180,3 +4180,4 @@
 - **May 21, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:37 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 21, 09:51 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
+- **May 21, 10:05 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
