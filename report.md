@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 29 | 58 |
+| spacenews | 12 | 24 | 28 | 58 |
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 1 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -4177,3 +4177,4 @@
 - **May 21, 09:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 21, 10:21 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 21, 10:35 AM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
+- **May 21, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
