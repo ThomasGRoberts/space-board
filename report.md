@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 29 | 58 |
 | breaking_defense | 1 | 4 | 20 | 44 |
-| nyt | 1 | 2 | 20 | 41 |
+| nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
 
@@ -4174,3 +4174,4 @@
 - **May 21, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 09:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
