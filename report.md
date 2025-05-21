@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 28 | 58 |
-| breaking_defense | 1 | 4 | 20 | 43 |
-| nyt | 2 | 2 | 21 | 41 |
+| breaking_defense | 1 | 4 | 21 | 44 |
+| nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -4155,3 +4155,4 @@
 - **May 21, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 07:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 07:59 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 21, 08:13 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
