@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 59 |
+| spacenews | 12 | 24 | 29 | 60 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 20 | 43 |
 | supercluster | 2 | 2 | 80 | 80 |
@@ -4193,3 +4193,4 @@
 - **May 21, 01:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 21, 01:19 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
