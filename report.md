@@ -4120,4 +4120,4 @@
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 03:11 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
-- **May 21, 04:32 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 21, 04:33 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
