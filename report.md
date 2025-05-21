@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 21 | 44 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -4252,3 +4252,4 @@
 - **May 21, 06:19 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 21, 06:35 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 21, 06:49 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
+- **May 21, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
