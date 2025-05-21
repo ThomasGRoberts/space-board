@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 58 |
+| spacenews | 12 | 24 | 29 | 59 |
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4146,3 +4146,4 @@
 - **May 21, 07:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 07:03 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 21, 07:17 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 21, 07:31 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
