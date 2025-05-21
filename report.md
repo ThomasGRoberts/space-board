@@ -5,7 +5,7 @@
 | spacenews | 11 | 23 | 29 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 66 | 66 |
+| supercluster | 2 | 2 | 67 | 67 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4176,3 +4176,4 @@
 - **May 20, 11:21 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 20, 11:35 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 20, 11:49 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
+- **May 21, 12:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
