@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 58 |
+| spacenews | 12 | 24 | 29 | 59 |
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 1 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4166,3 +4166,4 @@
 - **May 21, 08:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:57 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 21, 09:11 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 21, 09:25 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
