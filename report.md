@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 43 |
 | nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4127,3 +4127,4 @@
 - **May 21, 05:11 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 21, 05:25 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 21, 05:39 AM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
+- **May 21, 05:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
