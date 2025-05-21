@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "d4db495f49123103e543ed148c84d264",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9699,6 +9699,27 @@
                 "2025-05-21T12:59:46.345350Z",
                 "2025-05-21T13:03:01.870894Z"
             ]
+        },
+        {
+            "id": "d4db495f49123103e543ed148c84d264",
+            "source": "spacenews",
+            "text": "Balancing progress and partnership: evaluating the Space Force’s new personnel laws",
+            "source_link": "https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T13:05:34.245539Z",
+            "shown_at": [
+                "2025-05-21T13:05:34.962725Z"
+            ]
+        },
+        {
+            "id": "b650642e3130cd218e18e0b56f7ddf4b",
+            "source": "spacenews",
+            "text": "Satellite startups race to enhance wildfire detection and response",
+            "source_link": "https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T13:05:34.245622Z"
         }
     ]
 }
