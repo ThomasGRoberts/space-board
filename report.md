@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -4158,3 +4158,4 @@
 - **May 21, 08:13 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 21, 08:27 AM** - How IM-2 payload operators made the most of the mission’s landing issues (spacenews)
 - **May 21, 08:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
