@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 57 |
+| spacenews | 12 | 24 | 29 | 58 |
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4126,3 +4126,4 @@
 - **May 21, 05:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 05:11 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 21, 05:25 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 21, 05:39 AM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
