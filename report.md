@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 29 | 60 |
-| breaking_defense | 1 | 4 | 20 | 45 |
+| breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 2 | 2 | 87 | 87 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4205,3 +4205,4 @@
 - **May 21, 02:13 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 21, 02:15 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
