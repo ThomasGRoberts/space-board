@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 29 | 55 |
+| spacenews | 12 | 20 | 30 | 56 |
 | breaking_defense | 2 | 5 | 21 | 45 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4251,3 +4251,4 @@
 - **May 21, 06:05 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 21, 06:19 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 21, 06:35 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
+- **May 21, 06:49 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
