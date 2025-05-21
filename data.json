@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d4db495f49123103e543ed148c84d264",
+    "trigger_count": 0,
+    "current_item_id": "b650642e3130cd218e18e0b56f7ddf4b",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9717,9 +9717,12 @@
             "source": "spacenews",
             "text": "Satellite startups race to enhance wildfire detection and response",
             "source_link": "https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-05-21T13:05:34.245622Z"
+            "fetched_datetime": "2025-05-21T13:05:34.245622Z",
+            "shown_at": [
+                "2025-05-21T13:21:37.245812Z"
+            ]
         }
     ]
 }
