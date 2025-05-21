@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 59 |
+| spacenews | 12 | 24 | 29 | 60 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 20 | 43 |
 | supercluster | 2 | 2 | 94 | 94 |
@@ -4213,3 +4213,4 @@
 - **May 21, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 21, 03:11 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
