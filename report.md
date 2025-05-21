@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 29 | 55 |
 | breaking_defense | 2 | 4 | 22 | 45 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -4227,3 +4227,4 @@
 - **May 21, 03:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 03:35 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 21, 03:49 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
