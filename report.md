@@ -5,7 +5,7 @@
 | spacenews | 12 | 24 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 87 | 87 |
+| supercluster | 2 | 2 | 88 | 88 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4206,3 +4206,4 @@
 - **May 21, 02:15 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 21, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
