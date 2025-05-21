@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 29 | 56 |
-| breaking_defense | 2 | 4 | 21 | 44 |
+| spacenews | 11 | 20 | 29 | 55 |
+| breaking_defense | 3 | 5 | 22 | 45 |
 | nyt | 0 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
@@ -4229,3 +4229,4 @@
 - **May 21, 03:35 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 21, 03:49 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 21, 04:05 PM** - Beyond launch: SpaceX’s expanding role in U.S. defense (spacenews)
+- **May 21, 04:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
