@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 30 | 56 |
-| breaking_defense | 2 | 3 | 20 | 42 |
+| breaking_defense | 2 | 3 | 21 | 43 |
 | nyt | 0 | 2 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 95 | 95 |
@@ -4262,3 +4262,4 @@
 - **May 21, 07:23 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 07:37 PM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 21, 07:51 PM** - Ursa, University of Illinois and Palantir win Luno A contracts (spacenews)
+- **May 21, 08:05 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
