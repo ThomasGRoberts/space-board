@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "88f9f05169e3416a4dcf3d3a3c1b0d3b",
+    "trigger_count": 0,
+    "current_item_id": "8a77d795cb2e8fc9e23c904fc0cfd193",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9843,6 +9843,18 @@
             "fetched_datetime": "2025-05-21T19:37:37.459133Z",
             "shown_at": [
                 "2025-05-21T19:37:38.167788Z"
+            ]
+        },
+        {
+            "id": "8a77d795cb2e8fc9e23c904fc0cfd193",
+            "source": "spacenews",
+            "text": "Ursa, University of Illinois and Palantir win Luno A contracts",
+            "source_link": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T19:51:32.423861Z",
+            "shown_at": [
+                "2025-05-21T19:51:33.107338Z"
             ]
         }
     ]
