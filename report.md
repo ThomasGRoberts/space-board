@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 28 | 55 |
+| spacenews | 11 | 20 | 29 | 56 |
 | breaking_defense | 3 | 5 | 22 | 45 |
 | nyt | 0 | 2 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4240,3 +4240,4 @@
 - **May 21, 05:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 05:03 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 21, 05:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 21, 05:33 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
