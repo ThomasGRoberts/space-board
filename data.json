@@ -1,9 +1,274 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-20T00:01:56.843089+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
+    "trigger_count": 6,
     "current_item_id": "54c517151f13578081f212dd8cd6fd77",
     "data": [
+        {
+            "id": "1b17f8601012f09a377e2f92220eaa7c",
+            "source": "spacenews",
+            "text": "Trump taps Space Force general to lead $175 billion Golden Dome missile defense program",
+            "source_link": "https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T22:51:15.876197Z",
+            "shown_at": [
+                "2025-05-20T22:51:16.600286Z"
+            ]
+        },
+        {
+            "id": "b6f040770f9eae2ebea60b0848c9720b",
+            "source": "spacenews",
+            "text": "Kuva to offer maritime-domain insights with growing constellation",
+            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T22:37:38.922805Z",
+            "shown_at": [
+                "2025-05-20T22:37:39.683600Z"
+            ]
+        },
+        {
+            "id": "e7ddc02e5fefff97580412c4f2bb7ac5",
+            "source": "spacenews",
+            "text": "Kuva to offer maritime-domain insights",
+            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T22:23:37.099729Z",
+            "shown_at": [
+                "2025-05-20T22:23:37.796830Z"
+            ]
+        },
+        {
+            "id": "6248afe125eb72431c02154104da4a4f",
+            "source": "spacenews",
+            "text": "MDA Space raises SatixFy offer by 43% to counter competing bid",
+            "source_link": "https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T20:11:57.237665Z",
+            "shown_at": [
+                "2025-05-20T20:11:58.330528Z"
+            ]
+        },
+        {
+            "id": "7e7f07911ca24b57006667f654acaf36",
+            "source": "spacenews",
+            "text": "China launches classified comms satellite, conducts commercial sea launch",
+            "source_link": "https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T19:15:23.460915Z",
+            "shown_at": [
+                "2025-05-20T19:30:16.134039Z"
+            ]
+        },
+        {
+            "id": "fa20d0b025afd89a60473b8e766a8c8b",
+            "source": "spacenews",
+            "text": "Satellite firms brace for potential imagery budget cuts in 2026",
+            "source_link": "https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T19:15:23.460847Z",
+            "shown_at": [
+                "2025-05-20T19:15:24.641067Z"
+            ]
+        },
+        {
+            "id": "8e581561b13c907dbab56b058006df27",
+            "source": "breaking_defense",
+            "text": "Building on DoD demos, NOVI plans dual-use imagery constellation",
+            "source_link": "https://breakingdefense.com/2025/05/building-on-dod-demos-novi-plans-dual-use-imagery-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T18:47:28.967858Z",
+            "shown_at": [
+                "2025-05-20T18:47:29.948967Z"
+            ]
+        },
+        {
+            "id": "9afab0e68411f5331271f49736b88797",
+            "source": "spacenews",
+            "text": "Jason Rainbow Appointed Business Intelligence Manager at SpaceNews",
+            "source_link": "https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T17:21:51.873480Z",
+            "shown_at": [
+                "2025-05-20T17:21:52.932534Z"
+            ]
+        },
+        {
+            "id": "1796b1f6378c7d816e332777755a42be",
+            "source": "spacenews",
+            "text": "Kuva to offer maritime-domain insights with satellite on deck",
+            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T16:09:52.610591Z",
+            "shown_at": [
+                "2025-05-20T16:09:56.910651Z"
+            ]
+        },
+        {
+            "id": "bfdf97f833ed80a4d99225a6c204f7d1",
+            "source": "nyt",
+            "text": "Trump’s Gulf Trip Also Brought Benefits to Elon Musk",
+            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T15:27:12.039260Z",
+            "shown_at": [
+                "2025-05-20T15:27:12.728612Z",
+                "2025-05-20T16:23:55.228150Z",
+                "2025-05-20T19:43:42.701269Z"
+            ]
+        },
+        {
+            "id": "db5d6a64cc8c25e2b56084bba716b991",
+            "source": "spacenews",
+            "text": "Geospatial intelligence agency urges faster AI deployment",
+            "source_link": "https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T15:11:47.286970Z",
+            "shown_at": [
+                "2025-05-20T15:11:48.100154Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-15",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-21T03:18:00.000Z",
+            "time_remaining": "0d 08h 04m",
+            "fetched_datetime": "2025-05-20T14:41:49.689870Z",
+            "shown_at": [
+                "2025-05-20T14:41:50.335535Z",
+                "2025-05-20T14:43:27.622682Z",
+                "2025-05-20T14:45:44.551594Z",
+                "2025-05-20T14:47:32.472578Z",
+                "2025-05-20T14:49:32.253418Z",
+                "2025-05-20T14:51:34.265271Z",
+                "2025-05-20T14:53:35.805583Z",
+                "2025-05-20T16:38:31.626641Z",
+                "2025-05-20T16:41:39.327028Z",
+                "2025-05-20T16:43:41.630641Z",
+                "2025-05-20T16:45:31.033814Z",
+                "2025-05-20T16:47:31.011176Z",
+                "2025-05-20T16:49:28.050289Z",
+                "2025-05-20T16:51:49.565578Z",
+                "2025-05-20T17:49:33.448503Z",
+                "2025-05-20T17:51:42.247701Z",
+                "2025-05-20T17:53:36.561347Z",
+                "2025-05-20T17:55:26.025663Z",
+                "2025-05-20T17:57:37.754942Z",
+                "2025-05-20T17:59:41.813255Z",
+                "2025-05-20T18:01:56.077609Z",
+                "2025-05-20T19:02:06.509526Z",
+                "2025-05-20T19:03:42.804589Z",
+                "2025-05-20T19:05:26.754483Z",
+                "2025-05-20T19:07:29.791961Z",
+                "2025-05-20T19:09:10.248568Z",
+                "2025-05-20T19:11:56.086420Z",
+                "2025-05-20T19:13:25.867363Z"
+            ]
+        },
+        {
+            "id": "0fc781cf323ae2e0fc12df22302f6302",
+            "source": "spacenews",
+            "text": "Starfish Space ready to launch docking demonstration mission",
+            "source_link": "https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T13:11:58.150099Z",
+            "shown_at": [
+                "2025-05-20T13:11:59.333581Z"
+            ]
+        },
+        {
+            "id": "51061ec5e3025f2be63c6d8da6c9c988",
+            "source": "spacenews",
+            "text": "Wyvern publicly releases 25 hyperspectral images",
+            "source_link": "https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T12:57:34.901401Z",
+            "shown_at": [
+                "2025-05-20T12:57:35.539047Z"
+            ]
+        },
+        {
+            "id": "1b51759bd910f8feff496d0a375975ef",
+            "source": "supercluster",
+            "text": "China Will Launch the Kinetica 1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/kinetica-1gv",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-21T04:00:00.000Z",
+            "time_remaining": "0d 04h 40m",
+            "fetched_datetime": "2025-05-20T12:51:33.388158Z",
+            "shown_at": [
+                "2025-05-20T12:51:34.066373Z",
+                "2025-05-20T12:53:49.121875Z",
+                "2025-05-20T12:55:43.345246Z",
+                "2025-05-20T13:57:55.743236Z",
+                "2025-05-20T13:59:45.668945Z",
+                "2025-05-20T14:02:15.426627Z",
+                "2025-05-20T14:05:31.966310Z",
+                "2025-05-20T14:07:39.003092Z",
+                "2025-05-20T14:09:35.118010Z",
+                "2025-05-20T14:11:36.138613Z",
+                "2025-05-20T15:41:37.921586Z",
+                "2025-05-20T15:43:25.054989Z",
+                "2025-05-20T15:45:27.373041Z",
+                "2025-05-20T15:47:25.159352Z",
+                "2025-05-20T15:49:33.220665Z",
+                "2025-05-20T15:51:57.120820Z",
+                "2025-05-20T15:53:07.458041Z",
+                "2025-05-20T20:25:27.649409Z",
+                "2025-05-20T20:27:28.454752Z",
+                "2025-05-20T20:29:36.283075Z",
+                "2025-05-20T20:31:59.523210Z",
+                "2025-05-20T20:33:43.400960Z",
+                "2025-05-20T20:35:28.848631Z",
+                "2025-05-20T20:37:31.337290Z",
+                "2025-05-20T21:25:32.806216Z",
+                "2025-05-20T21:27:48.206702Z",
+                "2025-05-20T21:29:41.937353Z",
+                "2025-05-20T21:31:57.397167Z",
+                "2025-05-20T21:33:25.294801Z",
+                "2025-05-20T21:35:29.885508Z",
+                "2025-05-20T21:37:25.636221Z",
+                "2025-05-20T23:07:37.282906Z",
+                "2025-05-20T23:09:39.783307Z",
+                "2025-05-20T23:11:44.693400Z",
+                "2025-05-20T23:13:34.515617Z",
+                "2025-05-20T23:15:28.581186Z",
+                "2025-05-20T23:17:06.018642Z",
+                "2025-05-20T23:19:54.903068Z"
+            ]
+        },
+        {
+            "id": "71a796f5c116759be5b9aa4b13a44334",
+            "source": "nyt",
+            "text": "Gulf Deal-Making Spree Also Benefited Elon Musk and His Family",
+            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-20T09:09:30.566091Z",
+            "shown_at": [
+                "2025-05-20T09:09:30.982002Z",
+                "2025-05-20T10:07:46.849376Z",
+                "2025-05-20T14:27:28.749912Z",
+                "2025-05-20T18:32:14.316398Z"
+            ]
+        },
         {
             "id": "21a04cd9b76546266a3743d65ae47ed6",
             "source": "spacenews",
@@ -9407,589 +9672,6 @@
                 "2025-03-26T03:03:31.310337Z",
                 "2025-03-26T20:18:16.648365Z",
                 "2025-03-27T00:53:50.088934Z"
-            ]
-        },
-        {
-            "id": "7ff5f59b939001080dcae0f131107db5",
-            "source": "nyt",
-            "text": "NASA Astronauts Don’t Receive Overtime Pay for Space Mission But Get $5 a Day",
-            "source_link": "https://www.nytimes.com/2025/03/20/us/nasa-astronauts-overtime.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T05:59:41.645704Z",
-            "shown_at": [
-                "2025-03-20T05:59:42.487964Z",
-                "2025-03-20T14:25:37.712144Z",
-                "2025-03-22T08:01:52.924817Z",
-                "2025-03-22T20:02:11.961748Z",
-                "2025-03-23T05:31:45.135259Z",
-                "2025-03-23T17:27:47.038033Z",
-                "2025-03-24T13:46:30.033911Z",
-                "2025-03-25T17:05:45.705446Z",
-                "2025-03-25T18:15:36.147152Z",
-                "2025-03-26T02:49:47.400201Z",
-                "2025-03-27T02:19:27.528427Z"
-            ]
-        },
-        {
-            "id": "c87a7b87c61cfa5f9ef156163e9bdf24",
-            "source": "nyt",
-            "text": "Astronomers Get ‘More Than a Hint’ That Dark Energy Isn’t What They Thought",
-            "source_link": "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T22:17:26.383612Z",
-            "shown_at": [
-                "2025-03-20T01:15:33.708654Z",
-                "2025-03-22T05:25:31.362540Z",
-                "2025-03-22T21:15:27.794455Z",
-                "2025-03-23T19:49:47.715755Z",
-                "2025-03-24T15:02:09.294188Z",
-                "2025-03-24T21:01:37.532232Z",
-                "2025-03-26T01:39:48.217416Z",
-                "2025-03-26T14:19:39.127783Z"
-            ]
-        },
-        {
-            "id": "1c3b9cccf2d4aea622cbb8ea073be638",
-            "source": "breaking_defense",
-            "text": "GOP defense appropriators spell out CR funding levels for weapons. Will the DoD listen?",
-            "source_link": "https://breakingdefense.com/2025/03/gop-defense-appropriators-spell-out-cr-funding-levels-for-weapons-will-the-dod-listen/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T21:16:13.155689Z",
-            "shown_at": [
-                "2025-03-19T21:16:14.142586Z",
-                "2025-03-20T01:29:48.458106Z",
-                "2025-03-20T02:39:25.914674Z",
-                "2025-03-21T02:53:29.338007Z",
-                "2025-03-21T19:55:32.752565Z",
-                "2025-03-22T02:07:29.395552Z",
-                "2025-03-22T08:15:58.991980Z",
-                "2025-03-22T09:32:02.154194Z",
-                "2025-03-22T17:51:35.840027Z",
-                "2025-03-23T17:42:05.750930Z",
-                "2025-03-24T09:55:50.557531Z",
-                "2025-03-24T11:05:32.638040Z",
-                "2025-03-24T16:32:00.472965Z",
-                "2025-03-24T23:55:39.063169Z",
-                "2025-03-25T01:07:12.381713Z",
-                "2025-03-25T04:43:40.259404Z",
-                "2025-03-25T18:58:08.504133Z",
-                "2025-03-25T21:37:41.350516Z",
-                "2025-03-26T01:25:37.269017Z",
-                "2025-03-26T07:19:44.676850Z",
-                "2025-03-26T10:53:36.648276Z",
-                "2025-03-26T17:41:48.154464Z",
-                "2025-03-26T20:33:33.325789Z"
-            ]
-        },
-        {
-            "id": "39012934f0971a1dc5e692de1b9ff791",
-            "source": "spacenews",
-            "text": "Chinese company targets crewed orbital spaceflight",
-            "source_link": "https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T18:29:49.267744Z",
-            "shown_at": [
-                "2025-03-19T18:29:50.218752Z",
-                "2025-03-20T19:03:34.995521Z",
-                "2025-03-21T08:29:47.954012Z",
-                "2025-03-26T02:07:26.589696Z"
-            ]
-        },
-        {
-            "id": "14f8cab27e13aeddd6029e03f78f63b9",
-            "source": "breaking_defense",
-            "text": "How to maximize the resiliency of PNT",
-            "source_link": "https://breakingdefense.com/2025/03/how-to-maximize-the-resiliency-of-pnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T18:01:56.479436Z",
-            "shown_at": [
-                "2025-03-19T18:01:57.130422Z",
-                "2025-03-20T05:02:01.337985Z",
-                "2025-03-20T13:17:40.932342Z",
-                "2025-03-20T14:41:48.924342Z",
-                "2025-03-20T23:09:51.199241Z",
-                "2025-03-21T00:25:35.151425Z",
-                "2025-03-22T05:39:59.394723Z",
-                "2025-03-22T11:51:18.604343Z",
-                "2025-03-22T14:19:28.242418Z",
-                "2025-03-23T03:25:30.315067Z",
-                "2025-03-23T20:03:38.949679Z",
-                "2025-03-24T03:13:29.014625Z",
-                "2025-03-24T05:51:45.745497Z",
-                "2025-03-24T15:17:40.651075Z",
-                "2025-03-24T22:29:30.422242Z",
-                "2025-03-25T03:29:29.876816Z",
-                "2025-03-25T09:33:46.886304Z",
-                "2025-03-26T00:02:05.105399Z",
-                "2025-03-26T09:43:29.330349Z"
-            ]
-        },
-        {
-            "id": "bcf10f4cbf0a9b127e35076c0ed6beed",
-            "source": "spacenews",
-            "text": "Space Force unveils strategic plan for AI integration",
-            "source_link": "https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T17:05:33.597171Z",
-            "shown_at": [
-                "2025-03-19T17:05:34.213651Z",
-                "2025-03-19T19:41:37.748954Z",
-                "2025-03-20T11:51:18.150930Z",
-                "2025-03-22T00:13:30.137087Z",
-                "2025-03-22T15:03:37.719372Z",
-                "2025-03-22T17:23:49.436392Z",
-                "2025-03-25T16:05:42.450810Z",
-                "2025-03-26T14:34:10.769022Z"
-            ]
-        },
-        {
-            "id": "8ee1fff604dac5684fb53cf96a3bd478",
-            "source": "breaking_defense",
-            "text": "Space Force declares upcoming symposium ‘mission essential,’ amid Trump travel restrictions",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-declares-upcoming-symposium-mission-essential-amid-trump-travel-restrictions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T16:51:38.729113Z",
-            "shown_at": [
-                "2025-03-19T16:51:39.209416Z",
-                "2025-03-19T20:58:21.688691Z",
-                "2025-03-21T05:23:33.140762Z",
-                "2025-03-21T09:13:57.599996Z",
-                "2025-03-21T10:25:43.368908Z",
-                "2025-03-21T13:19:31.146310Z",
-                "2025-03-21T18:03:37.203899Z",
-                "2025-03-22T16:41:47.621799Z",
-                "2025-03-23T01:05:35.766356Z",
-                "2025-03-23T05:45:29.140546Z",
-                "2025-03-23T21:13:45.880065Z",
-                "2025-03-25T05:55:36.615537Z",
-                "2025-03-26T02:35:34.529802Z",
-                "2025-03-26T06:07:46.109356Z",
-                "2025-03-26T08:32:04.989040Z",
-                "2025-03-26T13:49:29.204474Z"
-            ]
-        },
-        {
-            "id": "a62558aa4a01e5e3b8c5a6b99f263898",
-            "source": "spacenews",
-            "text": "Exlabs and Antares form alliance to develop nuclear-powered spacecraft",
-            "source_link": "https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T12:15:36.533885Z",
-            "shown_at": [
-                "2025-03-19T12:15:37.263841Z",
-                "2025-03-22T07:46:08.473494Z",
-                "2025-03-23T20:31:55.354763Z",
-                "2025-03-25T18:29:27.704960Z"
-            ]
-        },
-        {
-            "id": "3278f83cdbb8296a8c5811e20fe23ae7",
-            "source": "aidy",
-            "text": "NASA Authorization Bill Advances, Emphasizing Artemis and Commercial Partnerships",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T07:31:58.737787Z",
-            "shown_at": [
-                "2025-03-19T07:31:59.592670Z",
-                "2025-03-19T17:33:43.032451Z",
-                "2025-03-20T14:10:08.214979Z",
-                "2025-03-21T01:25:33.217325Z",
-                "2025-03-21T02:39:35.610434Z",
-                "2025-03-22T02:21:39.533563Z",
-                "2025-03-22T03:33:40.469349Z",
-                "2025-03-22T14:48:10.182633Z",
-                "2025-03-22T21:57:37.515623Z",
-                "2025-03-23T02:43:25.868356Z",
-                "2025-03-23T14:21:48.360666Z",
-                "2025-03-23T20:17:37.650272Z",
-                "2025-03-24T03:43:39.636024Z",
-                "2025-03-24T07:32:00.142639Z",
-                "2025-03-24T10:09:10.140746Z",
-                "2025-03-24T12:19:30.355672Z",
-                "2025-03-25T18:43:39.975633Z",
-                "2025-03-25T21:07:27.463024Z",
-                "2025-03-26T01:53:35.861569Z"
-            ]
-        },
-        {
-            "id": "43015f6a78dfab40fc63613310aa15df",
-            "source": "spacenews",
-            "text": "Crew-9 returns from space station",
-            "source_link": "https://spacenews.com/crew-9-returns-from-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T03:05:36.422275Z",
-            "shown_at": [
-                "2025-03-19T03:05:36.962654Z",
-                "2025-03-20T16:41:32.566119Z",
-                "2025-03-22T09:02:16.659121Z",
-                "2025-03-22T13:49:49.177082Z",
-                "2025-03-23T13:23:46.465871Z",
-                "2025-03-23T22:53:43.900041Z",
-                "2025-03-24T03:29:38.361089Z",
-                "2025-03-24T06:07:29.930522Z"
-            ]
-        },
-        {
-            "id": "ea90d4d75c24b347b1eac79b54b2d2a6",
-            "source": "nyt",
-            "text": "Highlights From Suni Williams and Butch Wilmore’s Return to Earth",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-19T01:55:25.920504Z",
-            "shown_at": [
-                "2025-03-19T01:55:26.398101Z",
-                "2025-03-21T07:37:37.598343Z",
-                "2025-03-23T13:51:43.739399Z",
-                "2025-03-24T02:59:25.332670Z",
-                "2025-03-24T22:14:04.498194Z",
-                "2025-03-25T06:51:36.770531Z"
-            ]
-        },
-        {
-            "id": "dceeee5e5adee790fa8f131a1d6b714b",
-            "source": "spacenews",
-            "text": "SkyServe tests AI models with JPL and D-Orbit",
-            "source_link": "https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T23:31:55.518976Z",
-            "shown_at": [
-                "2025-03-18T23:31:56.429911Z",
-                "2025-03-19T05:25:29.177643Z",
-                "2025-03-22T21:01:53.222268Z"
-            ]
-        },
-        {
-            "id": "0e6421b72493b40ca4cb0e065037365f",
-            "source": "spacenews",
-            "text": "Europe funds inflatable satellite drag sail demonstration",
-            "source_link": "https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:47:34.360709Z",
-            "shown_at": [
-                "2025-03-18T22:47:34.923449Z",
-                "2025-03-19T13:39:55.367617Z",
-                "2025-03-20T15:27:33.334969Z",
-                "2025-03-20T17:53:11.849091Z",
-                "2025-03-21T10:53:45.136935Z",
-                "2025-03-22T02:49:39.179484Z",
-                "2025-03-23T11:25:55.493553Z"
-            ]
-        },
-        {
-            "id": "665c6bbcd31cdade624971620af6f6d8",
-            "source": "nyt",
-            "text": "Live Updates: NASA Astronauts Splash Down After 9-Month Odyssey in Orbit",
-            "source_link": "https://www.nytimes.com/live/2025/03/17/science/nasa-astronauts-return-spacex",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:19:29.958849Z",
-            "shown_at": [
-                "2025-03-18T22:19:30.475191Z",
-                "2025-03-19T06:49:31.150865Z",
-                "2025-03-19T11:31:51.366161Z",
-                "2025-03-19T19:11:45.869493Z",
-                "2025-03-20T13:03:35.100227Z",
-                "2025-03-20T22:41:43.522702Z",
-                "2025-03-21T16:25:34.807486Z",
-                "2025-03-22T18:51:42.298454Z",
-                "2025-03-23T06:41:15.799117Z",
-                "2025-03-23T15:07:54.150790Z",
-                "2025-03-25T10:31:47.793642Z",
-                "2025-03-25T19:27:39.116998Z"
-            ]
-        },
-        {
-            "id": "c89a3b838803a69f0254178e2a927cf3",
-            "source": "spacenews",
-            "text": "Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division",
-            "source_link": "https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-18T22:05:26.556025Z",
-            "shown_at": [
-                "2025-03-18T22:05:27.117638Z",
-                "2025-03-24T18:53:36.846679Z",
-                "2025-03-25T02:45:37.614469Z",
-                "2025-03-25T08:47:39.638208Z",
-                "2025-03-25T14:41:33.564623Z"
-            ]
-        },
-        {
-            "id": "71a796f5c116759be5b9aa4b13a44334",
-            "source": "nyt",
-            "text": "Gulf Deal-Making Spree Also Benefited Elon Musk and His Family",
-            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T09:09:30.566091Z",
-            "shown_at": [
-                "2025-05-20T09:09:30.982002Z",
-                "2025-05-20T10:07:46.849376Z",
-                "2025-05-20T14:27:28.749912Z",
-                "2025-05-20T18:32:14.316398Z"
-            ]
-        },
-        {
-            "id": "1b51759bd910f8feff496d0a375975ef",
-            "source": "supercluster",
-            "text": "China Will Launch the Kinetica 1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/kinetica-1gv",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-21T04:00:00.000Z",
-            "time_remaining": "0d 04h 40m",
-            "fetched_datetime": "2025-05-20T12:51:33.388158Z",
-            "shown_at": [
-                "2025-05-20T12:51:34.066373Z",
-                "2025-05-20T12:53:49.121875Z",
-                "2025-05-20T12:55:43.345246Z",
-                "2025-05-20T13:57:55.743236Z",
-                "2025-05-20T13:59:45.668945Z",
-                "2025-05-20T14:02:15.426627Z",
-                "2025-05-20T14:05:31.966310Z",
-                "2025-05-20T14:07:39.003092Z",
-                "2025-05-20T14:09:35.118010Z",
-                "2025-05-20T14:11:36.138613Z",
-                "2025-05-20T15:41:37.921586Z",
-                "2025-05-20T15:43:25.054989Z",
-                "2025-05-20T15:45:27.373041Z",
-                "2025-05-20T15:47:25.159352Z",
-                "2025-05-20T15:49:33.220665Z",
-                "2025-05-20T15:51:57.120820Z",
-                "2025-05-20T15:53:07.458041Z",
-                "2025-05-20T20:25:27.649409Z",
-                "2025-05-20T20:27:28.454752Z",
-                "2025-05-20T20:29:36.283075Z",
-                "2025-05-20T20:31:59.523210Z",
-                "2025-05-20T20:33:43.400960Z",
-                "2025-05-20T20:35:28.848631Z",
-                "2025-05-20T20:37:31.337290Z",
-                "2025-05-20T21:25:32.806216Z",
-                "2025-05-20T21:27:48.206702Z",
-                "2025-05-20T21:29:41.937353Z",
-                "2025-05-20T21:31:57.397167Z",
-                "2025-05-20T21:33:25.294801Z",
-                "2025-05-20T21:35:29.885508Z",
-                "2025-05-20T21:37:25.636221Z",
-                "2025-05-20T23:07:37.282906Z",
-                "2025-05-20T23:09:39.783307Z",
-                "2025-05-20T23:11:44.693400Z",
-                "2025-05-20T23:13:34.515617Z",
-                "2025-05-20T23:15:28.581186Z",
-                "2025-05-20T23:17:06.018642Z",
-                "2025-05-20T23:19:54.903068Z"
-            ]
-        },
-        {
-            "id": "51061ec5e3025f2be63c6d8da6c9c988",
-            "source": "spacenews",
-            "text": "Wyvern publicly releases 25 hyperspectral images",
-            "source_link": "https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T12:57:34.901401Z",
-            "shown_at": [
-                "2025-05-20T12:57:35.539047Z"
-            ]
-        },
-        {
-            "id": "0fc781cf323ae2e0fc12df22302f6302",
-            "source": "spacenews",
-            "text": "Starfish Space ready to launch docking demonstration mission",
-            "source_link": "https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T13:11:58.150099Z",
-            "shown_at": [
-                "2025-05-20T13:11:59.333581Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-15",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-21T03:18:00.000Z",
-            "time_remaining": "0d 08h 04m",
-            "fetched_datetime": "2025-05-20T14:41:49.689870Z",
-            "shown_at": [
-                "2025-05-20T14:41:50.335535Z",
-                "2025-05-20T14:43:27.622682Z",
-                "2025-05-20T14:45:44.551594Z",
-                "2025-05-20T14:47:32.472578Z",
-                "2025-05-20T14:49:32.253418Z",
-                "2025-05-20T14:51:34.265271Z",
-                "2025-05-20T14:53:35.805583Z",
-                "2025-05-20T16:38:31.626641Z",
-                "2025-05-20T16:41:39.327028Z",
-                "2025-05-20T16:43:41.630641Z",
-                "2025-05-20T16:45:31.033814Z",
-                "2025-05-20T16:47:31.011176Z",
-                "2025-05-20T16:49:28.050289Z",
-                "2025-05-20T16:51:49.565578Z",
-                "2025-05-20T17:49:33.448503Z",
-                "2025-05-20T17:51:42.247701Z",
-                "2025-05-20T17:53:36.561347Z",
-                "2025-05-20T17:55:26.025663Z",
-                "2025-05-20T17:57:37.754942Z",
-                "2025-05-20T17:59:41.813255Z",
-                "2025-05-20T18:01:56.077609Z",
-                "2025-05-20T19:02:06.509526Z",
-                "2025-05-20T19:03:42.804589Z",
-                "2025-05-20T19:05:26.754483Z",
-                "2025-05-20T19:07:29.791961Z",
-                "2025-05-20T19:09:10.248568Z",
-                "2025-05-20T19:11:56.086420Z",
-                "2025-05-20T19:13:25.867363Z"
-            ]
-        },
-        {
-            "id": "db5d6a64cc8c25e2b56084bba716b991",
-            "source": "spacenews",
-            "text": "Geospatial intelligence agency urges faster AI deployment",
-            "source_link": "https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T15:11:47.286970Z",
-            "shown_at": [
-                "2025-05-20T15:11:48.100154Z"
-            ]
-        },
-        {
-            "id": "bfdf97f833ed80a4d99225a6c204f7d1",
-            "source": "nyt",
-            "text": "Trump’s Gulf Trip Also Brought Benefits to Elon Musk",
-            "source_link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T15:27:12.039260Z",
-            "shown_at": [
-                "2025-05-20T15:27:12.728612Z",
-                "2025-05-20T16:23:55.228150Z",
-                "2025-05-20T19:43:42.701269Z"
-            ]
-        },
-        {
-            "id": "1796b1f6378c7d816e332777755a42be",
-            "source": "spacenews",
-            "text": "Kuva to offer maritime-domain insights with satellite on deck",
-            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T16:09:52.610591Z",
-            "shown_at": [
-                "2025-05-20T16:09:56.910651Z"
-            ]
-        },
-        {
-            "id": "9afab0e68411f5331271f49736b88797",
-            "source": "spacenews",
-            "text": "Jason Rainbow Appointed Business Intelligence Manager at SpaceNews",
-            "source_link": "https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T17:21:51.873480Z",
-            "shown_at": [
-                "2025-05-20T17:21:52.932534Z"
-            ]
-        },
-        {
-            "id": "8e581561b13c907dbab56b058006df27",
-            "source": "breaking_defense",
-            "text": "Building on DoD demos, NOVI plans dual-use imagery constellation",
-            "source_link": "https://breakingdefense.com/2025/05/building-on-dod-demos-novi-plans-dual-use-imagery-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T18:47:28.967858Z",
-            "shown_at": [
-                "2025-05-20T18:47:29.948967Z"
-            ]
-        },
-        {
-            "id": "fa20d0b025afd89a60473b8e766a8c8b",
-            "source": "spacenews",
-            "text": "Satellite firms brace for potential imagery budget cuts in 2026",
-            "source_link": "https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T19:15:23.460847Z",
-            "shown_at": [
-                "2025-05-20T19:15:24.641067Z"
-            ]
-        },
-        {
-            "id": "7e7f07911ca24b57006667f654acaf36",
-            "source": "spacenews",
-            "text": "China launches classified comms satellite, conducts commercial sea launch",
-            "source_link": "https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T19:15:23.460915Z",
-            "shown_at": [
-                "2025-05-20T19:30:16.134039Z"
-            ]
-        },
-        {
-            "id": "6248afe125eb72431c02154104da4a4f",
-            "source": "spacenews",
-            "text": "MDA Space raises SatixFy offer by 43% to counter competing bid",
-            "source_link": "https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T20:11:57.237665Z",
-            "shown_at": [
-                "2025-05-20T20:11:58.330528Z"
-            ]
-        },
-        {
-            "id": "e7ddc02e5fefff97580412c4f2bb7ac5",
-            "source": "spacenews",
-            "text": "Kuva to offer maritime-domain insights",
-            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T22:23:37.099729Z",
-            "shown_at": [
-                "2025-05-20T22:23:37.796830Z"
-            ]
-        },
-        {
-            "id": "b6f040770f9eae2ebea60b0848c9720b",
-            "source": "spacenews",
-            "text": "Kuva to offer maritime-domain insights with growing constellation",
-            "source_link": "https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T22:37:38.922805Z",
-            "shown_at": [
-                "2025-05-20T22:37:39.683600Z"
-            ]
-        },
-        {
-            "id": "1b17f8601012f09a377e2f92220eaa7c",
-            "source": "spacenews",
-            "text": "Trump taps Space Force general to lead $175 billion Golden Dome missile defense program",
-            "source_link": "https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-20T22:51:15.876197Z",
-            "shown_at": [
-                "2025-05-20T22:51:16.600286Z"
             ]
         }
     ]
