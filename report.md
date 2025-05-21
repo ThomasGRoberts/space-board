@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 22 | 45 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -4243,3 +4243,4 @@
 - **May 21, 05:33 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 21, 05:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
