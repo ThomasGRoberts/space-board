@@ -5,7 +5,7 @@
 | spacenews | 12 | 24 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 82 | 82 |
+| supercluster | 2 | 2 | 83 | 83 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4198,3 +4198,4 @@
 - **May 21, 01:47 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 21, 02:02 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 21, 02:03 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 21, 02:05 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
