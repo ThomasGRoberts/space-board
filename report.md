@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 28 | 59 |
-| breaking_defense | 1 | 4 | 21 | 46 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 81 | 81 |
+| supercluster | 2 | 2 | 82 | 82 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4197,3 +4197,4 @@
 - **May 21, 01:33 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 01:47 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 21, 02:02 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 21, 02:03 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
