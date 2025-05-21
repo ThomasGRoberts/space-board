@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "c6fb6fe2701b674e368414f304c5d229",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9679,6 +9679,18 @@
                 "2025-03-26T03:03:31.310337Z",
                 "2025-03-26T20:18:16.648365Z",
                 "2025-03-27T00:53:50.088934Z"
+            ]
+        },
+        {
+            "id": "c6fb6fe2701b674e368414f304c5d229",
+            "source": "spacenews",
+            "text": "NASA says long-running budget shortfalls may lead to ISS crew and research reductions",
+            "source_link": "https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T00:17:33.660865Z",
+            "shown_at": [
+                "2025-05-21T00:17:34.345600Z"
             ]
         }
     ]

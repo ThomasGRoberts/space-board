@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 28 | 59 |
+| spacenews | 12 | 24 | 29 | 60 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 2 | 2 | 73 | 73 |
@@ -4183,3 +4183,4 @@
 - **May 21, 12:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 12:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 21, 12:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 21, 12:17 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
