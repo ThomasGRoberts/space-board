@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 21 | 43 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -4264,3 +4264,4 @@
 - **May 21, 07:51 PM** - Ursa, University of Illinois and Palantir win Luno A contracts (spacenews)
 - **May 21, 08:05 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 08:23 PM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
+- **May 21, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
