@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "fa88c9f76308c86848b8515f3d822374",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9875,6 +9875,18 @@
             "fetched_datetime": "2025-05-21T20:23:31.278287Z",
             "shown_at": [
                 "2025-05-21T20:23:31.930116Z"
+            ]
+        },
+        {
+            "id": "fa88c9f76308c86848b8515f3d822374",
+            "source": "spacenews",
+            "text": "Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander",
+            "source_link": "https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T20:53:31.747580Z",
+            "shown_at": [
+                "2025-05-21T20:53:32.452012Z"
             ]
         }
     ]

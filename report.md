@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 30 | 56 |
+| spacenews | 13 | 22 | 31 | 57 |
 | breaking_defense | 2 | 3 | 21 | 43 |
 | nyt | 0 | 2 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4271,3 +4271,4 @@
 - **May 21, 08:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 08:53 PM** - Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander (spacenews)
