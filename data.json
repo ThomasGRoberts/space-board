@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bfdf97f833ed80a4d99225a6c204f7d1",
+    "trigger_count": 0,
+    "current_item_id": "88f9f05169e3416a4dcf3d3a3c1b0d3b",
     "data": [
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
@@ -9831,6 +9831,18 @@
             "fetched_datetime": "2025-05-21T18:49:46.074346Z",
             "shown_at": [
                 "2025-05-21T18:49:47.195244Z"
+            ]
+        },
+        {
+            "id": "88f9f05169e3416a4dcf3d3a3c1b0d3b",
+            "source": "spacenews",
+            "text": "Space Force and NGA move to end turf disputes with new intelligence agreement",
+            "source_link": "https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T19:37:37.459133Z",
+            "shown_at": [
+                "2025-05-21T19:37:38.167788Z"
             ]
         }
     ]
