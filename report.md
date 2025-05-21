@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 29 | 56 |
+| spacenews | 13 | 21 | 30 | 57 |
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4218,3 +4218,4 @@
 - **May 21, 02:21 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
 - **May 21, 02:35 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 21, 02:49 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 21, 03:03 PM** - Satellites take frontline role in maritime security (spacenews)
