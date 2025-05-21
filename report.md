@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 29 | 58 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 20 | 43 |
 | nyt | 2 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4149,3 +4149,4 @@
 - **May 21, 07:31 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 21, 07:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 07:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 07:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
