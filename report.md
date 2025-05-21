@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -4210,3 +4210,4 @@
 - **May 21, 01:53 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 21, 02:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 02:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 02:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
