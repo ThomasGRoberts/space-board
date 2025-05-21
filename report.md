@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 1 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4187,3 +4187,4 @@
 - **May 21, 11:03 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 21, 11:22 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 21, 11:37 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
+- **May 21, 11:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
