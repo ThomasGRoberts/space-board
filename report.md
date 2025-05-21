@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 21 | 28 | 56 |
 | breaking_defense | 2 | 3 | 21 | 42 |
-| nyt | 0 | 2 | 21 | 42 |
+| nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4192,3 +4192,4 @@
 - **May 21, 10:52 PM** - Norway signs Artemis Accords (spacenews)
 - **May 21, 11:05 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 21, 11:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 11:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
