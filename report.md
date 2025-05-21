@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 30 | 56 |
+| spacenews | 13 | 22 | 31 | 57 |
 | breaking_defense | 2 | 3 | 21 | 43 |
 | nyt | 0 | 2 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4179,3 +4179,4 @@
 - **May 21, 09:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:37 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 21, 09:51 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
