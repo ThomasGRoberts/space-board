@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 29 | 57 |
+| spacenews | 12 | 21 | 29 | 56 |
 | breaking_defense | 1 | 4 | 21 | 44 |
-| nyt | 1 | 2 | 20 | 41 |
+| nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 60 | 60 |
 
@@ -4206,3 +4206,4 @@
 - **May 21, 01:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 01:05 PM** - Balancing progress and partnership: evaluating the Space Force’s new personnel laws (spacenews)
 - **May 21, 01:21 PM** - Satellite startups race to enhance wildfire detection and response (spacenews)
+- **May 21, 01:37 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
