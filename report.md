@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -4198,3 +4198,4 @@
 - **May 21, 12:19 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 12:33 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 21, 12:48 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 12:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
