@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 28 | 59 |
-| breaking_defense | 1 | 4 | 21 | 46 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 88 | 88 |
+| supercluster | 2 | 2 | 89 | 89 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4207,3 +4207,4 @@
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 21, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
