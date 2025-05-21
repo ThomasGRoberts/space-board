@@ -5,7 +5,7 @@
 | spacenews | 12 | 24 | 29 | 60 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 20 | 42 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4165,3 +4165,4 @@
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 03:11 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
+- **May 21, 03:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
