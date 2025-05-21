@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 29 | 59 |
+| spacenews | 12 | 24 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 73 | 73 |
+| supercluster | 2 | 2 | 74 | 74 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4186,3 +4186,4 @@
 - **May 21, 12:17 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 21, 12:32 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 21, 12:47 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 21, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
