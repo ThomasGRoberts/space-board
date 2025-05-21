@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -4221,3 +4221,4 @@
 - **May 21, 03:03 PM** - Satellites take frontline role in maritime security (spacenews)
 - **May 21, 03:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
