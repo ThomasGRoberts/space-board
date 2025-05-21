@@ -5,7 +5,7 @@
 | spacenews | 12 | 24 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 80 | 80 |
+| supercluster | 2 | 2 | 81 | 81 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4196,3 +4196,4 @@
 - **May 21, 01:19 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 21, 01:33 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 01:47 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 21, 02:02 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
