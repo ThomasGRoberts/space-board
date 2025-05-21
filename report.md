@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 59 |
+| spacenews | 12 | 24 | 29 | 60 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 2 | 2 | 20 | 43 |
 | supercluster | 2 | 2 | 87 | 87 |
@@ -4203,3 +4203,4 @@
 - **May 21, 02:09 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 21, 02:11 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **May 21, 02:13 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **May 21, 02:15 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
