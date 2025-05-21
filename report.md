@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 22 | 45 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4241,3 +4241,4 @@
 - **May 21, 05:03 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 21, 05:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 21, 05:33 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
+- **May 21, 05:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
