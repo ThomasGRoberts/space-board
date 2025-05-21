@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 1 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -4219,3 +4219,4 @@
 - **May 21, 02:35 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 21, 02:49 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 21, 03:03 PM** - Satellites take frontline role in maritime security (spacenews)
+- **May 21, 03:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
