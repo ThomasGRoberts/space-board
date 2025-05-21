@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 28 | 54 |
+| spacenews | 11 | 19 | 29 | 55 |
 | breaking_defense | 3 | 5 | 22 | 45 |
-| nyt | 0 | 2 | 21 | 42 |
+| nyt | 0 | 2 | 20 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 88 | 88 |
 
@@ -4250,3 +4250,4 @@
 - **May 21, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 06:05 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 21, 06:19 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 21, 06:35 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
