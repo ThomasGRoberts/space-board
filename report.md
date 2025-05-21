@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 20 | 44 |
 | nyt | 1 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4169,3 +4169,4 @@
 - **May 21, 09:25 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
 - **May 21, 09:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
