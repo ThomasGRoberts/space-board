@@ -5,7 +5,7 @@
 | spacenews | 12 | 24 | 28 | 59 |
 | breaking_defense | 1 | 4 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 2 | 2 | 74 | 74 |
+| supercluster | 2 | 2 | 75 | 75 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4187,3 +4187,4 @@
 - **May 21, 12:32 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 21, 12:47 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 21, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 21, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
