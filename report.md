@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 30 | 56 |
 | breaking_defense | 2 | 3 | 21 | 43 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 19 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4266,3 +4266,4 @@
 - **May 21, 08:23 PM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
 - **May 21, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 21, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 21, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
