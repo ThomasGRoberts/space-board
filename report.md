@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 | spacenews | 11 | 23 | 30 | 58 |
 | breaking_defense | 3 | 4 | 24 | 44 |
 | nyt | 0 | 1 | 22 | 43 |
@@ -4207,3 +4207,4 @@
 - **May 22, 11:32 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 11:45 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 22, 11:59 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 22, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
