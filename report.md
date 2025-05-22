@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 3 | 4 | 24 | 45 |
 | nyt | 0 | 1 | 23 | 44 |
@@ -4239,3 +4239,4 @@
 - **May 22, 02:53 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 03:07 PM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
 - **May 22, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
