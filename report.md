@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 | spacenews | 9 | 21 | 28 | 56 |
 | breaking_defense | 2 | 3 | 21 | 42 |
-| nyt | 0 | 2 | 21 | 42 |
+| nyt | 0 | 2 | 21 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4115,3 +4115,4 @@
 - **May 22, 02:27 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 22, 02:41 AM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
 - **May 22, 02:55 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 22, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
