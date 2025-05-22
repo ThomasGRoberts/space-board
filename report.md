@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 161 | 161 |
 | spacenews | 7 | 18 | 28 | 57 |
-| breaking_defense | 2 | 4 | 24 | 45 |
+| breaking_defense | 2 | 4 | 25 | 46 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4287,3 +4287,4 @@
 - **May 22, 07:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 07:21 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 22, 07:35 PM** - FAA provides final approval for next Starship launch (spacenews)
+- **May 22, 07:49 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
