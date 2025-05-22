@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 133 | 133 |
-| spacenews | 9 | 21 | 29 | 58 |
+| spacenews | 9 | 21 | 30 | 59 |
 | breaking_defense | 2 | 4 | 24 | 45 |
 | nyt | 0 | 0 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4247,3 +4247,4 @@
 - **May 22, 03:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 03:37 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 22, 03:51 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 22, 04:05 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
