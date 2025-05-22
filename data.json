@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f34056f7d2843500140e067f6094f78c",
+    "trigger_count": 0,
+    "current_item_id": "4a59904c3566f8a153f499fb091a26ee",
     "data": [
         {
             "id": "fa88c9f76308c86848b8515f3d822374",
@@ -9699,6 +9699,18 @@
                 "2025-05-22T21:07:42.548988Z",
                 "2025-05-22T21:09:31.692038Z",
                 "2025-05-22T21:11:35.629346Z"
+            ]
+        },
+        {
+            "id": "4a59904c3566f8a153f499fb091a26ee",
+            "source": "spacenews",
+            "text": "Dawn Aerospace begins sales of Aurora suborbital spaceplane",
+            "source_link": "https://spacenews.com/dawn-aerospace-begins-sales-of-aurora-suborbital-spaceplane/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T21:41:13.769360Z",
+            "shown_at": [
+                "2025-05-22T21:41:14.507653Z"
             ]
         }
     ]
