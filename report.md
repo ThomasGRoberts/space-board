@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 35 | 35 |
 | spacenews | 9 | 21 | 28 | 56 |
 | breaking_defense | 2 | 3 | 21 | 42 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 21 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4104,3 +4104,4 @@
 - **May 22, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 01:32 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 22, 01:45 AM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
+- **May 22, 01:59 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
