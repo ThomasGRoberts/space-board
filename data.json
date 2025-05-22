@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fc919d3b1ba63cf16ec57257726d5e0",
+    "trigger_count": 0,
+    "current_item_id": "49d9e0ac43a21e9703f22c6e8efe5af3",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9804,6 +9804,18 @@
             "fetched_datetime": "2025-05-22T13:11:48.211222Z",
             "shown_at": [
                 "2025-05-22T13:11:48.942925Z"
+            ]
+        },
+        {
+            "id": "49d9e0ac43a21e9703f22c6e8efe5af3",
+            "source": "breaking_defense",
+            "text": "AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says",
+            "source_link": "https://breakingdefense.com/2025/05/ai-unchained-ngas-maven-tool-significantly-decreasing-time-to-targeting-agency-chief-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T17:43:27.500387Z",
+            "shown_at": [
+                "2025-05-22T17:43:28.058282Z"
             ]
         }
     ]
