@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 56 | 56 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 2 | 22 | 42 |
+| nyt | 0 | 2 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4134,3 +4134,4 @@
 - **May 22, 04:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 04:23 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 22, 04:37 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
+- **May 22, 04:51 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
