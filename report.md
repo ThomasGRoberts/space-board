@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 70 | 70 |
 | spacenews | 9 | 21 | 29 | 57 |
-| breaking_defense | 2 | 3 | 23 | 43 |
+| breaking_defense | 2 | 3 | 24 | 44 |
 | nyt | 0 | 2 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4152,3 +4152,4 @@
 - **May 22, 06:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 06:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 06:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 06:15 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
