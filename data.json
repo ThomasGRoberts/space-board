@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71a796f5c116759be5b9aa4b13a44334",
+    "trigger_count": 0,
+    "current_item_id": "2b5a2731f11181029031c240319529ae",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9710,6 +9710,18 @@
             "fetched_datetime": "2025-05-22T10:05:49.358690Z",
             "shown_at": [
                 "2025-05-22T10:05:50.438044Z"
+            ]
+        },
+        {
+            "id": "2b5a2731f11181029031c240319529ae",
+            "source": "spacenews",
+            "text": "ESA seeks funding for ‘security and resilience’ satellite program",
+            "source_link": "https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T11:45:54.273998Z",
+            "shown_at": [
+                "2025-05-22T11:45:55.310199Z"
             ]
         }
     ]
