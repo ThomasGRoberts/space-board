@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 105 | 105 |
 | spacenews | 11 | 23 | 30 | 58 |
-| breaking_defense | 2 | 3 | 23 | 43 |
+| breaking_defense | 3 | 4 | 24 | 44 |
 | nyt | 0 | 1 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4206,3 +4206,4 @@
 - **May 22, 11:17 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 22, 11:32 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 11:45 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
+- **May 22, 11:59 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
