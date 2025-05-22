@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 154 | 154 |
 | spacenews | 8 | 19 | 28 | 57 |
-| breaking_defense | 2 | 5 | 23 | 45 |
+| breaking_defense | 2 | 5 | 24 | 46 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4276,3 +4276,4 @@
 - **May 22, 06:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 06:25 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 22, 06:39 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
