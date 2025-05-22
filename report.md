@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 17 | 26 | 56 |
+| spacenews | 4 | 17 | 27 | 57 |
 | breaking_defense | 2 | 4 | 25 | 45 |
 | nyt | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4138,3 +4138,4 @@
 - **May 22, 09:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 09:13 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 22, 09:27 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
