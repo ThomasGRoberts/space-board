@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 98 | 98 |
-| spacenews | 9 | 21 | 29 | 57 |
+| spacenews | 10 | 22 | 30 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 1 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4192,3 +4192,4 @@
 - **May 22, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 10:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 10:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 10:05 AM** - PiLogic raises $4 million for bespoke satellite AI models (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "283def2f31dafc45bf51f7c56d24b08c",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9686,6 +9686,18 @@
                 "2025-03-23T06:27:26.470376Z",
                 "2025-03-24T20:05:38.613728Z",
                 "2025-03-25T21:23:32.654403Z"
+            ]
+        },
+        {
+            "id": "283def2f31dafc45bf51f7c56d24b08c",
+            "source": "spacenews",
+            "text": "PiLogic raises $4 million for bespoke satellite AI models",
+            "source_link": "https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T10:05:49.358690Z",
+            "shown_at": [
+                "2025-05-22T10:05:50.438044Z"
             ]
         }
     ]
