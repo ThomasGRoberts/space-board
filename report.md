@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 162 | 162 |
+| supercluster | 1 | 1 | 163 | 163 |
 | spacenews | 6 | 18 | 27 | 57 |
-| breaking_defense | 2 | 4 | 25 | 45 |
+| breaking_defense | 2 | 4 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4289,3 +4289,4 @@
 - **May 22, 07:35 PM** - FAA provides final approval for next Starship launch (spacenews)
 - **May 22, 07:49 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 22, 08:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
