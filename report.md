@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | spacenews | 9 | 21 | 29 | 57 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 22 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4167,3 +4167,4 @@
 - **May 22, 07:41 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 22, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 07:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 07:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
