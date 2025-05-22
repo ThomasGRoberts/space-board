@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 140 | 140 |
-| spacenews | 8 | 20 | 28 | 58 |
+| spacenews | 8 | 20 | 29 | 59 |
 | breaking_defense | 1 | 4 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4257,3 +4257,4 @@
 - **May 22, 04:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 04:33 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 04:47 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 22, 05:01 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
