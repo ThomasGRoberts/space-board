@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 154 | 154 |
+| supercluster | 1 | 1 | 155 | 155 |
 | spacenews | 7 | 19 | 28 | 58 |
 | breaking_defense | 2 | 4 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
@@ -4278,3 +4278,4 @@
 - **May 22, 06:25 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 22, 06:39 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 22, 06:53 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
+- **May 22, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
