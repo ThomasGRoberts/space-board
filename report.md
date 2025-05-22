@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 25 | 45 |
 | nyt | 0 | 0 | 25 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4131,3 +4131,4 @@
 - **May 22, 08:32 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 22, 08:45 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 22, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 09:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
