@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 63 | 63 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 2 | 22 | 42 |
+| nyt | 0 | 2 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4144,3 +4144,4 @@
 - **May 22, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 05:19 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 22, 05:33 AM** - Solestial banks $17 million and welcomes new CEO (spacenews)
+- **May 22, 05:47 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
