@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 105 | 105 |
 | spacenews | 10 | 22 | 30 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 1 | 22 | 42 |
+| nyt | 0 | 1 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4204,3 +4204,4 @@
 - **May 22, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 11:02 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 22, 11:17 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 22, 11:32 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
