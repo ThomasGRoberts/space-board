@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 49 | 49 |
 | spacenews | 9 | 21 | 28 | 57 |
 | breaking_defense | 2 | 3 | 22 | 42 |
-| nyt | 0 | 2 | 21 | 41 |
+| nyt | 0 | 2 | 22 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4124,3 +4124,4 @@
 - **May 22, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 03:23 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 22, 03:37 AM** - Aschbacher calls on Europe to increase space spending (spacenews)
+- **May 22, 03:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
