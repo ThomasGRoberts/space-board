@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 77 | 77 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 2 | 22 | 42 |
+| nyt | 0 | 2 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4164,3 +4164,4 @@
 - **May 22, 07:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 07:13 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 22, 07:27 AM** - NATO allies to pledge capabilities to address growing threats (spacenews)
+- **May 22, 07:41 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
