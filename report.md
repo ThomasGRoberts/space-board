@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 35 | 35 |
-| spacenews | 9 | 21 | 27 | 56 |
+| spacenews | 9 | 21 | 28 | 57 |
 | breaking_defense | 2 | 3 | 22 | 42 |
 | nyt | 0 | 2 | 20 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4103,3 +4103,4 @@
 - **May 22, 01:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 01:32 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 22, 01:45 AM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
