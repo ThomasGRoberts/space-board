@@ -1,9 +1,190 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-21T00:02:06.508504+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
+    "trigger_count": 6,
     "current_item_id": "585f8c2c7d029d455e452cb814f71793",
     "data": [
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-16",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-22T20:58:00.000Z",
+            "time_remaining": "0d 21h 24m",
+            "fetched_datetime": "2025-05-21T21:23:36.236013Z",
+            "shown_at": [
+                "2025-05-21T21:23:37.400965Z",
+                "2025-05-21T21:25:24.963746Z",
+                "2025-05-21T21:27:39.356152Z",
+                "2025-05-21T21:29:08.301669Z",
+                "2025-05-21T21:31:46.671449Z",
+                "2025-05-21T21:33:49.400748Z",
+                "2025-05-21T21:35:39.342939Z",
+                "2025-05-21T22:19:32.665987Z",
+                "2025-05-21T22:23:24.675513Z",
+                "2025-05-21T22:25:23.314558Z",
+                "2025-05-21T22:27:30.414489Z",
+                "2025-05-21T22:29:37.285821Z",
+                "2025-05-21T22:31:55.179885Z",
+                "2025-05-21T22:35:28.730481Z",
+                "2025-05-21T23:19:40.515198Z",
+                "2025-05-21T23:22:22.425870Z",
+                "2025-05-21T23:25:37.489494Z",
+                "2025-05-21T23:27:36.304298Z",
+                "2025-05-21T23:29:23.042323Z",
+                "2025-05-21T23:31:29.709571Z",
+                "2025-05-21T23:33:23.020669Z"
+            ]
+        },
+        {
+            "id": "fa88c9f76308c86848b8515f3d822374",
+            "source": "spacenews",
+            "text": "Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander",
+            "source_link": "https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T20:53:31.747580Z",
+            "shown_at": [
+                "2025-05-21T20:53:32.452012Z"
+            ]
+        },
+        {
+            "id": "a87e52b6bf17aa91efcf91684619e978",
+            "source": "spacenews",
+            "text": "Ursa, University of Illinois and Palantir win NGA contracts",
+            "source_link": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T20:23:31.278287Z",
+            "shown_at": [
+                "2025-05-21T20:23:31.930116Z"
+            ]
+        },
+        {
+            "id": "8a77d795cb2e8fc9e23c904fc0cfd193",
+            "source": "spacenews",
+            "text": "Ursa, University of Illinois and Palantir win Luno A contracts",
+            "source_link": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T19:51:32.423861Z",
+            "shown_at": [
+                "2025-05-21T19:51:33.107338Z"
+            ]
+        },
+        {
+            "id": "88f9f05169e3416a4dcf3d3a3c1b0d3b",
+            "source": "spacenews",
+            "text": "Space Force and NGA move to end turf disputes with new intelligence agreement",
+            "source_link": "https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T19:37:37.459133Z",
+            "shown_at": [
+                "2025-05-21T19:37:38.167788Z"
+            ]
+        },
+        {
+            "id": "bce9aab9d4cac14d31a19aca8868938b",
+            "source": "spacenews",
+            "text": " Space Force and NGA move to end turf disputes with new intelligence agreement",
+            "source_link": "https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T18:49:46.074346Z",
+            "shown_at": [
+                "2025-05-21T18:49:47.195244Z"
+            ]
+        },
+        {
+            "id": "376269a493e340a8cab9eea8b6e0af2d",
+            "source": "spacenews",
+            "text": "AI could deliver insights when paired with (the right) humans",
+            "source_link": "https://spacenews.com/ai-could-deliver-insights-when-paired-with-the-right-humans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T16:33:37.503433Z",
+            "shown_at": [
+                "2025-05-21T16:33:38.064321Z"
+            ]
+        },
+        {
+            "id": "d37c6f19b2b779d1b93f6b91a5d33ea8",
+            "source": "breaking_defense",
+            "text": "NGA, Space Force ink accord on responsibilities for buying commercial ISR",
+            "source_link": "https://breakingdefense.com/2025/05/nga-space-force-ink-accord-on-responsibilities-for-buying-commercial-isr/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T16:19:48.648240Z",
+            "shown_at": [
+                "2025-05-21T16:19:49.670023Z",
+                "2025-05-21T17:19:34.442094Z"
+            ]
+        },
+        {
+            "id": "7d405a0aaf3f53f0f28fa299f18df811",
+            "source": "breaking_defense",
+            "text": "Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein",
+            "source_link": "https://breakingdefense.com/2025/05/trump-golden-dome-to-cost-175-billion-will-be-led-by-space-forces-guetlein/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T15:35:47.283990Z",
+            "shown_at": [
+                "2025-05-21T15:35:48.376486Z",
+                "2025-05-21T22:37:39.001543Z"
+            ]
+        },
+        {
+            "id": "1f0b0e6e0eeadd87368e389167753e48",
+            "source": "spacenews",
+            "text": "Satellites take frontline role in maritime security",
+            "source_link": "https://spacenews.com/satellites-take-frontline-role-in-maritime-security/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T15:03:43.850242Z",
+            "shown_at": [
+                "2025-05-21T15:03:45.050558Z"
+            ]
+        },
+        {
+            "id": "b650642e3130cd218e18e0b56f7ddf4b",
+            "source": "spacenews",
+            "text": "Satellite startups race to enhance wildfire detection and response",
+            "source_link": "https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T13:05:34.245622Z",
+            "shown_at": [
+                "2025-05-21T13:21:37.245812Z"
+            ]
+        },
+        {
+            "id": "d4db495f49123103e543ed148c84d264",
+            "source": "spacenews",
+            "text": "Balancing progress and partnership: evaluating the Space Force’s new personnel laws",
+            "source_link": "https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T13:05:34.245539Z",
+            "shown_at": [
+                "2025-05-21T13:05:34.962725Z"
+            ]
+        },
+        {
+            "id": "c6fb6fe2701b674e368414f304c5d229",
+            "source": "spacenews",
+            "text": "NASA says long-running budget shortfalls may lead to ISS crew and research reductions",
+            "source_link": "https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-21T00:17:33.660865Z",
+            "shown_at": [
+                "2025-05-21T00:17:34.345600Z",
+                "2025-05-21T07:31:59.962513Z"
+            ]
+        },
         {
             "id": "1b17f8601012f09a377e2f92220eaa7c",
             "source": "spacenews",
@@ -9397,424 +9578,6 @@
                 "2025-03-23T06:27:26.470376Z",
                 "2025-03-24T20:05:38.613728Z",
                 "2025-03-25T21:23:32.654403Z"
-            ]
-        },
-        {
-            "id": "6a7eb149365d2a26c63687d3dd08574b",
-            "source": "spacenews",
-            "text": "Space Industries sets ambitious goals for satellite assembly, integration and testing",
-            "source_link": "https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T12:20:01.256572Z",
-            "shown_at": [
-                "2025-03-21T12:20:01.885150Z",
-                "2025-03-22T04:02:01.018640Z",
-                "2025-03-24T07:17:36.599223Z",
-                "2025-03-24T14:17:51.422084Z",
-                "2025-03-25T22:33:43.735953Z",
-                "2025-03-27T08:17:51.162450Z",
-                "2025-03-27T17:35:11.935003Z"
-            ]
-        },
-        {
-            "id": "3ea7ac50cf2572e287468f10f6900d8c",
-            "source": "aidy",
-            "text": "FAA Streamlines Launch Licensing, Eases Export Controls in U.S. Space Policy Shift",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T07:23:53.090581Z",
-            "shown_at": [
-                "2025-03-21T07:23:53.604343Z",
-                "2025-03-21T18:31:47.026855Z",
-                "2025-03-22T13:35:39.408448Z",
-                "2025-03-22T23:11:44.298992Z",
-                "2025-03-23T05:03:24.651741Z",
-                "2025-03-23T08:33:41.676738Z",
-                "2025-03-23T15:35:38.643034Z",
-                "2025-03-24T05:09:28.723234Z",
-                "2025-03-24T13:31:56.797801Z",
-                "2025-03-24T21:59:41.921999Z",
-                "2025-03-24T23:27:47.158978Z",
-                "2025-03-25T06:37:39.696028Z",
-                "2025-03-25T07:49:31.339217Z",
-                "2025-03-25T11:27:45.103496Z",
-                "2025-03-26T14:05:42.212918Z",
-                "2025-03-26T23:41:44.460362Z",
-                "2025-03-27T08:32:04.211103Z",
-                "2025-03-27T09:45:31.689332Z"
-            ]
-        },
-        {
-            "id": "59ab7844f78a7365a78b3bbd355b9994",
-            "source": "spacenews",
-            "text": "French VLEO 5G startup strikes telecoms infrastructure partnership",
-            "source_link": "https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T22:27:26.517982Z",
-            "shown_at": [
-                "2025-03-20T22:27:26.943889Z",
-                "2025-03-26T06:49:31.676483Z"
-            ]
-        },
-        {
-            "id": "9af33062221b7df4e2e2217f40841f27",
-            "source": "spacenews",
-            "text": "U.S. Space Force budget trimmed in full-year continuing resolution",
-            "source_link": "https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T21:29:32.059269Z",
-            "shown_at": [
-                "2025-03-20T21:29:32.640983Z",
-                "2025-03-23T10:13:41.509064Z",
-                "2025-03-23T21:43:52.485988Z",
-                "2025-03-25T00:23:27.792380Z",
-                "2025-03-25T06:23:49.010416Z"
-            ]
-        },
-        {
-            "id": "00bbbb3cd9a145d699cae9d41a5eff69",
-            "source": "breaking_defense",
-            "text": "Saltzman: Space Force in ‘pretty good spot’ regarding DoD funding shift",
-            "source_link": "https://breakingdefense.com/2025/03/saltzman-space-force-in-pretty-good-spot-regarding-dod-funding-shift/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T20:45:43.978072Z",
-            "shown_at": [
-                "2025-03-20T20:45:44.465508Z",
-                "2025-03-21T04:11:32.051597Z",
-                "2025-03-22T19:05:41.943474Z",
-                "2025-03-22T23:53:29.340663Z",
-                "2025-03-23T04:35:38.157240Z",
-                "2025-03-24T04:25:37.993136Z",
-                "2025-03-24T14:02:02.820503Z",
-                "2025-03-24T19:35:29.670569Z",
-                "2025-03-25T10:45:32.055180Z",
-                "2025-03-25T13:41:16.751112Z",
-                "2025-03-25T15:09:57.546319Z",
-                "2025-03-25T16:19:31.418771Z",
-                "2025-03-25T20:24:10.286792Z",
-                "2025-03-26T12:17:30.546317Z",
-                "2025-03-27T18:03:10.498966Z"
-            ]
-        },
-        {
-            "id": "99df0bf123343cd02038321f8bb13156",
-            "source": "breaking_defense",
-            "text": "Trump eliminated a key space advisory committee at the worst time",
-            "source_link": "https://breakingdefense.com/2025/03/trump-eliminated-a-key-space-advisory-committee-at-the-worst-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T15:57:33.850788Z",
-            "shown_at": [
-                "2025-03-20T15:57:34.429185Z",
-                "2025-03-20T18:21:54.176769Z",
-                "2025-03-20T21:57:29.637279Z",
-                "2025-03-21T07:55:44.455334Z",
-                "2025-03-21T16:53:31.485730Z",
-                "2025-03-21T23:31:28.927914Z",
-                "2025-03-22T06:49:31.970303Z",
-                "2025-03-22T15:31:49.960017Z",
-                "2025-03-22T20:17:38.903222Z",
-                "2025-03-23T06:55:36.515661Z",
-                "2025-03-23T15:21:57.181152Z",
-                "2025-03-23T22:25:29.416995Z",
-                "2025-03-23T23:37:53.528190Z",
-                "2025-03-24T17:41:35.612989Z",
-                "2025-03-25T22:47:48.901188Z",
-                "2025-03-27T03:45:35.008769Z",
-                "2025-03-27T07:35:41.930768Z",
-                "2025-03-27T08:47:45.599003Z",
-                "2025-03-27T09:59:28.803247Z"
-            ]
-        },
-        {
-            "id": "3df6c968b60c64c627a704630e54e833",
-            "source": "nyt",
-            "text": "Robert E. Ginna Jr., Whose Article Bolstered U.F.O. Claims, Dies at 99",
-            "source_link": "https://www.nytimes.com/2025/03/20/books/robert-ginna-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T15:11:41.502712Z",
-            "shown_at": [
-                "2025-03-20T15:11:42.155679Z",
-                "2025-03-22T11:37:50.960667Z",
-                "2025-03-24T04:11:47.180214Z",
-                "2025-03-24T05:37:37.653353Z",
-                "2025-03-24T09:27:35.676427Z",
-                "2025-03-24T16:17:39.884300Z",
-                "2025-03-24T17:27:48.356881Z",
-                "2025-03-25T14:55:31.882434Z",
-                "2025-03-25T20:53:36.321788Z",
-                "2025-03-25T22:05:28.164059Z",
-                "2025-03-26T03:59:59.399886Z",
-                "2025-03-26T07:47:31.675147Z",
-                "2025-03-26T10:11:41.964783Z",
-                "2025-03-26T19:47:51.320036Z",
-                "2025-03-26T21:02:10.330417Z"
-            ]
-        },
-        {
-            "id": "ed6a0ca4e90bb1e99a9b605eee2051e3",
-            "source": "spacenews",
-            "text": "Satellite operators want better space weather models",
-            "source_link": "https://spacenews.com/satellite-operators-want-better-space-weather-models/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T12:19:30.825024Z",
-            "shown_at": [
-                "2025-03-20T12:19:31.381579Z",
-                "2025-03-21T02:11:43.673664Z",
-                "2025-03-22T23:25:36.289510Z",
-                "2025-03-24T10:52:06.489512Z",
-                "2025-03-24T15:35:48.819716Z",
-                "2025-03-25T05:11:17.590261Z",
-                "2025-03-26T05:39:56.289658Z"
-            ]
-        },
-        {
-            "id": "89e7bb45e2be8314f2516ce486c69033",
-            "source": "breaking_defense",
-            "text": "Space Force unveils multi-front push to fix its Unified Data Library",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-unveils-multi-front-push-to-fix-its-unified-data-library/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T12:05:36.991090Z",
-            "shown_at": [
-                "2025-03-20T12:05:38.465614Z",
-                "2025-03-22T22:39:30.830986Z",
-                "2025-03-23T12:51:38.718059Z",
-                "2025-03-25T02:17:10.919936Z",
-                "2025-03-25T07:07:28.099630Z",
-                "2025-03-25T08:17:32.877880Z",
-                "2025-03-25T17:47:33.606672Z",
-                "2025-03-26T03:45:41.613115Z",
-                "2025-03-26T04:55:32.642122Z",
-                "2025-03-27T00:11:45.066067Z"
-            ]
-        },
-        {
-            "id": "01a5ed1f16b78af0a49f97a3ef523ebb",
-            "source": "spacenews",
-            "text": "NASA examining options for another Starliner test flight",
-            "source_link": "https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T10:39:33.146467Z",
-            "shown_at": [
-                "2025-03-20T10:39:33.749275Z",
-                "2025-03-21T14:17:49.135572Z",
-                "2025-03-24T21:45:30.708320Z"
-            ]
-        },
-        {
-            "id": "557a299db3d74c2ec934a73924027a67",
-            "source": "aidy",
-            "text": "U.S. Space Agenda: 2025 NASA Bill Backs Artemis, Mars; DOJ Enforces Cybersecurity Compliance",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-20T07:29:29.068985Z",
-            "shown_at": [
-                "2025-03-20T07:29:29.525851Z",
-                "2025-03-20T18:07:40.959481Z",
-                "2025-03-20T21:43:28.807755Z",
-                "2025-03-21T14:45:49.396375Z",
-                "2025-03-21T17:07:39.281853Z",
-                "2025-03-21T21:25:44.811892Z",
-                "2025-03-22T15:59:27.525253Z",
-                "2025-03-22T19:33:38.304105Z",
-                "2025-03-23T03:53:41.714491Z",
-                "2025-03-25T04:13:45.797999Z",
-                "2025-03-25T05:25:32.732512Z",
-                "2025-03-25T14:12:23.791046Z",
-                "2025-03-26T03:03:31.310337Z",
-                "2025-03-26T20:18:16.648365Z",
-                "2025-03-27T00:53:50.088934Z"
-            ]
-        },
-        {
-            "id": "c6fb6fe2701b674e368414f304c5d229",
-            "source": "spacenews",
-            "text": "NASA says long-running budget shortfalls may lead to ISS crew and research reductions",
-            "source_link": "https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T00:17:33.660865Z",
-            "shown_at": [
-                "2025-05-21T00:17:34.345600Z",
-                "2025-05-21T07:31:59.962513Z"
-            ]
-        },
-        {
-            "id": "d4db495f49123103e543ed148c84d264",
-            "source": "spacenews",
-            "text": "Balancing progress and partnership: evaluating the Space Force’s new personnel laws",
-            "source_link": "https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T13:05:34.245539Z",
-            "shown_at": [
-                "2025-05-21T13:05:34.962725Z"
-            ]
-        },
-        {
-            "id": "b650642e3130cd218e18e0b56f7ddf4b",
-            "source": "spacenews",
-            "text": "Satellite startups race to enhance wildfire detection and response",
-            "source_link": "https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T13:05:34.245622Z",
-            "shown_at": [
-                "2025-05-21T13:21:37.245812Z"
-            ]
-        },
-        {
-            "id": "1f0b0e6e0eeadd87368e389167753e48",
-            "source": "spacenews",
-            "text": "Satellites take frontline role in maritime security",
-            "source_link": "https://spacenews.com/satellites-take-frontline-role-in-maritime-security/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T15:03:43.850242Z",
-            "shown_at": [
-                "2025-05-21T15:03:45.050558Z"
-            ]
-        },
-        {
-            "id": "7d405a0aaf3f53f0f28fa299f18df811",
-            "source": "breaking_defense",
-            "text": "Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein",
-            "source_link": "https://breakingdefense.com/2025/05/trump-golden-dome-to-cost-175-billion-will-be-led-by-space-forces-guetlein/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T15:35:47.283990Z",
-            "shown_at": [
-                "2025-05-21T15:35:48.376486Z",
-                "2025-05-21T22:37:39.001543Z"
-            ]
-        },
-        {
-            "id": "d37c6f19b2b779d1b93f6b91a5d33ea8",
-            "source": "breaking_defense",
-            "text": "NGA, Space Force ink accord on responsibilities for buying commercial ISR",
-            "source_link": "https://breakingdefense.com/2025/05/nga-space-force-ink-accord-on-responsibilities-for-buying-commercial-isr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T16:19:48.648240Z",
-            "shown_at": [
-                "2025-05-21T16:19:49.670023Z",
-                "2025-05-21T17:19:34.442094Z"
-            ]
-        },
-        {
-            "id": "376269a493e340a8cab9eea8b6e0af2d",
-            "source": "spacenews",
-            "text": "AI could deliver insights when paired with (the right) humans",
-            "source_link": "https://spacenews.com/ai-could-deliver-insights-when-paired-with-the-right-humans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T16:33:37.503433Z",
-            "shown_at": [
-                "2025-05-21T16:33:38.064321Z"
-            ]
-        },
-        {
-            "id": "bce9aab9d4cac14d31a19aca8868938b",
-            "source": "spacenews",
-            "text": " Space Force and NGA move to end turf disputes with new intelligence agreement",
-            "source_link": "https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T18:49:46.074346Z",
-            "shown_at": [
-                "2025-05-21T18:49:47.195244Z"
-            ]
-        },
-        {
-            "id": "88f9f05169e3416a4dcf3d3a3c1b0d3b",
-            "source": "spacenews",
-            "text": "Space Force and NGA move to end turf disputes with new intelligence agreement",
-            "source_link": "https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T19:37:37.459133Z",
-            "shown_at": [
-                "2025-05-21T19:37:38.167788Z"
-            ]
-        },
-        {
-            "id": "8a77d795cb2e8fc9e23c904fc0cfd193",
-            "source": "spacenews",
-            "text": "Ursa, University of Illinois and Palantir win Luno A contracts",
-            "source_link": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T19:51:32.423861Z",
-            "shown_at": [
-                "2025-05-21T19:51:33.107338Z"
-            ]
-        },
-        {
-            "id": "a87e52b6bf17aa91efcf91684619e978",
-            "source": "spacenews",
-            "text": "Ursa, University of Illinois and Palantir win NGA contracts",
-            "source_link": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T20:23:31.278287Z",
-            "shown_at": [
-                "2025-05-21T20:23:31.930116Z"
-            ]
-        },
-        {
-            "id": "fa88c9f76308c86848b8515f3d822374",
-            "source": "spacenews",
-            "text": "Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander",
-            "source_link": "https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-21T20:53:31.747580Z",
-            "shown_at": [
-                "2025-05-21T20:53:32.452012Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-16",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-22T20:58:00.000Z",
-            "time_remaining": "0d 21h 24m",
-            "fetched_datetime": "2025-05-21T21:23:36.236013Z",
-            "shown_at": [
-                "2025-05-21T21:23:37.400965Z",
-                "2025-05-21T21:25:24.963746Z",
-                "2025-05-21T21:27:39.356152Z",
-                "2025-05-21T21:29:08.301669Z",
-                "2025-05-21T21:31:46.671449Z",
-                "2025-05-21T21:33:49.400748Z",
-                "2025-05-21T21:35:39.342939Z",
-                "2025-05-21T22:19:32.665987Z",
-                "2025-05-21T22:23:24.675513Z",
-                "2025-05-21T22:25:23.314558Z",
-                "2025-05-21T22:27:30.414489Z",
-                "2025-05-21T22:29:37.285821Z",
-                "2025-05-21T22:31:55.179885Z",
-                "2025-05-21T22:35:28.730481Z",
-                "2025-05-21T23:19:40.515198Z",
-                "2025-05-21T23:22:22.425870Z",
-                "2025-05-21T23:25:37.489494Z",
-                "2025-05-21T23:27:36.304298Z",
-                "2025-05-21T23:29:23.042323Z",
-                "2025-05-21T23:31:29.709571Z",
-                "2025-05-21T23:33:23.020669Z"
             ]
         }
     ]
