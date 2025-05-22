@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 18 | 27 | 58 |
-| breaking_defense | 2 | 4 | 24 | 44 |
+| breaking_defense | 2 | 4 | 25 | 45 |
 | nyt | 0 | 0 | 25 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -4140,3 +4140,4 @@
 - **May 22, 09:13 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 22, 09:27 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 22, 09:41 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
+- **May 22, 09:55 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
