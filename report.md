@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 4 | 25 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 22, 09:27 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 22, 09:41 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 22, 09:55 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
+- **May 22, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
