@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 18 | 27 | 58 |
+| spacenews | 5 | 18 | 27 | 57 |
 | breaking_defense | 2 | 4 | 25 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4142,3 +4142,4 @@
 - **May 22, 09:41 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 22, 09:55 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 22, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 10:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
