@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 | spacenews | 9 | 21 | 29 | 57 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 2 | 23 | 43 |
@@ -4156,3 +4156,4 @@
 - **May 22, 06:29 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
 - **May 22, 06:45 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 07:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
