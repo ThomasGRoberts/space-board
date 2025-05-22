@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 156 | 156 |
+| supercluster | 1 | 1 | 157 | 157 |
 | spacenews | 7 | 19 | 28 | 58 |
 | breaking_defense | 2 | 4 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
@@ -4280,3 +4280,4 @@
 - **May 22, 06:53 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 22, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 07:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
