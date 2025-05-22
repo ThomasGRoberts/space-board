@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 126 | 126 |
-| spacenews | 9 | 22 | 28 | 58 |
+| spacenews | 9 | 22 | 29 | 59 |
 | breaking_defense | 3 | 4 | 24 | 45 |
 | nyt | 0 | 1 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4237,3 +4237,4 @@
 - **May 22, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 02:39 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 22, 02:53 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 22, 03:07 PM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
