@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 1 | 23 | 43 |
@@ -4185,3 +4185,4 @@
 - **May 22, 09:09 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 22, 09:23 AM** - Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander (spacenews)
 - **May 22, 09:37 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 22, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
