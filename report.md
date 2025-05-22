@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 | spacenews | 10 | 22 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 1 | 23 | 43 |
@@ -4195,3 +4195,4 @@
 - **May 22, 10:05 AM** - PiLogic raises $4 million for bespoke satellite AI models (spacenews)
 - **May 22, 10:19 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 22, 10:33 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 22, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
