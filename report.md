@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 147 | 147 |
 | spacenews | 8 | 19 | 29 | 57 |
 | breaking_defense | 1 | 4 | 23 | 45 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4265,3 +4265,4 @@
 - **May 22, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 05:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 05:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 05:29 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
