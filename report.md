@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 64 | 64 |
-| spacenews | 9 | 21 | 29 | 58 |
+| supercluster | 1 | 1 | 65 | 65 |
+| spacenews | 9 | 21 | 29 | 57 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 2 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4146,3 +4146,4 @@
 - **May 22, 05:33 AM** - Solestial banks $17 million and welcomes new CEO (spacenews)
 - **May 22, 05:47 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 22, 06:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 06:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
