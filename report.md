@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 168 | 168 |
 | spacenews | 5 | 17 | 27 | 57 |
-| breaking_defense | 2 | 4 | 24 | 45 |
+| breaking_defense | 2 | 4 | 25 | 46 |
 | nyt | 0 | 0 | 25 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4297,3 +4297,4 @@
 - **May 22, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 08:17 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 22, 08:32 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
+- **May 22, 08:45 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
