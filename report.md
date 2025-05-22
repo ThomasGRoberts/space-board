@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 | spacenews | 10 | 22 | 29 | 58 |
 | breaking_defense | 3 | 4 | 24 | 45 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4218,3 +4218,4 @@
 - **May 22, 12:41 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 22, 12:55 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 01:11 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
+- **May 22, 01:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
