@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 | spacenews | 9 | 21 | 28 | 56 |
 | breaking_defense | 2 | 3 | 21 | 42 |
 | nyt | 0 | 2 | 21 | 41 |
@@ -4095,3 +4095,4 @@
 - **May 22, 12:32 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 22, 12:49 AM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 22, 01:03 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 22, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
