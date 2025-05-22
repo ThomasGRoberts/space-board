@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 70 | 70 |
 | spacenews | 9 | 21 | 29 | 58 |
 | breaking_defense | 2 | 3 | 23 | 43 |
-| nyt | 0 | 2 | 22 | 42 |
+| nyt | 0 | 2 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4154,3 +4154,4 @@
 - **May 22, 06:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 06:15 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 22, 06:29 AM** - Landspace launches 6 satellites with enhanced Zhuque-2 rocket (spacenews)
+- **May 22, 06:45 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
