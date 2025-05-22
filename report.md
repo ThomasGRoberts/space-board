@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | spacenews | 10 | 22 | 29 | 58 |
 | breaking_defense | 3 | 4 | 24 | 45 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4229,3 +4229,4 @@
 - **May 22, 01:53 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 22, 02:09 PM** - Japan’s iQPS lines up eight SAR launches (spacenews)
 - **May 22, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 02:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
