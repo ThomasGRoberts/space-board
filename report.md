@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | spacenews | 11 | 23 | 30 | 58 |
 | breaking_defense | 3 | 4 | 24 | 44 |
 | nyt | 0 | 1 | 22 | 43 |
@@ -4209,3 +4209,4 @@
 - **May 22, 11:59 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 22, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 22, 12:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
