@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 26 | 55 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4253,3 +4253,4 @@
 - **May 23, 03:28 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 03:43 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 03:57 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
+- **May 23, 04:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
