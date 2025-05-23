@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 26 | 53 |
+| spacenews | 4 | 11 | 27 | 54 |
 | supercluster | 1 | 1 | 154 | 154 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 49 |
@@ -4282,3 +4282,4 @@
 - **May 23, 06:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 06:23 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 06:37 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 23, 06:51 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
