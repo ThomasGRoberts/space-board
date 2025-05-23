@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4140,3 +4140,4 @@
 - **May 23, 09:55 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 10:25 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
+- **May 23, 11:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
