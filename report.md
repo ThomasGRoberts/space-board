@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 27 | 57 |
 | supercluster | 1 | 1 | 112 | 112 |
-| breaking_defense | 1 | 4 | 24 | 47 |
+| breaking_defense | 1 | 4 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4221,3 +4221,4 @@
 - **May 23, 11:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 11:57 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 12:13 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 23, 12:32 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
