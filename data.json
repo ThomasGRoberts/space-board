@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bfdf97f833ed80a4d99225a6c204f7d1",
+    "trigger_count": 0,
+    "current_item_id": "060d3bc6e87471b13d79d9bfc7b0c974",
     "data": [
         {
             "id": "4a59904c3566f8a153f499fb091a26ee",
@@ -9789,6 +9789,18 @@
             "fetched_datetime": "2025-05-23T13:33:49.906436Z",
             "shown_at": [
                 "2025-05-23T13:33:55.969368Z"
+            ]
+        },
+        {
+            "id": "060d3bc6e87471b13d79d9bfc7b0c974",
+            "source": "breaking_defense",
+            "text": "NGA hopes to award up to 10 Luno commercial analytics task orders this year",
+            "source_link": "https://breakingdefense.com/2025/05/nga-hopes-to-award-up-to-10-luno-commercial-analytics-task-orders-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T15:43:20.921219Z",
+            "shown_at": [
+                "2025-05-23T15:43:21.535187Z"
             ]
         }
     ]
