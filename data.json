@@ -1,9 +1,131 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-22T00:02:09.602359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8e581561b13c907dbab56b058006df27",
+    "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
+    "trigger_count": 0,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "4a59904c3566f8a153f499fb091a26ee",
+            "source": "spacenews",
+            "text": "Dawn Aerospace begins sales of Aurora suborbital spaceplane",
+            "source_link": "https://spacenews.com/dawn-aerospace-begins-sales-of-aurora-suborbital-spaceplane/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T21:41:13.769360Z",
+            "shown_at": [
+                "2025-05-22T21:41:14.507653Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-16",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-23T20:36:00.000Z",
+            "time_remaining": "0d 21h 18m",
+            "fetched_datetime": "2025-05-22T20:59:39.636887Z",
+            "shown_at": [
+                "2025-05-22T20:59:40.765204Z",
+                "2025-05-22T21:01:56.973730Z",
+                "2025-05-22T21:03:40.214871Z",
+                "2025-05-22T21:05:36.725606Z",
+                "2025-05-22T21:07:42.548988Z",
+                "2025-05-22T21:09:31.692038Z",
+                "2025-05-22T21:11:35.629346Z",
+                "2025-05-22T22:09:31.189867Z",
+                "2025-05-22T22:11:31.635562Z",
+                "2025-05-22T22:13:34.667966Z",
+                "2025-05-22T22:15:04.471731Z",
+                "2025-05-22T22:17:23.951231Z",
+                "2025-05-22T22:19:23.763006Z",
+                "2025-05-22T22:21:32.662551Z",
+                "2025-05-22T23:05:43.244543Z",
+                "2025-05-22T23:07:26.280152Z",
+                "2025-05-22T23:09:29.216454Z",
+                "2025-05-22T23:11:41.984754Z",
+                "2025-05-22T23:13:38.974887Z",
+                "2025-05-22T23:15:47.170945Z",
+                "2025-05-22T23:17:27.399702Z",
+                "2025-05-23T00:02:14.241920Z"
+            ]
+        },
+        {
+            "id": "09746c50b8555e3b311984908990a3a5",
+            "source": "spacenews",
+            "text": "FAA provides final approval for next Starship launch",
+            "source_link": "https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T19:35:40.391676Z",
+            "shown_at": [
+                "2025-05-22T19:35:41.391007Z"
+            ]
+        },
+        {
+            "id": "49d9e0ac43a21e9703f22c6e8efe5af3",
+            "source": "breaking_defense",
+            "text": "AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says",
+            "source_link": "https://breakingdefense.com/2025/05/ai-unchained-ngas-maven-tool-significantly-decreasing-time-to-targeting-agency-chief-says/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T17:43:27.500387Z",
+            "shown_at": [
+                "2025-05-22T17:43:28.058282Z",
+                "2025-05-22T18:39:39.228567Z"
+            ]
+        },
+        {
+            "id": "f0a34c0de6378af88b07eb4236dcbaa4",
+            "source": "spacenews",
+            "text": "Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven",
+            "source_link": "https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T13:11:48.211222Z",
+            "shown_at": [
+                "2025-05-22T13:11:48.942925Z"
+            ]
+        },
+        {
+            "id": "3178e62877fa253338afe59915803a2d",
+            "source": "breaking_defense",
+            "text": "House narrowly passes reconciliation bill with $150B for defense",
+            "source_link": "https://breakingdefense.com/2025/05/house-narrowly-passes-reconciliation-bill-with-150b-for-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T11:59:33.219790Z",
+            "shown_at": [
+                "2025-05-22T11:59:33.688958Z",
+                "2025-05-22T12:55:30.568865Z",
+                "2025-05-22T14:53:33.136284Z"
+            ]
+        },
+        {
+            "id": "2b5a2731f11181029031c240319529ae",
+            "source": "spacenews",
+            "text": "ESA seeks funding for ‘security and resilience’ satellite program",
+            "source_link": "https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T11:45:54.273998Z",
+            "shown_at": [
+                "2025-05-22T11:45:55.310199Z"
+            ]
+        },
+        {
+            "id": "283def2f31dafc45bf51f7c56d24b08c",
+            "source": "spacenews",
+            "text": "PiLogic raises $4 million for bespoke satellite AI models",
+            "source_link": "https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-22T10:05:49.358690Z",
+            "shown_at": [
+                "2025-05-22T10:05:50.438044Z"
+            ]
+        },
         {
             "id": "fa88c9f76308c86848b8515f3d822374",
             "source": "spacenews",
@@ -9464,274 +9586,6 @@
                 "2025-03-29T08:33:47.375648Z",
                 "2025-03-29T15:21:50.052919Z",
                 "2025-03-29T17:32:03.264311Z"
-            ]
-        },
-        {
-            "id": "aedc15ecc00eacccbb864e63e4be1e0c",
-            "source": "aidy",
-            "text": "Senate Advances Key Space Bills Amid NASA HQ Relocation Proposal and Space Force Budget Shifts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-22T07:31:56.348254Z",
-            "shown_at": [
-                "2025-03-22T07:31:56.836200Z",
-                "2025-03-22T20:47:43.289400Z",
-                "2025-03-23T13:07:34.920544Z",
-                "2025-03-24T01:17:27.064271Z",
-                "2025-03-24T02:29:34.141188Z",
-                "2025-03-24T08:56:19.960791Z",
-                "2025-03-24T19:07:32.467240Z",
-                "2025-03-25T00:37:30.801503Z",
-                "2025-03-25T01:49:52.847378Z",
-                "2025-03-25T02:59:45.145933Z",
-                "2025-03-25T09:03:47.363410Z",
-                "2025-03-25T15:23:36.116756Z",
-                "2025-03-25T16:35:38.566639Z",
-                "2025-03-25T22:19:40.630417Z",
-                "2025-03-26T08:45:41.699666Z",
-                "2025-03-26T12:32:24.375192Z",
-                "2025-03-26T21:31:52.309674Z",
-                "2025-03-27T05:55:10.976298Z",
-                "2025-03-27T14:48:12.610125Z",
-                "2025-03-27T16:10:20.503479Z",
-                "2025-03-27T18:45:42.620933Z",
-                "2025-03-28T18:29:54.157698Z",
-                "2025-03-28T19:41:16.067032Z",
-                "2025-03-28T20:51:39.497353Z",
-                "2025-03-28T22:02:08.733887Z"
-            ]
-        },
-        {
-            "id": "aefe9e110526f9be76161dde4e7a9f2d",
-            "source": "spacenews",
-            "text": "Former NASA astronauts endorse Isaacman as administrator",
-            "source_link": "https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-22T00:27:28.621545Z",
-            "shown_at": [
-                "2025-03-22T00:27:29.148634Z",
-                "2025-03-23T00:37:08.060129Z",
-                "2025-03-23T01:47:13.247491Z",
-                "2025-03-26T03:17:54.232657Z"
-            ]
-        },
-        {
-            "id": "47978f41df20b6513de1333efc7e1055",
-            "source": "nyt",
-            "text": "After Lunar Disappointments, NASA Hits the Jackpot With Blue Ghost Moon Lander",
-            "source_link": "https://www.nytimes.com/2025/03/21/science/blue-ghost-moon-science.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T19:41:41.715543Z",
-            "shown_at": [
-                "2025-03-21T19:41:42.262719Z",
-                "2025-03-22T06:35:35.302576Z",
-                "2025-03-22T15:18:02.278143Z",
-                "2025-03-23T00:51:43.206027Z",
-                "2025-03-23T03:11:49.266587Z",
-                "2025-03-24T00:35:45.916648Z",
-                "2025-03-25T02:03:29.680679Z",
-                "2025-03-25T08:03:40.704137Z",
-                "2025-03-25T09:17:40.654717Z",
-                "2025-03-25T23:17:11.007299Z",
-                "2025-03-26T06:22:04.177624Z",
-                "2025-03-26T08:59:10.170464Z",
-                "2025-03-27T01:07:11.612079Z",
-                "2025-03-28T02:05:11.005656Z",
-                "2025-03-28T03:17:36.946619Z",
-                "2025-03-28T04:27:30.188239Z",
-                "2025-03-28T08:07:35.649896Z",
-                "2025-03-28T14:05:51.398082Z"
-            ]
-        },
-        {
-            "id": "b082e382ac51e57d508a3111925b8ca4",
-            "source": "spacenews",
-            "text": "Star Catcher completes first ground test for space power beaming service",
-            "source_link": "https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T19:27:21.337918Z",
-            "shown_at": [
-                "2025-03-21T19:27:22.405040Z"
-            ]
-        },
-        {
-            "id": "c4cafce76bb3fc7a45e30a52322e8663",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: First Space Force civil reserve ‘pilot’ contracts go to 4 space watch firms",
-            "source_link": "https://breakingdefense.com/2025/03/exclusive-first-space-force-civil-reserve-pilot-contracts-go-to-4-space-watch-firms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T18:17:39.752170Z",
-            "shown_at": [
-                "2025-03-21T18:17:40.325561Z",
-                "2025-03-21T21:12:00.382129Z",
-                "2025-03-22T13:07:33.991765Z",
-                "2025-03-23T02:15:27.007260Z",
-                "2025-03-23T16:31:57.131626Z",
-                "2025-03-24T01:59:45.163344Z",
-                "2025-03-24T21:15:07.664760Z",
-                "2025-03-27T02:33:30.140589Z",
-                "2025-03-27T14:15:49.870045Z",
-                "2025-03-28T13:51:54.594872Z"
-            ]
-        },
-        {
-            "id": "9cdaa922e2a2e2ef44d29489e4cfa6cb",
-            "source": "spacenews",
-            "text": "America’s space strategy in a changing Middle East",
-            "source_link": "https://spacenews.com/americas-space-strategy-in-a-changing-middle-east/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T13:05:35.673709Z",
-            "shown_at": [
-                "2025-03-21T13:05:36.619732Z",
-                "2025-03-23T14:35:09.508153Z",
-                "2025-03-26T04:27:49.041508Z",
-                "2025-03-26T11:35:34.347518Z"
-            ]
-        },
-        {
-            "id": "3920c4c6a875bc3e2737404676a0cd08",
-            "source": "spacenews",
-            "text": "ESA releases strategy document that emphasizes autonomy",
-            "source_link": "https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-21T12:20:01.256621Z",
-            "shown_at": [
-                "2025-03-21T12:35:38.660699Z",
-                "2025-03-21T19:13:44.533105Z",
-                "2025-03-22T06:22:06.362362Z",
-                "2025-03-22T11:23:37.089742Z",
-                "2025-03-22T12:39:34.800416Z",
-                "2025-03-23T06:27:26.470376Z",
-                "2025-03-24T20:05:38.613728Z",
-                "2025-03-25T21:23:32.654403Z"
-            ]
-        },
-        {
-            "id": "283def2f31dafc45bf51f7c56d24b08c",
-            "source": "spacenews",
-            "text": "PiLogic raises $4 million for bespoke satellite AI models",
-            "source_link": "https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T10:05:49.358690Z",
-            "shown_at": [
-                "2025-05-22T10:05:50.438044Z"
-            ]
-        },
-        {
-            "id": "2b5a2731f11181029031c240319529ae",
-            "source": "spacenews",
-            "text": "ESA seeks funding for ‘security and resilience’ satellite program",
-            "source_link": "https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T11:45:54.273998Z",
-            "shown_at": [
-                "2025-05-22T11:45:55.310199Z"
-            ]
-        },
-        {
-            "id": "3178e62877fa253338afe59915803a2d",
-            "source": "breaking_defense",
-            "text": "House narrowly passes reconciliation bill with $150B for defense",
-            "source_link": "https://breakingdefense.com/2025/05/house-narrowly-passes-reconciliation-bill-with-150b-for-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T11:59:33.219790Z",
-            "shown_at": [
-                "2025-05-22T11:59:33.688958Z",
-                "2025-05-22T12:55:30.568865Z",
-                "2025-05-22T14:53:33.136284Z"
-            ]
-        },
-        {
-            "id": "f0a34c0de6378af88b07eb4236dcbaa4",
-            "source": "spacenews",
-            "text": "Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven",
-            "source_link": "https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T13:11:48.211222Z",
-            "shown_at": [
-                "2025-05-22T13:11:48.942925Z"
-            ]
-        },
-        {
-            "id": "49d9e0ac43a21e9703f22c6e8efe5af3",
-            "source": "breaking_defense",
-            "text": "AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says",
-            "source_link": "https://breakingdefense.com/2025/05/ai-unchained-ngas-maven-tool-significantly-decreasing-time-to-targeting-agency-chief-says/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T17:43:27.500387Z",
-            "shown_at": [
-                "2025-05-22T17:43:28.058282Z",
-                "2025-05-22T18:39:39.228567Z"
-            ]
-        },
-        {
-            "id": "09746c50b8555e3b311984908990a3a5",
-            "source": "spacenews",
-            "text": "FAA provides final approval for next Starship launch",
-            "source_link": "https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T19:35:40.391676Z",
-            "shown_at": [
-                "2025-05-22T19:35:41.391007Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-16",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-23T20:36:00.000Z",
-            "time_remaining": "0d 21h 18m",
-            "fetched_datetime": "2025-05-22T20:59:39.636887Z",
-            "shown_at": [
-                "2025-05-22T20:59:40.765204Z",
-                "2025-05-22T21:01:56.973730Z",
-                "2025-05-22T21:03:40.214871Z",
-                "2025-05-22T21:05:36.725606Z",
-                "2025-05-22T21:07:42.548988Z",
-                "2025-05-22T21:09:31.692038Z",
-                "2025-05-22T21:11:35.629346Z",
-                "2025-05-22T22:09:31.189867Z",
-                "2025-05-22T22:11:31.635562Z",
-                "2025-05-22T22:13:34.667966Z",
-                "2025-05-22T22:15:04.471731Z",
-                "2025-05-22T22:17:23.951231Z",
-                "2025-05-22T22:19:23.763006Z",
-                "2025-05-22T22:21:32.662551Z",
-                "2025-05-22T23:05:43.244543Z",
-                "2025-05-22T23:07:26.280152Z",
-                "2025-05-22T23:09:29.216454Z",
-                "2025-05-22T23:11:41.984754Z",
-                "2025-05-22T23:13:38.974887Z",
-                "2025-05-22T23:15:47.170945Z",
-                "2025-05-22T23:17:27.399702Z"
-            ]
-        },
-        {
-            "id": "4a59904c3566f8a153f499fb091a26ee",
-            "source": "spacenews",
-            "text": "Dawn Aerospace begins sales of Aurora suborbital spaceplane",
-            "source_link": "https://spacenews.com/dawn-aerospace-begins-sales-of-aurora-suborbital-spaceplane/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-22T21:41:13.769360Z",
-            "shown_at": [
-                "2025-05-22T21:41:14.507653Z"
             ]
         }
     ]
