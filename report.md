@@ -5,7 +5,7 @@
 | spacenews | 4 | 14 | 27 | 57 |
 | supercluster | 1 | 1 | 105 | 105 |
 | breaking_defense | 2 | 4 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 1 | 1 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4210,3 +4210,4 @@
 - **May 23, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 10:47 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 11:01 AM** - Gabbard signals shift in U.S. intelligence collection priorities (spacenews)
+- **May 23, 11:15 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
