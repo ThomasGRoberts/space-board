@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 27 | 56 |
 | supercluster | 1 | 1 | 119 | 119 |
-| breaking_defense | 1 | 4 | 23 | 47 |
+| breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4232,3 +4232,4 @@
 - **May 23, 01:02 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 01:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 01:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
+- **May 23, 02:02 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
