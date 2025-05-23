@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 27 | 56 |
 | supercluster | 1 | 1 | 126 | 126 |
-| breaking_defense | 1 | 4 | 23 | 47 |
+| breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4242,3 +4242,4 @@
 - **May 23, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 02:32 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 02:45 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
+- **May 23, 02:59 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
