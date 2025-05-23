@@ -2,10 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 26 | 53 |
-| breaking_defense | 1 | 3 | 24 | 49 |
+| spacenews | 3 | 8 | 25 | 53 |
+| breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4139,3 +4140,4 @@
 - **May 23, 09:55 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 10:25 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
+- **May 23, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
