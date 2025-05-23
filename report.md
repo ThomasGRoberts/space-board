@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 26 | 55 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 | breaking_defense | 2 | 3 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4263,3 +4263,4 @@
 - **May 23, 04:25 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 04:39 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 23, 04:53 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
+- **May 23, 05:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
