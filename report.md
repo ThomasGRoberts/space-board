@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 3 | 24 | 49 |
 | nyt | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4134,23 +4133,9 @@
 - **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 08:17 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 08:32 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
-- **May 23, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:54 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 08:59 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 23, 09:13 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 09:27 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
-- **May 23, 09:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 23, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 09:55 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 10:25 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
