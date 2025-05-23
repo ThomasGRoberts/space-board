@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 53 |
+| spacenews | 5 | 10 | 26 | 53 |
 | breaking_defense | 1 | 3 | 22 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4143,3 +4143,4 @@
 - **May 23, 11:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 23, 11:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 23, 11:37 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
+- **May 23, 11:51 PM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
