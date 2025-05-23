@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 28 | 55 |
 | supercluster | 1 | 1 | 35 | 35 |
-| breaking_defense | 2 | 4 | 24 | 46 |
+| breaking_defense | 2 | 4 | 25 | 47 |
 | nyt | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4110,3 +4110,4 @@
 - **May 23, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 01:13 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 01:27 AM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
+- **May 23, 01:43 AM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
