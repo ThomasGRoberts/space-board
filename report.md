@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4181,3 +4181,4 @@
 - **May 23, 07:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 08:07 AM** - Japan’s iQPS lines up eight SAR launches (spacenews)
 - **May 23, 08:21 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 23, 08:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
