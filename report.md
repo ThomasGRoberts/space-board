@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 26 | 55 |
+| spacenews | 4 | 14 | 27 | 56 |
 | supercluster | 1 | 1 | 119 | 119 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
@@ -4231,3 +4231,4 @@
 - **May 23, 12:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 01:02 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 01:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 23, 01:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
