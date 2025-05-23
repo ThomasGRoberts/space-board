@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 26 | 52 |
+| spacenews | 4 | 8 | 26 | 53 |
 | breaking_defense | 1 | 3 | 24 | 49 |
 | nyt | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4143,3 +4143,4 @@
 - **May 23, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 08:59 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 23, 09:13 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 23, 09:27 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
