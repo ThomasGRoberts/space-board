@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4213,3 +4213,4 @@
 - **May 23, 11:15 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 11:29 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 23, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 23, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
