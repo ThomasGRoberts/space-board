@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "19651c1e83cc4530277db44e28c9a9f9",
     "data": [
         {
             "id": "4a59904c3566f8a153f499fb091a26ee",
@@ -9703,6 +9703,27 @@
                 "2025-05-23T23:32:26.965519Z",
                 "2025-05-23T23:35:31.424688Z"
             ]
+        },
+        {
+            "id": "19651c1e83cc4530277db44e28c9a9f9",
+            "source": "spacenews",
+            "text": "SpaceX blames Starship Flight 8 mishap on engine hardware failure",
+            "source_link": "https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T23:37:36.745277Z",
+            "shown_at": [
+                "2025-05-23T23:37:37.755413Z"
+            ]
+        },
+        {
+            "id": "127040624a7d09f8ca5c63dba2ea771d",
+            "source": "spacenews",
+            "text": "Raytheon secures $380 million contract extension for GPS ground control system",
+            "source_link": "https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T23:37:36.745334Z"
         }
     ]
 }
