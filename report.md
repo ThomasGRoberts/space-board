@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 54 |
-| supercluster | 1 | 1 | 156 | 156 |
+| supercluster | 1 | 1 | 157 | 157 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4285,3 +4285,4 @@
 - **May 23, 06:51 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
 - **May 23, 07:06 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 23, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
