@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 25 | 52 |
-| breaking_defense | 1 | 3 | 23 | 48 |
+| spacenews | 3 | 8 | 24 | 52 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4141,3 +4141,4 @@
 - **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 10:25 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 23, 11:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 23, 11:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
