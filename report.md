@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4171,3 +4171,4 @@
 - **May 23, 06:57 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 07:12 AM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
 - **May 23, 07:25 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 23, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
