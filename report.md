@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 55 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 | breaking_defense | 2 | 4 | 25 | 46 |
 | nyt | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4121,3 +4121,4 @@
 - **May 23, 02:11 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 23, 02:25 AM** - FAA provides final approval for next Starship launch (spacenews)
 - **May 23, 02:39 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 23, 02:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
