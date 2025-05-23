@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 54 |
 | supercluster | 1 | 1 | 161 | 161 |
-| breaking_defense | 1 | 3 | 24 | 48 |
+| breaking_defense | 1 | 3 | 24 | 49 |
 | nyt | 2 | 2 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4292,3 +4292,4 @@
 - **May 23, 07:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 07:19 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 07:33 PM** - Impulse Space to launch SES satellites (spacenews)
+- **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
