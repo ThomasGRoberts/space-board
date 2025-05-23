@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 27 | 56 |
+| spacenews | 5 | 14 | 28 | 57 |
 | supercluster | 1 | 1 | 98 | 98 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
@@ -4199,3 +4199,4 @@
 - **May 23, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 09:51 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
+- **May 23, 10:05 AM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
