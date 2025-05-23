@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4191,3 +4191,4 @@
 - **May 23, 08:51 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 09:05 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
 - **May 23, 09:21 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
+- **May 23, 09:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
