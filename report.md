@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 26 | 55 |
+| spacenews | 4 | 14 | 27 | 56 |
 | supercluster | 1 | 1 | 126 | 126 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
@@ -4241,3 +4241,4 @@
 - **May 23, 02:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 02:32 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 23, 02:45 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
