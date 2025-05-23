@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 26 | 56 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4234,3 +4234,4 @@
 - **May 23, 01:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 23, 02:02 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 23, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 23, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
