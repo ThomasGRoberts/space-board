@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "5de8735e56b4651fddac8ad9c4555f2c",
     "data": [
         {
             "id": "4a59904c3566f8a153f499fb091a26ee",
@@ -9724,6 +9724,18 @@
             "fetched_datetime": "2025-05-23T11:15:35.157664Z",
             "shown_at": [
                 "2025-05-23T11:15:35.717036Z"
+            ]
+        },
+        {
+            "id": "5de8735e56b4651fddac8ad9c4555f2c",
+            "source": "spacenews",
+            "text": "Senate sets up early June vote on Isaacman nomination to lead NASA",
+            "source_link": "https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T11:57:48.123343Z",
+            "shown_at": [
+                "2025-05-23T11:57:48.808556Z"
             ]
         }
     ]
