@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 25 | 52 |
 | breaking_defense | 1 | 3 | 24 | 49 |
-| nyt | 2 | 2 | 25 | 49 |
+| nyt | 2 | 2 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4152,3 +4152,4 @@
 - **May 23, 09:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 09:55 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
+- **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
