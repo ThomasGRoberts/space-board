@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 107 | 107 |
+| spacenews | 3 | 14 | 26 | 56 |
+| supercluster | 1 | 1 | 108 | 108 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4214,3 +4214,4 @@
 - **May 23, 11:29 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 23, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 23, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
