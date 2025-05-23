@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 28 | 55 |
 | supercluster | 1 | 1 | 28 | 28 |
-| breaking_defense | 2 | 4 | 24 | 46 |
+| breaking_defense | 2 | 4 | 25 | 47 |
 | nyt | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4100,3 +4100,4 @@
 - **May 23, 12:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 12:17 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 12:32 AM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
+- **May 23, 12:45 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
