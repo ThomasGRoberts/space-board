@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4141,3 +4141,4 @@
 - **May 23, 04:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 23, 04:21 AM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 23, 04:35 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 23, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
