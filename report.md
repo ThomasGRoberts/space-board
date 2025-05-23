@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4161,3 +4161,4 @@
 - **May 23, 05:59 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 06:13 AM** - Voyager Technologies files to go public (spacenews)
 - **May 23, 06:27 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 23, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
