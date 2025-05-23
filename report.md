@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 163 | 163 |
+| supercluster | 1 | 1 | 164 | 164 |
 | breaking_defense | 1 | 3 | 24 | 48 |
 | nyt | 2 | 2 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4295,3 +4295,4 @@
 - **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 08:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 23, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
