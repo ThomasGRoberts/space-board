@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 56 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4151,3 +4151,4 @@
 - **May 23, 05:03 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 05:17 AM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 23, 05:31 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 23, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
