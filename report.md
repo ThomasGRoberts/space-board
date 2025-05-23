@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 27 | 56 |
+| spacenews | 5 | 14 | 28 | 57 |
 | supercluster | 1 | 1 | 84 | 84 |
 | breaking_defense | 2 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 47 |
@@ -4179,3 +4179,4 @@
 - **May 23, 07:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 07:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 23, 07:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
+- **May 23, 08:07 AM** - Japan’s iQPS lines up eight SAR launches (spacenews)
