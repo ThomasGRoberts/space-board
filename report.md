@@ -3,9 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 26 | 53 |
-| breaking_defense | 1 | 3 | 24 | 48 |
+| breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4133,3 +4134,4 @@
 - **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 08:17 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 23, 08:32 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
+- **May 23, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
