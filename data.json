@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5de8735e56b4651fddac8ad9c4555f2c",
+    "trigger_count": 0,
+    "current_item_id": "a8fdd7d4298e0a5f5e74ad6641da31a7",
     "data": [
         {
             "id": "4a59904c3566f8a153f499fb091a26ee",
@@ -9747,6 +9747,15 @@
                 "2025-05-23T11:57:48.808556Z",
                 "2025-05-23T13:02:10.147454Z"
             ]
+        },
+        {
+            "id": "a8fdd7d4298e0a5f5e74ad6641da31a7",
+            "source": "spacenews",
+            "text": "Space sponsorship: the next frontier for revenue generation",
+            "source_link": "https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T13:17:47.296097Z"
         }
     ]
 }
