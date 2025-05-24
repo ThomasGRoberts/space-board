@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 58 | 58 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4160,3 +4160,4 @@
 - **May 24, 07:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 07:25 AM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
 - **May 24, 07:39 AM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 24, 07:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
