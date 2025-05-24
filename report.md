@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 53 |
 | supercluster | 1 | 1 | 79 | 79 |
-| breaking_defense | 1 | 3 | 22 | 47 |
-| nyt | 2 | 2 | 24 | 49 |
+| breaking_defense | 1 | 3 | 23 | 48 |
+| nyt | 2 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4189,3 +4189,4 @@
 - **May 24, 10:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 10:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 10:19 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
+- **May 24, 10:33 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
