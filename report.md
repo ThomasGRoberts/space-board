@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 72 | 72 |
-| breaking_defense | 1 | 3 | 22 | 47 |
+| breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4179,3 +4179,4 @@
 - **May 24, 09:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 09:21 AM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
+- **May 24, 09:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
