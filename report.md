@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 53 |
+| spacenews | 5 | 10 | 26 | 54 |
 | supercluster | 1 | 1 | 44 | 44 |
 | breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
@@ -4138,3 +4138,4 @@
 - **May 24, 05:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 05:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 05:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 05:29 AM** - Kuva to offer maritime-domain insights with growing constellation (spacenews)
