@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 9 | 9 |
+| spacenews | 5 | 10 | 25 | 53 |
+| supercluster | 1 | 1 | 10 | 10 |
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4091,3 +4091,4 @@
 - **May 24, 12:47 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 24, 01:02 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 24, 01:15 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 24, 01:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
