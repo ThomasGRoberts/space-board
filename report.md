@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 52 |
 | supercluster | 1 | 1 | 128 | 128 |
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | nyt | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4259,3 +4259,4 @@
 - **May 24, 04:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 04:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 04:59 PM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
+- **May 24, 05:15 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
