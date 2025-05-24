@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 16 | 16 |
-| breaking_defense | 1 | 3 | 22 | 47 |
+| breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4099,3 +4099,4 @@
 - **May 24, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 01:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 01:43 AM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
+- **May 24, 01:57 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
