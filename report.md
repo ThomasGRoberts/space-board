@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4121,3 +4121,4 @@
 - **May 24, 03:35 AM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
 - **May 24, 03:49 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 24, 04:05 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 24, 04:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
