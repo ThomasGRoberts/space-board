@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 38 | 38 |
+| spacenews | 5 | 10 | 25 | 53 |
+| supercluster | 1 | 1 | 39 | 39 |
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4132,3 +4132,4 @@
 - **May 24, 04:47 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 24, 05:02 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 24, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 05:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
