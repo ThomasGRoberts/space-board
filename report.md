@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 17 | 17 |
-| breaking_defense | 1 | 3 | 23 | 48 |
+| spacenews | 5 | 10 | 25 | 53 |
+| supercluster | 1 | 1 | 18 | 18 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4102,3 +4102,4 @@
 - **May 24, 01:57 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 24, 02:11 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 24, 02:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
