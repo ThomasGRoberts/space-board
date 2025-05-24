@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 51 | 51 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4150,3 +4150,4 @@
 - **May 24, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 06:29 AM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
 - **May 24, 06:43 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 24, 06:57 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
