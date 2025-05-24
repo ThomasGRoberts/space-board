@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 26 | 52 |
 | supercluster | 1 | 1 | 100 | 100 |
 | breaking_defense | 1 | 2 | 24 | 48 |
-| nyt | 1 | 2 | 24 | 49 |
+| nyt | 0 | 2 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4220,3 +4220,4 @@
 - **May 24, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 01:07 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
 - **May 24, 01:21 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 24, 01:35 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
