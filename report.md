@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 26 | 52 |
-| supercluster | 1 | 1 | 94 | 94 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| supercluster | 1 | 1 | 95 | 95 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4212,3 +4212,4 @@
 - **May 24, 12:25 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 24, 12:39 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 24, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
