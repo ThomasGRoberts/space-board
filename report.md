@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 52 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 0 | 2 | 23 | 48 |
 | nyt | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4241,3 +4241,4 @@
 - **May 24, 03:03 PM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
 - **May 24, 03:17 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 24, 03:32 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 24, 03:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
