@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 52 |
 | supercluster | 1 | 1 | 107 | 107 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4229,3 +4229,4 @@
 - **May 24, 01:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 02:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 02:05 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
+- **May 24, 02:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
