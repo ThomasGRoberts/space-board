@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 2 | 2 |
-| breaking_defense | 1 | 3 | 23 | 48 |
+| spacenews | 5 | 10 | 25 | 53 |
+| supercluster | 1 | 1 | 3 | 3 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4081,3 +4081,4 @@
 - **May 23, 11:51 PM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
 - **May 24, 12:05 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 24, 12:20 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 24, 12:34 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
