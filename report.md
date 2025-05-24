@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 52 |
 | supercluster | 1 | 1 | 114 | 114 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4239,3 +4239,4 @@
 - **May 24, 02:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 03:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 03:03 PM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
+- **May 24, 03:17 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
