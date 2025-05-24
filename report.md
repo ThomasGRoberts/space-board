@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 26 | 53 |
-| supercluster | 1 | 1 | 79 | 79 |
+| spacenews | 5 | 9 | 25 | 53 |
+| supercluster | 1 | 1 | 80 | 80 |
 | breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4191,3 +4191,4 @@
 - **May 24, 10:19 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 24, 10:33 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 24, 10:47 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 24, 11:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
