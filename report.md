@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 65 | 65 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4170,3 +4170,4 @@
 - **May 24, 08:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 08:23 AM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 24, 08:37 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 24, 08:51 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
