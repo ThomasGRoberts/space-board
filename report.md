@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 25 | 53 |
-| supercluster | 1 | 1 | 60 | 60 |
-| breaking_defense | 1 | 3 | 23 | 48 |
+| supercluster | 1 | 1 | 61 | 61 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4163,3 +4163,4 @@
 - **May 24, 07:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 24, 08:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 08:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 08:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
