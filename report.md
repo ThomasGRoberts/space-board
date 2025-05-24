@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 16 | 16 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4100,3 +4100,4 @@
 - **May 24, 01:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 01:43 AM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
 - **May 24, 01:57 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 24, 02:11 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
