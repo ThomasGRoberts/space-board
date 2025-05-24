@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 25 | 52 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4232,3 +4232,4 @@
 - **May 24, 02:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 24, 02:35 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 24, 02:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 02:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
