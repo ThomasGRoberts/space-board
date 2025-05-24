@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 53 |
+| spacenews | 5 | 10 | 26 | 54 |
 | supercluster | 1 | 1 | 30 | 30 |
 | breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 2 | 2 | 24 | 49 |
@@ -4118,3 +4118,4 @@
 - **May 24, 03:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 03:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 24, 03:35 AM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
