@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 23 | 23 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4110,3 +4110,4 @@
 - **May 24, 02:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 02:39 AM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 24, 02:53 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 24, 03:08 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
