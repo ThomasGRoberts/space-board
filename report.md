@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 44 | 44 |
 | breaking_defense | 1 | 3 | 23 | 48 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4140,3 +4140,4 @@
 - **May 24, 05:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 05:29 AM** - Kuva to offer maritime-domain insights with growing constellation (spacenews)
 - **May 24, 05:45 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 24, 05:59 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
