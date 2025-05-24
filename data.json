@@ -1,9 +1,128 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-23T00:02:09.269593+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-05-24T00:02:00.646217+00:00",
+    "trigger_count": 5,
     "current_item_id": "127040624a7d09f8ca5c63dba2ea771d",
     "data": [
+        {
+            "id": "127040624a7d09f8ca5c63dba2ea771d",
+            "source": "spacenews",
+            "text": "Raytheon secures $380 million contract extension for GPS ground control system",
+            "source_link": "https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T23:37:36.745334Z",
+            "shown_at": [
+                "2025-05-23T23:51:47.513412Z"
+            ]
+        },
+        {
+            "id": "19651c1e83cc4530277db44e28c9a9f9",
+            "source": "spacenews",
+            "text": "SpaceX blames Starship Flight 8 mishap on engine hardware failure",
+            "source_link": "https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T23:37:36.745277Z",
+            "shown_at": [
+                "2025-05-23T23:37:37.755413Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-22",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-24T17:19:00.000Z",
+            "time_remaining": "0d 17h 43m",
+            "fetched_datetime": "2025-05-23T23:32:26.340269Z",
+            "shown_at": [
+                "2025-05-23T23:32:26.965519Z",
+                "2025-05-23T23:35:31.424688Z"
+            ]
+        },
+        {
+            "id": "bdc5c23cd26d96c20e083f57cf8d7f80",
+            "source": "spacenews",
+            "text": "Impulse Space to launch SES satellites",
+            "source_link": "https://spacenews.com/impulse-space-to-launch-ses-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T19:33:40.585780Z",
+            "shown_at": [
+                "2025-05-23T19:33:41.202402Z"
+            ]
+        },
+        {
+            "id": "060d3bc6e87471b13d79d9bfc7b0c974",
+            "source": "breaking_defense",
+            "text": "NGA hopes to award up to 10 Luno commercial analytics task orders this year",
+            "source_link": "https://breakingdefense.com/2025/05/nga-hopes-to-award-up-to-10-luno-commercial-analytics-task-orders-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T15:43:20.921219Z",
+            "shown_at": [
+                "2025-05-23T15:43:21.535187Z",
+                "2025-05-23T19:49:39.180000Z"
+            ]
+        },
+        {
+            "id": "2a9e7f2aaf87c36707c42043e140d6f0",
+            "source": "nyt",
+            "text": "New Studies Dismiss Signs of Life on Distant Planet",
+            "source_link": "https://www.nytimes.com/2025/05/23/science/astronomy-extraterrestrial-life-k218b.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T13:33:49.906436Z",
+            "shown_at": [
+                "2025-05-23T13:33:55.969368Z",
+                "2025-05-23T17:23:40.145675Z",
+                "2025-05-23T18:23:35.739842Z",
+                "2025-05-23T21:13:44.180201Z"
+            ]
+        },
+        {
+            "id": "a8fdd7d4298e0a5f5e74ad6641da31a7",
+            "source": "spacenews",
+            "text": "Space sponsorship: the next frontier for revenue generation",
+            "source_link": "https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T13:17:47.296097Z",
+            "shown_at": [
+                "2025-05-23T13:47:44.914415Z"
+            ]
+        },
+        {
+            "id": "5de8735e56b4651fddac8ad9c4555f2c",
+            "source": "spacenews",
+            "text": "Senate sets up early June vote on Isaacman nomination to lead NASA",
+            "source_link": "https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T11:57:48.123343Z",
+            "shown_at": [
+                "2025-05-23T11:57:48.808556Z",
+                "2025-05-23T13:02:10.147454Z"
+            ]
+        },
+        {
+            "id": "8fdd8ae032a99e71df3ce0777a98fd4a",
+            "source": "nyt",
+            "text": "There’s Probably No Life on K2-18b After All, Three Studies Conclude",
+            "source_link": "https://www.nytimes.com/2025/05/23/science/astronomy-extraterrestrial-life-k218b.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-23T11:15:35.157664Z",
+            "shown_at": [
+                "2025-05-23T11:15:35.717036Z",
+                "2025-05-23T14:32:04.366452Z",
+                "2025-05-23T16:25:37.683398Z",
+                "2025-05-23T22:11:38.333086Z"
+            ]
+        },
         {
             "id": "4a59904c3566f8a153f499fb091a26ee",
             "source": "spacenews",
@@ -9454,278 +9573,6 @@
             "fetched_datetime": "2025-03-24T20:33:34.358495Z",
             "shown_at": [
                 "2025-03-24T20:33:34.870763Z"
-            ]
-        },
-        {
-            "id": "c4b02dbb1bd06918856bffbd34474a8a",
-            "source": "spacenews",
-            "text": "Balancing national security and international cooperation in the competitive era of commercial space",
-            "source_link": "https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T13:03:45.359112Z",
-            "shown_at": [
-                "2025-03-24T13:03:45.959584Z",
-                "2025-03-26T09:15:32.432841Z",
-                "2025-03-27T16:25:46.837412Z",
-                "2025-03-29T06:27:35.717267Z",
-                "2025-03-29T17:45:47.440397Z"
-            ]
-        },
-        {
-            "id": "5d81701701fee840fab6ee62c09af2df",
-            "source": "spacenews",
-            "text": "MaiaSpace signs first commercial launch contract",
-            "source_link": "https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T11:19:45.101288Z",
-            "shown_at": [
-                "2025-03-24T11:19:46.337448Z",
-                "2025-03-24T22:59:37.579582Z",
-                "2025-03-27T20:39:48.715343Z",
-                "2025-03-29T04:05:38.155467Z"
-            ]
-        },
-        {
-            "id": "444b12a4c00c8ce18a98d35282743f61",
-            "source": "spacenews",
-            "text": "Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong",
-            "source_link": "https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T09:41:33.755183Z",
-            "shown_at": [
-                "2025-03-24T09:41:34.344243Z",
-                "2025-03-27T00:39:42.489056Z"
-            ]
-        },
-        {
-            "id": "a50041787d1cedecdab545a8842b12d6",
-            "source": "aidy",
-            "text": "House Bills and Executive Order Drive Major Shifts in U.S. Space Policy",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T07:45:36.217206Z",
-            "shown_at": [
-                "2025-03-24T07:45:36.701052Z",
-                "2025-03-24T20:47:15.726297Z",
-                "2025-03-25T10:17:44.344672Z",
-                "2025-03-25T19:55:35.101925Z",
-                "2025-03-25T23:32:08.520099Z",
-                "2025-03-26T05:25:33.014758Z",
-                "2025-03-26T17:13:40.186102Z",
-                "2025-03-27T03:17:41.378848Z",
-                "2025-03-27T13:33:35.172114Z",
-                "2025-03-28T01:37:28.955773Z",
-                "2025-03-28T02:47:09.195990Z",
-                "2025-03-28T03:59:30.724134Z",
-                "2025-03-28T06:22:20.745190Z",
-                "2025-03-28T08:38:06.442693Z",
-                "2025-03-29T10:55:46.458560Z",
-                "2025-03-29T23:41:35.025936Z",
-                "2025-03-30T04:35:42.121718Z"
-            ]
-        },
-        {
-            "id": "983c8af32db670f934c721e2cae1b0c4",
-            "source": "spacenews",
-            "text": "The European Union’s push for next generation space electronics and critical technologies",
-            "source_link": "https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T04:53:37.526917Z",
-            "shown_at": [
-                "2025-03-24T04:53:38.061807Z",
-                "2025-03-24T08:41:53.085152Z",
-                "2025-03-25T11:13:33.256341Z",
-                "2025-03-28T19:13:39.570612Z",
-                "2025-03-29T01:45:31.017645Z",
-                "2025-03-29T23:27:38.499758Z"
-            ]
-        },
-        {
-            "id": "87283f08fa55222dd17e66414d1cce1e",
-            "source": "spacenews",
-            "text": "Pangea Aerospace raises Series A round to fund space propulsion work",
-            "source_link": "https://spacenews.com/pangea-aerospace-raises-series-a-round-to-fund-space-propulsion-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-23T23:51:32.894803Z",
-            "shown_at": [
-                "2025-03-23T23:51:33.488192Z",
-                "2025-03-24T04:39:30.015544Z",
-                "2025-03-28T03:31:58.643074Z",
-                "2025-03-28T07:07:46.851869Z"
-            ]
-        },
-        {
-            "id": "8d3a922123c4178d898da9d36341a55c",
-            "source": "nyt",
-            "text": "Musk’s SpaceX Could Secure Billions in New Contracts Under Trump",
-            "source_link": "https://www.nytimes.com/2025/03/23/us/politics/spacex-contracts-musk-doge-trump.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-23T09:17:47.953062Z",
-            "shown_at": [
-                "2025-03-23T09:17:48.432094Z",
-                "2025-03-24T19:21:55.801236Z",
-                "2025-03-25T13:25:56.300104Z",
-                "2025-03-27T03:32:04.403766Z",
-                "2025-03-27T06:39:38.785712Z",
-                "2025-03-27T08:03:51.882128Z",
-                "2025-03-27T10:31:55.454372Z",
-                "2025-03-27T13:20:08.947042Z",
-                "2025-03-27T15:54:12.760908Z",
-                "2025-03-28T05:37:52.468468Z",
-                "2025-03-28T06:51:53.725399Z",
-                "2025-03-28T20:09:39.572988Z",
-                "2025-03-29T01:03:34.487586Z",
-                "2025-03-29T12:32:08.085864Z",
-                "2025-03-30T01:39:31.746467Z",
-                "2025-03-30T05:17:35.530988Z"
-            ]
-        },
-        {
-            "id": "0e5e614bcc03101d5111ceccb0cf8dc4",
-            "source": "aidy",
-            "text": "Space Force Faces $800M Budget Cut, Impacting Initiatives and Capabilities",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-23T07:23:24.963723Z",
-            "shown_at": [
-                "2025-03-23T07:23:25.546135Z",
-                "2025-03-23T19:07:28.509313Z",
-                "2025-03-26T04:13:49.983367Z",
-                "2025-03-26T06:35:37.244581Z",
-                "2025-03-26T09:57:49.203867Z",
-                "2025-03-26T18:37:39.704241Z",
-                "2025-03-28T00:25:29.426352Z",
-                "2025-03-28T05:09:31.224389Z",
-                "2025-03-29T08:33:47.375648Z",
-                "2025-03-29T15:21:50.052919Z",
-                "2025-03-29T17:32:03.264311Z"
-            ]
-        },
-        {
-            "id": "8fdd8ae032a99e71df3ce0777a98fd4a",
-            "source": "nyt",
-            "text": "There’s Probably No Life on K2-18b After All, Three Studies Conclude",
-            "source_link": "https://www.nytimes.com/2025/05/23/science/astronomy-extraterrestrial-life-k218b.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T11:15:35.157664Z",
-            "shown_at": [
-                "2025-05-23T11:15:35.717036Z",
-                "2025-05-23T14:32:04.366452Z",
-                "2025-05-23T16:25:37.683398Z",
-                "2025-05-23T22:11:38.333086Z"
-            ]
-        },
-        {
-            "id": "5de8735e56b4651fddac8ad9c4555f2c",
-            "source": "spacenews",
-            "text": "Senate sets up early June vote on Isaacman nomination to lead NASA",
-            "source_link": "https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T11:57:48.123343Z",
-            "shown_at": [
-                "2025-05-23T11:57:48.808556Z",
-                "2025-05-23T13:02:10.147454Z"
-            ]
-        },
-        {
-            "id": "a8fdd7d4298e0a5f5e74ad6641da31a7",
-            "source": "spacenews",
-            "text": "Space sponsorship: the next frontier for revenue generation",
-            "source_link": "https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T13:17:47.296097Z",
-            "shown_at": [
-                "2025-05-23T13:47:44.914415Z"
-            ]
-        },
-        {
-            "id": "2a9e7f2aaf87c36707c42043e140d6f0",
-            "source": "nyt",
-            "text": "New Studies Dismiss Signs of Life on Distant Planet",
-            "source_link": "https://www.nytimes.com/2025/05/23/science/astronomy-extraterrestrial-life-k218b.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T13:33:49.906436Z",
-            "shown_at": [
-                "2025-05-23T13:33:55.969368Z",
-                "2025-05-23T17:23:40.145675Z",
-                "2025-05-23T18:23:35.739842Z",
-                "2025-05-23T21:13:44.180201Z"
-            ]
-        },
-        {
-            "id": "060d3bc6e87471b13d79d9bfc7b0c974",
-            "source": "breaking_defense",
-            "text": "NGA hopes to award up to 10 Luno commercial analytics task orders this year",
-            "source_link": "https://breakingdefense.com/2025/05/nga-hopes-to-award-up-to-10-luno-commercial-analytics-task-orders-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T15:43:20.921219Z",
-            "shown_at": [
-                "2025-05-23T15:43:21.535187Z",
-                "2025-05-23T19:49:39.180000Z"
-            ]
-        },
-        {
-            "id": "bdc5c23cd26d96c20e083f57cf8d7f80",
-            "source": "spacenews",
-            "text": "Impulse Space to launch SES satellites",
-            "source_link": "https://spacenews.com/impulse-space-to-launch-ses-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T19:33:40.585780Z",
-            "shown_at": [
-                "2025-05-23T19:33:41.202402Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-22",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-24T17:19:00.000Z",
-            "time_remaining": "0d 17h 43m",
-            "fetched_datetime": "2025-05-23T23:32:26.340269Z",
-            "shown_at": [
-                "2025-05-23T23:32:26.965519Z",
-                "2025-05-23T23:35:31.424688Z"
-            ]
-        },
-        {
-            "id": "19651c1e83cc4530277db44e28c9a9f9",
-            "source": "spacenews",
-            "text": "SpaceX blames Starship Flight 8 mishap on engine hardware failure",
-            "source_link": "https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T23:37:36.745277Z",
-            "shown_at": [
-                "2025-05-23T23:37:37.755413Z"
-            ]
-        },
-        {
-            "id": "127040624a7d09f8ca5c63dba2ea771d",
-            "source": "spacenews",
-            "text": "Raytheon secures $380 million contract extension for GPS ground control system",
-            "source_link": "https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-23T23:37:36.745334Z",
-            "shown_at": [
-                "2025-05-23T23:51:47.513412Z"
             ]
         }
     ]
