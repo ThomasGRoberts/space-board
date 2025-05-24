@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 37 | 37 |
-| breaking_defense | 1 | 3 | 22 | 47 |
+| breaking_defense | 1 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4129,3 +4129,4 @@
 - **May 24, 04:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 04:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 04:33 AM** - Balancing progress and partnership: evaluating the Space Force’s new personnel laws (spacenews)
+- **May 24, 04:47 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
