@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 26 | 53 |
 | supercluster | 1 | 1 | 93 | 93 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | nyt | 1 | 2 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4209,3 +4209,4 @@
 - **May 24, 12:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 12:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 24, 12:11 PM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
+- **May 24, 12:25 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
