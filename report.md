@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 5 | 28 |
 | nyt | 0 | 0 | 5 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4183,3 +4183,4 @@
 - **May 25, 06:17 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 25, 06:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 06:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
