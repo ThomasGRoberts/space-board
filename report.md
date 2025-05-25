@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 7 | 28 |
 | nyt | 0 | 0 | 7 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4202,3 +4202,4 @@
 - **May 25, 07:55 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 25, 08:09 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 25, 08:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 08:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
