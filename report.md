@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 6 | 30 |
-| breaking_defense | 0 | 0 | 5 | 27 |
+| breaking_defense | 0 | 0 | 6 | 28 |
 | nyt | 0 | 0 | 6 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4190,3 +4190,4 @@
 - **May 25, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 06:45 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 25, 06:59 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
+- **May 25, 07:13 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
