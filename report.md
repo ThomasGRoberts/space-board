@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 4 | 30 |
 | breaking_defense | 0 | 0 | 4 | 27 |
-| nyt | 0 | 0 | 3 | 27 |
+| nyt | 0 | 0 | 4 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4158,3 +4158,4 @@
 - **May 25, 03:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 03:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 03:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 03:55 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
