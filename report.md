@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 8 | 29 |
+| spacenews | 0 | 2 | 9 | 30 |
 | breaking_defense | 0 | 0 | 8 | 28 |
 | nyt | 0 | 0 | 9 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4219,3 +4219,4 @@
 - **May 25, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 09:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 09:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 25, 09:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
