@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 8 | 30 |
-| breaking_defense | 0 | 0 | 7 | 27 |
+| breaking_defense | 0 | 0 | 8 | 28 |
 | nyt | 0 | 0 | 8 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -4210,3 +4210,4 @@
 - **May 25, 08:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 08:37 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 25, 08:51 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
+- **May 25, 09:05 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
