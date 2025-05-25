@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 4 | 27 |
 | nyt | 0 | 0 | 3 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -4162,3 +4162,4 @@
 - **May 25, 04:09 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
 - **May 25, 04:23 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 25, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
