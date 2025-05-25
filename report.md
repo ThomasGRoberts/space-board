@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 4 | 28 |
 | nyt | 0 | 0 | 4 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4171,3 +4171,4 @@
 - **May 25, 04:53 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 25, 05:07 PM** - Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander (spacenews)
 - **May 25, 05:21 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 25, 05:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
