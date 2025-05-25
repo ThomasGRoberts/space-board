@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 5 | 30 |
-| breaking_defense | 0 | 0 | 4 | 27 |
+| breaking_defense | 0 | 0 | 5 | 28 |
 | nyt | 0 | 0 | 5 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -4180,3 +4180,4 @@
 - **May 25, 05:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 05:49 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 25, 06:03 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
+- **May 25, 06:17 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
