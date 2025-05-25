@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 4 | 30 |
-| breaking_defense | 0 | 0 | 3 | 27 |
+| breaking_defense | 0 | 0 | 4 | 28 |
 | nyt | 0 | 0 | 4 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -4160,3 +4160,4 @@
 - **May 25, 03:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 03:55 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 25, 04:09 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
+- **May 25, 04:23 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
