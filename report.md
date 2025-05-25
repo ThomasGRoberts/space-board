@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 4 | 30 |
-| breaking_defense | 0 | 1 | 4 | 28 |
+| breaking_defense | 0 | 0 | 4 | 27 |
 | nyt | 0 | 0 | 3 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4152,3 +4152,4 @@
 - **May 25, 03:13 PM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 25, 03:27 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 25, 03:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 03:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
