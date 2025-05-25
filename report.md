@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 4 | 30 |
+| spacenews | 0 | 3 | 4 | 29 |
 | breaking_defense | 0 | 1 | 4 | 28 |
 | nyt | 0 | 0 | 3 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4133,3 +4133,4 @@
 - **May 24, 04:59 PM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
 - **May 24, 05:15 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 25, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 01:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
