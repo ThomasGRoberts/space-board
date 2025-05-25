@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 0 | 5 | 28 |
 | nyt | 0 | 0 | 5 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4181,3 +4181,4 @@
 - **May 25, 05:49 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 25, 06:03 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 25, 06:17 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 25, 06:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
