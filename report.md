@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 8 | 29 |
 | breaking_defense | 0 | 0 | 8 | 28 |
-| nyt | 0 | 0 | 8 | 27 |
+| nyt | 0 | 0 | 9 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -4218,3 +4218,4 @@
 - **May 25, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 25, 09:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 09:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
