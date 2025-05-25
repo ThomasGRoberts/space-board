@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 4 | 30 |
+| spacenews | 0 | 3 | 4 | 29 |
 | breaking_defense | 0 | 1 | 4 | 28 |
 | nyt | 0 | 0 | 3 | 27 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4142,3 +4142,4 @@
 - **May 25, 02:15 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 25, 02:29 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 25, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 25, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
