@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 163 | 223 |
 | spacenews | 2 | 2 | 24 | 32 |
-| breaking_defense | 0 | 0 | 23 | 31 |
+| breaking_defense | 0 | 0 | 24 | 32 |
 | nyt | 1 | 1 | 25 | 33 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4451,3 +4451,4 @@
 - **May 26, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 26, 09:29 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
