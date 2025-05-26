@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 163 | 190 |
+| supercluster | 0 | 1 | 164 | 191 |
 | spacenews | 2 | 2 | 24 | 28 |
-| breaking_defense | 0 | 0 | 24 | 28 |
+| breaking_defense | 0 | 0 | 24 | 27 |
 | nyt | 1 | 1 | 24 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4405,3 +4405,4 @@
 - **May 26, 04:59 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 26, 05:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 05:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
