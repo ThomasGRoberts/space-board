@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 161 | 237 |
 | spacenews | 2 | 2 | 24 | 34 |
 | breaking_defense | 0 | 0 | 24 | 34 |
-| nyt | 1 | 1 | 24 | 35 |
+| nyt | 2 | 2 | 25 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4472,3 +4472,4 @@
 - **May 26, 11:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 11:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 11:25 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
