@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | spacenews | 0 | 0 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 29 |
@@ -4273,3 +4273,4 @@
 - **May 26, 02:49 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 26, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 03:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 03:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
