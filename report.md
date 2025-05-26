@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 230 |
-| spacenews | 2 | 2 | 24 | 33 |
+| spacenews | 2 | 2 | 25 | 34 |
 | breaking_defense | 0 | 0 | 24 | 33 |
 | nyt | 1 | 1 | 24 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4462,3 +4462,4 @@
 - **May 26, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 10:11 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 26, 10:25 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 26, 10:41 PM** - PiLogic raises $4 million for bespoke satellite AI models (spacenews)
