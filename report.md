@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 163 | 197 |
+| supercluster | 0 | 1 | 164 | 198 |
 | spacenews | 2 | 2 | 24 | 29 |
 | breaking_defense | 0 | 0 | 24 | 28 |
 | nyt | 1 | 1 | 24 | 29 |
@@ -4415,3 +4415,4 @@
 - **May 26, 05:55 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 26, 06:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 06:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 06:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
