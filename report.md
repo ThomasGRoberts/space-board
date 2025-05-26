@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 160 | 160 |
-| spacenews | 1 | 1 | 22 | 27 |
+| spacenews | 1 | 1 | 23 | 28 |
 | breaking_defense | 0 | 0 | 22 | 28 |
 | nyt | 1 | 1 | 23 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4359,3 +4359,4 @@
 - **May 26, 12:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 12:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 12:15 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
