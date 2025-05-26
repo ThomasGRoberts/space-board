@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 132 | 132 |
-| spacenews | 0 | 0 | 18 | 29 |
+| spacenews | 0 | 0 | 19 | 29 |
 | breaking_defense | 0 | 0 | 18 | 29 |
 | nyt | 0 | 0 | 19 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4319,3 +4319,4 @@
 - **May 26, 07:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 07:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 07:08 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
+- **May 26, 07:27 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
