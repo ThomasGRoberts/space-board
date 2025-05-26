@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | spacenews | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 12 | 29 |
 | nyt | 0 | 0 | 12 | 29 |
@@ -4252,3 +4252,4 @@
 - **May 26, 12:40 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 26, 12:53 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 26, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
