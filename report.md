@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 168 | 223 |
 | spacenews | 2 | 2 | 24 | 32 |
 | breaking_defense | 0 | 0 | 23 | 31 |
-| nyt | 1 | 1 | 24 | 32 |
+| nyt | 1 | 1 | 25 | 33 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4450,3 +4450,4 @@
 - **May 26, 09:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
