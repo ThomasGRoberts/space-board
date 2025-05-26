@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 97 | 97 |
-| spacenews | 0 | 0 | 13 | 29 |
+| spacenews | 0 | 0 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 29 |
 | nyt | 0 | 0 | 14 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4269,3 +4269,4 @@
 - **May 26, 02:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 02:21 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
+- **May 26, 02:35 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
