@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 139 | 139 |
-| spacenews | 0 | 0 | 19 | 27 |
-| breaking_defense | 0 | 0 | 19 | 28 |
+| spacenews | 0 | 0 | 20 | 28 |
+| breaking_defense | 0 | 0 | 19 | 27 |
 | nyt | 1 | 1 | 21 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4330,3 +4330,4 @@
 - **May 26, 08:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 08:35 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 09:09 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 26, 09:37 AM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
