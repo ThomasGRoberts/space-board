@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 162 | 217 |
+| supercluster | 0 | 1 | 163 | 218 |
 | spacenews | 2 | 2 | 24 | 32 |
 | breaking_defense | 0 | 0 | 24 | 31 |
 | nyt | 1 | 1 | 24 | 32 |
@@ -4444,3 +4444,4 @@
 - **May 26, 08:33 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 26, 08:47 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 26, 09:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 09:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
