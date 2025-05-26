@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-26T00:02:12.135846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8fdd8ae032a99e71df3ce0777a98fd4a",
+    "trigger_count": 0,
+    "current_item_id": "f4c80307e07d9ac176947496f00b9dcc",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9823,6 +9823,18 @@
             "fetched_datetime": "2025-03-24T20:33:34.358495Z",
             "shown_at": [
                 "2025-03-24T20:33:34.870763Z"
+            ]
+        },
+        {
+            "id": "f4c80307e07d9ac176947496f00b9dcc",
+            "source": "nyt",
+            "text": "What Sonic Detectives Listen for When Rockets Launch",
+            "source_link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T09:09:33.503324Z",
+            "shown_at": [
+                "2025-05-26T09:09:34.133710Z"
             ]
         }
     ]
