@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 181 |
-| spacenews | 2 | 2 | 24 | 28 |
+| spacenews | 2 | 2 | 25 | 28 |
 | breaking_defense | 0 | 0 | 24 | 28 |
 | nyt | 1 | 1 | 24 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4392,3 +4392,4 @@
 - **May 26, 03:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 03:33 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 03:47 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 26, 04:02 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
