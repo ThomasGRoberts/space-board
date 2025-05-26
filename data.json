@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-26T00:02:12.135846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "cafe9fd1042a7cc0e47530e8be02264b",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9854,6 +9854,18 @@
             "fetched_datetime": "2025-05-26T09:09:33.503324Z",
             "shown_at": [
                 "2025-05-26T09:09:34.133710Z"
+            ]
+        },
+        {
+            "id": "cafe9fd1042a7cc0e47530e8be02264b",
+            "source": "spacenews",
+            "text": "Chinese commercial company lands contract to build provincial satellite constellation",
+            "source_link": "https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T11:19:42.045424Z",
+            "shown_at": [
+                "2025-05-26T11:19:43.159965Z"
             ]
         }
     ]
