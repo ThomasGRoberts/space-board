@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 | spacenews | 0 | 0 | 17 | 29 |
 | breaking_defense | 0 | 0 | 17 | 29 |
 | nyt | 0 | 0 | 17 | 29 |
@@ -4302,3 +4302,4 @@
 - **May 26, 05:27 AM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 26, 05:41 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 26, 05:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 05:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
