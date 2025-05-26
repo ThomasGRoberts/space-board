@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 | spacenews | 0 | 0 | 11 | 29 |
 | breaking_defense | 0 | 0 | 11 | 29 |
 | nyt | 0 | 0 | 11 | 29 |
@@ -4241,3 +4241,4 @@
 - **May 25, 11:27 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 25, 11:41 PM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
 - **May 25, 11:55 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
+- **May 26, 12:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
