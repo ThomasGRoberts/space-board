@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 237 |
-| spacenews | 2 | 2 | 23 | 34 |
+| spacenews | 2 | 2 | 24 | 35 |
 | breaking_defense | 0 | 0 | 24 | 34 |
 | nyt | 2 | 2 | 25 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4473,3 +4473,4 @@
 - **May 26, 11:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 11:25 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 26, 11:53 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
