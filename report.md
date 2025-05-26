@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 162 | 203 |
+| supercluster | 0 | 1 | 163 | 204 |
 | spacenews | 2 | 2 | 24 | 30 |
 | breaking_defense | 0 | 0 | 24 | 29 |
 | nyt | 1 | 1 | 24 | 30 |
@@ -4424,3 +4424,4 @@
 - **May 26, 06:41 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 26, 06:55 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 26, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 07:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
