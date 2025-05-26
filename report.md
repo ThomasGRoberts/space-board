@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 139 | 139 |
 | spacenews | 0 | 0 | 20 | 28 |
-| breaking_defense | 0 | 0 | 19 | 27 |
-| nyt | 1 | 1 | 21 | 29 |
+| breaking_defense | 0 | 0 | 20 | 28 |
+| nyt | 1 | 1 | 21 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4331,3 +4331,4 @@
 - **May 26, 08:35 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 09:09 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:37 AM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
+- **May 26, 09:51 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
