@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 223 |
-| spacenews | 2 | 2 | 24 | 32 |
+| spacenews | 2 | 2 | 25 | 33 |
 | breaking_defense | 0 | 0 | 24 | 32 |
 | nyt | 1 | 1 | 24 | 33 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4452,3 +4452,4 @@
 - **May 26, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:29 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
+- **May 26, 09:43 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
