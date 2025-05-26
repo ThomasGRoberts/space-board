@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 164 | 230 |
+| supercluster | 0 | 1 | 163 | 230 |
 | spacenews | 2 | 2 | 24 | 33 |
-| breaking_defense | 0 | 0 | 23 | 32 |
+| breaking_defense | 0 | 0 | 24 | 33 |
 | nyt | 1 | 1 | 25 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4461,3 +4461,4 @@
 - **May 26, 10:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 10:11 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 26, 10:25 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
