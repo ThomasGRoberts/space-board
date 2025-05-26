@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 | spacenews | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 29 |
@@ -4261,3 +4261,4 @@
 - **May 26, 01:23 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 26, 01:39 AM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 26, 01:53 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
+- **May 26, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
