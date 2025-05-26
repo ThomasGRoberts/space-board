@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 111 | 111 |
 | spacenews | 0 | 0 | 16 | 29 |
-| breaking_defense | 0 | 0 | 15 | 29 |
+| breaking_defense | 0 | 0 | 16 | 30 |
 | nyt | 0 | 0 | 16 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4290,3 +4290,4 @@
 - **May 26, 04:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 04:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 04:31 AM** - Satellite startups race to enhance wildfire detection and response (spacenews)
+- **May 26, 04:45 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
