@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 | spacenews | 0 | 0 | 20 | 28 |
 | breaking_defense | 0 | 0 | 20 | 28 |
 | nyt | 1 | 1 | 21 | 28 |
@@ -4332,3 +4332,4 @@
 - **May 26, 09:09 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:37 AM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
 - **May 26, 09:51 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 26, 10:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
