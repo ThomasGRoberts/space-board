@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 188 |
-| spacenews | 2 | 2 | 24 | 28 |
+| spacenews | 2 | 2 | 25 | 29 |
 | breaking_defense | 0 | 0 | 24 | 28 |
 | nyt | 1 | 1 | 24 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4402,3 +4402,4 @@
 - **May 26, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 04:29 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 04:43 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
+- **May 26, 04:59 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
