@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 146 | 146 |
+| supercluster | 1 | 1 | 147 | 147 |
 | spacenews | 0 | 0 | 21 | 28 |
 | breaking_defense | 0 | 0 | 21 | 28 |
 | nyt | 1 | 1 | 22 | 28 |
@@ -4342,3 +4342,4 @@
 - **May 26, 10:21 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 26, 10:35 AM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 26, 10:49 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 26, 11:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
