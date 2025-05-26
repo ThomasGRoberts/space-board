@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-26T00:02:12.135846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "104dd17f2cea4dfa1716a9bd33c7517d",
+    "trigger_count": 0,
+    "current_item_id": "608952fe7a89d6cc6569a6575a0c2ca1",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -9878,6 +9878,18 @@
             "fetched_datetime": "2025-05-26T11:19:42.045424Z",
             "shown_at": [
                 "2025-05-26T11:19:43.159965Z"
+            ]
+        },
+        {
+            "id": "608952fe7a89d6cc6569a6575a0c2ca1",
+            "source": "spacenews",
+            "text": "Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems",
+            "source_link": "https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T13:05:40.016695Z",
+            "shown_at": [
+                "2025-05-26T13:05:40.571770Z"
             ]
         }
     ]
