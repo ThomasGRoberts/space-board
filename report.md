@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 160 | 160 |
 | spacenews | 1 | 1 | 23 | 28 |
-| breaking_defense | 0 | 0 | 22 | 27 |
+| breaking_defense | 0 | 0 | 23 | 28 |
 | nyt | 1 | 1 | 24 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4361,3 +4361,4 @@
 - **May 26, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 12:15 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 26, 12:29 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 26, 12:47 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
