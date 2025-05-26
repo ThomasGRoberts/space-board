@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 90 | 90 |
 | spacenews | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 12 | 29 |
-| nyt | 0 | 0 | 12 | 28 |
+| nyt | 0 | 0 | 13 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4258,3 +4258,4 @@
 - **May 26, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 01:20 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 01:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 01:23 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
