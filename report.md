@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 | spacenews | 0 | 0 | 16 | 29 |
 | breaking_defense | 0 | 0 | 16 | 29 |
 | nyt | 0 | 0 | 16 | 29 |
@@ -4291,3 +4291,4 @@
 - **May 26, 04:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 04:31 AM** - Satellite startups race to enhance wildfire detection and response (spacenews)
 - **May 26, 04:45 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 26, 04:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
