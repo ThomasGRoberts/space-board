@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 146 | 146 |
-| spacenews | 0 | 0 | 20 | 27 |
-| breaking_defense | 0 | 0 | 20 | 28 |
+| spacenews | 0 | 0 | 21 | 28 |
+| breaking_defense | 0 | 0 | 20 | 27 |
 | nyt | 1 | 1 | 22 | 29 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4340,3 +4340,4 @@
 - **May 26, 10:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 10:21 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
+- **May 26, 10:35 AM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
