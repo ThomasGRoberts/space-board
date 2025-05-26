@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 | spacenews | 0 | 0 | 19 | 29 |
 | breaking_defense | 0 | 0 | 19 | 29 |
-| nyt | 0 | 0 | 19 | 29 |
+| nyt | 0 | 0 | 19 | 28 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4321,3 +4321,4 @@
 - **May 26, 07:08 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 26, 07:27 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 26, 07:41 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 26, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
