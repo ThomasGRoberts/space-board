@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 | spacenews | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 12 | 29 |
 | nyt | 0 | 0 | 12 | 29 |
@@ -4251,3 +4251,4 @@
 - **May 26, 12:25 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 26, 12:40 AM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 26, 12:53 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 26, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
