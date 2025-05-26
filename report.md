@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 163 | 211 |
+| supercluster | 0 | 1 | 164 | 212 |
 | spacenews | 2 | 2 | 24 | 31 |
 | breaking_defense | 0 | 0 | 24 | 30 |
 | nyt | 1 | 1 | 24 | 31 |
@@ -4435,3 +4435,4 @@
 - **May 26, 07:51 PM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
 - **May 26, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 26, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 26, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
