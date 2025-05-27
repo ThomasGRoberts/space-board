@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "060d3bc6e87471b13d79d9bfc7b0c974",
+    "trigger_count": 0,
+    "current_item_id": "bb3aa835fd741a84157b4c4991d96c31",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9808,6 +9808,18 @@
                 "2025-05-27T16:29:29.156452Z",
                 "2025-05-27T16:31:56.255716Z",
                 "2025-05-27T16:33:37.743538Z"
+            ]
+        },
+        {
+            "id": "bb3aa835fd741a84157b4c4991d96c31",
+            "source": "spacenews",
+            "text": "Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date",
+            "source_link": "https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T16:51:37.631859Z",
+            "shown_at": [
+                "2025-05-27T16:51:38.198300Z"
             ]
         }
     ]

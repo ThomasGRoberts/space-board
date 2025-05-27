@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 49 |
-| spacenews | 3 | 5 | 25 | 49 |
+| spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -4281,3 +4281,4 @@
 - **May 27, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 04:35 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 27, 04:51 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
