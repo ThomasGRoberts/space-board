@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 25 | 46 |
+| nyt | 1 | 2 | 24 | 46 |
 | spacenews | 2 | 2 | 25 | 45 |
-| supercluster | 0 | 1 | 162 | 307 |
+| supercluster | 0 | 1 | 162 | 308 |
 | breaking_defense | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4561,3 +4561,4 @@
 - **May 27, 09:39 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 27, 09:53 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 27, 10:07 AM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
+- **May 27, 10:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
