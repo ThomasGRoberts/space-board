@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 24 | 45 |
+| nyt | 1 | 2 | 25 | 46 |
 | spacenews | 2 | 2 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 307 |
-| breaking_defense | 0 | 0 | 25 | 44 |
+| breaking_defense | 0 | 0 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4559,3 +4559,4 @@
 - **May 27, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 09:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 09:39 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 27, 09:53 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
