@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 24 | 49 |
+| nyt | 1 | 2 | 25 | 50 |
 | spacenews | 3 | 5 | 25 | 49 |
 | supercluster | 0 | 0 | 168 | 333 |
 | breaking_defense | 0 | 0 | 25 | 48 |
@@ -4620,3 +4620,4 @@
 - **May 27, 03:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:33 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 27, 03:47 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
