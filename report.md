@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
 | spacenews | 3 | 5 | 25 | 49 |
-| supercluster | 0 | 0 | 168 | 329 |
+| supercluster | 0 | 0 | 168 | 330 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4612,3 +4612,4 @@
 - **May 27, 02:37 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 27, 02:51 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 03:05 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
+- **May 27, 03:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
