@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 24 | 49 |
 | spacenews | 2 | 4 | 25 | 49 |
 | supercluster | 0 | 1 | 168 | 335 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4599,3 +4599,4 @@
 - **May 27, 01:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
+- **May 27, 01:39 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
