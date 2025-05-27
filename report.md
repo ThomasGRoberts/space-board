@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 48 |
-| spacenews | 2 | 3 | 25 | 47 |
-| supercluster | 0 | 1 | 163 | 323 |
+| spacenews | 2 | 3 | 24 | 47 |
+| supercluster | 0 | 1 | 164 | 324 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4583,3 +4583,4 @@
 - **May 27, 11:59 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 27, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 12:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
