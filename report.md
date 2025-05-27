@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 22 | 47 |
 | spacenews | 6 | 8 | 26 | 50 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -4292,3 +4292,4 @@
 - **May 27, 07:17 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 07:19 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 07:21 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
+- **May 27, 07:40 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
