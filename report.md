@@ -6,7 +6,6 @@
 | spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4273,12 +4272,5 @@
 - **May 27, 03:33 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 27, 03:47 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 04:02 PM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
-- **May 27, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 27, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 04:35 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 27, 04:51 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
