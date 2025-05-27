@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 22 | 46 |
+| nyt | 2 | 3 | 23 | 47 |
 | spacenews | 7 | 9 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4312,3 +4312,4 @@
 - **May 27, 09:35 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 09:37 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 09:39 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
+- **May 27, 09:42 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
