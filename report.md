@@ -2,18 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 161 | 237 |
-| spacenews | 2 | 2 | 24 | 35 |
-| breaking_defense | 0 | 0 | 23 | 34 |
 | nyt | 2 | 2 | 25 | 36 |
+| spacenews | 2 | 2 | 24 | 35 |
+| supercluster | 0 | 1 | 161 | 237 |
+| breaking_defense | 0 | 0 | 23 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Mar 24, 08:33 PM** - ESA issues call for proposals for European Launcher Challenge (spacenews)
-- **Mar 24, 11:13 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
-- **Mar 25, 12:31 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
-- **Mar 25, 12:39 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 25, 12:53 PM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
 - **Mar 25, 01:09 PM** - NASA terminating $420 million in contracts (spacenews)
 - **Mar 25, 03:51 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
@@ -21,7 +17,6 @@
 - **Mar 25, 05:33 PM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 25, 07:41 PM** - Spain backs Sateliot with $15 million to expand connectivity constellation (spacenews)
 - **Mar 25, 08:09 PM** - California commits $95 million  to purchase of satellite methane data (spacenews)
-- **Mar 25, 11:47 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 26, 12:29 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 26, 12:43 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 26, 12:57 AM** - Maxar launches GPS-alternative navigation system for drones (spacenews)
@@ -45,7 +40,6 @@
 - **Mar 26, 07:05 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
 - **Mar 26, 07:19 PM** - Space Force certifies Vulcan for national security launches (spacenews)
 - **Mar 26, 07:33 PM** - Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts (spacenews)
-- **Mar 26, 08:47 PM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 26, 09:45 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 26, 09:59 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 26, 11:13 PM** - U.S. military prepares to award new commercial satcom deals (spacenews)
@@ -56,7 +50,6 @@
 - **Mar 27, 02:05 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
 - **Mar 27, 03:02 AM** - U.S. military prepares to award new commercial satcom deals (spacenews)
 - **Mar 27, 04:15 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
-- **Mar 27, 04:29 AM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 27, 04:43 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 27, 04:57 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 27, 05:27 AM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
@@ -67,7 +60,6 @@
 - **Mar 27, 07:21 AM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
 - **Mar 27, 09:17 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 27, 09:31 AM** - Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities (spacenews)
-- **Mar 27, 10:45 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 27, 10:59 AM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
 - **Mar 27, 11:13 AM** - Anywaves poised to expand antenna production in France and internationally (spacenews)
 - **Mar 27, 12:35 PM** - Cygnus mission to ISS scrapped after finding spacecraft damage (spacenews)
@@ -119,7 +111,6 @@
 - **Mar 28, 10:12 AM** - Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources (breaking_defense)
 - **Mar 28, 10:27 AM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 28, 10:41 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
-- **Mar 28, 11:09 AM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 28, 11:25 AM** - March 2025 Partial Solar Eclipse: Where and How to Watch (nyt)
 - **Mar 28, 11:53 AM** - GAO rejects TraCSS contract protest (spacenews)
 - **Mar 28, 12:09 PM** - China’s megaconstellations take off, government backs commercial space (spacenews)
@@ -186,7 +177,6 @@
 - **Mar 29, 09:57 AM** - NASA terminating $420 million in contracts (spacenews)
 - **Mar 29, 10:13 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 29, 10:27 AM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse (nyt)
-- **Mar 29, 11:12 AM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 29, 11:25 AM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 29, 12:53 PM** - U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy. (aidy)
 - **Mar 29, 01:09 PM** - Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts (spacenews)
@@ -269,7 +259,6 @@
 - **Mar 30, 04:29 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 30, 04:43 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 30, 04:57 PM** - House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat (aidy)
-- **Mar 30, 05:25 PM** - NRO expands spy satellite network with back-to-back SpaceX launches (spacenews)
 - **Mar 30, 05:39 PM** - Gaia to Shut Down After More Than a Decade of Mapping the Milky Way (nyt)
 - **Mar 30, 05:53 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)
 - **Mar 30, 06:07 PM** - Congress Introduces Lunar Time Standard, Vulcan Rocket Cleared for NSSL Launch (aidy)
@@ -293,7 +282,6 @@
 - **Mar 30, 11:49 PM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 12:03 AM** - ULA’s Vulcan rocket certified for national security launches (breaking_defense)
 - **Mar 31, 12:17 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
-- **Mar 31, 12:31 AM** - Companies in the Space Force commercial reserve program will not be publicly identified (spacenews)
 - **Mar 31, 01:02 AM** - NASA’s Webb Telescope Spots Auroras on Neptune for the First Time (nyt)
 - **Mar 31, 01:19 AM** - New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms (breaking_defense)
 - **Mar 31, 01:34 AM** - Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan (aidy)
@@ -348,7 +336,6 @@
 - **Mar 31, 04:09 PM** - SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe (nyt)
 - **Mar 31, 04:23 PM** - Space Force ‘transitioning’ SATCOM contracts from DISA (breaking_defense)
 - **Mar 31, 04:37 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
-- **Mar 31, 05:05 PM** - Space Force gets $40 million boost for commercial space services (spacenews)
 - **Mar 31, 05:19 PM** - When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse. (nyt)
 - **Mar 31, 05:33 PM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Mar 31, 05:47 PM** - ‘SignalGate’ scandal prompts questions on classified disclosures during SECAF, acquisition czar hearing (breaking_defense)

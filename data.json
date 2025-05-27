@@ -1,9 +1,60 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-26T00:02:12.135846+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
+    "trigger_count": 4,
     "current_item_id": "a8fdd7d4298e0a5f5e74ad6641da31a7",
     "data": [
+        {
+            "id": "bcec5fd920581b36b8fb2f6d3cf19752",
+            "source": "nyt",
+            "text": "Sonic Detectives Want to Help SpaceX Listen Up",
+            "source_link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T23:39:58.363223Z",
+            "shown_at": [
+                "2025-05-26T23:39:58.981412Z"
+            ]
+        },
+        {
+            "id": "608952fe7a89d6cc6569a6575a0c2ca1",
+            "source": "spacenews",
+            "text": "Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems",
+            "source_link": "https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T13:05:40.016695Z",
+            "shown_at": [
+                "2025-05-26T13:05:40.571770Z"
+            ]
+        },
+        {
+            "id": "cafe9fd1042a7cc0e47530e8be02264b",
+            "source": "spacenews",
+            "text": "Chinese commercial company lands contract to build provincial satellite constellation",
+            "source_link": "https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T11:19:42.045424Z",
+            "shown_at": [
+                "2025-05-26T11:19:43.159965Z"
+            ]
+        },
+        {
+            "id": "f4c80307e07d9ac176947496f00b9dcc",
+            "source": "nyt",
+            "text": "What Sonic Detectives Listen for When Rockets Launch",
+            "source_link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-26T09:09:33.503324Z",
+            "shown_at": [
+                "2025-05-26T09:09:34.133710Z",
+                "2025-05-26T14:35:35.510828Z",
+                "2025-05-26T19:23:29.579248Z",
+                "2025-05-26T21:15:41.296526Z"
+            ]
+        },
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
@@ -9904,114 +9955,6 @@
                 "2025-03-25T12:53:43.658037Z",
                 "2025-03-25T17:19:33.426315Z",
                 "2025-03-26T00:57:39.584175Z"
-            ]
-        },
-        {
-            "id": "10d6d900419ff0fa309e5d1b08a21a7d",
-            "source": "spacenews",
-            "text": "Space Force gets $40 million boost for commercial space services",
-            "source_link": "https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069090Z",
-            "shown_at": [
-                "2025-03-25T12:39:33.472150Z",
-                "2025-03-27T10:45:13.224612Z",
-                "2025-03-29T11:12:05.776024Z",
-                "2025-03-31T17:05:33.191642Z"
-            ]
-        },
-        {
-            "id": "412d4ca05e080a2e0b8462460929fc28",
-            "source": "spacenews",
-            "text": "Companies in the Space Force commercial reserve program will not be publicly identified",
-            "source_link": "https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069036Z",
-            "shown_at": [
-                "2025-03-25T12:31:54.724463Z",
-                "2025-03-26T20:47:32.959585Z",
-                "2025-03-31T00:31:57.131797Z"
-            ]
-        },
-        {
-            "id": "6417b0e9fae97e562ddd0adcaf8d051a",
-            "source": "spacenews",
-            "text": "NRO expands spy satellite network with back-to-back SpaceX launches",
-            "source_link": "https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T23:13:34.948743Z",
-            "shown_at": [
-                "2025-03-24T23:13:35.490959Z",
-                "2025-03-25T23:47:39.123365Z",
-                "2025-03-27T04:29:47.464803Z",
-                "2025-03-28T11:09:14.582993Z",
-                "2025-03-30T17:25:47.807976Z"
-            ]
-        },
-        {
-            "id": "18b3751f775c5d1a1d6e43a445c43e4a",
-            "source": "spacenews",
-            "text": "ESA issues call for proposals for European Launcher Challenge",
-            "source_link": "https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-24T20:33:34.358495Z",
-            "shown_at": [
-                "2025-03-24T20:33:34.870763Z"
-            ]
-        },
-        {
-            "id": "f4c80307e07d9ac176947496f00b9dcc",
-            "source": "nyt",
-            "text": "What Sonic Detectives Listen for When Rockets Launch",
-            "source_link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-26T09:09:33.503324Z",
-            "shown_at": [
-                "2025-05-26T09:09:34.133710Z",
-                "2025-05-26T14:35:35.510828Z",
-                "2025-05-26T19:23:29.579248Z",
-                "2025-05-26T21:15:41.296526Z"
-            ]
-        },
-        {
-            "id": "cafe9fd1042a7cc0e47530e8be02264b",
-            "source": "spacenews",
-            "text": "Chinese commercial company lands contract to build provincial satellite constellation",
-            "source_link": "https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-26T11:19:42.045424Z",
-            "shown_at": [
-                "2025-05-26T11:19:43.159965Z"
-            ]
-        },
-        {
-            "id": "608952fe7a89d6cc6569a6575a0c2ca1",
-            "source": "spacenews",
-            "text": "Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems",
-            "source_link": "https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-26T13:05:40.016695Z",
-            "shown_at": [
-                "2025-05-26T13:05:40.571770Z"
-            ]
-        },
-        {
-            "id": "bcec5fd920581b36b8fb2f6d3cf19752",
-            "source": "nyt",
-            "text": "Sonic Detectives Want to Help SpaceX Listen Up",
-            "source_link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-26T23:39:58.363223Z",
-            "shown_at": [
-                "2025-05-26T23:39:58.981412Z"
             ]
         }
     ]
