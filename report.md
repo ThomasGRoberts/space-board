@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 47 |
-| spacenews | 4 | 6 | 25 | 49 |
+| spacenews | 4 | 6 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4275,3 +4275,4 @@
 - **May 27, 04:02 PM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 27, 04:35 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 27, 04:51 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
+- **May 27, 05:57 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
