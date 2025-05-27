@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49d9e0ac43a21e9703f22c6e8efe5af3",
+    "trigger_count": 0,
+    "current_item_id": "cadca7b8e4b5d22c69f0fda55aeab18a",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9907,6 +9907,18 @@
             "fetched_datetime": "2025-05-27T20:41:38.129772Z",
             "shown_at": [
                 "2025-05-27T20:41:38.724747Z"
+            ]
+        },
+        {
+            "id": "cadca7b8e4b5d22c69f0fda55aeab18a",
+            "source": "spacenews",
+            "text": "Rocket Lab to acquire satellite payload manufacturer Geost for $275 million",
+            "source_link": "https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T22:13:28.628581Z",
+            "shown_at": [
+                "2025-05-27T22:13:29.229702Z"
             ]
         }
     ]

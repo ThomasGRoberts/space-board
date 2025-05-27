@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 23 | 47 |
-| spacenews | 7 | 9 | 25 | 49 |
+| nyt | 2 | 3 | 22 | 47 |
+| spacenews | 8 | 10 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -4314,3 +4314,4 @@
 - **May 27, 09:39 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 09:42 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 09:57 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 27, 10:13 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
