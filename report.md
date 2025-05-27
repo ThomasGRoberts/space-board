@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
 | spacenews | 3 | 5 | 25 | 49 |
-| supercluster | 0 | 0 | 169 | 331 |
+| supercluster | 0 | 0 | 169 | 332 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4614,3 +4614,4 @@
 - **May 27, 03:05 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **May 27, 03:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
