@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
 | spacenews | 2 | 4 | 25 | 49 |
-| supercluster | 0 | 0 | 168 | 329 |
+| supercluster | 0 | 0 | 169 | 330 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4601,3 +4601,4 @@
 - **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 27, 01:39 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 27, 01:53 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 27, 02:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
