@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 37 |
-| spacenews | 2 | 2 | 23 | 35 |
+| spacenews | 2 | 2 | 24 | 36 |
 | supercluster | 0 | 1 | 161 | 244 |
 | breaking_defense | 0 | 0 | 24 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4470,3 +4470,4 @@
 - **May 27, 12:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 12:23 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 27, 12:37 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 27, 12:51 AM** - Starfish Space ready to launch docking demonstration mission (spacenews)
