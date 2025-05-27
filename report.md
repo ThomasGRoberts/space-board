@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
 | spacenews | 1 | 3 | 24 | 48 |
-| supercluster | 0 | 1 | 169 | 329 |
+| supercluster | 0 | 1 | 170 | 330 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4592,3 +4592,4 @@
 - **May 27, 12:43 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 27, 12:57 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 27, 01:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
