@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 37 |
 | spacenews | 2 | 2 | 24 | 36 |
-| supercluster | 0 | 1 | 164 | 251 |
-| breaking_defense | 0 | 0 | 23 | 35 |
+| supercluster | 0 | 1 | 163 | 251 |
+| breaking_defense | 0 | 0 | 24 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4478,3 +4478,4 @@
 - **May 27, 01:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 01:19 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
