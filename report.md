@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 48 |
 | spacenews | 2 | 3 | 25 | 47 |
-| supercluster | 0 | 1 | 162 | 321 |
+| supercluster | 0 | 1 | 162 | 322 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4581,3 +4581,4 @@
 - **May 27, 11:31 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 27, 11:45 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 27, 11:59 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 27, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
