@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
-| spacenews | 2 | 2 | 25 | 46 |
-| supercluster | 0 | 1 | 163 | 316 |
+| spacenews | 1 | 2 | 24 | 46 |
+| supercluster | 0 | 1 | 164 | 317 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4573,3 +4573,4 @@
 - **May 27, 11:03 AM** - Balancing progress and partnership: evaluating the Space Force’s new personnel laws (spacenews)
 - **May 27, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 11:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 11:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
