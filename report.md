@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 23 | 47 |
 | spacenews | 7 | 9 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -4313,3 +4313,4 @@
 - **May 27, 09:37 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 09:39 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 09:42 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 27, 09:57 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
