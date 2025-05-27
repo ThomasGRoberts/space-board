@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 48 |
 | spacenews | 4 | 6 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -4281,3 +4281,4 @@
 - **May 27, 06:03 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 06:05 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 06:07 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 27, 06:21 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
