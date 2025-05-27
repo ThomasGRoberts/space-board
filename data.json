@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a9e7f2aaf87c36707c42043e140d6f0",
+    "trigger_count": 0,
+    "current_item_id": "fd18641e4b205a503757b1103039301d",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9927,6 +9927,18 @@
             "fetched_datetime": "2025-05-27T22:13:28.628581Z",
             "shown_at": [
                 "2025-05-27T22:13:29.229702Z"
+            ]
+        },
+        {
+            "id": "fd18641e4b205a503757b1103039301d",
+            "source": "nyt",
+            "text": "SpaceX to Launch Starship Flight 9: Watch Live Video",
+            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T23:03:27.898163Z",
+            "shown_at": [
+                "2025-05-27T23:03:28.454081Z"
             ]
         }
     ]
