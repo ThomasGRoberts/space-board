@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 24 | 38 |
+| nyt | 2 | 2 | 25 | 39 |
 | spacenews | 2 | 2 | 23 | 37 |
-| supercluster | 0 | 1 | 161 | 258 |
+| supercluster | 0 | 1 | 160 | 258 |
 | breaking_defense | 0 | 0 | 23 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4489,3 +4489,4 @@
 - **May 27, 02:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 02:49 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 27, 03:03 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
