@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 37 |
 | spacenews | 2 | 2 | 24 | 36 |
-| supercluster | 0 | 1 | 161 | 244 |
+| supercluster | 0 | 1 | 162 | 245 |
 | breaking_defense | 0 | 0 | 23 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4471,3 +4471,4 @@
 - **May 27, 12:23 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 27, 12:37 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 12:51 AM** - Starfish Space ready to launch docking demonstration mission (spacenews)
+- **May 27, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
