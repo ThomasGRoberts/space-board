@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 24 | 43 |
 | spacenews | 2 | 2 | 23 | 42 |
-| supercluster | 0 | 1 | 155 | 287 |
+| supercluster | 0 | 1 | 156 | 288 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4532,3 +4532,4 @@
 - **May 27, 06:57 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 07:12 AM** - Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander (spacenews)
 - **May 27, 07:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 07:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
