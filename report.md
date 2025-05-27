@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 22 | 46 |
+| nyt | 2 | 3 | 23 | 47 |
 | spacenews | 8 | 10 | 25 | 49 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4322,3 +4322,4 @@
 - **May 27, 10:41 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 10:43 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 10:45 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
+- **May 27, 10:47 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
