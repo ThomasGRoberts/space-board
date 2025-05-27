@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 23 | 47 |
 | spacenews | 7 | 9 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -4303,3 +4303,4 @@
 - **May 27, 08:37 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 08:39 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 08:41 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
+- **May 27, 08:55 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
