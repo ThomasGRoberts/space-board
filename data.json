@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5a81121f0e14a0a2f1c0748f551b1cf7",
+    "trigger_count": 0,
+    "current_item_id": "95e4629dcb922b7135c01b555996b3fd",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9840,6 +9840,18 @@
             "fetched_datetime": "2025-05-27T18:49:49.180729Z",
             "shown_at": [
                 "2025-05-27T18:49:50.267938Z"
+            ]
+        },
+        {
+            "id": "95e4629dcb922b7135c01b555996b3fd",
+            "source": "spacenews",
+            "text": "ExoTerra delivers 21 propulsion modules for SDA satellites",
+            "source_link": "https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T19:21:45.434648Z",
+            "shown_at": [
+                "2025-05-27T19:21:46.107232Z"
             ]
         }
     ]
