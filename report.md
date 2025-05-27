@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 36 |
 | spacenews | 2 | 2 | 24 | 35 |
-| supercluster | 0 | 1 | 161 | 237 |
+| supercluster | 0 | 1 | 162 | 238 |
 | breaking_defense | 0 | 0 | 23 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4461,3 +4461,4 @@
 - **May 26, 11:25 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 26, 11:53 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
+- **May 27, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
