@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 22 | 46 |
+| nyt | 2 | 3 | 23 | 47 |
 | spacenews | 7 | 9 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4302,3 +4302,4 @@
 - **May 27, 08:35 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 08:37 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 08:39 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
+- **May 27, 08:41 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
