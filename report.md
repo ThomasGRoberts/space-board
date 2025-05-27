@@ -6,7 +6,7 @@
 | spacenews | 7 | 9 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4305,3 +4305,4 @@
 - **May 27, 08:41 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
 - **May 27, 08:55 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 27, 09:13 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
+- **May 27, 09:27 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
