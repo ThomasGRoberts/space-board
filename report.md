@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 24 | 48 |
+| nyt | 1 | 2 | 25 | 49 |
 | spacenews | 2 | 3 | 25 | 48 |
 | supercluster | 0 | 1 | 168 | 328 |
 | breaking_defense | 0 | 0 | 24 | 47 |
@@ -4590,3 +4590,4 @@
 - **May 27, 12:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 12:27 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 27, 12:43 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
+- **May 27, 12:57 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
