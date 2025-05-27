@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 36 |
 | spacenews | 2 | 2 | 24 | 35 |
-| supercluster | 0 | 1 | 162 | 244 |
-| breaking_defense | 0 | 0 | 23 | 34 |
+| supercluster | 0 | 1 | 161 | 244 |
+| breaking_defense | 0 | 0 | 24 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4468,3 +4468,4 @@
 - **May 27, 12:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 12:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 12:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 12:23 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
