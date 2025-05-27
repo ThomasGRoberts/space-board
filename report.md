@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 24 | 40 |
 | spacenews | 2 | 2 | 23 | 39 |
-| supercluster | 0 | 1 | 160 | 271 |
-| breaking_defense | 0 | 0 | 23 | 38 |
+| supercluster | 0 | 1 | 161 | 272 |
+| breaking_defense | 0 | 0 | 22 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4507,3 +4507,4 @@
 - **May 27, 04:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 04:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 04:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
