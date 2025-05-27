@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 44 |
 | spacenews | 2 | 2 | 24 | 43 |
-| supercluster | 0 | 1 | 157 | 293 |
+| supercluster | 0 | 1 | 158 | 294 |
 | breaking_defense | 0 | 0 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4541,3 +4541,4 @@
 - **May 27, 07:43 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 27, 07:57 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 27, 08:11 AM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
+- **May 27, 08:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
