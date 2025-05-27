@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 24 | 39 |
+| nyt | 2 | 2 | 25 | 40 |
 | spacenews | 2 | 2 | 23 | 38 |
 | supercluster | 0 | 1 | 160 | 265 |
 | breaking_defense | 0 | 0 | 23 | 38 |
@@ -4499,3 +4499,4 @@
 - **May 27, 03:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:51 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 27, 04:05 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
