@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 24 | 42 |
-| spacenews | 2 | 2 | 23 | 40 |
+| spacenews | 2 | 2 | 24 | 41 |
 | supercluster | 0 | 1 | 154 | 279 |
 | breaking_defense | 0 | 0 | 23 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4520,3 +4520,4 @@
 - **May 27, 05:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 05:43 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 27, 05:57 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
+- **May 27, 06:14 AM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
