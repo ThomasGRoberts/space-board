@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
-| spacenews | 2 | 4 | 25 | 49 |
+| spacenews | 3 | 5 | 25 | 50 |
 | supercluster | 0 | 0 | 168 | 329 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4611,3 +4611,4 @@
 - **May 27, 02:21 PM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
 - **May 27, 02:37 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 27, 02:51 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 27, 03:05 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
