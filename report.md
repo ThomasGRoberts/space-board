@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 25 | 40 |
-| spacenews | 2 | 2 | 23 | 38 |
+| nyt | 2 | 2 | 24 | 40 |
+| spacenews | 2 | 2 | 24 | 39 |
 | supercluster | 0 | 1 | 154 | 265 |
 | breaking_defense | 0 | 0 | 23 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4500,3 +4500,4 @@
 - **May 27, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 03:51 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 27, 04:05 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 27, 04:19 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
