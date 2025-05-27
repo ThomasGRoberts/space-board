@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 24 | 41 |
-| spacenews | 2 | 2 | 24 | 40 |
-| supercluster | 0 | 1 | 154 | 272 |
+| spacenews | 2 | 2 | 23 | 40 |
+| supercluster | 0 | 1 | 155 | 273 |
 | breaking_defense | 0 | 0 | 23 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4511,3 +4511,4 @@
 - **May 27, 04:47 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 27, 05:02 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 27, 05:15 AM** - China launches classified comms satellite, conducts commercial sea launch (spacenews)
+- **May 27, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
