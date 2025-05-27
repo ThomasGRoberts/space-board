@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 24 | 38 |
 | spacenews | 2 | 2 | 23 | 37 |
 | supercluster | 0 | 1 | 161 | 258 |
-| breaking_defense | 0 | 0 | 23 | 36 |
+| breaking_defense | 0 | 0 | 24 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4488,3 +4488,4 @@
 - **May 27, 02:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 02:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 02:49 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
