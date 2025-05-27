@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 24 | 37 |
+| nyt | 2 | 2 | 25 | 38 |
 | spacenews | 2 | 2 | 23 | 36 |
 | supercluster | 0 | 1 | 161 | 251 |
-| breaking_defense | 0 | 0 | 24 | 36 |
+| breaking_defense | 0 | 0 | 23 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4479,3 +4479,4 @@
 - **May 27, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:19 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 27, 01:56 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
