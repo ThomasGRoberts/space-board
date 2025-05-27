@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 49 |
-| spacenews | 1 | 3 | 24 | 48 |
-| supercluster | 0 | 1 | 173 | 335 |
+| spacenews | 2 | 4 | 25 | 49 |
+| supercluster | 0 | 1 | 172 | 335 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4598,3 +4598,4 @@
 - **May 27, 01:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)

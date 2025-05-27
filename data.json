@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "10e6714d17daa945d056045184f7e1f4",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -10103,6 +10103,18 @@
             "fetched_datetime": "2025-05-27T11:45:25.631510Z",
             "shown_at": [
                 "2025-05-27T11:45:26.280280Z"
+            ]
+        },
+        {
+            "id": "10e6714d17daa945d056045184f7e1f4",
+            "source": "spacenews",
+            "text": "EnduroSat raises $49 million to mass produce larger satellites",
+            "source_link": "https://spacenews.com/endurosat-raises-49-million-to-mass-produce-larger-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T13:25:34.272110Z",
+            "shown_at": [
+                "2025-05-27T13:25:34.882334Z"
             ]
         }
     ]
