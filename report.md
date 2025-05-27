@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 23 | 48 |
 | spacenews | 8 | 10 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 33 | 33 |
 
@@ -4324,3 +4324,4 @@
 - **May 27, 10:45 PM** - SpaceX Will Perform Ninth Flight Test of Starship Super Heavy (supercluster)
 - **May 27, 10:47 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 27, 11:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 27, 11:17 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
