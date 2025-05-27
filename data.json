@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7d405a0aaf3f53f0f28fa299f18df811",
+    "trigger_count": 0,
+    "current_item_id": "5a81121f0e14a0a2f1c0748f551b1cf7",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9813,52 +9813,6 @@
             ]
         },
         {
-            "id": "5a81121f0e14a0a2f1c0748f551b1cf7",
-            "source": "supercluster",
-            "text": "SpaceX Will Perform Ninth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-9",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-27T23:30:00.000Z",
-            "time_remaining": "0d 00h 44m",
-            "fetched_datetime": "2025-05-27T17:57:41.467097Z",
-            "shown_at": [
-                "2025-05-27T17:57:42.057969Z",
-                "2025-05-27T17:59:46.505264Z",
-                "2025-05-27T18:02:02.819466Z",
-                "2025-05-27T18:03:25.427090Z",
-                "2025-05-27T18:05:35.999185Z",
-                "2025-05-27T19:05:42.855767Z",
-                "2025-05-27T19:07:26.669142Z",
-                "2025-05-27T19:09:36.323327Z",
-                "2025-05-27T19:12:22.804389Z",
-                "2025-05-27T19:15:25.978992Z",
-                "2025-05-27T19:17:28.598948Z",
-                "2025-05-27T19:19:43.225167Z",
-                "2025-05-27T20:27:39.270368Z",
-                "2025-05-27T20:29:27.138695Z",
-                "2025-05-27T20:31:55.608142Z",
-                "2025-05-27T20:33:34.515493Z",
-                "2025-05-27T20:35:50.568868Z",
-                "2025-05-27T20:37:26.199385Z",
-                "2025-05-27T20:39:34.952409Z",
-                "2025-05-27T21:27:43.588930Z",
-                "2025-05-27T21:29:47.791220Z",
-                "2025-05-27T21:31:46.853255Z",
-                "2025-05-27T21:33:28.868176Z",
-                "2025-05-27T21:35:51.953639Z",
-                "2025-05-27T21:37:41.069776Z",
-                "2025-05-27T21:39:37.018407Z",
-                "2025-05-27T22:33:27.346727Z",
-                "2025-05-27T22:35:44.791845Z",
-                "2025-05-27T22:37:23.163787Z",
-                "2025-05-27T22:39:39.789351Z",
-                "2025-05-27T22:41:36.703339Z",
-                "2025-05-27T22:43:25.681513Z",
-                "2025-05-27T22:45:27.226490Z"
-            ]
-        },
-        {
             "id": "bbdd791a00bd99949be279ec6126dbc9",
             "source": "spacenews",
             "text": "The real Golden Dome opportunity – defense acquisition reform",
@@ -9940,6 +9894,20 @@
             "fetched_datetime": "2025-05-27T23:03:27.898163Z",
             "shown_at": [
                 "2025-05-27T23:03:28.454081Z"
+            ]
+        },
+        {
+            "id": "5a81121f0e14a0a2f1c0748f551b1cf7",
+            "source": "supercluster",
+            "text": "SpaceX Will Perform Ninth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-9",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-27T23:36:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-05-27T23:37:40.425692Z",
+            "shown_at": [
+                "2025-05-27T23:37:41.016407Z"
             ]
         }
     ]
