@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 25 | 44 |
 | spacenews | 2 | 2 | 24 | 43 |
-| supercluster | 0 | 1 | 159 | 295 |
+| supercluster | 0 | 1 | 158 | 296 |
 | breaking_defense | 0 | 0 | 23 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4543,3 +4543,4 @@
 - **May 27, 08:11 AM** - Kuva to offer maritime-domain insights with satellite on deck (spacenews)
 - **May 27, 08:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
