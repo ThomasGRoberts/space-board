@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33574346fa92827dc6e43f869cb05f56",
+    "trigger_count": 0,
+    "current_item_id": "cd4f70030ee62c378b60ed53a23f63a2",
     "data": [
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
@@ -9864,6 +9864,18 @@
             "fetched_datetime": "2025-05-27T19:40:00.042028Z",
             "shown_at": [
                 "2025-05-27T19:40:01.083269Z"
+            ]
+        },
+        {
+            "id": "cd4f70030ee62c378b60ed53a23f63a2",
+            "source": "spacenews",
+            "text": "SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth",
+            "source_link": "https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T19:53:36.943935Z",
+            "shown_at": [
+                "2025-05-27T19:53:37.675890Z"
             ]
         }
     ]
