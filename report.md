@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 45 |
 | spacenews | 2 | 2 | 25 | 44 |
-| supercluster | 0 | 1 | 163 | 302 |
+| supercluster | 0 | 1 | 164 | 303 |
 | breaking_defense | 0 | 0 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4553,3 +4553,4 @@
 - **May 27, 09:11 AM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 27, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 27, 09:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
