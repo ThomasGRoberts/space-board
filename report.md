@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 47 |
-| spacenews | 1 | 2 | 24 | 46 |
+| spacenews | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 1 | 168 | 321 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4579,3 +4579,4 @@
 - **May 27, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 27, 11:31 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
+- **May 27, 11:45 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
