@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 18 | 40 |
 | spacenews | 6 | 13 | 16 | 42 |
-| breaking_defense | 0 | 1 | 14 | 37 |
+| breaking_defense | 0 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 24 | 24 |
+| supercluster | 2 | 2 | 25 | 25 |
 
 # Shown Order
 
@@ -4280,3 +4280,4 @@
 - **May 28, 08:45 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 08:59 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 28, 09:15 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 28, 09:29 PM** - China Will Launch the Long March 2D Rocket (supercluster)
