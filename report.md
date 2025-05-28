@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 16 | 41 |
+| nyt | 4 | 5 | 17 | 42 |
 | spacenews | 10 | 12 | 19 | 44 |
 | breaking_defense | 1 | 1 | 15 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4263,3 +4263,4 @@
 - **May 28, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 10:51 AM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
+- **May 28, 11:09 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
