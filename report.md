@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 7 | 18 | 40 |
-| spacenews | 6 | 13 | 15 | 41 |
+| spacenews | 6 | 13 | 16 | 42 |
 | breaking_defense | 0 | 1 | 14 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -4268,3 +4268,4 @@
 - **May 28, 07:43 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 07:45 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 07:47 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 28, 08:02 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
