@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 16 | 41 |
-| spacenews | 10 | 12 | 19 | 44 |
+| spacenews | 11 | 13 | 20 | 45 |
 | breaking_defense | 1 | 1 | 15 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4276,3 +4276,4 @@
 - **May 28, 12:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 28, 12:33 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **May 28, 12:47 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)

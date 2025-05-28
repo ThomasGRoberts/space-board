@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "060d3bc6e87471b13d79d9bfc7b0c974",
+    "trigger_count": 0,
+    "current_item_id": "06ac11b8ed97930fdaa8981cc5ffea6a",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9836,6 +9836,18 @@
             "fetched_datetime": "2025-05-28T12:33:27.962597Z",
             "shown_at": [
                 "2025-05-28T12:33:28.573321Z"
+            ]
+        },
+        {
+            "id": "06ac11b8ed97930fdaa8981cc5ffea6a",
+            "source": "spacenews",
+            "text": "Overcoming conservatism in the autonomous space revolution",
+            "source_link": "https://spacenews.com/overcoming-conservatism-in-the-autonomous-space-revolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T13:01:59.392518Z",
+            "shown_at": [
+                "2025-05-28T13:01:59.859480Z"
             ]
         }
     ]
