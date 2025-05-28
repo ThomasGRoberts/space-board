@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+    "trigger_count": 0,
+    "current_item_id": "87e47fa4e83de8d4bddc84537b49b637",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9917,6 +9917,18 @@
                 "2025-05-28T21:37:37.206765Z",
                 "2025-05-28T21:39:39.402202Z",
                 "2025-05-28T21:41:49.934031Z"
+            ]
+        },
+        {
+            "id": "87e47fa4e83de8d4bddc84537b49b637",
+            "source": "spacenews",
+            "text": "Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications",
+            "source_link": "https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T23:21:40.358214Z",
+            "shown_at": [
+                "2025-05-28T23:21:40.988256Z"
             ]
         }
     ]
