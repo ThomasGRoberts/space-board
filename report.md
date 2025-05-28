@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 17 | 40 |
 | spacenews | 6 | 13 | 16 | 42 |
-| breaking_defense | 0 | 1 | 14 | 36 |
+| breaking_defense | 0 | 1 | 15 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 24 | 24 |
 
@@ -4277,3 +4277,4 @@
 - **May 28, 08:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 28, 08:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 28, 08:43 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 28, 08:45 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
