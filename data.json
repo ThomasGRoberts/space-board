@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87e47fa4e83de8d4bddc84537b49b637",
+    "trigger_count": 0,
+    "current_item_id": "93b0e8648f0264dd6dd6c1236114dcba",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9929,6 +9929,18 @@
             "fetched_datetime": "2025-05-28T23:21:40.358214Z",
             "shown_at": [
                 "2025-05-28T23:21:40.988256Z"
+            ]
+        },
+        {
+            "id": "93b0e8648f0264dd6dd6c1236114dcba",
+            "source": "spacenews",
+            "text": "SpaceX to launch another GPS III satellite in record turnaround ",
+            "source_link": "https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T23:35:28.282017Z",
+            "shown_at": [
+                "2025-05-28T23:35:28.793166Z"
             ]
         }
     ]

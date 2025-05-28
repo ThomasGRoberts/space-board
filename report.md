@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 7 | 17 | 40 |
-| spacenews | 6 | 14 | 18 | 43 |
+| spacenews | 7 | 15 | 19 | 44 |
 | breaking_defense | 0 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 38 | 38 |
@@ -4301,3 +4301,4 @@
 - **May 28, 10:53 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 28, 11:07 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 11:21 PM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
+- **May 28, 11:35 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
