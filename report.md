@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 16 | 39 |
 | spacenews | 8 | 12 | 18 | 42 |
-| breaking_defense | 1 | 1 | 13 | 37 |
+| breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -4256,3 +4256,4 @@
 - **May 28, 05:25 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **May 28, 06:31 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 06:33 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 06:35 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
