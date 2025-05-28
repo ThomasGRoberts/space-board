@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 16 | 40 |
+| nyt | 5 | 6 | 15 | 40 |
 | spacenews | 9 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 13 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 2 | 2 |
+| supercluster | 2 | 2 | 3 | 3 |
 
 # Shown Order
 
@@ -4242,3 +4242,4 @@
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 03:32 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 28, 03:45 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
+- **May 28, 03:47 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
