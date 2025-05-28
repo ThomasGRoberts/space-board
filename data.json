@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "127040624a7d09f8ca5c63dba2ea771d",
+    "trigger_count": 0,
+    "current_item_id": "3a8cc7519fd954f6172c35d506d96182",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9780,6 +9780,18 @@
             "shown_at": [
                 "2025-05-28T06:35:54.106664Z",
                 "2025-05-28T07:39:31.020205Z"
+            ]
+        },
+        {
+            "id": "3a8cc7519fd954f6172c35d506d96182",
+            "source": "spacenews",
+            "text": "Apex announces Comet satellite bus for constellations",
+            "source_link": "https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T08:45:40.291260Z",
+            "shown_at": [
+                "2025-05-28T08:45:40.967468Z"
             ]
         }
     ]
