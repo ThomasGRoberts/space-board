@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd4f70030ee62c378b60ed53a23f63a2",
+    "trigger_count": 0,
+    "current_item_id": "bae0d819d3d88d2dfed55f4839c1f6bd",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9836,6 +9836,20 @@
             "shown_at": [
                 "2025-05-28T15:12:16.902451Z",
                 "2025-05-28T17:11:46.962605Z"
+            ]
+        },
+        {
+            "id": "bae0d819d3d88d2dfed55f4839c1f6bd",
+            "source": "supercluster",
+            "text": "China Will Launch Mission to an Asteroid and a Comet",
+            "source_link": "https://www.supercluster.com/launches/tianwen-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-28T17:30:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-05-28T17:39:52.661135Z",
+            "shown_at": [
+                "2025-05-28T17:39:53.876473Z"
             ]
         }
     ]
