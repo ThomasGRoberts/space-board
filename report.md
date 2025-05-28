@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 16 | 39 |
+| nyt | 5 | 6 | 17 | 40 |
 | spacenews | 8 | 12 | 17 | 42 |
 | breaking_defense | 1 | 1 | 14 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4257,3 +4257,4 @@
 - **May 28, 06:31 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 06:33 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 06:35 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 28, 06:49 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
