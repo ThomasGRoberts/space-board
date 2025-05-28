@@ -6,7 +6,7 @@
 | spacenews | 8 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 9 | 9 |
+| supercluster | 2 | 2 | 8 | 8 |
 
 # Shown Order
 
@@ -4254,4 +4254,3 @@
 - **May 28, 04:55 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 28, 05:11 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 05:25 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
-- **May 28, 05:39 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
