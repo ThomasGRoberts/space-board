@@ -6,7 +6,7 @@
 | spacenews | 6 | 13 | 16 | 42 |
 | breaking_defense | 0 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 25 | 25 |
+| supercluster | 2 | 2 | 26 | 26 |
 
 # Shown Order
 
@@ -4281,3 +4281,4 @@
 - **May 28, 08:59 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 28, 09:15 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 09:29 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 28, 09:31 PM** - China Will Launch the Long March 2D Rocket (supercluster)
