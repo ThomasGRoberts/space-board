@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 6 | 17 | 41 |
+| nyt | 4 | 6 | 17 | 42 |
 | spacenews | 10 | 12 | 20 | 44 |
 | breaking_defense | 1 | 1 | 15 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4243,3 +4243,4 @@
 - **May 28, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 08:27 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
 - **May 28, 08:45 AM** - Apex announces Comet satellite bus for constellations (spacenews)
+- **May 28, 08:59 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
