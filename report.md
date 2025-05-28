@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 18 | 40 |
 | spacenews | 5 | 13 | 16 | 42 |
-| breaking_defense | 0 | 1 | 14 | 36 |
+| breaking_defense | 0 | 1 | 15 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 38 | 38 |
 
@@ -4297,3 +4297,4 @@
 - **May 28, 10:33 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 10:35 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 10:37 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 10:39 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
