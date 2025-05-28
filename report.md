@@ -6,7 +6,7 @@
 | spacenews | 6 | 13 | 16 | 42 |
 | breaking_defense | 0 | 1 | 14 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 2 | 2 | 18 | 18 |
 
 # Shown Order
 
@@ -4270,3 +4270,4 @@
 - **May 28, 07:47 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 08:02 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 28, 08:17 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **May 28, 08:32 PM** - China Will Launch the Long March 2D Rocket (supercluster)
