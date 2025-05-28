@@ -6,7 +6,7 @@
 | spacenews | 10 | 12 | 19 | 44 |
 | breaking_defense | 1 | 1 | 15 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4236,4 +4236,3 @@
 - **May 28, 12:33 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **May 28, 12:47 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
-- **May 28, 01:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
