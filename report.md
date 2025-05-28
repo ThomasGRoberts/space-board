@@ -6,7 +6,7 @@
 | spacenews | 10 | 12 | 19 | 44 |
 | breaking_defense | 1 | 1 | 16 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4245,3 +4245,4 @@
 - **May 28, 08:45 AM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **May 28, 08:59 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 28, 09:17 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 28, 09:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
