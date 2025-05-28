@@ -6,7 +6,7 @@
 | spacenews | 10 | 11 | 19 | 43 |
 | breaking_defense | 1 | 1 | 15 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4265,3 +4265,4 @@
 - **May 28, 10:51 AM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 28, 11:09 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 28, 11:27 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 28, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
