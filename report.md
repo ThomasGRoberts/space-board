@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 15 | 40 |
 | spacenews | 9 | 12 | 18 | 43 |
-| breaking_defense | 1 | 1 | 13 | 38 |
+| breaking_defense | 1 | 1 | 13 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 3 | 3 |
+| supercluster | 2 | 2 | 4 | 4 |
 
 # Shown Order
 
@@ -4243,3 +4243,4 @@
 - **May 28, 03:32 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 28, 03:45 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
 - **May 28, 03:47 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
+- **May 28, 03:49 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
