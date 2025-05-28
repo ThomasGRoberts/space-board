@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 7 | 18 | 40 |
 | spacenews | 7 | 13 | 16 | 42 |
-| breaking_defense | 1 | 1 | 14 | 37 |
+| breaking_defense | 1 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4262,3 +4262,4 @@
 - **May 28, 07:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 07:33 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 07:35 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 07:37 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
