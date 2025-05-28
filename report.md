@@ -6,7 +6,7 @@
 | spacenews | 9 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 13 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 2 | 2 | 2 | 2 |
 
 # Shown Order
 
@@ -4241,3 +4241,4 @@
 - **May 28, 02:49 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 03:32 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
+- **May 28, 03:45 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
