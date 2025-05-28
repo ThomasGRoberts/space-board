@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 16 | 40 |
 | spacenews | 10 | 12 | 18 | 43 |
-| breaking_defense | 1 | 1 | 13 | 38 |
+| breaking_defense | 1 | 1 | 14 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4238,3 +4238,4 @@
 - **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 28, 02:32 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 02:33 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 28, 02:49 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
