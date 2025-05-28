@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "75fca993328155a218ccf4d3fd82afc8",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9797,15 +9797,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "75fca993328155a218ccf4d3fd82afc8",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-32",
-            "shown": false,
+            "text": "Rocket Lab Will Launch Earth Observation Satellites for BlackSky",
+            "source_link": "https://www.supercluster.com/launches/full-stream-ahead",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-28T13:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-28T14:29:35.053663Z"
+            "target_datetime": "2025-05-29T01:15:00.000Z",
+            "time_remaining": "0d 10h 42m",
+            "fetched_datetime": "2025-05-28T14:32:01.298096Z",
+            "shown_at": [
+                "2025-05-28T14:32:01.998580Z"
+            ]
         }
     ]
 }
