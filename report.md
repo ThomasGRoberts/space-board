@@ -6,7 +6,7 @@
 | spacenews | 7 | 15 | 19 | 44 |
 | breaking_defense | 0 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 40 | 40 |
+| supercluster | 2 | 2 | 41 | 41 |
 
 # Shown Order
 
@@ -4304,3 +4304,4 @@
 - **May 28, 11:35 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **May 28, 11:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 28, 11:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 28, 11:53 PM** - China Will Launch the Long March 2D Rocket (supercluster)
