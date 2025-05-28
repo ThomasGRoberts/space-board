@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 16 | 40 |
 | spacenews | 8 | 12 | 17 | 43 |
-| breaking_defense | 1 | 1 | 13 | 37 |
+| breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 15 | 15 |
 
@@ -4258,3 +4258,4 @@
 - **May 28, 04:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 04:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 04:53 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 04:55 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
