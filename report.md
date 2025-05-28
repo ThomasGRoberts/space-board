@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 18 | 40 |
 | spacenews | 5 | 13 | 16 | 42 |
-| breaking_defense | 0 | 1 | 14 | 37 |
+| breaking_defense | 0 | 1 | 14 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 32 | 32 |
+| supercluster | 2 | 2 | 33 | 33 |
 
 # Shown Order
 
@@ -4291,3 +4291,4 @@
 - **May 28, 09:57 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 28, 10:11 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 10:25 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 10:27 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
