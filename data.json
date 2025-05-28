@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "86393ccfed8d6f9e11ffaaaddd0277df",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9725,6 +9725,18 @@
                 "2025-05-28T06:02:05.430675Z",
                 "2025-05-28T06:03:39.527484Z",
                 "2025-05-28T06:05:40.840200Z"
+            ]
+        },
+        {
+            "id": "86393ccfed8d6f9e11ffaaaddd0277df",
+            "source": "spacenews",
+            "text": "Starship breaks up on reentry after loss of attitude control",
+            "source_link": "https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:07:23.300745Z",
+            "shown_at": [
+                "2025-05-28T06:07:23.870416Z"
             ]
         }
     ]
