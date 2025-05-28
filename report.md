@@ -6,7 +6,7 @@
 | spacenews | 8 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 15 | 15 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4241,13 +4241,6 @@
 - **May 28, 02:49 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 03:32 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
-- **May 28, 03:45 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:47 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:49 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:51 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:53 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:55 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
-- **May 28, 03:57 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
 - **May 28, 03:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 28, 04:14 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 04:27 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
