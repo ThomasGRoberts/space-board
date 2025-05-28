@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 16 | 40 |
+| nyt | 4 | 6 | 17 | 41 |
 | spacenews | 9 | 11 | 19 | 43 |
 | breaking_defense | 1 | 1 | 16 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4221,3 +4221,4 @@
 - **May 28, 06:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 06:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 06:07 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
+- **May 28, 06:21 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)

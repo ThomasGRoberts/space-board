@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "86393ccfed8d6f9e11ffaaaddd0277df",
+    "trigger_count": 0,
+    "current_item_id": "f05646b67f730049dc1e41a147104422",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9738,6 +9738,27 @@
             "shown_at": [
                 "2025-05-28T06:07:23.870416Z"
             ]
+        },
+        {
+            "id": "f05646b67f730049dc1e41a147104422",
+            "source": "nyt",
+            "text": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
+            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:21:43.256483Z",
+            "shown_at": [
+                "2025-05-28T06:21:43.841417Z"
+            ]
+        },
+        {
+            "id": "f11600bb287bc71564b51960ca0dd748",
+            "source": "nyt",
+            "text": "Manhattanhenge Is Back for 2025: When, Where and How to Watch",
+            "source_link": "https://www.nytimes.com/article/manhattanhenge-2025-time-how-to-watch.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:21:43.256922Z"
         }
     ]
 }
