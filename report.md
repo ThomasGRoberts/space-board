@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 17 | 41 |
-| spacenews | 9 | 11 | 19 | 43 |
+| spacenews | 10 | 12 | 20 | 44 |
 | breaking_defense | 1 | 1 | 14 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4274,3 +4274,4 @@
 - **May 28, 11:56 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 11:59 AM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 28, 12:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **May 28, 12:33 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)

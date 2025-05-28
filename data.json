@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f05646b67f730049dc1e41a147104422",
+    "trigger_count": 0,
+    "current_item_id": "4ed1a4998dba43e5157661acdf47c5a8",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9823,6 +9823,18 @@
             "fetched_datetime": "2025-05-28T08:45:40.291260Z",
             "shown_at": [
                 "2025-05-28T08:45:40.967468Z"
+            ]
+        },
+        {
+            "id": "4ed1a4998dba43e5157661acdf47c5a8",
+            "source": "spacenews",
+            "text": "Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations",
+            "source_link": "https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T12:33:27.962597Z",
+            "shown_at": [
+                "2025-05-28T12:33:28.573321Z"
             ]
         }
     ]
