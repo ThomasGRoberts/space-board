@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 17 | 42 |
 | spacenews | 10 | 12 | 19 | 44 |
-| breaking_defense | 1 | 1 | 15 | 39 |
+| breaking_defense | 1 | 1 | 16 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4254,3 +4254,4 @@
 - **May 28, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 09:47 AM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 28, 10:02 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 28, 10:19 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
