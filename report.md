@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 15 | 40 |
 | spacenews | 9 | 12 | 18 | 43 |
-| breaking_defense | 1 | 1 | 13 | 37 |
+| breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 8 | 8 |
 
@@ -4248,3 +4248,4 @@
 - **May 28, 03:53 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
 - **May 28, 03:55 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
 - **May 28, 03:57 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
+- **May 28, 03:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
