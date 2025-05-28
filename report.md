@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 17 | 41 |
-| spacenews | 9 | 11 | 18 | 43 |
+| spacenews | 9 | 11 | 19 | 44 |
 | breaking_defense | 1 | 1 | 15 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4272,3 +4272,4 @@
 - **May 28, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 11:56 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 28, 11:59 AM** - AI could deliver insights when paired with (the right) humans (spacenews)
