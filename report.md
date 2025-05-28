@@ -6,7 +6,7 @@
 | spacenews | 5 | 13 | 16 | 42 |
 | breaking_defense | 0 | 1 | 14 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 31 | 31 |
+| supercluster | 2 | 2 | 32 | 32 |
 
 # Shown Order
 
@@ -4290,3 +4290,4 @@
 - **May 28, 09:43 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 09:57 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 28, 10:11 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 28, 10:25 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
