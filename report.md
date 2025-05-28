@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 7 | 16 | 40 |
+| nyt | 4 | 7 | 17 | 41 |
 | spacenews | 5 | 13 | 17 | 42 |
 | breaking_defense | 0 | 1 | 15 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4299,3 +4299,4 @@
 - **May 28, 10:37 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 10:39 PM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 28, 10:53 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
+- **May 28, 11:07 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
