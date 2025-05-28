@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 15 | 40 |
+| nyt | 4 | 5 | 16 | 41 |
 | spacenews | 10 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4237,3 +4237,4 @@
 - **May 28, 12:47 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 28, 02:32 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 02:33 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
