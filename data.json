@@ -1,9 +1,142 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-27T00:02:13.281656+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
+    "trigger_count": 5,
     "current_item_id": "5a81121f0e14a0a2f1c0748f551b1cf7",
     "data": [
+        {
+            "id": "fd18641e4b205a503757b1103039301d",
+            "source": "nyt",
+            "text": "SpaceX to Launch Starship Flight 9: Watch Live Video",
+            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T23:03:27.898163Z",
+            "shown_at": [
+                "2025-05-27T23:03:28.454081Z"
+            ]
+        },
+        {
+            "id": "cadca7b8e4b5d22c69f0fda55aeab18a",
+            "source": "spacenews",
+            "text": "Rocket Lab to acquire satellite payload manufacturer Geost for $275 million",
+            "source_link": "https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T22:13:28.628581Z",
+            "shown_at": [
+                "2025-05-27T22:13:29.229702Z"
+            ]
+        },
+        {
+            "id": "6062dac1da9825d30977516f03d40f35",
+            "source": "nyt",
+            "text": "SpaceX to Launch Starship Flight 9: When and How to Watch",
+            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T20:41:38.129772Z",
+            "shown_at": [
+                "2025-05-27T20:41:38.724747Z"
+            ]
+        },
+        {
+            "id": "cd4f70030ee62c378b60ed53a23f63a2",
+            "source": "spacenews",
+            "text": "SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth",
+            "source_link": "https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T19:53:36.943935Z",
+            "shown_at": [
+                "2025-05-27T19:53:37.675890Z"
+            ]
+        },
+        {
+            "id": "33574346fa92827dc6e43f869cb05f56",
+            "source": "breaking_defense",
+            "text": "From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest",
+            "source_link": "https://breakingdefense.com/2025/05/from-wildfires-to-battlefield-cloud-cover-muons-multispectral-sats-pique-government-interest/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T19:40:00.042028Z",
+            "shown_at": [
+                "2025-05-27T19:40:01.083269Z"
+            ]
+        },
+        {
+            "id": "95e4629dcb922b7135c01b555996b3fd",
+            "source": "spacenews",
+            "text": "ExoTerra delivers 21 propulsion modules for SDA satellites",
+            "source_link": "https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T19:21:45.434648Z",
+            "shown_at": [
+                "2025-05-27T19:21:46.107232Z"
+            ]
+        },
+        {
+            "id": "bbdd791a00bd99949be279ec6126dbc9",
+            "source": "spacenews",
+            "text": "The real Golden Dome opportunity – defense acquisition reform",
+            "source_link": "https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T18:49:49.180729Z",
+            "shown_at": [
+                "2025-05-27T18:49:50.267938Z"
+            ]
+        },
+        {
+            "id": "bb3aa835fd741a84157b4c4991d96c31",
+            "source": "spacenews",
+            "text": "Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date",
+            "source_link": "https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T16:51:37.631859Z",
+            "shown_at": [
+                "2025-05-27T16:51:38.198300Z"
+            ]
+        },
+        {
+            "id": "6d60fec543c4f6e6cd8d15a25c2db6a4",
+            "source": "spacenews",
+            "text": "APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design",
+            "source_link": "https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T15:05:51.718652Z",
+            "shown_at": [
+                "2025-05-27T15:05:52.820505Z"
+            ]
+        },
+        {
+            "id": "10e6714d17daa945d056045184f7e1f4",
+            "source": "spacenews",
+            "text": "EnduroSat raises $49 million to mass produce larger satellites",
+            "source_link": "https://spacenews.com/endurosat-raises-49-million-to-mass-produce-larger-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T13:25:34.272110Z",
+            "shown_at": [
+                "2025-05-27T13:25:34.882334Z"
+            ]
+        },
+        {
+            "id": "5d4faba4dc34f094b0e1092b019a3ce4",
+            "source": "spacenews",
+            "text": "Empyreum, Italy’s new satellite platform for the constellation era",
+            "source_link": "https://spacenews.com/empyreum-italys-new-satellite-platform-for-the-constellation-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-27T11:45:25.631510Z",
+            "shown_at": [
+                "2025-05-27T11:45:26.280280Z",
+                "2025-05-27T21:13:38.444479Z"
+            ]
+        },
         {
             "id": "bcec5fd920581b36b8fb2f6d3cf19752",
             "source": "nyt",
@@ -9576,327 +9709,6 @@
             ]
         },
         {
-            "id": "00ffd9bc7195cffceabdc463f7fa58c3",
-            "source": "spacenews",
-            "text": "Data and artificial intelligence: the fuel behind space discovery",
-            "source_link": "https://spacenews.com/data-and-artificial-intelligence-the-fuel-behind-space-discovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T13:03:35.343551Z",
-            "shown_at": [
-                "2025-03-26T13:03:35.957898Z",
-                "2025-04-01T06:41:59.536078Z"
-            ]
-        },
-        {
-            "id": "681da219f27c5099ed6ae45f4bcd4368",
-            "source": "spacenews",
-            "text": "Intuitive Machines emphasizes diversification beyond lunar landers",
-            "source_link": "https://spacenews.com/intuitive-machines-emphasizes-diversification-beyond-lunar-landers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T11:49:27.462092Z",
-            "shown_at": [
-                "2025-03-26T11:49:28.042047Z",
-                "2025-03-29T15:35:50.783648Z",
-                "2025-03-30T19:45:25.878506Z"
-            ]
-        },
-        {
-            "id": "f9cfbae9b5aa5ca4d0b6874def808c07",
-            "source": "spacenews",
-            "text": "White House nominates Autry to be NASA’s chief financial officer",
-            "source_link": "https://spacenews.com/white-house-nominates-autry-to-be-nasas-chief-financial-officer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T10:25:33.005301Z",
-            "shown_at": [
-                "2025-03-26T10:25:33.596989Z",
-                "2025-03-30T10:33:32.355640Z",
-                "2025-03-31T21:47:36.669165Z"
-            ]
-        },
-        {
-            "id": "d9962a1c94f71836d19515ee7462ea84",
-            "source": "aidy",
-            "text": "House Passes Eight Bipartisan Space Bills; NASA Faces FY2026 Budget Cuts Threat",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T07:33:38.750918Z",
-            "shown_at": [
-                "2025-03-26T07:33:39.712537Z",
-                "2025-03-26T11:07:33.493011Z",
-                "2025-03-27T04:43:37.242559Z",
-                "2025-03-27T07:07:38.092177Z",
-                "2025-03-27T10:59:51.153860Z",
-                "2025-03-27T21:35:16.631543Z",
-                "2025-03-28T13:37:55.460784Z",
-                "2025-03-28T16:04:20.829865Z",
-                "2025-03-29T00:21:51.619286Z",
-                "2025-03-29T01:31:57.340045Z",
-                "2025-03-29T05:02:25.407326Z",
-                "2025-03-29T06:13:40.293149Z",
-                "2025-03-29T14:09:15.368828Z",
-                "2025-03-29T22:32:05.395996Z",
-                "2025-03-30T09:51:13.400559Z",
-                "2025-03-30T16:57:38.737853Z",
-                "2025-03-30T20:27:38.033561Z",
-                "2025-03-31T03:53:32.336133Z",
-                "2025-03-31T10:29:48.232981Z",
-                "2025-03-31T15:27:45.288844Z",
-                "2025-03-31T19:11:22.044170Z",
-                "2025-04-01T00:23:37.496697Z",
-                "2025-04-01T15:15:45.515324Z",
-                "2025-04-01T16:37:51.982446Z",
-                "2025-04-01T21:27:09.457378Z",
-                "2025-04-02T00:59:34.684576Z"
-            ]
-        },
-        {
-            "id": "c77fe5a5a02c2f861d437a121069deec",
-            "source": "spacenews",
-            "text": "California commits $95 million  to purchase of satellite methane data",
-            "source_link": "https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T20:09:34.776400Z",
-            "shown_at": [
-                "2025-03-25T20:09:35.278831Z",
-                "2025-03-26T08:02:09.396690Z"
-            ]
-        },
-        {
-            "id": "f9cb1cfdae693786bba5b432453572cc",
-            "source": "spacenews",
-            "text": "Spain backs Sateliot with $15 million to expand connectivity constellation",
-            "source_link": "https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T19:41:11.285789Z",
-            "shown_at": [
-                "2025-03-25T19:41:11.786634Z",
-                "2025-03-30T05:32:04.001037Z"
-            ]
-        },
-        {
-            "id": "5443c9619ff7311aafb8a1ca136f441e",
-            "source": "aidy",
-            "text": "Space Force Integrates AI, Addresses Space Piracy in New Strategic Plan",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T17:33:32.821628Z",
-            "shown_at": [
-                "2025-03-25T17:33:33.507677Z",
-                "2025-03-26T00:43:45.558625Z",
-                "2025-03-27T02:05:51.056329Z",
-                "2025-03-27T17:22:04.898332Z",
-                "2025-03-27T20:11:55.078551Z",
-                "2025-03-27T23:13:33.777906Z",
-                "2025-03-28T09:55:41.085646Z",
-                "2025-03-28T12:23:52.595147Z",
-                "2025-03-29T02:41:44.458747Z",
-                "2025-03-29T03:51:49.016598Z",
-                "2025-03-29T21:21:38.060057Z",
-                "2025-03-30T11:01:59.160523Z",
-                "2025-03-31T01:34:05.436591Z",
-                "2025-03-31T02:43:08.602053Z",
-                "2025-03-31T05:05:39.801114Z",
-                "2025-03-31T13:07:31.888099Z",
-                "2025-04-01T14:02:07.665152Z"
-            ]
-        },
-        {
-            "id": "e5a201d925d6c64f8a2c818f71bdc63d",
-            "source": "nyt",
-            "text": "SpaceX Rocket Launch Creates Glowing Spiral in the Night Sky for Europe",
-            "source_link": "https://www.nytimes.com/2025/03/25/science/sky-spiral-spacex-rocket-launch-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T15:51:40.998236Z",
-            "shown_at": [
-                "2025-03-25T15:51:42.208600Z",
-                "2025-03-26T00:29:46.875627Z",
-                "2025-03-26T05:11:40.646247Z",
-                "2025-03-26T11:21:42.259765Z",
-                "2025-03-26T12:49:54.104492Z",
-                "2025-03-26T17:27:37.562942Z",
-                "2025-03-26T23:55:33.811942Z",
-                "2025-03-27T09:17:30.199135Z",
-                "2025-03-28T10:27:41.865857Z",
-                "2025-03-28T16:33:41.765693Z",
-                "2025-03-28T18:57:41.377869Z",
-                "2025-03-28T22:43:33.180561Z",
-                "2025-03-29T14:53:55.478883Z",
-                "2025-03-30T11:29:38.111010Z",
-                "2025-03-30T13:25:56.976303Z",
-                "2025-03-31T16:09:36.893606Z"
-            ]
-        },
-        {
-            "id": "c51ae12700fce7a6e13d4185eaccc65b",
-            "source": "spacenews",
-            "text": "NASA terminating $420 million in contracts",
-            "source_link": "https://spacenews.com/nasa-terminating-420-million-in-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069179Z",
-            "shown_at": [
-                "2025-03-25T13:09:33.603048Z",
-                "2025-03-29T09:57:41.583212Z",
-                "2025-03-31T08:02:06.020468Z",
-                "2025-04-01T12:13:46.347719Z"
-            ]
-        },
-        {
-            "id": "013129a8c56dbb1ad26c456a9600e71d",
-            "source": "spacenews",
-            "text": "Maxar launches GPS-alternative navigation system for drones",
-            "source_link": "https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-25T12:31:54.069128Z",
-            "shown_at": [
-                "2025-03-25T12:53:43.658037Z",
-                "2025-03-25T17:19:33.426315Z",
-                "2025-03-26T00:57:39.584175Z"
-            ]
-        },
-        {
-            "id": "5d4faba4dc34f094b0e1092b019a3ce4",
-            "source": "spacenews",
-            "text": "Empyreum, Italy’s new satellite platform for the constellation era",
-            "source_link": "https://spacenews.com/empyreum-italys-new-satellite-platform-for-the-constellation-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T11:45:25.631510Z",
-            "shown_at": [
-                "2025-05-27T11:45:26.280280Z",
-                "2025-05-27T21:13:38.444479Z"
-            ]
-        },
-        {
-            "id": "10e6714d17daa945d056045184f7e1f4",
-            "source": "spacenews",
-            "text": "EnduroSat raises $49 million to mass produce larger satellites",
-            "source_link": "https://spacenews.com/endurosat-raises-49-million-to-mass-produce-larger-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T13:25:34.272110Z",
-            "shown_at": [
-                "2025-05-27T13:25:34.882334Z"
-            ]
-        },
-        {
-            "id": "6d60fec543c4f6e6cd8d15a25c2db6a4",
-            "source": "spacenews",
-            "text": "APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design",
-            "source_link": "https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T15:05:51.718652Z",
-            "shown_at": [
-                "2025-05-27T15:05:52.820505Z"
-            ]
-        },
-        {
-            "id": "bb3aa835fd741a84157b4c4991d96c31",
-            "source": "spacenews",
-            "text": "Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date",
-            "source_link": "https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T16:51:37.631859Z",
-            "shown_at": [
-                "2025-05-27T16:51:38.198300Z"
-            ]
-        },
-        {
-            "id": "bbdd791a00bd99949be279ec6126dbc9",
-            "source": "spacenews",
-            "text": "The real Golden Dome opportunity – defense acquisition reform",
-            "source_link": "https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T18:49:49.180729Z",
-            "shown_at": [
-                "2025-05-27T18:49:50.267938Z"
-            ]
-        },
-        {
-            "id": "95e4629dcb922b7135c01b555996b3fd",
-            "source": "spacenews",
-            "text": "ExoTerra delivers 21 propulsion modules for SDA satellites",
-            "source_link": "https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:21:45.434648Z",
-            "shown_at": [
-                "2025-05-27T19:21:46.107232Z"
-            ]
-        },
-        {
-            "id": "33574346fa92827dc6e43f869cb05f56",
-            "source": "breaking_defense",
-            "text": "From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest",
-            "source_link": "https://breakingdefense.com/2025/05/from-wildfires-to-battlefield-cloud-cover-muons-multispectral-sats-pique-government-interest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:40:00.042028Z",
-            "shown_at": [
-                "2025-05-27T19:40:01.083269Z"
-            ]
-        },
-        {
-            "id": "cd4f70030ee62c378b60ed53a23f63a2",
-            "source": "spacenews",
-            "text": "SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth",
-            "source_link": "https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:53:36.943935Z",
-            "shown_at": [
-                "2025-05-27T19:53:37.675890Z"
-            ]
-        },
-        {
-            "id": "6062dac1da9825d30977516f03d40f35",
-            "source": "nyt",
-            "text": "SpaceX to Launch Starship Flight 9: When and How to Watch",
-            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T20:41:38.129772Z",
-            "shown_at": [
-                "2025-05-27T20:41:38.724747Z"
-            ]
-        },
-        {
-            "id": "cadca7b8e4b5d22c69f0fda55aeab18a",
-            "source": "spacenews",
-            "text": "Rocket Lab to acquire satellite payload manufacturer Geost for $275 million",
-            "source_link": "https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T22:13:28.628581Z",
-            "shown_at": [
-                "2025-05-27T22:13:29.229702Z"
-            ]
-        },
-        {
-            "id": "fd18641e4b205a503757b1103039301d",
-            "source": "nyt",
-            "text": "SpaceX to Launch Starship Flight 9: Watch Live Video",
-            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T23:03:27.898163Z",
-            "shown_at": [
-                "2025-05-27T23:03:28.454081Z"
-            ]
-        },
-        {
             "id": "5a81121f0e14a0a2f1c0748f551b1cf7",
             "source": "supercluster",
             "text": "SpaceX Will Perform Ninth Flight Test of Starship Super Heavy",
@@ -9905,7 +9717,7 @@
             "type": "launch",
             "target_datetime": "2025-05-27T23:36:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-05-27T23:59:38.596336Z"
+            "fetched_datetime": "2025-05-28T00:02:11.642090Z"
         }
     ]
 }
