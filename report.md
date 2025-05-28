@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 18 | 42 |
 | spacenews | 9 | 11 | 19 | 42 |
-| breaking_defense | 1 | 1 | 15 | 38 |
+| breaking_defense | 1 | 1 | 16 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -4223,3 +4223,4 @@
 - **May 28, 06:07 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **May 28, 06:21 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 28, 06:35 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **May 28, 06:52 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
