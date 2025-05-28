@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 16 | 41 |
-| spacenews | 9 | 12 | 17 | 42 |
+| spacenews | 9 | 12 | 18 | 43 |
 | breaking_defense | 1 | 1 | 14 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 8 | 8 |
@@ -4250,3 +4250,4 @@
 - **May 28, 03:57 PM** - China Will Launch Mission to an Asteroid and a Comet (supercluster)
 - **May 28, 03:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 28, 04:14 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **May 28, 04:27 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
