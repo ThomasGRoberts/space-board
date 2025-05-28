@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 17 | 41 |
-| spacenews | 9 | 11 | 18 | 42 |
+| spacenews | 9 | 11 | 19 | 43 |
 | breaking_defense | 1 | 1 | 16 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -4231,3 +4231,4 @@
 - **May 28, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 28, 07:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 28, 07:25 AM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
