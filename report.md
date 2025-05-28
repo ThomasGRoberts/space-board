@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 16 | 40 |
 | spacenews | 9 | 12 | 18 | 43 |
-| breaking_defense | 1 | 1 | 13 | 38 |
+| breaking_defense | 1 | 1 | 13 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 10 | 10 |
+| supercluster | 2 | 2 | 11 | 11 |
 
 # Shown Order
 
@@ -4253,3 +4253,4 @@
 - **May 28, 04:27 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **May 28, 04:41 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **May 28, 04:43 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **May 28, 04:45 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
