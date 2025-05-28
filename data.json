@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6062dac1da9825d30977516f03d40f35",
+    "trigger_count": 0,
+    "current_item_id": "258ae8ebda1bce171ac3137886e260c4",
     "data": [
         {
             "id": "fd18641e4b205a503757b1103039301d",
@@ -9840,6 +9840,18 @@
             "shown_at": [
                 "2025-05-28T15:12:16.902451Z",
                 "2025-05-28T17:11:46.962605Z"
+            ]
+        },
+        {
+            "id": "258ae8ebda1bce171ac3137886e260c4",
+            "source": "spacenews",
+            "text": "China launches Tianwen-2 mission to sample near Earth asteroid",
+            "source_link": "https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T19:05:34.350730Z",
+            "shown_at": [
+                "2025-05-28T19:05:35.464370Z"
             ]
         }
     ]
