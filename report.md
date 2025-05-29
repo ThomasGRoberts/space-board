@@ -6,7 +6,7 @@
 | nyt | 1 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 21 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -4234,3 +4234,4 @@
 - **May 29, 02:45 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 02:59 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
 - **May 29, 03:13 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 29, 03:27 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
