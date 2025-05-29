@@ -6,7 +6,7 @@
 | nyt | 2 | 7 | 22 | 39 |
 | breaking_defense | 1 | 2 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -4267,3 +4267,4 @@
 - **May 29, 06:25 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **May 29, 06:41 PM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **May 29, 06:55 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
+- **May 29, 07:09 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
