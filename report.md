@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 27 | 44 |
+| spacenews | 8 | 17 | 26 | 44 |
 | nyt | 1 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 21 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -4245,3 +4245,4 @@
 - **May 29, 03:55 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **May 29, 04:11 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 29, 04:25 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 04:27 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
