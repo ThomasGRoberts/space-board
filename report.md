@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 43 |
 | nyt | 4 | 6 | 21 | 39 |
-| breaking_defense | 0 | 1 | 18 | 36 |
+| breaking_defense | 0 | 1 | 18 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4134,4 +4134,4 @@
 - **May 29, 03:35 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 29, 03:49 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **May 29, 04:05 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 29, 04:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 29, 04:49 AM** - China Will Launch the Long March 2D Rocket (supercluster)
