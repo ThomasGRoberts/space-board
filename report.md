@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 22 | 44 |
 | supercluster | 1 | 1 | 35 | 35 |
-| nyt | 4 | 6 | 19 | 38 |
+| nyt | 4 | 6 | 20 | 39 |
 | breaking_defense | 0 | 1 | 17 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4165,3 +4165,4 @@
 - **May 29, 02:36 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 02:39 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 02:53 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
+- **May 29, 03:07 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
