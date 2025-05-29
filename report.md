@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 20 | 43 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 2 | 2 | 50 | 50 |
 | nyt | 4 | 6 | 18 | 39 |
 | breaking_defense | 0 | 1 | 15 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4174,3 +4174,4 @@
 - **May 29, 12:55 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 12:57 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 12:59 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 29, 01:02 AM** - China Will Launch the Long March 2D Rocket (supercluster)
