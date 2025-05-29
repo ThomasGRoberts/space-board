@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f05646b67f730049dc1e41a147104422",
+    "trigger_count": 0,
+    "current_item_id": "8386157d6082889d1409de228b679b8f",
     "data": [
         {
             "id": "93b0e8648f0264dd6dd6c1236114dcba",
@@ -9880,6 +9880,18 @@
             "fetched_datetime": "2025-05-29T19:51:33.844311Z",
             "shown_at": [
                 "2025-05-29T19:51:34.442176Z"
+            ]
+        },
+        {
+            "id": "8386157d6082889d1409de228b679b8f",
+            "source": "spacenews",
+            "text": "China launches classified Shijan-26 satellite with Long March 4B rocket",
+            "source_link": "https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-29T21:01:55.200056Z",
+            "shown_at": [
+                "2025-05-29T21:01:55.812927Z"
             ]
         }
     ]

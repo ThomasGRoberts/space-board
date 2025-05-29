@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 28 | 44 |
+| spacenews | 10 | 16 | 28 | 45 |
 | nyt | 2 | 7 | 23 | 40 |
 | breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4287,3 +4287,4 @@
 - **May 29, 08:31 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 08:33 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 08:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **May 29, 09:01 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
