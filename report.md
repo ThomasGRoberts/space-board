@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 43 |
+| spacenews | 8 | 16 | 23 | 42 |
 | nyt | 4 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 18 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4136,3 +4136,4 @@
 - **May 29, 04:05 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 29, 05:12 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 05:13 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 05:15 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
