@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 25 | 44 |
-| nyt | 2 | 6 | 22 | 38 |
+| spacenews | 9 | 18 | 26 | 45 |
+| nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 20 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 46 | 46 |
@@ -4203,3 +4203,4 @@
 - **May 29, 11:47 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 11:49 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 12:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 29, 12:18 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
