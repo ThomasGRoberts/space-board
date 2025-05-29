@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
-    "trigger_count": 2,
-    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+    "trigger_count": 3,
+    "current_item_id": "a88d149c5e3f9a11fd105f63b6f9d303",
     "data": [
         {
             "id": "93b0e8648f0264dd6dd6c1236114dcba",
@@ -9618,17 +9618,17 @@
             ]
         },
         {
-            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+            "id": "a88d149c5e3f9a11fd105f63b6f9d303",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 2D Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2d55",
+            "text": "SpaceX Will Launch GPS Satellites for the U.S. Space Force",
+            "source_link": "https://www.supercluster.com/launches/gps-iii-sv08",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-05-29T04:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-05-29T05:09:40.701103Z",
+            "target_datetime": "2025-05-30T17:23:00.000Z",
+            "time_remaining": "1d 12h 10m",
+            "fetched_datetime": "2025-05-29T05:12:03.039142Z",
             "shown_at": [
-                "2025-05-29T05:09:41.822106Z"
+                "2025-05-29T05:12:03.774713Z"
             ]
         }
     ]
