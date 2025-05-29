@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 27 | 44 |
+| spacenews | 9 | 17 | 28 | 45 |
 | nyt | 2 | 7 | 23 | 39 |
 | breaking_defense | 1 | 2 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4265,3 +4265,4 @@
 - **May 29, 05:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 29, 06:05 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **May 29, 06:25 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **May 29, 06:41 PM** - New report details China’s push to dominate artificial intelligence (spacenews)
