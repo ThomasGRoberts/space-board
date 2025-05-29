@@ -6,7 +6,7 @@
 | nyt | 4 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4142,3 +4142,4 @@
 - **May 29, 05:34 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 29, 05:47 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 29, 06:02 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 06:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
