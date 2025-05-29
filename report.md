@@ -6,7 +6,7 @@
 | nyt | 2 | 7 | 22 | 39 |
 | breaking_defense | 1 | 2 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4269,3 +4269,4 @@
 - **May 29, 06:55 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **May 29, 07:09 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 07:12 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 07:13 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
