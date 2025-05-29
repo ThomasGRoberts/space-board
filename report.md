@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 20 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -4214,3 +4214,4 @@
 - **May 29, 12:47 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 01:02 PM** - Maxar Intelligence taps tech veteran to lead commercial business (spacenews)
 - **May 29, 01:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **May 29, 01:31 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
