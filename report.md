@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4163,3 +4163,4 @@
 - **May 29, 07:49 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **May 29, 08:03 AM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
 - **May 29, 08:17 AM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
+- **May 29, 08:32 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
