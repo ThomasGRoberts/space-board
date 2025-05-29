@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 25 | 45 |
-| nyt | 2 | 6 | 20 | 37 |
+| spacenews | 8 | 18 | 25 | 44 |
+| nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 20 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -4182,3 +4182,4 @@
 - **May 29, 09:39 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 09:41 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 09:55 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
+- **May 29, 10:09 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
