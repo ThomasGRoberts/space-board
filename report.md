@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 23 | 42 |
 | nyt | 4 | 6 | 22 | 38 |
-| breaking_defense | 0 | 1 | 19 | 35 |
+| breaking_defense | 0 | 1 | 20 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -4148,3 +4148,4 @@
 - **May 29, 06:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 06:13 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 06:15 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 06:17 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
