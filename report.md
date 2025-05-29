@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 26 | 44 |
+| spacenews | 8 | 18 | 27 | 45 |
 | nyt | 2 | 6 | 22 | 37 |
 | breaking_defense | 0 | 1 | 21 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4232,3 +4232,4 @@
 - **May 29, 02:41 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 02:43 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 02:45 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 29, 02:59 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
