@@ -6,7 +6,7 @@
 | nyt | 1 | 6 | 22 | 39 |
 | breaking_defense | 1 | 2 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4255,3 +4255,4 @@
 - **May 29, 04:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 05:07 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
 - **May 29, 05:21 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
+- **May 29, 05:35 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
