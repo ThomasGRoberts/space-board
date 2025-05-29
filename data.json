@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34d50720efd7d30f304eb6937aed1608",
+    "trigger_count": 0,
+    "current_item_id": "509c9b37c5e10a12e35a6cd5fb17a657",
     "data": [
         {
             "id": "93b0e8648f0264dd6dd6c1236114dcba",
@@ -9666,6 +9666,18 @@
             "fetched_datetime": "2025-05-29T07:49:26.149256Z",
             "shown_at": [
                 "2025-05-29T07:49:26.869789Z"
+            ]
+        },
+        {
+            "id": "509c9b37c5e10a12e35a6cd5fb17a657",
+            "source": "spacenews",
+            "text": "NASA switches to backup propellant line on Psyche spacecraft",
+            "source_link": "https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-29T08:03:41.845565Z",
+            "shown_at": [
+                "2025-05-29T08:03:42.564433Z"
             ]
         }
     ]

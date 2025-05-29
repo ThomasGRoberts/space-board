@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 44 |
+| spacenews | 9 | 18 | 26 | 45 |
 | nyt | 2 | 6 | 20 | 37 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4161,3 +4161,4 @@
 - **May 29, 07:18 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 07:36 AM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
 - **May 29, 07:49 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
+- **May 29, 08:03 AM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
