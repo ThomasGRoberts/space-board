@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -4174,3 +4174,4 @@
 - **May 29, 09:00 AM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 29, 09:13 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 29, 09:27 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 09:29 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
