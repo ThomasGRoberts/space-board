@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+    "trigger_count": 0,
+    "current_item_id": "63549e7f8914fa0ed54082d013d72576",
     "data": [
         {
             "id": "93b0e8648f0264dd6dd6c1236114dcba",
@@ -9699,6 +9699,18 @@
             "fetched_datetime": "2025-05-29T08:03:41.845565Z",
             "shown_at": [
                 "2025-05-29T08:03:42.564433Z"
+            ]
+        },
+        {
+            "id": "63549e7f8914fa0ed54082d013d72576",
+            "source": "spacenews",
+            "text": "Chinese launch startup conducts vertical takeoff and splashdown test",
+            "source_link": "https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-29T10:23:38.847663Z",
+            "shown_at": [
+                "2025-05-29T10:23:39.889796Z"
             ]
         }
     ]
