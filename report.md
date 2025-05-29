@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 26 | 44 |
+| spacenews | 8 | 17 | 27 | 45 |
 | nyt | 1 | 6 | 22 | 37 |
 | breaking_defense | 0 | 1 | 22 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4242,3 +4242,4 @@
 - **May 29, 03:37 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 03:39 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 03:41 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 29, 03:55 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
