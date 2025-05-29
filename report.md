@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 43 |
+| spacenews | 8 | 16 | 23 | 44 |
 | supercluster | 1 | 1 | 42 | 42 |
 | nyt | 4 | 6 | 20 | 39 |
 | breaking_defense | 0 | 1 | 18 | 37 |
@@ -4174,3 +4174,4 @@
 - **May 29, 03:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 03:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 03:35 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
+- **May 29, 03:49 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
