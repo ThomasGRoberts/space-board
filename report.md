@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 20 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4204,3 +4204,4 @@
 - **May 29, 11:49 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 12:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **May 29, 12:18 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
+- **May 29, 12:32 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
