@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 42 |
 | nyt | 2 | 6 | 21 | 38 |
-| breaking_defense | 0 | 1 | 19 | 35 |
+| breaking_defense | 0 | 1 | 20 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -4158,3 +4158,4 @@
 - **May 29, 07:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 07:13 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 07:15 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 07:18 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
