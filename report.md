@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 27 | 43 |
+| spacenews | 9 | 15 | 28 | 44 |
 | nyt | 2 | 8 | 23 | 41 |
 | breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4277,3 +4277,4 @@
 - **May 29, 07:23 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 07:37 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 29, 07:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
+- **May 29, 08:05 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
