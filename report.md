@@ -6,7 +6,7 @@
 | nyt | 2 | 8 | 22 | 40 |
 | breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4280,3 +4280,4 @@
 - **May 29, 08:05 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 29, 08:19 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 08:21 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 08:23 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
