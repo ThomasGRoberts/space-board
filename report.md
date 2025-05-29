@@ -6,7 +6,7 @@
 | nyt | 2 | 8 | 22 | 40 |
 | breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -4278,3 +4278,4 @@
 - **May 29, 07:37 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 29, 07:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 29, 08:05 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
+- **May 29, 08:19 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
