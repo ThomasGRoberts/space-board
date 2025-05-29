@@ -1,9 +1,222 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-28T00:02:08.393790+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
+    "trigger_count": 6,
     "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
     "data": [
+        {
+            "id": "93b0e8648f0264dd6dd6c1236114dcba",
+            "source": "spacenews",
+            "text": "SpaceX to launch another GPS III satellite in record turnaround ",
+            "source_link": "https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T23:35:28.282017Z",
+            "shown_at": [
+                "2025-05-28T23:35:28.793166Z"
+            ]
+        },
+        {
+            "id": "87e47fa4e83de8d4bddc84537b49b637",
+            "source": "spacenews",
+            "text": "Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications",
+            "source_link": "https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T23:21:40.358214Z",
+            "shown_at": [
+                "2025-05-28T23:21:40.988256Z"
+            ]
+        },
+        {
+            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 2D Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2d55",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-29T04:10:00.000Z",
+            "time_remaining": "0d 04h 06m",
+            "fetched_datetime": "2025-05-28T20:32:05.553902Z",
+            "shown_at": [
+                "2025-05-28T20:32:06.571758Z",
+                "2025-05-28T20:33:29.115773Z",
+                "2025-05-28T20:35:03.131187Z",
+                "2025-05-28T20:37:38.696445Z",
+                "2025-05-28T20:39:31.249487Z",
+                "2025-05-28T20:41:36.179453Z",
+                "2025-05-28T20:43:22.829823Z",
+                "2025-05-28T21:29:51.243838Z",
+                "2025-05-28T21:31:53.063953Z",
+                "2025-05-28T21:33:27.423728Z",
+                "2025-05-28T21:35:28.706141Z",
+                "2025-05-28T21:37:37.206765Z",
+                "2025-05-28T21:39:39.402202Z",
+                "2025-05-28T21:41:49.934031Z",
+                "2025-05-28T23:49:41.939295Z",
+                "2025-05-28T23:51:28.434376Z",
+                "2025-05-28T23:53:40.155260Z",
+                "2025-05-28T23:55:29.231615Z",
+                "2025-05-28T23:58:02.938620Z",
+                "2025-05-28T23:59:24.429646Z",
+                "2025-05-29T00:03:04.996593Z"
+            ]
+        },
+        {
+            "id": "cbe3ca08a8374ebf56e562518313452c",
+            "source": "nyt",
+            "text": "China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid",
+            "source_link": "https://www.nytimes.com/2025/05/28/science/china-asteroid-tianwen-2.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T19:19:08.724668Z",
+            "shown_at": [
+                "2025-05-28T19:19:09.299448Z"
+            ]
+        },
+        {
+            "id": "258ae8ebda1bce171ac3137886e260c4",
+            "source": "spacenews",
+            "text": "China launches Tianwen-2 mission to sample near Earth asteroid",
+            "source_link": "https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T19:05:34.350730Z",
+            "shown_at": [
+                "2025-05-28T19:05:35.464370Z",
+                "2025-05-28T22:53:39.659326Z"
+            ]
+        },
+        {
+            "id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+            "source": "nyt",
+            "text": "China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid",
+            "source_link": "https://www.nytimes.com/2025/05/28/science/china-asteroid-tianwen-2.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T15:12:15.935313Z",
+            "shown_at": [
+                "2025-05-28T15:12:16.902451Z",
+                "2025-05-28T17:11:46.962605Z",
+                "2025-05-28T21:15:35.948992Z",
+                "2025-05-28T22:11:37.202561Z",
+                "2025-05-28T23:07:30.310736Z"
+            ]
+        },
+        {
+            "id": "75fca993328155a218ccf4d3fd82afc8",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Earth Observation Satellites for BlackSky",
+            "source_link": "https://www.supercluster.com/launches/full-stream-ahead",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-29T01:15:00.000Z",
+            "time_remaining": "0d 02h 37m",
+            "fetched_datetime": "2025-05-28T14:32:01.298096Z",
+            "shown_at": [
+                "2025-05-28T14:32:01.998580Z",
+                "2025-05-28T16:41:53.092113Z",
+                "2025-05-28T16:43:36.414210Z",
+                "2025-05-28T16:45:39.234620Z",
+                "2025-05-28T16:47:09.435530Z",
+                "2025-05-28T16:49:28.399077Z",
+                "2025-05-28T16:51:32.062343Z",
+                "2025-05-28T16:53:26.960589Z",
+                "2025-05-28T18:31:51.762021Z",
+                "2025-05-28T18:33:28.419889Z",
+                "2025-05-28T19:33:43.937994Z",
+                "2025-05-28T19:35:43.137012Z",
+                "2025-05-28T19:37:57.510259Z",
+                "2025-05-28T19:39:50.372008Z",
+                "2025-05-28T19:41:36.923245Z",
+                "2025-05-28T19:43:39.661088Z",
+                "2025-05-28T19:45:35.780870Z",
+                "2025-05-28T22:25:42.507127Z",
+                "2025-05-28T22:27:30.399422Z",
+                "2025-05-28T22:29:24.916417Z",
+                "2025-05-28T22:31:41.583725Z",
+                "2025-05-28T22:33:38.798017Z",
+                "2025-05-28T22:35:25.063275Z",
+                "2025-05-28T22:37:28.813007Z"
+            ]
+        },
+        {
+            "id": "06ac11b8ed97930fdaa8981cc5ffea6a",
+            "source": "spacenews",
+            "text": "Overcoming conservatism in the autonomous space revolution",
+            "source_link": "https://spacenews.com/overcoming-conservatism-in-the-autonomous-space-revolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T13:01:59.392518Z",
+            "shown_at": [
+                "2025-05-28T13:01:59.859480Z"
+            ]
+        },
+        {
+            "id": "4ed1a4998dba43e5157661acdf47c5a8",
+            "source": "spacenews",
+            "text": "Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations",
+            "source_link": "https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T12:33:27.962597Z",
+            "shown_at": [
+                "2025-05-28T12:33:28.573321Z",
+                "2025-05-28T16:27:41.607251Z"
+            ]
+        },
+        {
+            "id": "3a8cc7519fd954f6172c35d506d96182",
+            "source": "spacenews",
+            "text": "Apex announces Comet satellite bus for constellations",
+            "source_link": "https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T08:45:40.291260Z",
+            "shown_at": [
+                "2025-05-28T08:45:40.967468Z"
+            ]
+        },
+        {
+            "id": "f11600bb287bc71564b51960ca0dd748",
+            "source": "nyt",
+            "text": "Manhattanhenge Is Back for 2025: When, Where and How to Watch",
+            "source_link": "https://www.nytimes.com/article/manhattanhenge-2025-time-how-to-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:21:43.256922Z",
+            "shown_at": [
+                "2025-05-28T06:35:54.106664Z",
+                "2025-05-28T07:39:31.020205Z",
+                "2025-05-28T16:14:03.196956Z",
+                "2025-05-28T20:17:26.239675Z"
+            ]
+        },
+        {
+            "id": "f05646b67f730049dc1e41a147104422",
+            "source": "nyt",
+            "text": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
+            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:21:43.256483Z",
+            "shown_at": [
+                "2025-05-28T06:21:43.841417Z",
+                "2025-05-28T12:17:39.858744Z"
+            ]
+        },
+        {
+            "id": "86393ccfed8d6f9e11ffaaaddd0277df",
+            "source": "spacenews",
+            "text": "Starship breaks up on reentry after loss of attitude control",
+            "source_link": "https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-28T06:07:23.300745Z",
+            "shown_at": [
+                "2025-05-28T06:07:23.870416Z"
+            ]
+        },
         {
             "id": "fd18641e4b205a503757b1103039301d",
             "source": "nyt",
@@ -9450,503 +9663,6 @@
                 "2025-04-02T07:07:28.906091Z",
                 "2025-04-02T21:19:31.383374Z",
                 "2025-04-03T00:53:13.231913Z"
-            ]
-        },
-        {
-            "id": "bdd49d819b1705e530ba37e84fbd5dd9",
-            "source": "spacenews",
-            "text": "China launches new Tianlian data relay satellite to support human spaceflight",
-            "source_link": "https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T23:13:35.924228Z",
-            "shown_at": [
-                "2025-03-26T23:27:29.485079Z",
-                "2025-03-28T04:41:38.714319Z",
-                "2025-03-29T20:07:12.835078Z",
-                "2025-03-30T03:11:59.602659Z",
-                "2025-03-31T05:19:48.752442Z",
-                "2025-04-01T00:37:55.958913Z",
-                "2025-04-02T19:13:54.573203Z"
-            ]
-        },
-        {
-            "id": "fea46bb2e965e4ed743c4e76f2cd1546",
-            "source": "spacenews",
-            "text": "U.S. military prepares to award new commercial satcom deals",
-            "source_link": "https://spacenews.com/u-s-military-prepares-to-award-new-commercial-satcom-deals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T23:13:35.924150Z",
-            "shown_at": [
-                "2025-03-26T23:13:36.982049Z",
-                "2025-03-27T01:49:37.703035Z",
-                "2025-03-27T03:02:15.601999Z",
-                "2025-03-31T14:03:41.632853Z",
-                "2025-04-02T14:21:42.422322Z",
-                "2025-04-02T17:57:56.833432Z"
-            ]
-        },
-        {
-            "id": "d3cc03215a7d2252aec006f0e56f318b",
-            "source": "nyt",
-            "text": "NASA’s Webb Telescope Spots Auroras on Neptune for the First Time",
-            "source_link": "https://www.nytimes.com/2025/03/26/science/neptune-aurora-nasa-webb-telescope.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T21:45:35.568755Z",
-            "shown_at": [
-                "2025-03-26T21:45:36.122730Z",
-                "2025-03-27T14:29:52.963517Z",
-                "2025-03-27T18:17:46.669678Z",
-                "2025-03-27T21:07:39.234599Z",
-                "2025-03-27T22:32:02.984210Z",
-                "2025-03-27T23:42:05.006827Z",
-                "2025-03-28T00:55:39.969710Z",
-                "2025-03-28T17:47:33.965079Z",
-                "2025-03-28T21:33:47.972419Z",
-                "2025-03-29T08:05:28.411735Z",
-                "2025-03-29T09:15:24.454114Z",
-                "2025-03-29T23:13:36.109037Z",
-                "2025-03-30T10:19:35.987109Z",
-                "2025-03-30T16:29:42.429453Z",
-                "2025-03-30T21:11:38.894177Z",
-                "2025-03-30T23:49:11.980724Z",
-                "2025-03-31T01:02:21.155305Z",
-                "2025-03-31T02:15:33.278418Z",
-                "2025-03-31T04:37:50.472080Z",
-                "2025-03-31T18:29:56.561300Z",
-                "2025-03-31T21:05:40.630234Z",
-                "2025-03-31T22:29:30.460136Z",
-                "2025-04-01T03:03:30.721581Z",
-                "2025-04-01T05:17:42.201500Z",
-                "2025-04-01T07:53:44.838357Z",
-                "2025-04-01T21:55:45.590316Z",
-                "2025-04-02T08:19:57.894420Z"
-            ]
-        },
-        {
-            "id": "25f6ccec45861e0ac389e19512fa448e",
-            "source": "spacenews",
-            "text": "Space Force budget squeeze: Saltzman worries about keeping pace with China amid cuts",
-            "source_link": "https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T19:19:35.557497Z",
-            "shown_at": [
-                "2025-03-26T19:33:29.411283Z",
-                "2025-03-28T09:41:49.180054Z",
-                "2025-03-28T16:47:34.986883Z",
-                "2025-03-30T00:41:46.938076Z",
-                "2025-04-02T07:49:48.532946Z"
-            ]
-        },
-        {
-            "id": "dec470503c081910b22e9640c885d238",
-            "source": "spacenews",
-            "text": "Space Force certifies Vulcan for national security launches",
-            "source_link": "https://spacenews.com/space-force-certifies-vulcan-for-national-security-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T19:19:35.557447Z",
-            "shown_at": [
-                "2025-03-26T19:19:36.103879Z",
-                "2025-03-28T15:33:39.607034Z",
-                "2025-04-01T08:07:37.472526Z"
-            ]
-        },
-        {
-            "id": "6e152db8f36737257aafc268479c7c04",
-            "source": "spacenews",
-            "text": "Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts",
-            "source_link": "https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T19:05:34.794168Z",
-            "shown_at": [
-                "2025-03-26T19:05:35.319833Z",
-                "2025-03-27T06:53:42.474622Z",
-                "2025-03-27T13:47:42.986845Z",
-                "2025-03-27T15:07:29.570183Z",
-                "2025-03-29T13:09:49.226170Z",
-                "2025-03-30T09:23:39.292143Z"
-            ]
-        },
-        {
-            "id": "e68fcaf71dd68ec2b329dbca5c240ef2",
-            "source": "breaking_defense",
-            "text": "ULA’s Vulcan rocket certified for national security launches",
-            "source_link": "https://breakingdefense.com/2025/03/ulas-vulcan-rocket-certified-for-national-security-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T18:51:40.966988Z",
-            "shown_at": [
-                "2025-03-26T18:51:41.446743Z",
-                "2025-03-27T06:11:35.800471Z",
-                "2025-03-27T13:05:42.978909Z",
-                "2025-03-27T16:53:28.746798Z",
-                "2025-03-27T22:17:33.837988Z",
-                "2025-03-28T06:07:30.104808Z",
-                "2025-03-28T18:43:39.109939Z",
-                "2025-03-28T21:05:09.901435Z",
-                "2025-03-29T04:19:35.494609Z",
-                "2025-03-30T08:23:27.192841Z",
-                "2025-03-30T21:25:33.627345Z",
-                "2025-03-31T00:03:29.530926Z",
-                "2025-03-31T02:29:43.635529Z",
-                "2025-03-31T07:17:53.261647Z",
-                "2025-04-01T06:55:35.766259Z",
-                "2025-04-01T16:09:50.239486Z",
-                "2025-04-01T18:35:28.567415Z",
-                "2025-04-02T03:49:13.844867Z",
-                "2025-04-02T11:17:11.822853Z"
-            ]
-        },
-        {
-            "id": "c033cebf911bbb65a120e22bda835949",
-            "source": "breaking_defense",
-            "text": "New ‘Space Warfighting Framework’ coming to codify Space Force concepts, terms",
-            "source_link": "https://breakingdefense.com/2025/03/new-space-warfighting-framework-coming-to-codify-space-force-concepts-terms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T18:23:28.814943Z",
-            "shown_at": [
-                "2025-03-26T18:23:29.332966Z",
-                "2025-03-27T01:21:45.650007Z",
-                "2025-03-27T20:53:45.165410Z",
-                "2025-03-28T04:55:11.538719Z",
-                "2025-03-28T17:33:43.398598Z",
-                "2025-03-28T23:25:08.481258Z",
-                "2025-03-29T10:13:43.557397Z",
-                "2025-03-29T13:23:55.775888Z",
-                "2025-03-29T15:49:33.941501Z",
-                "2025-03-29T23:55:46.396105Z",
-                "2025-03-30T01:11:48.553962Z",
-                "2025-03-30T02:23:39.686532Z",
-                "2025-03-30T07:13:38.797560Z",
-                "2025-03-30T09:37:37.084798Z",
-                "2025-03-30T10:47:32.836768Z",
-                "2025-03-30T14:21:13.090665Z",
-                "2025-03-31T01:19:34.899401Z",
-                "2025-03-31T11:15:39.374012Z",
-                "2025-03-31T12:39:36.483065Z",
-                "2025-03-31T14:59:49.358651Z",
-                "2025-03-31T22:43:08.926022Z",
-                "2025-04-01T13:13:57.241629Z",
-                "2025-04-01T17:19:47.429538Z",
-                "2025-04-01T19:49:32.787053Z",
-                "2025-04-01T20:59:28.848688Z",
-                "2025-04-02T07:22:03.309561Z",
-                "2025-04-02T13:51:46.865187Z",
-                "2025-04-02T16:15:32.730959Z",
-                "2025-04-02T17:29:40.879074Z"
-            ]
-        },
-        {
-            "id": "c38d92409e4471adf2356b63f399e513",
-            "source": "spacenews",
-            "text": "Rocket Lab launches eight OroraTech satellites",
-            "source_link": "https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T18:09:30.016777Z",
-            "shown_at": [
-                "2025-03-26T18:09:30.692522Z",
-                "2025-04-01T14:43:47.864430Z",
-                "2025-04-02T00:03:26.296450Z"
-            ]
-        },
-        {
-            "id": "9d2b5c369e151e0bb7f91a163570d25c",
-            "source": "spacenews",
-            "text": "Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities",
-            "source_link": "https://spacenews.com/critical-software-announces-strategic-investment-in-turion-space-to-strengthen-new-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T16:59:48.769422Z",
-            "shown_at": [
-                "2025-03-26T16:59:49.666263Z",
-                "2025-03-27T05:41:43.477951Z",
-                "2025-03-27T09:31:47.850946Z",
-                "2025-03-30T23:21:36.925579Z"
-            ]
-        },
-        {
-            "id": "cbab93c0697ec250e16230b311130603",
-            "source": "breaking_defense",
-            "text": "Space Force ‘transitioning’ SATCOM contracts from DISA",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-transitioning-satcom-contracts-from-disa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T15:05:52.803967Z",
-            "shown_at": [
-                "2025-03-26T15:05:53.860088Z",
-                "2025-03-26T21:59:31.217170Z",
-                "2025-03-27T04:57:26.624594Z",
-                "2025-03-27T15:36:07.503364Z",
-                "2025-03-28T07:37:22.553276Z",
-                "2025-03-29T00:49:51.767416Z",
-                "2025-03-29T09:02:05.327664Z",
-                "2025-03-29T11:25:40.468264Z",
-                "2025-03-29T21:35:36.377681Z",
-                "2025-03-29T22:45:32.727843Z",
-                "2025-03-30T04:49:41.010775Z",
-                "2025-03-30T15:33:30.713224Z",
-                "2025-03-30T22:53:32.527487Z",
-                "2025-03-31T10:01:57.975749Z",
-                "2025-03-31T16:23:36.978277Z",
-                "2025-03-31T21:19:39.768731Z",
-                "2025-04-02T02:39:08.002333Z",
-                "2025-04-02T04:59:27.974701Z",
-                "2025-04-02T08:33:49.908404Z",
-                "2025-04-02T09:49:31.156677Z",
-                "2025-04-02T12:27:10.002478Z"
-            ]
-        },
-        {
-            "id": "15708b7c0e8ad50be4b9645ecdf7b6db",
-            "source": "spacenews",
-            "text": "Moog Ships Meteor Satellite Buses for National Security Space Mission",
-            "source_link": "https://spacenews.com/moog-ships-meteor-satellite-buses-for-national-security-space-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T14:50:07.000679Z",
-            "shown_at": [
-                "2025-03-26T14:50:07.576504Z",
-                "2025-03-29T07:37:35.232750Z",
-                "2025-03-31T01:47:47.439267Z",
-                "2025-03-31T06:31:46.796951Z",
-                "2025-04-02T01:13:45.801039Z"
-            ]
-        },
-        {
-            "id": "3a541cde20a8e3398075328b5b62abe7",
-            "source": "spacenews",
-            "text": "Gravitics wins SpaceWERX award for tactically responsive space system",
-            "source_link": "https://spacenews.com/gravitics-wins-spacewerx-award-for-tactically-responsive-space-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-26T13:18:52.639209Z",
-            "shown_at": [
-                "2025-03-26T13:18:53.195811Z",
-                "2025-03-28T05:51:42.309981Z",
-                "2025-03-28T20:23:49.883345Z",
-                "2025-03-29T08:47:58.023932Z",
-                "2025-03-31T02:57:54.962839Z",
-                "2025-04-01T13:32:23.549819Z",
-                "2025-04-01T22:51:43.676752Z"
-            ]
-        },
-        {
-            "id": "86393ccfed8d6f9e11ffaaaddd0277df",
-            "source": "spacenews",
-            "text": "Starship breaks up on reentry after loss of attitude control",
-            "source_link": "https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T06:07:23.300745Z",
-            "shown_at": [
-                "2025-05-28T06:07:23.870416Z"
-            ]
-        },
-        {
-            "id": "f05646b67f730049dc1e41a147104422",
-            "source": "nyt",
-            "text": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
-            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T06:21:43.256483Z",
-            "shown_at": [
-                "2025-05-28T06:21:43.841417Z",
-                "2025-05-28T12:17:39.858744Z"
-            ]
-        },
-        {
-            "id": "f11600bb287bc71564b51960ca0dd748",
-            "source": "nyt",
-            "text": "Manhattanhenge Is Back for 2025: When, Where and How to Watch",
-            "source_link": "https://www.nytimes.com/article/manhattanhenge-2025-time-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T06:21:43.256922Z",
-            "shown_at": [
-                "2025-05-28T06:35:54.106664Z",
-                "2025-05-28T07:39:31.020205Z",
-                "2025-05-28T16:14:03.196956Z",
-                "2025-05-28T20:17:26.239675Z"
-            ]
-        },
-        {
-            "id": "3a8cc7519fd954f6172c35d506d96182",
-            "source": "spacenews",
-            "text": "Apex announces Comet satellite bus for constellations",
-            "source_link": "https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T08:45:40.291260Z",
-            "shown_at": [
-                "2025-05-28T08:45:40.967468Z"
-            ]
-        },
-        {
-            "id": "4ed1a4998dba43e5157661acdf47c5a8",
-            "source": "spacenews",
-            "text": "Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations",
-            "source_link": "https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T12:33:27.962597Z",
-            "shown_at": [
-                "2025-05-28T12:33:28.573321Z",
-                "2025-05-28T16:27:41.607251Z"
-            ]
-        },
-        {
-            "id": "06ac11b8ed97930fdaa8981cc5ffea6a",
-            "source": "spacenews",
-            "text": "Overcoming conservatism in the autonomous space revolution",
-            "source_link": "https://spacenews.com/overcoming-conservatism-in-the-autonomous-space-revolution/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T13:01:59.392518Z",
-            "shown_at": [
-                "2025-05-28T13:01:59.859480Z"
-            ]
-        },
-        {
-            "id": "75fca993328155a218ccf4d3fd82afc8",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Earth Observation Satellites for BlackSky",
-            "source_link": "https://www.supercluster.com/launches/full-stream-ahead",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-29T01:15:00.000Z",
-            "time_remaining": "0d 02h 37m",
-            "fetched_datetime": "2025-05-28T14:32:01.298096Z",
-            "shown_at": [
-                "2025-05-28T14:32:01.998580Z",
-                "2025-05-28T16:41:53.092113Z",
-                "2025-05-28T16:43:36.414210Z",
-                "2025-05-28T16:45:39.234620Z",
-                "2025-05-28T16:47:09.435530Z",
-                "2025-05-28T16:49:28.399077Z",
-                "2025-05-28T16:51:32.062343Z",
-                "2025-05-28T16:53:26.960589Z",
-                "2025-05-28T18:31:51.762021Z",
-                "2025-05-28T18:33:28.419889Z",
-                "2025-05-28T19:33:43.937994Z",
-                "2025-05-28T19:35:43.137012Z",
-                "2025-05-28T19:37:57.510259Z",
-                "2025-05-28T19:39:50.372008Z",
-                "2025-05-28T19:41:36.923245Z",
-                "2025-05-28T19:43:39.661088Z",
-                "2025-05-28T19:45:35.780870Z",
-                "2025-05-28T22:25:42.507127Z",
-                "2025-05-28T22:27:30.399422Z",
-                "2025-05-28T22:29:24.916417Z",
-                "2025-05-28T22:31:41.583725Z",
-                "2025-05-28T22:33:38.798017Z",
-                "2025-05-28T22:35:25.063275Z",
-                "2025-05-28T22:37:28.813007Z"
-            ]
-        },
-        {
-            "id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
-            "source": "nyt",
-            "text": "China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid",
-            "source_link": "https://www.nytimes.com/2025/05/28/science/china-asteroid-tianwen-2.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T15:12:15.935313Z",
-            "shown_at": [
-                "2025-05-28T15:12:16.902451Z",
-                "2025-05-28T17:11:46.962605Z",
-                "2025-05-28T21:15:35.948992Z",
-                "2025-05-28T22:11:37.202561Z",
-                "2025-05-28T23:07:30.310736Z"
-            ]
-        },
-        {
-            "id": "258ae8ebda1bce171ac3137886e260c4",
-            "source": "spacenews",
-            "text": "China launches Tianwen-2 mission to sample near Earth asteroid",
-            "source_link": "https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T19:05:34.350730Z",
-            "shown_at": [
-                "2025-05-28T19:05:35.464370Z",
-                "2025-05-28T22:53:39.659326Z"
-            ]
-        },
-        {
-            "id": "cbe3ca08a8374ebf56e562518313452c",
-            "source": "nyt",
-            "text": "China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid",
-            "source_link": "https://www.nytimes.com/2025/05/28/science/china-asteroid-tianwen-2.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T19:19:08.724668Z",
-            "shown_at": [
-                "2025-05-28T19:19:09.299448Z"
-            ]
-        },
-        {
-            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 2D Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2d55",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-29T04:10:00.000Z",
-            "time_remaining": "0d 04h 10m",
-            "fetched_datetime": "2025-05-28T20:32:05.553902Z",
-            "shown_at": [
-                "2025-05-28T20:32:06.571758Z",
-                "2025-05-28T20:33:29.115773Z",
-                "2025-05-28T20:35:03.131187Z",
-                "2025-05-28T20:37:38.696445Z",
-                "2025-05-28T20:39:31.249487Z",
-                "2025-05-28T20:41:36.179453Z",
-                "2025-05-28T20:43:22.829823Z",
-                "2025-05-28T21:29:51.243838Z",
-                "2025-05-28T21:31:53.063953Z",
-                "2025-05-28T21:33:27.423728Z",
-                "2025-05-28T21:35:28.706141Z",
-                "2025-05-28T21:37:37.206765Z",
-                "2025-05-28T21:39:39.402202Z",
-                "2025-05-28T21:41:49.934031Z",
-                "2025-05-28T23:49:41.939295Z",
-                "2025-05-28T23:51:28.434376Z",
-                "2025-05-28T23:53:40.155260Z",
-                "2025-05-28T23:55:29.231615Z",
-                "2025-05-28T23:58:02.938620Z",
-                "2025-05-28T23:59:24.429646Z"
-            ]
-        },
-        {
-            "id": "87e47fa4e83de8d4bddc84537b49b637",
-            "source": "spacenews",
-            "text": "Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications",
-            "source_link": "https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T23:21:40.358214Z",
-            "shown_at": [
-                "2025-05-28T23:21:40.988256Z"
-            ]
-        },
-        {
-            "id": "93b0e8648f0264dd6dd6c1236114dcba",
-            "source": "spacenews",
-            "text": "SpaceX to launch another GPS III satellite in record turnaround ",
-            "source_link": "https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T23:35:28.282017Z",
-            "shown_at": [
-                "2025-05-28T23:35:28.793166Z"
             ]
         }
     ]
