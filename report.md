@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 19 | 43 |
+| spacenews | 8 | 16 | 20 | 44 |
 | supercluster | 2 | 2 | 45 | 45 |
 | nyt | 4 | 6 | 17 | 39 |
-| breaking_defense | 0 | 1 | 15 | 37 |
+| breaking_defense | 0 | 1 | 15 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4168,3 +4168,4 @@
 - **May 28, 11:59 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 12:03 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 12:05 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
+- **May 29, 12:25 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)

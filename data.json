@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-29T00:03:03.957966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49d9e0ac43a21e9703f22c6e8efe5af3",
+    "trigger_count": 0,
+    "current_item_id": "3d0b6776659994da1fabe0d83c1f11b8",
     "data": [
         {
             "id": "93b0e8648f0264dd6dd6c1236114dcba",
@@ -9664,6 +9664,18 @@
                 "2025-04-02T07:07:28.906091Z",
                 "2025-04-02T21:19:31.383374Z",
                 "2025-04-03T00:53:13.231913Z"
+            ]
+        },
+        {
+            "id": "3d0b6776659994da1fabe0d83c1f11b8",
+            "source": "spacenews",
+            "text": "Space Force orders two more GPS IIIF satellites for $509.7 million",
+            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-29T00:25:51.883573Z",
+            "shown_at": [
+                "2025-05-29T00:25:52.862197Z"
             ]
         }
     ]
