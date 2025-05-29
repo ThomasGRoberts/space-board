@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 19 | 43 |
 | supercluster | 2 | 2 | 45 | 45 |
 | nyt | 4 | 6 | 17 | 39 |
-| breaking_defense | 0 | 1 | 14 | 36 |
+| breaking_defense | 0 | 1 | 15 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4167,3 +4167,4 @@
 - **May 28, 11:58 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 28, 11:59 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **May 29, 12:03 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **May 29, 12:05 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
