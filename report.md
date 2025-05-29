@@ -6,7 +6,7 @@
 | nyt | 4 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 18 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4135,3 +4135,4 @@
 - **May 29, 03:49 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **May 29, 04:05 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 29, 05:12 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 05:13 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
