@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 25 | 45 |
-| nyt | 2 | 6 | 20 | 37 |
+| spacenews | 8 | 18 | 25 | 44 |
+| nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 20 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
@@ -4172,3 +4172,4 @@
 - **May 29, 08:43 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 08:45 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 29, 09:00 AM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
+- **May 29, 09:13 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
