@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 27 | 44 |
-| nyt | 2 | 6 | 22 | 37 |
+| nyt | 1 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 21 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 67 | 67 |
@@ -4233,3 +4233,4 @@
 - **May 29, 02:43 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 02:45 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 02:59 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
+- **May 29, 03:13 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
