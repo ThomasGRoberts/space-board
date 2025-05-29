@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 20 | 44 |
-| supercluster | 2 | 2 | 45 | 45 |
+| spacenews | 8 | 16 | 20 | 43 |
+| supercluster | 2 | 2 | 46 | 46 |
 | nyt | 4 | 6 | 18 | 39 |
 | breaking_defense | 0 | 1 | 15 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4170,3 +4170,4 @@
 - **May 29, 12:05 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 12:25 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
 - **May 29, 12:39 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 29, 12:53 AM** - China Will Launch the Long March 2D Rocket (supercluster)
