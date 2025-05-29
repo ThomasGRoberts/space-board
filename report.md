@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 43 |
+| spacenews | 7 | 16 | 23 | 43 |
 | nyt | 4 | 6 | 22 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4143,3 +4143,4 @@
 - **May 29, 05:47 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 29, 06:02 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 06:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 06:07 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
