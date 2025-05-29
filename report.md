@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 28 | 44 |
-| nyt | 1 | 7 | 21 | 39 |
+| nyt | 1 | 7 | 22 | 40 |
 | breaking_defense | 1 | 2 | 23 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 95 | 95 |
@@ -4275,3 +4275,4 @@
 - **May 29, 07:19 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 07:21 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 07:23 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 29, 07:37 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
