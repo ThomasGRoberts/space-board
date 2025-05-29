@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 21 | 44 |
-| supercluster | 1 | 1 | 28 | 28 |
-| nyt | 4 | 6 | 19 | 40 |
+| supercluster | 1 | 1 | 29 | 29 |
+| nyt | 4 | 6 | 19 | 39 |
 | breaking_defense | 0 | 1 | 16 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4156,3 +4156,4 @@
 - **May 29, 01:09 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 29, 01:25 AM** - Impulse Space to launch SES satellites (spacenews)
 - **May 29, 01:41 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 29, 01:57 AM** - China Will Launch the Long March 2D Rocket (supercluster)
