@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 28 | 45 |
 | nyt | 2 | 6 | 22 | 39 |
-| breaking_defense | 1 | 1 | 22 | 37 |
+| breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -4311,3 +4311,4 @@
 - **May 29, 11:13 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 11:15 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 11:17 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 11:19 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
