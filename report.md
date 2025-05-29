@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 27 | 46 |
-| nyt | 2 | 6 | 22 | 39 |
+| nyt | 2 | 6 | 23 | 40 |
 | breaking_defense | 1 | 1 | 23 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 123 | 123 |
@@ -4317,3 +4317,4 @@
 - **May 29, 11:25 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 11:27 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 11:41 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
+- **May 29, 11:55 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
