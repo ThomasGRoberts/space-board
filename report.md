@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 26 | 44 |
-| nyt | 2 | 6 | 20 | 37 |
+| nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -4162,3 +4162,4 @@
 - **May 29, 07:36 AM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
 - **May 29, 07:49 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **May 29, 08:03 AM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
+- **May 29, 08:17 AM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
