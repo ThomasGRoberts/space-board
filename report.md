@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 28 | 44 |
+| spacenews | 10 | 16 | 29 | 45 |
 | nyt | 2 | 7 | 23 | 40 |
-| breaking_defense | 1 | 1 | 22 | 37 |
+| breaking_defense | 1 | 1 | 22 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 109 | 109 |
 
@@ -4297,3 +4297,4 @@
 - **May 29, 09:27 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 09:29 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 09:43 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 29, 09:57 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
