@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 26 | 45 |
+| spacenews | 8 | 18 | 25 | 45 |
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 20 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4205,3 +4205,4 @@
 - **May 29, 12:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **May 29, 12:18 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 29, 12:32 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 12:35 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
