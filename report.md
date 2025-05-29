@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 19 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4196,3 +4196,4 @@
 - **May 29, 11:19 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 29, 11:35 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 11:37 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 11:39 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
