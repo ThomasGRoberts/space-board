@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 26 | 45 |
 | nyt | 2 | 6 | 21 | 38 |
-| breaking_defense | 0 | 1 | 19 | 35 |
+| breaking_defense | 0 | 1 | 19 | 34 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -4184,3 +4184,4 @@
 - **May 29, 09:55 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 29, 10:09 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 29, 10:23 AM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
+- **May 29, 10:37 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
