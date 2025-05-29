@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 24 | 43 |
-| nyt | 4 | 6 | 21 | 38 |
+| nyt | 4 | 6 | 22 | 39 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -4140,3 +4140,4 @@
 - **May 29, 05:17 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 05:19 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 29, 05:34 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
+- **May 29, 05:47 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
