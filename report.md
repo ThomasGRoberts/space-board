@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 23 | 38 |
 | breaking_defense | 0 | 1 | 21 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4225,3 +4225,4 @@
 - **May 29, 02:03 PM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **May 29, 02:17 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 29, 02:31 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 02:33 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
