@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 43 |
-| nyt | 2 | 6 | 20 | 38 |
+| nyt | 2 | 6 | 21 | 39 |
 | breaking_defense | 0 | 1 | 20 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -4150,3 +4150,4 @@
 - **May 29, 06:15 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 06:17 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 29, 06:31 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
+- **May 29, 06:47 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
