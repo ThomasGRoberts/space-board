@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 28 | 44 |
+| spacenews | 11 | 16 | 29 | 45 |
 | nyt | 2 | 7 | 22 | 40 |
 | breaking_defense | 1 | 1 | 22 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4306,3 +4306,4 @@
 - **May 29, 10:25 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 10:27 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 29, 10:29 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 29, 10:43 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
