@@ -6,7 +6,7 @@
 | nyt | 2 | 6 | 21 | 38 |
 | breaking_defense | 0 | 1 | 19 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4152,3 +4152,4 @@
 - **May 29, 06:31 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
 - **May 29, 06:47 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 29, 07:03 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 29, 07:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
