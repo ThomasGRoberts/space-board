@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 26 | 51 |
 | nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 193 |
+| supercluster | 0 | 1 | 162 | 194 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4332,3 +4332,4 @@
 - **May 30, 09:13 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 09:29 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **May 30, 09:46 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **May 30, 09:59 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
