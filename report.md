@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 16 | 23 | 52 |
+| spacenews | 5 | 16 | 24 | 53 |
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 2 | 3 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4205,3 +4205,4 @@
 - **May 30, 10:42 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 10:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 10:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 30, 10:47 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
