@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a88d149c5e3f9a11fd105f63b6f9d303",
+    "trigger_count": 0,
+    "current_item_id": "c40b39288cb9f198bf3794eaed3f182a",
     "data": [
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
@@ -9854,6 +9854,18 @@
             "fetched_datetime": "2025-05-30T10:13:51.802537Z",
             "shown_at": [
                 "2025-05-30T10:13:52.888277Z"
+            ]
+        },
+        {
+            "id": "c40b39288cb9f198bf3794eaed3f182a",
+            "source": "spacenews",
+            "text": "University of Colorado, Boulder to announce new space policy center",
+            "source_link": "https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T11:09:40.146858Z",
+            "shown_at": [
+                "2025-05-30T11:09:41.170712Z"
             ]
         }
     ]

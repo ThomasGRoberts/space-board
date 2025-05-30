@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 26 | 51 |
-| nyt | 2 | 4 | 24 | 46 |
+| spacenews | 7 | 16 | 27 | 52 |
+| nyt | 2 | 4 | 24 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 207 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4349,3 +4349,4 @@
 - **May 30, 11:03 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 11:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 11:07 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 11:09 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
