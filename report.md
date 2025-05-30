@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4189,3 +4189,4 @@
 - **May 30, 09:08 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 09:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 09:23 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 30, 09:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
