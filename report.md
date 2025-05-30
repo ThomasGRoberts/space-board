@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 27 | 53 |
 | nyt | 2 | 3 | 25 | 47 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 0 | 1 | 162 | 243 |
+| supercluster | 0 | 1 | 163 | 244 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4404,3 +4404,4 @@
 - **May 30, 04:33 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 30, 04:47 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 30, 05:02 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 05:03 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
