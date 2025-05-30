@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 25 | 53 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 1 | 23 | 45 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 23 | 23 |
 
@@ -4195,3 +4195,4 @@
 - **May 30, 09:31 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 09:33 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 09:35 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
+- **May 30, 09:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
