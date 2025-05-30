@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 26 | 53 |
-| nyt | 2 | 3 | 24 | 46 |
+| spacenews | 7 | 15 | 26 | 52 |
+| nyt | 2 | 3 | 25 | 47 |
 | breaking_defense | 1 | 1 | 25 | 46 |
-| supercluster | 0 | 1 | 165 | 235 |
+| supercluster | 0 | 1 | 164 | 235 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4391,3 +4391,4 @@
 - **May 30, 03:03 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 03:05 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 03:19 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 30, 03:33 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
