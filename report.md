@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 25 | 53 |
 | nyt | 0 | 2 | 22 | 44 |
-| breaking_defense | 2 | 3 | 24 | 46 |
+| breaking_defense | 2 | 3 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 30 | 30 |
 
@@ -4207,3 +4207,4 @@
 - **May 30, 10:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 10:47 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
+- **May 30, 11:15 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
