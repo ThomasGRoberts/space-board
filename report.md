@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 27 | 50 |
 | nyt | 2 | 6 | 23 | 44 |
-| breaking_defense | 1 | 1 | 23 | 41 |
+| breaking_defense | 1 | 1 | 24 | 42 |
 | supercluster | 1 | 1 | 158 | 158 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4279,3 +4279,4 @@
 - **May 30, 04:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 04:07 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 04:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 04:11 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
