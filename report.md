@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 24 | 52 |
-| nyt | 0 | 2 | 22 | 44 |
+| nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 23 | 23 |
@@ -4197,3 +4197,4 @@
 - **May 30, 09:35 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **May 30, 09:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 30, 10:05 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **May 30, 10:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
