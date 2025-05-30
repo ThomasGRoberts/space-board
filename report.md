@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 27 | 47 |
 | nyt | 2 | 6 | 23 | 41 |
-| breaking_defense | 1 | 1 | 23 | 38 |
-| supercluster | 1 | 1 | 130 | 130 |
+| breaking_defense | 1 | 1 | 22 | 38 |
+| supercluster | 1 | 1 | 131 | 131 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4242,3 +4242,4 @@
 - **May 30, 12:23 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 12:39 AM** - Impulse Space to launch SES satellites (spacenews)
 - **May 30, 12:53 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **May 30, 01:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
