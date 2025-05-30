@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 27 | 49 |
 | nyt | 2 | 6 | 24 | 43 |
 | breaking_defense | 1 | 1 | 23 | 40 |
-| supercluster | 1 | 1 | 144 | 144 |
+| supercluster | 1 | 1 | 145 | 145 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4262,3 +4262,4 @@
 - **May 30, 02:19 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 30, 02:34 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 02:47 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **May 30, 03:02 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
