@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 28 | 51 |
+| spacenews | 8 | 15 | 29 | 52 |
 | nyt | 2 | 6 | 24 | 46 |
-| breaking_defense | 1 | 1 | 25 | 44 |
+| breaking_defense | 1 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 161 | 172 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4300,3 +4300,4 @@
 - **May 30, 05:59 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 06:01 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 06:03 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 30, 06:18 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
