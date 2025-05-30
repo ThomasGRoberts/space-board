@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a88d149c5e3f9a11fd105f63b6f9d303",
+    "trigger_count": 0,
+    "current_item_id": "53a2590b2913fae342b57523c5107724",
     "data": [
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
@@ -9885,6 +9885,18 @@
             "fetched_datetime": "2025-05-30T11:09:40.146858Z",
             "shown_at": [
                 "2025-05-30T11:09:41.170712Z"
+            ]
+        },
+        {
+            "id": "53a2590b2913fae342b57523c5107724",
+            "source": "spacenews",
+            "text": "When Earth fails, space responds ",
+            "source_link": "https://spacenews.com/when-earth-fails-space-responds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T13:07:56.951664Z",
+            "shown_at": [
+                "2025-05-30T13:07:57.884963Z"
             ]
         }
     ]
