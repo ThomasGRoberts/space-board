@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 27 | 50 |
+| spacenews | 8 | 16 | 28 | 51 |
 | nyt | 2 | 6 | 23 | 44 |
 | breaking_defense | 1 | 1 | 24 | 42 |
 | supercluster | 1 | 1 | 158 | 158 |
@@ -4280,3 +4280,4 @@
 - **May 30, 04:07 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 04:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 04:11 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 30, 04:25 AM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
