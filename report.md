@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4187,3 +4187,4 @@
 - **May 30, 08:38 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 30, 08:53 PM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **May 30, 09:08 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 30, 09:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
