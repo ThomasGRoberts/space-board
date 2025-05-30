@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 27 | 52 |
-| nyt | 2 | 4 | 24 | 45 |
+| nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 161 | 193 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4331,3 +4331,4 @@
 - **May 30, 09:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 09:13 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 09:29 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
+- **May 30, 09:46 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
