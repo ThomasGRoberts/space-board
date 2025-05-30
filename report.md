@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 28 | 52 |
-| nyt | 2 | 4 | 25 | 45 |
+| nyt | 2 | 4 | 24 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 162 | 173 |
+| supercluster | 0 | 1 | 163 | 174 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4303,3 +4303,4 @@
 - **May 30, 06:18 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **May 30, 06:33 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 30, 06:47 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 06:49 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
