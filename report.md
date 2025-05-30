@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 24 | 52 |
 | nyt | 0 | 2 | 23 | 46 |
-| breaking_defense | 0 | 1 | 23 | 45 |
+| breaking_defense | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -4176,3 +4176,4 @@
 - **May 30, 07:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 07:41 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 30, 07:55 PM** - Apex announces Comet satellite bus for constellations (spacenews)
+- **May 30, 08:09 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
