@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "a88d149c5e3f9a11fd105f63b6f9d303",
     "data": [
         {
@@ -9698,7 +9698,7 @@
             "type": "launch",
             "target_datetime": "2025-05-30T17:37:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-05-30T18:27:47.534992Z"
+            "fetched_datetime": "2025-05-30T18:29:26.568578Z"
         }
     ]
 }
