@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 26 | 51 |
 | nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 214 |
+| supercluster | 0 | 1 | 162 | 215 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4362,3 +4362,4 @@
 - **May 30, 12:07 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 30, 12:21 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 12:37 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 30, 12:51 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
