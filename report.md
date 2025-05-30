@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 26 | 51 |
+| spacenews | 7 | 15 | 27 | 52 |
 | nyt | 2 | 4 | 24 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 200 |
@@ -4339,3 +4339,4 @@
 - **May 30, 10:07 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 10:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 10:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 10:13 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
