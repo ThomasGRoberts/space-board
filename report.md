@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 25 | 52 |
-| nyt | 0 | 2 | 22 | 44 |
+| nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 30 | 30 |
@@ -4208,3 +4208,4 @@
 - **May 30, 10:47 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 30, 11:15 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 30, 11:29 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
