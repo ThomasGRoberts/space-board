@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 52 |
-| nyt | 2 | 4 | 24 | 45 |
+| nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 25 | 44 |
 | supercluster | 0 | 1 | 166 | 200 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4341,3 +4341,4 @@
 - **May 30, 10:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 10:13 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **May 30, 10:27 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
+- **May 30, 10:41 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
