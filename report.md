@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 27 | 46 |
 | nyt | 2 | 6 | 23 | 40 |
-| breaking_defense | 1 | 1 | 22 | 37 |
+| breaking_defense | 1 | 1 | 23 | 38 |
 | supercluster | 1 | 1 | 130 | 130 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4239,3 +4239,4 @@
 - **May 30, 12:17 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 12:19 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 12:21 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 12:23 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
