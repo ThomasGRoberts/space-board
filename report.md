@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 26 | 52 |
 | nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 207 |
+| supercluster | 0 | 1 | 162 | 208 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4352,3 +4352,4 @@
 - **May 30, 11:09 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **May 30, 11:23 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 11:37 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **May 30, 11:51 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
