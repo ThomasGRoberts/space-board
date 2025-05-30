@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 24 | 52 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -4184,3 +4184,4 @@
 - **May 30, 08:31 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 08:33 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 08:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 30, 08:38 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
