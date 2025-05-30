@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 28 | 52 |
+| spacenews | 7 | 15 | 27 | 52 |
 | nyt | 2 | 4 | 25 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 162 | 180 |
+| supercluster | 0 | 1 | 163 | 181 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4313,3 +4313,4 @@
 - **May 30, 07:17 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 30, 07:32 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 30, 07:47 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 07:50 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
