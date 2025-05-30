@@ -6,6 +6,7 @@
 | nyt | 2 | 3 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4161,3 +4162,4 @@
 - **May 30, 04:33 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 30, 04:47 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 30, 05:15 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 30, 05:29 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)

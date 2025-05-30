@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33574346fa92827dc6e43f869cb05f56",
+    "trigger_count": 0,
+    "current_item_id": "a88d149c5e3f9a11fd105f63b6f9d303",
     "data": [
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
@@ -9687,6 +9687,20 @@
             "fetched_datetime": "2025-05-30T15:47:37.701840Z",
             "shown_at": [
                 "2025-05-30T15:47:38.292615Z"
+            ]
+        },
+        {
+            "id": "a88d149c5e3f9a11fd105f63b6f9d303",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch GPS Satellites for the U.S. Space Force",
+            "source_link": "https://www.supercluster.com/launches/gps-iii-sv08",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-30T17:37:00.000Z",
+            "time_remaining": "0d 00h 07m",
+            "fetched_datetime": "2025-05-30T17:29:46.188026Z",
+            "shown_at": [
+                "2025-05-30T17:29:47.773978Z"
             ]
         }
     ]
