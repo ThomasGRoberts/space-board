@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 26 | 53 |
 | nyt | 2 | 3 | 24 | 46 |
-| breaking_defense | 1 | 1 | 24 | 45 |
+| breaking_defense | 1 | 1 | 25 | 46 |
 | supercluster | 0 | 1 | 168 | 235 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4390,3 +4390,4 @@
 - **May 30, 03:02 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 03:03 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 03:05 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
+- **May 30, 03:19 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
