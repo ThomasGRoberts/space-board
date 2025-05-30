@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 26 | 51 |
-| nyt | 2 | 4 | 24 | 46 |
+| nyt | 2 | 4 | 25 | 47 |
 | breaking_defense | 1 | 1 | 25 | 45 |
 | supercluster | 0 | 1 | 165 | 221 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4371,3 +4371,4 @@
 - **May 30, 01:05 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 01:07 PM** - When Earth fails, space responds  (spacenews)
 - **May 30, 01:23 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 30, 01:39 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
