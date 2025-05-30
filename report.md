@@ -6,7 +6,7 @@
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4178,3 +4178,4 @@
 - **May 30, 07:55 PM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **May 30, 08:09 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 08:23 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 30, 08:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
