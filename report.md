@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 24 | 52 |
+| spacenews | 6 | 16 | 24 | 53 |
 | nyt | 1 | 3 | 24 | 46 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4165,3 +4165,4 @@
 - **May 30, 06:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 06:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 06:41 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 30, 06:55 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
