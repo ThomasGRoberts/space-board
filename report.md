@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 26 | 51 |
+| spacenews | 6 | 14 | 27 | 52 |
 | nyt | 2 | 4 | 24 | 45 |
 | breaking_defense | 1 | 1 | 25 | 44 |
-| supercluster | 0 | 1 | 167 | 193 |
+| supercluster | 0 | 1 | 166 | 193 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4330,3 +4330,4 @@
 - **May 30, 09:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 09:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 09:13 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 30, 09:29 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
