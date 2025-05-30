@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 25 | 51 |
+| spacenews | 6 | 15 | 24 | 51 |
 | nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4209,3 +4209,4 @@
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 30, 11:15 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 11:29 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **May 30, 11:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
