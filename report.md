@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 26 | 51 |
-| nyt | 2 | 4 | 25 | 46 |
+| nyt | 2 | 4 | 25 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 163 | 195 |
+| supercluster | 0 | 1 | 164 | 196 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4334,3 +4334,4 @@
 - **May 30, 09:46 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **May 30, 09:59 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 10:02 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 10:03 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
