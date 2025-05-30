@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 28 | 50 |
-| nyt | 2 | 6 | 23 | 43 |
+| nyt | 2 | 6 | 24 | 44 |
 | breaking_defense | 1 | 1 | 23 | 41 |
 | supercluster | 1 | 1 | 151 | 151 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4271,3 +4271,4 @@
 - **May 30, 03:13 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 03:15 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 03:30 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
+- **May 30, 03:43 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
