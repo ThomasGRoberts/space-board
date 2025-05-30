@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 27 | 48 |
-| nyt | 2 | 6 | 22 | 41 |
+| nyt | 2 | 6 | 23 | 42 |
 | breaking_defense | 1 | 1 | 23 | 39 |
 | supercluster | 1 | 1 | 137 | 137 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4251,3 +4251,4 @@
 - **May 30, 01:21 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 01:23 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 30, 01:37 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
+- **May 30, 01:51 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
