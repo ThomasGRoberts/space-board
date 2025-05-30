@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 27 | 46 |
 | nyt | 2 | 6 | 23 | 40 |
 | breaking_defense | 1 | 1 | 22 | 37 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4233,3 +4233,4 @@
 - **May 29, 11:41 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **May 29, 11:55 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 30, 12:09 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 12:11 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
