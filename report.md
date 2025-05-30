@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 26 | 51 |
+| spacenews | 7 | 16 | 27 | 52 |
 | nyt | 2 | 4 | 24 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 214 |
@@ -4359,3 +4359,4 @@
 - **May 30, 11:59 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 12:02 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 12:05 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 12:07 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
