@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 27 | 51 |
-| nyt | 2 | 4 | 25 | 46 |
+| nyt | 2 | 4 | 25 | 45 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 186 |
+| supercluster | 0 | 1 | 162 | 187 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4322,3 +4322,4 @@
 - **May 30, 08:02 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 08:24 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **May 30, 08:43 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 30, 08:59 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
