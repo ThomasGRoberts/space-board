@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+    "trigger_count": 0,
+    "current_item_id": "e15fe99c255ac59bb8adf5efbaa8a381",
     "data": [
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
@@ -9919,6 +9919,18 @@
             "fetched_datetime": "2025-05-30T13:07:56.951664Z",
             "shown_at": [
                 "2025-05-30T13:07:57.884963Z"
+            ]
+        },
+        {
+            "id": "e15fe99c255ac59bb8adf5efbaa8a381",
+            "source": "spacenews",
+            "text": "Skepticism lingers about cost and business case for IRIS²",
+            "source_link": "https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T15:47:37.701840Z",
+            "shown_at": [
+                "2025-05-30T15:47:38.292615Z"
             ]
         }
     ]

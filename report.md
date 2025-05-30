@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 26 | 52 |
+| spacenews | 8 | 16 | 27 | 53 |
 | nyt | 2 | 3 | 25 | 47 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 161 | 235 |
@@ -4392,3 +4392,4 @@
 - **May 30, 03:05 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 03:19 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 03:33 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 30, 03:47 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
