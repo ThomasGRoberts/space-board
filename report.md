@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 29 | 52 |
-| nyt | 2 | 6 | 24 | 45 |
+| spacenews | 8 | 16 | 28 | 52 |
+| nyt | 2 | 6 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 43 |
 | supercluster | 0 | 1 | 161 | 165 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4291,3 +4291,4 @@
 - **May 30, 05:05 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 05:07 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 05:21 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
+- **May 30, 05:35 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
