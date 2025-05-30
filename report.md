@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 25 | 52 |
-| nyt | 1 | 3 | 23 | 46 |
+| nyt | 1 | 3 | 24 | 47 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4164,3 +4164,4 @@
 - **May 30, 05:15 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 06:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 06:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 30, 06:41 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
