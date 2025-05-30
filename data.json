@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efac67e6bbf1e7d2abc9cb987eb5d74e",
+    "trigger_count": 0,
+    "current_item_id": "6d992cb310e7b98afd2c31d8ecc5d676",
     "data": [
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
@@ -9756,6 +9756,18 @@
             "fetched_datetime": "2025-05-30T21:49:45.639390Z",
             "shown_at": [
                 "2025-05-30T21:49:46.474653Z"
+            ]
+        },
+        {
+            "id": "6d992cb310e7b98afd2c31d8ecc5d676",
+            "source": "breaking_defense",
+            "text": "Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears",
+            "source_link": "https://breakingdefense.com/2025/05/russias-new-cosmos-satellite-orbiting-near-us-sat-piques-asat-fears/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T22:05:46.805807Z",
+            "shown_at": [
+                "2025-05-30T22:05:47.749906Z"
             ]
         }
     ]
