@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 26 | 51 |
 | nyt | 2 | 4 | 25 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 162 | 201 |
+| supercluster | 0 | 1 | 163 | 202 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4343,3 +4343,4 @@
 - **May 30, 10:27 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 30, 10:41 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 30, 10:55 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
+- **May 30, 10:57 AM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
