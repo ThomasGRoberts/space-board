@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 26 | 52 |
+| spacenews | 8 | 16 | 27 | 53 |
 | nyt | 2 | 3 | 25 | 47 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 161 | 242 |
@@ -4402,3 +4402,4 @@
 - **May 30, 04:17 PM** - SpaceX Will Launch GPS Satellites for the U.S. Space Force (supercluster)
 - **May 30, 04:19 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 04:33 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **May 30, 04:47 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
