@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 24 | 52 |
+| spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 72 | 72 |
 | nyt | 0 | 2 | 22 | 46 |
@@ -4153,3 +4153,4 @@
 - **May 31, 04:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 04:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 04:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 04:45 AM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
