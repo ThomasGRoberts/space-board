@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 52 |
-| breaking_defense | 2 | 3 | 24 | 48 |
+| breaking_defense | 2 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 107 | 107 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4204,3 +4204,4 @@
 - **May 31, 09:25 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 09:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 09:29 AM** - The real Golden Dome opportunity – defense acquisition reform (spacenews)
+- **May 31, 09:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
