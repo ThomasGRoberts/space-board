@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 51 |
+| spacenews | 5 | 12 | 24 | 51 |
 | breaking_defense | 2 | 3 | 25 | 49 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4208,3 +4208,4 @@
 - **May 31, 09:57 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 31, 10:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 10:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 10:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
