@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 2 | 3 | 24 | 49 |
 | supercluster | 1 | 1 | 79 | 79 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4165,3 +4165,4 @@
 - **May 31, 05:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 05:41 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **May 31, 05:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **May 31, 06:09 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
