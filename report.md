@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 51 |
+| spacenews | 5 | 11 | 25 | 51 |
 | breaking_defense | 2 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 2 | 23 | 47 |
@@ -4213,3 +4213,4 @@
 - **May 31, 10:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 10:21 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 10:23 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 10:25 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
