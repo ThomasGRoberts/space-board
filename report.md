@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 25 | 52 |
 | breaking_defense | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 58 | 58 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4135,3 +4135,4 @@
 - **May 31, 02:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 02:51 AM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **May 31, 03:05 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **May 31, 03:19 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
