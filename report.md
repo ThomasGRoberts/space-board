@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 25 | 53 |
-| breaking_defense | 2 | 3 | 24 | 48 |
+| breaking_defense | 2 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 86 | 86 |
 | nyt | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4174,3 +4174,4 @@
 - **May 31, 06:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 06:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 06:37 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
+- **May 31, 06:51 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
