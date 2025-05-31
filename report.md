@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4133,3 +4133,4 @@
 - **May 31, 05:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 05:25 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 05:39 PM** - When Earth fails, space responds  (spacenews)
+- **May 31, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
