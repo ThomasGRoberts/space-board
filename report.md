@@ -5,7 +5,7 @@
 | spacenews | 4 | 11 | 25 | 51 |
 | breaking_defense | 2 | 3 | 25 | 50 |
 | supercluster | 1 | 1 | 128 | 128 |
-| nyt | 0 | 2 | 22 | 47 |
+| nyt | 0 | 2 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4235,3 +4235,4 @@
 - **May 31, 12:15 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 12:17 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **May 31, 12:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
