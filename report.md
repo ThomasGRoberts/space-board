@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 1 | 1 | 45 | 45 |
-| nyt | 0 | 2 | 23 | 46 |
+| supercluster | 1 | 1 | 46 | 46 |
+| nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4117,3 +4117,4 @@
 - **May 31, 01:12 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 01:27 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 01:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 01:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
