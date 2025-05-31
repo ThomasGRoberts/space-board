@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4113,3 +4113,4 @@
 - **May 31, 03:15 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 03:29 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 03:43 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
+- **May 31, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
