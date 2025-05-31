@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 25 | 52 |
-| breaking_defense | 2 | 3 | 24 | 46 |
+| breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 1 | 1 | 37 | 37 |
 | nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4104,3 +4104,4 @@
 - **May 30, 11:54 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 11:57 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 30, 11:59 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
+- **May 31, 12:15 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
