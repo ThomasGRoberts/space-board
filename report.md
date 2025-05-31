@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 24 | 50 |
+| spacenews | 3 | 10 | 25 | 51 |
 | breaking_defense | 2 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 135 | 135 |
-| nyt | 0 | 2 | 23 | 48 |
+| nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4243,3 +4243,4 @@
 - **May 31, 01:12 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:15 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
