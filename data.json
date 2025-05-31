@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-31T00:02:13.271711+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "7747cbcd186703ddf44157647b5de287",
     "data": [
         {
             "id": "ff2af455af231a9c247e5fce0740c4bd",
@@ -9626,6 +9626,18 @@
                 "2025-05-31T21:19:59.242084Z",
                 "2025-05-31T21:21:47.981930Z",
                 "2025-05-31T21:23:35.915981Z"
+            ]
+        },
+        {
+            "id": "7747cbcd186703ddf44157647b5de287",
+            "source": "nyt",
+            "text": "Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job",
+            "source_link": "https://www.nytimes.com/2025/05/31/us/politics/trump-nasa-nominee-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:25:23.807047Z",
+            "shown_at": [
+                "2025-05-31T21:25:24.558618Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 23 | 47 |
 | breaking_defense | 2 | 2 | 23 | 47 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4132,3 +4132,4 @@
 - **May 31, 09:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 31, 09:25 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
