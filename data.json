@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-31T00:02:13.271711+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
@@ -9613,14 +9613,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from California",
             "source_link": "https://www.supercluster.com/launches/starlink-11-18",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-05-31T20:10:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-05-31T20:15:49.098608Z",
-            "shown_at": [
-                "2025-05-31T20:15:50.333533Z"
-            ]
+            "fetched_datetime": "2025-05-31T20:17:37.279165Z"
         }
     ]
 }
