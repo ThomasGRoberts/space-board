@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4125,3 +4125,4 @@
 - **May 31, 04:41 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **May 31, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **May 31, 04:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
