@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 52 |
-| breaking_defense | 2 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 59 | 59 |
+| breaking_defense | 2 | 3 | 24 | 47 |
+| supercluster | 1 | 1 | 60 | 60 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4137,3 +4137,4 @@
 - **May 31, 03:05 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 03:19 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 03:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 03:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
