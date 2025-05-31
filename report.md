@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 49 |
 | breaking_defense | 2 | 3 | 23 | 48 |
-| nyt | 0 | 2 | 21 | 45 |
+| nyt | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4111,3 +4111,4 @@
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
 - **May 31, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 03:15 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **May 31, 03:29 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
