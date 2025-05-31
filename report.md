@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 24 | 49 |
 | breaking_defense | 2 | 2 | 24 | 47 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
 
@@ -4141,3 +4141,4 @@
 - **May 31, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 06:07 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **May 31, 06:21 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
