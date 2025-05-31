@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 24 | 48 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -4135,3 +4135,4 @@
 - **May 31, 09:25 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **May 31, 09:39 PM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **May 31, 09:53 PM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
+- **May 31, 10:07 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
