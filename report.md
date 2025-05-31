@@ -3,10 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 48 |
-| breaking_defense | 2 | 2 | 25 | 48 |
+| breaking_defense | 2 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4109,55 +4108,19 @@
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 12:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
-- **May 31, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 03:15 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 03:29 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 03:43 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
-- **May 31, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 04:11 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 31, 04:27 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 04:41 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
-- **May 31, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 04:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 05:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 05:25 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 05:39 PM** - When Earth fails, space responds  (spacenews)
-- **May 31, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 06:07 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 31, 06:21 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
 - **May 31, 06:35 PM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
-- **May 31, 06:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 07:05 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 07:19 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 31, 07:33 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
-- **May 31, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **May 31, 07:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 08:01 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
