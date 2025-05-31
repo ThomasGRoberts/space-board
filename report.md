@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 53 |
 | breaking_defense | 2 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4156,3 +4156,4 @@
 - **May 31, 04:45 AM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **May 31, 04:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 05:13 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **May 31, 05:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
