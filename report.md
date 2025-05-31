@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 2 | 22 | 47 |
 | nyt | 1 | 1 | 21 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4137,3 +4137,4 @@
 - **May 31, 09:53 PM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
 - **May 31, 10:07 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 31, 10:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
