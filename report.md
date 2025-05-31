@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 24 | 52 |
+| spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 58 | 58 |
 | nyt | 0 | 2 | 22 | 46 |
@@ -4133,3 +4133,4 @@
 - **May 31, 02:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 02:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 02:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 02:51 AM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
