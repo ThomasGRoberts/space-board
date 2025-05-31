@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
 | breaking_defense | 2 | 3 | 24 | 49 |
-| supercluster | 1 | 1 | 95 | 95 |
-| nyt | 0 | 2 | 23 | 48 |
+| supercluster | 1 | 1 | 96 | 96 |
+| nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4188,3 +4188,4 @@
 - **May 31, 08:02 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 31, 08:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 08:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 08:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
