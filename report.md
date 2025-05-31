@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 25 | 52 |
 | breaking_defense | 2 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 100 | 100 |
-| nyt | 0 | 2 | 22 | 47 |
+| nyt | 0 | 2 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4195,3 +4195,4 @@
 - **May 31, 08:28 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 08:32 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **May 31, 08:45 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **May 31, 09:00 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
