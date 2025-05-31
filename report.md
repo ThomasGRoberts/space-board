@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4116,3 +4116,4 @@
 - **May 31, 12:57 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 31, 01:12 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 01:27 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 31, 01:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
