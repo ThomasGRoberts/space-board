@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4123,3 +4123,4 @@
 - **May 31, 04:11 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 31, 04:27 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 04:41 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
+- **May 31, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
