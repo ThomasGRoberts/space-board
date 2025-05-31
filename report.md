@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 23 | 49 |
 | breaking_defense | 2 | 2 | 23 | 47 |
-| nyt | 0 | 2 | 21 | 45 |
+| nyt | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -4131,3 +4131,4 @@
 - **May 31, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 05:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 05:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 31, 05:25 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
