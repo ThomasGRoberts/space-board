@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 24 | 49 |
 | nyt | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4109,4 +4109,3 @@
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 12:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
-- **May 31, 01:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
