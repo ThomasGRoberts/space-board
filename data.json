@@ -1,9 +1,155 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-30T00:02:09.314272+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-05-31T00:02:13.271711+00:00",
+    "trigger_count": 1,
     "current_item_id": "06ac11b8ed97930fdaa8981cc5ffea6a",
     "data": [
+        {
+            "id": "ff2af455af231a9c247e5fce0740c4bd",
+            "source": "spacenews",
+            "text": "NASA budget would cancel dozens of science missions, lay off thousands",
+            "source_link": "https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T23:01:39.059720Z",
+            "shown_at": [
+                "2025-05-30T23:01:39.573459Z"
+            ]
+        },
+        {
+            "id": "6d992cb310e7b98afd2c31d8ecc5d676",
+            "source": "breaking_defense",
+            "text": "Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears",
+            "source_link": "https://breakingdefense.com/2025/05/russias-new-cosmos-satellite-orbiting-near-us-sat-piques-asat-fears/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T22:05:46.805807Z",
+            "shown_at": [
+                "2025-05-30T22:05:47.749906Z"
+            ]
+        },
+        {
+            "id": "efac67e6bbf1e7d2abc9cb987eb5d74e",
+            "source": "breaking_defense",
+            "text": "Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears",
+            "source_link": "https://breakingdefense.com/2025/05/russias-new-cosmos-satellite-orbiting-near-us-sat-piques-asat-fears/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T21:49:45.639390Z",
+            "shown_at": [
+                "2025-05-30T21:49:46.474653Z"
+            ]
+        },
+        {
+            "id": "2356b2b7a1ba78c4ff52e2786c1f0043",
+            "source": "spacenews",
+            "text": "SpaceX launches latest GPS III satellite for U.S. military",
+            "source_link": "https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T21:35:23.965175Z",
+            "shown_at": [
+                "2025-05-30T21:35:25.035882Z"
+            ]
+        },
+        {
+            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-32",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-05-31T13:30:00.000Z",
+            "time_remaining": "0d 13h 32m",
+            "fetched_datetime": "2025-05-30T18:37:46.165949Z",
+            "shown_at": [
+                "2025-05-30T18:37:46.683565Z",
+                "2025-05-30T18:39:47.179726Z",
+                "2025-05-30T19:25:41.387391Z",
+                "2025-05-30T19:27:26.440846Z",
+                "2025-05-30T19:31:45.199833Z",
+                "2025-05-30T19:33:53.125155Z",
+                "2025-05-30T19:35:27.237121Z",
+                "2025-05-30T19:37:31.204716Z",
+                "2025-05-30T19:39:31.286455Z",
+                "2025-05-30T20:23:35.103106Z",
+                "2025-05-30T20:25:37.175313Z",
+                "2025-05-30T20:27:33.742888Z",
+                "2025-05-30T20:29:36.762406Z",
+                "2025-05-30T20:31:58.020698Z",
+                "2025-05-30T20:33:42.638981Z",
+                "2025-05-30T20:35:54.235615Z",
+                "2025-05-30T21:21:18.470253Z",
+                "2025-05-30T21:23:44.525402Z",
+                "2025-05-30T21:25:37.213237Z",
+                "2025-05-30T21:27:40.355270Z",
+                "2025-05-30T21:29:27.160841Z",
+                "2025-05-30T21:31:57.750652Z",
+                "2025-05-30T21:33:40.384004Z",
+                "2025-05-30T22:33:47.169762Z",
+                "2025-05-30T22:35:30.380692Z",
+                "2025-05-30T22:37:26.732958Z",
+                "2025-05-30T22:39:43.943033Z",
+                "2025-05-30T22:42:04.631939Z",
+                "2025-05-30T22:43:08.069518Z",
+                "2025-05-30T22:45:42.106004Z",
+                "2025-05-30T23:43:48.677539Z",
+                "2025-05-30T23:45:31.169363Z",
+                "2025-05-30T23:47:45.817973Z",
+                "2025-05-30T23:49:32.612627Z",
+                "2025-05-30T23:51:34.661231Z",
+                "2025-05-30T23:54:10.721444Z",
+                "2025-05-30T23:57:36.103474Z"
+            ]
+        },
+        {
+            "id": "e15fe99c255ac59bb8adf5efbaa8a381",
+            "source": "spacenews",
+            "text": "Skepticism lingers about cost and business case for IRIS²",
+            "source_link": "https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T15:47:37.701840Z",
+            "shown_at": [
+                "2025-05-30T15:47:38.292615Z"
+            ]
+        },
+        {
+            "id": "53a2590b2913fae342b57523c5107724",
+            "source": "spacenews",
+            "text": "When Earth fails, space responds ",
+            "source_link": "https://spacenews.com/when-earth-fails-space-responds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T13:07:56.951664Z",
+            "shown_at": [
+                "2025-05-30T13:07:57.884963Z"
+            ]
+        },
+        {
+            "id": "c40b39288cb9f198bf3794eaed3f182a",
+            "source": "spacenews",
+            "text": "University of Colorado, Boulder to announce new space policy center",
+            "source_link": "https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T11:09:40.146858Z",
+            "shown_at": [
+                "2025-05-30T11:09:41.170712Z"
+            ]
+        },
+        {
+            "id": "caa00f94c48c4db18e262cffe0f59c95",
+            "source": "spacenews",
+            "text": "China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery",
+            "source_link": "https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-30T10:13:51.802537Z",
+            "shown_at": [
+                "2025-05-30T10:13:52.888277Z"
+            ]
+        },
         {
             "id": "fe5017868f2b36a6cd0dd566aac818c3",
             "source": "spacenews",
@@ -9452,353 +9598,6 @@
                 "2025-03-30T16:15:06.879852Z",
                 "2025-04-01T09:19:55.732392Z",
                 "2025-04-04T08:29:19.035533Z"
-            ]
-        },
-        {
-            "id": "04e2ab2f52381a531da9ed041b1b0dbd",
-            "source": "spacenews",
-            "text": "China’s megaconstellations take off, government backs commercial space",
-            "source_link": "https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T12:09:29.171529Z",
-            "shown_at": [
-                "2025-03-28T12:09:29.757012Z",
-                "2025-04-01T16:51:44.418582Z",
-                "2025-04-03T11:22:17.278952Z",
-                "2025-04-03T16:02:05.840137Z"
-            ]
-        },
-        {
-            "id": "3722817eb6d8c556d90989a2482e8d2b",
-            "source": "spacenews",
-            "text": "GAO rejects TraCSS contract protest",
-            "source_link": "https://spacenews.com/gao-rejects-tracss-contract-protest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T11:53:30.924426Z",
-            "shown_at": [
-                "2025-03-28T11:53:31.541403Z",
-                "2025-03-28T22:29:39.908083Z",
-                "2025-03-31T04:07:49.073001Z",
-                "2025-03-31T12:53:36.528694Z",
-                "2025-04-02T06:39:43.838582Z"
-            ]
-        },
-        {
-            "id": "a77f4306cbf7f8522cf0659576693530",
-            "source": "nyt",
-            "text": "March 2025 Partial Solar Eclipse: Where and How to Watch",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T11:25:33.065446Z",
-            "shown_at": [
-                "2025-03-28T11:25:33.562074Z",
-                "2025-03-28T23:53:28.269845Z",
-                "2025-03-29T04:33:43.949576Z",
-                "2025-03-30T02:53:31.306499Z",
-                "2025-03-30T09:09:33.849782Z",
-                "2025-03-30T19:59:42.637595Z",
-                "2025-04-01T17:05:34.467673Z",
-                "2025-04-02T05:55:29.749619Z",
-                "2025-04-02T16:02:05.645959Z",
-                "2025-04-02T22:32:02.148036Z",
-                "2025-04-03T06:35:35.422154Z",
-                "2025-04-03T17:02:07.709506Z",
-                "2025-04-04T06:32:08.604833Z"
-            ]
-        },
-        {
-            "id": "8b5e4bc492c10a2ac0254eaceeaf8687",
-            "source": "nyt",
-            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T10:41:35.380575Z",
-            "shown_at": [
-                "2025-03-28T10:41:35.917185Z",
-                "2025-03-29T03:23:19.643248Z",
-                "2025-03-29T05:45:37.168982Z",
-                "2025-03-29T10:27:33.135156Z",
-                "2025-03-29T13:37:41.950621Z",
-                "2025-03-29T17:17:41.982871Z",
-                "2025-03-29T18:27:14.966060Z",
-                "2025-03-29T19:39:35.641738Z",
-                "2025-03-30T18:49:45.487290Z",
-                "2025-03-31T05:47:51.543326Z",
-                "2025-03-31T06:59:28.492726Z",
-                "2025-04-01T18:17:40.481083Z",
-                "2025-04-01T20:45:27.785156Z",
-                "2025-04-01T23:07:28.093596Z",
-                "2025-04-02T04:45:38.313477Z",
-                "2025-04-02T23:41:42.872655Z",
-                "2025-04-03T12:19:45.552854Z",
-                "2025-04-03T14:17:47.063825Z",
-                "2025-04-04T07:47:54.194442Z",
-                "2025-04-04T10:08:05.490527Z"
-            ]
-        },
-        {
-            "id": "08a5c0f5dc422640d382eb3d3d2a12ea",
-            "source": "nyt",
-            "text": "When Is the Next Solar Eclipse? Where and How to Watch the 2025 Partial Eclipse.",
-            "source_link": "https://www.nytimes.com/2025/03/28/science/partial-solar-eclpse-when-how-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T09:09:38.786387Z",
-            "shown_at": [
-                "2025-03-28T09:09:39.298477Z",
-                "2025-03-28T12:51:40.510560Z",
-                "2025-03-29T20:51:33.237295Z",
-                "2025-03-29T22:03:33.677326Z",
-                "2025-03-30T04:07:23.420058Z",
-                "2025-03-30T06:29:30.690875Z",
-                "2025-03-30T15:20:03.223554Z",
-                "2025-03-31T14:45:37.030919Z",
-                "2025-03-31T17:19:47.451412Z",
-                "2025-04-02T17:15:46.554735Z",
-                "2025-04-03T15:32:19.715629Z",
-                "2025-04-03T22:49:43.676217Z",
-                "2025-04-04T02:55:32.137783Z"
-            ]
-        },
-        {
-            "id": "faf584ad90e6517326c26acd3a131ff1",
-            "source": "aidy",
-            "text": "U.S. Air Force May Shift to SpaceX's Starshield, Impacting Defense Satellite Strategy.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T07:21:16.855757Z",
-            "shown_at": [
-                "2025-03-28T07:21:17.293458Z",
-                "2025-03-28T14:49:39.277516Z",
-                "2025-03-29T12:53:32.299767Z",
-                "2025-03-30T03:25:45.870621Z",
-                "2025-03-30T05:45:44.753685Z",
-                "2025-03-31T06:17:39.120928Z",
-                "2025-03-31T22:57:30.580118Z",
-                "2025-04-01T03:49:30.263406Z",
-                "2025-04-01T05:59:47.581166Z",
-                "2025-04-01T08:49:33.462650Z",
-                "2025-04-01T11:32:04.963243Z",
-                "2025-04-02T02:53:39.567518Z",
-                "2025-04-02T06:23:58.164084Z",
-                "2025-04-02T14:07:32.075251Z",
-                "2025-04-02T22:59:37.527202Z",
-                "2025-04-03T01:23:50.243895Z",
-                "2025-04-03T03:37:37.132043Z",
-                "2025-04-03T11:52:00.753091Z",
-                "2025-04-03T16:47:38.162799Z",
-                "2025-04-03T19:59:31.874044Z",
-                "2025-04-04T00:32:10.323747Z",
-                "2025-04-04T06:17:31.606816Z"
-            ]
-        },
-        {
-            "id": "0bb748e20f6ffd36b5ec8d922adff49d",
-            "source": "spacenews",
-            "text": "Rocket Lab, Stoke Space join National Security Space Launch competition",
-            "source_link": "https://spacenews.com/rocket-lab-stoke-space-join-national-security-space-launch-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-27T23:55:36.797120Z",
-            "shown_at": [
-                "2025-03-27T23:55:37.421476Z",
-                "2025-03-28T01:09:30.389373Z",
-                "2025-03-28T08:23:43.567154Z",
-                "2025-03-29T18:55:35.705493Z",
-                "2025-03-30T13:53:42.183163Z",
-                "2025-03-31T11:29:35.330467Z",
-                "2025-03-31T15:13:46.800700Z"
-            ]
-        },
-        {
-            "id": "e6ca85973e2a85503f178a40edf761fd",
-            "source": "breaking_defense",
-            "text": "Air Force weighs plan to cancel SDA’s next set of data relay sats in favor of SpaceX: Sources",
-            "source_link": "https://breakingdefense.com/2025/03/air-force-weighs-plan-to-cancel-sdas-next-set-of-data-relay-sats-in-favor-of-spacex-sources/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-27T22:59:42.061339Z",
-            "shown_at": [
-                "2025-03-27T22:59:42.690346Z",
-                "2025-03-28T00:11:36.353707Z",
-                "2025-03-28T01:23:34.316446Z",
-                "2025-03-28T08:53:46.839365Z",
-                "2025-03-28T10:12:09.557085Z",
-                "2025-03-28T12:37:49.479957Z",
-                "2025-03-28T19:55:50.058105Z",
-                "2025-03-29T01:59:41.236756Z",
-                "2025-03-29T03:09:39.183693Z",
-                "2025-03-29T06:41:50.705491Z",
-                "2025-03-29T07:51:49.781829Z",
-                "2025-03-29T17:59:32.061361Z",
-                "2025-03-30T03:39:43.841609Z",
-                "2025-03-30T05:59:11.524022Z",
-                "2025-03-30T12:57:33.145531Z",
-                "2025-03-31T04:51:32.960428Z",
-                "2025-03-31T06:02:08.025037Z",
-                "2025-03-31T18:57:10.227692Z",
-                "2025-04-01T00:09:39.175471Z",
-                "2025-04-02T06:09:30.153348Z",
-                "2025-04-02T15:05:42.423528Z",
-                "2025-04-02T18:43:17.109138Z",
-                "2025-04-02T20:09:35.886523Z",
-                "2025-04-03T03:23:51.260245Z",
-                "2025-04-03T05:49:28.575799Z",
-                "2025-04-03T09:47:26.639511Z",
-                "2025-04-03T15:02:15.784922Z",
-                "2025-04-03T20:55:54.452731Z",
-                "2025-04-03T22:07:10.990069Z"
-            ]
-        },
-        {
-            "id": "caa00f94c48c4db18e262cffe0f59c95",
-            "source": "spacenews",
-            "text": "China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery",
-            "source_link": "https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T10:13:51.802537Z",
-            "shown_at": [
-                "2025-05-30T10:13:52.888277Z"
-            ]
-        },
-        {
-            "id": "c40b39288cb9f198bf3794eaed3f182a",
-            "source": "spacenews",
-            "text": "University of Colorado, Boulder to announce new space policy center",
-            "source_link": "https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T11:09:40.146858Z",
-            "shown_at": [
-                "2025-05-30T11:09:41.170712Z"
-            ]
-        },
-        {
-            "id": "53a2590b2913fae342b57523c5107724",
-            "source": "spacenews",
-            "text": "When Earth fails, space responds ",
-            "source_link": "https://spacenews.com/when-earth-fails-space-responds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T13:07:56.951664Z",
-            "shown_at": [
-                "2025-05-30T13:07:57.884963Z"
-            ]
-        },
-        {
-            "id": "e15fe99c255ac59bb8adf5efbaa8a381",
-            "source": "spacenews",
-            "text": "Skepticism lingers about cost and business case for IRIS²",
-            "source_link": "https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T15:47:37.701840Z",
-            "shown_at": [
-                "2025-05-30T15:47:38.292615Z"
-            ]
-        },
-        {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-32",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-05-31T13:30:00.000Z",
-            "time_remaining": "0d 13h 32m",
-            "fetched_datetime": "2025-05-30T18:37:46.165949Z",
-            "shown_at": [
-                "2025-05-30T18:37:46.683565Z",
-                "2025-05-30T18:39:47.179726Z",
-                "2025-05-30T19:25:41.387391Z",
-                "2025-05-30T19:27:26.440846Z",
-                "2025-05-30T19:31:45.199833Z",
-                "2025-05-30T19:33:53.125155Z",
-                "2025-05-30T19:35:27.237121Z",
-                "2025-05-30T19:37:31.204716Z",
-                "2025-05-30T19:39:31.286455Z",
-                "2025-05-30T20:23:35.103106Z",
-                "2025-05-30T20:25:37.175313Z",
-                "2025-05-30T20:27:33.742888Z",
-                "2025-05-30T20:29:36.762406Z",
-                "2025-05-30T20:31:58.020698Z",
-                "2025-05-30T20:33:42.638981Z",
-                "2025-05-30T20:35:54.235615Z",
-                "2025-05-30T21:21:18.470253Z",
-                "2025-05-30T21:23:44.525402Z",
-                "2025-05-30T21:25:37.213237Z",
-                "2025-05-30T21:27:40.355270Z",
-                "2025-05-30T21:29:27.160841Z",
-                "2025-05-30T21:31:57.750652Z",
-                "2025-05-30T21:33:40.384004Z",
-                "2025-05-30T22:33:47.169762Z",
-                "2025-05-30T22:35:30.380692Z",
-                "2025-05-30T22:37:26.732958Z",
-                "2025-05-30T22:39:43.943033Z",
-                "2025-05-30T22:42:04.631939Z",
-                "2025-05-30T22:43:08.069518Z",
-                "2025-05-30T22:45:42.106004Z",
-                "2025-05-30T23:43:48.677539Z",
-                "2025-05-30T23:45:31.169363Z",
-                "2025-05-30T23:47:45.817973Z",
-                "2025-05-30T23:49:32.612627Z",
-                "2025-05-30T23:51:34.661231Z",
-                "2025-05-30T23:54:10.721444Z",
-                "2025-05-30T23:57:36.103474Z"
-            ]
-        },
-        {
-            "id": "2356b2b7a1ba78c4ff52e2786c1f0043",
-            "source": "spacenews",
-            "text": "SpaceX launches latest GPS III satellite for U.S. military",
-            "source_link": "https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T21:35:23.965175Z",
-            "shown_at": [
-                "2025-05-30T21:35:25.035882Z"
-            ]
-        },
-        {
-            "id": "efac67e6bbf1e7d2abc9cb987eb5d74e",
-            "source": "breaking_defense",
-            "text": "Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears",
-            "source_link": "https://breakingdefense.com/2025/05/russias-new-cosmos-satellite-orbiting-near-us-sat-piques-asat-fears/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T21:49:45.639390Z",
-            "shown_at": [
-                "2025-05-30T21:49:46.474653Z"
-            ]
-        },
-        {
-            "id": "6d992cb310e7b98afd2c31d8ecc5d676",
-            "source": "breaking_defense",
-            "text": "Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears",
-            "source_link": "https://breakingdefense.com/2025/05/russias-new-cosmos-satellite-orbiting-near-us-sat-piques-asat-fears/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T22:05:46.805807Z",
-            "shown_at": [
-                "2025-05-30T22:05:47.749906Z"
-            ]
-        },
-        {
-            "id": "ff2af455af231a9c247e5fce0740c4bd",
-            "source": "spacenews",
-            "text": "NASA budget would cancel dozens of science missions, lay off thousands",
-            "source_link": "https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-30T23:01:39.059720Z",
-            "shown_at": [
-                "2025-05-30T23:01:39.573459Z"
             ]
         }
     ]
