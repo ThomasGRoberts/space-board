@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 25 | 52 |
 | breaking_defense | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 51 | 51 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4125,3 +4125,4 @@
 - **May 31, 01:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:55 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 31, 02:09 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **May 31, 02:23 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
