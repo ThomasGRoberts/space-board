@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 25 | 52 |
+| spacenews | 6 | 14 | 25 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 44 | 44 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4115,3 +4115,4 @@
 - **May 31, 12:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 12:57 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 31, 01:12 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **May 31, 01:27 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
