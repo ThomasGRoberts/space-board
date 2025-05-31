@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-05-31T00:02:13.271711+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7747cbcd186703ddf44157647b5de287",
+    "trigger_count": 0,
+    "current_item_id": "7c84647dea55bccc716e757e6c91b37b",
     "data": [
         {
             "id": "ff2af455af231a9c247e5fce0740c4bd",
@@ -9639,6 +9639,27 @@
             "shown_at": [
                 "2025-05-31T21:25:24.558618Z"
             ]
+        },
+        {
+            "id": "7c84647dea55bccc716e757e6c91b37b",
+            "source": "spacenews",
+            "text": "White House to withdraw Isaacman nomination to lead NASA",
+            "source_link": "https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:39:27.921459Z",
+            "shown_at": [
+                "2025-05-31T21:39:28.568382Z"
+            ]
+        },
+        {
+            "id": "b4a82d08009165767a92e13a86dea65d",
+            "source": "spacenews",
+            "text": "Blue Origin performs 12th crewed New Shepard suborbital flight",
+            "source_link": "https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:39:27.921525Z"
         }
     ]
 }
