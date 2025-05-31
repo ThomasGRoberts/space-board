@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
 | breaking_defense | 2 | 3 | 25 | 49 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4207,3 +4207,4 @@
 - **May 31, 09:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 09:57 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 31, 10:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 10:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
