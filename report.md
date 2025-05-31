@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 53 |
 | breaking_defense | 2 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4158,3 +4158,4 @@
 - **May 31, 05:13 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **May 31, 05:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 05:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 05:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
