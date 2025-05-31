@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4153,3 +4153,4 @@
 - **May 31, 07:05 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 07:19 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 31, 07:33 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
+- **May 31, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
