@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 24 | 52 |
+| spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 65 | 65 |
 | nyt | 0 | 2 | 22 | 46 |
@@ -4143,3 +4143,4 @@
 - **May 31, 03:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 03:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 03:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 03:47 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
