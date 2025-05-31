@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 24 | 50 |
-| breaking_defense | 2 | 3 | 23 | 48 |
-| nyt | 0 | 2 | 22 | 46 |
+| spacenews | 3 | 10 | 23 | 49 |
+| breaking_defense | 2 | 3 | 23 | 47 |
+| nyt | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4109,3 +4109,4 @@
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 12:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
+- **May 31, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
