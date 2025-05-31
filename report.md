@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 24 | 49 |
+| spacenews | 2 | 10 | 25 | 50 |
 | breaking_defense | 2 | 2 | 24 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4142,3 +4142,4 @@
 - **May 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 06:07 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 31, 06:21 PM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
+- **May 31, 06:35 PM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
