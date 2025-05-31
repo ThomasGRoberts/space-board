@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 23 | 47 |
+| spacenews | 3 | 8 | 24 | 48 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4144,3 +4144,4 @@
 - **May 31, 10:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 10:35 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 31, 10:49 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
