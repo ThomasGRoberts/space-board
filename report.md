@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 23 | 49 |
-| breaking_defense | 2 | 3 | 23 | 48 |
+| spacenews | 2 | 10 | 24 | 50 |
+| breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -4122,3 +4122,4 @@
 - **May 31, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 04:11 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 31, 04:27 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **May 31, 04:41 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
