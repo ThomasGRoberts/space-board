@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 | nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4118,3 +4118,4 @@
 - **May 31, 01:27 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 01:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 01:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
