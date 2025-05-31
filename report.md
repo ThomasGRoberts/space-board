@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 24 | 53 |
 | breaking_defense | 2 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 | nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4167,3 +4167,4 @@
 - **May 31, 05:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 06:09 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 31, 06:23 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 06:25 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
