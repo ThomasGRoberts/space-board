@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
-| breaking_defense | 2 | 3 | 25 | 49 |
-| supercluster | 1 | 1 | 100 | 100 |
-| nyt | 0 | 2 | 23 | 48 |
+| breaking_defense | 2 | 3 | 24 | 49 |
+| supercluster | 1 | 1 | 101 | 101 |
+| nyt | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4196,3 +4196,4 @@
 - **May 31, 08:32 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **May 31, 08:45 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 09:00 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **May 31, 09:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
