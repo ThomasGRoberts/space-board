@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | breaking_defense | 0 | 2 | 22 | 46 |
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4153,3 +4153,4 @@
 - **May 31, 11:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **May 31, 11:32 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
