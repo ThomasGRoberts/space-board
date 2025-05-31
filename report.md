@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 24 | 51 |
+| spacenews | 6 | 14 | 25 | 52 |
 | breaking_defense | 2 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 51 | 51 |
 | nyt | 0 | 2 | 22 | 45 |
@@ -4123,3 +4123,4 @@
 - **May 31, 01:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:51 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **May 31, 01:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **May 31, 01:55 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
