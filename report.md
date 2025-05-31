@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 48 |
 | breaking_defense | 2 | 2 | 24 | 48 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4151,3 +4151,4 @@
 - **May 31, 07:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **May 31, 07:05 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **May 31, 07:19 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
