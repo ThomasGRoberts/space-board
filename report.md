@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
+| spacenews | 2 | 8 | 24 | 48 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4154,3 +4154,4 @@
 - **May 31, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **May 31, 11:32 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
+- **May 31, 11:47 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
