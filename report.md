@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 47 |
+| spacenews | 2 | 4 | 25 | 48 |
 | nyt | 2 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 147 | 147 |
 | breaking_defense | 0 | 2 | 24 | 47 |
@@ -4306,3 +4306,4 @@
 - **Jun 01, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 04:49 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 01, 05:03 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
