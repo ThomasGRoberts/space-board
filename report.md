@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 48 |
 | nyt | 2 | 2 | 23 | 44 |
-| supercluster | 1 | 1 | 141 | 141 |
+| supercluster | 1 | 1 | 142 | 142 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4299,3 +4299,4 @@
 - **Jun 01, 04:07 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **Jun 01, 04:21 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
