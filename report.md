@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 23 | 48 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 105 | 105 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4245,3 +4245,4 @@
 - **Jun 01, 10:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 11:05 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
