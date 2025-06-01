@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4249,3 +4249,4 @@
 - **Jun 01, 11:19 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 01, 11:33 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 11:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
