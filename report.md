@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 25 | 48 |
+| spacenews | 0 | 2 | 26 | 49 |
 | nyt | 1 | 2 | 25 | 47 |
 | supercluster | 0 | 1 | 175 | 196 |
 | breaking_defense | 0 | 0 | 25 | 47 |
@@ -4376,3 +4376,4 @@
 - **Jun 01, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:23 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
+- **Jun 01, 11:37 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
