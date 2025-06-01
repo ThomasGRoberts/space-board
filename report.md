@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 23 | 47 |
+| spacenews | 2 | 6 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 112 | 112 |
 | breaking_defense | 0 | 2 | 22 | 47 |
@@ -4256,3 +4256,4 @@
 - **Jun 01, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 12:02 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **Jun 01, 12:15 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
