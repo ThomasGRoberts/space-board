@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 23 | 47 |
+| spacenews | 2 | 5 | 24 | 48 |
 | nyt | 2 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 119 | 119 |
 | breaking_defense | 0 | 2 | 22 | 47 |
@@ -4266,3 +4266,4 @@
 - **Jun 01, 12:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:01 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 01, 01:15 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
