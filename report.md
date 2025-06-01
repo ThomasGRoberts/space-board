@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 48 |
+| spacenews | 2 | 8 | 24 | 49 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 91 | 91 |
 | breaking_defense | 0 | 2 | 22 | 46 |
@@ -4226,3 +4226,4 @@
 - **Jun 01, 09:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 09:11 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 01, 09:25 AM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
