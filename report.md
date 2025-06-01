@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 23 | 47 |
+| spacenews | 2 | 7 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 98 | 98 |
 | breaking_defense | 0 | 2 | 22 | 47 |
@@ -4236,3 +4236,4 @@
 - **Jun 01, 10:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 10:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 10:10 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 01, 10:23 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
