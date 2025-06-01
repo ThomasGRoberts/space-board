@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 45 |
+| spacenews | 2 | 8 | 24 | 48 |
+| nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 56 | 56 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4176,3 +4176,4 @@
 - **Jun 01, 04:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 04:26 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 01, 04:42 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
