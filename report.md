@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 48 |
 | nyt | 2 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4308,3 +4308,4 @@
 - **Jun 01, 04:49 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 01, 05:03 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **Jun 01, 05:17 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **Jun 01, 05:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
