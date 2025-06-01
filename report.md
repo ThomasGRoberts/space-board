@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 49 |
 | nyt | 2 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 155 | 155 |
+| supercluster | 1 | 1 | 156 | 156 |
 | breaking_defense | 0 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4319,3 +4319,4 @@
 - **Jun 01, 05:59 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **Jun 01, 06:13 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 06:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 06:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
