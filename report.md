@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 42 | 42 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4157,3 +4157,4 @@
 - **Jun 01, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 02:31 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 02:45 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
+- **Jun 01, 02:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
