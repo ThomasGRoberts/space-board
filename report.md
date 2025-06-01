@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 70 | 70 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4197,3 +4197,4 @@
 - **Jun 01, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 06:20 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 01, 06:33 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
+- **Jun 01, 06:47 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
