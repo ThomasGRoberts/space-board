@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 168 | 168 |
-| breaking_defense | 0 | 2 | 23 | 48 |
+| breaking_defense | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4337,3 +4337,4 @@
 - **Jun 01, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 07:37 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 07:51 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
+- **Jun 01, 08:05 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
