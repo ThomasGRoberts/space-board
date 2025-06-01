@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4148,3 +4148,4 @@
 - **Jun 01, 01:35 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 01:49 AM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
 - **Jun 01, 02:03 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **Jun 01, 02:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
