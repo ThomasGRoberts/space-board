@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
+| spacenews | 2 | 8 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 77 | 77 |
 | breaking_defense | 0 | 2 | 22 | 46 |
@@ -4206,3 +4206,4 @@
 - **Jun 01, 07:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 07:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 07:15 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 01, 07:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
