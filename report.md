@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 23 | 48 |
 | nyt | 2 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 119 | 119 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4267,3 +4267,4 @@
 - **Jun 01, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:01 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 01, 01:15 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
+- **Jun 01, 01:29 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
