@@ -5,7 +5,7 @@
 | spacenews | 0 | 2 | 25 | 49 |
 | nyt | 1 | 2 | 25 | 47 |
 | supercluster | 0 | 1 | 175 | 196 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4377,3 +4377,4 @@
 - **Jun 01, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 11:23 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 01, 11:37 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
+- **Jun 01, 11:51 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
