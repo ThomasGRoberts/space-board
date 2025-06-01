@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 49 | 49 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4167,3 +4167,4 @@
 - **Jun 01, 03:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 03:27 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 03:41 AM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
+- **Jun 01, 03:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
