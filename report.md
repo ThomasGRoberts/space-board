@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 47 |
+| spacenews | 2 | 4 | 25 | 48 |
 | nyt | 2 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 140 | 140 |
 | breaking_defense | 0 | 2 | 24 | 47 |
@@ -4296,3 +4296,4 @@
 - **Jun 01, 03:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 03:53 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **Jun 01, 04:07 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
