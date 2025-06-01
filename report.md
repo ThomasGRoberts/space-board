@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 45 |
+| spacenews | 2 | 8 | 24 | 48 |
+| nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 70 | 70 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4196,3 +4196,4 @@
 - **Jun 01, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 06:20 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 01, 06:33 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
