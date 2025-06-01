@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 77 | 77 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4207,3 +4207,4 @@
 - **Jun 01, 07:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 07:15 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 07:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
+- **Jun 01, 07:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
