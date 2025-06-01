@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 23 | 47 |
+| spacenews | 2 | 5 | 24 | 48 |
 | nyt | 2 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 126 | 126 |
 | breaking_defense | 0 | 2 | 23 | 47 |
@@ -4276,3 +4276,4 @@
 - **Jun 01, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:57 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
+- **Jun 01, 02:13 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
