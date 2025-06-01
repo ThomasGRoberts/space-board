@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 25 | 48 |
 | nyt | 1 | 2 | 25 | 47 |
-| supercluster | 0 | 1 | 175 | 189 |
+| supercluster | 0 | 1 | 176 | 190 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4368,3 +4368,4 @@
 - **Jun 01, 10:27 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 01, 10:41 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **Jun 01, 10:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **Jun 01, 11:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
