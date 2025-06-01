@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 21 | 21 |
-| breaking_defense | 0 | 2 | 23 | 47 |
+| supercluster | 1 | 1 | 22 | 22 |
+| breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4128,3 +4128,4 @@
 - **May 31, 11:32 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 31, 11:47 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **Jun 01, 12:03 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 01, 12:18 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
