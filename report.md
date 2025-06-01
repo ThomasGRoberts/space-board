@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 49 |
 | nyt | 2 | 2 | 25 | 46 |
-| supercluster | 0 | 1 | 173 | 176 |
+| supercluster | 0 | 1 | 174 | 177 |
 | breaking_defense | 0 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4349,3 +4349,4 @@
 - **Jun 01, 08:47 PM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **Jun 01, 09:01 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 01, 09:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
