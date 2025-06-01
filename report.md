@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
+| spacenews | 2 | 8 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 84 | 84 |
 | breaking_defense | 0 | 2 | 22 | 46 |
@@ -4216,3 +4216,4 @@
 - **Jun 01, 08:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 08:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 08:13 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
+- **Jun 01, 08:27 AM** - Apex announces Comet satellite bus for constellations (spacenews)
