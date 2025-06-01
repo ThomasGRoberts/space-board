@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 48 |
-| nyt | 2 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 140 | 140 |
+| nyt | 2 | 2 | 23 | 44 |
+| supercluster | 1 | 1 | 141 | 141 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4298,3 +4298,4 @@
 - **Jun 01, 03:53 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 04:07 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **Jun 01, 04:21 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 01, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
