@@ -5,7 +5,7 @@
 | spacenews | 0 | 3 | 25 | 49 |
 | nyt | 1 | 2 | 25 | 47 |
 | supercluster | 0 | 1 | 175 | 189 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4367,3 +4367,4 @@
 - **Jun 01, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 10:27 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 01, 10:41 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
+- **Jun 01, 10:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
