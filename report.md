@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 24 | 48 |
 | nyt | 2 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 126 | 126 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4277,3 +4277,4 @@
 - **Jun 01, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:57 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 01, 02:13 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
+- **Jun 01, 02:27 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
