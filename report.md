@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 161 | 161 |
-| breaking_defense | 0 | 2 | 23 | 48 |
+| breaking_defense | 0 | 2 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4327,3 +4327,4 @@
 - **Jun 01, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 06:41 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 06:55 PM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
+- **Jun 01, 07:09 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
