@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 25 | 48 |
 | nyt | 2 | 2 | 23 | 44 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4289,3 +4289,4 @@
 - **Jun 01, 03:11 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 01, 03:25 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 01, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 03:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
