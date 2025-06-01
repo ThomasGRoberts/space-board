@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 35 | 35 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4145,3 +4145,4 @@
 - **Jun 01, 01:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 01:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 01:35 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
