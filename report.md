@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 154 | 154 |
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4317,3 +4317,4 @@
 - **Jun 01, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 05:45 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 05:59 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
+- **Jun 01, 06:13 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
