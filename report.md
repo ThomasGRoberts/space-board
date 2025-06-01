@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4159,3 +4159,4 @@
 - **Jun 01, 02:45 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 01, 02:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
