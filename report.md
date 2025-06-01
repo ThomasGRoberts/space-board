@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4190,3 +4190,4 @@
 - **Jun 01, 05:51 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 01, 06:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 06:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 06:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
