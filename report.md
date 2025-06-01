@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
+| spacenews | 2 | 8 | 24 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 28 | 28 |
 | breaking_defense | 0 | 2 | 22 | 46 |
@@ -4136,3 +4136,4 @@
 - **Jun 01, 12:30 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 12:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 12:35 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 01, 12:49 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
