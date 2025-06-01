@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 23 | 48 |
-| nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 99 | 99 |
+| nyt | 1 | 1 | 21 | 44 |
+| supercluster | 1 | 1 | 100 | 100 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4239,3 +4239,4 @@
 - **Jun 01, 10:23 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **Jun 01, 10:37 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 01, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
