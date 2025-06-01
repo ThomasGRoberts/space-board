@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 29 | 29 |
-| breaking_defense | 0 | 2 | 22 | 47 |
+| supercluster | 1 | 1 | 30 | 30 |
+| breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4139,3 +4139,4 @@
 - **Jun 01, 12:49 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **Jun 01, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 01:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 01:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
