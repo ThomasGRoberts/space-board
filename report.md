@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 25 | 49 |
-| nyt | 1 | 2 | 25 | 46 |
-| supercluster | 0 | 1 | 180 | 189 |
+| nyt | 1 | 2 | 26 | 47 |
+| supercluster | 0 | 1 | 178 | 189 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4365,3 +4365,4 @@
 - **Jun 01, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 10:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 10:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 01, 10:27 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
