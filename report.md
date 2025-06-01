@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 84 | 84 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4217,3 +4217,4 @@
 - **Jun 01, 08:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 08:13 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **Jun 01, 08:27 AM** - Apex announces Comet satellite bus for constellations (spacenews)
+- **Jun 01, 08:43 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
