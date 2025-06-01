@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 25 | 48 |
 | nyt | 2 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 133 | 133 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4287,3 +4287,4 @@
 - **Jun 01, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 01, 02:55 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 01, 03:11 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
+- **Jun 01, 03:25 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
