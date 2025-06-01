@@ -1,9 +1,79 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-05-31T00:02:13.271711+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-01T00:02:01.204378+00:00",
+    "trigger_count": 6,
     "current_item_id": "6d60fec543c4f6e6cd8d15a25c2db6a4",
     "data": [
+        {
+            "id": "b4a82d08009165767a92e13a86dea65d",
+            "source": "spacenews",
+            "text": "Blue Origin performs 12th crewed New Shepard suborbital flight",
+            "source_link": "https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:39:27.921525Z",
+            "shown_at": [
+                "2025-05-31T21:53:24.171745Z"
+            ]
+        },
+        {
+            "id": "7c84647dea55bccc716e757e6c91b37b",
+            "source": "spacenews",
+            "text": "White House to withdraw Isaacman nomination to lead NASA",
+            "source_link": "https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:39:27.921459Z",
+            "shown_at": [
+                "2025-05-31T21:39:28.568382Z"
+            ]
+        },
+        {
+            "id": "7747cbcd186703ddf44157647b5de287",
+            "source": "nyt",
+            "text": "Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job",
+            "source_link": "https://www.nytimes.com/2025/05/31/us/politics/trump-nasa-nominee-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-05-31T21:25:23.807047Z",
+            "shown_at": [
+                "2025-05-31T21:25:24.558618Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-19",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-02T04:57:00.000Z",
+            "time_remaining": "1d 05h 27m",
+            "fetched_datetime": "2025-05-31T21:11:16.562766Z",
+            "shown_at": [
+                "2025-05-31T21:11:17.547011Z",
+                "2025-05-31T21:14:04.464816Z",
+                "2025-05-31T21:15:27.511614Z",
+                "2025-05-31T21:17:23.143825Z",
+                "2025-05-31T21:19:59.242084Z",
+                "2025-05-31T21:21:47.981930Z",
+                "2025-05-31T21:23:35.915981Z",
+                "2025-05-31T22:21:43.776237Z",
+                "2025-05-31T22:23:26.972171Z",
+                "2025-05-31T22:25:48.572510Z",
+                "2025-05-31T22:27:35.413204Z",
+                "2025-05-31T22:29:40.088478Z",
+                "2025-05-31T22:31:55.011469Z",
+                "2025-05-31T22:33:30.424577Z",
+                "2025-05-31T23:17:46.707276Z",
+                "2025-05-31T23:19:31.868225Z",
+                "2025-05-31T23:21:35.383377Z",
+                "2025-05-31T23:23:31.274663Z",
+                "2025-05-31T23:25:44.745434Z",
+                "2025-05-31T23:27:24.563090Z",
+                "2025-05-31T23:29:24.689249Z"
+            ]
+        },
         {
             "id": "ff2af455af231a9c247e5fce0740c4bd",
             "source": "spacenews",
@@ -9551,137 +9621,6 @@
                 "2025-03-30T22:08:11.290491Z",
                 "2025-04-03T03:51:48.799435Z",
                 "2025-04-03T05:02:17.638859Z"
-            ]
-        },
-        {
-            "id": "41e7a78120b7f705fab59f31c51c8dae",
-            "source": "spacenews",
-            "text": "Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business",
-            "source_link": "https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T21:19:33.640242Z",
-            "shown_at": [
-                "2025-03-28T21:19:34.162426Z"
-            ]
-        },
-        {
-            "id": "dd2142d62c663dd6495f82ee27025e87",
-            "source": "breaking_defense",
-            "text": "Space Force greenlights Rocket Lab, Stoke for future launches",
-            "source_link": "https://breakingdefense.com/2025/03/space-force-greenlights-rocket-lab-stoke-for-future-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T16:19:31.957532Z",
-            "shown_at": [
-                "2025-03-28T16:19:32.400084Z",
-                "2025-03-29T14:39:34.355936Z",
-                "2025-03-29T20:23:40.292787Z",
-                "2025-03-30T19:03:43.872915Z",
-                "2025-03-30T20:13:33.579729Z",
-                "2025-03-31T08:45:46.485913Z",
-                "2025-03-31T13:49:46.539171Z",
-                "2025-04-01T01:25:11.315112Z",
-                "2025-04-01T03:33:33.497946Z",
-                "2025-04-01T05:45:42.469999Z",
-                "2025-04-01T09:33:43.833722Z",
-                "2025-04-01T10:47:41.255870Z",
-                "2025-04-01T14:29:48.587719Z",
-                "2025-04-02T22:45:27.093408Z",
-                "2025-04-02T23:55:36.491762Z",
-                "2025-04-03T07:05:34.138308Z",
-                "2025-04-04T03:25:38.812394Z",
-                "2025-04-04T04:37:26.448049Z",
-                "2025-04-04T08:15:59.072980Z",
-                "2025-04-04T11:47:36.627181Z",
-                "2025-04-04T12:57:47.762096Z",
-                "2025-04-04T14:07:27.708919Z"
-            ]
-        },
-        {
-            "id": "2166b8626c757e65b3f9c3c87bde39a0",
-            "source": "spacenews",
-            "text": "Artemis 2.0: A model for really winning the new moon race",
-            "source_link": "https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-28T13:07:30.083846Z",
-            "shown_at": [
-                "2025-03-28T13:07:30.535416Z",
-                "2025-03-30T08:09:40.054874Z",
-                "2025-03-30T16:15:06.879852Z",
-                "2025-04-01T09:19:55.732392Z",
-                "2025-04-04T08:29:19.035533Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-19",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-02T04:57:00.000Z",
-            "time_remaining": "1d 05h 27m",
-            "fetched_datetime": "2025-05-31T21:11:16.562766Z",
-            "shown_at": [
-                "2025-05-31T21:11:17.547011Z",
-                "2025-05-31T21:14:04.464816Z",
-                "2025-05-31T21:15:27.511614Z",
-                "2025-05-31T21:17:23.143825Z",
-                "2025-05-31T21:19:59.242084Z",
-                "2025-05-31T21:21:47.981930Z",
-                "2025-05-31T21:23:35.915981Z",
-                "2025-05-31T22:21:43.776237Z",
-                "2025-05-31T22:23:26.972171Z",
-                "2025-05-31T22:25:48.572510Z",
-                "2025-05-31T22:27:35.413204Z",
-                "2025-05-31T22:29:40.088478Z",
-                "2025-05-31T22:31:55.011469Z",
-                "2025-05-31T22:33:30.424577Z",
-                "2025-05-31T23:17:46.707276Z",
-                "2025-05-31T23:19:31.868225Z",
-                "2025-05-31T23:21:35.383377Z",
-                "2025-05-31T23:23:31.274663Z",
-                "2025-05-31T23:25:44.745434Z",
-                "2025-05-31T23:27:24.563090Z",
-                "2025-05-31T23:29:24.689249Z"
-            ]
-        },
-        {
-            "id": "7747cbcd186703ddf44157647b5de287",
-            "source": "nyt",
-            "text": "Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job",
-            "source_link": "https://www.nytimes.com/2025/05/31/us/politics/trump-nasa-nominee-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-31T21:25:23.807047Z",
-            "shown_at": [
-                "2025-05-31T21:25:24.558618Z"
-            ]
-        },
-        {
-            "id": "7c84647dea55bccc716e757e6c91b37b",
-            "source": "spacenews",
-            "text": "White House to withdraw Isaacman nomination to lead NASA",
-            "source_link": "https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-31T21:39:27.921459Z",
-            "shown_at": [
-                "2025-05-31T21:39:28.568382Z"
-            ]
-        },
-        {
-            "id": "b4a82d08009165767a92e13a86dea65d",
-            "source": "spacenews",
-            "text": "Blue Origin performs 12th crewed New Shepard suborbital flight",
-            "source_link": "https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-31T21:39:27.921525Z",
-            "shown_at": [
-                "2025-05-31T21:53:24.171745Z"
             ]
         }
     ]
