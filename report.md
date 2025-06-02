@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 26 | 49 |
 | supercluster | 0 | 1 | 175 | 210 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4392,3 +4392,4 @@
 - **Jun 02, 01:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 01:15 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 02, 01:29 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
+- **Jun 02, 01:45 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
