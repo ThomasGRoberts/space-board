@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04a601e4483e9e952dd3727cc702a09a",
+    "trigger_count": 0,
+    "current_item_id": "c2e021ddac58a58dde4fe6c23cd960f2",
     "data": [
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
@@ -9819,6 +9819,18 @@
             "fetched_datetime": "2025-06-02T15:00:02.536702Z",
             "shown_at": [
                 "2025-06-02T15:00:03.258872Z"
+            ]
+        },
+        {
+            "id": "c2e021ddac58a58dde4fe6c23cd960f2",
+            "source": "spacenews",
+            "text": "EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation",
+            "source_link": "https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T15:19:51.651712Z",
+            "shown_at": [
+                "2025-06-02T15:19:52.750400Z"
             ]
         }
     ]
