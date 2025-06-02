@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 24 | 47 |
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4303,3 +4303,4 @@
 - **Jun 02, 04:59 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 05:13 PM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
 - **Jun 02, 05:27 PM** - EchoStar bets on TV amid FCC mobile scrutiny (spacenews)
+- **Jun 02, 05:41 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
