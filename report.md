@@ -2,11 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 26 | 47 |
+| nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4192,9 +4191,5 @@
 - **Jun 02, 04:09 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 04:24 AM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **Jun 02, 04:37 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
-- **Jun 02, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 02, 04:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 02, 05:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 02, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 05:07 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **Jun 02, 05:21 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
