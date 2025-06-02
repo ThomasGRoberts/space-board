@@ -6,7 +6,7 @@
 | spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -4283,3 +4283,4 @@
 - **Jun 02, 03:00 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 03:19 PM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
 - **Jun 02, 03:33 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 02, 03:47 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
