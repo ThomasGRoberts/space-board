@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -4231,3 +4231,4 @@
 - **Jun 02, 09:31 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 09:45 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 02, 09:59 AM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
+- **Jun 02, 10:13 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
