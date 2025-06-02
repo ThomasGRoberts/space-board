@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 25 | 47 |
+| nyt | 1 | 2 | 26 | 48 |
 | spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 182 | 224 |
+| supercluster | 0 | 1 | 181 | 224 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4410,3 +4410,4 @@
 - **Jun 02, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 02, 03:13 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
