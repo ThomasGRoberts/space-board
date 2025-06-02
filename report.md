@@ -6,7 +6,7 @@
 | spacenews | 7 | 7 | 26 | 52 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4248,3 +4248,4 @@
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 02, 11:39 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 11:41 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
