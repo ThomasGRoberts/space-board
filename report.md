@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 23 | 47 |
-| spacenews | 4 | 6 | 25 | 50 |
-| breaking_defense | 1 | 1 | 24 | 48 |
+| spacenews | 4 | 6 | 26 | 51 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -4301,3 +4301,4 @@
 - **Jun 02, 04:55 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 04:57 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 04:59 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 02, 05:13 PM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
