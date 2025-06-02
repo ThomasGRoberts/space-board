@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4193,3 +4193,4 @@
 - **Jun 02, 04:24 AM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **Jun 02, 04:37 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 02, 04:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
