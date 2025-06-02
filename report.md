@@ -6,6 +6,7 @@
 | spacenews | 0 | 2 | 26 | 49 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4193,3 +4194,4 @@
 - **Jun 02, 04:37 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 05:07 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **Jun 02, 05:21 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
+- **Jun 02, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
