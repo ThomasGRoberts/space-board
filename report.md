@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4222,3 +4222,4 @@
 - **Jun 02, 08:49 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 09:03 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 02, 09:17 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 09:19 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
