@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33574346fa92827dc6e43f869cb05f56",
+    "trigger_count": 0,
+    "current_item_id": "25abb1fa34d8df018c3c596c3cf3f435",
     "data": [
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
@@ -9777,6 +9777,18 @@
             "fetched_datetime": "2025-06-02T12:37:46.275257Z",
             "shown_at": [
                 "2025-06-02T12:37:47.157554Z"
+            ]
+        },
+        {
+            "id": "25abb1fa34d8df018c3c596c3cf3f435",
+            "source": "spacenews",
+            "text": "Space assets could be held ransom. Will we have any choice but to pay?",
+            "source_link": "https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T13:05:18.852796Z",
+            "shown_at": [
+                "2025-06-02T13:05:19.447622Z"
             ]
         }
     ]
