@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 7 | 7 | 26 | 51 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 116 | 116 |
 
@@ -4361,3 +4361,4 @@
 - **Jun 02, 11:03 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:06 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:10 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
