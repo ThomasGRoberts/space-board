@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 6 | 6 | 26 | 51 |
-| breaking_defense | 1 | 1 | 22 | 48 |
+| breaking_defense | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 
 # Shown Order
 
@@ -4349,3 +4349,4 @@
 - **Jun 02, 10:02 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 10:03 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 10:05 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 10:07 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
