@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4314,3 +4314,4 @@
 - **Jun 02, 06:11 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 06:25 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 06:39 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 02, 06:53 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
