@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 23 | 48 |
-| spacenews | 7 | 7 | 26 | 51 |
+| nyt | 0 | 1 | 22 | 48 |
+| spacenews | 7 | 7 | 27 | 52 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 116 | 116 |
@@ -4362,3 +4362,4 @@
 - **Jun 02, 11:06 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:10 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
