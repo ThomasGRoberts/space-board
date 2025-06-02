@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4202,3 +4202,4 @@
 - **Jun 02, 06:47 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 07:02 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **Jun 02, 07:20 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 07:21 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
