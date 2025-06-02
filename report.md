@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 177 | 198 |
+| supercluster | 0 | 1 | 178 | 199 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4375,3 +4375,4 @@
 - **Jun 01, 11:51 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 12:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 12:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 02, 12:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
