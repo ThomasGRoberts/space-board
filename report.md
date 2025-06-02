@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 23 | 46 |
-| spacenews | 5 | 7 | 27 | 52 |
+| nyt | 0 | 2 | 24 | 47 |
+| spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 88 | 88 |
@@ -4323,3 +4323,4 @@
 - **Jun 02, 07:05 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 07:07 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 07:21 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
+- **Jun 02, 07:35 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
