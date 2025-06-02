@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4196,3 +4196,4 @@
 - **Jun 02, 05:21 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **Jun 02, 06:25 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 06:27 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 06:29 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
