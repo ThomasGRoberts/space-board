@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 45 |
 | spacenews | 2 | 4 | 26 | 49 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -4260,3 +4260,4 @@
 - **Jun 02, 12:19 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 12:21 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 12:37 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
+- **Jun 02, 12:51 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
