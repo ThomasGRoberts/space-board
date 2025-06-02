@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 23 | 47 |
-| spacenews | 5 | 7 | 26 | 52 |
+| spacenews | 6 | 8 | 27 | 53 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 102 | 102 |
@@ -4342,3 +4342,4 @@
 - **Jun 02, 09:07 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 09:09 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 09:12 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **Jun 02, 09:27 PM** - South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts (spacenews)

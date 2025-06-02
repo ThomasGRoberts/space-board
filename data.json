@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33574346fa92827dc6e43f869cb05f56",
+    "trigger_count": 0,
+    "current_item_id": "bd9854a9f2a4e0b5733e946966cd87c4",
     "data": [
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
@@ -9902,6 +9902,18 @@
             "fetched_datetime": "2025-06-02T17:27:07.494143Z",
             "shown_at": [
                 "2025-06-02T17:27:08.136309Z"
+            ]
+        },
+        {
+            "id": "bd9854a9f2a4e0b5733e946966cd87c4",
+            "source": "spacenews",
+            "text": "South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts",
+            "source_link": "https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T21:27:25.604067Z",
+            "shown_at": [
+                "2025-06-02T21:27:26.214635Z"
             ]
         }
     ]
