@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 6 | 6 | 26 | 51 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| breaking_defense | 1 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
 
@@ -4345,3 +4345,4 @@
 - **Jun 02, 09:27 PM** - South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts (spacenews)
 - **Jun 02, 09:43 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 02, 09:57 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 09:59 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
