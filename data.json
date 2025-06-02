@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 6,
-    "current_item_id": "75fca993328155a218ccf4d3fd82afc8",
+    "trigger_count": 0,
+    "current_item_id": "faa67bfd062b5246f8c5f87a0a52ff35",
     "data": [
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
@@ -9752,6 +9752,18 @@
                 "2025-06-02T12:15:26.801971Z",
                 "2025-06-02T12:17:55.496456Z",
                 "2025-06-02T12:19:36.960751Z"
+            ]
+        },
+        {
+            "id": "faa67bfd062b5246f8c5f87a0a52ff35",
+            "source": "spacenews",
+            "text": "SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion",
+            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T12:21:53.295964Z",
+            "shown_at": [
+                "2025-06-02T12:21:54.434561Z"
             ]
         }
     ]
