@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 23 | 47 |
-| spacenews | 5 | 7 | 27 | 51 |
+| spacenews | 5 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4326,3 +4326,4 @@
 - **Jun 02, 07:35 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 07:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 07:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 07:53 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
