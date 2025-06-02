@@ -6,7 +6,7 @@
 | spacenews | 3 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -4273,3 +4273,4 @@
 - **Jun 02, 01:47 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 02:02 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 02:17 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 02, 02:32 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
