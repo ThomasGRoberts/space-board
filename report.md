@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -4325,3 +4325,4 @@
 - **Jun 02, 07:21 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **Jun 02, 07:35 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 07:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 07:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
