@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 175 | 203 |
+| supercluster | 0 | 1 | 176 | 204 |
 | breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4383,3 +4383,4 @@
 - **Jun 02, 12:19 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 02, 12:33 AM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
 - **Jun 02, 12:47 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **Jun 02, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
