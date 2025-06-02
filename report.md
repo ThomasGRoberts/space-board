@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 25 | 47 |
+| nyt | 1 | 2 | 26 | 48 |
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4196,3 +4196,4 @@
 - **Jun 02, 04:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 05:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 02, 05:07 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
