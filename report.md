@@ -6,7 +6,7 @@
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -4324,3 +4324,4 @@
 - **Jun 02, 07:07 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 07:21 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **Jun 02, 07:35 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
+- **Jun 02, 07:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
