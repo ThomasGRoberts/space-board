@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 175 | 217 |
+| supercluster | 0 | 1 | 176 | 218 |
 | breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4403,3 +4403,4 @@
 - **Jun 02, 02:15 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 02, 02:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **Jun 02, 02:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 02, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
