@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 26 | 47 |
-| spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 177 | 217 |
+| spacenews | 0 | 2 | 26 | 49 |
+| supercluster | 0 | 1 | 176 | 217 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4401,3 +4401,4 @@
 - **Jun 02, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 02:15 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 02, 02:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
