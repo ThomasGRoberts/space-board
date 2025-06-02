@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 26 | 47 |
-| spacenews | 0 | 2 | 25 | 48 |
+| nyt | 1 | 2 | 25 | 47 |
+| spacenews | 0 | 2 | 26 | 49 |
 | supercluster | 0 | 1 | 175 | 224 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4411,3 +4411,4 @@
 - **Jun 02, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 02, 03:13 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 02, 03:27 AM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
