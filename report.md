@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 23 | 48 |
 | spacenews | 7 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4254,3 +4254,4 @@
 - **Jun 02, 11:47 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
