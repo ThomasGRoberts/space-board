@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 175 | 224 |
-| breaking_defense | 0 | 0 | 26 | 48 |
+| supercluster | 0 | 1 | 176 | 225 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4413,3 +4413,4 @@
 - **Jun 02, 03:13 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 02, 03:27 AM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **Jun 02, 03:41 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 02, 03:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
