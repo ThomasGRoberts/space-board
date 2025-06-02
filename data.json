@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-01T00:02:01.204378+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
+    "trigger_count": 5,
     "current_item_id": "efac67e6bbf1e7d2abc9cb987eb5d74e",
     "data": [
+        {
+            "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
+            "source": "nyt",
+            "text": "Northern Lights May Be Visible as Far South as Alabama",
+            "source_link": "https://www.nytimes.com/2025/06/01/weather/northern-lights-visible-states.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-01T13:01:38.155239Z",
+            "shown_at": [
+                "2025-06-01T13:01:38.691621Z"
+            ]
+        },
         {
             "id": "b4a82d08009165767a92e13a86dea65d",
             "source": "spacenews",
@@ -9855,34 +9867,6 @@
                 "2025-04-04T11:05:49.384937Z",
                 "2025-04-04T16:57:30.134212Z",
                 "2025-04-04T18:23:47.514454Z"
-            ]
-        },
-        {
-            "id": "4747e6a3a9ca323978063fb0eb863670",
-            "source": "spacenews",
-            "text": "Airbus wins contract for ExoMars lander platform",
-            "source_link": "https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T00:35:37.965802Z",
-            "shown_at": [
-                "2025-03-29T00:35:38.747071Z",
-                "2025-03-30T06:43:43.600612Z",
-                "2025-03-30T22:08:11.290491Z",
-                "2025-04-03T03:51:48.799435Z",
-                "2025-04-03T05:02:17.638859Z"
-            ]
-        },
-        {
-            "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
-            "source": "nyt",
-            "text": "Northern Lights May Be Visible as Far South as Alabama",
-            "source_link": "https://www.nytimes.com/2025/06/01/weather/northern-lights-visible-states.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-01T13:01:38.155239Z",
-            "shown_at": [
-                "2025-06-01T13:01:38.691621Z"
             ]
         }
     ]

@@ -2,21 +2,19 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 25 | 49 |
 | nyt | 1 | 2 | 25 | 47 |
+| spacenews | 0 | 2 | 25 | 48 |
 | supercluster | 0 | 1 | 175 | 196 |
 | breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Mar 29, 12:35 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 29, 07:23 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 09:43 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 07:53 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 29, 09:05 PM** - China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite (spacenews)
 - **Mar 30, 12:56 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
-- **Mar 30, 06:43 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 30, 06:59 AM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 30, 07:27 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 30, 12:43 PM** - Isar Aerospace’s first Spectrum launch fails (spacenews)
@@ -25,7 +23,6 @@
 - **Mar 30, 03:47 PM** - FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX (aidy)
 - **Mar 30, 07:17 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 30, 09:39 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
-- **Mar 30, 10:08 PM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Mar 30, 10:39 PM** - Orbital Rocket Crashes After First Launch From Continental Europe (nyt)
 - **Mar 30, 11:07 PM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
 - **Mar 31, 12:17 AM** - FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity (aidy)
@@ -105,10 +102,8 @@
 - **Apr 03, 12:39 AM** - MDA Space buys SatixFy to boost constellation production (spacenews)
 - **Apr 03, 01:51 AM** - “Standardization, automation, and industrialization are no longer optional” (spacenews)
 - **Apr 03, 02:07 AM** - NASA Astronauts Speak for First Time After 9-Month Stay in Space at ISS (nyt)
-- **Apr 03, 03:51 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Apr 03, 04:05 AM** - SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time (nyt)
 - **Apr 03, 04:47 AM** - ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force (aidy)
-- **Apr 03, 05:02 AM** - Airbus wins contract for ExoMars lander platform (spacenews)
 - **Apr 03, 05:17 AM** - Photos: Partial Solar Eclipse Captivates Much of the Northern Hemisphere (nyt)
 - **Apr 03, 06:17 AM** - Biotech is the launchpad for human survival in space (spacenews)
 - **Apr 03, 07:33 AM** - FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges (aidy)
