@@ -6,7 +6,7 @@
 | spacenews | 3 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -4274,3 +4274,4 @@
 - **Jun 02, 02:02 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 02:17 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 02, 02:32 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 02:33 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
