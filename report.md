@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 23 | 47 |
 | spacenews | 4 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -4300,3 +4300,4 @@
 - **Jun 02, 04:53 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 04:55 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 04:57 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 04:59 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
