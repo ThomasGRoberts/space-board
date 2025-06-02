@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 23 | 48 |
 | spacenews | 7 | 7 | 27 | 52 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4353,3 +4353,4 @@
 - **Jun 02, 10:09 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 10:11 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 10:25 PM** - Golden Dome: It’s all about the data (spacenews)
+- **Jun 02, 10:39 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
