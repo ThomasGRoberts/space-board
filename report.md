@@ -6,7 +6,7 @@
 | spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4284,3 +4284,4 @@
 - **Jun 02, 03:19 PM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
 - **Jun 02, 03:33 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 02, 03:47 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 03:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
