@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 24 | 47 |
 | spacenews | 3 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4272,3 +4272,4 @@
 - **Jun 02, 01:45 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 01:47 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 02:02 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
+- **Jun 02, 02:17 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
