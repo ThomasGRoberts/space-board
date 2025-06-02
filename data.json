@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 1,
+    "trigger_count": 2,
     "current_item_id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
     "data": [
         {
@@ -9817,26 +9817,6 @@
             "fetched_datetime": "2025-06-02T22:25:46.573789Z",
             "shown_at": [
                 "2025-06-02T22:25:47.835669Z"
-            ]
-        },
-        {
-            "id": "75fca993328155a218ccf4d3fd82afc8",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Earth Observation Satellites for BlackSky",
-            "source_link": "https://www.supercluster.com/launches/full-stream-ahead",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-02T23:57:00.000Z",
-            "time_remaining": "0d 00h 05m",
-            "fetched_datetime": "2025-06-02T23:39:45.137910Z",
-            "shown_at": [
-                "2025-06-02T23:39:46.191163Z",
-                "2025-06-02T23:41:43.603540Z",
-                "2025-06-02T23:43:49.588762Z",
-                "2025-06-02T23:45:39.559803Z",
-                "2025-06-02T23:47:39.768582Z",
-                "2025-06-02T23:49:52.909267Z",
-                "2025-06-02T23:51:37.766578Z"
             ]
         }
     ]

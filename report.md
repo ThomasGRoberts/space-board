@@ -6,7 +6,6 @@
 | spacenews | 7 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4247,11 +4246,4 @@
 - **Jun 02, 10:39 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
-- **Jun 02, 11:39 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:41 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:43 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:45 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:47 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:49 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
-- **Jun 02, 11:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
