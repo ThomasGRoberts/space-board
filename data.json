@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3d0b6776659994da1fabe0d83c1f11b8",
+    "trigger_count": 0,
+    "current_item_id": "3f7a56f20982d38ce24bc8d2530f3f1c",
     "data": [
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
@@ -9851,6 +9851,18 @@
             "fetched_datetime": "2025-06-02T15:19:51.651712Z",
             "shown_at": [
                 "2025-06-02T15:19:52.750400Z"
+            ]
+        },
+        {
+            "id": "3f7a56f20982d38ce24bc8d2530f3f1c",
+            "source": "spacenews",
+            "text": "EchoStar bets on TV amid FCC mobile scrutiny",
+            "source_link": "https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T17:27:07.494143Z",
+            "shown_at": [
+                "2025-06-02T17:27:08.136309Z"
             ]
         }
     ]
