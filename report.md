@@ -6,7 +6,7 @@
 | spacenews | 7 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -4354,3 +4354,4 @@
 - **Jun 02, 10:11 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 10:25 PM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 02, 10:39 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 02, 10:55 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
