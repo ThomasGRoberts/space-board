@@ -6,7 +6,7 @@
 | spacenews | 3 | 5 | 26 | 49 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4263,3 +4263,4 @@
 - **Jun 02, 12:51 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 02, 01:05 PM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 02, 01:19 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 02, 01:34 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
