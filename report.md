@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4233,3 +4233,4 @@
 - **Jun 02, 09:59 AM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
 - **Jun 02, 10:13 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 10:15 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 10:17 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
