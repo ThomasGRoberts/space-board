@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 25 | 47 |
 | spacenews | 0 | 2 | 25 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4194,4 +4194,4 @@
 - **Jun 02, 04:37 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 05:07 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **Jun 02, 05:21 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
-- **Jun 02, 05:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 02, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
