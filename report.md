@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 24 | 47 |
 | spacenews | 4 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4292,3 +4292,4 @@
 - **Jun 02, 03:59 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 04:02 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 02, 04:17 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
+- **Jun 02, 04:31 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
