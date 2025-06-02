@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4221,3 +4221,4 @@
 - **Jun 02, 08:35 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 08:49 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 02, 09:03 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
+- **Jun 02, 09:17 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
