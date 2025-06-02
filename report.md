@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 23 | 47 |
 | spacenews | 3 | 5 | 26 | 50 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 60 | 60 |
 
@@ -4280,3 +4280,4 @@
 - **Jun 02, 02:47 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 02:51 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
 - **Jun 02, 02:55 PM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
+- **Jun 02, 03:00 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
