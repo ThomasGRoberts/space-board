@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4202,3 +4202,4 @@
 - **Jun 03, 03:16 AM** - The real Golden Dome opportunity – defense acquisition reform (spacenews)
 - **Jun 03, 03:29 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 03:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 03, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
