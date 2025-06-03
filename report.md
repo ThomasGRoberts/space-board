@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 
 # Shown Order
 
@@ -4369,3 +4369,4 @@
 - **Jun 03, 11:21 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **Jun 03, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 11:40 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
