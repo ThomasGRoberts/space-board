@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 
 # Shown Order
 
@@ -4357,3 +4357,4 @@
 - **Jun 03, 09:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 10:09 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 03, 10:25 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
+- **Jun 03, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
