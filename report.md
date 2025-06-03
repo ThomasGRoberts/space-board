@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 50 |
-| breaking_defense | 1 | 1 | 21 | 47 |
+| breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4186,4 +4186,4 @@
 - **Jun 03, 04:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 04:17 AM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **Jun 03, 04:32 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
-- **Jun 03, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 03, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
