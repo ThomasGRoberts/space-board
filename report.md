@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4247,3 +4247,4 @@
 - **Jun 03, 11:19 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 03, 11:33 AM** - Rocket Lab launches BlackSky satellite (spacenews)
 - **Jun 03, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 11:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
