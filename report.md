@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 0 | 1 | 21 | 45 |
+| nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4214,3 +4214,4 @@
 - **Jun 03, 07:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 07:53 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 03, 08:07 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
+- **Jun 03, 08:21 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
