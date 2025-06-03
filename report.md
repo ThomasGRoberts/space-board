@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 24 | 49 |
+| spacenews | 7 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4243,3 +4243,4 @@
 - **Jun 03, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 10:52 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 03, 11:05 AM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
