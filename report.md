@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4226,3 +4226,4 @@
 - **Jun 03, 09:03 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 03, 09:17 AM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
 - **Jun 03, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
