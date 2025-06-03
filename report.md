@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 23 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -4264,3 +4264,4 @@
 - **Jun 03, 12:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 12:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 12:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
+- **Jun 03, 01:13 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
