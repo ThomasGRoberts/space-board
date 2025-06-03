@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4187,3 +4187,4 @@
 - **Jun 03, 04:17 AM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **Jun 03, 04:32 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 03, 05:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
