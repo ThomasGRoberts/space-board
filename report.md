@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -4276,3 +4276,4 @@
 - **Jun 03, 01:57 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 02:12 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 03, 02:28 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
+- **Jun 03, 02:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
