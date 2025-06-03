@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 51 |
+| spacenews | 5 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -4358,3 +4358,4 @@
 - **Jun 03, 10:09 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 03, 10:25 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 03, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 10:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
