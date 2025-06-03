@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 24 | 50 |
-| breaking_defense | 1 | 1 | 21 | 45 |
+| breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -4263,3 +4263,4 @@
 - **Jun 03, 12:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 12:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 12:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 12:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
