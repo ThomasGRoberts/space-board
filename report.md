@@ -2,11 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 25 | 51 |
+| spacenews | 7 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 21 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4174,40 +4173,15 @@
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
-- **Jun 03, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 01:21 AM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **Jun 03, 01:35 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
-- **Jun 03, 01:50 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 02:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 02:17 AM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **Jun 03, 02:32 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
-- **Jun 03, 02:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 02:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 03:02 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 03:16 AM** - The real Golden Dome opportunity – defense acquisition reform (spacenews)
 - **Jun 03, 03:29 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 03, 03:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 03:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 03:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 03:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 03, 04:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 04:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 04:17 AM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **Jun 03, 04:32 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
