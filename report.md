@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -4277,3 +4277,4 @@
 - **Jun 03, 02:12 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 03, 02:28 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **Jun 03, 02:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
