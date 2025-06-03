@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4182,3 +4182,4 @@
 - **Jun 03, 01:21 AM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **Jun 03, 01:35 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 03, 01:50 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 03, 01:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
