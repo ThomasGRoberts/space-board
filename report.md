@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 21 | 46 |
+| spacenews | 8 | 8 | 26 | 50 |
+| breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4245,3 +4245,4 @@
 - **Jun 03, 10:52 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 03, 11:05 AM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 03, 11:19 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 03, 11:33 AM** - Rocket Lab launches BlackSky satellite (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-03T00:02:06.824590+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+    "trigger_count": 0,
+    "current_item_id": "60b8e71dfe609430f6519b032125c2ef",
     "data": [
         {
             "id": "cea7553656eab5955122ca9a70a96b7f",
@@ -9750,6 +9750,18 @@
                 "2025-06-03T10:45:34.402628Z",
                 "2025-06-03T10:47:27.244054Z",
                 "2025-06-03T10:49:28.399185Z"
+            ]
+        },
+        {
+            "id": "60b8e71dfe609430f6519b032125c2ef",
+            "source": "spacenews",
+            "text": "Rocket Lab launches BlackSky satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-blacksky-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-03T11:33:39.414390Z",
+            "shown_at": [
+                "2025-06-03T11:33:40.118764Z"
             ]
         }
     ]
