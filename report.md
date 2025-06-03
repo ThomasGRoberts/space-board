@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4215,3 +4215,4 @@
 - **Jun 03, 07:53 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 03, 08:07 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 03, 08:21 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 03, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
