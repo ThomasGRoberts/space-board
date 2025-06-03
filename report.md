@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 21 | 46 |
+| breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4235,3 +4235,4 @@
 - **Jun 03, 09:47 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 03, 10:09 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 03, 10:23 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 03, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
