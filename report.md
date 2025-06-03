@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4225,3 +4225,4 @@
 - **Jun 03, 08:49 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 09:03 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 03, 09:17 AM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
+- **Jun 03, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
