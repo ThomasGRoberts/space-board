@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 51 |
+| spacenews | 5 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 
 # Shown Order
 
@@ -4367,3 +4367,4 @@
 - **Jun 03, 10:53 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 11:07 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 11:21 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
+- **Jun 03, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
