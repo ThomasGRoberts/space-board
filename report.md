@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 
 # Shown Order
 
@@ -4338,3 +4338,4 @@
 - **Jun 03, 08:15 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **Jun 03, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 08:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 08:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
