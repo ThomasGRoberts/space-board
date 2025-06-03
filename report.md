@@ -6,6 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4173,3 +4174,4 @@
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 03, 12:07 AM** - Rocket Lab Will Launch Earth Observation Satellites for BlackSky (supercluster)
