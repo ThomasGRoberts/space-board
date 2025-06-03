@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 50 |
+| spacenews | 5 | 11 | 23 | 50 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -4346,3 +4346,4 @@
 - **Jun 03, 08:43 PM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **Jun 03, 08:57 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 03, 09:11 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 03, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
