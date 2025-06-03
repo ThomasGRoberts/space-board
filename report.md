@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 21 | 45 |
+| breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4242,3 +4242,4 @@
 - **Jun 03, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 10:52 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
