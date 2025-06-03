@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 24 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 118 | 118 |
 
@@ -4355,3 +4355,4 @@
 - **Jun 03, 09:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 09:41 PM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 03, 09:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **Jun 03, 10:09 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
