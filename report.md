@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4236,3 +4236,4 @@
 - **Jun 03, 10:09 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 03, 10:23 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
