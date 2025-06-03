@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 24 | 49 |
+| spacenews | 7 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4233,3 +4233,4 @@
 - **Jun 03, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 09:47 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 03, 10:09 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
