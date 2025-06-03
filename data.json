@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-03T00:02:06.824590+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f05646b67f730049dc1e41a147104422",
+    "trigger_count": 0,
+    "current_item_id": "8e33dc43ee5aad33113ae588eed9780f",
     "data": [
         {
             "id": "cea7553656eab5955122ca9a70a96b7f",
@@ -9916,6 +9916,18 @@
             "fetched_datetime": "2025-06-03T20:57:42.924033Z",
             "shown_at": [
                 "2025-06-03T20:57:44.650267Z"
+            ]
+        },
+        {
+            "id": "8e33dc43ee5aad33113ae588eed9780f",
+            "source": "spacenews",
+            "text": "Impulse Space raises $300 million for expansion and new technology development",
+            "source_link": "https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-03T22:25:35.891747Z",
+            "shown_at": [
+                "2025-06-03T22:25:36.505395Z"
             ]
         }
     ]

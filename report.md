@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 24 | 50 |
+| spacenews | 6 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4356,3 +4356,4 @@
 - **Jun 03, 09:41 PM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 03, 09:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 10:09 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
+- **Jun 03, 10:25 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
