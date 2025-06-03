@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -4298,3 +4298,4 @@
 - **Jun 03, 04:27 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 03, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 04:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
