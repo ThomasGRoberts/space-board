@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 24 | 50 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -4354,3 +4354,4 @@
 - **Jun 03, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 09:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 09:41 PM** - Golden Dome: It’s all about the data (spacenews)
+- **Jun 03, 09:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
