@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 51 |
 | breaking_defense | 1 | 1 | 22 | 47 |
-| nyt | 0 | 1 | 21 | 47 |
+| nyt | 0 | 1 | 22 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -4180,3 +4180,4 @@
 - **Jun 03, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 01:21 AM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
+- **Jun 03, 01:35 AM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
