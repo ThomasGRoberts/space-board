@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 23 | 50 |
+| spacenews | 6 | 11 | 24 | 51 |
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4343,3 +4343,4 @@
 - **Jun 03, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 08:43 PM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
