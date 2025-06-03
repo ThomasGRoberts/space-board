@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4176,3 +4176,4 @@
 - **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 03, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 03, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 03, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
