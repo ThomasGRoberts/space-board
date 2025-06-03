@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4217,3 +4217,4 @@
 - **Jun 03, 08:21 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 03, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 08:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 08:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
