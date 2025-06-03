@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 25 | 49 |
-| breaking_defense | 1 | 1 | 21 | 46 |
+| breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4207,3 +4207,4 @@
 - **Jun 03, 07:25 AM** - SpaceX to Launch Starship Flight 9: When and How to Watch (nyt)
 - **Jun 03, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 07:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 07:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
