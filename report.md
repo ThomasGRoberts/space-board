@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4326,3 +4326,4 @@
 - **Jun 03, 06:51 PM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
 - **Jun 03, 07:05 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 07:19 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 03, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
