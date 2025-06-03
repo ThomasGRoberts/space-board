@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 24 | 50 |
 | breaking_defense | 0 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -4335,3 +4335,4 @@
 - **Jun 03, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 07:47 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 03, 08:01 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 03, 08:15 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
