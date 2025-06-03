@@ -1,9 +1,110 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-02T00:01:57.285143+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-06-03T00:02:06.824590+00:00",
+    "trigger_count": 4,
     "current_item_id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
     "data": [
+        {
+            "id": "cea7553656eab5955122ca9a70a96b7f",
+            "source": "spacenews",
+            "text": "Golden Dome: It’s all about the data",
+            "source_link": "https://spacenews.com/golden-dome-its-all-about-the-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T22:25:46.573789Z",
+            "shown_at": [
+                "2025-06-02T22:25:47.835669Z"
+            ]
+        },
+        {
+            "id": "bd9854a9f2a4e0b5733e946966cd87c4",
+            "source": "spacenews",
+            "text": "South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts",
+            "source_link": "https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T21:27:25.604067Z",
+            "shown_at": [
+                "2025-06-02T21:27:26.214635Z"
+            ]
+        },
+        {
+            "id": "3f7a56f20982d38ce24bc8d2530f3f1c",
+            "source": "spacenews",
+            "text": "EchoStar bets on TV amid FCC mobile scrutiny",
+            "source_link": "https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T17:27:07.494143Z",
+            "shown_at": [
+                "2025-06-02T17:27:08.136309Z"
+            ]
+        },
+        {
+            "id": "c2e021ddac58a58dde4fe6c23cd960f2",
+            "source": "spacenews",
+            "text": "EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation",
+            "source_link": "https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T15:19:51.651712Z",
+            "shown_at": [
+                "2025-06-02T15:19:52.750400Z"
+            ]
+        },
+        {
+            "id": "04a601e4483e9e952dd3727cc702a09a",
+            "source": "breaking_defense",
+            "text": "US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders",
+            "source_link": "https://breakingdefense.com/2025/06/us-cuts-to-commercial-space-imagery-could-endanger-long-term-health-of-industry-say-insiders/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T15:00:02.536702Z",
+            "shown_at": [
+                "2025-06-02T15:00:03.258872Z",
+                "2025-06-02T16:02:19.936025Z",
+                "2025-06-02T19:07:10.613549Z",
+                "2025-06-02T22:11:58.304736Z"
+            ]
+        },
+        {
+            "id": "25abb1fa34d8df018c3c596c3cf3f435",
+            "source": "spacenews",
+            "text": "Space assets could be held ransom. Will we have any choice but to pay?",
+            "source_link": "https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T13:05:18.852796Z",
+            "shown_at": [
+                "2025-06-02T13:05:19.447622Z"
+            ]
+        },
+        {
+            "id": "04064591b919426f514878c5e753b7c0",
+            "source": "spacenews",
+            "text": "SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion",
+            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T12:37:46.275257Z",
+            "shown_at": [
+                "2025-06-02T12:37:47.157554Z",
+                "2025-06-02T14:02:09.846532Z"
+            ]
+        },
+        {
+            "id": "faa67bfd062b5246f8c5f87a0a52ff35",
+            "source": "spacenews",
+            "text": "SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion",
+            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-02T12:21:53.295964Z",
+            "shown_at": [
+                "2025-06-02T12:21:54.434561Z",
+                "2025-06-02T18:25:41.825297Z"
+            ]
+        },
         {
             "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
             "source": "nyt",
@@ -9565,258 +9666,6 @@
                 "2025-04-04T04:52:01.491092Z",
                 "2025-04-05T08:25:27.393186Z",
                 "2025-04-07T00:29:37.222845Z"
-            ]
-        },
-        {
-            "id": "c536147367e31452946ef97231b71405",
-            "source": "spacenews",
-            "text": "Chinese Bluetooth satellite startup raises early funding",
-            "source_link": "https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T08:59:45.303542Z",
-            "shown_at": [
-                "2025-03-31T08:59:46.268046Z",
-                "2025-04-04T16:41:39.241178Z",
-                "2025-04-06T01:13:50.509876Z",
-                "2025-04-06T18:29:36.675404Z"
-            ]
-        },
-        {
-            "id": "63ba7d6eb9a011c4a8ab143e9b653bc0",
-            "source": "aidy",
-            "text": "ULA's Vulcan Rocket Certified for National Security Missions by U.S. Space Force",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-31T07:45:27.710159Z",
-            "shown_at": [
-                "2025-03-31T07:45:28.124296Z",
-                "2025-03-31T09:17:46.783252Z",
-                "2025-04-01T10:02:17.491677Z",
-                "2025-04-01T20:17:36.528678Z",
-                "2025-04-02T04:03:46.908719Z",
-                "2025-04-03T04:47:41.331289Z",
-                "2025-04-04T14:35:41.124292Z",
-                "2025-04-04T22:37:52.520763Z",
-                "2025-04-05T04:47:10.305307Z",
-                "2025-04-05T09:55:42.001418Z",
-                "2025-04-05T18:19:42.251010Z",
-                "2025-04-05T21:49:44.642346Z",
-                "2025-04-06T02:39:28.457546Z",
-                "2025-04-06T08:41:52.659941Z"
-            ]
-        },
-        {
-            "id": "dbbca267bcb67e2610c1f390be7d1c63",
-            "source": "nyt",
-            "text": "Orbital Rocket Crashes After First Launch From Continental Europe",
-            "source_link": "https://www.nytimes.com/2025/03/30/us/orbital-rocket-crash-europe.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T14:07:35.564880Z",
-            "shown_at": [
-                "2025-03-30T14:07:37.243351Z",
-                "2025-03-30T22:39:26.900781Z",
-                "2025-03-31T08:29:34.846201Z",
-                "2025-03-31T10:59:53.357746Z",
-                "2025-03-31T13:35:48.379671Z",
-                "2025-04-01T11:45:34.379867Z",
-                "2025-04-02T13:38:04.498026Z",
-                "2025-04-03T08:01:43.267066Z",
-                "2025-04-03T10:49:52.467972Z",
-                "2025-04-03T18:59:36.935559Z",
-                "2025-04-04T00:47:48.878773Z",
-                "2025-04-04T04:09:38.981974Z",
-                "2025-04-04T08:57:41.329900Z",
-                "2025-04-04T12:29:59.825740Z",
-                "2025-04-04T15:59:31.194113Z",
-                "2025-04-05T04:05:43.708031Z",
-                "2025-04-05T09:11:52.466505Z",
-                "2025-04-05T16:27:23.630092Z",
-                "2025-04-05T23:29:37.699261Z",
-                "2025-04-06T04:19:38.277636Z",
-                "2025-04-06T10:21:48.235397Z",
-                "2025-04-06T12:45:48.426165Z"
-            ]
-        },
-        {
-            "id": "e42f7c7b8f94f447c7911957213fa510",
-            "source": "spacenews",
-            "text": "Isar Aerospace’s first Spectrum launch fails",
-            "source_link": "https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T12:43:56.608729Z",
-            "shown_at": [
-                "2025-03-30T12:43:57.531134Z"
-            ]
-        },
-        {
-            "id": "e95cdc71cd8c63b75718c61619de55b2",
-            "source": "aidy",
-            "text": "FCC Proposes Fee Modernization for Earth Stations Amid Rising Space Activity",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-30T07:27:29.810278Z",
-            "shown_at": [
-                "2025-03-30T07:27:30.411545Z",
-                "2025-03-30T19:17:41.753868Z",
-                "2025-03-30T21:39:30.418256Z",
-                "2025-03-30T23:07:35.030255Z",
-                "2025-03-31T00:17:43.297180Z",
-                "2025-03-31T16:37:46.836190Z",
-                "2025-04-01T19:03:37.569039Z",
-                "2025-04-02T10:03:32.365829Z",
-                "2025-04-02T12:55:42.835086Z",
-                "2025-04-02T18:57:28.537833Z",
-                "2025-04-04T12:15:43.727609Z",
-                "2025-04-04T20:59:13.297055Z"
-            ]
-        },
-        {
-            "id": "ec0f5574f8c0d94969eb2e35860b9905",
-            "source": "spacenews",
-            "text": "China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite",
-            "source_link": "https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T21:05:28.463420Z",
-            "shown_at": [
-                "2025-03-29T21:05:28.968974Z",
-                "2025-04-02T09:02:08.508200Z",
-                "2025-04-05T03:23:22.393553Z"
-            ]
-        },
-        {
-            "id": "6da251b04a07b7f60b3e7aba72b456a5",
-            "source": "aidy",
-            "text": "FAA Proposes Higher Insurance for Space Firms, Raising Costs for Companies Like SpaceX",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-03-29T07:23:34.030991Z",
-            "shown_at": [
-                "2025-03-29T07:23:34.674013Z",
-                "2025-03-29T09:43:32.616397Z",
-                "2025-03-29T19:53:49.669164Z",
-                "2025-03-30T00:56:05.841029Z",
-                "2025-03-30T06:59:50.909411Z",
-                "2025-03-30T13:11:41.821096Z",
-                "2025-03-30T15:47:51.526761Z",
-                "2025-03-31T11:57:39.178974Z",
-                "2025-03-31T18:01:58.895677Z",
-                "2025-03-31T21:33:44.193616Z",
-                "2025-04-01T01:39:39.726288Z",
-                "2025-04-01T22:37:41.347201Z",
-                "2025-04-02T11:45:34.778915Z",
-                "2025-04-03T10:35:44.519432Z",
-                "2025-04-03T22:35:35.952070Z",
-                "2025-04-04T11:05:49.384937Z",
-                "2025-04-04T16:57:30.134212Z",
-                "2025-04-04T18:23:47.514454Z"
-            ]
-        },
-        {
-            "id": "faa67bfd062b5246f8c5f87a0a52ff35",
-            "source": "spacenews",
-            "text": "SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion",
-            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T12:21:53.295964Z",
-            "shown_at": [
-                "2025-06-02T12:21:54.434561Z",
-                "2025-06-02T18:25:41.825297Z"
-            ]
-        },
-        {
-            "id": "04064591b919426f514878c5e753b7c0",
-            "source": "spacenews",
-            "text": "SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion",
-            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T12:37:46.275257Z",
-            "shown_at": [
-                "2025-06-02T12:37:47.157554Z",
-                "2025-06-02T14:02:09.846532Z"
-            ]
-        },
-        {
-            "id": "25abb1fa34d8df018c3c596c3cf3f435",
-            "source": "spacenews",
-            "text": "Space assets could be held ransom. Will we have any choice but to pay?",
-            "source_link": "https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T13:05:18.852796Z",
-            "shown_at": [
-                "2025-06-02T13:05:19.447622Z"
-            ]
-        },
-        {
-            "id": "04a601e4483e9e952dd3727cc702a09a",
-            "source": "breaking_defense",
-            "text": "US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders",
-            "source_link": "https://breakingdefense.com/2025/06/us-cuts-to-commercial-space-imagery-could-endanger-long-term-health-of-industry-say-insiders/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T15:00:02.536702Z",
-            "shown_at": [
-                "2025-06-02T15:00:03.258872Z",
-                "2025-06-02T16:02:19.936025Z",
-                "2025-06-02T19:07:10.613549Z",
-                "2025-06-02T22:11:58.304736Z"
-            ]
-        },
-        {
-            "id": "c2e021ddac58a58dde4fe6c23cd960f2",
-            "source": "spacenews",
-            "text": "EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation",
-            "source_link": "https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T15:19:51.651712Z",
-            "shown_at": [
-                "2025-06-02T15:19:52.750400Z"
-            ]
-        },
-        {
-            "id": "3f7a56f20982d38ce24bc8d2530f3f1c",
-            "source": "spacenews",
-            "text": "EchoStar bets on TV amid FCC mobile scrutiny",
-            "source_link": "https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T17:27:07.494143Z",
-            "shown_at": [
-                "2025-06-02T17:27:08.136309Z"
-            ]
-        },
-        {
-            "id": "bd9854a9f2a4e0b5733e946966cd87c4",
-            "source": "spacenews",
-            "text": "South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts",
-            "source_link": "https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T21:27:25.604067Z",
-            "shown_at": [
-                "2025-06-02T21:27:26.214635Z"
-            ]
-        },
-        {
-            "id": "cea7553656eab5955122ca9a70a96b7f",
-            "source": "spacenews",
-            "text": "Golden Dome: It’s all about the data",
-            "source_link": "https://spacenews.com/golden-dome-its-all-about-the-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T22:25:46.573789Z",
-            "shown_at": [
-                "2025-06-02T22:25:47.835669Z"
             ]
         }
     ]
