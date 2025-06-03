@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 45 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4257,3 +4257,4 @@
 - **Jun 03, 12:15 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 03, 12:29 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **Jun 03, 12:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 12:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
