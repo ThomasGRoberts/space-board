@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 23 | 49 |
+| spacenews | 5 | 9 | 24 | 50 |
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4305,3 +4305,4 @@
 - **Jun 03, 04:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 04:55 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 03, 05:09 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 03, 05:25 PM** - Voyager launches IPO with $1.6 billion valuation target (spacenews)
