@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 23 | 50 |
 | breaking_defense | 0 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
 
@@ -4318,3 +4318,4 @@
 - **Jun 03, 06:23 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 03, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 06:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
