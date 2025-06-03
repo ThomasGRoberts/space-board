@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4288,3 +4288,4 @@
 - **Jun 03, 03:29 PM** - Voyager launches IPO with $1.6 billion valuation target (spacenews)
 - **Jun 03, 03:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 03:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 03, 03:48 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
