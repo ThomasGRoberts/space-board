@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-03T00:02:06.824590+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34d50720efd7d30f304eb6937aed1608",
+    "trigger_count": 0,
+    "current_item_id": "fcad5bfe2236b769eba2f03892c066a3",
     "data": [
         {
             "id": "cea7553656eab5955122ca9a70a96b7f",
@@ -9893,6 +9893,18 @@
             "fetched_datetime": "2025-06-03T18:51:47.434154Z",
             "shown_at": [
                 "2025-06-03T18:51:48.371456Z"
+            ]
+        },
+        {
+            "id": "fcad5bfe2236b769eba2f03892c066a3",
+            "source": "breaking_defense",
+            "text": "Space Force awards BAE $1.2B for missile warning sats in MEO",
+            "source_link": "https://breakingdefense.com/2025/06/space-force-awards-bae-1-2b-for-missile-warning-sats-in-meo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-03T20:57:42.924033Z",
+            "shown_at": [
+                "2025-06-03T20:57:44.650267Z"
             ]
         }
     ]
