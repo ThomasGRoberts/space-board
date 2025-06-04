@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 28 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 244 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4496,3 +4496,4 @@
 - **Jun 04, 03:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 03:51 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 04, 04:05 PM** - Rocket Lab launches BlackSky satellite (spacenews)
+- **Jun 04, 04:19 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
