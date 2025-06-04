@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 160 | 160 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4373,3 +4373,4 @@
 - **Jun 04, 03:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 03:44 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 03:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 04, 03:59 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
