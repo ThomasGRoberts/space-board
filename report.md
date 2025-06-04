@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 153 | 153 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4363,3 +4363,4 @@
 - **Jun 04, 02:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:48 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 04, 03:03 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
