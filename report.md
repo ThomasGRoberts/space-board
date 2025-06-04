@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 160 | 160 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -4374,3 +4374,4 @@
 - **Jun 04, 03:44 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 03:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 03:59 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 04, 04:15 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
