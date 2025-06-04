@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 52 |
-| breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 209 |
+| breaking_defense | 1 | 2 | 24 | 45 |
+| supercluster | 0 | 1 | 169 | 210 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4446,3 +4446,4 @@
 - **Jun 04, 10:41 AM** - Maxar inks partnership with Saab for defense applications of geospatial data (spacenews)
 - **Jun 04, 10:55 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 11:09 AM** - NASA’s budget crisis presents an opportunity for change (spacenews)
+- **Jun 04, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
