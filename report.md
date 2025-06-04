@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 28 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 223 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4466,3 +4466,4 @@
 - **Jun 04, 12:35 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 04, 12:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 04, 01:08 PM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 04, 01:21 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
