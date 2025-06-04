@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 52 |
 | breaking_defense | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 1 | 170 | 211 |
+| supercluster | 0 | 1 | 171 | 212 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4448,3 +4448,4 @@
 - **Jun 04, 11:09 AM** - NASA’s budget crisis presents an opportunity for change (spacenews)
 - **Jun 04, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
