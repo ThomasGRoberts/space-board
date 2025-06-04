@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 26 | 52 |
+| spacenews | 8 | 16 | 27 | 53 |
 | breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 0 | 1 | 175 | 216 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -4453,3 +4453,4 @@
 - **Jun 04, 11:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 11:39 AM** - Second ispace mission ready for lunar landing attempt (spacenews)

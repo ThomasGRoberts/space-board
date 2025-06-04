@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-04T00:01:57.962211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "84bae1e2b19773dcb4eb78e5aac19a6f",
     "data": [
         {
             "id": "8e33dc43ee5aad33113ae588eed9780f",
@@ -9980,6 +9980,18 @@
             "fetched_datetime": "2025-06-04T11:09:51.802017Z",
             "shown_at": [
                 "2025-06-04T11:09:52.908486Z"
+            ]
+        },
+        {
+            "id": "84bae1e2b19773dcb4eb78e5aac19a6f",
+            "source": "spacenews",
+            "text": "Second ispace mission ready for lunar landing attempt",
+            "source_link": "https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-04T11:39:29.266645Z",
+            "shown_at": [
+                "2025-06-04T11:39:29.955631Z"
             ]
         }
     ]
