@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 51 |
+| spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 | nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4335,3 +4335,4 @@
 - **Jun 03, 11:53 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 04, 12:07 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 04, 12:21 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
+- **Jun 04, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
