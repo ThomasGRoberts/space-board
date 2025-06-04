@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 25 | 46 |
-| supercluster | 0 | 1 | 170 | 202 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 168 | 202 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4433,3 +4433,4 @@
 - **Jun 04, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 09:29 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 04, 09:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
