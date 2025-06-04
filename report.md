@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 27 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 230 |
+| supercluster | 0 | 1 | 169 | 231 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4477,3 +4477,4 @@
 - **Jun 04, 01:49 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 02:03 PM** - How NASA advisory committees are navigating a new political landscape (spacenews)
 - **Jun 04, 02:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 04, 02:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
