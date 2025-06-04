@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 141 | 141 |
+| supercluster | 1 | 1 | 142 | 142 |
 | nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4347,3 +4347,4 @@
 - **Jun 04, 01:21 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 04, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 01:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 01:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
