@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 170 | 197 |
-| nyt | 0 | 0 | 25 | 46 |
+| supercluster | 0 | 1 | 171 | 198 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4427,3 +4427,4 @@
 - **Jun 04, 09:02 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
 - **Jun 04, 09:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 09:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 09:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
