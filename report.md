@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 170 | 183 |
-| nyt | 0 | 0 | 25 | 46 |
+| supercluster | 0 | 1 | 171 | 184 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4407,3 +4407,4 @@
 - **Jun 04, 07:09 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
 - **Jun 04, 07:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 07:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
