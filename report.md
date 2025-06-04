@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 27 | 51 |
+| spacenews | 8 | 14 | 27 | 50 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 170 | 274 |
+| supercluster | 0 | 1 | 171 | 275 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4539,3 +4539,4 @@
 - **Jun 04, 08:03 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 04, 08:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 08:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 08:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
