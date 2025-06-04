@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 139 | 139 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -4344,3 +4344,4 @@
 - **Jun 04, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 12:49 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 04, 01:05 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 04, 01:21 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
