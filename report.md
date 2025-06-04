@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 50 |
+| spacenews | 6 | 13 | 27 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 181 |
 | nyt | 0 | 0 | 25 | 46 |
@@ -4404,3 +4404,4 @@
 - **Jun 04, 06:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 06:41 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 06:55 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 04, 07:09 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)

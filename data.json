@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-04T00:01:57.962211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
+    "trigger_count": 0,
+    "current_item_id": "4f4f22565f9eca7843f22ad4b54eade9",
     "data": [
         {
             "id": "8e33dc43ee5aad33113ae588eed9780f",
@@ -9898,6 +9898,18 @@
                 "2025-04-07T14:19:40.893143Z",
                 "2025-04-07T16:45:31.103286Z",
                 "2025-04-07T19:25:51.730066Z"
+            ]
+        },
+        {
+            "id": "4f4f22565f9eca7843f22ad4b54eade9",
+            "source": "spacenews",
+            "text": "Astroscale clears critical design review for OneWeb satellite removal demo",
+            "source_link": "https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-04T07:09:40.475145Z",
+            "shown_at": [
+                "2025-06-04T07:09:41.170717Z"
             ]
         }
     ]
