@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 51 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 169 | 280 |
+| supercluster | 0 | 1 | 170 | 281 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4548,3 +4548,4 @@
 - **Jun 04, 08:45 PM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **Jun 04, 08:59 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 04, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 09:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
