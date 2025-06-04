@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 27 | 52 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 216 |
+| supercluster | 0 | 1 | 169 | 217 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4456,3 +4456,4 @@
 - **Jun 04, 11:39 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
 - **Jun 04, 11:54 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 04, 12:07 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 04, 12:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
