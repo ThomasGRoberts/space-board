@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 160 | 160 |
-| nyt | 0 | 0 | 24 | 45 |
+| supercluster | 1 | 1 | 161 | 161 |
+| nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4375,3 +4375,4 @@
 - **Jun 04, 03:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 03:59 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 04:15 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
+- **Jun 04, 04:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
