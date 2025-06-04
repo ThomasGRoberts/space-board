@@ -6,6 +6,7 @@
 | breaking_defense | 0 | 1 | 25 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4274,3 +4275,4 @@
 - **Jun 04, 10:37 PM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **Jun 04, 10:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 04, 11:19 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 04, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
