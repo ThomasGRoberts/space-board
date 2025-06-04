@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | nyt | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4336,3 +4336,4 @@
 - **Jun 04, 12:07 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 04, 12:21 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 04, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 12:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
