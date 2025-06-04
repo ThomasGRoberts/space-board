@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 153 | 153 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -4364,3 +4364,4 @@
 - **Jun 04, 02:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:48 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 04, 03:03 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
+- **Jun 04, 03:17 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
