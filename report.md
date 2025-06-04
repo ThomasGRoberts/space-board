@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 27 | 53 |
-| breaking_defense | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 1 | 173 | 216 |
+| spacenews | 8 | 16 | 27 | 52 |
+| breaking_defense | 1 | 2 | 25 | 46 |
+| supercluster | 0 | 1 | 171 | 216 |
 | nyt | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4454,3 +4454,4 @@
 - **Jun 04, 11:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:39 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
+- **Jun 04, 11:54 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
