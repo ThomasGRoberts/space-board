@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 132 | 132 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4333,3 +4333,4 @@
 - **Jun 03, 11:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 11:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 03, 11:53 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 04, 12:07 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
