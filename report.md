@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 27 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 258 |
-| nyt | 0 | 0 | 25 | 47 |
+| supercluster | 0 | 1 | 169 | 259 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4517,3 +4517,4 @@
 - **Jun 04, 05:43 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 05:57 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 04, 06:11 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 04, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
