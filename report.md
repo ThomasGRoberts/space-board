@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 27 | 51 |
-| breaking_defense | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 1 | 172 | 230 |
+| breaking_defense | 1 | 2 | 25 | 46 |
+| supercluster | 0 | 1 | 171 | 230 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4474,3 +4474,4 @@
 - **Jun 04, 01:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 01:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 01:49 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
