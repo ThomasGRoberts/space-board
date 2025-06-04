@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 188 |
+| supercluster | 0 | 1 | 169 | 189 |
 | nyt | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4415,3 +4415,4 @@
 - **Jun 04, 07:37 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 04, 07:51 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 08:05 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
+- **Jun 04, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
