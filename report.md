@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 27 | 50 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 170 | 260 |
+| supercluster | 0 | 1 | 171 | 261 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4519,3 +4519,4 @@
 - **Jun 04, 06:11 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
