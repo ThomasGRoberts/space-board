@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 28 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 251 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4506,3 +4506,4 @@
 - **Jun 04, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 04:47 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 05:01 PM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 04, 05:15 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
