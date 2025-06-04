@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 27 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 237 |
+| supercluster | 0 | 1 | 169 | 238 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4487,3 +4487,4 @@
 - **Jun 04, 02:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 04, 03:05 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 04, 03:22 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 04, 03:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
