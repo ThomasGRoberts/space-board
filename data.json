@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-04T00:01:57.962211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6d992cb310e7b98afd2c31d8ecc5d676",
+    "trigger_count": 0,
+    "current_item_id": "49e2455d1c9af5af34a5039c62498348",
     "data": [
         {
             "id": "8e33dc43ee5aad33113ae588eed9780f",
@@ -10024,6 +10024,18 @@
             "fetched_datetime": "2025-06-04T13:08:07.410199Z",
             "shown_at": [
                 "2025-06-04T13:08:07.979045Z"
+            ]
+        },
+        {
+            "id": "49e2455d1c9af5af34a5039c62498348",
+            "source": "spacenews",
+            "text": "How NASA advisory committees are navigating a new political landscape",
+            "source_link": "https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-04T14:03:35.185361Z",
+            "shown_at": [
+                "2025-06-04T14:03:36.015957Z"
             ]
         }
     ]
