@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 170 | 190 |
-| nyt | 0 | 0 | 25 | 46 |
+| supercluster | 0 | 1 | 171 | 191 |
+| nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4417,3 +4417,4 @@
 - **Jun 04, 08:05 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
 - **Jun 04, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 08:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 08:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
