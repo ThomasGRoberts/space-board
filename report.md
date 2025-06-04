@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 28 | 52 |
+| spacenews | 10 | 14 | 28 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 237 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4486,3 +4486,4 @@
 - **Jun 04, 02:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 04, 03:05 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
+- **Jun 04, 03:22 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
