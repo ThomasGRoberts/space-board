@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 51 |
+| spacenews | 6 | 13 | 27 | 52 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 202 |
 | nyt | 0 | 0 | 25 | 46 |
@@ -4434,3 +4434,4 @@
 - **Jun 04, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 09:29 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 04, 09:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 04, 09:57 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
