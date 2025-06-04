@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 27 | 51 |
+| spacenews | 8 | 13 | 27 | 50 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 169 | 259 |
+| supercluster | 0 | 1 | 170 | 260 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4518,3 +4518,4 @@
 - **Jun 04, 05:57 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 04, 06:11 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
