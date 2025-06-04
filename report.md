@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 51 |
+| spacenews | 7 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 25 | 46 |
-| supercluster | 0 | 1 | 173 | 209 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 172 | 209 |
+| nyt | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4443,3 +4443,4 @@
 - **Jun 04, 10:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 10:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 10:27 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 04, 10:41 AM** - Maxar inks partnership with Saab for defense applications of geospatial data (spacenews)

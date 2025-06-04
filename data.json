@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-04T00:01:57.962211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04a601e4483e9e952dd3727cc702a09a",
+    "trigger_count": 0,
+    "current_item_id": "37cf8f06975e421ef678333dca527090",
     "data": [
         {
             "id": "8e33dc43ee5aad33113ae588eed9780f",
@@ -9948,6 +9948,18 @@
             "shown_at": [
                 "2025-06-04T07:09:41.170717Z",
                 "2025-06-04T09:57:28.941745Z"
+            ]
+        },
+        {
+            "id": "37cf8f06975e421ef678333dca527090",
+            "source": "spacenews",
+            "text": "Maxar inks partnership with Saab for defense applications of geospatial data",
+            "source_link": "https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-04T10:41:54.242764Z",
+            "shown_at": [
+                "2025-06-04T10:41:55.210233Z"
             ]
         }
     ]
