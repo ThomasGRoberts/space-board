@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 51 |
+| spacenews | 7 | 13 | 27 | 50 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 265 |
-| nyt | 0 | 0 | 25 | 47 |
+| supercluster | 0 | 1 | 169 | 266 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4527,3 +4527,4 @@
 - **Jun 04, 06:39 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 04, 06:53 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
 - **Jun 04, 07:07 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
+- **Jun 04, 07:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
