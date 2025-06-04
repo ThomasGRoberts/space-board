@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 27 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 1 | 169 | 287 |
+| supercluster | 0 | 1 | 170 | 288 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4558,3 +4558,4 @@
 - **Jun 04, 09:41 PM** - NASA’s budget crisis presents an opportunity for change (spacenews)
 - **Jun 04, 09:55 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 04, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 10:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
