@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 25 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4277,3 +4277,4 @@
 - **Jun 04, 11:19 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 04, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
