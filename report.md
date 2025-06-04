@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 1 | 168 | 272 |
+| supercluster | 0 | 1 | 169 | 273 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4537,3 +4537,4 @@
 - **Jun 04, 07:35 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 07:49 PM** - Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare (spacenews)
 - **Jun 04, 08:03 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
+- **Jun 04, 08:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
