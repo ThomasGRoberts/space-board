@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 27 | 51 |
-| breaking_defense | 0 | 1 | 25 | 47 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 286 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4556,3 +4556,4 @@
 - **Jun 04, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 09:27 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 09:41 PM** - NASA’s budget crisis presents an opportunity for change (spacenews)
+- **Jun 04, 09:55 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
