@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 27 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 169 | 224 |
+| supercluster | 0 | 1 | 170 | 225 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4468,3 +4468,4 @@
 - **Jun 04, 01:08 PM** - Lunar helium-3: separating market from marketing (spacenews)
 - **Jun 04, 01:21 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 04, 01:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 01:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
