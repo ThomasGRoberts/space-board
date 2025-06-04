@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 27 | 51 |
-| breaking_defense | 1 | 2 | 24 | 46 |
+| breaking_defense | 1 | 2 | 25 | 47 |
 | supercluster | 0 | 1 | 172 | 237 |
 | nyt | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4484,3 +4484,4 @@
 - **Jun 04, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 04, 02:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 02:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
