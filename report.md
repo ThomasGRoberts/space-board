@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 1 | 169 | 196 |
+| supercluster | 0 | 1 | 170 | 197 |
 | nyt | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4426,3 +4426,4 @@
 - **Jun 04, 08:47 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 04, 09:02 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
 - **Jun 04, 09:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 04, 09:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
