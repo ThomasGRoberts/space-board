@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-04T00:01:57.962211+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
@@ -9842,11 +9842,11 @@
             "source_link": "https://www.supercluster.com/launches/starlink-11-222",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-04T23:28:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-04T23:33:34.155737Z",
+            "target_datetime": "2025-06-04T23:40:00.000Z",
+            "time_remaining": "0d 00h 04m",
+            "fetched_datetime": "2025-06-04T23:35:47.318443Z",
             "shown_at": [
-                "2025-06-04T23:33:34.770103Z"
+                "2025-06-04T23:35:48.257072Z"
             ]
         }
     ]
