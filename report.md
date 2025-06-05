@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 26 | 51 |
+| spacenews | 7 | 12 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4247,3 +4247,4 @@
 - **Jun 05, 05:29 AM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **Jun 05, 05:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 05:57 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **Jun 05, 06:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
