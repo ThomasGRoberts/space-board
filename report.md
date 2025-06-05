@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 21 | 46 |
 | nyt | 4 | 4 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 
 # Shown Order
 
@@ -4373,3 +4373,4 @@
 - **Jun 05, 10:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 11:07 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 05, 11:21 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 11:23 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
