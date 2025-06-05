@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 106 | 106 |
 
@@ -4345,3 +4345,4 @@
 - **Jun 05, 03:31 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 03:33 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 03:35 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 03:37 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
