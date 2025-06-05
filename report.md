@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 24 | 51 |
-| breaking_defense | 2 | 2 | 21 | 46 |
-| nyt | 4 | 4 | 21 | 45 |
+| breaking_defense | 2 | 2 | 21 | 45 |
+| nyt | 4 | 4 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 113 | 113 |
 
@@ -4370,3 +4370,4 @@
 - **Jun 05, 10:35 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:37 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:39 PM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
+- **Jun 05, 10:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
