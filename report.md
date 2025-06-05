@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 26 | 53 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4300,3 +4300,4 @@
 - **Jun 05, 11:13 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
 - **Jun 05, 11:27 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 05, 11:41 AM** - NASA withdraws support for conferences (spacenews)
+- **Jun 05, 11:55 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
