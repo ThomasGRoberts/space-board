@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 115 | 115 |
+| supercluster | 2 | 2 | 116 | 116 |
 
 # Shown Order
 
@@ -4360,3 +4360,4 @@
 - **Jun 05, 05:03 PM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
 - **Jun 05, 05:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 05:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jun 05, 05:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
