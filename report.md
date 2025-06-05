@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -4245,3 +4245,4 @@
 - **Jun 05, 05:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 05:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 05:29 AM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
+- **Jun 05, 05:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
