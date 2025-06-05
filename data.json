@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 0,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 1,
+    "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9966,15 +9966,16 @@
             ]
         },
         {
-            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 6A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-6ar",
-            "shown": false,
-            "type": "launch",
-            "target_datetime": "2025-06-05T20:45:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-05T21:43:49.508130Z"
+            "id": "1205bc42e43f3bfd70d9bd3218d40ac0",
+            "source": "nyt",
+            "text": "Ispace of Japan Has Lost Contact With Resilience Moon Lander",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T21:45:05.460062Z",
+            "shown_at": [
+                "2025-06-05T21:45:06.982016Z"
+            ]
         }
     ]
 }
