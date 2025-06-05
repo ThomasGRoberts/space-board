@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 50 |
+| spacenews | 7 | 12 | 26 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4194,3 +4194,4 @@
 - **Jun 04, 10:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 04, 11:19 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 05, 12:41 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 12:43 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
