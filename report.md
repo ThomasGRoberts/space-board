@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 71 | 71 |
 
@@ -4296,3 +4296,4 @@
 - **Jun 05, 10:39 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:41 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:43 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
+- **Jun 05, 10:57 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
