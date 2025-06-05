@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
+    "trigger_count": 0,
+    "current_item_id": "4ce1bf6810b41fc47cd5e48332b741ad",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9813,6 +9813,18 @@
             "fetched_datetime": "2025-06-05T09:45:42.202747Z",
             "shown_at": [
                 "2025-06-05T09:45:42.683564Z"
+            ]
+        },
+        {
+            "id": "4ce1bf6810b41fc47cd5e48332b741ad",
+            "source": "spacenews",
+            "text": "U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky",
+            "source_link": "https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T11:13:55.509484Z",
+            "shown_at": [
+                "2025-06-05T11:13:56.166315Z"
             ]
         }
     ]
