@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 52 |
+| spacenews | 6 | 13 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4295,3 +4295,4 @@
 - **Jun 05, 10:37 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:39 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:41 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 10:43 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
