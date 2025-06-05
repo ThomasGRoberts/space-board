@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 52 |
-| breaking_defense | 0 | 1 | 23 | 47 |
+| breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 64 | 64 |
@@ -4287,3 +4287,4 @@
 - **Jun 05, 09:29 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 05, 09:45 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 05, 09:59 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
+- **Jun 05, 10:15 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
