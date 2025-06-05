@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 0,
+    "current_item_id": "163e9cef1eb485eeb771157d458e1f7c",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9908,6 +9908,18 @@
                 "2025-06-05T14:33:32.462243Z",
                 "2025-06-05T14:35:48.110110Z",
                 "2025-06-05T14:37:42.287379Z"
+            ]
+        },
+        {
+            "id": "163e9cef1eb485eeb771157d458e1f7c",
+            "source": "nyt",
+            "text": "Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T14:39:40.202250Z",
+            "shown_at": [
+                "2025-06-05T14:39:41.295324Z"
             ]
         }
     ]
