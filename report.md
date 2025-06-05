@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 24 | 50 |
+| spacenews | 7 | 14 | 25 | 51 |
 | breaking_defense | 2 | 2 | 21 | 46 |
 | nyt | 4 | 4 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4379,3 +4379,4 @@
 - **Jun 05, 11:29 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 11:31 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 11:33 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 11:35 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
