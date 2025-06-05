@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
 
@@ -4290,3 +4290,4 @@
 - **Jun 05, 10:15 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 05, 10:29 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 10:31 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 10:33 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
