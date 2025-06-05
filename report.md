@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 26 | 54 |
+| spacenews | 6 | 16 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 94 | 94 |
+| supercluster | 2 | 2 | 95 | 95 |
 
 # Shown Order
 
@@ -4330,3 +4330,4 @@
 - **Jun 05, 02:11 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 05, 02:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 02:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jun 05, 02:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
