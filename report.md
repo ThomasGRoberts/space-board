@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4207,3 +4207,4 @@
 - **Jun 05, 01:41 AM** - Maxar Intelligence taps tech veteran to lead commercial business (spacenews)
 - **Jun 05, 01:55 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 05, 02:11 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
+- **Jun 05, 02:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
