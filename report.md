@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 26 | 53 |
+| spacenews | 6 | 15 | 26 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4347,3 +4347,4 @@
 - **Jun 05, 03:35 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 03:37 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 05, 03:51 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 05, 04:07 PM** - The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2) (spacenews)
