@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 43 | 43 |
 
@@ -4255,3 +4255,4 @@
 - **Jun 05, 06:23 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 06:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 06:27 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
+- **Jun 05, 06:41 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
