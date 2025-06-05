@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 25 | 52 |
+| spacenews | 6 | 14 | 26 | 53 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4309,3 +4309,4 @@
 - **Jun 05, 12:07 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 12:09 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 12:26 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 05, 12:42 PM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
