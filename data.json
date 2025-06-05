@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "520911d9ab58601d418af871e1da3eaa",
+    "trigger_count": 0,
+    "current_item_id": "39f666bf2df6ac888d49dbb00a0d2d22",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9876,6 +9876,18 @@
             "fetched_datetime": "2025-06-05T13:11:40.478270Z",
             "shown_at": [
                 "2025-06-05T13:11:41.032421Z"
+            ]
+        },
+        {
+            "id": "39f666bf2df6ac888d49dbb00a0d2d22",
+            "source": "spacenews",
+            "text": "Trump’s push for procurement reform faces familiar hurdles",
+            "source_link": "https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T14:11:35.142237Z",
+            "shown_at": [
+                "2025-06-05T14:11:35.706461Z"
             ]
         }
     ]
