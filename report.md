@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 25 | 51 |
+| spacenews | 5 | 13 | 24 | 51 |
 | breaking_defense | 1 | 2 | 22 | 47 |
 | nyt | 3 | 3 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 127 | 127 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -4328,13 +4328,6 @@
 - **Jun 05, 02:07 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:09 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:11 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
-- **Jun 05, 02:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:31 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:33 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:35 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 02:37 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 02:39 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 05, 02:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 05, 03:09 PM** - Lunar helium-3: separating market from marketing (spacenews)
@@ -4358,25 +4351,11 @@
 - **Jun 05, 04:35 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 04:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 05, 05:03 PM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
-- **Jun 05, 05:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:23 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 05:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 05:32 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 05, 05:47 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 05, 07:13 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 05, 07:31 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 05, 07:45 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 05, 07:59 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
-- **Jun 05, 08:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:23 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Jun 05, 08:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 08:29 PM** - Rocket Lab launches BlackSky satellite (spacenews)
 - **Jun 05, 08:44 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
