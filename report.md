@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 113 | 113 |
+| supercluster | 2 | 2 | 114 | 114 |
 
 # Shown Order
 
@@ -4358,3 +4358,4 @@
 - **Jun 05, 04:35 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 04:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 05, 05:03 PM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
+- **Jun 05, 05:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
