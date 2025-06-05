@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 52 |
+| spacenews | 7 | 13 | 27 | 53 |
 | breaking_defense | 0 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 64 | 64 |
 
@@ -4285,3 +4285,4 @@
 - **Jun 05, 09:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 09:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 09:29 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
+- **Jun 05, 09:45 AM** - Europe’s far-reaching Space Act nears launch (spacenews)

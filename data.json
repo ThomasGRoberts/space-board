@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e15fe99c255ac59bb8adf5efbaa8a381",
+    "trigger_count": 0,
+    "current_item_id": "87cbf151516d0bc31517a5501fdb2d5b",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9790,6 +9790,18 @@
                 "2025-06-05T09:22:23.479488Z",
                 "2025-06-05T09:25:51.547957Z",
                 "2025-06-05T09:27:31.882162Z"
+            ]
+        },
+        {
+            "id": "87cbf151516d0bc31517a5501fdb2d5b",
+            "source": "spacenews",
+            "text": "Europe’s far-reaching Space Act nears launch",
+            "source_link": "https://spacenews.com/europes-far-reaching-space-act-nears-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T09:45:42.202747Z",
+            "shown_at": [
+                "2025-06-05T09:45:42.683564Z"
             ]
         }
     ]
