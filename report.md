@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 24 | 51 |
+| spacenews | 6 | 13 | 25 | 52 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | nyt | 2 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4368,3 +4368,4 @@
 - **Jun 05, 05:32 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 05, 05:47 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 05, 07:13 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
+- **Jun 05, 07:31 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
