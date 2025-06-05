@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "520911d9ab58601d418af871e1da3eaa",
+    "trigger_count": 0,
+    "current_item_id": "d7f4cba02d2cae40a75f706f52e72fe5",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9855,6 +9855,18 @@
             "fetched_datetime": "2025-06-05T11:41:39.915628Z",
             "shown_at": [
                 "2025-06-05T11:41:40.510384Z"
+            ]
+        },
+        {
+            "id": "d7f4cba02d2cae40a75f706f52e72fe5",
+            "source": "spacenews",
+            "text": "Hydrosat poised to launch second thermal-infrared satellite",
+            "source_link": "https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T13:11:40.478270Z",
+            "shown_at": [
+                "2025-06-05T13:11:41.032421Z"
             ]
         }
     ]
