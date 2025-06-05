@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 3 | 3 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 120 | 120 |
+| supercluster | 2 | 2 | 121 | 121 |
 
 # Shown Order
 
@@ -4371,3 +4371,4 @@
 - **Jun 05, 07:31 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 05, 07:45 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 05, 07:59 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 05, 08:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
