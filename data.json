@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efac67e6bbf1e7d2abc9cb987eb5d74e",
+    "trigger_count": 0,
+    "current_item_id": "2636999d22207ddbdabacbd6ace56262",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9826,6 +9826,18 @@
             "fetched_datetime": "2025-06-05T11:13:55.509484Z",
             "shown_at": [
                 "2025-06-05T11:13:56.166315Z"
+            ]
+        },
+        {
+            "id": "2636999d22207ddbdabacbd6ace56262",
+            "source": "spacenews",
+            "text": "NASA withdraws support for conferences",
+            "source_link": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T11:41:39.915628Z",
+            "shown_at": [
+                "2025-06-05T11:41:40.510384Z"
             ]
         }
     ]
