@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4237,3 +4237,4 @@
 - **Jun 05, 04:33 AM** - Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare (spacenews)
 - **Jun 05, 04:47 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 05, 05:02 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
+- **Jun 05, 05:15 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
