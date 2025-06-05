@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -4288,3 +4288,4 @@
 - **Jun 05, 09:45 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 05, 09:59 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 05, 10:15 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 05, 10:29 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
