@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 100 | 100 |
+| supercluster | 2 | 2 | 101 | 101 |
 
 # Shown Order
 
@@ -4339,3 +4339,4 @@
 - **Jun 05, 02:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 05, 03:09 PM** - Lunar helium-3: separating market from marketing (spacenews)
 - **Jun 05, 03:23 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 03:25 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
