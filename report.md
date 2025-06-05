@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4198,3 +4198,4 @@
 - **Jun 05, 12:57 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 01:13 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 05, 01:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 01:29 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
