@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 25 | 53 |
+| spacenews | 6 | 16 | 26 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4337,3 +4337,4 @@
 - **Jun 05, 02:37 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 02:39 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 05, 02:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 05, 03:09 PM** - Lunar helium-3: separating market from marketing (spacenews)
