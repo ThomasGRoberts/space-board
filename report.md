@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 51 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -4215,3 +4215,4 @@
 - **Jun 05, 02:35 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:37 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:39 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
+- **Jun 05, 02:53 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
