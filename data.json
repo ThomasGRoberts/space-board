@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a77de1ee431df090e9c83a6bff481cb3",
+    "trigger_count": 0,
+    "current_item_id": "3e505b275437a0b927ca5edccff9224d",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9976,6 +9976,18 @@
             "fetched_datetime": "2025-06-05T19:45:28.993182Z",
             "shown_at": [
                 "2025-06-05T19:45:29.727182Z"
+            ]
+        },
+        {
+            "id": "3e505b275437a0b927ca5edccff9224d",
+            "source": "nyt",
+            "text": "Status of Ispace of Japan’s Resilience Moon Lander Is Unknown",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T19:59:58.837239Z",
+            "shown_at": [
+                "2025-06-05T19:59:59.466586Z"
             ]
         }
     ]

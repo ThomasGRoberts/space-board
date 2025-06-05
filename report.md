@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 24 | 51 |
 | breaking_defense | 1 | 2 | 22 | 47 |
-| nyt | 2 | 2 | 22 | 46 |
+| nyt | 3 | 3 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 120 | 120 |
 
@@ -4370,3 +4370,4 @@
 - **Jun 05, 07:13 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 05, 07:31 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 05, 07:45 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 05, 07:59 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
