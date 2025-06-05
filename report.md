@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 25 | 52 |
-| breaking_defense | 1 | 2 | 21 | 46 |
+| spacenews | 5 | 13 | 25 | 51 |
+| breaking_defense | 1 | 2 | 22 | 47 |
 | nyt | 3 | 3 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 127 | 127 |
@@ -4379,3 +4379,4 @@
 - **Jun 05, 08:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 08:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 08:29 PM** - Rocket Lab launches BlackSky satellite (spacenews)
+- **Jun 05, 08:44 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
