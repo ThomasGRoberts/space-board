@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 2 | 2 | 93 | 93 |
 
 # Shown Order
 
@@ -4328,3 +4328,4 @@
 - **Jun 05, 02:07 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:09 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 02:11 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
+- **Jun 05, 02:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
