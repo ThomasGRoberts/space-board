@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "520911d9ab58601d418af871e1da3eaa",
+    "trigger_count": 0,
+    "current_item_id": "b67c29c0906bbf42dec7cd7564c9d6df",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -10006,6 +10006,18 @@
             "fetched_datetime": "2025-06-05T22:11:43.227328Z",
             "shown_at": [
                 "2025-06-05T22:11:43.866531Z"
+            ]
+        },
+        {
+            "id": "b67c29c0906bbf42dec7cd7564c9d6df",
+            "source": "spacenews",
+            "text": "HASC warns White House over delayed defense budget, potential cuts to Space Force funding",
+            "source_link": "https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T22:39:28.208307Z",
+            "shown_at": [
+                "2025-06-05T22:39:28.836909Z"
             ]
         }
     ]
