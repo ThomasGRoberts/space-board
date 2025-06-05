@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 24 | 51 |
 | breaking_defense | 0 | 1 | 22 | 46 |
-| nyt | 1 | 1 | 21 | 46 |
+| nyt | 2 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 120 | 120 |
 
@@ -4367,3 +4367,4 @@
 - **Jun 05, 05:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 05:32 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 05, 05:47 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 05, 07:13 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
