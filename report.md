@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 25 | 53 |
+| spacenews | 6 | 15 | 26 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4357,3 +4357,4 @@
 - **Jun 05, 04:33 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 04:35 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 04:49 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
+- **Jun 05, 05:03 PM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
