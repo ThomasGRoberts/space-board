@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
+    "trigger_count": 0,
+    "current_item_id": "ce5695141d773482b3d5f42523455a0f",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9975,6 +9975,18 @@
             "fetched_datetime": "2025-06-05T21:45:05.460062Z",
             "shown_at": [
                 "2025-06-05T21:45:06.982016Z"
+            ]
+        },
+        {
+            "id": "ce5695141d773482b3d5f42523455a0f",
+            "source": "spacenews",
+            "text": "Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies",
+            "source_link": "https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T21:57:29.700871Z",
+            "shown_at": [
+                "2025-06-05T21:57:30.292241Z"
             ]
         }
     ]

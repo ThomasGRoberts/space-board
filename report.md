@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 23 | 50 |
-| breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 4 | 4 | 22 | 46 |
+| spacenews | 6 | 14 | 24 | 51 |
+| breaking_defense | 1 | 1 | 21 | 45 |
+| nyt | 4 | 4 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 106 | 106 |
 
@@ -4360,3 +4360,4 @@
 - **Jun 05, 08:29 PM** - Rocket Lab launches BlackSky satellite (spacenews)
 - **Jun 05, 08:44 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 05, 09:45 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 05, 09:57 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
