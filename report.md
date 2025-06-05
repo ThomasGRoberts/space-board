@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4248,3 +4248,4 @@
 - **Jun 05, 05:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 05:57 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 05, 06:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 05, 06:16 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
