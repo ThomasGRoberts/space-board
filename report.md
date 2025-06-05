@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 120 | 120 |
 
@@ -4365,3 +4365,4 @@
 - **Jun 05, 05:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 05:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jun 05, 05:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jun 05, 05:32 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
