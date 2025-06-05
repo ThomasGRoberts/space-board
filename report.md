@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 26 | 54 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 99 | 99 |
+| supercluster | 2 | 2 | 100 | 100 |
 
 # Shown Order
 
@@ -4338,3 +4338,4 @@
 - **Jun 05, 02:39 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 05, 02:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 05, 03:09 PM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 05, 03:23 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
