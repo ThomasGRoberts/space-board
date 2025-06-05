@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 53 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 64 | 64 |
 
@@ -4286,3 +4286,4 @@
 - **Jun 05, 09:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 09:29 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **Jun 05, 09:45 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
+- **Jun 05, 09:59 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
