@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e15fe99c255ac59bb8adf5efbaa8a381",
+    "trigger_count": 0,
+    "current_item_id": "a77de1ee431df090e9c83a6bff481cb3",
     "data": [
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
@@ -9964,6 +9964,18 @@
             "fetched_datetime": "2025-06-05T19:12:59.850895Z",
             "shown_at": [
                 "2025-06-05T19:13:00.410128Z"
+            ]
+        },
+        {
+            "id": "a77de1ee431df090e9c83a6bff481cb3",
+            "source": "breaking_defense",
+            "text": "DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS",
+            "source_link": "https://breakingdefense.com/2025/06/dod-s-band-needed-for-golden-dome-border-defense-threatened-by-spectrum-auction-plans-csis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T19:45:28.993182Z",
+            "shown_at": [
+                "2025-06-05T19:45:29.727182Z"
             ]
         }
     ]
