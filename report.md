@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 51 |
+| spacenews | 8 | 14 | 25 | 50 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 163 |
+| supercluster | 0 | 1 | 120 | 164 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4343,3 +4343,4 @@
 - **Jun 06, 06:35 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
 - **Jun 06, 06:52 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 06, 07:08 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 07:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
