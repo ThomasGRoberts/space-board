@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 6 | 7 | 25 | 48 |
-| supercluster | 0 | 1 | 128 | 220 |
+| nyt | 6 | 7 | 25 | 47 |
+| supercluster | 0 | 1 | 128 | 221 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4426,3 +4426,4 @@
 - **Jun 06, 03:02 PM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
 - **Jun 06, 03:18 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 03:21 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 03:23 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
