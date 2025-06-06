@@ -1,9 +1,301 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-05T00:01:57.297126+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
+    "trigger_count": 6,
     "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
     "data": [
+        {
+            "id": "b67c29c0906bbf42dec7cd7564c9d6df",
+            "source": "spacenews",
+            "text": "HASC warns White House over delayed defense budget, potential cuts to Space Force funding",
+            "source_link": "https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T22:39:28.208307Z",
+            "shown_at": [
+                "2025-06-05T22:39:28.836909Z"
+            ]
+        },
+        {
+            "id": "8afe305d9daf5633f602b010b221b040",
+            "source": "breaking_defense",
+            "text": "Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program",
+            "source_link": "https://breakingdefense.com/2025/06/amid-trump-musk-blowup-canceling-spacex-contracts-could-cripple-dod-launch-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T22:11:43.227328Z",
+            "shown_at": [
+                "2025-06-05T22:11:43.866531Z"
+            ]
+        },
+        {
+            "id": "ce5695141d773482b3d5f42523455a0f",
+            "source": "spacenews",
+            "text": "Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies",
+            "source_link": "https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T21:57:29.700871Z",
+            "shown_at": [
+                "2025-06-05T21:57:30.292241Z"
+            ]
+        },
+        {
+            "id": "1205bc42e43f3bfd70d9bd3218d40ac0",
+            "source": "nyt",
+            "text": "Ispace of Japan Has Lost Contact With Resilience Moon Lander",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T21:45:05.460062Z",
+            "shown_at": [
+                "2025-06-05T21:45:06.982016Z",
+                "2025-06-05T23:49:06.492465Z"
+            ]
+        },
+        {
+            "id": "3e505b275437a0b927ca5edccff9224d",
+            "source": "nyt",
+            "text": "Status of Ispace of Japan’s Resilience Moon Lander Is Unknown",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T19:59:58.837239Z",
+            "shown_at": [
+                "2025-06-05T19:59:59.466586Z"
+            ]
+        },
+        {
+            "id": "a77de1ee431df090e9c83a6bff481cb3",
+            "source": "breaking_defense",
+            "text": "DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS",
+            "source_link": "https://breakingdefense.com/2025/06/dod-s-band-needed-for-golden-dome-border-defense-threatened-by-spectrum-auction-plans-csis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T19:45:28.993182Z",
+            "shown_at": [
+                "2025-06-05T19:45:29.727182Z",
+                "2025-06-05T23:07:30.495027Z"
+            ]
+        },
+        {
+            "id": "bb130b4cc46e286229d248450157a5ab",
+            "source": "nyt",
+            "text": "Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T19:12:59.850895Z",
+            "shown_at": [
+                "2025-06-05T19:13:00.410128Z"
+            ]
+        },
+        {
+            "id": "163e9cef1eb485eeb771157d458e1f7c",
+            "source": "nyt",
+            "text": "Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T14:39:40.202250Z",
+            "shown_at": [
+                "2025-06-05T14:39:41.295324Z",
+                "2025-06-05T15:37:33.336168Z"
+            ]
+        },
+        {
+            "id": "39f666bf2df6ac888d49dbb00a0d2d22",
+            "source": "spacenews",
+            "text": "Trump’s push for procurement reform faces familiar hurdles",
+            "source_link": "https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T14:11:35.142237Z",
+            "shown_at": [
+                "2025-06-05T14:11:35.706461Z"
+            ]
+        },
+        {
+            "id": "d7f4cba02d2cae40a75f706f52e72fe5",
+            "source": "spacenews",
+            "text": "Hydrosat poised to launch second thermal-infrared satellite",
+            "source_link": "https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T13:11:40.478270Z",
+            "shown_at": [
+                "2025-06-05T13:11:41.032421Z"
+            ]
+        },
+        {
+            "id": "2636999d22207ddbdabacbd6ace56262",
+            "source": "spacenews",
+            "text": "NASA withdraws support for conferences",
+            "source_link": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T11:41:39.915628Z",
+            "shown_at": [
+                "2025-06-05T11:41:40.510384Z"
+            ]
+        },
+        {
+            "id": "4ce1bf6810b41fc47cd5e48332b741ad",
+            "source": "spacenews",
+            "text": "U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky",
+            "source_link": "https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T11:13:55.509484Z",
+            "shown_at": [
+                "2025-06-05T11:13:56.166315Z"
+            ]
+        },
+        {
+            "id": "87cbf151516d0bc31517a5501fdb2d5b",
+            "source": "spacenews",
+            "text": "Europe’s far-reaching Space Act nears launch",
+            "source_link": "https://spacenews.com/europes-far-reaching-space-act-nears-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-05T09:45:42.202747Z",
+            "shown_at": [
+                "2025-06-05T09:45:42.683564Z"
+            ]
+        },
+        {
+            "id": "520911d9ab58601d418af871e1da3eaa",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch SiriusXM Radio Satellite",
+            "source_link": "https://www.supercluster.com/launches/sxm-10",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-07T03:19:00.000Z",
+            "time_remaining": "1d 03h 45m",
+            "fetched_datetime": "2025-06-05T00:41:46.422466Z",
+            "shown_at": [
+                "2025-06-05T00:41:47.255124Z",
+                "2025-06-05T01:27:34.916523Z",
+                "2025-06-05T01:29:27.146645Z",
+                "2025-06-05T01:31:50.627064Z",
+                "2025-06-05T01:33:35.289792Z",
+                "2025-06-05T01:36:02.013027Z",
+                "2025-06-05T01:37:27.127996Z",
+                "2025-06-05T01:39:24.277092Z",
+                "2025-06-05T02:25:30.329491Z",
+                "2025-06-05T02:27:33.182892Z",
+                "2025-06-05T02:29:32.247110Z",
+                "2025-06-05T02:31:52.010889Z",
+                "2025-06-05T02:33:06.115600Z",
+                "2025-06-05T02:35:30.261056Z",
+                "2025-06-05T02:37:27.454686Z",
+                "2025-06-05T03:23:45.484659Z",
+                "2025-06-05T03:25:36.053750Z",
+                "2025-06-05T03:27:23.795471Z",
+                "2025-06-05T03:29:39.611791Z",
+                "2025-06-05T03:31:54.635534Z",
+                "2025-06-05T03:33:40.474880Z",
+                "2025-06-05T03:35:27.317746Z",
+                "2025-06-05T04:19:42.542058Z",
+                "2025-06-05T04:21:52.551800Z",
+                "2025-06-05T04:23:23.688829Z",
+                "2025-06-05T04:25:05.030063Z",
+                "2025-06-05T04:27:39.823742Z",
+                "2025-06-05T04:29:40.047031Z",
+                "2025-06-05T04:31:25.784064Z",
+                "2025-06-05T05:15:30.564985Z",
+                "2025-06-05T05:17:46.161912Z",
+                "2025-06-05T05:19:45.074771Z",
+                "2025-06-05T05:21:30.800689Z",
+                "2025-06-05T05:23:22.205764Z",
+                "2025-06-05T05:25:38.616243Z",
+                "2025-06-05T05:27:26.860307Z",
+                "2025-06-05T06:13:29.125658Z",
+                "2025-06-05T06:16:02.681561Z",
+                "2025-06-05T06:17:25.975419Z",
+                "2025-06-05T06:19:30.173994Z",
+                "2025-06-05T06:21:12.941953Z",
+                "2025-06-05T06:23:29.079628Z",
+                "2025-06-05T06:25:37.953826Z",
+                "2025-06-05T07:10:06.770940Z",
+                "2025-06-05T07:11:46.066850Z",
+                "2025-06-05T07:13:50.412716Z",
+                "2025-06-05T07:15:29.604730Z",
+                "2025-06-05T07:17:39.898373Z",
+                "2025-06-05T07:19:28.866642Z",
+                "2025-06-05T07:21:27.104825Z",
+                "2025-06-05T08:07:43.528668Z",
+                "2025-06-05T08:09:29.244814Z",
+                "2025-06-05T08:11:53.252057Z",
+                "2025-06-05T08:13:43.258723Z",
+                "2025-06-05T08:15:54.168691Z",
+                "2025-06-05T08:17:48.112711Z",
+                "2025-06-05T08:19:45.647192Z",
+                "2025-06-05T09:11:35.846581Z",
+                "2025-06-05T09:14:08.327347Z",
+                "2025-06-05T09:16:17.529002Z",
+                "2025-06-05T09:19:55.721324Z",
+                "2025-06-05T09:22:23.479488Z",
+                "2025-06-05T09:25:51.547957Z",
+                "2025-06-05T09:27:31.882162Z",
+                "2025-06-05T10:29:38.667558Z",
+                "2025-06-05T10:31:48.269870Z",
+                "2025-06-05T10:33:38.893949Z",
+                "2025-06-05T10:35:42.221144Z",
+                "2025-06-05T10:37:39.857598Z",
+                "2025-06-05T10:39:45.876195Z",
+                "2025-06-05T10:41:38.613213Z",
+                "2025-06-05T11:55:53.389602Z",
+                "2025-06-05T11:57:29.542080Z",
+                "2025-06-05T11:59:48.428259Z",
+                "2025-06-05T12:01:54.289114Z",
+                "2025-06-05T12:03:43.910783Z",
+                "2025-06-05T12:05:33.666223Z",
+                "2025-06-05T12:07:40.454957Z",
+                "2025-06-05T12:55:40.535947Z",
+                "2025-06-05T12:57:27.115627Z",
+                "2025-06-05T13:00:01.719068Z",
+                "2025-06-05T13:02:55.198959Z",
+                "2025-06-05T13:05:28.753145Z",
+                "2025-06-05T13:07:31.646495Z",
+                "2025-06-05T13:09:37.003472Z",
+                "2025-06-05T13:55:37.437363Z",
+                "2025-06-05T13:57:42.447203Z",
+                "2025-06-05T13:59:41.492957Z",
+                "2025-06-05T14:02:14.333988Z",
+                "2025-06-05T14:05:41.929541Z",
+                "2025-06-05T14:07:45.650630Z",
+                "2025-06-05T14:09:39.369293Z",
+                "2025-06-05T15:23:37.985817Z",
+                "2025-06-05T15:25:23.380203Z",
+                "2025-06-05T15:27:28.800071Z",
+                "2025-06-05T15:29:40.818459Z",
+                "2025-06-05T15:31:46.794284Z",
+                "2025-06-05T15:33:06.613127Z",
+                "2025-06-05T15:35:37.796443Z",
+                "2025-06-05T16:21:17.891757Z",
+                "2025-06-05T16:23:35.467080Z",
+                "2025-06-05T16:25:37.846277Z",
+                "2025-06-05T16:27:12.208516Z",
+                "2025-06-05T16:29:35.289076Z",
+                "2025-06-05T16:31:53.059800Z",
+                "2025-06-05T16:33:30.779576Z",
+                "2025-06-05T22:25:45.814971Z",
+                "2025-06-05T22:27:34.157190Z",
+                "2025-06-05T22:29:27.218567Z",
+                "2025-06-05T22:31:46.880167Z",
+                "2025-06-05T22:33:25.550156Z",
+                "2025-06-05T22:35:13.002969Z",
+                "2025-06-05T22:37:39.799704Z",
+                "2025-06-05T23:21:37.840936Z",
+                "2025-06-05T23:23:31.265578Z",
+                "2025-06-05T23:25:41.932253Z",
+                "2025-06-05T23:27:30.882424Z",
+                "2025-06-05T23:29:24.576653Z",
+                "2025-06-05T23:31:47.039976Z",
+                "2025-06-05T23:33:20.933717Z"
+            ]
+        },
         {
             "id": "71ec98530a5753175610b4ed32c1e142",
             "source": "spacenews",
@@ -9479,556 +9771,6 @@
             "fetched_datetime": "2025-04-03T13:05:37.490176Z",
             "shown_at": [
                 "2025-04-03T13:19:48.616444Z"
-            ]
-        },
-        {
-            "id": "de022790840864a6f56514090b0c198f",
-            "source": "spacenews",
-            "text": "Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft",
-            "source_link": "https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T13:05:37.490113Z",
-            "shown_at": [
-                "2025-04-03T13:05:38.350737Z",
-                "2025-04-07T06:59:39.488940Z",
-                "2025-04-09T12:19:48.965954Z"
-            ]
-        },
-        {
-            "id": "ae37b9b8bcb114387808734ef1bb164e",
-            "source": "spacenews",
-            "text": "Moog Highlights Meteor Satellite Bus at Space Symposium",
-            "source_link": "https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T12:05:30.479356Z",
-            "shown_at": [
-                "2025-04-03T12:05:31.198942Z",
-                "2025-04-05T06:59:48.493368Z",
-                "2025-04-08T03:11:37.434675Z"
-            ]
-        },
-        {
-            "id": "20cc007eafa4b5e564ba39b192521675",
-            "source": "breaking_defense",
-            "text": "Counterspace capabilities advancing around the globe: Secure World Foundation",
-            "source_link": "https://breakingdefense.com/2025/04/counterspace-capabilities-advancing-around-the-globe-secure-world-foundation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T10:20:10.575162Z",
-            "shown_at": [
-                "2025-04-03T10:20:11.641820Z",
-                "2025-04-03T12:49:54.265028Z",
-                "2025-04-03T16:32:15.198696Z",
-                "2025-04-04T00:02:09.149978Z",
-                "2025-04-04T05:47:40.677337Z",
-                "2025-04-04T22:23:42.198126Z",
-                "2025-04-04T23:33:26.228056Z",
-                "2025-04-05T04:19:38.275091Z",
-                "2025-04-05T05:31:59.823946Z",
-                "2025-04-05T16:41:39.175541Z",
-                "2025-04-05T22:33:46.294187Z",
-                "2025-04-05T23:43:28.866328Z",
-                "2025-04-06T07:03:40.147000Z",
-                "2025-04-06T10:35:31.213900Z",
-                "2025-04-06T13:00:12.368355Z",
-                "2025-04-06T14:23:51.401209Z",
-                "2025-04-06T15:35:39.645414Z",
-                "2025-04-06T20:25:41.981738Z",
-                "2025-04-06T21:37:37.960933Z",
-                "2025-04-07T01:13:33.199971Z",
-                "2025-04-07T02:29:35.081166Z",
-                "2025-04-07T07:27:41.153425Z",
-                "2025-04-07T09:55:56.669200Z",
-                "2025-04-07T16:59:42.163948Z",
-                "2025-04-08T09:59:39.312460Z",
-                "2025-04-09T04:55:39.218532Z"
-            ]
-        },
-        {
-            "id": "b49bb9f5416acf3d75e2889f225a78d9",
-            "source": "spacenews",
-            "text": "Russia, China target SpaceX’s Starlink in escalating space electronic warfare",
-            "source_link": "https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T10:05:56.335114Z",
-            "shown_at": [
-                "2025-04-03T10:05:57.246867Z"
-            ]
-        },
-        {
-            "id": "fe3f66dfc8e555b2a151b3d599c4695b",
-            "source": "spacenews",
-            "text": "Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA",
-            "source_link": "https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T09:02:22.938392Z",
-            "shown_at": [
-                "2025-04-03T09:02:24.052084Z",
-                "2025-04-06T07:17:34.344504Z",
-                "2025-04-06T15:21:46.123362Z"
-            ]
-        },
-        {
-            "id": "7386a73104960179c6bbd7c7a349708f",
-            "source": "aidy",
-            "text": "FAA Licensing Delays and Congressional Shifts Highlight U.S. Space Policy Challenges",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-03T07:33:29.904794Z",
-            "shown_at": [
-                "2025-04-03T07:33:30.518434Z",
-                "2025-04-03T18:43:14.123986Z",
-                "2025-04-04T03:55:32.951191Z",
-                "2025-04-04T05:05:27.342508Z",
-                "2025-04-04T08:43:59.221331Z",
-                "2025-04-05T01:17:33.166040Z",
-                "2025-04-05T07:13:35.065984Z",
-                "2025-04-05T15:59:30.887975Z",
-                "2025-04-05T19:29:11.257001Z",
-                "2025-04-05T20:39:50.591785Z",
-                "2025-04-05T23:01:53.744597Z",
-                "2025-04-06T05:02:13.410452Z",
-                "2025-04-06T09:54:02.092363Z",
-                "2025-04-06T13:27:47.399088Z",
-                "2025-04-07T10:13:38.217648Z",
-                "2025-04-07T17:15:38.406975Z",
-                "2025-04-08T08:49:08.898312Z",
-                "2025-04-09T11:37:29.675546Z"
-            ]
-        },
-        {
-            "id": "e01bf3c172ba451e1442f866885784ff",
-            "source": "spacenews",
-            "text": "Washington Harbour Partners invests in startup Turion Space",
-            "source_link": "https://spacenews.com/washington-harbour-partners-invests-in-startup-turion-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T21:05:28.532728Z",
-            "shown_at": [
-                "2025-04-02T21:05:29.147400Z",
-                "2025-04-04T03:41:53.945523Z",
-                "2025-04-05T18:05:51.416050Z",
-                "2025-04-05T21:35:29.949313Z"
-            ]
-        },
-        {
-            "id": "37f913e70ea6a1a34c3867633b4e49f3",
-            "source": "spacenews",
-            "text": "Project Kuiper readies long-awaited operational satellite launch",
-            "source_link": "https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T19:41:48.530190Z",
-            "shown_at": [
-                "2025-04-02T19:41:49.543955Z"
-            ]
-        },
-        {
-            "id": "0e3fd76a1ac0c535ed0044cfb65595c8",
-            "source": "spacenews",
-            "text": "Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications",
-            "source_link": "https://spacenews.com/frontgrade-gaisler-launches-new-grain-line-and-wins-snsa-contract-to-commercialize-first-energy-efficient-neuromorphic-ai-for-space-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T16:45:35.937420Z",
-            "shown_at": [
-                "2025-04-02T16:45:36.578496Z",
-                "2025-04-02T22:17:47.133137Z",
-                "2025-04-05T16:55:09.866293Z",
-                "2025-04-08T00:49:59.100361Z"
-            ]
-        },
-        {
-            "id": "3b987f647093cb040cafe5afe92098db",
-            "source": "spacenews",
-            "text": "Biotech is the launchpad for human survival in space",
-            "source_link": "https://spacenews.com/biotech-is-the-launchpad-for-human-survival-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T13:09:41.427879Z",
-            "shown_at": [
-                "2025-04-02T13:09:42.271069Z",
-                "2025-04-03T06:17:40.815954Z",
-                "2025-04-03T19:45:31.990450Z",
-                "2025-04-04T09:39:36.065998Z",
-                "2025-04-07T09:27:33.283031Z"
-            ]
-        },
-        {
-            "id": "95ce623268330b8c61cd0e4c02f981b7",
-            "source": "spacenews",
-            "text": "Slingshot adapting satellite ‘fingerprinting’ technology for military applications",
-            "source_link": "https://spacenews.com/slingshot-adapting-satellite-fingerprinting-technology-for-military-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T12:41:27.133731Z",
-            "shown_at": [
-                "2025-04-02T12:41:27.674405Z",
-                "2025-04-02T23:27:30.104354Z",
-                "2025-04-06T11:59:51.865199Z",
-                "2025-04-07T04:39:40.437380Z"
-            ]
-        },
-        {
-            "id": "b6291cbc77103b9c5e6f9e1b78349f26",
-            "source": "nyt",
-            "text": "SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time",
-            "source_link": "https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T12:13:24.074710Z",
-            "shown_at": [
-                "2025-04-02T12:13:24.789381Z",
-                "2025-04-02T18:29:37.918398Z",
-                "2025-04-02T19:55:28.569247Z",
-                "2025-04-03T04:05:31.177780Z",
-                "2025-04-03T09:19:35.618386Z",
-                "2025-04-03T20:13:35.808030Z",
-                "2025-04-03T21:39:43.520971Z",
-                "2025-04-05T01:45:37.037879Z",
-                "2025-04-05T02:55:39.327314Z",
-                "2025-04-05T05:17:25.751790Z",
-                "2025-04-05T11:37:32.167123Z",
-                "2025-04-05T12:55:32.391799Z",
-                "2025-04-05T22:19:43.028774Z",
-                "2025-04-06T09:11:41.203404Z",
-                "2025-04-06T16:34:09.736893Z",
-                "2025-04-06T22:35:35.513945Z",
-                "2025-04-07T07:13:36.221445Z",
-                "2025-04-07T10:57:34.308504Z",
-                "2025-04-08T01:17:43.208494Z",
-                "2025-04-08T02:27:39.829390Z",
-                "2025-04-08T04:51:36.372320Z",
-                "2025-04-08T06:55:28.066297Z",
-                "2025-04-08T11:45:30.834180Z",
-                "2025-04-09T03:03:46.900769Z",
-                "2025-04-09T06:33:30.662154Z",
-                "2025-04-09T10:25:43.252678Z"
-            ]
-        },
-        {
-            "id": "e51363753086690c5df29e3b5c3b1f3f",
-            "source": "spacenews",
-            "text": "JAXA institute studying Mars lander concept",
-            "source_link": "https://spacenews.com/jaxa-institute-studying-mars-lander-concept/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T11:31:50.789961Z",
-            "shown_at": [
-                "2025-04-02T11:31:51.366072Z",
-                "2025-04-07T15:02:07.859439Z",
-                "2025-04-07T21:05:33.050872Z"
-            ]
-        },
-        {
-            "id": "1c4952e9f83481a07f9d93d6a41dc25b",
-            "source": "spacenews",
-            "text": "CLPS companies seek expanded opportunities for commercial lunar landers",
-            "source_link": "https://spacenews.com/clps-companies-seek-expanded-opportunities-for-commercial-lunar-landers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-02T10:47:35.961482Z",
-            "shown_at": [
-                "2025-04-02T10:47:36.500274Z",
-                "2025-04-02T15:33:39.174503Z",
-                "2025-04-04T06:02:15.794627Z"
-            ]
-        },
-        {
-            "id": "520911d9ab58601d418af871e1da3eaa",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch SiriusXM Radio Satellite",
-            "source_link": "https://www.supercluster.com/launches/sxm-10",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-07T03:19:00.000Z",
-            "time_remaining": "1d 03h 45m",
-            "fetched_datetime": "2025-06-05T00:41:46.422466Z",
-            "shown_at": [
-                "2025-06-05T00:41:47.255124Z",
-                "2025-06-05T01:27:34.916523Z",
-                "2025-06-05T01:29:27.146645Z",
-                "2025-06-05T01:31:50.627064Z",
-                "2025-06-05T01:33:35.289792Z",
-                "2025-06-05T01:36:02.013027Z",
-                "2025-06-05T01:37:27.127996Z",
-                "2025-06-05T01:39:24.277092Z",
-                "2025-06-05T02:25:30.329491Z",
-                "2025-06-05T02:27:33.182892Z",
-                "2025-06-05T02:29:32.247110Z",
-                "2025-06-05T02:31:52.010889Z",
-                "2025-06-05T02:33:06.115600Z",
-                "2025-06-05T02:35:30.261056Z",
-                "2025-06-05T02:37:27.454686Z",
-                "2025-06-05T03:23:45.484659Z",
-                "2025-06-05T03:25:36.053750Z",
-                "2025-06-05T03:27:23.795471Z",
-                "2025-06-05T03:29:39.611791Z",
-                "2025-06-05T03:31:54.635534Z",
-                "2025-06-05T03:33:40.474880Z",
-                "2025-06-05T03:35:27.317746Z",
-                "2025-06-05T04:19:42.542058Z",
-                "2025-06-05T04:21:52.551800Z",
-                "2025-06-05T04:23:23.688829Z",
-                "2025-06-05T04:25:05.030063Z",
-                "2025-06-05T04:27:39.823742Z",
-                "2025-06-05T04:29:40.047031Z",
-                "2025-06-05T04:31:25.784064Z",
-                "2025-06-05T05:15:30.564985Z",
-                "2025-06-05T05:17:46.161912Z",
-                "2025-06-05T05:19:45.074771Z",
-                "2025-06-05T05:21:30.800689Z",
-                "2025-06-05T05:23:22.205764Z",
-                "2025-06-05T05:25:38.616243Z",
-                "2025-06-05T05:27:26.860307Z",
-                "2025-06-05T06:13:29.125658Z",
-                "2025-06-05T06:16:02.681561Z",
-                "2025-06-05T06:17:25.975419Z",
-                "2025-06-05T06:19:30.173994Z",
-                "2025-06-05T06:21:12.941953Z",
-                "2025-06-05T06:23:29.079628Z",
-                "2025-06-05T06:25:37.953826Z",
-                "2025-06-05T07:10:06.770940Z",
-                "2025-06-05T07:11:46.066850Z",
-                "2025-06-05T07:13:50.412716Z",
-                "2025-06-05T07:15:29.604730Z",
-                "2025-06-05T07:17:39.898373Z",
-                "2025-06-05T07:19:28.866642Z",
-                "2025-06-05T07:21:27.104825Z",
-                "2025-06-05T08:07:43.528668Z",
-                "2025-06-05T08:09:29.244814Z",
-                "2025-06-05T08:11:53.252057Z",
-                "2025-06-05T08:13:43.258723Z",
-                "2025-06-05T08:15:54.168691Z",
-                "2025-06-05T08:17:48.112711Z",
-                "2025-06-05T08:19:45.647192Z",
-                "2025-06-05T09:11:35.846581Z",
-                "2025-06-05T09:14:08.327347Z",
-                "2025-06-05T09:16:17.529002Z",
-                "2025-06-05T09:19:55.721324Z",
-                "2025-06-05T09:22:23.479488Z",
-                "2025-06-05T09:25:51.547957Z",
-                "2025-06-05T09:27:31.882162Z",
-                "2025-06-05T10:29:38.667558Z",
-                "2025-06-05T10:31:48.269870Z",
-                "2025-06-05T10:33:38.893949Z",
-                "2025-06-05T10:35:42.221144Z",
-                "2025-06-05T10:37:39.857598Z",
-                "2025-06-05T10:39:45.876195Z",
-                "2025-06-05T10:41:38.613213Z",
-                "2025-06-05T11:55:53.389602Z",
-                "2025-06-05T11:57:29.542080Z",
-                "2025-06-05T11:59:48.428259Z",
-                "2025-06-05T12:01:54.289114Z",
-                "2025-06-05T12:03:43.910783Z",
-                "2025-06-05T12:05:33.666223Z",
-                "2025-06-05T12:07:40.454957Z",
-                "2025-06-05T12:55:40.535947Z",
-                "2025-06-05T12:57:27.115627Z",
-                "2025-06-05T13:00:01.719068Z",
-                "2025-06-05T13:02:55.198959Z",
-                "2025-06-05T13:05:28.753145Z",
-                "2025-06-05T13:07:31.646495Z",
-                "2025-06-05T13:09:37.003472Z",
-                "2025-06-05T13:55:37.437363Z",
-                "2025-06-05T13:57:42.447203Z",
-                "2025-06-05T13:59:41.492957Z",
-                "2025-06-05T14:02:14.333988Z",
-                "2025-06-05T14:05:41.929541Z",
-                "2025-06-05T14:07:45.650630Z",
-                "2025-06-05T14:09:39.369293Z",
-                "2025-06-05T15:23:37.985817Z",
-                "2025-06-05T15:25:23.380203Z",
-                "2025-06-05T15:27:28.800071Z",
-                "2025-06-05T15:29:40.818459Z",
-                "2025-06-05T15:31:46.794284Z",
-                "2025-06-05T15:33:06.613127Z",
-                "2025-06-05T15:35:37.796443Z",
-                "2025-06-05T16:21:17.891757Z",
-                "2025-06-05T16:23:35.467080Z",
-                "2025-06-05T16:25:37.846277Z",
-                "2025-06-05T16:27:12.208516Z",
-                "2025-06-05T16:29:35.289076Z",
-                "2025-06-05T16:31:53.059800Z",
-                "2025-06-05T16:33:30.779576Z",
-                "2025-06-05T22:25:45.814971Z",
-                "2025-06-05T22:27:34.157190Z",
-                "2025-06-05T22:29:27.218567Z",
-                "2025-06-05T22:31:46.880167Z",
-                "2025-06-05T22:33:25.550156Z",
-                "2025-06-05T22:35:13.002969Z",
-                "2025-06-05T22:37:39.799704Z",
-                "2025-06-05T23:21:37.840936Z",
-                "2025-06-05T23:23:31.265578Z",
-                "2025-06-05T23:25:41.932253Z",
-                "2025-06-05T23:27:30.882424Z",
-                "2025-06-05T23:29:24.576653Z",
-                "2025-06-05T23:31:47.039976Z",
-                "2025-06-05T23:33:20.933717Z"
-            ]
-        },
-        {
-            "id": "87cbf151516d0bc31517a5501fdb2d5b",
-            "source": "spacenews",
-            "text": "Europe’s far-reaching Space Act nears launch",
-            "source_link": "https://spacenews.com/europes-far-reaching-space-act-nears-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T09:45:42.202747Z",
-            "shown_at": [
-                "2025-06-05T09:45:42.683564Z"
-            ]
-        },
-        {
-            "id": "4ce1bf6810b41fc47cd5e48332b741ad",
-            "source": "spacenews",
-            "text": "U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky",
-            "source_link": "https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T11:13:55.509484Z",
-            "shown_at": [
-                "2025-06-05T11:13:56.166315Z"
-            ]
-        },
-        {
-            "id": "2636999d22207ddbdabacbd6ace56262",
-            "source": "spacenews",
-            "text": "NASA withdraws support for conferences",
-            "source_link": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T11:41:39.915628Z",
-            "shown_at": [
-                "2025-06-05T11:41:40.510384Z"
-            ]
-        },
-        {
-            "id": "d7f4cba02d2cae40a75f706f52e72fe5",
-            "source": "spacenews",
-            "text": "Hydrosat poised to launch second thermal-infrared satellite",
-            "source_link": "https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T13:11:40.478270Z",
-            "shown_at": [
-                "2025-06-05T13:11:41.032421Z"
-            ]
-        },
-        {
-            "id": "39f666bf2df6ac888d49dbb00a0d2d22",
-            "source": "spacenews",
-            "text": "Trump’s push for procurement reform faces familiar hurdles",
-            "source_link": "https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T14:11:35.142237Z",
-            "shown_at": [
-                "2025-06-05T14:11:35.706461Z"
-            ]
-        },
-        {
-            "id": "163e9cef1eb485eeb771157d458e1f7c",
-            "source": "nyt",
-            "text": "Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T14:39:40.202250Z",
-            "shown_at": [
-                "2025-06-05T14:39:41.295324Z",
-                "2025-06-05T15:37:33.336168Z"
-            ]
-        },
-        {
-            "id": "bb130b4cc46e286229d248450157a5ab",
-            "source": "nyt",
-            "text": "Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:12:59.850895Z",
-            "shown_at": [
-                "2025-06-05T19:13:00.410128Z"
-            ]
-        },
-        {
-            "id": "a77de1ee431df090e9c83a6bff481cb3",
-            "source": "breaking_defense",
-            "text": "DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS",
-            "source_link": "https://breakingdefense.com/2025/06/dod-s-band-needed-for-golden-dome-border-defense-threatened-by-spectrum-auction-plans-csis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:45:28.993182Z",
-            "shown_at": [
-                "2025-06-05T19:45:29.727182Z",
-                "2025-06-05T23:07:30.495027Z"
-            ]
-        },
-        {
-            "id": "3e505b275437a0b927ca5edccff9224d",
-            "source": "nyt",
-            "text": "Status of Ispace of Japan’s Resilience Moon Lander Is Unknown",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:59:58.837239Z",
-            "shown_at": [
-                "2025-06-05T19:59:59.466586Z"
-            ]
-        },
-        {
-            "id": "1205bc42e43f3bfd70d9bd3218d40ac0",
-            "source": "nyt",
-            "text": "Ispace of Japan Has Lost Contact With Resilience Moon Lander",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T21:45:05.460062Z",
-            "shown_at": [
-                "2025-06-05T21:45:06.982016Z",
-                "2025-06-05T23:49:06.492465Z"
-            ]
-        },
-        {
-            "id": "ce5695141d773482b3d5f42523455a0f",
-            "source": "spacenews",
-            "text": "Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies",
-            "source_link": "https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T21:57:29.700871Z",
-            "shown_at": [
-                "2025-06-05T21:57:30.292241Z"
-            ]
-        },
-        {
-            "id": "8afe305d9daf5633f602b010b221b040",
-            "source": "breaking_defense",
-            "text": "Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program",
-            "source_link": "https://breakingdefense.com/2025/06/amid-trump-musk-blowup-canceling-spacex-contracts-could-cripple-dod-launch-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T22:11:43.227328Z",
-            "shown_at": [
-                "2025-06-05T22:11:43.866531Z"
-            ]
-        },
-        {
-            "id": "b67c29c0906bbf42dec7cd7564c9d6df",
-            "source": "spacenews",
-            "text": "HASC warns White House over delayed defense budget, potential cuts to Space Force funding",
-            "source_link": "https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T22:39:28.208307Z",
-            "shown_at": [
-                "2025-06-05T22:39:28.836909Z"
             ]
         }
     ]
