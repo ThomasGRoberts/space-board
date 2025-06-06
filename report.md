@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 48 |
-| supercluster | 0 | 1 | 119 | 127 |
+| supercluster | 0 | 1 | 120 | 128 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4291,3 +4291,4 @@
 - **Jun 06, 01:19 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
 - **Jun 06, 01:33 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 06, 01:47 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 06, 02:02 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
