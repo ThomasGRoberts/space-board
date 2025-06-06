@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 25 | 50 |
-| breaking_defense | 2 | 2 | 22 | 45 |
+| breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 6 | 7 | 25 | 47 |
 | supercluster | 0 | 1 | 140 | 246 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4461,3 +4461,4 @@
 - **Jun 06, 06:19 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:22 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:25 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 06:27 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
