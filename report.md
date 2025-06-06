@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 50 |
-| breaking_defense | 2 | 2 | 22 | 45 |
+| breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 7 | 7 | 24 | 47 |
 | supercluster | 0 | 1 | 126 | 197 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4390,3 +4390,4 @@
 - **Jun 06, 11:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 11:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 11:15 AM** - Geospatial intelligence companies highlight Earth observation images (spacenews)
+- **Jun 06, 11:29 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
