@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 50 |
+| spacenews | 9 | 14 | 25 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 25 | 48 |
 | supercluster | 0 | 1 | 120 | 204 |
@@ -4403,3 +4403,4 @@
 - **Jun 06, 12:27 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 06, 12:41 PM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 06, 12:55 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 06, 01:09 PM** - The new attack surface: from space to smartphone (spacenews)

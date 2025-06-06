@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7747cbcd186703ddf44157647b5de287",
+    "trigger_count": 0,
+    "current_item_id": "2700b9a7c11b27316aa0de752ad001eb",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9974,6 +9974,18 @@
             "fetched_datetime": "2025-06-06T11:43:36.339990Z",
             "shown_at": [
                 "2025-06-06T11:43:37.269889Z"
+            ]
+        },
+        {
+            "id": "2700b9a7c11b27316aa0de752ad001eb",
+            "source": "spacenews",
+            "text": "The new attack surface: from space to smartphone",
+            "source_link": "https://spacenews.com/the-new-attack-surface-from-space-to-smartphone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T13:09:34.573887Z",
+            "shown_at": [
+                "2025-06-06T13:09:35.252411Z"
             ]
         }
     ]
