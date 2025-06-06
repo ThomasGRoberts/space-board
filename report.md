@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 50 |
+| spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 7 | 7 | 24 | 47 |
 | supercluster | 0 | 1 | 119 | 162 |
@@ -4340,3 +4340,4 @@
 - **Jun 06, 06:17 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:21 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 06, 06:35 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
