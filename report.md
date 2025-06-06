@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 23 | 47 |
+| nyt | 7 | 7 | 24 | 48 |
 | supercluster | 0 | 1 | 119 | 162 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4341,3 +4341,4 @@
 - **Jun 06, 06:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:21 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 06, 06:35 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
+- **Jun 06, 06:52 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
