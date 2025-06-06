@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 23 | 47 |
+| nyt | 7 | 7 | 24 | 48 |
 | supercluster | 0 | 1 | 119 | 148 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4321,3 +4321,4 @@
 - **Jun 06, 04:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 04:27 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 06, 04:41 AM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
+- **Jun 06, 04:55 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
