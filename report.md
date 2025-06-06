@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 23 | 47 |
+| nyt | 7 | 7 | 24 | 48 |
 | supercluster | 0 | 1 | 119 | 155 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4331,3 +4331,4 @@
 - **Jun 06, 05:21 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 05:23 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 06, 05:37 AM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
+- **Jun 06, 05:51 AM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
