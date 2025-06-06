@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 51 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | nyt | 3 | 7 | 26 | 47 |
-| supercluster | 0 | 1 | 161 | 267 |
+| supercluster | 0 | 1 | 162 | 268 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4495,3 +4495,4 @@
 - **Jun 06, 09:31 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 06, 09:45 PM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
 - **Jun 06, 09:59 PM** - NASA’s ESCAPADE could launch on second New Glenn (spacenews)
+- **Jun 06, 10:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
