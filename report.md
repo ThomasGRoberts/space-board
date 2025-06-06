@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 121 | 129 |
+| supercluster | 0 | 1 | 122 | 130 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4293,3 +4293,4 @@
 - **Jun 06, 01:47 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 06, 02:02 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 02:05 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 02:07 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
