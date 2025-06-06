@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 51 |
+| spacenews | 8 | 15 | 25 | 50 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 142 |
+| supercluster | 0 | 1 | 121 | 143 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4313,3 +4313,4 @@
 - **Jun 06, 03:43 AM** - The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2) (spacenews)
 - **Jun 06, 03:57 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 06, 04:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 04:15 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
