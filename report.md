@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 25 | 50 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 119 | 176 |
+| supercluster | 0 | 1 | 120 | 177 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4362,3 +4362,4 @@
 - **Jun 06, 08:23 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 06, 08:38 AM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 06, 08:51 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 06, 09:05 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
