@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 6 | 7 | 25 | 48 |
-| supercluster | 0 | 1 | 127 | 233 |
+| nyt | 6 | 7 | 25 | 47 |
+| supercluster | 0 | 1 | 128 | 234 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4445,3 +4445,4 @@
 - **Jun 06, 04:45 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 06, 04:59 PM** - Second ispace lunar lander presumed lost (spacenews)
 - **Jun 06, 05:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 05:15 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
