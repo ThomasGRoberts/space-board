@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 24 | 46 |
+| nyt | 7 | 7 | 25 | 47 |
 | supercluster | 0 | 1 | 119 | 183 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4371,3 +4371,4 @@
 - **Jun 06, 09:17 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 09:19 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 06, 09:35 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
+- **Jun 06, 09:49 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
