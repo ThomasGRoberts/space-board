@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7894414e46b7abb93c07f56faa8946a8",
+    "trigger_count": 0,
+    "current_item_id": "059b03c033dc6cfd6825851d887a9705",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -10109,6 +10109,18 @@
             "fetched_datetime": "2025-06-06T21:59:38.509036Z",
             "shown_at": [
                 "2025-06-06T21:59:39.434092Z"
+            ]
+        },
+        {
+            "id": "059b03c033dc6cfd6825851d887a9705",
+            "source": "nyt",
+            "text": "Trump Has Options to Punish Musk Even if His Federal Contracts Continue",
+            "source_link": "https://www.nytimes.com/2025/06/06/us/politics/trump-musk-spacex-contracts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T23:09:30.734403Z",
+            "shown_at": [
+                "2025-06-06T23:09:31.309206Z"
             ]
         }
     ]

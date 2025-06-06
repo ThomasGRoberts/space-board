@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 27 | 51 |
 | breaking_defense | 0 | 2 | 23 | 45 |
-| nyt | 3 | 7 | 26 | 47 |
+| nyt | 4 | 8 | 27 | 48 |
 | supercluster | 0 | 1 | 161 | 274 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4505,3 +4505,4 @@
 - **Jun 06, 10:27 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 06, 10:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 06, 10:55 PM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
+- **Jun 06, 11:09 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
