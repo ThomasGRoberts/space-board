@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 26 | 49 |
+| spacenews | 8 | 13 | 27 | 50 |
 | breaking_defense | 1 | 2 | 24 | 45 |
-| nyt | 4 | 7 | 27 | 48 |
+| nyt | 3 | 7 | 26 | 48 |
 | supercluster | 0 | 1 | 161 | 267 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4493,3 +4493,4 @@
 - **Jun 06, 09:15 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 09:17 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 06, 09:31 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
+- **Jun 06, 09:45 PM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
