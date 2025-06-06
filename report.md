@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 25 | 50 |
-| breaking_defense | 2 | 2 | 21 | 45 |
+| breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 6 | 6 | 24 | 47 |
 | supercluster | 1 | 1 | 120 | 120 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4279,3 +4279,4 @@
 - **Jun 05, 11:49 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 06, 12:03 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 06, 12:17 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
+- **Jun 06, 12:31 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
