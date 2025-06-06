@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 50 |
+| spacenews | 8 | 14 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 6 | 7 | 25 | 48 |
 | supercluster | 0 | 1 | 126 | 218 |
@@ -4423,3 +4423,4 @@
 - **Jun 06, 02:31 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 02:33 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 06, 02:47 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 06, 03:02 PM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
