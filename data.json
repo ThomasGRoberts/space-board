@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c63dec0de42b1e2c42381c081faa9b69",
+    "trigger_count": 0,
+    "current_item_id": "5a961ee4c697a7fdc6e9fd2ef418c202",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9783,6 +9783,18 @@
             "fetched_datetime": "2025-06-06T00:03:44.968178Z",
             "shown_at": [
                 "2025-06-06T00:03:45.655299Z"
+            ]
+        },
+        {
+            "id": "5a961ee4c697a7fdc6e9fd2ef418c202",
+            "source": "nyt",
+            "text": "How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/spacex-nasa-trump-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T00:17:28.195165Z",
+            "shown_at": [
+                "2025-06-06T00:17:28.871815Z"
             ]
         }
     ]
