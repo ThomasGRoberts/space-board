@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 50 |
+| spacenews | 9 | 14 | 25 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 25 | 48 |
 | supercluster | 0 | 1 | 122 | 211 |
@@ -4413,3 +4413,4 @@
 - **Jun 06, 01:35 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 01:37 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 06, 01:51 PM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
+- **Jun 06, 02:05 PM** - Africa’s new space agency presents a unified space front (spacenews)
