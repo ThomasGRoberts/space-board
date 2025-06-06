@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 23 | 47 |
+| nyt | 7 | 7 | 24 | 48 |
 | supercluster | 0 | 1 | 119 | 134 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4301,3 +4301,4 @@
 - **Jun 06, 02:17 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
 - **Jun 06, 02:31 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 06, 02:45 AM** - Second ispace lunar lander presumed lost (spacenews)
+- **Jun 06, 02:59 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
