@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 25 | 47 |
-| supercluster | 0 | 1 | 120 | 205 |
+| supercluster | 0 | 1 | 121 | 206 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4405,3 +4405,4 @@
 - **Jun 06, 12:55 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 06, 01:09 PM** - The new attack surface: from space to smartphone (spacenews)
 - **Jun 06, 01:23 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 01:25 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
