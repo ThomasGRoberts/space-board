@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 23 | 47 |
+| nyt | 7 | 7 | 24 | 48 |
 | supercluster | 0 | 1 | 119 | 141 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4311,3 +4311,4 @@
 - **Jun 06, 03:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 03:29 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 06, 03:43 AM** - The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2) (spacenews)
+- **Jun 06, 03:57 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
