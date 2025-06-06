@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 50 |
+| spacenews | 8 | 13 | 24 | 49 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 124 | 195 |
+| supercluster | 0 | 1 | 125 | 196 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4387,3 +4387,4 @@
 - **Jun 06, 11:05 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 11:07 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 11:09 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 11:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
