@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "efd31b1b42e3f9d50f0d6aa6906adbfa",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9951,6 +9951,18 @@
             "fetched_datetime": "2025-06-06T11:15:29.368181Z",
             "shown_at": [
                 "2025-06-06T11:15:30.127776Z"
+            ]
+        },
+        {
+            "id": "efd31b1b42e3f9d50f0d6aa6906adbfa",
+            "source": "spacenews",
+            "text": "Musk-Trump dispute includes threats to SpaceX contracts",
+            "source_link": "https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T11:43:36.339990Z",
+            "shown_at": [
+                "2025-06-06T11:43:37.269889Z"
             ]
         }
     ]
