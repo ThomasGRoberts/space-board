@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 198 |
+| supercluster | 0 | 1 | 121 | 199 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4394,3 +4394,4 @@
 - **Jun 06, 11:43 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
 - **Jun 06, 11:57 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 06, 12:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 12:15 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
