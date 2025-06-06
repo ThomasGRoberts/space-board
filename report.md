@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 26 | 50 |
 | breaking_defense | 2 | 2 | 23 | 45 |
-| nyt | 6 | 7 | 26 | 47 |
-| supercluster | 0 | 1 | 142 | 248 |
+| nyt | 5 | 7 | 25 | 47 |
+| supercluster | 0 | 1 | 143 | 249 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4466,3 +4466,4 @@
 - **Jun 06, 06:55 PM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **Jun 06, 07:09 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 07:11 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 07:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
