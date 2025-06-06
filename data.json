@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "a9b970e588a75375b964f149b3d8a17e",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9796,6 +9796,18 @@
             "fetched_datetime": "2025-06-06T00:17:28.195165Z",
             "shown_at": [
                 "2025-06-06T00:17:28.871815Z"
+            ]
+        },
+        {
+            "id": "a9b970e588a75375b964f149b3d8a17e",
+            "source": "nyt",
+            "text": "Ispace of Japan’s Moon Lander Resilience Has Crashed",
+            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T00:46:05.260469Z",
+            "shown_at": [
+                "2025-06-06T00:46:06.400739Z"
             ]
         }
     ]
