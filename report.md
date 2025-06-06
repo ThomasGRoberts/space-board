@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 51 |
+| spacenews | 8 | 15 | 25 | 50 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 135 |
+| supercluster | 0 | 1 | 121 | 136 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4303,3 +4303,4 @@
 - **Jun 06, 02:45 AM** - Second ispace lunar lander presumed lost (spacenews)
 - **Jun 06, 02:59 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 06, 03:15 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 03:17 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
