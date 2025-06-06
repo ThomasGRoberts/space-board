@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "520911d9ab58601d418af871e1da3eaa",
+    "trigger_count": 0,
+    "current_item_id": "7548796e1e6f0fc3aa07d5ae492a4645",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9938,6 +9938,18 @@
             "fetched_datetime": "2025-06-06T08:37:59.001793Z",
             "shown_at": [
                 "2025-06-06T08:38:00.002907Z"
+            ]
+        },
+        {
+            "id": "7548796e1e6f0fc3aa07d5ae492a4645",
+            "source": "spacenews",
+            "text": "Geospatial intelligence companies highlight Earth observation images",
+            "source_link": "https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T11:15:29.368181Z",
+            "shown_at": [
+                "2025-06-06T11:15:30.127776Z"
             ]
         }
     ]
