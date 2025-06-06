@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 126 | 197 |
+| nyt | 7 | 7 | 25 | 48 |
+| supercluster | 0 | 1 | 124 | 197 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4392,3 +4392,4 @@
 - **Jun 06, 11:15 AM** - Geospatial intelligence companies highlight Earth observation images (spacenews)
 - **Jun 06, 11:29 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 06, 11:43 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
+- **Jun 06, 11:57 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
