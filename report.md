@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 4 | 7 | 26 | 47 |
-| supercluster | 0 | 1 | 155 | 261 |
+| supercluster | 0 | 1 | 156 | 262 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4485,3 +4485,4 @@
 - **Jun 06, 08:33 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 06, 08:47 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 06, 09:02 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 09:05 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
