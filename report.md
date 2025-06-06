@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 26 | 50 |
+| spacenews | 7 | 14 | 27 | 51 |
 | breaking_defense | 0 | 2 | 24 | 45 |
-| nyt | 3 | 7 | 27 | 47 |
+| nyt | 3 | 7 | 26 | 47 |
 | supercluster | 0 | 1 | 161 | 274 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4504,3 +4504,4 @@
 - **Jun 06, 10:25 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 10:27 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 06, 10:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 06, 10:55 PM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
