@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 50 |
+| spacenews | 9 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 7 | 7 | 24 | 47 |
+| nyt | 7 | 7 | 23 | 47 |
 | supercluster | 0 | 1 | 119 | 176 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4360,3 +4360,4 @@
 - **Jun 06, 08:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 08:21 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 08:23 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 06, 08:38 AM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)

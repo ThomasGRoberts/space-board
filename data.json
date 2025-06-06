@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04a601e4483e9e952dd3727cc702a09a",
+    "trigger_count": 0,
+    "current_item_id": "b327cb60da7c04c6bf496ec008652b63",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9898,6 +9898,18 @@
             "fetched_datetime": "2025-06-06T02:45:27.876435Z",
             "shown_at": [
                 "2025-06-06T02:45:28.420557Z"
+            ]
+        },
+        {
+            "id": "b327cb60da7c04c6bf496ec008652b63",
+            "source": "spacenews",
+            "text": "China launches fourth group of Guowang megaconstellation satellites",
+            "source_link": "https://spacenews.com/china-launches-fourth-group-of-guowang-megaconstellation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T08:37:59.001793Z",
+            "shown_at": [
+                "2025-06-06T08:38:00.002907Z"
             ]
         }
     ]
