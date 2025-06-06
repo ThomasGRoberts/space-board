@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 25 | 50 |
-| breaking_defense | 2 | 2 | 21 | 45 |
+| breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 124 | 127 |
+| supercluster | 0 | 1 | 123 | 127 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4289,3 +4289,4 @@
 - **Jun 06, 01:15 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 01:18 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 01:19 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
+- **Jun 06, 01:33 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
