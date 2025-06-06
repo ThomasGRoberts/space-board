@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 184 |
+| supercluster | 0 | 1 | 121 | 185 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4373,3 +4373,4 @@
 - **Jun 06, 09:35 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
 - **Jun 06, 09:49 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 06, 10:03 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 10:05 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
