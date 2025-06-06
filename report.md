@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 25 | 49 |
+| spacenews | 8 | 13 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 4 | 7 | 26 | 48 |
 | supercluster | 0 | 1 | 154 | 260 |
@@ -4483,3 +4483,4 @@
 - **Jun 06, 08:17 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 08:19 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 06, 08:33 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 06, 08:47 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
