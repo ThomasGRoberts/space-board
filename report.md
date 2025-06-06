@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 149 |
+| supercluster | 0 | 1 | 121 | 150 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4323,3 +4323,4 @@
 - **Jun 06, 04:41 AM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **Jun 06, 04:55 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 06, 05:09 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 05:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
