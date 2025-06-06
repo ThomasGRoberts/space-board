@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 6 | 7 | 25 | 48 |
-| supercluster | 0 | 1 | 126 | 232 |
+| supercluster | 0 | 1 | 127 | 233 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4444,3 +4444,4 @@
 - **Jun 06, 04:31 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 06, 04:45 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 06, 04:59 PM** - Second ispace lunar lander presumed lost (spacenews)
+- **Jun 06, 05:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
