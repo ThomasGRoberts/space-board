@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 119 | 190 |
+| supercluster | 0 | 1 | 120 | 191 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4382,3 +4382,4 @@
 - **Jun 06, 10:17 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 06, 10:33 AM** - NASA withdraws support for conferences (spacenews)
 - **Jun 06, 10:47 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
+- **Jun 06, 11:02 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
