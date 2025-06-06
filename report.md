@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 25 | 50 |
 | breaking_defense | 2 | 2 | 21 | 45 |
 | nyt | 7 | 7 | 24 | 47 |
-| supercluster | 0 | 1 | 120 | 164 |
+| supercluster | 0 | 1 | 120 | 165 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4344,3 +4344,4 @@
 - **Jun 06, 06:52 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 06, 07:08 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 07:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 07:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
