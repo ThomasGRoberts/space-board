@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 24 | 50 |
+| spacenews | 8 | 15 | 25 | 51 |
 | breaking_defense | 2 | 2 | 22 | 46 |
 | nyt | 7 | 7 | 24 | 47 |
 | supercluster | 0 | 1 | 119 | 134 |
@@ -4300,3 +4300,4 @@
 - **Jun 06, 02:15 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 02:17 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
 - **Jun 06, 02:31 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 06, 02:45 AM** - Second ispace lunar lander presumed lost (spacenews)

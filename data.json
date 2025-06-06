@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a77de1ee431df090e9c83a6bff481cb3",
+    "trigger_count": 0,
+    "current_item_id": "d346ab8c21ff5341e1f362f9dfbe5a8c",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9827,6 +9827,18 @@
             "fetched_datetime": "2025-06-06T00:46:05.260469Z",
             "shown_at": [
                 "2025-06-06T00:46:06.400739Z"
+            ]
+        },
+        {
+            "id": "d346ab8c21ff5341e1f362f9dfbe5a8c",
+            "source": "spacenews",
+            "text": "Second ispace lunar lander presumed lost",
+            "source_link": "https://spacenews.com/second-ispace-lunar-lander-presumed-lost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T02:45:27.876435Z",
+            "shown_at": [
+                "2025-06-06T02:45:28.420557Z"
             ]
         }
     ]
