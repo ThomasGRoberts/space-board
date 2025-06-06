@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 25 | 50 |
+| spacenews | 8 | 13 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 5 | 7 | 26 | 48 |
 | supercluster | 0 | 1 | 147 | 253 |
@@ -4473,3 +4473,4 @@
 - **Jun 06, 07:21 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 07:23 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 06, 07:37 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 06, 07:51 PM** - Second ispace lunar lander presumed lost (spacenews)
