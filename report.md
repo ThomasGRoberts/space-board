@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 25 | 51 |
 | breaking_defense | 2 | 2 | 21 | 45 |
-| nyt | 4 | 4 | 22 | 46 |
+| nyt | 5 | 5 | 23 | 47 |
 | supercluster | 1 | 1 | 120 | 120 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4277,3 +4277,4 @@
 - **Jun 05, 11:33 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 05, 11:35 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 05, 11:49 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 06, 12:03 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)

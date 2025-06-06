@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-06T00:01:57.782694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
+    "trigger_count": 0,
+    "current_item_id": "c63dec0de42b1e2c42381c081faa9b69",
     "data": [
         {
             "id": "b67c29c0906bbf42dec7cd7564c9d6df",
@@ -9771,6 +9771,18 @@
             "fetched_datetime": "2025-04-03T13:05:37.490176Z",
             "shown_at": [
                 "2025-04-03T13:19:48.616444Z"
+            ]
+        },
+        {
+            "id": "c63dec0de42b1e2c42381c081faa9b69",
+            "source": "nyt",
+            "text": "Marc Garneau, First Canadian in Space, Dies at 76",
+            "source_link": "https://www.nytimes.com/2025/06/05/world/canada/mark-garneau-canadian-astronaut-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-06T00:03:44.968178Z",
+            "shown_at": [
+                "2025-06-06T00:03:45.655299Z"
             ]
         }
     ]
