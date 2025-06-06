@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 50 |
+| spacenews | 8 | 14 | 27 | 51 |
 | breaking_defense | 1 | 2 | 24 | 45 |
 | nyt | 3 | 7 | 26 | 47 |
 | supercluster | 0 | 1 | 161 | 267 |
@@ -4494,3 +4494,4 @@
 - **Jun 06, 09:17 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 06, 09:31 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 06, 09:45 PM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
+- **Jun 06, 09:59 PM** - NASA’s ESCAPADE could launch on second New Glenn (spacenews)
