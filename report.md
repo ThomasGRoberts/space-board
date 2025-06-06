@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
-| nyt | 6 | 7 | 25 | 48 |
-| supercluster | 0 | 1 | 128 | 227 |
+| nyt | 6 | 7 | 25 | 47 |
+| supercluster | 0 | 1 | 128 | 228 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4436,3 +4436,4 @@
 - **Jun 06, 04:02 PM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 06, 04:15 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 04:18 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 04:21 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
