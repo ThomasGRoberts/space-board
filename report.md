@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 25 | 50 |
 | breaking_defense | 2 | 2 | 22 | 45 |
 | nyt | 6 | 7 | 25 | 47 |
-| supercluster | 0 | 1 | 135 | 241 |
+| supercluster | 0 | 1 | 136 | 242 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4456,3 +4456,4 @@
 - **Jun 06, 05:55 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 06, 06:11 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 06:13 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 06, 06:15 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
