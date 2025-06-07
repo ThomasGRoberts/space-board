@@ -6,7 +6,7 @@
 | spacenews | 6 | 14 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4180,3 +4180,4 @@
 - **Jun 07, 03:25 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 07, 04:05 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 04:07 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 04:09 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
