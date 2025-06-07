@@ -6,7 +6,7 @@
 | spacenews | 1 | 9 | 24 | 50 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -4340,3 +4340,4 @@
 - **Jun 07, 08:43 PM** - NASA withdraws support for conferences (spacenews)
 - **Jun 07, 08:57 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 07, 09:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 09:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
