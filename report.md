@@ -4178,4 +4178,4 @@
 - **Jun 07, 02:43 AM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **Jun 07, 02:57 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 07, 03:25 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
-- **Jun 07, 03:59 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 04:01 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
