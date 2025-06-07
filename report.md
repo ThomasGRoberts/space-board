@@ -6,7 +6,7 @@
 | spacenews | 6 | 14 | 25 | 50 |
 | breaking_defense | 0 | 2 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4201,3 +4201,4 @@
 - **Jun 07, 07:37 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 07:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 07:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
