@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 25 | 49 |
 | spacenews | 7 | 14 | 27 | 52 |
-| breaking_defense | 0 | 2 | 24 | 45 |
+| breaking_defense | 0 | 2 | 25 | 46 |
 | supercluster | 0 | 0 | 168 | 291 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4466,3 +4466,4 @@
 - **Jun 07, 01:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 01:29 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 01:32 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 01:33 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
