@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 9 | 24 | 48 |
+| nyt | 2 | 9 | 23 | 48 |
 | spacenews | 5 | 13 | 25 | 49 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4220,3 +4220,4 @@
 - **Jun 07, 09:19 AM** - Maxar inks partnership with Saab for defense applications of geospatial data (spacenews)
 - **Jun 07, 09:33 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 07, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
