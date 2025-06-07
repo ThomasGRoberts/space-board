@@ -5,7 +5,7 @@
 | nyt | 1 | 8 | 25 | 49 |
 | spacenews | 7 | 14 | 28 | 52 |
 | breaking_defense | 0 | 2 | 24 | 45 |
-| supercluster | 0 | 0 | 162 | 287 |
+| supercluster | 0 | 0 | 162 | 288 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4459,3 +4459,4 @@
 - **Jun 07, 12:35 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 12:49 AM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 07, 01:05 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
+- **Jun 07, 01:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
