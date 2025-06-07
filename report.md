@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 24 | 48 |
+| nyt | 1 | 8 | 25 | 49 |
 | spacenews | 6 | 14 | 27 | 52 |
 | breaking_defense | 0 | 2 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4182,3 +4182,4 @@
 - **Jun 07, 04:07 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 04:09 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 04:11 AM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
+- **Jun 07, 04:25 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
