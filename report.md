@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 5 | 24 | 50 |
 | spacenews | 0 | 7 | 23 | 50 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 131 | 131 |
 
@@ -4368,3 +4368,4 @@
 - **Jun 07, 11:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 11:27 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 07, 11:41 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
+- **Jun 07, 11:55 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
