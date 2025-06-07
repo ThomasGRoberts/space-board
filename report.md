@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
 | spacenews | 5 | 14 | 26 | 50 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -4218,3 +4218,4 @@
 - **Jun 07, 09:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 09:05 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 07, 09:19 AM** - Maxar inks partnership with Saab for defense applications of geospatial data (spacenews)
+- **Jun 07, 09:33 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
