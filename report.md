@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 24 | 51 |
-| spacenews | 0 | 7 | 23 | 49 |
+| spacenews | 0 | 7 | 24 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 124 | 124 |
@@ -4357,3 +4357,4 @@
 - **Jun 07, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 10:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 10:29 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 07, 10:43 PM** - NASA’s ESCAPADE could launch on second New Glenn (spacenews)
