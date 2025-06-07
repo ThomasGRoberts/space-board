@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 8 | 24 | 50 |
 | spacenews | 1 | 9 | 24 | 50 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 96 | 96 |
 
@@ -4318,3 +4318,4 @@
 - **Jun 07, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 06:37 PM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 07, 06:51 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
+- **Jun 07, 07:05 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
