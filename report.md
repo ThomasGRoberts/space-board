@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
 | spacenews | 6 | 14 | 26 | 50 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -4208,3 +4208,4 @@
 - **Jun 07, 08:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 08:05 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 07, 08:20 AM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
+- **Jun 07, 08:33 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
