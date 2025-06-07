@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 25 | 49 |
-| spacenews | 7 | 14 | 28 | 52 |
+| spacenews | 7 | 14 | 27 | 52 |
 | breaking_defense | 0 | 2 | 24 | 45 |
-| supercluster | 0 | 0 | 162 | 288 |
+| supercluster | 0 | 0 | 163 | 289 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4460,3 +4460,4 @@
 - **Jun 07, 12:49 AM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 07, 01:05 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 07, 01:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 01:21 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
