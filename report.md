@@ -6,7 +6,7 @@
 | spacenews | 4 | 11 | 25 | 48 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4240,3 +4240,4 @@
 - **Jun 07, 11:13 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 07, 11:27 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 07, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
