@@ -6,7 +6,7 @@
 | spacenews | 1 | 9 | 24 | 48 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -4299,3 +4299,4 @@
 - **Jun 07, 04:43 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 07, 04:57 PM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **Jun 07, 05:11 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 07, 05:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
