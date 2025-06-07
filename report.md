@@ -6,7 +6,7 @@
 | spacenews | 0 | 8 | 23 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
 
@@ -4349,3 +4349,4 @@
 - **Jun 07, 09:29 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 07, 09:43 PM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
 - **Jun 07, 09:57 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 07, 10:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
