@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 24 | 48 |
+| nyt | 1 | 8 | 25 | 49 |
 | spacenews | 7 | 14 | 28 | 52 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | supercluster | 0 | 0 | 168 | 287 |
@@ -4468,3 +4468,4 @@
 - **Jun 07, 01:32 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 01:33 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 07, 01:47 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
+- **Jun 07, 02:01 AM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
