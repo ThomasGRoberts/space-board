@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-07T00:01:55.918704+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "a9c314e3dde7ab19f285248f7370a730",
     "data": [
         {
             "id": "059b03c033dc6cfd6825851d887a9705",
@@ -9680,6 +9680,18 @@
                 "2025-06-07T05:59:36.099128Z",
                 "2025-06-07T06:01:54.963723Z",
                 "2025-06-07T06:03:40.930272Z"
+            ]
+        },
+        {
+            "id": "a9c314e3dde7ab19f285248f7370a730",
+            "source": "nyt",
+            "text": "Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76",
+            "source_link": "https://www.nytimes.com/2025/06/05/world/canada/mark-garneau-canadian-astronaut-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-07T06:05:37.171004Z",
+            "shown_at": [
+                "2025-06-07T06:05:38.149540Z"
             ]
         }
     ]
