@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 9 | 23 | 48 |
+| nyt | 2 | 9 | 24 | 48 |
 | spacenews | 5 | 13 | 25 | 49 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4226,3 +4226,4 @@
 - **Jun 07, 09:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 10:02 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
