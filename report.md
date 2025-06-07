@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 23 | 47 |
 | spacenews | 6 | 14 | 25 | 50 |
-| breaking_defense | 0 | 2 | 23 | 45 |
+| breaking_defense | 0 | 2 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4182,3 +4182,4 @@
 - **Jun 07, 04:25 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 07, 04:39 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 05:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 05:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
