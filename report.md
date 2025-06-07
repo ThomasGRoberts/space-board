@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 25 | 49 |
-| spacenews | 7 | 14 | 27 | 51 |
+| spacenews | 7 | 14 | 28 | 52 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | supercluster | 0 | 0 | 168 | 287 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4477,3 +4477,4 @@
 - **Jun 07, 02:25 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 02:27 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 02:29 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 07, 02:43 AM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
