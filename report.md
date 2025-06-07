@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 24 | 49 |
+| nyt | 2 | 6 | 25 | 50 |
 | spacenews | 1 | 9 | 24 | 50 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4336,3 +4336,4 @@
 - **Jun 07, 08:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 08:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 08:29 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
