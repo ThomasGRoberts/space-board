@@ -4181,4 +4181,4 @@
 - **Jun 07, 04:11 AM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
 - **Jun 07, 04:25 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 07, 04:39 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
-- **Jun 07, 05:11 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 05:13 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
