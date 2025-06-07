@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 8 | 25 | 49 |
 | spacenews | 6 | 14 | 27 | 52 |
-| breaking_defense | 0 | 2 | 24 | 45 |
+| breaking_defense | 0 | 2 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -4180,3 +4180,4 @@
 - **Jun 07, 03:19 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 03:21 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 07, 03:23 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 03:25 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
