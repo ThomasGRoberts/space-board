@@ -6,7 +6,7 @@
 | spacenews | 0 | 7 | 23 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 
 # Shown Order
 
@@ -4360,3 +4360,4 @@
 - **Jun 07, 10:43 PM** - NASA’s ESCAPADE could launch on second New Glenn (spacenews)
 - **Jun 07, 10:59 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 07, 11:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
