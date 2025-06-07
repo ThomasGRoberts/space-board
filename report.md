@@ -6,7 +6,7 @@
 | spacenews | 1 | 9 | 24 | 48 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4269,3 +4269,4 @@
 - **Jun 07, 01:48 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 07, 02:01 PM** - EchoStar bets on TV amid FCC mobile scrutiny (spacenews)
 - **Jun 07, 02:15 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 07, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
