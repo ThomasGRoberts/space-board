@@ -6,7 +6,7 @@
 | spacenews | 6 | 14 | 25 | 50 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4190,3 +4190,4 @@
 - **Jun 07, 06:21 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
 - **Jun 07, 06:35 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 06:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
