@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
-| spacenews | 6 | 14 | 25 | 50 |
-| breaking_defense | 0 | 2 | 23 | 44 |
+| spacenews | 6 | 14 | 26 | 51 |
+| breaking_defense | 0 | 2 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -4187,3 +4187,4 @@
 - **Jun 07, 06:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 06:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 06:05 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
+- **Jun 07, 06:21 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
