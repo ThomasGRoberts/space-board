@@ -6,7 +6,7 @@
 | spacenews | 1 | 9 | 24 | 49 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -4309,3 +4309,4 @@
 - **Jun 07, 05:39 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 07, 05:53 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 07, 06:07 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 07, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
