@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
 | spacenews | 5 | 13 | 26 | 50 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 33 | 33 |
 
@@ -4228,3 +4228,4 @@
 - **Jun 07, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 10:02 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 07, 10:17 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
+- **Jun 07, 10:31 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
