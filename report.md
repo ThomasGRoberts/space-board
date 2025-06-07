@@ -6,7 +6,7 @@
 | spacenews | 5 | 13 | 25 | 49 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4230,3 +4230,4 @@
 - **Jun 07, 10:17 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 07, 10:31 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
