@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 9 | 24 | 47 |
+| nyt | 2 | 9 | 23 | 47 |
 | spacenews | 5 | 14 | 25 | 50 |
-| breaking_defense | 0 | 2 | 23 | 45 |
+| breaking_defense | 0 | 2 | 23 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -4211,3 +4211,4 @@
 - **Jun 07, 08:33 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 08:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 08:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 08:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
