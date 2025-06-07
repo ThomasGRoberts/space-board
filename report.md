@@ -6,7 +6,7 @@
 | spacenews | 0 | 8 | 23 | 50 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -4351,3 +4351,4 @@
 - **Jun 07, 09:57 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 07, 10:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 10:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 10:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
