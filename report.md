@@ -6,7 +6,7 @@
 | spacenews | 3 | 11 | 25 | 49 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4249,3 +4249,4 @@
 - **Jun 07, 11:55 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 07, 12:09 PM** - Africa’s new space agency presents a unified space front (spacenews)
 - **Jun 07, 12:23 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 07, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
