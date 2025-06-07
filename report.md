@@ -6,7 +6,7 @@
 | spacenews | 5 | 14 | 25 | 50 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4210,3 +4210,4 @@
 - **Jun 07, 08:20 AM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
 - **Jun 07, 08:33 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 07, 08:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 08:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
