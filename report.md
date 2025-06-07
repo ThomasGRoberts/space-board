@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
-| spacenews | 4 | 11 | 25 | 48 |
+| spacenews | 3 | 11 | 24 | 48 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4241,3 +4241,4 @@
 - **Jun 07, 11:27 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 07, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 11:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 07, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
