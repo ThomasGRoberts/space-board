@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 9 | 24 | 48 |
 | spacenews | 6 | 14 | 26 | 50 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -4198,3 +4198,4 @@
 - **Jun 07, 07:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 07, 07:09 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 07, 07:23 AM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
+- **Jun 07, 07:37 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
