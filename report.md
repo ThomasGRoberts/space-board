@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 25 | 48 |
+| nyt | 1 | 8 | 24 | 48 |
 | spacenews | 6 | 14 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4178,4 +4178,4 @@
 - **Jun 07, 02:43 AM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
 - **Jun 07, 02:57 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 07, 03:25 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
-- **Jun 07, 03:55 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
+- **Jun 07, 03:57 AM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
