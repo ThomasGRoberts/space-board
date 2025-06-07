@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 8 | 26 | 48 |
+| nyt | 3 | 8 | 26 | 49 |
 | spacenews | 7 | 14 | 27 | 52 |
 | breaking_defense | 0 | 2 | 24 | 45 |
 | supercluster | 0 | 1 | 161 | 281 |
@@ -4448,3 +4448,4 @@
 - **Jun 06, 11:35 PM** - SpaceX Will Launch SiriusXM Radio Satellite (supercluster)
 - **Jun 06, 11:37 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 06, 11:51 PM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
+- **Jun 07, 12:05 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
