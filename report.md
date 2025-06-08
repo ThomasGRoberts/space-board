@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 168 | 168 |
+| supercluster | 1 | 1 | 169 | 169 |
 | spacenews | 0 | 6 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4406,3 +4406,4 @@
 - **Jun 08, 04:43 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 04:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 04:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 08, 05:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
