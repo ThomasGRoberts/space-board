@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 160 | 160 |
+| supercluster | 1 | 1 | 161 | 161 |
 | spacenews | 0 | 6 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4395,3 +4395,4 @@
 - **Jun 08, 03:27 AM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
 - **Jun 08, 03:43 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 03:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 08, 03:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
