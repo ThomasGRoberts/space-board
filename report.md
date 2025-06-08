@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 24 | 48 |
 | spacenews | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4278,3 +4278,4 @@
 - **Jun 08, 03:32 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 08, 03:33 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 08, 03:47 PM** - Geospatial intelligence companies highlight Earth observation images (spacenews)
+- **Jun 08, 04:02 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
