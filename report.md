@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 49 |
 | supercluster | 1 | 1 | 145 | 145 |
-| spacenews | 0 | 7 | 23 | 50 |
+| spacenews | 0 | 7 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4372,3 +4372,4 @@
 - **Jun 08, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 01:19 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
+- **Jun 08, 01:33 AM** - Voyager launches IPO with $1.6 billion valuation target (spacenews)
