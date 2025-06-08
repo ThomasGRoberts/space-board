@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 145 | 145 |
+| nyt | 1 | 2 | 23 | 48 |
+| supercluster | 1 | 1 | 146 | 146 |
 | spacenews | 0 | 7 | 23 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4374,3 +4374,4 @@
 - **Jun 08, 01:19 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 08, 01:33 AM** - Voyager launches IPO with $1.6 billion valuation target (spacenews)
 - **Jun 08, 01:47 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 08, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
