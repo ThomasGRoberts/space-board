@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4320,3 +4320,4 @@
 - **Jun 08, 07:41 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 08, 07:55 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 08, 08:09 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 08, 08:11 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
