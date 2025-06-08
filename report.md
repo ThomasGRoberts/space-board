@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 201 |
 | spacenews | 0 | 5 | 25 | 51 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4453,3 +4453,4 @@
 - **Jun 08, 08:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 08:59 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 08, 09:13 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
+- **Jun 08, 09:27 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
