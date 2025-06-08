@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4310,3 +4310,4 @@
 - **Jun 08, 06:41 PM** - The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2) (spacenews)
 - **Jun 08, 06:55 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 08, 07:09 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 08, 07:12 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
