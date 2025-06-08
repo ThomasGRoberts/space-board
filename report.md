@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 229 |
-| spacenews | 0 | 3 | 25 | 49 |
+| spacenews | 0 | 3 | 26 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4492,3 +4492,4 @@
 - **Jun 08, 12:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 12:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 12:45 PM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
+- **Jun 08, 12:59 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
