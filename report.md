@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 24 | 49 |
 | supercluster | 1 | 1 | 159 | 159 |
 | spacenews | 0 | 6 | 24 | 51 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4393,3 +4393,4 @@
 - **Jun 08, 03:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 03:13 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 08, 03:27 AM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
+- **Jun 08, 03:43 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
