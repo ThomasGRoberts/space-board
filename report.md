@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 48 |
 | supercluster | 1 | 1 | 138 | 138 |
-| spacenews | 0 | 7 | 24 | 51 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 7 | 23 | 51 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4363,3 +4363,4 @@
 - **Jun 08, 12:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 12:23 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 08, 12:37 AM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 08, 12:51 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
