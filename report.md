@@ -6,7 +6,7 @@
 | spacenews | 1 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -4360,3 +4360,4 @@
 - **Jun 08, 11:25 PM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 08, 11:39 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 08, 11:53 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 08, 11:55 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
