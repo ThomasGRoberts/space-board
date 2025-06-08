@@ -6,7 +6,7 @@
 | spacenews | 0 | 2 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4265,4 +4265,3 @@
 - **Jun 08, 12:45 PM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 08, 12:59 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 08, 01:13 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
-- **Jun 08, 01:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
