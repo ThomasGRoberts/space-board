@@ -6,7 +6,7 @@
 | spacenews | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4271,3 +4271,4 @@
 - **Jun 08, 03:05 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 03:19 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 08, 03:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 08, 03:23 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
