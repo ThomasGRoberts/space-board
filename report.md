@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 49 |
 | supercluster | 1 | 1 | 152 | 152 |
-| spacenews | 0 | 7 | 23 | 51 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 6 | 23 | 50 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4383,3 +4383,4 @@
 - **Jun 08, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 02:17 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 08, 02:31 AM** - The new attack surface: from space to smartphone (spacenews)
+- **Jun 08, 02:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
