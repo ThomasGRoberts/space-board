@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 176 | 230 |
+| supercluster | 0 | 1 | 177 | 231 |
 | spacenews | 0 | 2 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4495,3 +4495,4 @@
 - **Jun 08, 12:59 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 08, 01:13 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 01:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 08, 01:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
