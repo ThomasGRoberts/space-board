@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 208 |
 | spacenews | 0 | 5 | 25 | 51 |
-| breaking_defense | 0 | 0 | 25 | 47 |
+| breaking_defense | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4463,3 +4463,4 @@
 - **Jun 08, 09:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 09:55 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 08, 10:09 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
+- **Jun 08, 10:23 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
