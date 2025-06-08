@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 194 |
-| spacenews | 0 | 6 | 25 | 50 |
+| spacenews | 0 | 6 | 26 | 51 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4442,3 +4442,4 @@
 - **Jun 08, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 07:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 07:59 AM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
+- **Jun 08, 08:15 AM** - Africa’s new space agency presents a unified space front (spacenews)
