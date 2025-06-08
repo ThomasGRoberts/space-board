@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 176 | 209 |
+| supercluster | 0 | 1 | 177 | 210 |
 | spacenews | 0 | 5 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4465,3 +4465,4 @@
 - **Jun 08, 10:09 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
 - **Jun 08, 10:23 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 08, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
