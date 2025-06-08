@@ -3,15 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 5 | 24 | 50 |
+| supercluster | 1 | 1 | 131 | 131 |
 | spacenews | 0 | 7 | 23 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 131 | 131 |
 
 # Shown Order
 
-- **Apr 04, 07:32 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
-- **Apr 04, 09:53 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 04, 01:11 PM** - Golden Dome: who and what should it defend? (spacenews)
 - **Apr 04, 05:41 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 04, 06:09 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
@@ -22,24 +20,17 @@
 - **Apr 04, 09:55 PM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 04, 10:09 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 04, 11:47 PM** - NASA seeks proposals for two private astronaut missions to ISS (spacenews)
-- **Apr 05, 12:02 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
-- **Apr 05, 02:27 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
-- **Apr 05, 03:37 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 05, 04:33 AM** - Space companies swept up in far-reaching trade war (spacenews)
 - **Apr 05, 07:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 05, 07:55 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 05, 11:09 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
-- **Apr 05, 12:24 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
-- **Apr 05, 01:37 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 05, 02:49 PM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
-- **Apr 05, 05:09 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 05, 05:51 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 05, 07:15 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
 - **Apr 05, 07:57 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 05, 11:57 PM** - SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 06, 12:11 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
 - **Apr 06, 01:27 AM** - Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin (aidy)
-- **Apr 06, 06:13 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 06, 06:49 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 07:31 AM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
 - **Apr 06, 09:25 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
@@ -50,7 +41,6 @@
 - **Apr 06, 02:09 PM** - Missile Defense Agency opens door to commercial firms for “Golden Dome” project (spacenews)
 - **Apr 06, 03:07 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 04:03 PM** - Aetherflux raises $50 million for space-based solar power (spacenews)
-- **Apr 06, 06:13 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 06, 07:41 PM** - SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029 (spacenews)
 - **Apr 06, 08:11 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 06, 08:39 PM** - ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts (aidy)
@@ -67,17 +57,14 @@
 - **Apr 07, 03:55 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 07, 04:53 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 05:49 AM** - Aetherflux raises $50 million for space-based solar power (spacenews)
-- **Apr 07, 06:31 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 07, 07:41 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 07, 08:43 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
-- **Apr 07, 08:57 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 07, 11:13 AM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 07, 11:27 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 07, 11:55 AM** - China’s megaconstellation launches could litter orbit for more than a century, analysts warn (spacenews)
 - **Apr 07, 12:09 PM** - Potential NASA Earth science cuts highlight budget uncertainty (spacenews)
 - **Apr 07, 12:23 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 07, 12:37 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
-- **Apr 07, 12:52 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 07, 01:07 PM** - Europe pursues ‘strategic autonomy’ amidst geopolitical shifts (spacenews)
 - **Apr 07, 01:21 PM** - Space has a communications problem (spacenews)
 - **Apr 07, 01:36 PM** - LeoLabs unveils mobile radar for space surveillance (spacenews)
@@ -227,7 +214,6 @@
 - **Apr 10, 07:37 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 10, 08:05 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 10, 08:33 AM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
-- **Apr 10, 08:47 AM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 10, 09:15 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 10, 09:29 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 10, 09:43 AM** - Surge in NATO spending to benefit space sector (spacenews)
@@ -258,7 +244,6 @@
 - **Apr 10, 05:45 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 10, 05:53 PM** - Starlink’s rise in the defense market forces industry to adapt (spacenews)
 - **Apr 10, 06:22 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
-- **Apr 10, 06:35 PM** - Texas Bill Limits Local Control Over SpaceX Site, Sparking Environmental Concerns (aidy)
 - **Apr 10, 06:49 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 10, 07:03 PM** - Vast signs three more payload partners for Haven-1 (spacenews)
 - **Apr 10, 07:17 PM** - Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems (spacenews)
