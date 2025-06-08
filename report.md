@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 24 | 48 |
 | spacenews | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4308,3 +4308,4 @@
 - **Jun 08, 06:25 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 08, 06:27 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 08, 06:41 PM** - The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2) (spacenews)
+- **Jun 08, 06:55 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
