@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 222 |
 | spacenews | 0 | 3 | 25 | 50 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4483,3 +4483,4 @@
 - **Jun 08, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 11:47 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 08, 12:02 PM** - Second ispace lunar lander presumed lost (spacenews)
+- **Jun 08, 12:17 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
