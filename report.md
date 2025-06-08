@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 24 | 49 |
 | supercluster | 1 | 1 | 166 | 166 |
-| spacenews | 0 | 6 | 24 | 51 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 6 | 24 | 50 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4403,3 +4403,4 @@
 - **Jun 08, 04:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 04:13 AM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 08, 04:27 AM** - South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts (spacenews)
+- **Jun 08, 04:43 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
