@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 215 |
 | spacenews | 0 | 4 | 25 | 50 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4473,3 +4473,4 @@
 - **Jun 08, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 10:51 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 08, 11:05 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
+- **Jun 08, 11:19 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
