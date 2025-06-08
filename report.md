@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 24 | 48 |
+| nyt | 0 | 2 | 25 | 49 |
 | spacenews | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4266,3 +4266,4 @@
 - **Jun 08, 12:59 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 08, 01:13 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 08, 02:35 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 08, 02:37 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
