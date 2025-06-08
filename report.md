@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 24 | 49 |
 | supercluster | 1 | 1 | 138 | 138 |
-| spacenews | 0 | 7 | 23 | 50 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 7 | 24 | 51 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4362,3 +4362,4 @@
 - **Jun 08, 12:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 12:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 08, 12:23 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 08, 12:37 AM** - Lunar helium-3: separating market from marketing (spacenews)
