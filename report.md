@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 175 | 180 |
+| supercluster | 0 | 1 | 176 | 181 |
 | spacenews | 0 | 6 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4424,3 +4424,4 @@
 - **Jun 08, 06:08 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 08, 06:21 AM** - Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare (spacenews)
 - **Jun 08, 06:35 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 08, 06:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
