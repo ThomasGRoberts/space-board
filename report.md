@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 25 | 49 |
-| supercluster | 0 | 1 | 176 | 223 |
+| supercluster | 0 | 1 | 177 | 224 |
 | spacenews | 0 | 3 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4485,3 +4485,4 @@
 - **Jun 08, 12:02 PM** - Second ispace lunar lander presumed lost (spacenews)
 - **Jun 08, 12:17 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 08, 12:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 08, 12:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
