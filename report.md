@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 26 | 50 |
 | supercluster | 1 | 2 | 175 | 204 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4556,3 +4556,4 @@
 - **Jun 09, 06:27 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 06:29 PM** - Europe’s far-reaching Space Act nears launch (spacenews)
 - **Jun 09, 06:43 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 09, 06:57 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
