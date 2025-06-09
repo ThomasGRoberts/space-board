@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4387,3 +4387,4 @@
 - **Jun 09, 02:19 AM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
 - **Jun 09, 02:33 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 09, 02:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 09, 02:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
