@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fcad5bfe2236b769eba2f03892c066a3",
+    "trigger_count": 0,
+    "current_item_id": "fb33d3340fa27bbc2961154e45f1325c",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10022,6 +10022,18 @@
             "fetched_datetime": "2025-06-09T13:13:48.882715Z",
             "shown_at": [
                 "2025-06-09T13:13:50.148273Z"
+            ]
+        },
+        {
+            "id": "fb33d3340fa27bbc2961154e45f1325c",
+            "source": "spacenews",
+            "text": "A reinvigorated push for nuclear power in space",
+            "source_link": "https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T14:09:32.092048Z",
+            "shown_at": [
+                "2025-06-09T14:09:32.819450Z"
             ]
         }
     ]
