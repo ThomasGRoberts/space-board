@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 25 | 48 |
+| spacenews | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 71 | 71 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4365,3 +4365,4 @@
 - **Jun 09, 12:07 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 12:09 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 09, 12:23 AM** - Starliner future plans still in limbo (spacenews)
+- **Jun 09, 12:38 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
