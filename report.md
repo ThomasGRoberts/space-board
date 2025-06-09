@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| supercluster | 1 | 2 | 169 | 226 |
+| supercluster | 1 | 2 | 170 | 227 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4591,3 +4591,4 @@
 - **Jun 09, 10:17 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 09, 10:31 PM** - Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT (spacenews)
 - **Jun 09, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
