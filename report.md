@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 113 | 113 |
-| nyt | 0 | 1 | 24 | 49 |
+| nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4423,3 +4423,4 @@
 - **Jun 09, 05:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 09, 05:51 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
