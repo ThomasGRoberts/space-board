@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 26 | 50 |
 | supercluster | 1 | 2 | 175 | 225 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4586,3 +4586,4 @@
 - **Jun 09, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 09:19 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 09, 09:35 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 09, 09:49 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
