@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 25 | 50 |
 | supercluster | 1 | 1 | 141 | 141 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4465,3 +4465,4 @@
 - **Jun 09, 09:39 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 09:41 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 09, 09:55 AM** - Starliner future plans still in limbo (spacenews)
+- **Jun 09, 10:09 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
