@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| supercluster | 1 | 2 | 170 | 234 |
+| supercluster | 1 | 2 | 171 | 235 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4602,3 +4602,4 @@
 - **Jun 09, 11:27 PM** - NASA’s budget crisis presents an opportunity for change (spacenews)
 - **Jun 09, 11:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
