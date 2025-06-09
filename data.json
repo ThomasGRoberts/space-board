@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "77aff4506e4486e3876f6687e7d3ae9f",
+    "trigger_count": 0,
+    "current_item_id": "4971b2924fea11f2744abc240e142600",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10173,6 +10173,18 @@
             "fetched_datetime": "2025-06-09T22:17:33.091708Z",
             "shown_at": [
                 "2025-06-09T22:17:33.613820Z"
+            ]
+        },
+        {
+            "id": "4971b2924fea11f2744abc240e142600",
+            "source": "spacenews",
+            "text": "Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT",
+            "source_link": "https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:31:57.401967Z",
+            "shown_at": [
+                "2025-06-09T22:31:57.997760Z"
             ]
         }
     ]

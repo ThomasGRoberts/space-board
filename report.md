@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 26 | 51 |
+| spacenews | 6 | 7 | 27 | 52 |
 | supercluster | 1 | 2 | 168 | 225 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4589,3 +4589,4 @@
 - **Jun 09, 09:49 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 09, 10:03 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 09, 10:17 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 09, 10:31 PM** - Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT (spacenews)
