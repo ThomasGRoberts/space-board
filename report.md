@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 25 | 49 |
 | supercluster | 1 | 1 | 106 | 106 |
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4415,3 +4415,4 @@
 - **Jun 09, 04:53 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 04:55 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 09, 05:09 AM** - NASA’s budget crisis presents an opportunity for change (spacenews)
+- **Jun 09, 05:23 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
