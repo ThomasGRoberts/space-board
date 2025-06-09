@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4406,3 +4406,4 @@
 - **Jun 09, 03:59 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 09, 04:13 AM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
 - **Jun 09, 04:27 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 09, 04:41 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
