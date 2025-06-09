@@ -5,7 +5,7 @@
 | spacenews | 5 | 5 | 27 | 51 |
 | supercluster | 1 | 2 | 175 | 218 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 1 | 1 | 25 | 49 |
+| breaking_defense | 1 | 1 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4575,3 +4575,4 @@
 - **Jun 09, 08:19 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 08:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 08:23 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
+- **Jun 09, 08:37 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
