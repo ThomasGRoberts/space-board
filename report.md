@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 92 | 92 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4395,3 +4395,4 @@
 - **Jun 09, 02:59 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 03:02 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 09, 03:18 AM** - Starliner future plans still in limbo (spacenews)
+- **Jun 09, 03:31 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
