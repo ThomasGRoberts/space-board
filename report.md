@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 49 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4436,3 +4436,4 @@
 - **Jun 09, 06:51 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 09, 07:05 AM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
 - **Jun 09, 07:19 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 09, 07:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
