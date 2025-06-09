@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
+    "trigger_count": 0,
+    "current_item_id": "1d328a2d5257515634a41c0e4f64a62c",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10084,6 +10084,18 @@
                 "2025-06-09T16:29:30.857166Z",
                 "2025-06-09T16:31:52.956602Z",
                 "2025-06-09T16:33:29.064905Z"
+            ]
+        },
+        {
+            "id": "1d328a2d5257515634a41c0e4f64a62c",
+            "source": "spacenews",
+            "text": "House appropriators unveil defense bill, boost Space Force funding",
+            "source_link": "https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T17:33:39.181571Z",
+            "shown_at": [
+                "2025-06-09T17:33:39.921190Z"
             ]
         }
     ]
