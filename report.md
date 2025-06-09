@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 26 | 50 |
-| supercluster | 1 | 2 | 173 | 184 |
+| supercluster | 1 | 2 | 173 | 185 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4528,3 +4528,4 @@
 - **Jun 09, 03:51 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 09, 04:07 PM** - Africa’s new space agency presents a unified space front (spacenews)
 - **Jun 09, 04:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
