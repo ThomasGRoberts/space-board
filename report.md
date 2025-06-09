@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 26 | 50 |
 | supercluster | 1 | 2 | 175 | 211 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4566,3 +4566,4 @@
 - **Jun 09, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 07:25 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
 - **Jun 09, 07:41 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 09, 07:55 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
