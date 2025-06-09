@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 24 | 49 |
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4446,3 +4446,4 @@
 - **Jun 09, 07:47 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 09, 08:02 AM** - How NASA advisory committees are navigating a new political landscape (spacenews)
 - **Jun 09, 08:17 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 09, 08:31 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
