@@ -2,18 +2,16 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 24 | 48 |
 | spacenews | 1 | 1 | 24 | 47 |
+| supercluster | 1 | 1 | 69 | 69 |
+| nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
-- **Apr 04, 01:11 PM** - Golden Dome: who and what should it defend? (spacenews)
 - **Apr 04, 05:41 PM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 04, 06:09 PM** - Fram2 completes polar orbit private astronaut mission (spacenews)
-- **Apr 04, 07:21 PM** - Golden Dome: who and what should it defend? (spacenews)
 - **Apr 04, 07:35 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 04, 08:45 PM** - From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine (breaking_defense)
 - **Apr 04, 09:41 PM** - Space companies swept up in far-reaching trade war (spacenews)
@@ -86,7 +84,6 @@
 - **Apr 07, 10:05 PM** - FCC moves to update satellite power limits amid push for adaptive regulations (spacenews)
 - **Apr 08, 12:07 AM** - SpaceX Astronauts Splash Down Off California Coast for the First Time (nyt)
 - **Apr 08, 12:21 AM** - Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA (breaking_defense)
-- **Apr 08, 01:59 AM** - Golden Dome: who and what should it defend? (spacenews)
 - **Apr 08, 02:55 AM** - Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure. (aidy)
 - **Apr 08, 03:39 AM** - Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86 (nyt)
 - **Apr 08, 03:53 AM** - EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement (breaking_defense)
@@ -4363,3 +4360,4 @@
 - **Jun 08, 11:55 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 08, 11:57 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 08, 11:59 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 09, 12:02 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
