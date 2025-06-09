@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 27 | 51 |
 | supercluster | 1 | 2 | 168 | 225 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 1 | 1 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4588,3 +4588,4 @@
 - **Jun 09, 09:35 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 09, 09:49 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 09, 10:03 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
+- **Jun 09, 10:17 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)

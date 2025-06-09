@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bf8143f1cf065a236920f067c988c6da",
+    "trigger_count": 0,
+    "current_item_id": "77aff4506e4486e3876f6687e7d3ae9f",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10161,6 +10161,18 @@
             "fetched_datetime": "2025-06-09T22:03:41.585271Z",
             "shown_at": [
                 "2025-06-09T22:03:42.170968Z"
+            ]
+        },
+        {
+            "id": "77aff4506e4486e3876f6687e7d3ae9f",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26?",
+            "source_link": "https://breakingdefense.com/2025/06/exclusive-pentagons-rdte-budget-revealed-which-next-gen-systems-get-a-cash-influx-in-fy26/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:17:33.091708Z",
+            "shown_at": [
+                "2025-06-09T22:17:33.613820Z"
             ]
         }
     ]
