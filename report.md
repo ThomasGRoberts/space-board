@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 78 | 78 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4375,3 +4375,4 @@
 - **Jun 09, 01:03 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 01:05 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 09, 01:21 AM** - Rocket Lab launches BlackSky satellite (spacenews)
+- **Jun 09, 01:37 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
