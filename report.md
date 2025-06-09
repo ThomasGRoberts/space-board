@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 25 | 50 |
 | supercluster | 1 | 1 | 113 | 113 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4425,3 +4425,4 @@
 - **Jun 09, 05:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:51 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 09, 06:05 AM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 09, 06:19 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
