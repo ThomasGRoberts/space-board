@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 24 | 49 |
-| supercluster | 1 | 1 | 155 | 155 |
+| supercluster | 1 | 1 | 156 | 156 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4486,3 +4486,4 @@
 - **Jun 09, 11:33 AM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 09, 11:47 AM** - Arkadia Space tests its first hydrogen peroxide thruster in orbit (spacenews)
 - **Jun 09, 12:02 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
+- **Jun 09, 12:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
