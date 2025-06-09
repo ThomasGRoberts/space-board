@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9c314e3dde7ab19f285248f7370a730",
+    "trigger_count": 0,
+    "current_item_id": "bf8143f1cf065a236920f067c988c6da",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10149,6 +10149,18 @@
             "fetched_datetime": "2025-06-09T17:47:25.951933Z",
             "shown_at": [
                 "2025-06-09T17:47:26.593482Z"
+            ]
+        },
+        {
+            "id": "bf8143f1cf065a236920f067c988c6da",
+            "source": "spacenews",
+            "text": "US rural broadband shift opens door wider for Starlink",
+            "source_link": "https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:03:41.585271Z",
+            "shown_at": [
+                "2025-06-09T22:03:42.170968Z"
             ]
         }
     ]

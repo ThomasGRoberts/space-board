@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 26 | 50 |
-| supercluster | 1 | 2 | 174 | 225 |
+| spacenews | 6 | 6 | 27 | 51 |
+| supercluster | 1 | 2 | 173 | 225 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4587,3 +4587,4 @@
 - **Jun 09, 09:19 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 09, 09:35 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 09, 09:49 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
+- **Jun 09, 10:03 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
