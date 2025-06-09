@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 26 | 50 |
 | supercluster | 1 | 2 | 175 | 197 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4546,3 +4546,4 @@
 - **Jun 09, 05:31 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:33 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
 - **Jun 09, 05:47 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 09, 06:02 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
