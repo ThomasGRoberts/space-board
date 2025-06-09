@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 26 | 50 |
-| supercluster | 1 | 2 | 176 | 225 |
-| nyt | 0 | 0 | 25 | 49 |
+| spacenews | 5 | 5 | 27 | 51 |
+| supercluster | 1 | 2 | 175 | 225 |
+| nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4584,3 +4584,4 @@
 - **Jun 09, 09:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 09:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 09:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 09:19 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
