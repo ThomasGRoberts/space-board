@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d328a2d5257515634a41c0e4f64a62c",
+    "trigger_count": 0,
+    "current_item_id": "2b3fb7d7591d04fb5b906a8e0e512af2",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10096,6 +10096,18 @@
             "fetched_datetime": "2025-06-09T17:33:39.181571Z",
             "shown_at": [
                 "2025-06-09T17:33:39.921190Z"
+            ]
+        },
+        {
+            "id": "2b3fb7d7591d04fb5b906a8e0e512af2",
+            "source": "breaking_defense",
+            "text": "House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon",
+            "source_link": "https://breakingdefense.com/2025/06/house-appropriations-committee-releases-flat-832b-fy26-funding-proposal-ahead-of-the-pentagon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T17:47:25.951933Z",
+            "shown_at": [
+                "2025-06-09T17:47:26.593482Z"
             ]
         }
     ]

@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 27 | 51 |
+| spacenews | 5 | 5 | 26 | 51 |
 | supercluster | 1 | 2 | 175 | 197 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| breaking_defense | 1 | 1 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4545,3 +4545,4 @@
 - **Jun 09, 05:29 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:31 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 05:33 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
+- **Jun 09, 05:47 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
