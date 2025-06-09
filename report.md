@@ -5,7 +5,7 @@
 | spacenews | 6 | 7 | 27 | 51 |
 | supercluster | 1 | 2 | 168 | 232 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4598,3 +4598,4 @@
 - **Jun 09, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 10:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 10:59 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 09, 11:14 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
