@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 27 | 52 |
-| supercluster | 1 | 2 | 168 | 232 |
+| spacenews | 6 | 7 | 27 | 51 |
+| supercluster | 1 | 2 | 169 | 233 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 2 | 2 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4600,3 +4600,4 @@
 - **Jun 09, 10:59 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 09, 11:14 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 09, 11:27 PM** - NASA’s budget crisis presents an opportunity for change (spacenews)
+- **Jun 09, 11:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
