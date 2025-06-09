@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 26 | 50 |
-| supercluster | 1 | 2 | 173 | 177 |
+| supercluster | 1 | 2 | 173 | 178 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4518,3 +4518,4 @@
 - **Jun 09, 02:53 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 09, 03:09 PM** - South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts (spacenews)
 - **Jun 09, 03:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 03:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
