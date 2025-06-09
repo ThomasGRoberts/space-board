@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 26 | 50 |
 | supercluster | 1 | 2 | 175 | 190 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4534,3 +4534,4 @@
 - **Jun 09, 04:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 04:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 04:35 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
