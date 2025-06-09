@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9b970e588a75375b964f149b3d8a17e",
+    "trigger_count": 0,
+    "current_item_id": "8a4a62dd93018f2bd12f0f6c314e81b0",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -9978,6 +9978,18 @@
                 "2025-04-09T17:37:15.205474Z",
                 "2025-04-11T02:57:41.207894Z",
                 "2025-04-11T05:21:42.228287Z"
+            ]
+        },
+        {
+            "id": "8a4a62dd93018f2bd12f0f6c314e81b0",
+            "source": "spacenews",
+            "text": "Arkadia Space tests its first hydrogen peroxide thruster in orbit",
+            "source_link": "https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T11:47:30.478615Z",
+            "shown_at": [
+                "2025-06-09T11:47:31.087705Z"
             ]
         }
     ]
