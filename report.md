@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 183 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| breaking_defense | 0 | 0 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4525,3 +4525,4 @@
 - **Jun 09, 03:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 03:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 03:37 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 09, 03:51 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
