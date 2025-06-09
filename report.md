@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 25 | 50 |
-| supercluster | 1 | 1 | 163 | 163 |
+| supercluster | 1 | 1 | 164 | 164 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4498,3 +4498,4 @@
 - **Jun 09, 12:59 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 09, 01:13 PM** - Is China’s BeiDou a weapon of war? (spacenews)
 - **Jun 09, 01:27 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 09, 01:29 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
