@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 190 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| breaking_defense | 0 | 0 | 26 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4535,3 +4535,4 @@
 - **Jun 09, 04:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 04:35 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 09, 04:49 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
