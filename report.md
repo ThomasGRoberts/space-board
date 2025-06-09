@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 26 | 50 |
-| supercluster | 1 | 2 | 175 | 219 |
+| supercluster | 1 | 2 | 176 | 220 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4578,3 +4578,4 @@
 - **Jun 09, 08:37 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 09, 08:51 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 09, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 09:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
