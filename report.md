@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 24 | 47 |
+| spacenews | 1 | 1 | 25 | 48 |
 | supercluster | 1 | 1 | 99 | 99 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
@@ -4404,3 +4404,4 @@
 - **Jun 09, 03:55 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 03:57 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 03:59 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
+- **Jun 09, 04:13 AM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
