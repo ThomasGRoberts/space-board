@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "8cac203d0651985ef85b9e2e971d4f6b",
     "data": [
         {
             "id": "e86be26e5583058a45761417fe482b25",
@@ -10001,6 +10001,18 @@
             "fetched_datetime": "2025-06-09T11:47:30.478615Z",
             "shown_at": [
                 "2025-06-09T11:47:31.087705Z"
+            ]
+        },
+        {
+            "id": "8cac203d0651985ef85b9e2e971d4f6b",
+            "source": "spacenews",
+            "text": "Is China’s BeiDou a weapon of war?",
+            "source_link": "https://spacenews.com/is-chinas-beidou-a-weapon-of-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T13:13:48.882715Z",
+            "shown_at": [
+                "2025-06-09T13:13:50.148273Z"
             ]
         }
     ]

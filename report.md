@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 24 | 49 |
+| spacenews | 3 | 3 | 25 | 50 |
 | supercluster | 1 | 1 | 162 | 162 |
 | nyt | 0 | 0 | 24 | 49 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4496,3 +4496,4 @@
 - **Jun 09, 12:32 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 09, 12:45 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 09, 12:59 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 09, 01:13 PM** - Is China’s BeiDou a weapon of war? (spacenews)
