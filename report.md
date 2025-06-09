@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 26 | 50 |
-| supercluster | 1 | 2 | 176 | 211 |
-| nyt | 0 | 0 | 25 | 49 |
+| spacenews | 5 | 5 | 27 | 51 |
+| supercluster | 1 | 2 | 175 | 211 |
+| nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4564,3 +4564,4 @@
 - **Jun 09, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 07:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 09, 07:25 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
