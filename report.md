@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 24 | 49 |
+| spacenews | 1 | 1 | 25 | 50 |
 | supercluster | 1 | 1 | 120 | 120 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4434,3 +4434,4 @@
 - **Jun 09, 06:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 06:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 09, 06:51 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 09, 07:05 AM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
