@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
+    "trigger_count": 0,
+    "current_item_id": "a07cdf5af30f78d4ee0c9173e065afb5",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9928,6 +9928,18 @@
             "fetched_datetime": "2025-06-10T16:56:06.477400Z",
             "shown_at": [
                 "2025-06-10T16:56:07.159199Z"
+            ]
+        },
+        {
+            "id": "a07cdf5af30f78d4ee0c9173e065afb5",
+            "source": "spacenews",
+            "text": "Europe clears SES-Intelsat deal without conditions",
+            "source_link": "https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T19:45:52.140655Z",
+            "shown_at": [
+                "2025-06-10T19:45:52.978702Z"
             ]
         }
     ]
