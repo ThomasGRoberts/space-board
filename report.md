@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 170 | 311 |
+| supercluster | 1 | 2 | 171 | 312 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4634,3 +4634,4 @@
 - **Jun 10, 10:02 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
 - **Jun 10, 10:17 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 10:19 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 10:21 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
