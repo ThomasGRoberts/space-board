@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 29 | 54 |
 | breaking_defense | 2 | 2 | 25 | 49 |
-| supercluster | 1 | 2 | 161 | 316 |
+| supercluster | 1 | 2 | 162 | 317 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4645,3 +4645,4 @@
 - **Jun 10, 11:15 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
 - **Jun 10, 11:29 AM** - Xplore reveals hyperspectral imagery from first satellite (spacenews)
 - **Jun 10, 11:43 AM** - Quantum Space raises $40 million (spacenews)
+- **Jun 10, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
