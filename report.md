@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 169 | 240 |
+| supercluster | 1 | 2 | 170 | 241 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4533,3 +4533,4 @@
 - **Jun 10, 12:11 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 10, 12:25 AM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 10, 12:39 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 12:41 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
