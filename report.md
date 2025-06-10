@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 168 | 295 |
+| supercluster | 1 | 2 | 169 | 296 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4612,3 +4612,4 @@
 - **Jun 10, 07:33 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 10, 07:47 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 10, 08:02 AM** - A reinvigorated push for nuclear power in space (spacenews)
+- **Jun 10, 08:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
