@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efd31b1b42e3f9d50f0d6aa6906adbfa",
+    "trigger_count": 0,
+    "current_item_id": "beb22119ded3a5a661c7849d84d51c2b",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -10139,6 +10139,27 @@
                 "2025-04-06T14:09:37.254844Z",
                 "2025-04-10T04:59:47.259434Z"
             ]
+        },
+        {
+            "id": "beb22119ded3a5a661c7849d84d51c2b",
+            "source": "spacenews",
+            "text": "Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby",
+            "source_link": "https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:15:43.805387Z",
+            "shown_at": [
+                "2025-06-10T11:15:45.201041Z"
+            ]
+        },
+        {
+            "id": "35c0eabc10bbccb47a98a0d1b647c0e2",
+            "source": "spacenews",
+            "text": "Xplore reveals hyperspectral imagery from first satellite",
+            "source_link": "https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:15:43.805441Z"
         }
     ]
 }
