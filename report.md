@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 169 | 289 |
+| supercluster | 1 | 2 | 170 | 290 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4603,3 +4603,4 @@
 - **Jun 10, 06:52 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 10, 07:06 AM** - NASA’s budget crisis presents an opportunity for change (spacenews)
 - **Jun 10, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 07:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
