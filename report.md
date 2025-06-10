@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 21 | 47 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4388,3 +4388,4 @@
 - **Jun 10, 10:17 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 10, 10:32 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 10:33 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 10:35 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
