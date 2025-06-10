@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 175 | 274 |
-| nyt | 0 | 0 | 24 | 48 |
+| supercluster | 1 | 2 | 174 | 274 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4579,3 +4579,4 @@
 - **Jun 10, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 04:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 04:41 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
