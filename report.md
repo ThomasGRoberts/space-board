@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 27 | 52 |
-| breaking_defense | 2 | 2 | 26 | 50 |
-| supercluster | 1 | 2 | 168 | 288 |
+| spacenews | 6 | 7 | 27 | 51 |
+| breaking_defense | 2 | 2 | 25 | 50 |
+| supercluster | 1 | 2 | 169 | 289 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4602,3 +4602,4 @@
 - **Jun 10, 06:37 AM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 10, 06:52 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 10, 07:06 AM** - NASA’s budget crisis presents an opportunity for change (spacenews)
+- **Jun 10, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
