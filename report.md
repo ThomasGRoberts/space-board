@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 52 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 169 | 282 |
+| supercluster | 1 | 2 | 170 | 283 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4593,3 +4593,4 @@
 - **Jun 10, 05:51 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 10, 06:05 AM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 10, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
