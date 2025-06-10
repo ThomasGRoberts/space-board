@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 5 | 21 | 47 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -4398,3 +4398,4 @@
 - **Jun 10, 11:13 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 10, 11:27 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 11:29 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 11:31 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
