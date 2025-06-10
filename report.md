@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 26 | 53 |
 | breaking_defense | 2 | 3 | 21 | 46 |
-| nyt | 0 | 0 | 19 | 43 |
+| nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -4383,3 +4383,4 @@
 - **Jun 10, 07:59 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 10, 08:33 PM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
 - **Jun 10, 09:03 PM** - AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event (spacenews)
+- **Jun 10, 09:29 PM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
