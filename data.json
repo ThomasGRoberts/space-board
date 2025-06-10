@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "0aefe254d936e33ca228f078d91fa4db",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9941,6 +9941,18 @@
             "fetched_datetime": "2025-06-10T19:45:52.140655Z",
             "shown_at": [
                 "2025-06-10T19:45:52.978702Z"
+            ]
+        },
+        {
+            "id": "0aefe254d936e33ca228f078d91fa4db",
+            "source": "spacenews",
+            "text": "Lawmakers find common ground on space but Golden Dome sparks divide",
+            "source_link": "https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T20:33:04.594822Z",
+            "shown_at": [
+                "2025-06-10T20:33:05.447595Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 25 | 52 |
+| spacenews | 9 | 14 | 26 | 53 |
 | breaking_defense | 2 | 3 | 22 | 47 |
 | nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4381,3 +4381,4 @@
 - **Jun 10, 07:43 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 07:45 PM** - Europe clears SES-Intelsat deal without conditions (spacenews)
 - **Jun 10, 07:59 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 10, 08:33 PM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
