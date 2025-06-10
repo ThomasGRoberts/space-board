@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9849,15 +9849,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "458840fef45e58a914460ad200b9dcf2",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-24",
-            "shown": false,
+            "text": "SpaceX Will Launch Private Crew to ISS for Axiom",
+            "source_link": "https://www.supercluster.com/launches/axiom-mission-4",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-10T13:05:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-10T14:02:16.595807Z"
+            "target_datetime": "2025-06-11T12:00:00.000Z",
+            "time_remaining": "0d 21h 54m",
+            "fetched_datetime": "2025-06-10T14:05:30.992496Z",
+            "shown_at": [
+                "2025-06-10T14:05:31.701947Z"
+            ]
         }
     ]
 }
