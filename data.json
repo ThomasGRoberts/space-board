@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35c0eabc10bbccb47a98a0d1b647c0e2",
+    "trigger_count": 0,
+    "current_item_id": "eb0cd97a3922981712a7bb8146a588b3",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -10162,6 +10162,18 @@
             "fetched_datetime": "2025-06-10T11:15:43.805441Z",
             "shown_at": [
                 "2025-06-10T11:29:28.179949Z"
+            ]
+        },
+        {
+            "id": "eb0cd97a3922981712a7bb8146a588b3",
+            "source": "spacenews",
+            "text": "Quantum Space raises $40 million",
+            "source_link": "https://spacenews.com/quantum-space-raises-40-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:43:29.251418Z",
+            "shown_at": [
+                "2025-06-10T11:43:29.912238Z"
             ]
         }
     ]
