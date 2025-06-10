@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "3301c346342bb63c7242cef1a06e5ea5",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9888,6 +9888,18 @@
             "fetched_datetime": "2025-06-10T15:26:07.406940Z",
             "shown_at": [
                 "2025-06-10T15:26:08.083958Z"
+            ]
+        },
+        {
+            "id": "3301c346342bb63c7242cef1a06e5ea5",
+            "source": "spacenews",
+            "text": "SpaceNews successfully launches new business offering, hosts first custom event",
+            "source_link": "https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T16:56:06.477400Z",
+            "shown_at": [
+                "2025-06-10T16:56:07.159199Z"
             ]
         }
     ]
