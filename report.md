@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 170 | 297 |
+| supercluster | 1 | 2 | 171 | 298 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4614,3 +4614,4 @@
 - **Jun 10, 08:02 AM** - A reinvigorated push for nuclear power in space (spacenews)
 - **Jun 10, 08:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 08:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 08:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
