@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aefe254d936e33ca228f078d91fa4db",
+    "trigger_count": 0,
+    "current_item_id": "838c6094b321e80d53f951ff792bcbb5",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9953,6 +9953,18 @@
             "fetched_datetime": "2025-06-10T20:33:04.594822Z",
             "shown_at": [
                 "2025-06-10T20:33:05.447595Z"
+            ]
+        },
+        {
+            "id": "838c6094b321e80d53f951ff792bcbb5",
+            "source": "spacenews",
+            "text": "AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event",
+            "source_link": "https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:03:14.523578Z",
+            "shown_at": [
+                "2025-06-10T21:03:15.156993Z"
             ]
         }
     ]
