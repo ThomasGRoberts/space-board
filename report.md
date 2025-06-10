@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 2 | 3 | 22 | 47 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4361,3 +4361,4 @@
 - **Jun 10, 05:49 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 05:51 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 10, 06:07 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
+- **Jun 10, 06:21 PM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
