@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 29 | 53 |
+| spacenews | 8 | 10 | 30 | 54 |
 | breaking_defense | 3 | 3 | 25 | 49 |
 | supercluster | 1 | 1 | 91 | 91 |
 | nyt | 0 | 0 | 23 | 48 |
@@ -4422,3 +4422,4 @@
 - **Jun 10, 12:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 12:11 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 10, 12:25 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 10, 12:40 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
