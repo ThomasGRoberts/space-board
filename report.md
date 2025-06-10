@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 51 |
+| spacenews | 8 | 14 | 25 | 52 |
 | breaking_defense | 3 | 5 | 21 | 46 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4393,3 +4393,4 @@
 - **Jun 10, 10:39 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 10:41 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 10:43 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 10:45 PM** - Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies (spacenews)
