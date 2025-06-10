@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 22 | 47 |
 | nyt | 0 | 0 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4373,3 +4373,4 @@
 - **Jun 10, 07:03 PM** - Starliner future plans still in limbo (spacenews)
 - **Jun 10, 07:17 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 10, 07:31 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 07:33 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
