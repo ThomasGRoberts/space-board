@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 239 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4530,3 +4530,4 @@
 - **Jun 09, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 11:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 09, 11:55 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
+- **Jun 10, 12:11 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
