@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 26 | 51 |
+| spacenews | 6 | 7 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 316 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -4641,3 +4641,4 @@
 - **Jun 10, 10:29 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 10:31 AM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 10, 10:45 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
+- **Jun 10, 10:59 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
