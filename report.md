@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 27 | 51 |
+| spacenews | 6 | 7 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 246 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -4541,3 +4541,4 @@
 - **Jun 10, 12:51 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 12:53 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 10, 01:09 AM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
+- **Jun 10, 01:23 AM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
