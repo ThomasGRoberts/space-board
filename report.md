@@ -5,7 +5,7 @@
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 49 |
 | supercluster | 1 | 2 | 175 | 267 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4569,3 +4569,4 @@
 - **Jun 10, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 03:45 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
