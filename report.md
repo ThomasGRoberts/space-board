@@ -5,7 +5,7 @@
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 49 |
 | supercluster | 1 | 2 | 175 | 253 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4549,3 +4549,4 @@
 - **Jun 10, 01:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 01:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 01:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 01:51 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
