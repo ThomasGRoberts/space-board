@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "45ce3c837848a0ffeef7a58ee0123fa9",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -10181,6 +10181,18 @@
             "fetched_datetime": "2025-06-10T11:43:29.251418Z",
             "shown_at": [
                 "2025-06-10T11:43:29.912238Z"
+            ]
+        },
+        {
+            "id": "45ce3c837848a0ffeef7a58ee0123fa9",
+            "source": "breaking_defense",
+            "text": "Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’",
+            "source_link": "https://breakingdefense.com/2025/06/kymetas-new-antenna-promises-seamless-satellite-network-roaming/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T12:11:41.885143Z",
+            "shown_at": [
+                "2025-06-10T12:11:42.599316Z"
             ]
         }
     ]
