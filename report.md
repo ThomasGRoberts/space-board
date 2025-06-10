@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 28 | 52 |
+| spacenews | 8 | 9 | 29 | 53 |
 | breaking_defense | 2 | 2 | 25 | 49 |
-| supercluster | 1 | 2 | 164 | 316 |
+| supercluster | 1 | 2 | 162 | 316 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4643,3 +4643,4 @@
 - **Jun 10, 10:45 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 10, 10:59 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
 - **Jun 10, 11:15 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
+- **Jun 10, 11:29 AM** - Xplore reveals hyperspectral imagery from first satellite (spacenews)
