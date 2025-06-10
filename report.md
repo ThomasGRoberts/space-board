@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| breaking_defense | 2 | 2 | 26 | 50 |
-| supercluster | 1 | 2 | 168 | 260 |
+| breaking_defense | 2 | 2 | 25 | 50 |
+| supercluster | 1 | 2 | 169 | 261 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4562,3 +4562,4 @@
 - **Jun 10, 02:47 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 10, 03:02 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 10, 03:17 AM** - Lunar helium-3: separating market from marketing (spacenews)
+- **Jun 10, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
