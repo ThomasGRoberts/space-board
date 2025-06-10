@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 26 | 51 |
+| spacenews | 6 | 7 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 309 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -4631,3 +4631,4 @@
 - **Jun 10, 09:31 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 09:33 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 10, 09:47 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 10, 10:02 AM** - Second ispace mission ready for lunar landing attempt (spacenews)
