@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 52 |
-| breaking_defense | 2 | 2 | 26 | 50 |
-| supercluster | 1 | 2 | 168 | 274 |
+| breaking_defense | 2 | 2 | 25 | 50 |
+| supercluster | 1 | 2 | 169 | 275 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4582,3 +4582,4 @@
 - **Jun 10, 04:41 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 10, 04:55 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 10, 05:09 AM** - Europe’s far-reaching Space Act nears launch (spacenews)
+- **Jun 10, 05:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
