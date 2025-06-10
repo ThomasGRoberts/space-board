@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 22 | 47 |
 | nyt | 0 | 0 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4354,3 +4354,4 @@
 - **Jun 10, 05:19 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 10, 05:33 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 05:36 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 05:38 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
