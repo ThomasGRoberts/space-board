@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 28 | 53 |
+| spacenews | 6 | 10 | 27 | 53 |
 | breaking_defense | 3 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4334,3 +4334,4 @@
 - **Jun 10, 12:40 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 10, 02:05 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 02:07 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 02:09 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
