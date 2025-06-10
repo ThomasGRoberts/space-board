@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 267 |
-| nyt | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4570,3 +4570,4 @@
 - **Jun 10, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 03:45 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 10, 03:59 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
