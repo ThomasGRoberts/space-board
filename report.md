@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 29 | 54 |
 | breaking_defense | 3 | 3 | 25 | 49 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4425,3 +4425,4 @@
 - **Jun 10, 12:40 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 10, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 10, 12:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
