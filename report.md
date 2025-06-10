@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 27 | 51 |
+| spacenews | 6 | 7 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 253 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4551,3 +4551,4 @@
 - **Jun 10, 01:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 01:51 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 10, 02:05 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 10, 02:19 AM** - Commercial space companies to fund launch range upgrades under $4 billion contract (spacenews)
