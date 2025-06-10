@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 2 | 2 | 25 | 50 |
-| supercluster | 1 | 2 | 170 | 248 |
+| supercluster | 1 | 2 | 171 | 249 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4544,3 +4544,4 @@
 - **Jun 10, 01:23 AM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
 - **Jun 10, 01:37 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 01:39 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 01:41 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
