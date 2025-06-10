@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4333,3 +4333,4 @@
 - **Jun 10, 12:25 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 10, 12:40 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 10, 02:05 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 10, 02:07 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
