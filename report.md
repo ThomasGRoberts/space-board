@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | supercluster | 1 | 2 | 168 | 302 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4620,3 +4620,4 @@
 - **Jun 10, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 08:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 10, 08:35 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 10, 08:49 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
