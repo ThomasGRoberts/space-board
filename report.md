@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 26 | 52 |
+| spacenews | 7 | 11 | 27 | 53 |
 | breaking_defense | 3 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4341,3 +4341,4 @@
 - **Jun 10, 02:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 02:23 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 10, 02:52 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
+- **Jun 10, 03:26 PM** - Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies (spacenews)
