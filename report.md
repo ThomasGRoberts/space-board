@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 26 | 52 |
-| breaking_defense | 2 | 3 | 20 | 45 |
+| breaking_defense | 4 | 5 | 21 | 46 |
 | nyt | 0 | 0 | 19 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -4384,3 +4384,4 @@
 - **Jun 10, 08:33 PM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
 - **Jun 10, 09:03 PM** - AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event (spacenews)
 - **Jun 10, 09:29 PM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
+- **Jun 10, 09:55 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)

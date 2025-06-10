@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5a961ee4c697a7fdc6e9fd2ef418c202",
+    "trigger_count": 0,
+    "current_item_id": "8e1b1203d23c30d07c555565572b0a2a",
     "data": [
         {
             "id": "4971b2924fea11f2744abc240e142600",
@@ -9967,6 +9967,27 @@
             "shown_at": [
                 "2025-06-10T21:03:15.156993Z"
             ]
+        },
+        {
+            "id": "8e1b1203d23c30d07c555565572b0a2a",
+            "source": "breaking_defense",
+            "text": "Pentagon’s $205B procurement budget revealed: New weapons require reconciliation",
+            "source_link": "https://breakingdefense.com/2025/06/pentagon-procurement-budget-fy26-reconciliation-f35-bombs-f15ex-army-navy-air-force-space-force-trump/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:55:34.154690Z",
+            "shown_at": [
+                "2025-06-10T21:55:34.878903Z"
+            ]
+        },
+        {
+            "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
+            "source": "breaking_defense",
+            "text": "‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space",
+            "source_link": "https://breakingdefense.com/2025/06/not-survivable-hegseth-says-dod-reviewing-e-7-wedgetail-program-amid-move-to-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:55:34.154742Z"
         }
     ]
 }
