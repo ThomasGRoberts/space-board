@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 2 | 3 | 22 | 47 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -4371,3 +4371,4 @@
 - **Jun 10, 06:47 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 10, 06:49 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 10, 07:03 PM** - Starliner future plans still in limbo (spacenews)
+- **Jun 10, 07:17 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
