@@ -1,9 +1,160 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-09T00:02:16.555251+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
+    "trigger_count": 3,
     "current_item_id": "a9b970e588a75375b964f149b3d8a17e",
     "data": [
+        {
+            "id": "4971b2924fea11f2744abc240e142600",
+            "source": "spacenews",
+            "text": "Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT",
+            "source_link": "https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:31:57.401967Z",
+            "shown_at": [
+                "2025-06-09T22:31:57.997760Z"
+            ]
+        },
+        {
+            "id": "77aff4506e4486e3876f6687e7d3ae9f",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26?",
+            "source_link": "https://breakingdefense.com/2025/06/exclusive-pentagons-rdte-budget-revealed-which-next-gen-systems-get-a-cash-influx-in-fy26/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:17:33.091708Z",
+            "shown_at": [
+                "2025-06-09T22:17:33.613820Z"
+            ]
+        },
+        {
+            "id": "bf8143f1cf065a236920f067c988c6da",
+            "source": "spacenews",
+            "text": "US rural broadband shift opens door wider for Starlink",
+            "source_link": "https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T22:03:41.585271Z",
+            "shown_at": [
+                "2025-06-09T22:03:42.170968Z"
+            ]
+        },
+        {
+            "id": "2b3fb7d7591d04fb5b906a8e0e512af2",
+            "source": "breaking_defense",
+            "text": "House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon",
+            "source_link": "https://breakingdefense.com/2025/06/house-appropriations-committee-releases-flat-832b-fy26-funding-proposal-ahead-of-the-pentagon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T17:47:25.951933Z",
+            "shown_at": [
+                "2025-06-09T17:47:26.593482Z"
+            ]
+        },
+        {
+            "id": "1d328a2d5257515634a41c0e4f64a62c",
+            "source": "spacenews",
+            "text": "House appropriators unveil defense bill, boost Space Force funding",
+            "source_link": "https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T17:33:39.181571Z",
+            "shown_at": [
+                "2025-06-09T17:33:39.921190Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-12-24",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-10T13:03:00.000Z",
+            "time_remaining": "0d 13h 09m",
+            "fetched_datetime": "2025-06-09T15:23:32.637005Z",
+            "shown_at": [
+                "2025-06-09T15:23:33.184474Z",
+                "2025-06-09T15:25:43.382746Z",
+                "2025-06-09T15:27:32.327403Z",
+                "2025-06-09T15:29:24.900526Z",
+                "2025-06-09T15:31:52.309798Z",
+                "2025-06-09T15:33:30.479076Z",
+                "2025-06-09T15:35:25.317584Z",
+                "2025-06-09T16:21:51.196810Z",
+                "2025-06-09T16:23:43.306575Z",
+                "2025-06-09T16:25:34.399855Z",
+                "2025-06-09T16:27:25.661015Z",
+                "2025-06-09T16:29:30.857166Z",
+                "2025-06-09T16:31:52.956602Z",
+                "2025-06-09T16:33:29.064905Z",
+                "2025-06-09T19:11:37.443296Z",
+                "2025-06-09T19:13:25.984147Z",
+                "2025-06-09T19:15:31.236118Z",
+                "2025-06-09T19:17:31.202819Z",
+                "2025-06-09T19:19:06.320058Z",
+                "2025-06-09T19:21:50.432213Z",
+                "2025-06-09T19:23:30.865333Z",
+                "2025-06-09T21:05:43.223640Z",
+                "2025-06-09T21:07:24.770895Z",
+                "2025-06-09T21:09:03.306572Z",
+                "2025-06-09T21:11:50.096834Z",
+                "2025-06-09T21:13:23.240833Z",
+                "2025-06-09T21:15:38.726176Z",
+                "2025-06-09T21:17:32.483953Z",
+                "2025-06-09T22:45:36.160904Z",
+                "2025-06-09T22:47:37.371704Z",
+                "2025-06-09T22:49:28.801681Z",
+                "2025-06-09T22:51:47.565503Z",
+                "2025-06-09T22:53:27.748329Z",
+                "2025-06-09T22:55:52.175026Z",
+                "2025-06-09T22:57:48.105300Z",
+                "2025-06-09T23:41:35.595184Z",
+                "2025-06-09T23:43:25.852181Z",
+                "2025-06-09T23:45:35.956941Z",
+                "2025-06-09T23:47:38.632581Z",
+                "2025-06-09T23:49:21.272449Z",
+                "2025-06-09T23:51:45.470464Z",
+                "2025-06-09T23:53:37.012346Z"
+            ]
+        },
+        {
+            "id": "fb33d3340fa27bbc2961154e45f1325c",
+            "source": "spacenews",
+            "text": "A reinvigorated push for nuclear power in space",
+            "source_link": "https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T14:09:32.092048Z",
+            "shown_at": [
+                "2025-06-09T14:09:32.819450Z"
+            ]
+        },
+        {
+            "id": "8cac203d0651985ef85b9e2e971d4f6b",
+            "source": "spacenews",
+            "text": "Is China’s BeiDou a weapon of war?",
+            "source_link": "https://spacenews.com/is-chinas-beidou-a-weapon-of-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T13:13:48.882715Z",
+            "shown_at": [
+                "2025-06-09T13:13:50.148273Z"
+            ]
+        },
+        {
+            "id": "8a4a62dd93018f2bd12f0f6c314e81b0",
+            "source": "spacenews",
+            "text": "Arkadia Space tests its first hydrogen peroxide thruster in orbit",
+            "source_link": "https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-09T11:47:30.478615Z",
+            "shown_at": [
+                "2025-06-09T11:47:31.087705Z"
+            ]
+        },
         {
             "id": "e86be26e5583058a45761417fe482b25",
             "source": "spacenews",
@@ -9875,334 +10026,6 @@
             "shown_at": [
                 "2025-04-06T14:09:37.254844Z",
                 "2025-04-10T04:59:47.259434Z"
-            ]
-        },
-        {
-            "id": "247e4ae9689b761b4326c33fc98fa187",
-            "source": "aidy",
-            "text": "ULA's Vulcan Centaur Certified, Secures 19 Missions in $13.7B Launch Contracts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-06T07:31:51.566909Z",
-            "shown_at": [
-                "2025-04-06T07:31:52.526470Z",
-                "2025-04-06T12:13:28.149036Z",
-                "2025-04-06T20:39:38.727311Z",
-                "2025-04-07T00:13:46.019021Z",
-                "2025-04-07T02:45:46.401976Z",
-                "2025-04-08T05:19:31.035198Z",
-                "2025-04-08T10:29:28.983292Z",
-                "2025-04-08T12:29:08.013945Z",
-                "2025-04-09T04:27:31.053064Z",
-                "2025-04-10T05:15:34.689972Z",
-                "2025-04-10T14:43:25.204415Z",
-                "2025-04-12T06:39:41.439248Z"
-            ]
-        },
-        {
-            "id": "c43260c164c12d49d6c85b9c392479f7",
-            "source": "aidy",
-            "text": "Space Force to Double Satellite Fleet, Awards $2.4B Contract to Blue Origin",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-05T07:27:46.427001Z",
-            "shown_at": [
-                "2025-04-05T07:27:47.667641Z",
-                "2025-04-05T11:09:37.059276Z",
-                "2025-04-05T14:49:35.382943Z",
-                "2025-04-06T00:11:51.929862Z",
-                "2025-04-06T01:27:38.605562Z",
-                "2025-04-06T11:03:34.005141Z",
-                "2025-04-06T21:51:46.059038Z",
-                "2025-04-09T03:17:51.959876Z",
-                "2025-04-09T18:47:29.038406Z",
-                "2025-04-10T01:41:33.325077Z",
-                "2025-04-10T06:27:44.439748Z",
-                "2025-04-10T09:57:27.442323Z",
-                "2025-04-10T21:25:29.017511Z",
-                "2025-04-11T16:17:26.503035Z",
-                "2025-04-12T03:09:37.375966Z"
-            ]
-        },
-        {
-            "id": "adfb32629005a33ae4464ce4fc65156a",
-            "source": "spacenews",
-            "text": "NASA seeks proposals for two private astronaut missions to ISS",
-            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T23:47:25.446114Z",
-            "shown_at": [
-                "2025-04-04T23:47:26.024498Z",
-                "2025-04-06T09:39:35.749044Z",
-                "2025-04-06T22:07:40.118974Z",
-                "2025-04-11T08:53:36.883821Z"
-            ]
-        },
-        {
-            "id": "b27aef160ce6f0480f8c2cb19045532e",
-            "source": "spacenews",
-            "text": "SpaceX, ULA, Blue Origin win $13.7 billion in U.S. military launch contracts through 2029",
-            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T22:09:45.307624Z",
-            "shown_at": [
-                "2025-04-04T22:09:46.389369Z",
-                "2025-04-05T23:57:30.109089Z",
-                "2025-04-09T06:19:34.579313Z"
-            ]
-        },
-        {
-            "id": "9ab4516773e76b1da4134a63d5558996",
-            "source": "spacenews",
-            "text": "SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029",
-            "source_link": "https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T21:41:55.131553Z",
-            "shown_at": [
-                "2025-04-04T21:55:27.389795Z",
-                "2025-04-06T19:41:43.314524Z",
-                "2025-04-09T08:57:10.468919Z"
-            ]
-        },
-        {
-            "id": "8edc6a41b67f8e518c40e1ff506cf2d6",
-            "source": "spacenews",
-            "text": "Space companies swept up in far-reaching trade war",
-            "source_link": "https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T21:41:55.131479Z",
-            "shown_at": [
-                "2025-04-04T21:41:56.103200Z",
-                "2025-04-05T04:33:32.477228Z",
-                "2025-04-07T02:59:33.133385Z"
-            ]
-        },
-        {
-            "id": "450c9518a9e62515f97b042d21e45021",
-            "source": "breaking_defense",
-            "text": "From support to ‘warfighting’: Space Force releases first ‘capstone’ operations doctrine",
-            "source_link": "https://breakingdefense.com/2025/04/from-support-to-warfighting-space-force-releases-first-capstone-operations-doctrine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T19:35:31.535377Z",
-            "shown_at": [
-                "2025-04-04T19:35:32.252250Z",
-                "2025-04-04T20:45:49.496966Z",
-                "2025-04-05T17:51:45.497509Z",
-                "2025-04-06T09:25:10.358577Z",
-                "2025-04-06T11:45:17.321752Z",
-                "2025-04-06T22:49:38.794037Z",
-                "2025-04-07T03:55:32.645583Z",
-                "2025-04-07T08:43:43.534521Z",
-                "2025-04-07T11:13:33.239309Z",
-                "2025-04-07T12:37:50.219302Z",
-                "2025-04-08T07:23:33.422878Z",
-                "2025-04-09T06:05:40.036484Z",
-                "2025-04-09T07:15:47.588255Z",
-                "2025-04-10T07:09:27.796245Z",
-                "2025-04-10T18:49:50.945989Z"
-            ]
-        },
-        {
-            "id": "18dc951d9c8090fb862d4293edb9afaf",
-            "source": "spacenews",
-            "text": "Fram2 completes polar orbit private astronaut mission",
-            "source_link": "https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T18:09:05.091368Z",
-            "shown_at": [
-                "2025-04-04T18:09:05.776025Z",
-                "2025-04-05T19:15:40.955901Z",
-                "2025-04-09T05:09:40.180450Z"
-            ]
-        },
-        {
-            "id": "7eeaa1a05cf988e1d1bc173cb54a8ead",
-            "source": "nyt",
-            "text": "SpaceX Astronauts Splash Down Off California Coast for the First Time",
-            "source_link": "https://www.nytimes.com/2025/04/04/science/spacex-fram2-splashdown-california.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-04T17:41:38.961779Z",
-            "shown_at": [
-                "2025-04-04T17:41:39.577196Z",
-                "2025-04-05T07:55:34.706159Z",
-                "2025-04-05T19:57:34.072041Z",
-                "2025-04-06T06:49:42.873284Z",
-                "2025-04-06T15:07:51.554983Z",
-                "2025-04-06T20:11:14.448276Z",
-                "2025-04-06T21:21:44.754718Z",
-                "2025-04-07T00:59:36.846909Z",
-                "2025-04-07T03:41:54.154876Z",
-                "2025-04-07T04:53:49.867120Z",
-                "2025-04-07T12:23:28.946252Z",
-                "2025-04-08T00:07:30.463058Z",
-                "2025-04-08T08:07:42.015017Z",
-                "2025-04-08T09:45:44.256862Z",
-                "2025-04-09T09:13:54.447709Z",
-                "2025-04-09T14:47:27.494161Z",
-                "2025-04-09T16:27:30.526475Z",
-                "2025-04-09T17:37:15.205474Z",
-                "2025-04-11T02:57:41.207894Z",
-                "2025-04-11T05:21:42.228287Z"
-            ]
-        },
-        {
-            "id": "8a4a62dd93018f2bd12f0f6c314e81b0",
-            "source": "spacenews",
-            "text": "Arkadia Space tests its first hydrogen peroxide thruster in orbit",
-            "source_link": "https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T11:47:30.478615Z",
-            "shown_at": [
-                "2025-06-09T11:47:31.087705Z"
-            ]
-        },
-        {
-            "id": "8cac203d0651985ef85b9e2e971d4f6b",
-            "source": "spacenews",
-            "text": "Is China’s BeiDou a weapon of war?",
-            "source_link": "https://spacenews.com/is-chinas-beidou-a-weapon-of-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T13:13:48.882715Z",
-            "shown_at": [
-                "2025-06-09T13:13:50.148273Z"
-            ]
-        },
-        {
-            "id": "fb33d3340fa27bbc2961154e45f1325c",
-            "source": "spacenews",
-            "text": "A reinvigorated push for nuclear power in space",
-            "source_link": "https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T14:09:32.092048Z",
-            "shown_at": [
-                "2025-06-09T14:09:32.819450Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-24",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-10T13:03:00.000Z",
-            "time_remaining": "0d 13h 09m",
-            "fetched_datetime": "2025-06-09T15:23:32.637005Z",
-            "shown_at": [
-                "2025-06-09T15:23:33.184474Z",
-                "2025-06-09T15:25:43.382746Z",
-                "2025-06-09T15:27:32.327403Z",
-                "2025-06-09T15:29:24.900526Z",
-                "2025-06-09T15:31:52.309798Z",
-                "2025-06-09T15:33:30.479076Z",
-                "2025-06-09T15:35:25.317584Z",
-                "2025-06-09T16:21:51.196810Z",
-                "2025-06-09T16:23:43.306575Z",
-                "2025-06-09T16:25:34.399855Z",
-                "2025-06-09T16:27:25.661015Z",
-                "2025-06-09T16:29:30.857166Z",
-                "2025-06-09T16:31:52.956602Z",
-                "2025-06-09T16:33:29.064905Z",
-                "2025-06-09T19:11:37.443296Z",
-                "2025-06-09T19:13:25.984147Z",
-                "2025-06-09T19:15:31.236118Z",
-                "2025-06-09T19:17:31.202819Z",
-                "2025-06-09T19:19:06.320058Z",
-                "2025-06-09T19:21:50.432213Z",
-                "2025-06-09T19:23:30.865333Z",
-                "2025-06-09T21:05:43.223640Z",
-                "2025-06-09T21:07:24.770895Z",
-                "2025-06-09T21:09:03.306572Z",
-                "2025-06-09T21:11:50.096834Z",
-                "2025-06-09T21:13:23.240833Z",
-                "2025-06-09T21:15:38.726176Z",
-                "2025-06-09T21:17:32.483953Z",
-                "2025-06-09T22:45:36.160904Z",
-                "2025-06-09T22:47:37.371704Z",
-                "2025-06-09T22:49:28.801681Z",
-                "2025-06-09T22:51:47.565503Z",
-                "2025-06-09T22:53:27.748329Z",
-                "2025-06-09T22:55:52.175026Z",
-                "2025-06-09T22:57:48.105300Z",
-                "2025-06-09T23:41:35.595184Z",
-                "2025-06-09T23:43:25.852181Z",
-                "2025-06-09T23:45:35.956941Z",
-                "2025-06-09T23:47:38.632581Z",
-                "2025-06-09T23:49:21.272449Z",
-                "2025-06-09T23:51:45.470464Z",
-                "2025-06-09T23:53:37.012346Z"
-            ]
-        },
-        {
-            "id": "1d328a2d5257515634a41c0e4f64a62c",
-            "source": "spacenews",
-            "text": "House appropriators unveil defense bill, boost Space Force funding",
-            "source_link": "https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T17:33:39.181571Z",
-            "shown_at": [
-                "2025-06-09T17:33:39.921190Z"
-            ]
-        },
-        {
-            "id": "2b3fb7d7591d04fb5b906a8e0e512af2",
-            "source": "breaking_defense",
-            "text": "House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon",
-            "source_link": "https://breakingdefense.com/2025/06/house-appropriations-committee-releases-flat-832b-fy26-funding-proposal-ahead-of-the-pentagon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T17:47:25.951933Z",
-            "shown_at": [
-                "2025-06-09T17:47:26.593482Z"
-            ]
-        },
-        {
-            "id": "bf8143f1cf065a236920f067c988c6da",
-            "source": "spacenews",
-            "text": "US rural broadband shift opens door wider for Starlink",
-            "source_link": "https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T22:03:41.585271Z",
-            "shown_at": [
-                "2025-06-09T22:03:42.170968Z"
-            ]
-        },
-        {
-            "id": "77aff4506e4486e3876f6687e7d3ae9f",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26?",
-            "source_link": "https://breakingdefense.com/2025/06/exclusive-pentagons-rdte-budget-revealed-which-next-gen-systems-get-a-cash-influx-in-fy26/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T22:17:33.091708Z",
-            "shown_at": [
-                "2025-06-09T22:17:33.613820Z"
-            ]
-        },
-        {
-            "id": "4971b2924fea11f2744abc240e142600",
-            "source": "spacenews",
-            "text": "Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT",
-            "source_link": "https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T22:31:57.401967Z",
-            "shown_at": [
-                "2025-06-09T22:31:57.997760Z"
             ]
         }
     ]
