@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 18 | 39 |
 | spacenews | 8 | 16 | 19 | 45 |
-| nyt | 3 | 3 | 16 | 36 |
+| nyt | 3 | 3 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4382,3 +4382,4 @@
 - **Jun 11, 07:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 07:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 07:43 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 11, 07:57 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
