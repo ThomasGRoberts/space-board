@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "43e78b1feac74ab11d8ed7ec0ce79364",
+    "trigger_count": 0,
+    "current_item_id": "c8005a14ce2d8049da35a6385dbfe3ee",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -10044,6 +10044,27 @@
             "shown_at": [
                 "2025-06-11T21:10:07.974289Z"
             ]
+        },
+        {
+            "id": "c8005a14ce2d8049da35a6385dbfe3ee",
+            "source": "spacenews",
+            "text": "BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation",
+            "source_link": "https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T21:37:47.339199Z",
+            "shown_at": [
+                "2025-06-11T21:37:48.509964Z"
+            ]
+        },
+        {
+            "id": "6522344f467fa9de80e5344b4c99b434",
+            "source": "spacenews",
+            "text": "Electron launches third iQPS satellite in three months",
+            "source_link": "https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T21:37:47.339256Z"
         }
     ]
 }

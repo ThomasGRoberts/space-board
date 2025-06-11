@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 18 | 38 |
-| spacenews | 9 | 19 | 21 | 47 |
+| spacenews | 11 | 21 | 22 | 48 |
 | nyt | 3 | 3 | 16 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -4395,3 +4395,4 @@
 - **Jun 11, 08:55 PM** - Pentagon’s mega-constellation still hampered by supply chain issues: GAO report (spacenews)
 - **Jun 11, 09:10 PM** - Reaction Dynamics prepares for takeoff (spacenews)
 - **Jun 11, 09:23 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 11, 09:37 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
