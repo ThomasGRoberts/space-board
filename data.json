@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
+    "trigger_count": 0,
+    "current_item_id": "8d267bd9e2deef5bb56124247b4238f5",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9974,6 +9974,18 @@
                 "2025-06-11T08:21:44.589675Z",
                 "2025-06-11T08:23:54.539135Z",
                 "2025-06-11T08:25:44.742416Z"
+            ]
+        },
+        {
+            "id": "8d267bd9e2deef5bb56124247b4238f5",
+            "source": "spacenews",
+            "text": "Booster leak delays Ax-4 private astronaut mission to ISS",
+            "source_link": "https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T11:14:30.483747Z",
+            "shown_at": [
+                "2025-06-11T11:14:31.186221Z"
             ]
         }
     ]
