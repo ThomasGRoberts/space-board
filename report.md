@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 17 | 42 |
-| spacenews | 8 | 16 | 20 | 49 |
+| breaking_defense | 3 | 5 | 18 | 43 |
+| spacenews | 7 | 16 | 19 | 49 |
 | supercluster | 2 | 2 | 112 | 112 |
 | nyt | 0 | 0 | 16 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4457,3 +4457,4 @@
 - **Jun 11, 11:03 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 11:08 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 11:14 AM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
+- **Jun 11, 11:45 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
