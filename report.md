@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 18 | 44 |
 | spacenews | 9 | 15 | 22 | 49 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 | nyt | 0 | 0 | 17 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4439,3 +4439,4 @@
 - **Jun 11, 08:27 AM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
 - **Jun 11, 08:41 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 11, 08:55 AM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 11, 09:09 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
