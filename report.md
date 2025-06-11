@@ -6,7 +6,7 @@
 | spacenews | 12 | 20 | 24 | 48 |
 | nyt | 3 | 3 | 17 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4400,3 +4400,4 @@
 - **Jun 11, 10:07 PM** - Sierra Space doubles down on defense (spacenews)
 - **Jun 11, 10:23 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 11, 10:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 11, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
