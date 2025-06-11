@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 17 | 40 |
+| breaking_defense | 2 | 5 | 18 | 41 |
 | spacenews | 9 | 15 | 20 | 47 |
 | nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4363,3 +4363,4 @@
 - **Jun 11, 01:10 PM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
 - **Jun 11, 01:31 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
 - **Jun 11, 02:05 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 11, 02:19 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
