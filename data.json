@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8afe305d9daf5633f602b010b221b040",
+    "trigger_count": 0,
+    "current_item_id": "b46805f9bf4358bd72d4c05466968fc7",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9931,6 +9931,18 @@
             "fetched_datetime": "2025-06-11T16:43:22.163437Z",
             "shown_at": [
                 "2025-06-11T16:43:22.928345Z"
+            ]
+        },
+        {
+            "id": "b46805f9bf4358bd72d4c05466968fc7",
+            "source": "nyt",
+            "text": "A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night",
+            "source_link": "https://www.nytimes.com/2025/06/11/science/space/strawberry-moon-full-june.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T17:21:49.058126Z",
+            "shown_at": [
+                "2025-06-11T17:21:49.784487Z"
             ]
         }
     ]
