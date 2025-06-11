@@ -1,9 +1,204 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-10T00:02:17.432896+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
+    "trigger_count": 3,
     "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
     "data": [
+        {
+            "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
+            "source": "breaking_defense",
+            "text": "‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space",
+            "source_link": "https://breakingdefense.com/2025/06/not-survivable-hegseth-says-dod-reviewing-e-7-wedgetail-program-amid-move-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:55:34.154742Z",
+            "shown_at": [
+                "2025-06-10T22:17:34.383201Z"
+            ]
+        },
+        {
+            "id": "8e1b1203d23c30d07c555565572b0a2a",
+            "source": "breaking_defense",
+            "text": "Pentagon’s $205B procurement budget revealed: New weapons require reconciliation",
+            "source_link": "https://breakingdefense.com/2025/06/pentagon-procurement-budget-fy26-reconciliation-f35-bombs-f15ex-army-navy-air-force-space-force-trump/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:55:34.154690Z",
+            "shown_at": [
+                "2025-06-10T21:55:34.878903Z"
+            ]
+        },
+        {
+            "id": "838c6094b321e80d53f951ff792bcbb5",
+            "source": "spacenews",
+            "text": "AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event",
+            "source_link": "https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T21:03:14.523578Z",
+            "shown_at": [
+                "2025-06-10T21:03:15.156993Z"
+            ]
+        },
+        {
+            "id": "0aefe254d936e33ca228f078d91fa4db",
+            "source": "spacenews",
+            "text": "Lawmakers find common ground on space but Golden Dome sparks divide",
+            "source_link": "https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T20:33:04.594822Z",
+            "shown_at": [
+                "2025-06-10T20:33:05.447595Z"
+            ]
+        },
+        {
+            "id": "a07cdf5af30f78d4ee0c9173e065afb5",
+            "source": "spacenews",
+            "text": "Europe clears SES-Intelsat deal without conditions",
+            "source_link": "https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T19:45:52.140655Z",
+            "shown_at": [
+                "2025-06-10T19:45:52.978702Z"
+            ]
+        },
+        {
+            "id": "3301c346342bb63c7242cef1a06e5ea5",
+            "source": "spacenews",
+            "text": "SpaceNews successfully launches new business offering, hosts first custom event",
+            "source_link": "https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T16:56:06.477400Z",
+            "shown_at": [
+                "2025-06-10T16:56:07.159199Z"
+            ]
+        },
+        {
+            "id": "a7b6743cff5049c99faeb8cffba1d99c",
+            "source": "spacenews",
+            "text": "Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies",
+            "source_link": "https://spacenews.com/apogee-semiconductor-partners-with-alter-technology-and-doeeet-com-to-expand-distribution-of-space-and-defense-grade-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T15:26:07.406940Z",
+            "shown_at": [
+                "2025-06-10T15:26:08.083958Z",
+                "2025-06-10T22:45:43.942734Z"
+            ]
+        },
+        {
+            "id": "458840fef45e58a914460ad200b9dcf2",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Private Crew to ISS for Axiom",
+            "source_link": "https://www.supercluster.com/launches/axiom-mission-4",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-11T12:00:00.000Z",
+            "time_remaining": "0d 12h 20m",
+            "fetched_datetime": "2025-06-10T14:05:30.992496Z",
+            "shown_at": [
+                "2025-06-10T14:05:31.701947Z",
+                "2025-06-10T14:07:43.915124Z",
+                "2025-06-10T14:09:56.502926Z",
+                "2025-06-10T14:11:56.726264Z",
+                "2025-06-10T14:13:42.107795Z",
+                "2025-06-10T14:15:27.848840Z",
+                "2025-06-10T14:17:40.897679Z",
+                "2025-06-10T15:52:54.603421Z",
+                "2025-06-10T15:59:33.275915Z",
+                "2025-06-10T16:03:37.680886Z",
+                "2025-06-10T16:10:07.314488Z",
+                "2025-06-10T16:11:46.561703Z",
+                "2025-06-10T16:13:47.419734Z",
+                "2025-06-10T16:15:50.493498Z",
+                "2025-06-10T17:33:31.255098Z",
+                "2025-06-10T17:36:03.857265Z",
+                "2025-06-10T17:38:26.462839Z",
+                "2025-06-10T17:42:16.579822Z",
+                "2025-06-10T17:45:40.721119Z",
+                "2025-06-10T17:47:25.488512Z",
+                "2025-06-10T17:49:30.022708Z",
+                "2025-06-10T18:35:29.789073Z",
+                "2025-06-10T18:37:25.924876Z",
+                "2025-06-10T18:39:19.315840Z",
+                "2025-06-10T18:41:35.757759Z",
+                "2025-06-10T18:43:41.567814Z",
+                "2025-06-10T18:45:26.918170Z",
+                "2025-06-10T18:47:42.235850Z",
+                "2025-06-10T19:31:55.483381Z",
+                "2025-06-10T19:33:23.469392Z",
+                "2025-06-10T19:35:47.618853Z",
+                "2025-06-10T19:37:47.652536Z",
+                "2025-06-10T19:39:29.401950Z",
+                "2025-06-10T19:41:29.648105Z",
+                "2025-06-10T19:43:32.671296Z",
+                "2025-06-10T22:32:04.196379Z",
+                "2025-06-10T22:33:37.789645Z",
+                "2025-06-10T22:35:24.982226Z",
+                "2025-06-10T22:37:41.855840Z",
+                "2025-06-10T22:39:36.540693Z",
+                "2025-06-10T22:41:41.975131Z",
+                "2025-06-10T22:43:37.990244Z",
+                "2025-06-10T23:27:28.956917Z",
+                "2025-06-10T23:29:31.442146Z",
+                "2025-06-10T23:31:35.450524Z",
+                "2025-06-10T23:33:22.721533Z",
+                "2025-06-10T23:35:24.867272Z",
+                "2025-06-10T23:37:35.219479Z",
+                "2025-06-10T23:39:31.503554Z"
+            ]
+        },
+        {
+            "id": "45ce3c837848a0ffeef7a58ee0123fa9",
+            "source": "breaking_defense",
+            "text": "Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’",
+            "source_link": "https://breakingdefense.com/2025/06/kymetas-new-antenna-promises-seamless-satellite-network-roaming/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T12:11:41.885143Z",
+            "shown_at": [
+                "2025-06-10T12:11:42.599316Z"
+            ]
+        },
+        {
+            "id": "eb0cd97a3922981712a7bb8146a588b3",
+            "source": "spacenews",
+            "text": "Quantum Space raises $40 million",
+            "source_link": "https://spacenews.com/quantum-space-raises-40-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:43:29.251418Z",
+            "shown_at": [
+                "2025-06-10T11:43:29.912238Z"
+            ]
+        },
+        {
+            "id": "35c0eabc10bbccb47a98a0d1b647c0e2",
+            "source": "spacenews",
+            "text": "Xplore reveals hyperspectral imagery from first satellite",
+            "source_link": "https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:15:43.805441Z",
+            "shown_at": [
+                "2025-06-10T11:29:28.179949Z"
+            ]
+        },
+        {
+            "id": "beb22119ded3a5a661c7849d84d51c2b",
+            "source": "spacenews",
+            "text": "Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby",
+            "source_link": "https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-10T11:15:43.805387Z",
+            "shown_at": [
+                "2025-06-10T11:15:45.201041Z"
+            ]
+        },
         {
             "id": "4971b2924fea11f2744abc240e142600",
             "source": "spacenews",
@@ -9668,347 +9863,6 @@
                 "2025-04-09T09:41:46.129951Z",
                 "2025-04-10T12:19:52.483718Z",
                 "2025-04-10T14:29:28.883464Z"
-            ]
-        },
-        {
-            "id": "c88e62f8e9fd42cdb84ec09d8f22ad9a",
-            "source": "breaking_defense",
-            "text": "Space Force awards first next-gen critical launch contracts to Blue Origin, SpaceX, ULA",
-            "source_link": "https://breakingdefense.com/2025/04/blue-origin-bezos-space-force-awards-first-next-gen-high-performance-launch-contracts-ula-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T14:05:30.779421Z",
-            "shown_at": [
-                "2025-04-07T14:05:36.326171Z",
-                "2025-04-07T21:19:13.202578Z",
-                "2025-04-08T00:21:31.551566Z",
-                "2025-04-08T12:15:29.838974Z",
-                "2025-04-09T08:29:30.510851Z",
-                "2025-04-09T14:17:38.746950Z",
-                "2025-04-11T00:32:14.193164Z",
-                "2025-04-11T10:37:43.562036Z",
-                "2025-04-13T11:41:45.538870Z",
-                "2025-04-13T18:19:27.690356Z"
-            ]
-        },
-        {
-            "id": "cccb706947777f8f7a943183b1ce7b00",
-            "source": "spacenews",
-            "text": "LeoLabs unveils mobile radar for space surveillance",
-            "source_link": "https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:36:02.799232Z",
-            "shown_at": [
-                "2025-04-07T13:36:04.230931Z",
-                "2025-04-11T06:25:30.669629Z"
-            ]
-        },
-        {
-            "id": "119c1c05332c012e6fe3f181a8efde8d",
-            "source": "spacenews",
-            "text": "Space has a communications problem",
-            "source_link": "https://spacenews.com/space-has-a-communications-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:07:43.737617Z",
-            "shown_at": [
-                "2025-04-07T13:21:44.531753Z",
-                "2025-04-13T05:47:32.269079Z"
-            ]
-        },
-        {
-            "id": "05d4cb69f424cfa2a54ab245f4b4692d",
-            "source": "spacenews",
-            "text": "Europe pursues ‘strategic autonomy’ amidst geopolitical shifts",
-            "source_link": "https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T13:07:43.737553Z",
-            "shown_at": [
-                "2025-04-07T13:07:44.439978Z",
-                "2025-04-10T07:23:36.616922Z",
-                "2025-04-10T12:47:43.600369Z"
-            ]
-        },
-        {
-            "id": "e59833d230c3d9dc003c660bf2914a31",
-            "source": "spacenews",
-            "text": "Potential NASA Earth science cuts highlight budget uncertainty",
-            "source_link": "https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T12:09:54.085652Z",
-            "shown_at": [
-                "2025-04-07T12:09:55.265332Z",
-                "2025-04-14T01:23:33.161144Z"
-            ]
-        },
-        {
-            "id": "061195f7f4c0f268c32e1af85e22a3a1",
-            "source": "spacenews",
-            "text": "China’s megaconstellation launches could litter orbit for more than a century, analysts warn",
-            "source_link": "https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T11:55:24.670919Z",
-            "shown_at": [
-                "2025-04-07T11:55:25.379254Z"
-            ]
-        },
-        {
-            "id": "cf3a78381afd7c5414e6f7f18a1ecc48",
-            "source": "aidy",
-            "text": "Amazon's Project Kuiper Launches First Satellites, Marking Key Milestone in Space Infrastructure.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T07:41:36.656695Z",
-            "shown_at": [
-                "2025-04-07T07:41:37.298496Z",
-                "2025-04-07T11:27:49.784528Z",
-                "2025-04-07T20:23:26.591660Z",
-                "2025-04-08T02:55:30.858567Z",
-                "2025-04-09T09:55:42.099074Z",
-                "2025-04-09T14:32:08.317457Z",
-                "2025-04-09T15:59:42.195787Z",
-                "2025-04-09T22:37:27.896259Z",
-                "2025-04-10T00:02:08.117643Z",
-                "2025-04-11T12:32:05.118069Z",
-                "2025-04-13T02:31:50.192186Z"
-            ]
-        },
-        {
-            "id": "3ea1a73b9285312cc405d125b2cd43c5",
-            "source": "spacenews",
-            "text": "Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing",
-            "source_link": "https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T03:27:56.800126Z",
-            "shown_at": [
-                "2025-04-07T03:27:57.853947Z"
-            ]
-        },
-        {
-            "id": "ea2ae39fc183714ef8dc76dba749c7f3",
-            "source": "spacenews",
-            "text": "Aetherflux raises $50 million for space-based solar power",
-            "source_link": "https://spacenews.com/aetherflux-raises-50-million-for-space-based-solar-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-06T16:03:40.825414Z",
-            "shown_at": [
-                "2025-04-06T16:03:41.724987Z",
-                "2025-04-07T05:49:54.860414Z"
-            ]
-        },
-        {
-            "id": "a948d80cf0cd7d342984edc03ce11110",
-            "source": "spacenews",
-            "text": "Missile Defense Agency opens door to commercial firms for “Golden Dome” project",
-            "source_link": "https://spacenews.com/missile-defense-agency-opens-door-to-commercial-firms-for-golden-dome-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-06T14:09:36.176929Z",
-            "shown_at": [
-                "2025-04-06T14:09:37.254844Z",
-                "2025-04-10T04:59:47.259434Z"
-            ]
-        },
-        {
-            "id": "beb22119ded3a5a661c7849d84d51c2b",
-            "source": "spacenews",
-            "text": "Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby",
-            "source_link": "https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T11:15:43.805387Z",
-            "shown_at": [
-                "2025-06-10T11:15:45.201041Z"
-            ]
-        },
-        {
-            "id": "35c0eabc10bbccb47a98a0d1b647c0e2",
-            "source": "spacenews",
-            "text": "Xplore reveals hyperspectral imagery from first satellite",
-            "source_link": "https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T11:15:43.805441Z",
-            "shown_at": [
-                "2025-06-10T11:29:28.179949Z"
-            ]
-        },
-        {
-            "id": "eb0cd97a3922981712a7bb8146a588b3",
-            "source": "spacenews",
-            "text": "Quantum Space raises $40 million",
-            "source_link": "https://spacenews.com/quantum-space-raises-40-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T11:43:29.251418Z",
-            "shown_at": [
-                "2025-06-10T11:43:29.912238Z"
-            ]
-        },
-        {
-            "id": "45ce3c837848a0ffeef7a58ee0123fa9",
-            "source": "breaking_defense",
-            "text": "Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’",
-            "source_link": "https://breakingdefense.com/2025/06/kymetas-new-antenna-promises-seamless-satellite-network-roaming/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T12:11:41.885143Z",
-            "shown_at": [
-                "2025-06-10T12:11:42.599316Z"
-            ]
-        },
-        {
-            "id": "458840fef45e58a914460ad200b9dcf2",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Private Crew to ISS for Axiom",
-            "source_link": "https://www.supercluster.com/launches/axiom-mission-4",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-11T12:00:00.000Z",
-            "time_remaining": "0d 12h 20m",
-            "fetched_datetime": "2025-06-10T14:05:30.992496Z",
-            "shown_at": [
-                "2025-06-10T14:05:31.701947Z",
-                "2025-06-10T14:07:43.915124Z",
-                "2025-06-10T14:09:56.502926Z",
-                "2025-06-10T14:11:56.726264Z",
-                "2025-06-10T14:13:42.107795Z",
-                "2025-06-10T14:15:27.848840Z",
-                "2025-06-10T14:17:40.897679Z",
-                "2025-06-10T15:52:54.603421Z",
-                "2025-06-10T15:59:33.275915Z",
-                "2025-06-10T16:03:37.680886Z",
-                "2025-06-10T16:10:07.314488Z",
-                "2025-06-10T16:11:46.561703Z",
-                "2025-06-10T16:13:47.419734Z",
-                "2025-06-10T16:15:50.493498Z",
-                "2025-06-10T17:33:31.255098Z",
-                "2025-06-10T17:36:03.857265Z",
-                "2025-06-10T17:38:26.462839Z",
-                "2025-06-10T17:42:16.579822Z",
-                "2025-06-10T17:45:40.721119Z",
-                "2025-06-10T17:47:25.488512Z",
-                "2025-06-10T17:49:30.022708Z",
-                "2025-06-10T18:35:29.789073Z",
-                "2025-06-10T18:37:25.924876Z",
-                "2025-06-10T18:39:19.315840Z",
-                "2025-06-10T18:41:35.757759Z",
-                "2025-06-10T18:43:41.567814Z",
-                "2025-06-10T18:45:26.918170Z",
-                "2025-06-10T18:47:42.235850Z",
-                "2025-06-10T19:31:55.483381Z",
-                "2025-06-10T19:33:23.469392Z",
-                "2025-06-10T19:35:47.618853Z",
-                "2025-06-10T19:37:47.652536Z",
-                "2025-06-10T19:39:29.401950Z",
-                "2025-06-10T19:41:29.648105Z",
-                "2025-06-10T19:43:32.671296Z",
-                "2025-06-10T22:32:04.196379Z",
-                "2025-06-10T22:33:37.789645Z",
-                "2025-06-10T22:35:24.982226Z",
-                "2025-06-10T22:37:41.855840Z",
-                "2025-06-10T22:39:36.540693Z",
-                "2025-06-10T22:41:41.975131Z",
-                "2025-06-10T22:43:37.990244Z",
-                "2025-06-10T23:27:28.956917Z",
-                "2025-06-10T23:29:31.442146Z",
-                "2025-06-10T23:31:35.450524Z",
-                "2025-06-10T23:33:22.721533Z",
-                "2025-06-10T23:35:24.867272Z",
-                "2025-06-10T23:37:35.219479Z",
-                "2025-06-10T23:39:31.503554Z"
-            ]
-        },
-        {
-            "id": "a7b6743cff5049c99faeb8cffba1d99c",
-            "source": "spacenews",
-            "text": "Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies",
-            "source_link": "https://spacenews.com/apogee-semiconductor-partners-with-alter-technology-and-doeeet-com-to-expand-distribution-of-space-and-defense-grade-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T15:26:07.406940Z",
-            "shown_at": [
-                "2025-06-10T15:26:08.083958Z",
-                "2025-06-10T22:45:43.942734Z"
-            ]
-        },
-        {
-            "id": "3301c346342bb63c7242cef1a06e5ea5",
-            "source": "spacenews",
-            "text": "SpaceNews successfully launches new business offering, hosts first custom event",
-            "source_link": "https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T16:56:06.477400Z",
-            "shown_at": [
-                "2025-06-10T16:56:07.159199Z"
-            ]
-        },
-        {
-            "id": "a07cdf5af30f78d4ee0c9173e065afb5",
-            "source": "spacenews",
-            "text": "Europe clears SES-Intelsat deal without conditions",
-            "source_link": "https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T19:45:52.140655Z",
-            "shown_at": [
-                "2025-06-10T19:45:52.978702Z"
-            ]
-        },
-        {
-            "id": "0aefe254d936e33ca228f078d91fa4db",
-            "source": "spacenews",
-            "text": "Lawmakers find common ground on space but Golden Dome sparks divide",
-            "source_link": "https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T20:33:04.594822Z",
-            "shown_at": [
-                "2025-06-10T20:33:05.447595Z"
-            ]
-        },
-        {
-            "id": "838c6094b321e80d53f951ff792bcbb5",
-            "source": "spacenews",
-            "text": "AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event",
-            "source_link": "https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T21:03:14.523578Z",
-            "shown_at": [
-                "2025-06-10T21:03:15.156993Z"
-            ]
-        },
-        {
-            "id": "8e1b1203d23c30d07c555565572b0a2a",
-            "source": "breaking_defense",
-            "text": "Pentagon’s $205B procurement budget revealed: New weapons require reconciliation",
-            "source_link": "https://breakingdefense.com/2025/06/pentagon-procurement-budget-fy26-reconciliation-f35-bombs-f15ex-army-navy-air-force-space-force-trump/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T21:55:34.154690Z",
-            "shown_at": [
-                "2025-06-10T21:55:34.878903Z"
-            ]
-        },
-        {
-            "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
-            "source": "breaking_defense",
-            "text": "‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space",
-            "source_link": "https://breakingdefense.com/2025/06/not-survivable-hegseth-says-dod-reviewing-e-7-wedgetail-program-amid-move-to-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-10T21:55:34.154742Z",
-            "shown_at": [
-                "2025-06-10T22:17:34.383201Z"
             ]
         }
     ]
