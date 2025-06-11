@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 6 | 17 | 38 |
+| breaking_defense | 4 | 6 | 18 | 39 |
 | spacenews | 9 | 19 | 21 | 47 |
 | nyt | 3 | 3 | 17 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4394,3 +4394,4 @@
 - **Jun 11, 08:41 PM** - Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors (spacenews)
 - **Jun 11, 08:55 PM** - Pentagon’s mega-constellation still hampered by supply chain issues: GAO report (spacenews)
 - **Jun 11, 09:10 PM** - Reaction Dynamics prepares for takeoff (spacenews)
+- **Jun 11, 09:23 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
