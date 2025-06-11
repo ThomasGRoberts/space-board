@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 21 | 47 |
 | spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4381,3 +4381,4 @@
 - **Jun 11, 12:51 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 11, 01:06 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
 - **Jun 11, 01:21 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 11, 01:35 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
