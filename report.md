@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 16 | 39 |
 | spacenews | 9 | 16 | 20 | 46 |
-| nyt | 1 | 1 | 16 | 36 |
+| nyt | 2 | 2 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -4358,3 +4358,4 @@
 - **Jun 11, 04:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 11, 04:43 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "2ee89a9a26038105e91517c5f340aa68",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9918,6 +9918,18 @@
                 "2025-06-11T16:37:22.762668Z",
                 "2025-06-11T16:39:24.889024Z",
                 "2025-06-11T16:41:37.229015Z"
+            ]
+        },
+        {
+            "id": "2ee89a9a26038105e91517c5f340aa68",
+            "source": "nyt",
+            "text": "First Ever Images of Sun’s South Pole Released by Solar Orbiter",
+            "source_link": "https://www.nytimes.com/2025/06/11/science/sun-south-pole-solar-orbiter-esa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T16:43:22.163437Z",
+            "shown_at": [
+                "2025-06-11T16:43:22.928345Z"
             ]
         }
     ]
