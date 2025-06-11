@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 6 | 17 | 38 |
-| spacenews | 11 | 20 | 23 | 48 |
+| spacenews | 12 | 21 | 24 | 49 |
 | nyt | 3 | 3 | 16 | 35 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -4397,3 +4397,4 @@
 - **Jun 11, 09:23 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 11, 09:37 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 11, 09:53 PM** - Electron launches third iQPS satellite in three months (spacenews)
+- **Jun 11, 10:07 PM** - Sierra Space doubles down on defense (spacenews)

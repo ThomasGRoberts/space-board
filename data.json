@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6522344f467fa9de80e5344b4c99b434",
+    "trigger_count": 0,
+    "current_item_id": "981719485e7e0a72cab690300e0cb58a",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -10067,6 +10067,18 @@
             "fetched_datetime": "2025-06-11T21:37:47.339256Z",
             "shown_at": [
                 "2025-06-11T21:53:37.594216Z"
+            ]
+        },
+        {
+            "id": "981719485e7e0a72cab690300e0cb58a",
+            "source": "spacenews",
+            "text": "Sierra Space doubles down on defense",
+            "source_link": "https://spacenews.com/sierra-space-doubles-down-on-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T22:07:32.255456Z",
+            "shown_at": [
+                "2025-06-11T22:07:33.086497Z"
             ]
         }
     ]
