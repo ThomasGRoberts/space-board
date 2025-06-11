@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 18 | 44 |
-| spacenews | 9 | 15 | 23 | 49 |
+| spacenews | 9 | 15 | 22 | 49 |
 | supercluster | 2 | 2 | 98 | 98 |
 | nyt | 0 | 0 | 17 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
