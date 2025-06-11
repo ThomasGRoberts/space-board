@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 21 | 46 |
 | spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4374,3 +4374,4 @@
 - **Jun 11, 12:37 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:39 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:41 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 11, 12:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
