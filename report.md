@@ -6,7 +6,7 @@
 | spacenews | 7 | 15 | 19 | 48 |
 | nyt | 0 | 0 | 16 | 39 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4353,3 +4353,4 @@
 - **Jun 11, 10:02 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 11, 11:14 AM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
 - **Jun 11, 11:45 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 11, 12:22 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
