@@ -6,7 +6,6 @@
 | spacenews | 10 | 16 | 21 | 47 |
 | nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4338,13 +4337,6 @@
 - **Jun 11, 04:55 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
 - **Jun 11, 05:09 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 11, 05:37 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
-- **Jun 11, 08:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:17 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:19 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:21 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:23 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 08:25 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 08:27 AM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
 - **Jun 11, 08:41 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 11, 08:55 AM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
@@ -4353,23 +4345,9 @@
 - **Jun 11, 10:02 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 11, 11:14 AM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
 - **Jun 11, 11:45 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
-- **Jun 11, 12:22 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:34 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:41 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:46 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:50 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:55 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 12:57 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 01:10 PM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
 - **Jun 11, 01:31 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
 - **Jun 11, 02:05 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 11, 02:19 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
-- **Jun 11, 02:34 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:35 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:37 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:39 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:41 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
-- **Jun 11, 02:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 02:47 PM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 11, 03:03 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
