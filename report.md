@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 16 | 38 |
+| breaking_defense | 2 | 5 | 17 | 39 |
 | spacenews | 8 | 16 | 19 | 46 |
 | nyt | 2 | 2 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4359,3 +4359,4 @@
 - **Jun 11, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 04:43 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 11, 05:02 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
