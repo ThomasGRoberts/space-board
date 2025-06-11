@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 18 | 40 |
 | spacenews | 8 | 15 | 19 | 44 |
-| nyt | 3 | 3 | 16 | 37 |
+| nyt | 3 | 3 | 17 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -4371,3 +4371,4 @@
 - **Jun 11, 06:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 06:25 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 11, 06:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
