@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 21 | 46 |
-| spacenews | 9 | 15 | 25 | 52 |
+| spacenews | 9 | 15 | 26 | 53 |
 | supercluster | 1 | 1 | 56 | 56 |
-| nyt | 0 | 0 | 19 | 44 |
+| nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4379,3 +4379,4 @@
 - **Jun 11, 12:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:51 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 11, 01:06 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
