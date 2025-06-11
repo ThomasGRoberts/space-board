@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 17 | 39 |
-| spacenews | 8 | 15 | 19 | 44 |
+| spacenews | 8 | 15 | 20 | 45 |
 | nyt | 3 | 3 | 17 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -4372,3 +4372,4 @@
 - **Jun 11, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 06:25 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 11, 06:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
+- **Jun 11, 06:55 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
