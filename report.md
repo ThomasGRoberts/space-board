@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 17 | 42 |
 | spacenews | 7 | 15 | 19 | 48 |
-| nyt | 0 | 0 | 16 | 39 |
+| nyt | 0 | 0 | 15 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4354,3 +4354,4 @@
 - **Jun 11, 11:14 AM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
 - **Jun 11, 11:45 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 11, 12:22 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Jun 11, 12:34 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
