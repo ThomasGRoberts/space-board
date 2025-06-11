@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "34e7ca58fb45dfcf7aedf78422387d0b",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9963,6 +9963,18 @@
             "fetched_datetime": "2025-06-11T17:37:41.295035Z",
             "shown_at": [
                 "2025-06-11T17:37:41.993176Z"
+            ]
+        },
+        {
+            "id": "34e7ca58fb45dfcf7aedf78422387d0b",
+            "source": "breaking_defense",
+            "text": "House appropriators call for new Space Force acquisition pilot",
+            "source_link": "https://breakingdefense.com/2025/06/house-appropriators-call-for-new-space-force-acquisition-pilot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T18:25:55.772027Z",
+            "shown_at": [
+                "2025-06-11T18:25:56.358920Z"
             ]
         }
     ]
