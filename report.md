@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 18 | 43 |
-| spacenews | 9 | 15 | 22 | 49 |
+| spacenews | 9 | 15 | 23 | 50 |
 | supercluster | 2 | 2 | 105 | 105 |
 | nyt | 0 | 0 | 17 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4446,3 +4446,4 @@
 - **Jun 11, 09:17 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 09:19 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 09:21 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 11, 09:23 AM** - Starliner future plans still in limbo (spacenews)
