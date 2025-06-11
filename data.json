@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+    "trigger_count": 0,
+    "current_item_id": "7380dacc6890d1222aecb79694889d6f",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9877,6 +9877,27 @@
             "shown_at": [
                 "2025-06-11T11:14:31.186221Z"
             ]
+        },
+        {
+            "id": "7380dacc6890d1222aecb79694889d6f",
+            "source": "spacenews",
+            "text": "‘Integrate’ software selected by Space Force to streamline satellite launches",
+            "source_link": "https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T13:10:08.075928Z",
+            "shown_at": [
+                "2025-06-11T13:10:09.768348Z"
+            ]
+        },
+        {
+            "id": "3975b3ed7db4013ff4d37ab46af268d5",
+            "source": "spacenews",
+            "text": "Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.",
+            "source_link": "https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T13:10:08.075984Z"
         }
     ]
 }

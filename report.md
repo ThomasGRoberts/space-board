@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 17 | 42 |
-| spacenews | 7 | 15 | 18 | 47 |
+| breaking_defense | 2 | 5 | 17 | 41 |
+| spacenews | 9 | 17 | 19 | 48 |
 | nyt | 0 | 0 | 15 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -4360,3 +4360,4 @@
 - **Jun 11, 12:50 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 12:55 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 12:57 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Jun 11, 01:10 PM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
