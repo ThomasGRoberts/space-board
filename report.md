@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 18 | 43 |
 | spacenews | 9 | 15 | 22 | 49 |
-| supercluster | 2 | 2 | 106 | 106 |
-| nyt | 0 | 0 | 17 | 41 |
+| supercluster | 2 | 2 | 107 | 107 |
+| nyt | 0 | 0 | 16 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4450,3 +4450,4 @@
 - **Jun 11, 09:37 AM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 11, 10:02 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
 - **Jun 11, 10:28 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 11, 10:32 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
