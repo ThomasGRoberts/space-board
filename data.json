@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1205bc42e43f3bfd70d9bd3218d40ac0",
+    "trigger_count": 0,
+    "current_item_id": "aee13b60fa3ed1e6909dd891f31a8a3a",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9863,6 +9863,18 @@
                 "2025-04-09T09:41:46.129951Z",
                 "2025-04-10T12:19:52.483718Z",
                 "2025-04-10T14:29:28.883464Z"
+            ]
+        },
+        {
+            "id": "aee13b60fa3ed1e6909dd891f31a8a3a",
+            "source": "spacenews",
+            "text": "Whitesides says budget proposal shows the administration does not value NASA science",
+            "source_link": "https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T00:09:09.109047Z",
+            "shown_at": [
+                "2025-06-11T00:09:09.689355Z"
             ]
         }
     ]
