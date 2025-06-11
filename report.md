@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 17 | 41 |
-| spacenews | 9 | 15 | 20 | 47 |
+| spacenews | 10 | 16 | 21 | 48 |
 | nyt | 1 | 1 | 16 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -4371,3 +4371,4 @@
 - **Jun 11, 02:41 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 02:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 02:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Jun 11, 02:47 PM** - Voyager raises $383 million from upsized IPO (spacenews)

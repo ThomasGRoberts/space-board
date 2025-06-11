@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+    "trigger_count": 0,
+    "current_item_id": "a3697623a7bf27e22675eb047da26765",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9920,6 +9920,18 @@
             "fetched_datetime": "2025-06-11T14:05:29.662315Z",
             "shown_at": [
                 "2025-06-11T14:05:30.354938Z"
+            ]
+        },
+        {
+            "id": "a3697623a7bf27e22675eb047da26765",
+            "source": "spacenews",
+            "text": "Voyager raises $383 million from upsized IPO",
+            "source_link": "https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T14:47:56.325673Z",
+            "shown_at": [
+                "2025-06-11T14:47:57.344042Z"
             ]
         }
     ]
