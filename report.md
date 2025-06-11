@@ -6,7 +6,7 @@
 | spacenews | 8 | 15 | 19 | 45 |
 | nyt | 3 | 3 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4363,3 +4363,4 @@
 - **Jun 11, 05:21 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 11, 05:37 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 11, 05:53 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
+- **Jun 11, 06:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
