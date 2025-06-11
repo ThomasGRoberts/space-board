@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 18 | 43 |
+| breaking_defense | 3 | 5 | 19 | 44 |
 | spacenews | 9 | 15 | 23 | 50 |
 | supercluster | 2 | 2 | 98 | 98 |
 | nyt | 0 | 0 | 16 | 41 |
@@ -4437,3 +4437,4 @@
 - **Jun 11, 08:23 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 08:25 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 08:27 AM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
+- **Jun 11, 08:41 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
