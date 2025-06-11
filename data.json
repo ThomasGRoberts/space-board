@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7380dacc6890d1222aecb79694889d6f",
+    "trigger_count": 0,
+    "current_item_id": "3975b3ed7db4013ff4d37ab46af268d5",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9895,9 +9895,12 @@
             "source": "spacenews",
             "text": "Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.",
             "source_link": "https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-06-11T13:10:08.075984Z"
+            "fetched_datetime": "2025-06-11T13:10:08.075984Z",
+            "shown_at": [
+                "2025-06-11T13:31:50.252450Z"
+            ]
         }
     ]
 }
