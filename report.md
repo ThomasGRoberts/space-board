@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 16 | 37 |
 | spacenews | 12 | 20 | 24 | 49 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -4408,3 +4408,4 @@
 - **Jun 11, 10:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 10:51 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 11, 11:05 PM** - Hydrosat poised to launch second thermal-infrared satellite (spacenews)
+- **Jun 11, 11:21 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
