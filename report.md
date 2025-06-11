@@ -6,7 +6,7 @@
 | spacenews | 9 | 16 | 20 | 45 |
 | nyt | 3 | 3 | 16 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4374,3 +4374,4 @@
 - **Jun 11, 06:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 11, 06:55 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
 - **Jun 11, 07:09 PM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
+- **Jun 11, 07:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
