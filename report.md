@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 21 | 47 |
 | spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4371,3 +4371,4 @@
 - **Jun 10, 11:55 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 11, 12:09 AM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
 - **Jun 11, 12:23 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
+- **Jun 11, 12:37 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
