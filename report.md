@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 21 | 46 |
-| spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 91 | 91 |
-| nyt | 0 | 0 | 19 | 44 |
+| breaking_defense | 3 | 5 | 18 | 44 |
+| spacenews | 9 | 15 | 22 | 49 |
+| supercluster | 2 | 2 | 92 | 92 |
+| nyt | 0 | 0 | 17 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4429,3 +4429,4 @@
 - **Jun 11, 05:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 05:35 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 05:37 AM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
+- **Jun 11, 08:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)

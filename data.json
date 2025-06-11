@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb130b4cc46e286229d248450157a5ab",
+    "trigger_count": 0,
+    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9934,6 +9934,20 @@
             "fetched_datetime": "2025-06-11T00:09:09.109047Z",
             "shown_at": [
                 "2025-06-11T00:09:09.689355Z"
+            ]
+        },
+        {
+            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
+            "source_link": "https://www.supercluster.com/launches/the-mountain-god-guards",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-11T15:15:00.000Z",
+            "time_remaining": "0d 07h 01m",
+            "fetched_datetime": "2025-06-11T08:13:44.855540Z",
+            "shown_at": [
+                "2025-06-11T08:13:45.883048Z"
             ]
         }
     ]
