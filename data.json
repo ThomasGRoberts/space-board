@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d328a2d5257515634a41c0e4f64a62c",
+    "trigger_count": 0,
+    "current_item_id": "1b07a4c6adb9d3e4c64edd728f36cc39",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9977,6 +9977,18 @@
             "fetched_datetime": "2025-06-11T18:25:55.772027Z",
             "shown_at": [
                 "2025-06-11T18:25:56.358920Z"
+            ]
+        },
+        {
+            "id": "1b07a4c6adb9d3e4c64edd728f36cc39",
+            "source": "spacenews",
+            "text": "THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS",
+            "source_link": "https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T19:09:46.788361Z",
+            "shown_at": [
+                "2025-06-11T19:09:48.034980Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 6 | 17 | 39 |
-| spacenews | 8 | 15 | 19 | 45 |
+| spacenews | 9 | 16 | 20 | 46 |
 | nyt | 3 | 3 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -4373,3 +4373,4 @@
 - **Jun 11, 06:25 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 11, 06:41 PM** - Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch (nyt)
 - **Jun 11, 06:55 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
+- **Jun 11, 07:09 PM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
