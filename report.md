@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 16 | 37 |
 | spacenews | 12 | 21 | 24 | 49 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4398,3 +4398,4 @@
 - **Jun 11, 09:37 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 11, 09:53 PM** - Electron launches third iQPS satellite in three months (spacenews)
 - **Jun 11, 10:07 PM** - Sierra Space doubles down on defense (spacenews)
+- **Jun 11, 10:23 PM** - Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch (nyt)
