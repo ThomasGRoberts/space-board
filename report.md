@@ -6,7 +6,7 @@
 | spacenews | 9 | 15 | 20 | 47 |
 | nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4364,3 +4364,4 @@
 - **Jun 11, 01:31 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
 - **Jun 11, 02:05 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 11, 02:19 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 11, 02:34 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
