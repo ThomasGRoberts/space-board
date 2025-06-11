@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b46805f9bf4358bd72d4c05466968fc7",
+    "trigger_count": 0,
+    "current_item_id": "43e78b1feac74ab11d8ed7ec0ce79364",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -9943,6 +9943,18 @@
             "fetched_datetime": "2025-06-11T17:21:49.058126Z",
             "shown_at": [
                 "2025-06-11T17:21:49.784487Z"
+            ]
+        },
+        {
+            "id": "43e78b1feac74ab11d8ed7ec0ce79364",
+            "source": "breaking_defense",
+            "text": "First Next-Gen OPIR missile warning launch pushed to 2026",
+            "source_link": "https://breakingdefense.com/2025/06/first-next-gen-opir-missile-warning-launch-pushed-to-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T17:37:41.295035Z",
+            "shown_at": [
+                "2025-06-11T17:37:41.993176Z"
             ]
         }
     ]

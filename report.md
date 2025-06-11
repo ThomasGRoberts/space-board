@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 17 | 39 |
+| breaking_defense | 3 | 6 | 18 | 40 |
 | spacenews | 8 | 15 | 19 | 44 |
 | nyt | 3 | 3 | 17 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4361,3 +4361,4 @@
 - **Jun 11, 04:43 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 11, 05:02 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 11, 05:21 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 11, 05:37 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
