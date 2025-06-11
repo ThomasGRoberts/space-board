@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 21 | 47 |
 | spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4391,3 +4391,4 @@
 - **Jun 11, 01:49 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 11, 02:05 AM** - Is China’s BeiDou a weapon of war? (spacenews)
 - **Jun 11, 02:19 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 11, 02:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
