@@ -6,7 +6,7 @@
 | spacenews | 9 | 16 | 20 | 47 |
 | nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4352,4 +4352,3 @@
 - **Jun 11, 02:19 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 11, 02:47 PM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 11, 03:03 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
-- **Jun 11, 03:31 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
