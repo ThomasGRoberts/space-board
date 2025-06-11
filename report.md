@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 17 | 40 |
 | spacenews | 10 | 16 | 21 | 48 |
-| nyt | 1 | 1 | 15 | 37 |
+| nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4372,3 +4372,4 @@
 - **Jun 11, 02:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 02:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 02:47 PM** - Voyager raises $383 million from upsized IPO (spacenews)
+- **Jun 11, 03:03 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
