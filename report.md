@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 21 | 46 |
-| spacenews | 9 | 15 | 25 | 52 |
+| breaking_defense | 3 | 5 | 20 | 46 |
+| spacenews | 9 | 15 | 26 | 53 |
 | supercluster | 1 | 1 | 70 | 70 |
-| nyt | 0 | 0 | 19 | 44 |
+| nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4399,3 +4399,4 @@
 - **Jun 11, 02:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 02:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 02:47 AM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
+- **Jun 11, 03:02 AM** - U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky (spacenews)
