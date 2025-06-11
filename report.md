@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 5 | 21 | 47 |
+| breaking_defense | 3 | 5 | 21 | 46 |
 | spacenews | 9 | 15 | 25 | 52 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 | nyt | 0 | 0 | 19 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4411,3 +4411,4 @@
 - **Jun 11, 03:45 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
 - **Jun 11, 03:59 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
 - **Jun 11, 04:13 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 11, 04:27 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
