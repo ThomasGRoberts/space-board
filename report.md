@@ -5,7 +5,7 @@
 | breaking_defense | 3 | 5 | 21 | 46 |
 | spacenews | 9 | 15 | 25 | 52 |
 | supercluster | 1 | 1 | 56 | 56 |
-| nyt | 0 | 0 | 19 | 43 |
+| nyt | 0 | 0 | 20 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4378,3 +4378,4 @@
 - **Jun 11, 12:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 11, 12:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 11, 12:51 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
