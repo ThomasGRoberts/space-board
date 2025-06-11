@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c8005a14ce2d8049da35a6385dbfe3ee",
+    "trigger_count": 0,
+    "current_item_id": "6522344f467fa9de80e5344b4c99b434",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -10062,9 +10062,12 @@
             "source": "spacenews",
             "text": "Electron launches third iQPS satellite in three months",
             "source_link": "https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-06-11T21:37:47.339256Z"
+            "fetched_datetime": "2025-06-11T21:37:47.339256Z",
+            "shown_at": [
+                "2025-06-11T21:53:37.594216Z"
+            ]
         }
     ]
 }
