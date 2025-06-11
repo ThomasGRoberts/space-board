@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 5 | 17 | 39 |
-| spacenews | 8 | 15 | 19 | 44 |
+| spacenews | 8 | 15 | 20 | 45 |
 | nyt | 3 | 3 | 17 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -4362,3 +4362,4 @@
 - **Jun 11, 05:02 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 11, 05:21 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 11, 05:37 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 11, 05:53 PM** - Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies (spacenews)
