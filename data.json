@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "e4776c43d1116d9b573730058142921b",
     "data": [
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
@@ -10007,6 +10007,27 @@
             "shown_at": [
                 "2025-06-11T19:09:48.034980Z"
             ]
+        },
+        {
+            "id": "e4776c43d1116d9b573730058142921b",
+            "source": "spacenews",
+            "text": "Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors",
+            "source_link": "https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T20:41:30.364905Z",
+            "shown_at": [
+                "2025-06-11T20:41:30.905877Z"
+            ]
+        },
+        {
+            "id": "e6b64c5b1c333f027c905174f40d48b3",
+            "source": "spacenews",
+            "text": "Pentagon’s mega-constellation still hampered by supply chain issues: GAO report",
+            "source_link": "https://spacenews.com/pentagons-mega-constellation-still-hampered-by-supply-chain-issues-gao-report/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T20:41:30.364963Z"
         }
     ]
 }
