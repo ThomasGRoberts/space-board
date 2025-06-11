@@ -6,7 +6,7 @@
 | spacenews | 9 | 16 | 20 | 46 |
 | nyt | 1 | 1 | 16 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4353,3 +4353,4 @@
 - **Jun 11, 02:47 PM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 11, 03:03 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 11, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 11, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
