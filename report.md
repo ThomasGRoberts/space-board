@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 17 | 40 |
 | spacenews | 9 | 16 | 20 | 48 |
-| nyt | 0 | 0 | 15 | 37 |
+| nyt | 1 | 1 | 16 | 38 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4362,3 +4362,4 @@
 - **Jun 11, 12:57 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Jun 11, 01:10 PM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
 - **Jun 11, 01:31 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
+- **Jun 11, 02:05 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
