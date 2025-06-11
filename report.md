@@ -6,7 +6,7 @@
 | spacenews | 8 | 16 | 20 | 45 |
 | nyt | 3 | 3 | 17 | 37 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4386,3 +4386,4 @@
 - **Jun 11, 08:11 PM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
 - **Jun 11, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 11, 08:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
