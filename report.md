@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 23 | 48 |
 | breaking_defense | 2 | 5 | 16 | 37 |
 | nyt | 3 | 3 | 17 | 36 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4398,3 +4398,4 @@
 - **Jun 12, 04:35 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 12, 04:49 AM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 12, 05:03 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
+- **Jun 12, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
