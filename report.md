@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 29 | 49 |
-| breaking_defense | 1 | 5 | 24 | 41 |
+| spacenews | 7 | 16 | 28 | 49 |
+| breaking_defense | 1 | 5 | 25 | 42 |
 | nyt | 0 | 3 | 24 | 41 |
 | supercluster | 0 | 1 | 161 | 188 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4559,3 +4559,4 @@
 - **Jun 12, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 08:43 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 12, 08:57 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
