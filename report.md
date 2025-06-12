@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 30 | 50 |
 | breaking_defense | 1 | 5 | 24 | 41 |
 | nyt | 0 | 3 | 23 | 39 |
-| supercluster | 0 | 1 | 159 | 174 |
+| supercluster | 0 | 1 | 160 | 175 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4541,3 +4541,4 @@
 - **Jun 12, 06:47 PM** - Ispace of Japan’s Moon Lander Resilience Has Crashed (nyt)
 - **Jun 12, 07:01 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 12, 07:17 PM** - Europe clears SES-Intelsat deal without conditions (spacenews)
+- **Jun 12, 07:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
