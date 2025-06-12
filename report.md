@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 28 | 49 |
-| breaking_defense | 1 | 5 | 25 | 42 |
+| breaking_defense | 1 | 5 | 24 | 42 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 161 | 188 |
+| supercluster | 0 | 1 | 162 | 189 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4561,3 +4561,4 @@
 - **Jun 12, 08:43 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 12, 08:57 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 12, 09:11 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
+- **Jun 12, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
