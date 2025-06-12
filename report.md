@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 29 | 50 |
 | breaking_defense | 2 | 4 | 22 | 39 |
 | nyt | 2 | 3 | 22 | 38 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4501,3 +4501,4 @@
 - **Jun 12, 02:55 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 12, 03:09 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 12, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
