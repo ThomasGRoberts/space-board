@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 29 | 49 |
-| breaking_defense | 2 | 4 | 21 | 39 |
+| breaking_defense | 2 | 4 | 21 | 38 |
 | nyt | 2 | 3 | 22 | 38 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4490,3 +4490,4 @@
 - **Jun 12, 01:39 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 01:55 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 12, 02:09 PM** - Xplore reveals hyperspectral imagery from first satellite (spacenews)
+- **Jun 12, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
