@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 27 | 49 |
-| breaking_defense | 2 | 5 | 19 | 37 |
-| nyt | 3 | 3 | 19 | 36 |
+| breaking_defense | 2 | 5 | 20 | 38 |
+| nyt | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 1 | 118 | 118 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4456,3 +4456,4 @@
 - **Jun 12, 10:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 10:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 10:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 10:33 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
