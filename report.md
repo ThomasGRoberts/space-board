@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 20 | 29 | 47 |
+| spacenews | 11 | 20 | 29 | 48 |
 | breaking_defense | 2 | 4 | 21 | 38 |
 | nyt | 3 | 3 | 22 | 37 |
 | supercluster | 1 | 1 | 132 | 132 |
@@ -4479,3 +4479,4 @@
 - **Jun 12, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 12:39 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 12, 12:53 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 12, 01:11 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
