@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 28 | 49 |
 | breaking_defense | 1 | 5 | 24 | 42 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 162 | 189 |
+| supercluster | 0 | 1 | 163 | 190 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4562,3 +4562,4 @@
 - **Jun 12, 08:57 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 12, 09:11 PM** - China launches fourth group of Guowang megaconstellation satellites (spacenews)
 - **Jun 12, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
