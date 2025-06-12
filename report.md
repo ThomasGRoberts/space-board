@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 30 | 50 |
 | breaking_defense | 1 | 5 | 24 | 41 |
 | nyt | 0 | 3 | 23 | 40 |
-| supercluster | 0 | 1 | 161 | 181 |
+| supercluster | 0 | 1 | 161 | 182 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4551,3 +4551,4 @@
 - **Jun 12, 07:47 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 12, 08:01 PM** - Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program (breaking_defense)
 - **Jun 12, 08:15 PM** - Pentagon’s mega-constellation still hampered by supply chain issues: GAO report (spacenews)
+- **Jun 12, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
