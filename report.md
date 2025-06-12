@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 31 | 50 |
 | breaking_defense | 2 | 4 | 23 | 40 |
-| nyt | 1 | 3 | 23 | 40 |
-| supercluster | 0 | 1 | 154 | 160 |
+| nyt | 1 | 3 | 23 | 39 |
+| supercluster | 0 | 1 | 155 | 161 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4520,3 +4520,4 @@
 - **Jun 12, 04:37 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 12, 04:51 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 12, 05:05 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
+- **Jun 12, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
