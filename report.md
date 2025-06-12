@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 23 | 48 |
 | breaking_defense | 2 | 5 | 16 | 37 |
 | nyt | 3 | 3 | 17 | 36 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4378,3 +4378,4 @@
 - **Jun 12, 02:41 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 12, 02:57 AM** - HASC warns White House over delayed defense budget, potential cuts to Space Force funding (spacenews)
 - **Jun 12, 03:11 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
+- **Jun 12, 03:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
