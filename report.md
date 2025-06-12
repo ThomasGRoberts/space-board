@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 29 | 48 |
 | breaking_defense | 2 | 4 | 21 | 38 |
 | nyt | 3 | 3 | 22 | 37 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4481,3 +4481,4 @@
 - **Jun 12, 12:53 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 12, 01:11 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 12, 01:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 01:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
