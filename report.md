@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 30 | 49 |
+| spacenews | 10 | 18 | 31 | 50 |
 | breaking_defense | 2 | 5 | 24 | 41 |
 | nyt | 0 | 3 | 23 | 40 |
-| supercluster | 0 | 1 | 158 | 167 |
+| supercluster | 0 | 1 | 156 | 167 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4530,3 +4530,4 @@
 - **Jun 12, 05:33 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 05:47 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 12, 06:02 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 12, 06:19 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
