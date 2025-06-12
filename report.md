@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 31 | 50 |
 | breaking_defense | 1 | 5 | 23 | 41 |
 | nyt | 0 | 3 | 23 | 39 |
-| supercluster | 0 | 1 | 155 | 168 |
+| supercluster | 0 | 1 | 156 | 169 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4532,3 +4532,4 @@
 - **Jun 12, 06:02 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 12, 06:19 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 12, 06:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
