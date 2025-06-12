@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 30 | 50 |
 | breaking_defense | 1 | 5 | 24 | 41 |
 | nyt | 0 | 3 | 23 | 39 |
-| supercluster | 0 | 1 | 160 | 176 |
+| supercluster | 0 | 1 | 159 | 177 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4543,3 +4543,4 @@
 - **Jun 12, 07:17 PM** - Europe clears SES-Intelsat deal without conditions (spacenews)
 - **Jun 12, 07:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 07:34 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 07:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
