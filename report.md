@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 23 | 49 |
 | breaking_defense | 2 | 5 | 17 | 37 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | supercluster | 1 | 1 | 55 | 55 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4367,3 +4367,4 @@
 - **Jun 12, 01:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 01:44 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 12, 01:57 AM** - The new attack surface: from space to smartphone (spacenews)
+- **Jun 12, 02:13 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
