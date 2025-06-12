@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 23 | 49 |
 | breaking_defense | 2 | 5 | 17 | 37 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | supercluster | 1 | 1 | 48 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4357,3 +4357,4 @@
 - **Jun 12, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 12:48 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 01:02 AM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
+- **Jun 12, 01:15 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
