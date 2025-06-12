@@ -1,9 +1,269 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-11T00:01:55.232992+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-12T00:01:55.488500+00:00",
+    "trigger_count": 6,
     "current_item_id": "a77de1ee431df090e9c83a6bff481cb3",
     "data": [
+        {
+            "id": "981719485e7e0a72cab690300e0cb58a",
+            "source": "spacenews",
+            "text": "Sierra Space doubles down on defense",
+            "source_link": "https://spacenews.com/sierra-space-doubles-down-on-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T22:07:32.255456Z",
+            "shown_at": [
+                "2025-06-11T22:07:33.086497Z"
+            ]
+        },
+        {
+            "id": "6522344f467fa9de80e5344b4c99b434",
+            "source": "spacenews",
+            "text": "Electron launches third iQPS satellite in three months",
+            "source_link": "https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T21:37:47.339256Z",
+            "shown_at": [
+                "2025-06-11T21:53:37.594216Z"
+            ]
+        },
+        {
+            "id": "c8005a14ce2d8049da35a6385dbfe3ee",
+            "source": "spacenews",
+            "text": "BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation",
+            "source_link": "https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T21:37:47.339199Z",
+            "shown_at": [
+                "2025-06-11T21:37:48.509964Z"
+            ]
+        },
+        {
+            "id": "d17fd2ea1ed8f733a69929a75c8e43a8",
+            "source": "spacenews",
+            "text": "Reaction Dynamics prepares for takeoff",
+            "source_link": "https://spacenews.com/reaction-dynamics-prepares-for-takeoff/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T21:10:05.975196Z",
+            "shown_at": [
+                "2025-06-11T21:10:07.974289Z"
+            ]
+        },
+        {
+            "id": "e6b64c5b1c333f027c905174f40d48b3",
+            "source": "spacenews",
+            "text": "Pentagon’s mega-constellation still hampered by supply chain issues: GAO report",
+            "source_link": "https://spacenews.com/pentagons-mega-constellation-still-hampered-by-supply-chain-issues-gao-report/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T20:41:30.364963Z",
+            "shown_at": [
+                "2025-06-11T20:55:43.313825Z"
+            ]
+        },
+        {
+            "id": "e4776c43d1116d9b573730058142921b",
+            "source": "spacenews",
+            "text": "Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors",
+            "source_link": "https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T20:41:30.364905Z",
+            "shown_at": [
+                "2025-06-11T20:41:30.905877Z"
+            ]
+        },
+        {
+            "id": "1b07a4c6adb9d3e4c64edd728f36cc39",
+            "source": "spacenews",
+            "text": "THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS",
+            "source_link": "https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T19:09:46.788361Z",
+            "shown_at": [
+                "2025-06-11T19:09:48.034980Z"
+            ]
+        },
+        {
+            "id": "34e7ca58fb45dfcf7aedf78422387d0b",
+            "source": "breaking_defense",
+            "text": "House appropriators call for new Space Force acquisition pilot",
+            "source_link": "https://breakingdefense.com/2025/06/house-appropriators-call-for-new-space-force-acquisition-pilot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T18:25:55.772027Z",
+            "shown_at": [
+                "2025-06-11T18:25:56.358920Z"
+            ]
+        },
+        {
+            "id": "43e78b1feac74ab11d8ed7ec0ce79364",
+            "source": "breaking_defense",
+            "text": "First Next-Gen OPIR missile warning launch pushed to 2026",
+            "source_link": "https://breakingdefense.com/2025/06/first-next-gen-opir-missile-warning-launch-pushed-to-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T17:37:41.295035Z",
+            "shown_at": [
+                "2025-06-11T17:37:41.993176Z",
+                "2025-06-11T21:23:39.604969Z"
+            ]
+        },
+        {
+            "id": "b46805f9bf4358bd72d4c05466968fc7",
+            "source": "nyt",
+            "text": "A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night",
+            "source_link": "https://www.nytimes.com/2025/06/11/science/space/strawberry-moon-full-june.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T17:21:49.058126Z",
+            "shown_at": [
+                "2025-06-11T17:21:49.784487Z"
+            ]
+        },
+        {
+            "id": "2ee89a9a26038105e91517c5f340aa68",
+            "source": "nyt",
+            "text": "First Ever Images of Sun’s South Pole Released by Solar Orbiter",
+            "source_link": "https://www.nytimes.com/2025/06/11/science/sun-south-pole-solar-orbiter-esa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T16:43:22.163437Z",
+            "shown_at": [
+                "2025-06-11T16:43:22.928345Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-15-6",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-13T01:47:00.000Z",
+            "time_remaining": "1d 01h 59m",
+            "fetched_datetime": "2025-06-11T16:31:43.504381Z",
+            "shown_at": [
+                "2025-06-11T16:31:44.494889Z",
+                "2025-06-11T16:33:30.180421Z",
+                "2025-06-11T16:35:34.020963Z",
+                "2025-06-11T16:37:22.762668Z",
+                "2025-06-11T16:39:24.889024Z",
+                "2025-06-11T16:41:37.229015Z",
+                "2025-06-11T18:10:31.700959Z",
+                "2025-06-11T18:13:36.491075Z",
+                "2025-06-11T18:15:34.299345Z",
+                "2025-06-11T18:17:37.120294Z",
+                "2025-06-11T18:19:27.419851Z",
+                "2025-06-11T18:21:35.367482Z",
+                "2025-06-11T18:23:40.116761Z",
+                "2025-06-11T19:27:38.183421Z",
+                "2025-06-11T19:29:31.278691Z",
+                "2025-06-11T19:32:19.587430Z",
+                "2025-06-11T19:35:34.550015Z",
+                "2025-06-11T19:37:22.616808Z",
+                "2025-06-11T19:39:45.294183Z",
+                "2025-06-11T19:41:34.561264Z",
+                "2025-06-11T20:27:50.275255Z",
+                "2025-06-11T20:29:38.722647Z",
+                "2025-06-11T20:31:48.124581Z",
+                "2025-06-11T20:33:40.784255Z",
+                "2025-06-11T20:35:48.437527Z",
+                "2025-06-11T20:37:22.988253Z",
+                "2025-06-11T20:39:31.034369Z",
+                "2025-06-11T22:37:37.558284Z",
+                "2025-06-11T22:39:59.863257Z",
+                "2025-06-11T22:42:05.572485Z",
+                "2025-06-11T22:43:27.334644Z",
+                "2025-06-11T22:45:44.449812Z",
+                "2025-06-11T22:47:41.699549Z",
+                "2025-06-11T22:49:05.685101Z",
+                "2025-06-11T23:35:45.698711Z",
+                "2025-06-11T23:37:02.122850Z",
+                "2025-06-11T23:39:31.556261Z",
+                "2025-06-11T23:41:48.813188Z",
+                "2025-06-11T23:43:21.002385Z",
+                "2025-06-11T23:45:29.783661Z",
+                "2025-06-11T23:47:37.426865Z"
+            ]
+        },
+        {
+            "id": "a3697623a7bf27e22675eb047da26765",
+            "source": "spacenews",
+            "text": "Voyager raises $383 million from upsized IPO",
+            "source_link": "https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T14:47:56.325673Z",
+            "shown_at": [
+                "2025-06-11T14:47:57.344042Z"
+            ]
+        },
+        {
+            "id": "8eea6516d9088915897c6491b8414fc3",
+            "source": "nyt",
+            "text": "First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter",
+            "source_link": "https://www.nytimes.com/2025/06/11/science/sun-south-pole-solar-orbiter-esa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T14:05:29.662315Z",
+            "shown_at": [
+                "2025-06-11T14:05:30.354938Z"
+            ]
+        },
+        {
+            "id": "3975b3ed7db4013ff4d37ab46af268d5",
+            "source": "spacenews",
+            "text": "Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.",
+            "source_link": "https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T13:10:08.075984Z",
+            "shown_at": [
+                "2025-06-11T13:31:50.252450Z"
+            ]
+        },
+        {
+            "id": "7380dacc6890d1222aecb79694889d6f",
+            "source": "spacenews",
+            "text": "‘Integrate’ software selected by Space Force to streamline satellite launches",
+            "source_link": "https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T13:10:08.075928Z",
+            "shown_at": [
+                "2025-06-11T13:10:09.768348Z"
+            ]
+        },
+        {
+            "id": "8d267bd9e2deef5bb56124247b4238f5",
+            "source": "spacenews",
+            "text": "Booster leak delays Ax-4 private astronaut mission to ISS",
+            "source_link": "https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T11:14:30.483747Z",
+            "shown_at": [
+                "2025-06-11T11:14:31.186221Z"
+            ]
+        },
+        {
+            "id": "aee13b60fa3ed1e6909dd891f31a8a3a",
+            "source": "spacenews",
+            "text": "Whitesides says budget proposal shows the administration does not value NASA science",
+            "source_link": "https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-11T00:09:09.109047Z",
+            "shown_at": [
+                "2025-06-11T00:09:09.689355Z",
+                "2025-06-11T08:27:31.689609Z"
+            ]
+        },
         {
             "id": "f78c2fd44106dc5e7168a8cff81b4b1a",
             "source": "breaking_defense",
@@ -9580,524 +9840,6 @@
             "fetched_datetime": "2025-04-08T10:45:32.245876Z",
             "shown_at": [
                 "2025-04-08T10:45:32.819537Z"
-            ]
-        },
-        {
-            "id": "2e961a26c27add7969b003b5659bfbe4",
-            "source": "spacenews",
-            "text": "Boeing’s bet: supercharge satellite production",
-            "source_link": "https://spacenews.com/boeings-bet-supercharge-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T10:15:37.252727Z",
-            "shown_at": [
-                "2025-04-08T10:15:37.846255Z",
-                "2025-04-15T02:39:58.052264Z"
-            ]
-        },
-        {
-            "id": "22086a13f07d3cf6981025ecfdef98f7",
-            "source": "spacenews",
-            "text": "Geopolitical shifts accelerate demand for Starlink alternatives",
-            "source_link": "https://spacenews.com/geopolitical-shifts-accelerate-demand-for-starlink-alternatives/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T09:31:57.784396Z",
-            "shown_at": [
-                "2025-04-08T09:31:58.346296Z"
-            ]
-        },
-        {
-            "id": "12a9a8693805230d757f93a9d582a48a",
-            "source": "spacenews",
-            "text": "Starlink’s rise in the defense market forces industry to adapt",
-            "source_link": "https://spacenews.com/starlink-pushes-rivals-to-rethink-military-comms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T09:03:41.649849Z",
-            "shown_at": [
-                "2025-04-08T09:03:42.300400Z",
-                "2025-04-10T08:33:49.761227Z",
-                "2025-04-10T17:53:34.724637Z"
-            ]
-        },
-        {
-            "id": "72cdb6633c87a4fea29311e78cbe94c5",
-            "source": "aidy",
-            "text": "FCC Proposes Modernized Spectrum-Sharing Rules to Enhance Satellite Broadband Deployment",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T07:37:34.789223Z",
-            "shown_at": [
-                "2025-04-08T07:37:35.478381Z",
-                "2025-04-09T05:37:15.563785Z",
-                "2025-04-09T06:47:40.781750Z",
-                "2025-04-09T12:57:50.090124Z",
-                "2025-04-10T02:53:26.883173Z",
-                "2025-04-10T04:03:37.965281Z",
-                "2025-04-10T12:33:28.865138Z",
-                "2025-04-10T19:59:28.969318Z",
-                "2025-04-10T22:35:46.688525Z",
-                "2025-04-11T01:02:19.989037Z",
-                "2025-04-11T03:11:43.832001Z",
-                "2025-04-11T11:05:31.127176Z",
-                "2025-04-11T13:57:26.127713Z",
-                "2025-04-11T18:31:51.887084Z",
-                "2025-04-12T23:47:24.160264Z",
-                "2025-04-13T17:39:35.089467Z",
-                "2025-04-14T00:57:46.453048Z",
-                "2025-04-14T03:05:46.644449Z",
-                "2025-04-14T12:14:01.552625Z",
-                "2025-04-15T04:45:39.729448Z"
-            ]
-        },
-        {
-            "id": "8ef38f40a5efcf5dfe3e51bb84e46df6",
-            "source": "spacenews",
-            "text": "Bluestaq Expands Globally with $50M from ONE Bow River, Launches UK Operations",
-            "source_link": "https://spacenews.com/bluestaq-expands-globally-with-50m-from-one-bow-river-launches-uk-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T07:09:31.408312Z",
-            "shown_at": [
-                "2025-04-08T07:09:31.988627Z"
-            ]
-        },
-        {
-            "id": "e3fd9decbfa62dec16c7c5f3ffe4d748",
-            "source": "spacenews",
-            "text": "FCC moves to update satellite power limits amid push for adaptive regulations",
-            "source_link": "https://spacenews.com/fcc-moves-to-update-satellite-power-limits-amid-push-for-adaptive-regulations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T22:05:30.318926Z",
-            "shown_at": [
-                "2025-04-07T22:05:31.001872Z",
-                "2025-04-08T08:21:45.403504Z"
-            ]
-        },
-        {
-            "id": "452c93bf44912972630639097d408633",
-            "source": "nyt",
-            "text": "Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 86",
-            "source_link": "https://www.nytimes.com/2025/04/07/science/space/jeremiah-ostriker-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T20:51:39.863184Z",
-            "shown_at": [
-                "2025-04-07T20:51:41.094036Z",
-                "2025-04-08T03:39:26.847949Z",
-                "2025-04-09T05:23:43.656198Z",
-                "2025-04-09T13:29:47.031449Z",
-                "2025-04-10T00:17:30.893301Z",
-                "2025-04-10T03:21:37.911138Z",
-                "2025-04-10T08:05:37.452388Z",
-                "2025-04-10T22:21:39.190352Z",
-                "2025-04-11T00:47:25.062899Z",
-                "2025-04-13T09:59:34.807904Z"
-            ]
-        },
-        {
-            "id": "bd3b6db6d015d47cf94a6d917e1a4bb0",
-            "source": "spacenews",
-            "text": "Viasat adds Telesat Lightspeed LEO connectivity to multi-orbit mix",
-            "source_link": "https://spacenews.com/viasat-adds-telesat-lightspeed-leo-connectivity-to-multi-orbit-mix/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:53:32.877443Z",
-            "shown_at": [
-                "2025-04-07T19:53:33.419681Z",
-                "2025-04-11T00:03:36.359897Z",
-                "2025-04-11T10:07:28.435786Z",
-                "2025-04-11T11:19:10.394712Z"
-            ]
-        },
-        {
-            "id": "bb56c1bb8cb5e452d048af6c6b01c042",
-            "source": "spacenews",
-            "text": "Space Symposium 2025",
-            "source_link": "https://spacenews.com/space-symposium-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:39:34.976168Z",
-            "shown_at": [
-                "2025-04-07T19:39:35.923700Z"
-            ]
-        },
-        {
-            "id": "bce68e9c71016f61000070b454db101a",
-            "source": "spacenews",
-            "text": "Space Force reassigns GPS satellite launch from ULA to SpaceX",
-            "source_link": "https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T19:11:31.392803Z",
-            "shown_at": [
-                "2025-04-07T19:11:32.146904Z",
-                "2025-04-08T04:23:38.352121Z",
-                "2025-04-13T22:49:35.709236Z"
-            ]
-        },
-        {
-            "id": "024d9f58c3572f000d0702672b532d86",
-            "source": "breaking_defense",
-            "text": "Strengthening the Aerospace and Defense industrial supply chain",
-            "source_link": "https://breakingdefense.com/2025/04/strengthening-the-aerospace-and-defense-industrial-supply-chain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T18:29:30.450196Z",
-            "shown_at": [
-                "2025-04-07T18:29:31.079451Z",
-                "2025-04-08T05:05:26.270067Z",
-                "2025-04-10T02:25:48.558406Z",
-                "2025-04-10T03:35:32.231269Z",
-                "2025-04-10T20:27:48.316496Z",
-                "2025-04-11T08:11:43.069741Z",
-                "2025-04-13T13:57:48.315885Z",
-                "2025-04-14T01:47:49.299498Z",
-                "2025-04-14T10:11:23.199400Z"
-            ]
-        },
-        {
-            "id": "55d56989df2ef778835f27385bf57608",
-            "source": "spacenews",
-            "text": "Axiom Space to launch orbital data centers on Kepler satellites",
-            "source_link": "https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T16:29:28.273095Z",
-            "shown_at": [
-                "2025-04-07T16:29:28.826492Z"
-            ]
-        },
-        {
-            "id": "fc0989a8b145388ddc69f62cca5089aa",
-            "source": "spacenews",
-            "text": "Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission",
-            "source_link": "https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T16:02:02.938231Z",
-            "shown_at": [
-                "2025-04-07T16:02:03.572732Z",
-                "2025-04-11T03:41:36.859878Z"
-            ]
-        },
-        {
-            "id": "0b3502cbfa8ae24312a9d07686b4e570",
-            "source": "spacenews",
-            "text": "Space-based solar power is becoming reality — but the U.S. needs to help",
-            "source_link": "https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797984Z",
-            "shown_at": [
-                "2025-04-07T15:47:13.429494Z",
-                "2025-04-08T05:33:33.800938Z",
-                "2025-04-09T23:33:43.538166Z"
-            ]
-        },
-        {
-            "id": "37437b117a93c60a5c12f36c984ddc8a",
-            "source": "spacenews",
-            "text": "Olsen targets US space boom with new Florida office",
-            "source_link": "https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797944Z",
-            "shown_at": [
-                "2025-04-07T15:32:14.054517Z"
-            ]
-        },
-        {
-            "id": "11044cc6a0f903d12b7b5dcb32750f72",
-            "source": "spacenews",
-            "text": "Space Force missile-tracking “Foo Fighter” satellites clear design milestone",
-            "source_link": "https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T15:15:43.797891Z",
-            "shown_at": [
-                "2025-04-07T15:15:45.204970Z",
-                "2025-04-09T07:43:38.983252Z"
-            ]
-        },
-        {
-            "id": "ba91db756baac49a029bce2178d3d78f",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: NRO, Space Force in ‘final stages’ of commercial ISR arrangement",
-            "source_link": "https://breakingdefense.com/2025/04/exclusive-nro-space-force-in-final-stages-of-commercial-isr-arrangement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-07T14:33:52.301992Z",
-            "shown_at": [
-                "2025-04-07T14:33:53.213889Z",
-                "2025-04-07T20:09:31.629323Z",
-                "2025-04-08T03:53:24.721630Z",
-                "2025-04-09T09:41:46.129951Z",
-                "2025-04-10T12:19:52.483718Z",
-                "2025-04-10T14:29:28.883464Z"
-            ]
-        },
-        {
-            "id": "aee13b60fa3ed1e6909dd891f31a8a3a",
-            "source": "spacenews",
-            "text": "Whitesides says budget proposal shows the administration does not value NASA science",
-            "source_link": "https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T00:09:09.109047Z",
-            "shown_at": [
-                "2025-06-11T00:09:09.689355Z",
-                "2025-06-11T08:27:31.689609Z"
-            ]
-        },
-        {
-            "id": "8d267bd9e2deef5bb56124247b4238f5",
-            "source": "spacenews",
-            "text": "Booster leak delays Ax-4 private astronaut mission to ISS",
-            "source_link": "https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T11:14:30.483747Z",
-            "shown_at": [
-                "2025-06-11T11:14:31.186221Z"
-            ]
-        },
-        {
-            "id": "7380dacc6890d1222aecb79694889d6f",
-            "source": "spacenews",
-            "text": "‘Integrate’ software selected by Space Force to streamline satellite launches",
-            "source_link": "https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T13:10:08.075928Z",
-            "shown_at": [
-                "2025-06-11T13:10:09.768348Z"
-            ]
-        },
-        {
-            "id": "3975b3ed7db4013ff4d37ab46af268d5",
-            "source": "spacenews",
-            "text": "Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.",
-            "source_link": "https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T13:10:08.075984Z",
-            "shown_at": [
-                "2025-06-11T13:31:50.252450Z"
-            ]
-        },
-        {
-            "id": "8eea6516d9088915897c6491b8414fc3",
-            "source": "nyt",
-            "text": "First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter",
-            "source_link": "https://www.nytimes.com/2025/06/11/science/sun-south-pole-solar-orbiter-esa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T14:05:29.662315Z",
-            "shown_at": [
-                "2025-06-11T14:05:30.354938Z"
-            ]
-        },
-        {
-            "id": "a3697623a7bf27e22675eb047da26765",
-            "source": "spacenews",
-            "text": "Voyager raises $383 million from upsized IPO",
-            "source_link": "https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T14:47:56.325673Z",
-            "shown_at": [
-                "2025-06-11T14:47:57.344042Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-6",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-13T01:47:00.000Z",
-            "time_remaining": "1d 01h 59m",
-            "fetched_datetime": "2025-06-11T16:31:43.504381Z",
-            "shown_at": [
-                "2025-06-11T16:31:44.494889Z",
-                "2025-06-11T16:33:30.180421Z",
-                "2025-06-11T16:35:34.020963Z",
-                "2025-06-11T16:37:22.762668Z",
-                "2025-06-11T16:39:24.889024Z",
-                "2025-06-11T16:41:37.229015Z",
-                "2025-06-11T18:10:31.700959Z",
-                "2025-06-11T18:13:36.491075Z",
-                "2025-06-11T18:15:34.299345Z",
-                "2025-06-11T18:17:37.120294Z",
-                "2025-06-11T18:19:27.419851Z",
-                "2025-06-11T18:21:35.367482Z",
-                "2025-06-11T18:23:40.116761Z",
-                "2025-06-11T19:27:38.183421Z",
-                "2025-06-11T19:29:31.278691Z",
-                "2025-06-11T19:32:19.587430Z",
-                "2025-06-11T19:35:34.550015Z",
-                "2025-06-11T19:37:22.616808Z",
-                "2025-06-11T19:39:45.294183Z",
-                "2025-06-11T19:41:34.561264Z",
-                "2025-06-11T20:27:50.275255Z",
-                "2025-06-11T20:29:38.722647Z",
-                "2025-06-11T20:31:48.124581Z",
-                "2025-06-11T20:33:40.784255Z",
-                "2025-06-11T20:35:48.437527Z",
-                "2025-06-11T20:37:22.988253Z",
-                "2025-06-11T20:39:31.034369Z",
-                "2025-06-11T22:37:37.558284Z",
-                "2025-06-11T22:39:59.863257Z",
-                "2025-06-11T22:42:05.572485Z",
-                "2025-06-11T22:43:27.334644Z",
-                "2025-06-11T22:45:44.449812Z",
-                "2025-06-11T22:47:41.699549Z",
-                "2025-06-11T22:49:05.685101Z",
-                "2025-06-11T23:35:45.698711Z",
-                "2025-06-11T23:37:02.122850Z",
-                "2025-06-11T23:39:31.556261Z",
-                "2025-06-11T23:41:48.813188Z",
-                "2025-06-11T23:43:21.002385Z",
-                "2025-06-11T23:45:29.783661Z",
-                "2025-06-11T23:47:37.426865Z"
-            ]
-        },
-        {
-            "id": "2ee89a9a26038105e91517c5f340aa68",
-            "source": "nyt",
-            "text": "First Ever Images of Sun’s South Pole Released by Solar Orbiter",
-            "source_link": "https://www.nytimes.com/2025/06/11/science/sun-south-pole-solar-orbiter-esa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T16:43:22.163437Z",
-            "shown_at": [
-                "2025-06-11T16:43:22.928345Z"
-            ]
-        },
-        {
-            "id": "b46805f9bf4358bd72d4c05466968fc7",
-            "source": "nyt",
-            "text": "A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night",
-            "source_link": "https://www.nytimes.com/2025/06/11/science/space/strawberry-moon-full-june.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T17:21:49.058126Z",
-            "shown_at": [
-                "2025-06-11T17:21:49.784487Z"
-            ]
-        },
-        {
-            "id": "43e78b1feac74ab11d8ed7ec0ce79364",
-            "source": "breaking_defense",
-            "text": "First Next-Gen OPIR missile warning launch pushed to 2026",
-            "source_link": "https://breakingdefense.com/2025/06/first-next-gen-opir-missile-warning-launch-pushed-to-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T17:37:41.295035Z",
-            "shown_at": [
-                "2025-06-11T17:37:41.993176Z",
-                "2025-06-11T21:23:39.604969Z"
-            ]
-        },
-        {
-            "id": "34e7ca58fb45dfcf7aedf78422387d0b",
-            "source": "breaking_defense",
-            "text": "House appropriators call for new Space Force acquisition pilot",
-            "source_link": "https://breakingdefense.com/2025/06/house-appropriators-call-for-new-space-force-acquisition-pilot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T18:25:55.772027Z",
-            "shown_at": [
-                "2025-06-11T18:25:56.358920Z"
-            ]
-        },
-        {
-            "id": "1b07a4c6adb9d3e4c64edd728f36cc39",
-            "source": "spacenews",
-            "text": "THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS",
-            "source_link": "https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T19:09:46.788361Z",
-            "shown_at": [
-                "2025-06-11T19:09:48.034980Z"
-            ]
-        },
-        {
-            "id": "e4776c43d1116d9b573730058142921b",
-            "source": "spacenews",
-            "text": "Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors",
-            "source_link": "https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T20:41:30.364905Z",
-            "shown_at": [
-                "2025-06-11T20:41:30.905877Z"
-            ]
-        },
-        {
-            "id": "e6b64c5b1c333f027c905174f40d48b3",
-            "source": "spacenews",
-            "text": "Pentagon’s mega-constellation still hampered by supply chain issues: GAO report",
-            "source_link": "https://spacenews.com/pentagons-mega-constellation-still-hampered-by-supply-chain-issues-gao-report/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T20:41:30.364963Z",
-            "shown_at": [
-                "2025-06-11T20:55:43.313825Z"
-            ]
-        },
-        {
-            "id": "d17fd2ea1ed8f733a69929a75c8e43a8",
-            "source": "spacenews",
-            "text": "Reaction Dynamics prepares for takeoff",
-            "source_link": "https://spacenews.com/reaction-dynamics-prepares-for-takeoff/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T21:10:05.975196Z",
-            "shown_at": [
-                "2025-06-11T21:10:07.974289Z"
-            ]
-        },
-        {
-            "id": "c8005a14ce2d8049da35a6385dbfe3ee",
-            "source": "spacenews",
-            "text": "BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation",
-            "source_link": "https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T21:37:47.339199Z",
-            "shown_at": [
-                "2025-06-11T21:37:48.509964Z"
-            ]
-        },
-        {
-            "id": "6522344f467fa9de80e5344b4c99b434",
-            "source": "spacenews",
-            "text": "Electron launches third iQPS satellite in three months",
-            "source_link": "https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T21:37:47.339256Z",
-            "shown_at": [
-                "2025-06-11T21:53:37.594216Z"
-            ]
-        },
-        {
-            "id": "981719485e7e0a72cab690300e0cb58a",
-            "source": "spacenews",
-            "text": "Sierra Space doubles down on defense",
-            "source_link": "https://spacenews.com/sierra-space-doubles-down-on-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T22:07:32.255456Z",
-            "shown_at": [
-                "2025-06-11T22:07:33.086497Z"
             ]
         }
     ]
