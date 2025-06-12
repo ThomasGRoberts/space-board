@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 28 | 50 |
+| spacenews | 12 | 21 | 28 | 49 |
 | breaking_defense | 2 | 5 | 20 | 37 |
-| nyt | 3 | 3 | 19 | 35 |
+| nyt | 3 | 3 | 20 | 36 |
 | supercluster | 1 | 1 | 118 | 118 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4458,3 +4458,4 @@
 - **Jun 12, 10:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 10:33 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 12, 10:47 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
+- **Jun 12, 11:01 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
