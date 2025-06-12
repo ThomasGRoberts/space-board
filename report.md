@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 28 | 49 |
+| spacenews | 5 | 16 | 28 | 50 |
 | breaking_defense | 1 | 5 | 24 | 42 |
 | nyt | 0 | 3 | 24 | 40 |
 | supercluster | 0 | 1 | 168 | 195 |
@@ -4568,3 +4568,4 @@
 - **Jun 12, 09:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 09:39 PM** - NASA indefinitely delays private astronaut mission, citing air leak in Russian module (spacenews)
