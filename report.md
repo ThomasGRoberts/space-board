@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 30 | 50 |
 | breaking_defense | 2 | 4 | 23 | 39 |
 | nyt | 2 | 3 | 23 | 39 |
-| supercluster | 1 | 1 | 155 | 155 |
+| supercluster | 1 | 1 | 156 | 156 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4512,3 +4512,4 @@
 - **Jun 12, 04:07 PM** - Is China’s BeiDou a weapon of war? (spacenews)
 - **Jun 12, 04:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
