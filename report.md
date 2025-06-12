@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 23 | 48 |
+| spacenews | 11 | 20 | 24 | 49 |
 | breaking_defense | 2 | 5 | 17 | 38 |
 | nyt | 3 | 3 | 16 | 35 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -4406,3 +4406,4 @@
 - **Jun 12, 05:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 05:31 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
+- **Jun 12, 05:45 AM** - Voyager raises $383 million from upsized IPO (spacenews)
