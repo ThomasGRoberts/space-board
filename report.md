@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 28 | 47 |
-| breaking_defense | 2 | 5 | 20 | 38 |
+| spacenews | 13 | 20 | 29 | 48 |
+| breaking_defense | 2 | 4 | 20 | 37 |
 | nyt | 3 | 3 | 21 | 37 |
 | supercluster | 1 | 1 | 125 | 125 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4469,3 +4469,4 @@
 - **Jun 12, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:43 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 12, 11:57 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
+- **Jun 12, 12:11 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)

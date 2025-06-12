@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-12T00:01:55.488500+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c63dec0de42b1e2c42381c081faa9b69",
+    "trigger_count": 0,
+    "current_item_id": "86b4de04833859a3573eabd7802795a6",
     "data": [
         {
             "id": "981719485e7e0a72cab690300e0cb58a",
@@ -9985,6 +9985,18 @@
             "fetched_datetime": "2025-06-12T11:15:36.358634Z",
             "shown_at": [
                 "2025-06-12T11:15:37.083067Z"
+            ]
+        },
+        {
+            "id": "86b4de04833859a3573eabd7802795a6",
+            "source": "spacenews",
+            "text": "Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma",
+            "source_link": "https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T12:11:42.920363Z",
+            "shown_at": [
+                "2025-06-12T12:11:43.966141Z"
             ]
         }
     ]
