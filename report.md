@@ -5,7 +5,7 @@
 | spacenews | 12 | 21 | 27 | 49 |
 | breaking_defense | 2 | 5 | 19 | 37 |
 | nyt | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4449,3 +4449,4 @@
 - **Jun 12, 09:35 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 12, 09:49 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
 - **Jun 12, 10:03 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 12, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
