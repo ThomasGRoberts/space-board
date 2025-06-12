@@ -5,7 +5,7 @@
 | spacenews | 12 | 21 | 27 | 49 |
 | breaking_defense | 2 | 5 | 19 | 37 |
 | nyt | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4439,3 +4439,4 @@
 - **Jun 12, 08:37 AM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
 - **Jun 12, 08:51 AM** - Voyager looks to expanded defense and space opportunities as a public company (spacenews)
 - **Jun 12, 09:07 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 12, 09:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
