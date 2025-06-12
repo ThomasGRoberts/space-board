@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 29 | 50 |
+| spacenews | 10 | 19 | 29 | 49 |
 | breaking_defense | 2 | 4 | 22 | 39 |
 | nyt | 2 | 3 | 22 | 38 |
-| supercluster | 1 | 1 | 148 | 148 |
+| supercluster | 1 | 1 | 149 | 149 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4502,3 +4502,4 @@
 - **Jun 12, 03:09 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 12, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 03:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
