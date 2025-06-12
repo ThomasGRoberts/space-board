@@ -5,7 +5,7 @@
 | spacenews | 12 | 20 | 28 | 48 |
 | breaking_defense | 2 | 5 | 20 | 37 |
 | nyt | 3 | 3 | 20 | 36 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4462,3 +4462,4 @@
 - **Jun 12, 11:15 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
 - **Jun 12, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 11:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
