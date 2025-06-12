@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 29 | 49 |
 | breaking_defense | 2 | 4 | 21 | 38 |
 | nyt | 2 | 3 | 22 | 38 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4491,3 +4491,4 @@
 - **Jun 12, 01:55 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 12, 02:09 PM** - Xplore reveals hyperspectral imagery from first satellite (spacenews)
 - **Jun 12, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 02:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
