@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 48 |
 | breaking_defense | 2 | 5 | 18 | 37 |
 | nyt | 3 | 3 | 18 | 36 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4418,3 +4418,4 @@
 - **Jun 12, 06:29 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 12, 06:43 AM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 12, 06:57 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 12, 07:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
