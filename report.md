@@ -5,7 +5,7 @@
 | spacenews | 13 | 20 | 29 | 48 |
 | breaking_defense | 2 | 4 | 20 | 37 |
 | nyt | 3 | 3 | 21 | 36 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4471,3 +4471,4 @@
 - **Jun 12, 11:57 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
 - **Jun 12, 12:11 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 12, 12:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
