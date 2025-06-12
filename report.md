@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 29 | 48 |
-| breaking_defense | 2 | 4 | 20 | 37 |
+| breaking_defense | 2 | 4 | 21 | 38 |
 | nyt | 3 | 3 | 21 | 36 |
 | supercluster | 1 | 1 | 132 | 132 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4477,3 +4477,4 @@
 - **Jun 12, 12:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 12:39 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
