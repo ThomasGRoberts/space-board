@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 28 | 49 |
 | breaking_defense | 2 | 4 | 22 | 39 |
-| nyt | 2 | 3 | 22 | 37 |
+| nyt | 2 | 3 | 23 | 38 |
 | supercluster | 1 | 1 | 146 | 146 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4498,3 +4498,4 @@
 - **Jun 12, 02:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 02:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 02:41 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 12, 02:55 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
