@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 23 | 49 |
 | breaking_defense | 2 | 5 | 17 | 37 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | supercluster | 1 | 1 | 41 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4347,3 +4347,4 @@
 - **Jun 11, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 11, 11:49 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 12:03 AM** - Starliner future plans still in limbo (spacenews)
+- **Jun 12, 12:17 AM** - How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts (nyt)
