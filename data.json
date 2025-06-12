@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-12T00:01:55.488500+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b3fb7d7591d04fb5b906a8e0e512af2",
+    "trigger_count": 0,
+    "current_item_id": "2274623f6672ff39811865814cdb1c4c",
     "data": [
         {
             "id": "981719485e7e0a72cab690300e0cb58a",
@@ -10141,6 +10141,18 @@
             "fetched_datetime": "2025-06-12T22:21:33.911092Z",
             "shown_at": [
                 "2025-06-12T22:21:34.423687Z"
+            ]
+        },
+        {
+            "id": "2274623f6672ff39811865814cdb1c4c",
+            "source": "spacenews",
+            "text": "House appropriators advance defense bill, slam White House for budget delay",
+            "source_link": "https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T23:19:25.297835Z",
+            "shown_at": [
+                "2025-06-12T23:19:26.052636Z"
             ]
         }
     ]
