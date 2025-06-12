@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 28 | 50 |
 | breaking_defense | 1 | 5 | 24 | 42 |
-| nyt | 0 | 3 | 24 | 40 |
+| nyt | 0 | 3 | 25 | 41 |
 | supercluster | 0 | 1 | 168 | 195 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4569,3 +4569,4 @@
 - **Jun 12, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:39 PM** - NASA indefinitely delays private astronaut mission, citing air leak in Russian module (spacenews)
+- **Jun 12, 09:53 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
