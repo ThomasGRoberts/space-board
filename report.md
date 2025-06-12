@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 27 | 51 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 168 | 202 |
+| supercluster | 0 | 1 | 169 | 203 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4582,3 +4582,4 @@
 - **Jun 12, 10:49 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 12, 11:05 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 12, 11:19 PM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
+- **Jun 12, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
