@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 27 | 50 |
-| breaking_defense | 1 | 3 | 24 | 41 |
+| spacenews | 5 | 17 | 26 | 50 |
+| breaking_defense | 1 | 3 | 25 | 42 |
 | nyt | 0 | 3 | 25 | 41 |
 | supercluster | 0 | 1 | 168 | 202 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4580,3 +4580,4 @@
 - **Jun 12, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 10:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 10:49 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 12, 11:05 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
