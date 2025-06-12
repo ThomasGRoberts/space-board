@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 27 | 51 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 170 | 204 |
+| supercluster | 0 | 1 | 169 | 205 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4584,3 +4584,4 @@
 - **Jun 12, 11:19 PM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 12, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
