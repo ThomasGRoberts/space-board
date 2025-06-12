@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 29 | 49 |
 | breaking_defense | 1 | 5 | 24 | 41 |
-| nyt | 0 | 3 | 23 | 40 |
+| nyt | 0 | 3 | 24 | 41 |
 | supercluster | 0 | 1 | 161 | 188 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4558,3 +4558,4 @@
 - **Jun 12, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 08:43 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
