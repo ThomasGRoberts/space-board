@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 30 | 50 |
 | breaking_defense | 2 | 4 | 23 | 40 |
 | nyt | 2 | 3 | 23 | 39 |
-| supercluster | 1 | 1 | 153 | 153 |
+| supercluster | 1 | 1 | 154 | 154 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4510,3 +4510,4 @@
 - **Jun 12, 03:37 PM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 03:51 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 12, 04:07 PM** - Is China’s BeiDou a weapon of war? (spacenews)
+- **Jun 12, 04:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
