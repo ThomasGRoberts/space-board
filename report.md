@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 26 | 49 |
+| spacenews | 12 | 21 | 27 | 50 |
 | breaking_defense | 2 | 5 | 19 | 37 |
 | nyt | 3 | 3 | 19 | 35 |
 | supercluster | 1 | 1 | 111 | 111 |
@@ -4447,3 +4447,4 @@
 - **Jun 12, 09:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 09:35 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
+- **Jun 12, 09:49 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
