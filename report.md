@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 31 | 50 |
 | breaking_defense | 1 | 5 | 23 | 41 |
 | nyt | 0 | 3 | 23 | 39 |
-| supercluster | 0 | 1 | 154 | 167 |
+| supercluster | 0 | 1 | 155 | 168 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4531,3 +4531,4 @@
 - **Jun 12, 05:47 PM** - Status of Ispace of Japan’s Resilience Moon Lander Is Unknown (nyt)
 - **Jun 12, 06:02 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 12, 06:19 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
+- **Jun 12, 06:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
