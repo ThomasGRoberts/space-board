@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-12T00:01:55.488500+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e505b275437a0b927ca5edccff9224d",
+    "trigger_count": 0,
+    "current_item_id": "3dda53c7d0964b35ed25471df76b0e9a",
     "data": [
         {
             "id": "981719485e7e0a72cab690300e0cb58a",
@@ -10056,6 +10056,18 @@
             "shown_at": [
                 "2025-06-12T12:11:43.966141Z",
                 "2025-06-12T17:05:37.596093Z"
+            ]
+        },
+        {
+            "id": "3dda53c7d0964b35ed25471df76b0e9a",
+            "source": "breaking_defense",
+            "text": "Nine steps to make Golden Dome a true success",
+            "source_link": "https://breakingdefense.com/2025/06/nine-steps-to-make-golden-dome-a-true-success/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T18:02:35.410533Z",
+            "shown_at": [
+                "2025-06-12T18:02:36.112341Z"
             ]
         }
     ]
