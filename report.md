@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 29 | 50 |
 | breaking_defense | 2 | 4 | 22 | 39 |
 | nyt | 2 | 3 | 22 | 38 |
-| supercluster | 1 | 1 | 146 | 146 |
+| supercluster | 1 | 1 | 147 | 147 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4500,3 +4500,4 @@
 - **Jun 12, 02:41 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 12, 02:55 PM** - Ispace of Japan Has Lost Contact With Resilience Moon Lander (nyt)
 - **Jun 12, 03:09 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
+- **Jun 12, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
