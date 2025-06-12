@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 31 | 50 |
 | breaking_defense | 2 | 4 | 23 | 40 |
-| nyt | 1 | 3 | 23 | 39 |
-| supercluster | 0 | 1 | 156 | 162 |
+| nyt | 0 | 3 | 22 | 39 |
+| supercluster | 0 | 1 | 157 | 163 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4522,3 +4522,4 @@
 - **Jun 12, 05:05 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 12, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 12, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
