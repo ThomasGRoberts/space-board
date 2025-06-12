@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 26 | 48 |
 | breaking_defense | 2 | 5 | 19 | 37 |
 | nyt | 3 | 3 | 19 | 36 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4428,3 +4428,4 @@
 - **Jun 12, 07:27 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 12, 07:41 AM** - Europe clears SES-Intelsat deal without conditions (spacenews)
 - **Jun 12, 07:55 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 12, 08:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
