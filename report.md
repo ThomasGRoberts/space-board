@@ -5,7 +5,7 @@
 | spacenews | 5 | 17 | 27 | 51 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 168 | 195 |
+| supercluster | 0 | 1 | 169 | 196 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4572,3 +4572,4 @@
 - **Jun 12, 09:53 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 12, 10:07 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 12, 10:21 PM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
+- **Jun 12, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
