@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 25 | 48 |
+| spacenews | 11 | 20 | 26 | 49 |
 | breaking_defense | 2 | 5 | 19 | 38 |
 | nyt | 3 | 3 | 18 | 35 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -4426,3 +4426,4 @@
 - **Jun 12, 07:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 07:27 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 12, 07:41 AM** - Europe clears SES-Intelsat deal without conditions (spacenews)
