@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 23 | 48 |
+| spacenews | 11 | 20 | 24 | 49 |
 | breaking_defense | 2 | 5 | 17 | 38 |
 | nyt | 3 | 3 | 16 | 35 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -4386,3 +4386,4 @@
 - **Jun 12, 03:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 03:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 03:39 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 12, 03:53 AM** - Trump’s push for procurement reform faces familiar hurdles (spacenews)
