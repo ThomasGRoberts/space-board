@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 24 | 49 |
 | breaking_defense | 2 | 5 | 17 | 37 |
-| nyt | 3 | 3 | 16 | 35 |
+| nyt | 3 | 3 | 17 | 36 |
 | supercluster | 1 | 1 | 83 | 83 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4407,3 +4407,4 @@
 - **Jun 12, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 05:31 AM** - DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS (breaking_defense)
 - **Jun 12, 05:45 AM** - Voyager raises $383 million from upsized IPO (spacenews)
+- **Jun 12, 05:59 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
