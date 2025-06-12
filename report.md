@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 28 | 47 |
 | breaking_defense | 2 | 5 | 20 | 38 |
-| nyt | 3 | 3 | 20 | 36 |
+| nyt | 3 | 3 | 21 | 37 |
 | supercluster | 1 | 1 | 125 | 125 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4468,3 +4468,4 @@
 - **Jun 12, 11:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:43 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 12, 11:57 AM** - Marc Garneau, First Canadian in Space, Dies at 76 (nyt)
