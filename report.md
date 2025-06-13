@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 27 | 50 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 169 | 211 |
+| supercluster | 0 | 1 | 169 | 212 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4581,3 +4581,4 @@
 - **Jun 13, 12:17 AM** - Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT (spacenews)
 - **Jun 13, 12:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 13, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 13, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
