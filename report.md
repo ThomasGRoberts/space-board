@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 25 | 51 |
+| spacenews | 6 | 18 | 26 | 52 |
 | breaking_defense | 1 | 3 | 24 | 43 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4438,3 +4438,4 @@
 - **Jun 13, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 08:59 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 13, 09:13 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 13, 09:27 AM** - Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies (spacenews)
