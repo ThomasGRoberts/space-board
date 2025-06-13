@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 25 | 52 |
+| spacenews | 5 | 11 | 26 | 53 |
 | breaking_defense | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4493,3 +4493,4 @@
 - **Jun 13, 11:37 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 11:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 11:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 11:43 PM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
