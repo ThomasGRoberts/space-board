@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4478,3 +4478,4 @@
 - **Jun 13, 10:19 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 13, 10:33 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 10:35 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 10:37 PM** - China Will Launch the Long March 2D Rocket (supercluster)
