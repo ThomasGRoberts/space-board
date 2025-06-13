@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 42 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4429,3 +4429,4 @@
 - **Jun 13, 08:03 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 08:17 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 13, 08:32 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
+- **Jun 13, 08:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
