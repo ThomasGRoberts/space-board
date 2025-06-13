@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4450,3 +4450,4 @@
 - **Jun 13, 10:09 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 13, 10:23 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
 - **Jun 13, 10:37 AM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
+- **Jun 13, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
