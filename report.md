@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 26 | 56 |
 | breaking_defense | 2 | 3 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4455,3 +4455,4 @@
 - **Jun 13, 07:43 PM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
 - **Jun 13, 07:58 PM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
 - **Jun 13, 08:13 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
+- **Jun 13, 08:27 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
