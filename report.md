@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 51 |
 | breaking_defense | 1 | 3 | 24 | 42 |
-| nyt | 0 | 3 | 23 | 41 |
+| nyt | 0 | 3 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4417,3 +4417,4 @@
 - **Jun 13, 06:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 06:51 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 07:05 AM** - Electron launches third iQPS satellite in three months (spacenews)
+- **Jun 13, 07:19 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
