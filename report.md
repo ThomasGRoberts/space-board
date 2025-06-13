@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 27 | 50 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 168 | 209 |
+| supercluster | 0 | 1 | 168 | 210 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4579,3 +4579,4 @@
 - **Jun 12, 11:47 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 13, 12:02 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 12:17 AM** - Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT (spacenews)
+- **Jun 13, 12:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
