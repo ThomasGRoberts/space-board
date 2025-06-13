@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 25 | 53 |
 | breaking_defense | 1 | 3 | 24 | 44 |
-| nyt | 0 | 3 | 23 | 43 |
+| nyt | 0 | 3 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 57 | 57 |
 
@@ -4458,3 +4458,4 @@
 - **Jun 13, 11:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 11:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 11:05 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 13, 11:19 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
