@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 53 |
-| breaking_defense | 2 | 3 | 23 | 47 |
+| breaking_defense | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4474,3 +4474,4 @@
 - **Jun 13, 09:47 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 09:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 09:51 PM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
+- **Jun 13, 10:05 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
