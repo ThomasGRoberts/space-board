@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 49 |
-| breaking_defense | 1 | 3 | 24 | 40 |
+| breaking_defense | 1 | 3 | 23 | 40 |
 | nyt | 0 | 3 | 24 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4378,3 +4378,4 @@
 - **Jun 13, 02:57 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 13, 03:11 AM** - Is China’s BeiDou a weapon of war? (spacenews)
 - **Jun 13, 03:25 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
+- **Jun 13, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
