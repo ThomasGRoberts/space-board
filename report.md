@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 18 | 26 | 55 |
+| spacenews | 6 | 17 | 26 | 55 |
 | breaking_defense | 1 | 3 | 24 | 45 |
 | nyt | 0 | 3 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4478,3 +4478,4 @@
 - **Jun 13, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 12:57 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 13, 01:11 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
