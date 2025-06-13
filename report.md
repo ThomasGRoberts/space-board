@@ -4374,4 +4374,4 @@
 - **Jun 13, 12:59 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 13, 01:14 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
 - **Jun 13, 01:45 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
-- **Jun 13, 02:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 13, 02:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
