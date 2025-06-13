@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c189a376c07ab028f2420311c4e4a7b8",
+    "trigger_count": 0,
+    "current_item_id": "872b30856d3ef729bfde541be3ba7ef9",
     "data": [
         {
             "id": "2274623f6672ff39811865814cdb1c4c",
@@ -10002,6 +10002,18 @@
             "fetched_datetime": "2025-06-13T19:01:59.124583Z",
             "shown_at": [
                 "2025-06-13T19:01:59.723528Z"
+            ]
+        },
+        {
+            "id": "872b30856d3ef729bfde541be3ba7ef9",
+            "source": "spacenews",
+            "text": "AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement",
+            "source_link": "https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T19:58:13.798887Z",
+            "shown_at": [
+                "2025-06-13T19:58:14.664815Z"
             ]
         }
     ]
