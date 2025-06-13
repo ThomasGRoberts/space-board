@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 18 | 25 | 54 |
 | breaking_defense | 1 | 3 | 24 | 44 |
-| nyt | 0 | 3 | 23 | 44 |
+| nyt | 0 | 3 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 64 | 64 |
 
@@ -4468,3 +4468,4 @@
 - **Jun 13, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 11:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 12:01 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 13, 12:15 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
