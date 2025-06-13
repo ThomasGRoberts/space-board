@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 26 | 55 |
 | breaking_defense | 2 | 3 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4457,3 +4457,4 @@
 - **Jun 13, 08:13 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 13, 08:27 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 13, 08:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 08:43 PM** - China Will Launch the Long March 2D Rocket (supercluster)
