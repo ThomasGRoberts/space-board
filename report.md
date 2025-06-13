@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 26 | 52 |
 | breaking_defense | 2 | 3 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -4475,3 +4475,4 @@
 - **Jun 13, 09:49 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 09:51 PM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
 - **Jun 13, 10:05 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
+- **Jun 13, 10:19 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
