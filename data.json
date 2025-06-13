@@ -1,9 +1,95 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-12T00:01:55.488500+00:00",
-    "trigger_count": 6,
-    "current_item_id": "059b03c033dc6cfd6825851d887a9705",
+    "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
+    "trigger_count": 0,
+    "current_item_id": "3dda53c7d0964b35ed25471df76b0e9a",
     "data": [
+        {
+            "id": "2274623f6672ff39811865814cdb1c4c",
+            "source": "spacenews",
+            "text": "House appropriators advance defense bill, slam White House for budget delay",
+            "source_link": "https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T23:19:25.297835Z",
+            "shown_at": [
+                "2025-06-12T23:19:26.052636Z"
+            ]
+        },
+        {
+            "id": "c724c0dcbe5db1f80dd8a67dbcdf7be9",
+            "source": "spacenews",
+            "text": "Logos nets $50 million to advance plans for more than 4,000 broadband satellites",
+            "source_link": "https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T22:21:33.911092Z",
+            "shown_at": [
+                "2025-06-12T22:21:34.423687Z"
+            ]
+        },
+        {
+            "id": "8c3ce2c6d7f99aecc6386e4d8a1c179c",
+            "source": "spacenews",
+            "text": "NASA indefinitely delays private astronaut mission, citing air leak in Russian module",
+            "source_link": "https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T21:39:39.173566Z",
+            "shown_at": [
+                "2025-06-12T21:39:39.740312Z"
+            ]
+        },
+        {
+            "id": "3dda53c7d0964b35ed25471df76b0e9a",
+            "source": "breaking_defense",
+            "text": "Nine steps to make Golden Dome a true success",
+            "source_link": "https://breakingdefense.com/2025/06/nine-steps-to-make-golden-dome-a-true-success/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T18:02:35.410533Z",
+            "shown_at": [
+                "2025-06-12T18:02:36.112341Z",
+                "2025-06-13T00:02:11.815308Z"
+            ]
+        },
+        {
+            "id": "86b4de04833859a3573eabd7802795a6",
+            "source": "spacenews",
+            "text": "Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma",
+            "source_link": "https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T12:11:42.920363Z",
+            "shown_at": [
+                "2025-06-12T12:11:43.966141Z",
+                "2025-06-12T17:05:37.596093Z"
+            ]
+        },
+        {
+            "id": "8e59ca58892c8f452cd0715e102a8d60",
+            "source": "spacenews",
+            "text": "Muon Space raises $90 million to scale satellite production and acquire propulsion startup",
+            "source_link": "https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T11:15:36.358634Z",
+            "shown_at": [
+                "2025-06-12T11:15:37.083067Z"
+            ]
+        },
+        {
+            "id": "7477596b260237bd0bf2ee93bf2d512b",
+            "source": "spacenews",
+            "text": "Voyager looks to expanded defense and space opportunities as a public company",
+            "source_link": "https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-12T08:51:46.305813Z",
+            "shown_at": [
+                "2025-06-12T08:51:46.888476Z"
+            ]
+        },
         {
             "id": "981719485e7e0a72cab690300e0cb58a",
             "source": "spacenews",
@@ -9986,181 +10072,6 @@
             "fetched_datetime": "2025-04-08T13:15:36.631901Z",
             "shown_at": [
                 "2025-04-08T13:53:29.310252Z"
-            ]
-        },
-        {
-            "id": "58e94a5465fb4cbf4a858acf84f2cd9e",
-            "source": "spacenews",
-            "text": "Umbra to develop maritime surveillance satellites for U.S. military",
-            "source_link": "https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631862Z",
-            "shown_at": [
-                "2025-04-08T13:29:49.131766Z",
-                "2025-04-14T06:45:47.322929Z",
-                "2025-04-15T08:33:36.348847Z"
-            ]
-        },
-        {
-            "id": "af78ce6d62e3bfb72ff1f445edb6d48a",
-            "source": "spacenews",
-            "text": "SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions",
-            "source_link": "https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631809Z",
-            "shown_at": [
-                "2025-04-08T13:15:37.547878Z",
-                "2025-04-10T03:49:43.656006Z",
-                "2025-04-11T16:39:36.794802Z"
-            ]
-        },
-        {
-            "id": "806ef88d23d137cd20a0ca14c2d62ad1",
-            "source": "spacenews",
-            "text": "To build new weather satellite instruments, L3Harris opts for automated manufacturing",
-            "source_link": "https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T12:43:55.188930Z",
-            "shown_at": [
-                "2025-04-08T12:43:55.792615Z"
-            ]
-        },
-        {
-            "id": "907da969e3fea6b540bd292feb968c53",
-            "source": "spacenews",
-            "text": "NASA developing options for agency restructuring in “unsettling” environment",
-            "source_link": "https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:59:48.570390Z",
-            "shown_at": [
-                "2025-04-08T11:59:49.573818Z",
-                "2025-04-14T18:27:47.515322Z"
-            ]
-        },
-        {
-            "id": "103fac8c0cf312cc097e017278a685a8",
-            "source": "spacenews",
-            "text": "Space Force to revamp training for a new era of space conflict",
-            "source_link": "https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:31:50.326768Z",
-            "shown_at": [
-                "2025-04-08T11:31:51.138799Z"
-            ]
-        },
-        {
-            "id": "f12ef53732643518eee86886cca80e7a",
-            "source": "spacenews",
-            "text": "Artemis 2 preparations continue as doubts swirl around program’s future",
-            "source_link": "https://spacenews.com/artemis-2-preparations-continue-as-doubts-swirl-around-programs-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T11:17:32.625821Z",
-            "shown_at": [
-                "2025-04-08T11:17:33.193016Z",
-                "2025-04-11T01:17:58.395364Z"
-            ]
-        },
-        {
-            "id": "91cc08d89ebc6350ed251237b86c4eb9",
-            "source": "spacenews",
-            "text": "Aitech unveils IQSat, a picosatellite for AI applications",
-            "source_link": "https://spacenews.com/aitech-unveils-iqsat-a-picosatellite-for-ai-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T10:45:32.245876Z",
-            "shown_at": [
-                "2025-04-08T10:45:32.819537Z"
-            ]
-        },
-        {
-            "id": "7477596b260237bd0bf2ee93bf2d512b",
-            "source": "spacenews",
-            "text": "Voyager looks to expanded defense and space opportunities as a public company",
-            "source_link": "https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T08:51:46.305813Z",
-            "shown_at": [
-                "2025-06-12T08:51:46.888476Z"
-            ]
-        },
-        {
-            "id": "8e59ca58892c8f452cd0715e102a8d60",
-            "source": "spacenews",
-            "text": "Muon Space raises $90 million to scale satellite production and acquire propulsion startup",
-            "source_link": "https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T11:15:36.358634Z",
-            "shown_at": [
-                "2025-06-12T11:15:37.083067Z"
-            ]
-        },
-        {
-            "id": "86b4de04833859a3573eabd7802795a6",
-            "source": "spacenews",
-            "text": "Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma",
-            "source_link": "https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T12:11:42.920363Z",
-            "shown_at": [
-                "2025-06-12T12:11:43.966141Z",
-                "2025-06-12T17:05:37.596093Z"
-            ]
-        },
-        {
-            "id": "3dda53c7d0964b35ed25471df76b0e9a",
-            "source": "breaking_defense",
-            "text": "Nine steps to make Golden Dome a true success",
-            "source_link": "https://breakingdefense.com/2025/06/nine-steps-to-make-golden-dome-a-true-success/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T18:02:35.410533Z",
-            "shown_at": [
-                "2025-06-12T18:02:36.112341Z"
-            ]
-        },
-        {
-            "id": "8c3ce2c6d7f99aecc6386e4d8a1c179c",
-            "source": "spacenews",
-            "text": "NASA indefinitely delays private astronaut mission, citing air leak in Russian module",
-            "source_link": "https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T21:39:39.173566Z",
-            "shown_at": [
-                "2025-06-12T21:39:39.740312Z"
-            ]
-        },
-        {
-            "id": "c724c0dcbe5db1f80dd8a67dbcdf7be9",
-            "source": "spacenews",
-            "text": "Logos nets $50 million to advance plans for more than 4,000 broadband satellites",
-            "source_link": "https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T22:21:33.911092Z",
-            "shown_at": [
-                "2025-06-12T22:21:34.423687Z"
-            ]
-        },
-        {
-            "id": "2274623f6672ff39811865814cdb1c4c",
-            "source": "spacenews",
-            "text": "House appropriators advance defense bill, slam White House for budget delay",
-            "source_link": "https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T23:19:25.297835Z",
-            "shown_at": [
-                "2025-06-12T23:19:26.052636Z"
             ]
         }
     ]

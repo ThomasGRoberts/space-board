@@ -3,20 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 27 | 50 |
-| breaking_defense | 1 | 3 | 24 | 41 |
+| breaking_defense | 1 | 3 | 25 | 42 |
 | nyt | 0 | 3 | 25 | 41 |
 | supercluster | 0 | 1 | 168 | 209 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Apr 08, 10:45 AM** - Aitech unveils IQSat, a picosatellite for AI applications (spacenews)
-- **Apr 08, 11:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
-- **Apr 08, 11:31 AM** - Space Force to revamp training for a new era of space conflict (spacenews)
-- **Apr 08, 11:59 AM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
-- **Apr 08, 12:43 PM** - To build new weather satellite instruments, L3Harris opts for automated manufacturing (spacenews)
-- **Apr 08, 01:15 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
-- **Apr 08, 01:29 PM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 08, 01:53 PM** - How Space Systems Command is navigating change (spacenews)
 - **Apr 08, 03:26 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 08, 04:58 PM** - GITAI creates US defense subsidiary to chase prime government contracts (spacenews)
@@ -69,7 +62,6 @@
 - **Apr 10, 01:27 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
 - **Apr 10, 02:11 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 10, 02:39 AM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
-- **Apr 10, 03:49 AM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
 - **Apr 10, 04:31 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 10, 04:45 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 10, 05:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
@@ -112,7 +104,6 @@
 - **Apr 10, 11:19 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 10, 11:35 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 10, 11:49 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
-- **Apr 11, 01:17 AM** - Artemis 2 preparations continue as doubts swirl around program’s future (spacenews)
 - **Apr 11, 01:47 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 11, 03:55 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 11, 04:09 AM** - Effort to Get Starlink in South Africa Collides With Tension Over Musk (nyt)
@@ -139,7 +130,6 @@
 - **Apr 11, 02:11 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)
 - **Apr 11, 02:49 PM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 11, 03:43 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
-- **Apr 11, 04:39 PM** - SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions (spacenews)
 - **Apr 11, 05:11 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 11, 06:10 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 07:07 PM** - Space industry confronts twin disruptors: AI and geopolitics (spacenews)
@@ -212,7 +202,6 @@
 - **Apr 14, 05:17 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 05:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 06:17 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
-- **Apr 14, 06:45 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 14, 07:45 AM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
 - **Apr 14, 08:09 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 14, 08:33 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
@@ -234,7 +223,6 @@
 - **Apr 14, 05:29 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 14, 05:43 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 06:12 PM** - Blue Origin Crew of 6 Women, Including Gayle King and Katy Perry, Land Safely After Space Trip (nyt)
-- **Apr 14, 06:27 PM** - NASA developing options for agency restructuring in “unsettling” environment (spacenews)
 - **Apr 14, 06:41 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 14, 06:55 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 07:13 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
@@ -280,7 +268,6 @@
 - **Apr 15, 07:35 AM** - White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks. (aidy)
 - **Apr 15, 07:49 AM** - Space Force takes ownership of first Meadowlands satellite jammer (breaking_defense)
 - **Apr 15, 08:03 AM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
-- **Apr 15, 08:33 AM** - Umbra to develop maritime surveillance satellites for U.S. military (spacenews)
 - **Apr 15, 08:47 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 15, 09:01 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 15, 09:15 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
@@ -4590,3 +4577,4 @@
 - **Jun 12, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 12, 11:47 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 13, 12:02 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
