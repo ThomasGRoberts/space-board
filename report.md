@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 53 |
-| breaking_defense | 2 | 3 | 23 | 47 |
+| breaking_defense | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -4494,3 +4494,4 @@
 - **Jun 13, 11:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 11:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 11:43 PM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
+- **Jun 13, 11:57 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
