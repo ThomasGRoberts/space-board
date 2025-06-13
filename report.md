@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 26 | 53 |
+| spacenews | 7 | 19 | 27 | 54 |
 | breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4449,3 +4449,4 @@
 - **Jun 13, 09:55 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 13, 10:09 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 13, 10:23 AM** - Musk-Trump dispute includes threats to SpaceX contracts (spacenews)
+- **Jun 13, 10:37 AM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)

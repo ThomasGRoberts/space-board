@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efd31b1b42e3f9d50f0d6aa6906adbfa",
+    "trigger_count": 0,
+    "current_item_id": "c189a376c07ab028f2420311c4e4a7b8",
     "data": [
         {
             "id": "2274623f6672ff39811865814cdb1c4c",
@@ -9954,6 +9954,18 @@
             "fetched_datetime": "2025-06-13T07:33:42.568754Z",
             "shown_at": [
                 "2025-06-13T07:33:43.361226Z"
+            ]
+        },
+        {
+            "id": "c189a376c07ab028f2420311c4e4a7b8",
+            "source": "spacenews",
+            "text": "CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo",
+            "source_link": "https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T10:37:10.449577Z",
+            "shown_at": [
+                "2025-06-13T10:37:11.056346Z"
             ]
         }
     ]
