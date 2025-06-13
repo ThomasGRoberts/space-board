@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 40 |
 | nyt | 0 | 3 | 24 | 40 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4398,3 +4398,4 @@
 - **Jun 13, 04:51 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 13, 05:11 AM** - NASA’s ESCAPADE could launch on second New Glenn (spacenews)
 - **Jun 13, 05:25 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 13, 05:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
