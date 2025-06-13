@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 25 | 50 |
+| spacenews | 6 | 17 | 26 | 51 |
 | breaking_defense | 1 | 3 | 24 | 42 |
 | nyt | 0 | 3 | 23 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4416,3 +4416,4 @@
 - **Jun 13, 06:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 06:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 06:51 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 13, 07:05 AM** - Electron launches third iQPS satellite in three months (spacenews)
