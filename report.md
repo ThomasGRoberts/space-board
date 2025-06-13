@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 25 | 52 |
+| spacenews | 6 | 11 | 26 | 53 |
 | breaking_defense | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4483,3 +4483,4 @@
 - **Jun 13, 10:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 10:43 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 10:45 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 10:47 PM** - Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies (spacenews)
