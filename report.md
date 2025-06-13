@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 57 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -4432,3 +4432,4 @@
 - **Jun 13, 05:33 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 05:35 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 05:37 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
+- **Jun 13, 05:51 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
