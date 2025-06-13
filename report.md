@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
-| breaking_defense | 1 | 3 | 22 | 46 |
+| breaking_defense | 1 | 3 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -4422,3 +4422,4 @@
 - **Jun 13, 04:37 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 04:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 04:41 PM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
+- **Jun 13, 04:55 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
