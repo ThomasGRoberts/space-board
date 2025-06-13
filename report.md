@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 25 | 55 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| spacenews | 7 | 16 | 26 | 56 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -4452,3 +4452,4 @@
 - **Jun 13, 07:37 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 07:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 07:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 07:43 PM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
