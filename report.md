@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 46 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4417,3 +4417,4 @@
 - **Jun 13, 03:17 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 13, 04:29 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 04:31 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 04:33 PM** - China Will Launch the Long March 2D Rocket (supercluster)
