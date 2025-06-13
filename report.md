@@ -6,6 +6,7 @@
 | breaking_defense | 1 | 3 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4414,3 +4415,4 @@
 - **Jun 13, 02:49 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 13, 03:03 PM** - Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors (spacenews)
 - **Jun 13, 03:17 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
+- **Jun 13, 03:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
