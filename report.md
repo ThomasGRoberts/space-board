@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -4452,3 +4452,4 @@
 - **Jun 13, 10:37 AM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
 - **Jun 13, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
