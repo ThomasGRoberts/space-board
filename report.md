@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 27 | 50 |
 | breaking_defense | 1 | 3 | 25 | 41 |
 | nyt | 0 | 3 | 24 | 41 |
-| supercluster | 0 | 1 | 168 | 218 |
+| supercluster | 0 | 1 | 168 | 219 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4591,3 +4591,4 @@
 - **Jun 13, 01:14 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
 - **Jun 13, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 13, 01:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 13, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
