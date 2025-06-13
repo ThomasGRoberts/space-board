@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 26 | 54 |
-| breaking_defense | 1 | 3 | 23 | 43 |
+| breaking_defense | 1 | 3 | 24 | 44 |
 | nyt | 0 | 3 | 23 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 57 | 57 |
@@ -4457,3 +4457,4 @@
 - **Jun 13, 10:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 11:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 11:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 11:05 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
