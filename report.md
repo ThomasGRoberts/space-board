@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 25 | 56 |
 | breaking_defense | 1 | 3 | 23 | 46 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -4423,3 +4423,4 @@
 - **Jun 13, 04:39 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 04:41 PM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
 - **Jun 13, 04:55 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 13, 05:09 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
