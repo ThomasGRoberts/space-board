@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 57 |
-| breaking_defense | 0 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 23 | 45 |
+| breaking_defense | 0 | 1 | 23 | 46 |
+| nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4442,3 +4442,4 @@
 - **Jun 13, 06:29 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 06:32 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 06:33 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
+- **Jun 13, 06:47 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
