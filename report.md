@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -4461,3 +4461,4 @@
 - **Jun 13, 11:19 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 13, 11:33 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
 - **Jun 13, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 11:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
