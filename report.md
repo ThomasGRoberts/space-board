@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 24 | 45 |
 | nyt | 0 | 3 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4480,3 +4480,4 @@
 - **Jun 13, 12:57 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 13, 01:11 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 13, 01:25 PM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
+- **Jun 13, 01:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
