@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4445,3 +4445,4 @@
 - **Jun 13, 06:47 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 13, 07:01 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 13, 07:15 PM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 13, 07:29 PM** - China Will Launch the Long March 2D Rocket (supercluster)
