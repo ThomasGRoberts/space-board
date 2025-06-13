@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 26 | 51 |
+| spacenews | 7 | 18 | 27 | 52 |
 | breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4428,3 +4428,4 @@
 - **Jun 13, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 08:03 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 08:17 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
+- **Jun 13, 08:32 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
