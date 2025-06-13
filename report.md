@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 26 | 54 |
-| breaking_defense | 1 | 3 | 23 | 44 |
+| breaking_defense | 1 | 3 | 23 | 43 |
 | nyt | 0 | 3 | 24 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4460,3 +4460,4 @@
 - **Jun 13, 11:05 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 13, 11:19 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 13, 11:33 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
+- **Jun 13, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
