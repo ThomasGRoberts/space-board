@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 55 |
-| breaking_defense | 2 | 3 | 22 | 47 |
+| breaking_defense | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -4464,3 +4464,4 @@
 - **Jun 13, 08:51 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 08:53 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 08:55 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
+- **Jun 13, 09:09 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
