@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 27 | 57 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| spacenews | 8 | 17 | 27 | 56 |
+| breaking_defense | 2 | 3 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -4454,3 +4454,4 @@
 - **Jun 13, 07:41 PM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 13, 07:43 PM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
 - **Jun 13, 07:58 PM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
+- **Jun 13, 08:13 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
