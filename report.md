@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 42 |
 | nyt | 0 | 3 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4420,3 +4420,4 @@
 - **Jun 13, 07:19 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 13, 07:33 AM** - French SSA company Look Up raises 50 million euros (spacenews)
 - **Jun 13, 07:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
