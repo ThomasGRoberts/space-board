@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 26 | 51 |
+| spacenews | 7 | 18 | 27 | 52 |
 | breaking_defense | 1 | 3 | 23 | 42 |
 | nyt | 0 | 3 | 24 | 42 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4418,3 +4418,4 @@
 - **Jun 13, 06:51 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 07:05 AM** - Electron launches third iQPS satellite in three months (spacenews)
 - **Jun 13, 07:19 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 13, 07:33 AM** - French SSA company Look Up raises 50 million euros (spacenews)
