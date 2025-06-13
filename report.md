@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 42 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -4440,3 +4440,4 @@
 - **Jun 13, 09:13 AM** - Trump Has Options to Punish Musk Even if His Federal Contracts Continue (nyt)
 - **Jun 13, 09:27 AM** - Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies (spacenews)
 - **Jun 13, 09:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 09:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
