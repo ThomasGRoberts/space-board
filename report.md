@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 42 |
 | nyt | 0 | 3 | 24 | 43 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -4431,3 +4431,4 @@
 - **Jun 13, 08:32 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
 - **Jun 13, 08:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 08:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 08:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
