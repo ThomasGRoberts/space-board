@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 49 |
 | breaking_defense | 1 | 3 | 24 | 40 |
-| nyt | 0 | 3 | 23 | 40 |
+| nyt | 0 | 3 | 24 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -4387,3 +4387,4 @@
 - **Jun 13, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 03:53 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 13, 04:07 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
+- **Jun 13, 04:21 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
