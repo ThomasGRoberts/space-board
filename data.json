@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+    "trigger_count": 0,
+    "current_item_id": "e06f2931b894331aff5be656b136787a",
     "data": [
         {
             "id": "2274623f6672ff39811865814cdb1c4c",
@@ -9948,6 +9948,18 @@
                 "2025-06-13T16:35:40.435246Z",
                 "2025-06-13T16:37:40.482008Z",
                 "2025-06-13T16:39:05.120366Z"
+            ]
+        },
+        {
+            "id": "e06f2931b894331aff5be656b136787a",
+            "source": "spacenews",
+            "text": "“The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market",
+            "source_link": "https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T16:41:47.178335Z",
+            "shown_at": [
+                "2025-06-13T16:41:48.199915Z"
             ]
         }
     ]
