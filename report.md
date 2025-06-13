@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 56 |
+| spacenews | 7 | 17 | 25 | 56 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4435,3 +4435,4 @@
 - **Jun 13, 05:51 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 13, 06:05 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 13, 06:19 PM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 13, 06:21 PM** - China Will Launch the Long March 2D Rocket (supercluster)
