@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
-    "trigger_count": 0,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 1,
+    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
     "data": [
         {
             "id": "2274623f6672ff39811865814cdb1c4c",
@@ -9932,15 +9932,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-12-26",
-            "shown": false,
+            "text": "China Will Launch the Long March 2D Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2dgg",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-13T15:29:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-13T16:27:32.180133Z"
+            "target_datetime": "2025-06-14T07:55:00.000Z",
+            "time_remaining": "0d 15h 25m",
+            "fetched_datetime": "2025-06-13T16:29:24.548958Z",
+            "shown_at": [
+                "2025-06-13T16:29:25.139362Z"
+            ]
         }
     ]
 }
