@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 26 | 49 |
-| breaking_defense | 1 | 3 | 24 | 40 |
+| breaking_defense | 1 | 3 | 23 | 40 |
 | nyt | 0 | 3 | 24 | 41 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4389,3 +4389,4 @@
 - **Jun 13, 04:07 AM** - Lawmakers find common ground on space but Golden Dome sparks divide (spacenews)
 - **Jun 13, 04:21 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 13, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
