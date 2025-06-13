@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 3 | 23 | 44 |
 | nyt | 0 | 3 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
 
@@ -4472,3 +4472,4 @@
 - **Jun 13, 12:29 PM** - Reaction Dynamics prepares for takeoff (spacenews)
 - **Jun 13, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 13, 12:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 13, 12:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
