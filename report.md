@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 24 | 47 |
+| breaking_defense | 2 | 3 | 23 | 47 |
 | spacenews | 5 | 11 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4475,3 +4475,4 @@
 - **Jun 14, 11:45 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
 - **Jun 14, 11:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 12:01 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 12:03 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
