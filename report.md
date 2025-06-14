@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
-| spacenews | 6 | 12 | 27 | 53 |
+| spacenews | 6 | 12 | 27 | 52 |
 | supercluster | 1 | 1 | 83 | 83 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4518,3 +4518,4 @@
 - **Jun 14, 03:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 03:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 03:41 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
+- **Jun 14, 03:55 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
