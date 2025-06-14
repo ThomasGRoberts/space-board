@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 23 | 47 |
 | spacenews | 4 | 10 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -4495,3 +4495,4 @@
 - **Jun 14, 01:39 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
 - **Jun 14, 01:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 01:55 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 01:57 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
