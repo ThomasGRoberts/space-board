@@ -6,7 +6,7 @@
 | spacenews | 3 | 11 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -4563,3 +4563,4 @@
 - **Jun 14, 07:47 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 14, 08:02 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 08:17 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
+- **Jun 14, 08:32 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
