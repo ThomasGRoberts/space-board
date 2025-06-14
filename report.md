@@ -6,7 +6,7 @@
 | spacenews | 4 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4513,3 +4513,4 @@
 - **Jun 14, 03:07 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 14, 03:21 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 03:35 PM** - Is China’s BeiDou a weapon of war? (spacenews)
+- **Jun 14, 03:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
