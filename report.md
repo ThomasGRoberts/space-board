@@ -6,7 +6,7 @@
 | spacenews | 3 | 11 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -4565,3 +4565,4 @@
 - **Jun 14, 08:17 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 14, 08:32 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 08:33 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 08:35 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
