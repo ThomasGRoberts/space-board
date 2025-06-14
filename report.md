@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 25 | 48 |
 | spacenews | 3 | 10 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 92 | 92 |
 
@@ -4581,3 +4581,4 @@
 - **Jun 14, 09:37 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 09:39 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 09:41 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 14, 09:55 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
