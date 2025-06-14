@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 23 | 47 |
+| breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 5 | 11 | 26 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4450,3 +4450,4 @@
 - **Jun 14, 07:45 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 08:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 08:57 AM** - Is China’s BeiDou a weapon of war? (spacenews)
+- **Jun 14, 09:11 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
