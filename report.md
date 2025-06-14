@@ -6,7 +6,7 @@
 | spacenews | 4 | 11 | 26 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4553,3 +4553,4 @@
 - **Jun 14, 06:51 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 14, 07:05 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 07:19 PM** - China launches new seismo-electromagnetic satellite with European partners (spacenews)
+- **Jun 14, 07:33 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
