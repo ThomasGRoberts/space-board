@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-14T00:02:01.708431+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8eea6516d9088915897c6491b8414fc3",
+    "trigger_count": 0,
+    "current_item_id": "af4fc6a95b12234c97613b4a497a3011",
     "data": [
         {
             "id": "4ab76bf35f7bcfb07cf922ef08521205",
@@ -9973,6 +9973,18 @@
                 "2025-04-11T05:07:42.936247Z",
                 "2025-04-12T20:27:45.384648Z",
                 "2025-04-13T00:40:11.846642Z"
+            ]
+        },
+        {
+            "id": "af4fc6a95b12234c97613b4a497a3011",
+            "source": "spacenews",
+            "text": "American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval",
+            "source_link": "https://spacenews.com/american-pacific-corporation-finalizes-100-million-capacity-expansion-with-parent-company-approval/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-14T00:25:38.571778Z",
+            "shown_at": [
+                "2025-06-14T00:25:39.374363Z"
             ]
         }
     ]
