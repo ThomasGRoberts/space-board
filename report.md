@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 47 |
-| spacenews | 5 | 11 | 25 | 50 |
+| spacenews | 5 | 11 | 26 | 51 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4449,3 +4449,4 @@
 - **Jun 14, 07:31 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 14, 07:45 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 08:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 08:57 AM** - Is China’s BeiDou a weapon of war? (spacenews)
