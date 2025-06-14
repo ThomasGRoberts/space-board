@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 25 | 48 |
 | spacenews | 6 | 12 | 27 | 52 |
 | supercluster | 1 | 1 | 104 | 104 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4548,3 +4548,4 @@
 - **Jun 14, 06:29 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 06:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 06:33 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 14, 06:47 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
