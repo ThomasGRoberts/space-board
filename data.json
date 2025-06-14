@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-14T00:02:01.708431+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b46805f9bf4358bd72d4c05466968fc7",
+    "trigger_count": 0,
+    "current_item_id": "0b6893d057542bf9a13356834810124c",
     "data": [
         {
             "id": "4ab76bf35f7bcfb07cf922ef08521205",
@@ -9977,6 +9977,18 @@
                 "2025-06-14T10:57:24.417273Z",
                 "2025-06-14T10:59:25.423000Z",
                 "2025-06-14T11:01:54.738345Z"
+            ]
+        },
+        {
+            "id": "0b6893d057542bf9a13356834810124c",
+            "source": "spacenews",
+            "text": "ESA studying impacts of proposed NASA budget cuts",
+            "source_link": "https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-14T11:45:38.580333Z",
+            "shown_at": [
+                "2025-06-14T11:45:40.122955Z"
             ]
         }
     ]
