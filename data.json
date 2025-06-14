@@ -1,9 +1,165 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-13T00:02:06.172719+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-06-14T00:02:01.708431+00:00",
+    "trigger_count": 2,
     "current_item_id": "43e78b1feac74ab11d8ed7ec0ce79364",
     "data": [
+        {
+            "id": "4ab76bf35f7bcfb07cf922ef08521205",
+            "source": "breaking_defense",
+            "text": "Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language",
+            "source_link": "https://breakingdefense.com/2025/06/senate-republicans-very-close-to-deal-to-protect-key-dod-spectrum-in-reconciliation-language/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T20:13:29.859868Z",
+            "shown_at": [
+                "2025-06-13T20:13:30.401976Z",
+                "2025-06-13T23:01:59.419381Z"
+            ]
+        },
+        {
+            "id": "872b30856d3ef729bfde541be3ba7ef9",
+            "source": "spacenews",
+            "text": "AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement",
+            "source_link": "https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T19:58:13.798887Z",
+            "shown_at": [
+                "2025-06-13T19:58:14.664815Z"
+            ]
+        },
+        {
+            "id": "fc00386d581f771b0a553bf5349a91da",
+            "source": "breaking_defense",
+            "text": "Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities",
+            "source_link": "https://breakingdefense.com/2025/06/planet-labs-inks-seven-figure-deal-with-nato-for-ai-enhanced-surveillance-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T19:01:59.124583Z",
+            "shown_at": [
+                "2025-06-13T19:01:59.723528Z",
+                "2025-06-13T21:09:37.269150Z"
+            ]
+        },
+        {
+            "id": "e06f2931b894331aff5be656b136787a",
+            "source": "spacenews",
+            "text": "“The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market",
+            "source_link": "https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T16:41:47.178335Z",
+            "shown_at": [
+                "2025-06-13T16:41:48.199915Z"
+            ]
+        },
+        {
+            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 2D Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2dgg",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-14T07:55:00.000Z",
+            "time_remaining": "0d 08h 13m",
+            "fetched_datetime": "2025-06-13T16:29:24.548958Z",
+            "shown_at": [
+                "2025-06-13T16:29:25.139362Z",
+                "2025-06-13T16:31:40.239934Z",
+                "2025-06-13T16:33:48.758148Z",
+                "2025-06-13T16:35:40.435246Z",
+                "2025-06-13T16:37:40.482008Z",
+                "2025-06-13T16:39:05.120366Z",
+                "2025-06-13T17:23:34.538898Z",
+                "2025-06-13T17:25:31.743088Z",
+                "2025-06-13T17:27:33.487407Z",
+                "2025-06-13T17:29:30.498062Z",
+                "2025-06-13T17:31:45.902765Z",
+                "2025-06-13T17:33:40.304339Z",
+                "2025-06-13T17:35:34.797246Z",
+                "2025-06-13T18:19:39.730983Z",
+                "2025-06-13T18:21:37.028473Z",
+                "2025-06-13T18:23:24.296584Z",
+                "2025-06-13T18:25:38.517173Z",
+                "2025-06-13T18:27:30.202297Z",
+                "2025-06-13T18:29:31.349783Z",
+                "2025-06-13T18:32:00.671761Z",
+                "2025-06-13T19:29:28.201930Z",
+                "2025-06-13T19:31:43.605374Z",
+                "2025-06-13T19:33:24.297218Z",
+                "2025-06-13T19:35:15.510291Z",
+                "2025-06-13T19:37:38.612917Z",
+                "2025-06-13T19:39:41.555894Z",
+                "2025-06-13T19:41:34.252367Z",
+                "2025-06-13T20:41:50.572051Z",
+                "2025-06-13T20:43:28.263830Z",
+                "2025-06-13T20:45:28.960366Z",
+                "2025-06-13T20:47:22.356197Z",
+                "2025-06-13T20:49:37.622179Z",
+                "2025-06-13T20:51:37.202637Z",
+                "2025-06-13T20:53:34.460398Z",
+                "2025-06-13T21:37:21.735140Z",
+                "2025-06-13T21:39:27.639247Z",
+                "2025-06-13T21:41:32.731911Z",
+                "2025-06-13T21:43:34.158792Z",
+                "2025-06-13T21:45:34.922235Z",
+                "2025-06-13T21:47:22.064190Z",
+                "2025-06-13T21:49:31.241472Z",
+                "2025-06-13T22:33:11.841970Z",
+                "2025-06-13T22:35:43.774248Z",
+                "2025-06-13T22:37:36.747147Z",
+                "2025-06-13T22:39:21.979182Z",
+                "2025-06-13T22:41:45.700568Z",
+                "2025-06-13T22:43:23.475535Z",
+                "2025-06-13T22:45:34.809773Z",
+                "2025-06-13T23:29:37.761369Z",
+                "2025-06-13T23:31:39.934324Z",
+                "2025-06-13T23:33:36.264164Z",
+                "2025-06-13T23:35:25.488631Z",
+                "2025-06-13T23:37:35.237863Z",
+                "2025-06-13T23:39:24.121177Z",
+                "2025-06-13T23:41:43.171141Z"
+            ]
+        },
+        {
+            "id": "97dadc48476750932c087858e5ccd8da",
+            "source": "spacenews",
+            "text": "Is AI the next frontier in spacecraft design, or just a shiny buzzword?",
+            "source_link": "https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T13:11:53.780665Z",
+            "shown_at": [
+                "2025-06-13T13:11:54.488304Z",
+                "2025-06-13T17:37:36.005715Z"
+            ]
+        },
+        {
+            "id": "c189a376c07ab028f2420311c4e4a7b8",
+            "source": "spacenews",
+            "text": "CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo",
+            "source_link": "https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T10:37:10.449577Z",
+            "shown_at": [
+                "2025-06-13T10:37:11.056346Z",
+                "2025-06-13T19:43:39.683268Z"
+            ]
+        },
+        {
+            "id": "05402b0869716f6d51391d791fa7c726",
+            "source": "spacenews",
+            "text": "French SSA company Look Up raises 50 million euros",
+            "source_link": "https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-13T07:33:42.568754Z",
+            "shown_at": [
+                "2025-06-13T07:33:43.361226Z"
+            ]
+        },
         {
             "id": "2274623f6672ff39811865814cdb1c4c",
             "source": "spacenews",
@@ -9816,256 +9972,6 @@
                 "2025-04-11T05:07:42.936247Z",
                 "2025-04-12T20:27:45.384648Z",
                 "2025-04-13T00:40:11.846642Z"
-            ]
-        },
-        {
-            "id": "e66c39355ccae663361c4e8a514d9983",
-            "source": "breaking_defense",
-            "text": "‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators",
-            "source_link": "https://breakingdefense.com/2025/04/hell-of-a-body-blow-ukraine-shift-may-stir-market-headwinds-for-us-sar-sat-operators/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T18:58:43.393059Z",
-            "shown_at": [
-                "2025-04-09T01:08:22.380165Z",
-                "2025-04-09T15:45:30.878945Z",
-                "2025-04-11T12:59:44.400557Z",
-                "2025-04-15T18:33:27.245362Z"
-            ]
-        },
-        {
-            "id": "4cea0ea2c84b6699a06e72266cbbfb69",
-            "source": "spacenews",
-            "text": "GomSpace and Neuraspace partner to advance satellite collision avoidance",
-            "source_link": "https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622056Z",
-            "shown_at": [
-                "2025-04-09T01:23:32.697800Z",
-                "2025-04-10T02:39:44.682558Z",
-                "2025-04-14T16:59:44.528719Z"
-            ]
-        },
-        {
-            "id": "21f2d9fd0ed79feb25d5c252255af891",
-            "source": "spacenews",
-            "text": "RTX’s Blue Canyon Technologies introduces new reaction wheel",
-            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.622021Z",
-            "shown_at": [
-                "2025-04-09T01:53:36.661038Z"
-            ]
-        },
-        {
-            "id": "571300816217fe8f01f1de6bc620b402",
-            "source": "spacenews",
-            "text": "Lunar lander operators cite  growing demand beyond NASA",
-            "source_link": "https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621985Z",
-            "shown_at": [
-                "2025-04-09T02:21:44.131124Z",
-                "2025-04-12T22:03:24.109833Z",
-                "2025-04-14T03:35:59.218082Z"
-            ]
-        },
-        {
-            "id": "66db5a8773934755d2bc5e3a936f55fe",
-            "source": "spacenews",
-            "text": "GITAI creates US defense subsidiary to chase prime government contracts",
-            "source_link": "https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621939Z",
-            "shown_at": [
-                "2025-04-08T16:58:10.619098Z"
-            ]
-        },
-        {
-            "id": "4cabb41bfb766bd79843ef1415fc0441",
-            "source": "spacenews",
-            "text": "Space nuclear power poised for breakthroughs — if NASA and DoD stay committed",
-            "source_link": "https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T15:26:44.621886Z",
-            "shown_at": [
-                "2025-04-08T15:26:45.373823Z",
-                "2025-04-09T03:59:51.127627Z",
-                "2025-04-10T06:11:35.883869Z",
-                "2025-04-14T21:33:24.483593Z"
-            ]
-        },
-        {
-            "id": "cd3407e76b1db812eb352014c1d7c41f",
-            "source": "spacenews",
-            "text": "How Space Systems Command is navigating change",
-            "source_link": "https://spacenews.com/how-space-systems-command-is-navigating-change/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-08T13:15:36.631901Z",
-            "shown_at": [
-                "2025-04-08T13:53:29.310252Z"
-            ]
-        },
-        {
-            "id": "05402b0869716f6d51391d791fa7c726",
-            "source": "spacenews",
-            "text": "French SSA company Look Up raises 50 million euros",
-            "source_link": "https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T07:33:42.568754Z",
-            "shown_at": [
-                "2025-06-13T07:33:43.361226Z"
-            ]
-        },
-        {
-            "id": "c189a376c07ab028f2420311c4e4a7b8",
-            "source": "spacenews",
-            "text": "CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo",
-            "source_link": "https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T10:37:10.449577Z",
-            "shown_at": [
-                "2025-06-13T10:37:11.056346Z",
-                "2025-06-13T19:43:39.683268Z"
-            ]
-        },
-        {
-            "id": "97dadc48476750932c087858e5ccd8da",
-            "source": "spacenews",
-            "text": "Is AI the next frontier in spacecraft design, or just a shiny buzzword?",
-            "source_link": "https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T13:11:53.780665Z",
-            "shown_at": [
-                "2025-06-13T13:11:54.488304Z",
-                "2025-06-13T17:37:36.005715Z"
-            ]
-        },
-        {
-            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 2D Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2dgg",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-14T07:55:00.000Z",
-            "time_remaining": "0d 08h 13m",
-            "fetched_datetime": "2025-06-13T16:29:24.548958Z",
-            "shown_at": [
-                "2025-06-13T16:29:25.139362Z",
-                "2025-06-13T16:31:40.239934Z",
-                "2025-06-13T16:33:48.758148Z",
-                "2025-06-13T16:35:40.435246Z",
-                "2025-06-13T16:37:40.482008Z",
-                "2025-06-13T16:39:05.120366Z",
-                "2025-06-13T17:23:34.538898Z",
-                "2025-06-13T17:25:31.743088Z",
-                "2025-06-13T17:27:33.487407Z",
-                "2025-06-13T17:29:30.498062Z",
-                "2025-06-13T17:31:45.902765Z",
-                "2025-06-13T17:33:40.304339Z",
-                "2025-06-13T17:35:34.797246Z",
-                "2025-06-13T18:19:39.730983Z",
-                "2025-06-13T18:21:37.028473Z",
-                "2025-06-13T18:23:24.296584Z",
-                "2025-06-13T18:25:38.517173Z",
-                "2025-06-13T18:27:30.202297Z",
-                "2025-06-13T18:29:31.349783Z",
-                "2025-06-13T18:32:00.671761Z",
-                "2025-06-13T19:29:28.201930Z",
-                "2025-06-13T19:31:43.605374Z",
-                "2025-06-13T19:33:24.297218Z",
-                "2025-06-13T19:35:15.510291Z",
-                "2025-06-13T19:37:38.612917Z",
-                "2025-06-13T19:39:41.555894Z",
-                "2025-06-13T19:41:34.252367Z",
-                "2025-06-13T20:41:50.572051Z",
-                "2025-06-13T20:43:28.263830Z",
-                "2025-06-13T20:45:28.960366Z",
-                "2025-06-13T20:47:22.356197Z",
-                "2025-06-13T20:49:37.622179Z",
-                "2025-06-13T20:51:37.202637Z",
-                "2025-06-13T20:53:34.460398Z",
-                "2025-06-13T21:37:21.735140Z",
-                "2025-06-13T21:39:27.639247Z",
-                "2025-06-13T21:41:32.731911Z",
-                "2025-06-13T21:43:34.158792Z",
-                "2025-06-13T21:45:34.922235Z",
-                "2025-06-13T21:47:22.064190Z",
-                "2025-06-13T21:49:31.241472Z",
-                "2025-06-13T22:33:11.841970Z",
-                "2025-06-13T22:35:43.774248Z",
-                "2025-06-13T22:37:36.747147Z",
-                "2025-06-13T22:39:21.979182Z",
-                "2025-06-13T22:41:45.700568Z",
-                "2025-06-13T22:43:23.475535Z",
-                "2025-06-13T22:45:34.809773Z",
-                "2025-06-13T23:29:37.761369Z",
-                "2025-06-13T23:31:39.934324Z",
-                "2025-06-13T23:33:36.264164Z",
-                "2025-06-13T23:35:25.488631Z",
-                "2025-06-13T23:37:35.237863Z",
-                "2025-06-13T23:39:24.121177Z",
-                "2025-06-13T23:41:43.171141Z"
-            ]
-        },
-        {
-            "id": "e06f2931b894331aff5be656b136787a",
-            "source": "spacenews",
-            "text": "“The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market",
-            "source_link": "https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T16:41:47.178335Z",
-            "shown_at": [
-                "2025-06-13T16:41:48.199915Z"
-            ]
-        },
-        {
-            "id": "fc00386d581f771b0a553bf5349a91da",
-            "source": "breaking_defense",
-            "text": "Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities",
-            "source_link": "https://breakingdefense.com/2025/06/planet-labs-inks-seven-figure-deal-with-nato-for-ai-enhanced-surveillance-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T19:01:59.124583Z",
-            "shown_at": [
-                "2025-06-13T19:01:59.723528Z",
-                "2025-06-13T21:09:37.269150Z"
-            ]
-        },
-        {
-            "id": "872b30856d3ef729bfde541be3ba7ef9",
-            "source": "spacenews",
-            "text": "AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement",
-            "source_link": "https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T19:58:13.798887Z",
-            "shown_at": [
-                "2025-06-13T19:58:14.664815Z"
-            ]
-        },
-        {
-            "id": "4ab76bf35f7bcfb07cf922ef08521205",
-            "source": "breaking_defense",
-            "text": "Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language",
-            "source_link": "https://breakingdefense.com/2025/06/senate-republicans-very-close-to-deal-to-protect-key-dod-spectrum-in-reconciliation-language/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T20:13:29.859868Z",
-            "shown_at": [
-                "2025-06-13T20:13:30.401976Z",
-                "2025-06-13T23:01:59.419381Z"
             ]
         }
     ]

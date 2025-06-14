@@ -2,27 +2,19 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 53 |
 | breaking_defense | 2 | 3 | 24 | 48 |
+| spacenews | 5 | 11 | 26 | 53 |
+| supercluster | 1 | 1 | 55 | 55 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
-- **Apr 08, 01:53 PM** - How Space Systems Command is navigating change (spacenews)
-- **Apr 08, 03:26 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
-- **Apr 08, 04:58 PM** - GITAI creates US defense subsidiary to chase prime government contracts (spacenews)
-- **Apr 09, 01:08 AM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
-- **Apr 09, 01:23 AM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 09, 01:37 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
-- **Apr 09, 01:53 AM** - RTX’s Blue Canyon Technologies introduces new reaction wheel (spacenews)
 - **Apr 09, 02:07 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
-- **Apr 09, 02:21 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 09, 02:35 AM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 09, 02:49 AM** - Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector (spacenews)
 - **Apr 09, 03:45 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
-- **Apr 09, 03:59 AM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 09, 04:13 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 09, 07:29 AM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 09, 07:58 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
@@ -36,7 +28,6 @@
 - **Apr 09, 02:02 PM** - China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions (spacenews)
 - **Apr 09, 03:01 PM** - The continued momentum of Artemis (spacenews)
 - **Apr 09, 03:17 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
-- **Apr 09, 03:45 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 09, 04:13 PM** - Surge in NATO spending to benefit space sector (spacenews)
 - **Apr 09, 04:41 PM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 09, 04:55 PM** - Space Force to roll out strategy for international collaboration (spacenews)
@@ -61,12 +52,10 @@
 - **Apr 10, 01:13 AM** - Time for Space Force to ‘clearly say’ it needs ‘weapons in space’: SPACECOM head (breaking_defense)
 - **Apr 10, 01:27 AM** - How to accelerate U.S. space acquisition and outpace threats (spacenews)
 - **Apr 10, 02:11 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
-- **Apr 10, 02:39 AM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 10, 04:31 AM** - Launch of First Amazon Project Kuiper Internet Satellites Is Scrubbed (nyt)
 - **Apr 10, 04:45 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 10, 05:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 10, 05:57 AM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
-- **Apr 10, 06:11 AM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 10, 06:55 AM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 10, 07:37 AM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
 - **Apr 10, 09:15 AM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
@@ -124,7 +113,6 @@
 - **Apr 11, 11:47 AM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
 - **Apr 11, 12:17 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 11, 12:45 PM** - Space Force to roll out strategy for international collaboration (spacenews)
-- **Apr 11, 12:59 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 11, 01:13 PM** - Bridging the gap between AI hype and reality (spacenews)
 - **Apr 11, 01:43 PM** - Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon (nyt)
 - **Apr 11, 02:11 PM** - Winning the satellite industry’s most disruptive decade yet (spacenews)
@@ -163,7 +151,6 @@
 - **Apr 12, 08:27 PM** - New Space Force ‘Orbital Watch’ initiative to share threat info with commercial operators (breaking_defense)
 - **Apr 12, 09:22 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 12, 09:43 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
-- **Apr 12, 10:03 PM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 12, 10:27 PM** - SDA opens contest for 54 ‘Tranche 3’ missile tracking satellites (breaking_defense)
 - **Apr 12, 11:21 PM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 13, 12:09 AM** - Space Forge sees LEO as key to strengthening US chip independence (spacenews)
@@ -198,7 +185,6 @@
 - **Apr 13, 11:17 PM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 14, 12:19 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 14, 02:43 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
-- **Apr 14, 03:35 AM** - Lunar lander operators cite  growing demand beyond NASA (spacenews)
 - **Apr 14, 05:17 AM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
 - **Apr 14, 05:49 AM** - Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing (nyt)
 - **Apr 14, 06:17 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
@@ -218,7 +204,6 @@
 - **Apr 14, 04:01 PM** - Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes (aidy)
 - **Apr 14, 04:15 PM** - Orbital power: Shaping national security from space (breaking_defense)
 - **Apr 14, 04:45 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
-- **Apr 14, 04:59 PM** - GomSpace and Neuraspace partner to advance satellite collision avoidance (spacenews)
 - **Apr 14, 05:15 PM** - Catch up on all of SpaceNews’ Space Symposium 2025 coverage (spacenews)
 - **Apr 14, 05:29 PM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 14, 05:43 PM** - EXCLUSIVE: NGA awards new Luno A task order for commercial imagery analysis (breaking_defense)
@@ -233,7 +218,6 @@
 - **Apr 14, 08:37 PM** - Contracts for SSC’s next iteration of MEO missile tracking satellites delayed (breaking_defense)
 - **Apr 14, 09:05 PM** - Jonathan McDowell on Retiring From Harvard and Leaving the U.S. (nyt)
 - **Apr 14, 09:19 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
-- **Apr 14, 09:33 PM** - Space nuclear power poised for breakthroughs — if NASA and DoD stay committed (spacenews)
 - **Apr 14, 09:47 PM** - EXCLUSIVE: Derek Tournear reinstated as Space Development Agency director (breaking_defense)
 - **Apr 14, 10:17 PM** - Live Video: Watch Amazon Launch First Project Kuiper Internet Satellites (nyt)
 - **Apr 14, 10:32 PM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
@@ -301,7 +285,6 @@
 - **Apr 15, 05:37 PM** - Outgrowing Napoleon: How the Space Force can modernize its ranks (spacenews)
 - **Apr 15, 05:51 PM** - Jared Isaacman, Trump’s Pick to Lead NASA, Questioned Over Moon Plans and Elon Musk (nyt)
 - **Apr 15, 06:19 PM** - U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans (aidy)
-- **Apr 15, 06:33 PM** - ‘Hell of a body blow:’ Ukraine shift may stir market headwinds for US SAR-sat operators (breaking_defense)
 - **Apr 15, 06:47 PM** - China launches TJS-17, expanding classified geostationary satellite series (spacenews)
 - **Apr 15, 07:01 PM** - Amazon to Launch First Project Kuiper Internet Satellites: What to Know (nyt)
 - **Apr 15, 07:29 PM** - Senate Advances Space Legislation Amid Space Force's New International Strategy Rollout (aidy)
