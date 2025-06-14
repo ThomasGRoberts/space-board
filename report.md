@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 23 | 48 |
 | spacenews | 6 | 12 | 26 | 52 |
 | supercluster | 1 | 1 | 62 | 62 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4488,3 +4488,4 @@
 - **Jun 14, 12:49 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 12:51 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 12:53 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 14, 01:07 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
