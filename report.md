@@ -6,7 +6,7 @@
 | spacenews | 3 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4533,3 +4533,4 @@
 - **Jun 14, 04:59 PM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 14, 05:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 05:27 PM** - House appropriators unveil defense bill, boost Space Force funding (spacenews)
+- **Jun 14, 05:41 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
