@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 5 | 11 | 26 | 51 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4451,3 +4451,4 @@
 - **Jun 14, 08:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 08:57 AM** - Is China’s BeiDou a weapon of war? (spacenews)
 - **Jun 14, 09:11 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
+- **Jun 14, 09:25 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
