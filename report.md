@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 23 | 48 |
 | spacenews | 6 | 12 | 26 | 53 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4491,3 +4491,4 @@
 - **Jun 14, 01:07 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 01:21 AM** - Europe clears SES-Intelsat deal without conditions (spacenews)
 - **Jun 14, 01:35 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 14, 01:37 AM** - China Will Launch the Long March 2D Rocket (supercluster)
