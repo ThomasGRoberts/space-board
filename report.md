@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
-| spacenews | 6 | 12 | 27 | 52 |
+| spacenews | 6 | 12 | 28 | 53 |
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4539,3 +4539,4 @@
 - **Jun 14, 05:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 05:35 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 14, 05:49 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 14, 06:03 AM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
