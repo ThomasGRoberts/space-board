@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 25 | 48 |
 | spacenews | 3 | 9 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 99 | 99 |
 
@@ -4591,3 +4591,4 @@
 - **Jun 14, 10:35 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 10:37 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 10:39 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 14, 10:53 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
