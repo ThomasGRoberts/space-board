@@ -6,7 +6,7 @@
 | spacenews | 4 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4493,3 +4493,4 @@
 - **Jun 14, 01:11 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 14, 01:25 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 01:39 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
+- **Jun 14, 01:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
