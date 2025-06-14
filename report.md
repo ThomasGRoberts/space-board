@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 25 | 48 |
+| breaking_defense | 1 | 2 | 25 | 47 |
 | spacenews | 3 | 11 | 24 | 51 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 78 | 78 |
 
@@ -4561,3 +4561,4 @@
 - **Jun 14, 07:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 07:45 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 07:47 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 14, 08:02 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
