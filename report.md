@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 24 | 47 |
+| breaking_defense | 2 | 3 | 25 | 48 |
 | spacenews | 6 | 12 | 27 | 53 |
 | supercluster | 1 | 1 | 104 | 104 |
 | nyt | 0 | 0 | 23 | 47 |
@@ -4547,3 +4547,4 @@
 - **Jun 14, 06:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 06:29 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 06:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 14, 06:33 AM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
