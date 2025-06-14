@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 23 | 48 |
 | spacenews | 6 | 12 | 26 | 53 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4480,3 +4480,4 @@
 - **Jun 13, 11:57 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 14, 12:11 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 14, 12:25 AM** - American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval (spacenews)
+- **Jun 14, 12:39 AM** - China Will Launch the Long March 2D Rocket (supercluster)
