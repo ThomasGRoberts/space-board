@@ -6,7 +6,7 @@
 | spacenews | 3 | 8 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -4593,3 +4593,4 @@
 - **Jun 14, 10:39 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 14, 10:53 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 14, 11:07 PM** - Electron launches third iQPS satellite in three months (spacenews)
+- **Jun 14, 11:21 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
