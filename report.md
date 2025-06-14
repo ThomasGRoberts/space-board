@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 47 |
 | spacenews | 5 | 11 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4473,3 +4473,4 @@
 - **Jun 14, 11:17 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 14, 11:31 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 11:45 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
+- **Jun 14, 11:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
