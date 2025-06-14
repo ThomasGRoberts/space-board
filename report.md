@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 24 | 47 |
+| breaking_defense | 2 | 3 | 23 | 47 |
 | spacenews | 4 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4503,3 +4503,4 @@
 - **Jun 14, 02:07 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 14, 02:22 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 02:36 PM** - Voyager looks to expanded defense and space opportunities as a public company (spacenews)
+- **Jun 14, 02:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
