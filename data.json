@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-14T00:02:01.708431+00:00",
-    "trigger_count": 5,
-    "current_item_id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+    "trigger_count": 6,
+    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
     "data": [
         {
             "id": "4ab76bf35f7bcfb07cf922ef08521205",
@@ -9943,17 +9943,17 @@
             ]
         },
         {
-            "id": "c3c6e5c24ffaac3c9a584b17f7415ada",
+            "id": "110293b72efbc6c3cf4f5a3972811451",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 2D Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2dgg",
+            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-2",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-14T07:55:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-14T08:54:04.898451Z",
+            "target_datetime": "2025-06-16T17:25:00.000Z",
+            "time_remaining": "2d 08h 29m",
+            "fetched_datetime": "2025-06-14T08:55:26.565368Z",
             "shown_at": [
-                "2025-06-14T08:54:05.972802Z"
+                "2025-06-14T08:55:27.197249Z"
             ]
         }
     ]
