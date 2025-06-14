@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 4 | 10 | 24 | 50 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -4501,3 +4501,4 @@
 - **Jun 14, 02:03 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 02:05 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 02:07 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 14, 02:22 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
