@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 25 | 48 |
 | spacenews | 6 | 12 | 27 | 52 |
 | supercluster | 1 | 1 | 97 | 97 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4538,3 +4538,4 @@
 - **Jun 14, 05:31 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 05:33 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 05:35 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 14, 05:49 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
