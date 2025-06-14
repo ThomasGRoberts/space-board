@@ -6,7 +6,7 @@
 | spacenews | 4 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4504,3 +4504,4 @@
 - **Jun 14, 02:22 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 02:36 PM** - Voyager looks to expanded defense and space opportunities as a public company (spacenews)
 - **Jun 14, 02:51 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 02:53 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
