@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 6 | 12 | 26 | 52 |
 | supercluster | 1 | 1 | 69 | 69 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4498,3 +4498,4 @@
 - **Jun 14, 01:45 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 01:47 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 01:49 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 14, 02:03 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
