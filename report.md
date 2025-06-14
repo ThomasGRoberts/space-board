@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 25 | 48 |
 | spacenews | 5 | 12 | 26 | 52 |
 | supercluster | 1 | 1 | 111 | 111 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4558,3 +4558,4 @@
 - **Jun 14, 07:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 07:29 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 07:31 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 14, 07:45 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
