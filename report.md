@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 47 |
-| spacenews | 4 | 11 | 24 | 51 |
+| spacenews | 4 | 11 | 24 | 50 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4462,3 +4462,4 @@
 - **Jun 14, 09:53 AM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 14, 10:21 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 14, 10:35 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 14, 10:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
