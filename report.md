@@ -6,7 +6,7 @@
 | spacenews | 3 | 11 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -4573,3 +4573,4 @@
 - **Jun 14, 08:45 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 14, 08:59 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 14, 09:13 PM** - Voyager looks to expanded defense and space opportunities as a public company (spacenews)
+- **Jun 14, 09:27 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
