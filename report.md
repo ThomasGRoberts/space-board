@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 6 | 12 | 27 | 53 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4532,3 +4532,4 @@
 - **Jun 14, 05:07 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
 - **Jun 14, 05:21 AM** - China Will Launch the Long March 2D Rocket (supercluster)
 - **Jun 14, 05:23 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 14, 05:25 AM** - China Will Launch the Long March 2D Rocket (supercluster)
