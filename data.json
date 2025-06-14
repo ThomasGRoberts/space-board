@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-14T00:02:01.708431+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ee89a9a26038105e91517c5f340aa68",
+    "trigger_count": 0,
+    "current_item_id": "3ff0133116833b1c1d8dd8dba9deb349",
     "data": [
         {
             "id": "4ab76bf35f7bcfb07cf922ef08521205",
@@ -10068,6 +10068,18 @@
             "fetched_datetime": "2025-06-14T11:45:38.580333Z",
             "shown_at": [
                 "2025-06-14T11:45:40.122955Z"
+            ]
+        },
+        {
+            "id": "3ff0133116833b1c1d8dd8dba9deb349",
+            "source": "spacenews",
+            "text": "China launches new seismo-electromagnetic satellite with European partners",
+            "source_link": "https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-14T19:19:18.858223Z",
+            "shown_at": [
+                "2025-06-14T19:19:19.873603Z"
             ]
         }
     ]
