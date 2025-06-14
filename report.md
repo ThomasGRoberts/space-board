@@ -6,7 +6,7 @@
 | spacenews | 5 | 10 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4484,3 +4484,4 @@
 - **Jun 14, 12:27 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 14, 12:41 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 14, 12:55 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 12:57 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
