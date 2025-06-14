@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 4 | 10 | 24 | 50 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -4491,3 +4491,4 @@
 - **Jun 14, 01:07 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 01:10 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 01:11 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 14, 01:25 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
