@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 47 |
-| spacenews | 5 | 12 | 25 | 51 |
+| spacenews | 5 | 11 | 25 | 50 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4448,4 +4448,4 @@
 - **Jun 14, 07:02 AM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 14, 07:31 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 14, 07:45 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
-- **Jun 14, 08:51 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Jun 14, 08:54 AM** - China Will Launch the Long March 2D Rocket (supercluster)
