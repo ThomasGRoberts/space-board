@@ -6,7 +6,7 @@
 | spacenews | 3 | 9 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
 
@@ -4585,3 +4585,4 @@
 - **Jun 14, 10:11 PM** - US rural broadband shift opens door wider for Starlink (spacenews)
 - **Jun 14, 10:25 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 10:27 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 10:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
