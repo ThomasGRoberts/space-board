@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 48 |
 | spacenews | 6 | 12 | 27 | 53 |
-| supercluster | 1 | 1 | 76 | 76 |
-| nyt | 0 | 0 | 24 | 47 |
+| supercluster | 1 | 1 | 77 | 77 |
+| nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4510,3 +4510,4 @@
 - **Jun 14, 02:45 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 14, 02:59 AM** - Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76 (nyt)
 - **Jun 14, 03:13 AM** - Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby (spacenews)
+- **Jun 14, 03:27 AM** - China Will Launch the Long March 2D Rocket (supercluster)
