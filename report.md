@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 24 | 47 |
+| breaking_defense | 0 | 2 | 25 | 48 |
 | spacenews | 3 | 8 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4600,3 +4600,4 @@
 - **Jun 14, 11:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 11:31 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 14, 11:33 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 14, 11:35 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
