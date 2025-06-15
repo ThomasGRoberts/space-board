@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 51 |
-| supercluster | 1 | 1 | 164 | 164 |
+| supercluster | 1 | 1 | 165 | 165 |
 | breaking_defense | 0 | 2 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4653,3 +4653,4 @@
 - **Jun 15, 07:37 AM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 15, 07:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 07:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 07:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
