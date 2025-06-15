@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 52 |
-| supercluster | 1 | 1 | 143 | 143 |
+| supercluster | 1 | 1 | 144 | 144 |
 | breaking_defense | 0 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4623,3 +4623,4 @@
 - **Jun 15, 04:49 AM** - A reinvigorated push for nuclear power in space (spacenews)
 - **Jun 15, 05:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 05:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 05:07 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
