@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 52 |
-| supercluster | 0 | 1 | 176 | 240 |
+| supercluster | 0 | 1 | 177 | 241 |
 | breaking_defense | 0 | 2 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4763,3 +4763,4 @@
 - **Jun 15, 05:59 PM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
 - **Jun 15, 06:13 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 15, 06:27 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 06:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
