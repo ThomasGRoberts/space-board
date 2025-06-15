@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 26 | 51 |
-| supercluster | 0 | 1 | 175 | 190 |
+| spacenews | 3 | 7 | 26 | 50 |
+| supercluster | 0 | 1 | 176 | 191 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4691,3 +4691,4 @@
 - **Jun 15, 10:53 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 15, 11:07 AM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 15, 11:21 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 15, 11:35 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
