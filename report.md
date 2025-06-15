@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 26 | 51 |
+| spacenews | 2 | 5 | 27 | 52 |
 | supercluster | 0 | 1 | 175 | 260 |
-| breaking_defense | 0 | 0 | 26 | 50 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4790,3 +4790,4 @@
 - **Jun 15, 08:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 08:31 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 08:33 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 15, 08:47 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
