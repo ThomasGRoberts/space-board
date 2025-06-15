@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 50 |
 | supercluster | 0 | 1 | 182 | 197 |
-| breaking_defense | 0 | 2 | 25 | 49 |
+| breaking_defense | 0 | 2 | 26 | 50 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4698,3 +4698,4 @@
 - **Jun 15, 11:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:45 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:47 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 11:49 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
