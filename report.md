@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 26 | 50 |
-| supercluster | 0 | 1 | 176 | 212 |
+| supercluster | 0 | 1 | 177 | 213 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4722,3 +4722,4 @@
 - **Jun 15, 01:57 PM** - French SSA company Look Up raises 50 million euros (spacenews)
 - **Jun 15, 02:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 15, 02:27 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 02:29 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
