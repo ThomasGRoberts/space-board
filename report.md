@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 260 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4791,3 +4791,4 @@
 - **Jun 15, 08:31 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 08:33 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 15, 08:47 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
+- **Jun 15, 09:02 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
