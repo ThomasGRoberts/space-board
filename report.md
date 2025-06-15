@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 24 | 51 |
+| spacenews | 2 | 8 | 25 | 52 |
 | supercluster | 1 | 1 | 155 | 155 |
 | breaking_defense | 0 | 2 | 24 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
@@ -4640,3 +4640,4 @@
 - **Jun 15, 06:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 06:13 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 15, 06:27 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 15, 06:41 AM** - Electron launches third iQPS satellite in three months (spacenews)
