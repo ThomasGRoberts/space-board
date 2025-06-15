@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-15T00:01:51.815181+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4971b2924fea11f2744abc240e142600",
+    "trigger_count": 0,
+    "current_item_id": "efc0b99f4eeb64c42e7ac248e0a15631",
     "data": [
         {
             "id": "3ff0133116833b1c1d8dd8dba9deb349",
@@ -10235,6 +10235,18 @@
             "fetched_datetime": "2025-06-15T09:15:56.318276Z",
             "shown_at": [
                 "2025-06-15T09:15:57.699068Z"
+            ]
+        },
+        {
+            "id": "efc0b99f4eeb64c42e7ac248e0a15631",
+            "source": "spacenews",
+            "text": "ESA moving ahead with ‘resilience from space’ satellite imaging program",
+            "source_link": "https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-15T15:09:29.743649Z",
+            "shown_at": [
+                "2025-06-15T15:09:30.392739Z"
             ]
         }
     ]

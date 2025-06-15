@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 26 | 50 |
+| spacenews | 3 | 7 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 218 |
-| breaking_defense | 0 | 2 | 26 | 49 |
+| breaking_defense | 0 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4730,3 +4730,4 @@
 - **Jun 15, 02:39 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 02:41 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 15, 02:55 PM** - Quebec backs Canadian launch startup Reaction Dynamics and partner Maya HTT (spacenews)
+- **Jun 15, 03:09 PM** - ESA moving ahead with ‘resilience from space’ satellite imaging program (spacenews)
