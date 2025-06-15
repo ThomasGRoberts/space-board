@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 51 |
 | supercluster | 1 | 1 | 127 | 127 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4599,3 +4599,4 @@
 - **Jun 15, 02:25 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 02:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 02:29 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 15, 02:43 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
