@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 253 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4781,3 +4781,4 @@
 - **Jun 15, 07:35 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 07:37 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 15, 07:51 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
+- **Jun 15, 08:05 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
