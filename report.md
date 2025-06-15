@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 51 |
-| supercluster | 1 | 1 | 136 | 136 |
+| supercluster | 1 | 1 | 137 | 137 |
 | breaking_defense | 0 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4613,3 +4613,4 @@
 - **Jun 15, 03:53 AM** - Quantum Space raises $40 million (spacenews)
 - **Jun 15, 04:07 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 04:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 04:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
