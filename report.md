@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 26 | 52 |
+| spacenews | 3 | 8 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 183 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4680,3 +4680,4 @@
 - **Jun 15, 09:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 09:57 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 15, 10:11 AM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
+- **Jun 15, 10:25 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
