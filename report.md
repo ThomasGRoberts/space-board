@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 27 | 52 |
 | supercluster | 0 | 1 | 175 | 246 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4771,3 +4771,4 @@
 - **Jun 15, 06:39 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 06:41 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 15, 06:55 PM** - Quantum Space raises $40 million (spacenews)
+- **Jun 15, 07:09 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
