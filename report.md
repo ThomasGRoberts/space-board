@@ -5,7 +5,7 @@
 | spacenews | 2 | 6 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 211 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4720,3 +4720,4 @@
 - **Jun 15, 01:39 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 01:42 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
 - **Jun 15, 01:57 PM** - French SSA company Look Up raises 50 million euros (spacenews)
+- **Jun 15, 02:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
