@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 50 |
-| supercluster | 0 | 1 | 176 | 184 |
+| supercluster | 0 | 1 | 177 | 185 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4682,3 +4682,4 @@
 - **Jun 15, 10:11 AM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
 - **Jun 15, 10:25 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 15, 10:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 10:41 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
