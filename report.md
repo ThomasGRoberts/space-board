@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 52 |
-| supercluster | 1 | 1 | 148 | 148 |
+| supercluster | 1 | 1 | 149 | 149 |
 | breaking_defense | 0 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4631,3 +4631,4 @@
 - **Jun 15, 05:17 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 15, 05:31 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 15, 05:45 AM** - A reinvigorated push for nuclear power in space (spacenews)
+- **Jun 15, 05:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
