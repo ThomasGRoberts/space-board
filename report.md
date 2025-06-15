@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 26 | 51 |
+| spacenews | 2 | 6 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 204 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4710,3 +4710,4 @@
 - **Jun 15, 12:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 12:45 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 15, 12:59 PM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
+- **Jun 15, 01:14 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
