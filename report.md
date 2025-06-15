@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 27 | 51 |
-| supercluster | 0 | 1 | 175 | 274 |
+| spacenews | 2 | 5 | 26 | 51 |
+| supercluster | 0 | 1 | 176 | 275 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4812,3 +4812,4 @@
 - **Jun 15, 10:25 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 15, 10:39 PM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
 - **Jun 15, 10:55 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 15, 11:09 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
