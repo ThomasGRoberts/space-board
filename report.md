@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 281 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4821,3 +4821,4 @@
 - **Jun 15, 11:21 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:23 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 15, 11:37 PM** - ESA moving ahead with ‘resilience from space’ satellite imaging program (spacenews)
+- **Jun 15, 11:51 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
