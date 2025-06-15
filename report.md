@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 26 | 51 |
+| spacenews | 3 | 6 | 27 | 52 |
 | supercluster | 0 | 1 | 175 | 239 |
 | breaking_defense | 0 | 2 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
@@ -4760,3 +4760,4 @@
 - **Jun 15, 05:41 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 05:43 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 05:45 PM** - House Appropriations Committee releases flat $832B FY26 funding proposal ahead of the Pentagon (breaking_defense)
+- **Jun 15, 05:59 PM** - Whitesides says budget proposal shows the administration does not value NASA science (spacenews)
