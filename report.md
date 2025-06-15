@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 51 |
-| supercluster | 0 | 1 | 176 | 254 |
+| supercluster | 0 | 1 | 177 | 255 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4783,3 +4783,4 @@
 - **Jun 15, 07:51 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 15, 08:05 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 15, 08:19 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 08:21 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
