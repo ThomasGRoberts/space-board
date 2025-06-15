@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 25 | 50 |
-| supercluster | 1 | 1 | 111 | 111 |
+| spacenews | 2 | 8 | 24 | 50 |
+| supercluster | 1 | 1 | 112 | 112 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4576,3 +4576,4 @@
 - **Jun 15, 12:21 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 12:23 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 12:25 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 12:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
