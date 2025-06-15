@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-15T00:01:51.815181+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8e1b1203d23c30d07c555565572b0a2a",
+    "trigger_count": 0,
+    "current_item_id": "d93b1befcc338f06a429c49652262162",
     "data": [
         {
             "id": "3ff0133116833b1c1d8dd8dba9deb349",
@@ -10163,6 +10163,18 @@
             "fetched_datetime": "2025-04-09T02:49:44.044089Z",
             "shown_at": [
                 "2025-04-09T02:49:44.539828Z"
+            ]
+        },
+        {
+            "id": "d93b1befcc338f06a429c49652262162",
+            "source": "spacenews",
+            "text": "NASA sets new potential launch date for Ax-4 mission to ISS",
+            "source_link": "https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-15T09:15:56.318276Z",
+            "shown_at": [
+                "2025-06-15T09:15:57.699068Z"
             ]
         }
     ]
