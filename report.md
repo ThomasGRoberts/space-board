@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 27 | 52 |
 | supercluster | 0 | 1 | 175 | 225 |
 | breaking_defense | 0 | 2 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4741,3 +4741,4 @@
 - **Jun 15, 03:49 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 03:51 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 15, 04:05 PM** - NASA sets new potential launch date for Ax-4 mission to ISS (spacenews)
+- **Jun 15, 04:19 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
