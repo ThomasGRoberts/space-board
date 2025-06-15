@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 26 | 50 |
-| supercluster | 0 | 1 | 177 | 192 |
+| supercluster | 0 | 1 | 178 | 193 |
 | breaking_defense | 0 | 2 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4693,3 +4693,4 @@
 - **Jun 15, 11:21 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 15, 11:35 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:37 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 11:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
