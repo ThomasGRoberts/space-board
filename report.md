@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 25 | 50 |
-| supercluster | 0 | 1 | 180 | 197 |
+| spacenews | 2 | 7 | 26 | 51 |
+| supercluster | 0 | 1 | 179 | 197 |
 | breaking_defense | 0 | 2 | 26 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4699,3 +4699,4 @@
 - **Jun 15, 11:45 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:47 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 11:49 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 15, 12:03 PM** - Is China’s BeiDou a weapon of war? (spacenews)
