@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 25 | 50 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4573,3 +4573,4 @@
 - **Jun 15, 12:03 AM** - Europe clears SES-Intelsat deal without conditions (spacenews)
 - **Jun 15, 12:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 12:19 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 15, 12:21 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
