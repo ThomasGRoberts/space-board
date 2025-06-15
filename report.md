@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 26 | 52 |
+| spacenews | 3 | 8 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 176 |
 | breaking_defense | 0 | 2 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4670,3 +4670,4 @@
 - **Jun 15, 08:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 15, 09:01 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
 - **Jun 15, 09:15 AM** - NASA sets new potential launch date for Ax-4 mission to ISS (spacenews)
+- **Jun 15, 09:29 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
