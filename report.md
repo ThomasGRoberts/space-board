@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 323 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4867,3 +4867,4 @@
 - **Jun 16, 05:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 05:07 AM** - Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests (spacenews)
 - **Jun 16, 05:21 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
+- **Jun 16, 05:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
