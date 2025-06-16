@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 29 | 55 |
-| supercluster | 0 | 0 | 163 | 343 |
+| supercluster | 0 | 0 | 163 | 344 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4963,3 +4963,4 @@
 - **Jun 16, 03:05 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 16, 03:19 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 16, 03:33 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 03:47 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
