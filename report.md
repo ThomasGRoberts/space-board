@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 51 |
-| supercluster | 0 | 1 | 175 | 323 |
+| supercluster | 0 | 1 | 176 | 324 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4868,3 +4868,4 @@
 - **Jun 16, 05:07 AM** - Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests (spacenews)
 - **Jun 16, 05:21 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 16, 05:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 05:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
