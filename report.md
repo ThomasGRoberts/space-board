@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 27 | 52 |
-| supercluster | 0 | 0 | 171 | 345 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| supercluster | 0 | 0 | 171 | 346 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4911,3 +4911,4 @@
 - **Jun 16, 09:37 AM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 16, 09:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 09:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 09:57 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
