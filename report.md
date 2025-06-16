@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 50 |
+| spacenews | 2 | 4 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 309 |
-| breaking_defense | 0 | 0 | 26 | 50 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4846,3 +4846,4 @@
 - **Jun 16, 03:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 03:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 03:13 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
+- **Jun 16, 03:27 AM** - Voyager looks to expanded defense and space opportunities as a public company (spacenews)
