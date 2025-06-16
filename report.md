@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 27 | 52 |
-| supercluster | 0 | 1 | 173 | 332 |
+| spacenews | 4 | 6 | 27 | 51 |
+| supercluster | 0 | 1 | 174 | 333 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4881,3 +4881,4 @@
 - **Jun 16, 06:45 AM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
 - **Jun 16, 06:59 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 07:02 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 07:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
