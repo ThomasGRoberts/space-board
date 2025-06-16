@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 29 | 54 |
-| supercluster | 0 | 0 | 169 | 350 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| supercluster | 0 | 0 | 168 | 350 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4939,3 +4939,4 @@
 - **Jun 16, 11:59 AM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
 - **Jun 16, 12:14 PM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
 - **Jun 16, 12:31 PM** - BlackSky unveils wide-area imaging satellite (spacenews)
+- **Jun 16, 12:45 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
