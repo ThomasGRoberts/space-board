@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4600,3 +4600,4 @@
 - **Jun 16, 06:13 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 16, 06:27 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
 - **Jun 16, 06:41 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 16, 06:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
