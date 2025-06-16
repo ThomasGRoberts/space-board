@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 29 | 55 |
+| spacenews | 9 | 11 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4611,3 +4611,4 @@
 - **Jun 16, 07:23 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 16, 07:37 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 16, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
