@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "2ac44de8d5a0790bfdd4968fb853d066",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10553,6 +10553,18 @@
             "fetched_datetime": "2025-06-16T14:19:28.761031Z",
             "shown_at": [
                 "2025-06-16T14:19:29.444055Z"
+            ]
+        },
+        {
+            "id": "2ac44de8d5a0790bfdd4968fb853d066",
+            "source": "breaking_defense",
+            "text": "Commercial remote sensing: The critical U.S. National Security Space imperative",
+            "source_link": "https://breakingdefense.com/2025/06/commercial-remote-sensing-the-critical-u-s-national-security-space-imperative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T15:05:38.949974Z",
+            "shown_at": [
+                "2025-06-16T15:05:39.991680Z"
             ]
         }
     ]
