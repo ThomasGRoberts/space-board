@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 27 | 52 |
 | supercluster | 0 | 0 | 175 | 350 |
-| breaking_defense | 0 | 0 | 24 | 50 |
+| breaking_defense | 0 | 0 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4916,3 +4916,4 @@
 - **Jun 16, 10:02 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 10:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 10:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 10:07 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
