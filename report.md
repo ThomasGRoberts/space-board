@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 50 |
+| spacenews | 2 | 4 | 27 | 51 |
 | supercluster | 0 | 1 | 175 | 302 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
@@ -4836,3 +4836,4 @@
 - **Jun 16, 02:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 02:15 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 02:17 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 16, 02:31 AM** - Quantum Space raises $40 million (spacenews)
