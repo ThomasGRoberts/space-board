@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 1 | 181 | 295 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| spacenews | 2 | 4 | 26 | 50 |
+| supercluster | 0 | 1 | 179 | 295 |
+| breaking_defense | 0 | 0 | 26 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4825,3 +4825,4 @@
 - **Jun 16, 01:15 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 01:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 01:19 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 01:21 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
