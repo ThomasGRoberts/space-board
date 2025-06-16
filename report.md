@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 27 | 53 |
-| supercluster | 0 | 0 | 170 | 350 |
+| spacenews | 5 | 7 | 27 | 52 |
+| supercluster | 0 | 0 | 170 | 351 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4929,3 +4929,4 @@
 - **Jun 16, 11:03 AM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 16, 11:17 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 16, 11:31 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 11:45 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
