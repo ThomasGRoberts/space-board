@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 29 | 55 |
+| spacenews | 10 | 12 | 30 | 56 |
 | breaking_defense | 1 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4639,3 +4639,4 @@
 - **Jun 16, 09:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 10:02 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 16, 10:17 PM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
+- **Jun 16, 10:31 PM** - FCC highlights national security role in satellite licensing reforms (spacenews)
