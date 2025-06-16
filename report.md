@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 26 | 52 |
+| spacenews | 3 | 6 | 27 | 53 |
 | supercluster | 0 | 0 | 175 | 350 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
@@ -4908,3 +4908,4 @@
 - **Jun 16, 09:07 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 09:09 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 16, 09:23 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 16, 09:37 AM** - Voyager raises $383 million from upsized IPO (spacenews)
