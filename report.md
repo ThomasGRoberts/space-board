@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 1 | 175 | 316 |
+| supercluster | 0 | 1 | 176 | 317 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4858,3 +4858,4 @@
 - **Jun 16, 04:11 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
 - **Jun 16, 04:25 AM** - Electron launches third iQPS satellite in three months (spacenews)
 - **Jun 16, 04:39 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 16, 04:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
