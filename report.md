@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4595,3 +4595,4 @@
 - **Jun 16, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 06:08 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 06:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
