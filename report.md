@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4652,3 +4652,4 @@
 - **Jun 16, 11:29 PM** - Electron launches third iQPS satellite in three months (spacenews)
 - **Jun 16, 11:43 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 16, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 11:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
