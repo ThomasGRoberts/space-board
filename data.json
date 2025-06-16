@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8eea6516d9088915897c6491b8414fc3",
+    "trigger_count": 0,
+    "current_item_id": "3cb85663f3498cfd34d6879b7c4ac6af",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10383,6 +10383,18 @@
             "fetched_datetime": "2025-06-16T05:07:33.383563Z",
             "shown_at": [
                 "2025-06-16T05:07:33.995286Z"
+            ]
+        },
+        {
+            "id": "3cb85663f3498cfd34d6879b7c4ac6af",
+            "source": "spacenews",
+            "text": "China’s Cangyu plans mixed-orbit commercial data relay satellite system",
+            "source_link": "https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T06:45:38.928259Z",
+            "shown_at": [
+                "2025-06-16T06:45:39.575129Z"
             ]
         }
     ]

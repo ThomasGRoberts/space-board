@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 26 | 51 |
+| spacenews | 4 | 6 | 27 | 52 |
 | supercluster | 0 | 1 | 175 | 330 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 50 |
@@ -4878,3 +4878,4 @@
 - **Jun 16, 06:03 AM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 16, 06:17 AM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 16, 06:31 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 16, 06:45 AM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
