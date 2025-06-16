@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -4622,3 +4622,4 @@
 - **Jun 16, 08:33 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 16, 08:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 08:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
