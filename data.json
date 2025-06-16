@@ -1,9 +1,35 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-15T00:01:51.815181+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
+    "trigger_count": 5,
     "current_item_id": "2ee89a9a26038105e91517c5f340aa68",
     "data": [
+        {
+            "id": "efc0b99f4eeb64c42e7ac248e0a15631",
+            "source": "spacenews",
+            "text": "ESA moving ahead with ‘resilience from space’ satellite imaging program",
+            "source_link": "https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-15T15:09:29.743649Z",
+            "shown_at": [
+                "2025-06-15T15:09:30.392739Z",
+                "2025-06-15T23:37:32.900559Z"
+            ]
+        },
+        {
+            "id": "d93b1befcc338f06a429c49652262162",
+            "source": "spacenews",
+            "text": "NASA sets new potential launch date for Ax-4 mission to ISS",
+            "source_link": "https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-15T09:15:56.318276Z",
+            "shown_at": [
+                "2025-06-15T09:15:57.699068Z",
+                "2025-06-15T16:05:33.964737Z"
+            ]
+        },
         {
             "id": "3ff0133116833b1c1d8dd8dba9deb349",
             "source": "spacenews",
@@ -10276,68 +10302,6 @@
                 "2025-04-14T16:01:41.457036Z",
                 "2025-04-16T01:45:23.554066Z",
                 "2025-04-16T04:05:09.159236Z"
-            ]
-        },
-        {
-            "id": "fab21fd3d79b4fceca85f7ae2fd0d359",
-            "source": "nyt",
-            "text": "Jared Isaacman, Trump’s Pick to Lead NASA, Calls Mars a Priority in Confirmation Hearing",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/nasa-jared-isaacman-confirmation.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T04:13:29.475070Z",
-            "shown_at": [
-                "2025-04-09T04:13:30.119929Z",
-                "2025-04-09T07:58:13.042534Z",
-                "2025-04-09T11:51:47.635984Z",
-                "2025-04-09T19:02:14.500445Z",
-                "2025-04-10T05:43:22.944868Z",
-                "2025-04-10T10:55:30.605375Z",
-                "2025-04-11T12:17:33.218999Z",
-                "2025-04-11T18:10:08.507750Z",
-                "2025-04-12T02:49:37.800431Z",
-                "2025-04-12T12:16:19.890921Z",
-                "2025-04-14T02:43:25.206433Z",
-                "2025-04-14T05:49:32.967560Z",
-                "2025-04-16T01:17:39.580619Z"
-            ]
-        },
-        {
-            "id": "6e9672fb887dcdeef7d75cbf9c996236",
-            "source": "spacenews",
-            "text": "Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector",
-            "source_link": "https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T02:49:44.044089Z",
-            "shown_at": [
-                "2025-04-09T02:49:44.539828Z"
-            ]
-        },
-        {
-            "id": "d93b1befcc338f06a429c49652262162",
-            "source": "spacenews",
-            "text": "NASA sets new potential launch date for Ax-4 mission to ISS",
-            "source_link": "https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-15T09:15:56.318276Z",
-            "shown_at": [
-                "2025-06-15T09:15:57.699068Z",
-                "2025-06-15T16:05:33.964737Z"
-            ]
-        },
-        {
-            "id": "efc0b99f4eeb64c42e7ac248e0a15631",
-            "source": "spacenews",
-            "text": "ESA moving ahead with ‘resilience from space’ satellite imaging program",
-            "source_link": "https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-15T15:09:29.743649Z",
-            "shown_at": [
-                "2025-06-15T15:09:30.392739Z",
-                "2025-06-15T23:37:32.900559Z"
             ]
         }
     ]
