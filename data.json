@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "43e78b1feac74ab11d8ed7ec0ce79364",
+    "trigger_count": 0,
+    "current_item_id": "3cd1e2d845cae5da5b6e76f63aa0f546",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10533,6 +10533,18 @@
             "fetched_datetime": "2025-06-16T13:47:37.826482Z",
             "shown_at": [
                 "2025-06-16T13:47:38.608981Z"
+            ]
+        },
+        {
+            "id": "3cd1e2d845cae5da5b6e76f63aa0f546",
+            "source": "spacenews",
+            "text": "China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits",
+            "source_link": "https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T14:19:28.761031Z",
+            "shown_at": [
+                "2025-06-16T14:19:29.444055Z"
             ]
         }
     ]
