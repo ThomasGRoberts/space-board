@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ee89a9a26038105e91517c5f340aa68",
+    "trigger_count": 0,
+    "current_item_id": "ac4529f96fbbccc989375442ba8df4b0",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10501,6 +10501,18 @@
             "fetched_datetime": "2025-06-16T12:31:34.020897Z",
             "shown_at": [
                 "2025-06-16T12:31:34.653646Z"
+            ]
+        },
+        {
+            "id": "ac4529f96fbbccc989375442ba8df4b0",
+            "source": "spacenews",
+            "text": "An international commission to protect space cultural heritage on the moon is needed now",
+            "source_link": "https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T13:17:26.008488Z",
+            "shown_at": [
+                "2025-06-16T13:17:26.722134Z"
             ]
         }
     ]
