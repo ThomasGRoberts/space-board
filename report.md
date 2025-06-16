@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 55 |
-| supercluster | 0 | 0 | 161 | 343 |
+| supercluster | 0 | 0 | 162 | 344 |
 | breaking_defense | 0 | 0 | 23 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4953,3 +4953,4 @@
 - **Jun 16, 02:05 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 16, 02:19 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
 - **Jun 16, 02:33 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 02:48 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
