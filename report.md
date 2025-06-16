@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4590,3 +4590,4 @@
 - **Jun 16, 05:15 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 16, 05:29 PM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
 - **Jun 16, 05:45 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
