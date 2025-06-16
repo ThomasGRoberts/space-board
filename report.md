@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 29 | 55 |
+| spacenews | 9 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4601,3 +4601,4 @@
 - **Jun 16, 06:27 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
 - **Jun 16, 06:41 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 16, 06:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
