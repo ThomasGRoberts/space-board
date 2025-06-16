@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 29 | 54 |
-| supercluster | 0 | 0 | 168 | 349 |
+| supercluster | 0 | 0 | 168 | 347 |
 | breaking_defense | 0 | 0 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4940,3 +4940,4 @@
 - **Jun 16, 12:14 PM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
 - **Jun 16, 12:31 PM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 16, 12:45 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 16, 12:59 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
