@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4631,3 +4631,4 @@
 - **Jun 16, 09:19 PM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
 - **Jun 16, 09:33 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 16, 09:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 09:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
