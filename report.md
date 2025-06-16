@@ -5,7 +5,7 @@
 | spacenews | 9 | 12 | 29 | 56 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4962,3 +4962,4 @@
 - **Jun 16, 03:02 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 03:05 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 16, 03:19 PM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
+- **Jun 16, 03:33 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
