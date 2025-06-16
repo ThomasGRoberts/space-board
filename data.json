@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "5fe03bb54c0b1d774de25429de1ae755",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10520,6 +10520,18 @@
             "fetched_datetime": "2025-06-16T13:17:26.008488Z",
             "shown_at": [
                 "2025-06-16T13:17:26.722134Z"
+            ]
+        },
+        {
+            "id": "5fe03bb54c0b1d774de25429de1ae755",
+            "source": "spacenews",
+            "text": "Astroscale secures UK defense contract for space weather, object-tracking mission",
+            "source_link": "https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T13:47:37.826482Z",
+            "shown_at": [
+                "2025-06-16T13:47:38.608981Z"
             ]
         }
     ]
