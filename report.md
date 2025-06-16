@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 29 | 56 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -4650,3 +4650,4 @@
 - **Jun 16, 11:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 11:15 PM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 16, 11:29 PM** - Electron launches third iQPS satellite in three months (spacenews)
+- **Jun 16, 11:43 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
