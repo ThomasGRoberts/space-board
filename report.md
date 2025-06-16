@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 1 | 175 | 295 |
+| supercluster | 0 | 1 | 176 | 296 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4828,3 +4828,4 @@
 - **Jun 16, 01:21 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 16, 01:35 AM** - ESA moving ahead with ‘resilience from space’ satellite imaging program (spacenews)
 - **Jun 16, 01:49 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 16, 02:04 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
