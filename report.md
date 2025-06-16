@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 27 | 53 |
-| supercluster | 0 | 0 | 171 | 344 |
+| supercluster | 0 | 0 | 172 | 345 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4900,3 +4900,4 @@
 - **Jun 16, 08:27 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 16, 08:41 AM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
 - **Jun 16, 08:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 08:57 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
