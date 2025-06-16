@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8eea6516d9088915897c6491b8414fc3",
+    "trigger_count": 0,
+    "current_item_id": "9922ec1ec26dea274746176bf3e3bafd",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10434,6 +10434,18 @@
             "fetched_datetime": "2025-06-16T06:45:38.928259Z",
             "shown_at": [
                 "2025-06-16T06:45:39.575129Z"
+            ]
+        },
+        {
+            "id": "9922ec1ec26dea274746176bf3e3bafd",
+            "source": "spacenews",
+            "text": "Members of Congress want White House to quickly nominate new NASA administrator",
+            "source_link": "https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T10:35:23.326160Z",
+            "shown_at": [
+                "2025-06-16T10:35:24.058678Z"
             ]
         }
     ]
