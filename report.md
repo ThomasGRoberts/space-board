@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 29 | 55 |
-| breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| breaking_defense | 1 | 1 | 23 | 49 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -4599,3 +4599,4 @@
 - **Jun 16, 06:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 06:13 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 16, 06:27 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
+- **Jun 16, 06:41 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
