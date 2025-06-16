@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 1 | 180 | 323 |
+| spacenews | 3 | 5 | 27 | 52 |
+| supercluster | 0 | 1 | 179 | 323 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4865,3 +4865,4 @@
 - **Jun 16, 05:02 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 05:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 05:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 05:07 AM** - Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests (spacenews)

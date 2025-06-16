@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "665a5e0bc106ffced0983e40ca501ae2",
     "data": [
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
@@ -10359,6 +10359,18 @@
                 "2025-04-14T16:01:41.457036Z",
                 "2025-04-16T01:45:23.554066Z",
                 "2025-04-16T04:05:09.159236Z"
+            ]
+        },
+        {
+            "id": "665a5e0bc106ffced0983e40ca501ae2",
+            "source": "spacenews",
+            "text": "Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests",
+            "source_link": "https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T05:07:33.383563Z",
+            "shown_at": [
+                "2025-06-16T05:07:33.995286Z"
             ]
         }
     ]
