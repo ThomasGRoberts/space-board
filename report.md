@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 28 | 55 |
 | supercluster | 1 | 1 | 175 | 350 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4987,3 +4987,4 @@
 - **Jun 16, 05:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 05:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 05:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 05:15 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
