@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 28 | 54 |
+| spacenews | 9 | 11 | 29 | 55 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4628,3 +4628,4 @@
 - **Jun 16, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 09:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 09:05 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 16, 09:19 PM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
