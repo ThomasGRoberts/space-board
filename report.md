@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 29 | 55 |
-| breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| breaking_defense | 1 | 1 | 23 | 49 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4609,3 +4609,4 @@
 - **Jun 16, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 07:09 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 16, 07:23 PM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
+- **Jun 16, 07:37 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
