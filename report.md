@@ -4920,3 +4920,4 @@
 - **Jun 16, 10:21 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 16, 10:35 AM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 16, 10:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 10:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
