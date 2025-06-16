@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 1 | 181 | 316 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| spacenews | 2 | 4 | 26 | 50 |
+| supercluster | 0 | 1 | 179 | 316 |
+| breaking_defense | 0 | 0 | 26 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4855,3 +4855,4 @@
 - **Jun 16, 04:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 04:07 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 04:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 04:11 AM** - EXCLUSIVE: Pentagon’s RDT&E budget revealed – Which next-gen systems get a cash influx in FY26? (breaking_defense)
