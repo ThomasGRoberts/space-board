@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 29 | 55 |
+| spacenews | 9 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4591,3 +4591,4 @@
 - **Jun 16, 05:29 PM** - Booster leak delays Ax-4 private astronaut mission to ISS (spacenews)
 - **Jun 16, 05:45 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 16, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 16, 06:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
