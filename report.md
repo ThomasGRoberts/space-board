@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 29 | 55 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -4619,3 +4619,4 @@
 - **Jun 16, 08:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 16, 08:05 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 16, 08:19 PM** - Sierra Space doubles down on defense (spacenews)
+- **Jun 16, 08:33 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
