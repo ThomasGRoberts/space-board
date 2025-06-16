@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4641,3 +4641,4 @@
 - **Jun 16, 10:17 PM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
 - **Jun 16, 10:31 PM** - FCC highlights national security role in satellite licensing reforms (spacenews)
 - **Jun 16, 10:45 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 16, 10:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
