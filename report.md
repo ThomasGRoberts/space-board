@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 52 |
 | supercluster | 0 | 0 | 175 | 350 |
-| breaking_defense | 0 | 0 | 25 | 51 |
-| nyt | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 26 | 51 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4917,3 +4917,4 @@
 - **Jun 16, 10:03 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 10:05 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 10:07 AM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
+- **Jun 16, 10:21 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
