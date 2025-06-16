@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 29 | 55 |
-| supercluster | 0 | 0 | 166 | 343 |
+| supercluster | 0 | 0 | 166 | 344 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4942,3 +4942,4 @@
 - **Jun 16, 12:45 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 16, 12:59 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 16, 01:17 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
+- **Jun 16, 01:32 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
