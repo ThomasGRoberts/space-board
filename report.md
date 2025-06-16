@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 27 | 53 |
-| supercluster | 0 | 0 | 170 | 351 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| supercluster | 0 | 0 | 171 | 350 |
+| breaking_defense | 0 | 0 | 24 | 50 |
 | nyt | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4921,3 +4921,4 @@
 - **Jun 16, 10:35 AM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 16, 10:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 16, 10:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 16, 10:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
