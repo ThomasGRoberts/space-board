@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 56 |
 | supercluster | 0 | 0 | 165 | 343 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4952,3 +4952,4 @@
 - **Jun 16, 01:47 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
 - **Jun 16, 02:05 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 16, 02:19 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
+- **Jun 16, 02:33 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
