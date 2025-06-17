@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
+| spacenews | 8 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4592,3 +4592,4 @@
 - **Jun 17, 06:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 06:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 06:43 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 17, 06:57 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
