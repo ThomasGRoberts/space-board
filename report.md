@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 29 | 55 |
 | supercluster | 1 | 1 | 56 | 56 |
-| breaking_defense | 1 | 1 | 23 | 48 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4610,3 +4610,4 @@
 - **Jun 17, 12:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 12:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 17, 12:11 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
