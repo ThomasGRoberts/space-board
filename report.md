@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 26 | 55 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 
 # Shown Order
 
@@ -4749,3 +4749,4 @@
 - **Jun 17, 10:27 PM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 17, 10:41 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 10:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
