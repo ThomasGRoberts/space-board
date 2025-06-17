@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 29 | 55 |
+| spacenews | 10 | 13 | 30 | 56 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4625,3 +4625,4 @@
 - **Jun 17, 09:47 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 17, 10:02 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 17, 10:17 AM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
+- **Jun 17, 10:31 AM** - The Exploration Company outlines plans for human spaceflight (spacenews)
