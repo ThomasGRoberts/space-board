@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 56 |
+| spacenews | 10 | 12 | 29 | 56 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4566,3 +4566,4 @@
 - **Jun 17, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 01:09 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 01:23 AM** - Voyager raises $383 million from upsized IPO (spacenews)
+- **Jun 17, 01:37 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
