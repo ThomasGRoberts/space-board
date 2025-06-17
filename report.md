@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 
 # Shown Order
 
@@ -4739,3 +4739,4 @@
 - **Jun 17, 09:31 PM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 17, 09:45 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 17, 09:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 10:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
