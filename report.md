@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
 
@@ -4716,3 +4716,4 @@
 - **Jun 17, 06:50 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
 - **Jun 17, 07:03 PM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
 - **Jun 17, 07:17 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 17, 07:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
