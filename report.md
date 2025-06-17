@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 26 | 55 |
+| spacenews | 6 | 15 | 27 | 56 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4736,3 +4736,4 @@
 - **Jun 17, 09:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 09:03 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 09:17 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 17, 09:31 PM** - July decision expected on combination of European space companies (spacenews)
