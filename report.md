@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4697,3 +4697,4 @@
 - **Jun 17, 05:05 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 17, 05:21 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 17, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
