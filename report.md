@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 29 | 55 |
+| spacenews | 10 | 12 | 30 | 56 |
 | breaking_defense | 1 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4585,3 +4585,4 @@
 - **Jun 17, 03:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 03:05 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 17, 03:19 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
