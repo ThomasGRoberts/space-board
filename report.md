@@ -6,7 +6,6 @@
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4557,33 +4556,12 @@
 - **Jun 17, 12:11 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 17, 12:25 AM** - SpaceNews successfully launches new business offering, hosts first custom event (spacenews)
 - **Jun 17, 12:39 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
-- **Jun 17, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 01:09 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 01:23 AM** - Voyager raises $383 million from upsized IPO (spacenews)
 - **Jun 17, 01:37 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
-- **Jun 17, 01:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 01:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 02:07 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 17, 02:21 AM** - Quantum Space raises $40 million (spacenews)
 - **Jun 17, 02:37 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
-- **Jun 17, 02:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 02:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 03:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 17, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 03:05 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 03:19 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
 - **Jun 17, 03:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
