@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 22 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4585,3 +4585,4 @@
 - **Jun 17, 06:02 AM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
 - **Jun 17, 06:15 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 17, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 06:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
