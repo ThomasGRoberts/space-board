@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 29 | 55 |
+| spacenews | 10 | 12 | 30 | 56 |
 | breaking_defense | 1 | 1 | 23 | 49 |
 | nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4575,3 +4575,4 @@
 - **Jun 17, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 02:07 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 17, 02:21 AM** - Quantum Space raises $40 million (spacenews)
