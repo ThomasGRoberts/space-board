@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 26 | 54 |
+| spacenews | 4 | 13 | 27 | 55 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4674,3 +4674,4 @@
 - **Jun 17, 02:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 02:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 02:59 PM** - Pentagon’s $205B procurement budget revealed: New weapons require reconciliation (breaking_defense)
+- **Jun 17, 03:13 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
