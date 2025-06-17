@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -4666,3 +4666,4 @@
 - **Jun 17, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 02:13 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 17, 02:28 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 17, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
