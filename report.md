@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 28 | 54 |
+| spacenews | 9 | 12 | 29 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4582,3 +4582,4 @@
 - **Jun 17, 05:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 05:47 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 17, 06:02 AM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
