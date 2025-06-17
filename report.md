@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 26 | 54 |
+| spacenews | 4 | 13 | 27 | 55 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4684,3 +4684,4 @@
 - **Jun 17, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 03:55 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 17, 04:09 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
