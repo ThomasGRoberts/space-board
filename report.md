@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 26 | 55 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| spacenews | 5 | 15 | 27 | 56 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 131 | 131 |
@@ -4756,3 +4756,4 @@
 - **Jun 17, 11:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:09 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 17, 11:23 PM** - July decision expected on combination of European space companies (spacenews)
