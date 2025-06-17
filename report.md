@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
+| spacenews | 8 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4602,3 +4602,4 @@
 - **Jun 17, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 07:39 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 17, 07:53 AM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
