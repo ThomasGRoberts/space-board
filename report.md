@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4567,3 +4567,4 @@
 - **Jun 17, 03:19 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
 - **Jun 17, 03:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 17, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 04:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
