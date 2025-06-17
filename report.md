@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 131 | 131 |
+| supercluster | 1 | 1 | 132 | 132 |
 
 # Shown Order
 
@@ -4758,3 +4758,4 @@
 - **Jun 17, 11:09 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 17, 11:23 PM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 17, 11:37 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 17, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
