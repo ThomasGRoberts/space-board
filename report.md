@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4615,3 +4615,4 @@
 - **Jun 17, 08:49 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 17, 09:05 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 17, 09:19 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
+- **Jun 17, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
