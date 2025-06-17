@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 27 | 56 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 61 | 61 |
 
@@ -4655,3 +4655,4 @@
 - **Jun 17, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 12:55 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 17, 01:13 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
+- **Jun 17, 01:27 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
