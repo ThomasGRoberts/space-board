@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 29 | 56 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4586,3 +4586,4 @@
 - **Jun 17, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 03:05 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 03:19 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
+- **Jun 17, 03:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
