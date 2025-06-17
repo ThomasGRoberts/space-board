@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 28 | 54 |
+| spacenews | 9 | 12 | 29 | 55 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4624,3 +4624,4 @@
 - **Jun 17, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 09:47 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 17, 10:02 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 17, 10:17 AM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
