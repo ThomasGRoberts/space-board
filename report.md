@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 
 # Shown Order
 
@@ -4748,3 +4748,4 @@
 - **Jun 17, 10:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 17, 10:27 PM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 17, 10:41 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 17, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
