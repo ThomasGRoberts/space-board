@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4606,3 +4606,4 @@
 - **Jun 17, 08:07 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 17, 08:21 AM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
 - **Jun 17, 08:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
