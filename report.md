@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 47 | 47 |
 
@@ -4634,3 +4634,4 @@
 - **Jun 17, 10:58 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 10:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:02 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 17, 11:17 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
