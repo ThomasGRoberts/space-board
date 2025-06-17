@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4616,3 +4616,4 @@
 - **Jun 17, 09:05 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 17, 09:19 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
 - **Jun 17, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
