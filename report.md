@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
 
@@ -4727,3 +4727,4 @@
 - **Jun 17, 08:07 PM** - China launches new seismo-electromagnetic satellite with European partners (spacenews)
 - **Jun 17, 08:21 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 17, 08:35 PM** - CEOs push back on proposed cuts to commercial satellite imaging programs (spacenews)
+- **Jun 17, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
