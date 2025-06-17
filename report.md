@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 26 | 55 |
+| spacenews | 5 | 14 | 27 | 56 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4664,3 +4664,4 @@
 - **Jun 17, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 17, 02:13 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
