@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4628,3 +4628,4 @@
 - **Jun 17, 10:31 AM** - The Exploration Company outlines plans for human spaceflight (spacenews)
 - **Jun 17, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
