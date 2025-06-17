@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 54 | 54 |
 
@@ -4644,3 +4644,4 @@
 - **Jun 17, 11:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:59 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
+- **Jun 17, 12:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
