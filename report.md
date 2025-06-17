@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 26 | 54 |
+| spacenews | 4 | 13 | 27 | 55 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4694,3 +4694,4 @@
 - **Jun 17, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 04:51 PM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
+- **Jun 17, 05:05 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
