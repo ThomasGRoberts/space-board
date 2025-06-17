@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 28 | 55 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -4573,3 +4573,4 @@
 - **Jun 17, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 04:47 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 17, 05:02 AM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
+- **Jun 17, 05:17 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
