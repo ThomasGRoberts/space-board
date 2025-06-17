@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4584,3 +4584,4 @@
 - **Jun 17, 05:47 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 17, 06:02 AM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
 - **Jun 17, 06:15 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 17, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
