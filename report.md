@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
 
@@ -4738,3 +4738,4 @@
 - **Jun 17, 09:17 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 17, 09:31 PM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 17, 09:45 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 17, 09:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
