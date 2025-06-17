@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 27 | 56 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4656,3 +4656,4 @@
 - **Jun 17, 12:55 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 17, 01:13 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 17, 01:27 PM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 17, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
