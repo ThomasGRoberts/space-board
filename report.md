@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -4667,3 +4667,4 @@
 - **Jun 17, 02:13 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 17, 02:28 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 17, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
