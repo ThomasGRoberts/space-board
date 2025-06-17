@@ -6,7 +6,7 @@
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -4686,3 +4686,4 @@
 - **Jun 17, 03:55 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 04:09 PM** - Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it. (spacenews)
 - **Jun 17, 04:23 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 17, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
