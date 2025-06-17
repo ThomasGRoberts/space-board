@@ -1,9 +1,210 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-16T00:02:12.521861+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-06-17T00:02:03.801701+00:00",
+    "trigger_count": 2,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "77fbdc0952e3c8a9756f5aeae8d3bc47",
+            "source": "spacenews",
+            "text": "FCC highlights national security role in satellite licensing reforms",
+            "source_link": "https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T22:31:23.180019Z",
+            "shown_at": [
+                "2025-06-16T22:31:23.812151Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-15-9",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-17T00:51:00.000Z",
+            "time_remaining": "0d 00h 48m",
+            "fetched_datetime": "2025-06-16T17:01:37.890111Z",
+            "shown_at": [
+                "2025-06-16T17:01:38.477907Z",
+                "2025-06-16T17:03:25.366139Z",
+                "2025-06-16T17:05:27.133738Z",
+                "2025-06-16T17:07:16.117936Z",
+                "2025-06-16T17:09:33.044357Z",
+                "2025-06-16T17:11:19.065179Z",
+                "2025-06-16T17:13:38.899216Z",
+                "2025-06-16T17:59:31.093633Z",
+                "2025-06-16T18:01:58.388555Z",
+                "2025-06-16T18:03:45.588068Z",
+                "2025-06-16T18:05:26.969566Z",
+                "2025-06-16T18:08:05.250073Z",
+                "2025-06-16T18:09:44.755574Z",
+                "2025-06-16T18:11:47.986208Z",
+                "2025-06-16T18:55:29.952292Z",
+                "2025-06-16T18:57:49.682932Z",
+                "2025-06-16T18:59:41.492420Z",
+                "2025-06-16T19:02:01.998269Z",
+                "2025-06-16T19:03:09.157017Z",
+                "2025-06-16T19:05:28.408883Z",
+                "2025-06-16T19:07:38.885209Z",
+                "2025-06-16T19:51:31.829287Z",
+                "2025-06-16T19:53:35.302899Z",
+                "2025-06-16T19:55:29.129225Z",
+                "2025-06-16T19:57:30.690901Z",
+                "2025-06-16T19:59:37.267620Z",
+                "2025-06-16T20:02:06.268841Z",
+                "2025-06-16T20:03:26.606684Z",
+                "2025-06-16T20:49:40.793573Z",
+                "2025-06-16T20:51:33.781481Z",
+                "2025-06-16T20:53:37.930143Z",
+                "2025-06-16T20:55:42.377506Z",
+                "2025-06-16T20:57:23.886509Z",
+                "2025-06-16T20:59:49.346929Z",
+                "2025-06-16T21:02:13.331932Z",
+                "2025-06-16T21:47:42.908257Z",
+                "2025-06-16T21:49:32.720851Z",
+                "2025-06-16T21:51:25.665849Z",
+                "2025-06-16T21:53:40.438670Z",
+                "2025-06-16T21:55:14.562568Z",
+                "2025-06-16T21:57:27.110306Z",
+                "2025-06-16T21:59:04.552245Z",
+                "2025-06-16T22:59:41.697164Z",
+                "2025-06-16T23:02:09.026585Z",
+                "2025-06-16T23:05:34.266885Z",
+                "2025-06-16T23:07:26.406750Z",
+                "2025-06-16T23:09:31.480143Z",
+                "2025-06-16T23:11:39.852468Z",
+                "2025-06-16T23:13:23.251190Z",
+                "2025-06-16T23:57:27.147219Z",
+                "2025-06-16T23:59:27.761789Z",
+                "2025-06-17T00:02:04.692321Z"
+            ]
+        },
+        {
+            "id": "2ac44de8d5a0790bfdd4968fb853d066",
+            "source": "breaking_defense",
+            "text": "Commercial remote sensing: The critical U.S. National Security Space imperative",
+            "source_link": "https://breakingdefense.com/2025/06/commercial-remote-sensing-the-critical-u-s-national-security-space-imperative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T15:05:38.949974Z",
+            "shown_at": [
+                "2025-06-16T15:05:39.991680Z",
+                "2025-06-16T16:02:02.537061Z",
+                "2025-06-16T18:13:55.786839Z"
+            ]
+        },
+        {
+            "id": "3cd1e2d845cae5da5b6e76f63aa0f546",
+            "source": "spacenews",
+            "text": "China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits",
+            "source_link": "https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T14:19:28.761031Z",
+            "shown_at": [
+                "2025-06-16T14:19:29.444055Z",
+                "2025-06-16T18:27:30.449304Z"
+            ]
+        },
+        {
+            "id": "5fe03bb54c0b1d774de25429de1ae755",
+            "source": "spacenews",
+            "text": "Astroscale secures UK defense contract for space weather, object-tracking mission",
+            "source_link": "https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T13:47:37.826482Z",
+            "shown_at": [
+                "2025-06-16T13:47:38.608981Z"
+            ]
+        },
+        {
+            "id": "ac4529f96fbbccc989375442ba8df4b0",
+            "source": "spacenews",
+            "text": "An international commission to protect space cultural heritage on the moon is needed now",
+            "source_link": "https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T13:17:26.008488Z",
+            "shown_at": [
+                "2025-06-16T13:17:26.722134Z"
+            ]
+        },
+        {
+            "id": "1a5e851d5b5850355af3f503356ac924",
+            "source": "spacenews",
+            "text": "BlackSky unveils wide-area imaging satellite",
+            "source_link": "https://spacenews.com/blacksky-unveils-wide-area-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T12:31:34.020897Z",
+            "shown_at": [
+                "2025-06-16T12:31:34.653646Z"
+            ]
+        },
+        {
+            "id": "13e5153737a4a97f3e0265f29b91b392",
+            "source": "spacenews",
+            "text": "A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access",
+            "source_link": "https://spacenews.com/a-modular-future-for-earth-observation-how-domino-e-is-unlocking-innovation-sovereignty-and-access/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T12:14:01.379428Z",
+            "shown_at": [
+                "2025-06-16T12:14:02.011935Z"
+            ]
+        },
+        {
+            "id": "4ddb3cb71be3c3993ee7f5449942f483",
+            "source": "spacenews",
+            "text": "The administration’s anti-consensus Mars plan will fail",
+            "source_link": "https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T11:03:31.517863Z",
+            "shown_at": [
+                "2025-06-16T11:03:32.028250Z"
+            ]
+        },
+        {
+            "id": "9922ec1ec26dea274746176bf3e3bafd",
+            "source": "spacenews",
+            "text": "Members of Congress want White House to quickly nominate new NASA administrator",
+            "source_link": "https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T10:35:23.326160Z",
+            "shown_at": [
+                "2025-06-16T10:35:24.058678Z"
+            ]
+        },
+        {
+            "id": "3cb85663f3498cfd34d6879b7c4ac6af",
+            "source": "spacenews",
+            "text": "China’s Cangyu plans mixed-orbit commercial data relay satellite system",
+            "source_link": "https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T06:45:38.928259Z",
+            "shown_at": [
+                "2025-06-16T06:45:39.575129Z",
+                "2025-06-16T22:17:35.051862Z"
+            ]
+        },
+        {
+            "id": "665a5e0bc106ffced0983e40ca501ae2",
+            "source": "spacenews",
+            "text": "Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests",
+            "source_link": "https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-16T05:07:33.383563Z",
+            "shown_at": [
+                "2025-06-16T05:07:33.995286Z"
+            ]
+        },
         {
             "id": "efc0b99f4eeb64c42e7ac248e0a15631",
             "source": "spacenews",
@@ -9899,375 +10100,6 @@
             "shown_at": [
                 "2025-04-09T17:51:29.793350Z",
                 "2025-04-12T19:59:34.033987Z"
-            ]
-        },
-        {
-            "id": "e66d4249fb94f31bd4ea2ddbc20ed94c",
-            "source": "spacenews",
-            "text": "Space Force to roll out strategy for international collaboration",
-            "source_link": "https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:55:27.534470Z",
-            "shown_at": [
-                "2025-04-09T16:55:28.138057Z",
-                "2025-04-11T12:45:29.430043Z",
-                "2025-04-15T13:19:37.380378Z"
-            ]
-        },
-        {
-            "id": "fb259873405c2d6e98a790906003b60c",
-            "source": "breaking_defense",
-            "text": "Orbital power: Shaping national security from space",
-            "source_link": "https://breakingdefense.com/2025/04/orbital-power-shaping-national-security-from-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:41:52.215607Z",
-            "shown_at": [
-                "2025-04-09T16:41:53.584466Z",
-                "2025-04-11T14:49:47.975822Z",
-                "2025-04-12T11:45:26.158915Z",
-                "2025-04-13T16:29:42.850241Z",
-                "2025-04-14T16:15:48.639059Z",
-                "2025-04-14T23:01:55.132260Z",
-                "2025-04-15T00:29:26.966783Z"
-            ]
-        },
-        {
-            "id": "3bb54cc052f94a6013348132e7b64172",
-            "source": "spacenews",
-            "text": "Surge in NATO spending to benefit space sector",
-            "source_link": "https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T16:13:32.514083Z",
-            "shown_at": [
-                "2025-04-09T16:13:33.152652Z",
-                "2025-04-10T09:43:28.738672Z",
-                "2025-04-14T11:07:39.701982Z",
-                "2025-04-15T21:15:25.486946Z"
-            ]
-        },
-        {
-            "id": "edc2bc9d911102bb9c14d87cc6340ca9",
-            "source": "nyt",
-            "text": "Chinese Lunar Rocks Suggest a Thirsty Far Side of the Moon",
-            "source_link": "https://www.nytimes.com/2025/04/09/science/moon-far-side-water-china.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T15:17:38.692430Z",
-            "shown_at": [
-                "2025-04-09T15:17:39.324288Z",
-                "2025-04-11T10:51:51.577908Z",
-                "2025-04-11T13:43:31.919967Z",
-                "2025-04-13T04:49:43.834015Z",
-                "2025-04-14T08:33:07.382345Z",
-                "2025-04-15T08:03:34.327441Z",
-                "2025-04-16T00:05:37.242296Z"
-            ]
-        },
-        {
-            "id": "355bc2a2b924cb985f9b36d243fb8eb7",
-            "source": "spacenews",
-            "text": "The continued momentum of Artemis",
-            "source_link": "https://spacenews.com/the-continued-momentum-of-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T15:01:46.604866Z",
-            "shown_at": [
-                "2025-04-09T15:01:47.169905Z"
-            ]
-        },
-        {
-            "id": "bbd6bcd8cf0a49c59b69a9c613a6b63d",
-            "source": "spacenews",
-            "text": "China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions",
-            "source_link": "https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T14:02:07.142774Z",
-            "shown_at": [
-                "2025-04-09T14:02:08.230322Z",
-                "2025-04-11T07:43:44.691462Z",
-                "2025-04-15T15:15:07.489875Z",
-                "2025-04-16T04:19:09.071122Z"
-            ]
-        },
-        {
-            "id": "63cb6f1f0508a91883ed6162b8856a8f",
-            "source": "spacenews",
-            "text": "Startups are preparing for the launch of space-based solar power",
-            "source_link": "https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T13:15:36.104552Z",
-            "shown_at": [
-                "2025-04-09T13:15:37.506503Z"
-            ]
-        },
-        {
-            "id": "be039d82484a3d02fcc1965ad8e390d8",
-            "source": "spacenews",
-            "text": "Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way",
-            "source_link": "https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T11:09:43.134992Z",
-            "shown_at": [
-                "2025-04-09T11:09:44.352778Z"
-            ]
-        },
-        {
-            "id": "d22645db8e1ddcaeaf19daa8a01cb458",
-            "source": "spacenews",
-            "text": "Seeing the light: Cubesats share optical data",
-            "source_link": "https://spacenews.com/seeing-the-light-cubesats-share-optical-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T10:39:39.561532Z",
-            "shown_at": [
-                "2025-04-09T10:39:40.057792Z",
-                "2025-04-13T13:32:09.874236Z"
-            ]
-        },
-        {
-            "id": "28855e52f0142cebf8153cc7ce83d31a",
-            "source": "spacenews",
-            "text": "How to accelerate U.S. space acquisition and outpace threats",
-            "source_link": "https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T10:11:41.972064Z",
-            "shown_at": [
-                "2025-04-09T10:11:42.542011Z",
-                "2025-04-10T01:27:59.655340Z"
-            ]
-        },
-        {
-            "id": "35b44693f1b6625d95a38e89c3f60cea",
-            "source": "aidy",
-            "text": "Proposed 25–50% NASA Budget Cuts Threaten Science Programs Amid New Administration Changes",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-09T07:29:27.690546Z",
-            "shown_at": [
-                "2025-04-09T07:29:28.242938Z",
-                "2025-04-09T08:43:14.414830Z",
-                "2025-04-09T17:23:37.720251Z",
-                "2025-04-09T20:59:33.419305Z",
-                "2025-04-10T11:23:38.579117Z",
-                "2025-04-10T16:39:39.620656Z",
-                "2025-04-10T23:49:37.256732Z",
-                "2025-04-11T04:37:49.767542Z",
-                "2025-04-11T06:33:29.593143Z",
-                "2025-04-12T21:43:43.940945Z",
-                "2025-04-13T10:31:53.012957Z",
-                "2025-04-13T15:49:25.296552Z",
-                "2025-04-13T19:45:35.126131Z",
-                "2025-04-14T16:01:41.457036Z",
-                "2025-04-16T01:45:23.554066Z",
-                "2025-04-16T04:05:09.159236Z"
-            ]
-        },
-        {
-            "id": "665a5e0bc106ffced0983e40ca501ae2",
-            "source": "spacenews",
-            "text": "Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests",
-            "source_link": "https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T05:07:33.383563Z",
-            "shown_at": [
-                "2025-06-16T05:07:33.995286Z"
-            ]
-        },
-        {
-            "id": "3cb85663f3498cfd34d6879b7c4ac6af",
-            "source": "spacenews",
-            "text": "China’s Cangyu plans mixed-orbit commercial data relay satellite system",
-            "source_link": "https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T06:45:38.928259Z",
-            "shown_at": [
-                "2025-06-16T06:45:39.575129Z",
-                "2025-06-16T22:17:35.051862Z"
-            ]
-        },
-        {
-            "id": "9922ec1ec26dea274746176bf3e3bafd",
-            "source": "spacenews",
-            "text": "Members of Congress want White House to quickly nominate new NASA administrator",
-            "source_link": "https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T10:35:23.326160Z",
-            "shown_at": [
-                "2025-06-16T10:35:24.058678Z"
-            ]
-        },
-        {
-            "id": "4ddb3cb71be3c3993ee7f5449942f483",
-            "source": "spacenews",
-            "text": "The administration’s anti-consensus Mars plan will fail",
-            "source_link": "https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T11:03:31.517863Z",
-            "shown_at": [
-                "2025-06-16T11:03:32.028250Z"
-            ]
-        },
-        {
-            "id": "13e5153737a4a97f3e0265f29b91b392",
-            "source": "spacenews",
-            "text": "A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access",
-            "source_link": "https://spacenews.com/a-modular-future-for-earth-observation-how-domino-e-is-unlocking-innovation-sovereignty-and-access/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T12:14:01.379428Z",
-            "shown_at": [
-                "2025-06-16T12:14:02.011935Z"
-            ]
-        },
-        {
-            "id": "1a5e851d5b5850355af3f503356ac924",
-            "source": "spacenews",
-            "text": "BlackSky unveils wide-area imaging satellite",
-            "source_link": "https://spacenews.com/blacksky-unveils-wide-area-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T12:31:34.020897Z",
-            "shown_at": [
-                "2025-06-16T12:31:34.653646Z"
-            ]
-        },
-        {
-            "id": "ac4529f96fbbccc989375442ba8df4b0",
-            "source": "spacenews",
-            "text": "An international commission to protect space cultural heritage on the moon is needed now",
-            "source_link": "https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T13:17:26.008488Z",
-            "shown_at": [
-                "2025-06-16T13:17:26.722134Z"
-            ]
-        },
-        {
-            "id": "5fe03bb54c0b1d774de25429de1ae755",
-            "source": "spacenews",
-            "text": "Astroscale secures UK defense contract for space weather, object-tracking mission",
-            "source_link": "https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T13:47:37.826482Z",
-            "shown_at": [
-                "2025-06-16T13:47:38.608981Z"
-            ]
-        },
-        {
-            "id": "3cd1e2d845cae5da5b6e76f63aa0f546",
-            "source": "spacenews",
-            "text": "China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits",
-            "source_link": "https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T14:19:28.761031Z",
-            "shown_at": [
-                "2025-06-16T14:19:29.444055Z",
-                "2025-06-16T18:27:30.449304Z"
-            ]
-        },
-        {
-            "id": "2ac44de8d5a0790bfdd4968fb853d066",
-            "source": "breaking_defense",
-            "text": "Commercial remote sensing: The critical U.S. National Security Space imperative",
-            "source_link": "https://breakingdefense.com/2025/06/commercial-remote-sensing-the-critical-u-s-national-security-space-imperative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T15:05:38.949974Z",
-            "shown_at": [
-                "2025-06-16T15:05:39.991680Z",
-                "2025-06-16T16:02:02.537061Z",
-                "2025-06-16T18:13:55.786839Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-9",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-17T00:51:00.000Z",
-            "time_remaining": "0d 00h 51m",
-            "fetched_datetime": "2025-06-16T17:01:37.890111Z",
-            "shown_at": [
-                "2025-06-16T17:01:38.477907Z",
-                "2025-06-16T17:03:25.366139Z",
-                "2025-06-16T17:05:27.133738Z",
-                "2025-06-16T17:07:16.117936Z",
-                "2025-06-16T17:09:33.044357Z",
-                "2025-06-16T17:11:19.065179Z",
-                "2025-06-16T17:13:38.899216Z",
-                "2025-06-16T17:59:31.093633Z",
-                "2025-06-16T18:01:58.388555Z",
-                "2025-06-16T18:03:45.588068Z",
-                "2025-06-16T18:05:26.969566Z",
-                "2025-06-16T18:08:05.250073Z",
-                "2025-06-16T18:09:44.755574Z",
-                "2025-06-16T18:11:47.986208Z",
-                "2025-06-16T18:55:29.952292Z",
-                "2025-06-16T18:57:49.682932Z",
-                "2025-06-16T18:59:41.492420Z",
-                "2025-06-16T19:02:01.998269Z",
-                "2025-06-16T19:03:09.157017Z",
-                "2025-06-16T19:05:28.408883Z",
-                "2025-06-16T19:07:38.885209Z",
-                "2025-06-16T19:51:31.829287Z",
-                "2025-06-16T19:53:35.302899Z",
-                "2025-06-16T19:55:29.129225Z",
-                "2025-06-16T19:57:30.690901Z",
-                "2025-06-16T19:59:37.267620Z",
-                "2025-06-16T20:02:06.268841Z",
-                "2025-06-16T20:03:26.606684Z",
-                "2025-06-16T20:49:40.793573Z",
-                "2025-06-16T20:51:33.781481Z",
-                "2025-06-16T20:53:37.930143Z",
-                "2025-06-16T20:55:42.377506Z",
-                "2025-06-16T20:57:23.886509Z",
-                "2025-06-16T20:59:49.346929Z",
-                "2025-06-16T21:02:13.331932Z",
-                "2025-06-16T21:47:42.908257Z",
-                "2025-06-16T21:49:32.720851Z",
-                "2025-06-16T21:51:25.665849Z",
-                "2025-06-16T21:53:40.438670Z",
-                "2025-06-16T21:55:14.562568Z",
-                "2025-06-16T21:57:27.110306Z",
-                "2025-06-16T21:59:04.552245Z",
-                "2025-06-16T22:59:41.697164Z",
-                "2025-06-16T23:02:09.026585Z",
-                "2025-06-16T23:05:34.266885Z",
-                "2025-06-16T23:07:26.406750Z",
-                "2025-06-16T23:09:31.480143Z",
-                "2025-06-16T23:11:39.852468Z",
-                "2025-06-16T23:13:23.251190Z",
-                "2025-06-16T23:57:27.147219Z",
-                "2025-06-16T23:59:27.761789Z"
-            ]
-        },
-        {
-            "id": "77fbdc0952e3c8a9756f5aeae8d3bc47",
-            "source": "spacenews",
-            "text": "FCC highlights national security role in satellite licensing reforms",
-            "source_link": "https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T22:31:23.180019Z",
-            "shown_at": [
-                "2025-06-16T22:31:23.812151Z"
             ]
         }
     ]
