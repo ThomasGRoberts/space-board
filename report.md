@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 29 | 56 |
+| spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -4605,3 +4605,4 @@
 - **Jun 17, 07:53 AM** - THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS (spacenews)
 - **Jun 17, 08:07 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 17, 08:21 AM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
+- **Jun 17, 08:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
