@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 55 |
+| spacenews | 7 | 13 | 28 | 56 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4645,3 +4645,4 @@
 - **Jun 17, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 11:59 AM** - Kymeta’s new antenna promises ‘seamless’ satellite network ‘roaming’ (breaking_defense)
 - **Jun 17, 12:13 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 17, 12:27 PM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
