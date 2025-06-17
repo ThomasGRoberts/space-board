@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 29 | 56 |
 | supercluster | 1 | 1 | 56 | 56 |
 | breaking_defense | 1 | 1 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4612,3 +4612,4 @@
 - **Jun 17, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 17, 12:11 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 17, 12:25 AM** - SpaceNews successfully launches new business offering, hosts first custom event (spacenews)
+- **Jun 17, 12:39 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
