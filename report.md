@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 28 | 54 |
+| spacenews | 9 | 12 | 29 | 55 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4614,3 +4614,4 @@
 - **Jun 17, 08:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 08:49 AM** - ‘Not survivable’: Hegseth says DoD reviewing E-7 Wedgetail program amid move to space (breaking_defense)
 - **Jun 17, 09:05 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 17, 09:19 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
