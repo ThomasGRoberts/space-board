@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4595,3 +4595,4 @@
 - **Jun 17, 06:57 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
 - **Jun 17, 07:11 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 17, 07:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
