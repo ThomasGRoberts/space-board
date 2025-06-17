@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -4637,3 +4637,4 @@
 - **Jun 17, 11:17 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 17, 11:32 AM** - China launches new seismo-electromagnetic satellite with European partners (spacenews)
 - **Jun 17, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 17, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
