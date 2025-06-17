@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 26 | 54 |
+| spacenews | 4 | 13 | 27 | 55 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4714,3 +4714,4 @@
 - **Jun 17, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 17, 06:50 PM** - House appropriators call for new Space Force acquisition pilot (breaking_defense)
+- **Jun 17, 07:03 PM** - CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo (spacenews)
