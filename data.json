@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-17T00:02:03.801701+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4a345f64b3dc3b73495e2f3b8c3a1ff",
+    "trigger_count": 0,
+    "current_item_id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
     "data": [
         {
             "id": "77fbdc0952e3c8a9756f5aeae8d3bc47",
@@ -10297,6 +10297,18 @@
             "fetched_datetime": "2025-06-17T21:31:50.237417Z",
             "shown_at": [
                 "2025-06-17T21:31:50.685013Z"
+            ]
+        },
+        {
+            "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
+            "source": "breaking_defense",
+            "text": "Commercial ISR satellite operators petition Congress to reverse NRO cuts",
+            "source_link": "https://breakingdefense.com/2025/06/commercial-isr-satellite-operators-petition-congress-to-reverse-nro-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-17T21:45:47.240948Z",
+            "shown_at": [
+                "2025-06-17T21:45:48.127183Z"
             ]
         }
     ]
