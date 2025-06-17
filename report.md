@@ -4566,4 +4566,4 @@
 - **Jun 17, 03:05 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 03:19 AM** - ESA studying impacts of proposed NASA budget cuts (spacenews)
 - **Jun 17, 03:35 AM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
-- **Jun 17, 04:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 17, 04:34 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
