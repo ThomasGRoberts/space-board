@@ -6,7 +6,7 @@
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 106 | 106 |
+| supercluster | 2 | 2 | 107 | 107 |
 
 # Shown Order
 
@@ -4773,3 +4773,4 @@
 - **Jun 18, 10:51 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 11:05 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 18, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
