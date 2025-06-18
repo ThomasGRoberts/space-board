@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 25 | 47 |
 | spacenews | 5 | 15 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 166 | 166 |
+| supercluster | 1 | 1 | 167 | 167 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4780,3 +4780,4 @@
 - **Jun 18, 03:49 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 04:05 AM** - BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation (spacenews)
 - **Jun 18, 04:19 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 18, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
