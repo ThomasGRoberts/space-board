@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 23 | 45 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | spacenews | 4 | 12 | 24 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4660,3 +4660,4 @@
 - **Jun 18, 11:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 11:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 11:33 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 18, 11:47 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
