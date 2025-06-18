@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 55 |
 | nyt | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 138 | 138 |
+| supercluster | 1 | 1 | 139 | 139 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4740,3 +4740,4 @@
 - **Jun 18, 12:05 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 12:19 AM** - Electron launches third iQPS satellite in three months (spacenews)
 - **Jun 18, 12:33 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 18, 12:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
