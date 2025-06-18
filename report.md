@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 56 |
 | nyt | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 145 | 145 |
@@ -4749,3 +4749,4 @@
 - **Jun 18, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 01:02 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 18, 01:15 AM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
+- **Jun 18, 01:29 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
