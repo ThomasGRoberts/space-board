@@ -6,7 +6,7 @@
 | spacenews | 7 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 77 | 77 |
+| supercluster | 2 | 2 | 78 | 78 |
 
 # Shown Order
 
@@ -4732,3 +4732,4 @@
 - **Jun 18, 06:52 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 07:05 PM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
 - **Jun 18, 07:19 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 18, 07:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
