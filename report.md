@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
-| spacenews | 4 | 13 | 25 | 53 |
+| spacenews | 5 | 14 | 26 | 54 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -4631,3 +4631,4 @@
 - **Jun 18, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 08:39 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 18, 08:53 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 18, 09:09 AM** - Venturi Space announces European lunar rover design (spacenews)

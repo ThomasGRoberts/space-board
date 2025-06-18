@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-18T00:02:02.557073+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc00386d581f771b0a553bf5349a91da",
+    "trigger_count": 0,
+    "current_item_id": "2025bf3e328c1ed1045455be9f5bbc87",
     "data": [
         {
             "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
@@ -10125,6 +10125,18 @@
                 "2025-06-18T08:33:53.967593Z",
                 "2025-06-18T08:35:24.493541Z",
                 "2025-06-18T08:37:26.470919Z"
+            ]
+        },
+        {
+            "id": "2025bf3e328c1ed1045455be9f5bbc87",
+            "source": "spacenews",
+            "text": "Venturi Space announces European lunar rover design",
+            "source_link": "https://spacenews.com/venturi-space-announces-european-lunar-rover-design/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-18T09:09:31.320339Z",
+            "shown_at": [
+                "2025-06-18T09:09:31.884043Z"
             ]
         }
     ]
