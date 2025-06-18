@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4771,3 +4771,4 @@
 - **Jun 18, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 10:37 PM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
 - **Jun 18, 10:51 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 18, 11:05 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
