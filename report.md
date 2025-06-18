@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 11 | 25 | 52 |
+| spacenews | 5 | 12 | 25 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 36 | 36 |
@@ -4672,3 +4672,4 @@
 - **Jun 18, 12:42 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 12:43 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 12:57 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
+- **Jun 18, 01:15 PM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
