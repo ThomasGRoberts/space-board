@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 56 |
 | nyt | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 138 | 138 |
@@ -4739,3 +4739,4 @@
 - **Jun 18, 12:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 12:05 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 12:19 AM** - Electron launches third iQPS satellite in three months (spacenews)
+- **Jun 18, 12:33 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
