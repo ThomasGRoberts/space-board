@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 55 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 166 | 166 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4777,3 +4777,4 @@
 - **Jun 18, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 03:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 03:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 03:49 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
