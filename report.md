@@ -6,7 +6,7 @@
 | spacenews | 5 | 14 | 25 | 54 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 2 | 2 | 9 | 9 |
 
 # Shown Order
 
@@ -4632,3 +4632,4 @@
 - **Jun 18, 08:39 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 18, 08:53 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 18, 09:09 AM** - Venturi Space announces European lunar rover design (spacenews)
+- **Jun 18, 09:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
