@@ -6,7 +6,7 @@
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 50 | 50 |
+| supercluster | 2 | 2 | 51 | 51 |
 
 # Shown Order
 
@@ -4693,3 +4693,4 @@
 - **Jun 18, 02:54 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
 - **Jun 18, 03:11 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
 - **Jun 18, 03:25 PM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
+- **Jun 18, 03:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
