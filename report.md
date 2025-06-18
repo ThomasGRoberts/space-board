@@ -6,7 +6,7 @@
 | spacenews | 7 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 84 | 84 |
+| supercluster | 2 | 2 | 85 | 85 |
 
 # Shown Order
 
@@ -4742,3 +4742,4 @@
 - **Jun 18, 07:47 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 08:02 PM** - Reaction Dynamics prepares for takeoff (spacenews)
 - **Jun 18, 08:15 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 18, 08:29 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
