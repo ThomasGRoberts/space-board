@@ -6,7 +6,7 @@
 | spacenews | 5 | 14 | 25 | 54 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 16 | 16 |
+| supercluster | 2 | 2 | 17 | 17 |
 
 # Shown Order
 
@@ -4643,3 +4643,4 @@
 - **Jun 18, 09:51 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 18, 10:05 AM** - Reaction Dynamics prepares for takeoff (spacenews)
 - **Jun 18, 10:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 10:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
