@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 27 | 55 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 25 | 47 |
 | supercluster | 0 | 1 | 168 | 173 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4787,3 +4787,4 @@
 - **Jun 18, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 04:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 04:49 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
