@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
 | spacenews | 6 | 10 | 25 | 51 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 50 | 50 |
 
@@ -4690,3 +4690,4 @@
 - **Jun 18, 02:47 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 02:49 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 02:51 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 02:54 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
