@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 45 |
-| spacenews | 5 | 14 | 25 | 54 |
+| spacenews | 4 | 14 | 24 | 54 |
 | nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 21 | 21 |
+| supercluster | 2 | 2 | 22 | 22 |
 
 # Shown Order
 
@@ -4648,3 +4648,4 @@
 - **Jun 18, 10:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 10:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 10:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 10:32 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
