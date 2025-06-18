@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-18T00:02:02.557073+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b46805f9bf4358bd72d4c05466968fc7",
+    "trigger_count": 0,
+    "current_item_id": "2966c98a09fb087beebffe77157cec8d",
     "data": [
         {
             "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
@@ -10221,6 +10221,18 @@
             "fetched_datetime": "2025-06-18T13:15:47.327620Z",
             "shown_at": [
                 "2025-06-18T13:15:48.990040Z"
+            ]
+        },
+        {
+            "id": "2966c98a09fb087beebffe77157cec8d",
+            "source": "spacenews",
+            "text": "Varda to launch its first in-house built spacecraft for on-orbit manufacturing",
+            "source_link": "https://spacenews.com/varda-to-launch-its-first-in-house-designed-spacecraft-for-on-orbit-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-18T14:09:45.305967Z",
+            "shown_at": [
+                "2025-06-18T14:09:45.989558Z"
             ]
         }
     ]
