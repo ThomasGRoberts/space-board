@@ -6,7 +6,7 @@
 | spacenews | 7 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 79 | 79 |
+| supercluster | 2 | 2 | 80 | 80 |
 
 # Shown Order
 
@@ -4734,3 +4734,4 @@
 - **Jun 18, 07:19 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 18, 07:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 07:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 07:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
