@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 45 |
 | spacenews | 5 | 14 | 25 | 54 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 22 | 44 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 17 | 17 |
+| supercluster | 2 | 2 | 18 | 18 |
 
 # Shown Order
 
@@ -4644,3 +4644,4 @@
 - **Jun 18, 10:05 AM** - Reaction Dynamics prepares for takeoff (spacenews)
 - **Jun 18, 10:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 10:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 10:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
