@@ -6,7 +6,7 @@
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 70 | 70 |
+| supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
 
@@ -4722,3 +4722,4 @@
 - **Jun 18, 05:53 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 06:09 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 18, 06:23 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 18, 06:37 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
