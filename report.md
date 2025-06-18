@@ -6,7 +6,7 @@
 | spacenews | 7 | 12 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 91 | 91 |
+| supercluster | 2 | 2 | 92 | 92 |
 
 # Shown Order
 
@@ -4752,3 +4752,4 @@
 - **Jun 18, 08:43 PM** - Firefly announces commercial lunar imagery service (spacenews)
 - **Jun 18, 08:57 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 09:13 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
+- **Jun 18, 09:27 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
