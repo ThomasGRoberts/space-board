@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 22 | 46 |
 | spacenews | 7 | 12 | 25 | 51 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 112 | 112 |
 
@@ -4780,3 +4780,4 @@
 - **Jun 18, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 11:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 11:33 PM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
+- **Jun 18, 11:49 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
