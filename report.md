@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4702,3 +4702,4 @@
 - **Jun 18, 03:51 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 03:53 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 04:07 PM** - French SSA company Look Up raises 50 million euros (spacenews)
+- **Jun 18, 04:21 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
