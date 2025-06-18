@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 22 | 45 |
-| spacenews | 6 | 10 | 25 | 51 |
+| spacenews | 6 | 10 | 26 | 52 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 50 | 50 |
@@ -4691,3 +4691,4 @@
 - **Jun 18, 02:49 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 02:51 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 02:54 PM** - First Ever Images of Sun’s South Pole Released by Solar Orbiter (nyt)
+- **Jun 18, 03:11 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
