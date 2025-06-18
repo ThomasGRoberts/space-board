@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 12 | 25 | 53 |
+| spacenews | 5 | 11 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 30 | 30 |
+| supercluster | 2 | 2 | 31 | 31 |
 
 # Shown Order
 
@@ -4664,3 +4664,4 @@
 - **Jun 18, 12:01 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 18, 12:15 PM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
 - **Jun 18, 12:29 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 12:31 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
