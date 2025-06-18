@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
-| spacenews | 4 | 12 | 25 | 53 |
+| spacenews | 5 | 12 | 26 | 53 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 29 | 29 |
@@ -4662,3 +4662,4 @@
 - **Jun 18, 11:33 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 11:47 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 18, 12:01 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
+- **Jun 18, 12:15 PM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)

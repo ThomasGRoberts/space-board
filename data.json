@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-18T00:02:02.557073+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4ddb3cb71be3c3993ee7f5449942f483",
+    "trigger_count": 0,
+    "current_item_id": "a0659d2f02c334faa7fc621f64f38fc8",
     "data": [
         {
             "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
@@ -10180,6 +10180,18 @@
                 "2025-06-18T10:27:28.796955Z",
                 "2025-06-18T10:29:24.348369Z",
                 "2025-06-18T10:32:08.699119Z"
+            ]
+        },
+        {
+            "id": "a0659d2f02c334faa7fc621f64f38fc8",
+            "source": "spacenews",
+            "text": "Maxar partners with Array Labs to expand 3D imaging technology",
+            "source_link": "https://spacenews.com/maxar-partners-with-array-labs-to-expand-3d-imaging-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-18T12:15:29.083952Z",
+            "shown_at": [
+                "2025-06-18T12:15:29.544170Z"
             ]
         }
     ]
