@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 47 |
-| spacenews | 5 | 15 | 26 | 55 |
+| spacenews | 5 | 15 | 27 | 56 |
 | nyt | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 152 | 152 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4758,3 +4758,4 @@
 - **Jun 18, 01:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 01:57 AM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
+- **Jun 18, 02:11 AM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
