@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 13 | 25 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4620,3 +4620,4 @@
 - **Jun 18, 05:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 07:43 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
+- **Jun 18, 07:57 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
