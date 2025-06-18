@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 22 | 45 |
-| spacenews | 6 | 10 | 25 | 51 |
+| spacenews | 6 | 10 | 26 | 52 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 57 | 57 |
@@ -4701,3 +4701,4 @@
 - **Jun 18, 03:49 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 03:51 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 03:53 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 18, 04:07 PM** - French SSA company Look Up raises 50 million euros (spacenews)
