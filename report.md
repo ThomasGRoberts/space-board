@@ -6,7 +6,7 @@
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 105 | 105 |
+| supercluster | 2 | 2 | 106 | 106 |
 
 # Shown Order
 
@@ -4772,3 +4772,4 @@
 - **Jun 18, 10:37 PM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
 - **Jun 18, 10:51 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 11:05 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 18, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
