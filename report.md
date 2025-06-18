@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 55 |
-| nyt | 1 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 159 | 159 |
+| nyt | 1 | 1 | 23 | 47 |
+| supercluster | 1 | 1 | 160 | 160 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4770,3 +4770,4 @@
 - **Jun 18, 02:53 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
 - **Jun 18, 03:07 AM** - American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval (spacenews)
 - **Jun 18, 03:21 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 18, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
