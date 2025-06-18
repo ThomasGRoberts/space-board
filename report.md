@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 55 |
 | nyt | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 160 | 160 |
+| supercluster | 1 | 1 | 161 | 161 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4771,3 +4771,4 @@
 - **Jun 18, 03:07 AM** - American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval (spacenews)
 - **Jun 18, 03:21 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 18, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 03:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
