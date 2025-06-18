@@ -6,7 +6,7 @@
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 71 | 71 |
+| supercluster | 2 | 2 | 72 | 72 |
 
 # Shown Order
 
@@ -4723,3 +4723,4 @@
 - **Jun 18, 06:09 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 18, 06:23 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 18, 06:37 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 06:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
