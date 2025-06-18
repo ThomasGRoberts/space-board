@@ -6,7 +6,7 @@
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 58 | 58 |
+| supercluster | 2 | 2 | 59 | 59 |
 
 # Shown Order
 
@@ -4704,3 +4704,4 @@
 - **Jun 18, 04:07 PM** - French SSA company Look Up raises 50 million euros (spacenews)
 - **Jun 18, 04:21 PM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 18, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
