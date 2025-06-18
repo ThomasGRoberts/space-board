@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 22 | 46 |
 | spacenews | 6 | 12 | 25 | 52 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 98 | 98 |
 
@@ -4760,3 +4760,4 @@
 - **Jun 18, 09:37 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 09:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 09:41 PM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
+- **Jun 18, 09:55 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
