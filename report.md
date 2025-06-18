@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 22 | 45 |
+| breaking_defense | 2 | 2 | 23 | 46 |
 | spacenews | 7 | 12 | 25 | 52 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4751,3 +4751,4 @@
 - **Jun 18, 08:41 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 08:43 PM** - Firefly announces commercial lunar imagery service (spacenews)
 - **Jun 18, 08:57 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 18, 09:13 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
