@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 22 | 45 |
-| spacenews | 5 | 13 | 25 | 53 |
+| spacenews | 5 | 13 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4619,3 +4619,4 @@
 - **Jun 18, 05:17 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 18, 05:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 18, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 07:43 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
