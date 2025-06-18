@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 23 | 46 |
 | spacenews | 7 | 12 | 25 | 52 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 91 | 91 |
 
@@ -4750,3 +4750,4 @@
 - **Jun 18, 08:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 08:41 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 08:43 PM** - Firefly announces commercial lunar imagery service (spacenews)
+- **Jun 18, 08:57 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
