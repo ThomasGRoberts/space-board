@@ -6,7 +6,7 @@
 | spacenews | 5 | 12 | 25 | 53 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 29 | 29 |
+| supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
 
@@ -4663,3 +4663,4 @@
 - **Jun 18, 11:47 AM** - First Next-Gen OPIR missile warning launch pushed to 2026 (breaking_defense)
 - **Jun 18, 12:01 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 18, 12:15 PM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
+- **Jun 18, 12:29 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
