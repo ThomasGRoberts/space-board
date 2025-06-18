@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 47 |
-| spacenews | 5 | 15 | 26 | 55 |
+| spacenews | 5 | 15 | 27 | 56 |
 | nyt | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 159 | 159 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4768,3 +4768,4 @@
 - **Jun 18, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 02:53 AM** - First Ever Images of Sun’s South Pole Released by ESA Solar Orbiter (nyt)
+- **Jun 18, 03:07 AM** - American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval (spacenews)
