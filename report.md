@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 24 | 47 |
 | spacenews | 5 | 15 | 26 | 55 |
 | nyt | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 153 | 153 |
+| supercluster | 1 | 1 | 154 | 154 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4761,3 +4761,4 @@
 - **Jun 18, 02:11 AM** - AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement (spacenews)
 - **Jun 18, 02:25 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 18, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 02:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
