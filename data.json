@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-18T00:02:02.557073+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "fab906883cd6a14bbc29dd2308d196da",
     "data": [
         {
             "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
@@ -10363,6 +10363,18 @@
             "fetched_datetime": "2025-06-18T20:43:32.513491Z",
             "shown_at": [
                 "2025-06-18T20:43:33.140036Z"
+            ]
+        },
+        {
+            "id": "fab906883cd6a14bbc29dd2308d196da",
+            "source": "spacenews",
+            "text": "Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’",
+            "source_link": "https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-18T23:33:28.681465Z",
+            "shown_at": [
+                "2025-06-18T23:33:29.321564Z"
             ]
         }
     ]
