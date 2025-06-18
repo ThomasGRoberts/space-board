@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 45 |
-| spacenews | 4 | 14 | 24 | 54 |
-| nyt | 0 | 1 | 22 | 44 |
+| spacenews | 4 | 13 | 24 | 53 |
+| nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 22 | 22 |
 
@@ -4649,3 +4649,4 @@
 - **Jun 18, 10:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 10:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 18, 10:32 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 18, 10:35 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
