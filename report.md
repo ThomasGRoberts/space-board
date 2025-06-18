@@ -4618,4 +4618,4 @@
 - **Jun 18, 05:03 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
 - **Jun 18, 05:17 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 18, 05:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
-- **Jun 18, 06:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 06:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
