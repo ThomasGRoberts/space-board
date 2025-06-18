@@ -6,7 +6,7 @@
 | spacenews | 4 | 12 | 25 | 53 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 23 | 23 |
+| supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
 
@@ -4653,3 +4653,4 @@
 - **Jun 18, 10:51 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 18, 11:05 AM** - ‘Integrate’ software selected by Space Force to streamline satellite launches (spacenews)
 - **Jun 18, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 11:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
