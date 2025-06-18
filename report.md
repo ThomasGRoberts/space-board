@@ -6,7 +6,7 @@
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 43 | 43 |
+| supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
 
@@ -4683,3 +4683,4 @@
 - **Jun 18, 01:52 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 02:09 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 18, 02:23 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 18, 02:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
