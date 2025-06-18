@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | spacenews | 6 | 10 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4682,3 +4682,4 @@
 - **Jun 18, 01:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 01:52 PM** - A Near-Full ‘Strawberry Moon’ Will Shine Again on Wednesday Night (nyt)
 - **Jun 18, 02:09 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
+- **Jun 18, 02:23 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
