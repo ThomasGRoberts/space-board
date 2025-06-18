@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 46 |
-| spacenews | 6 | 11 | 24 | 50 |
+| spacenews | 6 | 11 | 25 | 51 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 105 | 105 |
@@ -4769,3 +4769,4 @@
 - **Jun 18, 10:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 10:37 PM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
