@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | spacenews | 4 | 13 | 25 | 53 |
 | nyt | 0 | 1 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4630,3 +4630,4 @@
 - **Jun 18, 08:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 18, 08:39 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
+- **Jun 18, 08:53 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
