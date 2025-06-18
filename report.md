@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 25 | 47 |
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 47 |
-| supercluster | 0 | 1 | 169 | 174 |
+| supercluster | 0 | 1 | 169 | 175 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4791,3 +4791,4 @@
 - **Jun 18, 05:03 AM** - Logos nets $50 million to advance plans for more than 4,000 broadband satellites (spacenews)
 - **Jun 18, 05:17 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 18, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 18, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
