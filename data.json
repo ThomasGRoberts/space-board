@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-18T00:02:02.557073+00:00",
-    "trigger_count": 6,
-    "current_item_id": "747b700bea974ffa788483fa39758c5a",
+    "trigger_count": 0,
+    "current_item_id": "50f7eb897c86e2d6c0625cc1d77b680a",
     "data": [
         {
             "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
@@ -10322,6 +10322,18 @@
             "fetched_datetime": "2025-06-18T20:15:14.028496Z",
             "shown_at": [
                 "2025-06-18T20:15:14.632077Z"
+            ]
+        },
+        {
+            "id": "50f7eb897c86e2d6c0625cc1d77b680a",
+            "source": "spacenews",
+            "text": "Firefly announces commercial lunar imagery service",
+            "source_link": "https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-18T20:43:32.513491Z",
+            "shown_at": [
+                "2025-06-18T20:43:33.140036Z"
             ]
         }
     ]
