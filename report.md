@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 50 |
+| spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 2 | 167 | 231 |
 | nyt | 3 | 3 | 26 | 49 |
@@ -4894,3 +4894,4 @@
 - **Jun 19, 04:49 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 04:51 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 19, 05:05 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 05:19 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
