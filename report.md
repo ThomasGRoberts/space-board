@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 24 | 51 |
+| spacenews | 7 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 2 | 2 | 121 | 121 |
+| supercluster | 2 | 2 | 122 | 122 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4733,3 +4733,4 @@
 - **Jun 19, 01:02 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
 - **Jun 19, 01:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 01:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 01:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
