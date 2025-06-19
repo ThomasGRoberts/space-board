@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3cd6997562e02e7bf7ffde9737a3c6cf",
+    "trigger_count": 0,
+    "current_item_id": "44dbb59c82393e1bd2f0a602c2e98c95",
     "data": [
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
@@ -10350,6 +10350,18 @@
             "shown_at": [
                 "2025-06-19T07:59:39.155051Z",
                 "2025-06-19T09:53:28.597094Z"
+            ]
+        },
+        {
+            "id": "44dbb59c82393e1bd2f0a602c2e98c95",
+            "source": "spacenews",
+            "text": "After Resilience’s moon landing attempt, why openness is key to the lunar economy",
+            "source_link": "https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T11:05:33.799361Z",
+            "shown_at": [
+                "2025-06-19T11:05:34.476999Z"
             ]
         }
     ]

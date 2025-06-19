@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 27 | 51 |
+| spacenews | 8 | 12 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 0 | 2 | 167 | 189 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -4832,3 +4832,4 @@
 - **Jun 19, 10:35 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 10:37 AM** - Starship destroyed in test stand explosion (spacenews)
 - **Jun 19, 10:51 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 11:05 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
