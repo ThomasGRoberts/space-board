@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 25 | 52 |
 | breaking_defense | 1 | 2 | 22 | 47 |
 | supercluster | 2 | 2 | 154 | 154 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4779,3 +4779,4 @@
 - **Jun 19, 05:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:23 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
+- **Jun 19, 05:37 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
