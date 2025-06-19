@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 51 |
+| spacenews | 7 | 12 | 24 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 2 | 2 | 113 | 113 |
+| supercluster | 2 | 2 | 114 | 114 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4722,3 +4722,4 @@
 - **Jun 18, 11:49 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 12:03 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 19, 12:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 12:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
