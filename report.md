@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 26 | 51 |
+| spacenews | 7 | 12 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 0 | 2 | 167 | 203 |
 | nyt | 1 | 1 | 25 | 48 |
@@ -4852,3 +4852,4 @@
 - **Jun 19, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 12:45 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 19, 01:02 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
