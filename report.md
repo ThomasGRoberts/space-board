@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 47 |
-| supercluster | 2 | 2 | 154 | 154 |
+| supercluster | 2 | 2 | 155 | 155 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4781,3 +4781,4 @@
 - **Jun 19, 05:23 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
 - **Jun 19, 05:37 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 05:51 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
+- **Jun 19, 06:07 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
