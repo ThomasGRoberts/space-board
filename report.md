@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 2 | 168 | 252 |
-| nyt | 3 | 3 | 25 | 48 |
+| nyt | 3 | 3 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4923,3 +4923,4 @@
 - **Jun 19, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 07:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 07:45 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 19, 07:59 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
