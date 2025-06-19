@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | supercluster | 2 | 2 | 140 | 140 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4760,3 +4760,4 @@
 - **Jun 19, 03:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 03:27 AM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 19, 03:41 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 03:57 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
