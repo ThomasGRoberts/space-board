@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 167 | 225 |
+| supercluster | 0 | 2 | 167 | 226 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4886,3 +4886,4 @@
 - **Jun 19, 04:09 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 19, 04:23 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
 - **Jun 19, 04:37 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 04:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
