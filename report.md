@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 2 | 2 | 161 | 161 |
+| supercluster | 2 | 2 | 162 | 162 |
 | nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4791,3 +4791,4 @@
 - **Jun 19, 06:21 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
 - **Jun 19, 06:35 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 06:49 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 19, 07:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
