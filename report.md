@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 167 | 203 |
-| nyt | 1 | 1 | 24 | 47 |
+| nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4851,3 +4851,4 @@
 - **Jun 19, 12:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 19, 12:45 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
