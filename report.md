@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 50 |
+| spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 161 | 273 |
-| nyt | 3 | 3 | 25 | 47 |
+| nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4954,3 +4954,4 @@
 - **Jun 19, 11:17 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 11:19 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 11:21 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 19, 11:35 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
