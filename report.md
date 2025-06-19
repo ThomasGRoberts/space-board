@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 50 |
+| spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 2 | 161 | 266 |
 | nyt | 3 | 3 | 25 | 48 |
@@ -4945,3 +4945,4 @@
 - **Jun 19, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 10:19 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 19, 10:39 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 19, 10:53 PM** - Starship destroyed in test stand explosion (spacenews)
