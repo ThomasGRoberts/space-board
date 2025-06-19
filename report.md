@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 27 | 52 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 2 | 2 | 168 | 168 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4799,3 +4799,4 @@
 - **Jun 19, 07:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 07:17 AM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
+- **Jun 19, 07:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
