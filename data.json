@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e11e9cebdcb481a10dcf848cb815a13",
+    "trigger_count": 0,
+    "current_item_id": "f7cce9c990164ca4ddedcf45baabee24",
     "data": [
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
@@ -10308,6 +10308,18 @@
             "fetched_datetime": "2025-06-19T07:45:44.224401Z",
             "shown_at": [
                 "2025-06-19T07:45:45.205869Z"
+            ]
+        },
+        {
+            "id": "f7cce9c990164ca4ddedcf45baabee24",
+            "source": "nyt",
+            "text": "SpaceX Starship Explodes During Test in Texas",
+            "source_link": "https://www.nytimes.com/2025/06/19/us/spacex-rocket-explosion-texas.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T07:59:38.657814Z",
+            "shown_at": [
+                "2025-06-19T07:59:39.155051Z"
             ]
         }
     ]
