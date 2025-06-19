@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 0 | 2 | 163 | 268 |
-| nyt | 3 | 3 | 25 | 48 |
+| supercluster | 0 | 2 | 164 | 269 |
+| nyt | 3 | 3 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4948,3 +4948,4 @@
 - **Jun 19, 10:53 PM** - Starship destroyed in test stand explosion (spacenews)
 - **Jun 19, 11:07 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 11:09 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 11:11 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
