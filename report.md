@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 52 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | supercluster | 2 | 2 | 147 | 147 |
 | nyt | 0 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4770,3 +4770,4 @@
 - **Jun 19, 04:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 04:25 AM** - Venturi Space announces European lunar rover design (spacenews)
 - **Jun 19, 04:39 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 04:53 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
