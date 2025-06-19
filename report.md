@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 166 | 183 |
+| supercluster | 0 | 2 | 166 | 184 |
 | nyt | 1 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4824,3 +4824,4 @@
 - **Jun 19, 09:53 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 19, 10:09 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 19, 10:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 10:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
