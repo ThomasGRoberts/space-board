@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 0 | 2 | 161 | 266 |
+| supercluster | 0 | 2 | 162 | 267 |
 | nyt | 3 | 3 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4946,3 +4946,4 @@
 - **Jun 19, 10:19 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 19, 10:39 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 19, 10:53 PM** - Starship destroyed in test stand explosion (spacenews)
+- **Jun 19, 11:07 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
