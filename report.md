@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 51 |
+| spacenews | 6 | 12 | 26 | 50 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 2 | 168 | 238 |
-| nyt | 3 | 3 | 25 | 48 |
+| nyt | 3 | 3 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4903,3 +4903,4 @@
 - **Jun 19, 05:45 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:47 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:49 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 19, 06:03 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
