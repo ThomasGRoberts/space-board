@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 24 | 51 |
+| spacenews | 7 | 12 | 25 | 52 |
 | breaking_defense | 1 | 2 | 22 | 47 |
 | supercluster | 2 | 2 | 154 | 154 |
 | nyt | 0 | 1 | 22 | 46 |
@@ -4778,3 +4778,4 @@
 - **Jun 19, 05:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 05:23 AM** - Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma (spacenews)
