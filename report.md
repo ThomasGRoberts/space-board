@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 26 | 52 |
+| spacenews | 8 | 13 | 27 | 53 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 1 | 2 | 167 | 168 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -4800,3 +4800,4 @@
 - **Jun 19, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 07:17 AM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 19, 07:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 07:45 AM** - Starship destroyed in test stand explosion (spacenews)
