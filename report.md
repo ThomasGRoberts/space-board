@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 27 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 167 | 189 |
 | nyt | 1 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4833,3 +4833,4 @@
 - **Jun 19, 10:37 AM** - Starship destroyed in test stand explosion (spacenews)
 - **Jun 19, 10:51 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 11:05 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
+- **Jun 19, 11:19 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
