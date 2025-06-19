@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | supercluster | 2 | 2 | 161 | 161 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4789,3 +4789,4 @@
 - **Jun 19, 06:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:21 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
+- **Jun 19, 06:35 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
