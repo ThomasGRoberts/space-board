@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 170 | 240 |
+| supercluster | 0 | 2 | 171 | 241 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4907,3 +4907,4 @@
 - **Jun 19, 06:17 PM** - Firefly announces commercial lunar imagery service (spacenews)
 - **Jun 19, 06:31 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:33 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 06:35 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
