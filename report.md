@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 50 |
-| breaking_defense | 2 | 3 | 25 | 47 |
+| spacenews | 6 | 12 | 26 | 51 |
+| breaking_defense | 2 | 3 | 24 | 47 |
 | supercluster | 0 | 2 | 167 | 224 |
 | nyt | 3 | 3 | 26 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4884,3 +4884,4 @@
 - **Jun 19, 03:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 03:55 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 19, 04:09 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 19, 04:23 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
