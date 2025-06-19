@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 24 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 2 | 2 | 135 | 135 |
+| supercluster | 2 | 2 | 136 | 136 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4753,3 +4753,4 @@
 - **Jun 19, 02:59 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 19, 03:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 03:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 03:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
