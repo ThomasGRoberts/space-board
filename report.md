@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 168 | 233 |
+| supercluster | 0 | 2 | 169 | 234 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4897,3 +4897,4 @@
 - **Jun 19, 05:19 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 19, 05:33 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:36 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 05:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
