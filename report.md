@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 27 | 51 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| spacenews | 6 | 11 | 26 | 51 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 167 | 203 |
 | nyt | 1 | 1 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4853,3 +4853,4 @@
 - **Jun 19, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 12:45 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 19, 01:02 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
+- **Jun 19, 01:17 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
