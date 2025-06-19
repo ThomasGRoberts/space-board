@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 161 | 259 |
-| nyt | 3 | 3 | 26 | 48 |
+| supercluster | 0 | 2 | 162 | 260 |
+| nyt | 3 | 3 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4936,3 +4936,4 @@
 - **Jun 19, 08:55 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 19, 09:09 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 19, 09:31 PM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
+- **Jun 19, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
