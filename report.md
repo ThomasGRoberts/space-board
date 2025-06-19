@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
-| breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 171 | 238 |
+| breaking_defense | 2 | 3 | 25 | 48 |
+| supercluster | 0 | 2 | 170 | 238 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4902,3 +4902,4 @@
 - **Jun 19, 05:43 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:45 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 05:47 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 05:49 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
