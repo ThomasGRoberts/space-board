@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 167 | 212 |
+| supercluster | 0 | 2 | 166 | 213 |
 | nyt | 2 | 2 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4867,3 +4867,4 @@
 - **Jun 19, 02:27 PM** - House appropriators advance defense bill, slam White House for budget delay (spacenews)
 - **Jun 19, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 19, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
