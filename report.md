@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 51 |
 | breaking_defense | 1 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 163 | 252 |
+| supercluster | 0 | 2 | 162 | 253 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4926,3 +4926,4 @@
 - **Jun 19, 07:59 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 08:13 PM** - China launches new seismo-electromagnetic satellite with European partners (spacenews)
 - **Jun 19, 08:27 PM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)
+- **Jun 19, 08:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
