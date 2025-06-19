@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 51 |
+| spacenews | 6 | 13 | 27 | 52 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | supercluster | 0 | 2 | 168 | 252 |
 | nyt | 3 | 3 | 26 | 48 |
@@ -4925,3 +4925,4 @@
 - **Jun 19, 07:45 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 19, 07:59 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 08:13 PM** - China launches new seismo-electromagnetic satellite with European partners (spacenews)
+- **Jun 19, 08:27 PM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)

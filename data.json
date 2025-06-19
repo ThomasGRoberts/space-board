@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ff0133116833b1c1d8dd8dba9deb349",
+    "trigger_count": 0,
+    "current_item_id": "6dcfc8391c1117fc268285b4a44541f8",
     "data": [
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
@@ -10498,6 +10498,18 @@
             "shown_at": [
                 "2025-06-19T16:09:30.075259Z",
                 "2025-06-19T18:03:40.457225Z"
+            ]
+        },
+        {
+            "id": "6dcfc8391c1117fc268285b4a44541f8",
+            "source": "spacenews",
+            "text": "Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers",
+            "source_link": "https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T20:27:28.331546Z",
+            "shown_at": [
+                "2025-06-19T20:27:28.869443Z"
             ]
         }
     ]
