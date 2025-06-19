@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| spacenews | 7 | 12 | 26 | 52 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 167 | 196 |
 | nyt | 1 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4843,3 +4843,4 @@
 - **Jun 19, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 11:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 12:01 PM** - The Exploration Company outlines plans for human spaceflight (spacenews)
+- **Jun 19, 12:15 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
