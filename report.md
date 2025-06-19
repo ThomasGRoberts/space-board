@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| spacenews | 7 | 12 | 26 | 52 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 2 | 167 | 175 |
 | nyt | 1 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4812,3 +4812,4 @@
 - **Jun 19, 08:39 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 08:41 AM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 19, 08:55 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 09:11 AM** - Nine steps to make Golden Dome a true success (breaking_defense)
