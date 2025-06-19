@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7cce9c990164ca4ddedcf45baabee24",
+    "trigger_count": 0,
+    "current_item_id": "8c424f0e21b4ca40e79ea4cbdb96490d",
     "data": [
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
@@ -10425,6 +10425,18 @@
             "fetched_datetime": "2025-06-19T14:13:57.885291Z",
             "shown_at": [
                 "2025-06-19T14:13:59.239263Z"
+            ]
+        },
+        {
+            "id": "8c424f0e21b4ca40e79ea4cbdb96490d",
+            "source": "spacenews",
+            "text": "Portal Space Systems to build larger factory for Supernova vehicle",
+            "source_link": "https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T15:23:07.812819Z",
+            "shown_at": [
+                "2025-06-19T15:23:08.471452Z"
             ]
         }
     ]

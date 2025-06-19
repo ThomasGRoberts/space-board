@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 25 | 50 |
+| spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 2 | 167 | 217 |
 | nyt | 2 | 2 | 26 | 49 |
@@ -4874,3 +4874,4 @@
 - **Jun 19, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 02:55 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 19, 03:09 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 19, 03:23 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
