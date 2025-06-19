@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 46 |
 | supercluster | 2 | 2 | 126 | 126 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4739,3 +4739,4 @@
 - **Jun 19, 01:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 01:31 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 01:33 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
+- **Jun 19, 01:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
