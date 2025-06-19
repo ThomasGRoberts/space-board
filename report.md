@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 168 | 238 |
+| supercluster | 0 | 2 | 169 | 239 |
 | nyt | 3 | 3 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4905,3 +4905,4 @@
 - **Jun 19, 05:49 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 19, 06:03 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 19, 06:17 PM** - Firefly announces commercial lunar imagery service (spacenews)
+- **Jun 19, 06:31 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
