@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 166 | 217 |
+| supercluster | 0 | 2 | 166 | 218 |
 | nyt | 2 | 2 | 26 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4875,3 +4875,4 @@
 - **Jun 19, 02:55 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 19, 03:09 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 19, 03:23 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
+- **Jun 19, 03:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
