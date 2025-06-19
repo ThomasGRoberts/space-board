@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 27 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 161 | 190 |
-| nyt | 1 | 1 | 25 | 47 |
+| supercluster | 0 | 2 | 162 | 191 |
+| nyt | 1 | 1 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4835,3 +4835,4 @@
 - **Jun 19, 11:05 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
 - **Jun 19, 11:19 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 19, 11:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 19, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
