@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | supercluster | 2 | 2 | 133 | 133 |
 | nyt | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4750,3 +4750,4 @@
 - **Jun 19, 02:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 02:31 AM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 19, 02:45 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 02:59 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
