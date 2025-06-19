@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 167 | 203 |
+| supercluster | 0 | 2 | 168 | 204 |
 | nyt | 1 | 1 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4854,3 +4854,4 @@
 - **Jun 19, 12:45 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 19, 01:02 PM** - Is AI the next frontier in spacecraft design, or just a shiny buzzword? (spacenews)
 - **Jun 19, 01:17 PM** - Nine steps to make Golden Dome a true success (breaking_defense)
+- **Jun 19, 01:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
