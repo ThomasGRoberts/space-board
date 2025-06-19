@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 25 | 52 |
 | breaking_defense | 1 | 2 | 22 | 47 |
 | supercluster | 2 | 2 | 147 | 147 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4769,3 +4769,4 @@
 - **Jun 19, 04:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 04:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 04:25 AM** - Venturi Space announces European lunar rover design (spacenews)
+- **Jun 19, 04:39 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
