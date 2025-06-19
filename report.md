@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 51 |
+| spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | supercluster | 2 | 2 | 161 | 161 |
 | nyt | 0 | 1 | 22 | 46 |
@@ -4788,3 +4788,4 @@
 - **Jun 19, 06:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 19, 06:21 AM** - Muon Space raises $90 million to scale satellite production and acquire propulsion startup (spacenews)
