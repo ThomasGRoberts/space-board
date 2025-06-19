@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | breaking_defense | 2 | 3 | 25 | 47 |
 | supercluster | 0 | 2 | 168 | 245 |
 | nyt | 3 | 3 | 26 | 49 |
@@ -4914,3 +4914,4 @@
 - **Jun 19, 06:43 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 19, 06:45 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 19, 07:01 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 19, 07:17 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
