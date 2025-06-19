@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 51 |
+| spacenews | 6 | 12 | 27 | 51 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 | supercluster | 0 | 2 | 166 | 259 |
 | nyt | 3 | 3 | 26 | 48 |
@@ -4935,3 +4935,4 @@
 - **Jun 19, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 19, 08:55 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 19, 09:09 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 19, 09:31 PM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)

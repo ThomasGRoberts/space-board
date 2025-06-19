@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e3ffc7bdb163f56146db0d72f30a3b6",
+    "trigger_count": 0,
+    "current_item_id": "35bcfe66128625bdf58e69a5e3e742fd",
     "data": [
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
@@ -10519,6 +10519,18 @@
             "fetched_datetime": "2025-06-19T20:27:28.331546Z",
             "shown_at": [
                 "2025-06-19T20:27:28.869443Z"
+            ]
+        },
+        {
+            "id": "35bcfe66128625bdf58e69a5e3e742fd",
+            "source": "spacenews",
+            "text": "French government to lead Eutelsat’s $1.56 billion capital boost",
+            "source_link": "https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T21:31:53.893908Z",
+            "shown_at": [
+                "2025-06-19T21:31:54.766744Z"
             ]
         }
     ]
