@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e3ffc7bdb163f56146db0d72f30a3b6",
+    "trigger_count": 0,
+    "current_item_id": "a84da12146c9e1261adb7eef71e7642f",
     "data": [
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
@@ -10281,6 +10281,18 @@
             "fetched_datetime": "2025-06-20T15:55:39.853309Z",
             "shown_at": [
                 "2025-06-20T15:55:40.369192Z"
+            ]
+        },
+        {
+            "id": "a84da12146c9e1261adb7eef71e7642f",
+            "source": "spacenews",
+            "text": "Pentagon struggles to build unified satellite network ",
+            "source_link": "https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T19:23:56.091895Z",
+            "shown_at": [
+                "2025-06-20T19:23:57.065502Z"
             ]
         }
     ]
