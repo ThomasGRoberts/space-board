@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 25 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 161 | 273 |
+| supercluster | 0 | 2 | 162 | 274 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4931,3 +4931,4 @@
 - **Jun 19, 11:21 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 19, 11:35 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 11:49 PM** - July decision expected on combination of European space companies (spacenews)
+- **Jun 20, 12:03 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
