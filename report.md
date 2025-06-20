@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 21 | 46 |
 | breaking_defense | 0 | 2 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4746,3 +4746,4 @@
 - **Jun 20, 07:23 PM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 20, 07:38 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 20, 07:51 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 07:53 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
