@@ -3,10 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 25 | 52 |
-| nyt | 3 | 3 | 25 | 49 |
+| nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4680,13 +4679,6 @@
 - **Jun 20, 06:17 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 20, 06:32 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 20, 07:02 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
-- **Jun 20, 07:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 07:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 07:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 20, 07:45 AM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 20, 07:59 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
