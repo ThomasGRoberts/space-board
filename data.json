@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2966c98a09fb087beebffe77157cec8d",
+    "trigger_count": 0,
+    "current_item_id": "6d830bf30f1051fdc25cff1077ac05ac",
     "data": [
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
@@ -10249,6 +10249,18 @@
             "fetched_datetime": "2025-06-20T13:43:55.455173Z",
             "shown_at": [
                 "2025-06-20T13:43:56.566928Z"
+            ]
+        },
+        {
+            "id": "6d830bf30f1051fdc25cff1077ac05ac",
+            "source": "nyt",
+            "text": "How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery",
+            "source_link": "https://www.nytimes.com/2025/06/20/science/vera-rubin-telescope-data.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T15:55:39.853309Z",
+            "shown_at": [
+                "2025-06-20T15:55:40.369192Z"
             ]
         }
     ]
