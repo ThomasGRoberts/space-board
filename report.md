@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 53 |
-| nyt | 2 | 3 | 22 | 47 |
+| spacenews | 7 | 12 | 27 | 52 |
+| nyt | 2 | 3 | 23 | 48 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -4703,3 +4703,4 @@
 - **Jun 20, 01:41 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:43 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
 - **Jun 20, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 20, 02:11 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
