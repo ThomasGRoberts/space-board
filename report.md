@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 53 |
 | nyt | 2 | 3 | 22 | 47 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -4702,3 +4702,4 @@
 - **Jun 20, 01:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:41 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:43 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
+- **Jun 20, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
