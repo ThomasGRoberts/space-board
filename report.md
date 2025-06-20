@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 2 | 161 | 315 |
@@ -4990,3 +4990,4 @@
 - **Jun 20, 05:05 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 05:07 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 20, 05:21 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 20, 05:35 AM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
