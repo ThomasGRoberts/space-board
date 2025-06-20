@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 48 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4685,3 +4685,4 @@
 - **Jun 20, 07:59 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 20, 08:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 08:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 08:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
