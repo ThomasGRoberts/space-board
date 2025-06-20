@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 2 | 161 | 280 |
@@ -4940,3 +4940,4 @@
 - **Jun 20, 12:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 12:17 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 20, 12:31 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 20, 12:45 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
