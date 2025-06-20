@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
 | nyt | 1 | 4 | 21 | 47 |
-| breaking_defense | 0 | 2 | 20 | 44 |
+| breaking_defense | 0 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 32 | 32 |
 
@@ -4744,3 +4744,4 @@
 - **Jun 20, 06:55 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
 - **Jun 20, 07:09 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 20, 07:23 PM** - Pentagon struggles to build unified satellite network  (spacenews)
+- **Jun 20, 07:38 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
