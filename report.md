@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 52 |
-| nyt | 1 | 4 | 22 | 48 |
-| breaking_defense | 0 | 2 | 21 | 45 |
+| nyt | 1 | 4 | 22 | 47 |
+| breaking_defense | 0 | 2 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -4723,3 +4723,4 @@
 - **Jun 20, 03:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 03:39 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 20, 03:55 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
+- **Jun 20, 05:00 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
