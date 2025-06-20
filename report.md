@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 51 |
-| nyt | 3 | 3 | 25 | 48 |
+| nyt | 3 | 3 | 25 | 47 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 0 | 2 | 163 | 275 |
+| supercluster | 0 | 2 | 164 | 276 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4933,3 +4933,4 @@
 - **Jun 19, 11:49 PM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 20, 12:03 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 12:05 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 12:07 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
