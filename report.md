@@ -4687,4 +4687,4 @@
 - **Jun 20, 08:41 AM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
 - **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 20, 09:11 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
-- **Jun 20, 09:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 09:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
