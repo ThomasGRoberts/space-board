@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 27 | 53 |
 | nyt | 2 | 3 | 24 | 48 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -4701,3 +4701,4 @@
 - **Jun 20, 10:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 10:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 10:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 10:37 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
