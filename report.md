@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4720,3 +4720,4 @@
 - **Jun 20, 12:25 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 12:32 PM** - China Will Launch the Long March 3B Rocket (supercluster)
