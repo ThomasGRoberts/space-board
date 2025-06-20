@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
 | nyt | 3 | 3 | 25 | 47 |
-| breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 0 | 2 | 168 | 301 |
+| breaking_defense | 1 | 2 | 24 | 47 |
+| supercluster | 0 | 2 | 167 | 301 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4968,3 +4968,4 @@
 - **Jun 20, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 20, 03:15 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
