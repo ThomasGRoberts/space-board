@@ -6,7 +6,6 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4687,38 +4686,13 @@
 - **Jun 20, 08:41 AM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
 - **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 20, 09:11 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
-- **Jun 20, 09:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 09:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 09:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 09:37 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 09:39 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 20, 09:53 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 10:09 AM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
-- **Jun 20, 10:23 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:29 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 10:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 10:37 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
 - **Jun 20, 10:51 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 11:07 AM** - CEOs push back on proposed cuts to commercial satellite imaging programs (spacenews)
-- **Jun 20, 11:21 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:23 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:25 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:27 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:29 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 11:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 11:35 AM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
 - **Jun 20, 11:49 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 20, 12:05 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
-- **Jun 20, 12:19 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:21 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:23 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:25 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
-- **Jun 20, 12:32 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:33 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
