@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 27 | 53 |
 | nyt | 1 | 3 | 22 | 48 |
-| breaking_defense | 0 | 2 | 22 | 46 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -4712,3 +4712,4 @@
 - **Jun 20, 02:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 02:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 02:39 PM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
+- **Jun 20, 02:53 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
