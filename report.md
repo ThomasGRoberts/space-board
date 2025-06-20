@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 21 | 46 |
 | breaking_defense | 0 | 2 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4747,3 +4747,4 @@
 - **Jun 20, 07:38 PM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 20, 07:51 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 07:53 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 07:55 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
