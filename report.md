@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
 | nyt | 1 | 4 | 21 | 47 |
-| breaking_defense | 0 | 2 | 20 | 44 |
+| breaking_defense | 0 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -4733,3 +4733,4 @@
 - **Jun 20, 05:53 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 05:56 PM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
 - **Jun 20, 06:11 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 20, 06:25 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
