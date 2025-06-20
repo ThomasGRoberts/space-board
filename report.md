@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 21 | 47 |
 | breaking_defense | 0 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4725,3 +4725,4 @@
 - **Jun 20, 03:55 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 20, 05:00 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 20, 05:41 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 05:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
