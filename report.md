@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 48 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4697,4 +4697,3 @@
 - **Jun 20, 11:49 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 20, 12:05 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 20, 12:33 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
-- **Jun 20, 12:47 PM** - China Will Launch the Long March 3B Rocket (supercluster)
