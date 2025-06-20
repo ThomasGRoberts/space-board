@@ -6,7 +6,7 @@
 | nyt | 1 | 3 | 22 | 48 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4705,3 +4705,4 @@
 - **Jun 20, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 20, 02:11 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 02:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 02:27 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
