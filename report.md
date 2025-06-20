@@ -6,7 +6,7 @@
 | nyt | 3 | 3 | 25 | 48 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4682,3 +4682,4 @@
 - **Jun 20, 07:02 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 20, 07:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 07:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 07:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
