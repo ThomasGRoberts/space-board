@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 25 | 52 |
 | nyt | 2 | 3 | 24 | 48 |
-| breaking_defense | 1 | 2 | 25 | 48 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4684,3 +4684,4 @@
 - **Jun 20, 07:45 AM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 20, 07:59 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 20, 08:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 08:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
