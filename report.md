@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 51 |
-| nyt | 1 | 4 | 21 | 47 |
+| spacenews | 6 | 12 | 26 | 52 |
+| nyt | 1 | 4 | 21 | 46 |
 | breaking_defense | 0 | 2 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
@@ -4731,3 +4731,4 @@
 - **Jun 20, 05:49 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 05:51 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 05:53 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 05:56 PM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
