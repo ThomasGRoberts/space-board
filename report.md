@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 48 |
 | breaking_defense | 1 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4699,3 +4699,4 @@
 - **Jun 20, 12:33 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 20, 01:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 01:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
