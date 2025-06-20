@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 52 |
 | nyt | 1 | 4 | 21 | 47 |
-| breaking_defense | 0 | 1 | 20 | 44 |
+| breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -4764,3 +4764,4 @@
 - **Jun 20, 08:59 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 09:02 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 20, 09:15 PM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
+- **Jun 20, 09:29 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
