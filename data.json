@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 2,
-    "current_item_id": "747b700bea974ffa788483fa39758c5a",
+    "trigger_count": 3,
+    "current_item_id": "23a1733f2b7911de2124e8e24c3c2414",
     "data": [
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
@@ -10182,17 +10182,17 @@
             ]
         },
         {
-            "id": "747b700bea974ffa788483fa39758c5a",
+            "id": "23a1733f2b7911de2124e8e24c3c2414",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Confidential Spacecraft",
-            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
+            "text": "China Will Launch the Long March 3B Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-3buu",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-20T09:24:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-20T09:29:30.676093Z",
+            "target_datetime": "2025-06-20T12:35:00.000Z",
+            "time_remaining": "0d 03h 03m",
+            "fetched_datetime": "2025-06-20T09:31:56.396680Z",
             "shown_at": [
-                "2025-06-20T09:29:31.294088Z"
+                "2025-06-20T09:31:56.836366Z"
             ]
         }
     ]
