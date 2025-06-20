@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 25 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 161 | 280 |
+| supercluster | 0 | 2 | 162 | 281 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4941,3 +4941,4 @@
 - **Jun 20, 12:17 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 20, 12:31 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 12:45 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
+- **Jun 20, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
