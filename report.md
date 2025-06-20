@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 52 |
 | nyt | 1 | 4 | 21 | 47 |
-| breaking_defense | 0 | 1 | 20 | 44 |
+| breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
 
@@ -4754,3 +4754,4 @@
 - **Jun 20, 08:03 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 08:05 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 20, 08:19 PM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
+- **Jun 20, 08:33 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
