@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 25 | 47 |
-| breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 161 | 308 |
+| breaking_defense | 1 | 2 | 23 | 46 |
+| supercluster | 0 | 2 | 162 | 309 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4981,3 +4981,4 @@
 - **Jun 20, 04:11 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 20, 04:25 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 20, 04:39 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
+- **Jun 20, 04:53 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
