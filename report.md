@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 51 |
+| spacenews | 5 | 12 | 26 | 52 |
 | nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 161 | 322 |
@@ -5000,3 +5000,4 @@
 - **Jun 20, 06:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 06:03 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 20, 06:17 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 20, 06:32 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
