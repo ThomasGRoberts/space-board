@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 50 |
-| nyt | 3 | 3 | 25 | 47 |
+| spacenews | 5 | 12 | 25 | 50 |
+| nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 162 | 294 |
+| supercluster | 0 | 2 | 161 | 294 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4959,3 +4959,4 @@
 - **Jun 20, 02:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 02:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 02:17 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 20, 02:31 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
