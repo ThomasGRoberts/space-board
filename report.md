@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 52 |
+| spacenews | 6 | 13 | 27 | 53 |
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4721,3 +4721,4 @@
 - **Jun 20, 12:27 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:29 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:32 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 12:33 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
