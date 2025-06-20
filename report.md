@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4694,3 +4694,4 @@
 - **Jun 20, 09:39 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 20, 09:53 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 10:09 AM** - “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market (spacenews)
+- **Jun 20, 10:23 AM** - China Will Launch the Long March 3B Rocket (supercluster)
