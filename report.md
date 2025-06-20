@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
 | nyt | 3 | 3 | 25 | 47 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 0 | 2 | 168 | 294 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4958,3 +4958,4 @@
 - **Jun 20, 02:11 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 02:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 02:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 02:17 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
