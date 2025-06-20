@@ -6,7 +6,7 @@
 | nyt | 1 | 4 | 21 | 47 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4786,3 +4786,4 @@
 - **Jun 20, 11:07 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
 - **Jun 20, 11:21 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 20, 11:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 11:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
