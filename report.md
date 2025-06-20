@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 51 |
-| nyt | 3 | 3 | 25 | 48 |
+| nyt | 3 | 3 | 25 | 47 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 162 | 281 |
+| supercluster | 0 | 2 | 163 | 282 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4942,3 +4942,4 @@
 - **Jun 20, 12:31 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 12:45 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 20, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 20, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
