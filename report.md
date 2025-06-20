@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 53 |
-| nyt | 2 | 3 | 24 | 48 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| nyt | 2 | 3 | 24 | 49 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -4692,3 +4692,4 @@
 - **Jun 20, 09:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 09:37 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 09:39 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 20, 09:53 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
