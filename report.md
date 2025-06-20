@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 25 | 47 |
-| breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 162 | 316 |
+| breaking_defense | 1 | 2 | 23 | 46 |
+| supercluster | 0 | 2 | 163 | 317 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4992,3 +4992,4 @@
 - **Jun 20, 05:21 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 20, 05:35 AM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
 - **Jun 20, 05:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 20, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
