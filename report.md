@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 52 |
 | nyt | 3 | 3 | 25 | 48 |
-| breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 64 | 169 |
+| breaking_defense | 1 | 2 | 23 | 47 |
+| supercluster | 0 | 1 | 65 | 170 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4848,3 +4848,4 @@
 - **Jun 20, 06:17 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 20, 06:32 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 20, 06:47 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 20, 06:49 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
