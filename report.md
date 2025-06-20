@@ -6,7 +6,6 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4683,13 +4682,6 @@
 - **Jun 20, 07:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 20, 07:45 AM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 20, 07:59 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
-- **Jun 20, 08:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 20, 08:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 08:27 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 08:41 AM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
 - **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
