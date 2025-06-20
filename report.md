@@ -6,6 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4686,3 +4687,4 @@
 - **Jun 20, 08:41 AM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
 - **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 20, 09:11 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
+- **Jun 20, 09:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
