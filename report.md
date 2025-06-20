@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 27 | 52 |
+| spacenews | 7 | 12 | 26 | 52 |
 | nyt | 1 | 3 | 22 | 48 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4706,3 +4706,4 @@
 - **Jun 20, 02:11 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 02:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 02:27 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 02:29 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
