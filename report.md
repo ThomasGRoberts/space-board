@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4705,3 +4705,4 @@
 - **Jun 20, 10:51 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 11:07 AM** - CEOs push back on proposed cuts to commercial satellite imaging programs (spacenews)
 - **Jun 20, 11:21 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 11:23 AM** - China Will Launch the Long March 3B Rocket (supercluster)
