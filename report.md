@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4688,3 +4688,4 @@
 - **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 20, 09:11 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
 - **Jun 20, 09:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 09:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
