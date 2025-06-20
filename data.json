@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fab906883cd6a14bbc29dd2308d196da",
+    "trigger_count": 0,
+    "current_item_id": "ccef5c219030b6c0e59875f2f92afc26",
     "data": [
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
@@ -10175,6 +10175,18 @@
                 "2025-06-20T08:21:46.174926Z",
                 "2025-06-20T08:23:22.750649Z",
                 "2025-06-20T08:25:43.744609Z"
+            ]
+        },
+        {
+            "id": "ccef5c219030b6c0e59875f2f92afc26",
+            "source": "spacenews",
+            "text": "ESA and EU emphasize good relationship as they press forward on imaging constellation",
+            "source_link": "https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T08:55:57.716191Z",
+            "shown_at": [
+                "2025-06-20T08:55:58.838124Z"
             ]
         }
     ]

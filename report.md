@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 25 | 52 |
-| nyt | 2 | 3 | 25 | 49 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| spacenews | 5 | 13 | 26 | 53 |
+| nyt | 2 | 3 | 24 | 49 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4692,3 +4692,4 @@
 - **Jun 20, 08:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 08:27 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 20, 08:41 AM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
+- **Jun 20, 08:55 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
