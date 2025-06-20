@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-19T00:01:52.933411+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
+    "trigger_count": 6,
     "current_item_id": "c4a345f64b3dc3b73495e2f3b8c3a1ff",
     "data": [
+        {
+            "id": "35bcfe66128625bdf58e69a5e3e742fd",
+            "source": "spacenews",
+            "text": "French government to lead Eutelsat’s $1.56 billion capital boost",
+            "source_link": "https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T21:31:53.893908Z",
+            "shown_at": [
+                "2025-06-19T21:31:54.766744Z"
+            ]
+        },
+        {
+            "id": "6dcfc8391c1117fc268285b4a44541f8",
+            "source": "spacenews",
+            "text": "Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers",
+            "source_link": "https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T20:27:28.331546Z",
+            "shown_at": [
+                "2025-06-19T20:27:28.869443Z"
+            ]
+        },
+        {
+            "id": "70a36534d3d54e13c744417ef4131c5f",
+            "source": "nyt",
+            "text": "Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98",
+            "source_link": "https://www.nytimes.com/2025/06/19/science/space/edward-anders-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T16:09:29.450016Z",
+            "shown_at": [
+                "2025-06-19T16:09:30.075259Z",
+                "2025-06-19T18:03:40.457225Z"
+            ]
+        },
+        {
+            "id": "8c424f0e21b4ca40e79ea4cbdb96490d",
+            "source": "spacenews",
+            "text": "Portal Space Systems to build larger factory for Supernova vehicle",
+            "source_link": "https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T15:23:07.812819Z",
+            "shown_at": [
+                "2025-06-19T15:23:08.471452Z"
+            ]
+        },
+        {
+            "id": "6e3ffc7bdb163f56146db0d72f30a3b6",
+            "source": "nyt",
+            "text": "Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus",
+            "source_link": "https://www.nytimes.com/2025/06/19/science/telescope-vera-rubin-dark-matter.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T14:13:57.885291Z",
+            "shown_at": [
+                "2025-06-19T14:13:59.239263Z",
+                "2025-06-19T21:09:27.174854Z",
+                "2025-06-19T22:39:27.524834Z"
+            ]
+        },
+        {
+            "id": "0aaee52738f12e84b51a26ff64fd3be0",
+            "source": "breaking_defense",
+            "text": "Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say",
+            "source_link": "https://breakingdefense.com/2025/06/chinese-sats-appear-to-be-attempting-first-ever-on-orbit-refueling-sat-tracking-firms-say/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T13:59:28.246494Z",
+            "shown_at": [
+                "2025-06-19T13:59:28.873478Z",
+                "2025-06-19T14:55:51.115437Z",
+                "2025-06-19T18:45:38.532490Z",
+                "2025-06-19T20:55:32.032483Z"
+            ]
+        },
+        {
+            "id": "44dbb59c82393e1bd2f0a602c2e98c95",
+            "source": "spacenews",
+            "text": "After Resilience’s moon landing attempt, why openness is key to the lunar economy",
+            "source_link": "https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T11:05:33.799361Z",
+            "shown_at": [
+                "2025-06-19T11:05:34.476999Z"
+            ]
+        },
+        {
+            "id": "f7cce9c990164ca4ddedcf45baabee24",
+            "source": "nyt",
+            "text": "SpaceX Starship Explodes During Test in Texas",
+            "source_link": "https://www.nytimes.com/2025/06/19/us/spacex-rocket-explosion-texas.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T07:59:38.657814Z",
+            "shown_at": [
+                "2025-06-19T07:59:39.155051Z",
+                "2025-06-19T09:53:28.597094Z",
+                "2025-06-19T12:45:27.158370Z",
+                "2025-06-19T13:45:09.130192Z",
+                "2025-06-19T15:09:47.643766Z"
+            ]
+        },
+        {
+            "id": "3e11e9cebdcb481a10dcf848cb815a13",
+            "source": "spacenews",
+            "text": "Starship destroyed in test stand explosion",
+            "source_link": "https://spacenews.com/starship-destroyed-in-test-stand-explosion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-19T07:45:44.224401Z",
+            "shown_at": [
+                "2025-06-19T07:45:45.205869Z",
+                "2025-06-19T10:37:35.843672Z",
+                "2025-06-19T22:53:37.918809Z"
+            ]
+        },
         {
             "id": "fab906883cd6a14bbc29dd2308d196da",
             "source": "spacenews",
@@ -10307,250 +10427,6 @@
                 "2025-04-10T19:17:43.287928Z",
                 "2025-04-13T11:09:39.435953Z",
                 "2025-04-16T18:02:10.831398Z"
-            ]
-        },
-        {
-            "id": "0c552a9743994384be3b59c3773c523e",
-            "source": "spacenews",
-            "text": "Vast signs three more payload partners for Haven-1",
-            "source_link": "https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T19:03:26.717808Z",
-            "shown_at": [
-                "2025-04-10T19:03:27.244105Z",
-                "2025-04-15T01:27:48.156976Z"
-            ]
-        },
-        {
-            "id": "c43e18a8a4bbe1175a4347fcc843a197",
-            "source": "spacenews",
-            "text": "Rise of the ‘twin’",
-            "source_link": "https://spacenews.com/rise-of-the-twin/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:41:49.040625Z",
-            "shown_at": [
-                "2025-04-10T15:55:45.750998Z"
-            ]
-        },
-        {
-            "id": "470107fccb2dafc66aebc8436c44344c",
-            "source": "spacenews",
-            "text": "TraCSS moves into next phase of development",
-            "source_link": "https://spacenews.com/tracss-moves-into-next-phase-of-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:41:49.040569Z",
-            "shown_at": [
-                "2025-04-10T15:41:50.050097Z",
-                "2025-04-15T09:43:30.213030Z",
-                "2025-04-16T03:09:30.607677Z",
-                "2025-04-16T07:09:33.139284Z",
-                "2025-04-17T00:34:12.955258Z"
-            ]
-        },
-        {
-            "id": "c634efbdd65fd8a30662a79126accb71",
-            "source": "breaking_defense",
-            "text": "Contracts for SSC’s next iteration of MEO missile tracking satellites delayed",
-            "source_link": "https://breakingdefense.com/2025/04/contracts-for-sscs-next-iteration-of-meo-missile-tracking-satellites-delayed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T15:28:01.087400Z",
-            "shown_at": [
-                "2025-04-10T15:28:01.780221Z",
-                "2025-04-11T11:47:39.588317Z",
-                "2025-04-13T06:15:40.206541Z",
-                "2025-04-14T20:37:35.404872Z",
-                "2025-04-15T01:41:35.295839Z",
-                "2025-04-16T05:45:06.332176Z"
-            ]
-        },
-        {
-            "id": "0e98941db4ac71ac6597c9fc980b9655",
-            "source": "spacenews",
-            "text": "True commercial alternatives for strategic communications and PNT don’t  exist — yet",
-            "source_link": "https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:57:21.480702Z",
-            "shown_at": [
-                "2025-04-10T15:13:28.686491Z",
-                "2025-04-13T03:21:44.457958Z",
-                "2025-04-15T04:59:48.123061Z"
-            ]
-        },
-        {
-            "id": "299fffc74bb90451488473473b1d8026",
-            "source": "spacenews",
-            "text": "Indian propulsion maker joins US expansion push",
-            "source_link": "https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:57:21.480648Z",
-            "shown_at": [
-                "2025-04-10T14:57:22.029671Z",
-                "2025-04-14T19:55:44.992996Z"
-            ]
-        },
-        {
-            "id": "ca79886f8c3805a45e0d18cb24183826",
-            "source": "spacenews",
-            "text": "Türkiye’s space future: An ambitious path ahead",
-            "source_link": "https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T14:15:27.254222Z",
-            "shown_at": [
-                "2025-04-10T14:15:27.829055Z",
-                "2025-04-12T14:43:34.571000Z"
-            ]
-        },
-        {
-            "id": "3e5e396018644ee7189ff5c244532c9f",
-            "source": "spacenews",
-            "text": "Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory",
-            "source_link": "https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T13:02:18.380293Z",
-            "shown_at": [
-                "2025-04-10T13:17:45.177083Z",
-                "2025-04-10T22:49:45.992776Z"
-            ]
-        },
-        {
-            "id": "58d7b4c5bf248424884e309f3a21ac7b",
-            "source": "spacenews",
-            "text": "Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system",
-            "source_link": "https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T13:02:18.380232Z",
-            "shown_at": [
-                "2025-04-10T13:02:19.445397Z",
-                "2025-04-16T01:59:45.178445Z"
-            ]
-        },
-        {
-            "id": "3e11e9cebdcb481a10dcf848cb815a13",
-            "source": "spacenews",
-            "text": "Starship destroyed in test stand explosion",
-            "source_link": "https://spacenews.com/starship-destroyed-in-test-stand-explosion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T07:45:44.224401Z",
-            "shown_at": [
-                "2025-06-19T07:45:45.205869Z",
-                "2025-06-19T10:37:35.843672Z",
-                "2025-06-19T22:53:37.918809Z"
-            ]
-        },
-        {
-            "id": "f7cce9c990164ca4ddedcf45baabee24",
-            "source": "nyt",
-            "text": "SpaceX Starship Explodes During Test in Texas",
-            "source_link": "https://www.nytimes.com/2025/06/19/us/spacex-rocket-explosion-texas.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T07:59:38.657814Z",
-            "shown_at": [
-                "2025-06-19T07:59:39.155051Z",
-                "2025-06-19T09:53:28.597094Z",
-                "2025-06-19T12:45:27.158370Z",
-                "2025-06-19T13:45:09.130192Z",
-                "2025-06-19T15:09:47.643766Z"
-            ]
-        },
-        {
-            "id": "44dbb59c82393e1bd2f0a602c2e98c95",
-            "source": "spacenews",
-            "text": "After Resilience’s moon landing attempt, why openness is key to the lunar economy",
-            "source_link": "https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T11:05:33.799361Z",
-            "shown_at": [
-                "2025-06-19T11:05:34.476999Z"
-            ]
-        },
-        {
-            "id": "0aaee52738f12e84b51a26ff64fd3be0",
-            "source": "breaking_defense",
-            "text": "Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say",
-            "source_link": "https://breakingdefense.com/2025/06/chinese-sats-appear-to-be-attempting-first-ever-on-orbit-refueling-sat-tracking-firms-say/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T13:59:28.246494Z",
-            "shown_at": [
-                "2025-06-19T13:59:28.873478Z",
-                "2025-06-19T14:55:51.115437Z",
-                "2025-06-19T18:45:38.532490Z",
-                "2025-06-19T20:55:32.032483Z"
-            ]
-        },
-        {
-            "id": "6e3ffc7bdb163f56146db0d72f30a3b6",
-            "source": "nyt",
-            "text": "Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus",
-            "source_link": "https://www.nytimes.com/2025/06/19/science/telescope-vera-rubin-dark-matter.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T14:13:57.885291Z",
-            "shown_at": [
-                "2025-06-19T14:13:59.239263Z",
-                "2025-06-19T21:09:27.174854Z",
-                "2025-06-19T22:39:27.524834Z"
-            ]
-        },
-        {
-            "id": "8c424f0e21b4ca40e79ea4cbdb96490d",
-            "source": "spacenews",
-            "text": "Portal Space Systems to build larger factory for Supernova vehicle",
-            "source_link": "https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T15:23:07.812819Z",
-            "shown_at": [
-                "2025-06-19T15:23:08.471452Z"
-            ]
-        },
-        {
-            "id": "70a36534d3d54e13c744417ef4131c5f",
-            "source": "nyt",
-            "text": "Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98",
-            "source_link": "https://www.nytimes.com/2025/06/19/science/space/edward-anders-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T16:09:29.450016Z",
-            "shown_at": [
-                "2025-06-19T16:09:30.075259Z",
-                "2025-06-19T18:03:40.457225Z"
-            ]
-        },
-        {
-            "id": "6dcfc8391c1117fc268285b4a44541f8",
-            "source": "spacenews",
-            "text": "Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers",
-            "source_link": "https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T20:27:28.331546Z",
-            "shown_at": [
-                "2025-06-19T20:27:28.869443Z"
-            ]
-        },
-        {
-            "id": "35bcfe66128625bdf58e69a5e3e742fd",
-            "source": "spacenews",
-            "text": "French government to lead Eutelsat’s $1.56 billion capital boost",
-            "source_link": "https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T21:31:53.893908Z",
-            "shown_at": [
-                "2025-06-19T21:31:54.766744Z"
             ]
         }
     ]
