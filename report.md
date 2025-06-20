@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 51 |
-| nyt | 1 | 4 | 20 | 46 |
+| nyt | 1 | 4 | 21 | 47 |
 | breaking_defense | 0 | 2 | 20 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -4752,3 +4752,4 @@
 - **Jun 20, 07:59 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 08:01 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 08:03 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 08:05 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
