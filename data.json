@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "23a1733f2b7911de2124e8e24c3c2414",
+    "trigger_count": 0,
+    "current_item_id": "a81cd6241cc27085d11212381d1bda19",
     "data": [
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
@@ -10216,6 +10216,18 @@
                 "2025-06-20T11:29:26.538701Z",
                 "2025-06-20T11:31:38.734012Z",
                 "2025-06-20T11:33:42.385102Z"
+            ]
+        },
+        {
+            "id": "a81cd6241cc27085d11212381d1bda19",
+            "source": "spacenews",
+            "text": "ESA signs agreement for potential use of Orbital Reef",
+            "source_link": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T11:35:26.444487Z",
+            "shown_at": [
+                "2025-06-20T11:35:27.153199Z"
             ]
         }
     ]

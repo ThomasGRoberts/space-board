@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 26 | 53 |
-| nyt | 2 | 3 | 24 | 49 |
+| spacenews | 6 | 14 | 27 | 54 |
+| nyt | 2 | 3 | 24 | 48 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -4711,3 +4711,4 @@
 - **Jun 20, 11:29 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 11:31 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 11:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 11:35 AM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
