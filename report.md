@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 25 | 47 |
-| breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 161 | 301 |
+| breaking_defense | 1 | 2 | 23 | 46 |
+| supercluster | 0 | 2 | 162 | 302 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4971,3 +4971,4 @@
 - **Jun 20, 03:15 AM** - Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language (breaking_defense)
 - **Jun 20, 03:29 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 20, 03:43 AM** - Starship destroyed in test stand explosion (spacenews)
+- **Jun 20, 03:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
