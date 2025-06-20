@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 50 |
+| spacenews | 5 | 12 | 26 | 51 |
 | nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 2 | 161 | 308 |
@@ -4980,3 +4980,4 @@
 - **Jun 20, 04:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 04:11 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 20, 04:25 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 20, 04:39 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
