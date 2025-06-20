@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 52 |
+| spacenews | 7 | 13 | 27 | 53 |
 | nyt | 2 | 3 | 23 | 48 |
 | breaking_defense | 1 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4701,3 +4701,4 @@
 - **Jun 20, 01:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 01:41 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 20, 01:43 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
