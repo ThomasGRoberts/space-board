@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 24 | 49 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4716,3 +4716,4 @@
 - **Jun 20, 12:05 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 20, 12:19 PM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 12:21 PM** - China Will Launch the Long March 3B Rocket (supercluster)
+- **Jun 20, 12:23 PM** - China Will Launch the Long March 3B Rocket (supercluster)
