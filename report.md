@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 53 |
-| nyt | 2 | 3 | 24 | 48 |
-| breaking_defense | 1 | 2 | 24 | 48 |
+| nyt | 2 | 3 | 24 | 49 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -4702,3 +4702,4 @@
 - **Jun 20, 10:33 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 10:35 AM** - China Will Launch the Long March 3B Rocket (supercluster)
 - **Jun 20, 10:37 AM** - Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities (breaking_defense)
+- **Jun 20, 10:51 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
