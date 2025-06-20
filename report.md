@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| nyt | 3 | 3 | 25 | 47 |
+| nyt | 3 | 3 | 26 | 48 |
 | breaking_defense | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 2 | 163 | 287 |
+| supercluster | 0 | 2 | 161 | 287 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4949,3 +4949,4 @@
 - **Jun 20, 01:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 20, 01:17 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 20, 01:32 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
