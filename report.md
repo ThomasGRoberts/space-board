@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 51 |
+| spacenews | 4 | 12 | 25 | 52 |
 | nyt | 3 | 3 | 25 | 49 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4688,3 +4688,4 @@
 - **Jun 20, 07:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 07:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 20, 07:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 20, 07:45 AM** - July decision expected on combination of European space companies (spacenews)
