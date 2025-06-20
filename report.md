@@ -2,10 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 52 |
+| spacenews | 5 | 12 | 25 | 52 |
 | nyt | 3 | 3 | 25 | 48 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4679,3 +4680,4 @@
 - **Jun 20, 06:17 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 20, 06:32 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 20, 07:02 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 20, 07:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
