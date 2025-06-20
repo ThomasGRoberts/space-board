@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| breaking_defense | 0 | 1 | 20 | 44 |
+| breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -4774,3 +4774,4 @@
 - **Jun 20, 09:55 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 20, 09:57 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 20, 10:11 PM** - Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’ (spacenews)
+- **Jun 20, 10:25 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
