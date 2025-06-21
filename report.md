@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 51 |
 | nyt | 0 | 1 | 25 | 46 |
-| breaking_defense | 0 | 0 | 25 | 45 |
+| breaking_defense | 0 | 0 | 26 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -4808,3 +4808,4 @@
 - **Jun 21, 07:17 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 07:19 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 07:21 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 21, 07:23 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
