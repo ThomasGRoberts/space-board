@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
 | supercluster | 1 | 1 | 109 | 109 |
-| breaking_defense | 0 | 1 | 21 | 44 |
+| breaking_defense | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4826,3 +4826,4 @@
 - **Jun 21, 05:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 05:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 21, 05:45 AM** - Pentagon struggles to build unified satellite network  (spacenews)
+- **Jun 21, 05:59 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
