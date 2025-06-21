@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
 | supercluster | 1 | 1 | 88 | 88 |
-| breaking_defense | 0 | 1 | 21 | 44 |
+| breaking_defense | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4796,3 +4796,4 @@
 - **Jun 21, 02:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 02:39 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 21, 02:53 AM** - The administration’s anti-consensus Mars plan will fail (spacenews)
+- **Jun 21, 03:09 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
