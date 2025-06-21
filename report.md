@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 51 |
+| spacenews | 1 | 7 | 26 | 52 |
 | nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4780,3 +4780,4 @@
 - **Jun 21, 04:31 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 04:33 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 04:49 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 21, 05:03 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
