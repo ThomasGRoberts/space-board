@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 51 |
+| spacenews | 1 | 8 | 25 | 52 |
 | nyt | 1 | 2 | 25 | 47 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4760,3 +4760,4 @@
 - **Jun 21, 02:37 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 02:39 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 21, 02:53 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 21, 03:07 PM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
