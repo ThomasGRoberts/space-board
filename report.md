@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 25 | 51 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 137 | 137 |
-| breaking_defense | 0 | 1 | 21 | 45 |
+| breaking_defense | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4866,3 +4866,4 @@
 - **Jun 21, 09:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 09:15 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 21, 09:29 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
+- **Jun 21, 09:43 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
