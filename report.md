@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 25 | 50 |
+| spacenews | 1 | 6 | 26 | 51 |
 | nyt | 0 | 1 | 25 | 46 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4787,3 +4787,4 @@
 - **Jun 21, 09:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 09:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 21, 09:45 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
