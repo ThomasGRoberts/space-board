@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4828,3 +4828,4 @@
 - **Jun 21, 05:45 AM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 21, 05:59 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 21, 06:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 06:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
