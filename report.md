@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 25 | 51 |
+| spacenews | 2 | 8 | 24 | 51 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 151 | 151 |
-| breaking_defense | 0 | 1 | 22 | 45 |
+| breaking_defense | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4886,3 +4886,4 @@
 - **Jun 21, 11:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 11:07 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 21, 11:21 AM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)
+- **Jun 21, 11:35 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
