@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 46 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4782,3 +4782,4 @@
 - **Jun 21, 09:17 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 21, 09:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 21, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
