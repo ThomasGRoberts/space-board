@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4787,3 +4787,4 @@
 - **Jun 21, 01:43 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 21, 01:57 AM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 21, 02:11 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 21, 02:25 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
