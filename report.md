@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4777,3 +4777,4 @@
 - **Jun 21, 12:45 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 21, 01:02 AM** - The Exploration Company outlines plans for human spaceflight (spacenews)
 - **Jun 21, 01:15 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 21, 01:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
