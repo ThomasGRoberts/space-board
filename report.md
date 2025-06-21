@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 26 | 46 |
 | breaking_defense | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -4801,3 +4801,4 @@
 - **Jun 21, 06:27 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 21, 06:41 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 21, 06:55 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
+- **Jun 21, 07:09 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
