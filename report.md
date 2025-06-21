@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 51 |
 | nyt | 1 | 2 | 24 | 46 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4768,3 +4768,4 @@
 - **Jun 21, 03:29 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 03:31 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 03:33 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 21, 03:35 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
