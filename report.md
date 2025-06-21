@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 51 |
+| spacenews | 1 | 7 | 25 | 52 |
 | nyt | 0 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4770,3 +4770,4 @@
 - **Jun 21, 03:33 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 03:35 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 21, 03:49 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
+- **Jun 21, 04:03 PM** - The Exploration Company outlines plans for human spaceflight (spacenews)
