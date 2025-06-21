@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
 | nyt | 1 | 3 | 22 | 46 |
-| supercluster | 1 | 1 | 145 | 145 |
+| supercluster | 1 | 1 | 146 | 146 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4878,3 +4878,4 @@
 - **Jun 21, 10:25 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
 - **Jun 21, 10:39 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 10:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 10:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
