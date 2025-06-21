@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 51 |
-| nyt | 0 | 1 | 25 | 46 |
+| nyt | 0 | 1 | 26 | 47 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -4799,3 +4799,4 @@
 - **Jun 21, 06:23 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 06:25 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 21, 06:27 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 21, 06:41 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
