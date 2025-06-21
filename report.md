@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 26 | 52 |
-| nyt | 0 | 1 | 25 | 45 |
+| nyt | 0 | 1 | 25 | 46 |
 | breaking_defense | 0 | 0 | 25 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 56 | 56 |
@@ -4817,3 +4817,4 @@
 - **Jun 21, 07:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 07:51 PM** - Airbus says space business turnaround going well (spacenews)
+- **Jun 21, 08:07 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
