@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 50 |
 | nyt | 0 | 1 | 25 | 46 |
-| breaking_defense | 0 | 0 | 26 | 46 |
+| breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 56 | 56 |
+| supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
 
@@ -4819,3 +4819,4 @@
 - **Jun 21, 07:51 PM** - Airbus says space business turnaround going well (spacenews)
 - **Jun 21, 08:07 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 21, 08:21 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 21, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
