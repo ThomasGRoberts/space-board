@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4791,3 +4791,4 @@
 - **Jun 21, 09:59 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 21, 10:13 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 21, 10:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 21, 10:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
