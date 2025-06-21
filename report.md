@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
-| nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 67 | 67 |
+| nyt | 1 | 4 | 21 | 47 |
+| supercluster | 1 | 1 | 68 | 68 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4767,3 +4767,4 @@
 - **Jun 20, 11:49 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 21, 12:03 AM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)
 - **Jun 21, 12:17 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 21, 12:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
