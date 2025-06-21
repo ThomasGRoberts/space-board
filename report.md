@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 25 | 51 |
-| nyt | 1 | 3 | 22 | 46 |
+| spacenews | 3 | 9 | 24 | 51 |
+| nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 144 | 144 |
 | breaking_defense | 0 | 1 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4874,3 +4874,4 @@
 - **Jun 21, 10:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 10:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 10:09 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 10:11 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
