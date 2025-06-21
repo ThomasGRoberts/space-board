@@ -1,9 +1,163 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-20T00:01:52.388233+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-21T00:01:41.140913+00:00",
+    "trigger_count": 6,
     "current_item_id": "70a36534d3d54e13c744417ef4131c5f",
     "data": [
+        {
+            "id": "a84da12146c9e1261adb7eef71e7642f",
+            "source": "spacenews",
+            "text": "Pentagon struggles to build unified satellite network ",
+            "source_link": "https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T19:23:56.091895Z",
+            "shown_at": [
+                "2025-06-20T19:23:57.065502Z"
+            ]
+        },
+        {
+            "id": "6d830bf30f1051fdc25cff1077ac05ac",
+            "source": "nyt",
+            "text": "How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery",
+            "source_link": "https://www.nytimes.com/2025/06/20/science/vera-rubin-telescope-data.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T15:55:39.853309Z",
+            "shown_at": [
+                "2025-06-20T15:55:40.369192Z"
+            ]
+        },
+        {
+            "id": "598f92f19380bce964846682625230c2",
+            "source": "spacenews",
+            "text": "Trump’s dispute with Musk shows the danger of private monopolies in space",
+            "source_link": "https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T13:43:55.455173Z",
+            "shown_at": [
+                "2025-06-20T13:43:56.566928Z",
+                "2025-06-20T18:55:37.566197Z"
+            ]
+        },
+        {
+            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-33",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-21T13:30:00.000Z",
+            "time_remaining": "0d 13h 42m",
+            "fetched_datetime": "2025-06-20T13:35:40.908176Z",
+            "shown_at": [
+                "2025-06-20T13:35:41.933770Z",
+                "2025-06-20T13:37:47.908657Z",
+                "2025-06-20T13:39:09.084079Z",
+                "2025-06-20T13:41:42.108837Z",
+                "2025-06-20T14:25:43.310591Z",
+                "2025-06-20T14:27:27.998555Z",
+                "2025-06-20T14:29:32.177237Z",
+                "2025-06-20T14:32:07.677947Z",
+                "2025-06-20T14:33:47.214950Z",
+                "2025-06-20T14:35:03.960262Z",
+                "2025-06-20T14:37:26.480858Z",
+                "2025-06-20T15:23:40.116148Z",
+                "2025-06-20T15:25:24.299074Z",
+                "2025-06-20T15:27:33.157103Z",
+                "2025-06-20T15:29:32.290051Z",
+                "2025-06-20T15:31:24.103376Z",
+                "2025-06-20T15:34:28.561196Z",
+                "2025-06-20T15:37:29.484884Z",
+                "2025-06-20T17:41:59.881965Z",
+                "2025-06-20T17:43:30.304828Z",
+                "2025-06-20T17:45:37.168945Z",
+                "2025-06-20T17:47:40.526072Z",
+                "2025-06-20T17:49:42.026867Z",
+                "2025-06-20T17:51:49.965643Z",
+                "2025-06-20T17:53:02.421861Z",
+                "2025-06-20T18:39:42.448005Z",
+                "2025-06-20T18:41:38.248159Z",
+                "2025-06-20T18:43:24.024020Z",
+                "2025-06-20T18:45:32.916581Z",
+                "2025-06-20T18:48:13.163758Z",
+                "2025-06-20T18:51:28.155377Z",
+                "2025-06-20T18:53:29.906140Z",
+                "2025-06-20T19:51:44.195527Z",
+                "2025-06-20T19:53:30.112706Z",
+                "2025-06-20T19:55:45.594502Z",
+                "2025-06-20T19:57:33.084938Z",
+                "2025-06-20T19:59:25.741644Z",
+                "2025-06-20T20:01:55.135859Z",
+                "2025-06-20T20:03:26.552960Z",
+                "2025-06-20T20:47:38.686607Z",
+                "2025-06-20T20:49:44.980578Z",
+                "2025-06-20T20:51:36.979590Z",
+                "2025-06-20T20:53:39.600501Z",
+                "2025-06-20T20:55:24.894244Z",
+                "2025-06-20T20:57:31.070322Z",
+                "2025-06-20T20:59:41.763551Z",
+                "2025-06-20T21:43:43.941611Z",
+                "2025-06-20T21:45:32.150063Z",
+                "2025-06-20T21:47:24.504763Z",
+                "2025-06-20T21:49:24.264553Z",
+                "2025-06-20T21:51:30.997657Z",
+                "2025-06-20T21:53:26.063465Z",
+                "2025-06-20T21:55:25.960258Z",
+                "2025-06-20T22:39:26.902174Z",
+                "2025-06-20T22:41:32.376235Z",
+                "2025-06-20T22:43:35.588917Z",
+                "2025-06-20T22:45:26.709877Z",
+                "2025-06-20T22:47:40.970141Z",
+                "2025-06-20T22:49:40.144578Z",
+                "2025-06-20T22:51:30.759905Z",
+                "2025-06-20T23:35:40.753625Z",
+                "2025-06-20T23:37:28.091967Z",
+                "2025-06-20T23:39:29.788656Z",
+                "2025-06-20T23:41:34.592392Z",
+                "2025-06-20T23:43:26.397952Z",
+                "2025-06-20T23:45:24.258051Z",
+                "2025-06-20T23:47:36.021733Z"
+            ]
+        },
+        {
+            "id": "a81cd6241cc27085d11212381d1bda19",
+            "source": "spacenews",
+            "text": "ESA signs agreement for potential use of Orbital Reef",
+            "source_link": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T11:35:26.444487Z",
+            "shown_at": [
+                "2025-06-20T11:35:27.153199Z"
+            ]
+        },
+        {
+            "id": "65231426be5757a41dabca216c93d5d4",
+            "source": "spacenews",
+            "text": "Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket ",
+            "source_link": "https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T09:11:49.649120Z",
+            "shown_at": [
+                "2025-06-20T09:11:50.793560Z"
+            ]
+        },
+        {
+            "id": "ccef5c219030b6c0e59875f2f92afc26",
+            "source": "spacenews",
+            "text": "ESA and EU emphasize good relationship as they press forward on imaging constellation",
+            "source_link": "https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-20T08:55:57.716191Z",
+            "shown_at": [
+                "2025-06-20T08:55:58.838124Z",
+                "2025-06-20T20:19:29.415421Z"
+            ]
+        },
         {
             "id": "35bcfe66128625bdf58e69a5e3e742fd",
             "source": "spacenews",
@@ -10105,243 +10259,6 @@
             "shown_at": [
                 "2025-04-11T04:23:33.964721Z",
                 "2025-04-15T10:53:34.832811Z"
-            ]
-        },
-        {
-            "id": "82abc7bd6dcedc5f01ee8279301b881e",
-            "source": "nyt",
-            "text": "Effort to Get Starlink in South Africa Collides With Tension Over Musk",
-            "source_link": "https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T04:09:43.193968Z",
-            "shown_at": [
-                "2025-04-11T04:09:45.769143Z",
-                "2025-04-11T07:15:50.285858Z",
-                "2025-04-13T01:39:17.482213Z",
-                "2025-04-13T15:13:35.818299Z",
-                "2025-04-14T23:29:55.441677Z",
-                "2025-04-15T16:41:53.276507Z",
-                "2025-04-16T07:59:38.443376Z",
-                "2025-04-18T04:05:08.534378Z"
-            ]
-        },
-        {
-            "id": "49e94c8187624e0ffa41cad268446798",
-            "source": "spacenews",
-            "text": "China launches TJS-17, expanding classified geostationary satellite series",
-            "source_link": "https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T21:39:39.771614Z",
-            "shown_at": [
-                "2025-04-10T21:39:40.943906Z",
-                "2025-04-14T22:47:37.165653Z",
-                "2025-04-15T07:21:50.051411Z",
-                "2025-04-15T16:27:33.145955Z",
-                "2025-04-15T18:47:15.430286Z",
-                "2025-04-16T09:45:40.668709Z"
-            ]
-        },
-        {
-            "id": "11bd5d5768403581f271b85aa5a76c49",
-            "source": "breaking_defense",
-            "text": "Space Force takes ownership of first Meadowlands satellite jammer",
-            "source_link": "https://breakingdefense.com/2025/04/space-force-takes-ownership-of-first-meadowlands-satellite-jammer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T20:57:25.918030Z",
-            "shown_at": [
-                "2025-04-10T20:57:26.523232Z",
-                "2025-04-15T05:13:29.357887Z",
-                "2025-04-15T07:49:23.151830Z",
-                "2025-04-15T16:13:51.187893Z",
-                "2025-04-16T01:03:51.925114Z",
-                "2025-04-16T12:47:41.596468Z",
-                "2025-04-17T17:25:44.471029Z",
-                "2025-04-17T18:37:30.904601Z"
-            ]
-        },
-        {
-            "id": "b7c4e9429db40dd79f3363fee623a188",
-            "source": "spacenews",
-            "text": "Space Forge sees LEO as key to strengthening US chip independence",
-            "source_link": "https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T20:13:32.473864Z",
-            "shown_at": [
-                "2025-04-10T20:13:33.831798Z",
-                "2025-04-12T04:17:32.532700Z",
-                "2025-04-13T00:09:50.546771Z"
-            ]
-        },
-        {
-            "id": "b9553177eb364e76e812459c33967217",
-            "source": "spacenews",
-            "text": "Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems",
-            "source_link": "https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-10T19:03:26.717922Z",
-            "shown_at": [
-                "2025-04-10T19:17:43.287928Z",
-                "2025-04-13T11:09:39.435953Z",
-                "2025-04-16T18:02:10.831398Z"
-            ]
-        },
-        {
-            "id": "ccef5c219030b6c0e59875f2f92afc26",
-            "source": "spacenews",
-            "text": "ESA and EU emphasize good relationship as they press forward on imaging constellation",
-            "source_link": "https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T08:55:57.716191Z",
-            "shown_at": [
-                "2025-06-20T08:55:58.838124Z",
-                "2025-06-20T20:19:29.415421Z"
-            ]
-        },
-        {
-            "id": "65231426be5757a41dabca216c93d5d4",
-            "source": "spacenews",
-            "text": "Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket ",
-            "source_link": "https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T09:11:49.649120Z",
-            "shown_at": [
-                "2025-06-20T09:11:50.793560Z"
-            ]
-        },
-        {
-            "id": "a81cd6241cc27085d11212381d1bda19",
-            "source": "spacenews",
-            "text": "ESA signs agreement for potential use of Orbital Reef",
-            "source_link": "https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T11:35:26.444487Z",
-            "shown_at": [
-                "2025-06-20T11:35:27.153199Z"
-            ]
-        },
-        {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-33",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-21T13:30:00.000Z",
-            "time_remaining": "0d 13h 42m",
-            "fetched_datetime": "2025-06-20T13:35:40.908176Z",
-            "shown_at": [
-                "2025-06-20T13:35:41.933770Z",
-                "2025-06-20T13:37:47.908657Z",
-                "2025-06-20T13:39:09.084079Z",
-                "2025-06-20T13:41:42.108837Z",
-                "2025-06-20T14:25:43.310591Z",
-                "2025-06-20T14:27:27.998555Z",
-                "2025-06-20T14:29:32.177237Z",
-                "2025-06-20T14:32:07.677947Z",
-                "2025-06-20T14:33:47.214950Z",
-                "2025-06-20T14:35:03.960262Z",
-                "2025-06-20T14:37:26.480858Z",
-                "2025-06-20T15:23:40.116148Z",
-                "2025-06-20T15:25:24.299074Z",
-                "2025-06-20T15:27:33.157103Z",
-                "2025-06-20T15:29:32.290051Z",
-                "2025-06-20T15:31:24.103376Z",
-                "2025-06-20T15:34:28.561196Z",
-                "2025-06-20T15:37:29.484884Z",
-                "2025-06-20T17:41:59.881965Z",
-                "2025-06-20T17:43:30.304828Z",
-                "2025-06-20T17:45:37.168945Z",
-                "2025-06-20T17:47:40.526072Z",
-                "2025-06-20T17:49:42.026867Z",
-                "2025-06-20T17:51:49.965643Z",
-                "2025-06-20T17:53:02.421861Z",
-                "2025-06-20T18:39:42.448005Z",
-                "2025-06-20T18:41:38.248159Z",
-                "2025-06-20T18:43:24.024020Z",
-                "2025-06-20T18:45:32.916581Z",
-                "2025-06-20T18:48:13.163758Z",
-                "2025-06-20T18:51:28.155377Z",
-                "2025-06-20T18:53:29.906140Z",
-                "2025-06-20T19:51:44.195527Z",
-                "2025-06-20T19:53:30.112706Z",
-                "2025-06-20T19:55:45.594502Z",
-                "2025-06-20T19:57:33.084938Z",
-                "2025-06-20T19:59:25.741644Z",
-                "2025-06-20T20:01:55.135859Z",
-                "2025-06-20T20:03:26.552960Z",
-                "2025-06-20T20:47:38.686607Z",
-                "2025-06-20T20:49:44.980578Z",
-                "2025-06-20T20:51:36.979590Z",
-                "2025-06-20T20:53:39.600501Z",
-                "2025-06-20T20:55:24.894244Z",
-                "2025-06-20T20:57:31.070322Z",
-                "2025-06-20T20:59:41.763551Z",
-                "2025-06-20T21:43:43.941611Z",
-                "2025-06-20T21:45:32.150063Z",
-                "2025-06-20T21:47:24.504763Z",
-                "2025-06-20T21:49:24.264553Z",
-                "2025-06-20T21:51:30.997657Z",
-                "2025-06-20T21:53:26.063465Z",
-                "2025-06-20T21:55:25.960258Z",
-                "2025-06-20T22:39:26.902174Z",
-                "2025-06-20T22:41:32.376235Z",
-                "2025-06-20T22:43:35.588917Z",
-                "2025-06-20T22:45:26.709877Z",
-                "2025-06-20T22:47:40.970141Z",
-                "2025-06-20T22:49:40.144578Z",
-                "2025-06-20T22:51:30.759905Z",
-                "2025-06-20T23:35:40.753625Z",
-                "2025-06-20T23:37:28.091967Z",
-                "2025-06-20T23:39:29.788656Z",
-                "2025-06-20T23:41:34.592392Z",
-                "2025-06-20T23:43:26.397952Z",
-                "2025-06-20T23:45:24.258051Z",
-                "2025-06-20T23:47:36.021733Z"
-            ]
-        },
-        {
-            "id": "598f92f19380bce964846682625230c2",
-            "source": "spacenews",
-            "text": "Trump’s dispute with Musk shows the danger of private monopolies in space",
-            "source_link": "https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T13:43:55.455173Z",
-            "shown_at": [
-                "2025-06-20T13:43:56.566928Z",
-                "2025-06-20T18:55:37.566197Z"
-            ]
-        },
-        {
-            "id": "6d830bf30f1051fdc25cff1077ac05ac",
-            "source": "nyt",
-            "text": "How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery",
-            "source_link": "https://www.nytimes.com/2025/06/20/science/vera-rubin-telescope-data.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T15:55:39.853309Z",
-            "shown_at": [
-                "2025-06-20T15:55:40.369192Z"
-            ]
-        },
-        {
-            "id": "a84da12146c9e1261adb7eef71e7642f",
-            "source": "spacenews",
-            "text": "Pentagon struggles to build unified satellite network ",
-            "source_link": "https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T19:23:56.091895Z",
-            "shown_at": [
-                "2025-06-20T19:23:57.065502Z"
             ]
         }
     ]
