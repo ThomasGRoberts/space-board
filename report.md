@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
-| nyt | 1 | 3 | 23 | 46 |
-| supercluster | 1 | 1 | 144 | 144 |
+| nyt | 1 | 3 | 22 | 46 |
+| supercluster | 1 | 1 | 145 | 145 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4877,3 +4877,4 @@
 - **Jun 21, 10:11 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 21, 10:25 AM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
 - **Jun 21, 10:39 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 21, 10:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
