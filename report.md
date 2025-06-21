@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4751,3 +4751,4 @@
 - **Jun 21, 01:43 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 21, 01:57 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 21, 02:11 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
+- **Jun 21, 02:25 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
