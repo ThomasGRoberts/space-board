@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 51 |
+| spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
 | supercluster | 1 | 1 | 74 | 74 |
 | breaking_defense | 0 | 1 | 21 | 45 |
@@ -4775,3 +4775,4 @@
 - **Jun 21, 12:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 12:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 12:45 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 21, 01:02 AM** - The Exploration Company outlines plans for human spaceflight (spacenews)
