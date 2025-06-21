@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 24 | 51 |
+| spacenews | 2 | 8 | 24 | 50 |
 | nyt | 1 | 3 | 23 | 46 |
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4893,3 +4893,4 @@
 - **Jun 21, 11:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 11:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 11:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 12:01 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
