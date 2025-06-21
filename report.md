@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4817,3 +4817,4 @@
 - **Jun 21, 04:35 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 21, 04:49 AM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 21, 05:03 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 21, 05:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
