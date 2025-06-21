@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4807,3 +4807,4 @@
 - **Jun 21, 03:37 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 21, 03:51 AM** - Firefly announces commercial lunar imagery service (spacenews)
 - **Jun 21, 04:07 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 21, 04:21 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
