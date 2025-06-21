@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
-| nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 111 | 111 |
+| nyt | 1 | 4 | 21 | 47 |
+| supercluster | 1 | 1 | 112 | 112 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4829,3 +4829,4 @@
 - **Jun 21, 05:59 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 21, 06:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 06:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 06:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
