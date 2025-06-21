@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 51 |
-| nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 158 | 158 |
+| nyt | 1 | 3 | 23 | 46 |
+| supercluster | 1 | 1 | 159 | 159 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4897,3 +4897,4 @@
 - **Jun 21, 12:03 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 21, 12:17 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
 - **Jun 21, 12:32 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 21, 12:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
