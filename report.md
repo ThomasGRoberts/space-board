@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 21 | 47 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4768,3 +4768,4 @@
 - **Jun 21, 12:03 AM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)
 - **Jun 21, 12:17 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 21, 12:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 12:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
