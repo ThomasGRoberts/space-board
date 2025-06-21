@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 51 |
 | nyt | 1 | 3 | 22 | 46 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | breaking_defense | 0 | 1 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4848,3 +4848,4 @@
 - **Jun 21, 07:37 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
 - **Jun 21, 07:51 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 08:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 08:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
