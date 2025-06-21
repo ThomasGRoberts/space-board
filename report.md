@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 25 | 51 |
 | nyt | 1 | 3 | 22 | 46 |
-| supercluster | 1 | 1 | 130 | 130 |
+| supercluster | 1 | 1 | 131 | 131 |
 | breaking_defense | 0 | 1 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4857,3 +4857,4 @@
 - **Jun 21, 08:19 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 21, 08:33 AM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 21, 08:47 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 21, 09:01 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
