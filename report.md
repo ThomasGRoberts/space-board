@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 26 | 52 |
-| nyt | 1 | 4 | 22 | 47 |
-| supercluster | 1 | 1 | 104 | 104 |
+| nyt | 1 | 4 | 21 | 47 |
+| supercluster | 1 | 1 | 105 | 105 |
 | breaking_defense | 0 | 1 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4819,3 +4819,4 @@
 - **Jun 21, 05:03 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 05:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 05:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 21, 05:21 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
