@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 51 |
+| spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 22 | 47 |
 | supercluster | 1 | 1 | 102 | 102 |
 | breaking_defense | 0 | 1 | 21 | 45 |
@@ -4815,3 +4815,4 @@
 - **Jun 21, 04:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 04:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 21, 04:35 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 21, 04:49 AM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
