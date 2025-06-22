@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-22T00:02:12.903372+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "bb61b2d6a11381c9589525672994ef8b",
     "data": [
         {
@@ -10346,14 +10346,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Transporter Rideshare Mission",
             "source_link": "https://www.supercluster.com/launches/transporter-14",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-06-22T21:18:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-06-22T21:19:29.724538Z",
-            "shown_at": [
-                "2025-06-22T21:19:30.438177Z"
-            ]
+            "fetched_datetime": "2025-06-22T21:21:12.697125Z"
         }
     ]
 }
