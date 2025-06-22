@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4835,3 +4835,4 @@
 - **Jun 22, 01:47 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 01:49 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 22, 02:03 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 22, 02:17 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
