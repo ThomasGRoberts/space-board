@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 24 | 50 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 0 | 24 | 45 |
+| breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4791,3 +4791,4 @@
 - **Jun 22, 05:23 AM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 22, 05:37 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 06:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 22, 06:49 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
