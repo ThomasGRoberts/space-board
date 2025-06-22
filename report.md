@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 49 |
+| spacenews | 1 | 2 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4903,3 +4903,4 @@
 - **Jun 22, 08:21 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 08:23 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 08:25 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 22, 08:27 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
