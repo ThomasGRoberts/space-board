@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4816,3 +4816,4 @@
 - **Jun 22, 11:43 AM** - FCC highlights national security role in satellite licensing reforms (spacenews)
 - **Jun 22, 11:57 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 22, 12:25 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 22, 12:39 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
