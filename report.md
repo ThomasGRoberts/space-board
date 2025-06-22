@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4847,3 +4847,4 @@
 - **Jun 22, 02:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 22, 03:15 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 22, 03:29 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 22, 03:31 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
