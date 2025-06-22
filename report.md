@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 36 | 36 |
+| supercluster | 2 | 2 | 37 | 37 |
 
 # Shown Order
 
@@ -4844,3 +4844,4 @@
 - **Jun 22, 11:29 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 11:43 AM** - FCC highlights national security role in satellite licensing reforms (spacenews)
 - **Jun 22, 11:57 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 22, 12:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
