@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 50 |
+| spacenews | 2 | 3 | 25 | 51 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4883,3 +4883,4 @@
 - **Jun 22, 06:27 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 06:29 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 06:32 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 22, 06:33 PM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
