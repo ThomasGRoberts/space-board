@@ -3,14 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 51 |
+| supercluster | 1 | 1 | 35 | 35 |
 | nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
-- **Apr 11, 04:23 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
 - **Apr 11, 07:29 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 11, 08:39 AM** - Space Shuttle Discovery Relocation Proposed in New Legislation (aidy)
 - **Apr 11, 01:13 PM** - Bridging the gap between AI hype and reality (spacenews)
@@ -78,7 +77,6 @@
 - **Apr 15, 08:47 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
 - **Apr 15, 09:15 AM** - How Lauren Sanchez Helped Design Blue Origin’s Flight Suits (nyt)
 - **Apr 15, 09:57 AM** - NASA Faces 47% Budget Cut Threatening Key Science Missions (aidy)
-- **Apr 15, 10:53 AM** - Space Force official: Trump’s executive order validates current commercial strategy (spacenews)
 - **Apr 15, 11:07 AM** - NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts (aidy)
 - **Apr 15, 11:21 AM** - Space Force picks up pace of on-orbit refueling experiments (breaking_defense)
 - **Apr 15, 12:03 PM** - No man’s airspace: Why our skies aren’t ready for the space boom (spacenews)
