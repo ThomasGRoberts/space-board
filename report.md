@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4816,3 +4816,4 @@
 - **Jun 22, 09:09 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 22, 09:24 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 09:25 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 22, 09:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
