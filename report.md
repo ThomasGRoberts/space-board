@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4794,3 +4794,4 @@
 - **Jun 22, 06:49 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 07:03 AM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
 - **Jun 22, 07:17 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 22, 07:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
