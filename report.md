@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 25 | 51 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4793,3 +4793,4 @@
 - **Jun 22, 06:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 06:49 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 07:03 AM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
+- **Jun 22, 07:17 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
