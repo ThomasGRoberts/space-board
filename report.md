@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 25 | 51 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 | nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4839,3 +4839,4 @@
 - **Jun 22, 02:45 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 22, 02:59 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 22, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 22, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
