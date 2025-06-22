@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -4865,3 +4865,4 @@
 - **Jun 22, 04:37 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 04:39 PM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 22, 04:53 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 22, 05:07 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
