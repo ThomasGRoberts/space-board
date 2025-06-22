@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
 
@@ -4834,3 +4834,4 @@
 - **Jun 22, 10:33 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 22, 10:47 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
 - **Jun 22, 11:01 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 22, 11:15 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
