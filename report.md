@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -4906,3 +4906,4 @@
 - **Jun 22, 08:27 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 22, 08:41 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 22, 08:55 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 22, 09:09 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
