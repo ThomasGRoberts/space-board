@@ -6,7 +6,7 @@
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4804,3 +4804,4 @@
 - **Jun 22, 07:45 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 22, 07:59 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 22, 08:13 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
+- **Jun 22, 08:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
