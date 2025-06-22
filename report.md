@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 25 | 51 |
-| nyt | 0 | 1 | 24 | 47 |
+| nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4805,3 +4805,4 @@
 - **Jun 22, 07:59 AM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 22, 08:13 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 08:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 22, 08:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
