@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 51 |
 | supercluster | 1 | 1 | 42 | 42 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4816,3 +4816,4 @@
 - **Jun 22, 12:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 12:37 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
+- **Jun 22, 12:51 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
