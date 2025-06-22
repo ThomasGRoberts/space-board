@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 26 | 52 |
 | supercluster | 1 | 1 | 63 | 63 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4846,3 +4846,4 @@
 - **Jun 22, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 03:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 03:27 AM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
+- **Jun 22, 03:41 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
