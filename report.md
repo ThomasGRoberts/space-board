@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 24 | 49 |
+| spacenews | 2 | 2 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4893,3 +4893,4 @@
 - **Jun 22, 07:25 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 07:27 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 07:29 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 22, 07:31 PM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
