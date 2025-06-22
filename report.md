@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4814,3 +4814,4 @@
 - **Jun 22, 08:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 22, 08:55 AM** - Venturi Space announces European lunar rover design (spacenews)
 - **Jun 22, 09:09 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 22, 09:24 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
