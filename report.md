@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 25 | 49 |
-| nyt | 1 | 2 | 23 | 48 |
+| nyt | 1 | 2 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -4834,3 +4834,4 @@
 - **Jun 22, 01:45 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 01:47 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 01:49 PM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
+- **Jun 22, 02:03 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
