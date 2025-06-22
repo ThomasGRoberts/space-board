@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
 | nyt | 1 | 1 | 24 | 50 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -4875,3 +4875,4 @@
 - **Jun 22, 05:33 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 05:36 PM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
 - **Jun 22, 05:49 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 22, 06:03 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
