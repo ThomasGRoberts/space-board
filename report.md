@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 25 | 51 |
-| nyt | 1 | 1 | 23 | 49 |
+| nyt | 1 | 1 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
@@ -4874,3 +4874,4 @@
 - **Jun 22, 05:31 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 05:33 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 05:36 PM** - China’s Cangyu plans mixed-orbit commercial data relay satellite system (spacenews)
+- **Jun 22, 05:49 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
