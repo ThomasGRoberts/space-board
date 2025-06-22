@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 51 |
 | supercluster | 1 | 1 | 35 | 35 |
 | nyt | 0 | 1 | 25 | 47 |
-| breaking_defense | 0 | 0 | 25 | 46 |
+| breaking_defense | 0 | 0 | 26 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4807,3 +4807,4 @@
 - **Jun 21, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 21, 11:39 PM** - China conducts pad abort test for crew spacecraft, advancing moon landing plans (spacenews)
 - **Jun 21, 11:53 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 22, 12:09 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
