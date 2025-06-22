@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 24 | 48 |
+| spacenews | 1 | 3 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4842,3 +4842,4 @@
 - **Jun 22, 11:25 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 11:27 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 11:29 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 22, 11:43 AM** - FCC highlights national security role in satellite licensing reforms (spacenews)
