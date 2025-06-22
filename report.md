@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 25 | 50 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 1 | 2 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
@@ -4813,3 +4813,4 @@
 - **Jun 22, 08:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 08:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 22, 08:55 AM** - Venturi Space announces European lunar rover design (spacenews)
+- **Jun 22, 09:09 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
