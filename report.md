@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 23 | 48 |
+| spacenews | 2 | 3 | 24 | 49 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4853,3 +4853,4 @@
 - **Jun 22, 11:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 11:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 22, 11:29 PM** - The administration’s anti-consensus Mars plan will fail (spacenews)
