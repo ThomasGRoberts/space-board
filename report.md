@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4825,3 +4825,4 @@
 - **Jun 22, 09:51 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
 - **Jun 22, 10:05 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 22, 10:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 22, 10:21 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
