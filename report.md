@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4824,3 +4824,4 @@
 - **Jun 22, 09:37 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 22, 09:51 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
 - **Jun 22, 10:05 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 22, 10:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
