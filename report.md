@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -4849,3 +4849,4 @@
 - **Jun 22, 03:29 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 03:31 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 03:33 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 22, 03:35 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
