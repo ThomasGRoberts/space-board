@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 25 | 49 |
-| nyt | 1 | 2 | 23 | 48 |
+| nyt | 1 | 2 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -4844,3 +4844,4 @@
 - **Jun 22, 02:41 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 02:43 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 22, 02:45 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
+- **Jun 22, 02:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
