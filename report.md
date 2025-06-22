@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 25 | 50 |
-| nyt | 1 | 2 | 24 | 46 |
+| nyt | 1 | 2 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 22 | 22 |
@@ -4823,3 +4823,4 @@
 - **Jun 22, 09:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 09:37 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 22, 09:51 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
+- **Jun 22, 10:05 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
