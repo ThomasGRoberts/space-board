@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 24 | 49 |
+| spacenews | 1 | 4 | 25 | 50 |
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4832,3 +4832,4 @@
 - **Jun 22, 10:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 10:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 22, 10:33 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 22, 10:47 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
