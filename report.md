@@ -4790,4 +4790,4 @@
 - **Jun 22, 04:53 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 05:23 AM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 22, 05:37 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
-- **Jun 22, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 22, 05:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
