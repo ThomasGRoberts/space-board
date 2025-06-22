@@ -6,7 +6,7 @@
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4846,3 +4846,4 @@
 - **Jun 22, 10:33 PM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
 - **Jun 22, 10:47 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 22, 11:01 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 22, 11:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
