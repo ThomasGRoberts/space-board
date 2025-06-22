@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-22T00:02:12.903372+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb61b2d6a11381c9589525672994ef8b",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "1858230eb569c39d01b6c260309ed285",
@@ -10342,15 +10342,18 @@
             ]
         },
         {
-            "id": "bb61b2d6a11381c9589525672994ef8b",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Transporter Rideshare Mission",
-            "source_link": "https://www.supercluster.com/launches/transporter-14",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-23",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-22T21:18:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-22T22:17:34.953420Z"
+            "target_datetime": "2025-06-23T05:25:00.000Z",
+            "time_remaining": "0d 07h 05m",
+            "fetched_datetime": "2025-06-22T22:19:31.563787Z",
+            "shown_at": [
+                "2025-06-22T22:19:32.197784Z"
+            ]
         }
     ]
 }
