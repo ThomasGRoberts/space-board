@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 23 | 48 |
+| spacenews | 2 | 3 | 24 | 49 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4843,3 +4843,4 @@
 - **Jun 22, 10:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 10:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 22, 10:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 22, 10:33 PM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)

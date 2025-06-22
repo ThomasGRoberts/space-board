@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-22T00:02:12.903372+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "48266828b21e69a8b79e5136175d79a7",
     "data": [
         {
             "id": "1858230eb569c39d01b6c260309ed285",
@@ -10359,6 +10359,18 @@
                 "2025-06-22T22:27:51.270483Z",
                 "2025-06-22T22:29:36.452097Z",
                 "2025-06-22T22:31:54.607999Z"
+            ]
+        },
+        {
+            "id": "48266828b21e69a8b79e5136175d79a7",
+            "source": "spacenews",
+            "text": "ULA testing OpenAI’s government-compliant chatbot ",
+            "source_link": "https://spacenews.com/ula-testing-openais-government-compliant-chatbot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-22T22:33:30.183703Z",
+            "shown_at": [
+                "2025-06-22T22:33:30.843918Z"
             ]
         }
     ]
