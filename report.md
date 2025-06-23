@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4853,3 +4853,4 @@
 - **Jun 23, 10:37 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 23, 10:51 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
 - **Jun 23, 11:55 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 11:57 AM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
