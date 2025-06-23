@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 23 | 48 |
+| spacenews | 6 | 7 | 23 | 47 |
 | nyt | 1 | 2 | 22 | 46 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -4896,3 +4896,4 @@
 - **Jun 23, 03:57 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 03:59 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 04:02 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 04:05 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
