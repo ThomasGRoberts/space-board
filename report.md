@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 23 | 47 |
-| nyt | 1 | 2 | 23 | 47 |
+| nyt | 2 | 3 | 24 | 48 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -4908,3 +4908,4 @@
 - **Jun 23, 05:02 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 05:03 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 23, 05:17 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 23, 05:33 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)

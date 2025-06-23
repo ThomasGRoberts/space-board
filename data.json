@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e18bb0bdc48a50affe3672f31e1d5611",
+    "trigger_count": 0,
+    "current_item_id": "13934a7049dafbc2b230888ddc29fb2c",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10457,6 +10457,18 @@
             "fetched_datetime": "2025-06-23T14:37:41.585866Z",
             "shown_at": [
                 "2025-06-23T14:37:42.609586Z"
+            ]
+        },
+        {
+            "id": "13934a7049dafbc2b230888ddc29fb2c",
+            "source": "nyt",
+            "text": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids",
+            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-telescopes-first-images.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T17:33:45.149808Z",
+            "shown_at": [
+                "2025-06-23T17:33:46.136877Z"
             ]
         }
     ]
