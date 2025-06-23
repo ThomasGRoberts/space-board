@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4863,3 +4863,4 @@
 - **Jun 23, 08:29 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 23, 08:43 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 23, 08:57 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 23, 09:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
