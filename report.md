@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 48 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4864,3 +4864,4 @@
 - **Jun 23, 02:19 AM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 23, 02:33 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 02:47 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 23, 03:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
