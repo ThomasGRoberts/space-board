@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 48 |
 | supercluster | 1 | 1 | 56 | 56 |
-| nyt | 2 | 2 | 23 | 48 |
+| nyt | 2 | 2 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4891,3 +4891,4 @@
 - **Jun 23, 05:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 23, 05:09 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
