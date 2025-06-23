@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 49 |
 | supercluster | 1 | 1 | 42 | 42 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4873,3 +4873,4 @@
 - **Jun 23, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 03:17 AM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
 - **Jun 23, 03:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 23, 03:45 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
