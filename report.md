@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4843,3 +4843,4 @@
 - **Jun 23, 06:35 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 23, 06:49 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 07:03 AM** - Airbus says space business turnaround going well (spacenews)
+- **Jun 23, 07:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
