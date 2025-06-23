@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 48 |
 | nyt | 2 | 2 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4837,4 +4837,4 @@
 - **Jun 23, 04:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 23, 05:09 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 05:23 AM** - Pentagon struggles to build unified satellite network  (spacenews)
-- **Jun 23, 05:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 23, 05:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
