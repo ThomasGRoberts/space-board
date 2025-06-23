@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 48 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4835,3 +4835,4 @@
 - **Jun 22, 11:43 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 11:57 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 23, 12:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 23, 12:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
