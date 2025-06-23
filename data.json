@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aaee52738f12e84b51a26ff64fd3be0",
+    "trigger_count": 0,
+    "current_item_id": "a2772e6ace4986a566835894690c0000",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10498,6 +10498,18 @@
             "fetched_datetime": "2025-06-23T17:33:45.149808Z",
             "shown_at": [
                 "2025-06-23T17:33:46.136877Z"
+            ]
+        },
+        {
+            "id": "a2772e6ace4986a566835894690c0000",
+            "source": "breaking_defense",
+            "text": "‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration",
+            "source_link": "https://breakingdefense.com/2025/06/need-a-bunch-of-scars-space-forces-hammett-speeds-phased-array-antenna-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T20:23:42.714623Z",
+            "shown_at": [
+                "2025-06-23T20:23:43.633109Z"
             ]
         }
     ]
