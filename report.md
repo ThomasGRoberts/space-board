@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 49 |
 | supercluster | 1 | 1 | 35 | 35 |
-| nyt | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| nyt | 1 | 1 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4863,3 +4863,4 @@
 - **Jun 23, 02:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 02:19 AM** - Members of Congress want White House to quickly nominate new NASA administrator (spacenews)
 - **Jun 23, 02:33 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 23, 02:47 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
