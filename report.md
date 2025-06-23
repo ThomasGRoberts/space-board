@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4853,3 +4853,4 @@
 - **Jun 23, 07:31 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 23, 07:45 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 23, 07:59 AM** - Isaacman interested in privately funded science missions (spacenews)
+- **Jun 23, 08:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
