@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4855,3 +4855,4 @@
 - **Jun 23, 07:59 AM** - Isaacman interested in privately funded science missions (spacenews)
 - **Jun 23, 08:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 08:15 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 08:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
