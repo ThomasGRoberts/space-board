@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -4910,3 +4910,4 @@
 - **Jun 23, 05:17 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 05:33 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 23, 05:49 PM** - Starship destroyed in test stand explosion (spacenews)
+- **Jun 23, 06:03 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
