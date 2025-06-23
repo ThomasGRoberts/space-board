@@ -6,7 +6,7 @@
 | nyt | 2 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4838,3 +4838,4 @@
 - **Jun 23, 05:09 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 05:23 AM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 23, 06:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 06:31 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
