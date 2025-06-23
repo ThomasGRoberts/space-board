@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 3,
-    "current_item_id": "bb61b2d6a11381c9589525672994ef8b",
+    "trigger_count": 4,
+    "current_item_id": "747b700bea974ffa788483fa39758c5a",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10455,15 +10455,18 @@
             ]
         },
         {
-            "id": "bb61b2d6a11381c9589525672994ef8b",
+            "id": "747b700bea974ffa788483fa39758c5a",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Transporter Rideshare Mission",
-            "source_link": "https://www.supercluster.com/launches/transporter-14",
-            "shown": false,
+            "text": "Rocket Lab Will Launch Confidential Spacecraft",
+            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-23T21:25:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-23T22:23:34.129993Z"
+            "target_datetime": "2025-06-24T07:00:00.000Z",
+            "time_remaining": "0d 08h 34m",
+            "fetched_datetime": "2025-06-23T22:25:51.007013Z",
+            "shown_at": [
+                "2025-06-23T22:25:52.067012Z"
+            ]
         }
     ]
 }

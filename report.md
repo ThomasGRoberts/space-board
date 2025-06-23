@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4883,3 +4883,4 @@
 - **Jun 23, 08:37 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 08:51 PM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
 - **Jun 23, 09:21 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 23, 10:25 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
