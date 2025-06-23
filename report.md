@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 47 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4883,3 +4883,4 @@
 - **Jun 23, 08:37 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 08:51 PM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
 - **Jun 23, 09:19 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 09:21 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
