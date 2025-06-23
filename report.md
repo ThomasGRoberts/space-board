@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 47 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -4942,3 +4942,4 @@
 - **Jun 23, 08:37 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 08:51 PM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
 - **Jun 23, 09:07 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 09:09 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
