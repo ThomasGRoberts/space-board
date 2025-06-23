@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 22 | 47 |
+| spacenews | 5 | 6 | 23 | 48 |
 | nyt | 1 | 2 | 22 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4866,3 +4866,4 @@
 - **Jun 23, 12:53 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 12:55 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 12:57 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 23, 01:11 PM** - The key to Golden Dome’s success: make it usable (spacenews)

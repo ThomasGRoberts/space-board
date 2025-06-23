@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aaee52738f12e84b51a26ff64fd3be0",
+    "trigger_count": 0,
+    "current_item_id": "e4f11a883ad6c2fa91ab3448f0d2432b",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10393,6 +10393,18 @@
                 "2025-06-23T12:51:37.964769Z",
                 "2025-06-23T12:53:28.189114Z",
                 "2025-06-23T12:55:37.853886Z"
+            ]
+        },
+        {
+            "id": "e4f11a883ad6c2fa91ab3448f0d2432b",
+            "source": "spacenews",
+            "text": "The key to Golden Dome’s success: make it usable",
+            "source_link": "https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T13:11:32.271889Z",
+            "shown_at": [
+                "2025-06-23T13:11:32.755993Z"
             ]
         }
     ]
