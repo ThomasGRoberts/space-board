@@ -4837,4 +4837,4 @@
 - **Jun 23, 04:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 23, 05:09 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 05:23 AM** - Pentagon struggles to build unified satellite network  (spacenews)
-- **Jun 23, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 23, 05:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
