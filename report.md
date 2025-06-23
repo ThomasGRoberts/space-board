@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 23 | 46 |
+| spacenews | 8 | 9 | 24 | 47 |
 | nyt | 2 | 3 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4886,3 +4886,4 @@
 - **Jun 23, 10:25 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 10:27 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 10:29 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 23, 10:31 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
