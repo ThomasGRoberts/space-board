@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 49 |
 | supercluster | 1 | 1 | 28 | 28 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4853,3 +4853,4 @@
 - **Jun 23, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 01:23 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 23, 01:37 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 23, 01:51 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
