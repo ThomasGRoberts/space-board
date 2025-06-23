@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 23 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -4880,3 +4880,4 @@
 - **Jun 23, 10:17 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 10:19 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 10:21 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 10:23 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
