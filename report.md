@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 48 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 | nyt | 2 | 2 | 23 | 48 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 23 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4884,3 +4884,4 @@
 - **Jun 23, 04:13 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 04:27 AM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 23, 04:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 23, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
