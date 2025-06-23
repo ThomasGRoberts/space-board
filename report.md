@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 23 | 48 |
-| nyt | 1 | 2 | 23 | 47 |
+| nyt | 1 | 2 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4901,3 +4901,4 @@
 - **Jun 23, 04:33 PM** - Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket  (spacenews)
 - **Jun 23, 04:47 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 04:49 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 04:51 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
