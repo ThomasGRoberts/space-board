@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 23 | 48 |
-| nyt | 1 | 2 | 23 | 48 |
+| nyt | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -4874,3 +4874,4 @@
 - **Jun 23, 09:41 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 23, 09:55 AM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
 - **Jun 23, 10:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 10:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
