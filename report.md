@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 49 |
 | supercluster | 1 | 1 | 49 | 49 |
 | nyt | 2 | 2 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4883,3 +4883,4 @@
 - **Jun 23, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 04:13 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 23, 04:27 AM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
+- **Jun 23, 04:41 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
