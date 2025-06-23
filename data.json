@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3cd6997562e02e7bf7ffde9737a3c6cf",
+    "trigger_count": 0,
+    "current_item_id": "0a00ac4964c9a085e52ee599f51f9d8b",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10398,6 +10398,18 @@
             "fetched_datetime": "2025-06-23T07:59:32.204983Z",
             "shown_at": [
                 "2025-06-23T07:59:32.867304Z"
+            ]
+        },
+        {
+            "id": "0a00ac4964c9a085e52ee599f51f9d8b",
+            "source": "spacenews",
+            "text": "Increase in Ariane 6 launch cadence could take several years",
+            "source_link": "https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T10:51:39.907351Z",
+            "shown_at": [
+                "2025-06-23T10:51:40.479748Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 22 | 47 |
+| spacenews | 4 | 5 | 23 | 48 |
 | nyt | 1 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4882,3 +4882,4 @@
 - **Jun 23, 10:21 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 10:23 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 23, 10:37 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 23, 10:51 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
