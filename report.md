@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 23 | 47 |
+| spacenews | 7 | 9 | 24 | 47 |
 | nyt | 2 | 3 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4897,3 +4897,4 @@
 - **Jun 23, 11:35 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 11:37 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 11:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 23, 11:41 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
