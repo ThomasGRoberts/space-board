@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
     "data": [
         {
@@ -10373,14 +10373,11 @@
             "source": "supercluster",
             "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
             "source_link": "https://www.supercluster.com/launches/project-kuiper-2",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-06-23T10:54:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-06-23T11:05:27.965078Z",
-            "shown_at": [
-                "2025-06-23T11:05:28.556207Z"
-            ]
+            "fetched_datetime": "2025-06-23T11:07:38.591890Z"
         }
     ]
 }
