@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4922,3 +4922,4 @@
 - **Jun 23, 06:45 PM** - Airbus says space business turnaround going well (spacenews)
 - **Jun 23, 06:59 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 07:01 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 07:03 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
