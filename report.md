@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4873,3 +4873,4 @@
 - **Jun 23, 09:27 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 23, 09:41 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 23, 09:55 AM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
+- **Jun 23, 10:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
