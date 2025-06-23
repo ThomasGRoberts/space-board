@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4889,3 +4889,4 @@
 - **Jun 23, 03:05 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 23, 03:19 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 23, 03:35 PM** - The key to Golden Dome’s success: make it usable (spacenews)
+- **Jun 23, 03:49 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
