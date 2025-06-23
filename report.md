@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 23 | 47 |
-| nyt | 2 | 2 | 23 | 47 |
+| nyt | 2 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -4861,3 +4861,4 @@
 - **Jun 23, 08:25 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 08:27 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 08:29 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
+- **Jun 23, 08:43 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
