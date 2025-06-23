@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 22 | 47 |
-| nyt | 2 | 3 | 23 | 47 |
+| nyt | 2 | 3 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 59 | 59 |
@@ -4939,3 +4939,4 @@
 - **Jun 23, 08:07 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 08:09 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 23, 08:23 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 23, 08:37 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
