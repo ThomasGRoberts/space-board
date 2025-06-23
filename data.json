@@ -1,9 +1,75 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-22T00:02:12.903372+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
+    "trigger_count": 2,
     "current_item_id": "0aaee52738f12e84b51a26ff64fd3be0",
     "data": [
+        {
+            "id": "48266828b21e69a8b79e5136175d79a7",
+            "source": "spacenews",
+            "text": "ULA testing OpenAI’s government-compliant chatbot ",
+            "source_link": "https://spacenews.com/ula-testing-openais-government-compliant-chatbot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-22T22:33:30.183703Z",
+            "shown_at": [
+                "2025-06-22T22:33:30.843918Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-23",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-23T05:25:00.000Z",
+            "time_remaining": "0d 05h 57m",
+            "fetched_datetime": "2025-06-22T22:19:31.563787Z",
+            "shown_at": [
+                "2025-06-22T22:19:32.197784Z",
+                "2025-06-22T22:21:31.328699Z",
+                "2025-06-22T22:23:44.708913Z",
+                "2025-06-22T22:25:42.466096Z",
+                "2025-06-22T22:27:51.270483Z",
+                "2025-06-22T22:29:36.452097Z",
+                "2025-06-22T22:31:54.607999Z",
+                "2025-06-22T23:15:27.389961Z",
+                "2025-06-22T23:17:33.025188Z",
+                "2025-06-22T23:19:23.719131Z",
+                "2025-06-22T23:21:29.390573Z",
+                "2025-06-22T23:23:28.468280Z",
+                "2025-06-22T23:25:07.829923Z",
+                "2025-06-22T23:27:29.561434Z"
+            ]
+        },
+        {
+            "id": "0c12ce3bd64f204426ac6c211c2a0125",
+            "source": "spacenews",
+            "text": "China launches ChinaSat-9C geostationary communications satellite",
+            "source_link": "https://spacenews.com/china-launches-chinasat-9c-geostationary-communications-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-22T18:33:20.373554Z",
+            "shown_at": [
+                "2025-06-22T18:33:21.142623Z"
+            ]
+        },
+        {
+            "id": "423be89dc44e19bccec469a22fc0fdcf",
+            "source": "nyt",
+            "text": "Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape",
+            "source_link": "https://www.nytimes.com/2025/06/22/science/vera-rubin-women-astronomy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-22T09:09:09.100525Z",
+            "shown_at": [
+                "2025-06-22T09:09:09.674268Z",
+                "2025-06-22T14:03:39.712200Z",
+                "2025-06-22T14:59:46.745990Z",
+                "2025-06-22T16:53:26.201580Z"
+            ]
+        },
         {
             "id": "1858230eb569c39d01b6c260309ed285",
             "source": "spacenews",
@@ -10262,127 +10328,6 @@
                 "2025-04-18T09:03:35.785372Z",
                 "2025-04-18T12:35:07.910122Z",
                 "2025-04-18T15:02:00.254845Z"
-            ]
-        },
-        {
-            "id": "157d2c932d0d5bed9cde02f8f415fd9b",
-            "source": "spacenews",
-            "text": "Winning the satellite industry’s most disruptive decade yet",
-            "source_link": "https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T14:11:39.273184Z",
-            "shown_at": [
-                "2025-04-11T14:11:40.008531Z",
-                "2025-04-17T15:05:40.493686Z"
-            ]
-        },
-        {
-            "id": "e1388705c5d4f186296c0e9f7537ce00",
-            "source": "spacenews",
-            "text": "Bridging the gap between AI hype and reality",
-            "source_link": "https://spacenews.com/bridging-the-gap-between-ai-hype-and-reality/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T13:13:44.876511Z",
-            "shown_at": [
-                "2025-04-11T13:13:45.439892Z",
-                "2025-04-12T11:09:31.398787Z",
-                "2025-04-15T03:49:36.521458Z",
-                "2025-04-18T10:41:44.551449Z"
-            ]
-        },
-        {
-            "id": "ceb50af3e54ce64b4fc0f09af61aaa33",
-            "source": "aidy",
-            "text": "Space Shuttle Discovery Relocation Proposed in New Legislation",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T07:29:25.131458Z",
-            "shown_at": [
-                "2025-04-11T07:29:25.551987Z",
-                "2025-04-11T08:39:48.624706Z",
-                "2025-04-12T10:35:25.866821Z",
-                "2025-04-12T19:27:40.644449Z",
-                "2025-04-13T22:17:46.248149Z",
-                "2025-04-14T21:19:31.611373Z",
-                "2025-04-14T22:32:22.445154Z",
-                "2025-04-15T02:25:34.573132Z",
-                "2025-04-15T13:35:36.966322Z",
-                "2025-04-16T10:04:57.306690Z",
-                "2025-04-16T12:33:49.077066Z",
-                "2025-04-16T18:49:42.186662Z",
-                "2025-04-16T23:49:25.904312Z",
-                "2025-04-17T21:43:21.763884Z",
-                "2025-04-17T22:55:32.232935Z",
-                "2025-04-18T00:05:38.309554Z"
-            ]
-        },
-        {
-            "id": "423be89dc44e19bccec469a22fc0fdcf",
-            "source": "nyt",
-            "text": "Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape",
-            "source_link": "https://www.nytimes.com/2025/06/22/science/vera-rubin-women-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-22T09:09:09.100525Z",
-            "shown_at": [
-                "2025-06-22T09:09:09.674268Z",
-                "2025-06-22T14:03:39.712200Z",
-                "2025-06-22T14:59:46.745990Z",
-                "2025-06-22T16:53:26.201580Z"
-            ]
-        },
-        {
-            "id": "0c12ce3bd64f204426ac6c211c2a0125",
-            "source": "spacenews",
-            "text": "China launches ChinaSat-9C geostationary communications satellite",
-            "source_link": "https://spacenews.com/china-launches-chinasat-9c-geostationary-communications-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-22T18:33:20.373554Z",
-            "shown_at": [
-                "2025-06-22T18:33:21.142623Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-23",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-23T05:25:00.000Z",
-            "time_remaining": "0d 05h 57m",
-            "fetched_datetime": "2025-06-22T22:19:31.563787Z",
-            "shown_at": [
-                "2025-06-22T22:19:32.197784Z",
-                "2025-06-22T22:21:31.328699Z",
-                "2025-06-22T22:23:44.708913Z",
-                "2025-06-22T22:25:42.466096Z",
-                "2025-06-22T22:27:51.270483Z",
-                "2025-06-22T22:29:36.452097Z",
-                "2025-06-22T22:31:54.607999Z",
-                "2025-06-22T23:15:27.389961Z",
-                "2025-06-22T23:17:33.025188Z",
-                "2025-06-22T23:19:23.719131Z",
-                "2025-06-22T23:21:29.390573Z",
-                "2025-06-22T23:23:28.468280Z",
-                "2025-06-22T23:25:07.829923Z",
-                "2025-06-22T23:27:29.561434Z"
-            ]
-        },
-        {
-            "id": "48266828b21e69a8b79e5136175d79a7",
-            "source": "spacenews",
-            "text": "ULA testing OpenAI’s government-compliant chatbot ",
-            "source_link": "https://spacenews.com/ula-testing-openais-government-compliant-chatbot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-22T22:33:30.183703Z",
-            "shown_at": [
-                "2025-06-22T22:33:30.843918Z"
             ]
         }
     ]
