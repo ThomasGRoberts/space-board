@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6d830bf30f1051fdc25cff1077ac05ac",
+    "trigger_count": 0,
+    "current_item_id": "81090fa4715695e1c99ffdffd37df19a",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10416,6 +10416,18 @@
             "fetched_datetime": "2025-06-23T13:11:32.271889Z",
             "shown_at": [
                 "2025-06-23T13:11:32.755993Z"
+            ]
+        },
+        {
+            "id": "81090fa4715695e1c99ffdffd37df19a",
+            "source": "spacenews",
+            "text": "Atlas 5 launches second set of Project Kuiper satellites",
+            "source_link": "https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T14:37:41.585866Z",
+            "shown_at": [
+                "2025-06-23T14:37:42.609586Z"
             ]
         }
     ]
