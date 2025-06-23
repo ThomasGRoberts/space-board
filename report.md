@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4885,3 +4885,4 @@
 - **Jun 23, 09:21 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 23, 10:25 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 10:27 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 23, 10:29 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
