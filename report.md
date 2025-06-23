@@ -6,7 +6,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -4875,3 +4875,4 @@
 - **Jun 23, 09:55 AM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
 - **Jun 23, 10:09 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 10:11 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 10:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
