@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 23 | 48 |
-| nyt | 1 | 2 | 23 | 48 |
+| nyt | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4864,3 +4864,4 @@
 - **Jun 23, 08:43 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 23, 08:57 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 23, 09:13 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jun 23, 09:15 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
