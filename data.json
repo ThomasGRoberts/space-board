@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "e18bb0bdc48a50affe3672f31e1d5611",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10375,6 +10375,18 @@
                 "2025-04-18T09:03:35.785372Z",
                 "2025-04-18T12:35:07.910122Z",
                 "2025-04-18T15:02:00.254845Z"
+            ]
+        },
+        {
+            "id": "e18bb0bdc48a50affe3672f31e1d5611",
+            "source": "nyt",
+            "text": "Vera Rubin Scientists Reveal Telescope’s First Images",
+            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-scientists-reveal-telescopes-first-images.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T04:13:28.728498Z",
+            "shown_at": [
+                "2025-06-23T04:13:29.208438Z"
             ]
         }
     ]
