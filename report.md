@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 49 |
 | supercluster | 1 | 1 | 21 | 21 |
-| nyt | 1 | 1 | 23 | 48 |
+| nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4842,3 +4842,4 @@
 - **Jun 23, 12:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 12:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 23, 12:25 AM** - A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access (spacenews)
+- **Jun 23, 12:39 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
