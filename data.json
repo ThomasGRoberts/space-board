@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e18bb0bdc48a50affe3672f31e1d5611",
+    "trigger_count": 0,
+    "current_item_id": "4be5dfd317c8a78de361b7318443412e",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10511,6 +10511,18 @@
             "fetched_datetime": "2025-06-23T20:23:42.714623Z",
             "shown_at": [
                 "2025-06-23T20:23:43.633109Z"
+            ]
+        },
+        {
+            "id": "4be5dfd317c8a78de361b7318443412e",
+            "source": "spacenews",
+            "text": "Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.",
+            "source_link": "https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T20:51:32.939859Z",
+            "shown_at": [
+                "2025-06-23T20:51:33.567407Z"
             ]
         }
     ]
