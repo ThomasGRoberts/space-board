@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 46 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4890,3 +4890,4 @@
 - **Jun 23, 10:45 PM** - York Space launches U.S. military satellite on SpaceX rideshare (spacenews)
 - **Jun 23, 10:59 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 23, 11:13 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 23, 11:27 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
