@@ -6,7 +6,7 @@
 | nyt | 2 | 3 | 23 | 47 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -4920,3 +4920,4 @@
 - **Jun 23, 06:17 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 23, 06:32 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 23, 06:45 PM** - Airbus says space business turnaround going well (spacenews)
+- **Jun 23, 06:59 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
