@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 23 | 47 |
+| spacenews | 6 | 7 | 24 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -4888,3 +4888,4 @@
 - **Jun 23, 03:03 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 03:05 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 23, 03:19 PM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
+- **Jun 23, 03:35 PM** - The key to Golden Dome’s success: make it usable (spacenews)
