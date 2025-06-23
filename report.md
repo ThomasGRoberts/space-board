@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 48 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 21 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -4932,3 +4932,4 @@
 - **Jun 23, 07:41 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 23, 07:55 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
 - **Jun 23, 07:57 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
+- **Jun 23, 07:59 PM** - SpaceX Will Launch Transporter Rideshare Mission (supercluster)
