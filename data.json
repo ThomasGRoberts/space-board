@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 3,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 4,
+    "current_item_id": "bb61b2d6a11381c9589525672994ef8b",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10369,15 +10369,18 @@
             ]
         },
         {
-            "id": "110293b72efbc6c3cf4f5a3972811451",
+            "id": "bb61b2d6a11381c9589525672994ef8b",
             "source": "supercluster",
-            "text": "ULA Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-2",
-            "shown": false,
+            "text": "SpaceX Will Launch Transporter Rideshare Mission",
+            "source_link": "https://www.supercluster.com/launches/transporter-14",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-23T10:54:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-23T11:53:27.535277Z"
+            "target_datetime": "2025-06-23T21:18:00.000Z",
+            "time_remaining": "0d 09h 22m",
+            "fetched_datetime": "2025-06-23T11:55:43.021693Z",
+            "shown_at": [
+                "2025-06-23T11:55:43.970287Z"
+            ]
         }
     ]
 }
