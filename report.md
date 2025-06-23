@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 23 | 47 |
+| spacenews | 3 | 4 | 24 | 48 |
 | nyt | 2 | 2 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4852,3 +4852,4 @@
 - **Jun 23, 07:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jun 23, 07:31 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 23, 07:45 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 23, 07:59 AM** - Isaacman interested in privately funded science missions (spacenews)

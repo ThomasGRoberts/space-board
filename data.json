@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 6,
-    "current_item_id": "70a36534d3d54e13c744417ef4131c5f",
+    "trigger_count": 0,
+    "current_item_id": "f7cd6e415600f534f618a378c2077410",
     "data": [
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
@@ -10357,6 +10357,18 @@
                 "2025-06-23T07:25:27.156642Z",
                 "2025-06-23T07:27:58.009193Z",
                 "2025-06-23T07:29:41.238923Z"
+            ]
+        },
+        {
+            "id": "f7cd6e415600f534f618a378c2077410",
+            "source": "spacenews",
+            "text": "Isaacman interested in privately funded science missions",
+            "source_link": "https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T07:59:32.204983Z",
+            "shown_at": [
+                "2025-06-23T07:59:32.867304Z"
             ]
         }
     ]
