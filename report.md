@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 27 | 50 |
+| spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -4930,3 +4930,4 @@
 - **Jun 24, 10:29 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
 - **Jun 24, 10:43 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 10:45 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 10:48 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
