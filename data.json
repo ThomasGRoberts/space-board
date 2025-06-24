@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "54daafb68028b71c8d75908aeaa3accd",
+    "trigger_count": 0,
+    "current_item_id": "b329b7f93e33be7d57a637d36c73e6de",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10330,6 +10330,18 @@
             "fetched_datetime": "2025-06-24T09:35:34.570211Z",
             "shown_at": [
                 "2025-06-24T09:35:35.167222Z"
+            ]
+        },
+        {
+            "id": "b329b7f93e33be7d57a637d36c73e6de",
+            "source": "spacenews",
+            "text": "Threatening the endless frontier of U.S. science",
+            "source_link": "https://spacenews.com/threatening-the-endless-frontier-of-u-s-science/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T11:13:32.839716Z",
+            "shown_at": [
+                "2025-06-24T11:13:33.415579Z"
             ]
         }
     ]
