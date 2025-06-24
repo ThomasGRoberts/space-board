@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 24 | 47 |
+| spacenews | 8 | 11 | 25 | 48 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4801,3 +4801,4 @@
 - **Jun 24, 09:29 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:32 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 09:35 AM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)

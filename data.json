@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
+    "trigger_count": 0,
+    "current_item_id": "71cc178e124ebe221de87ca1049b3f39",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10306,6 +10306,18 @@
             "fetched_datetime": "2025-06-24T08:37:30.684475Z",
             "shown_at": [
                 "2025-06-24T08:37:31.326053Z"
+            ]
+        },
+        {
+            "id": "71cc178e124ebe221de87ca1049b3f39",
+            "source": "spacenews",
+            "text": "The Exploration Company claims partial success of Mission Possible reentry spacecraft",
+            "source_link": "https://spacenews.com/the-exploration-company-claims-partial-success-of-mission-possible-reentry-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T09:35:34.570211Z",
+            "shown_at": [
+                "2025-06-24T09:35:35.167222Z"
             ]
         }
     ]
