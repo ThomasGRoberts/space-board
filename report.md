@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 48 |
 | breaking_defense | 1 | 1 | 23 | 45 |
-| nyt | 1 | 2 | 23 | 45 |
+| nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4837,3 +4837,4 @@
 - **Jun 24, 01:09 PM** - Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers (spacenews)
 - **Jun 24, 01:23 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 01:25 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 01:27 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
