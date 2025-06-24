@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 24 | 24 |
-| breaking_defense | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4792,3 +4792,4 @@
 - **Jun 24, 01:35 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 01:37 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 24, 01:51 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 24, 02:05 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
