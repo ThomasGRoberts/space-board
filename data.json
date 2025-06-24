@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 0,
-    "current_item_id": "747b700bea974ffa788483fa39758c5a",
+    "trigger_count": 1,
+    "current_item_id": "458840fef45e58a914460ad200b9dcf2",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10268,17 +10268,17 @@
             ]
         },
         {
-            "id": "747b700bea974ffa788483fa39758c5a",
+            "id": "458840fef45e58a914460ad200b9dcf2",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Confidential Spacecraft",
-            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
+            "text": "SpaceX Will Launch Private Crew to ISS for Axiom",
+            "source_link": "https://www.supercluster.com/launches/axiom-mission-4",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-24T07:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-24T07:59:42.967137Z",
+            "target_datetime": "2025-06-25T06:31:00.000Z",
+            "time_remaining": "0d 22h 23m",
+            "fetched_datetime": "2025-06-24T08:07:51.195702Z",
             "shown_at": [
-                "2025-06-24T07:59:44.128698Z"
+                "2025-06-24T08:07:51.657799Z"
             ]
         }
     ]
