@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 48 |
+| spacenews | 7 | 13 | 26 | 49 |
 | breaking_defense | 4 | 4 | 24 | 46 |
 | nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4886,3 +4886,4 @@
 - **Jun 24, 05:37 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 24, 05:52 PM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 24, 06:09 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 24, 06:25 PM** - Lynk Global’s SPAC merger on the rocks (spacenews)

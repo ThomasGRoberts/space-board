@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c945390398214ad13d1974e693389fb8",
+    "trigger_count": 0,
+    "current_item_id": "c28fd6b9443dbb1e4b03bfddc79392b1",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10446,6 +10446,18 @@
             "fetched_datetime": "2025-06-24T18:09:47.345042Z",
             "shown_at": [
                 "2025-06-24T18:09:48.214415Z"
+            ]
+        },
+        {
+            "id": "c28fd6b9443dbb1e4b03bfddc79392b1",
+            "source": "spacenews",
+            "text": "Lynk Global’s SPAC merger on the rocks",
+            "source_link": "https://spacenews.com/lynk-globals-spac-merger-on-the-rocks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T18:25:33.334114Z",
+            "shown_at": [
+                "2025-06-24T18:25:33.869753Z"
             ]
         }
     ]
