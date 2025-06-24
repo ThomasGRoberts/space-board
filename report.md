@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 50 |
-| breaking_defense | 3 | 4 | 23 | 46 |
+| breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -4926,3 +4926,4 @@
 - **Jun 24, 09:55 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:57 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 24, 10:15 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
