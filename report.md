@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 38 | 38 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4812,3 +4812,4 @@
 - **Jun 24, 03:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 03:29 AM** - York Space launches U.S. military satellite on SpaceX rideshare (spacenews)
 - **Jun 24, 03:43 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 24, 03:57 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
