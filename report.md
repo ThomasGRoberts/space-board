@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 50 |
+| spacenews | 5 | 12 | 27 | 51 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4937,3 +4937,4 @@
 - **Jun 24, 10:59 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 11:01 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 24, 11:15 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 24, 11:29 PM** - The key to Golden Dome’s success: make it usable (spacenews)
