@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 23 | 47 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4794,3 +4794,4 @@
 - **Jun 24, 01:51 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 24, 02:05 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 24, 02:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 24, 02:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
