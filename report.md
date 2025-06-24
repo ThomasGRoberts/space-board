@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 48 |
 | breaking_defense | 3 | 3 | 23 | 45 |
-| nyt | 1 | 2 | 22 | 45 |
+| nyt | 1 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -4882,3 +4882,4 @@
 - **Jun 24, 05:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 05:19 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 05:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 05:23 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
