@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b1834d2acfe1b2d8f7f70484259979f3",
+    "trigger_count": 0,
+    "current_item_id": "c945390398214ad13d1974e693389fb8",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10434,6 +10434,18 @@
             "fetched_datetime": "2025-06-24T14:49:35.246000Z",
             "shown_at": [
                 "2025-06-24T14:49:35.912424Z"
+            ]
+        },
+        {
+            "id": "c945390398214ad13d1974e693389fb8",
+            "source": "breaking_defense",
+            "text": "Missile Defense Agency’s long-range radar tracks ICBM test target for first time",
+            "source_link": "https://breakingdefense.com/2025/06/missile-defense-agencys-long-range-radar-tracks-icbm-test-target-for-first-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T18:09:47.345042Z",
+            "shown_at": [
+                "2025-06-24T18:09:48.214415Z"
             ]
         }
     ]
