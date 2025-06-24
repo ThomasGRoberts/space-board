@@ -1,9 +1,157 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-23T00:01:56.833983+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
+    "trigger_count": 3,
     "current_item_id": "13934a7049dafbc2b230888ddc29fb2c",
     "data": [
+        {
+            "id": "8669a918a3860bf235dee539fcf9fc4d",
+            "source": "spacenews",
+            "text": "York Space launches U.S. military satellite on SpaceX rideshare",
+            "source_link": "https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T22:31:40.695258Z",
+            "shown_at": [
+                "2025-06-23T22:45:32.802660Z"
+            ]
+        },
+        {
+            "id": "93b42791c0adffa8191bef61232702e0",
+            "source": "spacenews",
+            "text": "Space Inventor Launches First Danish Arctic Satellite",
+            "source_link": "https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T22:31:40.695203Z",
+            "shown_at": [
+                "2025-06-23T22:31:41.363079Z"
+            ]
+        },
+        {
+            "id": "747b700bea974ffa788483fa39758c5a",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Confidential Spacecraft",
+            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-24T07:00:00.000Z",
+            "time_remaining": "0d 07h 20m",
+            "fetched_datetime": "2025-06-23T22:25:51.007013Z",
+            "shown_at": [
+                "2025-06-23T22:25:52.067012Z",
+                "2025-06-23T22:27:26.478837Z",
+                "2025-06-23T22:29:27.173775Z",
+                "2025-06-23T23:27:41.993419Z",
+                "2025-06-23T23:29:34.071477Z",
+                "2025-06-23T23:31:36.937073Z",
+                "2025-06-23T23:33:25.762644Z",
+                "2025-06-23T23:35:41.926819Z",
+                "2025-06-23T23:37:30.994680Z",
+                "2025-06-23T23:39:23.820069Z"
+            ]
+        },
+        {
+            "id": "4be5dfd317c8a78de361b7318443412e",
+            "source": "spacenews",
+            "text": "Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.",
+            "source_link": "https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T20:51:32.939859Z",
+            "shown_at": [
+                "2025-06-23T20:51:33.567407Z"
+            ]
+        },
+        {
+            "id": "a2772e6ace4986a566835894690c0000",
+            "source": "breaking_defense",
+            "text": "‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration",
+            "source_link": "https://breakingdefense.com/2025/06/need-a-bunch-of-scars-space-forces-hammett-speeds-phased-array-antenna-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T20:23:42.714623Z",
+            "shown_at": [
+                "2025-06-23T20:23:43.633109Z",
+                "2025-06-23T21:21:33.976124Z"
+            ]
+        },
+        {
+            "id": "13934a7049dafbc2b230888ddc29fb2c",
+            "source": "nyt",
+            "text": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids",
+            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-telescopes-first-images.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T17:33:45.149808Z",
+            "shown_at": [
+                "2025-06-23T17:33:46.136877Z",
+                "2025-06-23T23:55:45.092977Z"
+            ]
+        },
+        {
+            "id": "81090fa4715695e1c99ffdffd37df19a",
+            "source": "spacenews",
+            "text": "Atlas 5 launches second set of Project Kuiper satellites",
+            "source_link": "https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T14:37:41.585866Z",
+            "shown_at": [
+                "2025-06-23T14:37:42.609586Z"
+            ]
+        },
+        {
+            "id": "e4f11a883ad6c2fa91ab3448f0d2432b",
+            "source": "spacenews",
+            "text": "The key to Golden Dome’s success: make it usable",
+            "source_link": "https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T13:11:32.271889Z",
+            "shown_at": [
+                "2025-06-23T13:11:32.755993Z",
+                "2025-06-23T15:35:46.470193Z"
+            ]
+        },
+        {
+            "id": "0a00ac4964c9a085e52ee599f51f9d8b",
+            "source": "spacenews",
+            "text": "Increase in Ariane 6 launch cadence could take several years",
+            "source_link": "https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T10:51:39.907351Z",
+            "shown_at": [
+                "2025-06-23T10:51:40.479748Z"
+            ]
+        },
+        {
+            "id": "f7cd6e415600f534f618a378c2077410",
+            "source": "spacenews",
+            "text": "Isaacman interested in privately funded science missions",
+            "source_link": "https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T07:59:32.204983Z",
+            "shown_at": [
+                "2025-06-23T07:59:32.867304Z"
+            ]
+        },
+        {
+            "id": "e18bb0bdc48a50affe3672f31e1d5611",
+            "source": "nyt",
+            "text": "Vera Rubin Scientists Reveal Telescope’s First Images",
+            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-scientists-reveal-telescopes-first-images.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-23T04:13:28.728498Z",
+            "shown_at": [
+                "2025-06-23T04:13:29.208438Z",
+                "2025-06-23T17:17:47.154291Z",
+                "2025-06-23T20:37:41.068393Z"
+            ]
+        },
         {
             "id": "48266828b21e69a8b79e5136175d79a7",
             "source": "spacenews",
@@ -10118,391 +10266,6 @@
                 "2025-04-20T09:37:44.024435Z",
                 "2025-04-20T18:59:22.945152Z",
                 "2025-04-20T23:41:35.564092Z"
-            ]
-        },
-        {
-            "id": "71e19f59002c4e567709826002208f99",
-            "source": "spacenews",
-            "text": "No man’s airspace: Why our skies aren’t ready for the space boom",
-            "source_link": "https://spacenews.com/no-mans-airspace-why-our-skies-arent-ready-for-the-space-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-14T13:07:56.412092Z",
-            "shown_at": [
-                "2025-04-14T13:07:57.062070Z",
-                "2025-04-15T12:03:35.094346Z",
-                "2025-04-16T14:13:26.883757Z",
-                "2025-04-19T12:15:52.487732Z",
-                "2025-04-20T02:17:49.106824Z",
-                "2025-04-20T09:23:50.127798Z"
-            ]
-        },
-        {
-            "id": "8efafe7daebb5a91dbd8259378dd4131",
-            "source": "aidy",
-            "text": "U.S. Forms Space Defense Alliance to Counter China, Russia; FAA Reviews SpaceX Launch Plans",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-14T07:45:48.270123Z",
-            "shown_at": [
-                "2025-04-14T07:45:49.039030Z",
-                "2025-04-15T18:19:27.186112Z",
-                "2025-04-16T06:42:11.266307Z",
-                "2025-04-16T08:45:38.459848Z",
-                "2025-04-16T11:23:49.495878Z",
-                "2025-04-16T22:39:36.408463Z",
-                "2025-04-17T14:07:32.668374Z",
-                "2025-04-17T16:43:42.714201Z",
-                "2025-04-17T19:05:12.340104Z",
-                "2025-04-18T01:15:26.579372Z",
-                "2025-04-18T06:11:30.925422Z",
-                "2025-04-18T10:57:47.405046Z",
-                "2025-04-18T15:59:47.127955Z",
-                "2025-04-19T08:55:42.414082Z",
-                "2025-04-19T13:41:41.536434Z",
-                "2025-04-19T14:51:37.577036Z",
-                "2025-04-19T18:23:07.521542Z",
-                "2025-04-20T01:35:34.792232Z",
-                "2025-04-20T08:41:30.179114Z",
-                "2025-04-20T14:15:08.775683Z",
-                "2025-04-20T15:43:58.610656Z",
-                "2025-04-20T16:53:41.860167Z",
-                "2025-04-20T18:03:09.469255Z",
-                "2025-04-20T19:13:40.126303Z",
-                "2025-04-20T20:23:49.562868Z",
-                "2025-04-20T21:35:45.942068Z",
-                "2025-04-20T22:45:33.416990Z",
-                "2025-04-20T23:55:28.274168Z"
-            ]
-        },
-        {
-            "id": "4e3fbd48a2010c0bb73678f5ab0feb7b",
-            "source": "aidy",
-            "text": "NASA Nominee Isaacman Advocates Hybrid Moon-Mars Mandate, Proposes Budget and Contract Shifts",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-13T07:40:03.750446Z",
-            "shown_at": [
-                "2025-04-13T07:40:04.515817Z",
-                "2025-04-14T17:29:31.856381Z",
-                "2025-04-14T18:41:52.356965Z",
-                "2025-04-14T20:09:31.728129Z",
-                "2025-04-15T05:55:49.140772Z",
-                "2025-04-15T11:07:27.991323Z",
-                "2025-04-15T14:45:44.559387Z",
-                "2025-04-15T22:11:32.519075Z",
-                "2025-04-15T23:21:47.497597Z",
-                "2025-04-16T05:17:31.511542Z",
-                "2025-04-16T16:17:38.940046Z",
-                "2025-04-17T15:33:37.050766Z",
-                "2025-04-17T17:55:38.308992Z",
-                "2025-04-17T20:31:44.664162Z",
-                "2025-04-18T02:39:26.827091Z",
-                "2025-04-18T03:51:29.394703Z",
-                "2025-04-18T07:23:43.183852Z",
-                "2025-04-18T09:45:32.247852Z",
-                "2025-04-18T20:45:35.382539Z",
-                "2025-04-19T01:47:37.459052Z",
-                "2025-04-19T04:07:26.360108Z",
-                "2025-04-19T06:32:27.731047Z",
-                "2025-04-19T17:11:31.976474Z",
-                "2025-04-19T19:35:39.899846Z",
-                "2025-04-20T05:09:44.552730Z",
-                "2025-04-20T06:19:30.776971Z"
-            ]
-        },
-        {
-            "id": "98c0679da54dc27860708e5f57ca8d4f",
-            "source": "nyt",
-            "text": "How Lauren Sanchez Helped Design Blue Origin’s Flight Suits",
-            "source_link": "https://www.nytimes.com/2025/04/12/style/lauren-sanchez-blue-origin-spacesuit-monse.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T13:41:08.168811Z",
-            "shown_at": [
-                "2025-04-12T13:41:08.714806Z",
-                "2025-04-12T21:22:05.943663Z",
-                "2025-04-12T23:21:35.910649Z",
-                "2025-04-13T07:11:37.941536Z",
-                "2025-04-14T00:19:07.060052Z",
-                "2025-04-15T09:15:30.904221Z",
-                "2025-04-15T15:29:40.643392Z",
-                "2025-04-15T22:53:39.027530Z",
-                "2025-04-16T18:17:48.948805Z",
-                "2025-04-17T21:57:44.538650Z",
-                "2025-04-18T09:59:35.052115Z",
-                "2025-04-18T11:11:50.049845Z",
-                "2025-04-18T12:21:48.805513Z",
-                "2025-04-18T13:35:27.782528Z",
-                "2025-04-18T20:31:46.886428Z",
-                "2025-04-19T00:09:42.276249Z",
-                "2025-04-19T04:49:28.099854Z"
-            ]
-        },
-        {
-            "id": "048f22d452444d78a0fc8e82f2acb741",
-            "source": "nyt",
-            "text": "Jonathan McDowell on Retiring From Harvard and Leaving the U.S.",
-            "source_link": "https://www.nytimes.com/2025/04/12/science/jonathan-mcdowell-retirement-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T09:37:24.125093Z",
-            "shown_at": [
-                "2025-04-12T09:37:24.589813Z",
-                "2025-04-12T18:55:27.453256Z",
-                "2025-04-14T21:05:38.916942Z",
-                "2025-04-16T13:15:31.498266Z",
-                "2025-04-17T16:02:08.679999Z",
-                "2025-04-17T19:33:39.130566Z",
-                "2025-04-18T00:19:53.078186Z",
-                "2025-04-18T07:37:35.951397Z",
-                "2025-04-18T21:43:33.734798Z",
-                "2025-04-19T02:29:39.269636Z",
-                "2025-04-19T06:03:39.452392Z"
-            ]
-        },
-        {
-            "id": "6d7cce57f037ea40b929e13085692367",
-            "source": "aidy",
-            "text": "NASA Faces 47% Budget Cut Threatening Key Science Missions",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T07:32:00.555736Z",
-            "shown_at": [
-                "2025-04-12T07:32:01.551205Z",
-                "2025-04-12T14:15:38.410114Z",
-                "2025-04-12T16:47:34.837140Z",
-                "2025-04-13T05:11:33.220895Z",
-                "2025-04-14T06:17:39.567703Z",
-                "2025-04-14T09:51:34.395930Z",
-                "2025-04-15T08:47:31.875748Z",
-                "2025-04-15T09:57:34.487186Z",
-                "2025-04-16T21:30:14.245475Z",
-                "2025-04-18T14:33:42.742288Z",
-                "2025-04-18T17:11:52.514148Z"
-            ]
-        },
-        {
-            "id": "2dbe0441410d3c72a6d62540ea39d968",
-            "source": "spacenews",
-            "text": "NOAA budget proposal would affect weather satellite, other space programs",
-            "source_link": "https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-12T02:02:32.930487Z",
-            "shown_at": [
-                "2025-04-12T02:02:33.697601Z",
-                "2025-04-18T00:33:39.269015Z"
-            ]
-        },
-        {
-            "id": "1946a76f52a178640ec9e2e7d3ce8c01",
-            "source": "spacenews",
-            "text": "White House proposal would slash NASA science budget and cancel major missions",
-            "source_link": "https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T19:33:09.656443Z",
-            "shown_at": [
-                "2025-04-12T01:03:37.535951Z",
-                "2025-04-12T17:25:43.453270Z",
-                "2025-04-13T17:59:43.543931Z",
-                "2025-04-18T17:55:11.541327Z"
-            ]
-        },
-        {
-            "id": "0bf5c5ffadc9ee5784a5a3c080b233cd",
-            "source": "spacenews",
-            "text": "Space industry confronts twin disruptors: AI and geopolitics",
-            "source_link": "https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T19:07:41.953761Z",
-            "shown_at": [
-                "2025-04-11T19:07:42.912758Z",
-                "2025-04-13T08:07:40.975563Z",
-                "2025-04-17T16:57:32.211514Z",
-                "2025-04-17T20:59:05.663876Z",
-                "2025-04-18T08:19:28.669926Z"
-            ]
-        },
-        {
-            "id": "519bc35b3ddd5165859ca678e64ee62e",
-            "source": "breaking_defense",
-            "text": "Space Force picks up pace of on-orbit refueling experiments",
-            "source_link": "https://breakingdefense.com/2025/04/space-force-picks-up-pace-of-on-orbit-refueling-experiments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-11T17:11:49.772514Z",
-            "shown_at": [
-                "2025-04-11T17:11:50.919080Z",
-                "2025-04-12T02:23:36.404943Z",
-                "2025-04-12T04:43:27.480445Z",
-                "2025-04-13T23:17:34.570859Z",
-                "2025-04-15T02:53:34.898291Z",
-                "2025-04-15T06:23:27.541213Z",
-                "2025-04-15T11:21:40.866978Z",
-                "2025-04-15T22:39:37.712818Z",
-                "2025-04-16T09:02:20.464737Z",
-                "2025-04-16T11:37:12.901899Z",
-                "2025-04-16T15:16:00.266885Z",
-                "2025-04-16T21:43:30.678439Z",
-                "2025-04-17T14:35:31.862369Z",
-                "2025-04-17T23:37:43.611146Z",
-                "2025-04-18T09:03:35.785372Z",
-                "2025-04-18T12:35:07.910122Z",
-                "2025-04-18T15:02:00.254845Z"
-            ]
-        },
-        {
-            "id": "e18bb0bdc48a50affe3672f31e1d5611",
-            "source": "nyt",
-            "text": "Vera Rubin Scientists Reveal Telescope’s First Images",
-            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-scientists-reveal-telescopes-first-images.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T04:13:28.728498Z",
-            "shown_at": [
-                "2025-06-23T04:13:29.208438Z",
-                "2025-06-23T17:17:47.154291Z",
-                "2025-06-23T20:37:41.068393Z"
-            ]
-        },
-        {
-            "id": "f7cd6e415600f534f618a378c2077410",
-            "source": "spacenews",
-            "text": "Isaacman interested in privately funded science missions",
-            "source_link": "https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T07:59:32.204983Z",
-            "shown_at": [
-                "2025-06-23T07:59:32.867304Z"
-            ]
-        },
-        {
-            "id": "0a00ac4964c9a085e52ee599f51f9d8b",
-            "source": "spacenews",
-            "text": "Increase in Ariane 6 launch cadence could take several years",
-            "source_link": "https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T10:51:39.907351Z",
-            "shown_at": [
-                "2025-06-23T10:51:40.479748Z"
-            ]
-        },
-        {
-            "id": "e4f11a883ad6c2fa91ab3448f0d2432b",
-            "source": "spacenews",
-            "text": "The key to Golden Dome’s success: make it usable",
-            "source_link": "https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T13:11:32.271889Z",
-            "shown_at": [
-                "2025-06-23T13:11:32.755993Z",
-                "2025-06-23T15:35:46.470193Z"
-            ]
-        },
-        {
-            "id": "81090fa4715695e1c99ffdffd37df19a",
-            "source": "spacenews",
-            "text": "Atlas 5 launches second set of Project Kuiper satellites",
-            "source_link": "https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T14:37:41.585866Z",
-            "shown_at": [
-                "2025-06-23T14:37:42.609586Z"
-            ]
-        },
-        {
-            "id": "13934a7049dafbc2b230888ddc29fb2c",
-            "source": "nyt",
-            "text": "Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids",
-            "source_link": "https://www.nytimes.com/2025/06/23/science/vera-rubin-telescopes-first-images.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T17:33:45.149808Z",
-            "shown_at": [
-                "2025-06-23T17:33:46.136877Z",
-                "2025-06-23T23:55:45.092977Z"
-            ]
-        },
-        {
-            "id": "a2772e6ace4986a566835894690c0000",
-            "source": "breaking_defense",
-            "text": "‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration",
-            "source_link": "https://breakingdefense.com/2025/06/need-a-bunch-of-scars-space-forces-hammett-speeds-phased-array-antenna-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T20:23:42.714623Z",
-            "shown_at": [
-                "2025-06-23T20:23:43.633109Z",
-                "2025-06-23T21:21:33.976124Z"
-            ]
-        },
-        {
-            "id": "4be5dfd317c8a78de361b7318443412e",
-            "source": "spacenews",
-            "text": "Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.",
-            "source_link": "https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T20:51:32.939859Z",
-            "shown_at": [
-                "2025-06-23T20:51:33.567407Z"
-            ]
-        },
-        {
-            "id": "747b700bea974ffa788483fa39758c5a",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Confidential Spacecraft",
-            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-24T07:00:00.000Z",
-            "time_remaining": "0d 07h 20m",
-            "fetched_datetime": "2025-06-23T22:25:51.007013Z",
-            "shown_at": [
-                "2025-06-23T22:25:52.067012Z",
-                "2025-06-23T22:27:26.478837Z",
-                "2025-06-23T22:29:27.173775Z",
-                "2025-06-23T23:27:41.993419Z",
-                "2025-06-23T23:29:34.071477Z",
-                "2025-06-23T23:31:36.937073Z",
-                "2025-06-23T23:33:25.762644Z",
-                "2025-06-23T23:35:41.926819Z",
-                "2025-06-23T23:37:30.994680Z",
-                "2025-06-23T23:39:23.820069Z"
-            ]
-        },
-        {
-            "id": "93b42791c0adffa8191bef61232702e0",
-            "source": "spacenews",
-            "text": "Space Inventor Launches First Danish Arctic Satellite",
-            "source_link": "https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T22:31:40.695203Z",
-            "shown_at": [
-                "2025-06-23T22:31:41.363079Z"
-            ]
-        },
-        {
-            "id": "8669a918a3860bf235dee539fcf9fc4d",
-            "source": "spacenews",
-            "text": "York Space launches U.S. military satellite on SpaceX rideshare",
-            "source_link": "https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T22:31:40.695258Z",
-            "shown_at": [
-                "2025-06-23T22:45:32.802660Z"
             ]
         }
     ]
