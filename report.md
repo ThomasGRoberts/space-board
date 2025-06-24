@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4824,3 +4824,4 @@
 - **Jun 24, 04:39 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 24, 04:53 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 24, 05:07 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 24, 05:09 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
