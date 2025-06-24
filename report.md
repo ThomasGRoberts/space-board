@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 26 | 48 |
+| spacenews | 8 | 13 | 27 | 49 |
 | breaking_defense | 3 | 4 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4907,3 +4907,4 @@
 - **Jun 24, 08:03 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 08:05 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 24, 08:19 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 24, 08:33 PM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
