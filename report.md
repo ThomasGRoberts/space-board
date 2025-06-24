@@ -6,7 +6,7 @@
 | breaking_defense | 4 | 4 | 24 | 46 |
 | nyt | 0 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -4889,3 +4889,4 @@
 - **Jun 24, 06:25 PM** - Lynk Global’s SPAC merger on the rocks (spacenews)
 - **Jun 24, 06:39 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 06:41 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 06:43 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
