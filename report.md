@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 50 |
 | breaking_defense | 3 | 4 | 23 | 46 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 97 | 97 |
 
@@ -4925,3 +4925,4 @@
 - **Jun 24, 09:53 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:55 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:57 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 09:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
