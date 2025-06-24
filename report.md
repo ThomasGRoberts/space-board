@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 24 | 48 |
-| breaking_defense | 3 | 3 | 23 | 45 |
+| spacenews | 6 | 12 | 24 | 47 |
+| breaking_defense | 3 | 3 | 24 | 46 |
 | nyt | 1 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -4873,3 +4873,4 @@
 - **Jun 24, 04:23 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 04:25 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 04:27 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 24, 04:41 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
