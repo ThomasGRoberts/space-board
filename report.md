@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 25 | 48 |
 | supercluster | 1 | 1 | 59 | 59 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 1 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4842,3 +4842,4 @@
 - **Jun 24, 06:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 06:17 AM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 24, 06:31 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 24, 06:45 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
