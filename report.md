@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 48 |
 | breaking_defense | 3 | 3 | 23 | 45 |
-| nyt | 1 | 2 | 23 | 45 |
+| nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4857,3 +4857,4 @@
 - **Jun 24, 03:03 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 24, 03:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 03:19 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 03:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
