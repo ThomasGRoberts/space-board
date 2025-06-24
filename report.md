@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 31 | 31 |
-| breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 2 | 3 | 22 | 46 |
+| breaking_defense | 1 | 1 | 22 | 46 |
+| nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4801,3 +4801,4 @@
 - **Jun 24, 02:29 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 02:31 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 02:33 AM** - York Space launches U.S. military satellite on SpaceX rideshare (spacenews)
+- **Jun 24, 02:48 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
