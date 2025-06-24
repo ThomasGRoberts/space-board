@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 49 |
+| spacenews | 7 | 13 | 27 | 50 |
 | breaking_defense | 3 | 4 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4917,3 +4917,4 @@
 - **Jun 24, 08:59 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:01 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 24, 09:15 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
+- **Jun 24, 09:31 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
