@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 49 |
-| breaking_defense | 3 | 4 | 23 | 45 |
+| breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 0 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -4916,3 +4916,4 @@
 - **Jun 24, 08:57 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 08:59 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:01 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 24, 09:15 PM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
