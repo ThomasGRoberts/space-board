@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4845,3 +4845,4 @@
 - **Jun 24, 01:37 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 24, 01:53 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 24, 02:07 PM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
+- **Jun 24, 02:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
