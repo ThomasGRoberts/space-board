@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 10 | 10 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4772,3 +4772,4 @@
 - **Jun 23, 11:39 PM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 23, 11:41 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
 - **Jun 23, 11:55 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
+- **Jun 24, 12:09 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
