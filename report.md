@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 25 | 48 |
 | breaking_defense | 1 | 1 | 22 | 45 |
-| nyt | 1 | 3 | 21 | 45 |
+| nyt | 1 | 3 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -4792,3 +4792,4 @@
 - **Jun 24, 08:20 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 08:23 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
 - **Jun 24, 08:37 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
+- **Jun 24, 08:51 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
