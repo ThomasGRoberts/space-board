@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 24 | 47 |
-| breaking_defense | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -4803,3 +4803,4 @@
 - **Jun 24, 09:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:35 AM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
 - **Jun 24, 09:49 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 24, 10:03 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
