@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 25 | 48 |
 | supercluster | 1 | 1 | 59 | 59 |
 | breaking_defense | 1 | 1 | 24 | 47 |
-| nyt | 1 | 3 | 23 | 46 |
+| nyt | 1 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4841,3 +4841,4 @@
 - **Jun 24, 06:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 06:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 06:17 AM** - Pentagon struggles to build unified satellite network  (spacenews)
+- **Jun 24, 06:31 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
