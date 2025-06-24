@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 45 |
 | nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4856,3 +4856,4 @@
 - **Jun 24, 02:49 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 24, 03:03 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
 - **Jun 24, 03:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 03:19 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
