@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 52 | 52 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 1 | 3 | 22 | 46 |
+| nyt | 1 | 3 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4831,3 +4831,4 @@
 - **Jun 24, 05:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 05:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 05:21 AM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
+- **Jun 24, 05:35 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
