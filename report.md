@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 25 | 47 |
+| spacenews | 8 | 12 | 26 | 48 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4824,3 +4824,4 @@
 - **Jun 24, 11:39 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 11:41 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 24, 11:55 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
+- **Jun 24, 12:09 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
