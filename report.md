@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 24 | 24 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 2 | 3 | 22 | 45 |
+| nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4791,3 +4791,4 @@
 - **Jun 24, 01:33 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 01:35 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 01:37 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 24, 01:51 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
