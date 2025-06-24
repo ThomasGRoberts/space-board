@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7cce9c990164ca4ddedcf45baabee24",
+    "trigger_count": 0,
+    "current_item_id": "c76f09b56f283057967d83a7b561af26",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10391,6 +10391,18 @@
             "fetched_datetime": "2025-06-24T13:53:37.865738Z",
             "shown_at": [
                 "2025-06-24T13:53:38.606874Z"
+            ]
+        },
+        {
+            "id": "c76f09b56f283057967d83a7b561af26",
+            "source": "breaking_defense",
+            "text": "The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video]",
+            "source_link": "https://breakingdefense.com/2025/06/the-weekly-break-out-ep-22-how-the-us-hit-iran-and-spooky-space-moves-video/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T14:49:35.246000Z",
+            "shown_at": [
+                "2025-06-24T14:49:35.912424Z"
             ]
         }
     ]
