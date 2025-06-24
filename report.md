@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 24 | 47 |
+| spacenews | 6 | 12 | 25 | 48 |
 | breaking_defense | 3 | 3 | 24 | 46 |
-| nyt | 1 | 2 | 23 | 46 |
+| nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -4864,3 +4864,4 @@
 - **Jun 24, 03:29 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 03:32 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 24, 03:45 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 24, 03:59 PM** - Starship destroyed in test stand explosion (spacenews)
