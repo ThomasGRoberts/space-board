@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 26 | 48 |
+| spacenews | 8 | 13 | 27 | 49 |
 | breaking_defense | 4 | 4 | 24 | 46 |
 | nyt | 0 | 2 | 21 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4897,3 +4897,4 @@
 - **Jun 24, 06:53 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 24, 07:07 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 24, 07:21 PM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
+- **Jun 24, 07:35 PM** - A strategy for peaceful Golden Dome development (spacenews)

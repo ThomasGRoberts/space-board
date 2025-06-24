@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35bcfe66128625bdf58e69a5e3e742fd",
+    "trigger_count": 0,
+    "current_item_id": "997846781bf79f4872aa0977976b90e4",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10468,6 +10468,18 @@
             "fetched_datetime": "2025-06-24T18:25:33.334114Z",
             "shown_at": [
                 "2025-06-24T18:25:33.869753Z"
+            ]
+        },
+        {
+            "id": "997846781bf79f4872aa0977976b90e4",
+            "source": "spacenews",
+            "text": "A strategy for peaceful Golden Dome development",
+            "source_link": "https://spacenews.com/a-strategy-for-peaceful-golden-dome-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T19:35:29.276054Z",
+            "shown_at": [
+                "2025-06-24T19:35:34.473814Z"
             ]
         }
     ]
