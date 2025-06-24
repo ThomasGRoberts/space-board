@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7cce9c990164ca4ddedcf45baabee24",
+    "trigger_count": 0,
+    "current_item_id": "68b9910ca6e368cd42b1061c575561ee",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10370,6 +10370,18 @@
             "fetched_datetime": "2025-06-24T11:13:32.839716Z",
             "shown_at": [
                 "2025-06-24T11:13:33.415579Z"
+            ]
+        },
+        {
+            "id": "68b9910ca6e368cd42b1061c575561ee",
+            "source": "breaking_defense",
+            "text": "US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain",
+            "source_link": "https://breakingdefense.com/2025/06/us-space-commands-gen-whiting-talks-golden-dome-ew-and-chinas-space-based-kill-chain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T13:53:37.865738Z",
+            "shown_at": [
+                "2025-06-24T13:53:38.606874Z"
             ]
         }
     ]

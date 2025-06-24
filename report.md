@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 47 |
-| breaking_defense | 1 | 1 | 23 | 45 |
+| breaking_defense | 2 | 2 | 24 | 46 |
 | nyt | 1 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -4843,3 +4843,4 @@
 - **Jun 24, 01:33 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 01:35 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 01:37 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 24, 01:53 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
