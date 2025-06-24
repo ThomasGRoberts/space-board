@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 45 |
 | nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -4826,3 +4826,4 @@
 - **Jun 24, 11:55 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 24, 12:09 PM** - Portal Space Systems to build larger factory for Supernova vehicle (spacenews)
 - **Jun 24, 12:25 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 12:27 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
