@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 25 | 48 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4843,3 +4843,4 @@
 - **Jun 24, 06:17 AM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 24, 06:31 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 24, 06:45 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 24, 06:59 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
