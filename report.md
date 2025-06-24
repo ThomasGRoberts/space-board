@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4835,3 +4835,4 @@
 - **Jun 24, 05:49 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 24, 06:03 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 06:05 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 24, 06:07 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
