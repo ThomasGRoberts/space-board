@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4928,3 +4928,4 @@
 - **Jun 24, 09:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 24, 10:15 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 24, 10:29 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
+- **Jun 24, 10:43 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
