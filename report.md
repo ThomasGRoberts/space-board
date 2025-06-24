@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 3 | 23 | 45 |
 | nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4867,3 +4867,4 @@
 - **Jun 24, 03:59 PM** - Starship destroyed in test stand explosion (spacenews)
 - **Jun 24, 04:13 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 04:15 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 04:17 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
