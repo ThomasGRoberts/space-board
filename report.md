@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 2 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4774,3 +4774,4 @@
 - **Jun 23, 11:55 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 24, 12:09 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 24, 12:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 24, 12:25 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
