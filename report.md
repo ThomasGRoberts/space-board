@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 47 |
 | supercluster | 1 | 1 | 45 | 45 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4822,3 +4822,4 @@
 - **Jun 24, 04:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 24, 04:25 AM** - July decision expected on combination of European space companies (spacenews)
 - **Jun 24, 04:39 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
+- **Jun 24, 04:53 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
