@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 24 | 47 |
+| spacenews | 7 | 10 | 25 | 48 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 3 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4791,3 +4791,4 @@
 - **Jun 24, 08:17 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 08:20 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 08:23 AM** - After Resilience’s moon landing attempt, why openness is key to the lunar economy (spacenews)
+- **Jun 24, 08:37 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)

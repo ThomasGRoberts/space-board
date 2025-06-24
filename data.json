@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-24T00:02:04.778396+00:00",
-    "trigger_count": 6,
-    "current_item_id": "44dbb59c82393e1bd2f0a602c2e98c95",
+    "trigger_count": 0,
+    "current_item_id": "c2752e06d8b56ccdc929b82c1cc0ecdc",
     "data": [
         {
             "id": "8669a918a3860bf235dee539fcf9fc4d",
@@ -10285,6 +10285,18 @@
                 "2025-06-24T08:14:14.482146Z",
                 "2025-06-24T08:17:50.252225Z",
                 "2025-06-24T08:20:35.484888Z"
+            ]
+        },
+        {
+            "id": "c2752e06d8b56ccdc929b82c1cc0ecdc",
+            "source": "spacenews",
+            "text": "Laser rangefinder problems blamed for second ispace lunar lander crash",
+            "source_link": "https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-24T08:37:30.684475Z",
+            "shown_at": [
+                "2025-06-24T08:37:31.326053Z"
             ]
         }
     ]
