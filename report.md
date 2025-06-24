@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 3 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4785,3 +4785,4 @@
 - **Jun 24, 06:31 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 24, 06:45 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 24, 08:07 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 08:09 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
