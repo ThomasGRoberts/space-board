@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4794,3 +4794,4 @@
 - **Jun 24, 08:37 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
 - **Jun 24, 08:51 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 24, 09:07 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 24, 09:21 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
