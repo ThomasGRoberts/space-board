@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 48 |
 | breaking_defense | 2 | 2 | 23 | 45 |
-| nyt | 1 | 2 | 23 | 45 |
+| nyt | 1 | 2 | 22 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4847,3 +4847,4 @@
 - **Jun 24, 02:07 PM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
 - **Jun 24, 02:21 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 02:23 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 24, 02:25 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
