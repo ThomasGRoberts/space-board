@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 25 | 48 |
 | breaking_defense | 1 | 1 | 22 | 45 |
-| nyt | 1 | 2 | 21 | 45 |
+| nyt | 1 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4812,3 +4812,4 @@
 - **Jun 24, 10:27 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 10:29 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 10:31 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
+- **Jun 24, 10:45 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
