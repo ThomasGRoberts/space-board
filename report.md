@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 24 | 47 |
+| spacenews | 6 | 12 | 25 | 48 |
 | breaking_defense | 3 | 3 | 24 | 46 |
 | nyt | 1 | 2 | 23 | 45 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4854,3 +4854,4 @@
 - **Jun 24, 02:33 PM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 02:35 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 24, 02:49 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 24, 03:03 PM** - Varda to launch its first in-house built spacecraft for on-orbit manufacturing (spacenews)
