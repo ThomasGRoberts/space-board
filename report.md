@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 25 | 48 |
 | breaking_defense | 1 | 1 | 22 | 45 |
-| nyt | 1 | 2 | 21 | 45 |
+| nyt | 1 | 2 | 22 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -4802,3 +4802,4 @@
 - **Jun 24, 09:32 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:33 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 24, 09:35 AM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
+- **Jun 24, 09:49 AM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
