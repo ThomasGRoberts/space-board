@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 3 | 4 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -4802,3 +4802,4 @@
 - **Jun 25, 10:21 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
 - **Jun 25, 10:35 AM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
 - **Jun 25, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
