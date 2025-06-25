@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4853,3 +4853,4 @@
 - **Jun 25, 03:23 PM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
 - **Jun 25, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 03:40 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 03:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
