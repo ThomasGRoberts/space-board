@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 49 |
-| breaking_defense | 3 | 4 | 24 | 47 |
+| breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4781,3 +4781,4 @@
 - **Jun 25, 08:11 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 25, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 08:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
