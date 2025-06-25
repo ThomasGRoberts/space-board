@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 49 |
+| spacenews | 6 | 13 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4789,3 +4789,4 @@
 - **Jun 25, 08:41 AM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
 - **Jun 25, 08:55 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 25, 09:11 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
+- **Jun 25, 09:25 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)

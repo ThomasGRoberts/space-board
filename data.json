@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aaee52738f12e84b51a26ff64fd3be0",
+    "trigger_count": 0,
+    "current_item_id": "16b4db6033edbaa0134cb155082a5405",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10327,6 +10327,18 @@
             "fetched_datetime": "2025-06-25T07:57:39.528431Z",
             "shown_at": [
                 "2025-06-25T07:57:41.186677Z"
+            ]
+        },
+        {
+            "id": "16b4db6033edbaa0134cb155082a5405",
+            "source": "spacenews",
+            "text": "First Rubin Observatory images released amid concerns about budget cuts",
+            "source_link": "https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T09:25:36.923704Z",
+            "shown_at": [
+                "2025-06-25T09:25:37.465264Z"
             ]
         }
     ]
