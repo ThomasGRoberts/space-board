@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e6aed729fc8f122056c8c3496b2aeaf7",
+    "trigger_count": 0,
+    "current_item_id": "5f9159e6c84b4b41b41ab08d2e0ab062",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10304,6 +10304,18 @@
             "fetched_datetime": "2025-06-25T07:43:27.168412Z",
             "shown_at": [
                 "2025-06-25T07:43:27.726053Z"
+            ]
+        },
+        {
+            "id": "5f9159e6c84b4b41b41ab08d2e0ab062",
+            "source": "nyt",
+            "text": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T07:57:39.528431Z",
+            "shown_at": [
+                "2025-06-25T07:57:41.186677Z"
             ]
         }
     ]
