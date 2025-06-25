@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| breaking_defense | 3 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 133 | 133 |
-| nyt | 1 | 3 | 24 | 46 |
+| breaking_defense | 3 | 4 | 24 | 46 |
+| supercluster | 1 | 1 | 134 | 134 |
+| nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4894,3 +4894,4 @@
 - **Jun 25, 03:15 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 25, 03:29 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 25, 03:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 03:46 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
