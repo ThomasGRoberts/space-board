@@ -3,10 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 51 |
-| breaking_defense | 2 | 5 | 24 | 47 |
+| breaking_defense | 2 | 5 | 23 | 47 |
 | nyt | 3 | 3 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4802,4 +4802,3 @@
 - **Jun 25, 04:51 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 25, 05:05 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 25, 05:19 PM** - Pentagon struggles to build unified satellite network  (spacenews)
-- **Jun 25, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
