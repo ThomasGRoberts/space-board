@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 25 | 50 |
+| spacenews | 7 | 13 | 26 | 51 |
 | breaking_defense | 2 | 5 | 24 | 47 |
-| nyt | 3 | 4 | 25 | 48 |
+| nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4808,3 +4808,4 @@
 - **Jun 25, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 04:51 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 25, 05:05 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
+- **Jun 25, 05:19 PM** - Pentagon struggles to build unified satellite network  (spacenews)
