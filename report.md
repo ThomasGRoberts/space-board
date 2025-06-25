@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| breaking_defense | 3 | 4 | 23 | 46 |
+| breaking_defense | 3 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 139 | 139 |
 | nyt | 2 | 3 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4902,3 +4902,4 @@
 - **Jun 25, 03:55 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 03:57 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 04:11 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
+- **Jun 25, 04:25 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
