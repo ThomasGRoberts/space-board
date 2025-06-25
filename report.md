@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 22 | 45 |
 | nyt | 4 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4829,3 +4829,4 @@
 - **Jun 25, 08:55 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 25, 09:11 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 09:25 PM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
+- **Jun 25, 09:39 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
