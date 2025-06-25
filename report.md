@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 51 |
-| breaking_defense | 2 | 4 | 23 | 46 |
-| nyt | 3 | 4 | 25 | 48 |
+| breaking_defense | 2 | 4 | 24 | 47 |
+| nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -4840,3 +4840,4 @@
 - **Jun 25, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 01:57 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 25, 02:11 PM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
+- **Jun 25, 02:25 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
