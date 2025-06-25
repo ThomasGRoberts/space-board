@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4779,3 +4779,4 @@
 - **Jun 25, 07:43 AM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
 - **Jun 25, 07:57 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 25, 08:11 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 25, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
