@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 49 |
+| spacenews | 5 | 12 | 25 | 50 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4786,3 +4786,4 @@
 - **Jun 25, 08:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 08:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 08:41 AM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
