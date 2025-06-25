@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 24 | 49 |
-| breaking_defense | 1 | 5 | 22 | 47 |
+| spacenews | 6 | 13 | 25 | 50 |
+| breaking_defense | 1 | 5 | 22 | 46 |
 | nyt | 4 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4807,3 +4807,4 @@
 - **Jun 25, 06:27 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 06:44 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 25, 06:59 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jun 25, 07:13 PM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
