@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 3 | 4 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4801,3 +4801,4 @@
 - **Jun 25, 10:07 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 25, 10:21 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
 - **Jun 25, 10:35 AM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
+- **Jun 25, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
