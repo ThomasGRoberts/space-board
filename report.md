@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 24 | 50 |
+| spacenews | 6 | 13 | 25 | 51 |
 | breaking_defense | 1 | 4 | 22 | 45 |
 | nyt | 4 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4828,3 +4828,4 @@
 - **Jun 25, 08:51 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 08:55 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 25, 09:11 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 25, 09:25 PM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
