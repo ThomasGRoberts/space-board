@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 111 | 111 |
-| nyt | 1 | 3 | 24 | 46 |
+| supercluster | 1 | 1 | 112 | 112 |
+| nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4863,3 +4863,4 @@
 - **Jun 25, 12:11 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Jun 25, 12:25 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 25, 12:39 AM** - Starship destroyed in test stand explosion (spacenews)
+- **Jun 25, 12:53 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
