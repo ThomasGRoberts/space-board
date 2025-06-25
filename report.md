@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 50 |
+| spacenews | 7 | 13 | 26 | 51 |
 | breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4860,3 +4860,4 @@
 - **Jun 25, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 03:53 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 25, 04:09 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 25, 04:23 PM** - Isar Aerospace raises 150 million euros (spacenews)
