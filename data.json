@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e3ffc7bdb163f56146db0d72f30a3b6",
+    "trigger_count": 0,
+    "current_item_id": "448284e322760c92963c7fdf16930852",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10389,6 +10389,18 @@
             "fetched_datetime": "2025-06-25T10:35:35.583720Z",
             "shown_at": [
                 "2025-06-25T10:35:36.830145Z"
+            ]
+        },
+        {
+            "id": "448284e322760c92963c7fdf16930852",
+            "source": "spacenews",
+            "text": "Lux Aeterna emerges from stealth with funds for fully reusable satellite platform",
+            "source_link": "https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T13:15:27.795142Z",
+            "shown_at": [
+                "2025-06-25T13:15:28.296779Z"
             ]
         }
     ]
