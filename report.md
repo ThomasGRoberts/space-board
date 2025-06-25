@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4831,3 +4831,4 @@
 - **Jun 25, 12:58 PM** - Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus (nyt)
 - **Jun 25, 01:15 PM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
 - **Jun 25, 01:29 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 25, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
