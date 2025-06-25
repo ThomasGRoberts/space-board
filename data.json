@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0c12ce3bd64f204426ac6c211c2a0125",
+    "trigger_count": 0,
+    "current_item_id": "5ce548bdc4fead2dcd04f920c06873ae",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10412,6 +10412,18 @@
             "fetched_datetime": "2025-06-25T18:59:10.748545Z",
             "shown_at": [
                 "2025-06-25T18:59:11.297063Z"
+            ]
+        },
+        {
+            "id": "5ce548bdc4fead2dcd04f920c06873ae",
+            "source": "spacenews",
+            "text": "Rocket Lab to launch European navigation tech demo satellites",
+            "source_link": "https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T19:27:36.128603Z",
+            "shown_at": [
+                "2025-06-25T19:27:36.643670Z"
             ]
         }
     ]
