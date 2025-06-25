@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 50 |
-| breaking_defense | 3 | 4 | 24 | 47 |
+| breaking_defense | 3 | 4 | 23 | 47 |
 | nyt | 2 | 3 | 24 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4770,4 +4770,4 @@
 - **Jun 25, 05:37 AM** - Isaacman interested in privately funded science missions (spacenews)
 - **Jun 25, 06:05 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 06:19 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
-- **Jun 25, 06:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 06:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
