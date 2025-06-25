@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 5 | 22 | 46 |
 | nyt | 4 | 4 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4810,3 +4810,4 @@
 - **Jun 25, 07:13 PM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 25, 07:27 PM** - Rocket Lab to launch European navigation tech demo satellites (spacenews)
 - **Jun 25, 07:41 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 25, 07:43 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
