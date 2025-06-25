@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 5 | 22 | 46 |
 | nyt | 3 | 3 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4803,3 +4803,4 @@
 - **Jun 25, 05:05 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 25, 05:19 PM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 25, 06:23 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 25, 06:25 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
