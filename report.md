@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 49 |
+| spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 146 | 146 |
 | nyt | 2 | 3 | 24 | 47 |
@@ -4913,3 +4913,4 @@
 - **Jun 25, 05:05 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 05:07 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 25, 05:21 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
+- **Jun 25, 05:37 AM** - Isaacman interested in privately funded science missions (spacenews)
