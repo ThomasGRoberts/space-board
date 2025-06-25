@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| breaking_defense | 3 | 4 | 23 | 46 |
+| breaking_defense | 3 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 132 | 132 |
 | nyt | 1 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4891,3 +4891,4 @@
 - **Jun 25, 02:57 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 02:59 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 03:01 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
+- **Jun 25, 03:15 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
