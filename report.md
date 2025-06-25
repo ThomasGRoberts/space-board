@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 26 | 51 |
+| spacenews | 6 | 13 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 3 | 4 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -4803,3 +4803,4 @@
 - **Jun 25, 10:35 AM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
 - **Jun 25, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
