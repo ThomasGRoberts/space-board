@@ -6,7 +6,6 @@
 | breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4799,13 +4798,6 @@
 - **Jun 25, 03:53 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 25, 04:09 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 25, 04:23 PM** - Isar Aerospace raises 150 million euros (spacenews)
-- **Jun 25, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jun 25, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 04:51 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 25, 05:05 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 25, 05:19 PM** - Pentagon struggles to build unified satellite network  (spacenews)
