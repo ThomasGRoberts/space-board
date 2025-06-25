@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 50 |
 | breaking_defense | 3 | 4 | 23 | 46 |
-| nyt | 3 | 4 | 24 | 46 |
+| nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4808,3 +4808,4 @@
 - **Jun 25, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 10:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 11:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 11:03 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
