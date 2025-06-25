@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c76f09b56f283057967d83a7b561af26",
+    "trigger_count": 0,
+    "current_item_id": "a693e5429a4b98e3ec6e939b91b30db9",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10399,6 +10399,18 @@
             "shown_at": [
                 "2025-06-25T18:23:37.392037Z",
                 "2025-06-25T18:25:22.133934Z"
+            ]
+        },
+        {
+            "id": "a693e5429a4b98e3ec6e939b91b30db9",
+            "source": "nyt",
+            "text": "Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/space/fred-espenak-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T18:59:10.748545Z",
+            "shown_at": [
+                "2025-06-25T18:59:11.297063Z"
             ]
         }
     ]

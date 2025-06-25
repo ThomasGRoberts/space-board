@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 24 | 49 |
 | breaking_defense | 1 | 5 | 23 | 47 |
-| nyt | 3 | 3 | 24 | 46 |
+| nyt | 4 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4806,3 +4806,4 @@
 - **Jun 25, 06:25 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 06:27 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 06:44 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 25, 06:59 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
