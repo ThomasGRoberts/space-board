@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 50 |
-| breaking_defense | 1 | 4 | 23 | 46 |
+| breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -4849,3 +4849,4 @@
 - **Jun 25, 02:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 02:55 PM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 25, 03:09 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7cce9c990164ca4ddedcf45baabee24",
+    "trigger_count": 0,
+    "current_item_id": "b62576a6d35d875d0c833f78b4383817",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10420,6 +10420,18 @@
             "fetched_datetime": "2025-06-25T13:15:27.795142Z",
             "shown_at": [
                 "2025-06-25T13:15:28.296779Z"
+            ]
+        },
+        {
+            "id": "b62576a6d35d875d0c833f78b4383817",
+            "source": "breaking_defense",
+            "text": "New NATO commercial space strategy seeks to prompt more investment",
+            "source_link": "https://breakingdefense.com/2025/06/new-nato-commercial-space-strategy-seeks-to-prompt-more-investment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T15:09:38.282028Z",
+            "shown_at": [
+                "2025-06-25T15:09:39.161982Z"
             ]
         }
     ]
