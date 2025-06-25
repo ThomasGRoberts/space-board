@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 23 | 46 |
 | supercluster | 1 | 1 | 146 | 146 |
-| nyt | 2 | 3 | 24 | 47 |
+| nyt | 2 | 3 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4911,3 +4911,4 @@
 - **Jun 25, 05:02 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 05:03 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 05:05 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 05:07 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
