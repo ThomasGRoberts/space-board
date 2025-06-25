@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 | nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4895,3 +4895,4 @@
 - **Jun 25, 03:29 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 25, 03:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 03:46 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 03:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
