@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "423be89dc44e19bccec469a22fc0fdcf",
+    "trigger_count": 0,
+    "current_item_id": "4869a0e1213932b3168883f83aad9f5e",
     "data": [
         {
             "id": "997846781bf79f4872aa0977976b90e4",
@@ -10406,6 +10406,18 @@
             "shown_at": [
                 "2025-06-25T00:11:43.335908Z",
                 "2025-06-25T01:07:31.336177Z"
+            ]
+        },
+        {
+            "id": "4869a0e1213932b3168883f83aad9f5e",
+            "source": "nyt",
+            "text": "SpaceX to Launch Axiom Mission 4: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T04:11:41.820497Z",
+            "shown_at": [
+                "2025-06-25T04:11:42.438409Z"
             ]
         }
     ]
