@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 50 |
-| breaking_defense | 1 | 4 | 23 | 46 |
+| spacenews | 6 | 11 | 25 | 51 |
+| breaking_defense | 1 | 4 | 22 | 46 |
 | nyt | 4 | 4 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 30 | 30 |
@@ -4848,3 +4848,4 @@
 - **Jun 25, 10:47 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 10:49 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 25, 11:03 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
+- **Jun 25, 11:17 PM** - Atlas 5 launches second set of Project Kuiper satellites (spacenews)
