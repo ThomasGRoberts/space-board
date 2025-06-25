@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4813,3 +4813,4 @@
 - **Jun 25, 11:31 AM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
 - **Jun 25, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 11:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 11:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
