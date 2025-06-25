@@ -6,7 +6,7 @@
 | breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4800,3 +4800,4 @@
 - **Jun 25, 04:09 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 25, 04:23 PM** - Isar Aerospace raises 150 million euros (spacenews)
 - **Jun 25, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 04:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
