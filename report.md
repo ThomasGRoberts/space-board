@@ -6,7 +6,7 @@
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4822,3 +4822,4 @@
 - **Jun 25, 12:13 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 25, 12:27 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
 - **Jun 25, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 12:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
