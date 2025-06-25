@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 24 | 50 |
 | breaking_defense | 1 | 4 | 23 | 46 |
-| nyt | 4 | 4 | 24 | 46 |
+| nyt | 4 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -4827,3 +4827,4 @@
 - **Jun 25, 08:49 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 08:51 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 08:55 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 25, 09:11 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
