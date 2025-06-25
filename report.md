@@ -4,9 +4,9 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 25 | 50 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| nyt | 3 | 4 | 25 | 47 |
+| nyt | 3 | 4 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4791,3 +4791,4 @@
 - **Jun 25, 09:11 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 25, 09:25 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)
 - **Jun 25, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 09:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
