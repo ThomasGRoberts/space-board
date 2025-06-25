@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| breaking_defense | 3 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 120 | 120 |
-| nyt | 1 | 3 | 24 | 46 |
+| breaking_defense | 3 | 4 | 24 | 46 |
+| supercluster | 1 | 1 | 121 | 121 |
+| nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4875,3 +4875,4 @@
 - **Jun 25, 01:35 AM** - Learning from the past: How history can guide space and cyber rules today (spacenews)
 - **Jun 25, 01:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 01:51 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 01:53 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
