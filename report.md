@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
-| breaking_defense | 3 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 127 | 127 |
-| nyt | 1 | 3 | 24 | 46 |
+| breaking_defense | 3 | 4 | 24 | 46 |
+| supercluster | 1 | 1 | 128 | 128 |
+| nyt | 1 | 3 | 23 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -4885,3 +4885,4 @@
 - **Jun 25, 02:31 AM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
 - **Jun 25, 02:45 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 02:47 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
+- **Jun 25, 02:49 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
