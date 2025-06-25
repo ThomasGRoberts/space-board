@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 50 |
 | breaking_defense | 2 | 5 | 23 | 47 |
-| nyt | 3 | 4 | 24 | 47 |
+| nyt | 3 | 4 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -4858,3 +4858,4 @@
 - **Jun 25, 03:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 03:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 03:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 03:53 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
