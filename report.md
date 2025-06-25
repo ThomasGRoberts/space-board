@@ -6,7 +6,7 @@
 | breaking_defense | 1 | 4 | 22 | 45 |
 | nyt | 4 | 4 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 2 | 2 | 17 | 17 |
 
 # Shown Order
 
@@ -4826,3 +4826,4 @@
 - **Jun 25, 08:47 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 08:49 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 08:51 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 25, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
