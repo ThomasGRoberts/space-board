@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 49 |
+| spacenews | 5 | 12 | 27 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 125 | 125 |
 | nyt | 1 | 3 | 24 | 47 |
@@ -4882,3 +4882,4 @@
 - **Jun 25, 02:01 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
 - **Jun 25, 02:03 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 02:17 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 25, 02:31 AM** - Regulators clear Starlink-enabled texting trial in war-torn Ukraine (spacenews)
