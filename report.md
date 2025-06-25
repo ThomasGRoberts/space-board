@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 | nyt | 1 | 3 | 24 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
 
@@ -4893,3 +4893,4 @@
 - **Jun 25, 03:01 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 25, 03:15 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 25, 03:29 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 25, 03:43 AM** - SpaceX Will Launch Private Crew to ISS for Axiom (supercluster)
