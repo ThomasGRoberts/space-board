@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 25 | 49 |
+| spacenews | 6 | 13 | 26 | 50 |
 | breaking_defense | 3 | 4 | 23 | 46 |
 | nyt | 2 | 3 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4776,3 +4776,4 @@
 - **Jun 25, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 07:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 25, 07:43 AM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
