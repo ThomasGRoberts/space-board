@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 25 | 51 |
+| spacenews | 6 | 13 | 26 | 51 |
 | breaking_defense | 2 | 4 | 23 | 46 |
 | nyt | 3 | 4 | 25 | 48 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4839,3 +4839,4 @@
 - **Jun 25, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 01:57 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 25, 02:11 PM** - ULA testing OpenAI’s government-compliant chatbot  (spacenews)
