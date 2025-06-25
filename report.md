@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 25 | 50 |
+| spacenews | 6 | 13 | 24 | 50 |
 | breaking_defense | 1 | 5 | 22 | 46 |
-| nyt | 3 | 3 | 24 | 46 |
+| nyt | 3 | 3 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4804,3 +4804,4 @@
 - **Jun 25, 05:19 PM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 25, 06:23 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 06:25 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 25, 06:27 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
