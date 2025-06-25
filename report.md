@@ -6,6 +6,7 @@
 | breaking_defense | 2 | 5 | 24 | 47 |
 | nyt | 3 | 4 | 24 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4798,3 +4799,4 @@
 - **Jun 25, 03:53 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 25, 04:09 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 25, 04:23 PM** - Isar Aerospace raises 150 million euros (spacenews)
+- **Jun 25, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
