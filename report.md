@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 25 | 49 |
+| spacenews | 5 | 13 | 26 | 50 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4799,3 +4799,4 @@
 - **Jun 25, 09:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 09:53 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 25, 10:07 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 25, 10:21 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
