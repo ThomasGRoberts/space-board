@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 25 | 51 |
+| spacenews | 5 | 13 | 26 | 52 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | nyt | 3 | 4 | 25 | 47 |
 | aidy | 0 | 0 | 0 | 0 |
@@ -4820,3 +4820,4 @@
 - **Jun 25, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 25, 11:59 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 25, 12:13 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 25, 12:27 PM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
