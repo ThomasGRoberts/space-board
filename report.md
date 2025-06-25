@@ -2,11 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 24 | 51 |
+| spacenews | 6 | 14 | 24 | 50 |
 | breaking_defense | 1 | 5 | 22 | 46 |
 | nyt | 4 | 4 | 25 | 46 |
 | aidy | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4809,3 +4809,4 @@
 - **Jun 25, 06:59 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 25, 07:13 PM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 25, 07:27 PM** - Rocket Lab to launch European navigation tech demo satellites (spacenews)
+- **Jun 25, 07:41 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
