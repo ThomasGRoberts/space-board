@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 51 |
 | nyt | 2 | 5 | 23 | 48 |
 | breaking_defense | 0 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4726,3 +4726,4 @@
 - **Jun 26, 04:15 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 26, 04:47 PM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
 - **Jun 26, 05:15 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jun 26, 06:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)

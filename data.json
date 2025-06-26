@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 0,
-    "current_item_id": "8b3e213fa55cd1a54a901ae23c29ed32",
+    "trigger_count": 1,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10277,15 +10277,18 @@
             ]
         },
         {
-            "id": "8b3e213fa55cd1a54a901ae23c29ed32",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360",
-            "source_link": "https://www.supercluster.com/launches/get-the-hawk-outta-here",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-34",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-26T17:28:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-26T18:27:40.562710Z"
+            "target_datetime": "2025-06-28T04:26:00.000Z",
+            "time_remaining": "1d 09h 56m",
+            "fetched_datetime": "2025-06-26T18:29:29.680478Z",
+            "shown_at": [
+                "2025-06-26T18:29:30.283147Z"
+            ]
         }
     ]
 }
