@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 51 |
+| spacenews | 6 | 11 | 24 | 50 |
 | nyt | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 58 | 58 |
-| breaking_defense | 1 | 4 | 22 | 46 |
+| breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
 
@@ -4737,3 +4737,4 @@
 - **Jun 26, 02:27 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 02:29 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 02:31 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 02:33 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
