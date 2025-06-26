@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 25 | 50 |
 | nyt | 2 | 4 | 23 | 48 |
 | supercluster | 1 | 1 | 72 | 72 |
-| breaking_defense | 1 | 4 | 22 | 46 |
+| breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
 
@@ -4757,3 +4757,4 @@
 - **Jun 26, 04:25 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 04:27 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 04:29 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 04:31 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
