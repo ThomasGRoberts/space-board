@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b62576a6d35d875d0c833f78b4383817",
+    "trigger_count": 0,
+    "current_item_id": "2b2e41a7934e26ab279810f04fca2a27",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10371,6 +10371,18 @@
             "fetched_datetime": "2025-06-26T21:19:44.956077Z",
             "shown_at": [
                 "2025-06-26T21:19:45.916083Z"
+            ]
+        },
+        {
+            "id": "2b2e41a7934e26ab279810f04fca2a27",
+            "source": "spacenews",
+            "text": "Pentagon to consider SpaceX alternative for Space Force satellite program",
+            "source_link": "https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T22:29:32.257169Z",
+            "shown_at": [
+                "2025-06-26T22:29:32.778399Z"
             ]
         }
     ]

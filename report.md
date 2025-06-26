@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 51 |
+| spacenews | 8 | 14 | 27 | 52 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -4766,3 +4766,4 @@
 - **Jun 26, 09:47 PM** - Threatening the endless frontier of U.S. science (spacenews)
 - **Jun 26, 10:02 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 26, 10:15 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 26, 10:29 PM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
