@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 51 |
-| nyt | 2 | 6 | 23 | 47 |
+| nyt | 2 | 6 | 24 | 48 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4764,3 +4764,4 @@
 - **Jun 26, 09:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 09:47 PM** - Threatening the endless frontier of U.S. science (spacenews)
+- **Jun 26, 10:02 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
