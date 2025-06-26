@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 27 | 53 |
 | nyt | 1 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 
 # Shown Order
@@ -4873,3 +4873,4 @@
 - **Jun 26, 03:48 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 26, 04:01 PM** - ESA and EU emphasize good relationship as they press forward on imaging constellation (spacenews)
 - **Jun 26, 04:15 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 26, 04:32 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
