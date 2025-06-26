@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 25 | 51 |
-| nyt | 1 | 4 | 24 | 49 |
+| nyt | 1 | 4 | 25 | 49 |
 | supercluster | 1 | 1 | 114 | 114 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 
@@ -4819,3 +4819,4 @@
 - **Jun 26, 10:27 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 10:29 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 10:31 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 26, 10:45 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
