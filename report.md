@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 27 | 53 |
 | nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
@@ -4823,3 +4823,4 @@
 - **Jun 26, 10:59 AM** - The key to Golden Dome’s success: make it usable (spacenews)
 - **Jun 26, 11:13 AM** - NASA’s acting leadership planning new agency structure (spacenews)
 - **Jun 26, 11:27 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
+- **Jun 26, 11:41 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
