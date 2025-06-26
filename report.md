@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 | breaking_defense | 1 | 4 | 23 | 46 |
 
 # Shown Order
@@ -4771,3 +4771,4 @@
 - **Jun 26, 05:41 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 26, 05:55 AM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
 - **Jun 26, 06:12 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 06:15 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
