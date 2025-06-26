@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 50 |
+| spacenews | 6 | 11 | 25 | 51 |
 | nyt | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 65 | 65 |
 | breaking_defense | 1 | 4 | 23 | 46 |
@@ -4749,3 +4749,4 @@
 - **Jun 26, 03:31 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 03:33 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 26, 03:47 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
+- **Jun 26, 04:03 AM** - Isar Aerospace raises 150 million euros (spacenews)
