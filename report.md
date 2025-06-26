@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 28 | 53 |
-| nyt | 1 | 4 | 23 | 48 |
+| nyt | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 2 | 22 | 46 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -4732,3 +4732,4 @@
 - **Jun 26, 05:09 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 05:11 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 05:13 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 05:15 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)

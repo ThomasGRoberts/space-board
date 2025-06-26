@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b3e213fa55cd1a54a901ae23c29ed32",
+    "trigger_count": 0,
+    "current_item_id": "bf8a578797fc6c33c3818446b9d256d2",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10282,6 +10282,18 @@
                 "2025-06-26T17:09:33.535803Z",
                 "2025-06-26T17:11:45.817132Z",
                 "2025-06-26T17:13:26.091898Z"
+            ]
+        },
+        {
+            "id": "bf8a578797fc6c33c3818446b9d256d2",
+            "source": "nyt",
+            "text": "Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation",
+            "source_link": "https://www.nytimes.com/2025/06/26/us/spacex-explosion-debris-mexico-investigation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T17:15:33.680924Z",
+            "shown_at": [
+                "2025-06-26T17:15:34.301311Z"
             ]
         }
     ]
