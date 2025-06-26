@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4769,3 +4769,4 @@
 - **Jun 26, 10:29 PM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
 - **Jun 26, 10:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 10:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 26, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
