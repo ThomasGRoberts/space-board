@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 51 |
-| nyt | 1 | 4 | 24 | 49 |
+| nyt | 1 | 4 | 25 | 50 |
 | supercluster | 1 | 1 | 100 | 100 |
 | breaking_defense | 1 | 4 | 24 | 48 |
 
@@ -4799,3 +4799,4 @@
 - **Jun 26, 08:33 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 08:35 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 08:37 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 26, 08:51 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
