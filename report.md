@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 1 | 4 | 22 | 46 |
 
 # Shown Order
@@ -4741,3 +4741,4 @@
 - **Jun 26, 02:49 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
 - **Jun 26, 03:05 AM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
 - **Jun 26, 03:19 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 03:21 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
