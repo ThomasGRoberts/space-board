@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 37 | 37 |
-| breaking_defense | 1 | 4 | 23 | 46 |
+| supercluster | 1 | 1 | 38 | 38 |
+| breaking_defense | 1 | 4 | 22 | 46 |
 
 # Shown Order
 
@@ -4710,3 +4710,4 @@
 - **Jun 25, 11:45 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 25, 11:59 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 26, 12:13 AM** - Threatening the endless frontier of U.S. science (spacenews)
+- **Jun 26, 12:27 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
