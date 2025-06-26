@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 27 | 53 |
-| nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 121 | 121 |
+| nyt | 1 | 4 | 24 | 48 |
+| supercluster | 1 | 1 | 122 | 122 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
@@ -4833,3 +4833,4 @@
 - **Jun 26, 11:55 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 26, 12:10 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 26, 12:25 PM** - Trump’s dispute with Musk shows the danger of private monopolies in space (spacenews)
+- **Jun 26, 12:39 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
