@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 | breaking_defense | 1 | 4 | 22 | 46 |
 
 # Shown Order
@@ -4720,3 +4720,4 @@
 - **Jun 26, 12:41 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 26, 12:55 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 26, 01:10 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
+- **Jun 26, 01:23 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
