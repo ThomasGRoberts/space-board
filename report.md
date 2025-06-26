@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 25 | 51 |
+| spacenews | 5 | 11 | 26 | 52 |
 | nyt | 2 | 4 | 25 | 49 |
 | supercluster | 1 | 1 | 93 | 93 |
 | breaking_defense | 1 | 4 | 24 | 47 |
@@ -4789,3 +4789,4 @@
 - **Jun 26, 07:23 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 07:25 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 26, 07:39 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
+- **Jun 26, 07:53 AM** - Threatening the endless frontier of U.S. science (spacenews)
