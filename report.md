@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 26 | 51 |
 | nyt | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 93 | 93 |
-| breaking_defense | 1 | 4 | 23 | 46 |
+| breaking_defense | 1 | 4 | 24 | 47 |
 
 # Shown Order
 
@@ -4787,3 +4787,4 @@
 - **Jun 26, 07:19 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 07:21 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 07:23 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 07:25 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
