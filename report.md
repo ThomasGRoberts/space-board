@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 26 | 50 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4756,3 +4756,4 @@
 - **Jun 26, 08:51 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jun 26, 09:05 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Jun 26, 09:19 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 26, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
