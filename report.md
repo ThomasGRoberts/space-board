@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 53 |
-| nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 137 | 137 |
+| nyt | 1 | 4 | 24 | 48 |
+| supercluster | 1 | 1 | 138 | 138 |
 | breaking_defense | 1 | 3 | 23 | 47 |
 
 # Shown Order
@@ -4855,3 +4855,4 @@
 - **Jun 26, 02:19 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 26, 02:34 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 02:35 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 02:37 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
