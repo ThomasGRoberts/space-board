@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 | breaking_defense | 1 | 4 | 23 | 46 |
 
 # Shown Order
@@ -4762,3 +4762,4 @@
 - **Jun 26, 04:59 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 26, 05:13 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 05:15 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 05:17 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
