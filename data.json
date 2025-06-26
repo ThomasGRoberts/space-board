@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "04972f8032882e6b1b07f3a89abdd2c4",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10349,6 +10349,18 @@
             "fetched_datetime": "2025-06-26T19:55:54.850166Z",
             "shown_at": [
                 "2025-06-26T19:55:55.889737Z"
+            ]
+        },
+        {
+            "id": "04972f8032882e6b1b07f3a89abdd2c4",
+            "source": "breaking_defense",
+            "text": "Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay",
+            "source_link": "https://breakingdefense.com/2025/06/space-force-ponders-shakeup-to-leo-satellite-strategy-potentially-hiring-spacex-for-data-relay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T21:19:44.956077Z",
+            "shown_at": [
+                "2025-06-26T21:19:45.916083Z"
             ]
         }
     ]

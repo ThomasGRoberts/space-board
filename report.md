@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
-| breaking_defense | 0 | 1 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -4755,3 +4755,4 @@
 - **Jun 26, 08:37 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 26, 08:51 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jun 26, 09:05 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Jun 26, 09:19 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
