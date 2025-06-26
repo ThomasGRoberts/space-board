@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 50 |
-| nyt | 4 | 4 | 25 | 48 |
+| spacenews | 6 | 11 | 25 | 51 |
+| nyt | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 37 | 37 |
 | breaking_defense | 1 | 4 | 23 | 46 |
 
@@ -4709,3 +4709,4 @@
 - **Jun 25, 11:43 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 25, 11:45 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 25, 11:59 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
+- **Jun 26, 12:13 AM** - Threatening the endless frontier of U.S. science (spacenews)
