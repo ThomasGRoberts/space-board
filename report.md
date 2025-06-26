@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -4775,3 +4775,4 @@
 - **Jun 26, 10:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 10:57 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 26, 11:11 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
