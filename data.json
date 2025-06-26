@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c945390398214ad13d1974e693389fb8",
+    "trigger_count": 0,
+    "current_item_id": "8de5c9c55235f5a51a1d89e5d27ffc82",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10369,6 +10369,18 @@
             "fetched_datetime": "2025-06-26T11:13:40.362207Z",
             "shown_at": [
                 "2025-06-26T11:27:40.293276Z"
+            ]
+        },
+        {
+            "id": "8de5c9c55235f5a51a1d89e5d27ffc82",
+            "source": "spacenews",
+            "text": "Deep tech is driving the next frontier in in-flight connectivity",
+            "source_link": "https://spacenews.com/deep-tech-is-driving-the-next-frontier-in-in-flight-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T13:07:37.244273Z",
+            "shown_at": [
+                "2025-06-26T13:07:38.021249Z"
             ]
         }
     ]

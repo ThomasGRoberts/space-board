@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 27 | 53 |
+| spacenews | 7 | 12 | 28 | 54 |
 | nyt | 1 | 4 | 23 | 48 |
 | supercluster | 1 | 1 | 128 | 128 |
 | breaking_defense | 1 | 4 | 24 | 47 |
@@ -4841,3 +4841,4 @@
 - **Jun 26, 12:49 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 12:51 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 12:53 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 26, 01:07 PM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
