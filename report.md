@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 51 |
+| spacenews | 7 | 13 | 26 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 0 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -4746,3 +4746,4 @@
 - **Jun 26, 07:55 PM** - Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees (spacenews)
 - **Jun 26, 08:09 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 26, 08:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 26, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
