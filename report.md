@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 24 | 50 |
-| nyt | 2 | 4 | 23 | 47 |
+| nyt | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 79 | 79 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
@@ -4768,3 +4768,4 @@
 - **Jun 26, 05:23 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 05:25 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 05:27 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 26, 05:41 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
