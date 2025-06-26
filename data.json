@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a2772e6ace4986a566835894690c0000",
+    "trigger_count": 0,
+    "current_item_id": "e9e77d67e2a74886858e41ffb917073c",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10326,6 +10326,18 @@
             "fetched_datetime": "2025-06-26T19:12:10.907978Z",
             "shown_at": [
                 "2025-06-26T19:12:11.983939Z"
+            ]
+        },
+        {
+            "id": "e9e77d67e2a74886858e41ffb917073c",
+            "source": "spacenews",
+            "text": "Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees",
+            "source_link": "https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T19:55:54.850166Z",
+            "shown_at": [
+                "2025-06-26T19:55:55.889737Z"
             ]
         }
     ]
