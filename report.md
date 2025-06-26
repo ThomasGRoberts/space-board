@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 | breaking_defense | 1 | 4 | 23 | 46 |
 
 # Shown Order
@@ -4751,3 +4751,4 @@
 - **Jun 26, 03:47 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 26, 04:03 AM** - Isar Aerospace raises 150 million euros (spacenews)
 - **Jun 26, 04:17 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 04:19 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
