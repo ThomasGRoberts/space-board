@@ -1,9 +1,197 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-25T00:01:34.517223+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
+    "trigger_count": 1,
     "current_item_id": "13934a7049dafbc2b230888ddc29fb2c",
     "data": [
+        {
+            "id": "5ce548bdc4fead2dcd04f920c06873ae",
+            "source": "spacenews",
+            "text": "Rocket Lab to launch European navigation tech demo satellites",
+            "source_link": "https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T19:27:36.128603Z",
+            "shown_at": [
+                "2025-06-25T19:27:36.643670Z"
+            ]
+        },
+        {
+            "id": "a693e5429a4b98e3ec6e939b91b30db9",
+            "source": "nyt",
+            "text": "Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/space/fred-espenak-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T18:59:10.748545Z",
+            "shown_at": [
+                "2025-06-25T18:59:11.297063Z"
+            ]
+        },
+        {
+            "id": "8b3e213fa55cd1a54a901ae23c29ed32",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360",
+            "source_link": "https://www.supercluster.com/launches/get-the-hawk-outta-here",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-26T17:00:00.000Z",
+            "time_remaining": "0d 17h 16m",
+            "fetched_datetime": "2025-06-25T18:23:36.718680Z",
+            "shown_at": [
+                "2025-06-25T18:23:37.392037Z",
+                "2025-06-25T18:25:22.133934Z",
+                "2025-06-25T19:41:53.066058Z",
+                "2025-06-25T19:43:19.890337Z",
+                "2025-06-25T19:45:42.922978Z",
+                "2025-06-25T19:47:35.305894Z",
+                "2025-06-25T19:50:03.827639Z",
+                "2025-06-25T19:52:00.862848Z",
+                "2025-06-25T19:53:27.059081Z",
+                "2025-06-25T20:39:42.521313Z",
+                "2025-06-25T20:41:45.535864Z",
+                "2025-06-25T20:43:28.838029Z",
+                "2025-06-25T20:45:53.471352Z",
+                "2025-06-25T20:47:27.901363Z",
+                "2025-06-25T20:49:51.122284Z",
+                "2025-06-25T20:51:45.142276Z",
+                "2025-06-25T21:39:33.152410Z",
+                "2025-06-25T21:41:32.000393Z",
+                "2025-06-25T21:43:47.183990Z",
+                "2025-06-25T21:45:40.914869Z",
+                "2025-06-25T21:47:25.336169Z",
+                "2025-06-25T21:49:50.437406Z",
+                "2025-06-25T21:51:46.535773Z",
+                "2025-06-25T22:35:31.585329Z",
+                "2025-06-25T22:37:43.321311Z",
+                "2025-06-25T22:39:36.248378Z",
+                "2025-06-25T22:41:39.104977Z",
+                "2025-06-25T22:43:36.562835Z",
+                "2025-06-25T22:45:12.610223Z",
+                "2025-06-25T22:47:24.169978Z",
+                "2025-06-25T23:31:44.270598Z",
+                "2025-06-25T23:33:22.087757Z",
+                "2025-06-25T23:35:38.411858Z",
+                "2025-06-25T23:37:33.962032Z",
+                "2025-06-25T23:39:26.921342Z",
+                "2025-06-25T23:41:36.611901Z",
+                "2025-06-25T23:43:35.061932Z"
+            ]
+        },
+        {
+            "id": "bbfaa5a5a62e60352424c499bad2d218",
+            "source": "spacenews",
+            "text": "Isar Aerospace raises 150 million euros",
+            "source_link": "https://spacenews.com/isar-aerospace-raises-150-million-euros/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T16:23:36.644738Z",
+            "shown_at": [
+                "2025-06-25T16:23:37.789410Z"
+            ]
+        },
+        {
+            "id": "b62576a6d35d875d0c833f78b4383817",
+            "source": "breaking_defense",
+            "text": "New NATO commercial space strategy seeks to prompt more investment",
+            "source_link": "https://breakingdefense.com/2025/06/new-nato-commercial-space-strategy-seeks-to-prompt-more-investment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T15:09:38.282028Z",
+            "shown_at": [
+                "2025-06-25T15:09:39.161982Z",
+                "2025-06-25T16:09:43.966174Z",
+                "2025-06-25T20:55:52.364172Z",
+                "2025-06-25T21:53:25.375908Z"
+            ]
+        },
+        {
+            "id": "448284e322760c92963c7fdf16930852",
+            "source": "spacenews",
+            "text": "Lux Aeterna emerges from stealth with funds for fully reusable satellite platform",
+            "source_link": "https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T13:15:27.795142Z",
+            "shown_at": [
+                "2025-06-25T13:15:28.296779Z"
+            ]
+        },
+        {
+            "id": "1c8d68c9e0c32bc668a2b23337703b3e",
+            "source": "spacenews",
+            "text": "Maxar launches intelligence service focused on ‘persistent monitoring’",
+            "source_link": "https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T10:35:35.583720Z",
+            "shown_at": [
+                "2025-06-25T10:35:36.830145Z"
+            ]
+        },
+        {
+            "id": "16b4db6033edbaa0134cb155082a5405",
+            "source": "spacenews",
+            "text": "First Rubin Observatory images released amid concerns about budget cuts",
+            "source_link": "https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T09:25:36.923704Z",
+            "shown_at": [
+                "2025-06-25T09:25:37.465264Z"
+            ]
+        },
+        {
+            "id": "5f9159e6c84b4b41b41ab08d2e0ab062",
+            "source": "nyt",
+            "text": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T07:57:39.528431Z",
+            "shown_at": [
+                "2025-06-25T07:57:41.186677Z"
+            ]
+        },
+        {
+            "id": "e6aed729fc8f122056c8c3496b2aeaf7",
+            "source": "spacenews",
+            "text": "Fourth Axiom Space private astronaut mission launched to ISS",
+            "source_link": "https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T07:43:27.168412Z",
+            "shown_at": [
+                "2025-06-25T07:43:27.726053Z"
+            ]
+        },
+        {
+            "id": "4869a0e1213932b3168883f83aad9f5e",
+            "source": "nyt",
+            "text": "SpaceX to Launch Axiom Mission 4: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T04:11:41.820497Z",
+            "shown_at": [
+                "2025-06-25T04:11:42.438409Z",
+                "2025-06-25T20:11:34.953946Z",
+                "2025-06-25T23:03:27.884337Z"
+            ]
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-25T00:11:42.747987Z",
+            "shown_at": [
+                "2025-06-25T00:11:43.335908Z",
+                "2025-06-25T01:07:31.336177Z"
+            ]
+        },
         {
             "id": "997846781bf79f4872aa0977976b90e4",
             "source": "spacenews",
@@ -10016,463 +10204,6 @@
                 "2025-04-21T05:29:40.537523Z",
                 "2025-04-21T22:27:32.071848Z",
                 "2025-04-23T11:43:26.533600Z"
-            ]
-        },
-        {
-            "id": "2f8828dca036728899b566cc9243f381",
-            "source": "breaking_defense",
-            "text": "Space Force’s rapid-launch Victus sats to push both acquisition and operational boundaries",
-            "source_link": "https://breakingdefense.com/2025/04/space-forces-rapid-launch-victus-sats-to-push-both-acquisition-and-operational-boundaries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T17:47:42.109118Z",
-            "shown_at": [
-                "2025-04-16T17:47:42.722291Z",
-                "2025-04-16T22:53:29.277675Z",
-                "2025-04-17T21:15:40.291836Z",
-                "2025-04-18T06:39:41.294450Z",
-                "2025-04-18T10:13:39.197630Z",
-                "2025-04-18T20:59:46.143938Z",
-                "2025-04-19T02:02:04.151227Z",
-                "2025-04-19T04:21:48.285846Z",
-                "2025-04-19T05:35:30.196114Z",
-                "2025-04-19T12:45:46.787063Z",
-                "2025-04-20T00:39:43.777350Z",
-                "2025-04-20T02:59:46.900105Z",
-                "2025-04-20T04:14:03.870129Z",
-                "2025-04-20T05:23:47.065907Z",
-                "2025-04-20T10:05:43.166754Z",
-                "2025-04-20T16:11:37.291189Z",
-                "2025-04-20T17:21:42.649840Z",
-                "2025-04-21T05:13:38.230729Z",
-                "2025-04-21T17:42:05.210020Z",
-                "2025-04-21T20:03:25.497104Z",
-                "2025-04-21T21:29:02.675632Z",
-                "2025-04-21T22:41:49.280355Z",
-                "2025-04-21T23:53:28.129257Z",
-                "2025-04-22T21:49:41.849708Z",
-                "2025-04-23T08:07:48.162926Z",
-                "2025-04-23T09:05:33.215888Z",
-                "2025-04-23T10:59:35.329399Z",
-                "2025-04-23T14:23:57.616462Z",
-                "2025-04-23T15:21:56.058302Z",
-                "2025-04-23T17:17:41.517908Z"
-            ]
-        },
-        {
-            "id": "23bee0babc607d42ca487405751acfc7",
-            "source": "spacenews",
-            "text": "In-flight connectivity – where national policy and global service (don’t) mix",
-            "source_link": "https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T13:01:57.334012Z",
-            "shown_at": [
-                "2025-04-16T13:01:57.903642Z",
-                "2025-04-17T18:09:27.560806Z",
-                "2025-04-20T18:45:26.464625Z",
-                "2025-04-21T21:15:29.516016Z"
-            ]
-        },
-        {
-            "id": "873498308c4ee26e86bf3a26b879d15c",
-            "source": "spacenews",
-            "text": "Bipartisan caucus criticizes proposed NASA science budget cuts",
-            "source_link": "https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T10:42:02.851419Z",
-            "shown_at": [
-                "2025-04-16T10:42:03.825571Z",
-                "2025-04-19T15:33:23.694589Z"
-            ]
-        },
-        {
-            "id": "d8c879a849ec37fc94471fd1ed5b130f",
-            "source": "aidy",
-            "text": "White House moves to privatize space traffic system as NASA faces budget cut criticism and facility shifts.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T07:29:41.446425Z",
-            "shown_at": [
-                "2025-04-16T07:29:42.465603Z",
-                "2025-04-16T13:43:30.307862Z",
-                "2025-04-18T08:33:40.866990Z",
-                "2025-04-18T12:07:47.806208Z",
-                "2025-04-18T13:21:57.551508Z",
-                "2025-04-18T18:23:37.767909Z",
-                "2025-04-18T19:35:31.429919Z",
-                "2025-04-18T21:57:34.213814Z",
-                "2025-04-19T00:37:46.577512Z",
-                "2025-04-19T10:09:43.156594Z",
-                "2025-04-19T20:47:32.019637Z",
-                "2025-04-19T22:02:03.387508Z",
-                "2025-04-19T23:13:35.753890Z",
-                "2025-04-20T02:45:27.153779Z",
-                "2025-04-20T03:57:38.669373Z",
-                "2025-04-20T07:31:51.182658Z",
-                "2025-04-20T09:51:45.387081Z",
-                "2025-04-21T05:57:28.056615Z",
-                "2025-04-21T07:13:50.194482Z",
-                "2025-04-21T15:59:26.247087Z",
-                "2025-04-21T17:13:35.824373Z",
-                "2025-04-21T19:33:41.605971Z",
-                "2025-04-21T20:45:41.721409Z",
-                "2025-04-21T21:57:23.411841Z",
-                "2025-04-21T23:11:43.586931Z",
-                "2025-04-22T00:35:29.549397Z",
-                "2025-04-22T14:47:27.462374Z",
-                "2025-04-22T16:02:32.299392Z",
-                "2025-04-22T17:17:47.861980Z",
-                "2025-04-22T18:27:39.547463Z",
-                "2025-04-22T19:39:29.548512Z",
-                "2025-04-22T20:51:45.678521Z",
-                "2025-04-22T22:03:24.920880Z",
-                "2025-04-22T23:29:08.440938Z",
-                "2025-04-23T00:55:49.821919Z",
-                "2025-04-23T02:05:28.365177Z",
-                "2025-04-23T03:15:38.233005Z",
-                "2025-04-23T04:41:30.859319Z",
-                "2025-04-23T05:53:29.603150Z",
-                "2025-04-23T07:05:40.628334Z"
-            ]
-        },
-        {
-            "id": "28dad9176c640d32c21eb5083d1f0f04",
-            "source": "spacenews",
-            "text": "Space Command headquarters battle reignites",
-            "source_link": "https://spacenews.com/space-command-headquarters-battle-reignites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T23:35:35.842007Z",
-            "shown_at": [
-                "2025-04-15T23:35:36.730448Z",
-                "2025-04-16T19:31:42.635760Z",
-                "2025-04-19T05:05:39.311025Z",
-                "2025-04-22T16:32:31.912501Z"
-            ]
-        },
-        {
-            "id": "f0c4b79b705a63572e89b40662ff476e",
-            "source": "breaking_defense",
-            "text": "Latest DoD IG report clears a hurdle for SPACECOM move to Alabama",
-            "source_link": "https://breakingdefense.com/2025/04/latest-dod-ig-report-clears-a-hurdle-for-spacecom-move-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T20:13:27.245419Z",
-            "shown_at": [
-                "2025-04-15T20:13:27.882489Z",
-                "2025-04-15T21:29:08.916216Z",
-                "2025-04-16T02:13:26.606164Z",
-                "2025-04-16T03:23:49.110310Z",
-                "2025-04-16T07:43:43.174137Z",
-                "2025-04-17T16:15:33.698437Z",
-                "2025-04-17T20:02:10.208565Z",
-                "2025-04-17T22:27:48.750456Z",
-                "2025-04-18T00:47:41.713785Z",
-                "2025-04-18T03:09:38.956166Z",
-                "2025-04-18T04:19:26.090381Z",
-                "2025-04-18T05:29:27.253171Z",
-                "2025-04-18T11:25:27.744624Z",
-                "2025-04-18T16:15:42.342908Z",
-                "2025-04-19T06:47:33.904460Z",
-                "2025-04-19T17:25:34.930692Z",
-                "2025-04-21T01:43:33.673486Z",
-                "2025-04-21T15:17:42.828861Z",
-                "2025-04-21T18:51:37.762705Z"
-            ]
-        },
-        {
-            "id": "167d293d408c687b99eec7b76cd40772",
-            "source": "spacenews",
-            "text": "Astranis clinches $115 million Taiwan deal despite satellite setback",
-            "source_link": "https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T19:59:42.538055Z",
-            "shown_at": [
-                "2025-04-15T19:59:43.566940Z",
-                "2025-04-16T00:50:00.577333Z",
-                "2025-04-16T11:51:37.685325Z",
-                "2025-04-18T03:37:59.159209Z",
-                "2025-04-19T16:43:29.376117Z"
-            ]
-        },
-        {
-            "id": "46b12f26b6f8f58daf72e3ebb1eee608",
-            "source": "spacenews",
-            "text": "Startups to demonstrate new spacecraft docking technique",
-            "source_link": "https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T14:03:43.207717Z",
-            "shown_at": [
-                "2025-04-15T14:03:44.536303Z",
-                "2025-04-16T16:49:31.120023Z",
-                "2025-04-17T23:23:45.805693Z",
-                "2025-04-18T01:43:26.969461Z",
-                "2025-04-18T05:57:51.515877Z",
-                "2025-04-18T07:09:31.457864Z",
-                "2025-04-19T13:27:42.960752Z",
-                "2025-04-21T07:55:38.373159Z",
-                "2025-04-21T19:48:20.818283Z"
-            ]
-        },
-        {
-            "id": "650b2d9bf192c2f5c596a5beadea1ba5",
-            "source": "aidy",
-            "text": "White House proposes 50% NASA science budget cut, risking major mission terminations and setbacks.",
-            "source_link": "https://app.aidyhq.com/topic/114/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T07:35:37.371200Z",
-            "shown_at": [
-                "2025-04-15T07:35:37.838685Z",
-                "2025-04-15T12:17:44.611698Z",
-                "2025-04-15T20:57:43.527582Z",
-                "2025-04-16T00:33:44.571488Z",
-                "2025-04-16T17:33:52.746928Z",
-                "2025-04-18T05:01:58.040022Z",
-                "2025-04-18T23:27:37.529427Z",
-                "2025-04-19T02:57:41.419679Z",
-                "2025-04-19T05:21:32.099868Z",
-                "2025-04-19T07:45:12.762605Z",
-                "2025-04-19T11:19:30.562144Z",
-                "2025-04-19T12:29:43.817576Z",
-                "2025-04-19T16:01:57.757810Z",
-                "2025-04-20T00:25:28.079545Z",
-                "2025-04-20T11:02:07.488848Z",
-                "2025-04-20T12:13:26.812340Z",
-                "2025-04-21T01:13:55.338456Z",
-                "2025-04-21T02:25:31.863265Z",
-                "2025-04-21T03:35:48.019440Z",
-                "2025-04-21T04:45:07.010332Z",
-                "2025-04-21T14:47:45.201451Z",
-                "2025-04-21T18:23:32.732420Z"
-            ]
-        },
-        {
-            "id": "85e11b54475b3980e48c5e66e5777c04",
-            "source": "nyt",
-            "text": "Blue Origin’s First All-Female Spaceflight Stunt",
-            "source_link": "https://www.nytimes.com/2025/04/14/arts/blue-origin-lauren-sanchez-katy-perry.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T00:43:39.989243Z",
-            "shown_at": [
-                "2025-04-15T00:43:40.587368Z",
-                "2025-04-15T01:55:41.967043Z",
-                "2025-04-16T05:59:38.817098Z",
-                "2025-04-17T17:11:34.727104Z",
-                "2025-04-18T06:25:54.857966Z",
-                "2025-04-18T14:47:46.327309Z",
-                "2025-04-20T06:05:29.670214Z",
-                "2025-04-20T10:47:38.415220Z",
-                "2025-04-20T22:31:49.694915Z"
-            ]
-        },
-        {
-            "id": "25b40db25cef09bf6b807b1a6dc88fc9",
-            "source": "spacenews",
-            "text": "Maryland congressmen vow to block proposed NASA science budget cuts",
-            "source_link": "https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-15T00:15:37.834757Z",
-            "shown_at": [
-                "2025-04-15T00:15:38.874557Z",
-                "2025-04-20T05:51:32.092185Z",
-                "2025-04-20T21:07:33.815094Z",
-                "2025-04-21T17:27:59.073165Z"
-            ]
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T00:11:42.747987Z",
-            "shown_at": [
-                "2025-06-25T00:11:43.335908Z",
-                "2025-06-25T01:07:31.336177Z"
-            ]
-        },
-        {
-            "id": "4869a0e1213932b3168883f83aad9f5e",
-            "source": "nyt",
-            "text": "SpaceX to Launch Axiom Mission 4: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T04:11:41.820497Z",
-            "shown_at": [
-                "2025-06-25T04:11:42.438409Z",
-                "2025-06-25T20:11:34.953946Z",
-                "2025-06-25T23:03:27.884337Z"
-            ]
-        },
-        {
-            "id": "e6aed729fc8f122056c8c3496b2aeaf7",
-            "source": "spacenews",
-            "text": "Fourth Axiom Space private astronaut mission launched to ISS",
-            "source_link": "https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T07:43:27.168412Z",
-            "shown_at": [
-                "2025-06-25T07:43:27.726053Z"
-            ]
-        },
-        {
-            "id": "5f9159e6c84b4b41b41ab08d2e0ab062",
-            "source": "nyt",
-            "text": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T07:57:39.528431Z",
-            "shown_at": [
-                "2025-06-25T07:57:41.186677Z"
-            ]
-        },
-        {
-            "id": "16b4db6033edbaa0134cb155082a5405",
-            "source": "spacenews",
-            "text": "First Rubin Observatory images released amid concerns about budget cuts",
-            "source_link": "https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T09:25:36.923704Z",
-            "shown_at": [
-                "2025-06-25T09:25:37.465264Z"
-            ]
-        },
-        {
-            "id": "1c8d68c9e0c32bc668a2b23337703b3e",
-            "source": "spacenews",
-            "text": "Maxar launches intelligence service focused on ‘persistent monitoring’",
-            "source_link": "https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T10:35:35.583720Z",
-            "shown_at": [
-                "2025-06-25T10:35:36.830145Z"
-            ]
-        },
-        {
-            "id": "448284e322760c92963c7fdf16930852",
-            "source": "spacenews",
-            "text": "Lux Aeterna emerges from stealth with funds for fully reusable satellite platform",
-            "source_link": "https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T13:15:27.795142Z",
-            "shown_at": [
-                "2025-06-25T13:15:28.296779Z"
-            ]
-        },
-        {
-            "id": "b62576a6d35d875d0c833f78b4383817",
-            "source": "breaking_defense",
-            "text": "New NATO commercial space strategy seeks to prompt more investment",
-            "source_link": "https://breakingdefense.com/2025/06/new-nato-commercial-space-strategy-seeks-to-prompt-more-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T15:09:38.282028Z",
-            "shown_at": [
-                "2025-06-25T15:09:39.161982Z",
-                "2025-06-25T16:09:43.966174Z",
-                "2025-06-25T20:55:52.364172Z",
-                "2025-06-25T21:53:25.375908Z"
-            ]
-        },
-        {
-            "id": "bbfaa5a5a62e60352424c499bad2d218",
-            "source": "spacenews",
-            "text": "Isar Aerospace raises 150 million euros",
-            "source_link": "https://spacenews.com/isar-aerospace-raises-150-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T16:23:36.644738Z",
-            "shown_at": [
-                "2025-06-25T16:23:37.789410Z"
-            ]
-        },
-        {
-            "id": "8b3e213fa55cd1a54a901ae23c29ed32",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360",
-            "source_link": "https://www.supercluster.com/launches/get-the-hawk-outta-here",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-26T17:00:00.000Z",
-            "time_remaining": "0d 17h 16m",
-            "fetched_datetime": "2025-06-25T18:23:36.718680Z",
-            "shown_at": [
-                "2025-06-25T18:23:37.392037Z",
-                "2025-06-25T18:25:22.133934Z",
-                "2025-06-25T19:41:53.066058Z",
-                "2025-06-25T19:43:19.890337Z",
-                "2025-06-25T19:45:42.922978Z",
-                "2025-06-25T19:47:35.305894Z",
-                "2025-06-25T19:50:03.827639Z",
-                "2025-06-25T19:52:00.862848Z",
-                "2025-06-25T19:53:27.059081Z",
-                "2025-06-25T20:39:42.521313Z",
-                "2025-06-25T20:41:45.535864Z",
-                "2025-06-25T20:43:28.838029Z",
-                "2025-06-25T20:45:53.471352Z",
-                "2025-06-25T20:47:27.901363Z",
-                "2025-06-25T20:49:51.122284Z",
-                "2025-06-25T20:51:45.142276Z",
-                "2025-06-25T21:39:33.152410Z",
-                "2025-06-25T21:41:32.000393Z",
-                "2025-06-25T21:43:47.183990Z",
-                "2025-06-25T21:45:40.914869Z",
-                "2025-06-25T21:47:25.336169Z",
-                "2025-06-25T21:49:50.437406Z",
-                "2025-06-25T21:51:46.535773Z",
-                "2025-06-25T22:35:31.585329Z",
-                "2025-06-25T22:37:43.321311Z",
-                "2025-06-25T22:39:36.248378Z",
-                "2025-06-25T22:41:39.104977Z",
-                "2025-06-25T22:43:36.562835Z",
-                "2025-06-25T22:45:12.610223Z",
-                "2025-06-25T22:47:24.169978Z",
-                "2025-06-25T23:31:44.270598Z",
-                "2025-06-25T23:33:22.087757Z",
-                "2025-06-25T23:35:38.411858Z",
-                "2025-06-25T23:37:33.962032Z",
-                "2025-06-25T23:39:26.921342Z",
-                "2025-06-25T23:41:36.611901Z",
-                "2025-06-25T23:43:35.061932Z"
-            ]
-        },
-        {
-            "id": "a693e5429a4b98e3ec6e939b91b30db9",
-            "source": "nyt",
-            "text": "Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/space/fred-espenak-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T18:59:10.748545Z",
-            "shown_at": [
-                "2025-06-25T18:59:11.297063Z"
-            ]
-        },
-        {
-            "id": "5ce548bdc4fead2dcd04f920c06873ae",
-            "source": "spacenews",
-            "text": "Rocket Lab to launch European navigation tech demo satellites",
-            "source_link": "https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T19:27:36.128603Z",
-            "shown_at": [
-                "2025-06-25T19:27:36.643670Z"
             ]
         }
     ]
