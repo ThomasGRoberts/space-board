@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 53 |
-| nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 142 | 142 |
+| nyt | 1 | 4 | 24 | 48 |
+| supercluster | 1 | 1 | 143 | 143 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 
 # Shown Order
@@ -4863,3 +4863,4 @@
 - **Jun 26, 02:49 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 26, 03:03 PM** - Threatening the endless frontier of U.S. science (spacenews)
 - **Jun 26, 03:19 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 26, 03:33 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
