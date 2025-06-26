@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 26 | 52 |
+| spacenews | 6 | 11 | 27 | 52 |
 | nyt | 1 | 4 | 24 | 49 |
 | supercluster | 1 | 1 | 114 | 114 |
 | breaking_defense | 1 | 4 | 24 | 47 |
@@ -4821,3 +4821,4 @@
 - **Jun 26, 10:31 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 26, 10:45 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 26, 10:59 AM** - The key to Golden Dome’s success: make it usable (spacenews)
+- **Jun 26, 11:13 AM** - NASA’s acting leadership planning new agency structure (spacenews)

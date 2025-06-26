@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4f11a883ad6c2fa91ab3448f0d2432b",
+    "trigger_count": 0,
+    "current_item_id": "7c4667771470e6b77901639df3ca1327",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10328,6 +10328,27 @@
             "shown_at": [
                 "2025-06-26T08:07:41.286243Z"
             ]
+        },
+        {
+            "id": "7c4667771470e6b77901639df3ca1327",
+            "source": "spacenews",
+            "text": "NASA’s acting leadership planning new agency structure",
+            "source_link": "https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T11:13:40.362148Z",
+            "shown_at": [
+                "2025-06-26T11:13:41.032178Z"
+            ]
+        },
+        {
+            "id": "b0cc82d38dd89edd0342b602aa6470a7",
+            "source": "spacenews",
+            "text": "First ‘FireSat’ satellite delivers thermal images",
+            "source_link": "https://spacenews.com/first-firesat-satellite-delivers-thermal-images/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T11:13:40.362207Z"
         }
     ]
 }
