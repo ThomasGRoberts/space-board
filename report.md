@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 50 |
+| spacenews | 6 | 11 | 25 | 51 |
 | nyt | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 58 | 58 |
 | breaking_defense | 1 | 4 | 23 | 46 |
@@ -4739,3 +4739,4 @@
 - **Jun 26, 02:31 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 02:33 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 26, 02:49 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
+- **Jun 26, 03:05 AM** - French government to lead Eutelsat’s $1.56 billion capital boost (spacenews)
