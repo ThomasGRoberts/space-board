@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 26 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 0 | 1 | 22 | 44 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4736,3 +4736,4 @@
 - **Jun 26, 06:56 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
 - **Jun 26, 07:12 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 26, 07:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 26, 07:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
