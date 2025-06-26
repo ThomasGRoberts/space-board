@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 27 | 52 |
+| spacenews | 5 | 10 | 26 | 52 |
 | nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
@@ -4813,3 +4813,4 @@
 - **Jun 26, 10:02 AM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
 - **Jun 26, 10:17 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 10:19 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 10:21 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
