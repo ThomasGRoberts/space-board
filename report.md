@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 53 |
-| nyt | 1 | 4 | 23 | 48 |
+| nyt | 1 | 4 | 24 | 49 |
 | supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 1 | 3 | 24 | 47 |
 
@@ -4852,3 +4852,4 @@
 - **Jun 26, 01:47 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 01:49 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 26, 02:03 PM** - Lynk Global’s SPAC merger on the rocks (spacenews)
+- **Jun 26, 02:19 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
