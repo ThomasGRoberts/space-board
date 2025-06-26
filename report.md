@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 51 |
 | nyt | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | breaking_defense | 1 | 4 | 23 | 46 |
 
 # Shown Order
@@ -4760,3 +4760,4 @@
 - **Jun 26, 04:31 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 26, 04:45 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 26, 04:59 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 26, 05:13 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
