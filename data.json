@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b329b7f93e33be7d57a637d36c73e6de",
+    "trigger_count": 0,
+    "current_item_id": "c2f145206ded69cd233e519940cabe99",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10285,6 +10285,18 @@
                 "2025-04-21T05:29:40.537523Z",
                 "2025-04-21T22:27:32.071848Z",
                 "2025-04-23T11:43:26.533600Z"
+            ]
+        },
+        {
+            "id": "c2f145206ded69cd233e519940cabe99",
+            "source": "spacenews",
+            "text": "Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis",
+            "source_link": "https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T08:07:40.602553Z",
+            "shown_at": [
+                "2025-06-26T08:07:41.286243Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 52 |
+| spacenews | 6 | 12 | 27 | 53 |
 | nyt | 1 | 4 | 24 | 49 |
 | supercluster | 1 | 1 | 93 | 93 |
 | breaking_defense | 1 | 4 | 24 | 47 |
@@ -4790,3 +4790,4 @@
 - **Jun 26, 07:25 AM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 26, 07:39 AM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
 - **Jun 26, 07:53 AM** - Threatening the endless frontier of U.S. science (spacenews)
+- **Jun 26, 08:07 AM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
