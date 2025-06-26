@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 27 | 52 |
 | nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
@@ -4801,3 +4801,4 @@
 - **Jun 26, 08:37 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 26, 08:51 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 26, 09:05 AM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
+- **Jun 26, 09:19 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
