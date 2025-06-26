@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b3e213fa55cd1a54a901ae23c29ed32",
+    "trigger_count": 0,
+    "current_item_id": "83007955deb13a761bddc89b18534bf8",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10419,6 +10419,18 @@
             "fetched_datetime": "2025-06-26T13:07:37.244273Z",
             "shown_at": [
                 "2025-06-26T13:07:38.021249Z"
+            ]
+        },
+        {
+            "id": "83007955deb13a761bddc89b18534bf8",
+            "source": "spacenews",
+            "text": "Technology safeguards agreement enables Firefly launches from Sweden",
+            "source_link": "https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T16:47:44.310565Z",
+            "shown_at": [
+                "2025-06-26T16:47:45.220549Z"
             ]
         }
     ]

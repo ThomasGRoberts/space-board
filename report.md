@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 27 | 53 |
+| spacenews | 6 | 13 | 28 | 54 |
 | nyt | 1 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 156 | 156 |
 | breaking_defense | 0 | 2 | 23 | 46 |
@@ -4880,3 +4880,4 @@
 - **Jun 26, 04:41 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 04:43 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
 - **Jun 26, 04:45 PM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
+- **Jun 26, 04:47 PM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
