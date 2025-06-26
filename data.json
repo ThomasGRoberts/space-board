@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95adfc67d7854fa48c9623696efba6f7",
+    "trigger_count": 0,
+    "current_item_id": "b4d9abcea56c63f662f5cc8fb5309eea",
     "data": [
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
@@ -10306,6 +10306,18 @@
             "fetched_datetime": "2025-06-26T18:56:16.392746Z",
             "shown_at": [
                 "2025-06-26T18:56:17.445416Z"
+            ]
+        },
+        {
+            "id": "b4d9abcea56c63f662f5cc8fb5309eea",
+            "source": "nyt",
+            "text": "Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee",
+            "source_link": "https://www.nytimes.com/2025/06/26/us/fire-ball-south-carolina-georgia-tennessee.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T19:12:10.907978Z",
+            "shown_at": [
+                "2025-06-26T19:12:11.983939Z"
             ]
         }
     ]

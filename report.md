@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 52 |
-| nyt | 1 | 5 | 22 | 47 |
+| nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 0 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -4734,3 +4734,4 @@
 - **Jun 26, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 06:41 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 26, 06:56 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
+- **Jun 26, 07:12 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
