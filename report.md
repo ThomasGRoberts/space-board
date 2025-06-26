@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 51 |
 | nyt | 2 | 6 | 23 | 48 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4778,3 +4778,4 @@
 - **Jun 26, 11:11 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 26, 11:25 PM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
 - **Jun 26, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 26, 11:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
