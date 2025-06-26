@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 51 |
-| nyt | 2 | 6 | 23 | 47 |
+| nyt | 2 | 6 | 24 | 48 |
 | breaking_defense | 0 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4754,3 +4754,4 @@
 - **Jun 26, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 26, 08:37 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 26, 08:51 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
+- **Jun 26, 09:05 PM** - Sync Your Calendar With the Solar System (nyt)
