@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 27 | 52 |
 | nyt | 1 | 4 | 24 | 49 |
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | breaking_defense | 1 | 4 | 23 | 47 |
 
 # Shown Order
@@ -4811,3 +4811,4 @@
 - **Jun 26, 09:33 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 26, 09:47 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 26, 10:02 AM** - ESA signs agreement for potential use of Orbital Reef (spacenews)
+- **Jun 26, 10:17 AM** - Rocket Lab Will Launch Radio‑Frequency Satellites for HawkEye 360 (supercluster)
