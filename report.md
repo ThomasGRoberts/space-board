@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 52 |
+| spacenews | 7 | 13 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -4790,3 +4790,4 @@
 - **Jun 27, 08:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 08:19 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 27, 08:33 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 27, 08:47 AM** - Isaacman interested in privately funded science missions (spacenews)
