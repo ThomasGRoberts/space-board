@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 28 | 55 |
-| breaking_defense | 2 | 2 | 25 | 47 |
+| breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 1 | 3 | 25 | 48 |
 | supercluster | 0 | 1 | 168 | 174 |
 
@@ -4893,3 +4893,4 @@
 - **Jun 27, 06:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 06:25 PM** - Airbus says space business turnaround going well (spacenews)
 - **Jun 27, 06:39 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jun 27, 06:55 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
