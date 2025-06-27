@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 1 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 168 | 168 |
+| supercluster | 1 | 1 | 169 | 169 |
 
 # Shown Order
 
@@ -4885,3 +4885,4 @@
 - **Jun 27, 05:41 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 27, 05:55 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 27, 06:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 06:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
