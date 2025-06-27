@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -4781,3 +4781,4 @@
 - **Jun 27, 07:23 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 27, 07:37 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 07:51 AM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
+- **Jun 27, 08:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
