@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "997846781bf79f4872aa0977976b90e4",
+    "trigger_count": 0,
+    "current_item_id": "cd152e62647f45270200b4f5658f7d90",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10473,6 +10473,18 @@
             "fetched_datetime": "2025-06-27T17:55:38.872821Z",
             "shown_at": [
                 "2025-06-27T17:55:40.028609Z"
+            ]
+        },
+        {
+            "id": "cd152e62647f45270200b4f5658f7d90",
+            "source": "spacenews",
+            "text": "EchoStar delays bankruptcy threat after Trump pushes for FCC resolution",
+            "source_link": "https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T20:33:40.255675Z",
+            "shown_at": [
+                "2025-06-27T20:33:40.698672Z"
             ]
         }
     ]
