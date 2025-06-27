@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 2 | 5 | 23 | 47 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -4711,3 +4711,4 @@
 - **Jun 27, 12:49 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 27, 01:03 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 01:17 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
+- **Jun 27, 01:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
