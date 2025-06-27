@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 4 | 23 | 46 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -4761,3 +4761,4 @@
 - **Jun 27, 05:29 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 27, 05:43 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 27, 05:57 AM** - Threatening the endless frontier of U.S. science (spacenews)
+- **Jun 27, 06:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
