@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 25 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 132 | 132 |
 
@@ -4830,3 +4830,4 @@
 - **Jun 27, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 12:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 12:17 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 27, 12:31 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
