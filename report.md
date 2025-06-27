@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 2 | 5 | 23 | 47 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -4722,3 +4722,4 @@
 - **Jun 27, 01:59 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 27, 02:13 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
 - **Jun 27, 02:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 02:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
