@@ -1,9 +1,197 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-26T00:01:48.435213+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
+    "trigger_count": 4,
     "current_item_id": "4869a0e1213932b3168883f83aad9f5e",
     "data": [
+        {
+            "id": "2b2e41a7934e26ab279810f04fca2a27",
+            "source": "spacenews",
+            "text": "Pentagon to consider SpaceX alternative for Space Force satellite program",
+            "source_link": "https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T22:29:32.257169Z",
+            "shown_at": [
+                "2025-06-26T22:29:32.778399Z"
+            ]
+        },
+        {
+            "id": "04972f8032882e6b1b07f3a89abdd2c4",
+            "source": "breaking_defense",
+            "text": "Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay",
+            "source_link": "https://breakingdefense.com/2025/06/space-force-ponders-shakeup-to-leo-satellite-strategy-potentially-hiring-spacex-for-data-relay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T21:19:44.956077Z",
+            "shown_at": [
+                "2025-06-26T21:19:45.916083Z"
+            ]
+        },
+        {
+            "id": "e9e77d67e2a74886858e41ffb917073c",
+            "source": "spacenews",
+            "text": "Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees",
+            "source_link": "https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T19:55:54.850166Z",
+            "shown_at": [
+                "2025-06-26T19:55:55.889737Z"
+            ]
+        },
+        {
+            "id": "b4d9abcea56c63f662f5cc8fb5309eea",
+            "source": "nyt",
+            "text": "Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee",
+            "source_link": "https://www.nytimes.com/2025/06/26/us/fire-ball-south-carolina-georgia-tennessee.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T19:12:10.907978Z",
+            "shown_at": [
+                "2025-06-26T19:12:11.983939Z",
+                "2025-06-26T22:02:02.919940Z"
+            ]
+        },
+        {
+            "id": "95adfc67d7854fa48c9623696efba6f7",
+            "source": "spacenews",
+            "text": "Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget",
+            "source_link": "https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T18:56:16.392746Z",
+            "shown_at": [
+                "2025-06-26T18:56:17.445416Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-34",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-28T04:26:00.000Z",
+            "time_remaining": "1d 04h 34m",
+            "fetched_datetime": "2025-06-26T18:29:29.680478Z",
+            "shown_at": [
+                "2025-06-26T18:29:30.283147Z",
+                "2025-06-26T18:31:50.369134Z",
+                "2025-06-26T18:33:45.694977Z",
+                "2025-06-26T18:35:36.939641Z",
+                "2025-06-26T18:37:57.578466Z",
+                "2025-06-26T18:39:33.324618Z",
+                "2025-06-26T19:27:42.758886Z",
+                "2025-06-26T19:29:47.414905Z",
+                "2025-06-26T19:32:02.048299Z",
+                "2025-06-26T19:33:35.000261Z",
+                "2025-06-26T19:35:35.039671Z",
+                "2025-06-26T19:37:24.705204Z",
+                "2025-06-26T19:39:25.678153Z",
+                "2025-06-26T20:23:44.242480Z",
+                "2025-06-26T20:25:41.278976Z",
+                "2025-06-26T20:27:33.177616Z",
+                "2025-06-26T20:29:47.989473Z",
+                "2025-06-26T20:31:52.836630Z",
+                "2025-06-26T20:33:29.434608Z",
+                "2025-06-26T20:35:36.973028Z",
+                "2025-06-26T21:33:31.949300Z",
+                "2025-06-26T21:35:24.830201Z",
+                "2025-06-26T21:37:32.526330Z",
+                "2025-06-26T21:39:40.168810Z",
+                "2025-06-26T21:41:17.423728Z",
+                "2025-06-26T21:43:48.864793Z",
+                "2025-06-26T21:45:23.275526Z",
+                "2025-06-26T22:43:29.451288Z",
+                "2025-06-26T22:45:27.779189Z",
+                "2025-06-26T22:47:35.588458Z",
+                "2025-06-26T22:49:24.956825Z",
+                "2025-06-26T22:51:33.747388Z",
+                "2025-06-26T22:53:31.610430Z",
+                "2025-06-26T22:55:29.296079Z",
+                "2025-06-26T23:39:36.133369Z",
+                "2025-06-26T23:41:41.815890Z",
+                "2025-06-26T23:43:37.772563Z",
+                "2025-06-26T23:45:35.212562Z",
+                "2025-06-26T23:47:35.973749Z",
+                "2025-06-26T23:49:28.066390Z",
+                "2025-06-26T23:51:27.351568Z"
+            ]
+        },
+        {
+            "id": "bf8a578797fc6c33c3818446b9d256d2",
+            "source": "nyt",
+            "text": "Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation",
+            "source_link": "https://www.nytimes.com/2025/06/26/us/spacex-explosion-debris-mexico-investigation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T17:15:33.680924Z",
+            "shown_at": [
+                "2025-06-26T17:15:34.301311Z"
+            ]
+        },
+        {
+            "id": "83007955deb13a761bddc89b18534bf8",
+            "source": "spacenews",
+            "text": "Technology safeguards agreement enables Firefly launches from Sweden",
+            "source_link": "https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T16:47:44.310565Z",
+            "shown_at": [
+                "2025-06-26T16:47:45.220549Z"
+            ]
+        },
+        {
+            "id": "8de5c9c55235f5a51a1d89e5d27ffc82",
+            "source": "spacenews",
+            "text": "Deep tech is driving the next frontier in in-flight connectivity",
+            "source_link": "https://spacenews.com/deep-tech-is-driving-the-next-frontier-in-in-flight-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T13:07:37.244273Z",
+            "shown_at": [
+                "2025-06-26T13:07:38.021249Z"
+            ]
+        },
+        {
+            "id": "b0cc82d38dd89edd0342b602aa6470a7",
+            "source": "spacenews",
+            "text": "First ‘FireSat’ satellite delivers thermal images",
+            "source_link": "https://spacenews.com/first-firesat-satellite-delivers-thermal-images/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T11:13:40.362207Z",
+            "shown_at": [
+                "2025-06-26T11:27:40.293276Z"
+            ]
+        },
+        {
+            "id": "7c4667771470e6b77901639df3ca1327",
+            "source": "spacenews",
+            "text": "NASA’s acting leadership planning new agency structure",
+            "source_link": "https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T11:13:40.362148Z",
+            "shown_at": [
+                "2025-06-26T11:13:41.032178Z"
+            ]
+        },
+        {
+            "id": "c2f145206ded69cd233e519940cabe99",
+            "source": "spacenews",
+            "text": "Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis",
+            "source_link": "https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-26T08:07:40.602553Z",
+            "shown_at": [
+                "2025-06-26T08:07:41.286243Z",
+                "2025-06-26T20:51:32.272024Z"
+            ]
+        },
         {
             "id": "5ce548bdc4fead2dcd04f920c06873ae",
             "source": "spacenews",
@@ -10006,401 +10194,6 @@
                 "2025-04-21T18:37:26.655450Z",
                 "2025-04-23T17:59:28.245512Z",
                 "2025-04-23T18:57:29.342263Z"
-            ]
-        },
-        {
-            "id": "7617f759ed4107a614ee7de4e5a6ec0f",
-            "source": "spacenews",
-            "text": "L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’",
-            "source_link": "https://spacenews.com/l3harris-expands-space-manufacturing-as-companies-vie-for-position-in-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T15:47:27.403319Z",
-            "shown_at": [
-                "2025-04-17T15:47:28.114522Z",
-                "2025-04-19T17:53:29.185797Z",
-                "2025-04-22T21:21:52.659302Z",
-                "2025-04-24T06:13:48.426554Z"
-            ]
-        },
-        {
-            "id": "21e97073443ad5170fdf7445c4fdd1d1",
-            "source": "spacenews",
-            "text": "Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA",
-            "source_link": "https://spacenews.com/creotech-instruments-secures-e52-million-esa-contract-to-build-polish-satellite-constellation-camila/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T15:19:49.947663Z",
-            "shown_at": [
-                "2025-04-17T15:19:50.933449Z",
-                "2025-04-18T19:07:34.446032Z",
-                "2025-04-19T01:33:37.431446Z",
-                "2025-04-19T20:18:33.439730Z",
-                "2025-04-20T07:03:25.121973Z",
-                "2025-04-20T10:33:26.985483Z",
-                "2025-04-23T15:07:44.283895Z"
-            ]
-        },
-        {
-            "id": "86448b3da09473fccf33b7e5a71f2253",
-            "source": "spacenews",
-            "text": "Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities",
-            "source_link": "https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.839076Z",
-            "shown_at": [
-                "2025-04-17T13:53:44.509312Z",
-                "2025-04-18T21:27:44.706979Z",
-                "2025-04-19T23:55:29.419637Z",
-                "2025-04-20T19:55:33.602710Z",
-                "2025-04-24T02:25:31.307526Z"
-            ]
-        },
-        {
-            "id": "feee70b6eb3158c6aa349b1da177052c",
-            "source": "spacenews",
-            "text": "Mission team details complex rescue of Chinese lunar spacecraft",
-            "source_link": "https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.839001Z",
-            "shown_at": [
-                "2025-04-17T13:39:31.815739Z",
-                "2025-04-18T22:42:11.544446Z"
-            ]
-        },
-        {
-            "id": "0d1040ccc543a4c1299f72cd93d9bfe4",
-            "source": "spacenews",
-            "text": "Texas Space Commission awards $26 million to five companies",
-            "source_link": "https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.838923Z",
-            "shown_at": [
-                "2025-04-17T13:25:35.273765Z",
-                "2025-04-19T22:43:26.278143Z",
-                "2025-04-23T20:49:41.927548Z",
-                "2025-04-23T22:41:34.602795Z"
-            ]
-        },
-        {
-            "id": "9b46517b6b2634e552535f504d0f440a",
-            "source": "spacenews",
-            "text": "U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide",
-            "source_link": "https://spacenews.com/u-s-space-force-lays-out-battle-plan-for-space-in-new-warfighting-guide/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T13:09:24.838817Z",
-            "shown_at": [
-                "2025-04-17T13:09:25.507098Z",
-                "2025-04-18T15:29:31.719346Z",
-                "2025-04-19T00:23:31.298966Z",
-                "2025-04-20T03:30:03.154673Z",
-                "2025-04-22T20:09:59.345132Z"
-            ]
-        },
-        {
-            "id": "c64f0ae39d24d81c66b3935db7761912",
-            "source": "breaking_defense",
-            "text": "Space Force’s new ‘warfighting framework’ says ‘space superiority’ is basis of US military power",
-            "source_link": "https://breakingdefense.com/2025/04/space-forces-new-warfighting-framework-says-space-superiority-is-basis-of-us-military-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T12:11:44.240417Z",
-            "shown_at": [
-                "2025-04-17T12:11:44.895942Z",
-                "2025-04-18T07:51:33.796367Z",
-                "2025-04-18T18:37:49.297840Z",
-                "2025-04-18T23:41:32.460835Z",
-                "2025-04-19T03:11:36.992173Z",
-                "2025-04-19T09:11:34.054760Z",
-                "2025-04-19T15:05:25.184711Z",
-                "2025-04-20T01:50:01.060843Z",
-                "2025-04-20T13:31:58.044712Z",
-                "2025-04-20T18:32:07.786443Z",
-                "2025-04-21T04:03:25.917545Z",
-                "2025-04-21T07:41:33.282952Z",
-                "2025-04-22T17:02:18.474904Z",
-                "2025-04-22T18:13:28.018601Z",
-                "2025-04-22T19:25:36.140271Z",
-                "2025-04-22T20:37:47.300734Z",
-                "2025-04-23T00:27:38.769566Z",
-                "2025-04-23T01:51:45.444638Z",
-                "2025-04-23T04:27:30.255450Z",
-                "2025-04-23T06:49:52.123603Z",
-                "2025-04-23T10:02:10.344051Z",
-                "2025-04-23T18:13:44.826094Z",
-                "2025-04-23T20:07:39.172627Z",
-                "2025-04-23T22:55:31.753329Z",
-                "2025-04-24T01:43:23.310651Z",
-                "2025-04-24T04:35:27.926168Z",
-                "2025-04-24T06:27:40.695666Z",
-                "2025-04-24T11:51:31.812434Z"
-            ]
-        },
-        {
-            "id": "e94fff745f632dcd042e758fedc081fc",
-            "source": "nyt",
-            "text": "Astronomers Detect a Signature of Life on a Distant Planet",
-            "source_link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-17T04:41:29.685556Z",
-            "shown_at": [
-                "2025-04-17T04:41:30.207398Z",
-                "2025-04-17T14:21:47.851771Z",
-                "2025-04-19T09:41:46.339318Z",
-                "2025-04-19T21:47:43.705201Z",
-                "2025-04-20T00:09:10.908398Z",
-                "2025-04-20T08:27:42.326627Z",
-                "2025-04-20T16:39:04.412176Z",
-                "2025-04-20T20:09:25.005760Z",
-                "2025-04-21T00:55:41.704107Z",
-                "2025-04-21T18:09:55.402690Z",
-                "2025-04-23T08:35:54.904194Z",
-                "2025-04-23T10:17:50.193492Z",
-                "2025-04-23T16:47:38.596980Z",
-                "2025-04-23T17:46:08.351724Z",
-                "2025-04-23T18:43:27.498959Z",
-                "2025-04-23T22:27:39.436200Z",
-                "2025-04-23T23:23:37.428967Z",
-                "2025-04-24T04:07:41.318337Z"
-            ]
-        },
-        {
-            "id": "2322bb236f0b797fecad5a2622000b2e",
-            "source": "spacenews",
-            "text": "Minotaur IV rocket launches spy payloads for National Reconnaissance Office",
-            "source_link": "https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T23:21:27.308398Z",
-            "shown_at": [
-                "2025-04-16T23:21:28.008545Z",
-                "2025-04-18T09:31:57.389208Z",
-                "2025-04-19T02:43:28.250032Z",
-                "2025-04-20T04:41:54.339146Z",
-                "2025-04-20T11:45:36.445011Z"
-            ]
-        },
-        {
-            "id": "79e1aa17b39dc19c568641eefea8c191",
-            "source": "spacenews",
-            "text": "Space Force eases entry for commercial firms with layered launch standards",
-            "source_link": "https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T20:45:50.369384Z",
-            "shown_at": [
-                "2025-04-16T21:00:01.986062Z",
-                "2025-04-18T04:47:24.979480Z",
-                "2025-04-21T03:07:32.975659Z"
-            ]
-        },
-        {
-            "id": "dedc0fd6a51cd511920e72c059aa136d",
-            "source": "spacenews",
-            "text": "Ground twin built for Boeing’s 2026 quantum satellite demo",
-            "source_link": "https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-16T20:45:50.369328Z",
-            "shown_at": [
-                "2025-04-16T20:45:50.975251Z",
-                "2025-04-17T19:19:44.856532Z",
-                "2025-04-21T05:29:40.537523Z",
-                "2025-04-21T22:27:32.071848Z",
-                "2025-04-23T11:43:26.533600Z"
-            ]
-        },
-        {
-            "id": "c2f145206ded69cd233e519940cabe99",
-            "source": "spacenews",
-            "text": "Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis",
-            "source_link": "https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T08:07:40.602553Z",
-            "shown_at": [
-                "2025-06-26T08:07:41.286243Z",
-                "2025-06-26T20:51:32.272024Z"
-            ]
-        },
-        {
-            "id": "7c4667771470e6b77901639df3ca1327",
-            "source": "spacenews",
-            "text": "NASA’s acting leadership planning new agency structure",
-            "source_link": "https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T11:13:40.362148Z",
-            "shown_at": [
-                "2025-06-26T11:13:41.032178Z"
-            ]
-        },
-        {
-            "id": "b0cc82d38dd89edd0342b602aa6470a7",
-            "source": "spacenews",
-            "text": "First ‘FireSat’ satellite delivers thermal images",
-            "source_link": "https://spacenews.com/first-firesat-satellite-delivers-thermal-images/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T11:13:40.362207Z",
-            "shown_at": [
-                "2025-06-26T11:27:40.293276Z"
-            ]
-        },
-        {
-            "id": "8de5c9c55235f5a51a1d89e5d27ffc82",
-            "source": "spacenews",
-            "text": "Deep tech is driving the next frontier in in-flight connectivity",
-            "source_link": "https://spacenews.com/deep-tech-is-driving-the-next-frontier-in-in-flight-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T13:07:37.244273Z",
-            "shown_at": [
-                "2025-06-26T13:07:38.021249Z"
-            ]
-        },
-        {
-            "id": "83007955deb13a761bddc89b18534bf8",
-            "source": "spacenews",
-            "text": "Technology safeguards agreement enables Firefly launches from Sweden",
-            "source_link": "https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T16:47:44.310565Z",
-            "shown_at": [
-                "2025-06-26T16:47:45.220549Z"
-            ]
-        },
-        {
-            "id": "bf8a578797fc6c33c3818446b9d256d2",
-            "source": "nyt",
-            "text": "Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation",
-            "source_link": "https://www.nytimes.com/2025/06/26/us/spacex-explosion-debris-mexico-investigation.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T17:15:33.680924Z",
-            "shown_at": [
-                "2025-06-26T17:15:34.301311Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-34",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-28T04:26:00.000Z",
-            "time_remaining": "1d 04h 34m",
-            "fetched_datetime": "2025-06-26T18:29:29.680478Z",
-            "shown_at": [
-                "2025-06-26T18:29:30.283147Z",
-                "2025-06-26T18:31:50.369134Z",
-                "2025-06-26T18:33:45.694977Z",
-                "2025-06-26T18:35:36.939641Z",
-                "2025-06-26T18:37:57.578466Z",
-                "2025-06-26T18:39:33.324618Z",
-                "2025-06-26T19:27:42.758886Z",
-                "2025-06-26T19:29:47.414905Z",
-                "2025-06-26T19:32:02.048299Z",
-                "2025-06-26T19:33:35.000261Z",
-                "2025-06-26T19:35:35.039671Z",
-                "2025-06-26T19:37:24.705204Z",
-                "2025-06-26T19:39:25.678153Z",
-                "2025-06-26T20:23:44.242480Z",
-                "2025-06-26T20:25:41.278976Z",
-                "2025-06-26T20:27:33.177616Z",
-                "2025-06-26T20:29:47.989473Z",
-                "2025-06-26T20:31:52.836630Z",
-                "2025-06-26T20:33:29.434608Z",
-                "2025-06-26T20:35:36.973028Z",
-                "2025-06-26T21:33:31.949300Z",
-                "2025-06-26T21:35:24.830201Z",
-                "2025-06-26T21:37:32.526330Z",
-                "2025-06-26T21:39:40.168810Z",
-                "2025-06-26T21:41:17.423728Z",
-                "2025-06-26T21:43:48.864793Z",
-                "2025-06-26T21:45:23.275526Z",
-                "2025-06-26T22:43:29.451288Z",
-                "2025-06-26T22:45:27.779189Z",
-                "2025-06-26T22:47:35.588458Z",
-                "2025-06-26T22:49:24.956825Z",
-                "2025-06-26T22:51:33.747388Z",
-                "2025-06-26T22:53:31.610430Z",
-                "2025-06-26T22:55:29.296079Z",
-                "2025-06-26T23:39:36.133369Z",
-                "2025-06-26T23:41:41.815890Z",
-                "2025-06-26T23:43:37.772563Z",
-                "2025-06-26T23:45:35.212562Z",
-                "2025-06-26T23:47:35.973749Z",
-                "2025-06-26T23:49:28.066390Z",
-                "2025-06-26T23:51:27.351568Z"
-            ]
-        },
-        {
-            "id": "95adfc67d7854fa48c9623696efba6f7",
-            "source": "spacenews",
-            "text": "Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget",
-            "source_link": "https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T18:56:16.392746Z",
-            "shown_at": [
-                "2025-06-26T18:56:17.445416Z"
-            ]
-        },
-        {
-            "id": "b4d9abcea56c63f662f5cc8fb5309eea",
-            "source": "nyt",
-            "text": "Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee",
-            "source_link": "https://www.nytimes.com/2025/06/26/us/fire-ball-south-carolina-georgia-tennessee.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T19:12:10.907978Z",
-            "shown_at": [
-                "2025-06-26T19:12:11.983939Z",
-                "2025-06-26T22:02:02.919940Z"
-            ]
-        },
-        {
-            "id": "e9e77d67e2a74886858e41ffb917073c",
-            "source": "spacenews",
-            "text": "Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees",
-            "source_link": "https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T19:55:54.850166Z",
-            "shown_at": [
-                "2025-06-26T19:55:55.889737Z"
-            ]
-        },
-        {
-            "id": "04972f8032882e6b1b07f3a89abdd2c4",
-            "source": "breaking_defense",
-            "text": "Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay",
-            "source_link": "https://breakingdefense.com/2025/06/space-force-ponders-shakeup-to-leo-satellite-strategy-potentially-hiring-spacex-for-data-relay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T21:19:44.956077Z",
-            "shown_at": [
-                "2025-06-26T21:19:45.916083Z"
-            ]
-        },
-        {
-            "id": "2b2e41a7934e26ab279810f04fca2a27",
-            "source": "spacenews",
-            "text": "Pentagon to consider SpaceX alternative for Space Force satellite program",
-            "source_link": "https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T22:29:32.257169Z",
-            "shown_at": [
-                "2025-06-26T22:29:32.778399Z"
             ]
         }
     ]
