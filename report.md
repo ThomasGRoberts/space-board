@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 25 | 47 |
+| breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 171 | 209 |
+| supercluster | 0 | 1 | 169 | 209 |
 
 # Shown Order
 
@@ -4944,3 +4944,4 @@
 - **Jun 27, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 11:21 PM** - EchoStar delays bankruptcy threat after Trump pushes for FCC resolution (spacenews)
 - **Jun 27, 11:35 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
+- **Jun 27, 11:49 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
