@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 54 |
-| breaking_defense | 1 | 1 | 24 | 46 |
+| breaking_defense | 1 | 1 | 25 | 47 |
 | nyt | 1 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 167 | 167 |
 
@@ -4882,3 +4882,4 @@
 - **Jun 27, 05:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 05:13 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jun 27, 05:27 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jun 27, 05:41 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
