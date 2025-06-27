@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 26 | 53 |
+| spacenews | 8 | 14 | 27 | 54 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 153 | 153 |
@@ -4861,3 +4861,4 @@
 - **Jun 27, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 03:07 PM** - Threatening the endless frontier of U.S. science (spacenews)
 - **Jun 27, 03:21 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 27, 03:35 PM** - New SLS booster design suffers anomaly during test (spacenews)

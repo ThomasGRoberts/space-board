@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f9159e6c84b4b41b41ab08d2e0ab062",
+    "trigger_count": 0,
+    "current_item_id": "4f18ce866e57a451255aa0838fa7bfcc",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10389,6 +10389,18 @@
             "fetched_datetime": "2025-06-27T13:15:29.322916Z",
             "shown_at": [
                 "2025-06-27T13:15:29.992075Z"
+            ]
+        },
+        {
+            "id": "4f18ce866e57a451255aa0838fa7bfcc",
+            "source": "spacenews",
+            "text": "New SLS booster design suffers anomaly during test",
+            "source_link": "https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T15:35:12.836212Z",
+            "shown_at": [
+                "2025-06-27T15:35:13.400492Z"
             ]
         }
     ]
