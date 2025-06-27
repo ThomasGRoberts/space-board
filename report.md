@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 52 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 90 | 90 |
 
@@ -4769,3 +4769,4 @@
 - **Jun 27, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 06:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 06:25 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
+- **Jun 27, 06:39 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
