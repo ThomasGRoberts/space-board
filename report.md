@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 168 | 195 |
+| supercluster | 0 | 1 | 169 | 196 |
 
 # Shown Order
 
@@ -4925,3 +4925,4 @@
 - **Jun 27, 09:29 PM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
 - **Jun 27, 09:43 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 27, 09:57 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jun 27, 10:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
