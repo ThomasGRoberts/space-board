@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 55 |
-| breaking_defense | 2 | 2 | 25 | 47 |
+| breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
 | supercluster | 0 | 1 | 168 | 188 |
 
@@ -4914,3 +4914,4 @@
 - **Jun 27, 08:19 PM** - A strategy for peaceful Golden Dome development (spacenews)
 - **Jun 27, 08:33 PM** - EchoStar delays bankruptcy threat after Trump pushes for FCC resolution (spacenews)
 - **Jun 27, 08:47 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 27, 09:01 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
