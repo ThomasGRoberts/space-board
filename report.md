@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 27 | 55 |
 | breaking_defense | 2 | 2 | 26 | 48 |
-| nyt | 1 | 2 | 25 | 47 |
-| supercluster | 0 | 1 | 170 | 176 |
+| nyt | 0 | 2 | 24 | 47 |
+| supercluster | 0 | 1 | 171 | 177 |
 
 # Shown Order
 
@@ -4896,3 +4896,4 @@
 - **Jun 27, 06:55 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 27, 07:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 07:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 07:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
