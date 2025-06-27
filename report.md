@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 26 | 51 |
+| spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 5 | 23 | 47 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -4720,3 +4720,4 @@
 - **Jun 27, 01:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 01:45 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 27, 01:59 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 27, 02:13 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
