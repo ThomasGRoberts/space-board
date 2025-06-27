@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 169 | 182 |
+| supercluster | 0 | 1 | 170 | 183 |
 
 # Shown Order
 
@@ -4905,3 +4905,4 @@
 - **Jun 27, 07:37 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 27, 07:51 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 08:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
