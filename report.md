@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 29 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
-| nyt | 0 | 2 | 24 | 47 |
+| nyt | 0 | 2 | 25 | 48 |
 | supercluster | 0 | 1 | 170 | 195 |
 
 # Shown Order
@@ -4923,3 +4923,4 @@
 - **Jun 27, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 09:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 09:29 PM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
+- **Jun 27, 09:43 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
