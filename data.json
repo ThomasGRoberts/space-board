@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "68b9910ca6e368cd42b1061c575561ee",
+    "trigger_count": 0,
+    "current_item_id": "9b2c48e26892f1da369cd767675a3e23",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10433,6 +10433,18 @@
             "fetched_datetime": "2025-06-27T16:17:35.251263Z",
             "shown_at": [
                 "2025-06-27T16:17:35.953860Z"
+            ]
+        },
+        {
+            "id": "9b2c48e26892f1da369cd767675a3e23",
+            "source": "breaking_defense",
+            "text": "DARPA’s DRACO nuclear propulsion project ROARs no more",
+            "source_link": "https://breakingdefense.com/2025/06/darpas-draco-nuclear-propulsion-project-roars-no-more/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T17:55:38.872821Z",
+            "shown_at": [
+                "2025-06-27T17:55:40.028609Z"
             ]
         }
     ]
