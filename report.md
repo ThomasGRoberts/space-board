@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 51 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -4729,3 +4729,4 @@
 - **Jun 27, 02:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 02:41 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 27, 02:55 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
