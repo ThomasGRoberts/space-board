@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 168 | 202 |
+| supercluster | 0 | 1 | 169 | 203 |
 
 # Shown Order
 
@@ -4935,3 +4935,4 @@
 - **Jun 27, 10:25 PM** - Airbus says space business turnaround going well (spacenews)
 - **Jun 27, 10:39 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 27, 10:53 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 27, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
