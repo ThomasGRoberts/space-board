@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 26 | 54 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 2 | 3 | 24 | 47 |
-| supercluster | 1 | 1 | 160 | 160 |
+| supercluster | 1 | 1 | 161 | 161 |
 
 # Shown Order
 
@@ -4873,3 +4873,4 @@
 - **Jun 27, 04:17 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
 - **Jun 27, 04:31 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 27, 04:45 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 27, 04:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
