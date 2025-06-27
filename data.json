@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "9ffbc84b751fdc464e5a452b13e4168e",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10409,6 +10409,18 @@
             "fetched_datetime": "2025-06-27T15:35:12.836212Z",
             "shown_at": [
                 "2025-06-27T15:35:13.400492Z"
+            ]
+        },
+        {
+            "id": "9ffbc84b751fdc464e5a452b13e4168e",
+            "source": "spacenews",
+            "text": "The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members",
+            "source_link": "https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T16:17:35.251263Z",
+            "shown_at": [
+                "2025-06-27T16:17:35.953860Z"
             ]
         }
     ]

@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 26 | 54 |
+| spacenews | 9 | 15 | 27 | 55 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 2 | 3 | 24 | 47 |
+| nyt | 2 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 160 | 160 |
 
 # Shown Order
@@ -4870,3 +4870,4 @@
 - **Jun 27, 04:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 04:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 04:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 04:17 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
