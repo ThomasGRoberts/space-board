@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 2 | 5 | 23 | 47 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -4732,3 +4732,4 @@
 - **Jun 27, 02:55 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 27, 03:09 AM** - Pentagon struggles to build unified satellite network  (spacenews)
 - **Jun 27, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 03:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
