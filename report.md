@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 4 | 23 | 46 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -4751,3 +4751,4 @@
 - **Jun 27, 04:33 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 27, 04:47 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 27, 05:01 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)
+- **Jun 27, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
