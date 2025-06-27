@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 54 |
 | breaking_defense | 2 | 2 | 26 | 48 |
-| nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 170 | 181 |
+| nyt | 0 | 2 | 25 | 48 |
+| supercluster | 0 | 1 | 169 | 181 |
 
 # Shown Order
 
@@ -4902,3 +4902,4 @@
 - **Jun 27, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 07:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 07:23 PM** - Atlas 5 launches second set of Project Kuiper satellites (spacenews)
+- **Jun 27, 07:37 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
