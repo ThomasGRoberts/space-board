@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "bf5076671278774542068a29f0f8b0cb",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10356,6 +10356,18 @@
             "shown_at": [
                 "2025-06-27T11:49:50.220390Z",
                 "2025-06-27T12:45:31.230169Z"
+            ]
+        },
+        {
+            "id": "bf5076671278774542068a29f0f8b0cb",
+            "source": "spacenews",
+            "text": "All eyes on the moon: sharing information for lunar peace, safety and sustainability",
+            "source_link": "https://spacenews.com/all-eyes-on-the-moon-sharing-information-for-lunar-peace-safety-and-sustainability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T13:15:29.322916Z",
+            "shown_at": [
+                "2025-06-27T13:15:29.992075Z"
             ]
         }
     ]
