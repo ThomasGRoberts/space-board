@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 2 | 3 | 23 | 47 |
+| nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 132 | 132 |
 
 # Shown Order
@@ -4829,3 +4829,4 @@
 - **Jun 27, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 12:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 12:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 12:17 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
