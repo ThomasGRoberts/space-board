@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 29 | 55 |
 | breaking_defense | 2 | 2 | 25 | 48 |
-| nyt | 0 | 2 | 24 | 47 |
+| nyt | 0 | 2 | 25 | 48 |
 | supercluster | 0 | 1 | 168 | 188 |
 
 # Shown Order
@@ -4913,3 +4913,4 @@
 - **Jun 27, 08:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 08:19 PM** - A strategy for peaceful Golden Dome development (spacenews)
 - **Jun 27, 08:33 PM** - EchoStar delays bankruptcy threat after Trump pushes for FCC resolution (spacenews)
+- **Jun 27, 08:47 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
