@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 27 | 53 |
+| spacenews | 7 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -4783,3 +4783,4 @@
 - **Jun 27, 07:51 AM** - Space Inventor Launches First Danish Arctic Satellite (spacenews)
 - **Jun 27, 08:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 08:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 08:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
