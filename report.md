@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 27 | 54 |
+| spacenews | 6 | 13 | 28 | 55 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
 | supercluster | 0 | 1 | 175 | 188 |
@@ -4911,3 +4911,4 @@
 - **Jun 27, 08:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 08:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 08:19 PM** - A strategy for peaceful Golden Dome development (spacenews)
