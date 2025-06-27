@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-27T00:01:58.217514+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4be5dfd317c8a78de361b7318443412e",
+    "trigger_count": 0,
+    "current_item_id": "a16ca01882aeb9c2603d427667b4edac",
     "data": [
         {
             "id": "2b2e41a7934e26ab279810f04fca2a27",
@@ -10327,6 +10327,18 @@
             "fetched_datetime": "2025-06-27T09:43:28.506577Z",
             "shown_at": [
                 "2025-06-27T09:43:29.040259Z"
+            ]
+        },
+        {
+            "id": "a16ca01882aeb9c2603d427667b4edac",
+            "source": "spacenews",
+            "text": "Rocket Lab launches HawkEye 360 satellites",
+            "source_link": "https://spacenews.com/rocket-lab-launches-hawkeye-360-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-27T11:49:49.624473Z",
+            "shown_at": [
+                "2025-06-27T11:49:50.220390Z"
             ]
         }
     ]

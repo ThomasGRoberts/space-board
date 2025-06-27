@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 25 | 52 |
+| spacenews | 7 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 125 | 125 |
@@ -4821,3 +4821,4 @@
 - **Jun 27, 11:07 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 27, 11:21 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 27, 11:35 AM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
+- **Jun 27, 11:49 AM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
