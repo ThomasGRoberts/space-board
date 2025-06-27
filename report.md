@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 54 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 168 | 181 |
+| supercluster | 0 | 1 | 169 | 182 |
 
 # Shown Order
 
@@ -4904,3 +4904,4 @@
 - **Jun 27, 07:23 PM** - Atlas 5 launches second set of Project Kuiper satellites (spacenews)
 - **Jun 27, 07:37 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 27, 07:51 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 27, 08:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
