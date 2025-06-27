@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 2 | 5 | 23 | 47 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4701,3 +4701,4 @@
 - **Jun 26, 11:53 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 27, 12:07 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 27, 12:21 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
+- **Jun 27, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
