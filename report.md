@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 4 | 23 | 47 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -4771,3 +4771,4 @@
 - **Jun 27, 06:25 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 27, 06:39 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 27, 06:53 AM** - Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S. (spacenews)
+- **Jun 27, 07:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
