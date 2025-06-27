@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 26 | 51 |
+| spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 2 | 4 | 23 | 47 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -4750,3 +4750,4 @@
 - **Jun 27, 04:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 04:33 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 27, 04:47 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 27, 05:01 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)
