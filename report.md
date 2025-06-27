@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | nyt | 2 | 5 | 23 | 47 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4712,3 +4712,4 @@
 - **Jun 27, 01:03 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 01:17 AM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
 - **Jun 27, 01:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 01:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
