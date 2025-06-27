@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 2 | 3 | 23 | 48 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 
 # Shown Order
 
@@ -4811,3 +4811,4 @@
 - **Jun 27, 10:11 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 27, 10:25 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 10:39 AM** - The key to Golden Dome’s success: make it usable (spacenews)
+- **Jun 27, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
