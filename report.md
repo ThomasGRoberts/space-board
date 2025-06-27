@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 26 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 2 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 118 | 118 |
 
@@ -4809,3 +4809,4 @@
 - **Jun 27, 10:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 10:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 10:11 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jun 27, 10:25 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
