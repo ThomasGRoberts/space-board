@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 26 | 48 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 170 | 197 |
+| supercluster | 0 | 1 | 171 | 198 |
 
 # Shown Order
 
@@ -4927,3 +4927,4 @@
 - **Jun 27, 09:57 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 27, 10:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 10:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
