@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 27 | 54 |
+| spacenews | 7 | 14 | 28 | 55 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
 | supercluster | 0 | 1 | 175 | 181 |
@@ -4901,3 +4901,4 @@
 - **Jun 27, 07:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 07:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 07:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 07:23 PM** - Atlas 5 launches second set of Project Kuiper satellites (spacenews)
