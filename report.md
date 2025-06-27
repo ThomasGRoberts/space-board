@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 26 | 48 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 170 | 204 |
+| supercluster | 0 | 1 | 171 | 205 |
 
 # Shown Order
 
@@ -4937,3 +4937,4 @@
 - **Jun 27, 10:53 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 11:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 11:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
