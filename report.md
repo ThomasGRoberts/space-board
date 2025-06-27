@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 27 | 55 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 1 | 2 | 25 | 47 |
-| supercluster | 0 | 1 | 169 | 175 |
+| supercluster | 0 | 1 | 170 | 176 |
 
 # Shown Order
 
@@ -4895,3 +4895,4 @@
 - **Jun 27, 06:39 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 27, 06:55 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 27, 07:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 07:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
