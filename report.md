@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 26 | 54 |
+| spacenews | 8 | 14 | 27 | 55 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 2 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 167 | 167 |
@@ -4880,3 +4880,4 @@
 - **Jun 27, 05:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 05:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 27, 05:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 27, 05:13 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
