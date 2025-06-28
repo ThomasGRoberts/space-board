@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
-| nyt | 0 | 2 | 24 | 47 |
+| nyt | 0 | 2 | 25 | 48 |
 | supercluster | 0 | 1 | 175 | 216 |
 
 # Shown Order
@@ -4831,3 +4831,4 @@
 - **Jun 28, 12:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 12:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 12:17 AM** - A strategy for peaceful Golden Dome development (spacenews)
+- **Jun 28, 12:31 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
