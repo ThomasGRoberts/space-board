@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 51 |
+| spacenews | 6 | 12 | 27 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -4672,3 +4672,4 @@
 - **Jun 28, 11:02 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 28, 11:15 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 28, 11:29 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
+- **Jun 28, 11:43 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)

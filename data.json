@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c2752e06d8b56ccdc929b82c1cc0ecdc",
+    "trigger_count": 0,
+    "current_item_id": "8aea997dfa0e2b8b7d31ed86b00bd782",
     "data": [
         {
             "id": "cd152e62647f45270200b4f5658f7d90",
@@ -10178,6 +10178,18 @@
             "fetched_datetime": "2025-06-28T09:09:33.598770Z",
             "shown_at": [
                 "2025-06-28T09:09:34.500641Z"
+            ]
+        },
+        {
+            "id": "8aea997dfa0e2b8b7d31ed86b00bd782",
+            "source": "spacenews",
+            "text": "SpaceX scores $81.6 million Space Force contract to launch weather satellite",
+            "source_link": "https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T11:43:45.404220Z",
+            "shown_at": [
+                "2025-06-28T11:43:47.131076Z"
             ]
         }
     ]
