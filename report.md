@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 3 | 23 | 47 |
+| nyt | 1 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
@@ -4710,3 +4710,4 @@
 - **Jun 28, 02:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 02:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 03:02 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
