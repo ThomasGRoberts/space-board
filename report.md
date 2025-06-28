@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 28 | 55 |
+| spacenews | 6 | 14 | 28 | 54 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 0 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4628,4 +4628,4 @@
 - **Jun 28, 03:37 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 28, 04:05 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jun 28, 04:19 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
-- **Jun 28, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 28, 04:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
