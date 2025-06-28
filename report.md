@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 25 | 51 |
+| spacenews | 3 | 11 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 3 | 24 | 48 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -4668,3 +4668,4 @@
 - **Jun 28, 04:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 04:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 04:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jun 28, 05:07 PM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
