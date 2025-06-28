@@ -5,7 +5,7 @@
 | spacenews | 3 | 12 | 25 | 52 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -4723,3 +4723,4 @@
 - **Jun 28, 03:58 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 28, 04:11 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jun 28, 04:25 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 28, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
