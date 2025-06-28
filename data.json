@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13934a7049dafbc2b230888ddc29fb2c",
+    "trigger_count": 0,
+    "current_item_id": "a3502319b219bd4b1c729b356d6226ac",
     "data": [
         {
             "id": "cd152e62647f45270200b4f5658f7d90",
@@ -10228,6 +10228,18 @@
             "fetched_datetime": "2025-06-28T11:43:45.404220Z",
             "shown_at": [
                 "2025-06-28T11:43:47.131076Z"
+            ]
+        },
+        {
+            "id": "a3502319b219bd4b1c729b356d6226ac",
+            "source": "spacenews",
+            "text": "Rocket Lab launches second Electron within 48 hours",
+            "source_link": "https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T15:15:21.460013Z",
+            "shown_at": [
+                "2025-06-28T15:15:22.136072Z"
             ]
         }
     ]
