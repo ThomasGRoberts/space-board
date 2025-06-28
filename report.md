@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 25 | 52 |
-| breaking_defense | 0 | 2 | 21 | 47 |
-| nyt | 1 | 2 | 23 | 47 |
-| supercluster | 1 | 1 | 0 | 0 |
+| spacenews | 2 | 8 | 18 | 46 |
+| breaking_defense | 0 | 1 | 16 | 41 |
+| nyt | 1 | 1 | 17 | 42 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4664,3 +4664,4 @@
 - **Jun 28, 04:25 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 28, 04:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 28, 05:07 PM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
+- **Jun 28, 11:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
