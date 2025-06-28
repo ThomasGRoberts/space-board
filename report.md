@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 25 | 51 |
+| spacenews | 4 | 11 | 26 | 52 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -4702,3 +4702,4 @@
 - **Jun 28, 02:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 02:05 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 28, 02:19 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jun 28, 02:33 PM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
