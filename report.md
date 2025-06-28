@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 46 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4643,3 +4643,4 @@
 - **Jun 28, 08:25 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
 - **Jun 28, 08:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 08:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
