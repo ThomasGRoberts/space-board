@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 26 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -4660,3 +4660,4 @@
 - **Jun 28, 10:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 10:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 10:05 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 28, 10:19 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
