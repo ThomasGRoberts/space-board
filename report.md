@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -4648,3 +4648,4 @@
 - **Jun 28, 08:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 08:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 08:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 08:55 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
