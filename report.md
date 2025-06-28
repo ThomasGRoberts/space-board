@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 52 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4705,3 +4705,4 @@
 - **Jun 28, 02:33 PM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
 - **Jun 28, 02:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 02:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 02:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
