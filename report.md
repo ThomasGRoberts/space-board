@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 27 | 55 |
+| spacenews | 6 | 14 | 27 | 54 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4633,4 +4633,4 @@
 - **Jun 28, 05:57 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 28, 06:26 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 28, 06:41 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
-- **Jun 28, 06:55 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
+- **Jun 28, 06:57 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
