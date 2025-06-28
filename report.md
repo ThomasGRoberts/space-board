@@ -5,7 +5,7 @@
 | spacenews | 4 | 12 | 25 | 52 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -4713,3 +4713,4 @@
 - **Jun 28, 03:02 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 28, 03:15 PM** - Rocket Lab launches second Electron within 48 hours (spacenews)
 - **Jun 28, 03:29 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 28, 03:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
