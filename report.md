@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 168 | 216 |
+| supercluster | 0 | 1 | 169 | 217 |
 
 # Shown Order
 
@@ -4833,3 +4833,4 @@
 - **Jun 28, 12:17 AM** - A strategy for peaceful Golden Dome development (spacenews)
 - **Jun 28, 12:31 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 28, 12:45 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 28, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
