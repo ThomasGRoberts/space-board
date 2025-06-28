@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 28 | 55 |
+| spacenews | 6 | 14 | 29 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
 | supercluster | 0 | 1 | 175 | 244 |
@@ -4870,3 +4870,4 @@
 - **Jun 28, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 04:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 04:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 28, 04:05 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
