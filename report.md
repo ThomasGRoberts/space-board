@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 27 | 54 |
-| breaking_defense | 1 | 2 | 25 | 47 |
-| nyt | 0 | 2 | 23 | 47 |
+| spacenews | 6 | 14 | 28 | 55 |
+| breaking_defense | 1 | 2 | 24 | 47 |
+| nyt | 0 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -4630,3 +4630,4 @@
 - **Jun 28, 04:19 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 28, 05:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 28, 05:29 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 28, 05:43 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
