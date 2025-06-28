@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 18 | 46 |
-| breaking_defense | 0 | 1 | 16 | 41 |
+| breaking_defense | 0 | 1 | 16 | 42 |
 | nyt | 1 | 1 | 17 | 42 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4666,3 +4666,4 @@
 - **Jun 28, 05:07 PM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
 - **Jun 28, 11:45 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 28, 11:47 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 28, 11:49 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
