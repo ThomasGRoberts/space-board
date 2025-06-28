@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 3 | 23 | 46 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4652,3 +4652,4 @@
 - **Jun 28, 09:09 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jun 28, 09:23 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 28, 09:37 AM** - NASA’s acting leadership planning new agency structure (spacenews)
+- **Jun 28, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
