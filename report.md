@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 27 | 54 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 45 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4635,3 +4635,4 @@
 - **Jun 28, 06:41 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jun 28, 07:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 07:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 07:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
