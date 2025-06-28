@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 25 | 48 |
-| nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 175 | 237 |
+| nyt | 0 | 2 | 25 | 48 |
+| supercluster | 0 | 1 | 174 | 237 |
 
 # Shown Order
 
@@ -4861,3 +4861,4 @@
 - **Jun 28, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 03:09 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 28, 03:23 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
