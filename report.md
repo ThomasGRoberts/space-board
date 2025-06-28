@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 26 | 48 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 168 | 223 |
+| supercluster | 0 | 1 | 169 | 224 |
 
 # Shown Order
 
@@ -4843,3 +4843,4 @@
 - **Jun 28, 01:16 AM** - Airbus says space business turnaround going well (spacenews)
 - **Jun 28, 01:31 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 28, 01:45 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 28, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
