@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 25 | 47 |
+| breaking_defense | 1 | 2 | 26 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
-| supercluster | 0 | 1 | 169 | 237 |
+| supercluster | 0 | 1 | 168 | 237 |
 
 # Shown Order
 
@@ -4862,3 +4862,4 @@
 - **Jun 28, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 03:09 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 28, 03:23 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jun 28, 03:37 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
