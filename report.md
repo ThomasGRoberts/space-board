@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 26 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 19 | 19 |
+| nyt | 1 | 3 | 23 | 46 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4662,3 +4662,4 @@
 - **Jun 28, 10:05 AM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 28, 10:19 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 28, 10:33 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
+- **Jun 28, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
