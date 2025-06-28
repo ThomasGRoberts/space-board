@@ -5,7 +5,6 @@
 | spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4628,16 +4627,8 @@
 - **Jun 28, 03:37 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 28, 04:05 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jun 28, 04:19 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
-- **Jun 28, 05:27 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 28, 05:29 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 28, 05:43 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
 - **Jun 28, 05:57 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
-- **Jun 28, 06:11 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:13 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:15 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:17 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:19 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
-- **Jun 28, 06:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 28, 06:26 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 28, 06:41 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)

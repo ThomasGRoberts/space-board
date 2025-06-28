@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 1,
+    "trigger_count": 2,
     "current_item_id": "8de5c9c55235f5a51a1d89e5d27ffc82",
     "data": [
         {
@@ -10115,27 +10115,6 @@
                 "2025-04-26T22:23:28.505729Z",
                 "2025-04-27T04:07:27.011583Z",
                 "2025-04-27T08:49:42.294936Z"
-            ]
-        },
-        {
-            "id": "747b700bea974ffa788483fa39758c5a",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Confidential Spacecraft",
-            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-28T06:45:00.000Z",
-            "time_remaining": "0d 00h 21m",
-            "fetched_datetime": "2025-06-28T05:27:37.580301Z",
-            "shown_at": [
-                "2025-06-28T05:27:38.674894Z",
-                "2025-06-28T06:11:39.474249Z",
-                "2025-06-28T06:13:25.594873Z",
-                "2025-06-28T06:15:07.412614Z",
-                "2025-06-28T06:17:55.778194Z",
-                "2025-06-28T06:19:54.956810Z",
-                "2025-06-28T06:21:31.812695Z",
-                "2025-06-28T06:23:28.802162Z"
             ]
         }
     ]
