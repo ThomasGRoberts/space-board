@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 2 | 22 | 46 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4641,3 +4641,4 @@
 - **Jun 28, 07:55 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 28, 08:09 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 28, 08:25 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
+- **Jun 28, 08:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
