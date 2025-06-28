@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "747b700bea974ffa788483fa39758c5a",
     "data": [
         {
             "id": "cd152e62647f45270200b4f5658f7d90",
@@ -10113,17 +10113,17 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "747b700bea974ffa788483fa39758c5a",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-34",
+            "text": "Rocket Lab Will Launch Confidential Spacecraft",
+            "source_link": "https://www.supercluster.com/launches/symphony-in-the-stars",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-28T04:26:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-28T05:25:47.906505Z",
+            "target_datetime": "2025-06-28T06:45:00.000Z",
+            "time_remaining": "0d 01h 17m",
+            "fetched_datetime": "2025-06-28T05:27:37.580301Z",
             "shown_at": [
-                "2025-06-28T05:25:49.005272Z"
+                "2025-06-28T05:27:38.674894Z"
             ]
         }
     ]
