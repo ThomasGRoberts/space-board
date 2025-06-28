@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f9159e6c84b4b41b41ab08d2e0ab062",
+    "trigger_count": 0,
+    "current_item_id": "5e812a44b5713a22296f1855fe4a7a2d",
     "data": [
         {
             "id": "cd152e62647f45270200b4f5658f7d90",
@@ -10144,6 +10144,18 @@
                 "2025-06-28T08:49:40.274749Z",
                 "2025-06-28T08:51:30.411098Z",
                 "2025-06-28T08:53:41.430484Z"
+            ]
+        },
+        {
+            "id": "5e812a44b5713a22296f1855fe4a7a2d",
+            "source": "nyt",
+            "text": "Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says",
+            "source_link": "https://www.nytimes.com/2025/06/28/science/sun-solar-system-collisions-stars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T09:09:33.598770Z",
+            "shown_at": [
+                "2025-06-28T09:09:34.500641Z"
             ]
         }
     ]
