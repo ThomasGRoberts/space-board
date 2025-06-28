@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -4674,3 +4674,4 @@
 - **Jun 28, 11:29 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
 - **Jun 28, 11:43 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
 - **Jun 28, 11:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 11:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
