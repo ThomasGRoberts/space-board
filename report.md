@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 26 | 52 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 3 | 23 | 47 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -4683,3 +4683,4 @@
 - **Jun 28, 12:12 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 28, 12:26 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 28, 12:41 PM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
+- **Jun 28, 12:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
