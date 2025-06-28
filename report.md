@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 25 | 51 |
-| breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 3 | 24 | 48 |
+| breaking_defense | 1 | 2 | 24 | 47 |
+| nyt | 1 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
@@ -4691,3 +4691,4 @@
 - **Jun 28, 01:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 01:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 01:09 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Jun 28, 01:23 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
