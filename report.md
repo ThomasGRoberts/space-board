@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 27 | 54 |
+| spacenews | 6 | 14 | 28 | 55 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -4640,3 +4640,4 @@
 - **Jun 28, 06:21 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 28, 06:23 AM** - Rocket Lab Will Launch Confidential Spacecraft (supercluster)
 - **Jun 28, 06:26 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 28, 06:41 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
