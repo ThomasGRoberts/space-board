@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 26 | 52 |
-| breaking_defense | 1 | 2 | 23 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | nyt | 1 | 3 | 23 | 47 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -4650,3 +4650,4 @@
 - **Jun 28, 08:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 08:55 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 28, 09:09 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jun 28, 09:23 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
