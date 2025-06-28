@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 25 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4664,4 +4664,3 @@
 - **Jun 28, 04:25 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 28, 04:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 28, 05:07 PM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
-- **Jun 28, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
