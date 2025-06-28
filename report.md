@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 55 |
-| breaking_defense | 1 | 2 | 26 | 48 |
+| breaking_defense | 1 | 2 | 25 | 48 |
 | nyt | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 1 | 170 | 218 |
+| supercluster | 0 | 1 | 171 | 219 |
 
 # Shown Order
 
@@ -4835,3 +4835,4 @@
 - **Jun 28, 12:45 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 28, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 28, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 28, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
