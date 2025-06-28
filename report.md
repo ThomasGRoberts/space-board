@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 26 | 53 |
+| spacenews | 5 | 13 | 26 | 52 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 1 | 3 | 23 | 46 |
+| nyt | 1 | 3 | 24 | 47 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -4669,3 +4669,4 @@
 - **Jun 28, 10:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 10:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jun 28, 11:02 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
