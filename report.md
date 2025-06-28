@@ -2,10 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 26 | 52 |
+| spacenews | 3 | 11 | 25 | 52 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 1 | 3 | 24 | 48 |
-| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4662,10 +4661,5 @@
 - **Jun 28, 03:58 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 28, 04:11 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jun 28, 04:25 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
-- **Jun 28, 04:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 28, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 28, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 28, 04:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jun 28, 04:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jun 28, 04:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 28, 05:07 PM** - The Exploration Company claims partial success of Mission Possible reentry spacecraft (spacenews)
