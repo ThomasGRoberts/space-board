@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 42 |
+| spacenews | 2 | 4 | 23 | 41 |
 | nyt | 0 | 1 | 23 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -4748,3 +4748,4 @@
 - **Jun 29, 11:03 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 29, 11:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
