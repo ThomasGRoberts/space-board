@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 18 | 42 |
 | nyt | 0 | 1 | 18 | 41 |
 | breaking_defense | 0 | 0 | 18 | 39 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4698,3 +4698,4 @@
 - **Jun 29, 06:19 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 29, 06:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 06:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
