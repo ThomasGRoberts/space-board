@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 41 |
 | nyt | 0 | 1 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 21 | 40 |
 | supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
@@ -4723,3 +4723,4 @@
 - **Jun 29, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 08:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 08:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 08:41 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
