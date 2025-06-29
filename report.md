@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 18 | 43 |
 | nyt | 0 | 1 | 17 | 41 |
-| breaking_defense | 0 | 1 | 17 | 40 |
+| breaking_defense | 0 | 1 | 18 | 41 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -4675,3 +4675,4 @@
 - **Jun 29, 01:59 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 02:01 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 02:03 PM** - Final H-2A launches Earth science satellite (spacenews)
+- **Jun 29, 02:17 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
