@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 | spacenews | 2 | 8 | 18 | 46 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 16 | 41 |
@@ -4632,3 +4632,4 @@
 - **Jun 28, 11:49 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 29, 12:03 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 29, 12:17 AM** - Isar Aerospace raises 150 million euros (spacenews)
+- **Jun 29, 12:31 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
