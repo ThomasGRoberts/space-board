@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 37 | 37 |
-| spacenews | 2 | 8 | 18 | 46 |
+| spacenews | 2 | 8 | 19 | 47 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 17 | 41 |
 
@@ -4681,3 +4681,4 @@
 - **Jun 29, 04:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 04:31 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 29, 04:45 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
+- **Jun 29, 04:59 AM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
