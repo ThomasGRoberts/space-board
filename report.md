@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 72 | 72 |
 | spacenews | 2 | 8 | 20 | 46 |
-| nyt | 0 | 1 | 18 | 41 |
+| nyt | 0 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 42 |
 
 # Shown Order
@@ -4730,3 +4730,4 @@
 - **Jun 29, 09:09 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 09:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 09:13 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 29, 09:27 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
