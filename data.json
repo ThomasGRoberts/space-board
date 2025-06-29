@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c945390398214ad13d1974e693389fb8",
+    "trigger_count": 0,
+    "current_item_id": "87297978ecf738de58e3a5d3bedb75d4",
     "data": [
         {
             "id": "a3502319b219bd4b1c729b356d6226ac",
@@ -10180,6 +10180,18 @@
             "fetched_datetime": "2025-06-29T15:39:08.838861Z",
             "shown_at": [
                 "2025-06-29T15:39:09.405234Z"
+            ]
+        },
+        {
+            "id": "87297978ecf738de58e3a5d3bedb75d4",
+            "source": "spacenews",
+            "text": "Blue Origin launches third New Shepard mission within three months",
+            "source_link": "https://spacenews.com/blue-origin-launches-third-new-shepard-mission-within-three-months/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-29T16:11:37.590921Z",
+            "shown_at": [
+                "2025-06-29T16:11:38.209038Z"
             ]
         }
     ]
