@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 | spacenews | 2 | 8 | 18 | 46 |
-| nyt | 1 | 1 | 18 | 42 |
+| nyt | 1 | 1 | 17 | 42 |
 | breaking_defense | 0 | 1 | 16 | 41 |
 
 # Shown Order
@@ -4644,3 +4644,4 @@
 - **Jun 29, 01:14 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
 - **Jun 29, 01:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 01:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 01:32 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
