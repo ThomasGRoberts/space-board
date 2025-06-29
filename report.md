@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 79 | 79 |
-| spacenews | 2 | 7 | 19 | 46 |
+| spacenews | 2 | 7 | 20 | 47 |
 | nyt | 0 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 41 |
 
@@ -4741,3 +4741,4 @@
 - **Jun 29, 10:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 10:09 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 29, 10:23 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jun 29, 10:37 AM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
