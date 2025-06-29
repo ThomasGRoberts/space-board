@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 86 | 86 |
 | spacenews | 2 | 7 | 20 | 46 |
-| nyt | 0 | 1 | 18 | 41 |
+| nyt | 0 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 42 |
 
 # Shown Order
@@ -4750,3 +4750,4 @@
 - **Jun 29, 11:02 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 11:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 11:05 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jun 29, 11:19 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
