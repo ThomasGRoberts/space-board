@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 23 | 42 |
 | nyt | 0 | 1 | 23 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -4747,3 +4747,4 @@
 - **Jun 29, 10:49 PM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
 - **Jun 29, 11:03 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 29, 11:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 11:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
