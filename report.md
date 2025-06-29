@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | spacenews | 1 | 7 | 19 | 46 |
 | nyt | 0 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 41 |
@@ -4752,3 +4752,4 @@
 - **Jun 29, 11:05 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jun 29, 11:19 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 29, 11:33 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
+- **Jun 29, 11:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
