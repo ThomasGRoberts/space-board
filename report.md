@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 21 | 39 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -4727,3 +4727,4 @@
 - **Jun 29, 08:55 PM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
 - **Jun 29, 09:09 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 29, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
