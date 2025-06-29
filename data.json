@@ -1,9 +1,60 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-28T00:01:38.755076+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
+    "trigger_count": 6,
     "current_item_id": "c945390398214ad13d1974e693389fb8",
     "data": [
+        {
+            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-33",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-06-29T12:30:00.000Z",
+            "time_remaining": "0d 12h 42m",
+            "fetched_datetime": "2025-06-28T23:45:37.057533Z",
+            "shown_at": [
+                "2025-06-28T23:45:37.569262Z",
+                "2025-06-28T23:47:23.823814Z"
+            ]
+        },
+        {
+            "id": "a3502319b219bd4b1c729b356d6226ac",
+            "source": "spacenews",
+            "text": "Rocket Lab launches second Electron within 48 hours",
+            "source_link": "https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T15:15:21.460013Z",
+            "shown_at": [
+                "2025-06-28T15:15:22.136072Z"
+            ]
+        },
+        {
+            "id": "8aea997dfa0e2b8b7d31ed86b00bd782",
+            "source": "spacenews",
+            "text": "SpaceX scores $81.6 million Space Force contract to launch weather satellite",
+            "source_link": "https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T11:43:45.404220Z",
+            "shown_at": [
+                "2025-06-28T11:43:47.131076Z"
+            ]
+        },
+        {
+            "id": "5e812a44b5713a22296f1855fe4a7a2d",
+            "source": "nyt",
+            "text": "Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says",
+            "source_link": "https://www.nytimes.com/2025/06/28/science/sun-solar-system-collisions-stars.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-28T09:09:33.598770Z",
+            "shown_at": [
+                "2025-06-28T09:09:34.500641Z"
+            ]
+        },
         {
             "id": "cd152e62647f45270200b4f5658f7d90",
             "source": "spacenews",
@@ -10074,127 +10125,6 @@
                 "2025-04-23T08:51:16.659510Z",
                 "2025-04-26T02:01:36.938392Z",
                 "2025-04-27T21:47:43.104512Z"
-            ]
-        },
-        {
-            "id": "e1ea3ba1e57b6a6472e117c9374357ce",
-            "source": "spacenews",
-            "text": "Taking ‘remote care’ to new heights — how space can shape the future of healthcare",
-            "source_link": "https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:37:47.894175Z",
-            "shown_at": [
-                "2025-04-21T13:37:49.167681Z",
-                "2025-04-21T16:13:40.404637Z",
-                "2025-04-25T15:07:40.694818Z",
-                "2025-04-25T16:05:31.296795Z",
-                "2025-04-27T07:39:39.262906Z",
-                "2025-04-27T19:55:45.276556Z"
-            ]
-        },
-        {
-            "id": "89727c8b039de286602653ce80161664",
-            "source": "spacenews",
-            "text": "NRO reaches milestone with over 200 satellites deployed in two years",
-            "source_link": "https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-20T16:25:39.768600Z",
-            "shown_at": [
-                "2025-04-20T16:25:41.444732Z",
-                "2025-04-23T21:45:36.248310Z",
-                "2025-04-24T07:09:50.174203Z",
-                "2025-04-25T08:21:44.862902Z",
-                "2025-04-25T22:15:51.742958Z",
-                "2025-04-27T02:51:39.284371Z"
-            ]
-        },
-        {
-            "id": "7016df82698e5562ead89cb9f0372f05",
-            "source": "nyt",
-            "text": "It’s Springtime on Polaris-9b, and the Exoflowers Are Blooming",
-            "source_link": "https://www.nytimes.com/2025/04/20/science/its-springtime-on-polaris-9b-and-the-exoflowers-are-blooming.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-20T15:29:43.599540Z",
-            "shown_at": [
-                "2025-04-20T15:29:44.600912Z",
-                "2025-04-22T16:47:32.192217Z",
-                "2025-04-22T23:59:30.302270Z",
-                "2025-04-23T07:40:03.285048Z",
-                "2025-04-24T05:03:41.998673Z",
-                "2025-04-24T05:59:39.172951Z",
-                "2025-04-24T07:53:25.746982Z",
-                "2025-04-24T12:20:18.343317Z",
-                "2025-04-24T14:17:42.890503Z",
-                "2025-04-24T21:07:36.851509Z",
-                "2025-04-24T23:14:29.188109Z",
-                "2025-04-25T01:13:35.422116Z",
-                "2025-04-25T03:21:27.916368Z",
-                "2025-04-25T06:13:44.464031Z",
-                "2025-04-25T11:45:34.838321Z",
-                "2025-04-25T17:31:49.166598Z",
-                "2025-04-25T18:27:30.403462Z",
-                "2025-04-26T08:51:39.148084Z",
-                "2025-04-26T12:39:47.935028Z",
-                "2025-04-26T14:33:35.511418Z",
-                "2025-04-26T17:21:31.181042Z",
-                "2025-04-26T19:17:53.824478Z",
-                "2025-04-26T22:23:28.505729Z",
-                "2025-04-27T04:07:27.011583Z",
-                "2025-04-27T08:49:42.294936Z"
-            ]
-        },
-        {
-            "id": "5e812a44b5713a22296f1855fe4a7a2d",
-            "source": "nyt",
-            "text": "Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says",
-            "source_link": "https://www.nytimes.com/2025/06/28/science/sun-solar-system-collisions-stars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T09:09:33.598770Z",
-            "shown_at": [
-                "2025-06-28T09:09:34.500641Z"
-            ]
-        },
-        {
-            "id": "8aea997dfa0e2b8b7d31ed86b00bd782",
-            "source": "spacenews",
-            "text": "SpaceX scores $81.6 million Space Force contract to launch weather satellite",
-            "source_link": "https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T11:43:45.404220Z",
-            "shown_at": [
-                "2025-06-28T11:43:47.131076Z"
-            ]
-        },
-        {
-            "id": "a3502319b219bd4b1c729b356d6226ac",
-            "source": "spacenews",
-            "text": "Rocket Lab launches second Electron within 48 hours",
-            "source_link": "https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T15:15:21.460013Z",
-            "shown_at": [
-                "2025-06-28T15:15:22.136072Z"
-            ]
-        },
-        {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-33",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-06-29T12:30:00.000Z",
-            "time_remaining": "0d 12h 42m",
-            "fetched_datetime": "2025-06-28T23:45:37.057533Z",
-            "shown_at": [
-                "2025-06-28T23:45:37.569262Z",
-                "2025-06-28T23:47:23.823814Z"
             ]
         }
     ]
