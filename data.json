@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
     "data": [
         {
@@ -10173,9 +10173,9 @@
             "source_link": "https://www.supercluster.com/launches/ns-33",
             "shown": false,
             "type": "launch",
-            "target_datetime": "2025-06-29T14:38:00.000Z",
+            "target_datetime": "2025-06-29T14:40:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-06-29T14:59:29.840107Z"
+            "fetched_datetime": "2025-06-29T15:01:59.819498Z"
         }
     ]
 }
