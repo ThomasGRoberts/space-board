@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 18 | 42 |
 | nyt | 0 | 1 | 18 | 41 |
 | breaking_defense | 0 | 0 | 18 | 39 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4697,3 +4697,4 @@
 - **Jun 29, 06:05 PM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
 - **Jun 29, 06:19 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 29, 06:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
