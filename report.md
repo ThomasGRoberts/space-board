@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 | spacenews | 2 | 8 | 18 | 46 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 16 | 41 |
@@ -4642,3 +4642,4 @@
 - **Jun 29, 12:46 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 29, 12:59 AM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 29, 01:14 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
+- **Jun 29, 01:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
