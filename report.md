@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 17 | 42 |
 | nyt | 0 | 1 | 17 | 40 |
 | breaking_defense | 0 | 1 | 16 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4676,3 +4676,4 @@
 - **Jun 29, 03:57 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 29, 04:11 PM** - Blue Origin launches third New Shepard mission within three months (spacenews)
 - **Jun 29, 04:25 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jun 29, 04:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
