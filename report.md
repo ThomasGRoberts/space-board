@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 | spacenews | 2 | 8 | 19 | 46 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 17 | 41 |
@@ -4692,3 +4692,4 @@
 - **Jun 29, 05:27 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 29, 05:41 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 29, 05:55 AM** - Maxar launches intelligence service focused on ‘persistent monitoring’ (spacenews)
+- **Jun 29, 06:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
