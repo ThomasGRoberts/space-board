@@ -5,7 +5,7 @@
 | spacenews | 1 | 5 | 16 | 41 |
 | nyt | 0 | 1 | 17 | 40 |
 | breaking_defense | 0 | 1 | 16 | 40 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4671,3 +4671,4 @@
 - **Jun 29, 02:03 PM** - Final H-2A launches Earth science satellite (spacenews)
 - **Jun 29, 02:17 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 29, 02:31 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 29, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)

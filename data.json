@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
-    "trigger_count": 5,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 6,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "a3502319b219bd4b1c729b356d6226ac",
@@ -10167,15 +10167,18 @@
             ]
         },
         {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-33",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-25",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-06-29T14:39:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-06-29T15:37:40.565515Z"
+            "target_datetime": "2025-07-01T05:52:00.000Z",
+            "time_remaining": "1d 14h 12m",
+            "fetched_datetime": "2025-06-29T15:39:08.838861Z",
+            "shown_at": [
+                "2025-06-29T15:39:09.405234Z"
+            ]
         }
     ]
 }
