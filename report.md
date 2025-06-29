@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 17 | 42 |
-| nyt | 0 | 1 | 16 | 40 |
+| nyt | 0 | 1 | 17 | 41 |
 | breaking_defense | 0 | 1 | 17 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4675,3 +4675,4 @@
 - **Jun 29, 03:41 PM** - The key to Golden Dome’s success: make it usable (spacenews)
 - **Jun 29, 03:57 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
 - **Jun 29, 04:11 PM** - Blue Origin launches third New Shepard mission within three months (spacenews)
+- **Jun 29, 04:25 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
