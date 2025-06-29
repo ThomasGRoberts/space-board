@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 | spacenews | 2 | 8 | 20 | 46 |
 | nyt | 1 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 41 |
@@ -4712,3 +4712,4 @@
 - **Jun 29, 07:21 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 29, 07:35 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 29, 07:49 AM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
+- **Jun 29, 08:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
