@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 16 | 41 |
+| spacenews | 1 | 5 | 17 | 42 |
 | nyt | 0 | 1 | 17 | 40 |
 | breaking_defense | 0 | 1 | 16 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4672,3 +4672,4 @@
 - **Jun 29, 02:17 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 29, 02:31 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 29, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 03:41 PM** - The key to Golden Dome’s success: make it usable (spacenews)
