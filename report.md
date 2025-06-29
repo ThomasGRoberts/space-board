@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 | spacenews | 2 | 8 | 19 | 46 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 17 | 41 |
@@ -4684,3 +4684,4 @@
 - **Jun 29, 04:59 AM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
 - **Jun 29, 05:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 05:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 05:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
