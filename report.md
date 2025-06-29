@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 79 | 79 |
 | spacenews | 2 | 7 | 20 | 46 |
 | nyt | 0 | 1 | 18 | 42 |
-| breaking_defense | 0 | 1 | 18 | 41 |
+| breaking_defense | 0 | 1 | 19 | 42 |
 
 # Shown Order
 
@@ -4739,3 +4739,4 @@
 - **Jun 29, 10:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 10:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 10:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 10:09 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
