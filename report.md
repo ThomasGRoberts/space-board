@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 22 | 42 |
 | nyt | 0 | 1 | 22 | 41 |
 | breaking_defense | 0 | 0 | 22 | 39 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -4736,3 +4736,4 @@
 - **Jun 29, 09:37 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 29, 09:51 PM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
 - **Jun 29, 10:07 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
+- **Jun 29, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
