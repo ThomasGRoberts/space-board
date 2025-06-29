@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 37 | 37 |
 | spacenews | 2 | 8 | 18 | 46 |
 | nyt | 1 | 1 | 17 | 42 |
-| breaking_defense | 0 | 1 | 16 | 41 |
+| breaking_defense | 0 | 1 | 17 | 42 |
 
 # Shown Order
 
@@ -4679,3 +4679,4 @@
 - **Jun 29, 04:25 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 04:27 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 04:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 04:31 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
