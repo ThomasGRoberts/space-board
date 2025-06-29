@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 88 | 88 |
-| spacenews | 1 | 7 | 19 | 46 |
+| supercluster | 1 | 1 | 89 | 89 |
+| spacenews | 1 | 6 | 19 | 45 |
 | nyt | 0 | 1 | 19 | 42 |
 | breaking_defense | 0 | 1 | 18 | 41 |
 
@@ -4754,3 +4754,4 @@
 - **Jun 29, 11:33 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
 - **Jun 29, 11:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 11:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 11:51 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
