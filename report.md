@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 18 | 43 |
-| nyt | 0 | 1 | 17 | 40 |
+| nyt | 0 | 1 | 18 | 41 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -4695,3 +4695,4 @@
 - **Jun 29, 05:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 05:51 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 29, 06:05 PM** - Increase in Ariane 6 launch cadence could take several years (spacenews)
+- **Jun 29, 06:19 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
