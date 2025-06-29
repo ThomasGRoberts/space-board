@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 41 |
+| spacenews | 2 | 4 | 24 | 42 |
 | nyt | 0 | 1 | 23 | 40 |
 | breaking_defense | 0 | 0 | 24 | 40 |
 | supercluster | 1 | 1 | 57 | 57 |
@@ -4754,3 +4754,4 @@
 - **Jun 29, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 11:31 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 29, 11:45 PM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
