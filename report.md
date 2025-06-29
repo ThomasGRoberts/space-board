@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 17 | 42 |
 | nyt | 0 | 1 | 17 | 40 |
 | breaking_defense | 0 | 1 | 17 | 40 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4687,3 +4687,4 @@
 - **Jun 29, 05:09 PM** - The key to Golden Dome’s success: make it usable (spacenews)
 - **Jun 29, 05:23 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 29, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 05:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
