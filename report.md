@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 | spacenews | 2 | 8 | 18 | 46 |
 | nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 16 | 41 |
@@ -4663,3 +4663,4 @@
 - **Jun 29, 02:51 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 29, 03:05 AM** - China launches ChinaSat-9C geostationary communications satellite (spacenews)
 - **Jun 29, 03:21 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 03:23 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
