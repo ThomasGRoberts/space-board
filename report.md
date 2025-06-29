@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 9 | 9 |
 | spacenews | 2 | 8 | 18 | 46 |
 | nyt | 1 | 1 | 17 | 42 |
-| breaking_defense | 0 | 1 | 16 | 41 |
+| breaking_defense | 0 | 1 | 16 | 42 |
 
 # Shown Order
 
@@ -4639,3 +4639,4 @@
 - **Jun 29, 12:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 12:42 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 12:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Jun 29, 12:46 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
