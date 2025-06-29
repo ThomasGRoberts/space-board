@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 22 | 41 |
+| spacenews | 2 | 4 | 23 | 42 |
 | nyt | 0 | 1 | 22 | 40 |
 | breaking_defense | 0 | 0 | 23 | 40 |
 | supercluster | 1 | 1 | 50 | 50 |
@@ -4744,3 +4744,4 @@
 - **Jun 29, 10:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 10:35 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jun 29, 10:49 PM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
