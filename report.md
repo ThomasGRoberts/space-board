@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 17 | 42 |
 | nyt | 0 | 1 | 17 | 40 |
-| breaking_defense | 0 | 1 | 16 | 39 |
+| breaking_defense | 0 | 1 | 17 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -4673,3 +4673,4 @@
 - **Jun 29, 02:31 PM** - Vera Rubin Scientists Reveal Telescope’s First Images (nyt)
 - **Jun 29, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 29, 03:41 PM** - The key to Golden Dome’s success: make it usable (spacenews)
+- **Jun 29, 03:57 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
