@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 0,
+    "current_item_id": "6ae5774d608dc7329247c8b0b87113f1",
     "data": [
         {
             "id": "a3502319b219bd4b1c729b356d6226ac",
@@ -10169,6 +10169,18 @@
                 "2025-06-29T13:57:57.546984Z",
                 "2025-06-29T13:59:43.087514Z",
                 "2025-06-29T14:01:46.225912Z"
+            ]
+        },
+        {
+            "id": "6ae5774d608dc7329247c8b0b87113f1",
+            "source": "spacenews",
+            "text": "Final H-2A launches Earth science satellite",
+            "source_link": "https://spacenews.com/final-h-2a-launches-earth-science-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-29T14:03:46.314148Z",
+            "shown_at": [
+                "2025-06-29T14:03:47.381915Z"
             ]
         }
     ]
