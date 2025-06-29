@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-29T00:01:59.176555+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
     "data": [
         {
@@ -10157,14 +10157,11 @@
             "source": "supercluster",
             "text": "Blue Origin Will Launch Crewed Suborbital Flight",
             "source_link": "https://www.supercluster.com/launches/ns-33",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-06-29T12:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-06-29T12:31:25.520615Z",
-            "shown_at": [
-                "2025-06-29T12:31:26.028304Z"
-            ]
+            "fetched_datetime": "2025-06-29T12:33:32.683145Z"
         }
     ]
 }

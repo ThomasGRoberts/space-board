@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 19 | 45 |
 | nyt | 0 | 1 | 19 | 42 |
-| breaking_defense | 0 | 1 | 18 | 42 |
-| supercluster | 1 | 1 | 1 | 1 |
+| breaking_defense | 0 | 1 | 18 | 41 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4668,4 +4668,3 @@
 - **Jun 29, 11:33 AM** - Lynk Global’s SPAC merger on the rocks (spacenews)
 - **Jun 29, 12:01 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 29, 12:15 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
-- **Jun 29, 12:31 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
