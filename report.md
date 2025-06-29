@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -4716,3 +4716,4 @@
 - **Jun 29, 07:45 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 29, 07:59 PM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
 - **Jun 29, 08:13 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 29, 08:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
