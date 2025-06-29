@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 19 | 42 |
 | nyt | 0 | 1 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 39 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -4707,3 +4707,4 @@
 - **Jun 29, 07:01 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
 - **Jun 29, 07:15 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 29, 07:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 29, 07:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
