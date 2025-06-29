@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 58 | 58 |
 | spacenews | 2 | 8 | 19 | 46 |
-| nyt | 1 | 1 | 19 | 41 |
+| nyt | 1 | 1 | 20 | 42 |
 | breaking_defense | 0 | 1 | 18 | 42 |
 
 # Shown Order
@@ -4710,3 +4710,4 @@
 - **Jun 29, 07:17 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 07:19 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 07:21 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
+- **Jun 29, 07:35 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
