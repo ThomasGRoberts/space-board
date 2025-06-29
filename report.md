@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 23 | 23 |
 | spacenews | 2 | 8 | 18 | 46 |
-| nyt | 1 | 1 | 17 | 41 |
+| nyt | 1 | 1 | 18 | 42 |
 | breaking_defense | 0 | 1 | 16 | 42 |
 
 # Shown Order
@@ -4660,3 +4660,4 @@
 - **Jun 29, 02:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 02:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Jun 29, 02:37 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jun 29, 02:51 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
