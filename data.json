@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04972f8032882e6b1b07f3a89abdd2c4",
+    "trigger_count": 0,
+    "current_item_id": "4a5f4c5fbed954b181317961532e7181",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10405,6 +10405,18 @@
             "fetched_datetime": "2025-06-30T12:31:53.917527Z",
             "shown_at": [
                 "2025-06-30T12:31:54.474172Z"
+            ]
+        },
+        {
+            "id": "4a5f4c5fbed954b181317961532e7181",
+            "source": "spacenews",
+            "text": "Space is hard. There is no excuse for pretending it’s easy.",
+            "source_link": "https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T13:13:45.257988Z",
+            "shown_at": [
+                "2025-06-30T13:13:46.609709Z"
             ]
         }
     ]
