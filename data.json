@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53b7c8092728f5fe0a63d5a6580d3374",
+    "trigger_count": 0,
+    "current_item_id": "427f956add5c931aa2ba92d5ec6c4dde",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10586,6 +10586,18 @@
             "fetched_datetime": "2025-06-30T21:59:56.240182Z",
             "shown_at": [
                 "2025-06-30T22:13:36.631149Z"
+            ]
+        },
+        {
+            "id": "427f956add5c931aa2ba92d5ec6c4dde",
+            "source": "spacenews",
+            "text": "Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring",
+            "source_link": "https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T22:43:26.732190Z",
+            "shown_at": [
+                "2025-06-30T22:43:27.288266Z"
             ]
         }
     ]

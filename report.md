@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 30 | 52 |
+| spacenews | 10 | 12 | 31 | 53 |
 | supercluster | 1 | 2 | 168 | 218 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 46 |
@@ -4979,3 +4979,4 @@
 - **Jun 30, 10:37 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 10:39 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 10:41 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jun 30, 10:43 PM** - Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring (spacenews)
