@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 27 | 46 |
+| spacenews | 5 | 7 | 28 | 47 |
 | supercluster | 1 | 2 | 174 | 197 |
 | nyt | 0 | 0 | 24 | 43 |
 | breaking_defense | 0 | 0 | 25 | 44 |
@@ -4948,3 +4948,4 @@
 - **Jun 30, 06:59 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 07:02 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jun 30, 07:17 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
+- **Jun 30, 07:31 PM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
