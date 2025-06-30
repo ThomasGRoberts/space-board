@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 42 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 | nyt | 0 | 1 | 23 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
 
@@ -4757,3 +4757,4 @@
 - **Jun 30, 12:27 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 30, 12:41 AM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jun 30, 12:55 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Jun 30, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
