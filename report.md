@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 44 |
 | supercluster | 1 | 1 | 127 | 127 |
-| nyt | 0 | 0 | 23 | 41 |
-| breaking_defense | 0 | 0 | 23 | 42 |
+| nyt | 0 | 0 | 24 | 42 |
+| breaking_defense | 0 | 0 | 23 | 41 |
 
 # Shown Order
 
@@ -4846,3 +4846,4 @@
 - **Jun 30, 08:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 08:53 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 09:09 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
+- **Jun 30, 09:23 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
