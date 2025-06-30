@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "252d032cb1da2fbeac8fd23a3f0649c0",
+    "trigger_count": 0,
+    "current_item_id": "851b31d4e6c99bff8cbb61026506cc92",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10538,9 +10538,12 @@
             "source": "spacenews",
             "text": "France backs Skynopy’s global expansion with plans for 100+ ground antennas",
             "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-06-30T19:59:38.629573Z"
+            "fetched_datetime": "2025-06-30T19:59:38.629573Z",
+            "shown_at": [
+                "2025-06-30T20:15:40.855930Z"
+            ]
         }
     ]
 }
