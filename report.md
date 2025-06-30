@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 23 | 42 |
 | supercluster | 1 | 1 | 99 | 99 |
 | nyt | 0 | 1 | 23 | 41 |
-| breaking_defense | 0 | 0 | 23 | 40 |
+| breaking_defense | 0 | 0 | 24 | 41 |
 
 # Shown Order
 
@@ -4804,3 +4804,4 @@
 - **Jun 30, 05:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 05:09 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
