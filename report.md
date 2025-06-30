@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 26 | 43 |
 | supercluster | 2 | 2 | 169 | 169 |
 | nyt | 0 | 0 | 24 | 42 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 
 # Shown Order
 
@@ -4905,3 +4905,4 @@
 - **Jun 30, 02:33 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 02:35 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 02:37 PM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
+- **Jun 30, 02:52 PM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
