@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 28 | 50 |
+| spacenews | 9 | 11 | 29 | 51 |
 | supercluster | 1 | 2 | 168 | 211 |
 | nyt | 0 | 0 | 24 | 45 |
 | breaking_defense | 0 | 0 | 24 | 46 |
@@ -4970,3 +4970,4 @@
 - **Jun 30, 09:11 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
 - **Jun 30, 09:25 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jun 30, 09:43 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 30, 09:59 PM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
