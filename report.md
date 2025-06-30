@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 26 | 43 |
 | supercluster | 1 | 2 | 175 | 176 |
 | nyt | 0 | 0 | 25 | 42 |
-| breaking_defense | 0 | 0 | 25 | 41 |
+| breaking_defense | 0 | 0 | 26 | 42 |
 
 # Shown Order
 
@@ -4915,3 +4915,4 @@
 - **Jun 30, 03:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 03:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 03:36 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
+- **Jun 30, 03:51 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
