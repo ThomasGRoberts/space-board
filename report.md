@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 23 | 43 |
 | supercluster | 1 | 1 | 141 | 141 |
 | nyt | 0 | 0 | 23 | 42 |
-| breaking_defense | 0 | 0 | 23 | 41 |
+| breaking_defense | 0 | 0 | 24 | 42 |
 
 # Shown Order
 
@@ -4864,3 +4864,4 @@
 - **Jun 30, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 10:53 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
