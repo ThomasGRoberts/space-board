@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 43 |
-| supercluster | 1 | 1 | 134 | 134 |
+| spacenews | 2 | 4 | 23 | 43 |
+| supercluster | 1 | 1 | 135 | 135 |
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
@@ -4857,3 +4857,4 @@
 - **Jun 30, 09:52 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 30, 10:07 AM** - New SLS booster design suffers anomaly during test (spacenews)
 - **Jun 30, 10:25 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 30, 10:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
