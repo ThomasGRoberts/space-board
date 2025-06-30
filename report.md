@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 41 |
+| spacenews | 2 | 4 | 24 | 42 |
 | supercluster | 1 | 1 | 64 | 64 |
 | nyt | 0 | 1 | 23 | 40 |
 | breaking_defense | 0 | 0 | 24 | 40 |
@@ -4755,3 +4755,4 @@
 - **Jun 30, 12:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 12:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 12:27 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
+- **Jun 30, 12:41 AM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
