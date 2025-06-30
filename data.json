@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "22960889b5b828f24a065dac28aa75bc",
+    "trigger_count": 0,
+    "current_item_id": "74c40c3ff1f1966e7f0767864177a5bb",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10466,9 +10466,12 @@
             "source": "spacenews",
             "text": "Stanford spinoff EraDrive claims $1 million NASA contract",
             "source_link": "https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-06-30T16:19:43.126638Z"
+            "fetched_datetime": "2025-06-30T16:19:43.126638Z",
+            "shown_at": [
+                "2025-06-30T16:33:39.142915Z"
+            ]
         }
     ]
 }
