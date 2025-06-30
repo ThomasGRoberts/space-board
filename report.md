@@ -5,7 +5,7 @@
 | spacenews | 5 | 7 | 27 | 45 |
 | supercluster | 1 | 2 | 175 | 190 |
 | nyt | 0 | 0 | 25 | 42 |
-| breaking_defense | 0 | 0 | 24 | 42 |
+| breaking_defense | 0 | 0 | 25 | 43 |
 
 # Shown Order
 
@@ -4937,3 +4937,4 @@
 - **Jun 30, 05:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 05:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 06:02 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jun 30, 06:17 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
