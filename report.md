@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 43 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 1 | 23 | 43 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
@@ -4837,3 +4837,4 @@
 - **Jun 30, 07:57 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 30, 08:11 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
 - **Jun 30, 08:25 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jun 30, 08:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
