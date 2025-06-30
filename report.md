@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 43 |
 | supercluster | 1 | 1 | 99 | 99 |
-| nyt | 0 | 1 | 23 | 41 |
+| nyt | 0 | 1 | 24 | 42 |
 | breaking_defense | 0 | 0 | 23 | 40 |
 
 # Shown Order
@@ -4806,3 +4806,4 @@
 - **Jun 30, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 05:09 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 05:23 AM** - Final H-2A launches Earth science satellite (spacenews)
+- **Jun 30, 05:37 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
