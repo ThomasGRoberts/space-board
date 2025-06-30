@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53b7c8092728f5fe0a63d5a6580d3374",
+    "trigger_count": 0,
+    "current_item_id": "252d032cb1da2fbeac8fd23a3f0649c0",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10520,6 +10520,27 @@
             "shown_at": [
                 "2025-06-30T17:31:50.983060Z"
             ]
+        },
+        {
+            "id": "252d032cb1da2fbeac8fd23a3f0649c0",
+            "source": "spacenews",
+            "text": "NOAA budget proposal seeks to cancel TraCSS",
+            "source_link": "https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T19:59:38.629519Z",
+            "shown_at": [
+                "2025-06-30T19:59:39.626855Z"
+            ]
+        },
+        {
+            "id": "851b31d4e6c99bff8cbb61026506cc92",
+            "source": "spacenews",
+            "text": "France backs Skynopy’s global expansion with plans for 100+ ground antennas",
+            "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T19:59:38.629573Z"
         }
     ]
 }
