@@ -3,15 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 42 |
+| supercluster | 1 | 1 | 57 | 57 |
 | nyt | 0 | 1 | 24 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
-| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
 - **Apr 21, 01:51 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
-- **Apr 21, 02:05 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
-- **Apr 21, 02:19 PM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 21, 02:33 PM** - Taking the Ground Out of Ground Systems (spacenews)
 - **Apr 21, 03:04 PM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 21, 03:45 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
@@ -22,7 +20,6 @@
 - **Apr 22, 02:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 22, 03:17 PM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 22, 03:33 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
-- **Apr 22, 05:45 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 22, 05:59 PM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 22, 07:11 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 22, 08:23 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
@@ -35,7 +32,6 @@
 - **Apr 23, 04:13 AM** - Atmos Space Cargo declares first test flight a success despite reentry uncertainty (spacenews)
 - **Apr 23, 05:23 AM** - SAIC wins $55 million Space Development Agency contract for satellite network integration (spacenews)
 - **Apr 23, 06:21 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
-- **Apr 23, 08:51 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 23, 09:19 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
 - **Apr 23, 09:47 AM** - OMB suggests NOAA scale back plans for geostationary satellites (spacenews)
 - **Apr 23, 11:15 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
@@ -81,7 +77,6 @@
 - **Apr 24, 10:17 PM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 24, 10:31 PM** - NASA cancels lease for Earth science office in New York (spacenews)
 - **Apr 25, 12:11 AM** - At the American Museum of Natural History, a Look to Outer Space (nyt)
-- **Apr 25, 12:27 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 25, 01:27 AM** - Boeing reports progress on containing Starliner costs (spacenews)
 - **Apr 25, 03:35 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 25, 04:19 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
@@ -90,7 +85,6 @@
 - **Apr 25, 05:29 AM** - Northwood raises $30 million to establish ground station network (spacenews)
 - **Apr 25, 06:27 AM** - DARPA requests proposals for water-prospecting lunar orbiter (spacenews)
 - **Apr 25, 07:09 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
-- **Apr 25, 07:23 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 25, 09:03 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 25, 09:17 AM** - Iridium shields supply chain as higher tariffs loom (spacenews)
 - **Apr 25, 10:05 AM** - China selects international payloads for Chang’e-8 lunar south pole mission (spacenews)
@@ -134,7 +128,6 @@
 - **Apr 26, 01:06 AM** - Hidden and hampered: elevating the Office of Commercial Space Transportation (spacenews)
 - **Apr 26, 01:19 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 26, 01:33 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
-- **Apr 26, 02:01 AM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 26, 02:15 AM** - Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement. (nyt)
 - **Apr 26, 02:29 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 26, 02:57 AM** - Report warns U.S. risks strategic drift in space as China gains ground (spacenews)
@@ -156,7 +149,6 @@
 - **Apr 26, 08:07 AM** - $150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding (breaking_defense)
 - **Apr 26, 08:37 AM** - Katalyst Space acquires Atomos to accelerate in-space services (spacenews)
 - **Apr 26, 09:05 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
-- **Apr 26, 09:33 AM** - Chinese orbital logistics startup InfinAstro raises angel round funding (spacenews)
 - **Apr 26, 09:47 AM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
 - **Apr 26, 10:02 AM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 26, 10:31 AM** - Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan (spacenews)
@@ -257,7 +249,6 @@
 - **Apr 27, 08:51 PM** - The guardian’s rifle: why mission-essential space support cannot be outsourced (spacenews)
 - **Apr 27, 09:05 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 09:19 PM** - Lyrids Meteor Shower 2025: How to Watch (nyt)
-- **Apr 27, 09:47 PM** - SpaceX launches cargo Dragon to ISS with additional crew supplies (spacenews)
 - **Apr 27, 10:02 PM** - Elon Musk sat in on job interview for Air Force’s top civilian (breaking_defense)
 - **Apr 27, 10:17 PM** - Armed services committees propose $150 billion funding boost for defense (spacenews)
 - **Apr 27, 10:32 PM** - Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network (spacenews)
