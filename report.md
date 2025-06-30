@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 23 | 42 |
 | supercluster | 1 | 1 | 106 | 106 |
 | nyt | 0 | 1 | 23 | 41 |
-| breaking_defense | 0 | 0 | 23 | 40 |
+| breaking_defense | 0 | 0 | 24 | 41 |
 
 # Shown Order
 
@@ -4814,3 +4814,4 @@
 - **Jun 30, 05:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 06:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 06:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 06:05 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
