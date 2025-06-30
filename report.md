@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 28 | 46 |
-| supercluster | 1 | 2 | 169 | 190 |
+| supercluster | 1 | 2 | 169 | 191 |
 | nyt | 0 | 0 | 24 | 42 |
-| breaking_defense | 0 | 0 | 25 | 43 |
+| breaking_defense | 0 | 0 | 24 | 43 |
 
 # Shown Order
 
@@ -4939,3 +4939,4 @@
 - **Jun 30, 06:02 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 30, 06:17 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 30, 06:32 PM** - Rocket Lab launches second Electron within 48 hours (spacenews)
+- **Jun 30, 06:47 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
