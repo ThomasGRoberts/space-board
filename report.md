@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 44 |
 | supercluster | 1 | 1 | 120 | 120 |
-| nyt | 0 | 1 | 23 | 42 |
+| nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
 # Shown Order
@@ -4836,3 +4836,4 @@
 - **Jun 30, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 07:57 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 30, 08:11 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
+- **Jun 30, 08:25 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
