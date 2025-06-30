@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 43 |
+| spacenews | 2 | 4 | 24 | 44 |
 | supercluster | 1 | 1 | 120 | 120 |
 | nyt | 0 | 1 | 23 | 42 |
-| breaking_defense | 0 | 0 | 24 | 42 |
+| breaking_defense | 0 | 0 | 24 | 41 |
 
 # Shown Order
 
@@ -4835,3 +4835,4 @@
 - **Jun 30, 07:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 07:57 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
+- **Jun 30, 08:11 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
