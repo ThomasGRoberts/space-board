@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 23 | 41 |
 | supercluster | 1 | 1 | 71 | 71 |
 | nyt | 0 | 1 | 23 | 41 |
-| breaking_defense | 0 | 0 | 23 | 39 |
+| breaking_defense | 0 | 0 | 24 | 40 |
 
 # Shown Order
 
@@ -4764,3 +4764,4 @@
 - **Jun 30, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 01:23 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
