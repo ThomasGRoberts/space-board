@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 26 | 44 |
-| supercluster | 2 | 2 | 157 | 157 |
+| supercluster | 2 | 2 | 158 | 158 |
 | nyt | 0 | 0 | 23 | 41 |
 | breaking_defense | 0 | 0 | 24 | 41 |
 
@@ -4889,3 +4889,4 @@
 - **Jun 30, 01:13 PM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
 - **Jun 30, 01:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 01:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 01:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
