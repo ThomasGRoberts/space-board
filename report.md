@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 2 | 163 | 219 |
+| supercluster | 1 | 2 | 163 | 220 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4983,3 +4983,4 @@
 - **Jun 30, 10:59 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jun 30, 11:13 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 30, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
