@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c945390398214ad13d1974e693389fb8",
+    "trigger_count": 0,
+    "current_item_id": "27a9795afc9f6828ffa44f2615b4a1a5",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10480,6 +10480,18 @@
             "fetched_datetime": "2025-06-30T16:19:43.126638Z",
             "shown_at": [
                 "2025-06-30T16:33:39.142915Z"
+            ]
+        },
+        {
+            "id": "27a9795afc9f6828ffa44f2615b4a1a5",
+            "source": "spacenews",
+            "text": "Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit",
+            "source_link": "https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T17:31:50.003049Z",
+            "shown_at": [
+                "2025-06-30T17:31:50.983060Z"
             ]
         }
     ]

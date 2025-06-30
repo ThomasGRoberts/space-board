@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 27 | 44 |
+| spacenews | 5 | 7 | 28 | 45 |
 | supercluster | 1 | 2 | 175 | 183 |
 | nyt | 0 | 0 | 24 | 41 |
 | breaking_defense | 0 | 0 | 25 | 42 |
@@ -4928,3 +4928,4 @@
 - **Jun 30, 04:59 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 05:02 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 30, 05:17 PM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 30, 05:31 PM** - Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit (spacenews)
