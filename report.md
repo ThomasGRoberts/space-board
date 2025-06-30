@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 53 |
+| spacenews | 10 | 12 | 31 | 54 |
 | supercluster | 1 | 2 | 168 | 225 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4989,3 +4989,4 @@
 - **Jun 30, 11:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 11:41 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
