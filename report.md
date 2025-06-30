@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 29 | 49 |
-| supercluster | 1 | 2 | 174 | 204 |
-| nyt | 0 | 0 | 23 | 43 |
+| supercluster | 1 | 2 | 173 | 204 |
+| nyt | 0 | 0 | 24 | 44 |
 | breaking_defense | 0 | 0 | 24 | 44 |
 
 # Shown Order
@@ -4958,3 +4958,4 @@
 - **Jun 30, 07:57 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 07:59 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
 - **Jun 30, 08:15 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
+- **Jun 30, 08:30 PM** - Sync Your Calendar With the Solar System (nyt)
