@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 28 | 45 |
-| supercluster | 1 | 2 | 172 | 176 |
+| supercluster | 1 | 2 | 171 | 177 |
 | nyt | 0 | 0 | 24 | 41 |
 | breaking_defense | 0 | 0 | 25 | 41 |
 
@@ -4919,3 +4919,4 @@
 - **Jun 30, 04:05 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
 - **Jun 30, 04:19 PM** - Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit (spacenews)
 - **Jun 30, 04:33 PM** - Stanford spinoff EraDrive claims $1 million NASA contract (spacenews)
+- **Jun 30, 04:47 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
