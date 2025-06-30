@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 25 | 43 |
 | supercluster | 2 | 2 | 155 | 155 |
 | nyt | 0 | 0 | 23 | 42 |
-| breaking_defense | 0 | 0 | 23 | 41 |
+| breaking_defense | 0 | 0 | 24 | 42 |
 
 # Shown Order
 
@@ -4885,3 +4885,4 @@
 - **Jun 30, 12:29 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 12:31 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
 - **Jun 30, 12:45 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jun 30, 12:59 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
