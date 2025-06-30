@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 43 |
+| spacenews | 4 | 6 | 27 | 44 |
 | supercluster | 1 | 2 | 175 | 176 |
 | nyt | 0 | 0 | 25 | 41 |
 | breaking_defense | 0 | 0 | 25 | 42 |
@@ -4917,3 +4917,4 @@
 - **Jun 30, 03:36 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jun 30, 03:51 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 30, 04:05 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
+- **Jun 30, 04:19 PM** - Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit (spacenews)

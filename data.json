@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9ffbc84b751fdc464e5a452b13e4168e",
+    "trigger_count": 0,
+    "current_item_id": "22960889b5b828f24a065dac28aa75bc",
     "data": [
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
@@ -10448,6 +10448,27 @@
             "shown_at": [
                 "2025-06-30T13:13:46.609709Z"
             ]
+        },
+        {
+            "id": "22960889b5b828f24a065dac28aa75bc",
+            "source": "spacenews",
+            "text": "Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit",
+            "source_link": "https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T16:19:43.126583Z",
+            "shown_at": [
+                "2025-06-30T16:19:45.033368Z"
+            ]
+        },
+        {
+            "id": "74c40c3ff1f1966e7f0767864177a5bb",
+            "source": "spacenews",
+            "text": "Stanford spinoff EraDrive claims $1 million NASA contract",
+            "source_link": "https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T16:19:43.126638Z"
         }
     ]
 }
