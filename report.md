@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 43 |
-| supercluster | 1 | 1 | 141 | 141 |
+| spacenews | 2 | 4 | 23 | 43 |
+| supercluster | 1 | 1 | 142 | 142 |
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
@@ -4867,3 +4867,4 @@
 - **Jun 30, 10:53 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jun 30, 11:07 AM** - The key to Golden Dome’s success: make it usable (spacenews)
 - **Jun 30, 11:21 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 30, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
