@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
 | supercluster | 1 | 2 | 168 | 218 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4980,3 +4980,4 @@
 - **Jun 30, 10:39 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 10:41 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 10:43 PM** - Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring (spacenews)
+- **Jun 30, 10:59 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
