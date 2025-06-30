@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 43 |
-| supercluster | 1 | 1 | 128 | 128 |
+| supercluster | 1 | 1 | 129 | 129 |
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
@@ -4848,3 +4848,4 @@
 - **Jun 30, 09:09 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
 - **Jun 30, 09:23 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 30, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
