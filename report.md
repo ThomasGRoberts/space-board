@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 43 |
 | supercluster | 1 | 1 | 106 | 106 |
-| nyt | 0 | 1 | 23 | 41 |
+| nyt | 0 | 1 | 24 | 42 |
 | breaking_defense | 0 | 0 | 23 | 40 |
 
 # Shown Order
@@ -4816,3 +4816,4 @@
 - **Jun 30, 06:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 06:05 AM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
 - **Jun 30, 06:19 AM** - NASA’s acting leadership planning new agency structure (spacenews)
+- **Jun 30, 06:34 AM** - Sync Your Calendar With the Solar System (nyt)
