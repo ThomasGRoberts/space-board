@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 42 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 1 | 23 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
 
@@ -4788,3 +4788,4 @@
 - **Jun 30, 03:29 AM** - Rocket Lab launches second Electron within 48 hours (spacenews)
 - **Jun 30, 03:43 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
 - **Jun 30, 03:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jun 30, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
