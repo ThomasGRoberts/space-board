@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 28 | 46 |
+| spacenews | 5 | 7 | 27 | 46 |
 | supercluster | 1 | 2 | 175 | 197 |
-| nyt | 0 | 0 | 24 | 42 |
+| nyt | 0 | 0 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 43 |
 
 # Shown Order
@@ -4946,3 +4946,4 @@
 - **Jun 30, 06:55 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 06:57 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 06:59 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jun 30, 07:02 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
