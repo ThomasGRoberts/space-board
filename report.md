@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 27 | 46 |
 | supercluster | 1 | 2 | 175 | 197 |
-| nyt | 0 | 0 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 43 |
+| nyt | 0 | 0 | 24 | 43 |
+| breaking_defense | 0 | 0 | 25 | 44 |
 
 # Shown Order
 
@@ -4947,3 +4947,4 @@
 - **Jun 30, 06:57 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 06:59 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 07:02 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jun 30, 07:17 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
