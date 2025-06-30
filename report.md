@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 29 | 49 |
 | supercluster | 1 | 2 | 168 | 204 |
 | nyt | 0 | 0 | 24 | 44 |
-| breaking_defense | 0 | 0 | 24 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -4959,3 +4959,4 @@
 - **Jun 30, 07:59 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
 - **Jun 30, 08:15 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jun 30, 08:30 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Jun 30, 08:43 PM** - US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain (breaking_defense)
