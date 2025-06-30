@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 41 |
+| spacenews | 2 | 4 | 24 | 42 |
 | supercluster | 1 | 1 | 71 | 71 |
 | nyt | 0 | 1 | 23 | 40 |
 | breaking_defense | 0 | 0 | 24 | 40 |
@@ -4765,3 +4765,4 @@
 - **Jun 30, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 01:23 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jun 30, 01:37 AM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
