@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 28 | 45 |
 | supercluster | 1 | 2 | 175 | 183 |
-| nyt | 0 | 0 | 24 | 40 |
+| nyt | 0 | 0 | 25 | 41 |
 | breaking_defense | 0 | 0 | 24 | 41 |
 
 # Shown Order
@@ -4926,3 +4926,4 @@
 - **Jun 30, 04:55 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 04:57 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jun 30, 04:59 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jun 30, 05:02 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
