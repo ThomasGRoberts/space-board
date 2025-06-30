@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 43 |
 | supercluster | 1 | 1 | 113 | 113 |
-| nyt | 0 | 1 | 23 | 42 |
+| nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 0 | 23 | 41 |
 
 # Shown Order
@@ -4826,3 +4826,4 @@
 - **Jun 30, 06:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 07:01 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 07:15 AM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
+- **Jun 30, 07:29 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
