@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 42 |
 | supercluster | 1 | 1 | 85 | 85 |
-| nyt | 0 | 1 | 23 | 40 |
+| nyt | 0 | 1 | 24 | 41 |
 | breaking_defense | 0 | 0 | 23 | 39 |
 
 # Shown Order
@@ -4786,3 +4786,4 @@
 - **Jun 30, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 03:15 AM** - ‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration (breaking_defense)
 - **Jun 30, 03:29 AM** - Rocket Lab launches second Electron within 48 hours (spacenews)
+- **Jun 30, 03:43 AM** - Vera Rubin Observatory Reveals Telescope’s First Images of Galaxies, Nebulas and Asteroids (nyt)
