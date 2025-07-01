@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4787,3 +4787,4 @@
 - **Jul 01, 10:09 AM** - Blue Origin launches third New Shepard mission within three months (spacenews)
 - **Jul 01, 10:23 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jul 01, 10:37 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 01, 10:51 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
