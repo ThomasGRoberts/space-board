@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 26 | 56 |
 | nyt | 0 | 0 | 24 | 47 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -4722,3 +4722,4 @@
 - **Jul 01, 11:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 11:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 11:35 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
+- **Jul 01, 11:49 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
