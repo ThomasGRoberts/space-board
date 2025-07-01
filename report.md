@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 27 | 57 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4714,3 +4714,4 @@
 - **Jul 01, 10:39 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 01, 10:53 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 01, 11:07 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
+- **Jul 01, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
