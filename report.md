@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 28 | 56 |
 | supercluster | 0 | 1 | 147 | 182 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -4888,3 +4888,4 @@
 - **Jul 01, 08:29 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 08:31 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jul 01, 08:45 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 01, 08:59 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
