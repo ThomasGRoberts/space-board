@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 27 | 56 |
-| supercluster | 0 | 1 | 141 | 176 |
+| supercluster | 0 | 1 | 142 | 177 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 
@@ -4880,3 +4880,4 @@
 - **Jul 01, 07:47 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Jul 01, 08:02 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 01, 08:15 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 08:17 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
