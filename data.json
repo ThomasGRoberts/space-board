@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4869a0e1213932b3168883f83aad9f5e",
+    "trigger_count": 0,
+    "current_item_id": "ed9dad23146ad7a41f94107cd52e0fdd",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10239,6 +10239,18 @@
             "shown_at": [
                 "2025-07-01T22:05:41.854226Z",
                 "2025-07-01T22:07:58.565192Z"
+            ]
+        },
+        {
+            "id": "ed9dad23146ad7a41f94107cd52e0fdd",
+            "source": "spacenews",
+            "text": "CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy",
+            "source_link": "https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T22:39:29.728820Z",
+            "shown_at": [
+                "2025-07-01T22:39:30.278745Z"
             ]
         }
     ]
