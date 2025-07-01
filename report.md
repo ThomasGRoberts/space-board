@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 112 | 112 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4785,3 +4785,4 @@
 - **Jul 01, 10:05 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 10:07 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 10:09 AM** - Blue Origin launches third New Shepard mission within three months (spacenews)
+- **Jul 01, 10:23 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
