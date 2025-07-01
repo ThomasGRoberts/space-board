@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 84 | 84 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4745,3 +4745,4 @@
 - **Jul 01, 06:13 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:15 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:17 AM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
+- **Jul 01, 06:31 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
