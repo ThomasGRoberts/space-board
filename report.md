@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 232 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4875,3 +4875,4 @@
 - **Jul 01, 12:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 12:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 12:39 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
+- **Jul 01, 12:53 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
