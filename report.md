@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 225 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4866,3 +4866,4 @@
 - **Jun 30, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jun 30, 11:41 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
 - **Jun 30, 11:55 PM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jul 01, 12:09 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
