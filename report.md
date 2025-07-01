@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 31 | 55 |
+| spacenews | 10 | 13 | 30 | 55 |
 | supercluster | 0 | 1 | 119 | 126 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4806,3 +4806,4 @@
 - **Jul 01, 12:01 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 12:03 PM** - Rocket Lab launches second Electron within 48 hours (spacenews)
 - **Jul 01, 12:19 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
+- **Jul 01, 12:33 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
