@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 29 | 56 |
-| supercluster | 0 | 1 | 140 | 161 |
+| supercluster | 0 | 1 | 141 | 162 |
 | nyt | 0 | 0 | 23 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 
@@ -4859,3 +4859,4 @@
 - **Jul 01, 05:25 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 01, 05:41 PM** - New SLS booster design suffers anomaly during test (spacenews)
 - **Jul 01, 05:57 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 01, 06:12 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
