@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 29 | 56 |
 | supercluster | 0 | 1 | 140 | 154 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
 # Shown Order
@@ -4846,3 +4846,4 @@
 - **Jul 01, 04:17 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:19 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:21 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 04:23 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
