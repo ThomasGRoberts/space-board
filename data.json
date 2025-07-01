@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53b7c8092728f5fe0a63d5a6580d3374",
+    "trigger_count": 0,
+    "current_item_id": "5aa25092dd26db48e0433dcd7b2683c9",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10372,6 +10372,18 @@
             "fetched_datetime": "2025-07-01T15:39:45.870135Z",
             "shown_at": [
                 "2025-07-01T15:39:46.451667Z"
+            ]
+        },
+        {
+            "id": "5aa25092dd26db48e0433dcd7b2683c9",
+            "source": "spacenews",
+            "text": "Planet pushes into European market, announces new agreement with Germany",
+            "source_link": "https://spacenews.com/planet-pushes-into-european-market-announces-new-agreement-with-germany/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T18:34:02.698501Z",
+            "shown_at": [
+                "2025-07-01T18:34:03.906583Z"
             ]
         }
     ]
