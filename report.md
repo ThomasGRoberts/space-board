@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 105 | 105 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4776,3 +4776,4 @@
 - **Jul 01, 09:05 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 09:07 AM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
 - **Jul 01, 09:21 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 01, 09:38 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
