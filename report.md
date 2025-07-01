@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 29 | 56 |
-| supercluster | 0 | 1 | 142 | 163 |
+| supercluster | 0 | 1 | 143 | 164 |
 | nyt | 0 | 0 | 23 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 
 # Shown Order
 
@@ -4861,3 +4861,4 @@
 - **Jul 01, 05:57 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 01, 06:12 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:15 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 06:18 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
