@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 239 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4885,3 +4885,4 @@
 - **Jul 01, 01:31 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:33 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:35 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
+- **Jul 01, 01:49 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
