@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 53 |
+| spacenews | 10 | 12 | 31 | 54 |
 | supercluster | 1 | 2 | 168 | 267 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4924,3 +4924,4 @@
 - **Jul 01, 05:15 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 05:17 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 05:19 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 05:21 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
