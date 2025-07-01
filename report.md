@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 253 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4906,3 +4906,4 @@
 - **Jul 01, 03:27 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 03:29 AM** - Rocket Lab to launch European navigation tech demo satellites (spacenews)
 - **Jul 01, 03:43 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
+- **Jul 01, 03:57 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
