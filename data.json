@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "eb5672354aabe7a11e63ffa347307aeb",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10332,6 +10332,18 @@
             "shown_at": [
                 "2025-07-01T12:19:42.549766Z",
                 "2025-07-01T15:09:28.983581Z"
+            ]
+        },
+        {
+            "id": "eb5672354aabe7a11e63ffa347307aeb",
+            "source": "spacenews",
+            "text": "Building the future of SpaceNews",
+            "source_link": "https://spacenews.com/building-the-future-of-spacenews/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T15:39:45.870135Z",
+            "shown_at": [
+                "2025-07-01T15:39:46.451667Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 30 | 57 |
+| spacenews | 10 | 13 | 31 | 58 |
 | supercluster | 0 | 1 | 133 | 147 |
 | nyt | 0 | 0 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
@@ -4837,3 +4837,4 @@
 - **Jul 01, 03:07 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 03:09 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 03:24 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Jul 01, 03:39 PM** - Building the future of SpaceNews (spacenews)
