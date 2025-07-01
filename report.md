@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 2 | 163 | 239 |
+| supercluster | 1 | 2 | 163 | 240 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4887,3 +4887,4 @@
 - **Jul 01, 01:35 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
 - **Jul 01, 01:49 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 01, 02:03 AM** - Missile Defense Agency’s long-range radar tracks ICBM test target for first time (breaking_defense)
+- **Jul 01, 02:17 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
