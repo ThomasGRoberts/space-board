@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 29 | 57 |
-| supercluster | 0 | 1 | 133 | 154 |
+| spacenews | 8 | 12 | 29 | 56 |
+| supercluster | 0 | 1 | 134 | 155 |
 | nyt | 0 | 0 | 23 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 
@@ -4849,3 +4849,4 @@
 - **Jul 01, 04:23 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 01, 04:37 PM** - Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees (spacenews)
 - **Jul 01, 04:51 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 01, 05:09 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
