@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 91 | 91 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4755,3 +4755,4 @@
 - **Jul 01, 07:09 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 07:11 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 07:13 AM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
+- **Jul 01, 07:27 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
