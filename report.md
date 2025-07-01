@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 56 |
-| supercluster | 0 | 1 | 126 | 140 |
+| supercluster | 0 | 1 | 127 | 141 |
 | nyt | 0 | 0 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
@@ -4828,3 +4828,4 @@
 - **Jul 01, 02:12 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jul 01, 02:25 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Jul 01, 02:39 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jul 01, 02:55 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
