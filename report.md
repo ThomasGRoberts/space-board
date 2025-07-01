@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 29 | 56 |
 | supercluster | 0 | 1 | 140 | 168 |
 | nyt | 0 | 0 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -4868,3 +4868,4 @@
 - **Jul 01, 06:31 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:34 PM** - Planet pushes into European market, announces new agreement with Germany (spacenews)
 - **Jul 01, 06:47 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
+- **Jul 01, 07:05 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
