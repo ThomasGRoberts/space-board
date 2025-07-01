@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 56 |
-| supercluster | 0 | 1 | 133 | 140 |
-| nyt | 0 | 0 | 23 | 47 |
+| supercluster | 0 | 1 | 132 | 140 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -4826,3 +4826,4 @@
 - **Jul 01, 02:07 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 02:09 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 02:12 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
+- **Jul 01, 02:25 PM** - Sync Your Calendar With the Solar System (nyt)
