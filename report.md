@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 267 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4926,3 +4926,4 @@
 - **Jul 01, 05:19 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 05:21 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 01, 05:35 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 01, 05:49 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
