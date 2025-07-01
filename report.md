@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 28 | 56 |
+| spacenews | 8 | 12 | 29 | 57 |
 | supercluster | 0 | 1 | 140 | 154 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
@@ -4847,3 +4847,4 @@
 - **Jul 01, 04:19 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:21 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:23 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jul 01, 04:37 PM** - Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees (spacenews)
