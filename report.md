@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 29 | 57 |
-| supercluster | 0 | 1 | 147 | 168 |
-| nyt | 0 | 0 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| supercluster | 0 | 1 | 146 | 168 |
+| nyt | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -4867,3 +4867,4 @@
 - **Jul 01, 06:29 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:31 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 06:34 PM** - Planet pushes into European market, announces new agreement with Germany (spacenews)
+- **Jul 01, 06:47 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
