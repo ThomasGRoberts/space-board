@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 53 |
+| spacenews | 10 | 12 | 31 | 54 |
 | supercluster | 1 | 2 | 168 | 260 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4914,3 +4914,4 @@
 - **Jul 01, 04:19 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:21 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:23 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 04:25 AM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
