@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 53 |
+| spacenews | 10 | 12 | 31 | 54 |
 | supercluster | 1 | 2 | 168 | 232 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4874,3 +4874,4 @@
 - **Jul 01, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 12:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 12:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 01, 12:39 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
