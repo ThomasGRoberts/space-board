@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 57 |
-| supercluster | 0 | 1 | 133 | 147 |
+| supercluster | 0 | 1 | 134 | 148 |
 | nyt | 0 | 0 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
@@ -4839,3 +4839,4 @@
 - **Jul 01, 03:24 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Jul 01, 03:39 PM** - Building the future of SpaceNews (spacenews)
 - **Jul 01, 03:53 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 01, 04:07 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
