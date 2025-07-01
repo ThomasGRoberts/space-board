@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b2c48e26892f1da369cd767675a3e23",
+    "trigger_count": 0,
+    "current_item_id": "efc5d342279b0b51726611e96bb1deea",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10252,6 +10252,18 @@
             "fetched_datetime": "2025-07-01T22:39:29.728820Z",
             "shown_at": [
                 "2025-07-01T22:39:30.278745Z"
+            ]
+        },
+        {
+            "id": "efc5d342279b0b51726611e96bb1deea",
+            "source": "spacenews",
+            "text": "LeoLabs secures U.S. military funding for missile-tracking mobile radar",
+            "source_link": "https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T23:07:44.737709Z",
+            "shown_at": [
+                "2025-07-01T23:07:45.946302Z"
             ]
         }
     ]

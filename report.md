@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 26 | 56 |
+| spacenews | 6 | 16 | 27 | 57 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4713,3 +4713,4 @@
 - **Jul 01, 10:23 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jul 01, 10:39 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 01, 10:53 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 01, 11:07 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
