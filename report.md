@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 55 |
-| supercluster | 0 | 1 | 119 | 126 |
+| supercluster | 0 | 1 | 120 | 127 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -4808,3 +4808,4 @@
 - **Jul 01, 12:19 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 12:33 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jul 01, 12:47 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jul 01, 01:02 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
