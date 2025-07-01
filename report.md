@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4748,3 +4748,4 @@
 - **Jul 01, 06:31 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 01, 06:45 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 01, 06:59 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 07:01 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
