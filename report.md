@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 98 | 98 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4765,3 +4765,4 @@
 - **Jul 01, 08:05 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 08:07 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 08:09 AM** - New SLS booster design suffers anomaly during test (spacenews)
+- **Jul 01, 08:25 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
