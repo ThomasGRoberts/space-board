@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 2 | 163 | 255 |
+| supercluster | 1 | 2 | 164 | 256 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
@@ -4909,3 +4909,4 @@
 - **Jul 01, 03:57 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 01, 04:11 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:13 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 04:15 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
