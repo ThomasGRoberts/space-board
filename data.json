@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 4,
-    "current_item_id": "53b7c8092728f5fe0a63d5a6580d3374",
+    "trigger_count": 5,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10225,15 +10225,18 @@
             ]
         },
         {
-            "id": "53b7c8092728f5fe0a63d5a6580d3374",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch European Environmental Satellite",
-            "source_link": "https://www.supercluster.com/launches/mtg-s1-sentinel-4a",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-25",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-01T21:04:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-01T22:03:45.338767Z"
+            "target_datetime": "2025-07-02T05:29:00.000Z",
+            "time_remaining": "0d 07h 23m",
+            "fetched_datetime": "2025-07-01T22:05:40.809036Z",
+            "shown_at": [
+                "2025-07-01T22:05:41.854226Z"
+            ]
         }
     ]
 }
