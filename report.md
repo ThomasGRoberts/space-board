@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4757,3 +4757,4 @@
 - **Jul 01, 07:13 AM** - Fourth Axiom Space private astronaut mission launched to ISS (spacenews)
 - **Jul 01, 07:27 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jul 01, 07:41 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jul 01, 07:55 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
