@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b62576a6d35d875d0c833f78b4383817",
+    "trigger_count": 0,
+    "current_item_id": "53b7c8092728f5fe0a63d5a6580d3374",
     "data": [
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
@@ -10222,6 +10222,20 @@
             "fetched_datetime": "2025-07-01T19:33:27.106647Z",
             "shown_at": [
                 "2025-07-01T19:33:27.753605Z"
+            ]
+        },
+        {
+            "id": "53b7c8092728f5fe0a63d5a6580d3374",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch European Environmental Satellite",
+            "source_link": "https://www.supercluster.com/launches/mtg-s1-sentinel-4a",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-01T21:04:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-07-01T21:13:42.189433Z",
+            "shown_at": [
+                "2025-07-01T21:13:42.879512Z"
             ]
         }
     ]
