@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 246 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4896,3 +4896,4 @@
 - **Jul 01, 02:29 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 02:31 AM** - Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit (spacenews)
 - **Jul 01, 02:45 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jul 01, 02:59 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
