@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 1 | 121 | 121 |
+| supercluster | 1 | 1 | 122 | 122 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -4799,3 +4799,4 @@
 - **Jul 01, 11:33 AM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
 - **Jul 01, 11:47 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 11:49 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 11:51 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
