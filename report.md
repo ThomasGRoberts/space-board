@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 28 | 56 |
 | supercluster | 0 | 1 | 140 | 175 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -4878,3 +4878,4 @@
 - **Jul 01, 07:31 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 07:33 PM** - MethaneSAT fails in orbit (spacenews)
 - **Jul 01, 07:47 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Jul 01, 08:02 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
