@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 53 |
+| spacenews | 10 | 12 | 31 | 54 |
 | supercluster | 1 | 1 | 98 | 98 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4764,3 +4764,4 @@
 - **Jul 01, 08:03 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 08:05 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 08:07 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 08:09 AM** - New SLS booster design suffers anomaly during test (spacenews)
