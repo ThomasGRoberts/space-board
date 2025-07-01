@@ -5,7 +5,7 @@
 | spacenews | 10 | 13 | 31 | 57 |
 | supercluster | 0 | 1 | 133 | 147 |
 | nyt | 0 | 0 | 23 | 48 |
-| breaking_defense | 0 | 0 | 22 | 48 |
+| breaking_defense | 0 | 0 | 23 | 49 |
 
 # Shown Order
 
@@ -4838,3 +4838,4 @@
 - **Jul 01, 03:09 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 03:24 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Jul 01, 03:39 PM** - Building the future of SpaceNews (spacenews)
+- **Jul 01, 03:53 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
