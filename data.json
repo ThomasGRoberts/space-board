@@ -1,9 +1,185 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-06-30T00:02:00.303387+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
+    "trigger_count": 3,
     "current_item_id": "a693e5429a4b98e3ec6e939b91b30db9",
     "data": [
+        {
+            "id": "427f956add5c931aa2ba92d5ec6c4dde",
+            "source": "spacenews",
+            "text": "Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring",
+            "source_link": "https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T22:43:26.732190Z",
+            "shown_at": [
+                "2025-06-30T22:43:27.288266Z"
+            ]
+        },
+        {
+            "id": "9dc597af2099cf3e96560e809094d0dc",
+            "source": "spacenews",
+            "text": "Skynopy plans 100+ antenna expansion with strategic backing from France",
+            "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T21:59:56.240182Z",
+            "shown_at": [
+                "2025-06-30T22:13:36.631149Z"
+            ]
+        },
+        {
+            "id": "0a144445ec248bd5f4162d43cfc659b1",
+            "source": "spacenews",
+            "text": "Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station",
+            "source_link": "https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T21:59:56.239991Z",
+            "shown_at": [
+                "2025-06-30T21:59:56.849809Z"
+            ]
+        },
+        {
+            "id": "851b31d4e6c99bff8cbb61026506cc92",
+            "source": "spacenews",
+            "text": "France backs Skynopy’s global expansion with plans for 100+ ground antennas",
+            "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T19:59:38.629573Z",
+            "shown_at": [
+                "2025-06-30T20:15:40.855930Z"
+            ]
+        },
+        {
+            "id": "252d032cb1da2fbeac8fd23a3f0649c0",
+            "source": "spacenews",
+            "text": "NOAA budget proposal seeks to cancel TraCSS",
+            "source_link": "https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T19:59:38.629519Z",
+            "shown_at": [
+                "2025-06-30T19:59:39.626855Z",
+                "2025-06-30T21:11:38.934629Z"
+            ]
+        },
+        {
+            "id": "27a9795afc9f6828ffa44f2615b4a1a5",
+            "source": "spacenews",
+            "text": "Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit",
+            "source_link": "https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T17:31:50.003049Z",
+            "shown_at": [
+                "2025-06-30T17:31:50.983060Z"
+            ]
+        },
+        {
+            "id": "74c40c3ff1f1966e7f0767864177a5bb",
+            "source": "spacenews",
+            "text": "Stanford spinoff EraDrive claims $1 million NASA contract",
+            "source_link": "https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T16:19:43.126638Z",
+            "shown_at": [
+                "2025-06-30T16:33:39.142915Z"
+            ]
+        },
+        {
+            "id": "22960889b5b828f24a065dac28aa75bc",
+            "source": "spacenews",
+            "text": "Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit",
+            "source_link": "https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T16:19:43.126583Z",
+            "shown_at": [
+                "2025-06-30T16:19:45.033368Z"
+            ]
+        },
+        {
+            "id": "4a5f4c5fbed954b181317961532e7181",
+            "source": "spacenews",
+            "text": "Space is hard. There is no excuse for pretending it’s easy.",
+            "source_link": "https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T13:13:45.257988Z",
+            "shown_at": [
+                "2025-06-30T13:13:46.609709Z"
+            ]
+        },
+        {
+            "id": "180ad376beaef2b312002d09637949fa",
+            "source": "spacenews",
+            "text": "Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities",
+            "source_link": "https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-06-30T12:31:53.917527Z",
+            "shown_at": [
+                "2025-06-30T12:31:54.474172Z"
+            ]
+        },
+        {
+            "id": "53b7c8092728f5fe0a63d5a6580d3374",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch European Environmental Satellite",
+            "source_link": "https://www.supercluster.com/launches/mtg-s1-sentinel-4a",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-01T21:03:00.000Z",
+            "time_remaining": "0d 22h 21m",
+            "fetched_datetime": "2025-06-30T12:17:44.308070Z",
+            "shown_at": [
+                "2025-06-30T12:17:45.323017Z",
+                "2025-06-30T12:19:38.475842Z",
+                "2025-06-30T12:21:32.044651Z",
+                "2025-06-30T12:23:52.202142Z",
+                "2025-06-30T12:25:46.981317Z",
+                "2025-06-30T12:27:27.838912Z",
+                "2025-06-30T12:29:39.896150Z",
+                "2025-06-30T14:23:45.546271Z",
+                "2025-06-30T14:25:43.958286Z",
+                "2025-06-30T14:27:38.334898Z",
+                "2025-06-30T14:29:41.564266Z",
+                "2025-06-30T14:31:47.267727Z",
+                "2025-06-30T14:33:44.113661Z",
+                "2025-06-30T14:35:26.005810Z",
+                "2025-06-30T16:47:29.512810Z",
+                "2025-06-30T16:49:28.808290Z",
+                "2025-06-30T16:51:27.902674Z",
+                "2025-06-30T16:53:32.572695Z",
+                "2025-06-30T16:55:29.120268Z",
+                "2025-06-30T16:57:30.156130Z",
+                "2025-06-30T16:59:49.157152Z",
+                "2025-06-30T18:47:38.182004Z",
+                "2025-06-30T18:49:28.965373Z",
+                "2025-06-30T18:51:43.326869Z",
+                "2025-06-30T18:53:34.654270Z",
+                "2025-06-30T18:55:47.457979Z",
+                "2025-06-30T18:57:41.158704Z",
+                "2025-06-30T18:59:45.170826Z",
+                "2025-06-30T19:45:33.137251Z",
+                "2025-06-30T19:47:38.996577Z",
+                "2025-06-30T19:49:27.442511Z",
+                "2025-06-30T19:51:54.119221Z",
+                "2025-06-30T19:53:39.468683Z",
+                "2025-06-30T19:55:33.080713Z",
+                "2025-06-30T19:57:29.165443Z",
+                "2025-06-30T22:27:33.731723Z",
+                "2025-06-30T22:29:23.522246Z",
+                "2025-06-30T22:32:13.280649Z",
+                "2025-06-30T22:35:38.128109Z",
+                "2025-06-30T22:37:18.975543Z",
+                "2025-06-30T22:39:54.672897Z",
+                "2025-06-30T22:41:41.186989Z"
+            ]
+        },
         {
             "id": "87297978ecf738de58e3a5d3bedb75d4",
             "source": "spacenews",
@@ -10187,428 +10363,6 @@
                 "2025-04-30T04:17:33.262409Z",
                 "2025-04-30T07:07:32.218913Z",
                 "2025-04-30T08:21:46.628185Z"
-            ]
-        },
-        {
-            "id": "7da5c5f5fcc0acf0d3e67a8484eccc3c",
-            "source": "spacenews",
-            "text": "Atmos Space Cargo declares first test flight a success despite reentry uncertainty",
-            "source_link": "https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T04:13:30.355866Z",
-            "shown_at": [
-                "2025-04-23T04:13:30.928924Z",
-                "2025-04-23T17:02:12.704636Z",
-                "2025-04-23T23:37:25.518981Z",
-                "2025-04-24T08:11:32.653517Z",
-                "2025-04-27T01:53:49.406200Z"
-            ]
-        },
-        {
-            "id": "6a89dc386ae3fccee081df9521457050",
-            "source": "spacenews",
-            "text": "Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan",
-            "source_link": "https://spacenews.com/astra-targets-cargo-delivery-with-rocket-4-in-pentagon-backed-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T01:09:31.799320Z",
-            "shown_at": [
-                "2025-04-23T01:09:32.506679Z",
-                "2025-04-23T14:08:40.708646Z",
-                "2025-04-26T04:51:51.592264Z",
-                "2025-04-26T06:43:28.910632Z",
-                "2025-04-26T10:31:52.884580Z",
-                "2025-04-26T11:27:58.207068Z",
-                "2025-04-27T10:29:30.428811Z"
-            ]
-        },
-        {
-            "id": "cf71afd9b64dc17651cdaac279677ad3",
-            "source": "spacenews",
-            "text": "Iridium shields supply chain as higher tariffs loom",
-            "source_link": "https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T00:41:53.072548Z",
-            "shown_at": [
-                "2025-04-23T00:41:54.026093Z",
-                "2025-04-24T04:21:34.459688Z",
-                "2025-04-25T09:17:27.421776Z",
-                "2025-04-29T06:29:29.922412Z"
-            ]
-        },
-        {
-            "id": "8a7ed061ff5e40e3add2a924e68a4e56",
-            "source": "spacenews",
-            "text": "Northwood raises $30 million to establish ground station network",
-            "source_link": "https://spacenews.com/northwood-raises-30-million-to-establish-ground-station-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-22T23:01:57.046238Z",
-            "shown_at": [
-                "2025-04-22T23:01:57.810331Z",
-                "2025-04-23T12:39:41.212993Z",
-                "2025-04-25T04:33:27.478886Z",
-                "2025-04-25T05:29:39.284752Z",
-                "2025-04-27T17:07:42.227482Z",
-                "2025-04-28T03:45:23.409223Z",
-                "2025-04-29T13:32:30.403468Z"
-            ]
-        },
-        {
-            "id": "6bf5e883a61a69a9806321593bf94f4d",
-            "source": "spacenews",
-            "text": "SAIC wins $55 million Space Development Agency contract for satellite network integration",
-            "source_link": "https://spacenews.com/saic-wins-55-million-space-development-agency-contract-for-satellite-network-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-22T22:20:00.542643Z",
-            "shown_at": [
-                "2025-04-22T22:20:01.811285Z",
-                "2025-04-23T05:23:35.678818Z",
-                "2025-04-24T00:33:30.860504Z",
-                "2025-04-24T15:55:30.232073Z",
-                "2025-04-24T20:39:44.788446Z",
-                "2025-04-26T22:09:45.746794Z",
-                "2025-04-27T03:51:30.461562Z",
-                "2025-04-28T15:41:51.409750Z",
-                "2025-04-29T08:25:54.808467Z"
-            ]
-        },
-        {
-            "id": "c28983c69a53b7eb7a1fa7f962e13bcd",
-            "source": "spacenews",
-            "text": "SpaceX launches third mid-inclination rideshare mission",
-            "source_link": "https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-22T14:03:30.917263Z",
-            "shown_at": [
-                "2025-04-22T14:03:31.753593Z",
-                "2025-04-25T14:09:43.375324Z",
-                "2025-04-28T02:07:46.299596Z",
-                "2025-04-29T01:41:40.214283Z"
-            ]
-        },
-        {
-            "id": "eecf326432b573df89b1774e61517fe5",
-            "source": "spacenews",
-            "text": "OMB suggests NOAA scale back plans for geostationary satellites",
-            "source_link": "https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-22T00:21:37.704027Z",
-            "shown_at": [
-                "2025-04-22T00:21:38.242238Z",
-                "2025-04-22T15:17:32.968567Z",
-                "2025-04-23T09:47:04.652513Z",
-                "2025-04-23T16:05:29.943467Z",
-                "2025-04-24T03:25:36.073230Z",
-                "2025-04-24T09:11:42.499549Z",
-                "2025-04-24T12:05:48.200044Z",
-                "2025-04-25T17:02:08.590112Z",
-                "2025-04-25T17:59:31.577881Z",
-                "2025-04-25T20:07:32.161975Z",
-                "2025-04-26T18:05:46.029943Z",
-                "2025-04-28T07:45:46.400318Z"
-            ]
-        },
-        {
-            "id": "5220dc77094fd8ca4b7cf4b0c877e7f9",
-            "source": "nyt",
-            "text": "Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement.",
-            "source_link": "https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T20:59:47.355304Z",
-            "shown_at": [
-                "2025-04-21T20:59:48.384741Z",
-                "2025-04-22T17:59:29.213894Z",
-                "2025-04-23T06:21:39.805137Z",
-                "2025-04-23T11:15:12.426257Z",
-                "2025-04-23T15:49:39.345838Z",
-                "2025-04-23T21:31:52.148521Z",
-                "2025-04-25T05:15:25.916909Z",
-                "2025-04-25T07:09:23.360095Z",
-                "2025-04-25T09:03:40.212378Z",
-                "2025-04-25T13:41:54.157655Z",
-                "2025-04-25T16:33:40.334371Z",
-                "2025-04-25T19:25:06.373883Z",
-                "2025-04-26T01:19:41.257939Z",
-                "2025-04-26T02:15:36.087251Z",
-                "2025-04-26T03:11:43.108612Z",
-                "2025-04-26T06:01:53.081120Z",
-                "2025-04-26T11:41:47.075889Z",
-                "2025-04-26T16:25:36.180301Z",
-                "2025-04-26T18:21:48.501830Z",
-                "2025-04-27T06:01:58.880925Z",
-                "2025-04-27T10:43:27.521015Z",
-                "2025-04-27T12:39:30.243618Z",
-                "2025-04-27T13:49:31.544491Z",
-                "2025-04-27T22:59:27.706131Z",
-                "2025-04-28T01:53:44.422869Z",
-                "2025-04-28T11:25:32.533009Z",
-                "2025-04-28T16:25:30.420128Z"
-            ]
-        },
-        {
-            "id": "af534f0525a72b30c03efd69dae22058",
-            "source": "spacenews",
-            "text": "DARPA requests proposals for water-prospecting lunar orbiter",
-            "source_link": "https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T15:04:00.509607Z",
-            "shown_at": [
-                "2025-04-21T15:04:01.701672Z",
-                "2025-04-23T03:29:58.993273Z",
-                "2025-04-23T19:53:43.584750Z",
-                "2025-04-25T06:27:36.550680Z",
-                "2025-04-25T11:01:58.193789Z",
-                "2025-04-26T12:25:38.290859Z",
-                "2025-04-27T14:03:28.182238Z"
-            ]
-        },
-        {
-            "id": "f79ed5cbaf5a561689146eb5f05646bd",
-            "source": "spacenews",
-            "text": "Taking the Ground Out of Ground Systems",
-            "source_link": "https://spacenews.com/taking-the-ground-out-of-ground-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T14:33:42.841366Z",
-            "shown_at": [
-                "2025-04-21T14:33:43.902803Z",
-                "2025-04-24T14:59:27.906942Z"
-            ]
-        },
-        {
-            "id": "eb7b79a76ab7d4e3a65e4eb69e3c4683",
-            "source": "nyt",
-            "text": "Lyrids Meteor Shower 2025: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/04/21/science/lyrid-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-21T13:51:41.055371Z",
-            "shown_at": [
-                "2025-04-21T13:51:42.012505Z",
-                "2025-04-21T15:45:36.575020Z",
-                "2025-04-21T19:19:27.593874Z",
-                "2025-04-22T14:19:37.200618Z",
-                "2025-04-22T15:33:13.897134Z",
-                "2025-04-22T19:11:45.399337Z",
-                "2025-04-22T20:23:41.011833Z",
-                "2025-04-23T01:37:55.431849Z",
-                "2025-04-24T01:15:42.180053Z",
-                "2025-04-24T03:11:57.718313Z",
-                "2025-04-24T06:55:24.908634Z",
-                "2025-04-24T13:19:39.990999Z",
-                "2025-04-24T17:19:52.936978Z",
-                "2025-04-24T18:16:24.613934Z",
-                "2025-04-25T04:19:42.019269Z",
-                "2025-04-25T14:40:04.385238Z",
-                "2025-04-25T21:31:44.885125Z",
-                "2025-04-25T22:29:48.167160Z",
-                "2025-04-26T00:21:57.893330Z",
-                "2025-04-26T04:09:35.952392Z",
-                "2025-04-26T05:05:36.210568Z",
-                "2025-04-26T06:57:50.567351Z",
-                "2025-04-26T09:47:40.152836Z",
-                "2025-04-26T20:15:25.774515Z",
-                "2025-04-27T00:15:36.760549Z",
-                "2025-04-27T01:11:51.129449Z",
-                "2025-04-27T03:05:33.728573Z",
-                "2025-04-27T05:05:25.186603Z",
-                "2025-04-27T07:53:24.370227Z",
-                "2025-04-27T09:47:37.440699Z",
-                "2025-04-27T11:41:31.120866Z",
-                "2025-04-27T14:45:27.448400Z",
-                "2025-04-27T17:35:37.822964Z",
-                "2025-04-27T18:31:29.755280Z",
-                "2025-04-27T19:27:27.314164Z",
-                "2025-04-27T21:19:39.496129Z",
-                "2025-04-27T23:55:48.664121Z",
-                "2025-04-28T03:32:00.422748Z",
-                "2025-04-28T06:32:07.979778Z",
-                "2025-04-28T07:29:36.165012Z",
-                "2025-04-28T12:21:53.283157Z"
-            ]
-        },
-        {
-            "id": "53b7c8092728f5fe0a63d5a6580d3374",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch European Environmental Satellite",
-            "source_link": "https://www.supercluster.com/launches/mtg-s1-sentinel-4a",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-01T21:03:00.000Z",
-            "time_remaining": "0d 22h 21m",
-            "fetched_datetime": "2025-06-30T12:17:44.308070Z",
-            "shown_at": [
-                "2025-06-30T12:17:45.323017Z",
-                "2025-06-30T12:19:38.475842Z",
-                "2025-06-30T12:21:32.044651Z",
-                "2025-06-30T12:23:52.202142Z",
-                "2025-06-30T12:25:46.981317Z",
-                "2025-06-30T12:27:27.838912Z",
-                "2025-06-30T12:29:39.896150Z",
-                "2025-06-30T14:23:45.546271Z",
-                "2025-06-30T14:25:43.958286Z",
-                "2025-06-30T14:27:38.334898Z",
-                "2025-06-30T14:29:41.564266Z",
-                "2025-06-30T14:31:47.267727Z",
-                "2025-06-30T14:33:44.113661Z",
-                "2025-06-30T14:35:26.005810Z",
-                "2025-06-30T16:47:29.512810Z",
-                "2025-06-30T16:49:28.808290Z",
-                "2025-06-30T16:51:27.902674Z",
-                "2025-06-30T16:53:32.572695Z",
-                "2025-06-30T16:55:29.120268Z",
-                "2025-06-30T16:57:30.156130Z",
-                "2025-06-30T16:59:49.157152Z",
-                "2025-06-30T18:47:38.182004Z",
-                "2025-06-30T18:49:28.965373Z",
-                "2025-06-30T18:51:43.326869Z",
-                "2025-06-30T18:53:34.654270Z",
-                "2025-06-30T18:55:47.457979Z",
-                "2025-06-30T18:57:41.158704Z",
-                "2025-06-30T18:59:45.170826Z",
-                "2025-06-30T19:45:33.137251Z",
-                "2025-06-30T19:47:38.996577Z",
-                "2025-06-30T19:49:27.442511Z",
-                "2025-06-30T19:51:54.119221Z",
-                "2025-06-30T19:53:39.468683Z",
-                "2025-06-30T19:55:33.080713Z",
-                "2025-06-30T19:57:29.165443Z",
-                "2025-06-30T22:27:33.731723Z",
-                "2025-06-30T22:29:23.522246Z",
-                "2025-06-30T22:32:13.280649Z",
-                "2025-06-30T22:35:38.128109Z",
-                "2025-06-30T22:37:18.975543Z",
-                "2025-06-30T22:39:54.672897Z",
-                "2025-06-30T22:41:41.186989Z"
-            ]
-        },
-        {
-            "id": "180ad376beaef2b312002d09637949fa",
-            "source": "spacenews",
-            "text": "Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities",
-            "source_link": "https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T12:31:53.917527Z",
-            "shown_at": [
-                "2025-06-30T12:31:54.474172Z"
-            ]
-        },
-        {
-            "id": "4a5f4c5fbed954b181317961532e7181",
-            "source": "spacenews",
-            "text": "Space is hard. There is no excuse for pretending it’s easy.",
-            "source_link": "https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T13:13:45.257988Z",
-            "shown_at": [
-                "2025-06-30T13:13:46.609709Z"
-            ]
-        },
-        {
-            "id": "22960889b5b828f24a065dac28aa75bc",
-            "source": "spacenews",
-            "text": "Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit",
-            "source_link": "https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T16:19:43.126583Z",
-            "shown_at": [
-                "2025-06-30T16:19:45.033368Z"
-            ]
-        },
-        {
-            "id": "74c40c3ff1f1966e7f0767864177a5bb",
-            "source": "spacenews",
-            "text": "Stanford spinoff EraDrive claims $1 million NASA contract",
-            "source_link": "https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T16:19:43.126638Z",
-            "shown_at": [
-                "2025-06-30T16:33:39.142915Z"
-            ]
-        },
-        {
-            "id": "27a9795afc9f6828ffa44f2615b4a1a5",
-            "source": "spacenews",
-            "text": "Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit",
-            "source_link": "https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T17:31:50.003049Z",
-            "shown_at": [
-                "2025-06-30T17:31:50.983060Z"
-            ]
-        },
-        {
-            "id": "252d032cb1da2fbeac8fd23a3f0649c0",
-            "source": "spacenews",
-            "text": "NOAA budget proposal seeks to cancel TraCSS",
-            "source_link": "https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T19:59:38.629519Z",
-            "shown_at": [
-                "2025-06-30T19:59:39.626855Z",
-                "2025-06-30T21:11:38.934629Z"
-            ]
-        },
-        {
-            "id": "851b31d4e6c99bff8cbb61026506cc92",
-            "source": "spacenews",
-            "text": "France backs Skynopy’s global expansion with plans for 100+ ground antennas",
-            "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T19:59:38.629573Z",
-            "shown_at": [
-                "2025-06-30T20:15:40.855930Z"
-            ]
-        },
-        {
-            "id": "0a144445ec248bd5f4162d43cfc659b1",
-            "source": "spacenews",
-            "text": "Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station",
-            "source_link": "https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T21:59:56.239991Z",
-            "shown_at": [
-                "2025-06-30T21:59:56.849809Z"
-            ]
-        },
-        {
-            "id": "9dc597af2099cf3e96560e809094d0dc",
-            "source": "spacenews",
-            "text": "Skynopy plans 100+ antenna expansion with strategic backing from France",
-            "source_link": "https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T21:59:56.240182Z",
-            "shown_at": [
-                "2025-06-30T22:13:36.631149Z"
-            ]
-        },
-        {
-            "id": "427f956add5c931aa2ba92d5ec6c4dde",
-            "source": "spacenews",
-            "text": "Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring",
-            "source_link": "https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T22:43:26.732190Z",
-            "shown_at": [
-                "2025-06-30T22:43:27.288266Z"
             ]
         }
     ]
