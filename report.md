@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 30 | 56 |
 | supercluster | 0 | 1 | 126 | 133 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -4816,3 +4816,4 @@
 - **Jul 01, 01:11 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:13 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:15 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
+- **Jul 01, 01:29 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
