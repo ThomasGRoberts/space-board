@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 30 | 55 |
+| spacenews | 9 | 13 | 30 | 56 |
 | supercluster | 0 | 1 | 126 | 133 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4815,3 +4815,4 @@
 - **Jul 01, 01:09 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:11 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 01:13 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 01:15 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
