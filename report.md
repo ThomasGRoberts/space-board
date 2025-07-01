@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 55 |
 | supercluster | 0 | 1 | 119 | 126 |
-| nyt | 0 | 0 | 24 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4807,3 +4807,4 @@
 - **Jul 01, 12:03 PM** - Rocket Lab launches second Electron within 48 hours (spacenews)
 - **Jul 01, 12:19 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 12:33 PM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jul 01, 12:47 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
