@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 57 |
 | supercluster | 0 | 1 | 133 | 147 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
 # Shown Order
@@ -4836,3 +4836,4 @@
 - **Jul 01, 03:05 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 03:07 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 03:09 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
+- **Jul 01, 03:24 PM** - Sync Your Calendar With the Solar System (nyt)
