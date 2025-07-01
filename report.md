@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 29 | 57 |
-| supercluster | 0 | 1 | 147 | 175 |
-| nyt | 0 | 0 | 23 | 47 |
+| supercluster | 0 | 1 | 146 | 175 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -4877,3 +4877,4 @@
 - **Jul 01, 07:29 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 07:31 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 07:33 PM** - MethaneSAT fails in orbit (spacenews)
+- **Jul 01, 07:47 PM** - Sync Your Calendar With the Solar System (nyt)
