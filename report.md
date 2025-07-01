@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 27 | 57 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4716,3 +4716,4 @@
 - **Jul 01, 11:07 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
 - **Jul 01, 11:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 01, 11:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 01, 11:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
