@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 30 | 56 |
-| supercluster | 0 | 1 | 126 | 133 |
+| supercluster | 0 | 1 | 127 | 134 |
 | nyt | 0 | 0 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
@@ -4818,3 +4818,4 @@
 - **Jul 01, 01:15 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
 - **Jul 01, 01:29 PM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
 - **Jul 01, 01:43 PM** - The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video] (breaking_defense)
+- **Jul 01, 01:57 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
