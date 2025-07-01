@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 30 | 56 |
-| supercluster | 0 | 1 | 139 | 153 |
+| spacenews | 8 | 12 | 29 | 56 |
+| supercluster | 0 | 1 | 140 | 154 |
 | nyt | 0 | 0 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 
@@ -4845,3 +4845,4 @@
 - **Jul 01, 04:15 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:17 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:19 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
+- **Jul 01, 04:21 PM** - SpaceX Will Launch European Environmental Satellite (supercluster)
