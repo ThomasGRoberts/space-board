@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 53 |
-| supercluster | 1 | 2 | 163 | 232 |
+| supercluster | 1 | 2 | 163 | 233 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 
@@ -4877,3 +4877,4 @@
 - **Jul 01, 12:39 AM** - Laser rangefinder problems blamed for second ispace lunar lander crash (spacenews)
 - **Jul 01, 12:53 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 01, 01:07 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 01, 01:21 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
