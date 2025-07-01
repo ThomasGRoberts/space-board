@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 1 | 119 | 119 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4795,3 +4795,4 @@
 - **Jul 01, 11:01 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 11:03 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 11:05 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
+- **Jul 01, 11:19 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
