@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 30 | 54 |
 | supercluster | 1 | 2 | 168 | 260 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4915,3 +4915,4 @@
 - **Jul 01, 04:21 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:23 AM** - SpaceX Will Launch European Environmental Satellite (supercluster)
 - **Jul 01, 04:25 AM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
+- **Jul 01, 04:39 AM** - SpaceX to Launch Axiom Mission 4: How to Watch (nyt)
