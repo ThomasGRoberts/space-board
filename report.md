@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 26 | 55 |
 | nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -4751,3 +4751,4 @@
 - **Jul 02, 04:55 PM** - DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project (spacenews)
 - **Jul 02, 05:11 PM** - Defense Satellites to redefine Global Earth Observation Strategy (spacenews)
 - **Jul 02, 05:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 05:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
