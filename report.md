@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 25 | 54 |
 | nyt | 0 | 0 | 20 | 44 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
@@ -4768,3 +4768,4 @@
 - **Jul 02, 06:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 06:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 06:41 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
+- **Jul 02, 06:55 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
