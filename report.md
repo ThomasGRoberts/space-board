@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 25 | 54 |
+| spacenews | 11 | 18 | 26 | 55 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 65 | 65 |
@@ -4759,3 +4759,4 @@
 - **Jul 02, 05:38 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 05:42 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 02, 05:59 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 02, 06:13 PM** - Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit (spacenews)
