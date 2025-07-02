@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 21 | 45 |
+| breaking_defense | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -4695,3 +4695,4 @@
 - **Jul 02, 09:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 09:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 09:28 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jul 02, 09:43 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
