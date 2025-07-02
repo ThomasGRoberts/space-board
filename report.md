@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 26 | 52 |
 | nyt | 1 | 1 | 20 | 43 |
-| breaking_defense | 0 | 0 | 19 | 43 |
+| breaking_defense | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -4711,3 +4711,4 @@
 - **Jul 02, 10:38 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 02, 10:39 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 02, 10:53 PM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
+- **Jul 02, 11:07 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
