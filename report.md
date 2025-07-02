@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4729,3 +4729,4 @@
 - **Jul 02, 12:49 PM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
 - **Jul 02, 01:03 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 01:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 01:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
