@@ -1,9 +1,104 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-01T00:02:03.616169+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
+    "trigger_count": 6,
     "current_item_id": "9b2c48e26892f1da369cd767675a3e23",
     "data": [
+        {
+            "id": "efc5d342279b0b51726611e96bb1deea",
+            "source": "spacenews",
+            "text": "LeoLabs secures U.S. military funding for missile-tracking mobile radar",
+            "source_link": "https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T23:07:44.737709Z",
+            "shown_at": [
+                "2025-07-01T23:07:45.946302Z"
+            ]
+        },
+        {
+            "id": "ed9dad23146ad7a41f94107cd52e0fdd",
+            "source": "spacenews",
+            "text": "CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy",
+            "source_link": "https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T22:39:29.728820Z",
+            "shown_at": [
+                "2025-07-01T22:39:30.278745Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-25",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-02T05:29:00.000Z",
+            "time_remaining": "0d 05h 55m",
+            "fetched_datetime": "2025-07-01T22:05:40.809036Z",
+            "shown_at": [
+                "2025-07-01T22:05:41.854226Z",
+                "2025-07-01T22:07:58.565192Z",
+                "2025-07-01T23:21:53.974401Z",
+                "2025-07-01T23:23:28.463139Z",
+                "2025-07-01T23:25:42.263395Z",
+                "2025-07-01T23:27:21.789559Z",
+                "2025-07-01T23:29:23.534469Z",
+                "2025-07-01T23:31:18.585316Z",
+                "2025-07-01T23:33:28.705694Z"
+            ]
+        },
+        {
+            "id": "5093d33a17abefe52d178cfe06f450c4",
+            "source": "spacenews",
+            "text": "MethaneSAT fails in orbit",
+            "source_link": "https://spacenews.com/methanesat-fails-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T19:33:27.106647Z",
+            "shown_at": [
+                "2025-07-01T19:33:27.753605Z"
+            ]
+        },
+        {
+            "id": "5aa25092dd26db48e0433dcd7b2683c9",
+            "source": "spacenews",
+            "text": "Planet pushes into European market, announces new agreement with Germany",
+            "source_link": "https://spacenews.com/planet-pushes-into-european-market-announces-new-agreement-with-germany/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T18:34:02.698501Z",
+            "shown_at": [
+                "2025-07-01T18:34:03.906583Z"
+            ]
+        },
+        {
+            "id": "eb5672354aabe7a11e63ffa347307aeb",
+            "source": "spacenews",
+            "text": "Building the future of SpaceNews",
+            "source_link": "https://spacenews.com/building-the-future-of-spacenews/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T15:39:45.870135Z",
+            "shown_at": [
+                "2025-07-01T15:39:46.451667Z"
+            ]
+        },
+        {
+            "id": "c13024b28d3a4d57def99010239ab813",
+            "source": "spacenews",
+            "text": "Introduction of EU Space Act marks start of debate on regulations",
+            "source_link": "https://spacenews.com/introduction-of-eu-space-act-marks-start-of-debate-on-regulations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-01T12:19:41.518257Z",
+            "shown_at": [
+                "2025-07-01T12:19:42.549766Z",
+                "2025-07-01T15:09:28.983581Z"
+            ]
+        },
         {
             "id": "427f956add5c931aa2ba92d5ec6c4dde",
             "source": "spacenews",
@@ -10054,225 +10149,6 @@
                 "2025-04-26T14:19:34.565023Z",
                 "2025-04-28T17:37:35.049867Z",
                 "2025-04-29T04:35:30.114117Z"
-            ]
-        },
-        {
-            "id": "d8e804370c0841c116cddc526f624468",
-            "source": "spacenews",
-            "text": "Okapi raises 13 million euros to expand space traffic management suite",
-            "source_link": "https://spacenews.com/okapi-raises-13-million-euros-to-expand-space-traffic-management-suite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T11:09:36.459014Z",
-            "shown_at": [
-                "2025-04-24T11:09:37.453773Z",
-                "2025-04-26T15:15:05.159417Z",
-                "2025-04-26T19:03:35.696461Z",
-                "2025-04-27T04:51:29.931662Z",
-                "2025-04-29T03:37:45.274001Z",
-                "2025-05-01T07:27:28.446392Z"
-            ]
-        },
-        {
-            "id": "15fe58cfa37f8717f74f2881b108cd06",
-            "source": "spacenews",
-            "text": "Boeing reports progress on containing Starliner costs",
-            "source_link": "https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T10:41:33.591308Z",
-            "shown_at": [
-                "2025-04-24T10:55:32.660883Z",
-                "2025-04-25T01:27:23.139614Z",
-                "2025-04-27T18:59:31.858745Z",
-                "2025-04-29T05:32:30.317852Z",
-                "2025-04-30T11:31:49.814048Z",
-                "2025-04-30T19:19:51.770277Z"
-            ]
-        },
-        {
-            "id": "4f8524284ac6e6512ea485a1acab7785",
-            "source": "spacenews",
-            "text": "Katalyst Space acquires Atomos to accelerate in-space services",
-            "source_link": "https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T10:41:33.591255Z",
-            "shown_at": [
-                "2025-04-24T10:41:34.217365Z",
-                "2025-04-26T08:37:27.216054Z",
-                "2025-04-26T17:07:29.478424Z",
-                "2025-04-28T09:00:06.910142Z",
-                "2025-04-29T17:07:27.293345Z",
-                "2025-04-29T18:05:30.098255Z"
-            ]
-        },
-        {
-            "id": "ba60ae3b953dcdb3a9300a4fe4fb4ec7",
-            "source": "spacenews",
-            "text": "The guardian’s rifle: why mission-essential space support cannot be outsourced",
-            "source_link": "https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T13:01:02.536404Z",
-            "shown_at": [
-                "2025-04-23T13:01:03.197815Z",
-                "2025-04-24T18:47:40.786014Z",
-                "2025-04-27T09:33:23.400060Z",
-                "2025-04-27T20:51:33.637268Z",
-                "2025-04-28T00:23:27.031066Z",
-                "2025-04-28T19:17:28.407269Z",
-                "2025-04-29T20:27:29.850501Z"
-            ]
-        },
-        {
-            "id": "adb753a5328fd95e3831e29a44805df5",
-            "source": "nyt",
-            "text": "At the American Museum of Natural History, a Look to Outer Space",
-            "source_link": "https://www.nytimes.com/2025/04/23/arts/design/natural-history-museum-space-photography.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-23T09:19:30.153873Z",
-            "shown_at": [
-                "2025-04-23T09:19:30.729112Z",
-                "2025-04-23T13:52:15.893356Z",
-                "2025-04-24T00:19:30.999681Z",
-                "2025-04-24T08:55:39.852467Z",
-                "2025-04-24T11:23:39.373763Z",
-                "2025-04-24T15:13:35.625252Z",
-                "2025-04-24T20:11:33.630819Z",
-                "2025-04-25T00:11:42.539078Z",
-                "2025-04-25T10:19:41.293550Z",
-                "2025-04-25T12:45:46.731316Z",
-                "2025-04-25T20:35:40.726757Z",
-                "2025-04-25T23:26:02.815025Z",
-                "2025-04-26T07:53:26.942397Z",
-                "2025-04-26T10:45:40.515725Z",
-                "2025-04-26T13:37:52.744304Z",
-                "2025-04-26T15:29:40.238099Z",
-                "2025-04-26T21:27:35.621831Z",
-                "2025-04-26T23:19:25.860005Z",
-                "2025-04-27T02:09:40.167724Z",
-                "2025-04-27T06:57:37.639175Z",
-                "2025-04-27T15:41:54.564113Z",
-                "2025-04-27T20:23:43.266006Z",
-                "2025-04-28T04:29:35.794060Z",
-                "2025-04-28T05:31:53.251894Z",
-                "2025-04-28T08:41:55.337453Z",
-                "2025-04-28T10:29:38.664714Z",
-                "2025-04-28T13:21:35.016009Z",
-                "2025-04-28T15:25:29.234373Z",
-                "2025-04-28T17:23:37.784339Z",
-                "2025-04-28T18:35:32.131785Z",
-                "2025-04-28T19:31:44.860350Z",
-                "2025-04-28T22:07:36.422329Z",
-                "2025-04-29T03:51:45.370758Z",
-                "2025-04-29T06:43:39.743319Z",
-                "2025-04-29T08:39:41.331226Z",
-                "2025-04-29T10:35:57.447074Z",
-                "2025-04-29T18:19:42.447575Z",
-                "2025-04-29T19:17:17.697434Z",
-                "2025-04-29T23:15:45.938586Z",
-                "2025-04-30T02:25:35.333549Z",
-                "2025-04-30T03:21:43.574517Z",
-                "2025-04-30T04:17:33.262409Z",
-                "2025-04-30T07:07:32.218913Z",
-                "2025-04-30T08:21:46.628185Z"
-            ]
-        },
-        {
-            "id": "c13024b28d3a4d57def99010239ab813",
-            "source": "spacenews",
-            "text": "Introduction of EU Space Act marks start of debate on regulations",
-            "source_link": "https://spacenews.com/introduction-of-eu-space-act-marks-start-of-debate-on-regulations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T12:19:41.518257Z",
-            "shown_at": [
-                "2025-07-01T12:19:42.549766Z",
-                "2025-07-01T15:09:28.983581Z"
-            ]
-        },
-        {
-            "id": "eb5672354aabe7a11e63ffa347307aeb",
-            "source": "spacenews",
-            "text": "Building the future of SpaceNews",
-            "source_link": "https://spacenews.com/building-the-future-of-spacenews/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T15:39:45.870135Z",
-            "shown_at": [
-                "2025-07-01T15:39:46.451667Z"
-            ]
-        },
-        {
-            "id": "5aa25092dd26db48e0433dcd7b2683c9",
-            "source": "spacenews",
-            "text": "Planet pushes into European market, announces new agreement with Germany",
-            "source_link": "https://spacenews.com/planet-pushes-into-european-market-announces-new-agreement-with-germany/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T18:34:02.698501Z",
-            "shown_at": [
-                "2025-07-01T18:34:03.906583Z"
-            ]
-        },
-        {
-            "id": "5093d33a17abefe52d178cfe06f450c4",
-            "source": "spacenews",
-            "text": "MethaneSAT fails in orbit",
-            "source_link": "https://spacenews.com/methanesat-fails-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T19:33:27.106647Z",
-            "shown_at": [
-                "2025-07-01T19:33:27.753605Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-25",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-02T05:29:00.000Z",
-            "time_remaining": "0d 05h 55m",
-            "fetched_datetime": "2025-07-01T22:05:40.809036Z",
-            "shown_at": [
-                "2025-07-01T22:05:41.854226Z",
-                "2025-07-01T22:07:58.565192Z",
-                "2025-07-01T23:21:53.974401Z",
-                "2025-07-01T23:23:28.463139Z",
-                "2025-07-01T23:25:42.263395Z",
-                "2025-07-01T23:27:21.789559Z",
-                "2025-07-01T23:29:23.534469Z",
-                "2025-07-01T23:31:18.585316Z",
-                "2025-07-01T23:33:28.705694Z"
-            ]
-        },
-        {
-            "id": "ed9dad23146ad7a41f94107cd52e0fdd",
-            "source": "spacenews",
-            "text": "CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy",
-            "source_link": "https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T22:39:29.728820Z",
-            "shown_at": [
-                "2025-07-01T22:39:30.278745Z"
-            ]
-        },
-        {
-            "id": "efc5d342279b0b51726611e96bb1deea",
-            "source": "spacenews",
-            "text": "LeoLabs secures U.S. military funding for missile-tracking mobile radar",
-            "source_link": "https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T23:07:44.737709Z",
-            "shown_at": [
-                "2025-07-01T23:07:45.946302Z"
             ]
         }
     ]
