@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 26 | 52 |
 | nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4706,3 +4706,4 @@
 - **Jul 02, 09:09 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 02, 09:25 PM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
 - **Jul 02, 10:32 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 02, 10:33 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
