@@ -5,6 +5,7 @@
 | spacenews | 10 | 17 | 27 | 54 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 44 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4704,3 +4705,4 @@
 - **Jul 02, 08:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 02, 09:09 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 02, 09:25 PM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
+- **Jul 02, 09:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
