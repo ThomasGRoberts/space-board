@@ -5,7 +5,7 @@
 | spacenews | 10 | 17 | 26 | 54 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4783,3 +4783,4 @@
 - **Jul 02, 08:23 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
 - **Jul 02, 08:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 08:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 08:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
