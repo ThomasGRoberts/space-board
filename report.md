@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -4708,3 +4708,4 @@
 - **Jul 02, 10:41 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 10:55 AM** - Final H-2A launches Earth science satellite (spacenews)
 - **Jul 02, 11:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 11:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
