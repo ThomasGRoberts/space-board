@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 56 |
+| spacenews | 7 | 17 | 27 | 57 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -4686,3 +4686,4 @@
 - **Jul 02, 08:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 08:31 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jul 02, 08:45 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 02, 08:59 AM** - All eyes on the moon: sharing information for lunar peace, safety and sustainability (spacenews)
