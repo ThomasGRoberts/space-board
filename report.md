@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -4688,3 +4688,4 @@
 - **Jul 02, 08:45 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 02, 08:59 AM** - All eyes on the moon: sharing information for lunar peace, safety and sustainability (spacenews)
 - **Jul 02, 09:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 09:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
