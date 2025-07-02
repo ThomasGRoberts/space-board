@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16b4db6033edbaa0134cb155082a5405",
+    "trigger_count": 0,
+    "current_item_id": "aaa278fdf36bdb179aee05e72dd35f47",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10150,6 +10150,18 @@
                 "2025-04-26T14:19:34.565023Z",
                 "2025-04-28T17:37:35.049867Z",
                 "2025-04-29T04:35:30.114117Z"
+            ]
+        },
+        {
+            "id": "aaa278fdf36bdb179aee05e72dd35f47",
+            "source": "spacenews",
+            "text": "Falcon 9 launches European weather satellite",
+            "source_link": "https://spacenews.com/falcon-9-launches-european-weather-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T00:17:49.874313Z",
+            "shown_at": [
+                "2025-07-02T00:17:50.879775Z"
             ]
         }
     ]

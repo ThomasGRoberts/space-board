@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 27 | 57 |
+| spacenews | 7 | 17 | 28 | 58 |
 | supercluster | 1 | 1 | 9 | 9 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4655,3 +4655,4 @@
 - **Jul 01, 11:35 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 01, 11:49 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 02, 12:03 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)
+- **Jul 02, 12:17 AM** - Falcon 9 launches European weather satellite (spacenews)
