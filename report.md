@@ -5,7 +5,7 @@
 | spacenews | 11 | 18 | 26 | 55 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -4760,3 +4760,4 @@
 - **Jul 02, 05:42 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 02, 05:59 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 02, 06:13 PM** - Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit (spacenews)
+- **Jul 02, 06:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
