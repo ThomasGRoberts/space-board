@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 57 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 21 | 44 |
+| breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
@@ -4737,3 +4737,4 @@
 - **Jul 02, 01:17 PM** - This is not the time to cut space-enabled medical research (spacenews)
 - **Jul 02, 01:32 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
 - **Jul 02, 01:47 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jul 02, 02:02 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
