@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 28 | 58 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
@@ -4686,3 +4686,4 @@
 - **Jul 02, 02:41 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 02, 02:55 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 03:11 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
+- **Jul 02, 03:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
