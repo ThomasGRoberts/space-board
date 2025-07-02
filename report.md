@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 30 | 30 |
 
@@ -4704,3 +4704,4 @@
 - **Jul 02, 10:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 10:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 10:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 10:27 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
