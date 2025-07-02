@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 27 | 57 |
 | supercluster | 1 | 1 | 44 | 44 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -4703,3 +4703,4 @@
 - **Jul 02, 04:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 04:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 02, 04:37 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
