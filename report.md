@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 27 | 57 |
 | supercluster | 1 | 1 | 37 | 37 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4694,3 +4694,4 @@
 - **Jul 02, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 03:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 03:39 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
+- **Jul 02, 03:53 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
