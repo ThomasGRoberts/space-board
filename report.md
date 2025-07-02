@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -4698,3 +4698,4 @@
 - **Jul 02, 09:43 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 02, 09:57 AM** - Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit (spacenews)
 - **Jul 02, 10:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 10:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
