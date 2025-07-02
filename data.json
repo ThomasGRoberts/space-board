@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "19c536698e67a581ac047fa1f69af015",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10252,6 +10252,27 @@
             "shown_at": [
                 "2025-07-02T12:49:29.910705Z"
             ]
+        },
+        {
+            "id": "19c536698e67a581ac047fa1f69af015",
+            "source": "spacenews",
+            "text": "This is not the time to cut space-enabled medical research",
+            "source_link": "https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T13:17:24.545058Z",
+            "shown_at": [
+                "2025-07-02T13:17:25.074168Z"
+            ]
+        },
+        {
+            "id": "788ece09c70781c4e8419c1558c97f46",
+            "source": "spacenews",
+            "text": "Space Force to fund development of Atomic-6 solar power for satellites",
+            "source_link": "https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T13:17:24.545126Z"
         }
     ]
 }
