@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 25 | 52 |
 | nyt | 1 | 1 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4713,3 +4713,4 @@
 - **Jul 02, 10:53 PM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
 - **Jul 02, 11:07 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 02, 11:21 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 02, 11:23 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
