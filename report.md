@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 24 | 53 |
+| spacenews | 10 | 18 | 25 | 54 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 58 | 58 |
@@ -4748,3 +4748,4 @@
 - **Jul 02, 03:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 03:56 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 02, 04:41 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 02, 04:55 PM** - DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project (spacenews)
