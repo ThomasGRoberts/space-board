@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19c536698e67a581ac047fa1f69af015",
+    "trigger_count": 0,
+    "current_item_id": "788ece09c70781c4e8419c1558c97f46",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10270,9 +10270,12 @@
             "source": "spacenews",
             "text": "Space Force to fund development of Atomic-6 solar power for satellites",
             "source_link": "https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-02T13:17:24.545126Z"
+            "fetched_datetime": "2025-07-02T13:17:24.545126Z",
+            "shown_at": [
+                "2025-07-02T13:32:08.914558Z"
+            ]
         }
     ]
 }
