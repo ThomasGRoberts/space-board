@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 28 | 58 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
@@ -4667,3 +4667,4 @@
 - **Jul 02, 12:59 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 01:13 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jul 02, 01:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 02, 01:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
