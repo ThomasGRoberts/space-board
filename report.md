@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4663,3 +4663,4 @@
 - **Jul 02, 04:51 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 05:05 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
 - **Jul 02, 06:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 06:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
