@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04972f8032882e6b1b07f3a89abdd2c4",
+    "trigger_count": 0,
+    "current_item_id": "2051afb3468cf3cd213e3178109ac5d2",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10277,6 +10277,18 @@
             "fetched_datetime": "2025-07-02T13:17:24.545126Z",
             "shown_at": [
                 "2025-07-02T13:32:08.914558Z"
+            ]
+        },
+        {
+            "id": "2051afb3468cf3cd213e3178109ac5d2",
+            "source": "spacenews",
+            "text": "Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge",
+            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T14:20:27.942107Z",
+            "shown_at": [
+                "2025-07-02T14:20:28.575147Z"
             ]
         }
     ]
