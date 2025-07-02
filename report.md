@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -4664,3 +4664,4 @@
 - **Jul 02, 05:05 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
 - **Jul 02, 06:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 06:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 06:33 AM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
