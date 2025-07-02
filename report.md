@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -4677,3 +4677,4 @@
 - **Jul 02, 07:31 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jul 02, 07:45 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 02, 08:02 AM** - Lux Aeterna emerges from stealth with funds for fully reusable satellite platform (spacenews)
+- **Jul 02, 08:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
