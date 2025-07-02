@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 54 |
-| nyt | 0 | 0 | 20 | 43 |
+| nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | supercluster | 1 | 1 | 79 | 79 |
 
@@ -4777,3 +4777,4 @@
 - **Jul 02, 07:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 07:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 07:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 07:39 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
