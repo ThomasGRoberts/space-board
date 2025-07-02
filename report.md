@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 27 | 57 |
 | supercluster | 1 | 1 | 16 | 16 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -4664,3 +4664,4 @@
 - **Jul 02, 12:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 12:45 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
+- **Jul 02, 12:59 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
