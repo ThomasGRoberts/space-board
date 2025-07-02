@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 25 | 51 |
+| spacenews | 9 | 15 | 26 | 52 |
 | nyt | 1 | 1 | 20 | 44 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 19 | 43 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -4720,3 +4720,4 @@
 - **Jul 02, 11:31 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 02, 11:33 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 02, 11:35 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 02, 11:49 PM** - Blue Origin launches third New Shepard mission within three months (spacenews)
