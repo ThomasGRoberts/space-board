@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d5a99a8171cb0199ed501a671f0fac0",
+    "trigger_count": 0,
+    "current_item_id": "984c2a19373ce8ba45c521e6e6f703d8",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10304,6 +10304,18 @@
             "fetched_datetime": "2025-07-02T22:39:45.557642Z",
             "shown_at": [
                 "2025-07-02T22:39:46.522947Z"
+            ]
+        },
+        {
+            "id": "984c2a19373ce8ba45c521e6e6f703d8",
+            "source": "spacenews",
+            "text": "Latitude announces new factory and contracts for Zephyr small launcher",
+            "source_link": "https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T22:53:21.681620Z",
+            "shown_at": [
+                "2025-07-02T22:53:22.327147Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 25 | 51 |
+| spacenews | 10 | 15 | 26 | 52 |
 | nyt | 1 | 1 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -4710,3 +4710,4 @@
 - **Jul 02, 10:35 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 02, 10:38 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 02, 10:39 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 02, 10:53 PM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
