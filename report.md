@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 25 | 54 |
+| spacenews | 10 | 18 | 26 | 55 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 72 | 72 |
@@ -4769,3 +4769,4 @@
 - **Jul 02, 06:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 06:41 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 02, 06:55 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 02, 07:11 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
