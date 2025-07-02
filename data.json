@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+    "trigger_count": 0,
+    "current_item_id": "1d5a99a8171cb0199ed501a671f0fac0",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10292,6 +10292,18 @@
                 "2025-07-02T22:33:47.408507Z",
                 "2025-07-02T22:35:41.602906Z",
                 "2025-07-02T22:38:04.093617Z"
+            ]
+        },
+        {
+            "id": "1d5a99a8171cb0199ed501a671f0fac0",
+            "source": "nyt",
+            "text": "Third Interstellar Object Enters the Solar System",
+            "source_link": "https://www.nytimes.com/2025/07/02/science/interstellar-object-a11pi3z.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T22:39:45.557642Z",
+            "shown_at": [
+                "2025-07-02T22:39:46.522947Z"
             ]
         }
     ]
