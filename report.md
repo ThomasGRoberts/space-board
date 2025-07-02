@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4669,3 +4669,4 @@
 - **Jul 02, 07:03 AM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
 - **Jul 02, 07:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 07:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 07:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
