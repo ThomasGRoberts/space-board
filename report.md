@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -4727,3 +4727,4 @@
 - **Jul 02, 12:19 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 02, 12:35 PM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 12:49 PM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
+- **Jul 02, 01:03 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
