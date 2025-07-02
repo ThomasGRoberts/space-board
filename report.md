@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 27 | 57 |
+| spacenews | 7 | 17 | 28 | 58 |
 | supercluster | 1 | 1 | 16 | 16 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4665,3 +4665,4 @@
 - **Jul 02, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 12:45 AM** - Four Astronauts Lift Off on Axiom Mission to the I.S.S. (nyt)
 - **Jul 02, 12:59 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
+- **Jul 02, 01:13 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
