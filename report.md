@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 27 | 57 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -4741,3 +4741,4 @@
 - **Jul 02, 02:20 PM** - Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge (spacenews)
 - **Jul 02, 02:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 02, 02:44 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 02, 02:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
