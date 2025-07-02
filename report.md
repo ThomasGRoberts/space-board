@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 27 | 57 |
+| spacenews | 7 | 17 | 28 | 58 |
 | supercluster | 1 | 1 | 23 | 23 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
@@ -4675,3 +4675,4 @@
 - **Jul 02, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 02, 01:42 AM** - Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73 (nyt)
 - **Jul 02, 01:57 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 02, 02:14 AM** - First Rubin Observatory images released amid concerns about budget cuts (spacenews)
