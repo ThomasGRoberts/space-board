@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 57 |
+| spacenews | 7 | 17 | 26 | 56 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4662,4 +4662,4 @@
 - **Jul 02, 04:37 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 02, 04:51 AM** - New NATO commercial space strategy seeks to prompt more investment (breaking_defense)
 - **Jul 02, 05:05 AM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
-- **Jul 02, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 02, 06:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
