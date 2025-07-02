@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 26 | 53 |
+| spacenews | 10 | 17 | 27 | 54 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 79 | 79 |
@@ -4780,3 +4780,4 @@
 - **Jul 02, 07:39 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 02, 07:53 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 02, 08:07 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
+- **Jul 02, 08:23 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)

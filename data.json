@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c2f145206ded69cd233e519940cabe99",
+    "trigger_count": 0,
+    "current_item_id": "911ee155e8a49d725a45e78173eef1cf",
     "data": [
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
@@ -10352,6 +10352,18 @@
             "fetched_datetime": "2025-07-02T17:11:38.573033Z",
             "shown_at": [
                 "2025-07-02T17:11:39.412037Z"
+            ]
+        },
+        {
+            "id": "911ee155e8a49d725a45e78173eef1cf",
+            "source": "spacenews",
+            "text": "National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program",
+            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T20:23:27.581123Z",
+            "shown_at": [
+                "2025-07-02T20:23:28.239170Z"
             ]
         }
     ]
