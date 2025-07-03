@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
-| nyt | 2 | 2 | 21 | 43 |
+| nyt | 2 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 74 | 74 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
@@ -4701,3 +4701,4 @@
 - **Jul 03, 08:03 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 08:05 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 08:07 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
+- **Jul 03, 08:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
