@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 25 | 52 |
 | nyt | 2 | 2 | 20 | 43 |
 | supercluster | 1 | 1 | 46 | 46 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 
 # Shown Order
 
@@ -4662,3 +4662,4 @@
 - **Jul 03, 04:17 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 04:19 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 03, 04:33 AM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
+- **Jul 03, 04:49 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
