@@ -1,9 +1,153 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-02T00:01:41.286523+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-07-03T00:01:44.883476+00:00",
+    "trigger_count": 6,
     "current_item_id": "87297978ecf738de58e3a5d3bedb75d4",
     "data": [
+        {
+            "id": "984c2a19373ce8ba45c521e6e6f703d8",
+            "source": "spacenews",
+            "text": "Latitude announces new factory and contracts for Zephyr small launcher",
+            "source_link": "https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T22:53:21.681620Z",
+            "shown_at": [
+                "2025-07-02T22:53:22.327147Z"
+            ]
+        },
+        {
+            "id": "1d5a99a8171cb0199ed501a671f0fac0",
+            "source": "nyt",
+            "text": "Third Interstellar Object Enters the Solar System",
+            "source_link": "https://www.nytimes.com/2025/07/02/science/interstellar-object-a11pi3z.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T22:39:45.557642Z",
+            "shown_at": [
+                "2025-07-02T22:39:46.522947Z"
+            ]
+        },
+        {
+            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+            "source": "supercluster",
+            "text": "Russia Will Launch Resupply Mission to the Space Station",
+            "source_link": "https://www.supercluster.com/launches/progress-ms-31",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-03T19:32:00.000Z",
+            "time_remaining": "0d 19h 58m",
+            "fetched_datetime": "2025-07-02T22:32:02.715813Z",
+            "shown_at": [
+                "2025-07-02T22:32:03.284335Z",
+                "2025-07-02T22:33:47.408507Z",
+                "2025-07-02T22:35:41.602906Z",
+                "2025-07-02T22:38:04.093617Z",
+                "2025-07-02T23:21:46.957797Z",
+                "2025-07-02T23:23:56.271365Z",
+                "2025-07-02T23:25:10.942933Z",
+                "2025-07-02T23:27:45.925290Z",
+                "2025-07-02T23:29:34.537871Z",
+                "2025-07-02T23:31:22.511973Z",
+                "2025-07-02T23:33:32.245192Z"
+            ]
+        },
+        {
+            "id": "911ee155e8a49d725a45e78173eef1cf",
+            "source": "spacenews",
+            "text": "National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program",
+            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T20:23:27.581123Z",
+            "shown_at": [
+                "2025-07-02T20:23:28.239170Z"
+            ]
+        },
+        {
+            "id": "68e0cb1f04dbde993f6a56cf3def9d94",
+            "source": "spacenews",
+            "text": "Defense Satellites to redefine Global Earth Observation Strategy",
+            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T17:11:38.573033Z",
+            "shown_at": [
+                "2025-07-02T17:11:39.412037Z"
+            ]
+        },
+        {
+            "id": "80110de2c2ff5576ac43aebed6abef25",
+            "source": "spacenews",
+            "text": "DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project",
+            "source_link": "https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T16:55:42.407727Z",
+            "shown_at": [
+                "2025-07-02T16:55:43.084698Z"
+            ]
+        },
+        {
+            "id": "2051afb3468cf3cd213e3178109ac5d2",
+            "source": "spacenews",
+            "text": "Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge",
+            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T14:20:27.942107Z",
+            "shown_at": [
+                "2025-07-02T14:20:28.575147Z"
+            ]
+        },
+        {
+            "id": "788ece09c70781c4e8419c1558c97f46",
+            "source": "spacenews",
+            "text": "Space Force to fund development of Atomic-6 solar power for satellites",
+            "source_link": "https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T13:17:24.545126Z",
+            "shown_at": [
+                "2025-07-02T13:32:08.914558Z"
+            ]
+        },
+        {
+            "id": "19c536698e67a581ac047fa1f69af015",
+            "source": "spacenews",
+            "text": "This is not the time to cut space-enabled medical research",
+            "source_link": "https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T13:17:24.545058Z",
+            "shown_at": [
+                "2025-07-02T13:17:25.074168Z"
+            ]
+        },
+        {
+            "id": "3bc248f3ceaaac7d6a19b3ca73b6abe9",
+            "source": "spacenews",
+            "text": "Boeing ships more O3b mPower satellites with fixes SES might no longer need",
+            "source_link": "https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T12:49:29.270117Z",
+            "shown_at": [
+                "2025-07-02T12:49:29.910705Z"
+            ]
+        },
+        {
+            "id": "aaa278fdf36bdb179aee05e72dd35f47",
+            "source": "spacenews",
+            "text": "Falcon 9 launches European weather satellite",
+            "source_link": "https://spacenews.com/falcon-9-launches-european-weather-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-02T00:17:49.874313Z",
+            "shown_at": [
+                "2025-07-02T00:17:50.879775Z"
+            ]
+        },
         {
             "id": "efc5d342279b0b51726611e96bb1deea",
             "source": "spacenews",
@@ -9963,369 +10107,6 @@
                 "2025-05-02T11:17:34.817945Z",
                 "2025-05-02T13:51:45.638229Z",
                 "2025-05-02T18:35:45.217262Z"
-            ]
-        },
-        {
-            "id": "32dbf73dd336144a79ef83b6c63e838c",
-            "source": "spacenews",
-            "text": "ISS implementation partners need to survive the transition to commercial LEO destinations",
-            "source_link": "https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T13:13:35.949714Z",
-            "shown_at": [
-                "2025-04-25T13:13:36.609959Z",
-                "2025-04-26T00:07:32.316595Z",
-                "2025-04-26T23:05:31.390014Z",
-                "2025-04-28T16:39:33.433557Z",
-                "2025-04-29T10:21:41.936285Z",
-                "2025-04-30T16:31:59.675584Z"
-            ]
-        },
-        {
-            "id": "1640332a600de8a6b59516c8e8bde8b7",
-            "source": "spacenews",
-            "text": "Isaacman calls potential NASA science cuts not “optimal”",
-            "source_link": "https://spacenews.com/isaacman-calls-potential-nasa-science-cuts-not-optimal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T11:29:36.535047Z",
-            "shown_at": [
-                "2025-04-25T11:29:37.184268Z",
-                "2025-04-26T19:59:24.829634Z",
-                "2025-04-27T05:47:26.742191Z",
-                "2025-04-29T07:25:30.192599Z",
-                "2025-05-01T02:41:40.512850Z"
-            ]
-        },
-        {
-            "id": "65e7021a139a7ac008037b19a27eb92b",
-            "source": "breaking_defense",
-            "text": "$150B defense boost in reconciliation bill to ‘immediately’ go towards Golden Dome, shipbuilding",
-            "source_link": "https://breakingdefense.com/2025/04/150b-defense-boost-in-reconciliation-bill-to-immediately-go-towards-golden-dome-shipbuilding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T11:15:29.466642Z",
-            "shown_at": [
-                "2025-04-25T11:15:30.117673Z",
-                "2025-04-25T13:27:25.034237Z",
-                "2025-04-25T14:23:23.825184Z",
-                "2025-04-25T15:21:58.944035Z",
-                "2025-04-25T16:19:30.837278Z",
-                "2025-04-25T17:17:29.737632Z",
-                "2025-04-25T18:13:32.342728Z",
-                "2025-04-25T22:43:43.473460Z",
-                "2025-04-25T23:39:42.093383Z",
-                "2025-04-26T00:35:37.866421Z",
-                "2025-04-26T02:29:29.396535Z",
-                "2025-04-26T03:25:42.511563Z",
-                "2025-04-26T04:23:06.877276Z",
-                "2025-04-26T05:19:27.450194Z",
-                "2025-04-26T06:15:32.250346Z",
-                "2025-04-26T08:07:30.186879Z",
-                "2025-04-26T11:55:27.163643Z",
-                "2025-04-26T14:47:35.298678Z",
-                "2025-04-26T15:43:31.577438Z",
-                "2025-04-26T16:39:32.867794Z",
-                "2025-04-26T17:35:10.707845Z",
-                "2025-04-26T21:41:32.533575Z",
-                "2025-04-27T00:30:21.820021Z",
-                "2025-04-27T02:23:29.750118Z",
-                "2025-04-27T04:23:48.279624Z",
-                "2025-04-27T06:16:05.054879Z",
-                "2025-04-27T07:11:39.727551Z",
-                "2025-04-27T08:07:32.049870Z",
-                "2025-04-27T11:11:42.945968Z",
-                "2025-04-27T12:10:09.942718Z",
-                "2025-04-27T15:13:18.628030Z",
-                "2025-04-27T18:17:49.176360Z",
-                "2025-04-27T19:13:10.154450Z",
-                "2025-04-27T20:09:32.524555Z",
-                "2025-04-28T00:09:43.043650Z",
-                "2025-04-28T03:17:25.619792Z",
-                "2025-04-28T04:15:31.839429Z",
-                "2025-04-28T09:42:22.829787Z",
-                "2025-04-28T10:57:46.795841Z",
-                "2025-04-28T13:08:01.727663Z",
-                "2025-04-28T17:09:39.580810Z",
-                "2025-04-28T18:07:33.907906Z",
-                "2025-04-28T19:03:28.257086Z",
-                "2025-04-28T19:59:35.737309Z",
-                "2025-04-29T05:03:24.936841Z",
-                "2025-04-29T16:53:35.203901Z",
-                "2025-04-29T23:02:00.353613Z",
-                "2025-04-30T00:12:16.113952Z",
-                "2025-04-30T02:11:35.103268Z",
-                "2025-04-30T03:07:54.384454Z",
-                "2025-04-30T05:55:30.193232Z",
-                "2025-04-30T08:49:35.019370Z",
-                "2025-04-30T12:19:51.168259Z",
-                "2025-04-30T17:13:38.022836Z",
-                "2025-04-30T18:09:31.215001Z",
-                "2025-04-30T23:09:37.095649Z",
-                "2025-05-01T07:43:29.647708Z",
-                "2025-05-01T15:35:41.327519Z",
-                "2025-05-01T17:43:08.074547Z",
-                "2025-05-01T19:55:28.280693Z",
-                "2025-05-01T20:51:58.602551Z",
-                "2025-05-01T22:32:02.903708Z"
-            ]
-        },
-        {
-            "id": "618c0250185b68d5635f897e4b1e0122",
-            "source": "spacenews",
-            "text": "China selects international payloads for Chang’e-8 lunar south pole mission",
-            "source_link": "https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T10:05:46.824546Z",
-            "shown_at": [
-                "2025-04-25T10:05:47.877522Z",
-                "2025-04-26T13:23:23.798649Z",
-                "2025-04-27T00:02:07.921633Z",
-                "2025-04-29T00:43:40.931538Z"
-            ]
-        },
-        {
-            "id": "23615b56481570b3fefcba2e235d3be7",
-            "source": "spacenews",
-            "text": "NASA cancels lease for Earth science office in New York",
-            "source_link": "https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T22:31:57.822483Z",
-            "shown_at": [
-                "2025-04-24T22:31:58.593788Z",
-                "2025-04-27T14:59:51.161297Z"
-            ]
-        },
-        {
-            "id": "b7bb6ee0ddd78092c9aa4fd4990991f1",
-            "source": "spacenews",
-            "text": "OroraTech opens US office to expand wildfire monitoring network",
-            "source_link": "https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T21:21:32.904449Z",
-            "shown_at": [
-                "2025-04-24T21:21:33.541714Z",
-                "2025-04-25T12:29:30.836621Z",
-                "2025-04-28T05:47:35.853395Z",
-                "2025-04-28T06:45:50.902873Z",
-                "2025-04-28T11:11:52.164711Z",
-                "2025-04-28T14:41:44.375525Z",
-                "2025-04-28T21:53:42.502043Z",
-                "2025-05-01T04:33:31.673139Z",
-                "2025-05-01T09:23:46.690104Z",
-                "2025-05-01T12:59:49.715273Z",
-                "2025-05-01T15:07:39.328513Z"
-            ]
-        },
-        {
-            "id": "f0f9f3805661a914644d0cbf293715cd",
-            "source": "spacenews",
-            "text": "Report warns U.S. risks strategic drift in space as China gains ground",
-            "source_link": "https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T17:47:36.507909Z",
-            "shown_at": [
-                "2025-04-24T17:47:37.547738Z",
-                "2025-04-26T02:57:32.904681Z",
-                "2025-04-30T20:19:38.531126Z"
-            ]
-        },
-        {
-            "id": "d3ceca90e1006f3eb01061eac3e61a47",
-            "source": "spacenews",
-            "text": "Shenzhou-20 crewed spacecraft arrives at Tiangong space station",
-            "source_link": "https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T17:05:21.713784Z",
-            "shown_at": [
-                "2025-04-24T17:05:22.305894Z",
-                "2025-04-25T23:11:39.807984Z",
-                "2025-04-27T06:43:45.317845Z",
-                "2025-04-27T11:55:04.043080Z"
-            ]
-        },
-        {
-            "id": "4d89b19fcdbe3ae3cfbd30d8728bc299",
-            "source": "spacenews",
-            "text": "China Report: Debris risks, startup funding and previewing Space Day",
-            "source_link": "https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T16:09:05.073270Z",
-            "shown_at": [
-                "2025-04-24T16:09:05.862426Z",
-                "2025-04-26T05:47:35.382329Z",
-                "2025-04-27T08:36:02.218828Z",
-                "2025-04-28T04:45:28.739063Z",
-                "2025-04-30T02:53:40.645121Z"
-            ]
-        },
-        {
-            "id": "96733d45c871bac6bf29b38e2f72e99b",
-            "source": "spacenews",
-            "text": "Hidden and hampered: elevating the Office of Commercial Space Transportation",
-            "source_link": "https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-24T13:05:35.077429Z",
-            "shown_at": [
-                "2025-04-24T13:05:36.229633Z",
-                "2025-04-24T22:17:34.518279Z",
-                "2025-04-25T03:35:33.883782Z",
-                "2025-04-26T01:06:03.460374Z",
-                "2025-04-26T14:19:34.565023Z",
-                "2025-04-28T17:37:35.049867Z",
-                "2025-04-29T04:35:30.114117Z"
-            ]
-        },
-        {
-            "id": "aaa278fdf36bdb179aee05e72dd35f47",
-            "source": "spacenews",
-            "text": "Falcon 9 launches European weather satellite",
-            "source_link": "https://spacenews.com/falcon-9-launches-european-weather-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T00:17:49.874313Z",
-            "shown_at": [
-                "2025-07-02T00:17:50.879775Z"
-            ]
-        },
-        {
-            "id": "3bc248f3ceaaac7d6a19b3ca73b6abe9",
-            "source": "spacenews",
-            "text": "Boeing ships more O3b mPower satellites with fixes SES might no longer need",
-            "source_link": "https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T12:49:29.270117Z",
-            "shown_at": [
-                "2025-07-02T12:49:29.910705Z"
-            ]
-        },
-        {
-            "id": "19c536698e67a581ac047fa1f69af015",
-            "source": "spacenews",
-            "text": "This is not the time to cut space-enabled medical research",
-            "source_link": "https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T13:17:24.545058Z",
-            "shown_at": [
-                "2025-07-02T13:17:25.074168Z"
-            ]
-        },
-        {
-            "id": "788ece09c70781c4e8419c1558c97f46",
-            "source": "spacenews",
-            "text": "Space Force to fund development of Atomic-6 solar power for satellites",
-            "source_link": "https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T13:17:24.545126Z",
-            "shown_at": [
-                "2025-07-02T13:32:08.914558Z"
-            ]
-        },
-        {
-            "id": "2051afb3468cf3cd213e3178109ac5d2",
-            "source": "spacenews",
-            "text": "Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge",
-            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T14:20:27.942107Z",
-            "shown_at": [
-                "2025-07-02T14:20:28.575147Z"
-            ]
-        },
-        {
-            "id": "80110de2c2ff5576ac43aebed6abef25",
-            "source": "spacenews",
-            "text": "DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project",
-            "source_link": "https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T16:55:42.407727Z",
-            "shown_at": [
-                "2025-07-02T16:55:43.084698Z"
-            ]
-        },
-        {
-            "id": "68e0cb1f04dbde993f6a56cf3def9d94",
-            "source": "spacenews",
-            "text": "Defense Satellites to redefine Global Earth Observation Strategy",
-            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T17:11:38.573033Z",
-            "shown_at": [
-                "2025-07-02T17:11:39.412037Z"
-            ]
-        },
-        {
-            "id": "911ee155e8a49d725a45e78173eef1cf",
-            "source": "spacenews",
-            "text": "National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program",
-            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T20:23:27.581123Z",
-            "shown_at": [
-                "2025-07-02T20:23:28.239170Z"
-            ]
-        },
-        {
-            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
-            "source": "supercluster",
-            "text": "Russia Will Launch Resupply Mission to the Space Station",
-            "source_link": "https://www.supercluster.com/launches/progress-ms-31",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-03T19:32:00.000Z",
-            "time_remaining": "0d 19h 58m",
-            "fetched_datetime": "2025-07-02T22:32:02.715813Z",
-            "shown_at": [
-                "2025-07-02T22:32:03.284335Z",
-                "2025-07-02T22:33:47.408507Z",
-                "2025-07-02T22:35:41.602906Z",
-                "2025-07-02T22:38:04.093617Z",
-                "2025-07-02T23:21:46.957797Z",
-                "2025-07-02T23:23:56.271365Z",
-                "2025-07-02T23:25:10.942933Z",
-                "2025-07-02T23:27:45.925290Z",
-                "2025-07-02T23:29:34.537871Z",
-                "2025-07-02T23:31:22.511973Z",
-                "2025-07-02T23:33:32.245192Z"
-            ]
-        },
-        {
-            "id": "1d5a99a8171cb0199ed501a671f0fac0",
-            "source": "nyt",
-            "text": "Third Interstellar Object Enters the Solar System",
-            "source_link": "https://www.nytimes.com/2025/07/02/science/interstellar-object-a11pi3z.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T22:39:45.557642Z",
-            "shown_at": [
-                "2025-07-02T22:39:46.522947Z"
-            ]
-        },
-        {
-            "id": "984c2a19373ce8ba45c521e6e6f703d8",
-            "source": "spacenews",
-            "text": "Latitude announces new factory and contracts for Zephyr small launcher",
-            "source_link": "https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T22:53:21.681620Z",
-            "shown_at": [
-                "2025-07-02T22:53:22.327147Z"
             ]
         }
     ]
