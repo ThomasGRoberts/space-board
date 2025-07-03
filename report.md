@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 51 |
+| spacenews | 8 | 15 | 26 | 52 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 109 | 109 |
 | breaking_defense | 0 | 0 | 21 | 43 |
@@ -4750,3 +4750,4 @@
 - **Jul 03, 12:45 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 12:47 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 12:49 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 12:52 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
