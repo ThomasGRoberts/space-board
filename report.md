@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 26 | 52 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
 # Shown Order
@@ -4683,3 +4683,4 @@
 - **Jul 03, 06:15 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 03, 06:29 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
 - **Jul 03, 06:43 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 03, 06:57 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
