@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 51 |
+| spacenews | 8 | 15 | 25 | 52 |
 | nyt | 2 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 25 | 25 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -4631,3 +4631,4 @@
 - **Jul 03, 01:23 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 01:25 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 01:27 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 03, 01:41 AM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
