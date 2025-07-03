@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-03T00:01:44.883476+00:00",
-    "trigger_count": 3,
-    "current_item_id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+    "trigger_count": 4,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "984c2a19373ce8ba45c521e6e6f703d8",
@@ -10192,15 +10192,18 @@
             ]
         },
         {
-            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Russia Will Launch Resupply Mission to the Space Station",
-            "source_link": "https://www.supercluster.com/launches/progress-ms-31",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-28",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-03T19:32:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-03T20:31:40.679654Z"
+            "target_datetime": "2025-07-08T05:48:00.000Z",
+            "time_remaining": "4d 09h 14m",
+            "fetched_datetime": "2025-07-03T20:33:35.730607Z",
+            "shown_at": [
+                "2025-07-03T20:33:36.330963Z"
+            ]
         }
     ]
 }
