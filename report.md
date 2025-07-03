@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 27 | 52 |
-| nyt | 2 | 2 | 22 | 43 |
+| nyt | 2 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 130 | 130 |
 | breaking_defense | 0 | 0 | 23 | 43 |
 
@@ -4782,3 +4782,4 @@
 - **Jul 03, 03:47 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 03:49 PM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
 - **Jul 03, 04:03 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
+- **Jul 03, 04:17 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
