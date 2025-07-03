@@ -5,7 +5,7 @@
 | spacenews | 9 | 16 | 26 | 52 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 74 | 74 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -4702,3 +4702,4 @@
 - **Jul 03, 08:05 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 08:07 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
 - **Jul 03, 08:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 03, 08:35 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
