@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 51 |
+| spacenews | 8 | 15 | 25 | 52 |
 | nyt | 2 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 32 | 32 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -4641,3 +4641,4 @@
 - **Jul 03, 02:19 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 02:21 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 02:23 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
+- **Jul 03, 02:37 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
