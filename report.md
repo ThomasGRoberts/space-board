@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 52 |
 | nyt | 2 | 2 | 20 | 43 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
 # Shown Order
@@ -4655,3 +4655,4 @@
 - **Jul 03, 03:47 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 03, 04:02 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 04:05 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 04:07 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
