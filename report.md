@@ -5,7 +5,7 @@
 | spacenews | 4 | 15 | 26 | 52 |
 | nyt | 2 | 2 | 24 | 43 |
 | supercluster | 1 | 1 | 137 | 137 |
-| breaking_defense | 0 | 0 | 23 | 43 |
+| breaking_defense | 0 | 0 | 24 | 44 |
 
 # Shown Order
 
@@ -4793,3 +4793,4 @@
 - **Jul 03, 05:03 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 05:05 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 03, 05:19 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 03, 05:33 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
