@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
 # Shown Order
@@ -4696,3 +4696,4 @@
 - **Jul 03, 07:53 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:55 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:57 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 07:59 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
