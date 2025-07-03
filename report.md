@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 25 | 51 |
-| nyt | 1 | 2 | 23 | 43 |
+| nyt | 1 | 2 | 24 | 44 |
 | breaking_defense | 1 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -4688,3 +4688,4 @@
 - **Jul 03, 10:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 03, 10:32 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 03, 10:45 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
+- **Jul 03, 11:02 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
