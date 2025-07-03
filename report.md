@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 52 |
-| nyt | 2 | 2 | 20 | 43 |
+| nyt | 2 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 53 | 53 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
@@ -4670,3 +4670,4 @@
 - **Jul 03, 05:11 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 05:13 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 05:15 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 05:17 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
