@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 24 | 51 |
 | nyt | 2 | 2 | 22 | 43 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -4753,3 +4753,4 @@
 - **Jul 03, 12:52 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
 - **Jul 03, 01:09 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 03, 01:23 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 03, 01:39 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
