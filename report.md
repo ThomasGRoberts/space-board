@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 25 | 51 |
 | nyt | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -4773,3 +4773,4 @@
 - **Jul 03, 02:51 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
 - **Jul 03, 03:06 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 03, 03:19 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
+- **Jul 03, 03:33 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
