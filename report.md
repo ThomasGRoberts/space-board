@@ -5,7 +5,7 @@
 | spacenews | 3 | 13 | 25 | 51 |
 | nyt | 2 | 2 | 23 | 43 |
 | breaking_defense | 1 | 1 | 23 | 43 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4669,3 +4669,4 @@
 - **Jul 03, 08:39 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jul 03, 08:53 PM** - Rocket Lab launches HawkEye 360 satellites (spacenews)
 - **Jul 03, 09:07 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 03, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
