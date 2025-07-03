@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-03T00:01:44.883476+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b4310218a0a2b5f89de81d71367c16e",
+    "trigger_count": 0,
+    "current_item_id": "f23bba9f120e56abb397259edbcae48f",
     "data": [
         {
             "id": "984c2a19373ce8ba45c521e6e6f703d8",
@@ -10226,6 +10226,18 @@
                 "2025-07-03T22:25:28.767202Z",
                 "2025-07-03T22:27:26.588724Z",
                 "2025-07-03T22:29:47.182169Z"
+            ]
+        },
+        {
+            "id": "f23bba9f120e56abb397259edbcae48f",
+            "source": "spacenews",
+            "text": "China launches first classified Shiyan-28B experimental satellite",
+            "source_link": "https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T22:45:31.052707Z",
+            "shown_at": [
+                "2025-07-03T22:45:32.067084Z"
             ]
         }
     ]
