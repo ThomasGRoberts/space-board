@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 52 |
-| nyt | 2 | 2 | 21 | 43 |
+| nyt | 2 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
@@ -4680,3 +4680,4 @@
 - **Jul 03, 06:09 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 06:12 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 06:14 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 06:15 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
