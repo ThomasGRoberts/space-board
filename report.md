@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 2 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 102 | 102 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -4742,3 +4742,4 @@
 - **Jul 03, 11:51 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 11:53 AM** - Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit (spacenews)
 - **Jul 03, 12:09 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 03, 12:23 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
