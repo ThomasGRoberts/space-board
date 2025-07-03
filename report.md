@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 52 |
+| spacenews | 8 | 15 | 24 | 52 |
 | nyt | 2 | 2 | 20 | 43 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
 # Shown Order
@@ -4664,3 +4664,4 @@
 - **Jul 03, 04:33 AM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
 - **Jul 03, 04:49 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 03, 05:03 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 05:05 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
