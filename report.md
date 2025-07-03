@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 52 |
+| spacenews | 9 | 16 | 26 | 53 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 67 | 67 |
 | breaking_defense | 0 | 0 | 21 | 43 |
@@ -4690,3 +4690,4 @@
 - **Jul 03, 07:05 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:07 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:09 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 07:11 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
