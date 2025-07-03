@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 25 | 51 |
+| spacenews | 4 | 14 | 26 | 52 |
 | nyt | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 151 | 151 |
 | breaking_defense | 1 | 1 | 24 | 44 |
@@ -4812,3 +4812,4 @@
 - **Jul 03, 06:53 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 06:55 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 06:58 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 03, 07:13 PM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
