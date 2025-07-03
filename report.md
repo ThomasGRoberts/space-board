@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 25 | 52 |
+| spacenews | 9 | 16 | 26 | 53 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 81 | 81 |
 | breaking_defense | 0 | 0 | 21 | 43 |
@@ -4710,3 +4710,4 @@
 - **Jul 03, 08:59 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 09:01 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 09:03 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 09:05 AM** - China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station (spacenews)
