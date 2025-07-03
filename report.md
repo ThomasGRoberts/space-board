@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 25 | 52 |
-| nyt | 2 | 2 | 22 | 43 |
+| nyt | 2 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 123 | 123 |
 | breaking_defense | 0 | 0 | 22 | 43 |
 
@@ -4771,3 +4771,4 @@
 - **Jul 03, 02:47 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 02:49 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 02:51 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
+- **Jul 03, 03:06 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
