@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 25 | 52 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 53 | 53 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 
 # Shown Order
 
@@ -4672,3 +4672,4 @@
 - **Jul 03, 05:15 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 05:17 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jul 03, 05:31 AM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
+- **Jul 03, 05:45 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
