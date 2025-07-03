@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
-| nyt | 2 | 2 | 21 | 43 |
+| nyt | 2 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 67 | 67 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
@@ -4691,3 +4691,4 @@
 - **Jul 03, 07:07 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:09 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 07:11 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
+- **Jul 03, 07:25 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
