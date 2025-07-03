@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 52 |
-| nyt | 1 | 1 | 20 | 43 |
+| nyt | 1 | 1 | 21 | 44 |
 | supercluster | 1 | 1 | 18 | 18 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
@@ -4620,3 +4620,4 @@
 - **Jul 03, 12:25 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 12:27 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Jul 03, 12:29 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Jul 03, 12:31 AM** - Third Interstellar Object Enters the Solar System (nyt)
