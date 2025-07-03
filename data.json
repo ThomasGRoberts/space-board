@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-03T00:01:44.883476+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e812a44b5713a22296f1855fe4a7a2d",
+    "trigger_count": 0,
+    "current_item_id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
     "data": [
         {
             "id": "984c2a19373ce8ba45c521e6e6f703d8",
@@ -10189,6 +10189,20 @@
             "fetched_datetime": "2025-07-03T18:58:06.770283Z",
             "shown_at": [
                 "2025-07-03T18:58:07.844538Z"
+            ]
+        },
+        {
+            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+            "source": "supercluster",
+            "text": "Russia Will Launch Resupply Mission to the Space Station",
+            "source_link": "https://www.supercluster.com/launches/progress-ms-31",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-03T19:32:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-07-03T19:41:37.026717Z",
+            "shown_at": [
+                "2025-07-03T19:41:37.802286Z"
             ]
         }
     ]
