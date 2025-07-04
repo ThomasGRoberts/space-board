@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 25 | 51 |
 | supercluster | 1 | 1 | 164 | 164 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 0 | 2 | 24 | 47 |
+| nyt | 0 | 2 | 25 | 48 |
 
 # Shown Order
 
@@ -4833,3 +4833,4 @@
 - **Jul 04, 06:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 06:19 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 06:33 PM** - This is not the time to cut space-enabled medical research (spacenews)
+- **Jul 04, 06:47 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
