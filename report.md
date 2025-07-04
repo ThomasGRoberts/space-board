@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 24 | 50 |
+| spacenews | 3 | 12 | 25 | 51 |
 | supercluster | 1 | 1 | 87 | 87 |
 | breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
@@ -4722,3 +4722,4 @@
 - **Jul 04, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:59 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 04, 08:13 AM** - MethaneSAT fails in orbit (spacenews)
