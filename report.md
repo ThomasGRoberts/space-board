@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 24 | 50 |
+| spacenews | 4 | 12 | 25 | 51 |
 | supercluster | 1 | 1 | 122 | 122 |
 | breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
@@ -4772,3 +4772,4 @@
 - **Jul 04, 12:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 12:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 12:41 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
+- **Jul 04, 12:55 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
