@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-04T00:02:08.921678+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b2c48e26892f1da369cd767675a3e23",
+    "trigger_count": 0,
+    "current_item_id": "24752c8ba2b54c6af60716f4324120b1",
     "data": [
         {
             "id": "f23bba9f120e56abb397259edbcae48f",
@@ -10238,6 +10238,18 @@
             "shown_at": [
                 "2025-07-04T02:33:44.489768Z",
                 "2025-07-04T07:15:47.170806Z"
+            ]
+        },
+        {
+            "id": "24752c8ba2b54c6af60716f4324120b1",
+            "source": "spacenews",
+            "text": "Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites",
+            "source_link": "https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-04T09:09:12.100701Z",
+            "shown_at": [
+                "2025-07-04T09:09:12.696911Z"
             ]
         }
     ]
