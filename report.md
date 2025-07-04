@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 25 | 49 |
 | supercluster | 1 | 1 | 59 | 59 |
-| breaking_defense | 1 | 1 | 24 | 44 |
+| breaking_defense | 1 | 1 | 25 | 45 |
 | nyt | 0 | 2 | 24 | 44 |
 
 # Shown Order
@@ -4681,3 +4681,4 @@
 - **Jul 04, 04:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 04:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 04, 04:13 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
