@@ -5,7 +5,7 @@
 | spacenews | 3 | 12 | 25 | 51 |
 | supercluster | 1 | 1 | 80 | 80 |
 | breaking_defense | 1 | 1 | 25 | 46 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 
 # Shown Order
 
@@ -4713,3 +4713,4 @@
 - **Jul 04, 06:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:01 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 07:15 AM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
+- **Jul 04, 07:29 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
