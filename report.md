@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 25 | 51 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
 
@@ -4724,3 +4724,4 @@
 - **Jul 04, 07:59 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 08:13 AM** - MethaneSAT fails in orbit (spacenews)
 - **Jul 04, 08:27 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 04, 08:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
