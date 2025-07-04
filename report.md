@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 25 | 51 |
-| supercluster | 1 | 1 | 171 | 171 |
+| supercluster | 1 | 1 | 172 | 172 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
 
@@ -4844,3 +4844,4 @@
 - **Jul 04, 07:17 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 07:31 PM** - Stanford spinoff EraDrive claims $1 million NASA contract (spacenews)
 - **Jul 04, 07:45 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 04, 07:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
