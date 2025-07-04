@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 25 | 50 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 | breaking_defense | 1 | 1 | 24 | 45 |
 | nyt | 0 | 2 | 24 | 45 |
 
@@ -4694,3 +4694,4 @@
 - **Jul 04, 05:09 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 05:23 AM** - Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge (spacenews)
 - **Jul 04, 05:37 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 04, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
