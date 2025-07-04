@@ -5,7 +5,7 @@
 | spacenews | 4 | 12 | 25 | 50 |
 | supercluster | 1 | 1 | 59 | 59 |
 | breaking_defense | 1 | 1 | 25 | 45 |
-| nyt | 0 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 24 | 44 |
 
 # Shown Order
 
@@ -4683,3 +4683,4 @@
 - **Jul 04, 04:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 04:13 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 04:27 AM** - Blue Origin launches third New Shepard mission within three months (spacenews)
+- **Jul 04, 04:41 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
