@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 24 | 51 |
-| supercluster | 1 | 1 | 151 | 151 |
+| spacenews | 3 | 7 | 24 | 50 |
+| supercluster | 1 | 1 | 152 | 152 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
 
@@ -4815,3 +4815,4 @@
 - **Jul 04, 04:39 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
 - **Jul 04, 04:53 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 04, 05:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 04, 05:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
