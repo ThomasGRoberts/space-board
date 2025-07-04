@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 25 | 50 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | nyt | 0 | 2 | 24 | 44 |
 
@@ -4664,3 +4664,4 @@
 - **Jul 04, 02:19 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 02:33 AM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
 - **Jul 04, 02:47 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 04, 03:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
