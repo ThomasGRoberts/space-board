@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 25 | 51 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
 
@@ -4745,3 +4745,4 @@
 - **Jul 04, 10:07 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
 - **Jul 04, 10:21 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 04, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 04, 10:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
