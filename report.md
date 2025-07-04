@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 24 | 50 |
+| spacenews | 3 | 7 | 25 | 51 |
 | supercluster | 1 | 1 | 171 | 171 |
 | breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 0 | 2 | 24 | 48 |
@@ -4842,3 +4842,4 @@
 - **Jul 04, 07:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:17 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 04, 07:31 PM** - Stanford spinoff EraDrive claims $1 million NASA contract (spacenews)
