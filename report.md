@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 25 | 50 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 | breaking_defense | 1 | 1 | 24 | 44 |
 | nyt | 0 | 2 | 24 | 44 |
 
@@ -4654,3 +4654,4 @@
 - **Jul 04, 01:23 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 01:37 AM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
 - **Jul 04, 01:51 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 04, 02:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
