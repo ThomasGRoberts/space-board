@@ -1,9 +1,113 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-03T00:01:44.883476+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-07-04T00:02:08.921678+00:00",
+    "trigger_count": 1,
     "current_item_id": "1d5a99a8171cb0199ed501a671f0fac0",
     "data": [
+        {
+            "id": "f23bba9f120e56abb397259edbcae48f",
+            "source": "spacenews",
+            "text": "China launches first classified Shiyan-28B experimental satellite",
+            "source_link": "https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T22:45:31.052707Z",
+            "shown_at": [
+                "2025-07-03T22:45:32.067084Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-28",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-08T05:48:00.000Z",
+            "time_remaining": "4d 06h 18m",
+            "fetched_datetime": "2025-07-03T20:33:35.730607Z",
+            "shown_at": [
+                "2025-07-03T20:33:36.330963Z",
+                "2025-07-03T20:35:30.529172Z",
+                "2025-07-03T20:37:37.084951Z",
+                "2025-07-03T21:21:49.930455Z",
+                "2025-07-03T21:23:28.274730Z",
+                "2025-07-03T21:25:28.102419Z",
+                "2025-07-03T21:27:32.219634Z",
+                "2025-07-03T21:29:28.575079Z",
+                "2025-07-03T21:31:43.597722Z",
+                "2025-07-03T21:33:45.169643Z",
+                "2025-07-03T22:17:28.354416Z",
+                "2025-07-03T22:19:34.428916Z",
+                "2025-07-03T22:21:33.945360Z",
+                "2025-07-03T22:23:24.678184Z",
+                "2025-07-03T22:25:28.767202Z",
+                "2025-07-03T22:27:26.588724Z",
+                "2025-07-03T22:29:47.182169Z",
+                "2025-07-03T23:17:49.897034Z",
+                "2025-07-03T23:19:12.403649Z",
+                "2025-07-03T23:21:32.667108Z",
+                "2025-07-03T23:23:33.092350Z",
+                "2025-07-03T23:25:31.937048Z",
+                "2025-07-03T23:27:35.907482Z",
+                "2025-07-03T23:29:28.163411Z"
+            ]
+        },
+        {
+            "id": "8b4310218a0a2b5f89de81d71367c16e",
+            "source": "breaking_defense",
+            "text": "Congress passes Trump’s reconciliation megabill with $150B for defense",
+            "source_link": "https://breakingdefense.com/2025/07/congress-passes-trumps-reconciliation-megabill-with-150b-for-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T18:58:06.770283Z",
+            "shown_at": [
+                "2025-07-03T18:58:07.844538Z",
+                "2025-07-03T21:35:43.436889Z",
+                "2025-07-03T22:32:03.034282Z",
+                "2025-07-03T23:31:48.165923Z"
+            ]
+        },
+        {
+            "id": "fbcf81039a948e6830e8ba9c55e77f75",
+            "source": "spacenews",
+            "text": "ESA prepares downselect for European Launcher Challenge",
+            "source_link": "https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T16:03:06.728996Z",
+            "shown_at": [
+                "2025-07-03T16:03:07.435780Z"
+            ]
+        },
+        {
+            "id": "be6921b036292f8789644830d2930914",
+            "source": "spacenews",
+            "text": "Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities",
+            "source_link": "https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T07:11:32.038605Z",
+            "shown_at": [
+                "2025-07-03T07:11:32.520130Z",
+                "2025-07-03T13:53:53.770191Z"
+            ]
+        },
+        {
+            "id": "bdb86f65cbe1dabfcb839371aa3a6fba",
+            "source": "nyt",
+            "text": "Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System",
+            "source_link": "https://www.nytimes.com/2025/07/02/science/interstellar-object-a11pi3z.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-03T01:27:54.057550Z",
+            "shown_at": [
+                "2025-07-03T01:27:54.854233Z",
+                "2025-07-03T12:09:50.476044Z",
+                "2025-07-03T22:03:41.989466Z",
+                "2025-07-03T23:02:07.444409Z"
+            ]
+        },
         {
             "id": "984c2a19373ce8ba45c521e6e6f703d8",
             "source": "spacenews",
@@ -10025,230 +10129,6 @@
                 "2025-05-02T06:51:53.946744Z",
                 "2025-05-03T20:17:31.718495Z",
                 "2025-05-04T11:27:34.164409Z"
-            ]
-        },
-        {
-            "id": "5fc94a421b8353ecb21ea74a80e39e63",
-            "source": "spacenews",
-            "text": "Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg",
-            "source_link": "https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T10:57:25.552078Z",
-            "shown_at": [
-                "2025-04-27T10:57:26.108292Z",
-                "2025-04-27T18:03:45.116778Z",
-                "2025-04-27T23:27:28.355099Z",
-                "2025-04-29T19:31:51.006205Z",
-                "2025-05-03T03:05:31.704340Z"
-            ]
-        },
-        {
-            "id": "c0f401bb8e24f8eb0c626e30a06d23ab",
-            "source": "spacenews",
-            "text": "China to lend Chang’e-5 moon samples to U.S. universities",
-            "source_link": "https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-26T21:13:29.690267Z",
-            "shown_at": [
-                "2025-04-26T21:13:30.249543Z",
-                "2025-04-27T00:57:33.223593Z",
-                "2025-05-01T21:05:34.695844Z",
-                "2025-05-02T03:03:29.550487Z",
-                "2025-05-03T10:41:32.104128Z",
-                "2025-05-03T15:31:49.258934Z"
-            ]
-        },
-        {
-            "id": "115db984065561ee1435c5a8c9758f49",
-            "source": "spacenews",
-            "text": "Axiom Space names new CEO",
-            "source_link": "https://spacenews.com/axiom-space-names-new-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T20:21:42.803045Z",
-            "shown_at": [
-                "2025-04-25T20:21:43.857241Z",
-                "2025-04-26T07:39:43.126469Z",
-                "2025-04-27T12:53:25.653173Z"
-            ]
-        },
-        {
-            "id": "06829a4c3794f8a6a07b885d89ae7767",
-            "source": "spacenews",
-            "text": "GPS disruption and satellite maneuvers now hallmarks of modern warfare",
-            "source_link": "https://spacenews.com/gps-disruption-and-satellite-maneuvers-now-hallmarks-of-modern-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T19:11:28.047314Z",
-            "shown_at": [
-                "2025-04-25T19:11:28.459831Z",
-                "2025-04-26T16:11:47.214871Z",
-                "2025-04-26T20:59:32.187325Z",
-                "2025-04-29T15:11:56.359502Z",
-                "2025-04-30T09:07:31.154679Z"
-            ]
-        },
-        {
-            "id": "94a65db9422d397a2bff735b0066f0e6",
-            "source": "breaking_defense",
-            "text": "Elon Musk sat in on job interview for Air Force’s top civilian",
-            "source_link": "https://breakingdefense.com/2025/04/elon-musk-sat-in-on-job-interview-for-air-forces-top-civilian/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-25T18:41:40.748581Z",
-            "shown_at": [
-                "2025-04-25T18:41:42.124926Z",
-                "2025-04-25T19:39:39.376869Z",
-                "2025-04-25T20:49:42.191246Z",
-                "2025-04-25T21:45:27.939558Z",
-                "2025-04-26T01:33:43.780733Z",
-                "2025-04-26T07:11:43.131054Z",
-                "2025-04-26T09:05:25.868646Z",
-                "2025-04-26T10:02:09.973961Z",
-                "2025-04-26T10:59:22.625618Z",
-                "2025-04-26T12:55:39.526899Z",
-                "2025-04-26T13:51:48.460508Z",
-                "2025-04-26T18:35:26.951913Z",
-                "2025-04-26T19:31:24.169427Z",
-                "2025-04-26T20:29:37.639502Z",
-                "2025-04-26T22:37:27.728769Z",
-                "2025-04-26T23:33:26.910240Z",
-                "2025-04-27T01:25:34.141136Z",
-                "2025-04-27T03:21:47.124128Z",
-                "2025-04-27T05:19:45.232947Z",
-                "2025-04-27T09:05:46.078677Z",
-                "2025-04-27T10:02:03.227195Z",
-                "2025-04-27T13:07:33.278805Z",
-                "2025-04-27T14:17:52.786282Z",
-                "2025-04-27T17:21:40.608609Z",
-                "2025-04-27T21:05:41.841090Z",
-                "2025-04-27T22:02:13.874040Z",
-                "2025-04-27T23:13:38.273341Z",
-                "2025-04-28T06:17:38.544279Z",
-                "2025-04-28T08:23:38.741785Z",
-                "2025-04-28T12:07:30.384496Z",
-                "2025-04-28T15:11:34.264334Z",
-                "2025-04-29T06:02:00.882418Z",
-                "2025-04-29T06:57:26.537304Z",
-                "2025-04-29T10:49:41.115936Z",
-                "2025-04-29T17:49:45.001829Z",
-                "2025-04-30T01:11:50.771835Z",
-                "2025-04-30T04:59:29.454764Z",
-                "2025-05-01T01:02:17.647821Z",
-                "2025-05-01T03:51:13.648254Z",
-                "2025-05-01T06:43:37.634743Z",
-                "2025-05-01T14:39:09.167343Z",
-                "2025-05-02T07:21:42.758058Z",
-                "2025-05-02T09:17:41.589094Z",
-                "2025-05-02T11:17:34.817945Z",
-                "2025-05-02T13:51:45.638229Z",
-                "2025-05-02T18:35:45.217262Z"
-            ]
-        },
-        {
-            "id": "bdb86f65cbe1dabfcb839371aa3a6fba",
-            "source": "nyt",
-            "text": "Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System",
-            "source_link": "https://www.nytimes.com/2025/07/02/science/interstellar-object-a11pi3z.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-03T01:27:54.057550Z",
-            "shown_at": [
-                "2025-07-03T01:27:54.854233Z",
-                "2025-07-03T12:09:50.476044Z",
-                "2025-07-03T22:03:41.989466Z",
-                "2025-07-03T23:02:07.444409Z"
-            ]
-        },
-        {
-            "id": "be6921b036292f8789644830d2930914",
-            "source": "spacenews",
-            "text": "Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities",
-            "source_link": "https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-03T07:11:32.038605Z",
-            "shown_at": [
-                "2025-07-03T07:11:32.520130Z",
-                "2025-07-03T13:53:53.770191Z"
-            ]
-        },
-        {
-            "id": "fbcf81039a948e6830e8ba9c55e77f75",
-            "source": "spacenews",
-            "text": "ESA prepares downselect for European Launcher Challenge",
-            "source_link": "https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-03T16:03:06.728996Z",
-            "shown_at": [
-                "2025-07-03T16:03:07.435780Z"
-            ]
-        },
-        {
-            "id": "8b4310218a0a2b5f89de81d71367c16e",
-            "source": "breaking_defense",
-            "text": "Congress passes Trump’s reconciliation megabill with $150B for defense",
-            "source_link": "https://breakingdefense.com/2025/07/congress-passes-trumps-reconciliation-megabill-with-150b-for-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-03T18:58:06.770283Z",
-            "shown_at": [
-                "2025-07-03T18:58:07.844538Z",
-                "2025-07-03T21:35:43.436889Z",
-                "2025-07-03T22:32:03.034282Z",
-                "2025-07-03T23:31:48.165923Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-28",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-08T05:48:00.000Z",
-            "time_remaining": "4d 06h 18m",
-            "fetched_datetime": "2025-07-03T20:33:35.730607Z",
-            "shown_at": [
-                "2025-07-03T20:33:36.330963Z",
-                "2025-07-03T20:35:30.529172Z",
-                "2025-07-03T20:37:37.084951Z",
-                "2025-07-03T21:21:49.930455Z",
-                "2025-07-03T21:23:28.274730Z",
-                "2025-07-03T21:25:28.102419Z",
-                "2025-07-03T21:27:32.219634Z",
-                "2025-07-03T21:29:28.575079Z",
-                "2025-07-03T21:31:43.597722Z",
-                "2025-07-03T21:33:45.169643Z",
-                "2025-07-03T22:17:28.354416Z",
-                "2025-07-03T22:19:34.428916Z",
-                "2025-07-03T22:21:33.945360Z",
-                "2025-07-03T22:23:24.678184Z",
-                "2025-07-03T22:25:28.767202Z",
-                "2025-07-03T22:27:26.588724Z",
-                "2025-07-03T22:29:47.182169Z",
-                "2025-07-03T23:17:49.897034Z",
-                "2025-07-03T23:19:12.403649Z",
-                "2025-07-03T23:21:32.667108Z",
-                "2025-07-03T23:23:33.092350Z",
-                "2025-07-03T23:25:31.937048Z",
-                "2025-07-03T23:27:35.907482Z",
-                "2025-07-03T23:29:28.163411Z"
-            ]
-        },
-        {
-            "id": "f23bba9f120e56abb397259edbcae48f",
-            "source": "spacenews",
-            "text": "China launches first classified Shiyan-28B experimental satellite",
-            "source_link": "https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-03T22:45:31.052707Z",
-            "shown_at": [
-                "2025-07-03T22:45:32.067084Z"
             ]
         }
     ]
