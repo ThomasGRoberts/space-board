@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 24 | 50 |
+| spacenews | 4 | 13 | 25 | 51 |
 | supercluster | 1 | 1 | 108 | 108 |
 | breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
@@ -4752,3 +4752,4 @@
 - **Jul 04, 10:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 10:49 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 04, 11:03 AM** - Defense Satellites to redefine Global Earth Observation Strategy (spacenews)
