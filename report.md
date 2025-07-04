@@ -5,7 +5,7 @@
 | spacenews | 3 | 12 | 25 | 51 |
 | supercluster | 1 | 1 | 87 | 87 |
 | breaking_defense | 1 | 1 | 25 | 46 |
-| nyt | 0 | 2 | 23 | 45 |
+| nyt | 0 | 2 | 24 | 46 |
 
 # Shown Order
 
@@ -4723,3 +4723,4 @@
 - **Jul 04, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 07:59 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 08:13 AM** - MethaneSAT fails in orbit (spacenews)
+- **Jul 04, 08:27 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
