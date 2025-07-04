@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 24 | 51 |
-| supercluster | 1 | 1 | 150 | 150 |
+| supercluster | 1 | 1 | 151 | 151 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 2 | 25 | 48 |
 
@@ -4814,3 +4814,4 @@
 - **Jul 04, 04:25 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 04:39 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
 - **Jul 04, 04:53 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 04, 05:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
