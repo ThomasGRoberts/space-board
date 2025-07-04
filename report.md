@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 25 | 51 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
 
@@ -4734,3 +4734,4 @@
 - **Jul 04, 08:55 AM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 09:09 AM** - Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites (spacenews)
 - **Jul 04, 09:25 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 04, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
