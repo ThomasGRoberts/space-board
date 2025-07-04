@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 24 | 50 |
+| spacenews | 4 | 13 | 25 | 51 |
 | supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 1 | 1 | 25 | 46 |
 | nyt | 0 | 2 | 24 | 45 |
@@ -4762,3 +4762,4 @@
 - **Jul 04, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 11:45 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 04, 11:59 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
