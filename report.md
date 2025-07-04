@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 25 | 50 |
-| supercluster | 1 | 1 | 122 | 122 |
-| breaking_defense | 1 | 1 | 25 | 46 |
+| supercluster | 1 | 1 | 123 | 123 |
+| breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 46 |
 
 # Shown Order
@@ -4774,3 +4774,4 @@
 - **Jul 04, 12:41 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jul 04, 12:55 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 04, 01:09 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 04, 01:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
