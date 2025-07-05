@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 25 | 50 |
-| supercluster | 0 | 1 | 176 | 333 |
+| supercluster | 0 | 1 | 177 | 334 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -5062,3 +5062,4 @@
 - **Jul 05, 05:15 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 05, 05:29 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 05, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 05, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
