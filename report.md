@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 25 | 50 |
-| supercluster | 0 | 1 | 176 | 256 |
+| supercluster | 0 | 1 | 177 | 257 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -4952,3 +4952,4 @@
 - **Jul 05, 06:49 AM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 05, 07:03 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 05, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 05, 07:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
