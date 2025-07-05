@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 25 | 51 |
-| supercluster | 0 | 1 | 177 | 208 |
+| spacenews | 2 | 5 | 25 | 50 |
+| supercluster | 0 | 1 | 178 | 209 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 1 | 26 | 49 |
 
@@ -4883,3 +4883,4 @@
 - **Jul 05, 12:27 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jul 05, 12:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 05, 12:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 05, 12:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
