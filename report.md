@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 206 |
-| breaking_defense | 0 | 1 | 26 | 50 |
-| nyt | 0 | 1 | 25 | 49 |
+| breaking_defense | 0 | 1 | 25 | 50 |
+| nyt | 0 | 1 | 26 | 50 |
 
 # Shown Order
 
@@ -4880,3 +4880,4 @@
 - **Jul 04, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 04, 11:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 12:13 AM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
+- **Jul 05, 12:27 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
