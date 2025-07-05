@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 26 | 50 |
-| supercluster | 0 | 1 | 176 | 291 |
+| spacenews | 0 | 4 | 25 | 50 |
+| supercluster | 0 | 1 | 177 | 292 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -5002,3 +5002,4 @@
 - **Jul 05, 11:29 AM** - Building the future of SpaceNews (spacenews)
 - **Jul 05, 11:43 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 05, 11:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 05, 11:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
