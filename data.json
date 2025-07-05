@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-04T00:02:08.921678+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-07-05T00:02:09.873227+00:00",
+    "trigger_count": 2,
     "current_item_id": "8b4310218a0a2b5f89de81d71367c16e",
     "data": [
+        {
+            "id": "24752c8ba2b54c6af60716f4324120b1",
+            "source": "spacenews",
+            "text": "Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites",
+            "source_link": "https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-04T09:09:12.100701Z",
+            "shown_at": [
+                "2025-07-04T09:09:12.696911Z"
+            ]
+        },
+        {
+            "id": "17be47a083dc5c8ee08d6595227645d0",
+            "source": "spacenews",
+            "text": "Congress passes budget reconciliation bill with $10 billion for NASA",
+            "source_link": "https://spacenews.com/congress-passes-budget-reconciliation-bill-with-10-billion-for-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-04T02:33:43.871020Z",
+            "shown_at": [
+                "2025-07-04T02:33:44.489768Z",
+                "2025-07-04T07:15:47.170806Z"
+            ]
+        },
         {
             "id": "f23bba9f120e56abb397259edbcae48f",
             "source": "spacenews",
@@ -10349,66 +10374,6 @@
                 "2025-05-04T10:17:37.954353Z",
                 "2025-05-04T11:13:44.327053Z",
                 "2025-05-05T00:09:57.831442Z"
-            ]
-        },
-        {
-            "id": "5678137d38e6d0a77db6a3f753ba91bf",
-            "source": "spacenews",
-            "text": "Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network",
-            "source_link": "https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T22:17:35.179109Z",
-            "shown_at": [
-                "2025-04-27T22:32:04.345141Z",
-                "2025-05-01T11:19:34.295829Z",
-                "2025-05-02T18:03:29.284345Z",
-                "2025-05-03T06:57:42.130297Z",
-                "2025-05-04T18:13:24.205704Z"
-            ]
-        },
-        {
-            "id": "0a7093f627e666c4aacf01fe82ab5646",
-            "source": "spacenews",
-            "text": "Armed services committees propose $150 billion funding boost for defense",
-            "source_link": "https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-27T22:17:35.179053Z",
-            "shown_at": [
-                "2025-04-27T22:17:35.938365Z",
-                "2025-04-28T12:51:45.341247Z",
-                "2025-04-30T04:45:43.578046Z",
-                "2025-05-01T06:27:37.811934Z",
-                "2025-05-01T18:12:26.936129Z",
-                "2025-05-02T06:51:53.946744Z",
-                "2025-05-03T20:17:31.718495Z",
-                "2025-05-04T11:27:34.164409Z"
-            ]
-        },
-        {
-            "id": "17be47a083dc5c8ee08d6595227645d0",
-            "source": "spacenews",
-            "text": "Congress passes budget reconciliation bill with $10 billion for NASA",
-            "source_link": "https://spacenews.com/congress-passes-budget-reconciliation-bill-with-10-billion-for-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-04T02:33:43.871020Z",
-            "shown_at": [
-                "2025-07-04T02:33:44.489768Z",
-                "2025-07-04T07:15:47.170806Z"
-            ]
-        },
-        {
-            "id": "24752c8ba2b54c6af60716f4324120b1",
-            "source": "spacenews",
-            "text": "Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites",
-            "source_link": "https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-04T09:09:12.100701Z",
-            "shown_at": [
-                "2025-07-04T09:09:12.696911Z"
             ]
         }
     ]
