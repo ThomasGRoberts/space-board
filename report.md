@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 26 | 50 |
-| supercluster | 0 | 1 | 175 | 269 |
+| spacenews | 0 | 4 | 25 | 50 |
+| supercluster | 0 | 1 | 176 | 270 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -4971,3 +4971,4 @@
 - **Jul 05, 08:27 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 08:41 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 05, 08:55 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 05, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
