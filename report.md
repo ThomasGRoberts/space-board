@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 25 | 50 |
-| supercluster | 0 | 1 | 176 | 340 |
+| supercluster | 0 | 1 | 177 | 341 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -5072,3 +5072,4 @@
 - **Jul 05, 06:11 PM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
 - **Jul 05, 06:25 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 05, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 05, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
