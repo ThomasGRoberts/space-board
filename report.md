@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 25 | 50 |
-| supercluster | 0 | 1 | 182 | 248 |
+| spacenews | 1 | 5 | 26 | 51 |
+| supercluster | 0 | 1 | 180 | 248 |
 | breaking_defense | 0 | 1 | 26 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -4939,3 +4939,4 @@
 - **Jul 05, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 05, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 05, 05:37 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 05, 05:53 AM** - DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project (spacenews)
