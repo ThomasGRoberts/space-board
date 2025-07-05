@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 325 |
-| breaking_defense | 0 | 1 | 25 | 51 |
-| nyt | 0 | 0 | 25 | 49 |
+| breaking_defense | 0 | 1 | 25 | 50 |
+| nyt | 0 | 0 | 26 | 50 |
 
 # Shown Order
 
@@ -5050,3 +5050,4 @@
 - **Jul 05, 04:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 05, 04:05 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 04:19 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
+- **Jul 05, 04:33 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
