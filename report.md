@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 26 | 50 |
-| supercluster | 0 | 1 | 175 | 262 |
+| spacenews | 1 | 4 | 25 | 50 |
+| supercluster | 0 | 1 | 176 | 263 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 50 |
 
@@ -4961,3 +4961,4 @@
 - **Jul 05, 07:31 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 07:45 AM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 05, 07:59 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
+- **Jul 05, 08:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
