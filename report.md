@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 227 |
-| breaking_defense | 0 | 1 | 26 | 50 |
-| nyt | 0 | 0 | 25 | 49 |
+| breaking_defense | 0 | 1 | 25 | 50 |
+| nyt | 0 | 0 | 26 | 50 |
 
 # Shown Order
 
@@ -4910,3 +4910,4 @@
 - **Jul 05, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 05, 02:49 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 03:03 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
+- **Jul 05, 03:17 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
