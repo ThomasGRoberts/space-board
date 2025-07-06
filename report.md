@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 25 | 51 |
+| spacenews | 2 | 2 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
 | breaking_defense | 0 | 0 | 25 | 51 |
 | nyt | 0 | 0 | 26 | 51 |
@@ -5358,3 +5358,4 @@
 - **Jul 06, 09:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 09:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 09:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 06, 09:09 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
