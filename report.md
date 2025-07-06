@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 355 |
+| supercluster | 0 | 0 | 176 | 355 |
 | breaking_defense | 0 | 0 | 25 | 51 |
 | nyt | 0 | 0 | 26 | 51 |
 
@@ -5251,3 +5251,4 @@
 - **Jul 06, 10:53 AM** - Space Force scraps satellite procurement, shifts to more flexible strategy (spacenews)
 - **Jul 06, 11:07 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 06, 11:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 06, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
