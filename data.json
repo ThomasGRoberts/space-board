@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-06T00:01:48.808516+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "0386ff4ff80483382680bf406daeb88c",
     "data": [
         {
             "id": "24752c8ba2b54c6af60716f4324120b1",
@@ -10743,6 +10743,18 @@
                 "2025-05-04T10:17:37.954353Z",
                 "2025-05-04T11:13:44.327053Z",
                 "2025-05-05T00:09:57.831442Z"
+            ]
+        },
+        {
+            "id": "0386ff4ff80483382680bf406daeb88c",
+            "source": "spacenews",
+            "text": "Space Force scraps satellite procurement, shifts to more flexible strategy",
+            "source_link": "https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-06T10:53:27.999131Z",
+            "shown_at": [
+                "2025-07-06T10:53:28.489290Z"
             ]
         }
     ]
