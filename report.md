@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 26 | 51 |
 | supercluster | 0 | 0 | 182 | 357 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
@@ -5309,3 +5309,4 @@
 - **Jul 06, 04:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 04:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 04:29 PM** - Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring (spacenews)
+- **Jul 06, 04:43 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
