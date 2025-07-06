@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 178 | 357 |
+| supercluster | 0 | 0 | 177 | 357 |
 | breaking_defense | 0 | 0 | 26 | 51 |
-| nyt | 0 | 0 | 25 | 51 |
+| nyt | 0 | 0 | 26 | 51 |
 
 # Shown Order
 
@@ -5340,3 +5340,4 @@
 - **Jul 06, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 07:17 PM** - Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge (spacenews)
 - **Jul 06, 07:31 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 06, 07:45 PM** - Third Interstellar Object Enters the Solar System (nyt)
