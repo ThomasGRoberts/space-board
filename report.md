@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 25 | 51 |
+| spacenews | 1 | 1 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 51 |
@@ -5288,3 +5288,4 @@
 - **Jul 06, 02:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 02:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 02:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 06, 02:37 PM** - Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities (spacenews)
