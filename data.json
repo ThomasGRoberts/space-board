@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-06T00:01:48.808516+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "3c21c1e79e5054b5e45e7ac0dc548032",
     "data": [
         {
             "id": "24752c8ba2b54c6af60716f4324120b1",
@@ -10824,6 +10824,18 @@
             "fetched_datetime": "2025-07-06T10:53:27.999131Z",
             "shown_at": [
                 "2025-07-06T10:53:28.489290Z"
+            ]
+        },
+        {
+            "id": "3c21c1e79e5054b5e45e7ac0dc548032",
+            "source": "spacenews",
+            "text": "U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash",
+            "source_link": "https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-06T17:25:45.067338Z",
+            "shown_at": [
+                "2025-07-06T17:25:46.073719Z"
             ]
         }
     ]

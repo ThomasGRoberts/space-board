@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 25 | 51 |
+| spacenews | 2 | 2 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 51 |
@@ -5318,3 +5318,4 @@
 - **Jul 06, 05:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 05:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 05:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 06, 05:25 PM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
