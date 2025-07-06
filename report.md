@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 25 | 51 |
+| spacenews | 2 | 2 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
-| breaking_defense | 0 | 0 | 25 | 51 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 26 | 51 |
 
 # Shown Order
@@ -5378,3 +5378,4 @@
 - **Jul 06, 10:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 10:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 11:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 06, 11:03 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
