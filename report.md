@@ -5,7 +5,7 @@
 | spacenews | 0 | 1 | 26 | 51 |
 | supercluster | 0 | 0 | 175 | 357 |
 | breaking_defense | 0 | 0 | 25 | 51 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 26 | 51 |
 
 # Shown Order
 
@@ -5180,3 +5180,4 @@
 - **Jul 06, 04:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 04:17 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 06, 04:31 AM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
+- **Jul 06, 04:45 AM** - Third Interstellar Object Enters the Solar System (nyt)
