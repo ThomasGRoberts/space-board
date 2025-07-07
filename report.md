@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 26 | 52 |
-| supercluster | 0 | 0 | 175 | 350 |
+| supercluster | 0 | 0 | 176 | 351 |
 | breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 51 |
 
@@ -5512,3 +5512,4 @@
 - **Jul 07, 03:27 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 03:41 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
 - **Jul 07, 03:55 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 07, 04:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
