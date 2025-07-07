@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 357 |
+| spacenews | 3 | 5 | 26 | 52 |
+| supercluster | 0 | 0 | 175 | 356 |
 | breaking_defense | 2 | 2 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
 
@@ -5580,3 +5580,4 @@
 - **Jul 07, 10:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 10:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 07, 10:23 PM** - Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge (spacenews)
