@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-07T00:01:40.098847+00:00",
-    "trigger_count": 6,
-    "current_item_id": "46d4977e083dde548c6941c96f3b3f2f",
+    "trigger_count": 0,
+    "current_item_id": "cafacfbf3b370c5c6ab1e4369e19cbe2",
     "data": [
         {
             "id": "3c21c1e79e5054b5e45e7ac0dc548032",
@@ -11037,6 +11037,18 @@
                 "2025-07-07T14:27:11.274674Z",
                 "2025-07-07T15:27:36.692803Z",
                 "2025-07-07T16:23:35.795917Z"
+            ]
+        },
+        {
+            "id": "cafacfbf3b370c5c6ab1e4369e19cbe2",
+            "source": "spacenews",
+            "text": "Chinese scientists propose 2033 Neptune orbiter mission",
+            "source_link": "https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T16:37:26.887671Z",
+            "shown_at": [
+                "2025-07-07T16:37:27.516908Z"
             ]
         }
     ]
