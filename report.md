@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 26 | 52 |
-| supercluster | 0 | 0 | 175 | 350 |
+| supercluster | 0 | 0 | 176 | 351 |
 | breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 51 |
 
@@ -5482,3 +5482,4 @@
 - **Jul 07, 12:33 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 12:47 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 07, 01:01 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 07, 01:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
