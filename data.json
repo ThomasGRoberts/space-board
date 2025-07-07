@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-06T00:01:48.808516+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "last_run_datetime": "2025-07-07T00:01:40.098847+00:00",
+    "trigger_count": 0,
+    "current_item_id": "19c536698e67a581ac047fa1f69af015",
     "data": [
+        {
+            "id": "3c21c1e79e5054b5e45e7ac0dc548032",
+            "source": "spacenews",
+            "text": "U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash",
+            "source_link": "https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-06T17:25:45.067338Z",
+            "shown_at": [
+                "2025-07-06T17:25:46.073719Z"
+            ]
+        },
+        {
+            "id": "0386ff4ff80483382680bf406daeb88c",
+            "source": "spacenews",
+            "text": "Space Force scraps satellite procurement, shifts to more flexible strategy",
+            "source_link": "https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-06T10:53:27.999131Z",
+            "shown_at": [
+                "2025-07-06T10:53:28.489290Z"
+            ]
+        },
         {
             "id": "24752c8ba2b54c6af60716f4324120b1",
             "source": "spacenews",
@@ -931,7 +955,8 @@
                 "2025-07-02T13:17:25.074168Z",
                 "2025-07-04T18:33:37.134121Z",
                 "2025-07-05T14:24:17.961026Z",
-                "2025-07-05T23:47:54.151368Z"
+                "2025-07-05T23:47:54.151368Z",
+                "2025-07-07T00:01:44.391749Z"
             ]
         },
         {
@@ -10819,92 +10844,6 @@
                 "2025-05-04T17:03:37.465138Z",
                 "2025-05-04T21:02:13.906215Z",
                 "2025-05-05T07:33:53.869530Z"
-            ]
-        },
-        {
-            "id": "6b8d2efb2f56f82ccef92692721790f6",
-            "source": "spacenews",
-            "text": "Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready",
-            "source_link": "https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T10:05:30.073014Z",
-            "shown_at": [
-                "2025-04-28T10:05:30.563958Z",
-                "2025-04-30T06:39:47.145391Z",
-                "2025-05-01T00:33:39.882908Z",
-                "2025-05-04T12:25:26.486624Z"
-            ]
-        },
-        {
-            "id": "2fb4f433db644b27cccaf43eb99d2ac5",
-            "source": "breaking_defense",
-            "text": "Shipbuilding, Golden Dome and munitions win big as GOP unveils $150B bill to boost defense",
-            "source_link": "https://breakingdefense.com/2025/04/shipbuilding-golden-dome-and-munitions-win-big-as-gop-unveils-150b-bill-to-boost-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T00:38:38.887975Z",
-            "shown_at": [
-                "2025-04-28T00:38:39.409441Z",
-                "2025-04-28T05:17:29.399485Z",
-                "2025-04-28T07:13:42.197435Z",
-                "2025-04-28T16:11:48.217559Z",
-                "2025-04-28T22:35:43.066988Z",
-                "2025-04-29T08:53:47.211435Z",
-                "2025-04-29T15:39:43.875577Z",
-                "2025-04-29T20:55:42.221760Z",
-                "2025-04-29T21:51:36.133093Z",
-                "2025-04-30T04:03:27.582764Z",
-                "2025-04-30T06:53:27.646063Z",
-                "2025-04-30T07:49:33.159437Z",
-                "2025-04-30T10:05:45.916638Z",
-                "2025-04-30T14:22:02.923968Z",
-                "2025-04-30T16:17:40.323489Z",
-                "2025-05-01T01:59:36.339816Z",
-                "2025-05-01T04:47:50.688417Z",
-                "2025-05-01T09:39:24.607811Z",
-                "2025-05-01T16:32:02.012404Z",
-                "2025-05-02T06:21:54.108076Z",
-                "2025-05-02T08:18:04.062190Z",
-                "2025-05-02T12:32:10.015118Z",
-                "2025-05-02T19:35:32.479580Z",
-                "2025-05-02T23:39:40.867080Z",
-                "2025-05-03T03:33:41.237749Z",
-                "2025-05-03T07:25:47.238220Z",
-                "2025-05-03T08:21:42.311973Z",
-                "2025-05-03T10:13:44.910635Z",
-                "2025-05-03T13:09:24.638124Z",
-                "2025-05-03T20:45:46.238441Z",
-                "2025-05-03T23:37:35.982315Z",
-                "2025-05-04T03:29:35.705016Z",
-                "2025-05-04T04:25:40.343446Z",
-                "2025-05-04T10:17:37.954353Z",
-                "2025-05-04T11:13:44.327053Z",
-                "2025-05-05T00:09:57.831442Z"
-            ]
-        },
-        {
-            "id": "0386ff4ff80483382680bf406daeb88c",
-            "source": "spacenews",
-            "text": "Space Force scraps satellite procurement, shifts to more flexible strategy",
-            "source_link": "https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-06T10:53:27.999131Z",
-            "shown_at": [
-                "2025-07-06T10:53:28.489290Z"
-            ]
-        },
-        {
-            "id": "3c21c1e79e5054b5e45e7ac0dc548032",
-            "source": "spacenews",
-            "text": "U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash",
-            "source_link": "https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-06T17:25:45.067338Z",
-            "shown_at": [
-                "2025-07-06T17:25:46.073719Z"
             ]
         }
     ]
