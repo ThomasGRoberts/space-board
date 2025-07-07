@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 51 |
-| supercluster | 0 | 0 | 168 | 350 |
+| supercluster | 0 | 0 | 169 | 351 |
 | breaking_defense | 2 | 2 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 51 |
 
@@ -5583,3 +5583,4 @@
 - **Jul 07, 10:23 PM** - Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge (spacenews)
 - **Jul 07, 10:37 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 07, 10:51 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 07, 11:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
