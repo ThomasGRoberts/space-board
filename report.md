@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 25 | 51 |
+| spacenews | 2 | 2 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
 | breaking_defense | 0 | 0 | 25 | 50 |
-| nyt | 0 | 0 | 26 | 51 |
+| nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
 
@@ -5418,3 +5418,4 @@
 - **Jul 07, 06:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 07, 06:39 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
