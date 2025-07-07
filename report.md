@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 26 | 52 |
-| supercluster | 0 | 0 | 175 | 356 |
-| breaking_defense | 1 | 1 | 25 | 51 |
+| supercluster | 0 | 0 | 175 | 355 |
+| breaking_defense | 2 | 2 | 26 | 52 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5521,3 +5521,4 @@
 - **Jul 07, 04:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 04:23 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 04:37 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
+- **Jul 07, 04:51 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
