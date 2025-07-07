@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 51 |
-| supercluster | 0 | 0 | 168 | 350 |
+| supercluster | 0 | 0 | 169 | 351 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| nyt | 0 | 0 | 25 | 51 |
+| nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5563,3 +5563,4 @@
 - **Jul 07, 08:31 PM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
 - **Jul 07, 08:45 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 08:59 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 07, 09:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
