@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 25 | 51 |
+| spacenews | 2 | 2 | 26 | 52 |
 | supercluster | 0 | 0 | 182 | 357 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 51 |
@@ -5428,3 +5428,4 @@
 - **Jul 07, 07:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 07:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 07, 07:37 AM** - Defense Satellites to redefine Global Earth Observation Strategy (spacenews)
