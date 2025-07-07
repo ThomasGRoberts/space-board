@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 175 | 356 |
+| spacenews | 2 | 2 | 25 | 51 |
+| supercluster | 0 | 0 | 176 | 356 |
 | breaking_defense | 0 | 0 | 25 | 51 |
 | nyt | 0 | 0 | 26 | 51 |
 
@@ -5381,3 +5381,4 @@
 - **Jul 07, 02:53 AM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 07, 03:07 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 03:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 07, 03:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
