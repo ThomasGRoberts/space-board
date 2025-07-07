@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 25 | 51 |
+| spacenews | 2 | 3 | 26 | 52 |
 | supercluster | 0 | 0 | 175 | 357 |
 | breaking_defense | 1 | 1 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
@@ -5500,3 +5500,4 @@
 - **Jul 07, 02:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 02:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 02:27 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
+- **Jul 07, 02:43 PM** - NOAA budget proposal seeks to cancel TraCSS (spacenews)
