@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-07T00:01:40.098847+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b4310218a0a2b5f89de81d71367c16e",
+    "trigger_count": 0,
+    "current_item_id": "f0278cf2e14fc9124b593a5b734c9df8",
     "data": [
         {
             "id": "3c21c1e79e5054b5e45e7ac0dc548032",
@@ -10955,6 +10955,18 @@
                 "2025-05-04T17:03:37.465138Z",
                 "2025-05-04T21:02:13.906215Z",
                 "2025-05-05T07:33:53.869530Z"
+            ]
+        },
+        {
+            "id": "f0278cf2e14fc9124b593a5b734c9df8",
+            "source": "spacenews",
+            "text": "Trump says it would have been “inappropriate” for Isaacman to lead NASA",
+            "source_link": "https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T10:55:57.777013Z",
+            "shown_at": [
+                "2025-07-07T10:55:58.851324Z"
             ]
         }
     ]
