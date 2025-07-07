@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 26 | 52 |
 | supercluster | 0 | 0 | 175 | 350 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| nyt | 0 | 0 | 24 | 50 |
+| nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
 
@@ -5522,3 +5522,4 @@
 - **Jul 07, 04:23 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 04:37 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
 - **Jul 07, 04:51 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 07, 05:07 PM** - Third Interstellar Object Enters the Solar System (nyt)
