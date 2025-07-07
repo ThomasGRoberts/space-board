@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 51 |
-| supercluster | 0 | 0 | 171 | 350 |
+| supercluster | 0 | 0 | 170 | 351 |
 | breaking_defense | 2 | 2 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 51 |
 
@@ -5533,3 +5533,4 @@
 - **Jul 07, 05:35 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
 - **Jul 07, 05:49 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 07, 06:03 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 07, 06:18 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
