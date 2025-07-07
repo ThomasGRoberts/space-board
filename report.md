@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 52 |
 | supercluster | 0 | 0 | 175 | 352 |
-| breaking_defense | 2 | 2 | 25 | 51 |
+| breaking_defense | 2 | 2 | 26 | 52 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5551,3 +5551,4 @@
 - **Jul 07, 07:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 07:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 07:31 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
+- **Jul 07, 07:45 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
