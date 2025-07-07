@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-07T00:01:40.098847+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "46d4977e083dde548c6941c96f3b3f2f",
     "data": [
         {
             "id": "3c21c1e79e5054b5e45e7ac0dc548032",
@@ -10985,6 +10985,18 @@
             "fetched_datetime": "2025-07-07T10:55:57.777013Z",
             "shown_at": [
                 "2025-07-07T10:55:58.851324Z"
+            ]
+        },
+        {
+            "id": "46d4977e083dde548c6941c96f3b3f2f",
+            "source": "breaking_defense",
+            "text": "Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch",
+            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T12:33:27.221405Z",
+            "shown_at": [
+                "2025-07-07T12:33:27.921763Z"
             ]
         }
     ]
