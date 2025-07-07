@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 26 | 52 |
+| spacenews | 2 | 2 | 26 | 51 |
 | supercluster | 0 | 0 | 182 | 357 |
-| breaking_defense | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
@@ -5349,3 +5349,4 @@
 - **Jul 06, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 06, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 12:01 AM** - This is not the time to cut space-enabled medical research (spacenews)
+- **Jul 07, 12:15 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
