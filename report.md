@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 26 | 51 |
 | supercluster | 0 | 0 | 175 | 357 |
-| breaking_defense | 0 | 0 | 26 | 51 |
-| nyt | 0 | 0 | 25 | 50 |
+| breaking_defense | 0 | 0 | 25 | 51 |
+| nyt | 0 | 0 | 26 | 51 |
 
 # Shown Order
 
@@ -5420,3 +5420,4 @@
 - **Jul 07, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 06:39 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 07, 06:53 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 07, 07:07 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
