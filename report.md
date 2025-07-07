@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 52 |
-| supercluster | 0 | 0 | 175 | 350 |
+| supercluster | 0 | 0 | 174 | 350 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| nyt | 0 | 0 | 24 | 50 |
+| nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
 
@@ -5572,3 +5572,4 @@
 - **Jul 07, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 09:27 PM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
 - **Jul 07, 09:41 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 07, 09:55 PM** - Third Interstellar Object Enters the Solar System (nyt)
