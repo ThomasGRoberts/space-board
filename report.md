@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 52 |
-| supercluster | 0 | 0 | 175 | 354 |
-| breaking_defense | 2 | 2 | 25 | 51 |
+| supercluster | 0 | 0 | 175 | 353 |
+| breaking_defense | 2 | 2 | 26 | 52 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5531,3 +5531,4 @@
 - **Jul 07, 05:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 05:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 07, 05:35 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
+- **Jul 07, 05:49 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
