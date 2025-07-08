@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 168 | 350 |
+| supercluster | 0 | 0 | 169 | 351 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5526,3 +5526,4 @@
 - **Jul 08, 03:19 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 08, 03:33 AM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
 - **Jul 08, 03:47 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 08, 04:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
