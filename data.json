@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cafacfbf3b370c5c6ab1e4369e19cbe2",
+    "trigger_count": 0,
+    "current_item_id": "a8fcde29e03808edcce8b4d2c12e83e0",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10556,6 +10556,18 @@
             "fetched_datetime": "2025-07-08T20:31:49.927504Z",
             "shown_at": [
                 "2025-07-08T20:31:50.575241Z"
+            ]
+        },
+        {
+            "id": "a8fcde29e03808edcce8b4d2c12e83e0",
+            "source": "spacenews",
+            "text": "Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project",
+            "source_link": "https://spacenews.com/neuraspace-tackles-gnss-signal-noise-with-esa-funded-satellite-collision-avoidance-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T22:29:29.734373Z",
+            "shown_at": [
+                "2025-07-08T22:29:30.290956Z"
             ]
         }
     ]
