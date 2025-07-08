@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 28 | 53 |
+| spacenews | 7 | 9 | 29 | 54 |
 | breaking_defense | 2 | 4 | 24 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
 | supercluster | 2 | 2 | 60 | 60 |
@@ -4870,3 +4870,4 @@
 - **Jul 08, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 06:09 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 08, 06:23 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
