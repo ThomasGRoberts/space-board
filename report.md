@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 29 | 55 |
 | breaking_defense | 2 | 3 | 25 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -4834,3 +4834,4 @@
 - **Jul 08, 02:44 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 02:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 03:11 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
+- **Jul 08, 03:26 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
