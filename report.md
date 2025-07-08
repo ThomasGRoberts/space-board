@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 27 | 53 |
 | breaking_defense | 3 | 3 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -4792,3 +4792,4 @@
 - **Jul 08, 10:25 AM** - Commercial space industry groups ask Congress to fully fund TraCSS (spacenews)
 - **Jul 08, 10:39 AM** - Muon Space names new leadership to advance role in government market (spacenews)
 - **Jul 08, 10:53 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
+- **Jul 08, 11:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
