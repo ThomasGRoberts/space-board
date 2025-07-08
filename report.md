@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 29 | 55 |
-| breaking_defense | 2 | 3 | 25 | 50 |
+| breaking_defense | 2 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -4814,3 +4814,4 @@
 - **Jul 08, 12:47 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
 - **Jul 08, 01:02 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 08, 01:17 PM** - China is practing orbital warfare to win in space (spacenews)
+- **Jul 08, 01:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
