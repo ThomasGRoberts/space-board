@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 27 | 53 |
 | breaking_defense | 3 | 3 | 25 | 50 |
-| nyt | 0 | 0 | 22 | 48 |
+| nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -4799,3 +4799,4 @@
 - **Jul 08, 11:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 11:21 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
