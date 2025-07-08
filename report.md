@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 171 | 350 |
-| nyt | 0 | 0 | 24 | 50 |
+| supercluster | 0 | 0 | 170 | 350 |
+| nyt | 0 | 0 | 25 | 51 |
 
 # Shown Order
 
@@ -5535,3 +5535,4 @@
 - **Jul 08, 04:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 04:15 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 04:29 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
+- **Jul 08, 04:43 AM** - Third Interstellar Object Enters the Solar System (nyt)
