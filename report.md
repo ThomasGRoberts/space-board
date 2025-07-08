@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 27 | 53 |
+| spacenews | 6 | 8 | 28 | 53 |
 | breaking_defense | 3 | 3 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -4801,3 +4801,4 @@
 - **Jul 08, 11:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:21 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 11:35 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 08, 11:49 AM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
