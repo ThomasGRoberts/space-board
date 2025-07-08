@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "152a52bd15edb840461fb4611d4ab4eb",
+    "trigger_count": 0,
+    "current_item_id": "3155e29077396f288bc254c0a9e315fe",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10325,9 +10325,12 @@
             "source": "spacenews",
             "text": "Muon Space names new leadership to advance role in government market",
             "source_link": "https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-08T10:25:17.200190Z"
+            "fetched_datetime": "2025-07-08T10:25:17.200190Z",
+            "shown_at": [
+                "2025-07-08T10:39:37.942212Z"
+            ]
         }
     ]
 }
