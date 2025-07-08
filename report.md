@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 28 | 54 |
-| breaking_defense | 5 | 7 | 27 | 52 |
+| breaking_defense | 5 | 7 | 26 | 52 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 2 | 2 | 68 | 68 |
+| supercluster | 2 | 2 | 69 | 69 |
 
 # Shown Order
 
@@ -4887,3 +4887,4 @@
 - **Jul 08, 08:17 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 08, 08:31 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 08, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 08, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
