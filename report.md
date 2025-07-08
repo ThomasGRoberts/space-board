@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 52 |
-| breaking_defense | 2 | 2 | 25 | 51 |
+| breaking_defense | 2 | 2 | 26 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -4800,3 +4800,4 @@
 - **Jul 08, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 07:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 08:03 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
