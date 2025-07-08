@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 25 | 51 |
+| spacenews | 3 | 5 | 26 | 52 |
 | breaking_defense | 2 | 2 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 356 |
 | nyt | 0 | 0 | 25 | 50 |
@@ -5492,3 +5492,4 @@
 - **Jul 08, 12:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 12:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 12:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 12:17 AM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
