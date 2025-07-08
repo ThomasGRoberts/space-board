@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 28 | 54 |
-| breaking_defense | 4 | 6 | 26 | 51 |
-| nyt | 0 | 0 | 21 | 46 |
+| breaking_defense | 4 | 6 | 25 | 51 |
+| nyt | 0 | 0 | 22 | 46 |
 | supercluster | 2 | 2 | 67 | 67 |
 
 # Shown Order
@@ -4882,3 +4882,4 @@
 - **Jul 08, 07:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 08, 07:48 PM** - Third Interstellar Object Enters the Solar System (nyt)
