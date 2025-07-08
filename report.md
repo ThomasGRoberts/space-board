@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 28 | 54 |
+| spacenews | 8 | 10 | 29 | 55 |
 | breaking_defense | 2 | 3 | 25 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -4813,3 +4813,4 @@
 - **Jul 08, 12:33 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 12:47 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
 - **Jul 08, 01:02 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
+- **Jul 08, 01:17 PM** - China is practing orbital warfare to win in space (spacenews)
