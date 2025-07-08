@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 28 | 54 |
 | breaking_defense | 4 | 6 | 26 | 51 |
 | nyt | 0 | 0 | 21 | 46 |
-| supercluster | 2 | 2 | 62 | 62 |
+| supercluster | 2 | 2 | 63 | 63 |
 
 # Shown Order
 
@@ -4877,3 +4877,4 @@
 - **Jul 08, 07:19 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 08, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 07:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 08, 07:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
