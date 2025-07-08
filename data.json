@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1e12b30c76338c1ca45f07a2ced9f070",
+    "trigger_count": 0,
+    "current_item_id": "152a52bd15edb840461fb4611d4ab4eb",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10307,6 +10307,27 @@
             "shown_at": [
                 "2025-07-08T10:11:13.740488Z"
             ]
+        },
+        {
+            "id": "152a52bd15edb840461fb4611d4ab4eb",
+            "source": "spacenews",
+            "text": "Commercial space industry groups ask Congress to fully fund TraCSS",
+            "source_link": "https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:25:17.200136Z",
+            "shown_at": [
+                "2025-07-08T10:25:17.815052Z"
+            ]
+        },
+        {
+            "id": "3155e29077396f288bc254c0a9e315fe",
+            "source": "spacenews",
+            "text": "Muon Space names new leadership to advance role in government market",
+            "source_link": "https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:25:17.200190Z"
         }
     ]
 }
