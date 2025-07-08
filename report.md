@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -4792,3 +4792,4 @@
 - **Jul 08, 07:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 07:07 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 08, 07:21 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
+- **Jul 08, 07:35 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
