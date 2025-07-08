@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 28 | 54 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 | supercluster | 2 | 2 | 74 | 74 |
 
 # Shown Order
@@ -4893,3 +4893,4 @@
 - **Jul 08, 08:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 08:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 08, 08:59 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
