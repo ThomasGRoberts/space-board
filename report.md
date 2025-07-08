@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 26 | 52 |
 | breaking_defense | 2 | 2 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4784,3 +4784,4 @@
 - **Jul 08, 06:25 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 08, 06:39 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 06:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 06:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
