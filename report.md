@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 56 |
-| breaking_defense | 5 | 7 | 25 | 51 |
+| breaking_defense | 5 | 7 | 26 | 52 |
 | nyt | 0 | 0 | 20 | 45 |
 | supercluster | 2 | 2 | 81 | 81 |
 
@@ -4907,3 +4907,4 @@
 - **Jul 08, 10:11 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
 - **Jul 08, 10:29 PM** - Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project (spacenews)
 - **Jul 08, 10:43 PM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
+- **Jul 08, 10:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
