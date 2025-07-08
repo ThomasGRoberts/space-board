@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 52 |
-| breaking_defense | 2 | 2 | 25 | 50 |
+| breaking_defense | 3 | 3 | 26 | 51 |
 | nyt | 0 | 0 | 23 | 49 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -4788,3 +4788,4 @@
 - **Jul 08, 09:29 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 09:43 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 09:57 AM** - Planet pushes into European market, announces new agreement with Germany (spacenews)
+- **Jul 08, 10:11 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)

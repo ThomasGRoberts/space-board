@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5aa25092dd26db48e0433dcd7b2683c9",
+    "trigger_count": 0,
+    "current_item_id": "1e12b30c76338c1ca45f07a2ced9f070",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10294,6 +10294,18 @@
                 "2025-07-08T09:23:04.575696Z",
                 "2025-07-08T09:25:46.959204Z",
                 "2025-07-08T09:27:31.640380Z"
+            ]
+        },
+        {
+            "id": "1e12b30c76338c1ca45f07a2ced9f070",
+            "source": "breaking_defense",
+            "text": "Industry lobbies to protect Commerce space office at risk of cuts",
+            "source_link": "https://breakingdefense.com/2025/07/industry-lobbies-to-protect-commerce-space-office-at-risk-of-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:11:13.173531Z",
+            "shown_at": [
+                "2025-07-08T10:11:13.740488Z"
             ]
         }
     ]
