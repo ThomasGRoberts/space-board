@@ -4781,4 +4781,4 @@
 - **Jul 08, 07:35 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 08:03 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 08, 08:17 AM** - Building the future of SpaceNews (spacenews)
-- **Jul 08, 08:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 08:44 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
