@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 27 | 53 |
-| breaking_defense | 3 | 3 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 5 | 5 |
+| breaking_defense | 3 | 3 | 25 | 50 |
+| nyt | 0 | 0 | 22 | 48 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4793,3 +4793,4 @@
 - **Jul 08, 10:39 AM** - Muon Space names new leadership to advance role in government market (spacenews)
 - **Jul 08, 10:53 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 08, 11:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 11:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
