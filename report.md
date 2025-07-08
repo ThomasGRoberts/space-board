@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 28 | 53 |
+| spacenews | 8 | 11 | 29 | 54 |
 | breaking_defense | 5 | 7 | 26 | 52 |
 | nyt | 0 | 0 | 21 | 46 |
 | supercluster | 2 | 2 | 81 | 81 |
@@ -4904,3 +4904,4 @@
 - **Jul 08, 09:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 09:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 09:55 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 08, 10:11 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
