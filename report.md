@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 29 | 55 |
-| breaking_defense | 1 | 3 | 24 | 50 |
+| spacenews | 7 | 9 | 29 | 54 |
+| breaking_defense | 2 | 4 | 25 | 51 |
 | nyt | 0 | 0 | 22 | 47 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -4854,3 +4854,4 @@
 - **Jul 08, 04:43 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 04:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 05:12 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
+- **Jul 08, 05:27 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)

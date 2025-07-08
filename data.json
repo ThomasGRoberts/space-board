@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "788ece09c70781c4e8419c1558c97f46",
+    "trigger_count": 0,
+    "current_item_id": "e8cf2938ced36644a4db391b21f0a5ca",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10426,6 +10426,18 @@
             "fetched_datetime": "2025-07-08T13:02:10.577881Z",
             "shown_at": [
                 "2025-07-08T13:17:41.585878Z"
+            ]
+        },
+        {
+            "id": "e8cf2938ced36644a4db391b21f0a5ca",
+            "source": "breaking_defense",
+            "text": "House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe",
+            "source_link": "https://breakingdefense.com/2025/07/house-committees-ndaa-authorizes-more-money-for-ukraine-thwarts-troop-reductions-in-europe/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T17:27:28.706078Z",
+            "shown_at": [
+                "2025-07-08T17:27:29.273631Z"
             ]
         }
     ]
