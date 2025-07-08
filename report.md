@@ -5,7 +5,7 @@
 | spacenews | 10 | 13 | 30 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
 | nyt | 0 | 0 | 20 | 45 |
-| supercluster | 2 | 2 | 82 | 82 |
+| supercluster | 2 | 2 | 83 | 83 |
 
 # Shown Order
 
@@ -4909,3 +4909,4 @@
 - **Jul 08, 10:43 PM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
 - **Jul 08, 10:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 11:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 11:13 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
