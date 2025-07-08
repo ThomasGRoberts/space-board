@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 51 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 169 | 351 |
+| supercluster | 0 | 0 | 170 | 352 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5496,3 +5496,4 @@
 - **Jul 08, 12:31 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 08, 12:45 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 12:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 01:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
