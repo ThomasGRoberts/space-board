@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d5a99a8171cb0199ed501a671f0fac0",
+    "trigger_count": 0,
+    "current_item_id": "294df233f2f736b2d1b9b98d0260c2a4",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10512,6 +10512,18 @@
             "fetched_datetime": "2025-07-08T19:19:27.282463Z",
             "shown_at": [
                 "2025-07-08T19:19:27.901259Z"
+            ]
+        },
+        {
+            "id": "294df233f2f736b2d1b9b98d0260c2a4",
+            "source": "spacenews",
+            "text": "China is practicing orbital warfare to win in space",
+            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T20:03:37.337994Z",
+            "shown_at": [
+                "2025-07-08T20:03:38.283443Z"
             ]
         }
     ]
