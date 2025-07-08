@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 29 | 55 |
+| spacenews | 10 | 13 | 30 | 56 |
 | breaking_defense | 5 | 7 | 25 | 51 |
 | nyt | 0 | 0 | 21 | 45 |
 | supercluster | 2 | 2 | 88 | 88 |
@@ -4916,3 +4916,4 @@
 - **Jul 08, 11:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:23 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:25 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 08, 11:39 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
