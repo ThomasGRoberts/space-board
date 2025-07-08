@@ -4811,3 +4811,4 @@
 - **Jul 08, 12:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 12:20 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 12:33 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 08, 12:47 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
