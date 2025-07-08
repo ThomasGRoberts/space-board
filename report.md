@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 27 | 53 |
 | breaking_defense | 3 | 3 | 25 | 50 |
 | nyt | 0 | 0 | 22 | 48 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4804,3 +4804,4 @@
 - **Jul 08, 11:49 AM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
 - **Jul 08, 12:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 12:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 12:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
