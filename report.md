@@ -5,7 +5,6 @@
 | spacenews | 4 | 6 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
 | nyt | 0 | 0 | 24 | 50 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -4773,32 +4772,11 @@
 - **Jul 08, 05:13 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 05:27 AM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
 - **Jul 08, 05:41 AM** - Third Interstellar Object Enters the Solar System (nyt)
-- **Jul 08, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 05:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 05:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 06:11 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 08, 06:25 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 08, 06:39 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
-- **Jul 08, 06:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 06:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 07:07 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 08, 07:21 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
 - **Jul 08, 07:35 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
-- **Jul 08, 07:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 07:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Jul 08, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 08:03 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 08, 08:17 AM** - Building the future of SpaceNews (spacenews)
