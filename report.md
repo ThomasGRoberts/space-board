@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 29 | 55 |
 | breaking_defense | 2 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -4836,3 +4836,4 @@
 - **Jul 08, 03:11 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 08, 03:26 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 03:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 03:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
