@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 51 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 169 | 351 |
+| supercluster | 0 | 0 | 170 | 352 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5486,3 +5486,4 @@
 - **Jul 07, 11:33 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 11:47 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 12:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 12:04 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
