@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 27 | 53 |
-| breaking_defense | 2 | 3 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 48 |
+| spacenews | 8 | 10 | 28 | 54 |
+| breaking_defense | 2 | 3 | 25 | 50 |
+| nyt | 0 | 0 | 22 | 48 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -4812,3 +4812,4 @@
 - **Jul 08, 12:20 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 12:33 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 12:47 PM** - LeoLabs secures U.S. military funding for missile-tracking mobile radar (spacenews)
+- **Jul 08, 01:02 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)

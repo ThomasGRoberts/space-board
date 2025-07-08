@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efc5d342279b0b51726611e96bb1deea",
+    "trigger_count": 0,
+    "current_item_id": "6e2288ebd5792341fb4d1641e4e5b759",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10363,6 +10363,27 @@
             "shown_at": [
                 "2025-07-08T10:53:40.621666Z"
             ]
+        },
+        {
+            "id": "6e2288ebd5792341fb4d1641e4e5b759",
+            "source": "spacenews",
+            "text": "Northrop Grumman stakes role in Golden Dome missile shield",
+            "source_link": "https://spacenews.com/northrop-grumman-stakes-role-in-golden-dome-missile-shield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T13:02:10.577822Z",
+            "shown_at": [
+                "2025-07-08T13:02:11.617589Z"
+            ]
+        },
+        {
+            "id": "f567bddee458e472a0c9255a31595193",
+            "source": "spacenews",
+            "text": "China is practing orbital warfare to win in space",
+            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T13:02:10.577881Z"
         }
     ]
 }
