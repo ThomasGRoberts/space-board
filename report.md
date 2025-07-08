@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 52 |
-| breaking_defense | 2 | 2 | 25 | 50 |
+| breaking_defense | 2 | 2 | 26 | 51 |
 | supercluster | 0 | 0 | 175 | 350 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 24 | 50 |
 
 # Shown Order
 
@@ -5503,3 +5503,4 @@
 - **Jul 08, 01:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 08, 01:13 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
+- **Jul 08, 01:27 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
