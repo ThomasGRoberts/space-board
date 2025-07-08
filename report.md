@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 29 | 55 |
 | breaking_defense | 2 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4815,3 +4815,4 @@
 - **Jul 08, 01:02 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 08, 01:17 PM** - China is practing orbital warfare to win in space (spacenews)
 - **Jul 08, 01:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 01:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
