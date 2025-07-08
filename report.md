@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 27 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 170 | 350 |
-| nyt | 0 | 0 | 24 | 49 |
+| supercluster | 0 | 0 | 168 | 350 |
+| nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5515,3 +5515,4 @@
 - **Jul 08, 02:09 AM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
 - **Jul 08, 02:23 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 02:37 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
+- **Jul 08, 02:51 AM** - Third Interstellar Object Enters the Solar System (nyt)
