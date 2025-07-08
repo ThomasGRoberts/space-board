@@ -5,7 +5,7 @@
 | spacenews | 8 | 11 | 28 | 54 |
 | breaking_defense | 5 | 7 | 26 | 52 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 2 | 2 | 76 | 76 |
+| supercluster | 2 | 2 | 77 | 77 |
 
 # Shown Order
 
@@ -4898,3 +4898,4 @@
 - **Jul 08, 09:27 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 09:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 09:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 09:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
