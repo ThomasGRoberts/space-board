@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3f0e75e3fdc2a038662f232a0e1f92f",
+    "trigger_count": 0,
+    "current_item_id": "afeb6f72cf6d3adea1a337daf288f16d",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10480,6 +10480,18 @@
             "fetched_datetime": "2025-07-08T18:51:49.903652Z",
             "shown_at": [
                 "2025-07-08T18:51:51.254417Z"
+            ]
+        },
+        {
+            "id": "afeb6f72cf6d3adea1a337daf288f16d",
+            "source": "spacenews",
+            "text": "Space Force unveils first international strategy, while GAO flags barriers to space cooperation",
+            "source_link": "https://spacenews.com/space-force-unveils-first-international-strategy-while-gao-flags-barriers-to-space-cooperation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T19:05:43.490620Z",
+            "shown_at": [
+                "2025-07-08T19:05:44.238315Z"
             ]
         }
     ]
