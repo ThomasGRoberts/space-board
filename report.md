@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 52 |
-| breaking_defense | 2 | 2 | 26 | 51 |
+| breaking_defense | 2 | 2 | 25 | 51 |
 | nyt | 0 | 0 | 25 | 50 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4774,3 +4774,4 @@
 - **Jul 08, 05:27 AM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
 - **Jul 08, 05:41 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 05:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 05:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
