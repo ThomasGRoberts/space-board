@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 29 | 54 |
-| breaking_defense | 3 | 5 | 25 | 51 |
+| breaking_defense | 4 | 6 | 26 | 52 |
 | nyt | 0 | 0 | 21 | 46 |
 | supercluster | 2 | 2 | 60 | 60 |
 
@@ -4874,3 +4874,4 @@
 - **Jul 08, 06:37 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 08, 06:51 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 08, 07:05 PM** - Space Force unveils first international strategy, while GAO flags barriers to space cooperation (spacenews)
+- **Jul 08, 07:19 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
