@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 52 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 169 | 350 |
+| supercluster | 0 | 0 | 170 | 351 |
 | nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
@@ -5517,3 +5517,4 @@
 - **Jul 08, 02:37 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 08, 02:51 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 08, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
