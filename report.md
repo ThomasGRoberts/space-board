@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 27 | 53 |
-| breaking_defense | 3 | 3 | 25 | 50 |
+| breaking_defense | 2 | 3 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -4810,3 +4810,4 @@
 - **Jul 08, 12:15 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 12:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 12:20 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 08, 12:33 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
