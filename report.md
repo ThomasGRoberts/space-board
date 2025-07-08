@@ -5,7 +5,7 @@
 | spacenews | 8 | 10 | 29 | 55 |
 | breaking_defense | 2 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -4845,3 +4845,4 @@
 - **Jul 08, 03:55 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 08, 04:12 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
 - **Jul 08, 04:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 04:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
