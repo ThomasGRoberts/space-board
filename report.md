@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 28 | 54 |
 | breaking_defense | 2 | 4 | 25 | 50 |
 | nyt | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4856,3 +4856,4 @@
 - **Jul 08, 05:12 PM** - Space Force to fund development of Atomic-6 solar power for satellites (spacenews)
 - **Jul 08, 05:27 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 08, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 05:44 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
