@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 27 | 53 |
 | breaking_defense | 3 | 3 | 25 | 50 |
 | nyt | 0 | 0 | 22 | 48 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4794,3 +4794,4 @@
 - **Jul 08, 10:53 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 08, 11:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 08, 11:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 08, 11:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
