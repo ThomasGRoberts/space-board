@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 29 | 54 |
+| spacenews | 7 | 10 | 28 | 54 |
 | breaking_defense | 4 | 6 | 26 | 51 |
 | nyt | 0 | 0 | 21 | 46 |
-| supercluster | 2 | 2 | 60 | 60 |
+| supercluster | 2 | 2 | 61 | 61 |
 
 # Shown Order
 
@@ -4875,3 +4875,4 @@
 - **Jul 08, 06:51 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 08, 07:05 PM** - Space Force unveils first international strategy, while GAO flags barriers to space cooperation (spacenews)
 - **Jul 08, 07:19 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
+- **Jul 08, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
