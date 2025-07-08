@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8cf2938ced36644a4db391b21f0a5ca",
+    "trigger_count": 0,
+    "current_item_id": "c3f0e75e3fdc2a038662f232a0e1f92f",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -10468,6 +10468,18 @@
                 "2025-07-08T18:03:36.965305Z",
                 "2025-07-08T18:05:28.456219Z",
                 "2025-07-08T18:07:40.106079Z"
+            ]
+        },
+        {
+            "id": "c3f0e75e3fdc2a038662f232a0e1f92f",
+            "source": "breaking_defense",
+            "text": "Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’",
+            "source_link": "https://breakingdefense.com/2025/07/air-force-space-force-seek-16b-extra-for-fy26-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T18:51:49.903652Z",
+            "shown_at": [
+                "2025-07-08T18:51:51.254417Z"
             ]
         }
     ]

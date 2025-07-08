@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 28 | 54 |
-| breaking_defense | 2 | 4 | 24 | 50 |
+| breaking_defense | 3 | 5 | 25 | 51 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 2 | 2 | 60 | 60 |
 
@@ -4872,3 +4872,4 @@
 - **Jul 08, 06:09 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 06:23 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 08, 06:37 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 08, 06:51 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
