@@ -1,9 +1,79 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-07T00:01:40.098847+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdb86f65cbe1dabfcb839371aa3a6fba",
+    "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
+        {
+            "id": "c02f56eca6b0453734f3708537192516",
+            "source": "spacenews",
+            "text": "Cooperation and consolidation: reshaping Europe’s space industry to last",
+            "source_link": "https://spacenews.com/cooperation-and-consolidation-reshaping-europes-space-industry-to-last/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T18:33:32.625490Z",
+            "shown_at": [
+                "2025-07-07T18:33:33.197430Z",
+                "2025-07-07T21:27:33.816248Z"
+            ]
+        },
+        {
+            "id": "6f49965fb966cecf6a1385998a8d7a00",
+            "source": "breaking_defense",
+            "text": "Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch",
+            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T16:51:32.648375Z",
+            "shown_at": [
+                "2025-07-07T16:51:33.289785Z",
+                "2025-07-07T17:49:39.704126Z",
+                "2025-07-07T18:47:54.424341Z",
+                "2025-07-07T19:45:39.586513Z",
+                "2025-07-07T22:37:16.301204Z"
+            ]
+        },
+        {
+            "id": "cafacfbf3b370c5c6ab1e4369e19cbe2",
+            "source": "spacenews",
+            "text": "Chinese scientists propose 2033 Neptune orbiter mission",
+            "source_link": "https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T16:37:26.887671Z",
+            "shown_at": [
+                "2025-07-07T16:37:27.516908Z"
+            ]
+        },
+        {
+            "id": "46d4977e083dde548c6941c96f3b3f2f",
+            "source": "breaking_defense",
+            "text": "Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch",
+            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T12:33:27.221405Z",
+            "shown_at": [
+                "2025-07-07T12:33:27.921763Z",
+                "2025-07-07T13:29:37.119836Z",
+                "2025-07-07T14:27:11.274674Z",
+                "2025-07-07T15:27:36.692803Z",
+                "2025-07-07T16:23:35.795917Z",
+                "2025-07-07T23:33:44.487388Z"
+            ]
+        },
+        {
+            "id": "f0278cf2e14fc9124b593a5b734c9df8",
+            "source": "spacenews",
+            "text": "Trump says it would have been “inappropriate” for Isaacman to lead NASA",
+            "source_link": "https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-07T10:55:57.777013Z",
+            "shown_at": [
+                "2025-07-07T10:55:58.851324Z"
+            ]
+        },
         {
             "id": "3c21c1e79e5054b5e45e7ac0dc548032",
             "source": "spacenews",
@@ -814,7 +884,8 @@
                 "2025-07-07T23:11:15.144195Z",
                 "2025-07-07T23:13:38.715757Z",
                 "2025-07-07T23:15:48.166855Z",
-                "2025-07-07T23:17:27.087681Z"
+                "2025-07-07T23:17:27.087681Z",
+                "2025-07-08T00:02:02.788389Z"
             ]
         },
         {
@@ -10910,239 +10981,6 @@
                 "2025-05-03T08:49:29.163072Z",
                 "2025-05-04T22:55:38.071182Z",
                 "2025-05-05T23:41:43.287377Z"
-            ]
-        },
-        {
-            "id": "687cfa9fd954918b0b9051f4efa43e6c",
-            "source": "breaking_defense",
-            "text": "Amazon launches first 27 operational Kuiper satellites to compete with Starlink",
-            "source_link": "https://breakingdefense.com/2025/04/amazon-launches-first-27-operational-kuiper-satellites-to-compete-with-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T00:29:04.683737Z",
-            "shown_at": [
-                "2025-04-29T00:29:05.224271Z",
-                "2025-04-29T01:27:57.441629Z",
-                "2025-04-29T02:27:08.746582Z",
-                "2025-04-29T04:05:30.825402Z",
-                "2025-04-29T07:55:41.461867Z",
-                "2025-04-29T12:47:26.393939Z",
-                "2025-04-29T14:43:39.255897Z",
-                "2025-04-29T19:02:14.042617Z",
-                "2025-04-29T19:59:47.505562Z",
-                "2025-04-30T11:03:44.944062Z",
-                "2025-04-30T15:19:57.160043Z",
-                "2025-04-30T20:02:13.858032Z",
-                "2025-04-30T22:13:37.473782Z",
-                "2025-05-01T00:05:46.926943Z",
-                "2025-05-01T05:43:30.045595Z",
-                "2025-05-01T08:39:44.068872Z",
-                "2025-05-01T10:35:27.303778Z",
-                "2025-05-01T11:33:41.177053Z",
-                "2025-05-01T12:31:56.224974Z",
-                "2025-05-01T23:41:51.992727Z",
-                "2025-05-02T00:41:56.110097Z",
-                "2025-05-02T04:27:48.222506Z",
-                "2025-05-02T05:23:46.107750Z",
-                "2025-05-02T16:33:40.554518Z",
-                "2025-05-02T22:43:44.318655Z",
-                "2025-05-03T02:37:53.218630Z",
-                "2025-05-03T05:31:54.975175Z",
-                "2025-05-03T09:17:29.701550Z",
-                "2025-05-03T14:07:38.645328Z",
-                "2025-05-03T15:03:31.657729Z",
-                "2025-05-03T15:59:34.399968Z",
-                "2025-05-03T19:47:41.065961Z",
-                "2025-05-05T01:07:38.482477Z",
-                "2025-05-05T04:53:44.558425Z",
-                "2025-05-05T08:02:11.946019Z",
-                "2025-05-05T10:55:43.045745Z",
-                "2025-05-05T16:59:56.157480Z",
-                "2025-05-05T20:19:33.574754Z"
-            ]
-        },
-        {
-            "id": "a3e847f2b9b39a4bda9c9122a408cfdf",
-            "source": "nyt",
-            "text": "Amazon Launches First 27 Project Kuiper Internet Satellites",
-            "source_link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T00:15:35.452152Z",
-            "shown_at": [
-                "2025-04-29T00:15:36.578141Z",
-                "2025-04-29T01:13:27.897550Z",
-                "2025-04-29T02:12:20.476641Z",
-                "2025-04-29T04:49:23.838921Z",
-                "2025-04-29T05:47:26.210080Z",
-                "2025-04-29T07:41:32.532403Z",
-                "2025-04-29T11:47:31.776485Z",
-                "2025-04-29T14:57:28.624089Z",
-                "2025-04-29T16:24:22.916541Z",
-                "2025-04-29T21:09:26.675155Z",
-                "2025-04-29T22:05:38.936719Z",
-                "2025-04-30T05:14:02.772066Z",
-                "2025-04-30T09:21:37.780507Z",
-                "2025-04-30T10:19:11.882615Z",
-                "2025-04-30T11:17:28.301927Z",
-                "2025-04-30T12:37:35.045144Z",
-                "2025-04-30T13:35:50.289497Z",
-                "2025-04-30T19:33:41.118025Z",
-                "2025-04-30T20:33:43.722413Z",
-                "2025-04-30T23:23:27.766983Z",
-                "2025-05-01T01:17:32.826137Z",
-                "2025-05-01T02:13:32.967080Z",
-                "2025-05-01T03:09:40.346462Z",
-                "2025-05-01T04:05:42.490929Z",
-                "2025-05-01T05:02:07.971573Z",
-                "2025-05-01T05:57:29.305930Z",
-                "2025-05-01T10:49:10.343980Z",
-                "2025-05-01T12:45:29.450172Z",
-                "2025-05-01T14:53:41.443288Z",
-                "2025-05-01T15:49:32.903126Z",
-                "2025-05-01T16:45:39.724675Z",
-                "2025-05-01T17:57:34.291539Z",
-                "2025-05-02T01:23:42.484785Z",
-                "2025-05-02T04:13:30.086443Z",
-                "2025-05-02T06:05:32.324580Z",
-                "2025-05-02T08:03:31.608981Z",
-                "2025-05-02T12:15:59.101689Z",
-                "2025-05-02T13:35:38.417293Z",
-                "2025-05-03T00:21:58.093833Z",
-                "2025-05-03T07:11:38.483661Z",
-                "2025-05-03T13:51:33.830324Z",
-                "2025-05-03T15:45:08.493280Z",
-                "2025-05-03T17:37:32.855544Z",
-                "2025-05-03T19:33:44.265303Z",
-                "2025-05-04T00:19:30.275976Z",
-                "2025-05-04T01:17:39.333252Z",
-                "2025-05-04T05:07:33.698767Z",
-                "2025-05-04T06:03:29.079331Z",
-                "2025-05-04T10:59:41.721076Z",
-                "2025-05-04T11:55:32.631745Z",
-                "2025-05-04T18:41:34.572216Z",
-                "2025-05-04T19:37:29.074278Z",
-                "2025-05-04T23:23:28.980927Z",
-                "2025-05-05T00:25:13.714220Z",
-                "2025-05-05T02:17:39.370273Z",
-                "2025-05-05T06:08:08.377999Z",
-                "2025-05-05T17:29:52.736702Z"
-            ]
-        },
-        {
-            "id": "637ba07531c00a55df18ef7f42ba56b3",
-            "source": "spacenews",
-            "text": "China and Malaysia to study international equatorial spaceport project",
-            "source_link": "https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T22:21:54.224374Z",
-            "shown_at": [
-                "2025-04-28T22:21:54.939131Z",
-                "2025-04-30T22:41:43.529101Z",
-                "2025-05-01T16:59:13.918130Z"
-            ]
-        },
-        {
-            "id": "af84c0071c31ce82c125c479b1d5df0c",
-            "source": "spacenews",
-            "text": "Spire Global closes stalled $241 million maritime sale",
-            "source_link": "https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T18:21:31.936192Z",
-            "shown_at": [
-                "2025-04-28T18:21:32.556887Z",
-                "2025-04-30T03:49:14.809213Z",
-                "2025-05-02T00:11:55.942921Z",
-                "2025-05-04T02:02:26.855444Z"
-            ]
-        },
-        {
-            "id": "a6650c8317d84037eb10a5f86ad9a67f",
-            "source": "spacenews",
-            "text": "Head of FAA’s commercial space office takes buyout",
-            "source_link": "https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-28T11:53:29.848594Z",
-            "shown_at": [
-                "2025-04-28T11:53:31.040098Z",
-                "2025-05-01T03:38:00.725660Z",
-                "2025-05-04T05:49:08.282726Z",
-                "2025-05-04T17:03:37.465138Z",
-                "2025-05-04T21:02:13.906215Z",
-                "2025-05-05T07:33:53.869530Z"
-            ]
-        },
-        {
-            "id": "f0278cf2e14fc9124b593a5b734c9df8",
-            "source": "spacenews",
-            "text": "Trump says it would have been “inappropriate” for Isaacman to lead NASA",
-            "source_link": "https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T10:55:57.777013Z",
-            "shown_at": [
-                "2025-07-07T10:55:58.851324Z"
-            ]
-        },
-        {
-            "id": "46d4977e083dde548c6941c96f3b3f2f",
-            "source": "breaking_defense",
-            "text": "Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch",
-            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T12:33:27.221405Z",
-            "shown_at": [
-                "2025-07-07T12:33:27.921763Z",
-                "2025-07-07T13:29:37.119836Z",
-                "2025-07-07T14:27:11.274674Z",
-                "2025-07-07T15:27:36.692803Z",
-                "2025-07-07T16:23:35.795917Z",
-                "2025-07-07T23:33:44.487388Z"
-            ]
-        },
-        {
-            "id": "cafacfbf3b370c5c6ab1e4369e19cbe2",
-            "source": "spacenews",
-            "text": "Chinese scientists propose 2033 Neptune orbiter mission",
-            "source_link": "https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T16:37:26.887671Z",
-            "shown_at": [
-                "2025-07-07T16:37:27.516908Z"
-            ]
-        },
-        {
-            "id": "6f49965fb966cecf6a1385998a8d7a00",
-            "source": "breaking_defense",
-            "text": "Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch",
-            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T16:51:32.648375Z",
-            "shown_at": [
-                "2025-07-07T16:51:33.289785Z",
-                "2025-07-07T17:49:39.704126Z",
-                "2025-07-07T18:47:54.424341Z",
-                "2025-07-07T19:45:39.586513Z",
-                "2025-07-07T22:37:16.301204Z"
-            ]
-        },
-        {
-            "id": "c02f56eca6b0453734f3708537192516",
-            "source": "spacenews",
-            "text": "Cooperation and consolidation: reshaping Europe’s space industry to last",
-            "source_link": "https://spacenews.com/cooperation-and-consolidation-reshaping-europes-space-industry-to-last/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T18:33:32.625490Z",
-            "shown_at": [
-                "2025-07-07T18:33:33.197430Z",
-                "2025-07-07T21:27:33.816248Z"
             ]
         }
     ]
