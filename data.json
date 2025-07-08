@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b4310218a0a2b5f89de81d71367c16e",
+    "trigger_count": 0,
+    "current_item_id": "134ec115330d7e4f65b38b29a92b6293",
     "data": [
         {
             "id": "c02f56eca6b0453734f3708537192516",
@@ -11009,6 +11009,18 @@
                 "2025-05-03T08:49:29.163072Z",
                 "2025-05-04T22:55:38.071182Z",
                 "2025-05-05T23:41:43.287377Z"
+            ]
+        },
+        {
+            "id": "134ec115330d7e4f65b38b29a92b6293",
+            "source": "spacenews",
+            "text": "ESA selects five companies for next phase of launcher competition",
+            "source_link": "https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T02:37:15.305917Z",
+            "shown_at": [
+                "2025-07-08T02:37:15.710008Z"
             ]
         }
     ]
