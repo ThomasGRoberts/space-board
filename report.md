@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 29 | 54 |
-| breaking_defense | 5 | 7 | 26 | 51 |
+| spacenews | 8 | 11 | 28 | 54 |
+| breaking_defense | 5 | 7 | 27 | 52 |
 | nyt | 0 | 0 | 21 | 46 |
 | supercluster | 2 | 2 | 74 | 74 |
 
@@ -4895,3 +4895,4 @@
 - **Jul 08, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 08, 08:59 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 08, 09:13 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
+- **Jul 08, 09:27 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
