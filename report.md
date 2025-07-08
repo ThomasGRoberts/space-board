@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 51 |
 | breaking_defense | 2 | 2 | 26 | 51 |
-| supercluster | 0 | 0 | 169 | 350 |
-| nyt | 0 | 0 | 25 | 51 |
+| supercluster | 0 | 0 | 169 | 351 |
+| nyt | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5505,3 +5505,4 @@
 - **Jul 08, 01:13 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 08, 01:27 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 08, 01:41 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 08, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
