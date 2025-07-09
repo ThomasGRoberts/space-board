@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 131 | 131 |
+| supercluster | 2 | 2 | 132 | 132 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4847,3 +4847,4 @@
 - **Jul 09, 05:21 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 09, 05:35 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 05:51 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 09, 05:53 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
