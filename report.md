@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 96 | 96 |
+| supercluster | 2 | 2 | 97 | 97 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4797,3 +4797,4 @@
 - **Jul 09, 12:35 AM** - Muon Space names new leadership to advance role in government market (spacenews)
 - **Jul 09, 12:49 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 01:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
