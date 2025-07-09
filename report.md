@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 27 | 56 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 168 | 242 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -5007,3 +5007,4 @@
 - **Jul 09, 08:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 08:53 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
 - **Jul 09, 09:07 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 09, 09:21 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
