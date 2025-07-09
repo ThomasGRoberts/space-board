@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 137 | 137 |
+| supercluster | 2 | 2 | 138 | 138 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4856,3 +4856,4 @@
 - **Jul 09, 06:05 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 06:19 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 09, 06:35 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 09, 06:49 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
