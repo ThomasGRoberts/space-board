@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 27 | 55 |
 | breaking_defense | 2 | 7 | 25 | 52 |
-| supercluster | 0 | 2 | 168 | 235 |
+| supercluster | 0 | 2 | 169 | 236 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -4998,3 +4998,4 @@
 - **Jul 09, 07:57 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
 - **Jul 09, 08:11 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 08:25 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 09, 08:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
