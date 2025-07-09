@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 111 | 111 |
+| supercluster | 2 | 2 | 112 | 112 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4818,3 +4818,4 @@
 - **Jul 09, 02:41 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 09, 02:55 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 02:57 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 09, 02:59 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
