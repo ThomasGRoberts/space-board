@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 27 | 56 |
-| breaking_defense | 4 | 6 | 26 | 51 |
+| spacenews | 8 | 15 | 27 | 55 |
+| breaking_defense | 4 | 6 | 27 | 52 |
 | supercluster | 1 | 2 | 168 | 214 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -4967,3 +4967,4 @@
 - **Jul 09, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 05:09 PM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
 - **Jul 09, 05:23 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 09, 05:37 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
