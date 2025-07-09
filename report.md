@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 29 | 55 |
+| spacenews | 9 | 13 | 30 | 56 |
 | breaking_defense | 5 | 7 | 25 | 51 |
 | supercluster | 2 | 2 | 130 | 130 |
 | nyt | 0 | 0 | 21 | 45 |
@@ -4844,3 +4844,4 @@
 - **Jul 09, 04:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 05:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 05:06 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 09, 05:21 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
