@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 27 | 56 |
 | breaking_defense | 5 | 7 | 27 | 51 |
-| supercluster | 1 | 2 | 168 | 207 |
-| nyt | 0 | 0 | 22 | 44 |
+| supercluster | 1 | 2 | 167 | 207 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -4956,3 +4956,4 @@
 - **Jul 09, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 04:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 04:13 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
+- **Jul 09, 04:27 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
