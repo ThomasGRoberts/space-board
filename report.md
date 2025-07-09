@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 27 | 56 |
-| breaking_defense | 3 | 7 | 26 | 51 |
+| breaking_defense | 3 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 168 | 235 |
 | nyt | 0 | 0 | 23 | 44 |
 
@@ -4996,3 +4996,4 @@
 - **Jul 09, 07:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 07:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 07:57 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
+- **Jul 09, 08:11 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
