@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 27 | 56 |
-| breaking_defense | 4 | 6 | 27 | 51 |
+| spacenews | 7 | 15 | 27 | 55 |
+| breaking_defense | 5 | 7 | 28 | 52 |
 | supercluster | 1 | 2 | 161 | 193 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
 
@@ -4937,3 +4937,4 @@
 - **Jul 09, 02:02 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 02:17 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
 - **Jul 09, 02:31 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 09, 02:45 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)

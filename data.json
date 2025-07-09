@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3f0e75e3fdc2a038662f232a0e1f92f",
+    "trigger_count": 0,
+    "current_item_id": "1c8b89d1496fdcc1c2170697809b9217",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10467,6 +10467,18 @@
             "fetched_datetime": "2025-07-09T13:13:29.691557Z",
             "shown_at": [
                 "2025-07-09T13:13:30.306484Z"
+            ]
+        },
+        {
+            "id": "1c8b89d1496fdcc1c2170697809b9217",
+            "source": "breaking_defense",
+            "text": "Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era",
+            "source_link": "https://breakingdefense.com/2025/07/sens-fischer-rounds-setting-the-record-straight-on-how-we-protected-defense-spectrum-in-the-5g-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T14:45:56.101239Z",
+            "shown_at": [
+                "2025-07-09T14:45:57.211654Z"
             ]
         }
     ]
