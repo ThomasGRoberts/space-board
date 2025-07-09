@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 29 | 55 |
+| spacenews | 8 | 14 | 28 | 55 |
 | breaking_defense | 4 | 7 | 26 | 52 |
-| supercluster | 1 | 2 | 162 | 166 |
+| supercluster | 1 | 2 | 163 | 167 |
 | nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
@@ -4897,3 +4897,4 @@
 - **Jul 09, 10:11 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 09, 10:25 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 09, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
