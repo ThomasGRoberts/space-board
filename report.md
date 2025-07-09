@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 145 | 145 |
+| supercluster | 2 | 2 | 146 | 146 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4867,3 +4867,4 @@
 - **Jul 09, 07:17 AM** - Space Force scraps satellite procurement, shifts to more flexible strategy (spacenews)
 - **Jul 09, 07:31 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 09, 07:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 07:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
