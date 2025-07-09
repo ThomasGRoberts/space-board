@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 27 | 54 |
+| spacenews | 8 | 14 | 28 | 55 |
 | breaking_defense | 4 | 7 | 26 | 51 |
 | supercluster | 1 | 2 | 168 | 179 |
 | nyt | 0 | 0 | 23 | 46 |
@@ -4914,3 +4914,4 @@
 - **Jul 09, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 11:49 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 09, 12:03 PM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
