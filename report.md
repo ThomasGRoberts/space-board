@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 28 | 55 |
-| breaking_defense | 4 | 7 | 26 | 51 |
-| supercluster | 1 | 2 | 163 | 179 |
+| breaking_defense | 4 | 7 | 27 | 52 |
+| supercluster | 1 | 2 | 162 | 179 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -4915,3 +4915,4 @@
 - **Jul 09, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 11:49 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 12:03 PM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
+- **Jul 09, 12:17 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
