@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 29 | 55 |
+| spacenews | 9 | 13 | 29 | 56 |
 | breaking_defense | 5 | 7 | 25 | 51 |
 | supercluster | 2 | 2 | 151 | 151 |
 | nyt | 0 | 0 | 21 | 45 |
@@ -4874,3 +4874,4 @@
 - **Jul 09, 07:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 07:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 08:02 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 09, 08:17 AM** - Space Force scraps satellite procurement, shifts to more flexible strategy (spacenews)
