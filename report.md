@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 30 | 55 |
-| breaking_defense | 5 | 7 | 27 | 52 |
-| supercluster | 1 | 2 | 154 | 158 |
+| breaking_defense | 5 | 7 | 26 | 52 |
+| supercluster | 1 | 2 | 155 | 159 |
 | nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
@@ -4886,3 +4886,4 @@
 - **Jul 09, 08:59 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 09, 09:15 AM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
 - **Jul 09, 09:29 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
+- **Jul 09, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
