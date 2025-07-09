@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "46d4977e083dde548c6941c96f3b3f2f",
+    "trigger_count": 0,
+    "current_item_id": "f23187cbf64126f146865502307e463f",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10602,6 +10602,18 @@
             "fetched_datetime": "2025-07-09T21:35:47.040954Z",
             "shown_at": [
                 "2025-07-09T21:35:48.162311Z"
+            ]
+        },
+        {
+            "id": "f23187cbf64126f146865502307e463f",
+            "source": "spacenews",
+            "text": "Space BD and Gilmour Space to partner on launch and satellite services",
+            "source_link": "https://spacenews.com/space-bd-and-gilmour-space-to-partner-on-launch-and-satellite-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T22:17:33.392838Z",
+            "shown_at": [
+                "2025-07-09T22:17:34.048653Z"
             ]
         }
     ]
