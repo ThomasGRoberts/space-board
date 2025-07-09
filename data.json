@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "b360e2dd320f5ca0ed29556d4fb2baaa",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10527,6 +10527,18 @@
             "fetched_datetime": "2025-07-09T16:13:38.432389Z",
             "shown_at": [
                 "2025-07-09T16:13:39.067008Z"
+            ]
+        },
+        {
+            "id": "b360e2dd320f5ca0ed29556d4fb2baaa",
+            "source": "breaking_defense",
+            "text": "From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities",
+            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T18:05:36.450262Z",
+            "shown_at": [
+                "2025-07-09T18:05:37.067079Z"
             ]
         }
     ]
