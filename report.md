@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 27 | 55 |
 | breaking_defense | 5 | 7 | 27 | 52 |
-| supercluster | 1 | 2 | 161 | 200 |
+| supercluster | 1 | 2 | 162 | 201 |
 | nyt | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -4948,3 +4948,4 @@
 - **Jul 09, 03:15 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 03:29 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
 - **Jul 09, 03:43 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
+- **Jul 09, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
