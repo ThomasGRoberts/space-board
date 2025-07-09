@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 27 | 56 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 168 | 256 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -5028,3 +5028,4 @@
 - **Jul 09, 10:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 10:59 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 09, 11:15 PM** - ESA selects five companies for next phase of launcher competition (spacenews)
+- **Jul 09, 11:29 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
