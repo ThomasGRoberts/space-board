@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "4cdc350be8fc938f4e37d473cb1180c5",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10496,6 +10496,18 @@
             "fetched_datetime": "2025-07-09T14:45:56.101239Z",
             "shown_at": [
                 "2025-07-09T14:45:57.211654Z"
+            ]
+        },
+        {
+            "id": "4cdc350be8fc938f4e37d473cb1180c5",
+            "source": "spacenews",
+            "text": "EnduroSat USA names former DARPA official as CEO to lead U.S. expansion",
+            "source_link": "https://spacenews.com/endurosat-usa-names-former-darpa-official-as-ceo-to-lead-u-s-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T16:13:38.432389Z",
+            "shown_at": [
+                "2025-07-09T16:13:39.067008Z"
             ]
         }
     ]
