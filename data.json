@@ -1,9 +1,306 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-08T00:01:58.379348+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
+    "trigger_count": 4,
     "current_item_id": "8b4310218a0a2b5f89de81d71367c16e",
     "data": [
+        {
+            "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
+            "source": "spacenews",
+            "text": "Honda still in R&D phase of reusable launch vehicle technology",
+            "source_link": "https://spacenews.com/honda-still-in-rd-phase-of-reusable-launch-vehicle-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T22:43:31.514686Z",
+            "shown_at": [
+                "2025-07-08T22:43:32.103382Z"
+            ]
+        },
+        {
+            "id": "a8fcde29e03808edcce8b4d2c12e83e0",
+            "source": "spacenews",
+            "text": "Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project",
+            "source_link": "https://spacenews.com/neuraspace-tackles-gnss-signal-noise-with-esa-funded-satellite-collision-avoidance-project/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T22:29:29.734373Z",
+            "shown_at": [
+                "2025-07-08T22:29:30.290956Z"
+            ]
+        },
+        {
+            "id": "cc271066845d4a1794fd1156277bea55",
+            "source": "breaking_defense",
+            "text": "From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities",
+            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T20:31:49.927504Z",
+            "shown_at": [
+                "2025-07-08T20:31:50.575241Z"
+            ]
+        },
+        {
+            "id": "294df233f2f736b2d1b9b98d0260c2a4",
+            "source": "spacenews",
+            "text": "China is practicing orbital warfare to win in space",
+            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T20:03:37.337994Z",
+            "shown_at": [
+                "2025-07-08T20:03:38.283443Z"
+            ]
+        },
+        {
+            "id": "c249e6564a773ad7d80ebb0ef76de6db",
+            "source": "breaking_defense",
+            "text": "From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities",
+            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T19:19:27.282463Z",
+            "shown_at": [
+                "2025-07-08T19:19:27.901259Z"
+            ]
+        },
+        {
+            "id": "afeb6f72cf6d3adea1a337daf288f16d",
+            "source": "spacenews",
+            "text": "Space Force unveils first international strategy, while GAO flags barriers to space cooperation",
+            "source_link": "https://spacenews.com/space-force-unveils-first-international-strategy-while-gao-flags-barriers-to-space-cooperation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T19:05:43.490620Z",
+            "shown_at": [
+                "2025-07-08T19:05:44.238315Z"
+            ]
+        },
+        {
+            "id": "c3f0e75e3fdc2a038662f232a0e1f92f",
+            "source": "breaking_defense",
+            "text": "Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’",
+            "source_link": "https://breakingdefense.com/2025/07/air-force-space-force-seek-16b-extra-for-fy26-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T18:51:49.903652Z",
+            "shown_at": [
+                "2025-07-08T18:51:51.254417Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-14T02:27:00.000Z",
+            "time_remaining": "5d 05h 29m",
+            "fetched_datetime": "2025-07-08T17:55:41.644621Z",
+            "shown_at": [
+                "2025-07-08T17:55:42.742706Z",
+                "2025-07-08T17:57:46.221716Z",
+                "2025-07-08T17:59:38.510076Z",
+                "2025-07-08T18:01:59.026955Z",
+                "2025-07-08T18:03:36.965305Z",
+                "2025-07-08T18:05:28.456219Z",
+                "2025-07-08T18:07:40.106079Z",
+                "2025-07-08T19:33:51.822723Z",
+                "2025-07-08T19:35:44.958549Z",
+                "2025-07-08T19:37:31.838658Z",
+                "2025-07-08T19:39:31.283875Z",
+                "2025-07-08T19:41:36.007086Z",
+                "2025-07-08T19:43:09.171484Z",
+                "2025-07-08T19:45:36.627288Z",
+                "2025-07-08T20:45:40.229950Z",
+                "2025-07-08T20:47:32.163370Z",
+                "2025-07-08T20:49:27.150868Z",
+                "2025-07-08T20:51:48.959741Z",
+                "2025-07-08T20:53:30.307409Z",
+                "2025-07-08T20:55:37.488430Z",
+                "2025-07-08T20:57:31.028580Z"
+            ]
+        },
+        {
+            "id": "e8cf2938ced36644a4db391b21f0a5ca",
+            "source": "breaking_defense",
+            "text": "House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe",
+            "source_link": "https://breakingdefense.com/2025/07/house-committees-ndaa-authorizes-more-money-for-ukraine-thwarts-troop-reductions-in-europe/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T17:27:28.706078Z",
+            "shown_at": [
+                "2025-07-08T17:27:29.273631Z",
+                "2025-07-08T18:37:44.237411Z"
+            ]
+        },
+        {
+            "id": "f567bddee458e472a0c9255a31595193",
+            "source": "spacenews",
+            "text": "China is practing orbital warfare to win in space",
+            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T13:02:10.577881Z",
+            "shown_at": [
+                "2025-07-08T13:17:41.585878Z"
+            ]
+        },
+        {
+            "id": "6e2288ebd5792341fb4d1641e4e5b759",
+            "source": "spacenews",
+            "text": "Northrop Grumman stakes role in Golden Dome missile shield",
+            "source_link": "https://spacenews.com/northrop-grumman-stakes-role-in-golden-dome-missile-shield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T13:02:10.577822Z",
+            "shown_at": [
+                "2025-07-08T13:02:11.617589Z"
+            ]
+        },
+        {
+            "id": "ea0ed2ad6a4b37313ba0488c41f28727",
+            "source": "spacenews",
+            "text": "Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa",
+            "source_link": "https://spacenews.com/maxar-secures-205-million-in-satellite-imaging-deals-with-governments-in-middle-east-and-africa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:53:39.576677Z",
+            "shown_at": [
+                "2025-07-08T10:53:40.621666Z"
+            ]
+        },
+        {
+            "id": "3155e29077396f288bc254c0a9e315fe",
+            "source": "spacenews",
+            "text": "Muon Space names new leadership to advance role in government market",
+            "source_link": "https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:25:17.200190Z",
+            "shown_at": [
+                "2025-07-08T10:39:37.942212Z"
+            ]
+        },
+        {
+            "id": "152a52bd15edb840461fb4611d4ab4eb",
+            "source": "spacenews",
+            "text": "Commercial space industry groups ask Congress to fully fund TraCSS",
+            "source_link": "https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:25:17.200136Z",
+            "shown_at": [
+                "2025-07-08T10:25:17.815052Z"
+            ]
+        },
+        {
+            "id": "1e12b30c76338c1ca45f07a2ced9f070",
+            "source": "breaking_defense",
+            "text": "Industry lobbies to protect Commerce space office at risk of cuts",
+            "source_link": "https://breakingdefense.com/2025/07/industry-lobbies-to-protect-commerce-space-office-at-risk-of-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T10:11:13.173531Z",
+            "shown_at": [
+                "2025-07-08T10:11:13.740488Z",
+                "2025-07-08T15:55:31.584991Z",
+                "2025-07-08T20:17:30.513457Z"
+            ]
+        },
+        {
+            "id": "02d8b5609d44ff92d1ec2851e8751d2a",
+            "source": "supercluster",
+            "text": "Gilmour Space Will Launch Demo Flight of Eris Rocket",
+            "source_link": "https://www.supercluster.com/launches/eris-demo-flight",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-15T21:30:00.000Z",
+            "time_remaining": "6d 22h 06m",
+            "fetched_datetime": "2025-07-08T09:21:34.695106Z",
+            "shown_at": [
+                "2025-07-08T09:21:35.287065Z",
+                "2025-07-08T09:23:04.575696Z",
+                "2025-07-08T09:25:46.959204Z",
+                "2025-07-08T09:27:31.640380Z",
+                "2025-07-08T11:07:10.955981Z",
+                "2025-07-08T11:09:45.326047Z",
+                "2025-07-08T11:11:24.925871Z",
+                "2025-07-08T11:13:34.651608Z",
+                "2025-07-08T11:15:10.396583Z",
+                "2025-07-08T11:17:37.680293Z",
+                "2025-07-08T11:19:45.186426Z",
+                "2025-07-08T12:05:28.916403Z",
+                "2025-07-08T12:07:44.686602Z",
+                "2025-07-08T12:09:40.842432Z",
+                "2025-07-08T12:11:44.185574Z",
+                "2025-07-08T12:13:45.180237Z",
+                "2025-07-08T12:15:47.323358Z",
+                "2025-07-08T12:17:50.271558Z",
+                "2025-07-08T13:31:48.617257Z",
+                "2025-07-08T13:33:53.716176Z",
+                "2025-07-08T13:35:38.226036Z",
+                "2025-07-08T13:37:26.889253Z",
+                "2025-07-08T13:39:41.772970Z",
+                "2025-07-08T13:41:55.215915Z",
+                "2025-07-08T13:43:25.523561Z",
+                "2025-07-08T14:29:39.864838Z",
+                "2025-07-08T14:31:41.886256Z",
+                "2025-07-08T14:33:41.770620Z",
+                "2025-07-08T14:35:10.423488Z",
+                "2025-07-08T14:37:42.319626Z",
+                "2025-07-08T14:39:41.086411Z",
+                "2025-07-08T14:41:51.443423Z",
+                "2025-07-08T15:26:07.206496Z",
+                "2025-07-08T15:29:39.230793Z",
+                "2025-07-08T15:31:48.384530Z",
+                "2025-07-08T15:33:36.764223Z",
+                "2025-07-08T15:35:35.598942Z",
+                "2025-07-08T15:37:31.364639Z",
+                "2025-07-08T15:39:47.001905Z",
+                "2025-07-08T16:27:35.897522Z",
+                "2025-07-08T16:29:26.512470Z",
+                "2025-07-08T16:31:48.355148Z",
+                "2025-07-08T16:34:10.179897Z",
+                "2025-07-08T16:37:34.641837Z",
+                "2025-07-08T16:39:36.346370Z",
+                "2025-07-08T16:41:38.864950Z",
+                "2025-07-08T17:41:54.195132Z",
+                "2025-07-08T17:44:05.090356Z",
+                "2025-07-08T17:45:40.625012Z",
+                "2025-07-08T17:47:41.725737Z",
+                "2025-07-08T17:49:38.041832Z",
+                "2025-07-08T17:51:41.458495Z",
+                "2025-07-08T17:53:43.008678Z",
+                "2025-07-08T21:41:52.915225Z",
+                "2025-07-08T21:43:35.661129Z",
+                "2025-07-08T21:45:38.474891Z",
+                "2025-07-08T21:47:36.034041Z",
+                "2025-07-08T21:49:28.891849Z",
+                "2025-07-08T21:51:33.564636Z",
+                "2025-07-08T21:53:37.252873Z",
+                "2025-07-08T23:11:39.265658Z",
+                "2025-07-08T23:13:40.942026Z",
+                "2025-07-08T23:15:58.634462Z",
+                "2025-07-08T23:17:35.120860Z",
+                "2025-07-08T23:19:40.002246Z",
+                "2025-07-08T23:21:47.307494Z",
+                "2025-07-08T23:23:36.465488Z"
+            ]
+        },
+        {
+            "id": "134ec115330d7e4f65b38b29a92b6293",
+            "source": "spacenews",
+            "text": "ESA selects five companies for next phase of launcher competition",
+            "source_link": "https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-08T02:37:15.305917Z",
+            "shown_at": [
+                "2025-07-08T02:37:15.710008Z"
+            ]
+        },
         {
             "id": "c02f56eca6b0453734f3708537192516",
             "source": "spacenews",
@@ -9986,611 +10283,6 @@
                 "2025-05-06T11:32:08.947303Z",
                 "2025-05-06T18:12:14.988389Z",
                 "2025-05-07T08:37:43.815467Z"
-            ]
-        },
-        {
-            "id": "b3328c91062b4206ea87418a99c986df",
-            "source": "spacenews",
-            "text": "If European leaders want to beef up defense in space, they should look to the Space Development Agency",
-            "source_link": "https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T13:05:52.444173Z",
-            "shown_at": [
-                "2025-04-30T13:05:53.189042Z",
-                "2025-04-30T17:27:30.839322Z",
-                "2025-05-02T04:55:44.438422Z",
-                "2025-05-04T21:59:49.771335Z"
-            ]
-        },
-        {
-            "id": "147b726a6e05009dea2cebb942b68e0f",
-            "source": "spacenews",
-            "text": "Vega launches Biomass satellite",
-            "source_link": "https://spacenews.com/vega-launches-biomass-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T12:03:26.066428Z",
-            "shown_at": [
-                "2025-04-30T12:03:26.739749Z",
-                "2025-05-02T11:45:31.401860Z",
-                "2025-05-03T22:11:44.417282Z",
-                "2025-05-04T04:53:42.816301Z",
-                "2025-05-06T17:43:32.418472Z"
-            ]
-        },
-        {
-            "id": "8eda1feab195f3679e83a80ae92b9cf9",
-            "source": "spacenews",
-            "text": "China is making stainless steel tanks for its future super heavy-lift rockets",
-            "source_link": "https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T09:35:42.286668Z",
-            "shown_at": [
-                "2025-04-30T09:35:43.894160Z",
-                "2025-05-02T19:05:54.187016Z",
-                "2025-05-05T05:39:43.877447Z",
-                "2025-05-05T06:37:35.867957Z"
-            ]
-        },
-        {
-            "id": "8968aeca1770a1efe15092089aa9edfb",
-            "source": "spacenews",
-            "text": "China’s Shenzhou-19 astronauts return to Earth after six-month mission",
-            "source_link": "https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T08:03:25.066182Z",
-            "shown_at": [
-                "2025-04-30T08:03:25.609090Z",
-                "2025-05-05T00:53:28.635980Z",
-                "2025-05-05T03:43:29.161332Z"
-            ]
-        },
-        {
-            "id": "e1f5425b325583b6cd0fe407c23e2044",
-            "source": "spacenews",
-            "text": "Space Force embraces commercial tech in major overhaul of surveillance satellite program",
-            "source_link": "https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T23:57:35.599984Z",
-            "shown_at": [
-                "2025-04-29T23:57:36.770839Z",
-                "2025-05-01T10:21:50.021579Z",
-                "2025-05-01T22:59:48.712616Z",
-                "2025-05-02T15:35:40.503438Z",
-                "2025-05-03T07:53:57.885071Z",
-                "2025-05-04T03:57:38.062762Z",
-                "2025-05-05T18:11:20.776721Z"
-            ]
-        },
-        {
-            "id": "ee57d1456f95052bef2d58ba2869849a",
-            "source": "spacenews",
-            "text": "Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions",
-            "source_link": "https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T22:33:27.534083Z",
-            "shown_at": [
-                "2025-04-29T22:33:28.197336Z",
-                "2025-05-01T19:11:40.398673Z",
-                "2025-05-03T09:45:28.397406Z",
-                "2025-05-03T13:37:42.154288Z",
-                "2025-05-04T19:09:48.868587Z",
-                "2025-05-06T06:38:56.881471Z",
-                "2025-05-06T11:49:59.925434Z"
-            ]
-        },
-        {
-            "id": "dfb58e354b9b66ff02fb860a06dcf7fb",
-            "source": "spacenews",
-            "text": "FCC opens new battlefront in satellite power struggle",
-            "source_link": "https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T21:23:46.391481Z",
-            "shown_at": [
-                "2025-04-29T21:23:47.394563Z",
-                "2025-04-29T22:19:37.513607Z",
-                "2025-04-29T23:29:32.525038Z",
-                "2025-05-01T01:32:00.945108Z",
-                "2025-05-03T17:23:39.281593Z"
-            ]
-        },
-        {
-            "id": "417886723542cd78c7ca8cc88379ce55",
-            "source": "spacenews",
-            "text": "Alpha launch of Lockheed tech demo satellite fails",
-            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T18:33:34.078865Z",
-            "shown_at": [
-                "2025-04-29T18:33:34.736986Z",
-                "2025-04-30T07:35:38.895459Z"
-            ]
-        },
-        {
-            "id": "9c9c7377035f4761a3c6d737cb3f3f14",
-            "source": "spacenews",
-            "text": "French startup developing space weapon to defend satellites and clean orbital debris",
-            "source_link": "https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T16:07:34.125130Z",
-            "shown_at": [
-                "2025-04-29T16:07:34.694403Z",
-                "2025-05-01T05:29:28.450883Z",
-                "2025-05-02T10:47:26.367498Z",
-                "2025-05-04T02:59:40.767341Z",
-                "2025-05-06T00:39:29.204213Z"
-            ]
-        },
-        {
-            "id": "7108e380ec82411f955158d6e12b52f9",
-            "source": "spacenews",
-            "text": "Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite",
-            "source_link": "https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T15:53:35.805111Z",
-            "shown_at": [
-                "2025-04-29T15:53:36.355000Z",
-                "2025-04-30T00:55:24.976741Z",
-                "2025-04-30T01:55:23.908991Z",
-                "2025-05-01T14:09:35.170764Z",
-                "2025-05-04T00:05:38.531449Z",
-                "2025-05-04T14:07:27.743042Z",
-                "2025-05-06T08:47:28.547746Z",
-                "2025-05-06T14:05:37.047038Z"
-            ]
-        },
-        {
-            "id": "ba2f00d14db61b42a3e6b87ec065263f",
-            "source": "nyt",
-            "text": "Molecular, Glow-in-the-Dark Cloud Discovered Close to Earth",
-            "source_link": "https://www.nytimes.com/2025/04/29/science/molecular-cloud-eos-stars-milky-way.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T13:17:40.196415Z",
-            "shown_at": [
-                "2025-04-29T13:17:41.160163Z",
-                "2025-04-29T17:21:45.613216Z",
-                "2025-04-29T20:13:05.444982Z",
-                "2025-04-30T00:27:37.337877Z",
-                "2025-04-30T01:27:40.125488Z",
-                "2025-04-30T06:11:47.700491Z",
-                "2025-04-30T14:49:36.247573Z",
-                "2025-04-30T15:47:43.420601Z",
-                "2025-04-30T16:45:46.394396Z",
-                "2025-04-30T17:41:44.249801Z",
-                "2025-04-30T18:37:34.674782Z",
-                "2025-04-30T21:29:44.589557Z",
-                "2025-04-30T22:27:38.903296Z",
-                "2025-05-01T00:19:13.068156Z",
-                "2025-05-01T06:58:03.447395Z",
-                "2025-05-01T07:57:47.996845Z",
-                "2025-05-01T08:55:23.496884Z",
-                "2025-05-01T09:53:34.522003Z",
-                "2025-05-01T11:47:34.433823Z",
-                "2025-05-01T13:55:34.513715Z",
-                "2025-05-01T18:57:48.494137Z",
-                "2025-05-01T20:23:48.327888Z",
-                "2025-05-01T21:19:31.995655Z",
-                "2025-05-01T22:17:07.388456Z",
-                "2025-05-01T23:27:37.664198Z",
-                "2025-05-02T00:25:29.928437Z",
-                "2025-05-02T03:17:46.886915Z",
-                "2025-05-02T05:09:27.173925Z",
-                "2025-05-02T07:07:31.503617Z",
-                "2025-05-02T09:02:08.835313Z",
-                "2025-05-02T10:05:31.962429Z",
-                "2025-05-02T11:03:50.851904Z",
-                "2025-05-02T14:51:52.070575Z",
-                "2025-05-02T16:19:55.395767Z",
-                "2025-05-02T18:17:49.462628Z",
-                "2025-05-02T19:19:38.513712Z",
-                "2025-05-03T02:23:41.568114Z",
-                "2025-05-03T08:07:43.088308Z",
-                "2025-05-03T09:59:34.681976Z",
-                "2025-05-03T10:55:31.100383Z",
-                "2025-05-03T11:53:34.027652Z",
-                "2025-05-03T12:53:36.628034Z",
-                "2025-05-03T14:49:42.284750Z",
-                "2025-05-03T20:31:44.929639Z",
-                "2025-05-04T06:59:42.971739Z",
-                "2025-05-04T07:55:30.574065Z",
-                "2025-05-04T12:55:55.660117Z",
-                "2025-05-04T14:49:27.888030Z",
-                "2025-05-04T17:45:23.038031Z",
-                "2025-05-04T20:33:48.643702Z",
-                "2025-05-04T21:31:48.773241Z",
-                "2025-05-04T22:27:39.549788Z",
-                "2025-05-05T01:21:49.713807Z",
-                "2025-05-05T03:13:41.919603Z",
-                "2025-05-05T05:09:31.635710Z",
-                "2025-05-05T11:51:55.599704Z",
-                "2025-05-05T18:26:22.507974Z",
-                "2025-05-05T20:47:32.976262Z",
-                "2025-05-05T22:55:39.368336Z",
-                "2025-05-06T03:05:27.134736Z",
-                "2025-05-06T12:17:33.312351Z"
-            ]
-        },
-        {
-            "id": "084e2f3c1a4fc69cbe8253769194f9c9",
-            "source": "spacenews",
-            "text": "Slingshot targets international market with sovereign space tracking systems",
-            "source_link": "https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:32:08.583858Z",
-            "shown_at": [
-                "2025-04-29T12:32:09.255386Z",
-                "2025-04-30T05:41:52.078598Z",
-                "2025-05-01T08:25:58.615978Z",
-                "2025-05-02T08:47:52.700029Z",
-                "2025-05-03T00:07:38.087684Z",
-                "2025-05-03T21:15:45.629857Z",
-                "2025-05-06T10:47:10.998916Z"
-            ]
-        },
-        {
-            "id": "6391db278d080f7903fb5036af340841",
-            "source": "spacenews",
-            "text": "Amazon establishes contact with first operational Kuiper satellites",
-            "source_link": "https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:02:04.893088Z",
-            "shown_at": [
-                "2025-04-29T12:17:26.010181Z",
-                "2025-04-30T10:33:13.827737Z",
-                "2025-05-04T16:03:35.082947Z",
-                "2025-05-06T01:37:35.654031Z"
-            ]
-        },
-        {
-            "id": "fb84a16c56bda11f333d5dfd3859a32a",
-            "source": "spacenews",
-            "text": "Apex raises $200 million to accelerate satellite production",
-            "source_link": "https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T12:02:04.893033Z",
-            "shown_at": [
-                "2025-04-29T12:02:05.383457Z",
-                "2025-05-03T02:09:47.092285Z",
-                "2025-05-03T05:02:21.116143Z",
-                "2025-05-03T12:39:36.506002Z"
-            ]
-        },
-        {
-            "id": "9dcdf6958c9f35fe88a7faa779eadd18",
-            "source": "spacenews",
-            "text": "China launches third batch of Guowang megaconstellation satellites",
-            "source_link": "https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T11:32:07.237234Z",
-            "shown_at": [
-                "2025-04-29T11:32:07.975149Z",
-                "2025-04-30T18:23:34.977216Z"
-            ]
-        },
-        {
-            "id": "8c1f4c83a50d5644e2ab06895befe72a",
-            "source": "spacenews",
-            "text": "Atlas launches first operational Project Kuiper satellites",
-            "source_link": "https://spacenews.com/atlas-launches-first-operational-project-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-29T11:17:31.827066Z",
-            "shown_at": [
-                "2025-04-29T11:17:32.397101Z",
-                "2025-05-03T08:49:29.163072Z",
-                "2025-05-04T22:55:38.071182Z",
-                "2025-05-05T23:41:43.287377Z"
-            ]
-        },
-        {
-            "id": "134ec115330d7e4f65b38b29a92b6293",
-            "source": "spacenews",
-            "text": "ESA selects five companies for next phase of launcher competition",
-            "source_link": "https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T02:37:15.305917Z",
-            "shown_at": [
-                "2025-07-08T02:37:15.710008Z"
-            ]
-        },
-        {
-            "id": "02d8b5609d44ff92d1ec2851e8751d2a",
-            "source": "supercluster",
-            "text": "Gilmour Space Will Launch Demo Flight of Eris Rocket",
-            "source_link": "https://www.supercluster.com/launches/eris-demo-flight",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-15T21:30:00.000Z",
-            "time_remaining": "6d 22h 06m",
-            "fetched_datetime": "2025-07-08T09:21:34.695106Z",
-            "shown_at": [
-                "2025-07-08T09:21:35.287065Z",
-                "2025-07-08T09:23:04.575696Z",
-                "2025-07-08T09:25:46.959204Z",
-                "2025-07-08T09:27:31.640380Z",
-                "2025-07-08T11:07:10.955981Z",
-                "2025-07-08T11:09:45.326047Z",
-                "2025-07-08T11:11:24.925871Z",
-                "2025-07-08T11:13:34.651608Z",
-                "2025-07-08T11:15:10.396583Z",
-                "2025-07-08T11:17:37.680293Z",
-                "2025-07-08T11:19:45.186426Z",
-                "2025-07-08T12:05:28.916403Z",
-                "2025-07-08T12:07:44.686602Z",
-                "2025-07-08T12:09:40.842432Z",
-                "2025-07-08T12:11:44.185574Z",
-                "2025-07-08T12:13:45.180237Z",
-                "2025-07-08T12:15:47.323358Z",
-                "2025-07-08T12:17:50.271558Z",
-                "2025-07-08T13:31:48.617257Z",
-                "2025-07-08T13:33:53.716176Z",
-                "2025-07-08T13:35:38.226036Z",
-                "2025-07-08T13:37:26.889253Z",
-                "2025-07-08T13:39:41.772970Z",
-                "2025-07-08T13:41:55.215915Z",
-                "2025-07-08T13:43:25.523561Z",
-                "2025-07-08T14:29:39.864838Z",
-                "2025-07-08T14:31:41.886256Z",
-                "2025-07-08T14:33:41.770620Z",
-                "2025-07-08T14:35:10.423488Z",
-                "2025-07-08T14:37:42.319626Z",
-                "2025-07-08T14:39:41.086411Z",
-                "2025-07-08T14:41:51.443423Z",
-                "2025-07-08T15:26:07.206496Z",
-                "2025-07-08T15:29:39.230793Z",
-                "2025-07-08T15:31:48.384530Z",
-                "2025-07-08T15:33:36.764223Z",
-                "2025-07-08T15:35:35.598942Z",
-                "2025-07-08T15:37:31.364639Z",
-                "2025-07-08T15:39:47.001905Z",
-                "2025-07-08T16:27:35.897522Z",
-                "2025-07-08T16:29:26.512470Z",
-                "2025-07-08T16:31:48.355148Z",
-                "2025-07-08T16:34:10.179897Z",
-                "2025-07-08T16:37:34.641837Z",
-                "2025-07-08T16:39:36.346370Z",
-                "2025-07-08T16:41:38.864950Z",
-                "2025-07-08T17:41:54.195132Z",
-                "2025-07-08T17:44:05.090356Z",
-                "2025-07-08T17:45:40.625012Z",
-                "2025-07-08T17:47:41.725737Z",
-                "2025-07-08T17:49:38.041832Z",
-                "2025-07-08T17:51:41.458495Z",
-                "2025-07-08T17:53:43.008678Z",
-                "2025-07-08T21:41:52.915225Z",
-                "2025-07-08T21:43:35.661129Z",
-                "2025-07-08T21:45:38.474891Z",
-                "2025-07-08T21:47:36.034041Z",
-                "2025-07-08T21:49:28.891849Z",
-                "2025-07-08T21:51:33.564636Z",
-                "2025-07-08T21:53:37.252873Z",
-                "2025-07-08T23:11:39.265658Z",
-                "2025-07-08T23:13:40.942026Z",
-                "2025-07-08T23:15:58.634462Z",
-                "2025-07-08T23:17:35.120860Z",
-                "2025-07-08T23:19:40.002246Z",
-                "2025-07-08T23:21:47.307494Z",
-                "2025-07-08T23:23:36.465488Z"
-            ]
-        },
-        {
-            "id": "1e12b30c76338c1ca45f07a2ced9f070",
-            "source": "breaking_defense",
-            "text": "Industry lobbies to protect Commerce space office at risk of cuts",
-            "source_link": "https://breakingdefense.com/2025/07/industry-lobbies-to-protect-commerce-space-office-at-risk-of-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:11:13.173531Z",
-            "shown_at": [
-                "2025-07-08T10:11:13.740488Z",
-                "2025-07-08T15:55:31.584991Z",
-                "2025-07-08T20:17:30.513457Z"
-            ]
-        },
-        {
-            "id": "152a52bd15edb840461fb4611d4ab4eb",
-            "source": "spacenews",
-            "text": "Commercial space industry groups ask Congress to fully fund TraCSS",
-            "source_link": "https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:25:17.200136Z",
-            "shown_at": [
-                "2025-07-08T10:25:17.815052Z"
-            ]
-        },
-        {
-            "id": "3155e29077396f288bc254c0a9e315fe",
-            "source": "spacenews",
-            "text": "Muon Space names new leadership to advance role in government market",
-            "source_link": "https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:25:17.200190Z",
-            "shown_at": [
-                "2025-07-08T10:39:37.942212Z"
-            ]
-        },
-        {
-            "id": "ea0ed2ad6a4b37313ba0488c41f28727",
-            "source": "spacenews",
-            "text": "Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa",
-            "source_link": "https://spacenews.com/maxar-secures-205-million-in-satellite-imaging-deals-with-governments-in-middle-east-and-africa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:53:39.576677Z",
-            "shown_at": [
-                "2025-07-08T10:53:40.621666Z"
-            ]
-        },
-        {
-            "id": "6e2288ebd5792341fb4d1641e4e5b759",
-            "source": "spacenews",
-            "text": "Northrop Grumman stakes role in Golden Dome missile shield",
-            "source_link": "https://spacenews.com/northrop-grumman-stakes-role-in-golden-dome-missile-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T13:02:10.577822Z",
-            "shown_at": [
-                "2025-07-08T13:02:11.617589Z"
-            ]
-        },
-        {
-            "id": "f567bddee458e472a0c9255a31595193",
-            "source": "spacenews",
-            "text": "China is practing orbital warfare to win in space",
-            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T13:02:10.577881Z",
-            "shown_at": [
-                "2025-07-08T13:17:41.585878Z"
-            ]
-        },
-        {
-            "id": "e8cf2938ced36644a4db391b21f0a5ca",
-            "source": "breaking_defense",
-            "text": "House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe",
-            "source_link": "https://breakingdefense.com/2025/07/house-committees-ndaa-authorizes-more-money-for-ukraine-thwarts-troop-reductions-in-europe/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T17:27:28.706078Z",
-            "shown_at": [
-                "2025-07-08T17:27:29.273631Z",
-                "2025-07-08T18:37:44.237411Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-14T02:27:00.000Z",
-            "time_remaining": "5d 05h 29m",
-            "fetched_datetime": "2025-07-08T17:55:41.644621Z",
-            "shown_at": [
-                "2025-07-08T17:55:42.742706Z",
-                "2025-07-08T17:57:46.221716Z",
-                "2025-07-08T17:59:38.510076Z",
-                "2025-07-08T18:01:59.026955Z",
-                "2025-07-08T18:03:36.965305Z",
-                "2025-07-08T18:05:28.456219Z",
-                "2025-07-08T18:07:40.106079Z",
-                "2025-07-08T19:33:51.822723Z",
-                "2025-07-08T19:35:44.958549Z",
-                "2025-07-08T19:37:31.838658Z",
-                "2025-07-08T19:39:31.283875Z",
-                "2025-07-08T19:41:36.007086Z",
-                "2025-07-08T19:43:09.171484Z",
-                "2025-07-08T19:45:36.627288Z",
-                "2025-07-08T20:45:40.229950Z",
-                "2025-07-08T20:47:32.163370Z",
-                "2025-07-08T20:49:27.150868Z",
-                "2025-07-08T20:51:48.959741Z",
-                "2025-07-08T20:53:30.307409Z",
-                "2025-07-08T20:55:37.488430Z",
-                "2025-07-08T20:57:31.028580Z"
-            ]
-        },
-        {
-            "id": "c3f0e75e3fdc2a038662f232a0e1f92f",
-            "source": "breaking_defense",
-            "text": "Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’",
-            "source_link": "https://breakingdefense.com/2025/07/air-force-space-force-seek-16b-extra-for-fy26-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T18:51:49.903652Z",
-            "shown_at": [
-                "2025-07-08T18:51:51.254417Z"
-            ]
-        },
-        {
-            "id": "afeb6f72cf6d3adea1a337daf288f16d",
-            "source": "spacenews",
-            "text": "Space Force unveils first international strategy, while GAO flags barriers to space cooperation",
-            "source_link": "https://spacenews.com/space-force-unveils-first-international-strategy-while-gao-flags-barriers-to-space-cooperation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T19:05:43.490620Z",
-            "shown_at": [
-                "2025-07-08T19:05:44.238315Z"
-            ]
-        },
-        {
-            "id": "c249e6564a773ad7d80ebb0ef76de6db",
-            "source": "breaking_defense",
-            "text": "From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities",
-            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T19:19:27.282463Z",
-            "shown_at": [
-                "2025-07-08T19:19:27.901259Z"
-            ]
-        },
-        {
-            "id": "294df233f2f736b2d1b9b98d0260c2a4",
-            "source": "spacenews",
-            "text": "China is practicing orbital warfare to win in space",
-            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T20:03:37.337994Z",
-            "shown_at": [
-                "2025-07-08T20:03:38.283443Z"
-            ]
-        },
-        {
-            "id": "cc271066845d4a1794fd1156277bea55",
-            "source": "breaking_defense",
-            "text": "From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities",
-            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T20:31:49.927504Z",
-            "shown_at": [
-                "2025-07-08T20:31:50.575241Z"
-            ]
-        },
-        {
-            "id": "a8fcde29e03808edcce8b4d2c12e83e0",
-            "source": "spacenews",
-            "text": "Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project",
-            "source_link": "https://spacenews.com/neuraspace-tackles-gnss-signal-noise-with-esa-funded-satellite-collision-avoidance-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T22:29:29.734373Z",
-            "shown_at": [
-                "2025-07-08T22:29:30.290956Z"
-            ]
-        },
-        {
-            "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
-            "source": "spacenews",
-            "text": "Honda still in R&D phase of reusable launch vehicle technology",
-            "source_link": "https://spacenews.com/honda-still-in-rd-phase-of-reusable-launch-vehicle-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T22:43:31.514686Z",
-            "shown_at": [
-                "2025-07-08T22:43:32.103382Z"
             ]
         }
     ]
