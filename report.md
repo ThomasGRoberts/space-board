@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 30 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 1 | 2 | 155 | 159 |
+| supercluster | 1 | 2 | 156 | 160 |
 | nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
@@ -4887,3 +4887,4 @@
 - **Jul 09, 09:15 AM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
 - **Jul 09, 09:29 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 09, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 09:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
