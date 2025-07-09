@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 27 | 55 |
+| spacenews | 7 | 15 | 28 | 56 |
 | breaking_defense | 4 | 6 | 26 | 51 |
 | supercluster | 1 | 2 | 168 | 186 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -4925,3 +4925,4 @@
 - **Jul 09, 12:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 12:45 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 09, 12:59 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
+- **Jul 09, 01:13 PM** - Defense startups across Europe need a blueprint to compete (spacenews)

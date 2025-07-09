@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fbcf81039a948e6830e8ba9c55e77f75",
+    "trigger_count": 0,
+    "current_item_id": "27a1f6c1e8792e19d7ecf601044f38a6",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10444,6 +10444,18 @@
             "fetched_datetime": "2025-07-09T11:07:28.834522Z",
             "shown_at": [
                 "2025-07-09T11:07:29.401573Z"
+            ]
+        },
+        {
+            "id": "27a1f6c1e8792e19d7ecf601044f38a6",
+            "source": "spacenews",
+            "text": "Defense startups across Europe need a blueprint to compete",
+            "source_link": "https://spacenews.com/defense-startups-across-europe-need-a-blueprint-to-compete/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T13:13:29.691557Z",
+            "shown_at": [
+                "2025-07-09T13:13:30.306484Z"
             ]
         }
     ]
