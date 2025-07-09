@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 56 |
-| breaking_defense | 5 | 7 | 25 | 51 |
+| breaking_defense | 5 | 7 | 26 | 52 |
 | supercluster | 2 | 2 | 95 | 95 |
 | nyt | 0 | 0 | 20 | 45 |
 
@@ -4795,3 +4795,4 @@
 - **Jul 09, 12:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 12:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 12:35 AM** - Muon Space names new leadership to advance role in government market (spacenews)
+- **Jul 09, 12:49 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
