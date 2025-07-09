@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 117 | 117 |
+| supercluster | 2 | 2 | 118 | 118 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4827,3 +4827,4 @@
 - **Jul 09, 03:25 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
 - **Jul 09, 03:39 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 09, 03:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 03:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
