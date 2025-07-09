@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdb86f65cbe1dabfcb839371aa3a6fba",
+    "trigger_count": 0,
+    "current_item_id": "8763709537071ceb9d9759772b592bf8",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10412,6 +10412,18 @@
             "fetched_datetime": "2025-07-09T09:15:42.502229Z",
             "shown_at": [
                 "2025-07-09T09:15:43.078073Z"
+            ]
+        },
+        {
+            "id": "8763709537071ceb9d9759772b592bf8",
+            "source": "spacenews",
+            "text": "A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations",
+            "source_link": "https://spacenews.com/a-new-approach-to-space-diplomacy-hard-hitting-calculations-outweigh-foreign-policy-considerations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T11:07:28.834522Z",
+            "shown_at": [
+                "2025-07-09T11:07:29.401573Z"
             ]
         }
     ]
