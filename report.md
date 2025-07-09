@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 27 | 56 |
+| spacenews | 7 | 15 | 27 | 55 |
 | breaking_defense | 4 | 6 | 27 | 51 |
-| supercluster | 1 | 2 | 161 | 186 |
-| nyt | 0 | 0 | 23 | 45 |
+| supercluster | 1 | 2 | 162 | 187 |
+| nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
 
@@ -4927,3 +4927,4 @@
 - **Jul 09, 12:59 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 09, 01:13 PM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 09, 01:29 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 09, 01:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
