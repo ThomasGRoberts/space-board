@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 28 | 56 |
+| spacenews | 8 | 17 | 27 | 56 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 168 | 249 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -5018,3 +5018,4 @@
 - **Jul 09, 10:01 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 10:03 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 09, 10:17 PM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
+- **Jul 09, 10:31 PM** - Third Interstellar Object Enters the Solar System (nyt)
