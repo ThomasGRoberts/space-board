@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 56 |
+| spacenews | 7 | 17 | 27 | 57 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 173 | 256 |
 | nyt | 0 | 0 | 24 | 44 |
@@ -5027,3 +5027,4 @@
 - **Jul 09, 10:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 10:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 10:59 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 09, 11:15 PM** - ESA selects five companies for next phase of launcher competition (spacenews)
