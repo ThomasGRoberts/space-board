@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 55 |
 | breaking_defense | 3 | 7 | 26 | 52 |
-| supercluster | 0 | 2 | 163 | 228 |
+| supercluster | 0 | 2 | 163 | 229 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -4988,3 +4988,4 @@
 - **Jul 09, 07:01 PM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
 - **Jul 09, 07:15 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 07:29 PM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 09, 07:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
