@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 26 | 55 |
 | breaking_defense | 5 | 7 | 27 | 52 |
 | supercluster | 1 | 2 | 168 | 200 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -4945,3 +4945,4 @@
 - **Jul 09, 03:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 03:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 09, 03:15 PM** - Third Interstellar Object Enters the Solar System (nyt)
