@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 29 | 56 |
-| breaking_defense | 5 | 7 | 25 | 51 |
+| breaking_defense | 5 | 7 | 26 | 52 |
 | supercluster | 2 | 2 | 123 | 123 |
 | nyt | 0 | 0 | 21 | 45 |
 
@@ -4835,3 +4835,4 @@
 - **Jul 09, 04:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 04:07 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 09, 04:21 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
+- **Jul 09, 04:36 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
