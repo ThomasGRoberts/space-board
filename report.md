@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 30 | 56 |
-| breaking_defense | 4 | 7 | 25 | 51 |
+| spacenews | 8 | 14 | 29 | 56 |
+| breaking_defense | 4 | 7 | 26 | 52 |
 | supercluster | 1 | 2 | 161 | 165 |
 | nyt | 0 | 0 | 22 | 45 |
 
@@ -4895,3 +4895,4 @@
 - **Jul 09, 09:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 09, 09:57 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 09, 10:11 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
+- **Jul 09, 10:25 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
