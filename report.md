@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 28 | 56 |
 | breaking_defense | 2 | 7 | 25 | 51 |
-| supercluster | 0 | 2 | 165 | 243 |
+| supercluster | 0 | 2 | 164 | 244 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -5010,3 +5010,4 @@
 - **Jul 09, 09:21 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 09, 09:35 PM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 09, 09:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 09, 09:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
