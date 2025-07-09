@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 55 |
 | breaking_defense | 5 | 7 | 27 | 52 |
-| supercluster | 0 | 2 | 161 | 221 |
+| supercluster | 0 | 2 | 162 | 222 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -4978,3 +4978,4 @@
 - **Jul 09, 06:05 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 06:19 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 09, 06:33 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 09, 06:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
