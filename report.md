@@ -5,7 +5,7 @@
 | spacenews | 10 | 13 | 29 | 55 |
 | breaking_defense | 5 | 7 | 26 | 51 |
 | supercluster | 2 | 2 | 95 | 95 |
-| nyt | 0 | 0 | 20 | 45 |
+| nyt | 0 | 0 | 21 | 46 |
 
 # Shown Order
 
@@ -4793,3 +4793,4 @@
 - **Jul 09, 12:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 12:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 12:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 09, 12:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
