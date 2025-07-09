@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 29 | 55 |
+| spacenews | 9 | 13 | 30 | 56 |
 | breaking_defense | 5 | 7 | 25 | 51 |
 | supercluster | 2 | 2 | 116 | 116 |
 | nyt | 0 | 0 | 21 | 45 |
@@ -4824,3 +4824,4 @@
 - **Jul 09, 03:05 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 03:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 03:09 AM** - Third Interstellar Object Enters the Solar System (nyt)
+- **Jul 09, 03:25 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
