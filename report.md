@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 27 | 55 |
+| spacenews | 8 | 16 | 28 | 56 |
 | breaking_defense | 2 | 7 | 25 | 52 |
 | supercluster | 0 | 2 | 168 | 242 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -5008,3 +5008,4 @@
 - **Jul 09, 08:53 PM** - Congress passes budget reconciliation bill with $10 billion for NASA (spacenews)
 - **Jul 09, 09:07 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 09, 09:21 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 09, 09:35 PM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)

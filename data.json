@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdb86f65cbe1dabfcb839371aa3a6fba",
+    "trigger_count": 0,
+    "current_item_id": "562c0684ff871a5c62f90ee58457a602",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10582,6 +10582,18 @@
             "fetched_datetime": "2025-07-09T19:01:46.994821Z",
             "shown_at": [
                 "2025-07-09T19:01:47.595695Z"
+            ]
+        },
+        {
+            "id": "562c0684ff871a5c62f90ee58457a602",
+            "source": "spacenews",
+            "text": "Budget reconciliation bill includes tax break for spaceport bonds",
+            "source_link": "https://spacenews.com/budget-reconciliation-bill-includes-tax-break-for-spaceport-bonds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T21:35:47.040954Z",
+            "shown_at": [
+                "2025-07-09T21:35:48.162311Z"
             ]
         }
     ]
