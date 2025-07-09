@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 30 | 55 |
 | breaking_defense | 5 | 7 | 26 | 52 |
-| supercluster | 2 | 2 | 88 | 88 |
+| supercluster | 2 | 2 | 89 | 89 |
 | nyt | 0 | 0 | 20 | 45 |
 
 # Shown Order
@@ -4786,3 +4786,4 @@
 - **Jul 08, 11:25 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 08, 11:39 PM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 08, 11:53 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
+- **Jul 09, 12:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
