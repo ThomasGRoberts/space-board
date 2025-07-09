@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdb86f65cbe1dabfcb839371aa3a6fba",
+    "trigger_count": 0,
+    "current_item_id": "20f1dc6d435d29a5cb4807880e4b900b",
     "data": [
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
@@ -10381,6 +10381,18 @@
                 "2025-05-06T11:32:08.947303Z",
                 "2025-05-06T18:12:14.988389Z",
                 "2025-05-07T08:37:43.815467Z"
+            ]
+        },
+        {
+            "id": "20f1dc6d435d29a5cb4807880e4b900b",
+            "source": "spacenews",
+            "text": "Synspective signs multi-launch agreement with Exolaunch",
+            "source_link": "https://spacenews.com/synspective-signs-multi-launch-agreement-with-exolaunch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T09:15:42.502229Z",
+            "shown_at": [
+                "2025-07-09T09:15:43.078073Z"
             ]
         }
     ]

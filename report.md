@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 29 | 55 |
+| spacenews | 10 | 14 | 30 | 56 |
 | breaking_defense | 5 | 7 | 26 | 51 |
 | supercluster | 2 | 2 | 158 | 158 |
 | nyt | 0 | 0 | 22 | 45 |
@@ -4884,3 +4884,4 @@
 - **Jul 09, 08:55 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 08:57 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 08:59 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 09, 09:15 AM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
