@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 55 |
 | breaking_defense | 5 | 6 | 28 | 51 |
-| supercluster | 1 | 2 | 161 | 207 |
+| supercluster | 1 | 2 | 162 | 208 |
 | nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
@@ -4958,3 +4958,4 @@
 - **Jul 09, 04:13 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 09, 04:27 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 09, 04:41 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 09, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
