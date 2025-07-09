@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 27 | 55 |
+| spacenews | 9 | 15 | 28 | 56 |
 | breaking_defense | 4 | 7 | 26 | 51 |
 | supercluster | 0 | 2 | 168 | 228 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -4985,3 +4985,4 @@
 - **Jul 09, 06:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 06:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 09, 06:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 09, 07:01 PM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
