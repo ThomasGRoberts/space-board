@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 28 | 54 |
+| spacenews | 9 | 16 | 29 | 55 |
 | breaking_defense | 1 | 3 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 350 |
 | nyt | 1 | 1 | 22 | 46 |
@@ -5221,3 +5221,4 @@
 - **Jul 10, 10:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 10:35 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 10, 10:49 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 10, 11:03 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
