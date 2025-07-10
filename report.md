@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 28 | 55 |
 | breaking_defense | 2 | 6 | 26 | 53 |
-| supercluster | 0 | 1 | 175 | 341 |
+| supercluster | 0 | 1 | 176 | 340 |
 | nyt | 1 | 1 | 21 | 44 |
 
 # Shown Order
@@ -5131,3 +5131,4 @@
 - **Jul 10, 01:51 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 02:05 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
 - **Jul 10, 02:20 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 10, 02:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
