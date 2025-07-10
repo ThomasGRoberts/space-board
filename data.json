@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "trigger_count": 0,
+    "current_item_id": "39e40886dc6da4c2c192cd174561e39f",
     "data": [
         {
             "id": "f23187cbf64126f146865502307e463f",
@@ -10746,6 +10746,18 @@
             "fetched_datetime": "2025-07-10T15:17:47.198030Z",
             "shown_at": [
                 "2025-07-10T15:17:47.832588Z"
+            ]
+        },
+        {
+            "id": "39e40886dc6da4c2c192cd174561e39f",
+            "source": "spacenews",
+            "text": "Space industry sticks with single-use satellite model despite new technologies",
+            "source_link": "https://spacenews.com/space-industry-sticks-with-single-use-satellite-model-despite-new-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T16:13:50.196727Z",
+            "shown_at": [
+                "2025-07-10T16:13:50.816936Z"
             ]
         }
     ]
