@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 29 | 57 |
+| spacenews | 9 | 17 | 29 | 56 |
 | breaking_defense | 2 | 6 | 26 | 52 |
-| supercluster | 0 | 1 | 174 | 342 |
-| nyt | 1 | 1 | 21 | 43 |
+| supercluster | 0 | 1 | 175 | 343 |
+| nyt | 1 | 1 | 20 | 43 |
 
 # Shown Order
 
@@ -5107,3 +5107,4 @@
 - **Jul 10, 11:43 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 11:45 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 11:47 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 11:49 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
