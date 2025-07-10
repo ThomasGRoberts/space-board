@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "9cc1327a6f8a29ef92781e11e29447aa",
     "data": [
         {
             "id": "f23187cbf64126f146865502307e463f",
@@ -10497,6 +10497,18 @@
                 "2025-05-05T14:03:49.392262Z",
                 "2025-05-05T21:29:26.780344Z",
                 "2025-05-07T08:23:48.654171Z"
+            ]
+        },
+        {
+            "id": "9cc1327a6f8a29ef92781e11e29447aa",
+            "source": "spacenews",
+            "text": "Secretary of Transportation Duffy named acting NASA administrator",
+            "source_link": "https://spacenews.com/secretary-of-transportation-duffy-named-acting-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T01:51:28.580890Z",
+            "shown_at": [
+                "2025-07-10T01:51:29.554735Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 56 |
+| spacenews | 8 | 18 | 27 | 57 |
 | breaking_defense | 2 | 7 | 25 | 51 |
 | supercluster | 0 | 2 | 175 | 277 |
 | nyt | 0 | 0 | 24 | 44 |
@@ -5000,3 +5000,4 @@
 - **Jul 10, 01:44 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 01:46 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 01:49 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 01:51 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
