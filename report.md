@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 28 | 56 |
 | breaking_defense | 1 | 3 | 26 | 51 |
-| supercluster | 0 | 0 | 180 | 344 |
-| nyt | 1 | 1 | 21 | 45 |
+| supercluster | 0 | 0 | 179 | 343 |
+| nyt | 1 | 1 | 22 | 46 |
 
 # Shown Order
 
@@ -5210,3 +5210,4 @@
 - **Jul 10, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:39 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 10, 09:53 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
