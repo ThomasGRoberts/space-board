@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 28 | 56 |
 | breaking_defense | 1 | 3 | 26 | 51 |
-| supercluster | 0 | 0 | 175 | 344 |
-| nyt | 1 | 1 | 21 | 45 |
+| supercluster | 0 | 0 | 175 | 343 |
+| nyt | 1 | 1 | 22 | 46 |
 
 # Shown Order
 
@@ -5200,3 +5200,4 @@
 - **Jul 10, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 08:43 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 10, 08:57 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
