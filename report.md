@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 29 | 56 |
 | breaking_defense | 1 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 343 |
+| supercluster | 0 | 0 | 176 | 344 |
 | nyt | 1 | 1 | 21 | 45 |
 
 # Shown Order
@@ -5202,3 +5202,4 @@
 - **Jul 10, 08:43 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 10, 08:57 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 09:11 PM** - ESA selects five companies for next phase of launcher competition (spacenews)
+- **Jul 10, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
