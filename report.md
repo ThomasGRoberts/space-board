@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 28 | 56 |
+| spacenews | 10 | 18 | 29 | 57 |
 | breaking_defense | 1 | 3 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 343 |
 | nyt | 1 | 1 | 22 | 45 |
@@ -5211,3 +5211,4 @@
 - **Jul 10, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:39 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 10, 09:53 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 10, 10:07 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
