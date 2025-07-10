@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 28 | 57 |
 | breaking_defense | 2 | 6 | 26 | 52 |
-| supercluster | 0 | 1 | 177 | 338 |
+| supercluster | 0 | 1 | 178 | 339 |
 | nyt | 1 | 1 | 21 | 43 |
 
 # Shown Order
@@ -5092,3 +5092,4 @@
 - **Jul 10, 10:13 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
 - **Jul 10, 10:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 10:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 10:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
