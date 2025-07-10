@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 56 |
-| breaking_defense | 1 | 6 | 25 | 52 |
-| supercluster | 0 | 1 | 175 | 342 |
+| spacenews | 12 | 19 | 29 | 56 |
+| breaking_defense | 1 | 6 | 26 | 53 |
+| supercluster | 0 | 1 | 175 | 340 |
 | nyt | 1 | 1 | 21 | 44 |
 
 # Shown Order
@@ -5141,3 +5141,4 @@
 - **Jul 10, 02:49 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 03:03 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 10, 03:17 PM** - Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference (spacenews)
+- **Jul 10, 03:31 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
