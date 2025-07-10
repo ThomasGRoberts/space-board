@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 26 | 56 |
+| spacenews | 7 | 17 | 27 | 57 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 173 | 270 |
 | nyt | 0 | 0 | 24 | 44 |
@@ -4991,3 +4991,4 @@
 - **Jul 10, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 12:53 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 10, 01:07 AM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
