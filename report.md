@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 29 | 57 |
 | breaking_defense | 2 | 6 | 26 | 52 |
-| supercluster | 0 | 1 | 174 | 337 |
+| supercluster | 0 | 1 | 174 | 338 |
 | nyt | 1 | 1 | 21 | 43 |
 
 # Shown Order
@@ -5112,3 +5112,4 @@
 - **Jul 10, 12:05 PM** - Investors double down on space infrastructure as exits return (spacenews)
 - **Jul 10, 12:19 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 10, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
