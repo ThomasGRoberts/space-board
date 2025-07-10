@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 29 | 57 |
-| breaking_defense | 2 | 6 | 26 | 53 |
-| supercluster | 0 | 1 | 174 | 336 |
+| breaking_defense | 2 | 6 | 26 | 52 |
+| supercluster | 0 | 1 | 174 | 337 |
 | nyt | 1 | 1 | 21 | 43 |
 
 # Shown Order
@@ -5111,3 +5111,4 @@
 - **Jul 10, 11:51 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 12:05 PM** - Investors double down on space infrastructure as exits return (spacenews)
 - **Jul 10, 12:19 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 10, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
