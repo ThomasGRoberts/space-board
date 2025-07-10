@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 28 | 56 |
 | breaking_defense | 1 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 176 | 344 |
+| supercluster | 0 | 0 | 177 | 345 |
 | nyt | 1 | 1 | 22 | 45 |
 
 # Shown Order
@@ -5213,3 +5213,4 @@
 - **Jul 10, 09:53 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 10:07 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
 - **Jul 10, 10:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
