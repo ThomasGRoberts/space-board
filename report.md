@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 29 | 56 |
-| breaking_defense | 0 | 4 | 24 | 51 |
+| breaking_defense | 0 | 3 | 25 | 51 |
 | supercluster | 0 | 0 | 175 | 343 |
 | nyt | 1 | 1 | 22 | 45 |
 
@@ -5181,3 +5181,4 @@
 - **Jul 10, 06:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 06:49 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 07:05 PM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
+- **Jul 10, 07:19 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
