@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 29 | 56 |
-| breaking_defense | 1 | 5 | 26 | 52 |
-| supercluster | 0 | 1 | 176 | 344 |
+| breaking_defense | 1 | 5 | 25 | 52 |
+| supercluster | 0 | 1 | 177 | 345 |
 | nyt | 1 | 1 | 21 | 44 |
 
 # Shown Order
@@ -5163,3 +5163,4 @@
 - **Jul 10, 05:09 PM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 10, 05:23 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 10, 05:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
