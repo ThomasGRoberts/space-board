@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 28 | 56 |
-| breaking_defense | 1 | 3 | 25 | 50 |
+| breaking_defense | 1 | 3 | 26 | 51 |
 | supercluster | 0 | 0 | 182 | 350 |
 | nyt | 1 | 1 | 21 | 45 |
 
@@ -5209,3 +5209,4 @@
 - **Jul 10, 09:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 09:39 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
