@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 27 | 56 |
+| spacenews | 8 | 17 | 28 | 57 |
 | breaking_defense | 2 | 7 | 26 | 52 |
 | supercluster | 0 | 2 | 182 | 326 |
 | nyt | 1 | 1 | 21 | 41 |
@@ -5066,3 +5066,4 @@
 - **Jul 10, 07:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 07:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 07:37 AM** - China is practing orbital warfare to win in space (spacenews)
