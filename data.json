@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "trigger_count": 0,
+    "current_item_id": "b4b3d88cb067094874c67db8f34471b9",
     "data": [
         {
             "id": "f23187cbf64126f146865502307e463f",
@@ -10703,6 +10703,18 @@
             "fetched_datetime": "2025-07-10T13:05:41.410801Z",
             "shown_at": [
                 "2025-07-10T13:05:42.391443Z"
+            ]
+        },
+        {
+            "id": "b4b3d88cb067094874c67db8f34471b9",
+            "source": "spacenews",
+            "text": "UK joins Eutelsat capital boost to maintain strategic LEO stake",
+            "source_link": "https://spacenews.com/uk-joins-eutelsat-capital-boost-to-maintain-strategic-leo-stake/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T14:05:44.117845Z",
+            "shown_at": [
+                "2025-07-10T14:05:44.887902Z"
             ]
         }
     ]
