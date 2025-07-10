@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 29 | 56 |
 | breaking_defense | 1 | 6 | 25 | 53 |
-| supercluster | 0 | 1 | 176 | 337 |
+| supercluster | 0 | 1 | 177 | 338 |
 | nyt | 1 | 1 | 21 | 43 |
 
 # Shown Order
@@ -5143,3 +5143,4 @@
 - **Jul 10, 03:17 PM** - Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference (spacenews)
 - **Jul 10, 03:31 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 10, 03:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
