@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
 | breaking_defense | 2 | 7 | 26 | 51 |
-| supercluster | 0 | 2 | 168 | 270 |
+| supercluster | 0 | 2 | 169 | 271 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -4993,3 +4993,4 @@
 - **Jul 10, 12:53 AM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 10, 01:07 AM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
 - **Jul 10, 01:21 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 10, 01:35 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
