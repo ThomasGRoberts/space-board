@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 28 | 57 |
-| breaking_defense | 2 | 7 | 26 | 51 |
+| breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 319 |
 | nyt | 1 | 1 | 21 | 42 |
 
@@ -5058,3 +5058,4 @@
 - **Jul 10, 06:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 06:39 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 10, 06:53 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 10, 07:09 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
