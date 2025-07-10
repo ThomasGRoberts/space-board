@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 28 | 58 |
 | breaking_defense | 2 | 7 | 26 | 53 |
-| supercluster | 0 | 1 | 176 | 330 |
+| supercluster | 0 | 1 | 177 | 331 |
 | nyt | 1 | 1 | 21 | 42 |
 
 # Shown Order
@@ -5081,3 +5081,4 @@
 - **Jul 10, 09:03 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 10, 09:17 AM** - Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites (spacenews)
 - **Jul 10, 09:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 09:33 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
