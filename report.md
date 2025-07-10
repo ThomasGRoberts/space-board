@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 29 | 56 |
 | breaking_defense | 0 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 176 | 344 |
+| supercluster | 0 | 0 | 177 | 344 |
 | nyt | 1 | 1 | 21 | 45 |
 
 # Shown Order
@@ -5183,3 +5183,4 @@
 - **Jul 10, 07:05 PM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 10, 07:19 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 10, 07:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 07:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
