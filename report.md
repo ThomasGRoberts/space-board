@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 29 | 56 |
-| breaking_defense | 0 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 176 | 344 |
+| breaking_defense | 0 | 2 | 25 | 50 |
+| supercluster | 0 | 0 | 177 | 345 |
 | nyt | 1 | 1 | 21 | 45 |
 
 # Shown Order
@@ -5193,3 +5193,4 @@
 - **Jul 10, 08:02 PM** - Investors double down on space infrastructure as exits return (spacenews)
 - **Jul 10, 08:15 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 10, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 08:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
