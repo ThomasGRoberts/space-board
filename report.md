@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 28 | 57 |
 | breaking_defense | 2 | 7 | 26 | 52 |
-| supercluster | 0 | 2 | 175 | 326 |
+| supercluster | 0 | 2 | 176 | 327 |
 | nyt | 1 | 1 | 21 | 42 |
 
 # Shown Order
@@ -5070,3 +5070,4 @@
 - **Jul 10, 07:51 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 08:07 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 10, 08:21 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
+- **Jul 10, 08:35 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
