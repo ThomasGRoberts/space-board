@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 29 | 56 |
-| breaking_defense | 1 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 177 | 345 |
+| breaking_defense | 1 | 3 | 25 | 50 |
+| supercluster | 0 | 0 | 178 | 346 |
 | nyt | 1 | 1 | 21 | 45 |
 
 # Shown Order
@@ -5204,3 +5204,4 @@
 - **Jul 10, 09:11 PM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 10, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 10, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
