@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 28 | 57 |
 | breaking_defense | 2 | 7 | 26 | 52 |
-| supercluster | 0 | 2 | 177 | 328 |
+| supercluster | 0 | 2 | 178 | 329 |
 | nyt | 1 | 1 | 21 | 42 |
 
 # Shown Order
@@ -5072,3 +5072,4 @@
 - **Jul 10, 08:21 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 10, 08:35 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 08:37 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 08:39 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
