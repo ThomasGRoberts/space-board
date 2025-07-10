@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 29 | 57 |
-| breaking_defense | 2 | 6 | 26 | 52 |
+| breaking_defense | 2 | 6 | 26 | 53 |
 | supercluster | 0 | 1 | 175 | 336 |
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 21 | 43 |
 
 # Shown Order
 
@@ -5100,3 +5100,4 @@
 - **Jul 10, 10:41 AM** - Orienspace targets 2025 test flight of Gravity-2 after engine test (spacenews)
 - **Jul 10, 10:55 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 11:09 AM** - China’s orbital maneuvers blur the line between peaceful and provocative (spacenews)
+- **Jul 10, 11:23 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
