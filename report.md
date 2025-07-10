@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 27 | 57 |
-| breaking_defense | 2 | 7 | 26 | 51 |
+| breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 291 |
 | nyt | 0 | 0 | 22 | 43 |
 
@@ -5019,3 +5019,4 @@
 - **Jul 10, 03:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 03:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 03:17 AM** - Commercial space industry groups ask Congress to fully fund TraCSS (spacenews)
+- **Jul 10, 03:31 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
