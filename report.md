@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 28 | 57 |
-| breaking_defense | 2 | 7 | 26 | 52 |
+| breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 312 |
 | nyt | 1 | 1 | 21 | 42 |
 
@@ -5048,3 +5048,4 @@
 - **Jul 10, 05:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 05:43 AM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
 - **Jul 10, 05:57 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 10, 06:11 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
