@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 27 | 56 |
+| spacenews | 9 | 18 | 28 | 57 |
 | breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 326 |
 | nyt | 1 | 1 | 21 | 42 |
@@ -5069,3 +5069,4 @@
 - **Jul 10, 07:37 AM** - China is practing orbital warfare to win in space (spacenews)
 - **Jul 10, 07:51 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 08:07 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
+- **Jul 10, 08:21 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
