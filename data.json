@@ -1,9 +1,119 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-09T00:01:55.696947+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
+    "trigger_count": 2,
     "current_item_id": "6f49965fb966cecf6a1385998a8d7a00",
     "data": [
+        {
+            "id": "f23187cbf64126f146865502307e463f",
+            "source": "spacenews",
+            "text": "Space BD and Gilmour Space to partner on launch and satellite services",
+            "source_link": "https://spacenews.com/space-bd-and-gilmour-space-to-partner-on-launch-and-satellite-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T22:17:33.392838Z",
+            "shown_at": [
+                "2025-07-09T22:17:34.048653Z"
+            ]
+        },
+        {
+            "id": "562c0684ff871a5c62f90ee58457a602",
+            "source": "spacenews",
+            "text": "Budget reconciliation bill includes tax break for spaceport bonds",
+            "source_link": "https://spacenews.com/budget-reconciliation-bill-includes-tax-break-for-spaceport-bonds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T21:35:47.040954Z",
+            "shown_at": [
+                "2025-07-09T21:35:48.162311Z"
+            ]
+        },
+        {
+            "id": "6512c413fb2af946bcb788784cbe32da",
+            "source": "spacenews",
+            "text": "Starlink gets key India approval, but other regulatory hurdles stand in the way of service",
+            "source_link": "https://spacenews.com/starlink-gets-key-india-approval-but-other-regulatory-hurdles-stand-in-the-way-of-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T19:01:46.994821Z",
+            "shown_at": [
+                "2025-07-09T19:01:47.595695Z"
+            ]
+        },
+        {
+            "id": "b360e2dd320f5ca0ed29556d4fb2baaa",
+            "source": "breaking_defense",
+            "text": "From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities",
+            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T18:05:36.450262Z",
+            "shown_at": [
+                "2025-07-09T18:05:37.067079Z",
+                "2025-07-09T19:15:54.237162Z"
+            ]
+        },
+        {
+            "id": "4cdc350be8fc938f4e37d473cb1180c5",
+            "source": "spacenews",
+            "text": "EnduroSat USA names former DARPA official as CEO to lead U.S. expansion",
+            "source_link": "https://spacenews.com/endurosat-usa-names-former-darpa-official-as-ceo-to-lead-u-s-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T16:13:38.432389Z",
+            "shown_at": [
+                "2025-07-09T16:13:39.067008Z"
+            ]
+        },
+        {
+            "id": "1c8b89d1496fdcc1c2170697809b9217",
+            "source": "breaking_defense",
+            "text": "Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era",
+            "source_link": "https://breakingdefense.com/2025/07/sens-fischer-rounds-setting-the-record-straight-on-how-we-protected-defense-spectrum-in-the-5g-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T14:45:56.101239Z",
+            "shown_at": [
+                "2025-07-09T14:45:57.211654Z"
+            ]
+        },
+        {
+            "id": "27a1f6c1e8792e19d7ecf601044f38a6",
+            "source": "spacenews",
+            "text": "Defense startups across Europe need a blueprint to compete",
+            "source_link": "https://spacenews.com/defense-startups-across-europe-need-a-blueprint-to-compete/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T13:13:29.691557Z",
+            "shown_at": [
+                "2025-07-09T13:13:30.306484Z"
+            ]
+        },
+        {
+            "id": "8763709537071ceb9d9759772b592bf8",
+            "source": "spacenews",
+            "text": "A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations",
+            "source_link": "https://spacenews.com/a-new-approach-to-space-diplomacy-hard-hitting-calculations-outweigh-foreign-policy-considerations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T11:07:28.834522Z",
+            "shown_at": [
+                "2025-07-09T11:07:29.401573Z",
+                "2025-07-09T14:17:37.186001Z"
+            ]
+        },
+        {
+            "id": "20f1dc6d435d29a5cb4807880e4b900b",
+            "source": "spacenews",
+            "text": "Synspective signs multi-launch agreement with Exolaunch",
+            "source_link": "https://spacenews.com/synspective-signs-multi-launch-agreement-with-exolaunch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-09T09:15:42.502229Z",
+            "shown_at": [
+                "2025-07-09T09:15:43.078073Z"
+            ]
+        },
         {
             "id": "3be3a9b5b193a0d27e6a42fd95f74bc9",
             "source": "spacenews",
@@ -10368,271 +10478,6 @@
                 "2025-05-05T14:03:49.392262Z",
                 "2025-05-05T21:29:26.780344Z",
                 "2025-05-07T08:23:48.654171Z"
-            ]
-        },
-        {
-            "id": "d0a207e18c65ddcea56790bb2acd2ac2",
-            "source": "spacenews",
-            "text": "EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit",
-            "source_link": "https://spacenews.com/ebads-spacecraft-dispensing-mechanisms-propel-amazons-project-kuiper-into-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T17:13:35.636852Z",
-            "shown_at": [
-                "2025-05-01T17:13:36.502903Z",
-                "2025-05-03T06:01:52.860546Z",
-                "2025-05-04T06:45:49.890871Z"
-            ]
-        },
-        {
-            "id": "e3dfc0eb15ffb5cf75c701dce4ecdd62",
-            "source": "spacenews",
-            "text": "Expanding the human presence in orbit faces growing risk from space debris",
-            "source_link": "https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T13:13:41.232264Z",
-            "shown_at": [
-                "2025-05-01T13:13:42.752176Z",
-                "2025-05-03T19:19:41.236100Z",
-                "2025-05-06T03:33:35.936046Z"
-            ]
-        },
-        {
-            "id": "fc4ec78c2a275750663335934e878398",
-            "source": "spacenews",
-            "text": "NASA delays astrophysics mission call for proposals amid budget uncertainties",
-            "source_link": "https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T12:02:01.122573Z",
-            "shown_at": [
-                "2025-05-01T12:02:01.696148Z",
-                "2025-05-05T01:49:28.681751Z"
-            ]
-        },
-        {
-            "id": "618e1aa35fa8241403ff361875c7bea0",
-            "source": "spacenews",
-            "text": "Waltz defends ‘Golden Dome’ missile shield amid partisan divide",
-            "source_link": "https://spacenews.com/waltz-defends-golden-dome-missile-shield-amid-partisan-divide/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T21:43:34.367179Z",
-            "shown_at": [
-                "2025-04-30T21:43:34.979581Z",
-                "2025-04-30T23:37:28.760541Z",
-                "2025-05-01T16:03:31.222763Z",
-                "2025-05-05T10:25:39.114377Z",
-                "2025-05-07T02:41:59.814785Z"
-            ]
-        },
-        {
-            "id": "4f51a97881c1ebeb3d5698940f9e5db4",
-            "source": "spacenews",
-            "text": "NASA investigating problem with Psyche electric thrusters",
-            "source_link": "https://spacenews.com/nasa-investigating-problem-with-psyche-electric-thrusters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T21:01:58.944276Z",
-            "shown_at": [
-                "2025-04-30T21:01:59.587840Z",
-                "2025-05-03T23:09:30.319016Z",
-                "2025-05-04T01:02:12.662185Z",
-                "2025-05-05T09:29:33.870302Z"
-            ]
-        },
-        {
-            "id": "7c6e6af10d4b0dbfdd07e5b1674d0665",
-            "source": "spacenews",
-            "text": "Senate Commerce Committee advances Isaacman nomination to lead NASA",
-            "source_link": "https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T15:33:27.367761Z",
-            "shown_at": [
-                "2025-04-30T15:33:28.293328Z",
-                "2025-05-02T14:22:13.647169Z",
-                "2025-05-06T23:07:34.406829Z",
-                "2025-05-07T00:03:41.605222Z"
-            ]
-        },
-        {
-            "id": "8ef0773bc879b8d3ba864130d20b5027",
-            "source": "spacenews",
-            "text": "Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034",
-            "source_link": "https://spacenews.com/novaspace-forecasts-global-space-exploration-investment-to-reach-31-billion-by-2034/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T14:35:40.895273Z",
-            "shown_at": [
-                "2025-04-30T14:35:41.526899Z",
-                "2025-05-02T03:59:37.231438Z",
-                "2025-05-03T11:39:35.882801Z"
-            ]
-        },
-        {
-            "id": "770fb5c35c76af519931b465d8fd51e0",
-            "source": "spacenews",
-            "text": "Defense-focused space startup True Anomaly raises $260 million",
-            "source_link": "https://spacenews.com/defense-focused-space-startup-true-anomaly-raises-260-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T14:05:41.897811Z",
-            "shown_at": [
-                "2025-04-30T14:05:42.541282Z",
-                "2025-05-02T05:51:35.396669Z",
-                "2025-05-04T07:41:40.412534Z",
-                "2025-05-05T04:39:30.194151Z",
-                "2025-05-07T07:25:35.932428Z"
-            ]
-        },
-        {
-            "id": "97e458d692bb02debcd0d554495eb349",
-            "source": "breaking_defense",
-            "text": "Changes in FCC rules to support GPS alternatives could impact DoD",
-            "source_link": "https://breakingdefense.com/2025/04/changes-in-fcc-rules-to-support-gps-alternatives-could-impact-dod/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-04-30T13:19:39.992085Z",
-            "shown_at": [
-                "2025-04-30T13:19:40.732152Z",
-                "2025-04-30T19:05:39.530532Z",
-                "2025-04-30T21:15:49.732189Z",
-                "2025-05-01T02:55:25.350794Z",
-                "2025-05-01T13:41:47.732539Z",
-                "2025-05-01T18:43:37.226928Z",
-                "2025-05-02T01:39:27.233745Z",
-                "2025-05-02T10:19:07.465902Z",
-                "2025-05-02T21:47:52.588056Z",
-                "2025-05-03T06:29:40.452030Z",
-                "2025-05-03T11:11:43.598692Z",
-                "2025-05-03T12:07:38.379575Z",
-                "2025-05-03T16:55:39.100655Z",
-                "2025-05-03T21:43:24.924005Z",
-                "2025-05-04T02:32:08.226717Z",
-                "2025-05-04T06:17:28.787215Z",
-                "2025-05-04T08:09:36.949003Z",
-                "2025-05-04T18:27:39.297693Z",
-                "2025-05-04T20:19:32.301576Z",
-                "2025-05-05T03:57:14.050014Z",
-                "2025-05-05T08:59:29.020921Z",
-                "2025-05-05T13:19:27.864297Z",
-                "2025-05-06T01:23:35.703377Z",
-                "2025-05-06T10:33:39.681491Z",
-                "2025-05-06T11:32:08.947303Z",
-                "2025-05-06T18:12:14.988389Z",
-                "2025-05-07T08:37:43.815467Z"
-            ]
-        },
-        {
-            "id": "20f1dc6d435d29a5cb4807880e4b900b",
-            "source": "spacenews",
-            "text": "Synspective signs multi-launch agreement with Exolaunch",
-            "source_link": "https://spacenews.com/synspective-signs-multi-launch-agreement-with-exolaunch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T09:15:42.502229Z",
-            "shown_at": [
-                "2025-07-09T09:15:43.078073Z"
-            ]
-        },
-        {
-            "id": "8763709537071ceb9d9759772b592bf8",
-            "source": "spacenews",
-            "text": "A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations",
-            "source_link": "https://spacenews.com/a-new-approach-to-space-diplomacy-hard-hitting-calculations-outweigh-foreign-policy-considerations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T11:07:28.834522Z",
-            "shown_at": [
-                "2025-07-09T11:07:29.401573Z",
-                "2025-07-09T14:17:37.186001Z"
-            ]
-        },
-        {
-            "id": "27a1f6c1e8792e19d7ecf601044f38a6",
-            "source": "spacenews",
-            "text": "Defense startups across Europe need a blueprint to compete",
-            "source_link": "https://spacenews.com/defense-startups-across-europe-need-a-blueprint-to-compete/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T13:13:29.691557Z",
-            "shown_at": [
-                "2025-07-09T13:13:30.306484Z"
-            ]
-        },
-        {
-            "id": "1c8b89d1496fdcc1c2170697809b9217",
-            "source": "breaking_defense",
-            "text": "Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era",
-            "source_link": "https://breakingdefense.com/2025/07/sens-fischer-rounds-setting-the-record-straight-on-how-we-protected-defense-spectrum-in-the-5g-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T14:45:56.101239Z",
-            "shown_at": [
-                "2025-07-09T14:45:57.211654Z"
-            ]
-        },
-        {
-            "id": "4cdc350be8fc938f4e37d473cb1180c5",
-            "source": "spacenews",
-            "text": "EnduroSat USA names former DARPA official as CEO to lead U.S. expansion",
-            "source_link": "https://spacenews.com/endurosat-usa-names-former-darpa-official-as-ceo-to-lead-u-s-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T16:13:38.432389Z",
-            "shown_at": [
-                "2025-07-09T16:13:39.067008Z"
-            ]
-        },
-        {
-            "id": "b360e2dd320f5ca0ed29556d4fb2baaa",
-            "source": "breaking_defense",
-            "text": "From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities",
-            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T18:05:36.450262Z",
-            "shown_at": [
-                "2025-07-09T18:05:37.067079Z",
-                "2025-07-09T19:15:54.237162Z"
-            ]
-        },
-        {
-            "id": "6512c413fb2af946bcb788784cbe32da",
-            "source": "spacenews",
-            "text": "Starlink gets key India approval, but other regulatory hurdles stand in the way of service",
-            "source_link": "https://spacenews.com/starlink-gets-key-india-approval-but-other-regulatory-hurdles-stand-in-the-way-of-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T19:01:46.994821Z",
-            "shown_at": [
-                "2025-07-09T19:01:47.595695Z"
-            ]
-        },
-        {
-            "id": "562c0684ff871a5c62f90ee58457a602",
-            "source": "spacenews",
-            "text": "Budget reconciliation bill includes tax break for spaceport bonds",
-            "source_link": "https://spacenews.com/budget-reconciliation-bill-includes-tax-break-for-spaceport-bonds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T21:35:47.040954Z",
-            "shown_at": [
-                "2025-07-09T21:35:48.162311Z"
-            ]
-        },
-        {
-            "id": "f23187cbf64126f146865502307e463f",
-            "source": "spacenews",
-            "text": "Space BD and Gilmour Space to partner on launch and satellite services",
-            "source_link": "https://spacenews.com/space-bd-and-gilmour-space-to-partner-on-launch-and-satellite-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-09T22:17:33.392838Z",
-            "shown_at": [
-                "2025-07-09T22:17:34.048653Z"
             ]
         }
     ]
