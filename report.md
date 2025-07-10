@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 27 | 56 |
 | breaking_defense | 2 | 7 | 26 | 52 |
-| supercluster | 0 | 2 | 177 | 293 |
-| nyt | 0 | 0 | 22 | 43 |
+| supercluster | 0 | 2 | 178 | 294 |
+| nyt | 0 | 0 | 22 | 42 |
 
 # Shown Order
 
@@ -5022,3 +5022,4 @@
 - **Jul 10, 03:31 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 10, 03:45 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 03:47 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 10, 03:50 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
