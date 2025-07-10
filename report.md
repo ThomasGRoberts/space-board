@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 28 | 57 |
-| breaking_defense | 2 | 7 | 26 | 51 |
+| breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 305 |
 | nyt | 1 | 1 | 21 | 42 |
 
@@ -5038,3 +5038,4 @@
 - **Jul 10, 04:43 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 04:45 AM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
 - **Jul 10, 04:59 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 10, 05:15 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
