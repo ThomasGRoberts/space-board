@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 27 | 56 |
 | breaking_defense | 2 | 7 | 26 | 52 |
-| supercluster | 0 | 2 | 168 | 277 |
+| supercluster | 0 | 2 | 169 | 278 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -5002,3 +5002,4 @@
 - **Jul 10, 01:49 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 01:51 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 10, 02:05 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 10, 02:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
