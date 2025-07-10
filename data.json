@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "12512a69e7be99bfdd88a35518637fd3",
     "data": [
         {
             "id": "f23187cbf64126f146865502307e463f",
@@ -10627,6 +10627,18 @@
             "fetched_datetime": "2025-07-10T08:21:24.500799Z",
             "shown_at": [
                 "2025-07-10T08:21:25.049446Z"
+            ]
+        },
+        {
+            "id": "12512a69e7be99bfdd88a35518637fd3",
+            "source": "spacenews",
+            "text": "Orienspace targets 2025 test flight of Gravity-2 after engine test",
+            "source_link": "https://spacenews.com/orienspace-targets-2025-test-flight-of-gravity-2-after-engine-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T10:41:33.836857Z",
+            "shown_at": [
+                "2025-07-10T10:41:34.439905Z"
             ]
         }
     ]
