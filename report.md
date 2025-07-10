@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
 | breaking_defense | 2 | 7 | 26 | 51 |
-| supercluster | 0 | 2 | 168 | 263 |
+| supercluster | 0 | 2 | 169 | 264 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -4983,3 +4983,4 @@
 - **Jul 09, 11:57 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 10, 12:11 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 10, 12:25 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
+- **Jul 10, 12:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
