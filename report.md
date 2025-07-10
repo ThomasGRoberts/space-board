@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 26 | 56 |
 | breaking_defense | 2 | 7 | 26 | 51 |
-| supercluster | 0 | 2 | 169 | 264 |
+| supercluster | 0 | 2 | 170 | 265 |
 | nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
@@ -4984,3 +4984,4 @@
 - **Jul 10, 12:11 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 10, 12:25 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 10, 12:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 10, 12:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
