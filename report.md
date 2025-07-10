@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 28 | 57 |
-| breaking_defense | 2 | 7 | 26 | 51 |
+| breaking_defense | 2 | 7 | 27 | 52 |
 | supercluster | 0 | 2 | 175 | 298 |
 | nyt | 0 | 0 | 21 | 42 |
 
@@ -5028,3 +5028,4 @@
 - **Jul 10, 03:57 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 03:59 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 10, 04:02 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
+- **Jul 10, 04:17 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
