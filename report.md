@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 28 | 55 |
 | breaking_defense | 1 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 175 | 346 |
+| supercluster | 0 | 0 | 176 | 346 |
 | nyt | 1 | 1 | 22 | 46 |
 
 # Shown Order
@@ -5222,3 +5222,4 @@
 - **Jul 10, 10:35 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 10, 10:49 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 10, 11:03 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
+- **Jul 10, 11:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
