@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 7 | 16 | 27 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5218,3 +5218,4 @@
 - **Jul 11, 10:32 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 10:45 AM** - China is practicing orbital warfare to win in space (spacenews)
 - **Jul 11, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 11:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
