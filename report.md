@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 25 | 49 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | spacenews | 5 | 16 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5311,3 +5311,4 @@
 - **Jul 11, 07:45 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
 - **Jul 11, 07:59 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 08:13 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 08:15 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
