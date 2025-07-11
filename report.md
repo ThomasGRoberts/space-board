@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 51 |
 | spacenews | 8 | 17 | 28 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 170 | 345 |
+| supercluster | 0 | 0 | 171 | 346 |
 
 # Shown Order
 
@@ -5199,3 +5199,4 @@
 - **Jul 11, 08:51 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
 - **Jul 11, 09:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 09:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 09:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
