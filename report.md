@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 25 | 50 |
-| spacenews | 5 | 17 | 28 | 57 |
+| spacenews | 5 | 17 | 29 | 58 |
 | nyt | 1 | 2 | 24 | 45 |
 | supercluster | 0 | 0 | 170 | 350 |
 
@@ -5288,3 +5288,4 @@
 - **Jul 11, 05:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 05:32 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 05:34 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 11, 05:47 PM** - Investors double down on space infrastructure as exits return (spacenews)
