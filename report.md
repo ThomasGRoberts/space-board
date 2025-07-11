@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 7 | 18 | 28 | 57 |
+| spacenews | 8 | 19 | 29 | 58 |
 | nyt | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 0 | 168 | 343 |
 
@@ -5238,3 +5238,4 @@
 - **Jul 11, 12:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 12:39 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 11, 12:53 PM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
+- **Jul 11, 01:07 PM** - We’ve lost our ability to be awed by space (spacenews)

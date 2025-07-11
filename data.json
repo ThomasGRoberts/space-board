@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3bb5607ed34cf3e0ecb1ac62fe83dd32",
+    "trigger_count": 0,
+    "current_item_id": "45de36eb7a3067627eef94176d61e015",
     "data": [
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
@@ -10779,6 +10779,18 @@
             "fetched_datetime": "2025-07-11T11:57:45.213597Z",
             "shown_at": [
                 "2025-07-11T11:57:45.925485Z"
+            ]
+        },
+        {
+            "id": "45de36eb7a3067627eef94176d61e015",
+            "source": "spacenews",
+            "text": "We’ve lost our ability to be awed by space",
+            "source_link": "https://spacenews.com/weve-lost-our-ability-to-be-awed-by-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T13:07:42.220350Z",
+            "shown_at": [
+                "2025-07-11T13:07:42.823027Z"
             ]
         }
     ]
