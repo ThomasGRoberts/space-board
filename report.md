@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 8 | 17 | 27 | 55 |
-| nyt | 0 | 1 | 25 | 46 |
-| supercluster | 0 | 0 | 168 | 348 |
+| spacenews | 8 | 17 | 28 | 56 |
+| nyt | 0 | 1 | 24 | 46 |
+| supercluster | 0 | 0 | 168 | 346 |
 
 # Shown Order
 
@@ -5196,3 +5196,4 @@
 - **Jul 11, 08:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 08:23 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 11, 08:37 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 08:51 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
