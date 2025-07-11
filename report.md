@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 25 | 49 |
-| spacenews | 5 | 17 | 28 | 58 |
+| spacenews | 5 | 17 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5290,3 +5290,4 @@
 - **Jul 11, 05:34 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 11, 05:47 PM** - Investors double down on space infrastructure as exits return (spacenews)
 - **Jul 11, 06:02 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 06:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
