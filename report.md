@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 24 | 50 |
 | spacenews | 5 | 16 | 29 | 57 |
-| nyt | 1 | 2 | 24 | 45 |
+| nyt | 1 | 2 | 25 | 46 |
 | supercluster | 0 | 0 | 168 | 343 |
 
 # Shown Order
@@ -5319,3 +5319,4 @@
 - **Jul 11, 08:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 08:27 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 11, 08:41 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
+- **Jul 11, 08:57 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
