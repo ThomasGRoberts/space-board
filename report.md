@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 8 | 18 | 28 | 57 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 168 | 343 |
 
 # Shown Order
@@ -5228,3 +5228,4 @@
 - **Jul 11, 11:29 AM** - China eyes the moon, Mars and space dominance (spacenews)
 - **Jul 11, 11:43 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 11, 11:57 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
+- **Jul 11, 12:11 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
