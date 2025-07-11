@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 9 | 17 | 27 | 55 |
+| spacenews | 9 | 17 | 28 | 56 |
 | nyt | 0 | 1 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 346 |
+| supercluster | 0 | 0 | 168 | 345 |
 
 # Shown Order
 
@@ -5176,3 +5176,4 @@
 - **Jul 11, 06:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 06:32 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 11, 06:45 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 06:59 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
