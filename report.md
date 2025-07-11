@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 51 |
 | spacenews | 9 | 17 | 28 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5168,3 +5168,4 @@
 - **Jul 11, 05:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 05:59 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 11, 06:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 06:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
