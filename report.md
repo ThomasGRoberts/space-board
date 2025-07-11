@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 25 | 50 |
+| breaking_defense | 1 | 1 | 25 | 49 |
 | spacenews | 5 | 16 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5310,3 +5310,4 @@
 - **Jul 11, 07:31 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 11, 07:45 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
 - **Jul 11, 07:59 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 08:13 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
