@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 51 |
+| breaking_defense | 1 | 3 | 26 | 52 |
 | spacenews | 9 | 16 | 28 | 55 |
 | nyt | 1 | 1 | 21 | 45 |
 | supercluster | 0 | 0 | 182 | 350 |
@@ -5123,3 +5123,4 @@
 - **Jul 11, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 01:29 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
