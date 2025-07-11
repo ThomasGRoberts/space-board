@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 51 |
+| breaking_defense | 1 | 3 | 24 | 51 |
 | spacenews | 9 | 17 | 28 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5187,3 +5187,4 @@
 - **Jul 11, 07:27 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 11, 07:41 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 07:56 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
+- **Jul 11, 08:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
