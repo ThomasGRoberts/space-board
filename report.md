@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 25 | 50 |
 | spacenews | 5 | 17 | 29 | 58 |
-| nyt | 1 | 2 | 23 | 45 |
-| supercluster | 0 | 0 | 168 | 346 |
+| nyt | 1 | 2 | 24 | 46 |
+| supercluster | 0 | 0 | 168 | 344 |
 
 # Shown Order
 
@@ -5289,3 +5289,4 @@
 - **Jul 11, 05:32 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 05:34 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 11, 05:47 PM** - Investors double down on space infrastructure as exits return (spacenews)
+- **Jul 11, 06:02 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
