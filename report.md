@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 24 | 50 |
+| breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 8 | 18 | 28 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 173 | 347 |
+| supercluster | 0 | 0 | 172 | 345 |
 
 # Shown Order
 
@@ -5236,3 +5236,4 @@
 - **Jul 11, 12:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 12:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 12:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 12:39 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
