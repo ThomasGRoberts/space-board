@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "057eec77fc42b4e21cf52d65f4b320f5",
     "data": [
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
@@ -10733,6 +10733,27 @@
             "shown_at": [
                 "2025-07-11T02:11:36.011661Z"
             ]
+        },
+        {
+            "id": "057eec77fc42b4e21cf52d65f4b320f5",
+            "source": "spacenews",
+            "text": "NASA considering flying only cargo on next Starliner mission",
+            "source_link": "https://spacenews.com/nasa-considering-flying-only-cargo-on-next-starliner-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:13:39.767290Z",
+            "shown_at": [
+                "2025-07-11T11:13:41.207224Z"
+            ]
+        },
+        {
+            "id": "08d0e000d1c2f97cbdfaee9c624a2484",
+            "source": "spacenews",
+            "text": "China eyes the moon, Mars and space dominance",
+            "source_link": "https://spacenews.com/china-eyes-the-moon-mars-and-space-dominance/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:13:39.767343Z"
         }
     ]
 }
