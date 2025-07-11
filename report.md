@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 24 | 51 |
-| spacenews | 9 | 17 | 28 | 56 |
+| spacenews | 9 | 17 | 28 | 55 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 170 | 345 |
+| supercluster | 0 | 0 | 171 | 346 |
 
 # Shown Order
 
@@ -5179,3 +5179,4 @@
 - **Jul 11, 06:59 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 11, 07:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 07:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 07:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
