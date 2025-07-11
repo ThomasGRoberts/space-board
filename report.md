@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 52 |
 | spacenews | 9 | 16 | 28 | 54 |
-| nyt | 1 | 1 | 21 | 45 |
-| supercluster | 0 | 0 | 179 | 350 |
+| nyt | 1 | 1 | 22 | 46 |
+| supercluster | 0 | 0 | 178 | 350 |
 
 # Shown Order
 
@@ -5124,3 +5124,4 @@
 - **Jul 11, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:29 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 11, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
