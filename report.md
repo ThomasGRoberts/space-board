@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 24 | 49 |
 | spacenews | 5 | 15 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5331,3 +5331,4 @@
 - **Jul 11, 09:42 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
 - **Jul 11, 09:55 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 11, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 10:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
