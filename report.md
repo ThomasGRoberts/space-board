@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 25 | 50 |
 | spacenews | 5 | 17 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5270,3 +5270,4 @@
 - **Jul 11, 03:41 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 11, 03:55 PM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
 - **Jul 11, 04:09 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 11, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
