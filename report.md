@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 25 | 50 |
-| spacenews | 5 | 15 | 28 | 56 |
+| breaking_defense | 0 | 1 | 24 | 50 |
+| spacenews | 5 | 15 | 29 | 57 |
 | nyt | 1 | 2 | 24 | 45 |
 | supercluster | 0 | 0 | 168 | 350 |
 
@@ -5328,3 +5328,4 @@
 - **Jul 11, 09:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 09:28 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 11, 09:42 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
