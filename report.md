@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 25 | 50 |
 | spacenews | 7 | 18 | 29 | 58 |
-| nyt | 0 | 1 | 23 | 45 |
-| supercluster | 0 | 0 | 168 | 344 |
+| nyt | 0 | 1 | 24 | 46 |
+| supercluster | 0 | 0 | 168 | 343 |
 
 # Shown Order
 
@@ -5259,3 +5259,4 @@
 - **Jul 11, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 02:45 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 11, 02:59 PM** - Investors double down on space infrastructure as exits return (spacenews)
+- **Jul 11, 03:13 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
