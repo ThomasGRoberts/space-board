@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 8 | 16 | 27 | 55 |
-| nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 174 | 350 |
+| nyt | 0 | 1 | 25 | 46 |
+| supercluster | 0 | 0 | 172 | 350 |
 
 # Shown Order
 
@@ -5215,3 +5215,4 @@
 - **Jul 11, 10:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 10:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 10:17 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 11, 10:32 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
