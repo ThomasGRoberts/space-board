@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1c8b89d1496fdcc1c2170697809b9217",
+    "trigger_count": 0,
+    "current_item_id": "910424a0538214a316c4cda41a820d8e",
     "data": [
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
@@ -10911,6 +10911,18 @@
                 "2025-07-11T19:02:16.559848Z",
                 "2025-07-11T20:57:36.644244Z",
                 "2025-07-11T21:55:41.226805Z"
+            ]
+        },
+        {
+            "id": "910424a0538214a316c4cda41a820d8e",
+            "source": "spacenews",
+            "text": "Varda Space Industries raises $187 million",
+            "source_link": "https://spacenews.com/varda-space-industries-raises-187-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T23:38:01.763209Z",
+            "shown_at": [
+                "2025-07-11T23:38:02.358503Z"
             ]
         }
     ]
