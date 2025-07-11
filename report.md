@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 24 | 50 |
-| spacenews | 8 | 17 | 27 | 56 |
+| spacenews | 8 | 17 | 28 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 175 | 350 |
 
@@ -5225,3 +5225,4 @@
 - **Jul 11, 11:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 11:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 11:13 AM** - NASA considering flying only cargo on next Starliner mission (spacenews)
+- **Jul 11, 11:29 AM** - China eyes the moon, Mars and space dominance (spacenews)
