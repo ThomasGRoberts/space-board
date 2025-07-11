@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4b3d88cb067094874c67db8f34471b9",
+    "trigger_count": 0,
+    "current_item_id": "42263d136a513504b96d1418970dd455",
     "data": [
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
@@ -10623,6 +10623,18 @@
                 "2025-05-09T00:11:56.362031Z",
                 "2025-05-09T08:49:35.330146Z",
                 "2025-05-09T12:09:44.330220Z"
+            ]
+        },
+        {
+            "id": "42263d136a513504b96d1418970dd455",
+            "source": "spacenews",
+            "text": "Senate spending bill that overrides proposed NASA cuts held up in committee",
+            "source_link": "https://spacenews.com/senate-spending-bill-that-overrides-proposed-nasa-cuts-held-up-in-committee/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T02:11:35.272987Z",
+            "shown_at": [
+                "2025-07-11T02:11:36.011661Z"
             ]
         }
     ]
