@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 24 | 49 |
-| spacenews | 5 | 16 | 29 | 57 |
+| spacenews | 5 | 16 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5320,3 +5320,4 @@
 - **Jul 11, 08:27 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 11, 08:41 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
 - **Jul 11, 08:57 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 11, 09:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
