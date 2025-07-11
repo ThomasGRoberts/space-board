@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 24 | 50 |
 | spacenews | 5 | 15 | 29 | 57 |
-| nyt | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 348 |
+| nyt | 1 | 2 | 24 | 46 |
+| supercluster | 0 | 0 | 168 | 347 |
 
 # Shown Order
 
@@ -5329,3 +5329,4 @@
 - **Jul 11, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 09:28 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 11, 09:42 PM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
+- **Jul 11, 09:55 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
