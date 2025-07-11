@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 51 |
 | spacenews | 7 | 18 | 29 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5250,3 +5250,4 @@
 - **Jul 11, 01:49 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 11, 02:03 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 11, 02:18 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 02:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
