@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 25 | 50 |
-| spacenews | 5 | 17 | 29 | 58 |
-| nyt | 1 | 2 | 23 | 45 |
+| spacenews | 5 | 16 | 29 | 57 |
+| nyt | 1 | 2 | 24 | 46 |
 | supercluster | 0 | 0 | 168 | 343 |
 
 # Shown Order
@@ -5299,3 +5299,4 @@
 - **Jul 11, 06:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 06:33 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 11, 06:47 PM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
+- **Jul 11, 07:02 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
