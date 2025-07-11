@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 50 |
 | spacenews | 8 | 18 | 28 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5229,3 +5229,4 @@
 - **Jul 11, 11:43 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 11, 11:57 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
 - **Jul 11, 12:11 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 12:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
