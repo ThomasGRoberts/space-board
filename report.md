@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 7 | 16 | 27 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5217,3 +5217,4 @@
 - **Jul 11, 10:17 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 11, 10:32 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 10:45 AM** - China is practicing orbital warfare to win in space (spacenews)
+- **Jul 11, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
