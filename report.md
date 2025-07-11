@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 7 | 18 | 29 | 58 |
-| nyt | 0 | 1 | 23 | 44 |
+| spacenews | 7 | 18 | 29 | 57 |
+| nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 168 | 343 |
 
 # Shown Order
@@ -5249,3 +5249,4 @@
 - **Jul 11, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:49 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 11, 02:03 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
+- **Jul 11, 02:18 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
