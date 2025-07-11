@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 25 | 50 |
-| spacenews | 5 | 16 | 28 | 57 |
+| spacenews | 5 | 16 | 29 | 58 |
 | nyt | 1 | 2 | 24 | 45 |
 | supercluster | 0 | 0 | 169 | 349 |
 
@@ -5308,3 +5308,4 @@
 - **Jul 11, 07:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 07:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 07:31 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 11, 07:45 PM** - Chinese scientists propose 2033 Neptune orbiter mission (spacenews)
