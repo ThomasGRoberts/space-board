@@ -1,9 +1,163 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-10T00:01:59.855738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
+    "trigger_count": 0,
+    "current_item_id": "bf9da67f3b1e2615a49bef9e3d5a7c9e",
     "data": [
+        {
+            "id": "8783523f2b43a25da64f837dbf1bcf86",
+            "source": "breaking_defense",
+            "text": "Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force",
+            "source_link": "https://breakingdefense.com/2025/07/whos-who-in-defense-dr-troy-meink-secretary-of-the-air-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T20:43:25.961834Z",
+            "shown_at": [
+                "2025-07-10T20:43:26.562301Z"
+            ]
+        },
+        {
+            "id": "39e40886dc6da4c2c192cd174561e39f",
+            "source": "spacenews",
+            "text": "Space industry sticks with single-use satellite model despite new technologies",
+            "source_link": "https://spacenews.com/space-industry-sticks-with-single-use-satellite-model-despite-new-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T16:13:50.196727Z",
+            "shown_at": [
+                "2025-07-10T16:13:50.816936Z"
+            ]
+        },
+        {
+            "id": "4675c9a1d969e91ffa7d68dd105e54c2",
+            "source": "spacenews",
+            "text": "Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference",
+            "source_link": "https://spacenews.com/moog-highlights-advancements-in-high-speed-processor-at-ieee-space-computing-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T15:17:47.198030Z",
+            "shown_at": [
+                "2025-07-10T15:17:47.832588Z"
+            ]
+        },
+        {
+            "id": "b4b3d88cb067094874c67db8f34471b9",
+            "source": "spacenews",
+            "text": "UK joins Eutelsat capital boost to maintain strategic LEO stake",
+            "source_link": "https://spacenews.com/uk-joins-eutelsat-capital-boost-to-maintain-strategic-leo-stake/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T14:05:44.117845Z",
+            "shown_at": [
+                "2025-07-10T14:05:44.887902Z",
+                "2025-07-10T23:03:45.279943Z"
+            ]
+        },
+        {
+            "id": "bf9da67f3b1e2615a49bef9e3d5a7c9e",
+            "source": "spacenews",
+            "text": "A reflection on the European space industry in 2024",
+            "source_link": "https://spacenews.com/a-reflection-on-the-european-space-industry-in-2024/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T13:05:41.410801Z",
+            "shown_at": [
+                "2025-07-10T13:05:42.391443Z",
+                "2025-07-11T00:02:15.973670Z"
+            ]
+        },
+        {
+            "id": "1ae1d4be53a512e9de72c1db089d88fa",
+            "source": "spacenews",
+            "text": "Investors double down on space infrastructure as exits return",
+            "source_link": "https://spacenews.com/investors-double-down-on-space-infrastructure-as-exits-return/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T12:05:31.500557Z",
+            "shown_at": [
+                "2025-07-10T12:05:32.053752Z",
+                "2025-07-10T20:02:04.378002Z"
+            ]
+        },
+        {
+            "id": "2fdb7fc9fa4df01e98a05e8bd5e7b183",
+            "source": "spacenews",
+            "text": "China’s orbital maneuvers blur the line between peaceful and provocative",
+            "source_link": "https://spacenews.com/chinas-orbital-maneuvers-blur-the-line-between-peaceful-and-provocative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T11:09:25.743422Z",
+            "shown_at": [
+                "2025-07-10T11:09:26.397621Z"
+            ]
+        },
+        {
+            "id": "12512a69e7be99bfdd88a35518637fd3",
+            "source": "spacenews",
+            "text": "Orienspace targets 2025 test flight of Gravity-2 after engine test",
+            "source_link": "https://spacenews.com/orienspace-targets-2025-test-flight-of-gravity-2-after-engine-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T10:41:33.836857Z",
+            "shown_at": [
+                "2025-07-10T10:41:34.439905Z"
+            ]
+        },
+        {
+            "id": "3bb5607ed34cf3e0ecb1ac62fe83dd32",
+            "source": "spacenews",
+            "text": "Japan’s Interstellar secures $62 million in series F funding",
+            "source_link": "https://spacenews.com/japans-interstellar-secures-62-million-in-series-f-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T08:21:24.500799Z",
+            "shown_at": [
+                "2025-07-10T08:21:25.049446Z"
+            ]
+        },
+        {
+            "id": "1110e5d88a17a9517758ddcc22809913",
+            "source": "nyt",
+            "text": "Trump Names Sean Duffy as Interim Head of NASA",
+            "source_link": "https://www.nytimes.com/2025/07/10/us/politics/trump-nasa-sean-duffy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T04:59:33.251030Z",
+            "shown_at": [
+                "2025-07-10T04:59:34.707908Z",
+                "2025-07-10T05:57:51.113512Z",
+                "2025-07-10T06:53:31.910357Z",
+                "2025-07-10T07:51:51.457288Z",
+                "2025-07-10T08:49:36.138032Z",
+                "2025-07-10T09:45:21.779732Z",
+                "2025-07-10T10:55:39.298865Z",
+                "2025-07-10T11:51:53.966186Z",
+                "2025-07-10T12:49:37.656032Z",
+                "2025-07-10T13:51:38.010283Z",
+                "2025-07-10T14:49:39.815737Z",
+                "2025-07-10T15:59:45.887707Z",
+                "2025-07-10T16:55:29.616755Z",
+                "2025-07-10T17:51:43.745967Z",
+                "2025-07-10T18:49:39.325550Z",
+                "2025-07-10T19:47:38.111806Z",
+                "2025-07-10T20:57:47.412989Z",
+                "2025-07-10T21:53:44.704966Z",
+                "2025-07-10T22:49:41.820355Z",
+                "2025-07-10T23:47:46.304941Z"
+            ]
+        },
+        {
+            "id": "9cc1327a6f8a29ef92781e11e29447aa",
+            "source": "spacenews",
+            "text": "Secretary of Transportation Duffy named acting NASA administrator",
+            "source_link": "https://spacenews.com/secretary-of-transportation-duffy-named-acting-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-10T01:51:28.580890Z",
+            "shown_at": [
+                "2025-07-10T01:51:29.554735Z"
+            ]
+        },
         {
             "id": "f23187cbf64126f146865502307e463f",
             "source": "spacenews",
@@ -10449,406 +10603,6 @@
                 "2025-05-09T00:11:56.362031Z",
                 "2025-05-09T08:49:35.330146Z",
                 "2025-05-09T12:09:44.330220Z"
-            ]
-        },
-        {
-            "id": "6a7bb97a99b7f24211f9b6bc0a8dcd85",
-            "source": "nyt",
-            "text": "Trump’s 2026 Budget Proposes Cutting NASA Funding by $6 Billion",
-            "source_link": "https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T17:19:41.264028Z",
-            "shown_at": [
-                "2025-05-02T17:19:42.260437Z",
-                "2025-05-02T20:35:43.635062Z",
-                "2025-05-02T21:33:49.933596Z",
-                "2025-05-02T22:29:34.242028Z",
-                "2025-05-02T23:25:27.372201Z",
-                "2025-05-03T01:27:41.825832Z",
-                "2025-05-03T03:19:28.389888Z",
-                "2025-05-03T04:19:42.716528Z",
-                "2025-05-03T05:17:50.810940Z",
-                "2025-05-03T06:15:46.229864Z",
-                "2025-05-03T09:03:31.799988Z",
-                "2025-05-03T16:41:35.286672Z",
-                "2025-05-03T21:29:43.284728Z",
-                "2025-05-03T22:25:35.633441Z",
-                "2025-05-03T23:23:29.237363Z",
-                "2025-05-04T02:17:31.735328Z",
-                "2025-05-04T03:15:47.198998Z",
-                "2025-05-04T04:11:47.121929Z",
-                "2025-05-04T10:03:36.246731Z",
-                "2025-05-04T13:54:00.262845Z",
-                "2025-05-04T15:47:53.180924Z",
-                "2025-05-04T16:47:28.110085Z",
-                "2025-05-05T04:11:39.181292Z",
-                "2025-05-05T07:05:44.713436Z",
-                "2025-05-05T08:45:12.391678Z",
-                "2025-05-05T12:49:26.633078Z",
-                "2025-05-05T16:31:51.880661Z",
-                "2025-05-05T19:51:45.630161Z",
-                "2025-05-05T23:55:32.989837Z",
-                "2025-05-06T02:05:46.292523Z",
-                "2025-05-06T09:19:47.692102Z",
-                "2025-05-06T10:19:35.332365Z",
-                "2025-05-06T11:15:34.771826Z",
-                "2025-05-06T15:49:56.007502Z",
-                "2025-05-06T17:01:37.891360Z",
-                "2025-05-06T22:35:38.477932Z",
-                "2025-05-06T23:35:30.413455Z",
-                "2025-05-07T00:47:54.501692Z",
-                "2025-05-07T03:23:27.604134Z",
-                "2025-05-07T05:15:39.338842Z",
-                "2025-05-07T07:11:48.685702Z",
-                "2025-05-07T08:09:29.616947Z",
-                "2025-05-07T10:15:14.436241Z",
-                "2025-05-07T20:25:43.677980Z",
-                "2025-05-07T23:23:30.864814Z",
-                "2025-05-08T01:22:05.086880Z",
-                "2025-05-08T09:03:43.024074Z",
-                "2025-05-08T18:27:45.765655Z",
-                "2025-05-08T22:17:36.623540Z",
-                "2025-05-09T03:15:32.646107Z",
-                "2025-05-09T06:09:42.813364Z",
-                "2025-05-09T07:05:35.095017Z",
-                "2025-05-09T08:05:40.051927Z"
-            ]
-        },
-        {
-            "id": "0a1f63e673e2dc21de5467c15b04460d",
-            "source": "spacenews",
-            "text": "White House budget proposal would phase out SLS and Orion, scale back ISS operations",
-            "source_link": "https://spacenews.com/white-house-budget-proposal-would-phase-out-sls-and-orion-scale-back-iss-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T16:05:42.003197Z",
-            "shown_at": [
-                "2025-05-02T16:05:42.575705Z",
-                "2025-05-02T22:15:46.577129Z",
-                "2025-05-07T12:57:53.630065Z",
-                "2025-05-09T16:02:25.796736Z"
-            ]
-        },
-        {
-            "id": "b9755e100041a8f28137614bb22adecd",
-            "source": "spacenews",
-            "text": "Inside the $320B Opportunity to Connect the Unconnected",
-            "source_link": "https://spacenews.com/inside-the-320b-opportunity-to-connect-the-unconnected/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T15:49:55.937319Z",
-            "shown_at": [
-                "2025-05-02T15:49:57.011291Z",
-                "2025-05-02T23:11:54.682370Z",
-                "2025-05-04T20:05:25.220200Z",
-                "2025-05-05T19:09:26.614671Z",
-                "2025-05-06T15:18:14.897308Z",
-                "2025-05-07T19:12:05.211525Z"
-            ]
-        },
-        {
-            "id": "d7aa04a6cefd9ca9b024864a083e0462",
-            "source": "spacenews",
-            "text": "NASA to continue Lunar Trailblazer recovery efforts through mid-June",
-            "source_link": "https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T14:37:09.477616Z",
-            "shown_at": [
-                "2025-05-02T14:37:10.355030Z",
-                "2025-05-08T21:07:45.803771Z"
-            ]
-        },
-        {
-            "id": "e96d2f1ef756e0fb2221ab092401d662",
-            "source": "spacenews",
-            "text": "Building the space workforce — how to compete for top talent in a new frontier",
-            "source_link": "https://spacenews.com/building-the-space-workforce-how-to-compete-for-top-talent-in-a-new-frontier/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T13:17:38.818638Z",
-            "shown_at": [
-                "2025-05-02T13:17:39.427415Z",
-                "2025-05-02T17:05:39.130366Z",
-                "2025-05-03T04:05:32.223164Z",
-                "2025-05-04T15:03:38.520966Z",
-                "2025-05-08T00:35:54.516780Z",
-                "2025-05-08T07:21:46.641860Z"
-            ]
-        },
-        {
-            "id": "177f2dfbd4bd7fdc624bb1135b58997b",
-            "source": "spacenews",
-            "text": "Lockheed Martin delivers completed Orion to NASA for Artemis 2",
-            "source_link": "https://spacenews.com/lockheed-martin-delivers-completed-orion-to-nasa-for-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T11:59:37.641372Z",
-            "shown_at": [
-                "2025-05-02T11:59:38.209822Z",
-                "2025-05-03T16:27:40.281840Z"
-            ]
-        },
-        {
-            "id": "4745e93544fb07520955d9e82897a3df",
-            "source": "spacenews",
-            "text": "Radian Aerospace unveils plans for reentry vehicle",
-            "source_link": "https://spacenews.com/radian-aerospace-unveils-plans-for-reentry-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T01:09:34.154832Z",
-            "shown_at": [
-                "2025-05-02T01:09:35.152351Z",
-                "2025-05-02T13:03:55.339939Z",
-                "2025-05-03T01:13:49.233952Z",
-                "2025-05-05T02:45:29.714557Z",
-                "2025-05-05T12:35:45.515649Z",
-                "2025-05-07T01:02:04.668531Z",
-                "2025-05-08T04:25:52.219757Z"
-            ]
-        },
-        {
-            "id": "c0ee9c34da9e1cf40aea0efac5219400",
-            "source": "spacenews",
-            "text": "Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use",
-            "source_link": "https://spacenews.com/ursa-major-wins-28-5-million-air-force-contract-to-flight-test-draper-engine-for-hypersonic-use/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T23:13:31.406940Z",
-            "shown_at": [
-                "2025-05-01T23:13:32.134561Z",
-                "2025-05-02T20:22:06.424222Z",
-                "2025-05-04T10:31:23.172523Z",
-                "2025-05-05T08:31:53.601419Z",
-                "2025-05-08T18:55:37.648440Z"
-            ]
-        },
-        {
-            "id": "a555bef21971a97e316b798bc830e33a",
-            "source": "breaking_defense",
-            "text": "Ursa Major looks to fly Draper engine, takes aim at rocket engine markets",
-            "source_link": "https://breakingdefense.com/2025/05/ursa-major-looks-to-fly-draper-engine-takes-aim-at-rocket-engine-markets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T21:33:25.663466Z",
-            "shown_at": [
-                "2025-05-01T21:33:26.335148Z",
-                "2025-05-02T03:31:58.730388Z",
-                "2025-05-02T15:07:40.009457Z",
-                "2025-05-02T17:33:46.268177Z",
-                "2025-05-03T04:33:56.872922Z",
-                "2025-05-03T17:51:38.564896Z",
-                "2025-05-04T00:33:33.636354Z",
-                "2025-05-04T07:13:08.284195Z",
-                "2025-05-04T13:25:26.609323Z",
-                "2025-05-04T17:31:51.157863Z",
-                "2025-05-04T19:23:25.849978Z",
-                "2025-05-04T21:17:36.901697Z",
-                "2025-05-05T02:03:29.688506Z",
-                "2025-05-05T05:53:40.019787Z",
-                "2025-05-05T06:51:46.643702Z",
-                "2025-05-05T09:57:28.451540Z",
-                "2025-05-05T12:07:33.145398Z",
-                "2025-05-05T14:17:46.900044Z",
-                "2025-05-05T17:57:28.135619Z",
-                "2025-05-05T18:55:45.481746Z",
-                "2025-05-06T05:15:28.514179Z",
-                "2025-05-06T07:27:47.920701Z",
-                "2025-05-06T22:21:52.381579Z",
-                "2025-05-07T01:15:39.146968Z",
-                "2025-05-08T03:55:45.277065Z",
-                "2025-05-08T09:45:39.151747Z",
-                "2025-05-08T16:19:43.716612Z",
-                "2025-05-08T19:25:46.347435Z"
-            ]
-        },
-        {
-            "id": "01ab8209f95de386c033e654136f0032",
-            "source": "spacenews",
-            "text": "U.S. Space Force taps 12 firms for $237 million small-satellite procurement",
-            "source_link": "https://spacenews.com/u-s-space-force-taps-12-firms-for-237-million-small-satellite-procurement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T20:09:39.698373Z",
-            "shown_at": [
-                "2025-05-01T20:09:40.351794Z",
-                "2025-05-02T07:49:48.210432Z",
-                "2025-05-02T09:49:46.621722Z",
-                "2025-05-05T17:15:29.298785Z",
-                "2025-05-05T20:33:26.343387Z",
-                "2025-05-06T05:35:42.764033Z",
-                "2025-05-07T03:38:06.024705Z"
-            ]
-        },
-        {
-            "id": "e552284260173d3e1bc82f2f75571c11",
-            "source": "spacenews",
-            "text": "Lohmeier defends qualifications for Air Force post as senators question past remarks",
-            "source_link": "https://spacenews.com/lohmeier-defends-qualifications-for-air-force-post-as-senators-question-past-remarks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-01T19:27:28.605392Z",
-            "shown_at": [
-                "2025-05-01T19:27:29.540958Z",
-                "2025-05-01T22:02:18.393115Z",
-                "2025-05-03T14:35:40.739151Z",
-                "2025-05-05T14:03:49.392262Z",
-                "2025-05-05T21:29:26.780344Z",
-                "2025-05-07T08:23:48.654171Z"
-            ]
-        },
-        {
-            "id": "9cc1327a6f8a29ef92781e11e29447aa",
-            "source": "spacenews",
-            "text": "Secretary of Transportation Duffy named acting NASA administrator",
-            "source_link": "https://spacenews.com/secretary-of-transportation-duffy-named-acting-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T01:51:28.580890Z",
-            "shown_at": [
-                "2025-07-10T01:51:29.554735Z"
-            ]
-        },
-        {
-            "id": "1110e5d88a17a9517758ddcc22809913",
-            "source": "nyt",
-            "text": "Trump Names Sean Duffy as Interim Head of NASA",
-            "source_link": "https://www.nytimes.com/2025/07/10/us/politics/trump-nasa-sean-duffy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T04:59:33.251030Z",
-            "shown_at": [
-                "2025-07-10T04:59:34.707908Z",
-                "2025-07-10T05:57:51.113512Z",
-                "2025-07-10T06:53:31.910357Z",
-                "2025-07-10T07:51:51.457288Z",
-                "2025-07-10T08:49:36.138032Z",
-                "2025-07-10T09:45:21.779732Z",
-                "2025-07-10T10:55:39.298865Z",
-                "2025-07-10T11:51:53.966186Z",
-                "2025-07-10T12:49:37.656032Z",
-                "2025-07-10T13:51:38.010283Z",
-                "2025-07-10T14:49:39.815737Z",
-                "2025-07-10T15:59:45.887707Z",
-                "2025-07-10T16:55:29.616755Z",
-                "2025-07-10T17:51:43.745967Z",
-                "2025-07-10T18:49:39.325550Z",
-                "2025-07-10T19:47:38.111806Z",
-                "2025-07-10T20:57:47.412989Z",
-                "2025-07-10T21:53:44.704966Z",
-                "2025-07-10T22:49:41.820355Z",
-                "2025-07-10T23:47:46.304941Z"
-            ]
-        },
-        {
-            "id": "3bb5607ed34cf3e0ecb1ac62fe83dd32",
-            "source": "spacenews",
-            "text": "Japan’s Interstellar secures $62 million in series F funding",
-            "source_link": "https://spacenews.com/japans-interstellar-secures-62-million-in-series-f-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T08:21:24.500799Z",
-            "shown_at": [
-                "2025-07-10T08:21:25.049446Z"
-            ]
-        },
-        {
-            "id": "12512a69e7be99bfdd88a35518637fd3",
-            "source": "spacenews",
-            "text": "Orienspace targets 2025 test flight of Gravity-2 after engine test",
-            "source_link": "https://spacenews.com/orienspace-targets-2025-test-flight-of-gravity-2-after-engine-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T10:41:33.836857Z",
-            "shown_at": [
-                "2025-07-10T10:41:34.439905Z"
-            ]
-        },
-        {
-            "id": "2fdb7fc9fa4df01e98a05e8bd5e7b183",
-            "source": "spacenews",
-            "text": "China’s orbital maneuvers blur the line between peaceful and provocative",
-            "source_link": "https://spacenews.com/chinas-orbital-maneuvers-blur-the-line-between-peaceful-and-provocative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T11:09:25.743422Z",
-            "shown_at": [
-                "2025-07-10T11:09:26.397621Z"
-            ]
-        },
-        {
-            "id": "1ae1d4be53a512e9de72c1db089d88fa",
-            "source": "spacenews",
-            "text": "Investors double down on space infrastructure as exits return",
-            "source_link": "https://spacenews.com/investors-double-down-on-space-infrastructure-as-exits-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T12:05:31.500557Z",
-            "shown_at": [
-                "2025-07-10T12:05:32.053752Z",
-                "2025-07-10T20:02:04.378002Z"
-            ]
-        },
-        {
-            "id": "bf9da67f3b1e2615a49bef9e3d5a7c9e",
-            "source": "spacenews",
-            "text": "A reflection on the European space industry in 2024",
-            "source_link": "https://spacenews.com/a-reflection-on-the-european-space-industry-in-2024/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T13:05:41.410801Z",
-            "shown_at": [
-                "2025-07-10T13:05:42.391443Z"
-            ]
-        },
-        {
-            "id": "b4b3d88cb067094874c67db8f34471b9",
-            "source": "spacenews",
-            "text": "UK joins Eutelsat capital boost to maintain strategic LEO stake",
-            "source_link": "https://spacenews.com/uk-joins-eutelsat-capital-boost-to-maintain-strategic-leo-stake/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T14:05:44.117845Z",
-            "shown_at": [
-                "2025-07-10T14:05:44.887902Z",
-                "2025-07-10T23:03:45.279943Z"
-            ]
-        },
-        {
-            "id": "4675c9a1d969e91ffa7d68dd105e54c2",
-            "source": "spacenews",
-            "text": "Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference",
-            "source_link": "https://spacenews.com/moog-highlights-advancements-in-high-speed-processor-at-ieee-space-computing-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T15:17:47.198030Z",
-            "shown_at": [
-                "2025-07-10T15:17:47.832588Z"
-            ]
-        },
-        {
-            "id": "39e40886dc6da4c2c192cd174561e39f",
-            "source": "spacenews",
-            "text": "Space industry sticks with single-use satellite model despite new technologies",
-            "source_link": "https://spacenews.com/space-industry-sticks-with-single-use-satellite-model-despite-new-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T16:13:50.196727Z",
-            "shown_at": [
-                "2025-07-10T16:13:50.816936Z"
-            ]
-        },
-        {
-            "id": "8783523f2b43a25da64f837dbf1bcf86",
-            "source": "breaking_defense",
-            "text": "Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force",
-            "source_link": "https://breakingdefense.com/2025/07/whos-who-in-defense-dr-troy-meink-secretary-of-the-air-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T20:43:25.961834Z",
-            "shown_at": [
-                "2025-07-10T20:43:26.562301Z"
             ]
         }
     ]
