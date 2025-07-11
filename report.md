@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 50 |
 | spacenews | 8 | 18 | 29 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5241,3 +5241,4 @@
 - **Jul 11, 01:07 PM** - We’ve lost our ability to be awed by space (spacenews)
 - **Jul 11, 01:21 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 01:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 01:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
