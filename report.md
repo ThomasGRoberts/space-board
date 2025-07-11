@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 24 | 51 |
+| breaking_defense | 1 | 3 | 25 | 52 |
 | spacenews | 9 | 17 | 28 | 55 |
 | nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 175 | 350 |
@@ -5164,3 +5164,4 @@
 - **Jul 11, 05:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 05:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 05:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 05:29 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
