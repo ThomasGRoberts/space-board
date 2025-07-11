@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 25 | 49 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | spacenews | 5 | 16 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5301,3 +5301,4 @@
 - **Jul 11, 06:47 PM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
 - **Jul 11, 07:02 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 11, 07:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 07:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
