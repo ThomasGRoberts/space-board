@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8783523f2b43a25da64f837dbf1bcf86",
+    "trigger_count": 0,
+    "current_item_id": "34fba0d35426255dedea1d69bd1adb14",
     "data": [
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
@@ -10757,6 +10757,18 @@
             "fetched_datetime": "2025-07-11T11:13:39.767343Z",
             "shown_at": [
                 "2025-07-11T11:29:12.929435Z"
+            ]
+        },
+        {
+            "id": "34fba0d35426255dedea1d69bd1adb14",
+            "source": "spacenews",
+            "text": "Experimental Chinese satellite turns up in unexpected orbit",
+            "source_link": "https://spacenews.com/experimental-chinese-satellite-turns-up-in-unexpected-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:57:45.213597Z",
+            "shown_at": [
+                "2025-07-11T11:57:45.925485Z"
             ]
         }
     ]
