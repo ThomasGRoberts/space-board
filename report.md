@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 51 |
-| spacenews | 8 | 16 | 27 | 54 |
+| spacenews | 8 | 16 | 28 | 55 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 0 | 0 | 175 | 350 |
 
@@ -5125,3 +5125,4 @@
 - **Jul 11, 01:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:29 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 11, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 01:57 AM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
