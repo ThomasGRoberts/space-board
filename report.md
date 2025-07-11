@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 24 | 51 |
+| breaking_defense | 1 | 3 | 24 | 50 |
 | spacenews | 7 | 18 | 29 | 57 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5251,3 +5251,4 @@
 - **Jul 11, 02:03 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 11, 02:18 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 02:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 02:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
