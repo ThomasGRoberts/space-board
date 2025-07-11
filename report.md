@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 51 |
+| breaking_defense | 1 | 3 | 24 | 51 |
 | spacenews | 9 | 17 | 28 | 56 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5157,3 +5157,4 @@
 - **Jul 11, 04:33 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 11, 04:47 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 05:01 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
+- **Jul 11, 05:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
