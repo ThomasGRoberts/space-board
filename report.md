@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 9 | 17 | 29 | 56 |
+| spacenews | 9 | 17 | 29 | 55 |
 | nyt | 1 | 1 | 22 | 45 |
-| supercluster | 0 | 0 | 172 | 344 |
+| supercluster | 0 | 0 | 172 | 345 |
 
 # Shown Order
 
@@ -5128,3 +5128,4 @@
 - **Jul 11, 01:57 AM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
 - **Jul 11, 02:11 AM** - Senate spending bill that overrides proposed NASA cuts held up in committee (spacenews)
 - **Jul 11, 02:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 02:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
