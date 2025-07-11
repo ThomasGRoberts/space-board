@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 24 | 51 |
+| breaking_defense | 1 | 3 | 25 | 52 |
 | spacenews | 8 | 17 | 27 | 55 |
 | nyt | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 0 | 175 | 350 |
@@ -5194,3 +5194,4 @@
 - **Jul 11, 08:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 08:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 08:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 08:23 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
