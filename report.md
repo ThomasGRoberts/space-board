@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 9 | 17 | 28 | 56 |
 | nyt | 1 | 1 | 23 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5138,3 +5138,4 @@
 - **Jul 11, 02:53 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 03:08 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
 - **Jul 11, 03:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 03:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
