@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 9 | 16 | 28 | 55 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 0 | 0 | 175 | 346 |
+| supercluster | 0 | 0 | 176 | 345 |
 
 # Shown Order
 
@@ -5106,3 +5106,4 @@
 - **Jul 10, 11:33 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 10, 11:47 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 12:02 AM** - A reflection on the European space industry in 2024 (spacenews)
+- **Jul 11, 12:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
