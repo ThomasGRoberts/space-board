@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 24 | 51 |
-| spacenews | 9 | 17 | 28 | 56 |
+| spacenews | 9 | 17 | 28 | 55 |
 | nyt | 1 | 1 | 24 | 45 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5148,3 +5148,4 @@
 - **Jul 11, 03:49 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 11, 04:05 AM** - China’s orbital maneuvers blur the line between peaceful and provocative (spacenews)
 - **Jul 11, 04:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 04:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
