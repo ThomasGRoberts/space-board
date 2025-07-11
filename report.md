@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
-| spacenews | 9 | 17 | 27 | 55 |
+| spacenews | 9 | 17 | 28 | 56 |
 | nyt | 1 | 1 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 345 |
+| supercluster | 0 | 0 | 168 | 344 |
 
 # Shown Order
 
@@ -5146,3 +5146,4 @@
 - **Jul 11, 03:33 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 03:35 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 11, 03:49 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 11, 04:05 AM** - China’s orbital maneuvers blur the line between peaceful and provocative (spacenews)
