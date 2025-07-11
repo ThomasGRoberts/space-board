@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 25 | 50 |
-| spacenews | 5 | 17 | 28 | 57 |
+| spacenews | 5 | 17 | 29 | 58 |
 | nyt | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 0 | 170 | 350 |
+| supercluster | 0 | 0 | 169 | 349 |
 
 # Shown Order
 
@@ -5298,3 +5298,4 @@
 - **Jul 11, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 06:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 06:33 PM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 11, 06:47 PM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
