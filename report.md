@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 24 | 49 |
+| breaking_defense | 0 | 1 | 25 | 50 |
 | spacenews | 5 | 14 | 28 | 56 |
 | nyt | 1 | 2 | 24 | 46 |
-| supercluster | 0 | 0 | 174 | 350 |
+| supercluster | 0 | 0 | 173 | 350 |
 
 # Shown Order
 
@@ -5347,3 +5347,4 @@
 - **Jul 11, 11:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 11:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 11, 11:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 11, 11:23 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
