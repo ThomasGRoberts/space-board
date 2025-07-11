@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 51 |
 | spacenews | 9 | 16 | 28 | 55 |
-| nyt | 1 | 1 | 22 | 46 |
-| supercluster | 0 | 0 | 177 | 345 |
+| nyt | 1 | 1 | 22 | 45 |
+| supercluster | 0 | 0 | 178 | 346 |
 
 # Shown Order
 
@@ -5118,3 +5118,4 @@
 - **Jul 11, 01:02 AM** - China is practing orbital warfare to win in space (spacenews)
 - **Jul 11, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 11, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 11, 01:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
