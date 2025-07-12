@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 1 | 1 | 173 | 343 |
+| supercluster | 1 | 1 | 172 | 344 |
 
 # Shown Order
 
@@ -5319,3 +5319,4 @@
 - **Jul 12, 09:27 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 12, 09:41 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 09:55 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 12, 10:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
