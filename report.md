@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 53 |
+| spacenews | 1 | 7 | 25 | 54 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | supercluster | 2 | 2 | 182 | 350 |
@@ -5386,3 +5386,4 @@
 - **Jul 12, 03:39 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 03:41 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 03:55 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 12, 04:11 PM** - Varda Space Industries raises $187 million (spacenews)
