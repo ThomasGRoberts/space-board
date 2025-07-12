@@ -1,9 +1,98 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-11T00:02:10.733938+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-07-12T00:02:01.418059+00:00",
+    "trigger_count": 5,
     "current_item_id": "1110e5d88a17a9517758ddcc22809913",
     "data": [
+        {
+            "id": "910424a0538214a316c4cda41a820d8e",
+            "source": "spacenews",
+            "text": "Varda Space Industries raises $187 million",
+            "source_link": "https://spacenews.com/varda-space-industries-raises-187-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T23:38:01.763209Z",
+            "shown_at": [
+                "2025-07-11T23:38:02.358503Z"
+            ]
+        },
+        {
+            "id": "9dc51ccfe4842374fbd67625a722852d",
+            "source": "nyt",
+            "text": "Earth Is Spinning Faster, Making Some Summer Days Shorter",
+            "source_link": "https://www.nytimes.com/2025/07/11/science/earth-speeding-up-summer-days-shorter.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T16:09:28.521835Z",
+            "shown_at": [
+                "2025-07-11T16:09:29.160779Z",
+                "2025-07-11T17:05:43.148789Z",
+                "2025-07-11T19:02:16.559848Z",
+                "2025-07-11T20:57:36.644244Z",
+                "2025-07-11T21:55:41.226805Z"
+            ]
+        },
+        {
+            "id": "45de36eb7a3067627eef94176d61e015",
+            "source": "spacenews",
+            "text": "We’ve lost our ability to be awed by space",
+            "source_link": "https://spacenews.com/weve-lost-our-ability-to-be-awed-by-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T13:07:42.220350Z",
+            "shown_at": [
+                "2025-07-11T13:07:42.823027Z"
+            ]
+        },
+        {
+            "id": "34fba0d35426255dedea1d69bd1adb14",
+            "source": "spacenews",
+            "text": "Experimental Chinese satellite turns up in unexpected orbit",
+            "source_link": "https://spacenews.com/experimental-chinese-satellite-turns-up-in-unexpected-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:57:45.213597Z",
+            "shown_at": [
+                "2025-07-11T11:57:45.925485Z",
+                "2025-07-11T15:55:37.081380Z"
+            ]
+        },
+        {
+            "id": "08d0e000d1c2f97cbdfaee9c624a2484",
+            "source": "spacenews",
+            "text": "China eyes the moon, Mars and space dominance",
+            "source_link": "https://spacenews.com/china-eyes-the-moon-mars-and-space-dominance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:13:39.767343Z",
+            "shown_at": [
+                "2025-07-11T11:29:12.929435Z"
+            ]
+        },
+        {
+            "id": "057eec77fc42b4e21cf52d65f4b320f5",
+            "source": "spacenews",
+            "text": "NASA considering flying only cargo on next Starliner mission",
+            "source_link": "https://spacenews.com/nasa-considering-flying-only-cargo-on-next-starliner-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T11:13:39.767290Z",
+            "shown_at": [
+                "2025-07-11T11:13:41.207224Z"
+            ]
+        },
+        {
+            "id": "42263d136a513504b96d1418970dd455",
+            "source": "spacenews",
+            "text": "Senate spending bill that overrides proposed NASA cuts held up in committee",
+            "source_link": "https://spacenews.com/senate-spending-bill-that-overrides-proposed-nasa-cuts-held-up-in-committee/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-11T02:11:35.272987Z",
+            "shown_at": [
+                "2025-07-11T02:11:36.011661Z"
+            ]
+        },
         {
             "id": "8783523f2b43a25da64f837dbf1bcf86",
             "source": "breaking_defense",
@@ -10619,311 +10708,6 @@
                 "2025-05-10T06:21:44.277904Z",
                 "2025-05-10T08:57:49.010245Z",
                 "2025-05-11T19:59:35.470779Z"
-            ]
-        },
-        {
-            "id": "17f4de81427056cfca1a3d9e6dcffa28",
-            "source": "breaking_defense",
-            "text": "Today’s spectrum battle offers a golden opportunity",
-            "source_link": "https://breakingdefense.com/2025/05/todays-spectrum-battle-offers-a-golden-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T14:47:36.966783Z",
-            "shown_at": [
-                "2025-05-05T14:47:37.663020Z",
-                "2025-05-05T23:13:07.731207Z",
-                "2025-05-06T00:09:47.638449Z",
-                "2025-05-06T08:32:03.946278Z",
-                "2025-05-06T09:34:02.648432Z",
-                "2025-05-06T17:15:32.888987Z",
-                "2025-05-07T04:47:35.069731Z",
-                "2025-05-07T06:41:43.170116Z",
-                "2025-05-07T07:39:47.633347Z",
-                "2025-05-07T19:55:40.192168Z",
-                "2025-05-08T05:51:40.226778Z",
-                "2025-05-08T07:52:03.739624Z",
-                "2025-05-08T15:21:38.489492Z",
-                "2025-05-08T17:17:33.434559Z",
-                "2025-05-08T22:03:50.179707Z",
-                "2025-05-09T06:51:45.864466Z",
-                "2025-05-09T20:03:36.990303Z",
-                "2025-05-10T09:25:38.913320Z",
-                "2025-05-10T12:33:48.724790Z",
-                "2025-05-10T13:32:17.847207Z",
-                "2025-05-11T00:11:55.274806Z",
-                "2025-05-11T07:47:14.065936Z",
-                "2025-05-11T11:33:30.982976Z",
-                "2025-05-11T20:16:03.878345Z",
-                "2025-05-12T02:59:39.329082Z",
-                "2025-05-12T03:57:43.396613Z",
-                "2025-05-12T07:49:27.826858Z"
-            ]
-        },
-        {
-            "id": "9d1a1b667c71c625177c4e747369f5d7",
-            "source": "spacenews",
-            "text": "Securing the skies: tackling the growing threat of GPS interference",
-            "source_link": "https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T13:05:50.613736Z",
-            "shown_at": [
-                "2025-05-05T13:05:51.347536Z",
-                "2025-05-09T05:25:51.958751Z"
-            ]
-        },
-        {
-            "id": "35d62026b802dd52d23acd7bbc33cbd0",
-            "source": "spacenews",
-            "text": "Inversion completes first flight of reentry vehicle, but without reentry",
-            "source_link": "https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T11:37:44.568221Z",
-            "shown_at": [
-                "2025-05-05T11:37:45.469011Z",
-                "2025-05-06T07:41:46.657018Z",
-                "2025-05-09T17:55:43.761377Z",
-                "2025-05-12T08:19:37.851066Z"
-            ]
-        },
-        {
-            "id": "2f0a16ba000ca51a01f43920decf74df",
-            "source": "nyt",
-            "text": "Eta Aquarids Meteor Show Peak: How and When to Watch",
-            "source_link": "https://www.nytimes.com/2025/05/05/science/eta-aquarids-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T07:47:23.800141Z",
-            "shown_at": [
-                "2025-05-05T07:47:24.298196Z",
-                "2025-05-05T09:43:32.216504Z",
-                "2025-05-05T10:41:35.771446Z",
-                "2025-05-05T13:49:33.204046Z",
-                "2025-05-05T21:57:35.594515Z",
-                "2025-05-06T01:09:27.923955Z",
-                "2025-05-06T04:02:05.827489Z",
-                "2025-05-06T04:59:28.508064Z",
-                "2025-05-06T06:05:13.208346Z",
-                "2025-05-06T07:11:54.664435Z",
-                "2025-05-06T08:15:15.798148Z",
-                "2025-05-06T13:34:17.355192Z",
-                "2025-05-06T14:47:46.779610Z",
-                "2025-05-06T17:57:31.737181Z",
-                "2025-05-06T18:55:39.457878Z",
-                "2025-05-06T19:53:35.715821Z",
-                "2025-05-06T21:39:37.212509Z",
-                "2025-05-07T02:27:31.867426Z",
-                "2025-05-07T04:19:31.867214Z",
-                "2025-05-07T06:13:48.937214Z",
-                "2025-05-07T09:05:51.752060Z",
-                "2025-05-07T12:36:47.124080Z",
-                "2025-05-07T14:17:39.326481Z",
-                "2025-05-07T15:33:42.627281Z",
-                "2025-05-07T19:25:41.813987Z",
-                "2025-05-07T21:27:41.584243Z",
-                "2025-05-08T02:17:42.468730Z",
-                "2025-05-08T03:13:51.898061Z",
-                "2025-05-08T04:11:37.865044Z",
-                "2025-05-08T06:07:41.500704Z",
-                "2025-05-08T07:07:27.339106Z",
-                "2025-05-08T08:05:33.491505Z",
-                "2025-05-08T09:59:49.905535Z",
-                "2025-05-08T14:37:36.502509Z",
-                "2025-05-08T16:35:35.729308Z",
-                "2025-05-08T19:39:38.338727Z",
-                "2025-05-08T20:53:35.550590Z",
-                "2025-05-08T23:13:36.147445Z",
-                "2025-05-09T11:27:44.917358Z",
-                "2025-05-09T12:23:58.092004Z",
-                "2025-05-09T13:35:55.436260Z",
-                "2025-05-09T14:32:13.508844Z",
-                "2025-05-09T15:32:35.168073Z",
-                "2025-05-09T16:31:59.555451Z",
-                "2025-05-09T17:27:46.554372Z",
-                "2025-05-09T18:23:12.275281Z",
-                "2025-05-09T19:22:04.343782Z",
-                "2025-05-09T20:17:33.336233Z",
-                "2025-05-09T21:19:43.467116Z",
-                "2025-05-09T22:15:40.536304Z",
-                "2025-05-09T23:15:34.136390Z",
-                "2025-05-10T01:23:48.862144Z",
-                "2025-05-10T05:09:32.703079Z",
-                "2025-05-10T07:47:42.306076Z",
-                "2025-05-10T08:43:29.120662Z",
-                "2025-05-10T09:39:40.171980Z",
-                "2025-05-10T10:35:35.894650Z",
-                "2025-05-10T12:47:47.851001Z",
-                "2025-05-10T18:43:40.615341Z",
-                "2025-05-10T22:32:34.789130Z",
-                "2025-05-11T06:05:38.200701Z",
-                "2025-05-11T07:05:38.001065Z",
-                "2025-05-11T08:02:04.206965Z",
-                "2025-05-11T09:55:44.180133Z",
-                "2025-05-11T10:51:38.632119Z",
-                "2025-05-11T13:43:39.879836Z",
-                "2025-05-11T14:39:34.505059Z",
-                "2025-05-11T20:29:30.612434Z",
-                "2025-05-11T23:19:22.964656Z",
-                "2025-05-12T00:15:44.757587Z",
-                "2025-05-12T05:22:35.825502Z"
-            ]
-        },
-        {
-            "id": "65a0b0acde9a56f64db4112b4a36c0c3",
-            "source": "spacenews",
-            "text": "Army creates space career field for enlisted soldiers",
-            "source_link": "https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-04T13:11:44.154411Z",
-            "shown_at": [
-                "2025-05-04T13:11:45.150051Z",
-                "2025-05-05T11:23:33.279681Z",
-                "2025-05-07T10:29:34.685160Z"
-            ]
-        },
-        {
-            "id": "7d2c90ce804ab768dda7e9804b3e211d",
-            "source": "spacenews",
-            "text": "Europe begins probing SES–Intelsat merger on competition grounds",
-            "source_link": "https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T21:20:05.180023Z",
-            "shown_at": [
-                "2025-05-02T21:20:05.800803Z",
-                "2025-05-04T08:39:31.979120Z",
-                "2025-05-04T23:53:34.628581Z"
-            ]
-        },
-        {
-            "id": "4f4340b11776d7272e938b32779338c4",
-            "source": "breaking_defense",
-            "text": "Army to stand up new space career field for enlisted personnel in October 2026",
-            "source_link": "https://breakingdefense.com/2025/05/army-to-stand-up-new-space-career-field-for-enlisted-personnel-in-october-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-02T19:49:25.630054Z",
-            "shown_at": [
-                "2025-05-02T19:49:26.186229Z",
-                "2025-05-02T20:49:32.775176Z",
-                "2025-05-03T00:39:55.901311Z",
-                "2025-05-03T01:41:38.623831Z",
-                "2025-05-03T22:39:46.324055Z",
-                "2025-05-04T01:33:40.650850Z",
-                "2025-05-04T05:21:52.928259Z",
-                "2025-05-04T12:09:25.745729Z",
-                "2025-05-04T14:35:34.897513Z",
-                "2025-05-04T15:32:15.274129Z",
-                "2025-05-04T16:32:19.704567Z",
-                "2025-05-04T22:13:34.150200Z",
-                "2025-05-04T23:09:29.819859Z",
-                "2025-05-05T02:59:07.381558Z",
-                "2025-05-05T22:11:47.115341Z",
-                "2025-05-06T03:19:36.585515Z",
-                "2025-05-06T04:15:39.856385Z",
-                "2025-05-06T13:49:27.509663Z",
-                "2025-05-07T00:17:41.946545Z",
-                "2025-05-07T10:43:29.826835Z",
-                "2025-05-07T12:02:48.288813Z",
-                "2025-05-07T14:31:41.690475Z",
-                "2025-05-07T23:09:40.348330Z",
-                "2025-05-08T06:51:41.742512Z",
-                "2025-05-08T13:23:53.162509Z",
-                "2025-05-08T22:59:49.239016Z",
-                "2025-05-09T00:11:56.362031Z",
-                "2025-05-09T08:49:35.330146Z",
-                "2025-05-09T12:09:44.330220Z"
-            ]
-        },
-        {
-            "id": "42263d136a513504b96d1418970dd455",
-            "source": "spacenews",
-            "text": "Senate spending bill that overrides proposed NASA cuts held up in committee",
-            "source_link": "https://spacenews.com/senate-spending-bill-that-overrides-proposed-nasa-cuts-held-up-in-committee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T02:11:35.272987Z",
-            "shown_at": [
-                "2025-07-11T02:11:36.011661Z"
-            ]
-        },
-        {
-            "id": "057eec77fc42b4e21cf52d65f4b320f5",
-            "source": "spacenews",
-            "text": "NASA considering flying only cargo on next Starliner mission",
-            "source_link": "https://spacenews.com/nasa-considering-flying-only-cargo-on-next-starliner-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T11:13:39.767290Z",
-            "shown_at": [
-                "2025-07-11T11:13:41.207224Z"
-            ]
-        },
-        {
-            "id": "08d0e000d1c2f97cbdfaee9c624a2484",
-            "source": "spacenews",
-            "text": "China eyes the moon, Mars and space dominance",
-            "source_link": "https://spacenews.com/china-eyes-the-moon-mars-and-space-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T11:13:39.767343Z",
-            "shown_at": [
-                "2025-07-11T11:29:12.929435Z"
-            ]
-        },
-        {
-            "id": "34fba0d35426255dedea1d69bd1adb14",
-            "source": "spacenews",
-            "text": "Experimental Chinese satellite turns up in unexpected orbit",
-            "source_link": "https://spacenews.com/experimental-chinese-satellite-turns-up-in-unexpected-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T11:57:45.213597Z",
-            "shown_at": [
-                "2025-07-11T11:57:45.925485Z",
-                "2025-07-11T15:55:37.081380Z"
-            ]
-        },
-        {
-            "id": "45de36eb7a3067627eef94176d61e015",
-            "source": "spacenews",
-            "text": "We’ve lost our ability to be awed by space",
-            "source_link": "https://spacenews.com/weve-lost-our-ability-to-be-awed-by-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T13:07:42.220350Z",
-            "shown_at": [
-                "2025-07-11T13:07:42.823027Z"
-            ]
-        },
-        {
-            "id": "9dc51ccfe4842374fbd67625a722852d",
-            "source": "nyt",
-            "text": "Earth Is Spinning Faster, Making Some Summer Days Shorter",
-            "source_link": "https://www.nytimes.com/2025/07/11/science/earth-speeding-up-summer-days-shorter.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T16:09:28.521835Z",
-            "shown_at": [
-                "2025-07-11T16:09:29.160779Z",
-                "2025-07-11T17:05:43.148789Z",
-                "2025-07-11T19:02:16.559848Z",
-                "2025-07-11T20:57:36.644244Z",
-                "2025-07-11T21:55:41.226805Z"
-            ]
-        },
-        {
-            "id": "910424a0538214a316c4cda41a820d8e",
-            "source": "spacenews",
-            "text": "Varda Space Industries raises $187 million",
-            "source_link": "https://spacenews.com/varda-space-industries-raises-187-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T23:38:01.763209Z",
-            "shown_at": [
-                "2025-07-11T23:38:02.358503Z"
             ]
         }
     ]
