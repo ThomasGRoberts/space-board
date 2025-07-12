@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 24 | 53 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 182 | 350 |
 
 # Shown Order
@@ -5435,3 +5435,4 @@
 - **Jul 12, 08:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 08:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 08:35 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 12, 08:49 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
