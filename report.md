@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 53 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 2 | 2 | 183 | 357 |
+| supercluster | 2 | 2 | 182 | 357 |
 
 # Shown Order
 
@@ -5384,3 +5384,4 @@
 - **Jul 12, 03:35 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 03:37 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 03:39 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 12, 03:41 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
