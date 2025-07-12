@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 24 | 53 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 182 | 350 |
 
 # Shown Order
@@ -5445,3 +5445,4 @@
 - **Jul 12, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 09:31 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 12, 09:45 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
