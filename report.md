@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 28 | 56 |
 | nyt | 1 | 2 | 24 | 46 |
-| breaking_defense | 0 | 1 | 24 | 50 |
-| supercluster | 0 | 0 | 169 | 344 |
+| breaking_defense | 0 | 1 | 24 | 49 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5232,3 +5232,4 @@
 - **Jul 12, 01:35 AM** - ESA selects five companies for next phase of launcher competition (spacenews)
 - **Jul 12, 01:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 02:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 02:05 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
