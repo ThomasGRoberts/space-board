@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 2 | 2 | 182 | 350 |
+| supercluster | 2 | 2 | 181 | 351 |
 
 # Shown Order
 
@@ -5387,3 +5387,4 @@
 - **Jul 12, 03:41 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 03:55 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 12, 04:11 PM** - Varda Space Industries raises $187 million (spacenews)
+- **Jul 12, 04:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
