@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 182 | 352 |
+| supercluster | 2 | 2 | 183 | 353 |
 
 # Shown Order
 
@@ -5459,3 +5459,4 @@
 - **Jul 12, 10:55 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
 - **Jul 12, 11:09 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 11:11 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 12, 11:13 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
