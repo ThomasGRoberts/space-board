@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 1 | 1 | 173 | 343 |
+| supercluster | 1 | 1 | 174 | 344 |
 
 # Shown Order
 
@@ -5279,3 +5279,4 @@
 - **Jul 12, 05:39 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 12, 05:53 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 06:07 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 12, 06:21 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
