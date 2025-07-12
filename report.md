@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 2 | 24 | 47 |
-| breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 0 | 0 | 170 | 343 |
+| breaking_defense | 0 | 1 | 25 | 49 |
+| supercluster | 1 | 1 | 169 | 344 |
 
 # Shown Order
 
@@ -5249,3 +5249,4 @@
 - **Jul 12, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 03:19 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 12, 03:33 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
