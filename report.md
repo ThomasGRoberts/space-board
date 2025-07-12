@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 28 | 55 |
-| nyt | 1 | 1 | 23 | 48 |
+| nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 175 | 343 |
 
@@ -5277,3 +5277,4 @@
 - **Jul 12, 05:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 05:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 05:39 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
+- **Jul 12, 05:53 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
