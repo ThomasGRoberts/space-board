@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 2 | 2 | 179 | 352 |
+| supercluster | 2 | 2 | 179 | 353 |
 
 # Shown Order
 
@@ -5429,3 +5429,4 @@
 - **Jul 12, 08:02 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 12, 08:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 08:23 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 08:25 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
