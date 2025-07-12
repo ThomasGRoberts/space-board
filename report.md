@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 27 | 54 |
+| spacenews | 5 | 11 | 27 | 53 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 1 | 1 | 172 | 345 |
+| supercluster | 1 | 1 | 173 | 346 |
 
 # Shown Order
 
@@ -5331,3 +5331,4 @@
 - **Jul 12, 10:51 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 12, 11:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 11:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 12, 11:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
