@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 25 | 54 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 2 | 2 | 182 | 351 |
+| supercluster | 2 | 2 | 182 | 352 |
 
 # Shown Order
 
@@ -5368,3 +5368,4 @@
 - **Jul 12, 02:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 02:15 PM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
 - **Jul 12, 02:31 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 12, 02:33 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
