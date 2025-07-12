@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 27 | 55 |
+| spacenews | 5 | 14 | 28 | 56 |
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| supercluster | 1 | 1 | 175 | 350 |
+| supercluster | 1 | 1 | 175 | 348 |
 
 # Shown Order
 
@@ -5256,3 +5256,4 @@
 - **Jul 12, 03:41 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 03:43 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 03:45 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 12, 03:47 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
