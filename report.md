@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 1 | 1 | 170 | 343 |
+| supercluster | 1 | 1 | 171 | 344 |
 
 # Shown Order
 
@@ -5269,3 +5269,4 @@
 - **Jul 12, 04:43 AM** - Cooperation and consolidation: reshaping Europe’s space industry to last (spacenews)
 - **Jul 12, 04:57 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 05:11 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
+- **Jul 12, 05:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
