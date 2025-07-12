@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 27 | 55 |
+| spacenews | 5 | 14 | 28 | 56 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 175 | 345 |
@@ -5286,3 +5286,4 @@
 - **Jul 12, 06:29 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 06:32 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 06:33 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 12, 06:35 AM** - A reflection on the European space industry in 2024 (spacenews)
