@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 53 |
+| spacenews | 1 | 8 | 25 | 54 |
 | nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | supercluster | 2 | 2 | 182 | 350 |
@@ -5376,3 +5376,4 @@
 - **Jul 12, 02:43 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 02:45 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 02:59 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 12, 03:13 PM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
