@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 28 | 57 |
+| spacenews | 6 | 15 | 28 | 56 |
 | nyt | 1 | 2 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 
 # Shown Order
 
@@ -5221,3 +5221,4 @@
 - **Jul 12, 12:19 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 12, 12:33 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 12, 12:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 12, 01:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
