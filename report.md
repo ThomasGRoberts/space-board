@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 180 | 352 |
+| supercluster | 2 | 2 | 181 | 353 |
 
 # Shown Order
 
@@ -5449,3 +5449,4 @@
 - **Jul 12, 09:59 PM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 12, 10:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 10:15 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 12, 10:17 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
