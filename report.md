@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 53 |
+| spacenews | 1 | 8 | 25 | 54 |
 | nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
 | supercluster | 1 | 1 | 182 | 350 |
@@ -5366,3 +5366,4 @@
 - **Jul 12, 02:09 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 02:11 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 02:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 12, 02:15 PM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
