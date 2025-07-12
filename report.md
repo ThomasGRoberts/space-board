@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 28 | 56 |
+| spacenews | 6 | 15 | 29 | 57 |
 | nyt | 1 | 2 | 24 | 45 |
-| breaking_defense | 0 | 1 | 25 | 50 |
+| breaking_defense | 0 | 1 | 24 | 50 |
 | supercluster | 0 | 0 | 168 | 350 |
 
 # Shown Order
@@ -5219,3 +5219,4 @@
 - **Jul 12, 12:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 12:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 12:19 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 12, 12:33 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
