@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 28 | 55 |
-| nyt | 1 | 1 | 23 | 48 |
+| nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| supercluster | 1 | 1 | 175 | 345 |
+| supercluster | 1 | 1 | 175 | 344 |
 
 # Shown Order
 
@@ -5317,3 +5317,4 @@
 - **Jul 12, 09:23 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 09:25 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 09:27 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
+- **Jul 12, 09:41 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
