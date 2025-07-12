@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 1 | 24 | 49 |
+| breaking_defense | 0 | 1 | 25 | 50 |
 | supercluster | 1 | 1 | 175 | 343 |
 
 # Shown Order
@@ -5288,3 +5288,4 @@
 - **Jul 12, 06:33 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 06:35 AM** - A reflection on the European space industry in 2024 (spacenews)
 - **Jul 12, 06:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 12, 07:04 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
