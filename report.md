@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 1 | 1 | 172 | 344 |
+| supercluster | 1 | 1 | 172 | 345 |
 
 # Shown Order
 
@@ -5300,3 +5300,4 @@
 - **Jul 12, 07:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 08:03 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 12, 08:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 08:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
