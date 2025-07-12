@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 180 | 350 |
+| supercluster | 2 | 2 | 179 | 351 |
 
 # Shown Order
 
@@ -5437,3 +5437,4 @@
 - **Jul 12, 08:35 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 08:49 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 12, 09:03 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
+- **Jul 12, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
