@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 2 | 2 | 180 | 351 |
+| breaking_defense | 0 | 1 | 25 | 49 |
+| supercluster | 2 | 2 | 180 | 352 |
 
 # Shown Order
 
@@ -5398,3 +5398,4 @@
 - **Jul 12, 04:53 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 12, 05:07 PM** - Commercial space industry groups ask Congress to fully fund TraCSS (spacenews)
 - **Jul 12, 05:23 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 12, 05:25 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
