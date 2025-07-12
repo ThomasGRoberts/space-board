@@ -5261,3 +5261,4 @@
 - **Jul 12, 04:15 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 12, 04:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 04:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 04:33 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
