@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 28 | 56 |
 | nyt | 1 | 2 | 24 | 47 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| supercluster | 0 | 0 | 168 | 342 |
+| supercluster | 0 | 0 | 169 | 342 |
 
 # Shown Order
 
@@ -5241,3 +5241,4 @@
 - **Jul 12, 02:17 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 12, 02:35 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
 - **Jul 12, 02:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 12, 03:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
