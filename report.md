@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 182 | 350 |
+| supercluster | 2 | 2 | 182 | 351 |
 
 # Shown Order
 
@@ -5457,3 +5457,4 @@
 - **Jul 12, 10:27 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 10:41 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 12, 10:55 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
+- **Jul 12, 11:09 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
