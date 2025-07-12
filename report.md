@@ -5,7 +5,7 @@
 | spacenews | 5 | 14 | 27 | 55 |
 | nyt | 1 | 2 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 1 | 1 | 170 | 343 |
+| supercluster | 1 | 1 | 170 | 344 |
 
 # Shown Order
 
@@ -5259,3 +5259,4 @@
 - **Jul 12, 03:47 AM** - U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash (spacenews)
 - **Jul 12, 04:01 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 04:15 AM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
+- **Jul 12, 04:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
