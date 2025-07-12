@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 27 | 54 |
+| spacenews | 5 | 13 | 28 | 55 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 175 | 350 |
@@ -5306,3 +5306,4 @@
 - **Jul 12, 08:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 08:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 12, 08:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 08:31 AM** - Orienspace targets 2025 test flight of Gravity-2 after engine test (spacenews)
