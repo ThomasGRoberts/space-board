@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 27 | 54 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 1 | 1 | 173 | 344 |
+| supercluster | 1 | 1 | 172 | 345 |
 
 # Shown Order
 
@@ -5330,3 +5330,4 @@
 - **Jul 12, 10:37 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 12, 10:51 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 12, 11:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 12, 11:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
