@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| supercluster | 2 | 2 | 180 | 350 |
+| supercluster | 2 | 2 | 179 | 351 |
 
 # Shown Order
 
@@ -5427,3 +5427,4 @@
 - **Jul 12, 07:33 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 07:47 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 12, 08:02 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
+- **Jul 12, 08:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
