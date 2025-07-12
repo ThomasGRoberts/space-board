@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 28 | 57 |
 | nyt | 1 | 2 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| supercluster | 0 | 0 | 169 | 344 |
+| supercluster | 0 | 0 | 170 | 345 |
 
 # Shown Order
 
@@ -5212,3 +5212,4 @@
 - **Jul 11, 11:38 PM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 11, 11:51 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 12:05 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 12, 12:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
