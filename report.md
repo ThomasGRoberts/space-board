@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 25 | 53 |
+| spacenews | 1 | 6 | 24 | 53 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 182 | 350 |
 
 # Shown Order
@@ -5455,3 +5455,4 @@
 - **Jul 12, 10:23 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 10:26 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 12, 10:27 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 12, 10:41 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
