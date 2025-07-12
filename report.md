@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 11 | 25 | 54 |
+| spacenews | 2 | 10 | 25 | 53 |
 | nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 1 | 1 | 175 | 343 |
+| supercluster | 1 | 1 | 176 | 344 |
 
 # Shown Order
 
@@ -5339,3 +5339,4 @@
 - **Jul 12, 11:19 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 12, 11:33 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 11:49 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 12, 12:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
