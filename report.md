@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 1 | 25 | 50 |
-| supercluster | 2 | 2 | 181 | 350 |
+| breaking_defense | 0 | 1 | 25 | 49 |
+| supercluster | 2 | 2 | 182 | 351 |
 
 # Shown Order
 
@@ -5417,3 +5417,4 @@
 - **Jul 12, 06:35 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 06:49 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 12, 07:05 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
+- **Jul 12, 07:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
