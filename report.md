@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 24 | 53 |
+| spacenews | 0 | 6 | 25 | 54 |
 | nyt | 0 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 182 | 350 |
@@ -5466,3 +5466,4 @@
 - **Jul 12, 11:21 PM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 12, 11:23 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 11:37 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
+- **Jul 12, 11:51 PM** - Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference (spacenews)
