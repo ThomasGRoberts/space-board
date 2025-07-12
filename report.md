@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 26 | 54 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 1 | 25 | 49 |
 | supercluster | 1 | 1 | 175 | 350 |
 
@@ -5337,3 +5337,4 @@
 - **Jul 12, 11:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 12, 11:19 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
+- **Jul 12, 11:33 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
