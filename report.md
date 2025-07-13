@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 2 | 175 | 350 |
-| spacenews | 1 | 6 | 26 | 53 |
-| nyt | 0 | 1 | 25 | 49 |
+| supercluster | 1 | 2 | 176 | 351 |
+| spacenews | 1 | 6 | 25 | 53 |
+| nyt | 0 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5500,3 +5500,4 @@
 - **Jul 13, 03:07 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 03:21 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 13, 03:35 AM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
+- **Jul 13, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
