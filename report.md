@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 1 | 6 | 24 | 52 |
-| nyt | 0 | 1 | 25 | 48 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5503,3 +5503,4 @@
 - **Jul 13, 07:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 07:37 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 07:51 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
