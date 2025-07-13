@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 140 | 315 |
-| spacenews | 2 | 3 | 25 | 50 |
+| spacenews | 3 | 4 | 26 | 51 |
 | nyt | 0 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5575,3 +5575,4 @@
 - **Jul 13, 02:15 PM** - A reflection on the European space industry in 2024 (spacenews)
 - **Jul 13, 02:29 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 13, 02:43 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
+- **Jul 13, 02:57 PM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)

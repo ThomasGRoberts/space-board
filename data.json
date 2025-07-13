@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-13T00:01:59.566079+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c249e6564a773ad7d80ebb0ef76de6db",
+    "trigger_count": 0,
+    "current_item_id": "7ffdc142b2ed716821875587015fba39",
     "data": [
         {
             "id": "60ae9e56674d5cf60d90f9d58adbfb13",
@@ -11085,6 +11085,18 @@
             "shown_at": [
                 "2025-07-13T08:33:23.968613Z",
                 "2025-07-13T12:19:27.765682Z"
+            ]
+        },
+        {
+            "id": "7ffdc142b2ed716821875587015fba39",
+            "source": "spacenews",
+            "text": "Congress to push Pentagon to fund commercial satellite intelligence program",
+            "source_link": "https://spacenews.com/congress-to-push-pentagon-to-fund-commercial-satellite-intelligence-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-13T14:57:43.343362Z",
+            "shown_at": [
+                "2025-07-13T14:57:44.168540Z"
             ]
         }
     ]
