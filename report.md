@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 2 | 177 | 352 |
+| supercluster | 1 | 2 | 178 | 353 |
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -5502,3 +5502,4 @@
 - **Jul 13, 03:35 AM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 13, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 03:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 13, 03:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
