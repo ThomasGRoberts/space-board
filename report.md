@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 188 | 357 |
 | spacenews | 1 | 6 | 25 | 53 |
-| nyt | 0 | 1 | 24 | 48 |
+| nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5497,3 +5497,4 @@
 - **Jul 13, 03:02 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 13, 03:03 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 13, 03:05 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 13, 03:07 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
