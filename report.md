@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 140 | 310 |
+| supercluster | 0 | 1 | 140 | 311 |
 | spacenews | 1 | 6 | 25 | 52 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5507,3 +5507,4 @@
 - **Jul 13, 08:05 AM** - Commercial space industry groups ask Congress to fully fund TraCSS (spacenews)
 - **Jul 13, 08:19 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 08:21 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 13, 08:23 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
