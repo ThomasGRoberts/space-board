@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 183 | 351 |
+| supercluster | 2 | 2 | 184 | 352 |
 | spacenews | 1 | 6 | 25 | 53 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -5491,3 +5491,4 @@
 - **Jul 13, 02:25 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 13, 02:39 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
 - **Jul 13, 02:54 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 13, 02:55 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
