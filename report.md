@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 140 | 315 |
+| supercluster | 0 | 1 | 141 | 316 |
 | spacenews | 2 | 4 | 25 | 50 |
 | nyt | 0 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5555,3 +5555,4 @@
 - **Jul 13, 12:19 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 13, 12:33 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 12:47 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 13, 01:02 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
