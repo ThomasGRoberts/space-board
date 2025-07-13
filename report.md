@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 148 | 316 |
+| supercluster | 0 | 1 | 149 | 317 |
 | spacenews | 3 | 4 | 26 | 50 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5607,3 +5607,4 @@
 - **Jul 13, 05:37 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 13, 05:51 PM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 13, 06:05 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 13, 06:07 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
