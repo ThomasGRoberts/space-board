@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 148 | 316 |
+| supercluster | 0 | 1 | 149 | 317 |
 | spacenews | 3 | 4 | 26 | 50 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5617,3 +5617,4 @@
 - **Jul 13, 06:33 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 13, 06:47 PM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 13, 07:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 13, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
