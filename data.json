@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-13T00:01:59.566079+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8cf2938ced36644a4db391b21f0a5ca",
+    "trigger_count": 0,
+    "current_item_id": "d5103e9269343470f61d273965d290da",
     "data": [
         {
             "id": "db0266b6248d09c98e839167eb935c7f",
@@ -10970,6 +10970,18 @@
                 "2025-05-07T06:27:53.877709Z",
                 "2025-05-09T07:19:29.151656Z",
                 "2025-05-10T12:02:15.684146Z"
+            ]
+        },
+        {
+            "id": "d5103e9269343470f61d273965d290da",
+            "source": "spacenews",
+            "text": "Firefly Aerospace files to go public",
+            "source_link": "https://spacenews.com/firefly-aerospace-files-to-go-public/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-13T00:47:53.287542Z",
+            "shown_at": [
+                "2025-07-13T00:47:54.518206Z"
             ]
         }
     ]
