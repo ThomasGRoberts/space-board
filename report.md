@@ -5,7 +5,7 @@
 | supercluster | 2 | 2 | 182 | 357 |
 | spacenews | 1 | 6 | 25 | 52 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5498,3 +5498,4 @@
 - **Jul 13, 03:03 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 13, 03:05 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 13, 03:07 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 03:21 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
