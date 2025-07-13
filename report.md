@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 154 | 315 |
-| spacenews | 3 | 4 | 25 | 50 |
+| spacenews | 3 | 4 | 26 | 51 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5665,3 +5665,4 @@
 - **Jul 13, 10:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 11:02 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 11:15 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 13, 11:29 PM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
