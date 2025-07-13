@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 139 | 310 |
+| supercluster | 0 | 1 | 138 | 310 |
 | spacenews | 2 | 7 | 25 | 52 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5535,3 +5535,4 @@
 - **Jul 13, 10:27 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 13, 10:41 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 10:55 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 13, 11:09 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
