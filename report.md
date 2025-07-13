@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 182 | 350 |
-| spacenews | 1 | 7 | 24 | 53 |
-| nyt | 0 | 1 | 25 | 49 |
+| spacenews | 1 | 7 | 25 | 54 |
+| nyt | 0 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5479,3 +5479,4 @@
 - **Jul 13, 01:13 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
 - **Jul 13, 01:15 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 13, 01:29 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 13, 01:43 AM** - Space Force unveils first international strategy, while GAO flags barriers to space cooperation (spacenews)
