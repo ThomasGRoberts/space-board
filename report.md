@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 182 | 350 |
+| supercluster | 2 | 2 | 183 | 351 |
 | spacenews | 1 | 7 | 25 | 54 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -5480,3 +5480,4 @@
 - **Jul 13, 01:15 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 13, 01:29 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 13, 01:43 AM** - Space Force unveils first international strategy, while GAO flags barriers to space cooperation (spacenews)
+- **Jul 13, 01:57 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
