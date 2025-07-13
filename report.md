@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 149 | 317 |
-| spacenews | 3 | 4 | 26 | 50 |
+| supercluster | 0 | 1 | 150 | 318 |
+| spacenews | 3 | 4 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5588,3 +5588,4 @@
 - **Jul 13, 03:55 PM** - UK joins Eutelsat capital boost to maintain strategic LEO stake (spacenews)
 - **Jul 13, 04:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 13, 04:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 13, 04:13 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
