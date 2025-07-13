@@ -2,15 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 2 | 2 | 182 | 350 |
 | spacenews | 0 | 6 | 25 | 54 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 182 | 350 |
 
 # Shown Order
 
-- **May 05, 03:02 PM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
-- **May 05, 03:17 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
 - **May 05, 03:33 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 05, 03:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 05, 04:02 PM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)
@@ -50,7 +48,6 @@
 - **May 07, 05:43 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 07, 06:27 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 07, 09:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
-- **May 07, 09:33 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 07, 09:47 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 11:11 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 11:25 AM** - SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation (spacenews)
@@ -67,7 +64,6 @@
 - **May 07, 05:13 PM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 05:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 05:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
-- **May 07, 06:13 PM** - Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker (spacenews)
 - **May 07, 06:27 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 06:55 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 07, 08:11 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
@@ -187,11 +183,9 @@
 - **May 10, 05:23 AM** - Space agencies grapple with potential changes to Artemis (spacenews)
 - **May 10, 05:37 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 10, 06:05 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
-- **May 10, 06:21 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 10, 07:33 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 10, 08:01 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
 - **May 10, 08:29 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
-- **May 10, 08:57 AM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 10, 09:53 AM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
 - **May 10, 10:21 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 10:49 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
@@ -283,7 +277,6 @@
 - **May 11, 07:02 PM** - Trump administration to keep National Space Council (spacenews)
 - **May 11, 07:17 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
 - **May 11, 07:32 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
-- **May 11, 07:59 PM** - Space Economy Faces Ticking Clock on Collision Risk (spacenews)
 - **May 11, 08:57 PM** - Sierra Space completes ground demo of navigation satellite for U.S. Space Force program (spacenews)
 - **May 11, 09:13 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 11, 09:27 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
