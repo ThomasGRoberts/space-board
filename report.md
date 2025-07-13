@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 140 | 318 |
+| supercluster | 0 | 1 | 140 | 316 |
 | spacenews | 2 | 3 | 25 | 50 |
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5564,3 +5564,4 @@
 - **Jul 13, 01:15 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 01:17 PM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 13, 01:31 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 01:45 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
