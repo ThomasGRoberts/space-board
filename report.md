@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 154 | 319 |
 | spacenews | 3 | 4 | 25 | 50 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5664,3 +5664,4 @@
 - **Jul 13, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 10:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 11:02 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 11:15 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
