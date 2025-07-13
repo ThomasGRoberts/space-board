@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 2 | 7 | 25 | 53 |
-| nyt | 0 | 1 | 23 | 47 |
+| nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5513,3 +5513,4 @@
 - **Jul 13, 08:29 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 08:31 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 08:33 AM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
+- **Jul 13, 08:47 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
