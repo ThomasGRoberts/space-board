@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 2 | 7 | 25 | 52 |
 | nyt | 0 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5524,3 +5524,4 @@
 - **Jul 13, 09:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 09:31 AM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 13, 09:46 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 09:59 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
