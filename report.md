@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 2 | 7 | 25 | 53 |
-| nyt | 0 | 1 | 23 | 47 |
+| nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5523,3 +5523,4 @@
 - **Jul 13, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 09:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 09:31 AM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
+- **Jul 13, 09:46 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
