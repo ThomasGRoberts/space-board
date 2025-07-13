@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-13T00:01:59.566079+00:00",
-    "trigger_count": 2,
-    "current_item_id": "db0266b6248d09c98e839167eb935c7f",
+    "trigger_count": 3,
+    "current_item_id": "cc271066845d4a1794fd1156277bea55",
     "data": [
         {
             "id": "60ae9e56674d5cf60d90f9d58adbfb13",
@@ -587,7 +587,8 @@
                 "2025-07-12T18:49:32.846940Z",
                 "2025-07-12T19:47:33.216623Z",
                 "2025-07-12T21:45:38.737201Z",
-                "2025-07-12T22:41:44.213293Z"
+                "2025-07-12T22:41:44.213293Z",
+                "2025-07-13T06:05:07.325126Z"
             ]
         },
         {
@@ -10982,20 +10983,6 @@
             "fetched_datetime": "2025-07-13T00:47:53.287542Z",
             "shown_at": [
                 "2025-07-13T00:47:54.518206Z"
-            ]
-        },
-        {
-            "id": "db0266b6248d09c98e839167eb935c7f",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Communications Satellite for Israel",
-            "source_link": "https://www.supercluster.com/launches/commercial-gto-1",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-13T05:04:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-13T06:02:08.075925Z",
-            "shown_at": [
-                "2025-07-13T06:02:09.616530Z"
             ]
         }
     ]
