@@ -5496,3 +5496,4 @@
 - **Jul 13, 06:55 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 13, 07:09 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 13, 07:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 13, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
