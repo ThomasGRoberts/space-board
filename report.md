@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 148 | 316 |
+| supercluster | 0 | 1 | 149 | 317 |
 | spacenews | 3 | 4 | 26 | 50 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5657,3 +5657,4 @@
 - **Jul 13, 10:19 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
 - **Jul 13, 10:33 PM** - Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project (spacenews)
 - **Jul 13, 10:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 13, 10:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
