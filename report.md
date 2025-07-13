@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 2 | 4 | 25 | 51 |
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5554,3 +5554,4 @@
 - **Jul 13, 12:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 13, 12:19 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 13, 12:33 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 13, 12:47 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
