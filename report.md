@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 154 | 315 |
+| supercluster | 0 | 1 | 155 | 316 |
 | spacenews | 3 | 3 | 26 | 50 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5666,3 +5666,4 @@
 - **Jul 13, 11:02 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 11:15 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 13, 11:29 PM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
+- **Jul 13, 11:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
