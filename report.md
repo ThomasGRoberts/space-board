@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 140 | 322 |
 | spacenews | 2 | 3 | 25 | 50 |
-| nyt | 0 | 1 | 24 | 48 |
+| nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5563,3 +5563,4 @@
 - **Jul 13, 01:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 01:15 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 01:17 PM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
+- **Jul 13, 01:31 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
