@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 140 | 315 |
 | spacenews | 2 | 5 | 25 | 51 |
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5544,3 +5544,4 @@
 - **Jul 13, 11:21 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 11:23 AM** - China is practing orbital warfare to win in space (spacenews)
 - **Jul 13, 11:37 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 13, 11:51 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
