@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 2 | 147 | 317 |
+| supercluster | 1 | 2 | 146 | 316 |
 | spacenews | 1 | 6 | 25 | 52 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5483,4 +5483,4 @@
 - **Jul 13, 04:55 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 04:57 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 04:59 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
-- **Jul 13, 05:27 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
+- **Jul 13, 05:29 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
