@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 140 | 316 |
 | spacenews | 2 | 3 | 25 | 50 |
 | nyt | 0 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5574,3 +5574,4 @@
 - **Jul 13, 02:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 02:15 PM** - A reflection on the European space industry in 2024 (spacenews)
 - **Jul 13, 02:29 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 13, 02:43 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
