@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 140 | 320 |
+| supercluster | 0 | 1 | 141 | 321 |
 | spacenews | 2 | 3 | 25 | 49 |
 | nyt | 0 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
@@ -5560,3 +5560,4 @@
 - **Jul 13, 01:07 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 01:09 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 01:11 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 13, 01:13 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
