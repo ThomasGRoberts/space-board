@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 322 |
 | spacenews | 3 | 3 | 25 | 50 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5673,3 +5673,4 @@
 - **Jul 13, 11:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 13, 11:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 13, 11:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 13, 11:57 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
