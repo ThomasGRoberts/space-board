@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 182 | 350 |
+| supercluster | 2 | 2 | 183 | 351 |
 | spacenews | 1 | 7 | 25 | 54 |
 | nyt | 0 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -5470,3 +5470,4 @@
 - **Jul 13, 12:19 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 12:33 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 13, 12:47 AM** - Firefly Aerospace files to go public (spacenews)
+- **Jul 13, 01:01 AM** - SpaceX Will Launch Communications Satellite for Israel (supercluster)
