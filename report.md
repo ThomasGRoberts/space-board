@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 2 | 182 | 351 |
-| spacenews | 1 | 6 | 25 | 52 |
+| supercluster | 1 | 2 | 181 | 351 |
+| spacenews | 1 | 6 | 26 | 53 |
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 50 |
 
@@ -5509,3 +5509,4 @@
 - **Jul 13, 04:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 13, 04:03 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 13, 04:17 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
+- **Jul 13, 04:31 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
