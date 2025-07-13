@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 2 | 177 | 352 |
+| supercluster | 1 | 2 | 178 | 353 |
 | spacenews | 1 | 6 | 25 | 53 |
-| nyt | 0 | 1 | 25 | 49 |
+| nyt | 0 | 1 | 25 | 48 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5512,3 +5512,4 @@
 - **Jul 13, 04:31 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 13, 04:45 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 13, 04:47 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 13, 04:49 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
