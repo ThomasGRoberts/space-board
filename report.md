@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 50 |
 | supercluster | 0 | 0 | 126 | 224 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5392,3 +5392,4 @@
 - **Jul 14, 08:45 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 08:47 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 08:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 14, 09:05 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
