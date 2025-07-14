@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 26 | 50 |
-| supercluster | 0 | 1 | 98 | 210 |
+| spacenews | 2 | 3 | 25 | 50 |
+| supercluster | 0 | 1 | 99 | 211 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5324,3 +5324,4 @@
 - **Jul 14, 02:00 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 14, 02:13 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 14, 02:27 AM** - Varda Space Industries raises $187 million (spacenews)
+- **Jul 14, 02:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
