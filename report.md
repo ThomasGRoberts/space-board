@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 50 |
-| supercluster | 0 | 0 | 120 | 218 |
+| supercluster | 0 | 0 | 121 | 219 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5385,3 +5385,4 @@
 - **Jul 14, 08:05 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 14, 08:22 AM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
 - **Jul 14, 08:35 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 08:37 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
