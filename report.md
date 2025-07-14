@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 137 | 245 |
+| supercluster | 0 | 0 | 135 | 245 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5464,3 +5464,4 @@
 - **Jul 14, 03:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 03:47 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 04:02 PM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
+- **Jul 14, 04:17 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
