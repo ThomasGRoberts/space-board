@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 27 | 52 |
-| supercluster | 0 | 0 | 156 | 254 |
-| nyt | 1 | 1 | 24 | 49 |
+| supercluster | 0 | 0 | 157 | 255 |
+| nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5518,3 +5518,4 @@
 - **Jul 14, 09:15 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 14, 09:29 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 09:31 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 09:33 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
