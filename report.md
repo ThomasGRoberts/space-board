@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 26 | 52 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 98 | 140 |
 
 # Shown Order
@@ -5365,3 +5365,4 @@
 - **Jul 14, 10:55 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
 - **Jul 14, 11:09 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 14, 11:23 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 14, 11:37 PM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
