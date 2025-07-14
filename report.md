@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 26 | 51 |
-| supercluster | 0 | 0 | 112 | 217 |
+| supercluster | 0 | 0 | 113 | 218 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5354,3 +5354,4 @@
 - **Jul 14, 04:53 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 14, 05:07 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 05:21 AM** - We’ve lost our ability to be awed by space (spacenews)
+- **Jul 14, 05:35 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
