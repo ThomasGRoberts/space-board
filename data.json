@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9dc51ccfe4842374fbd67625a722852d",
+    "trigger_count": 0,
+    "current_item_id": "e9e5fd69eb55455ab68db4729437381d",
     "data": [
         {
             "id": "7ffdc142b2ed716821875587015fba39",
@@ -10919,6 +10919,18 @@
             "fetched_datetime": "2025-07-14T11:11:38.639981Z",
             "shown_at": [
                 "2025-07-14T11:11:39.223826Z"
+            ]
+        },
+        {
+            "id": "e9e5fd69eb55455ab68db4729437381d",
+            "source": "spacenews",
+            "text": "Industry doubts effectiveness of new launch licensing fees",
+            "source_link": "https://spacenews.com/industry-doubts-effectiveness-of-new-launch-licensing-fees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T11:53:41.158089Z",
+            "shown_at": [
+                "2025-07-14T11:53:41.806094Z"
             ]
         }
     ]
