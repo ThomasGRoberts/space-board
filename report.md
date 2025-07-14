@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 133 | 238 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5454,3 +5454,4 @@
 - **Jul 14, 02:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 02:47 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 14, 03:03 PM** - Space Force unveils first international strategy, while GAO flags barriers to space cooperation (spacenews)
+- **Jul 14, 03:17 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
