@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 26 | 51 |
-| supercluster | 0 | 0 | 114 | 219 |
+| spacenews | 2 | 3 | 26 | 50 |
+| supercluster | 0 | 0 | 115 | 220 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5356,3 +5356,4 @@
 - **Jul 14, 05:21 AM** - We’ve lost our ability to be awed by space (spacenews)
 - **Jul 14, 05:35 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 05:37 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 05:39 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
