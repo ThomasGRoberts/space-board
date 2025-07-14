@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 26 | 50 |
-| supercluster | 0 | 0 | 126 | 224 |
+| spacenews | 2 | 4 | 25 | 50 |
+| supercluster | 0 | 0 | 127 | 225 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5414,3 +5414,4 @@
 - **Jul 14, 10:43 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 10:57 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 14, 11:11 AM** - China enters race for LEO broadband dominance (spacenews)
+- **Jul 14, 11:25 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
