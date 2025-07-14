@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 25 | 51 |
+| spacenews | 3 | 6 | 26 | 52 |
 | supercluster | 0 | 0 | 147 | 252 |
 | nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
@@ -5503,3 +5503,4 @@
 - **Jul 14, 07:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 07:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 07:35 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 14, 07:51 PM** - Orienspace targets 2025 test flight of Gravity-2 after engine test (spacenews)
