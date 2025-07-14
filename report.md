@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 50 |
-| supercluster | 0 | 1 | 162 | 316 |
+| supercluster | 0 | 1 | 163 | 317 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5679,3 +5679,4 @@
 - **Jul 14, 01:11 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 01:25 AM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
 - **Jul 14, 01:43 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 01:45 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
