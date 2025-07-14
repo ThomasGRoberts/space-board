@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 147 | 252 |
+| supercluster | 0 | 0 | 148 | 253 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5505,3 +5505,4 @@
 - **Jul 14, 07:35 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 07:51 PM** - Orienspace targets 2025 test flight of Gravity-2 after engine test (spacenews)
 - **Jul 14, 08:05 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 14, 08:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
