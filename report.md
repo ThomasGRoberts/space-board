@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 50 |
 | supercluster | 0 | 0 | 112 | 217 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 0 | 0 | 25 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5341,3 +5341,4 @@
 - **Jul 14, 03:51 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 03:53 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 03:55 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 03:58 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
