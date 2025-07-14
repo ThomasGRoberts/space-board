@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 133 | 238 |
-| nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 25 | 49 |
+| nyt | 1 | 1 | 25 | 49 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5442,3 +5442,4 @@
 - **Jul 14, 01:39 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 01:41 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 01:43 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 01:45 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
