@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 50 |
-| supercluster | 0 | 0 | 127 | 218 |
+| supercluster | 0 | 0 | 128 | 219 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5405,3 +5405,4 @@
 - **Jul 14, 10:01 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 10:15 AM** - Neuraspace tackles GNSS signal noise with ESA-funded satellite collision avoidance project (spacenews)
 - **Jul 14, 10:29 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 10:31 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
