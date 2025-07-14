@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 50 |
+| spacenews | 1 | 3 | 26 | 51 |
 | supercluster | 0 | 0 | 126 | 221 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
@@ -5393,3 +5393,4 @@
 - **Jul 14, 08:47 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 08:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 09:05 AM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 14, 09:19 AM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
