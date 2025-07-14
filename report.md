@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 138 | 245 |
+| supercluster | 0 | 0 | 137 | 245 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5474,3 +5474,4 @@
 - **Jul 14, 04:43 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 04:45 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 04:59 PM** - Firefly Aerospace files to go public (spacenews)
+- **Jul 14, 05:13 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
