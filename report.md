@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 50 |
-| supercluster | 0 | 1 | 100 | 212 |
+| supercluster | 0 | 1 | 101 | 213 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5326,3 +5326,4 @@
 - **Jul 14, 02:27 AM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 14, 02:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 02:43 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 02:45 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
