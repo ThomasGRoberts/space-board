@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 26 | 50 |
-| supercluster | 0 | 1 | 154 | 315 |
+| supercluster | 0 | 1 | 155 | 316 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5668,3 +5668,4 @@
 - **Jul 13, 11:57 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 14, 12:11 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 12:25 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
+- **Jul 14, 12:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
