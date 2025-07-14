@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 134 | 242 |
+| supercluster | 0 | 0 | 135 | 243 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5466,3 +5466,4 @@
 - **Jul 14, 04:02 PM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 14, 04:17 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 04:31 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 04:33 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
