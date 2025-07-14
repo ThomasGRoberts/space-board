@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 25 | 51 |
+| spacenews | 3 | 6 | 26 | 52 |
 | supercluster | 0 | 0 | 140 | 245 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -5483,3 +5483,4 @@
 - **Jul 14, 05:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 05:41 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 14, 05:55 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
