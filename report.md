@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 25 | 51 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 91 | 133 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| supercluster | 1 | 1 | 92 | 134 |
 
 # Shown Order
 
@@ -5355,3 +5355,4 @@
 - **Jul 14, 08:47 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 09:01 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
 - **Jul 14, 09:15 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
+- **Jul 14, 10:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
