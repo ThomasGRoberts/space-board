@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 50 |
-| supercluster | 0 | 1 | 161 | 321 |
+| supercluster | 0 | 1 | 161 | 319 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 50 |
 
 # Shown Order
 
@@ -5676,3 +5676,4 @@
 - **Jul 14, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 14, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 14, 12:53 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 14, 01:11 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
