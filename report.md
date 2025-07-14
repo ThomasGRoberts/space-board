@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 126 | 231 |
+| supercluster | 0 | 0 | 127 | 232 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5435,3 +5435,4 @@
 - **Jul 14, 12:49 PM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 14, 01:03 PM** - Securing the new high ground: tackling export loopholes in space tech (spacenews)
 - **Jul 14, 01:17 PM** - Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch (breaking_defense)
+- **Jul 14, 01:31 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
