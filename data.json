@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ba758aadfd792c324669fb62b5e6264f",
+    "trigger_count": 0,
+    "current_item_id": "62a15926a215155f26a88a24543b1855",
     "data": [
         {
             "id": "7ffdc142b2ed716821875587015fba39",
@@ -11044,6 +11044,18 @@
                 "2025-07-14T14:47:31.913564Z",
                 "2025-07-14T17:41:48.059374Z",
                 "2025-07-14T20:33:57.115418Z"
+            ]
+        },
+        {
+            "id": "62a15926a215155f26a88a24543b1855",
+            "source": "spacenews",
+            "text": "House bill rejects overall NASA budget cuts but shifts funding to exploration",
+            "source_link": "https://spacenews.com/house-bill-rejects-overall-nasa-budget-cuts-but-shifts-funding-to-exploration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T21:01:55.452967Z",
+            "shown_at": [
+                "2025-07-14T21:01:56.979966Z"
             ]
         }
     ]
