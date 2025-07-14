@@ -2,15 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 161 | 322 |
 | spacenews | 3 | 3 | 25 | 50 |
+| supercluster | 0 | 1 | 161 | 322 |
 | nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
-- **May 05, 03:33 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
-- **May 05, 03:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 05, 04:02 PM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)
 - **May 05, 04:17 PM** - FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance (spacenews)
 - **May 05, 07:23 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)
@@ -46,7 +44,6 @@
 - **May 07, 04:33 AM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 07, 05:29 AM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)
 - **May 07, 05:43 AM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
-- **May 07, 06:27 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 07, 09:19 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 07, 09:47 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 07, 11:11 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
@@ -135,11 +132,9 @@
 - **May 09, 05:11 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 09, 05:53 AM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 09, 06:23 AM** - India’s satellite crackdown brings fresh challenges for Starlink and OneWeb (spacenews)
-- **May 09, 07:19 AM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 09, 07:51 AM** - Space RCO head sees potential ‘product line’ for orbital warfare satellites (breaking_defense)
 - **May 09, 08:19 AM** - Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5 (spacenews)
 - **May 09, 09:05 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
-- **May 09, 09:20 AM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 09, 09:47 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 09, 10:02 AM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 09, 10:16 AM** - Defense Spending Drives Government Space Budgets to Historic High (spacenews)
@@ -147,7 +142,6 @@
 - **May 09, 10:57 AM** - Space Force eyeing international launch sites to increase ‘resilience’ (breaking_defense)
 - **May 09, 11:12 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 09, 11:55 AM** - Space agencies grapple with potential changes to Artemis (spacenews)
-- **May 09, 12:51 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 09, 01:05 PM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 09, 01:19 PM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 09, 02:03 PM** - SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract (spacenews)
@@ -163,7 +157,6 @@
 - **May 09, 07:49 PM** - The U.S. is risking its economic and defense leadership in low Earth orbit  (spacenews)
 - **May 09, 08:49 PM** - Space Force chief makes case for increased funding before House panel (spacenews)
 - **May 09, 09:03 PM** - Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO (breaking_defense)
-- **May 09, 09:47 PM** - The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight (spacenews)
 - **May 09, 10:02 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
 - **May 09, 10:43 PM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 09, 10:57 PM** - German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses (breaking_defense)
@@ -192,7 +185,6 @@
 - **May 10, 11:03 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 10, 11:32 AM** - Space Force eyeing international launch sites to increase ‘reslience’ (breaking_defense)
 - **May 10, 11:47 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
-- **May 10, 12:02 PM** - Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference (spacenews)
 - **May 10, 01:02 PM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 10, 01:47 PM** - What to Know About Kosmos-482, a Soviet Spacecraft Returning to Earth After 53 Years (nyt)
 - **May 10, 02:02 PM** - Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’ (spacenews)

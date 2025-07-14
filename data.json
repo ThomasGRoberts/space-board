@@ -1,9 +1,46 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-13T00:01:59.566079+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
+    "trigger_count": 2,
     "current_item_id": "1110e5d88a17a9517758ddcc22809913",
     "data": [
+        {
+            "id": "7ffdc142b2ed716821875587015fba39",
+            "source": "spacenews",
+            "text": "Congress to push Pentagon to fund commercial satellite intelligence program",
+            "source_link": "https://spacenews.com/congress-to-push-pentagon-to-fund-commercial-satellite-intelligence-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-13T14:57:43.343362Z",
+            "shown_at": [
+                "2025-07-13T14:57:44.168540Z"
+            ]
+        },
+        {
+            "id": "d5b6dae95d568c17d6150b38c3c4c526",
+            "source": "spacenews",
+            "text": "Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection",
+            "source_link": "https://spacenews.com/senate-armed-services-defense-bill-includes-mandates-on-space-launch-missile-defense-spectrum-protection/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-13T08:33:23.494663Z",
+            "shown_at": [
+                "2025-07-13T08:33:23.968613Z",
+                "2025-07-13T12:19:27.765682Z"
+            ]
+        },
+        {
+            "id": "d5103e9269343470f61d273965d290da",
+            "source": "spacenews",
+            "text": "Firefly Aerospace files to go public",
+            "source_link": "https://spacenews.com/firefly-aerospace-files-to-go-public/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-13T00:47:53.287542Z",
+            "shown_at": [
+                "2025-07-13T00:47:54.518206Z"
+            ]
+        },
         {
             "id": "60ae9e56674d5cf60d90f9d58adbfb13",
             "source": "supercluster",
@@ -11128,73 +11165,6 @@
                 "2025-05-05T16:02:12.929412Z",
                 "2025-05-07T05:29:35.432710Z",
                 "2025-05-09T10:16:01.736951Z"
-            ]
-        },
-        {
-            "id": "37c94a36be807d13848810d97c6cb525",
-            "source": "spacenews",
-            "text": "The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight",
-            "source_link": "https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.177990Z",
-            "shown_at": [
-                "2025-05-05T15:47:41.543671Z",
-                "2025-05-09T09:20:08.588569Z",
-                "2025-05-09T12:51:51.162749Z",
-                "2025-05-09T21:47:29.347899Z"
-            ]
-        },
-        {
-            "id": "e4998c85a0297f48f0bf6beb760f574a",
-            "source": "spacenews",
-            "text": "Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference",
-            "source_link": "https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:17:44.499135Z",
-            "shown_at": [
-                "2025-05-05T15:33:45.166699Z",
-                "2025-05-07T06:27:53.877709Z",
-                "2025-05-09T07:19:29.151656Z",
-                "2025-05-10T12:02:15.684146Z"
-            ]
-        },
-        {
-            "id": "d5103e9269343470f61d273965d290da",
-            "source": "spacenews",
-            "text": "Firefly Aerospace files to go public",
-            "source_link": "https://spacenews.com/firefly-aerospace-files-to-go-public/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-13T00:47:53.287542Z",
-            "shown_at": [
-                "2025-07-13T00:47:54.518206Z"
-            ]
-        },
-        {
-            "id": "d5b6dae95d568c17d6150b38c3c4c526",
-            "source": "spacenews",
-            "text": "Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection",
-            "source_link": "https://spacenews.com/senate-armed-services-defense-bill-includes-mandates-on-space-launch-missile-defense-spectrum-protection/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-13T08:33:23.494663Z",
-            "shown_at": [
-                "2025-07-13T08:33:23.968613Z",
-                "2025-07-13T12:19:27.765682Z"
-            ]
-        },
-        {
-            "id": "7ffdc142b2ed716821875587015fba39",
-            "source": "spacenews",
-            "text": "Congress to push Pentagon to fund commercial satellite intelligence program",
-            "source_link": "https://spacenews.com/congress-to-push-pentagon-to-fund-commercial-satellite-intelligence-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-13T14:57:43.343362Z",
-            "shown_at": [
-                "2025-07-13T14:57:44.168540Z"
             ]
         }
     ]
