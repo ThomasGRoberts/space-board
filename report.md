@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 134 | 243 |
+| supercluster | 0 | 0 | 135 | 243 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5476,3 +5476,4 @@
 - **Jul 14, 04:59 PM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 14, 05:13 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 05:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 05:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
