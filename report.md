@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 26 | 52 |
+| spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 140 | 245 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5494,3 +5494,4 @@
 - **Jul 14, 06:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 06:39 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 06:53 PM** - Firefly Aerospace files to go public (spacenews)
+- **Jul 14, 07:07 PM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
