@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 51 |
-| supercluster | 0 | 0 | 133 | 231 |
+| supercluster | 0 | 0 | 132 | 231 |
 | nyt | 0 | 0 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5423,3 +5423,4 @@
 - **Jul 14, 11:37 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 11:39 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 14, 11:53 AM** - Industry doubts effectiveness of new launch licensing fees (spacenews)
+- **Jul 14, 12:07 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
