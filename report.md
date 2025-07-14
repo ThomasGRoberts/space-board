@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 27 | 52 |
+| spacenews | 4 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 126 | 231 |
 | nyt | 1 | 1 | 25 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5444,3 +5444,4 @@
 - **Jul 14, 01:43 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 01:45 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 14, 01:59 PM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
+- **Jul 14, 02:17 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
