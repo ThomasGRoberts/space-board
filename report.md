@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 140 | 245 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5482,3 +5482,4 @@
 - **Jul 14, 05:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 05:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 05:41 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
