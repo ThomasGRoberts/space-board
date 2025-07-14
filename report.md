@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 128 | 233 |
+| supercluster | 0 | 0 | 129 | 234 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5447,3 +5447,4 @@
 - **Jul 14, 02:17 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 14, 02:32 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 02:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 02:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
