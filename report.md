@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 27 | 52 |
 | supercluster | 0 | 0 | 154 | 252 |
 | nyt | 1 | 1 | 24 | 49 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5515,3 +5515,4 @@
 - **Jul 14, 08:33 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 14, 08:47 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 09:01 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
+- **Jul 14, 09:15 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
