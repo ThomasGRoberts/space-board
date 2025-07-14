@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 140 | 245 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5472,3 +5472,4 @@
 - **Jul 14, 04:39 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 04:41 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 04:43 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 04:45 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
