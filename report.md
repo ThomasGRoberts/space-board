@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 135 | 243 |
+| supercluster | 0 | 0 | 136 | 242 |
 | nyt | 1 | 1 | 24 | 49 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 
@@ -5467,3 +5467,4 @@
 - **Jul 14, 04:17 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 04:31 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
 - **Jul 14, 04:33 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 04:35 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
