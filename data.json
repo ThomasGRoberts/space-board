@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
+    "trigger_count": 0,
     "current_item_id": "60ae9e56674d5cf60d90f9d58adbfb13",
     "data": [
         {
@@ -10890,14 +10890,11 @@
             "source": "supercluster",
             "text": "China Will Launch Supplies To Tiangong Space Station",
             "source_link": "https://www.supercluster.com/launches/tianzhou-9",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-07-14T21:40:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-07-14T21:41:44.248863Z",
-            "shown_at": [
-                "2025-07-14T21:41:44.974408Z"
-            ]
+            "fetched_datetime": "2025-07-14T21:43:45.274464Z"
         }
     ]
 }

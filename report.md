@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 26 | 52 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 99 | 134 |
+| supercluster | 1 | 1 | 98 | 133 |
 
 # Shown Order
 
@@ -5355,4 +5355,3 @@
 - **Jul 14, 08:47 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 09:01 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
 - **Jul 14, 09:15 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
-- **Jul 14, 09:41 PM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
