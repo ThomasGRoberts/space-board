@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 114 | 213 |
+| supercluster | 0 | 0 | 115 | 213 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5346,3 +5346,4 @@
 - **Jul 14, 04:25 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 14, 04:39 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 14, 04:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 14, 04:43 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
