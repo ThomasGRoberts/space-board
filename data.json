@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "117d778027569f1ec6e2021fa70295ba",
     "data": [
         {
             "id": "7ffdc142b2ed716821875587015fba39",
@@ -10904,6 +10904,27 @@
                 "2025-07-14T22:51:45.508891Z",
                 "2025-07-14T22:53:13.840704Z"
             ]
+        },
+        {
+            "id": "117d778027569f1ec6e2021fa70295ba",
+            "source": "spacenews",
+            "text": "SES to close Intelsat deal July 17 after clearing all regulatory approvals",
+            "source_link": "https://spacenews.com/ses-to-close-intelsat-deal-july-17-after-clearing-all-regulatory-approvals/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T22:55:40.819208Z",
+            "shown_at": [
+                "2025-07-14T22:55:41.714344Z"
+            ]
+        },
+        {
+            "id": "9b033d7567a7ae6d6b6b7415843b122c",
+            "source": "spacenews",
+            "text": "China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits",
+            "source_link": "https://spacenews.com/china-launches-tianzhou-9-to-tiangong-space-station-with-record-cargo-and-upgraded-eva-suits/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T22:55:40.819261Z"
         }
     ]
 }
