@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ffdc142b2ed716821875587015fba39",
+    "trigger_count": 0,
+    "current_item_id": "20cfbf0513bce829651e483167d833a0",
     "data": [
         {
             "id": "7ffdc142b2ed716821875587015fba39",
@@ -10941,6 +10941,18 @@
             "fetched_datetime": "2025-07-14T11:53:41.158089Z",
             "shown_at": [
                 "2025-07-14T11:53:41.806094Z"
+            ]
+        },
+        {
+            "id": "20cfbf0513bce829651e483167d833a0",
+            "source": "spacenews",
+            "text": "Securing the new high ground: tackling export loopholes in space tech",
+            "source_link": "https://spacenews.com/securing-the-new-high-ground-tackling-export-loopholes-in-space-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T13:03:34.662422Z",
+            "shown_at": [
+                "2025-07-14T13:03:35.270750Z"
             ]
         }
     ]
