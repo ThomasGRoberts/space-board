@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 25 | 51 |
-| supercluster | 0 | 0 | 106 | 213 |
+| supercluster | 0 | 0 | 107 | 212 |
 | nyt | 0 | 0 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 
@@ -5335,3 +5335,4 @@
 - **Jul 14, 03:11 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 14, 03:29 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 14, 03:43 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
+- **Jul 14, 03:45 AM** - China Will Launch Supplies To Tiangong Space Station (supercluster)
