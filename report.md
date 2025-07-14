@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 26 | 51 |
+| spacenews | 6 | 9 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 98 | 140 |
@@ -5363,3 +5363,4 @@
 - **Jul 14, 10:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 14, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 14, 10:55 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
+- **Jul 14, 11:09 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)

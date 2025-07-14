@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 6,
-    "current_item_id": "117d778027569f1ec6e2021fa70295ba",
+    "trigger_count": 0,
+    "current_item_id": "9b033d7567a7ae6d6b6b7415843b122c",
     "data": [
         {
             "id": "7ffdc142b2ed716821875587015fba39",
@@ -10922,9 +10922,12 @@
             "source": "spacenews",
             "text": "China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits",
             "source_link": "https://spacenews.com/china-launches-tianzhou-9-to-tiangong-space-station-with-record-cargo-and-upgraded-eva-suits/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-14T22:55:40.819261Z"
+            "fetched_datetime": "2025-07-14T22:55:40.819261Z",
+            "shown_at": [
+                "2025-07-14T23:09:39.712523Z"
+            ]
         }
     ]
 }
