@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 99 | 134 |
+| supercluster | 0 | 0 | 100 | 135 |
 
 # Shown Order
 
@@ -5330,3 +5330,4 @@
 - **Jul 15, 01:31 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 01:59 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 15, 02:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 02:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
