@@ -5,7 +5,7 @@
 | spacenews | 9 | 12 | 30 | 56 |
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 127 | 204 |
+| supercluster | 1 | 1 | 128 | 205 |
 
 # Shown Order
 
@@ -5473,3 +5473,4 @@
 - **Jul 15, 05:17 PM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
 - **Jul 15, 05:33 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 15, 05:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 05:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
