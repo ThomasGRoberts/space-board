@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 28 | 53 |
+| spacenews | 7 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 107 | 163 |
+| supercluster | 0 | 0 | 108 | 164 |
 
 # Shown Order
 
@@ -5372,3 +5372,4 @@
 - **Jul 15, 06:03 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 15, 06:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 06:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 06:21 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
