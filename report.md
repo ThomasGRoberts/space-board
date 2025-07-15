@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 51 |
+| spacenews | 6 | 8 | 27 | 52 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 99 | 140 |
+| supercluster | 0 | 0 | 98 | 140 |
 
 # Shown Order
 
@@ -5338,3 +5338,4 @@
 - **Jul 15, 02:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 02:27 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 02:41 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 15, 02:55 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
