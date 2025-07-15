@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 51 |
+| spacenews | 6 | 8 | 27 | 52 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 108 | 154 |
+| supercluster | 0 | 0 | 105 | 154 |
 
 # Shown Order
 
@@ -5358,3 +5358,4 @@
 - **Jul 15, 04:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 04:19 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 04:33 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
+- **Jul 15, 04:53 AM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
