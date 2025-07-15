@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 52 |
-| supercluster | 1 | 1 | 105 | 147 |
+| spacenews | 6 | 8 | 26 | 51 |
+| supercluster | 1 | 1 | 106 | 148 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
@@ -5335,3 +5335,4 @@
 - **Jul 15, 01:03 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
 - **Jul 15, 01:17 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 01:31 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 01:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
