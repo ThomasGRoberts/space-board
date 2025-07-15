@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "trigger_count": 0,
+    "current_item_id": "99806d394311ba36967e5a13c79660ba",
     "data": [
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
@@ -10460,6 +10460,18 @@
             "fetched_datetime": "2025-07-15T17:17:38.993789Z",
             "shown_at": [
                 "2025-07-15T17:17:39.621918Z"
+            ]
+        },
+        {
+            "id": "99806d394311ba36967e5a13c79660ba",
+            "source": "spacenews",
+            "text": "Support from satellite services grows to 18% of UK GDP",
+            "source_link": "https://spacenews.com/support-from-satellite-services-grows-to-18-of-uk-gdp/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T23:05:26.343764Z",
+            "shown_at": [
+                "2025-07-15T23:05:26.845434Z"
             ]
         }
     ]
