@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 52 |
-| nyt | 1 | 1 | 23 | 47 |
+| spacenews | 6 | 8 | 27 | 53 |
+| nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 0 | 0 | 105 | 161 |
 
@@ -5368,3 +5368,4 @@
 - **Jul 15, 05:19 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 05:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 05:35 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
+- **Jul 15, 05:49 AM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
