@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 26 | 51 |
-| supercluster | 1 | 1 | 98 | 147 |
+| spacenews | 6 | 9 | 27 | 52 |
+| supercluster | 1 | 1 | 98 | 146 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
@@ -5322,3 +5322,4 @@
 - **Jul 14, 11:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 12:02 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 12:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 12:05 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
