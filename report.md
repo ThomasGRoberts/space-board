@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 28 | 53 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 114 | 184 |
+| supercluster | 0 | 0 | 115 | 185 |
 
 # Shown Order
 
@@ -5402,3 +5402,4 @@
 - **Jul 15, 08:55 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
 - **Jul 15, 09:10 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 09:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 09:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
