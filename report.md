@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 29 | 55 |
-| nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 119 | 189 |
+| nyt | 0 | 1 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| supercluster | 1 | 1 | 120 | 190 |
 
 # Shown Order
 
@@ -5431,3 +5431,4 @@
 - **Jul 15, 12:59 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
 - **Jul 15, 01:15 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 15, 01:29 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 01:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
