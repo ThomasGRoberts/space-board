@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 105 | 161 |
+| supercluster | 0 | 0 | 106 | 162 |
 
 # Shown Order
 
@@ -5370,3 +5370,4 @@
 - **Jul 15, 05:35 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 15, 05:49 AM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
 - **Jul 15, 06:03 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
+- **Jul 15, 06:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
