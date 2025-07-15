@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "trigger_count": 0,
+    "current_item_id": "c866f65a4eb375381f13bf09747811a5",
     "data": [
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
@@ -10958,6 +10958,18 @@
                 "2025-07-15T12:25:35.588463Z",
                 "2025-07-15T12:27:31.360454Z",
                 "2025-07-15T12:30:17.068755Z"
+            ]
+        },
+        {
+            "id": "c866f65a4eb375381f13bf09747811a5",
+            "source": "spacenews",
+            "text": "Space Force MILNET constellation emerges as top ‘unfunded priority’",
+            "source_link": "https://spacenews.com/space-force-milnet-constellation-emerges-as-top-unfunded-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T12:59:31.141271Z",
+            "shown_at": [
+                "2025-07-15T12:59:33.264565Z"
             ]
         }
     ]
