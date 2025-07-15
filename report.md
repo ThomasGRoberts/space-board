@@ -5,7 +5,7 @@
 | spacenews | 9 | 12 | 30 | 56 |
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 126 | 210 |
+| supercluster | 1 | 1 | 127 | 211 |
 
 # Shown Order
 
@@ -5482,3 +5482,4 @@
 - **Jul 15, 06:02 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 15, 06:17 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
 - **Jul 15, 06:32 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
