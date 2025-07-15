@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 26 | 51 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 0 | 0 | 105 | 140 |
 
 # Shown Order
@@ -5337,3 +5337,4 @@
 - **Jul 15, 02:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 02:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 02:27 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 15, 02:41 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
