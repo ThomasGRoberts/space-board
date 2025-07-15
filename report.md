@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 29 | 55 |
+| spacenews | 9 | 12 | 30 | 56 |
 | nyt | 0 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 133 | 206 |
+| supercluster | 1 | 1 | 133 | 205 |
 
 # Shown Order
 
@@ -5470,3 +5470,4 @@
 - **Jul 15, 04:48 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 04:49 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 05:03 PM** - Senate spending bill that overrides proposed NASA cuts held up in committee (spacenews)
+- **Jul 15, 05:17 PM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
