@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 29 | 56 |
 | nyt | 0 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 133 | 231 |
 
 # Shown Order
@@ -5511,3 +5511,4 @@
 - **Jul 15, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 08:53 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 09:09 PM** - Varda Space Industries raises $187 million (spacenews)
+- **Jul 15, 09:23 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
