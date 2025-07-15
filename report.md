@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 27 | 53 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 0 | 0 | 112 | 189 |
 
 # Shown Order
@@ -5411,3 +5411,4 @@
 - **Jul 15, 09:37 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 09:51 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
 - **Jul 15, 10:05 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 15, 10:19 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
