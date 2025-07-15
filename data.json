@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c3f0e75e3fdc2a038662f232a0e1f92f",
+    "trigger_count": 0,
+    "current_item_id": "0a96154f586188190d84a0de6043f42c",
     "data": [
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
@@ -10911,6 +10911,27 @@
             "shown_at": [
                 "2025-07-15T06:03:45.745486Z"
             ]
+        },
+        {
+            "id": "0a96154f586188190d84a0de6043f42c",
+            "source": "spacenews",
+            "text": "Ax-4 private astronaut mission returns to Earth",
+            "source_link": "https://spacenews.com/ax-4-private-astronaut-mission-returns-to-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T11:17:52.290169Z",
+            "shown_at": [
+                "2025-07-15T11:17:53.989880Z"
+            ]
+        },
+        {
+            "id": "bf9d68a51b5e8e3407c4033b0f043907",
+            "source": "spacenews",
+            "text": "The defense establishment’s AI awakening",
+            "source_link": "https://spacenews.com/the-defense-establishments-ai-awakening/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T11:17:52.290236Z"
         }
     ]
 }
