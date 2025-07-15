@@ -5,7 +5,7 @@
 | spacenews | 6 | 9 | 26 | 52 |
 | supercluster | 1 | 1 | 98 | 140 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 46 |
+| breaking_defense | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -5324,3 +5324,4 @@
 - **Jul 15, 12:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 12:05 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 15, 12:21 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 15, 12:35 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
