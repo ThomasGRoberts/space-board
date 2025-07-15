@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "39e40886dc6da4c2c192cd174561e39f",
+    "trigger_count": 0,
+    "current_item_id": "cba88fe2cb6d180e33cc86d46609dd58",
     "data": [
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
@@ -10853,6 +10853,18 @@
                 "2025-05-05T22:39:40.260893Z",
                 "2025-05-06T04:32:00.753473Z",
                 "2025-05-11T09:27:31.530085Z"
+            ]
+        },
+        {
+            "id": "cba88fe2cb6d180e33cc86d46609dd58",
+            "source": "spacenews",
+            "text": "Europe’s Space Act shows it’s getting serious about space policy",
+            "source_link": "https://spacenews.com/europes-space-act-shows-its-getting-serious-about-space-policy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T06:03:44.112144Z",
+            "shown_at": [
+                "2025-07-15T06:03:45.745486Z"
             ]
         }
     ]
