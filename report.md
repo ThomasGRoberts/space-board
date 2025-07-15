@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 106 | 176 |
+| supercluster | 0 | 0 | 107 | 177 |
 
 # Shown Order
 
@@ -5391,3 +5391,4 @@
 - **Jul 15, 07:43 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
 - **Jul 15, 07:57 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 15, 08:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 08:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
