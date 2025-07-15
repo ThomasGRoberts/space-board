@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-14T00:02:02.352763+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
+    "trigger_count": 5,
     "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
     "data": [
+        {
+            "id": "9b033d7567a7ae6d6b6b7415843b122c",
+            "source": "spacenews",
+            "text": "China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits",
+            "source_link": "https://spacenews.com/china-launches-tianzhou-9-to-tiangong-space-station-with-record-cargo-and-upgraded-eva-suits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T22:55:40.819261Z",
+            "shown_at": [
+                "2025-07-14T23:09:39.712523Z"
+            ]
+        },
+        {
+            "id": "117d778027569f1ec6e2021fa70295ba",
+            "source": "spacenews",
+            "text": "SES to close Intelsat deal July 17 after clearing all regulatory approvals",
+            "source_link": "https://spacenews.com/ses-to-close-intelsat-deal-july-17-after-clearing-all-regulatory-approvals/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T22:55:40.819208Z",
+            "shown_at": [
+                "2025-07-14T22:55:41.714344Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-15T02:13:00.000Z",
+            "time_remaining": "0d 03h 19m",
+            "fetched_datetime": "2025-07-14T22:41:51.205780Z",
+            "shown_at": [
+                "2025-07-14T22:41:52.322809Z",
+                "2025-07-14T22:43:29.532378Z",
+                "2025-07-14T22:45:42.372813Z",
+                "2025-07-14T22:47:31.610813Z",
+                "2025-07-14T22:49:31.391957Z",
+                "2025-07-14T22:51:45.508891Z",
+                "2025-07-14T22:53:13.840704Z"
+            ]
+        },
+        {
+            "id": "62a15926a215155f26a88a24543b1855",
+            "source": "spacenews",
+            "text": "House bill rejects overall NASA budget cuts but shifts funding to exploration",
+            "source_link": "https://spacenews.com/house-bill-rejects-overall-nasa-budget-cuts-but-shifts-funding-to-exploration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T21:01:55.452967Z",
+            "shown_at": [
+                "2025-07-14T21:01:56.979966Z"
+            ]
+        },
+        {
+            "id": "d1abf248c99405ea19fa0801bdcb5ca6",
+            "source": "nyt",
+            "text": "Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race",
+            "source_link": "https://www.nytimes.com/2025/07/14/science/apollo-soyuz-test-project-1975-anniversary.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T13:45:43.479308Z",
+            "shown_at": [
+                "2025-07-14T13:45:44.987365Z",
+                "2025-07-14T14:47:31.913564Z",
+                "2025-07-14T17:41:48.059374Z",
+                "2025-07-14T20:33:57.115418Z",
+                "2025-07-14T23:23:35.045113Z"
+            ]
+        },
+        {
+            "id": "20cfbf0513bce829651e483167d833a0",
+            "source": "spacenews",
+            "text": "Securing the new high ground: tackling export loopholes in space tech",
+            "source_link": "https://spacenews.com/securing-the-new-high-ground-tackling-export-loopholes-in-space-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T13:03:34.662422Z",
+            "shown_at": [
+                "2025-07-14T13:03:35.270750Z"
+            ]
+        },
+        {
+            "id": "e9e5fd69eb55455ab68db4729437381d",
+            "source": "spacenews",
+            "text": "Industry doubts effectiveness of new launch licensing fees",
+            "source_link": "https://spacenews.com/industry-doubts-effectiveness-of-new-launch-licensing-fees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T11:53:41.158089Z",
+            "shown_at": [
+                "2025-07-14T11:53:41.806094Z"
+            ]
+        },
+        {
+            "id": "ba758aadfd792c324669fb62b5e6264f",
+            "source": "spacenews",
+            "text": "China enters race for LEO broadband dominance",
+            "source_link": "https://spacenews.com/china-enters-race-for-leo-broadband-dominance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-14T11:11:38.639981Z",
+            "shown_at": [
+                "2025-07-14T11:11:39.223826Z",
+                "2025-07-14T20:47:41.670337Z"
+            ]
+        },
         {
             "id": "7ffdc142b2ed716821875587015fba39",
             "source": "spacenews",
@@ -857,7 +966,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-07-15T21:30:00.000Z",
-            "time_remaining": "0d 21h 30m",
+            "time_remaining": "0d 21h 27m",
             "fetched_datetime": "2025-07-08T09:21:34.695106Z",
             "shown_at": [
                 "2025-07-08T09:21:35.287065Z",
@@ -1414,7 +1523,8 @@
                 "2025-07-14T23:53:47.716459Z",
                 "2025-07-14T23:55:30.771112Z",
                 "2025-07-14T23:57:34.034098Z",
-                "2025-07-14T23:59:30.110027Z"
+                "2025-07-14T23:59:30.110027Z",
+                "2025-07-15T00:02:03.827699Z"
             ]
         },
         {
@@ -10708,232 +10818,6 @@
                 "2025-05-05T22:39:40.260893Z",
                 "2025-05-06T04:32:00.753473Z",
                 "2025-05-11T09:27:31.530085Z"
-            ]
-        },
-        {
-            "id": "9165092354b8b7dc27e4185073e24866",
-            "source": "spacenews",
-            "text": "Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5",
-            "source_link": "https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T21:43:30.427081Z",
-            "shown_at": [
-                "2025-05-05T21:43:30.937526Z",
-                "2025-05-06T02:35:32.975385Z",
-                "2025-05-08T17:59:49.823656Z",
-                "2025-05-09T08:19:34.360399Z",
-                "2025-05-10T08:01:57.927193Z",
-                "2025-05-10T14:57:32.916471Z",
-                "2025-05-12T10:17:29.498651Z"
-            ]
-        },
-        {
-            "id": "02bb096cd4f9ba1f360250bff41b0423",
-            "source": "breaking_defense",
-            "text": "Golden Dome’s need for more SBIs may moot savings from lower launch costs: CBO",
-            "source_link": "https://breakingdefense.com/2025/05/golden-domes-need-for-more-sbis-may-moot-savings-from-lower-launch-costs-cbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T21:02:00.607428Z",
-            "shown_at": [
-                "2025-05-05T21:02:01.236341Z",
-                "2025-05-06T02:21:36.272769Z",
-                "2025-05-06T06:22:09.556425Z",
-                "2025-05-06T12:32:03.228378Z",
-                "2025-05-06T15:02:30.360082Z",
-                "2025-05-06T16:19:09.133911Z",
-                "2025-05-06T19:11:46.162857Z",
-                "2025-05-06T20:07:30.358306Z",
-                "2025-05-06T23:21:36.771266Z",
-                "2025-05-07T05:43:50.841986Z",
-                "2025-05-07T16:17:40.578122Z",
-                "2025-05-07T20:58:01.476665Z",
-                "2025-05-08T02:59:31.272116Z",
-                "2025-05-08T04:53:46.170083Z",
-                "2025-05-08T08:49:33.684827Z",
-                "2025-05-08T14:23:34.457346Z",
-                "2025-05-09T04:57:43.986321Z",
-                "2025-05-09T15:17:41.366100Z",
-                "2025-05-09T21:03:33.322630Z",
-                "2025-05-10T20:24:13.100549Z",
-                "2025-05-11T04:53:31.587585Z",
-                "2025-05-11T05:51:36.585663Z",
-                "2025-05-11T10:37:32.270152Z",
-                "2025-05-11T12:32:02.308647Z",
-                "2025-05-11T17:21:45.228906Z",
-                "2025-05-11T19:17:30.970905Z",
-                "2025-05-12T06:47:41.413302Z",
-                "2025-05-12T19:31:52.547110Z"
-            ]
-        },
-        {
-            "id": "f0e945b989a11ef964a17e57ee9414da",
-            "source": "spacenews",
-            "text": "Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push",
-            "source_link": "https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T19:37:26.917111Z",
-            "shown_at": [
-                "2025-05-05T19:37:27.723411Z",
-                "2025-05-06T09:47:33.945815Z",
-                "2025-05-09T00:39:43.856085Z",
-                "2025-05-11T22:51:51.423476Z"
-            ]
-        },
-        {
-            "id": "19e6cdf71e5c337e806c65f629b7d581",
-            "source": "spacenews",
-            "text": "Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’",
-            "source_link": "https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T19:23:28.131480Z",
-            "shown_at": [
-                "2025-05-05T19:23:28.688671Z",
-                "2025-05-06T12:46:09.345484Z",
-                "2025-05-10T14:02:02.473826Z",
-                "2025-05-11T03:43:45.714543Z"
-            ]
-        },
-        {
-            "id": "25a754a455b9f954dc48fb7cdf3da094",
-            "source": "spacenews",
-            "text": "FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance",
-            "source_link": "https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178082Z",
-            "shown_at": [
-                "2025-05-05T16:17:45.596062Z",
-                "2025-05-10T17:19:42.177360Z",
-                "2025-05-10T22:03:30.135041Z",
-                "2025-05-11T21:55:29.359742Z",
-                "2025-05-12T14:02:04.969551Z"
-            ]
-        },
-        {
-            "id": "21bc4ab7769ce67941c4a33ac939ea53",
-            "source": "spacenews",
-            "text": "Defense Spending Drives Government Space Budgets to Historic High",
-            "source_link": "https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T15:47:40.178042Z",
-            "shown_at": [
-                "2025-05-05T16:02:12.929412Z",
-                "2025-05-07T05:29:35.432710Z",
-                "2025-05-09T10:16:01.736951Z"
-            ]
-        },
-        {
-            "id": "ba758aadfd792c324669fb62b5e6264f",
-            "source": "spacenews",
-            "text": "China enters race for LEO broadband dominance",
-            "source_link": "https://spacenews.com/china-enters-race-for-leo-broadband-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T11:11:38.639981Z",
-            "shown_at": [
-                "2025-07-14T11:11:39.223826Z",
-                "2025-07-14T20:47:41.670337Z"
-            ]
-        },
-        {
-            "id": "e9e5fd69eb55455ab68db4729437381d",
-            "source": "spacenews",
-            "text": "Industry doubts effectiveness of new launch licensing fees",
-            "source_link": "https://spacenews.com/industry-doubts-effectiveness-of-new-launch-licensing-fees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T11:53:41.158089Z",
-            "shown_at": [
-                "2025-07-14T11:53:41.806094Z"
-            ]
-        },
-        {
-            "id": "20cfbf0513bce829651e483167d833a0",
-            "source": "spacenews",
-            "text": "Securing the new high ground: tackling export loopholes in space tech",
-            "source_link": "https://spacenews.com/securing-the-new-high-ground-tackling-export-loopholes-in-space-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T13:03:34.662422Z",
-            "shown_at": [
-                "2025-07-14T13:03:35.270750Z"
-            ]
-        },
-        {
-            "id": "d1abf248c99405ea19fa0801bdcb5ca6",
-            "source": "nyt",
-            "text": "Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race",
-            "source_link": "https://www.nytimes.com/2025/07/14/science/apollo-soyuz-test-project-1975-anniversary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T13:45:43.479308Z",
-            "shown_at": [
-                "2025-07-14T13:45:44.987365Z",
-                "2025-07-14T14:47:31.913564Z",
-                "2025-07-14T17:41:48.059374Z",
-                "2025-07-14T20:33:57.115418Z",
-                "2025-07-14T23:23:35.045113Z"
-            ]
-        },
-        {
-            "id": "62a15926a215155f26a88a24543b1855",
-            "source": "spacenews",
-            "text": "House bill rejects overall NASA budget cuts but shifts funding to exploration",
-            "source_link": "https://spacenews.com/house-bill-rejects-overall-nasa-budget-cuts-but-shifts-funding-to-exploration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T21:01:55.452967Z",
-            "shown_at": [
-                "2025-07-14T21:01:56.979966Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-15T02:13:00.000Z",
-            "time_remaining": "0d 03h 19m",
-            "fetched_datetime": "2025-07-14T22:41:51.205780Z",
-            "shown_at": [
-                "2025-07-14T22:41:52.322809Z",
-                "2025-07-14T22:43:29.532378Z",
-                "2025-07-14T22:45:42.372813Z",
-                "2025-07-14T22:47:31.610813Z",
-                "2025-07-14T22:49:31.391957Z",
-                "2025-07-14T22:51:45.508891Z",
-                "2025-07-14T22:53:13.840704Z"
-            ]
-        },
-        {
-            "id": "117d778027569f1ec6e2021fa70295ba",
-            "source": "spacenews",
-            "text": "SES to close Intelsat deal July 17 after clearing all regulatory approvals",
-            "source_link": "https://spacenews.com/ses-to-close-intelsat-deal-july-17-after-clearing-all-regulatory-approvals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T22:55:40.819208Z",
-            "shown_at": [
-                "2025-07-14T22:55:41.714344Z"
-            ]
-        },
-        {
-            "id": "9b033d7567a7ae6d6b6b7415843b122c",
-            "source": "spacenews",
-            "text": "China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits",
-            "source_link": "https://spacenews.com/china-launches-tianzhou-9-to-tiangong-space-station-with-record-cargo-and-upgraded-eva-suits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T22:55:40.819261Z",
-            "shown_at": [
-                "2025-07-14T23:09:39.712523Z"
             ]
         }
     ]
