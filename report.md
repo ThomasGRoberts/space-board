@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 27 | 52 |
-| supercluster | 1 | 1 | 112 | 147 |
-| nyt | 1 | 1 | 22 | 47 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| nyt | 1 | 1 | 22 | 46 |
+| breaking_defense | 0 | 0 | 22 | 47 |
+| supercluster | 0 | 0 | 99 | 134 |
 
 # Shown Order
 
@@ -5304,13 +5304,6 @@
 - **Jul 14, 08:47 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 09:01 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
 - **Jul 14, 09:15 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
-- **Jul 14, 10:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 14, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 14, 10:55 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
 - **Jul 14, 11:09 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 14, 11:23 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
@@ -5335,11 +5328,5 @@
 - **Jul 15, 01:03 AM** - Space BD and Gilmour Space to partner on launch and satellite services (spacenews)
 - **Jul 15, 01:17 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 01:31 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
-- **Jul 15, 01:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 15, 01:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 01:59 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
+- **Jul 15, 02:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
