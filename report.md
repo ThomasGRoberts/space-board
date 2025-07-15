@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 26 | 52 |
-| supercluster | 1 | 1 | 98 | 140 |
+| spacenews | 6 | 8 | 26 | 51 |
+| supercluster | 1 | 1 | 99 | 141 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
@@ -5325,3 +5325,4 @@
 - **Jul 15, 12:05 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
 - **Jul 15, 12:21 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 15, 12:35 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 12:49 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
