@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 27 | 53 |
+| spacenews | 7 | 9 | 28 | 54 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 0 | 0 | 105 | 168 |
@@ -5379,3 +5379,4 @@
 - **Jul 15, 06:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 06:31 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 06:45 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 06:59 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
