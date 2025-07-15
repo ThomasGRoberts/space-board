@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 30 | 56 |
 | nyt | 0 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 130 | 203 |
+| breaking_defense | 0 | 0 | 23 | 48 |
+| supercluster | 1 | 1 | 129 | 203 |
 
 # Shown Order
 
@@ -5471,3 +5471,4 @@
 - **Jul 15, 04:49 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 05:03 PM** - Senate spending bill that overrides proposed NASA cuts held up in committee (spacenews)
 - **Jul 15, 05:17 PM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
+- **Jul 15, 05:33 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
