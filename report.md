@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 26 | 51 |
-| supercluster | 1 | 1 | 112 | 154 |
+| spacenews | 6 | 8 | 27 | 52 |
+| supercluster | 1 | 1 | 112 | 153 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 
@@ -5342,3 +5342,4 @@
 - **Jul 15, 01:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 01:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 01:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 01:59 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
