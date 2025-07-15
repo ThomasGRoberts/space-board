@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 29 | 55 |
 | nyt | 0 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 121 | 196 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| supercluster | 1 | 1 | 121 | 197 |
 
 # Shown Order
 
@@ -5441,3 +5441,4 @@
 - **Jul 15, 01:59 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 02:14 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 15, 02:29 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 15, 02:44 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
