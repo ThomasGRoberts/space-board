@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 27 | 53 |
+| spacenews | 7 | 9 | 28 | 54 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 0 | 0 | 105 | 175 |
@@ -5389,3 +5389,4 @@
 - **Jul 15, 07:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 07:29 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 07:43 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
+- **Jul 15, 07:57 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
