@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 27 | 52 |
-| nyt | 1 | 1 | 22 | 46 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 47 |
+| breaking_defense | 0 | 0 | 22 | 46 |
 | supercluster | 0 | 0 | 112 | 154 |
 
 # Shown Order
@@ -5356,3 +5356,4 @@
 - **Jul 15, 04:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 04:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 04:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 04:19 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
