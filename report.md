@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 28 | 53 |
-| nyt | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 0 | 0 | 112 | 189 |
 
@@ -5413,3 +5413,4 @@
 - **Jul 15, 10:05 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 10:19 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 15, 10:34 AM** - Honda still in R&D phase of reusable launch vehicle technology (spacenews)
+- **Jul 15, 10:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
