@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 25 | 47 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -4913,3 +4913,4 @@
 - **Jul 15, 11:05 PM** - Support from satellite services grows to 18% of UK GDP (spacenews)
 - **Jul 15, 11:19 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 15, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
