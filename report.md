@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 29 | 55 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 119 | 189 |
 
 # Shown Order
@@ -5430,3 +5430,4 @@
 - **Jul 15, 12:45 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 15, 12:59 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
 - **Jul 15, 01:15 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
+- **Jul 15, 01:29 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
