@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 29 | 55 |
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 133 | 210 |
 
@@ -5479,3 +5479,4 @@
 - **Jul 15, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 15, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 06:02 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
