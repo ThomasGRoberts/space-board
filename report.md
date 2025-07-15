@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 30 | 56 |
+| spacenews | 9 | 12 | 30 | 55 |
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 127 | 218 |
+| supercluster | 1 | 1 | 128 | 219 |
 
 # Shown Order
 
@@ -5493,3 +5493,4 @@
 - **Jul 15, 07:15 PM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 15, 07:29 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 15, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
