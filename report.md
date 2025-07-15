@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 109 | 175 |
+| breaking_defense | 0 | 0 | 23 | 48 |
+| supercluster | 0 | 0 | 108 | 175 |
 
 # Shown Order
 
@@ -5388,3 +5388,4 @@
 - **Jul 15, 07:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 07:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 15, 07:29 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 15, 07:43 AM** - Industry lobbies to protect Commerce space office at risk of cuts (breaking_defense)
