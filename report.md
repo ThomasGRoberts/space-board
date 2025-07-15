@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 29 | 55 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -4893,3 +4893,4 @@
 - **Jul 15, 09:09 PM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 15, 09:23 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 09:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 09:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
