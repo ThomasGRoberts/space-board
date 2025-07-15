@@ -5,7 +5,7 @@
 | spacenews | 6 | 8 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 0 | 0 | 99 | 141 |
+| supercluster | 0 | 0 | 100 | 142 |
 
 # Shown Order
 
@@ -5340,3 +5340,4 @@
 - **Jul 15, 02:41 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 15, 02:55 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 15, 03:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 03:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
