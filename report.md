@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| supercluster | 0 | 0 | 106 | 169 |
+| supercluster | 0 | 0 | 107 | 170 |
 
 # Shown Order
 
@@ -5381,3 +5381,4 @@
 - **Jul 15, 06:45 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 06:59 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 15, 07:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 15, 07:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
