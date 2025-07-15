@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 28 | 53 |
-| nyt | 1 | 1 | 22 | 47 |
+| nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 22 | 47 |
 | supercluster | 0 | 0 | 112 | 189 |
 
@@ -5410,3 +5410,4 @@
 - **Jul 15, 09:23 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 09:37 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 09:51 AM** - Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa (spacenews)
+- **Jul 15, 10:05 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
