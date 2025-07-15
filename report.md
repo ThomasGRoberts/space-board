@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 30 | 56 |
+| spacenews | 9 | 12 | 30 | 55 |
 | nyt | 0 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 127 | 225 |
+| supercluster | 1 | 1 | 128 | 226 |
 
 # Shown Order
 
@@ -5503,3 +5503,4 @@
 - **Jul 15, 08:11 PM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 15, 08:25 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 15, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 15, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
