@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 28 | 53 |
+| spacenews | 8 | 10 | 29 | 54 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | supercluster | 0 | 0 | 112 | 189 |
@@ -5416,3 +5416,4 @@
 - **Jul 15, 10:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 15, 11:02 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 15, 11:17 AM** - Ax-4 private astronaut mission returns to Earth (spacenews)
+- **Jul 15, 11:33 AM** - The defense establishment’s AI awakening (spacenews)

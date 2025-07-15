@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a96154f586188190d84a0de6043f42c",
+    "trigger_count": 0,
+    "current_item_id": "bf9d68a51b5e8e3407c4033b0f043907",
     "data": [
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
@@ -10929,9 +10929,12 @@
             "source": "spacenews",
             "text": "The defense establishment’s AI awakening",
             "source_link": "https://spacenews.com/the-defense-establishments-ai-awakening/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-15T11:17:52.290236Z"
+            "fetched_datetime": "2025-07-15T11:17:52.290236Z",
+            "shown_at": [
+                "2025-07-15T11:33:42.925970Z"
+            ]
         }
     ]
 }
