@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 28 | 54 |
 | nyt | 1 | 1 | 23 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 0 | 0 | 112 | 189 |
 
 # Shown Order
@@ -5418,3 +5418,4 @@
 - **Jul 15, 11:17 AM** - Ax-4 private astronaut mission returns to Earth (spacenews)
 - **Jul 15, 11:33 AM** - The defense establishment’s AI awakening (spacenews)
 - **Jul 15, 11:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 15, 12:02 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
