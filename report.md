@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 28 | 55 |
+| spacenews | 8 | 12 | 29 | 56 |
 | nyt | 1 | 1 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 119 | 189 |
@@ -5429,3 +5429,4 @@
 - **Jul 15, 12:32 PM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 15, 12:45 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 15, 12:59 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
+- **Jul 15, 01:15 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
