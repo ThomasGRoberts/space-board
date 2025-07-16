@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 53 |
 | nyt | 1 | 1 | 22 | 45 |
-| breaking_defense | 1 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 81 | 81 |
+| breaking_defense | 1 | 1 | 24 | 46 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4945,3 +4945,4 @@
 - **Jul 16, 06:49 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 16, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
