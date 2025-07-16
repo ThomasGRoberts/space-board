@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "2d6033562ae13e242a204623720cfadf",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10385,6 +10385,18 @@
             "fetched_datetime": "2025-07-16T09:15:29.016346Z",
             "shown_at": [
                 "2025-07-16T09:15:29.673797Z"
+            ]
+        },
+        {
+            "id": "2d6033562ae13e242a204623720cfadf",
+            "source": "spacenews",
+            "text": "Protestors rally behind NASA in the face of budget cuts and layoffs",
+            "source_link": "https://spacenews.com/protestors-rally-behind-nasa-in-the-face-of-budget-cuts-and-layoffs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T11:09:33.523277Z",
+            "shown_at": [
+                "2025-07-16T11:09:34.127341Z"
             ]
         }
     ]
