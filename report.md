@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 29 | 56 |
 | supercluster | 1 | 1 | 91 | 91 |
 | nyt | 0 | 1 | 25 | 47 |
-| breaking_defense | 0 | 0 | 24 | 46 |
+| breaking_defense | 0 | 0 | 25 | 47 |
 
 # Shown Order
 
@@ -4904,3 +4904,4 @@
 - **Jul 16, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 12:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 16, 01:02 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
+- **Jul 16, 01:15 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
