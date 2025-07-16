@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 27 | 54 |
-| nyt | 0 | 1 | 23 | 46 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -4830,3 +4830,4 @@
 - **Jul 16, 07:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 07:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 16, 07:37 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
+- **Jul 16, 07:51 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
