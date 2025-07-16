@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 24 | 53 |
+| spacenews | 7 | 15 | 24 | 52 |
 | nyt | 1 | 1 | 22 | 45 |
 | breaking_defense | 2 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -4965,3 +4965,4 @@
 - **Jul 16, 08:43 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 16, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 09:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
