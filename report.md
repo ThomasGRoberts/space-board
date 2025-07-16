@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -4860,3 +4860,4 @@
 - **Jul 16, 10:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 10:13 AM** - Industry doubts effectiveness of new launch licensing fees (spacenews)
 - **Jul 16, 10:27 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 16, 10:41 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
