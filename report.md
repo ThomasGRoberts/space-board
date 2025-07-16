@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 27 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -4840,3 +4840,4 @@
 - **Jul 16, 08:18 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 08:19 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 08:33 AM** - Securing the new high ground: tackling export loopholes in space tech (spacenews)
+- **Jul 16, 08:47 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
