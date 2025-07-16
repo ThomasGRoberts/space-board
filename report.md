@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 54 |
 | nyt | 1 | 1 | 23 | 45 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
@@ -4942,3 +4942,4 @@
 - **Jul 16, 06:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 06:21 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 16, 06:35 PM** - China enters race for LEO broadband dominance (spacenews)
+- **Jul 16, 06:49 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
