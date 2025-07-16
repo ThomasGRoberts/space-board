@@ -4826,4 +4826,4 @@
 - **Jul 16, 05:13 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 05:27 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 16, 05:55 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
-- **Jul 16, 06:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jul 16, 06:58 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
