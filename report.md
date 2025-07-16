@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 28 | 54 |
+| spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -4819,3 +4819,4 @@
 - **Jul 16, 03:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 03:07 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 16, 03:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 16, 03:35 AM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
