@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "d344da11cd4abdd94025e46db4bbfb22",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10428,6 +10428,27 @@
             "shown_at": [
                 "2025-07-16T12:07:33.611549Z"
             ]
+        },
+        {
+            "id": "d344da11cd4abdd94025e46db4bbfb22",
+            "source": "spacenews",
+            "text": "The urgent need for new rules of the road in space and cyber",
+            "source_link": "https://spacenews.com/the-urgent-need-for-new-rules-of-the-road-in-space-and-cyber/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T13:05:25.853039Z",
+            "shown_at": [
+                "2025-07-16T13:05:26.548197Z"
+            ]
+        },
+        {
+            "id": "34041d9b0231430200543fba97931ba3",
+            "source": "spacenews",
+            "text": "Solestial wins $1.2 million SpaceWERX contract",
+            "source_link": "https://spacenews.com/solestial-wins-1-2-million-spacewerx-contract/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T13:05:25.853105Z"
         }
     ]
 }
