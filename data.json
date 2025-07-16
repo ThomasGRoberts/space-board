@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "41c3d55a928d2ff7372ee82fe4603cbb",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10354,6 +10354,18 @@
             "fetched_datetime": "2025-07-16T07:37:24.466083Z",
             "shown_at": [
                 "2025-07-16T07:37:25.040281Z"
+            ]
+        },
+        {
+            "id": "41c3d55a928d2ff7372ee82fe4603cbb",
+            "source": "spacenews",
+            "text": "New study calls for rapid development of space nuclear power systems",
+            "source_link": "https://spacenews.com/new-study-calls-for-rapid-development-of-space-nuclear-power-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T09:15:29.016346Z",
+            "shown_at": [
+                "2025-07-16T09:15:29.673797Z"
             ]
         }
     ]
