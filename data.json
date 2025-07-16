@@ -1,9 +1,192 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-15T00:02:02.688158+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1110e5d88a17a9517758ddcc22809913",
+    "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
+    "trigger_count": 0,
+    "current_item_id": "12512a69e7be99bfdd88a35518637fd3",
     "data": [
+        {
+            "id": "99806d394311ba36967e5a13c79660ba",
+            "source": "spacenews",
+            "text": "Support from satellite services grows to 18% of UK GDP",
+            "source_link": "https://spacenews.com/support-from-satellite-services-grows-to-18-of-uk-gdp/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T23:05:26.343764Z",
+            "shown_at": [
+                "2025-07-15T23:05:26.845434Z"
+            ]
+        },
+        {
+            "id": "41329f3c1ad80b0590d8d30a6cd18e5c",
+            "source": "spacenews",
+            "text": "Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface",
+            "source_link": "https://spacenews.com/frontgrade-introduces-the-industrys-highest-density-space-grade-managed-nand-with-emmc-5-1-interface/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T17:17:38.993789Z",
+            "shown_at": [
+                "2025-07-15T17:17:39.621918Z"
+            ]
+        },
+        {
+            "id": "f229a9ebbcebd5f7e75a34733d99d448",
+            "source": "spacenews",
+            "text": "Open letter from the Global Space Council: Governments must address a growing crisis in our orbits",
+            "source_link": "https://spacenews.com/open-letter-from-the-global-space-council-governments-must-address-a-growing-crisis-in-our-orbits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T13:15:42.570738Z",
+            "shown_at": [
+                "2025-07-15T13:15:43.171986Z"
+            ]
+        },
+        {
+            "id": "c866f65a4eb375381f13bf09747811a5",
+            "source": "spacenews",
+            "text": "Space Force MILNET constellation emerges as top ‘unfunded priority’",
+            "source_link": "https://spacenews.com/space-force-milnet-constellation-emerges-as-top-unfunded-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T12:59:31.141271Z",
+            "shown_at": [
+                "2025-07-15T12:59:33.264565Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-16T02:05:00.000Z",
+            "time_remaining": "0d 02h 19m",
+            "fetched_datetime": "2025-07-15T12:17:53.509208Z",
+            "shown_at": [
+                "2025-07-15T12:17:55.127619Z",
+                "2025-07-15T12:19:42.552075Z",
+                "2025-07-15T12:21:08.117327Z",
+                "2025-07-15T12:23:53.315586Z",
+                "2025-07-15T12:25:35.588463Z",
+                "2025-07-15T12:27:31.360454Z",
+                "2025-07-15T12:30:17.068755Z",
+                "2025-07-15T13:45:50.849217Z",
+                "2025-07-15T13:47:37.771372Z",
+                "2025-07-15T13:49:58.914207Z",
+                "2025-07-15T13:51:31.055419Z",
+                "2025-07-15T13:53:54.763807Z",
+                "2025-07-15T13:55:38.748275Z",
+                "2025-07-15T13:57:27.296562Z",
+                "2025-07-15T14:44:06.343861Z",
+                "2025-07-15T14:45:40.932308Z",
+                "2025-07-15T14:47:42.831528Z",
+                "2025-07-15T14:49:11.874879Z",
+                "2025-07-15T14:51:55.481380Z",
+                "2025-07-15T14:53:33.342190Z",
+                "2025-07-15T14:55:35.164627Z",
+                "2025-07-15T15:39:35.591842Z",
+                "2025-07-15T15:41:46.244553Z",
+                "2025-07-15T15:43:47.324249Z",
+                "2025-07-15T15:45:28.133686Z",
+                "2025-07-15T15:47:36.936429Z",
+                "2025-07-15T15:49:40.387357Z",
+                "2025-07-15T15:51:36.194702Z",
+                "2025-07-15T16:35:46.177123Z",
+                "2025-07-15T16:37:54.536612Z",
+                "2025-07-15T16:39:41.125304Z",
+                "2025-07-15T16:41:42.733266Z",
+                "2025-07-15T16:43:36.371131Z",
+                "2025-07-15T16:45:12.567216Z",
+                "2025-07-15T16:48:02.397736Z",
+                "2025-07-15T17:47:58.776540Z",
+                "2025-07-15T17:49:41.028874Z",
+                "2025-07-15T17:51:26.725861Z",
+                "2025-07-15T17:53:51.161142Z",
+                "2025-07-15T17:55:38.816412Z",
+                "2025-07-15T17:57:28.560595Z",
+                "2025-07-15T17:59:08.810740Z",
+                "2025-07-15T18:45:26.973772Z",
+                "2025-07-15T18:47:09.755601Z",
+                "2025-07-15T18:49:30.387016Z",
+                "2025-07-15T18:51:34.812129Z",
+                "2025-07-15T18:53:35.643875Z",
+                "2025-07-15T18:55:14.667226Z",
+                "2025-07-15T18:57:37.946365Z",
+                "2025-07-15T19:43:35.916204Z",
+                "2025-07-15T19:45:40.194034Z",
+                "2025-07-15T19:47:38.193368Z",
+                "2025-07-15T19:49:32.042726Z",
+                "2025-07-15T19:51:56.126703Z",
+                "2025-07-15T19:53:09.413101Z",
+                "2025-07-15T19:55:30.569704Z",
+                "2025-07-15T20:39:32.345897Z",
+                "2025-07-15T20:41:40.220520Z",
+                "2025-07-15T20:43:40.581388Z",
+                "2025-07-15T20:45:15.788369Z",
+                "2025-07-15T20:47:36.119738Z",
+                "2025-07-15T20:49:46.246501Z",
+                "2025-07-15T20:51:33.852213Z",
+                "2025-07-15T21:37:52.929657Z",
+                "2025-07-15T21:39:40.097577Z",
+                "2025-07-15T21:41:44.757319Z",
+                "2025-07-15T21:43:44.733781Z",
+                "2025-07-15T21:45:40.374306Z",
+                "2025-07-15T21:47:30.218831Z",
+                "2025-07-15T21:49:44.548563Z",
+                "2025-07-15T22:35:27.958335Z",
+                "2025-07-15T22:37:30.899052Z",
+                "2025-07-15T22:39:45.925871Z",
+                "2025-07-15T22:41:40.803930Z",
+                "2025-07-15T22:43:58.566523Z",
+                "2025-07-15T22:45:51.337100Z",
+                "2025-07-15T22:47:43.487476Z",
+                "2025-07-15T23:33:32.598747Z",
+                "2025-07-15T23:35:55.087562Z",
+                "2025-07-15T23:37:25.046506Z",
+                "2025-07-15T23:39:19.407426Z",
+                "2025-07-15T23:41:50.444573Z",
+                "2025-07-15T23:43:35.613472Z",
+                "2025-07-15T23:45:39.665162Z"
+            ]
+        },
+        {
+            "id": "bf9d68a51b5e8e3407c4033b0f043907",
+            "source": "spacenews",
+            "text": "The defense establishment’s AI awakening",
+            "source_link": "https://spacenews.com/the-defense-establishments-ai-awakening/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T11:17:52.290236Z",
+            "shown_at": [
+                "2025-07-15T11:33:42.925970Z"
+            ]
+        },
+        {
+            "id": "0a96154f586188190d84a0de6043f42c",
+            "source": "spacenews",
+            "text": "Ax-4 private astronaut mission returns to Earth",
+            "source_link": "https://spacenews.com/ax-4-private-astronaut-mission-returns-to-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T11:17:52.290169Z",
+            "shown_at": [
+                "2025-07-15T11:17:53.989880Z"
+            ]
+        },
+        {
+            "id": "cba88fe2cb6d180e33cc86d46609dd58",
+            "source": "spacenews",
+            "text": "Europe’s Space Act shows it’s getting serious about space policy",
+            "source_link": "https://spacenews.com/europes-space-act-shows-its-getting-serious-about-space-policy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-15T06:03:44.112144Z",
+            "shown_at": [
+                "2025-07-15T06:03:45.745486Z",
+                "2025-07-15T15:11:41.533377Z",
+                "2025-07-15T22:05:41.395744Z"
+            ]
+        },
         {
             "id": "9b033d7567a7ae6d6b6b7415843b122c",
             "source": "spacenews",
@@ -423,7 +606,8 @@
             "shown_at": [
                 "2025-07-10T10:41:34.439905Z",
                 "2025-07-12T08:31:50.654924Z",
-                "2025-07-14T19:51:38.897087Z"
+                "2025-07-14T19:51:38.897087Z",
+                "2025-07-16T00:02:25.911480Z"
             ]
         },
         {
@@ -10205,282 +10389,6 @@
                 "2025-05-12T14:29:58.316619Z",
                 "2025-05-13T05:47:34.564895Z",
                 "2025-05-13T07:41:55.836224Z"
-            ]
-        },
-        {
-            "id": "6e87eeae69eebac334324661768fc824",
-            "source": "spacenews",
-            "text": "Space Force awards contracts for missile-warning ground systems",
-            "source_link": "https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-06T18:41:47.618896Z",
-            "shown_at": [
-                "2025-05-06T18:41:48.635996Z",
-                "2025-05-06T19:39:34.385740Z",
-                "2025-05-08T17:03:57.464520Z",
-                "2025-05-10T19:11:45.316307Z",
-                "2025-05-11T07:33:46.325286Z",
-                "2025-05-13T05:05:45.823242Z"
-            ]
-        },
-        {
-            "id": "e7bdb79427454bb5c41e090288281c58",
-            "source": "spacenews",
-            "text": "SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract",
-            "source_link": "https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-06T16:47:40.111184Z",
-            "shown_at": [
-                "2025-05-06T16:47:41.146195Z",
-                "2025-05-08T05:23:43.800479Z",
-                "2025-05-09T14:03:38.670766Z",
-                "2025-05-10T09:53:34.437341Z",
-                "2025-05-10T21:07:38.828848Z"
-            ]
-        },
-        {
-            "id": "490139f097ebdc5332f88cb629d7c16b",
-            "source": "spacenews",
-            "text": "SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation",
-            "source_link": "https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-06T16:05:34.452046Z",
-            "shown_at": [
-                "2025-05-06T16:05:35.154626Z",
-                "2025-05-07T11:25:40.272597Z",
-                "2025-05-08T10:13:35.229557Z",
-                "2025-05-12T07:20:01.388243Z",
-                "2025-05-13T06:02:24.536904Z"
-            ]
-        },
-        {
-            "id": "8815d2bddf4d996c858f7626e2766c74",
-            "source": "spacenews",
-            "text": "Starlink Outpaces Launches: SpaceX Enters New Era of Profitability",
-            "source_link": "https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-06T14:19:31.355538Z",
-            "shown_at": [
-                "2025-05-06T14:19:32.030748Z",
-                "2025-05-07T16:02:19.919797Z",
-                "2025-05-08T03:27:31.726530Z",
-                "2025-05-11T02:47:30.137403Z"
-            ]
-        },
-        {
-            "id": "58c96258e1c60372e4342bedc083d923",
-            "source": "spacenews",
-            "text": "The U.S. is risking its economic and defense leadership in low Earth orbit ",
-            "source_link": "https://spacenews.com/the-u-s-is-risking-its-economic-and-defense-leadership-in-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-06T13:03:11.636031Z",
-            "shown_at": [
-                "2025-05-06T13:03:12.185265Z",
-                "2025-05-07T04:33:29.954370Z",
-                "2025-05-09T19:49:10.679473Z",
-                "2025-05-11T00:53:28.326297Z"
-            ]
-        },
-        {
-            "id": "a42b51070663e93e392f68cce0767e50",
-            "source": "spacenews",
-            "text": "NASA budget proposal draws strong criticism",
-            "source_link": "https://spacenews.com/nasa-budget-proposal-draws-strong-criticism/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-05T22:39:39.654505Z",
-            "shown_at": [
-                "2025-05-05T22:39:40.260893Z",
-                "2025-05-06T04:32:00.753473Z",
-                "2025-05-11T09:27:31.530085Z"
-            ]
-        },
-        {
-            "id": "cba88fe2cb6d180e33cc86d46609dd58",
-            "source": "spacenews",
-            "text": "Europe’s Space Act shows it’s getting serious about space policy",
-            "source_link": "https://spacenews.com/europes-space-act-shows-its-getting-serious-about-space-policy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T06:03:44.112144Z",
-            "shown_at": [
-                "2025-07-15T06:03:45.745486Z",
-                "2025-07-15T15:11:41.533377Z",
-                "2025-07-15T22:05:41.395744Z"
-            ]
-        },
-        {
-            "id": "0a96154f586188190d84a0de6043f42c",
-            "source": "spacenews",
-            "text": "Ax-4 private astronaut mission returns to Earth",
-            "source_link": "https://spacenews.com/ax-4-private-astronaut-mission-returns-to-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T11:17:52.290169Z",
-            "shown_at": [
-                "2025-07-15T11:17:53.989880Z"
-            ]
-        },
-        {
-            "id": "bf9d68a51b5e8e3407c4033b0f043907",
-            "source": "spacenews",
-            "text": "The defense establishment’s AI awakening",
-            "source_link": "https://spacenews.com/the-defense-establishments-ai-awakening/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T11:17:52.290236Z",
-            "shown_at": [
-                "2025-07-15T11:33:42.925970Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-15-2",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-16T02:05:00.000Z",
-            "time_remaining": "0d 02h 19m",
-            "fetched_datetime": "2025-07-15T12:17:53.509208Z",
-            "shown_at": [
-                "2025-07-15T12:17:55.127619Z",
-                "2025-07-15T12:19:42.552075Z",
-                "2025-07-15T12:21:08.117327Z",
-                "2025-07-15T12:23:53.315586Z",
-                "2025-07-15T12:25:35.588463Z",
-                "2025-07-15T12:27:31.360454Z",
-                "2025-07-15T12:30:17.068755Z",
-                "2025-07-15T13:45:50.849217Z",
-                "2025-07-15T13:47:37.771372Z",
-                "2025-07-15T13:49:58.914207Z",
-                "2025-07-15T13:51:31.055419Z",
-                "2025-07-15T13:53:54.763807Z",
-                "2025-07-15T13:55:38.748275Z",
-                "2025-07-15T13:57:27.296562Z",
-                "2025-07-15T14:44:06.343861Z",
-                "2025-07-15T14:45:40.932308Z",
-                "2025-07-15T14:47:42.831528Z",
-                "2025-07-15T14:49:11.874879Z",
-                "2025-07-15T14:51:55.481380Z",
-                "2025-07-15T14:53:33.342190Z",
-                "2025-07-15T14:55:35.164627Z",
-                "2025-07-15T15:39:35.591842Z",
-                "2025-07-15T15:41:46.244553Z",
-                "2025-07-15T15:43:47.324249Z",
-                "2025-07-15T15:45:28.133686Z",
-                "2025-07-15T15:47:36.936429Z",
-                "2025-07-15T15:49:40.387357Z",
-                "2025-07-15T15:51:36.194702Z",
-                "2025-07-15T16:35:46.177123Z",
-                "2025-07-15T16:37:54.536612Z",
-                "2025-07-15T16:39:41.125304Z",
-                "2025-07-15T16:41:42.733266Z",
-                "2025-07-15T16:43:36.371131Z",
-                "2025-07-15T16:45:12.567216Z",
-                "2025-07-15T16:48:02.397736Z",
-                "2025-07-15T17:47:58.776540Z",
-                "2025-07-15T17:49:41.028874Z",
-                "2025-07-15T17:51:26.725861Z",
-                "2025-07-15T17:53:51.161142Z",
-                "2025-07-15T17:55:38.816412Z",
-                "2025-07-15T17:57:28.560595Z",
-                "2025-07-15T17:59:08.810740Z",
-                "2025-07-15T18:45:26.973772Z",
-                "2025-07-15T18:47:09.755601Z",
-                "2025-07-15T18:49:30.387016Z",
-                "2025-07-15T18:51:34.812129Z",
-                "2025-07-15T18:53:35.643875Z",
-                "2025-07-15T18:55:14.667226Z",
-                "2025-07-15T18:57:37.946365Z",
-                "2025-07-15T19:43:35.916204Z",
-                "2025-07-15T19:45:40.194034Z",
-                "2025-07-15T19:47:38.193368Z",
-                "2025-07-15T19:49:32.042726Z",
-                "2025-07-15T19:51:56.126703Z",
-                "2025-07-15T19:53:09.413101Z",
-                "2025-07-15T19:55:30.569704Z",
-                "2025-07-15T20:39:32.345897Z",
-                "2025-07-15T20:41:40.220520Z",
-                "2025-07-15T20:43:40.581388Z",
-                "2025-07-15T20:45:15.788369Z",
-                "2025-07-15T20:47:36.119738Z",
-                "2025-07-15T20:49:46.246501Z",
-                "2025-07-15T20:51:33.852213Z",
-                "2025-07-15T21:37:52.929657Z",
-                "2025-07-15T21:39:40.097577Z",
-                "2025-07-15T21:41:44.757319Z",
-                "2025-07-15T21:43:44.733781Z",
-                "2025-07-15T21:45:40.374306Z",
-                "2025-07-15T21:47:30.218831Z",
-                "2025-07-15T21:49:44.548563Z",
-                "2025-07-15T22:35:27.958335Z",
-                "2025-07-15T22:37:30.899052Z",
-                "2025-07-15T22:39:45.925871Z",
-                "2025-07-15T22:41:40.803930Z",
-                "2025-07-15T22:43:58.566523Z",
-                "2025-07-15T22:45:51.337100Z",
-                "2025-07-15T22:47:43.487476Z",
-                "2025-07-15T23:33:32.598747Z",
-                "2025-07-15T23:35:55.087562Z",
-                "2025-07-15T23:37:25.046506Z",
-                "2025-07-15T23:39:19.407426Z",
-                "2025-07-15T23:41:50.444573Z",
-                "2025-07-15T23:43:35.613472Z",
-                "2025-07-15T23:45:39.665162Z"
-            ]
-        },
-        {
-            "id": "c866f65a4eb375381f13bf09747811a5",
-            "source": "spacenews",
-            "text": "Space Force MILNET constellation emerges as top ‘unfunded priority’",
-            "source_link": "https://spacenews.com/space-force-milnet-constellation-emerges-as-top-unfunded-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T12:59:31.141271Z",
-            "shown_at": [
-                "2025-07-15T12:59:33.264565Z"
-            ]
-        },
-        {
-            "id": "f229a9ebbcebd5f7e75a34733d99d448",
-            "source": "spacenews",
-            "text": "Open letter from the Global Space Council: Governments must address a growing crisis in our orbits",
-            "source_link": "https://spacenews.com/open-letter-from-the-global-space-council-governments-must-address-a-growing-crisis-in-our-orbits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T13:15:42.570738Z",
-            "shown_at": [
-                "2025-07-15T13:15:43.171986Z"
-            ]
-        },
-        {
-            "id": "41329f3c1ad80b0590d8d30a6cd18e5c",
-            "source": "spacenews",
-            "text": "Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface",
-            "source_link": "https://spacenews.com/frontgrade-introduces-the-industrys-highest-density-space-grade-managed-nand-with-emmc-5-1-interface/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T17:17:38.993789Z",
-            "shown_at": [
-                "2025-07-15T17:17:39.621918Z"
-            ]
-        },
-        {
-            "id": "99806d394311ba36967e5a13c79660ba",
-            "source": "spacenews",
-            "text": "Support from satellite services grows to 18% of UK GDP",
-            "source_link": "https://spacenews.com/support-from-satellite-services-grows-to-18-of-uk-gdp/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T23:05:26.343764Z",
-            "shown_at": [
-                "2025-07-15T23:05:26.845434Z"
             ]
         }
     ]
