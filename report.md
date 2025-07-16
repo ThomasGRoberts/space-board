@@ -5,6 +5,7 @@
 | spacenews | 7 | 13 | 29 | 56 |
 | nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 47 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -4815,3 +4816,4 @@
 - **Jul 16, 01:15 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
+- **Jul 16, 02:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
