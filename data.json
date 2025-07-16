@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d1abf248c99405ea19fa0801bdcb5ca6",
+    "trigger_count": 0,
+    "current_item_id": "ad3400d2a0a6766d6cb45f76c509fd46",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10324,6 +10324,18 @@
             "shown_at": [
                 "2025-07-16T07:19:36.304275Z",
                 "2025-07-16T07:21:46.823703Z"
+            ]
+        },
+        {
+            "id": "ad3400d2a0a6766d6cb45f76c509fd46",
+            "source": "spacenews",
+            "text": "House Armed Services Committee advances FY26 NDAA ",
+            "source_link": "https://spacenews.com/house-armed-services-committee-advances-fy26-ndaa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T07:37:24.466083Z",
+            "shown_at": [
+                "2025-07-16T07:37:25.040281Z"
             ]
         }
     ]

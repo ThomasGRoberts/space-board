@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 53 |
+| spacenews | 7 | 14 | 27 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4829,3 +4829,4 @@
 - **Jul 16, 07:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 07:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 07:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 16, 07:37 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
