@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 24 | 54 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 22 | 47 |
 | breaking_defense | 2 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 
 # Shown Order
 
@@ -4984,3 +4984,4 @@
 - **Jul 16, 10:21 PM** - Space industry sticks with single-use satellite model despite new technologies (spacenews)
 - **Jul 16, 10:35 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 16, 10:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 10:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
