@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 54 |
 | nyt | 1 | 1 | 23 | 45 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
@@ -4962,3 +4962,4 @@
 - **Jul 16, 08:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 08:15 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 16, 08:29 PM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
+- **Jul 16, 08:43 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "41329f3c1ad80b0590d8d30a6cd18e5c",
+    "trigger_count": 0,
+    "current_item_id": "6db14a2de15805c820460e7ac43d4570",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10545,6 +10545,18 @@
             "shown_at": [
                 "2025-07-16T17:49:38.858069Z",
                 "2025-07-16T18:49:41.200683Z"
+            ]
+        },
+        {
+            "id": "6db14a2de15805c820460e7ac43d4570",
+            "source": "breaking_defense",
+            "text": "Trump taps new Air Force, Space Force No. 2s",
+            "source_link": "https://breakingdefense.com/2025/07/trump-taps-new-air-force-space-force-no-2s/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T20:43:29.438962Z",
+            "shown_at": [
+                "2025-07-16T20:43:30.131179Z"
             ]
         }
     ]
