@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 24 | 53 |
 | nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 2 | 2 | 23 | 46 |
+| breaking_defense | 2 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
@@ -4972,3 +4972,4 @@
 - **Jul 16, 09:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 09:11 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 16, 09:25 PM** - Securing the new high ground: tackling export loopholes in space tech (spacenews)
+- **Jul 16, 09:39 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
