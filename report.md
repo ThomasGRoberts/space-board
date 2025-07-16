@@ -4816,4 +4816,4 @@
 - **Jul 16, 01:15 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
-- **Jul 16, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 03:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
