@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 25 | 53 |
-| nyt | 0 | 0 | 22 | 45 |
+| spacenews | 8 | 16 | 24 | 53 |
+| nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 58 | 58 |
 
@@ -4909,3 +4909,4 @@
 - **Jul 16, 03:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 03:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 03:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 03:13 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "7b9547733468a29a3f01e748803d910d",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10470,6 +10470,18 @@
             "fetched_datetime": "2025-07-16T13:05:25.853105Z",
             "shown_at": [
                 "2025-07-16T13:19:39.734988Z"
+            ]
+        },
+        {
+            "id": "7b9547733468a29a3f01e748803d910d",
+            "source": "nyt",
+            "text": "New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found",
+            "source_link": "https://www.nytimes.com/2025/07/16/science/antimatter-lhcb-baryons.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T15:13:46.412227Z",
+            "shown_at": [
+                "2025-07-16T15:13:47.028524Z"
             ]
         }
     ]
