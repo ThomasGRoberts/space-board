@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d344da11cd4abdd94025e46db4bbfb22",
+    "trigger_count": 0,
+    "current_item_id": "34041d9b0231430200543fba97931ba3",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10446,9 +10446,12 @@
             "source": "spacenews",
             "text": "Solestial wins $1.2 million SpaceWERX contract",
             "source_link": "https://spacenews.com/solestial-wins-1-2-million-spacewerx-contract/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-16T13:05:25.853105Z"
+            "fetched_datetime": "2025-07-16T13:05:25.853105Z",
+            "shown_at": [
+                "2025-07-16T13:19:39.734988Z"
+            ]
         }
     ]
 }

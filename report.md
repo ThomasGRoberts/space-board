@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 53 |
+| spacenews | 8 | 16 | 25 | 54 |
 | nyt | 0 | 1 | 22 | 45 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
@@ -4889,3 +4889,4 @@
 - **Jul 16, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 01:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 01:05 PM** - The urgent need for new rules of the road in space and cyber (spacenews)
+- **Jul 16, 01:19 PM** - Solestial wins $1.2 million SpaceWERX contract (spacenews)
