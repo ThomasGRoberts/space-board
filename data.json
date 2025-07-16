@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-16T00:02:19.888685+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8783523f2b43a25da64f837dbf1bcf86",
+    "trigger_count": 0,
+    "current_item_id": "d7c74070667165036bcb15b50a1e4921",
     "data": [
         {
             "id": "99806d394311ba36967e5a13c79660ba",
@@ -10504,6 +10504,18 @@
             "shown_at": [
                 "2025-07-16T15:13:47.028524Z",
                 "2025-07-16T17:07:33.650496Z"
+            ]
+        },
+        {
+            "id": "d7c74070667165036bcb15b50a1e4921",
+            "source": "breaking_defense",
+            "text": "Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites",
+            "source_link": "https://breakingdefense.com/2025/07/resolute-space-exercise-focuses-guardians-on-countering-realistic-threats-to-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-16T17:49:38.210119Z",
+            "shown_at": [
+                "2025-07-16T17:49:38.858069Z"
             ]
         }
     ]

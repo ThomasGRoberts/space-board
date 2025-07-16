@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 54 |
 | nyt | 1 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
@@ -4932,3 +4932,4 @@
 - **Jul 16, 05:07 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 16, 05:21 PM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
 - **Jul 16, 05:35 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 16, 05:49 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
