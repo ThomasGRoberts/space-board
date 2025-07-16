@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 29 | 55 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 25 | 47 |
 
@@ -4895,3 +4895,4 @@
 - **Jul 15, 11:47 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 12:02 AM** - Orienspace targets 2025 test flight of Gravity-2 after engine test (spacenews)
 - **Jul 16, 12:19 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 16, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
