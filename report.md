@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 24 | 53 |
 | nyt | 1 | 1 | 22 | 45 |
 | breaking_defense | 1 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
 
@@ -4934,3 +4934,4 @@
 - **Jul 16, 05:35 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 16, 05:49 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 16, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
