@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 26 | 54 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 37 | 37 |
 
@@ -4879,3 +4879,4 @@
 - **Jul 16, 12:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 12:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 12:07 PM** - Falcon 9 launches Project Kuiper satellites (spacenews)
+- **Jul 16, 12:23 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
