@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -4832,3 +4832,4 @@
 - **Jul 16, 04:31 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 16, 04:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 04:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jul 16, 04:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
