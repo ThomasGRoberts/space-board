@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4827,3 +4827,4 @@
 - **Jul 16, 05:27 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 16, 05:55 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 16, 07:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 07:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
