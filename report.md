@@ -2,10 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 28 | 55 |
+| spacenews | 6 | 13 | 27 | 55 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 0 | 24 | 47 |
-| supercluster | 1 | 1 | 22 | 22 |
+| breaking_defense | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -4816,35 +4815,13 @@
 - **Jul 16, 01:15 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
-- **Jul 16, 03:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 03:07 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 16, 03:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 16, 03:35 AM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
-- **Jul 16, 03:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 03:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 03:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 03:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 03:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 03:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:01 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 04:03 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 04:17 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 16, 04:31 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
-- **Jul 16, 04:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 04:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 04:59 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 05:13 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 05:27 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
-- **Jul 16, 05:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Jul 16, 05:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 05:55 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
