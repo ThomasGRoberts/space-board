@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 24 | 53 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 2 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 
 # Shown Order
 
@@ -4993,3 +4993,4 @@
 - **Jul 16, 11:03 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 16, 11:17 PM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 16, 11:31 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 16, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
