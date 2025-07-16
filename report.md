@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 25 | 54 |
-| nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
@@ -4900,3 +4900,4 @@
 - **Jul 16, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 02:17 PM** - Industry doubts effectiveness of new launch licensing fees (spacenews)
+- **Jul 16, 02:31 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
