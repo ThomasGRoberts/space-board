@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 3 | 3 |
+| breaking_defense | 0 | 0 | 23 | 45 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4832,3 +4832,4 @@
 - **Jul 16, 07:37 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
 - **Jul 16, 07:51 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 16, 08:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 08:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
