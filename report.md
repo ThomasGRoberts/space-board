@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 11 | 11 |
+| breaking_defense | 0 | 0 | 23 | 45 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -4843,3 +4843,4 @@
 - **Jul 16, 08:47 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 16, 09:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 09:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 16, 09:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
