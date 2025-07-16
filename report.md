@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4820,3 +4820,4 @@
 - **Jul 16, 03:07 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 16, 03:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 16, 03:35 AM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
+- **Jul 16, 03:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
