@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 25 | 54 |
 | nyt | 0 | 0 | 23 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
@@ -4891,3 +4891,4 @@
 - **Jul 16, 01:05 PM** - The urgent need for new rules of the road in space and cyber (spacenews)
 - **Jul 16, 01:19 PM** - Solestial wins $1.2 million SpaceWERX contract (spacenews)
 - **Jul 16, 01:33 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 16, 01:49 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
