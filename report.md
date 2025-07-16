@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 55 |
-| nyt | 0 | 1 | 24 | 46 |
+| nyt | 0 | 1 | 25 | 47 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4818,3 +4818,4 @@
 - **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 16, 03:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 03:07 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 16, 03:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
