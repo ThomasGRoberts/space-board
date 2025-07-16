@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 54 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
@@ -4880,3 +4880,4 @@
 - **Jul 16, 12:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 12:07 PM** - Falcon 9 launches Project Kuiper satellites (spacenews)
 - **Jul 16, 12:23 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 16, 12:37 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
