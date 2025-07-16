@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 55 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -4817,3 +4817,4 @@
 - **Jul 16, 01:43 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 16, 03:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jul 16, 03:07 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
