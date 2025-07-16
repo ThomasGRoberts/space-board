@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -4841,3 +4841,4 @@
 - **Jul 16, 05:13 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 05:27 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
 - **Jul 16, 05:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jul 16, 05:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
