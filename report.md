@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 28 | 55 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4822,3 +4822,4 @@
 - **Jul 16, 03:35 AM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
 - **Jul 16, 03:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Jul 16, 03:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Jul 16, 03:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
