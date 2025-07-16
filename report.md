@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 25 | 54 |
 | nyt | 0 | 1 | 23 | 46 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
@@ -4870,3 +4870,4 @@
 - **Jul 16, 11:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 16, 11:09 AM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
 - **Jul 16, 11:23 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 16, 11:37 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
