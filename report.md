@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 25 | 53 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -4892,3 +4892,4 @@
 - **Jul 16, 01:19 PM** - Solestial wins $1.2 million SpaceWERX contract (spacenews)
 - **Jul 16, 01:33 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 16, 01:49 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
+- **Jul 16, 02:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
