@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 21 | 43 |
+| breaking_defense | 2 | 2 | 22 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 13 | 23 | 48 |
 | supercluster | 0 | 1 | 140 | 198 |
@@ -4980,3 +4980,4 @@
 - **Jul 17, 10:57 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 11:13 AM** - Duffy just getting started as acting NASA administrator (spacenews)
 - **Jul 17, 12:55 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
+- **Jul 17, 03:31 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
