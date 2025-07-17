@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6db14a2de15805c820460e7ac43d4570",
+    "trigger_count": 0,
+    "current_item_id": "9b8fe1731cae6a6f9150b46170b236bf",
     "data": [
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
@@ -10444,6 +10444,18 @@
             "fetched_datetime": "2025-07-17T05:31:58.174284Z",
             "shown_at": [
                 "2025-07-17T05:31:59.764037Z"
+            ]
+        },
+        {
+            "id": "9b8fe1731cae6a6f9150b46170b236bf",
+            "source": "spacenews",
+            "text": "Space Force sets guidelines prioritizing military missions as launch demand surges",
+            "source_link": "https://spacenews.com/space-force-sets-guidelines-prioritizing-military-missions-as-launch-demand-surges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T07:23:33.335410Z",
+            "shown_at": [
+                "2025-07-17T07:23:33.925511Z"
             ]
         }
     ]
