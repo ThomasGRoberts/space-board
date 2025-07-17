@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 48 |
-| spacenews | 6 | 13 | 24 | 52 |
+| spacenews | 6 | 13 | 25 | 53 |
 | supercluster | 1 | 1 | 149 | 149 |
 
 # Shown Order
@@ -4906,3 +4906,4 @@
 - **Jul 17, 03:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 03:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 17, 04:07 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
