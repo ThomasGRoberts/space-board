@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 0 | 1 | 142 | 228 |
+| supercluster | 0 | 1 | 143 | 229 |
 
 # Shown Order
 
@@ -5023,3 +5023,4 @@
 - **Jul 17, 07:19 PM** - Ax-4 private astronaut mission returns to Earth (spacenews)
 - **Jul 17, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 07:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 07:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
