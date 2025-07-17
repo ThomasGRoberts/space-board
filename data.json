@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "5be19af273272338db2f8de0c7c33774",
     "data": [
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
@@ -10548,6 +10548,18 @@
             "fetched_datetime": "2025-07-17T12:55:54.106517Z",
             "shown_at": [
                 "2025-07-17T12:55:54.735832Z"
+            ]
+        },
+        {
+            "id": "5be19af273272338db2f8de0c7c33774",
+            "source": "breaking_defense",
+            "text": "Space Force begins testing of first OCX software blocks for GPS sats",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-begins-testing-of-first-ocx-software-blocks-for-gps-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T16:57:36.233825Z",
+            "shown_at": [
+                "2025-07-17T16:57:37.243598Z"
             ]
         }
     ]
