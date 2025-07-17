@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 26 | 49 |
 | nyt | 1 | 1 | 24 | 47 |
 | spacenews | 7 | 14 | 26 | 53 |
-| supercluster | 0 | 1 | 170 | 172 |
+| supercluster | 0 | 1 | 171 | 173 |
 
 # Shown Order
 
@@ -4941,3 +4941,4 @@
 - **Jul 17, 07:23 AM** - Space Force sets guidelines prioritizing military missions as launch demand surges (spacenews)
 - **Jul 17, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 07:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
