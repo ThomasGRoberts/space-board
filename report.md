@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | spacenews | 6 | 13 | 24 | 53 |
-| supercluster | 1 | 1 | 143 | 143 |
+| supercluster | 1 | 1 | 144 | 144 |
 
 # Shown Order
 
@@ -4899,3 +4899,4 @@
 - **Jul 17, 03:09 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 17, 03:23 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 03:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 03:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
