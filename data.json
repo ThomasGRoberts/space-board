@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "809488640a406fcf5e413bcfac25cb7a",
     "data": [
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
@@ -10483,6 +10483,18 @@
                 "2025-07-17T07:23:33.925511Z",
                 "2025-07-17T08:19:42.822063Z",
                 "2025-07-17T09:15:50.011668Z"
+            ]
+        },
+        {
+            "id": "809488640a406fcf5e413bcfac25cb7a",
+            "source": "spacenews",
+            "text": "HTR makes available engineering models of full-metal elastic Lunar wheels",
+            "source_link": "https://spacenews.com/htr-makes-available-engineering-models-of-full-metal-elastic-lunar-wheels/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T09:43:37.679955Z",
+            "shown_at": [
+                "2025-07-17T09:43:38.310624Z"
             ]
         }
     ]
