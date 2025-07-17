@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 1 | 1 | 23 | 47 |
-| spacenews | 6 | 13 | 24 | 53 |
+| spacenews | 7 | 14 | 25 | 54 |
 | supercluster | 1 | 1 | 156 | 156 |
 
 # Shown Order
@@ -4918,3 +4918,4 @@
 - **Jul 17, 04:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 05:03 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 17, 05:17 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
+- **Jul 17, 05:31 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
