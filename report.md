@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 1 | 1 | 23 | 45 |
-| spacenews | 6 | 14 | 26 | 51 |
-| supercluster | 0 | 1 | 161 | 198 |
+| spacenews | 7 | 15 | 27 | 52 |
+| supercluster | 0 | 1 | 158 | 198 |
 
 # Shown Order
 
@@ -4979,3 +4979,4 @@
 - **Jul 17, 10:40 AM** - NASA considering flying only cargo on next Starliner mission (spacenews)
 - **Jul 17, 10:57 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 11:13 AM** - Duffy just getting started as acting NASA administrator (spacenews)
+- **Jul 17, 12:55 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)

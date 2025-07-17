@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7bbbc429a4efacd0d578427c89fc9681",
+    "trigger_count": 0,
+    "current_item_id": "2c39837a196929550e1edbc841bc87d7",
     "data": [
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
@@ -10518,6 +10518,18 @@
             "fetched_datetime": "2025-07-17T11:13:36.604180Z",
             "shown_at": [
                 "2025-07-17T11:13:37.150050Z"
+            ]
+        },
+        {
+            "id": "2c39837a196929550e1edbc841bc87d7",
+            "source": "spacenews",
+            "text": "Lyles concerned about sweeping changes to advisory committees",
+            "source_link": "https://spacenews.com/lyles-concerned-about-sweeping-changes-to-advisory-committees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T12:55:54.106517Z",
+            "shown_at": [
+                "2025-07-17T12:55:54.735832Z"
             ]
         }
     ]
