@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 48 |
-| nyt | 1 | 1 | 24 | 47 |
+| nyt | 1 | 1 | 25 | 48 |
 | spacenews | 7 | 15 | 27 | 53 |
 | supercluster | 0 | 1 | 175 | 191 |
 
@@ -4967,3 +4967,4 @@
 - **Jul 17, 09:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 09:43 AM** - HTR makes available engineering models of full-metal elastic Lunar wheels (spacenews)
+- **Jul 17, 09:57 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
