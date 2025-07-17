@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 0 | 1 | 142 | 249 |
+| supercluster | 0 | 1 | 143 | 250 |
 
 # Shown Order
 
@@ -5053,3 +5053,4 @@
 - **Jul 17, 10:12 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 17, 10:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 10:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 10:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
