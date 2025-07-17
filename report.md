@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 13 | 23 | 48 |
-| supercluster | 0 | 1 | 142 | 207 |
+| supercluster | 0 | 1 | 143 | 208 |
 
 # Shown Order
 
@@ -4993,3 +4993,4 @@
 - **Jul 17, 04:29 PM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 17, 04:44 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
