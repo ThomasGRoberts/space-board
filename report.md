@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | spacenews | 6 | 13 | 24 | 53 |
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 
 # Shown Order
 
@@ -4908,3 +4908,4 @@
 - **Jul 17, 03:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 04:07 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
 - **Jul 17, 04:21 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 17, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
