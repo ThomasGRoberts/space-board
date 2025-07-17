@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 26 | 49 |
 | nyt | 1 | 1 | 24 | 47 |
-| spacenews | 7 | 14 | 27 | 53 |
-| supercluster | 0 | 1 | 168 | 177 |
+| spacenews | 7 | 14 | 26 | 53 |
+| supercluster | 0 | 1 | 169 | 178 |
 
 # Shown Order
 
@@ -4949,3 +4949,4 @@
 - **Jul 17, 07:51 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 17, 08:05 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 08:19 AM** - Space Force sets guidelines prioritizing military missions as launch demand surges (spacenews)
+- **Jul 17, 08:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
