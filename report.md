@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 26 | 49 |
 | nyt | 1 | 1 | 25 | 47 |
 | spacenews | 6 | 14 | 26 | 53 |
-| supercluster | 0 | 1 | 168 | 184 |
+| supercluster | 0 | 1 | 169 | 185 |
 
 # Shown Order
 
@@ -4959,3 +4959,4 @@
 - **Jul 17, 08:47 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 09:01 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 17, 09:15 AM** - Space Force sets guidelines prioritizing military missions as launch demand surges (spacenews)
+- **Jul 17, 09:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
