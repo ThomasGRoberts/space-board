@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | spacenews | 7 | 14 | 25 | 54 |
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 
 # Shown Order
 
@@ -4920,3 +4920,4 @@
 - **Jul 17, 05:17 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
 - **Jul 17, 05:31 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
 - **Jul 17, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
