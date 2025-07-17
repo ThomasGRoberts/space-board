@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | spacenews | 6 | 13 | 24 | 53 |
-| supercluster | 1 | 1 | 122 | 122 |
+| supercluster | 1 | 1 | 123 | 123 |
 
 # Shown Order
 
@@ -4869,3 +4869,4 @@
 - **Jul 17, 12:15 AM** - Investors double down on space infrastructure as exits return (spacenews)
 - **Jul 17, 12:31 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
