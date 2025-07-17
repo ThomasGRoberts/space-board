@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 11 | 23 | 47 |
-| supercluster | 0 | 1 | 141 | 255 |
+| supercluster | 0 | 1 | 142 | 256 |
 
 # Shown Order
 
@@ -5062,3 +5062,4 @@
 - **Jul 17, 10:55 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 17, 11:11 PM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
 - **Jul 17, 11:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 11:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
