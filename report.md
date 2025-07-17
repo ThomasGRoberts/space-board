@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 48 |
+| breaking_defense | 2 | 2 | 26 | 49 |
 | nyt | 1 | 1 | 25 | 48 |
 | spacenews | 7 | 14 | 26 | 52 |
 | supercluster | 0 | 1 | 175 | 184 |
@@ -4957,3 +4957,4 @@
 - **Jul 17, 08:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 08:47 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 17, 09:01 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
