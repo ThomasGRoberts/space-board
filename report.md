@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 24 | 48 |
-| nyt | 1 | 1 | 23 | 48 |
+| breaking_defense | 2 | 2 | 25 | 49 |
+| nyt | 1 | 1 | 23 | 47 |
 | spacenews | 6 | 13 | 25 | 53 |
 | supercluster | 1 | 1 | 149 | 149 |
 
@@ -4907,3 +4907,4 @@
 - **Jul 17, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 03:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 04:07 AM** - Experimental Chinese satellite turns up in unexpected orbit (spacenews)
+- **Jul 17, 04:21 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
