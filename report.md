@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
-| spacenews | 7 | 14 | 25 | 54 |
-| supercluster | 1 | 1 | 158 | 158 |
+| spacenews | 7 | 14 | 25 | 53 |
+| supercluster | 1 | 1 | 159 | 159 |
 
 # Shown Order
 
@@ -4921,3 +4921,4 @@
 - **Jul 17, 05:31 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
 - **Jul 17, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
