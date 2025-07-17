@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 13 | 23 | 48 |
-| supercluster | 0 | 1 | 140 | 198 |
+| supercluster | 0 | 1 | 141 | 199 |
 
 # Shown Order
 
@@ -4981,3 +4981,4 @@
 - **Jul 17, 11:13 AM** - Duffy just getting started as acting NASA administrator (spacenews)
 - **Jul 17, 12:55 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
 - **Jul 17, 03:31 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 17, 03:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
