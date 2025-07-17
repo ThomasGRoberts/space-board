@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 24 | 47 |
-| supercluster | 0 | 1 | 140 | 233 |
+| supercluster | 0 | 1 | 141 | 234 |
 
 # Shown Order
 
@@ -5031,3 +5031,4 @@
 - **Jul 17, 07:47 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 17, 08:01 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 08:15 PM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
+- **Jul 17, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
