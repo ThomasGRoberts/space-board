@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 47 |
 | nyt | 1 | 1 | 25 | 47 |
-| spacenews | 6 | 15 | 26 | 53 |
+| spacenews | 7 | 16 | 27 | 54 |
 | supercluster | 0 | 1 | 168 | 198 |
 
 # Shown Order
@@ -4978,3 +4978,4 @@
 - **Jul 17, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 10:40 AM** - NASA considering flying only cargo on next Starliner mission (spacenews)
 - **Jul 17, 10:57 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 17, 11:13 AM** - Duffy just getting started as acting NASA administrator (spacenews)

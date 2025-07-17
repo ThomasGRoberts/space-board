@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7b9547733468a29a3f01e748803d910d",
+    "trigger_count": 0,
+    "current_item_id": "7bbbc429a4efacd0d578427c89fc9681",
     "data": [
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
@@ -10506,6 +10506,18 @@
             "fetched_datetime": "2025-07-17T09:43:37.679955Z",
             "shown_at": [
                 "2025-07-17T09:43:38.310624Z"
+            ]
+        },
+        {
+            "id": "7bbbc429a4efacd0d578427c89fc9681",
+            "source": "spacenews",
+            "text": "Duffy just getting started as acting NASA administrator",
+            "source_link": "https://spacenews.com/duffy-just-getting-started-as-acting-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T11:13:36.604180Z",
+            "shown_at": [
+                "2025-07-17T11:13:37.150050Z"
             ]
         }
     ]
