@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 24 | 48 |
 | nyt | 1 | 1 | 23 | 48 |
-| spacenews | 6 | 13 | 23 | 52 |
+| spacenews | 6 | 13 | 24 | 53 |
 | supercluster | 1 | 1 | 128 | 128 |
 
 # Shown Order
@@ -4876,3 +4876,4 @@
 - **Jul 17, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 12:59 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
+- **Jul 17, 01:13 AM** - Secretary of Transportation Duffy named acting NASA administrator (spacenews)
