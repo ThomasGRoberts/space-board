@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 0 | 1 | 141 | 220 |
+| supercluster | 0 | 1 | 142 | 221 |
 
 # Shown Order
 
@@ -5012,3 +5012,4 @@
 - **Jul 17, 06:09 PM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 06:23 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
 - **Jul 17, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 06:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
