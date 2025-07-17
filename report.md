@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 0 | 1 | 140 | 247 |
+| supercluster | 0 | 1 | 141 | 248 |
 
 # Shown Order
 
@@ -5051,3 +5051,4 @@
 - **Jul 17, 09:39 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 09:55 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 10:12 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
+- **Jul 17, 10:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
