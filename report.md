@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 47 |
 | spacenews | 7 | 13 | 26 | 53 |
-| supercluster | 1 | 1 | 165 | 165 |
+| supercluster | 1 | 1 | 166 | 166 |
 
 # Shown Order
 
@@ -4931,3 +4931,4 @@
 - **Jul 17, 06:27 AM** - Senate spending bill that overrides proposed NASA cuts held up in committee (spacenews)
 - **Jul 17, 06:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
