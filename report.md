@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 43 |
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 0 | 1 | 141 | 241 |
+| supercluster | 0 | 1 | 142 | 242 |
 
 # Shown Order
 
@@ -5042,3 +5042,4 @@
 - **Jul 17, 08:57 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 09:12 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 17, 09:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
