@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 24 | 48 |
+| breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 1 | 1 | 23 | 48 |
 | spacenews | 6 | 13 | 25 | 53 |
 | supercluster | 1 | 1 | 156 | 156 |
@@ -4917,3 +4917,4 @@
 - **Jul 17, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 04:49 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 05:03 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
+- **Jul 17, 05:17 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
