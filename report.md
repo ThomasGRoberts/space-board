@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 45 |
 | nyt | 0 | 1 | 20 | 43 |
-| spacenews | 5 | 11 | 23 | 46 |
+| spacenews | 5 | 11 | 24 | 47 |
 | supercluster | 0 | 1 | 140 | 254 |
 
 # Shown Order
@@ -5060,3 +5060,4 @@
 - **Jul 17, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 17, 10:41 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 10:55 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 17, 11:11 PM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
