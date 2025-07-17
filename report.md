@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 25 | 48 |
 | nyt | 1 | 1 | 23 | 47 |
 | spacenews | 6 | 13 | 24 | 53 |
-| supercluster | 1 | 1 | 136 | 136 |
+| supercluster | 1 | 1 | 137 | 137 |
 
 # Shown Order
 
@@ -4889,3 +4889,4 @@
 - **Jul 17, 02:09 AM** - Industry doubts effectiveness of new launch licensing fees (spacenews)
 - **Jul 17, 02:25 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 17, 02:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 17, 02:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
