@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 26 | 48 |
 | nyt | 1 | 1 | 25 | 47 |
 | spacenews | 7 | 15 | 26 | 53 |
-| supercluster | 0 | 1 | 168 | 191 |
+| supercluster | 0 | 1 | 169 | 192 |
 
 # Shown Order
 
@@ -4969,3 +4969,4 @@
 - **Jul 17, 09:43 AM** - HTR makes available engineering models of full-metal elastic Lunar wheels (spacenews)
 - **Jul 17, 09:57 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 17, 10:12 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 17, 10:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
