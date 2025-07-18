@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 22 | 46 |
 | spacenews | 3 | 10 | 21 | 48 |
-| nyt | 0 | 1 | 20 | 44 |
+| nyt | 0 | 1 | 21 | 45 |
 | supercluster | 0 | 0 | 147 | 315 |
 
 # Shown Order
@@ -5133,3 +5133,4 @@
 - **Jul 18, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 11:29 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 18, 11:43 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
