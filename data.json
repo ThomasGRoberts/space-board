@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b1541c9661824a2a09336c984170589",
+    "trigger_count": 0,
+    "current_item_id": "d3d0269228b0043973ea7d32b8b81604",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10758,6 +10758,18 @@
             "fetched_datetime": "2025-07-18T18:13:36.593987Z",
             "shown_at": [
                 "2025-07-18T18:13:37.302967Z"
+            ]
+        },
+        {
+            "id": "d3d0269228b0043973ea7d32b8b81604",
+            "source": "spacenews",
+            "text": "Senate appropriators reject proposal to cancel TraCSS",
+            "source_link": "https://spacenews.com/senate-appropriators-reject-proposal-to-cancel-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T18:27:45.125906Z",
+            "shown_at": [
+                "2025-07-18T18:27:45.748416Z"
             ]
         }
     ]
