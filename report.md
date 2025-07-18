@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 22 | 46 |
 | spacenews | 4 | 10 | 23 | 49 |
 | nyt | 0 | 1 | 21 | 44 |
-| supercluster | 0 | 0 | 148 | 309 |
+| supercluster | 0 | 0 | 149 | 310 |
 
 # Shown Order
 
@@ -5137,3 +5137,4 @@
 - **Jul 18, 11:57 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
 - **Jul 18, 12:13 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 18, 12:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 12:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
