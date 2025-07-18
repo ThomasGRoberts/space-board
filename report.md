@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 46 |
-| spacenews | 5 | 10 | 25 | 48 |
+| spacenews | 5 | 10 | 26 | 49 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 175 | 315 |
+| supercluster | 0 | 0 | 173 | 315 |
 
 # Shown Order
 
@@ -5184,3 +5184,4 @@
 - **Jul 18, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 04:31 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 18, 04:45 PM** - Varda Space Industries raises $187 million (spacenews)
