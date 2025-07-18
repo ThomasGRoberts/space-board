@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 47 |
 | spacenews | 5 | 12 | 22 | 48 |
-| nyt | 0 | 1 | 20 | 44 |
-| supercluster | 0 | 0 | 141 | 315 |
+| nyt | 0 | 1 | 20 | 45 |
+| supercluster | 0 | 0 | 140 | 315 |
 
 # Shown Order
 
@@ -5103,3 +5103,4 @@
 - **Jul 18, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 08:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 08:33 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 18, 08:47 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
