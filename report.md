@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 45 |
 | spacenews | 6 | 12 | 23 | 48 |
 | nyt | 0 | 1 | 20 | 44 |
-| supercluster | 0 | 1 | 140 | 282 |
+| supercluster | 0 | 1 | 141 | 283 |
 
 # Shown Order
 
@@ -5045,3 +5045,4 @@
 - **Jul 18, 02:33 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 18, 02:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 03:01 AM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
+- **Jul 18, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
