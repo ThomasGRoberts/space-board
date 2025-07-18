@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 46 |
-| spacenews | 4 | 10 | 22 | 48 |
+| spacenews | 3 | 10 | 21 | 48 |
 | nyt | 0 | 1 | 20 | 45 |
-| supercluster | 0 | 0 | 140 | 308 |
+| supercluster | 0 | 0 | 141 | 309 |
 
 # Shown Order
 
@@ -5125,3 +5125,4 @@
 - **Jul 18, 10:31 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 10:45 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 10:59 AM** - China eyes the moon, Mars and space dominance (spacenews)
+- **Jul 18, 11:16 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
