@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | spacenews | 6 | 12 | 23 | 47 |
 | nyt | 0 | 1 | 20 | 43 |
-| supercluster | 0 | 1 | 140 | 268 |
+| supercluster | 0 | 1 | 141 | 269 |
 
 # Shown Order
 
@@ -5025,3 +5025,4 @@
 - **Jul 18, 12:37 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 12:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 01:05 AM** - ESCAPADE to launch on second New Glenn (spacenews)
+- **Jul 18, 01:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
