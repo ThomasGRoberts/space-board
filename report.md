@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 24 | 45 |
 | spacenews | 7 | 12 | 27 | 50 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 167 | 309 |
+| supercluster | 0 | 0 | 166 | 310 |
 
 # Shown Order
 
@@ -5199,3 +5199,4 @@
 - **Jul 18, 06:13 PM** - Polish space company SatRev launches Omani ground station amid international expansion (spacenews)
 - **Jul 18, 06:27 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 18, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
