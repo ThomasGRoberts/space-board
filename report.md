@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 24 | 46 |
 | spacenews | 5 | 10 | 26 | 49 |
-| nyt | 0 | 0 | 24 | 44 |
+| nyt | 0 | 0 | 25 | 45 |
 | supercluster | 0 | 0 | 168 | 312 |
 
 # Shown Order
@@ -5185,3 +5185,4 @@
 - **Jul 18, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 04:31 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 18, 04:45 PM** - Varda Space Industries raises $187 million (spacenews)
+- **Jul 18, 04:59 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
