@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 24 | 45 |
 | spacenews | 7 | 12 | 27 | 50 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 169 | 309 |
+| supercluster | 0 | 0 | 170 | 310 |
 
 # Shown Order
 
@@ -5249,3 +5249,4 @@
 - **Jul 18, 10:57 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 18, 11:11 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 18, 11:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 11:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
