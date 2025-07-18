@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 45 |
-| spacenews | 5 | 10 | 26 | 49 |
+| spacenews | 6 | 11 | 27 | 50 |
 | nyt | 0 | 0 | 24 | 45 |
 | supercluster | 0 | 0 | 168 | 311 |
 
@@ -5196,3 +5196,4 @@
 - **Jul 18, 05:29 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 05:43 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
 - **Jul 18, 05:57 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 18, 06:13 PM** - Polish space company SatRev launches Omani ground station amid international expansion (spacenews)

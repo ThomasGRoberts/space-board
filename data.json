@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7b9547733468a29a3f01e748803d910d",
+    "trigger_count": 0,
+    "current_item_id": "6b1541c9661824a2a09336c984170589",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10746,6 +10746,18 @@
             "fetched_datetime": "2025-07-18T13:53:37.321249Z",
             "shown_at": [
                 "2025-07-18T13:53:37.946497Z"
+            ]
+        },
+        {
+            "id": "6b1541c9661824a2a09336c984170589",
+            "source": "spacenews",
+            "text": "Polish space company SatRev launches Omani ground station amid international expansion",
+            "source_link": "https://spacenews.com/polish-space-company-satrev-launches-omani-ground-station-amid-international-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T18:13:36.593987Z",
+            "shown_at": [
+                "2025-07-18T18:13:37.302967Z"
             ]
         }
     ]
