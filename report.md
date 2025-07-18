@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 25 | 45 |
 | spacenews | 7 | 12 | 27 | 50 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 170 | 315 |
+| supercluster | 0 | 0 | 168 | 315 |
 
 # Shown Order
 
@@ -5255,3 +5255,4 @@
 - **Jul 18, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 11:39 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
