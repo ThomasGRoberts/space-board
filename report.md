@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 45 |
-| spacenews | 7 | 12 | 26 | 50 |
+| spacenews | 7 | 12 | 27 | 51 |
 | nyt | 0 | 0 | 24 | 44 |
 | supercluster | 0 | 0 | 168 | 308 |
 
@@ -5217,3 +5217,4 @@
 - **Jul 18, 07:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 07:51 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 18, 08:07 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 18, 08:23 PM** - Duffy just getting started as acting NASA administrator (spacenews)
