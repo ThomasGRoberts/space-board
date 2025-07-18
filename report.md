@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 46 |
 | spacenews | 5 | 10 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 170 | 310 |
+| supercluster | 0 | 0 | 171 | 311 |
 
 # Shown Order
 
@@ -5168,3 +5168,4 @@
 - **Jul 18, 03:07 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 18, 03:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
