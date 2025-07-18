@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 20 | 46 |
-| spacenews | 6 | 13 | 23 | 49 |
-| nyt | 0 | 1 | 20 | 45 |
-| supercluster | 0 | 0 | 142 | 310 |
+| spacenews | 5 | 13 | 22 | 49 |
+| nyt | 0 | 1 | 20 | 44 |
+| supercluster | 0 | 0 | 143 | 311 |
 
 # Shown Order
 
@@ -5087,3 +5087,4 @@
 - **Jul 18, 07:07 AM** - Varda Space Industries raises $187 million (spacenews)
 - **Jul 18, 07:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 07:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 07:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
