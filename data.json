@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9dc51ccfe4842374fbd67625a722852d",
+    "trigger_count": 0,
+    "current_item_id": "4f2cfb8155e895b3dca8b19d79b8243d",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10519,6 +10519,18 @@
                 "2025-05-10T20:07:40.564900Z",
                 "2025-05-11T13:15:49.713716Z",
                 "2025-05-12T03:27:38.241467Z"
+            ]
+        },
+        {
+            "id": "4f2cfb8155e895b3dca8b19d79b8243d",
+            "source": "spacenews",
+            "text": "ESCAPADE to launch on second New Glenn",
+            "source_link": "https://spacenews.com/escapade-to-launch-on-second-new-glenn/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T01:05:48.189950Z",
+            "shown_at": [
+                "2025-07-18T01:05:49.288082Z"
             ]
         }
     ]
