@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 23 | 46 |
 | spacenews | 4 | 9 | 23 | 48 |
 | nyt | 0 | 1 | 22 | 45 |
-| supercluster | 0 | 0 | 155 | 309 |
+| supercluster | 0 | 0 | 156 | 310 |
 
 # Shown Order
 
@@ -5147,3 +5147,4 @@
 - **Jul 18, 12:57 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 18, 01:11 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 18, 01:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 01:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
