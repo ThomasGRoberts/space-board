@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 20 | 45 |
+| breaking_defense | 1 | 3 | 21 | 46 |
 | spacenews | 6 | 12 | 23 | 48 |
 | nyt | 0 | 1 | 20 | 43 |
 | supercluster | 0 | 1 | 147 | 296 |
@@ -5062,3 +5062,4 @@
 - **Jul 18, 04:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 04:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 04:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 04:25 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
