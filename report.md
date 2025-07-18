@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 22 | 46 |
-| spacenews | 3 | 10 | 21 | 48 |
+| spacenews | 3 | 10 | 22 | 49 |
 | nyt | 0 | 1 | 21 | 45 |
-| supercluster | 0 | 0 | 147 | 313 |
+| supercluster | 0 | 0 | 147 | 311 |
 
 # Shown Order
 
@@ -5134,3 +5134,4 @@
 - **Jul 18, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 11:29 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 18, 11:43 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 18, 11:57 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
