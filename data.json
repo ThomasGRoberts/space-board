@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f789379272b220892780c4d001a61129",
+    "trigger_count": 0,
+    "current_item_id": "a00c403f06a3b931b8772be560b5cfef",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10652,6 +10652,18 @@
             "fetched_datetime": "2025-07-18T06:02:01.588570Z",
             "shown_at": [
                 "2025-07-18T06:02:02.110103Z"
+            ]
+        },
+        {
+            "id": "a00c403f06a3b931b8772be560b5cfef",
+            "source": "spacenews",
+            "text": "House Democrats accuse NASA of illegal impoundment of funds",
+            "source_link": "https://spacenews.com/house-democrats-accuse-nasa-of-illegal-impoundment-of-funds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T12:13:31.313101Z",
+            "shown_at": [
+                "2025-07-18T12:13:31.994423Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 22 | 46 |
-| spacenews | 3 | 9 | 22 | 48 |
+| spacenews | 4 | 10 | 23 | 49 |
 | nyt | 0 | 1 | 21 | 45 |
 | supercluster | 0 | 0 | 147 | 308 |
 
@@ -5135,3 +5135,4 @@
 - **Jul 18, 11:29 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 18, 11:43 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 18, 11:57 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
+- **Jul 18, 12:13 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
