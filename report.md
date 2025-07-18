@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 47 |
 | spacenews | 5 | 12 | 22 | 48 |
-| nyt | 0 | 1 | 20 | 44 |
+| nyt | 0 | 1 | 21 | 45 |
 | supercluster | 0 | 0 | 140 | 315 |
 
 # Shown Order
@@ -5093,3 +5093,4 @@
 - **Jul 18, 07:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 07:37 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 18, 07:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
