@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 45 |
 | spacenews | 6 | 12 | 23 | 48 |
 | nyt | 0 | 1 | 20 | 44 |
-| supercluster | 0 | 1 | 141 | 283 |
+| supercluster | 0 | 1 | 142 | 284 |
 
 # Shown Order
 
@@ -5046,3 +5046,4 @@
 - **Jul 18, 02:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 03:01 AM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 18, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
