@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5be19af273272338db2f8de0c7c33774",
+    "trigger_count": 0,
+    "current_item_id": "5b7948c90b07d1143c763781a315ef8f",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10693,6 +10693,18 @@
             "fetched_datetime": "2025-07-18T13:11:43.746098Z",
             "shown_at": [
                 "2025-07-18T13:11:44.416316Z"
+            ]
+        },
+        {
+            "id": "5b7948c90b07d1143c763781a315ef8f",
+            "source": "spacenews",
+            "text": "China conducts structural tests for Long March 10 human spaceflight rocket",
+            "source_link": "https://spacenews.com/china-conducts-structural-tests-for-long-march-10-human-spaceflight-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T13:53:37.321249Z",
+            "shown_at": [
+                "2025-07-18T13:53:37.946497Z"
             ]
         }
     ]
