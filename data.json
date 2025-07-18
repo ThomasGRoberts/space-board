@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d1abf248c99405ea19fa0801bdcb5ca6",
+    "trigger_count": 0,
+    "current_item_id": "5f2a6ccd6a7af1aa57db70647803b5a7",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10673,6 +10673,18 @@
             "fetched_datetime": "2025-07-18T12:13:31.313101Z",
             "shown_at": [
                 "2025-07-18T12:13:31.994423Z"
+            ]
+        },
+        {
+            "id": "5f2a6ccd6a7af1aa57db70647803b5a7",
+            "source": "spacenews",
+            "text": "York Space parent company to acquire ground systems operator Atlas Space",
+            "source_link": "https://spacenews.com/york-space-parent-company-to-acquire-ground-systems-operator-atlas-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T13:11:43.746098Z",
+            "shown_at": [
+                "2025-07-18T13:11:44.416316Z"
             ]
         }
     ]
