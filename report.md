@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 46 |
-| spacenews | 5 | 10 | 24 | 48 |
+| spacenews | 5 | 10 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 0 | 168 | 315 |
 
@@ -5164,3 +5164,4 @@
 - **Jul 18, 02:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 02:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 02:37 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 18, 02:51 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
