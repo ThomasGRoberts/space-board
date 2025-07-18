@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 20 | 46 |
 | spacenews | 6 | 13 | 23 | 49 |
 | nyt | 0 | 1 | 20 | 45 |
-| supercluster | 0 | 0 | 140 | 309 |
+| supercluster | 0 | 0 | 141 | 309 |
 
 # Shown Order
 
@@ -5085,3 +5085,4 @@
 - **Jul 18, 06:33 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 06:51 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 07:07 AM** - Varda Space Industries raises $187 million (spacenews)
+- **Jul 18, 07:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
