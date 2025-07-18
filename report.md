@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 45 |
 | spacenews | 6 | 12 | 23 | 48 |
 | nyt | 0 | 1 | 20 | 44 |
-| supercluster | 0 | 1 | 141 | 290 |
+| supercluster | 0 | 1 | 142 | 291 |
 
 # Shown Order
 
@@ -5056,3 +5056,4 @@
 - **Jul 18, 03:43 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 18, 03:57 AM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 18, 04:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 04:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
