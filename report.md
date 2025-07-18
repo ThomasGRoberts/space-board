@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 20 | 46 |
 | spacenews | 4 | 11 | 22 | 48 |
 | nyt | 0 | 1 | 20 | 45 |
-| supercluster | 0 | 0 | 142 | 310 |
+| supercluster | 0 | 0 | 143 | 311 |
 
 # Shown Order
 
@@ -5117,3 +5117,4 @@
 - **Jul 18, 10:02 AM** - New study calls for rapid development of space nuclear power systems (spacenews)
 - **Jul 18, 10:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 10:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
