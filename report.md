@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 46 |
 | spacenews | 6 | 12 | 23 | 47 |
-| nyt | 0 | 1 | 20 | 43 |
-| supercluster | 0 | 1 | 144 | 289 |
+| nyt | 0 | 1 | 21 | 44 |
+| supercluster | 0 | 1 | 143 | 289 |
 
 # Shown Order
 
@@ -5053,3 +5053,4 @@
 - **Jul 18, 03:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 03:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 03:29 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 18, 03:43 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
