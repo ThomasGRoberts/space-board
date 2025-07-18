@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 44 |
 | spacenews | 5 | 11 | 23 | 47 |
 | nyt | 0 | 1 | 20 | 43 |
-| supercluster | 0 | 1 | 142 | 263 |
+| supercluster | 0 | 1 | 143 | 264 |
 
 # Shown Order
 
@@ -5017,3 +5017,4 @@
 - **Jul 18, 12:09 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 18, 12:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 12:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 12:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
