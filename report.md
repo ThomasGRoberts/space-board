@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 46 |
 | spacenews | 5 | 10 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 169 | 309 |
+| supercluster | 0 | 0 | 170 | 310 |
 
 # Shown Order
 
@@ -5177,3 +5177,4 @@
 - **Jul 18, 03:49 PM** - The defense establishment’s AI awakening (spacenews)
 - **Jul 18, 04:04 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 18, 04:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 18, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
