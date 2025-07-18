@@ -1,9 +1,84 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-17T00:02:11.934069+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
+    "trigger_count": 3,
     "current_item_id": "7b9547733468a29a3f01e748803d910d",
     "data": [
+        {
+            "id": "5be19af273272338db2f8de0c7c33774",
+            "source": "breaking_defense",
+            "text": "Space Force begins testing of first OCX software blocks for GPS sats",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-begins-testing-of-first-ocx-software-blocks-for-gps-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T16:57:36.233825Z",
+            "shown_at": [
+                "2025-07-17T16:57:37.243598Z",
+                "2025-07-17T20:43:50.938058Z"
+            ]
+        },
+        {
+            "id": "2c39837a196929550e1edbc841bc87d7",
+            "source": "spacenews",
+            "text": "Lyles concerned about sweeping changes to advisory committees",
+            "source_link": "https://spacenews.com/lyles-concerned-about-sweeping-changes-to-advisory-committees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T12:55:54.106517Z",
+            "shown_at": [
+                "2025-07-17T12:55:54.735832Z"
+            ]
+        },
+        {
+            "id": "7bbbc429a4efacd0d578427c89fc9681",
+            "source": "spacenews",
+            "text": "Duffy just getting started as acting NASA administrator",
+            "source_link": "https://spacenews.com/duffy-just-getting-started-as-acting-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T11:13:36.604180Z",
+            "shown_at": [
+                "2025-07-17T11:13:37.150050Z"
+            ]
+        },
+        {
+            "id": "809488640a406fcf5e413bcfac25cb7a",
+            "source": "spacenews",
+            "text": "HTR makes available engineering models of full-metal elastic Lunar wheels",
+            "source_link": "https://spacenews.com/htr-makes-available-engineering-models-of-full-metal-elastic-lunar-wheels/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T09:43:37.679955Z",
+            "shown_at": [
+                "2025-07-17T09:43:38.310624Z"
+            ]
+        },
+        {
+            "id": "9b8fe1731cae6a6f9150b46170b236bf",
+            "source": "spacenews",
+            "text": "Space Force sets guidelines prioritizing military missions as launch demand surges",
+            "source_link": "https://spacenews.com/space-force-sets-guidelines-prioritizing-military-missions-as-launch-demand-surges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T07:23:33.335410Z",
+            "shown_at": [
+                "2025-07-17T07:23:33.925511Z",
+                "2025-07-17T08:19:42.822063Z",
+                "2025-07-17T09:15:50.011668Z"
+            ]
+        },
+        {
+            "id": "f789379272b220892780c4d001a61129",
+            "source": "spacenews",
+            "text": "SES closes Intelsat deal and sets course for rapid transformation",
+            "source_link": "https://spacenews.com/ses-closes-intelsat-deal-and-sets-course-for-rapid-transformation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-17T05:31:58.174284Z",
+            "shown_at": [
+                "2025-07-17T05:31:59.764037Z"
+            ]
+        },
         {
             "id": "6db14a2de15805c820460e7ac43d4570",
             "source": "breaking_defense",
@@ -10434,203 +10509,6 @@
                 "2025-05-10T20:07:40.564900Z",
                 "2025-05-11T13:15:49.713716Z",
                 "2025-05-12T03:27:38.241467Z"
-            ]
-        },
-        {
-            "id": "9f1e7740aee1bc3876bb38733b634b56",
-            "source": "spacenews",
-            "text": "IonQ to acquire Capella Space in bid to build ultra-secure quantum network",
-            "source_link": "https://spacenews.com/ionq-to-acquire-capella-space-in-bid-to-build-ultra-secure-quantum-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T22:41:59.175969Z",
-            "shown_at": [
-                "2025-05-07T22:42:00.355090Z",
-                "2025-05-08T08:21:52.808063Z",
-                "2025-05-08T22:32:04.443764Z",
-                "2025-05-11T18:03:42.458949Z",
-                "2025-05-11T23:47:29.074740Z"
-            ]
-        },
-        {
-            "id": "28d238ce91684c459b86f617b3ece88e",
-            "source": "spacenews",
-            "text": "Retired Air Force officer nominated to be NASA deputy administrator",
-            "source_link": "https://spacenews.com/retired-air-force-officer-nominated-to-be-nasa-deputy-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T21:57:35.797338Z",
-            "shown_at": [
-                "2025-05-07T21:57:36.499170Z"
-            ]
-        },
-        {
-            "id": "d1ab2da583517e9c5843a71392d7cb8d",
-            "source": "breaking_defense",
-            "text": "German space commander’s ‘Christmas wish’? Satellites with EW-infused defenses",
-            "source_link": "https://breakingdefense.com/2025/05/german-space-commanders-christmas-wish-satellites-with-ew-infused-defenses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T17:57:24.134215Z",
-            "shown_at": [
-                "2025-05-07T17:57:24.684375Z",
-                "2025-05-08T02:03:46.289801Z",
-                "2025-05-09T03:02:11.153866Z",
-                "2025-05-09T05:53:43.236863Z",
-                "2025-05-09T14:17:35.118246Z",
-                "2025-05-09T22:02:06.645354Z",
-                "2025-05-09T22:57:32.049378Z",
-                "2025-05-10T01:51:27.467011Z",
-                "2025-05-10T03:45:47.025256Z",
-                "2025-05-10T05:37:50.235967Z",
-                "2025-05-10T14:29:43.802452Z",
-                "2025-05-10T15:41:59.621371Z",
-                "2025-05-10T16:37:34.098222Z",
-                "2025-05-10T18:29:38.737422Z",
-                "2025-05-10T21:21:50.174274Z",
-                "2025-05-12T00:02:05.981537Z",
-                "2025-05-12T18:19:41.069810Z",
-                "2025-05-12T21:27:37.998811Z",
-                "2025-05-14T00:21:47.125300Z"
-            ]
-        },
-        {
-            "id": "71137203f5dcdee366105a6688a59943",
-            "source": "spacenews",
-            "text": "ClearSpace completes second phase of UK debris-removal mission",
-            "source_link": "https://spacenews.com/clearspace-completes-second-phase-of-uk-debris-removal-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T16:59:27.422375Z",
-            "shown_at": [
-                "2025-05-07T16:59:28.127093Z",
-                "2025-05-08T09:17:38.118655Z",
-                "2025-05-08T14:07:29.497775Z",
-                "2025-05-08T23:27:35.423079Z",
-                "2025-05-14T06:24:13.350011Z"
-            ]
-        },
-        {
-            "id": "280c2cfb6f9063449f91610e45cd63f7",
-            "source": "breaking_defense",
-            "text": "Space RCO head sees potential ‘product line’ for orbital warfare satellites",
-            "source_link": "https://breakingdefense.com/2025/05/space-rco-head-sees-potential-product-line-for-orbital-warfare-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T15:17:25.548048Z",
-            "shown_at": [
-                "2025-05-07T15:17:26.128910Z",
-                "2025-05-08T10:41:41.511863Z",
-                "2025-05-09T02:05:51.419928Z",
-                "2025-05-09T07:51:54.541024Z",
-                "2025-05-10T08:29:39.975735Z",
-                "2025-05-10T19:25:47.663171Z",
-                "2025-05-10T22:17:36.336272Z",
-                "2025-05-11T02:05:28.543046Z",
-                "2025-05-11T09:41:49.317746Z",
-                "2025-05-11T15:22:09.599612Z",
-                "2025-05-12T08:49:28.025139Z",
-                "2025-05-12T09:46:13.999811Z",
-                "2025-05-12T12:13:29.001174Z",
-                "2025-05-13T00:37:41.912859Z",
-                "2025-05-13T04:49:33.325886Z",
-                "2025-05-13T06:45:41.548322Z",
-                "2025-05-13T10:37:28.627329Z",
-                "2025-05-13T12:05:06.946416Z",
-                "2025-05-13T22:27:09.913688Z",
-                "2025-05-14T01:21:56.327320Z",
-                "2025-05-14T06:09:55.317317Z",
-                "2025-05-14T07:09:44.519805Z"
-            ]
-        },
-        {
-            "id": "721c7bda2930b618558a210214c5873b",
-            "source": "spacenews",
-            "text": "Why NASA should apply the CLPS mindset to low-cost science missions, not just landers",
-            "source_link": "https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T15:02:11.856319Z",
-            "shown_at": [
-                "2025-05-07T15:02:12.816154Z",
-                "2025-05-08T01:35:55.424474Z",
-                "2025-05-12T09:17:42.812189Z",
-                "2025-05-13T12:37:36.903211Z"
-            ]
-        },
-        {
-            "id": "f789379272b220892780c4d001a61129",
-            "source": "spacenews",
-            "text": "SES closes Intelsat deal and sets course for rapid transformation",
-            "source_link": "https://spacenews.com/ses-closes-intelsat-deal-and-sets-course-for-rapid-transformation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T05:31:58.174284Z",
-            "shown_at": [
-                "2025-07-17T05:31:59.764037Z"
-            ]
-        },
-        {
-            "id": "9b8fe1731cae6a6f9150b46170b236bf",
-            "source": "spacenews",
-            "text": "Space Force sets guidelines prioritizing military missions as launch demand surges",
-            "source_link": "https://spacenews.com/space-force-sets-guidelines-prioritizing-military-missions-as-launch-demand-surges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T07:23:33.335410Z",
-            "shown_at": [
-                "2025-07-17T07:23:33.925511Z",
-                "2025-07-17T08:19:42.822063Z",
-                "2025-07-17T09:15:50.011668Z"
-            ]
-        },
-        {
-            "id": "809488640a406fcf5e413bcfac25cb7a",
-            "source": "spacenews",
-            "text": "HTR makes available engineering models of full-metal elastic Lunar wheels",
-            "source_link": "https://spacenews.com/htr-makes-available-engineering-models-of-full-metal-elastic-lunar-wheels/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T09:43:37.679955Z",
-            "shown_at": [
-                "2025-07-17T09:43:38.310624Z"
-            ]
-        },
-        {
-            "id": "7bbbc429a4efacd0d578427c89fc9681",
-            "source": "spacenews",
-            "text": "Duffy just getting started as acting NASA administrator",
-            "source_link": "https://spacenews.com/duffy-just-getting-started-as-acting-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T11:13:36.604180Z",
-            "shown_at": [
-                "2025-07-17T11:13:37.150050Z"
-            ]
-        },
-        {
-            "id": "2c39837a196929550e1edbc841bc87d7",
-            "source": "spacenews",
-            "text": "Lyles concerned about sweeping changes to advisory committees",
-            "source_link": "https://spacenews.com/lyles-concerned-about-sweeping-changes-to-advisory-committees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T12:55:54.106517Z",
-            "shown_at": [
-                "2025-07-17T12:55:54.735832Z"
-            ]
-        },
-        {
-            "id": "5be19af273272338db2f8de0c7c33774",
-            "source": "breaking_defense",
-            "text": "Space Force begins testing of first OCX software blocks for GPS sats",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-begins-testing-of-first-ocx-software-blocks-for-gps-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T16:57:36.233825Z",
-            "shown_at": [
-                "2025-07-17T16:57:37.243598Z",
-                "2025-07-17T20:43:50.938058Z"
             ]
         }
     ]
