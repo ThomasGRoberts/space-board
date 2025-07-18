@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 46 |
 | spacenews | 6 | 12 | 23 | 47 |
-| nyt | 0 | 1 | 20 | 43 |
-| supercluster | 0 | 1 | 143 | 282 |
+| nyt | 0 | 1 | 21 | 44 |
+| supercluster | 0 | 1 | 142 | 282 |
 
 # Shown Order
 
@@ -5043,3 +5043,4 @@
 - **Jul 18, 02:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 02:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 02:33 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 18, 02:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
