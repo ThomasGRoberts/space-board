@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 25 | 46 |
-| spacenews | 5 | 10 | 25 | 48 |
+| spacenews | 5 | 10 | 26 | 49 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 175 | 315 |
+| supercluster | 0 | 0 | 173 | 315 |
 
 # Shown Order
 
@@ -5194,3 +5194,4 @@
 - **Jul 18, 05:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 05:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 05:29 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 18, 05:43 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
