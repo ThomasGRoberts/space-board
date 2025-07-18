@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 24 | 45 |
-| spacenews | 7 | 12 | 26 | 50 |
+| spacenews | 7 | 12 | 27 | 51 |
 | nyt | 0 | 0 | 24 | 44 |
 | supercluster | 0 | 0 | 168 | 308 |
 
@@ -5237,3 +5237,4 @@
 - **Jul 18, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 09:47 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 10:01 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 18, 10:15 PM** - Duffy just getting started as acting NASA administrator (spacenews)
