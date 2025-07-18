@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 21 | 45 |
-| spacenews | 5 | 12 | 22 | 47 |
-| nyt | 0 | 1 | 21 | 44 |
+| spacenews | 6 | 13 | 23 | 48 |
+| nyt | 0 | 1 | 20 | 44 |
 | supercluster | 0 | 1 | 140 | 303 |
 
 # Shown Order
@@ -5074,3 +5074,4 @@
 - **Jul 18, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 18, 05:32 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 05:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
+- **Jul 18, 06:02 AM** - Senate confirms Guetlein to lead Golden Dome (spacenews)

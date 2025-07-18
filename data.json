@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9dc51ccfe4842374fbd67625a722852d",
+    "trigger_count": 0,
+    "current_item_id": "1930ca9dbbe95939578f84a613050cdb",
     "data": [
         {
             "id": "5be19af273272338db2f8de0c7c33774",
@@ -10580,6 +10580,18 @@
             "fetched_datetime": "2025-07-18T01:05:48.189950Z",
             "shown_at": [
                 "2025-07-18T01:05:49.288082Z"
+            ]
+        },
+        {
+            "id": "1930ca9dbbe95939578f84a613050cdb",
+            "source": "spacenews",
+            "text": "Senate confirms Guetlein to lead Golden Dome",
+            "source_link": "https://spacenews.com/senate-confirms-guetlein-to-lead-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T06:02:01.588570Z",
+            "shown_at": [
+                "2025-07-18T06:02:02.110103Z"
             ]
         }
     ]
