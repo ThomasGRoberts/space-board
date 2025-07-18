@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 20 | 45 |
 | spacenews | 6 | 13 | 23 | 48 |
 | nyt | 0 | 1 | 20 | 44 |
-| supercluster | 0 | 1 | 140 | 303 |
+| supercluster | 0 | 1 | 141 | 304 |
 
 # Shown Order
 
@@ -5075,3 +5075,4 @@
 - **Jul 18, 05:32 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 05:47 AM** - Earth Is Spinning Faster, Making Some Summer Days Shorter (nyt)
 - **Jul 18, 06:02 AM** - Senate confirms Guetlein to lead Golden Dome (spacenews)
+- **Jul 18, 06:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
