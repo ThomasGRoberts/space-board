@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 21 | 45 |
 | spacenews | 6 | 12 | 23 | 47 |
 | nyt | 0 | 1 | 20 | 43 |
-| supercluster | 0 | 1 | 140 | 275 |
+| supercluster | 0 | 1 | 141 | 276 |
 
 # Shown Order
 
@@ -5035,3 +5035,4 @@
 - **Jul 18, 01:37 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 18, 01:51 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 18, 02:05 AM** - HTR makes available engineering models of full-metal elastic Lunar wheels (spacenews)
+- **Jul 18, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
