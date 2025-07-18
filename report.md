@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 46 |
 | spacenews | 5 | 10 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 168 | 308 |
+| supercluster | 0 | 0 | 169 | 309 |
 
 # Shown Order
 
@@ -5166,3 +5166,4 @@
 - **Jul 18, 02:37 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 18, 02:51 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 18, 03:07 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 18, 03:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
