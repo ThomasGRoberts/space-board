@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 52 |
-| breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 123 | 123 |
 
 # Shown Order
@@ -4985,3 +4985,4 @@
 - **Jul 19, 09:41 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 09:43 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 09:48 PM** - Duffy just getting started as acting NASA administrator (spacenews)
+- **Jul 19, 10:02 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
