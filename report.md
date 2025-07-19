@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 26 | 51 |
+| spacenews | 2 | 7 | 25 | 51 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -4938,3 +4938,4 @@
 - **Jul 19, 05:11 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 05:26 PM** - Duffy just getting started as acting NASA administrator (spacenews)
 - **Jul 19, 05:42 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 05:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
