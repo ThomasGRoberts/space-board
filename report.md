@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 51 |
+| spacenews | 6 | 12 | 27 | 50 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4814,3 +4814,4 @@
 - **Jul 19, 02:27 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 02:41 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 02:55 AM** - Falcon 9 launches Project Kuiper satellites (spacenews)
+- **Jul 19, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
