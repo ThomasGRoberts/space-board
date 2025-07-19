@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 24 | 51 |
+| spacenews | 1 | 8 | 25 | 52 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 102 | 102 |
@@ -4954,3 +4954,4 @@
 - **Jul 19, 06:49 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 06:51 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 06:53 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 06:55 PM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-19T00:01:57.246156+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27127b753b577f98a16e2c457934ab1e",
+    "trigger_count": 0,
+    "current_item_id": "b5f7f1631c859faefa1e8061c893bbb5",
     "data": [
         {
             "id": "d3d0269228b0043973ea7d32b8b81604",
@@ -10449,6 +10449,18 @@
                 "2025-07-19T18:49:26.726399Z",
                 "2025-07-19T18:51:47.101905Z",
                 "2025-07-19T18:53:36.943397Z"
+            ]
+        },
+        {
+            "id": "b5f7f1631c859faefa1e8061c893bbb5",
+            "source": "spacenews",
+            "text": "Space Force accepts delivery of GPS control system after years of delays",
+            "source_link": "https://spacenews.com/space-force-accepts-delivery-of-gps-control-system-after-years-of-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-19T18:55:07.841840Z",
+            "shown_at": [
+                "2025-07-19T18:55:08.407810Z"
             ]
         }
     ]
