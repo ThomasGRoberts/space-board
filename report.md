@@ -5,7 +5,7 @@
 | spacenews | 5 | 8 | 27 | 48 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -4878,3 +4878,4 @@
 - **Jul 19, 11:17 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 11:31 AM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 19, 11:45 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 11:47 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
