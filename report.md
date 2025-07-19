@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 27 | 49 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 6 | 6 |
+| nyt | 0 | 0 | 23 | 44 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -4819,3 +4819,4 @@
 - **Jul 19, 05:30 AM** - ESCAPADE to launch on second New Glenn (spacenews)
 - **Jul 19, 05:43 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 05:45 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 05:47 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
