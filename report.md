@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 27 | 48 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 46 | 46 |
+| nyt | 0 | 0 | 23 | 44 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -4877,3 +4877,4 @@
 - **Jul 19, 11:02 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 19, 11:17 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 11:31 AM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
+- **Jul 19, 11:45 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
