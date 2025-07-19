@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 26 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -4889,3 +4889,4 @@
 - **Jul 19, 12:29 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 19, 12:43 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 12:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 12:47 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
