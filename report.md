@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 26 | 51 |
+| spacenews | 2 | 7 | 25 | 51 |
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -4919,3 +4919,4 @@
 - **Jul 19, 03:31 PM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
 - **Jul 19, 03:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 03:47 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 03:49 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
