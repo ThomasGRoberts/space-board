@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 26 | 51 |
 | breaking_defense | 0 | 1 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -4927,3 +4927,4 @@
 - **Jul 19, 04:02 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 04:15 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 04:29 PM** - Ax-4 private astronaut mission returns to Earth (spacenews)
+- **Jul 19, 04:43 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
