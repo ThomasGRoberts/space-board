@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -4967,3 +4967,4 @@
 - **Jul 19, 07:51 PM** - ESCAPADE to launch on second New Glenn (spacenews)
 - **Jul 19, 08:07 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 08:22 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 19, 08:35 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
