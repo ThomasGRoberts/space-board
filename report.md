@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 50 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4806,3 +4806,4 @@
 - **Jul 19, 01:59 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 19, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 19, 02:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
