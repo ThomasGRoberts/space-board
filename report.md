@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 27 | 49 |
-| breaking_defense | 0 | 1 | 23 | 44 |
-| nyt | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 1 | 24 | 45 |
+| nyt | 0 | 0 | 23 | 43 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -4844,3 +4844,4 @@
 - **Jul 19, 07:47 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 07:49 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 07:51 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 07:53 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
