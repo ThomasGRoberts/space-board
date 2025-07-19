@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 25 | 51 |
+| spacenews | 2 | 7 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
@@ -4925,3 +4925,4 @@
 - **Jul 19, 03:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 03:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 04:02 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 19, 04:15 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
