@@ -5,7 +5,7 @@
 | spacenews | 0 | 7 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -4947,3 +4947,4 @@
 - **Jul 19, 05:57 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 06:13 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 06:27 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
+- **Jul 19, 06:42 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
