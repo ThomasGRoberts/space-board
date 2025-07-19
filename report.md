@@ -5,7 +5,7 @@
 | spacenews | 2 | 9 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 116 | 116 |
+| supercluster | 1 | 1 | 117 | 117 |
 
 # Shown Order
 
@@ -4977,3 +4977,4 @@
 - **Jul 19, 08:49 PM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 19, 09:03 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 09:17 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 19, 09:31 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
