@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 27 | 50 |
+| spacenews | 7 | 12 | 28 | 51 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
 | supercluster | 0 | 0 | 168 | 308 |
@@ -5236,3 +5236,4 @@
 - **Jul 19, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 12:35 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 12:49 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 19, 01:03 AM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
