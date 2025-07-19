@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-19T00:01:57.246156+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27127b753b577f98a16e2c457934ab1e",
+    "trigger_count": 0,
+    "current_item_id": "ff826e2ca7dbd10f80eb77ffe6f5f215",
     "data": [
         {
             "id": "d3d0269228b0043973ea7d32b8b81604",
@@ -10480,6 +10480,18 @@
             "fetched_datetime": "2025-07-19T18:55:07.841840Z",
             "shown_at": [
                 "2025-07-19T18:55:08.407810Z"
+            ]
+        },
+        {
+            "id": "ff826e2ca7dbd10f80eb77ffe6f5f215",
+            "source": "spacenews",
+            "text": "Senate appropriators fund dozens of threatened NASA science missions",
+            "source_link": "https://spacenews.com/senate-appropriators-fund-dozens-of-threatened-nasa-science-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-19T20:49:45.004335Z",
+            "shown_at": [
+                "2025-07-19T20:49:46.349503Z"
             ]
         }
     ]
