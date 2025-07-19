@@ -1,9 +1,93 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-18T00:01:50.555880+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-07-19T00:01:57.246156+00:00",
+    "trigger_count": 4,
     "current_item_id": "7b9547733468a29a3f01e748803d910d",
     "data": [
+        {
+            "id": "d3d0269228b0043973ea7d32b8b81604",
+            "source": "spacenews",
+            "text": "Senate appropriators reject proposal to cancel TraCSS",
+            "source_link": "https://spacenews.com/senate-appropriators-reject-proposal-to-cancel-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T18:27:45.125906Z",
+            "shown_at": [
+                "2025-07-18T18:27:45.748416Z"
+            ]
+        },
+        {
+            "id": "6b1541c9661824a2a09336c984170589",
+            "source": "spacenews",
+            "text": "Polish space company SatRev launches Omani ground station amid international expansion",
+            "source_link": "https://spacenews.com/polish-space-company-satrev-launches-omani-ground-station-amid-international-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T18:13:36.593987Z",
+            "shown_at": [
+                "2025-07-18T18:13:37.302967Z"
+            ]
+        },
+        {
+            "id": "5b7948c90b07d1143c763781a315ef8f",
+            "source": "spacenews",
+            "text": "China conducts structural tests for Long March 10 human spaceflight rocket",
+            "source_link": "https://spacenews.com/china-conducts-structural-tests-for-long-march-10-human-spaceflight-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T13:53:37.321249Z",
+            "shown_at": [
+                "2025-07-18T13:53:37.946497Z"
+            ]
+        },
+        {
+            "id": "5f2a6ccd6a7af1aa57db70647803b5a7",
+            "source": "spacenews",
+            "text": "York Space parent company to acquire ground systems operator Atlas Space",
+            "source_link": "https://spacenews.com/york-space-parent-company-to-acquire-ground-systems-operator-atlas-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T13:11:43.746098Z",
+            "shown_at": [
+                "2025-07-18T13:11:44.416316Z"
+            ]
+        },
+        {
+            "id": "a00c403f06a3b931b8772be560b5cfef",
+            "source": "spacenews",
+            "text": "House Democrats accuse NASA of illegal impoundment of funds",
+            "source_link": "https://spacenews.com/house-democrats-accuse-nasa-of-illegal-impoundment-of-funds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T12:13:31.313101Z",
+            "shown_at": [
+                "2025-07-18T12:13:31.994423Z"
+            ]
+        },
+        {
+            "id": "1930ca9dbbe95939578f84a613050cdb",
+            "source": "spacenews",
+            "text": "Senate confirms Guetlein to lead Golden Dome",
+            "source_link": "https://spacenews.com/senate-confirms-guetlein-to-lead-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T06:02:01.588570Z",
+            "shown_at": [
+                "2025-07-18T06:02:02.110103Z"
+            ]
+        },
+        {
+            "id": "4f2cfb8155e895b3dca8b19d79b8243d",
+            "source": "spacenews",
+            "text": "ESCAPADE to launch on second New Glenn",
+            "source_link": "https://spacenews.com/escapade-to-launch-on-second-new-glenn/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-18T01:05:48.189950Z",
+            "shown_at": [
+                "2025-07-18T01:05:49.288082Z"
+            ]
+        },
         {
             "id": "5be19af273272338db2f8de0c7c33774",
             "source": "breaking_defense",
@@ -10637,198 +10721,6 @@
                 "2025-05-10T13:02:21.888691Z",
                 "2025-05-14T07:23:57.080484Z",
                 "2025-05-15T04:07:08.228129Z"
-            ]
-        },
-        {
-            "id": "d0a9fd316b8a96b982d709c550576a53",
-            "source": "spacenews",
-            "text": "The best way to prepare humans for Mars? The moon.",
-            "source_link": "https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T15:07:34.922946Z",
-            "shown_at": [
-                "2025-05-08T15:07:35.516842Z",
-                "2025-05-10T23:57:36.359341Z"
-            ]
-        },
-        {
-            "id": "6bd95d7edaca31d1012da461f2505706",
-            "source": "spacenews",
-            "text": "Beyond Golden Dome: why effective missile defense begins far left of launch",
-            "source_link": "https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T13:09:54.387709Z",
-            "shown_at": [
-                "2025-05-08T13:09:55.497677Z",
-                "2025-05-09T02:33:39.736326Z",
-                "2025-05-10T03:32:00.173147Z",
-                "2025-05-13T00:09:31.440266Z",
-                "2025-05-15T10:33:08.754698Z"
-            ]
-        },
-        {
-            "id": "364e914b557f892744a0195f649cc094",
-            "source": "spacenews",
-            "text": "Silicon solar power specialist gets $21 million for mass production",
-            "source_link": "https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T12:07:32.281975Z",
-            "shown_at": [
-                "2025-05-08T12:21:53.247761Z",
-                "2025-05-11T17:05:27.100713Z",
-                "2025-05-13T02:57:29.486496Z"
-            ]
-        },
-        {
-            "id": "d534364504b5082cec46a999e1157b4d",
-            "source": "spacenews",
-            "text": "Sierra Space completes ground demo of navigation satellite for U.S. Space Force program",
-            "source_link": "https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T12:07:32.281918Z",
-            "shown_at": [
-                "2025-05-08T12:07:32.964498Z",
-                "2025-05-09T16:59:45.345443Z",
-                "2025-05-10T01:37:29.858184Z",
-                "2025-05-11T16:07:32.665248Z",
-                "2025-05-11T20:57:38.839511Z",
-                "2025-05-14T16:32:08.449444Z"
-            ]
-        },
-        {
-            "id": "9e1a71d1d4e9d957786a055ee96ca183",
-            "source": "spacenews",
-            "text": "NASA backtracks on VIPER commercial partnership",
-            "source_link": "https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T11:53:26.385710Z",
-            "shown_at": [
-                "2025-05-08T11:53:27.045012Z",
-                "2025-05-08T16:05:32.788475Z",
-                "2025-05-11T10:23:56.507608Z",
-                "2025-05-11T11:19:28.461755Z",
-                "2025-05-13T23:53:48.413308Z",
-                "2025-05-15T08:41:43.849089Z"
-            ]
-        },
-        {
-            "id": "ca6394d5830f3e4d9a46955a6e44fd6a",
-            "source": "spacenews",
-            "text": "Commercial competition and cooperation at the moon",
-            "source_link": "https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T11:10:32.531872Z",
-            "shown_at": [
-                "2025-05-08T11:10:33.655641Z",
-                "2025-05-13T16:45:43.559311Z",
-                "2025-05-14T01:49:42.629072Z",
-                "2025-05-14T19:15:41.666379Z"
-            ]
-        },
-        {
-            "id": "812b63b2cf1cb7ccecdd676f7dba8b7c",
-            "source": "spacenews",
-            "text": "Leshin to step down as JPL director",
-            "source_link": "https://spacenews.com/leshin-to-step-down-as-jpl-director/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-07T23:37:35.395892Z",
-            "shown_at": [
-                "2025-05-07T23:37:36.775693Z",
-                "2025-05-09T23:43:39.112926Z",
-                "2025-05-10T20:07:40.564900Z",
-                "2025-05-11T13:15:49.713716Z",
-                "2025-05-12T03:27:38.241467Z"
-            ]
-        },
-        {
-            "id": "4f2cfb8155e895b3dca8b19d79b8243d",
-            "source": "spacenews",
-            "text": "ESCAPADE to launch on second New Glenn",
-            "source_link": "https://spacenews.com/escapade-to-launch-on-second-new-glenn/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T01:05:48.189950Z",
-            "shown_at": [
-                "2025-07-18T01:05:49.288082Z"
-            ]
-        },
-        {
-            "id": "1930ca9dbbe95939578f84a613050cdb",
-            "source": "spacenews",
-            "text": "Senate confirms Guetlein to lead Golden Dome",
-            "source_link": "https://spacenews.com/senate-confirms-guetlein-to-lead-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T06:02:01.588570Z",
-            "shown_at": [
-                "2025-07-18T06:02:02.110103Z"
-            ]
-        },
-        {
-            "id": "a00c403f06a3b931b8772be560b5cfef",
-            "source": "spacenews",
-            "text": "House Democrats accuse NASA of illegal impoundment of funds",
-            "source_link": "https://spacenews.com/house-democrats-accuse-nasa-of-illegal-impoundment-of-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T12:13:31.313101Z",
-            "shown_at": [
-                "2025-07-18T12:13:31.994423Z"
-            ]
-        },
-        {
-            "id": "5f2a6ccd6a7af1aa57db70647803b5a7",
-            "source": "spacenews",
-            "text": "York Space parent company to acquire ground systems operator Atlas Space",
-            "source_link": "https://spacenews.com/york-space-parent-company-to-acquire-ground-systems-operator-atlas-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T13:11:43.746098Z",
-            "shown_at": [
-                "2025-07-18T13:11:44.416316Z"
-            ]
-        },
-        {
-            "id": "5b7948c90b07d1143c763781a315ef8f",
-            "source": "spacenews",
-            "text": "China conducts structural tests for Long March 10 human spaceflight rocket",
-            "source_link": "https://spacenews.com/china-conducts-structural-tests-for-long-march-10-human-spaceflight-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T13:53:37.321249Z",
-            "shown_at": [
-                "2025-07-18T13:53:37.946497Z"
-            ]
-        },
-        {
-            "id": "6b1541c9661824a2a09336c984170589",
-            "source": "spacenews",
-            "text": "Polish space company SatRev launches Omani ground station amid international expansion",
-            "source_link": "https://spacenews.com/polish-space-company-satrev-launches-omani-ground-station-amid-international-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T18:13:36.593987Z",
-            "shown_at": [
-                "2025-07-18T18:13:37.302967Z"
-            ]
-        },
-        {
-            "id": "d3d0269228b0043973ea7d32b8b81604",
-            "source": "spacenews",
-            "text": "Senate appropriators reject proposal to cancel TraCSS",
-            "source_link": "https://spacenews.com/senate-appropriators-reject-proposal-to-cancel-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T18:27:45.125906Z",
-            "shown_at": [
-                "2025-07-18T18:27:45.748416Z"
             ]
         }
     ]
