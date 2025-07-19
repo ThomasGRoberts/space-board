@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 49 |
+| spacenews | 5 | 11 | 27 | 50 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | nyt | 0 | 0 | 24 | 44 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -4826,3 +4826,4 @@
 - **Jul 19, 05:55 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 05:57 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 06:11 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 19, 06:25 AM** - Senate confirms Guetlein to lead Golden Dome (spacenews)
