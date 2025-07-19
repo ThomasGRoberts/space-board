@@ -5,7 +5,6 @@
 | spacenews | 6 | 12 | 28 | 51 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4804,23 +4803,9 @@
 - **Jul 19, 01:31 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 01:45 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 01:59 AM** - Firefly Aerospace files to go public (spacenews)
-- **Jul 19, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 02:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 02:27 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 02:41 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 02:55 AM** - Falcon 9 launches Project Kuiper satellites (spacenews)
-- **Jul 19, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 19, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 03:23 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 03:37 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 03:51 AM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
