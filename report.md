@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 50 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4815,3 +4815,4 @@
 - **Jul 19, 02:41 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 02:55 AM** - Falcon 9 launches Project Kuiper satellites (spacenews)
 - **Jul 19, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 19, 03:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
