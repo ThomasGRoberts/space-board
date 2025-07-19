@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 27 | 49 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -4818,3 +4818,4 @@
 - **Jul 19, 05:15 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 05:30 AM** - ESCAPADE to launch on second New Glenn (spacenews)
 - **Jul 19, 05:43 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 05:45 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
