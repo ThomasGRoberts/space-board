@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 25 | 51 |
+| spacenews | 2 | 7 | 26 | 52 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 88 | 88 |
@@ -4936,3 +4936,4 @@
 - **Jul 19, 04:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 04:57 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 19, 05:11 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 19, 05:26 PM** - Duffy just getting started as acting NASA administrator (spacenews)
