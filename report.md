@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 26 | 48 |
-| breaking_defense | 0 | 1 | 23 | 45 |
+| breaking_defense | 0 | 1 | 24 | 46 |
 | nyt | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -4884,3 +4884,4 @@
 - **Jul 19, 11:53 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 11:55 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 11:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 11:59 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
