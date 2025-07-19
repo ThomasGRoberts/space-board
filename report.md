@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 27 | 48 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 39 | 39 |
+| nyt | 0 | 0 | 23 | 44 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -4867,3 +4867,4 @@
 - **Jul 19, 09:49 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 10:19 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 10:33 AM** - Support from satellite services grows to 18% of UK GDP (spacenews)
+- **Jul 19, 10:47 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
