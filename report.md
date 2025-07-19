@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -4957,3 +4957,4 @@
 - **Jul 19, 06:55 PM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
 - **Jul 19, 07:09 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 07:23 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 19, 07:37 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
