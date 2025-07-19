@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 26 | 47 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| nyt | 0 | 0 | 23 | 43 |
+| nyt | 0 | 0 | 24 | 44 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -4875,3 +4875,4 @@
 - **Jul 19, 10:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 10:59 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 11:02 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 19, 11:17 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
