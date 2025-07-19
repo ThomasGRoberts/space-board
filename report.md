@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 50 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 25 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 0 | 0 | 171 | 315 |
+| supercluster | 0 | 0 | 170 | 315 |
 
 # Shown Order
 
@@ -5244,3 +5244,4 @@
 - **Jul 19, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 01:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 19, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 19, 01:31 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
