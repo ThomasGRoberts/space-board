@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 50 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4805,3 +4805,4 @@
 - **Jul 19, 01:45 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 01:59 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 19, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 19, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
