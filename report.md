@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 52 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 116 | 116 |
 
@@ -4975,3 +4975,4 @@
 - **Jul 19, 08:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 08:48 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 08:49 PM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
+- **Jul 19, 09:03 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
