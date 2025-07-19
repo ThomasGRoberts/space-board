@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 24 | 51 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 
 # Shown Order
 
@@ -4972,3 +4972,4 @@
 - **Jul 19, 08:39 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 08:41 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 08:43 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 08:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
