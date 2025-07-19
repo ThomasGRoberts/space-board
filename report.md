@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 26 | 48 |
+| spacenews | 4 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 | supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
@@ -4885,3 +4885,4 @@
 - **Jul 19, 11:55 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 11:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 11:59 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 19, 12:13 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
