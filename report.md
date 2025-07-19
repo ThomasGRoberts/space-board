@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 27 | 49 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -4857,3 +4857,4 @@
 - **Jul 19, 08:51 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 09:07 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 09:21 AM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
+- **Jul 19, 09:35 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
