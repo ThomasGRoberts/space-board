@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 26 | 49 |
-| breaking_defense | 0 | 1 | 24 | 46 |
+| breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -4887,3 +4887,4 @@
 - **Jul 19, 11:59 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 12:13 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 19, 12:29 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
+- **Jul 19, 12:43 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
