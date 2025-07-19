@@ -5,7 +5,7 @@
 | spacenews | 2 | 9 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 130 | 130 |
+| supercluster | 1 | 1 | 131 | 131 |
 
 # Shown Order
 
@@ -4997,3 +4997,4 @@
 - **Jul 19, 10:43 PM** - China conducts structural tests for Long March 10 human spaceflight rocket (spacenews)
 - **Jul 19, 10:57 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 19, 11:13 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 19, 11:27 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
