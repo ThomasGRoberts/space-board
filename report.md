@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 27 | 49 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -4827,3 +4827,4 @@
 - **Jul 19, 05:57 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 06:11 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 06:25 AM** - Senate confirms Guetlein to lead Golden Dome (spacenews)
+- **Jul 19, 06:41 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
