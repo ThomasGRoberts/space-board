@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 27 | 49 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | nyt | 0 | 0 | 24 | 44 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -4848,3 +4848,4 @@
 - **Jul 19, 08:09 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 08:23 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
 - **Jul 19, 08:37 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 19, 08:39 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
