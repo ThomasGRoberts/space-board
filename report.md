@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 25 | 51 |
+| spacenews | 1 | 7 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
@@ -4945,3 +4945,4 @@
 - **Jul 19, 05:53 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 05:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 19, 05:57 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 19, 06:13 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
