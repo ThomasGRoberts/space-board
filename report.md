@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 25 | 52 |
 | supercluster | 0 | 1 | 168 | 207 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5100,3 +5100,4 @@
 - **Jul 20, 09:23 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 09:25 AM** - The defense establishment’s AI awakening (spacenews)
 - **Jul 20, 09:39 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 20, 09:53 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
