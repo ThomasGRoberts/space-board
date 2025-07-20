@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 50 |
-| supercluster | 0 | 1 | 170 | 258 |
-| breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 49 |
+| supercluster | 0 | 1 | 171 | 259 |
+| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5173,3 +5173,4 @@
 - **Jul 20, 04:41 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 20, 04:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 04:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 20, 04:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
