@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 25 | 51 |
-| supercluster | 0 | 1 | 175 | 228 |
-| breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| supercluster | 0 | 1 | 174 | 228 |
+| breaking_defense | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5130,3 +5130,4 @@
 - **Jul 20, 12:11 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 12:13 PM** - The urgent need for new rules of the road in space and cyber (spacenews)
 - **Jul 20, 12:28 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 20, 12:44 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
