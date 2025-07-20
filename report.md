@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 25 | 50 |
-| supercluster | 0 | 1 | 171 | 263 |
+| supercluster | 0 | 1 | 172 | 264 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5181,3 +5181,4 @@
 - **Jul 20, 05:09 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 20, 05:23 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 20, 05:37 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 20, 05:51 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
