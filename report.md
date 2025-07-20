@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 51 |
 | supercluster | 1 | 1 | 158 | 158 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -5030,3 +5030,4 @@
 - **Jul 20, 02:37 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 02:39 AM** - Support from satellite services grows to 18% of UK GDP (spacenews)
 - **Jul 20, 02:53 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 20, 03:07 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
