@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 51 |
 | supercluster | 1 | 1 | 151 | 151 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -5020,3 +5020,4 @@
 - **Jul 20, 01:37 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:40 AM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 20, 01:53 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 20, 02:09 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
