@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 52 |
-| supercluster | 0 | 1 | 175 | 214 |
+| supercluster | 0 | 1 | 173 | 214 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5110,3 +5110,4 @@
 - **Jul 20, 10:19 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 10:21 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 20, 10:35 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 20, 10:49 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
