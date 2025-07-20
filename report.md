@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 26 | 52 |
+| spacenews | 3 | 8 | 25 | 52 |
 | supercluster | 0 | 1 | 175 | 221 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5119,3 +5119,4 @@
 - **Jul 20, 11:13 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 11:15 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 11:17 AM** - How China will own the moon — unless we act now (spacenews)
+- **Jul 20, 11:31 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
