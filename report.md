@@ -5,7 +5,7 @@
 | spacenews | 2 | 7 | 25 | 52 |
 | supercluster | 0 | 1 | 168 | 200 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5090,3 +5090,4 @@
 - **Jul 20, 08:21 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 08:24 AM** - Senate confirms Guetlein to lead Golden Dome (spacenews)
 - **Jul 20, 08:39 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 20, 08:55 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
