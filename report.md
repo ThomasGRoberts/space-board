@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 168 | 291 |
+| supercluster | 0 | 1 | 169 | 292 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5221,3 +5221,4 @@
 - **Jul 20, 09:03 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 20, 09:19 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 20, 09:33 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 20, 09:47 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
