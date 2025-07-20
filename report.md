@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 50 |
+| spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 298 |
-| breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -5229,3 +5229,4 @@
 - **Jul 20, 09:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 09:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 10:01 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
+- **Jul 20, 10:15 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
