@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 52 |
 | supercluster | 0 | 1 | 168 | 193 |
-| breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5080,3 +5080,4 @@
 - **Jul 20, 07:21 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 07:23 AM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
 - **Jul 20, 07:37 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 20, 07:53 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
