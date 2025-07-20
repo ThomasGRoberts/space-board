@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 25 | 50 |
+| spacenews | 3 | 5 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 249 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
@@ -5158,3 +5158,4 @@
 - **Jul 20, 03:08 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 03:10 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 03:13 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 20, 03:14 PM** - HTR makes available engineering models of full-metal elastic Lunar wheels (spacenews)
