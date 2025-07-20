@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 52 |
 | supercluster | 1 | 1 | 165 | 165 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -5039,3 +5039,4 @@
 - **Jul 20, 03:31 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 03:33 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 03:35 AM** - The defense establishment’s AI awakening (spacenews)
+- **Jul 20, 03:49 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
