@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 0 | 1 | 175 | 235 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5140,3 +5140,4 @@
 - **Jul 20, 01:11 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:13 PM** - Duffy just getting started as acting NASA administrator (spacenews)
 - **Jul 20, 01:27 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 20, 01:43 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
