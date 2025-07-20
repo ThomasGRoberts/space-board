@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 235 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5139,3 +5139,4 @@
 - **Jul 20, 01:09 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:11 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:13 PM** - Duffy just getting started as acting NASA administrator (spacenews)
+- **Jul 20, 01:27 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
