@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 26 | 51 |
 | supercluster | 0 | 1 | 175 | 242 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5149,3 +5149,4 @@
 - **Jul 20, 02:08 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 02:10 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 02:13 PM** - China enters race for LEO broadband dominance (spacenews)
+- **Jul 20, 02:27 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
