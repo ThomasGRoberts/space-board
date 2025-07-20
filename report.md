@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 25 | 52 |
 | supercluster | 0 | 1 | 175 | 186 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5069,3 +5069,4 @@
 - **Jul 20, 06:23 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 06:25 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 06:27 AM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
+- **Jul 20, 06:41 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
