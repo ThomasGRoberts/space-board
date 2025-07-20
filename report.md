@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 52 |
 | supercluster | 1 | 1 | 151 | 151 |
-| breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -5019,3 +5019,4 @@
 - **Jul 20, 01:35 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:37 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 01:40 AM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
+- **Jul 20, 01:53 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
