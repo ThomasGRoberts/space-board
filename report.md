@@ -3,14 +3,12 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 52 |
-| breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 137 | 137 |
+| breaking_defense | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
-- **May 08, 07:11 PM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
-- **May 08, 07:55 PM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
 - **May 08, 08:39 PM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 08, 09:21 PM** - China issues regulatory framework to support direct-to-device satellite services (spacenews)
 - **May 08, 09:35 PM** - German defense firm partners with Iceye to build SAR satellites (spacenews)
@@ -33,7 +31,6 @@
 - **May 10, 10:49 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 10, 11:03 AM** - China to launch new modules to Tiangong space station (spacenews)
 - **May 10, 11:47 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
-- **May 10, 01:02 PM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 10, 02:43 PM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 10, 03:27 PM** - Trump administration to keep National Space Council (spacenews)
 - **May 10, 04:23 PM** - Trump administration to keep National Space Council (spacenews)
@@ -47,7 +44,6 @@
 - **May 11, 04:39 AM** - Trump administration to keep National Space Council (spacenews)
 - **May 11, 05:37 AM** - Startups need a clear path to working with the European Defence Agency (spacenews)
 - **May 11, 06:35 AM** - Space Force sharpens focus on deterring rivals (spacenews)
-- **May 11, 08:29 AM** - U.S. Space Force narrows field in $100 million space laser terminal program (spacenews)
 - **May 11, 08:43 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 11, 08:57 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
 - **May 11, 12:17 PM** - Startups need a clear path to working with the European Defence Agency (spacenews)
@@ -134,7 +130,6 @@
 - **May 14, 05:27 AM** - Space agencies grapple with potential changes to Artemis (spacenews)
 - **May 14, 05:41 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 06:39 AM** - Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century (nyt)
-- **May 14, 07:23 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 14, 07:37 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 14, 08:07 AM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 14, 08:21 AM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
@@ -195,7 +190,6 @@
 - **May 15, 03:11 AM** - Space Force sharpens focus on deterring rivals (spacenews)
 - **May 15, 03:39 AM** - Space stalwart Troy Meink confirmed as Air Force secretary (breaking_defense)
 - **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 15, 04:07 AM** - Military satellite program highlights role of ‘mission integrators’ (spacenews)
 - **May 15, 05:19 AM** - Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff (breaking_defense)
 - **May 15, 05:35 AM** - NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S. (nyt)
 - **May 15, 05:49 AM** - Big ideas need big rockets (spacenews)
