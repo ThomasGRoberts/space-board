@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 25 | 52 |
-| supercluster | 0 | 1 | 168 | 186 |
+| spacenews | 2 | 7 | 25 | 51 |
+| supercluster | 0 | 1 | 169 | 187 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 
@@ -5071,3 +5071,4 @@
 - **Jul 20, 06:27 AM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
 - **Jul 20, 06:41 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 20, 06:55 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 20, 07:09 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
