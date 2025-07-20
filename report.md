@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 52 |
 | supercluster | 1 | 1 | 172 | 172 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5049,3 +5049,4 @@
 - **Jul 20, 04:29 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 04:31 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 04:34 AM** - Space Force sets guidelines prioritizing military missions as launch demand surges (spacenews)
+- **Jul 20, 04:49 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
