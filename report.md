@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 51 |
-| supercluster | 1 | 1 | 165 | 165 |
+| supercluster | 1 | 1 | 166 | 166 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -5041,3 +5041,4 @@
 - **Jul 20, 03:35 AM** - The defense establishment’s AI awakening (spacenews)
 - **Jul 20, 03:49 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 20, 04:03 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 20, 04:17 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
