@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 26 | 50 |
 | supercluster | 0 | 1 | 175 | 270 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5189,3 +5189,4 @@
 - **Jul 20, 06:01 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 06:03 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 20, 06:05 PM** - Solestial wins $1.2 million SpaceWERX contract (spacenews)
+- **Jul 20, 06:20 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
