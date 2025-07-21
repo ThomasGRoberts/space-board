@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 23 | 48 |
+| nyt | 1 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -5000,3 +5000,4 @@
 - **Jul 21, 10:33 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 10:35 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 10:37 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 21, 10:39 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
