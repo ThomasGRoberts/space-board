@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 49 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5303,3 +5303,4 @@
 - **Jul 21, 06:52 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 06:54 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 21, 07:12 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 21, 07:30 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
