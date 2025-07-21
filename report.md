@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 333 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
@@ -5262,3 +5262,4 @@
 - **Jul 21, 02:48 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 02:50 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 02:52 AM** - How China will own the moon — unless we act now (spacenews)
+- **Jul 21, 03:05 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
