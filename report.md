@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 
 # Shown Order
 
@@ -5384,3 +5384,4 @@
 - **Jul 21, 03:09 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 03:11 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 03:13 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 21, 03:27 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
