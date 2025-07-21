@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 170 | 328 |
+| spacenews | 1 | 3 | 24 | 49 |
+| supercluster | 0 | 1 | 171 | 329 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5256,3 +5256,4 @@
 - **Jul 21, 02:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 21, 02:37 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 02:39 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 02:41 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
