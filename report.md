@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 168 | 341 |
+| supercluster | 0 | 0 | 169 | 340 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 1 | 1 | 24 | 49 |
 
@@ -5436,3 +5436,4 @@
 - **Jul 21, 07:59 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 21, 08:13 PM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
 - **Jul 21, 08:27 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 21, 08:41 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
