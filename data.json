@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 2,
-    "current_item_id": "27127b753b577f98a16e2c457934ab1e",
+    "trigger_count": 3,
+    "current_item_id": "7aee660a2b86d251da789cd93e5e5072",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -10548,17 +10548,17 @@
             ]
         },
         {
-            "id": "27127b753b577f98a16e2c457934ab1e",
+            "id": "7aee660a2b86d251da789cd93e5e5072",
             "source": "supercluster",
-            "text": "SpaceX Will Launch SES Internet Satellites",
-            "source_link": "https://www.supercluster.com/launches/o3b-mpower-9-and-10",
+            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
+            "source_link": "https://www.supercluster.com/launches/tracers",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-21T21:27:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-21T21:27:50.523284Z",
+            "target_datetime": "2025-07-22T18:13:00.000Z",
+            "time_remaining": "0d 20h 37m",
+            "fetched_datetime": "2025-07-21T21:35:11.612603Z",
             "shown_at": [
-                "2025-07-21T21:27:51.876223Z"
+                "2025-07-21T21:35:12.217551Z"
             ]
         }
     ]
