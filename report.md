@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 49 |
-| supercluster | 0 | 0 | 175 | 344 |
+| spacenews | 2 | 4 | 25 | 50 |
+| supercluster | 0 | 0 | 175 | 343 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
@@ -5341,3 +5341,4 @@
 - **Jul 21, 10:53 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 10:55 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 10:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 10:59 AM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
