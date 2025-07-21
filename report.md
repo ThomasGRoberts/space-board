@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -5001,3 +5001,4 @@
 - **Jul 21, 10:35 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 10:37 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 10:39 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 21, 10:53 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
