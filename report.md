@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 50 |
 | supercluster | 0 | 0 | 175 | 343 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5282,3 +5282,4 @@
 - **Jul 21, 04:43 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 04:45 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 04:47 AM** - New study calls for rapid development of space nuclear power systems (spacenews)
+- **Jul 21, 05:02 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
