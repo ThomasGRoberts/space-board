@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 25 | 50 |
+| spacenews | 5 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 49 |
@@ -5444,3 +5444,4 @@
 - **Jul 21, 08:51 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 08:53 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 08:55 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 21, 09:09 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)

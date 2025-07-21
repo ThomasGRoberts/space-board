@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fda968937eed9e67c1b0f447aeb3ac3",
+    "trigger_count": 0,
+    "current_item_id": "9251a8a06b008a0dbacbb143385ab1c0",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -11005,6 +11005,18 @@
             "fetched_datetime": "2025-07-21T18:19:40.846469Z",
             "shown_at": [
                 "2025-07-21T18:19:41.410763Z"
+            ]
+        },
+        {
+            "id": "9251a8a06b008a0dbacbb143385ab1c0",
+            "source": "spacenews",
+            "text": "Lynk Global breaks up with Slam Corp and settles legal dispute",
+            "source_link": "https://spacenews.com/lynk-global-breaks-up-with-slam-corp-and-settles-legal-dispute/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T21:09:21.438093Z",
+            "shown_at": [
+                "2025-07-21T21:09:22.096118Z"
             ]
         }
     ]
