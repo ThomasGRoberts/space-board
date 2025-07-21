@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 50 |
-| supercluster | 0 | 0 | 174 | 343 |
-| breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 49 |
+| supercluster | 0 | 0 | 173 | 343 |
+| breaking_defense | 0 | 0 | 25 | 49 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -5302,3 +5302,4 @@
 - **Jul 21, 06:49 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 06:52 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 06:54 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
+- **Jul 21, 07:12 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
