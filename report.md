@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 168 | 338 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 49 |
 
 # Shown Order
@@ -5397,3 +5397,4 @@
 - **Jul 21, 04:27 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 21, 04:41 PM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 21, 04:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 04:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
