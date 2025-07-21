@@ -5396,3 +5396,4 @@
 - **Jul 21, 04:13 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 21, 04:27 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 21, 04:41 PM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
+- **Jul 21, 04:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
