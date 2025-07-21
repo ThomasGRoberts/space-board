@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 50 |
-| supercluster | 0 | 0 | 171 | 343 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| supercluster | 0 | 0 | 170 | 343 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5332,3 +5332,4 @@
 - **Jul 21, 09:59 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 10:01 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 10:03 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
+- **Jul 21, 10:17 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
