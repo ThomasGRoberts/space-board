@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -5004,3 +5004,4 @@
 - **Jul 21, 10:53 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 21, 11:07 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 21, 11:21 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 21, 11:23 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
