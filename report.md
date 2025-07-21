@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 25 | 50 |
 | supercluster | 0 | 0 | 168 | 343 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 1 | 1 | 25 | 49 |
 
 # Shown Order
@@ -5364,3 +5364,4 @@
 - **Jul 21, 12:51 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 21, 01:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 21, 01:21 PM** - Zero-gravity flights elevate new perspectives for a better space future (spacenews)
+- **Jul 21, 01:35 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
