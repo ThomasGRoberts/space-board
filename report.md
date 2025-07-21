@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 24 | 49 |
-| supercluster | 0 | 0 | 168 | 343 |
+| supercluster | 0 | 0 | 169 | 344 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5354,3 +5354,4 @@
 - **Jul 21, 11:55 AM** - ESCAPADE to launch on second New Glenn (spacenews)
 - **Jul 21, 12:09 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 12:24 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 21, 12:37 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
