@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27127b753b577f98a16e2c457934ab1e",
+    "trigger_count": 0,
+    "current_item_id": "c4ba8933dc6958354f3f78eb8cb6c080",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -10826,6 +10826,18 @@
                 "2025-05-08T21:21:40.467832Z",
                 "2025-05-10T23:02:05.270238Z",
                 "2025-05-12T18:35:51.745360Z"
+            ]
+        },
+        {
+            "id": "c4ba8933dc6958354f3f78eb8cb6c080",
+            "source": "spacenews",
+            "text": "Tendeg secures repeat order for twelve large deployable antennas from Capella Space",
+            "source_link": "https://spacenews.com/tendeg-gets-capella-space-repeat-order-of-twelve-large-deployable-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T10:03:30.022264Z",
+            "shown_at": [
+                "2025-07-21T10:03:30.613945Z"
             ]
         }
     ]
