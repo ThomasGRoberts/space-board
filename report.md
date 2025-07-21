@@ -5376,3 +5376,4 @@
 - **Jul 21, 02:18 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
 - **Jul 21, 02:31 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 02:45 PM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
+- **Jul 21, 02:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
