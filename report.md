@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 25 | 50 |
+| spacenews | 5 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -4992,3 +4992,4 @@
 - **Jul 21, 09:41 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 09:43 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 21, 09:57 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 21, 10:11 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
