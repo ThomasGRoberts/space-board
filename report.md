@@ -5426,3 +5426,4 @@
 - **Jul 21, 07:02 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 21, 07:17 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
 - **Jul 21, 07:31 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 21, 07:45 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
