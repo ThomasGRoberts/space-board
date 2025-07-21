@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 168 | 337 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| supercluster | 0 | 0 | 168 | 338 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 49 |
 
 # Shown Order
@@ -5377,3 +5377,4 @@
 - **Jul 21, 02:31 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 02:45 PM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
 - **Jul 21, 02:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 03:02 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
