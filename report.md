@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 168 | 336 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| supercluster | 0 | 0 | 169 | 337 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5314,3 +5314,4 @@
 - **Jul 21, 08:03 AM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
 - **Jul 21, 08:22 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 21, 08:37 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 21, 08:52 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
