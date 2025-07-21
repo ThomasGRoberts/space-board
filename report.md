@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 319 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5242,3 +5242,4 @@
 - **Jul 21, 12:54 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 12:56 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 12:58 AM** - China enters race for LEO broadband dominance (spacenews)
+- **Jul 21, 01:12 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
