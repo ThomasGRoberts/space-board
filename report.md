@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 24 | 49 |
+| spacenews | 1 | 3 | 25 | 50 |
 | supercluster | 0 | 0 | 175 | 343 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
@@ -5311,3 +5311,4 @@
 - **Jul 21, 07:55 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 07:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 08:00 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 08:03 AM** - Protestors rally behind NASA in the face of budget cuts and layoffs (spacenews)
