@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f229a9ebbcebd5f7e75a34733d99d448",
+    "trigger_count": 0,
+    "current_item_id": "0aa99a6d3f7f198948cf068ccd6bc548",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -10868,6 +10868,18 @@
             "fetched_datetime": "2025-07-21T10:03:30.022264Z",
             "shown_at": [
                 "2025-07-21T10:03:30.613945Z"
+            ]
+        },
+        {
+            "id": "0aa99a6d3f7f198948cf068ccd6bc548",
+            "source": "nyt",
+            "text": "Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter",
+            "source_link": "https://www.nytimes.com/2025/07/21/science/nasa-formal-dissent-letter-trump.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T13:07:31.246897Z",
+            "shown_at": [
+                "2025-07-21T13:07:31.984156Z"
             ]
         }
     ]

@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 25 | 50 |
 | supercluster | 0 | 0 | 171 | 343 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 49 |
+| nyt | 1 | 1 | 25 | 50 |
 
 # Shown Order
 
@@ -5362,3 +5362,4 @@
 - **Jul 21, 12:47 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 12:49 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 12:51 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
+- **Jul 21, 01:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
