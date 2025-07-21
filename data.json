@@ -1,9 +1,22 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-20T00:00:00.802768+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
+    "trigger_count": 2,
     "current_item_id": "62a15926a215155f26a88a24543b1855",
     "data": [
+        {
+            "id": "bab1feb385016ed68395222a1403eb03",
+            "source": "spacenews",
+            "text": "How China will own the moon — unless we act now",
+            "source_link": "https://spacenews.com/how-china-will-own-the-moon-unless-we-act-now/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-20T11:17:45.433982Z",
+            "shown_at": [
+                "2025-07-20T11:17:46.653109Z",
+                "2025-07-20T17:09:48.400614Z"
+            ]
+        },
         {
             "id": "ff826e2ca7dbd10f80eb77ffe6f5f215",
             "source": "spacenews",
@@ -10714,47 +10727,6 @@
                 "2025-05-08T21:21:40.467832Z",
                 "2025-05-10T23:02:05.270238Z",
                 "2025-05-12T18:35:51.745360Z"
-            ]
-        },
-        {
-            "id": "ac7357ad06cf81487885436f482b5b5a",
-            "source": "breaking_defense",
-            "text": "Who’s Who in Defense: Dan Caine, Chairman, Joint Chiefs of Staff",
-            "source_link": "https://breakingdefense.com/2025/05/whos-who-in-defense-dan-caine-chairman-joint-chiefs-of-staff/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T20:39:28.623125Z",
-            "shown_at": [
-                "2025-05-08T20:39:29.334405Z",
-                "2025-05-09T01:07:51.563253Z",
-                "2025-05-09T16:17:46.516575Z",
-                "2025-05-10T07:33:56.949094Z",
-                "2025-05-11T03:57:45.626094Z",
-                "2025-05-11T08:43:28.809223Z",
-                "2025-05-12T22:39:38.954592Z",
-                "2025-05-13T15:57:45.547295Z",
-                "2025-05-14T02:17:31.496459Z",
-                "2025-05-14T08:39:28.077242Z",
-                "2025-05-14T11:33:42.540299Z",
-                "2025-05-14T12:45:57.586225Z",
-                "2025-05-14T14:59:44.914430Z",
-                "2025-05-15T05:19:17.539626Z",
-                "2025-05-15T12:25:33.009160Z",
-                "2025-05-15T14:32:11.090953Z",
-                "2025-05-15T17:25:32.829946Z"
-            ]
-        },
-        {
-            "id": "bab1feb385016ed68395222a1403eb03",
-            "source": "spacenews",
-            "text": "How China will own the moon — unless we act now",
-            "source_link": "https://spacenews.com/how-china-will-own-the-moon-unless-we-act-now/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-20T11:17:45.433982Z",
-            "shown_at": [
-                "2025-07-20T11:17:46.653109Z",
-                "2025-07-20T17:09:48.400614Z"
             ]
         }
     ]
