@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 1 | 175 | 326 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5253,3 +5253,4 @@
 - **Jul 21, 01:54 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 01:56 AM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 21, 02:09 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 21, 02:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
