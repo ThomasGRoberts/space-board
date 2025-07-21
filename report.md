@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 0 | 0 | 168 | 338 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| supercluster | 0 | 0 | 168 | 339 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 49 |
 
 # Shown Order
@@ -5388,3 +5388,4 @@
 - **Jul 21, 03:43 PM** - Senate confirms Guetlein to lead Golden Dome (spacenews)
 - **Jul 21, 03:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 03:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 21, 04:02 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
