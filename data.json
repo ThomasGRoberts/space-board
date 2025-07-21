@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5be19af273272338db2f8de0c7c33774",
+    "trigger_count": 0,
+    "current_item_id": "ac0a93ca4ae905b3a559eb2c84c12643",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -10964,6 +10964,18 @@
             "fetched_datetime": "2025-07-21T15:13:33.392349Z",
             "shown_at": [
                 "2025-07-21T15:13:33.935812Z"
+            ]
+        },
+        {
+            "id": "ac0a93ca4ae905b3a559eb2c84c12643",
+            "source": "spacenews",
+            "text": "NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery",
+            "source_link": "https://spacenews.com/nro-extends-data-contract-with-hydrosat-to-leverage-thermal-infrared-satellite-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T18:19:40.846469Z",
+            "shown_at": [
+                "2025-07-21T18:19:41.410763Z"
             ]
         }
     ]
