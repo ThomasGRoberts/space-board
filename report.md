@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 26 | 51 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 
 # Shown Order
 
@@ -5415,3 +5415,4 @@
 - **Jul 21, 06:03 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 06:05 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 06:19 PM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
+- **Jul 21, 06:33 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
