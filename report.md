@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 24 | 50 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5343,3 +5343,4 @@
 - **Jul 21, 10:57 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 10:59 AM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
 - **Jul 21, 11:13 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 21, 11:27 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
