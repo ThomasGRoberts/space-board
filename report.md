@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 50 |
-| supercluster | 0 | 0 | 168 | 343 |
+| spacenews | 1 | 3 | 24 | 49 |
+| supercluster | 0 | 0 | 169 | 344 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5284,3 +5284,4 @@
 - **Jul 21, 04:47 AM** - New study calls for rapid development of space nuclear power systems (spacenews)
 - **Jul 21, 05:02 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 21, 05:17 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 21, 05:32 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
