@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -5011,3 +5011,4 @@
 - **Jul 21, 11:31 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 11:33 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 11:35 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 21, 11:49 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
