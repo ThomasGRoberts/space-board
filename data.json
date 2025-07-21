@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5be19af273272338db2f8de0c7c33774",
+    "trigger_count": 0,
+    "current_item_id": "7446d89fbc2e491a5593ae67ec751261",
     "data": [
         {
             "id": "bab1feb385016ed68395222a1403eb03",
@@ -10903,6 +10903,18 @@
             "fetched_datetime": "2025-07-21T13:21:37.646450Z",
             "shown_at": [
                 "2025-07-21T13:21:38.194129Z"
+            ]
+        },
+        {
+            "id": "7446d89fbc2e491a5593ae67ec751261",
+            "source": "spacenews",
+            "text": "Space Force rehearses mobilization of private satellite assets during orbital emergencies",
+            "source_link": "https://spacenews.com/space-force-rehearses-mobilization-of-private-satellite-assets-during-orbital-emergencies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T14:45:51.163964Z",
+            "shown_at": [
+                "2025-07-21T14:45:51.920626Z"
             ]
         }
     ]
