@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 13 | 13 |
+| nyt | 1 | 1 | 23 | 48 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -5005,3 +5005,4 @@
 - **Jul 21, 11:07 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 21, 11:21 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 21, 11:23 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 21, 11:26 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
