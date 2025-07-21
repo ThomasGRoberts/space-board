@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 169 | 333 |
+| supercluster | 0 | 1 | 169 | 334 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5264,3 +5264,4 @@
 - **Jul 21, 02:52 AM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 21, 03:05 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 21, 03:20 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 21, 03:33 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
