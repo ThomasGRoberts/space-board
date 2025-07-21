@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 24 | 50 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 0 | 0 | 25 | 49 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -5353,3 +5353,4 @@
 - **Jul 21, 11:53 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 11:55 AM** - ESCAPADE to launch on second New Glenn (spacenews)
 - **Jul 21, 12:09 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 21, 12:24 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
