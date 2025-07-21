@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 24 | 49 |
-| supercluster | 0 | 0 | 168 | 341 |
+| supercluster | 0 | 0 | 169 | 341 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5304,3 +5304,4 @@
 - **Jul 21, 06:54 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 21, 07:12 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 07:30 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 21, 07:44 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
