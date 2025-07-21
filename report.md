@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 26 | 51 |
 | supercluster | 0 | 0 | 168 | 343 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 
 # Shown Order
 
@@ -5425,3 +5425,4 @@
 - **Jul 21, 06:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 07:02 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 21, 07:17 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
+- **Jul 21, 07:31 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
