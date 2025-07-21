@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 168 | 340 |
+| supercluster | 0 | 1 | 169 | 341 |
 | breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 49 |
 
@@ -5274,3 +5274,4 @@
 - **Jul 21, 03:47 AM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
 - **Jul 21, 04:02 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 21, 04:18 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
+- **Jul 21, 04:34 AM** - SpaceX Will Launch SES Internet Satellites (supercluster)
