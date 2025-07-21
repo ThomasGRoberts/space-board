@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 25 | 51 |
+| spacenews | 2 | 5 | 25 | 50 |
 | supercluster | 0 | 0 | 168 | 343 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 1 | 1 | 25 | 49 |
 
 # Shown Order
@@ -5374,3 +5374,4 @@
 - **Jul 21, 02:01 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 21, 02:03 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 21, 02:18 PM** - SES to close Intelsat deal July 17 after clearing all regulatory approvals (spacenews)
+- **Jul 21, 02:31 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
