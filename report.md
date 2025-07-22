@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 32 | 32 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5001,3 +5001,4 @@
 - **Jul 22, 01:31 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 22, 01:45 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 22, 01:59 AM** - New study calls for rapid development of space nuclear power systems (spacenews)
+- **Jul 22, 02:14 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)

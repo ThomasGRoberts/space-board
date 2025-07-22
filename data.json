@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 6,
-    "current_item_id": "41c3d55a928d2ff7372ee82fe4603cbb",
+    "trigger_count": 0,
+    "current_item_id": "0942ca7f7a8db07273478ee94fa8691a",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10507,6 +10507,18 @@
             "fetched_datetime": "2025-07-22T01:03:33.040682Z",
             "shown_at": [
                 "2025-07-22T01:03:33.626814Z"
+            ]
+        },
+        {
+            "id": "0942ca7f7a8db07273478ee94fa8691a",
+            "source": "nyt",
+            "text": "When Betelgeuse Explodes, It’s Going to Take Out Another Star",
+            "source_link": "https://www.nytimes.com/2025/07/21/science/betelgeuse-star-companion.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T02:14:00.386673Z",
+            "shown_at": [
+                "2025-07-22T02:14:01.678882Z"
             ]
         }
     ]
