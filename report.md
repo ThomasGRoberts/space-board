@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 67 | 67 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5051,3 +5051,4 @@
 - **Jul 22, 06:27 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 06:29 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 22, 06:43 AM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
+- **Jul 22, 06:57 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
