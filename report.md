@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | spacenews | 5 | 7 | 26 | 51 |
-| breaking_defense | 1 | 1 | 25 | 49 |
+| breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
@@ -5088,3 +5088,4 @@
 - **Jul 22, 10:11 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:13 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 10:17 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
