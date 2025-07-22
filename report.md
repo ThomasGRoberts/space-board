@@ -5,7 +5,6 @@
 | spacenews | 6 | 11 | 28 | 54 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5021,33 +5020,12 @@
 - **Jul 22, 05:41 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 22, 05:55 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 22, 06:09 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
-- **Jul 22, 06:23 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:25 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:27 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:29 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:31 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:33 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 06:35 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 06:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 06:51 PM** - Falcon 9 launches Project Kuiper satellites (spacenews)
 - **Jul 22, 07:05 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 22, 07:19 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:21 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:23 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:25 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:27 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:29 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 07:31 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 07:33 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 22, 07:47 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
 - **Jul 22, 08:02 PM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
 - **Jul 22, 08:17 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 22, 08:32 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 22, 08:49 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 08:51 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 08:53 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 08:55 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 08:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 08:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
-- **Jul 22, 09:01 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 09:03 PM** - New study calls for rapid development of space nuclear power systems (spacenews)
