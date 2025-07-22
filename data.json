@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 6,
-    "current_item_id": "41c3d55a928d2ff7372ee82fe4603cbb",
+    "trigger_count": 0,
+    "current_item_id": "27127b753b577f98a16e2c457934ab1e",
     "data": [
         {
             "id": "9251a8a06b008a0dbacbb143385ab1c0",
@@ -10600,6 +10600,20 @@
             "fetched_datetime": "2025-07-22T20:17:44.175443Z",
             "shown_at": [
                 "2025-07-22T20:17:45.386971Z"
+            ]
+        },
+        {
+            "id": "27127b753b577f98a16e2c457934ab1e",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch SES Internet Satellites",
+            "source_link": "https://www.supercluster.com/launches/o3b-mpower-9-and-10",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-22T21:12:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-07-22T21:19:33.040832Z",
+            "shown_at": [
+                "2025-07-22T21:19:33.665388Z"
             ]
         }
     ]
