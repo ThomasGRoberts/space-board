@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 2 | 2 | 24 | 49 |
@@ -5002,3 +5002,4 @@
 - **Jul 22, 01:45 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 22, 01:59 AM** - New study calls for rapid development of space nuclear power systems (spacenews)
 - **Jul 22, 02:14 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 22, 02:27 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
