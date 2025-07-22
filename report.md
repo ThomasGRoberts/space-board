@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | spacenews | 7 | 9 | 27 | 52 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 49 |
@@ -5114,3 +5114,4 @@
 - **Jul 22, 12:41 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 22, 12:55 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 22, 01:09 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 22, 01:23 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
