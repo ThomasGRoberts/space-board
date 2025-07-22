@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 28 | 53 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -5045,3 +5045,4 @@
 - **Jul 22, 11:15 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 22, 11:31 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 22, 11:45 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
+- **Jul 22, 11:59 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
