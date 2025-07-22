@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 88 | 88 |
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 2 | 2 | 24 | 49 |
+| nyt | 2 | 2 | 25 | 50 |
 
 # Shown Order
 
@@ -5081,3 +5081,4 @@
 - **Jul 22, 09:21 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 09:23 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 22, 09:37 AM** - HTR makes available engineering models of full-metal elastic Lunar wheels (spacenews)
+- **Jul 22, 09:51 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
