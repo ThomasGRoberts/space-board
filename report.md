@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 144 | 144 |
 | spacenews | 6 | 9 | 27 | 52 |
-| breaking_defense | 0 | 1 | 24 | 48 |
+| breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 49 |
 
 # Shown Order
@@ -5161,3 +5161,4 @@
 - **Jul 22, 05:19 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 05:21 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 05:25 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 05:27 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
