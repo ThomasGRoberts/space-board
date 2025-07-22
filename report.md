@@ -5,6 +5,7 @@
 | spacenews | 6 | 10 | 27 | 53 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 1 | 2 | 25 | 49 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5020,3 +5021,4 @@
 - **Jul 22, 05:41 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 22, 05:55 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 22, 06:09 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 22, 06:23 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
