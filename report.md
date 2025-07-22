@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 130 | 130 |
-| spacenews | 6 | 9 | 27 | 52 |
+| spacenews | 6 | 9 | 27 | 53 |
 | breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
 
@@ -5142,3 +5142,4 @@
 - **Jul 22, 03:27 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 03:29 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 03:31 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 22, 03:45 PM** - How China will own the moon — unless we act now (spacenews)
