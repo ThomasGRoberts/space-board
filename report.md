@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 46 | 46 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 2 | 2 | 24 | 48 |
+| nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5021,3 +5021,4 @@
 - **Jul 22, 03:39 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 03:41 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 22, 03:55 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
+- **Jul 22, 04:09 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
