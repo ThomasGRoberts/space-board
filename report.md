@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 95 | 95 |
 | spacenews | 5 | 7 | 26 | 51 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
@@ -5089,3 +5089,4 @@
 - **Jul 22, 10:13 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:17 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 10:19 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
