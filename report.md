@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 95 | 95 |
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 2 | 2 | 24 | 49 |
+| nyt | 2 | 2 | 25 | 50 |
 
 # Shown Order
 
@@ -5091,3 +5091,4 @@
 - **Jul 22, 10:17 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:19 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 22, 10:33 AM** - China conducts structural tests for Long March 10 human spaceflight rocket (spacenews)
+- **Jul 22, 10:49 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
