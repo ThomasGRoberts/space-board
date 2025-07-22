@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 109 | 109 |
 | spacenews | 7 | 8 | 28 | 52 |
-| breaking_defense | 1 | 1 | 24 | 48 |
+| breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 49 |
 
 # Shown Order
@@ -5111,3 +5111,4 @@
 - **Jul 22, 12:11 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 12:13 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 22, 12:27 PM** - NISAR set to launch July 30 (spacenews)
+- **Jul 22, 12:41 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
