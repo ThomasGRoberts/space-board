@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 130 | 130 |
-| spacenews | 6 | 9 | 27 | 53 |
-| breaking_defense | 0 | 1 | 25 | 49 |
+| supercluster | 1 | 1 | 131 | 131 |
+| spacenews | 6 | 9 | 27 | 52 |
+| breaking_defense | 0 | 1 | 24 | 49 |
 | nyt | 1 | 2 | 25 | 49 |
 
 # Shown Order
@@ -5144,3 +5144,4 @@
 - **Jul 22, 03:31 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 22, 03:45 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 22, 03:59 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 22, 04:13 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
