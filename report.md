@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 28 | 54 |
+| spacenews | 7 | 11 | 29 | 54 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -5050,3 +5050,4 @@
 - **Jul 22, 08:57 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 08:59 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 09:01 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
+- **Jul 22, 09:03 PM** - New study calls for rapid development of space nuclear power systems (spacenews)
