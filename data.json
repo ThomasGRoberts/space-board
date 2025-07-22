@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7aee660a2b86d251da789cd93e5e5072",
+    "trigger_count": 0,
+    "current_item_id": "06edecc6b2d3d1acc09368539e70cc01",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10627,6 +10627,27 @@
                 "2025-07-22T06:57:33.705539Z",
                 "2025-07-22T09:51:48.887288Z"
             ]
+        },
+        {
+            "id": "06edecc6b2d3d1acc09368539e70cc01",
+            "source": "spacenews",
+            "text": "AST SpaceMobile seeks approval to give first responders a direct satellite link",
+            "source_link": "https://spacenews.com/ast-spacemobile-seeks-approval-to-give-first-responders-a-direct-satellite-link/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T12:13:31.602242Z",
+            "shown_at": [
+                "2025-07-22T12:13:32.234356Z"
+            ]
+        },
+        {
+            "id": "cd0c275afe322c766c3f876fb75197a3",
+            "source": "spacenews",
+            "text": "NISAR set to launch July 30",
+            "source_link": "https://spacenews.com/nisar-set-to-launch-july-30/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T12:13:31.602300Z"
         }
     ]
 }
