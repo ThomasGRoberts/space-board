@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 116 | 116 |
-| spacenews | 7 | 9 | 28 | 52 |
+| supercluster | 1 | 1 | 117 | 117 |
+| spacenews | 7 | 9 | 27 | 52 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 49 |
 
@@ -5124,3 +5124,4 @@
 - **Jul 22, 01:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 01:51 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 22, 02:05 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 22, 02:19 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
