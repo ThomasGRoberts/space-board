@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 39 | 39 |
-| spacenews | 6 | 7 | 25 | 50 |
-| breaking_defense | 1 | 1 | 25 | 50 |
+| spacenews | 6 | 7 | 26 | 51 |
+| breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 49 |
 
 # Shown Order
@@ -5010,3 +5010,4 @@
 - **Jul 22, 02:37 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 02:39 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 02:41 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 22, 02:55 AM** - ESCAPADE to launch on second New Glenn (spacenews)
