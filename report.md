@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 27 | 53 |
+| spacenews | 6 | 10 | 28 | 54 |
 | breaking_defense | 0 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -5029,3 +5029,4 @@
 - **Jul 22, 06:33 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 06:35 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 06:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 22, 06:51 PM** - Falcon 9 launches Project Kuiper satellites (spacenews)
