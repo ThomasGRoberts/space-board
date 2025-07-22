@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 27 | 53 |
 | breaking_defense | 1 | 2 | 24 | 48 |
-| nyt | 1 | 2 | 23 | 47 |
+| nyt | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -5033,3 +5033,4 @@
 - **Jul 22, 10:13 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:15 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 10:17 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 22, 10:32 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
