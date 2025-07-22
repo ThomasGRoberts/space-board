@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 123 | 123 |
-| spacenews | 7 | 9 | 27 | 52 |
+| spacenews | 6 | 9 | 27 | 53 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 2 | 24 | 48 |
 
@@ -5132,3 +5132,4 @@
 - **Jul 22, 02:29 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 02:32 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 02:33 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 22, 02:47 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
