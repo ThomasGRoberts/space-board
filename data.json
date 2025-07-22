@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 6,
-    "current_item_id": "06edecc6b2d3d1acc09368539e70cc01",
+    "trigger_count": 0,
+    "current_item_id": "cd0c275afe322c766c3f876fb75197a3",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10645,9 +10645,12 @@
             "source": "spacenews",
             "text": "NISAR set to launch July 30",
             "source_link": "https://spacenews.com/nisar-set-to-launch-july-30/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-22T12:13:31.602300Z"
+            "fetched_datetime": "2025-07-22T12:13:31.602300Z",
+            "shown_at": [
+                "2025-07-22T12:27:52.125410Z"
+            ]
         }
     ]
 }
