@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 109 | 109 |
-| spacenews | 7 | 8 | 27 | 52 |
+| spacenews | 8 | 9 | 28 | 53 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 2 | 2 | 24 | 48 |
 
@@ -5112,3 +5112,4 @@
 - **Jul 22, 12:13 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 22, 12:27 PM** - NISAR set to launch July 30 (spacenews)
 - **Jul 22, 12:41 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 22, 12:55 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
