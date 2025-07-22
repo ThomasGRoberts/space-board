@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 | spacenews | 5 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
@@ -4981,3 +4981,4 @@
 - **Jul 21, 11:35 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 21, 11:49 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 22, 12:05 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
+- **Jul 22, 12:19 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
