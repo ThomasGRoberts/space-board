@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 137 | 137 |
 | spacenews | 6 | 9 | 27 | 53 |
 | breaking_defense | 0 | 1 | 25 | 49 |
-| nyt | 1 | 2 | 24 | 48 |
+| nyt | 1 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5153,3 +5153,4 @@
 - **Jul 22, 04:27 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 04:29 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 04:43 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
+- **Jul 22, 04:57 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
