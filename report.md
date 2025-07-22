@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 32 | 32 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 1 | 1 | 23 | 48 |
+| nyt | 1 | 1 | 24 | 49 |
 
 # Shown Order
 
@@ -4998,3 +4998,4 @@
 - **Jul 22, 01:25 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 01:27 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 01:29 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 01:31 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
