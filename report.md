@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 144 | 144 |
 | spacenews | 7 | 10 | 28 | 53 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 1 | 2 | 24 | 48 |
+| nyt | 1 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5164,3 +5164,4 @@
 - **Jul 22, 05:27 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 22, 05:41 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 22, 05:55 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
+- **Jul 22, 06:09 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
