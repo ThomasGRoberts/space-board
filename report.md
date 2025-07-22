@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 2 | 2 | 25 | 49 |
+| nyt | 2 | 2 | 24 | 49 |
 
 # Shown Order
 
@@ -5044,3 +5044,4 @@
 - **Jul 22, 06:01 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 22, 06:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 06:17 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 06:19 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
