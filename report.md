@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 25 | 25 |
 | spacenews | 5 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 49 |
 
 # Shown Order
@@ -4989,3 +4989,4 @@
 - **Jul 22, 12:31 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 12:33 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 12:35 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 22, 12:49 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
