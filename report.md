@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 28 | 53 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5037,3 +5037,4 @@
 - **Jul 22, 10:45 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
 - **Jul 22, 10:59 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 11:02 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 11:05 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
