@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-21T00:02:18.400173+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
+    "trigger_count": 5,
     "current_item_id": "6db14a2de15805c820460e7ac43d4570",
     "data": [
+        {
+            "id": "7aee660a2b86d251da789cd93e5e5072",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
+            "source_link": "https://www.supercluster.com/launches/tracers",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-22T18:13:00.000Z",
+            "time_remaining": "0d 18h 39m",
+            "fetched_datetime": "2025-07-21T21:35:11.612603Z",
+            "shown_at": [
+                "2025-07-21T21:35:12.217551Z",
+                "2025-07-21T21:37:31.483279Z",
+                "2025-07-21T21:39:51.487244Z",
+                "2025-07-21T21:41:28.180540Z",
+                "2025-07-21T22:25:45.411315Z",
+                "2025-07-21T22:27:36.487922Z",
+                "2025-07-21T22:29:16.831074Z",
+                "2025-07-21T22:31:43.719276Z",
+                "2025-07-21T22:33:24.512830Z",
+                "2025-07-21T22:35:51.131747Z",
+                "2025-07-21T22:37:33.227889Z",
+                "2025-07-21T23:21:55.208515Z",
+                "2025-07-21T23:23:48.868049Z",
+                "2025-07-21T23:26:05.370211Z",
+                "2025-07-21T23:27:49.729602Z",
+                "2025-07-21T23:30:01.424760Z",
+                "2025-07-21T23:31:22.818524Z",
+                "2025-07-21T23:33:41.086740Z"
+            ]
+        },
+        {
+            "id": "9251a8a06b008a0dbacbb143385ab1c0",
+            "source": "spacenews",
+            "text": "Lynk Global breaks up with Slam Corp and settles legal dispute",
+            "source_link": "https://spacenews.com/lynk-global-breaks-up-with-slam-corp-and-settles-legal-dispute/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T21:09:21.438093Z",
+            "shown_at": [
+                "2025-07-21T21:09:22.096118Z"
+            ]
+        },
+        {
+            "id": "ac0a93ca4ae905b3a559eb2c84c12643",
+            "source": "spacenews",
+            "text": "NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery",
+            "source_link": "https://spacenews.com/nro-extends-data-contract-with-hydrosat-to-leverage-thermal-infrared-satellite-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T18:19:40.846469Z",
+            "shown_at": [
+                "2025-07-21T18:19:41.410763Z"
+            ]
+        },
+        {
+            "id": "0fda968937eed9e67c1b0f447aeb3ac3",
+            "source": "breaking_defense",
+            "text": "Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS",
+            "source_link": "https://breakingdefense.com/2025/07/passive-ground-based-sensor-networks-could-bolster-air-missile-defense-resilience-csis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T15:13:33.392349Z",
+            "shown_at": [
+                "2025-07-21T15:13:33.935812Z",
+                "2025-07-21T19:02:09.334330Z",
+                "2025-07-21T20:55:51.151957Z"
+            ]
+        },
+        {
+            "id": "7446d89fbc2e491a5593ae67ec751261",
+            "source": "spacenews",
+            "text": "Space Force rehearses mobilization of private satellite assets during orbital emergencies",
+            "source_link": "https://spacenews.com/space-force-rehearses-mobilization-of-private-satellite-assets-during-orbital-emergencies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T14:45:51.163964Z",
+            "shown_at": [
+                "2025-07-21T14:45:51.920626Z"
+            ]
+        },
+        {
+            "id": "737ac28ee189cc08e71526a06a7e3e79",
+            "source": "spacenews",
+            "text": "Zero-gravity flights elevate new perspectives for a better space future",
+            "source_link": "https://spacenews.com/zero-gravity-flights-elevate-new-perspectives-for-a-better-space-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T13:21:37.646450Z",
+            "shown_at": [
+                "2025-07-21T13:21:38.194129Z"
+            ]
+        },
+        {
+            "id": "0aa99a6d3f7f198948cf068ccd6bc548",
+            "source": "nyt",
+            "text": "Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter",
+            "source_link": "https://www.nytimes.com/2025/07/21/science/nasa-formal-dissent-letter-trump.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T13:07:31.246897Z",
+            "shown_at": [
+                "2025-07-21T13:07:31.984156Z",
+                "2025-07-21T19:31:59.185710Z",
+                "2025-07-21T21:43:27.419611Z",
+                "2025-07-21T22:39:31.722739Z"
+            ]
+        },
+        {
+            "id": "c4ba8933dc6958354f3f78eb8cb6c080",
+            "source": "spacenews",
+            "text": "Tendeg secures repeat order for twelve large deployable antennas from Capella Space",
+            "source_link": "https://spacenews.com/tendeg-gets-capella-space-repeat-order-of-twelve-large-deployable-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-21T10:03:30.022264Z",
+            "shown_at": [
+                "2025-07-21T10:03:30.613945Z",
+                "2025-07-21T16:41:32.814360Z"
+            ]
+        },
         {
             "id": "bab1feb385016ed68395222a1403eb03",
             "source": "spacenews",
@@ -10354,236 +10475,6 @@
             "shown_at": [
                 "2025-05-09T15:02:11.825782Z",
                 "2025-05-10T02:35:38.925516Z"
-            ]
-        },
-        {
-            "id": "23e424fd8c28ae7a40931273394a6ec1",
-            "source": "spacenews",
-            "text": "Startups need a clear path to working with the European Defence Agency",
-            "source_link": "https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T13:05:47.933280Z",
-            "shown_at": [
-                "2025-05-09T13:05:48.623899Z",
-                "2025-05-09T22:43:14.350748Z",
-                "2025-05-10T04:27:44.589125Z",
-                "2025-05-11T05:37:25.851172Z",
-                "2025-05-11T12:17:33.136873Z",
-                "2025-05-12T01:32:17.209246Z",
-                "2025-05-12T05:37:37.951109Z",
-                "2025-05-14T00:51:57.451825Z"
-            ]
-        },
-        {
-            "id": "dd3a639f77b98672bcc7f927ff5b3019",
-            "source": "spacenews",
-            "text": "Space agencies grapple with potential changes to Artemis",
-            "source_link": "https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T11:55:31.106465Z",
-            "shown_at": [
-                "2025-05-09T11:55:31.892137Z",
-                "2025-05-10T05:23:50.560683Z",
-                "2025-05-12T02:32:00.912460Z",
-                "2025-05-12T12:46:38.752577Z",
-                "2025-05-14T05:27:34.614474Z",
-                "2025-05-15T16:57:39.517920Z",
-                "2025-05-15T23:05:38.288185Z",
-                "2025-05-16T02:15:37.509936Z"
-            ]
-        },
-        {
-            "id": "02e5cf78cee37995cf0b8044191a0ef6",
-            "source": "spacenews",
-            "text": "Space Force sharpens focus on deterring rivals",
-            "source_link": "https://spacenews.com/space-force-leans-into-a-warfighting-ethos-beyond-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T11:12:23.360902Z",
-            "shown_at": [
-                "2025-05-09T11:12:24.031245Z",
-                "2025-05-11T06:35:40.856276Z",
-                "2025-05-13T09:53:42.716392Z",
-                "2025-05-15T03:11:55.301816Z"
-            ]
-        },
-        {
-            "id": "e25956f773dbbe4c0ab4ef3d155ea3ac",
-            "source": "spacenews",
-            "text": "China to launch new modules to Tiangong space station",
-            "source_link": "https://spacenews.com/china-to-launch-new-modules-to-tiangong-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T10:43:30.686766Z",
-            "shown_at": [
-                "2025-05-09T10:43:31.374802Z",
-                "2025-05-10T11:03:28.898437Z",
-                "2025-05-14T10:21:46.810714Z"
-            ]
-        },
-        {
-            "id": "87976ff6a5e47f124bc163e8e22c519b",
-            "source": "spacenews",
-            "text": "Rocket Lab’s Neutron tapped for U.S. military cargo test",
-            "source_link": "https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T23:42:20.513083Z",
-            "shown_at": [
-                "2025-05-08T23:42:21.150886Z",
-                "2025-05-09T04:29:49.871831Z",
-                "2025-05-11T01:51:52.203565Z",
-                "2025-05-12T17:37:37.538094Z"
-            ]
-        },
-        {
-            "id": "3c3aff481572080eac96d6afec29e103",
-            "source": "spacenews",
-            "text": "German defense firm partners with Iceye to build SAR satellites",
-            "source_link": "https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T21:35:46.394251Z",
-            "shown_at": [
-                "2025-05-08T21:35:47.496968Z",
-                "2025-05-09T03:29:35.317509Z"
-            ]
-        },
-        {
-            "id": "313e34aa3600d5efef4be90a4d3d9ed9",
-            "source": "spacenews",
-            "text": "China issues regulatory framework to support direct-to-device satellite services",
-            "source_link": "https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-08T21:21:39.912512Z",
-            "shown_at": [
-                "2025-05-08T21:21:40.467832Z",
-                "2025-05-10T23:02:05.270238Z",
-                "2025-05-12T18:35:51.745360Z"
-            ]
-        },
-        {
-            "id": "c4ba8933dc6958354f3f78eb8cb6c080",
-            "source": "spacenews",
-            "text": "Tendeg secures repeat order for twelve large deployable antennas from Capella Space",
-            "source_link": "https://spacenews.com/tendeg-gets-capella-space-repeat-order-of-twelve-large-deployable-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T10:03:30.022264Z",
-            "shown_at": [
-                "2025-07-21T10:03:30.613945Z",
-                "2025-07-21T16:41:32.814360Z"
-            ]
-        },
-        {
-            "id": "0aa99a6d3f7f198948cf068ccd6bc548",
-            "source": "nyt",
-            "text": "Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter",
-            "source_link": "https://www.nytimes.com/2025/07/21/science/nasa-formal-dissent-letter-trump.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T13:07:31.246897Z",
-            "shown_at": [
-                "2025-07-21T13:07:31.984156Z",
-                "2025-07-21T19:31:59.185710Z",
-                "2025-07-21T21:43:27.419611Z",
-                "2025-07-21T22:39:31.722739Z"
-            ]
-        },
-        {
-            "id": "737ac28ee189cc08e71526a06a7e3e79",
-            "source": "spacenews",
-            "text": "Zero-gravity flights elevate new perspectives for a better space future",
-            "source_link": "https://spacenews.com/zero-gravity-flights-elevate-new-perspectives-for-a-better-space-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T13:21:37.646450Z",
-            "shown_at": [
-                "2025-07-21T13:21:38.194129Z"
-            ]
-        },
-        {
-            "id": "7446d89fbc2e491a5593ae67ec751261",
-            "source": "spacenews",
-            "text": "Space Force rehearses mobilization of private satellite assets during orbital emergencies",
-            "source_link": "https://spacenews.com/space-force-rehearses-mobilization-of-private-satellite-assets-during-orbital-emergencies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T14:45:51.163964Z",
-            "shown_at": [
-                "2025-07-21T14:45:51.920626Z"
-            ]
-        },
-        {
-            "id": "0fda968937eed9e67c1b0f447aeb3ac3",
-            "source": "breaking_defense",
-            "text": "Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS",
-            "source_link": "https://breakingdefense.com/2025/07/passive-ground-based-sensor-networks-could-bolster-air-missile-defense-resilience-csis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T15:13:33.392349Z",
-            "shown_at": [
-                "2025-07-21T15:13:33.935812Z",
-                "2025-07-21T19:02:09.334330Z",
-                "2025-07-21T20:55:51.151957Z"
-            ]
-        },
-        {
-            "id": "ac0a93ca4ae905b3a559eb2c84c12643",
-            "source": "spacenews",
-            "text": "NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery",
-            "source_link": "https://spacenews.com/nro-extends-data-contract-with-hydrosat-to-leverage-thermal-infrared-satellite-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T18:19:40.846469Z",
-            "shown_at": [
-                "2025-07-21T18:19:41.410763Z"
-            ]
-        },
-        {
-            "id": "9251a8a06b008a0dbacbb143385ab1c0",
-            "source": "spacenews",
-            "text": "Lynk Global breaks up with Slam Corp and settles legal dispute",
-            "source_link": "https://spacenews.com/lynk-global-breaks-up-with-slam-corp-and-settles-legal-dispute/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T21:09:21.438093Z",
-            "shown_at": [
-                "2025-07-21T21:09:22.096118Z"
-            ]
-        },
-        {
-            "id": "7aee660a2b86d251da789cd93e5e5072",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
-            "source_link": "https://www.supercluster.com/launches/tracers",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-22T18:13:00.000Z",
-            "time_remaining": "0d 18h 39m",
-            "fetched_datetime": "2025-07-21T21:35:11.612603Z",
-            "shown_at": [
-                "2025-07-21T21:35:12.217551Z",
-                "2025-07-21T21:37:31.483279Z",
-                "2025-07-21T21:39:51.487244Z",
-                "2025-07-21T21:41:28.180540Z",
-                "2025-07-21T22:25:45.411315Z",
-                "2025-07-21T22:27:36.487922Z",
-                "2025-07-21T22:29:16.831074Z",
-                "2025-07-21T22:31:43.719276Z",
-                "2025-07-21T22:33:24.512830Z",
-                "2025-07-21T22:35:51.131747Z",
-                "2025-07-21T22:37:33.227889Z",
-                "2025-07-21T23:21:55.208515Z",
-                "2025-07-21T23:23:48.868049Z",
-                "2025-07-21T23:26:05.370211Z",
-                "2025-07-21T23:27:49.729602Z",
-                "2025-07-21T23:30:01.424760Z",
-                "2025-07-21T23:31:22.818524Z",
-                "2025-07-21T23:33:41.086740Z"
             ]
         }
     ]
