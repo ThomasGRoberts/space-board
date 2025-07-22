@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | spacenews | 6 | 9 | 27 | 52 |
 | breaking_defense | 0 | 1 | 24 | 49 |
 | nyt | 1 | 2 | 25 | 49 |
@@ -5135,3 +5135,4 @@
 - **Jul 22, 02:47 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 22, 03:03 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 22, 03:17 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 03:19 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
