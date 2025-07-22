@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 28 | 54 |
 | breaking_defense | 1 | 2 | 25 | 49 |
-| nyt | 1 | 2 | 23 | 48 |
+| nyt | 1 | 2 | 24 | 49 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -5042,3 +5042,4 @@
 - **Jul 22, 07:47 PM** - Lyles concerned about sweeping changes to advisory committees (spacenews)
 - **Jul 22, 08:02 PM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
 - **Jul 22, 08:17 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 22, 08:32 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
