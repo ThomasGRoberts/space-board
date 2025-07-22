@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 53 | 53 |
 | spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 24 | 49 |
-| nyt | 2 | 2 | 24 | 49 |
+| nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
 
@@ -5031,3 +5031,4 @@
 - **Jul 22, 04:35 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 04:37 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 22, 04:51 AM** - The urgent need for new rules of the road in space and cyber (spacenews)
+- **Jul 22, 05:05 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
