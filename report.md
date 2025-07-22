@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 28 | 53 |
+| spacenews | 6 | 11 | 27 | 53 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5030,3 +5030,4 @@
 - **Jul 22, 08:17 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 22, 08:32 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 22, 09:03 PM** - New study calls for rapid development of space nuclear power systems (spacenews)
+- **Jul 22, 10:13 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
