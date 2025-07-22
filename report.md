@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 28 | 53 |
 | breaking_defense | 0 | 1 | 24 | 49 |
-| nyt | 1 | 2 | 24 | 48 |
+| nyt | 1 | 2 | 25 | 49 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -5030,3 +5030,4 @@
 - **Jul 22, 06:35 PM** - SpaceX Will Launch SES Internet Satellites (supercluster)
 - **Jul 22, 06:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 06:51 PM** - Falcon 9 launches Project Kuiper satellites (spacenews)
+- **Jul 22, 07:05 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
