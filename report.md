@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 74 | 74 |
 | spacenews | 6 | 7 | 26 | 50 |
-| breaking_defense | 1 | 1 | 24 | 49 |
+| breaking_defense | 1 | 1 | 25 | 50 |
 | nyt | 2 | 2 | 25 | 49 |
 
 # Shown Order
@@ -5059,3 +5059,4 @@
 - **Jul 22, 07:22 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 07:23 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 07:25 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 22, 07:27 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
