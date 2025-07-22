@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 28 | 54 |
+| spacenews | 6 | 11 | 28 | 53 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | nyt | 1 | 2 | 23 | 47 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5035,3 +5035,4 @@
 - **Jul 22, 10:17 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 10:32 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 22, 10:45 PM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
+- **Jul 22, 10:59 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
