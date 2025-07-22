@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 25 | 25 |
-| spacenews | 5 | 6 | 25 | 50 |
+| spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 49 |
 
@@ -4990,3 +4990,4 @@
 - **Jul 22, 12:33 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 12:35 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 22, 12:49 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 22, 01:03 AM** - NASA Goddard director to step down (spacenews)

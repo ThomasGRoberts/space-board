@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fda968937eed9e67c1b0f447aeb3ac3",
+    "trigger_count": 0,
+    "current_item_id": "fe42afd081acfe0c6ac22a5fe8772baa",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10485,6 +10485,18 @@
             "shown_at": [
                 "2025-05-09T15:02:11.825782Z",
                 "2025-05-10T02:35:38.925516Z"
+            ]
+        },
+        {
+            "id": "fe42afd081acfe0c6ac22a5fe8772baa",
+            "source": "spacenews",
+            "text": "NASA Goddard director to step down",
+            "source_link": "https://spacenews.com/nasa-goddard-director-to-step-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T01:03:33.040682Z",
+            "shown_at": [
+                "2025-07-22T01:03:33.626814Z"
             ]
         }
     ]
