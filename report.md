@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 102 | 102 |
 | spacenews | 5 | 6 | 27 | 51 |
 | breaking_defense | 1 | 1 | 25 | 49 |
-| nyt | 2 | 2 | 24 | 49 |
+| nyt | 2 | 2 | 25 | 50 |
 
 # Shown Order
 
@@ -5101,3 +5101,4 @@
 - **Jul 22, 11:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 22, 11:17 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 22, 11:32 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
+- **Jul 22, 11:45 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
