@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 24 | 48 |
 | spacenews | 6 | 12 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 47 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -4980,4 +4980,3 @@
 - **Jul 23, 05:19 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 23, 05:33 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 06:03 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
-- **Jul 23, 06:19 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
