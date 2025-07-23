@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 128 | 128 |
-| breaking_defense | 2 | 2 | 24 | 48 |
+| breaking_defense | 2 | 2 | 23 | 48 |
 | spacenews | 7 | 13 | 27 | 54 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
 
@@ -5103,3 +5103,4 @@
 - **Jul 23, 03:59 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 04:02 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 23, 04:16 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
+- **Jul 23, 04:32 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
