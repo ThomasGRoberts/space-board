@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 2 | 2 | 23 | 48 |
 | spacenews | 7 | 13 | 27 | 54 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
 
@@ -5113,3 +5113,4 @@
 - **Jul 23, 05:01 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 05:03 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 05:19 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
+- **Jul 23, 05:33 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
