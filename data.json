@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 4,
-    "current_item_id": "7aee660a2b86d251da789cd93e5e5072",
+    "trigger_count": 5,
+    "current_item_id": "d7e45144538eb78005e06c4b9aa84d1e",
     "data": [
         {
             "id": "5abc1118462280fe033397db5a8a0123",
@@ -10531,15 +10531,18 @@
             ]
         },
         {
-            "id": "7aee660a2b86d251da789cd93e5e5072",
+            "id": "d7e45144538eb78005e06c4b9aa84d1e",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
-            "source_link": "https://www.supercluster.com/launches/tracers",
-            "shown": false,
+            "text": "iSpace Will Launch the Hyperbola-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/hyperbola-12",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-23T18:13:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-23T19:11:55.799525Z"
+            "target_datetime": "2025-07-25T04:10:00.000Z",
+            "time_remaining": "1d 08h 56m",
+            "fetched_datetime": "2025-07-23T19:13:41.346406Z",
+            "shown_at": [
+                "2025-07-23T19:13:41.929897Z"
+            ]
         }
     ]
 }
