@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 58 | 58 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| spacenews | 6 | 12 | 28 | 54 |
+| spacenews | 6 | 12 | 29 | 55 |
 | nyt | 0 | 2 | 23 | 47 |
 
 # Shown Order
@@ -5003,3 +5003,4 @@
 - **Jul 23, 06:09 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 06:11 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 23, 06:25 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 23, 06:41 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
