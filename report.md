@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 44 | 44 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
 | nyt | 0 | 2 | 22 | 47 |
 
@@ -4981,3 +4981,4 @@
 - **Jul 23, 04:11 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 04:13 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 04:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 23, 04:17 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
