@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
 | nyt | 0 | 2 | 23 | 47 |
@@ -4994,3 +4994,4 @@
 - **Jul 23, 05:13 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 23, 05:27 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 23, 05:43 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
+- **Jul 23, 05:57 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
