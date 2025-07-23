@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 25 | 49 |
+| breaking_defense | 3 | 4 | 25 | 48 |
 | spacenews | 6 | 12 | 24 | 52 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
@@ -5025,3 +5025,4 @@
 - **Jul 23, 11:31 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 11:33 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 11:35 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 23, 11:51 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
