@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 121 | 121 |
 | breaking_defense | 1 | 1 | 24 | 48 |
 | spacenews | 7 | 13 | 27 | 54 |
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
 
@@ -5093,3 +5093,4 @@
 - **Jul 23, 02:55 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 02:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 23, 03:11 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 23, 03:27 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
