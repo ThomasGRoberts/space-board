@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
 | nyt | 1 | 2 | 23 | 47 |
@@ -4944,3 +4944,4 @@
 - **Jul 23, 12:29 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 23, 12:43 AM** - Polish space company SatRev launches Omani ground station amid international expansion (spacenews)
 - **Jul 23, 12:57 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
+- **Jul 23, 01:11 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
