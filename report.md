@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 7 | 12 | 28 | 55 |
-| nyt | 0 | 2 | 23 | 47 |
+| nyt | 0 | 2 | 22 | 47 |
 
 # Shown Order
 
@@ -5054,3 +5054,4 @@
 - **Jul 23, 11:01 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 23, 11:15 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 23, 11:32 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 23, 11:45 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
