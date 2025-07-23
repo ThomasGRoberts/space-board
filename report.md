@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 23 | 48 |
-| spacenews | 5 | 12 | 23 | 51 |
-| nyt | 0 | 1 | 22 | 46 |
+| spacenews | 5 | 12 | 24 | 52 |
+| nyt | 0 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -4993,3 +4993,4 @@
 - **Jul 23, 08:11 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 08:13 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 08:15 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
+- **Jul 23, 08:29 PM** - How China will own the moon — unless we act now (spacenews)
