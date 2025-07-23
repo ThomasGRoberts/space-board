@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
 | nyt | 0 | 2 | 23 | 47 |
@@ -4984,3 +4984,4 @@
 - **Jul 23, 04:17 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 23, 04:31 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 04:45 AM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
+- **Jul 23, 04:59 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
