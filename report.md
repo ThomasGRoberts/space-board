@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 79 | 79 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| spacenews | 7 | 13 | 29 | 55 |
-| nyt | 0 | 2 | 22 | 47 |
+| spacenews | 7 | 13 | 28 | 55 |
+| nyt | 0 | 2 | 23 | 47 |
 
 # Shown Order
 
@@ -5033,3 +5033,4 @@
 - **Jul 23, 09:05 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 09:07 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 23, 09:21 AM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
+- **Jul 23, 09:37 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
