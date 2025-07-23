@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 114 | 114 |
 | breaking_defense | 1 | 2 | 24 | 49 |
-| spacenews | 6 | 13 | 26 | 54 |
+| spacenews | 6 | 13 | 27 | 55 |
 | nyt | 0 | 1 | 22 | 46 |
 
 # Shown Order
@@ -5082,3 +5082,4 @@
 - **Jul 23, 01:51 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 01:53 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 01:55 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 23, 02:09 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
