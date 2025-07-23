@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bab1feb385016ed68395222a1403eb03",
+    "trigger_count": 0,
+    "current_item_id": "ce54d65dabf8fe2fbb85cf26b50a232a",
     "data": [
         {
             "id": "5abc1118462280fe033397db5a8a0123",
@@ -10566,6 +10566,18 @@
             "fetched_datetime": "2025-07-23T20:15:40.881845Z",
             "shown_at": [
                 "2025-07-23T20:15:41.515781Z"
+            ]
+        },
+        {
+            "id": "ce54d65dabf8fe2fbb85cf26b50a232a",
+            "source": "breaking_defense",
+            "text": "Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T20:43:42.367127Z",
+            "shown_at": [
+                "2025-07-23T20:43:43.058026Z"
             ]
         }
     ]
