@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 22 | 47 |
+| breaking_defense | 2 | 2 | 23 | 48 |
 | spacenews | 6 | 12 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -4984,3 +4984,4 @@
 - **Jul 23, 07:15 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 07:17 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 23, 07:31 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 23, 07:45 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
