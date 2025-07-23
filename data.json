@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0942ca7f7a8db07273478ee94fa8691a",
+    "trigger_count": 0,
+    "current_item_id": "30d0bf64f851455603f0862edcfbf49b",
     "data": [
         {
             "id": "5abc1118462280fe033397db5a8a0123",
@@ -10579,6 +10579,18 @@
             "fetched_datetime": "2025-07-23T20:43:42.367127Z",
             "shown_at": [
                 "2025-07-23T20:43:43.058026Z"
+            ]
+        },
+        {
+            "id": "30d0bf64f851455603f0862edcfbf49b",
+            "source": "spacenews",
+            "text": "Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC",
+            "source_link": "https://spacenews.com/launch-startup-irocket-agrees-to-merge-with-wilbur-ross-backed-spac/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T21:12:01.834743Z",
+            "shown_at": [
+                "2025-07-23T21:12:02.907455Z"
             ]
         }
     ]
