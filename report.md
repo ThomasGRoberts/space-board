@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 7 | 13 | 28 | 55 |
-| nyt | 0 | 2 | 23 | 47 |
+| nyt | 0 | 2 | 22 | 47 |
 
 # Shown Order
 
@@ -5035,3 +5035,4 @@
 - **Jul 23, 09:21 AM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
 - **Jul 23, 09:37 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 23, 09:51 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 23, 09:53 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
