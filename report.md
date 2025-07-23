@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 93 | 93 |
-| breaking_defense | 1 | 2 | 24 | 49 |
-| spacenews | 7 | 12 | 28 | 54 |
+| breaking_defense | 1 | 2 | 24 | 48 |
+| spacenews | 7 | 12 | 29 | 55 |
 | nyt | 0 | 2 | 22 | 47 |
 
 # Shown Order
@@ -5052,3 +5052,4 @@
 - **Jul 23, 10:57 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 10:59 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 11:01 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 23, 11:15 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
