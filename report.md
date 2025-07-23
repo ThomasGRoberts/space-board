@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 24 | 48 |
+| breaking_defense | 3 | 4 | 25 | 49 |
 | spacenews | 6 | 12 | 24 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -5004,3 +5004,4 @@
 - **Jul 23, 09:33 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 09:35 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 09:37 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 23, 09:39 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
