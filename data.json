@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7e45144538eb78005e06c4b9aa84d1e",
+    "trigger_count": 0,
+    "current_item_id": "f9ce1f3d3a521282ded313ed1b25b196",
     "data": [
         {
             "id": "5abc1118462280fe033397db5a8a0123",
@@ -10553,6 +10553,18 @@
                 "2025-07-23T20:09:20.083106Z",
                 "2025-07-23T20:11:29.152127Z",
                 "2025-07-23T20:13:34.726399Z"
+            ]
+        },
+        {
+            "id": "f9ce1f3d3a521282ded313ed1b25b196",
+            "source": "breaking_defense",
+            "text": "Space Force eyes ‘novel’ development tools for Golden Dome SBIs",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T20:15:40.881845Z",
+            "shown_at": [
+                "2025-07-23T20:15:41.515781Z"
             ]
         }
     ]
