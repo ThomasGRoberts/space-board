@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | spacenews | 6 | 13 | 27 | 55 |
 | nyt | 0 | 2 | 23 | 47 |
@@ -5064,3 +5064,4 @@
 - **Jul 23, 11:59 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 23, 12:13 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 23, 12:28 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 23, 12:41 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
