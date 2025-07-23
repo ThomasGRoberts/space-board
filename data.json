@@ -1,9 +1,138 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-22T00:02:01.153749+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
+    "trigger_count": 1,
     "current_item_id": "7aee660a2b86d251da789cd93e5e5072",
     "data": [
+        {
+            "id": "7aee660a2b86d251da789cd93e5e5072",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
+            "source_link": "https://www.supercluster.com/launches/tracers",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-23T18:13:00.000Z",
+            "time_remaining": "0d 18h 10m",
+            "fetched_datetime": "2025-07-22T22:13:35.190985Z",
+            "shown_at": [
+                "2025-07-22T22:13:35.850396Z",
+                "2025-07-22T22:15:44.723700Z",
+                "2025-07-22T22:59:11.907217Z",
+                "2025-07-22T23:02:12.823913Z",
+                "2025-07-22T23:05:33.462570Z",
+                "2025-07-22T23:07:47.589976Z",
+                "2025-07-22T23:09:39.702602Z",
+                "2025-07-22T23:11:57.396683Z",
+                "2025-07-22T23:13:33.597909Z",
+                "2025-07-22T23:59:42.485242Z",
+                "2025-07-23T00:02:16.266223Z"
+            ]
+        },
+        {
+            "id": "5abc1118462280fe033397db5a8a0123",
+            "source": "breaking_defense",
+            "text": "Northrop back at work on Sentinel ICBM missile silo design: CEO",
+            "source_link": "https://breakingdefense.com/2025/07/northrop-back-at-work-on-sentinel-icbm-missile-silo-design-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T20:17:44.175443Z",
+            "shown_at": [
+                "2025-07-22T20:17:45.386971Z"
+            ]
+        },
+        {
+            "id": "c46392af6f65b2b55336f8886837be33",
+            "source": "spacenews",
+            "text": "Space Development Agency’s satellite network reaching ‘make-or-break’ moment",
+            "source_link": "https://spacenews.com/space-development-agencys-satellite-network-reaching-make-or-break-moment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T20:02:09.598141Z",
+            "shown_at": [
+                "2025-07-22T20:02:10.180698Z"
+            ]
+        },
+        {
+            "id": "1f29ed6bd96008da27ce0bb5495bb472",
+            "source": "spacenews",
+            "text": "Space Force to select multiple companies for new geostationary satellite surveillance network",
+            "source_link": "https://spacenews.com/space-force-to-select-multiple-companies-for-new-geostationary-satellite-surveillance-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T17:55:37.831446Z",
+            "shown_at": [
+                "2025-07-22T17:55:38.511818Z",
+                "2025-07-22T23:45:14.898028Z"
+            ]
+        },
+        {
+            "id": "400be0cbd54056d52c3df7189fd1a8cc",
+            "source": "spacenews",
+            "text": "How SpaceX upended traditional launch markets – and what’s next",
+            "source_link": "https://spacenews.com/how-spacex-upended-traditional-launch-markets-and-whats-next/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T12:55:43.790642Z",
+            "shown_at": [
+                "2025-07-22T12:55:45.636716Z"
+            ]
+        },
+        {
+            "id": "cd0c275afe322c766c3f876fb75197a3",
+            "source": "spacenews",
+            "text": "NISAR set to launch July 30",
+            "source_link": "https://spacenews.com/nisar-set-to-launch-july-30/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T12:13:31.602300Z",
+            "shown_at": [
+                "2025-07-22T12:27:52.125410Z"
+            ]
+        },
+        {
+            "id": "06edecc6b2d3d1acc09368539e70cc01",
+            "source": "spacenews",
+            "text": "AST SpaceMobile seeks approval to give first responders a direct satellite link",
+            "source_link": "https://spacenews.com/ast-spacemobile-seeks-approval-to-give-first-responders-a-direct-satellite-link/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T12:13:31.602242Z",
+            "shown_at": [
+                "2025-07-22T12:13:32.234356Z"
+            ]
+        },
+        {
+            "id": "0942ca7f7a8db07273478ee94fa8691a",
+            "source": "nyt",
+            "text": "When Betelgeuse Explodes, It’s Going to Take Out Another Star",
+            "source_link": "https://www.nytimes.com/2025/07/21/science/betelgeuse-star-companion.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T02:14:00.386673Z",
+            "shown_at": [
+                "2025-07-22T02:14:01.678882Z",
+                "2025-07-22T03:09:30.448395Z",
+                "2025-07-22T04:09:38.221661Z",
+                "2025-07-22T06:01:34.618535Z",
+                "2025-07-22T06:57:33.705539Z",
+                "2025-07-22T09:51:48.887288Z",
+                "2025-07-22T14:05:46.540259Z",
+                "2025-07-22T15:59:51.212886Z",
+                "2025-07-22T22:32:02.676931Z"
+            ]
+        },
+        {
+            "id": "fe42afd081acfe0c6ac22a5fe8772baa",
+            "source": "spacenews",
+            "text": "NASA Goddard director to step down",
+            "source_link": "https://spacenews.com/nasa-goddard-director-to-step-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-22T01:03:33.040682Z",
+            "shown_at": [
+                "2025-07-22T01:03:33.626814Z"
+            ]
+        },
         {
             "id": "9251a8a06b008a0dbacbb143385ab1c0",
             "source": "spacenews",
@@ -10301,334 +10430,6 @@
                 "2025-05-15T17:53:11.145304Z",
                 "2025-05-15T20:15:07.945076Z",
                 "2025-05-16T20:29:44.695980Z"
-            ]
-        },
-        {
-            "id": "a24578d6d5246dc46fcca9145839a34d",
-            "source": "spacenews",
-            "text": "MDA Space sees options for robotic arm technology should Gateway be canceled",
-            "source_link": "https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:42:46.039106Z",
-            "shown_at": [
-                "2025-05-12T11:42:46.980306Z",
-                "2025-05-17T23:23:27.561118Z",
-                "2025-05-18T12:25:48.968227Z"
-            ]
-        },
-        {
-            "id": "3aa6f27ee2777edd65f86d21d7b85270",
-            "source": "nyt",
-            "text": "NASA’s Don Pettit Shot 220 Days of Amazing Photos From the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/05/12/science/don-pettit-photos-nasa-astronaut.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:27:54.545647Z",
-            "shown_at": [
-                "2025-05-12T11:27:55.223398Z",
-                "2025-05-12T17:05:32.718761Z",
-                "2025-05-12T21:13:37.777733Z",
-                "2025-05-13T08:11:52.962982Z",
-                "2025-05-13T09:12:00.622758Z",
-                "2025-05-13T16:16:12.203860Z",
-                "2025-05-13T19:43:27.159653Z",
-                "2025-05-14T01:07:43.776021Z",
-                "2025-05-14T03:59:13.539287Z",
-                "2025-05-14T05:41:39.598502Z",
-                "2025-05-14T07:37:45.103095Z",
-                "2025-05-14T09:53:34.893905Z",
-                "2025-05-14T10:49:28.291680Z",
-                "2025-05-14T11:49:00.384624Z",
-                "2025-05-14T12:59:09.825622Z",
-                "2025-05-14T14:13:51.841835Z",
-                "2025-05-14T16:15:52.948373Z",
-                "2025-05-14T21:23:29.763723Z",
-                "2025-05-14T22:19:30.994032Z",
-                "2025-05-15T01:58:23.223458Z",
-                "2025-05-15T05:35:25.443719Z",
-                "2025-05-15T21:55:51.123410Z",
-                "2025-05-16T00:05:49.706837Z",
-                "2025-05-16T02:02:01.951180Z",
-                "2025-05-16T06:59:53.412352Z",
-                "2025-05-16T07:57:31.019097Z",
-                "2025-05-16T09:09:33.935131Z",
-                "2025-05-16T11:21:43.263265Z",
-                "2025-05-16T12:17:37.111736Z",
-                "2025-05-16T16:51:36.703435Z",
-                "2025-05-16T19:45:27.020418Z",
-                "2025-05-16T21:39:33.829098Z",
-                "2025-05-17T02:24:29.907325Z",
-                "2025-05-17T18:25:34.970353Z",
-                "2025-05-17T19:23:55.199962Z",
-                "2025-05-17T20:19:29.532358Z",
-                "2025-05-17T22:12:08.428510Z",
-                "2025-05-18T04:09:23.227648Z",
-                "2025-05-18T08:53:30.784453Z",
-                "2025-05-18T09:49:34.547947Z",
-                "2025-05-18T10:45:35.956283Z",
-                "2025-05-18T14:33:27.677363Z",
-                "2025-05-18T18:37:07.881741Z",
-                "2025-05-18T22:27:51.327840Z",
-                "2025-05-19T01:21:57.115739Z",
-                "2025-05-19T02:17:28.098307Z",
-                "2025-05-19T03:13:27.694958Z",
-                "2025-05-19T06:02:08.867147Z"
-            ]
-        },
-        {
-            "id": "1de1718378daffb4be844cff2a162ebf",
-            "source": "spacenews",
-            "text": "How smaller satellites are reshaping the geostationary orbit market",
-            "source_link": "https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T11:13:37.747431Z",
-            "shown_at": [
-                "2025-05-12T11:13:38.653721Z"
-            ]
-        },
-        {
-            "id": "46e2a4d3a1ef999543393642a8fef6a4",
-            "source": "spacenews",
-            "text": "Rocket Lab sees Mynaric deal as key for its constellation plans",
-            "source_link": "https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T00:29:32.247484Z",
-            "shown_at": [
-                "2025-05-12T00:29:32.709737Z",
-                "2025-05-13T01:05:25.583612Z",
-                "2025-05-15T15:02:35.047853Z",
-                "2025-05-16T21:25:12.430426Z",
-                "2025-05-16T23:19:30.744307Z",
-                "2025-05-17T12:32:05.432398Z",
-                "2025-05-17T16:45:40.636848Z",
-                "2025-05-18T15:59:32.164922Z"
-            ]
-        },
-        {
-            "id": "80e0ad5ebd2c37a9122babff966c942f",
-            "source": "spacenews",
-            "text": "Trump administration to keep National Space Council",
-            "source_link": "https://spacenews.com/trump-administration-to-keep-national-space-council/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-10T15:27:32.188466Z",
-            "shown_at": [
-                "2025-05-10T15:27:32.791118Z",
-                "2025-05-10T16:23:32.769167Z",
-                "2025-05-10T18:15:28.716318Z",
-                "2025-05-11T04:39:26.315176Z",
-                "2025-05-11T19:02:11.098722Z"
-            ]
-        },
-        {
-            "id": "033275039dac9254eaceb0d2a9615731",
-            "source": "nyt",
-            "text": "Soviet Spacecraft Crash Lands on Earth After a Journey of Half a Century",
-            "source_link": "https://www.nytimes.com/2025/05/10/science/kosmos-482-crash-soviet-spacecraft.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-10T10:49:48.077021Z",
-            "shown_at": [
-                "2025-05-10T10:49:48.748436Z",
-                "2025-05-10T11:47:41.928557Z",
-                "2025-05-10T14:43:24.602140Z",
-                "2025-05-10T21:35:08.951604Z",
-                "2025-05-11T03:15:35.237593Z",
-                "2025-05-11T04:11:23.671590Z",
-                "2025-05-11T08:57:40.175423Z",
-                "2025-05-11T15:37:41.859329Z",
-                "2025-05-11T18:32:29.256443Z",
-                "2025-05-11T21:27:29.598455Z",
-                "2025-05-12T01:16:03.623646Z",
-                "2025-05-12T02:17:33.123483Z",
-                "2025-05-12T07:05:47.861598Z",
-                "2025-05-12T10:02:14.357276Z",
-                "2025-05-12T13:48:06.166590Z",
-                "2025-05-12T14:43:36.037361Z",
-                "2025-05-12T18:05:11.149334Z",
-                "2025-05-12T19:03:51.522969Z",
-                "2025-05-12T20:13:35.631059Z",
-                "2025-05-13T00:23:30.672725Z",
-                "2025-05-13T02:29:53.031594Z",
-                "2025-05-13T06:17:44.858213Z",
-                "2025-05-13T07:13:41.487273Z",
-                "2025-05-13T10:07:17.980065Z",
-                "2025-05-13T11:19:27.809273Z",
-                "2025-05-14T00:07:42.438112Z",
-                "2025-05-14T02:03:39.235075Z",
-                "2025-05-14T02:59:32.060396Z",
-                "2025-05-14T06:39:44.716525Z",
-                "2025-05-14T08:53:32.332464Z",
-                "2025-05-14T15:15:26.467080Z",
-                "2025-05-14T20:27:47.744273Z",
-                "2025-05-15T01:02:09.321712Z",
-                "2025-05-15T07:32:02.764729Z",
-                "2025-05-15T10:19:27.469248Z",
-                "2025-05-15T13:49:44.732541Z",
-                "2025-05-15T14:47:47.817118Z",
-                "2025-05-16T01:04:02.486203Z",
-                "2025-05-16T03:11:49.929516Z",
-                "2025-05-16T04:07:54.063631Z",
-                "2025-05-16T10:07:38.777886Z",
-                "2025-05-17T01:27:39.708130Z",
-                "2025-05-17T03:21:52.335463Z",
-                "2025-05-17T06:17:56.144072Z"
-            ]
-        },
-        {
-            "id": "155a6e448a7c8a9325d7411a0405a812",
-            "source": "spacenews",
-            "text": "Engine change delays ispace-built lunar lander mission",
-            "source_link": "https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T18:51:48.170014Z",
-            "shown_at": [
-                "2025-05-09T18:51:49.403344Z"
-            ]
-        },
-        {
-            "id": "b743123acadbddebae640447389c7e3a",
-            "source": "spacenews",
-            "text": "Trump assaults American space science",
-            "source_link": "https://spacenews.com/trump-assaults-american-space-science/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-09T15:02:10.735923Z",
-            "shown_at": [
-                "2025-05-09T15:02:11.825782Z",
-                "2025-05-10T02:35:38.925516Z"
-            ]
-        },
-        {
-            "id": "fe42afd081acfe0c6ac22a5fe8772baa",
-            "source": "spacenews",
-            "text": "NASA Goddard director to step down",
-            "source_link": "https://spacenews.com/nasa-goddard-director-to-step-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T01:03:33.040682Z",
-            "shown_at": [
-                "2025-07-22T01:03:33.626814Z"
-            ]
-        },
-        {
-            "id": "0942ca7f7a8db07273478ee94fa8691a",
-            "source": "nyt",
-            "text": "When Betelgeuse Explodes, It’s Going to Take Out Another Star",
-            "source_link": "https://www.nytimes.com/2025/07/21/science/betelgeuse-star-companion.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T02:14:00.386673Z",
-            "shown_at": [
-                "2025-07-22T02:14:01.678882Z",
-                "2025-07-22T03:09:30.448395Z",
-                "2025-07-22T04:09:38.221661Z",
-                "2025-07-22T06:01:34.618535Z",
-                "2025-07-22T06:57:33.705539Z",
-                "2025-07-22T09:51:48.887288Z",
-                "2025-07-22T14:05:46.540259Z",
-                "2025-07-22T15:59:51.212886Z",
-                "2025-07-22T22:32:02.676931Z"
-            ]
-        },
-        {
-            "id": "06edecc6b2d3d1acc09368539e70cc01",
-            "source": "spacenews",
-            "text": "AST SpaceMobile seeks approval to give first responders a direct satellite link",
-            "source_link": "https://spacenews.com/ast-spacemobile-seeks-approval-to-give-first-responders-a-direct-satellite-link/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T12:13:31.602242Z",
-            "shown_at": [
-                "2025-07-22T12:13:32.234356Z"
-            ]
-        },
-        {
-            "id": "cd0c275afe322c766c3f876fb75197a3",
-            "source": "spacenews",
-            "text": "NISAR set to launch July 30",
-            "source_link": "https://spacenews.com/nisar-set-to-launch-july-30/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T12:13:31.602300Z",
-            "shown_at": [
-                "2025-07-22T12:27:52.125410Z"
-            ]
-        },
-        {
-            "id": "400be0cbd54056d52c3df7189fd1a8cc",
-            "source": "spacenews",
-            "text": "How SpaceX upended traditional launch markets – and what’s next",
-            "source_link": "https://spacenews.com/how-spacex-upended-traditional-launch-markets-and-whats-next/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T12:55:43.790642Z",
-            "shown_at": [
-                "2025-07-22T12:55:45.636716Z"
-            ]
-        },
-        {
-            "id": "1f29ed6bd96008da27ce0bb5495bb472",
-            "source": "spacenews",
-            "text": "Space Force to select multiple companies for new geostationary satellite surveillance network",
-            "source_link": "https://spacenews.com/space-force-to-select-multiple-companies-for-new-geostationary-satellite-surveillance-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T17:55:37.831446Z",
-            "shown_at": [
-                "2025-07-22T17:55:38.511818Z",
-                "2025-07-22T23:45:14.898028Z"
-            ]
-        },
-        {
-            "id": "c46392af6f65b2b55336f8886837be33",
-            "source": "spacenews",
-            "text": "Space Development Agency’s satellite network reaching ‘make-or-break’ moment",
-            "source_link": "https://spacenews.com/space-development-agencys-satellite-network-reaching-make-or-break-moment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T20:02:09.598141Z",
-            "shown_at": [
-                "2025-07-22T20:02:10.180698Z"
-            ]
-        },
-        {
-            "id": "5abc1118462280fe033397db5a8a0123",
-            "source": "breaking_defense",
-            "text": "Northrop back at work on Sentinel ICBM missile silo design: CEO",
-            "source_link": "https://breakingdefense.com/2025/07/northrop-back-at-work-on-sentinel-icbm-missile-silo-design-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T20:17:44.175443Z",
-            "shown_at": [
-                "2025-07-22T20:17:45.386971Z"
-            ]
-        },
-        {
-            "id": "7aee660a2b86d251da789cd93e5e5072",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Space Weather Research Mission for NASA",
-            "source_link": "https://www.supercluster.com/launches/tracers",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-23T18:13:00.000Z",
-            "time_remaining": "0d 18h 59m",
-            "fetched_datetime": "2025-07-22T22:13:35.190985Z",
-            "shown_at": [
-                "2025-07-22T22:13:35.850396Z",
-                "2025-07-22T22:15:44.723700Z",
-                "2025-07-22T22:59:11.907217Z",
-                "2025-07-22T23:02:12.823913Z",
-                "2025-07-22T23:05:33.462570Z",
-                "2025-07-22T23:07:47.589976Z",
-                "2025-07-22T23:09:39.702602Z",
-                "2025-07-22T23:11:57.396683Z",
-                "2025-07-22T23:13:33.597909Z",
-                "2025-07-22T23:59:42.485242Z"
             ]
         }
     ]
