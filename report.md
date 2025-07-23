@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 44 | 44 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 23 | 47 |
 
 # Shown Order
 
@@ -4982,3 +4982,4 @@
 - **Jul 23, 04:13 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 04:15 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 04:17 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
+- **Jul 23, 04:31 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
