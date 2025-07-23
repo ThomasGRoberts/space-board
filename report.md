@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 16 | 16 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| spacenews | 6 | 11 | 28 | 54 |
+| spacenews | 7 | 12 | 29 | 55 |
 | nyt | 1 | 2 | 23 | 47 |
 
 # Shown Order
@@ -4943,3 +4943,4 @@
 - **Jul 23, 12:15 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 23, 12:29 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 23, 12:43 AM** - Polish space company SatRev launches Omani ground station amid international expansion (spacenews)
+- **Jul 23, 12:57 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)

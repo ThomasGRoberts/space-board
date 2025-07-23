@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b1541c9661824a2a09336c984170589",
+    "trigger_count": 0,
+    "current_item_id": "d81e88865afc63db24388a8f8173af58",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10438,6 +10438,18 @@
                 "2025-05-15T17:53:11.145304Z",
                 "2025-05-15T20:15:07.945076Z",
                 "2025-05-16T20:29:44.695980Z"
+            ]
+        },
+        {
+            "id": "d81e88865afc63db24388a8f8173af58",
+            "source": "spacenews",
+            "text": "Moran wants to expedite passage of spending bill for NASA",
+            "source_link": "https://spacenews.com/moran-wants-to-expedite-passage-of-spending-bill-for-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T00:57:53.530212Z",
+            "shown_at": [
+                "2025-07-23T00:57:54.706284Z"
             ]
         }
     ]
