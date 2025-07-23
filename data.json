@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7aee660a2b86d251da789cd93e5e5072",
+    "trigger_count": 0,
+    "current_item_id": "84485b1e1e64dd1a5c288bb57c329027",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10651,6 +10651,18 @@
             "fetched_datetime": "2025-07-23T14:57:48.416660Z",
             "shown_at": [
                 "2025-07-23T14:57:49.471259Z"
+            ]
+        },
+        {
+            "id": "84485b1e1e64dd1a5c288bb57c329027",
+            "source": "breaking_defense",
+            "text": "Global military space spending growth trend continues in 2024, topping $60B",
+            "source_link": "https://breakingdefense.com/2025/07/global-military-space-spending-growth-trend-continues-in-2024-topping-60b/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T16:02:00.059305Z",
+            "shown_at": [
+                "2025-07-23T16:02:01.310427Z"
             ]
         }
     ]
