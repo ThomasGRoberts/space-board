@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 16 | 16 |
 | breaking_defense | 1 | 2 | 24 | 48 |
 | spacenews | 6 | 11 | 27 | 53 |
-| nyt | 1 | 2 | 23 | 46 |
+| nyt | 1 | 2 | 24 | 47 |
 
 # Shown Order
 
@@ -4941,3 +4941,4 @@
 - **Jul 23, 12:11 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 12:13 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 12:15 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
+- **Jul 23, 12:29 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
