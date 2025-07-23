@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 7 | 13 | 28 | 55 |
 | nyt | 0 | 2 | 22 | 47 |
@@ -5025,3 +5025,4 @@
 - **Jul 23, 08:23 AM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 23, 08:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 23, 08:53 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 23, 08:55 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
