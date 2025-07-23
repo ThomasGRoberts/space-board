@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 23 | 47 |
 | spacenews | 6 | 12 | 24 | 52 |
 | nyt | 0 | 1 | 21 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4981,3 +4981,4 @@
 - **Jul 23, 05:33 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 06:03 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 23, 07:13 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 23, 07:15 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
