@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 | breaking_defense | 1 | 2 | 23 | 47 |
 | spacenews | 6 | 12 | 28 | 54 |
 | nyt | 0 | 2 | 22 | 47 |
@@ -4966,3 +4966,4 @@
 - **Jul 23, 02:49 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 23, 03:06 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 03:09 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 23, 03:11 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
