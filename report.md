@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 121 | 121 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 7 | 13 | 27 | 54 |
 | nyt | 0 | 1 | 22 | 47 |
 
@@ -5092,3 +5092,4 @@
 - **Jul 23, 02:53 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 02:55 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 02:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
+- **Jul 23, 03:11 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
