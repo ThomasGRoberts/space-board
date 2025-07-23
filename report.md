@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 30 | 30 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| spacenews | 6 | 12 | 28 | 54 |
+| spacenews | 6 | 12 | 29 | 55 |
 | nyt | 0 | 2 | 23 | 47 |
 
 # Shown Order
@@ -4963,3 +4963,4 @@
 - **Jul 23, 02:19 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 02:21 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 23, 02:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 23, 02:49 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
