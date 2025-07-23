@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 79 | 79 |
 | breaking_defense | 1 | 2 | 24 | 49 |
-| spacenews | 7 | 13 | 28 | 54 |
+| spacenews | 7 | 13 | 29 | 55 |
 | nyt | 0 | 2 | 22 | 47 |
 
 # Shown Order
@@ -5032,3 +5032,4 @@
 - **Jul 23, 09:03 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 09:05 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
 - **Jul 23, 09:07 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 23, 09:21 AM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
