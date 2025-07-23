@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 6 | 12 | 28 | 54 |
-| nyt | 0 | 2 | 23 | 47 |
+| nyt | 0 | 2 | 22 | 47 |
 
 # Shown Order
 
@@ -5005,3 +5005,4 @@
 - **Jul 23, 06:25 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 23, 06:41 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 23, 06:55 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
+- **Jul 23, 06:57 AM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
