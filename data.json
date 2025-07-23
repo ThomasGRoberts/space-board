@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fda968937eed9e67c1b0f447aeb3ac3",
+    "trigger_count": 0,
+    "current_item_id": "e905bd4dfd248473e439759ab06e4552",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10600,6 +10600,18 @@
             "fetched_datetime": "2025-07-23T12:13:15.758740Z",
             "shown_at": [
                 "2025-07-23T12:13:16.230412Z"
+            ]
+        },
+        {
+            "id": "e905bd4dfd248473e439759ab06e4552",
+            "source": "spacenews",
+            "text": "Why America needs to invest in Vandenberg’s launch cadence",
+            "source_link": "https://spacenews.com/why-america-needs-to-invest-in-vandenbergs-launch-cadence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T13:09:57.681900Z",
+            "shown_at": [
+                "2025-07-23T13:09:59.134028Z"
             ]
         }
     ]
