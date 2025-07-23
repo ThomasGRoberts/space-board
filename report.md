@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 6 | 13 | 27 | 54 |
 | nyt | 0 | 1 | 23 | 47 |
@@ -5084,3 +5084,4 @@
 - **Jul 23, 01:55 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 02:09 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 23, 02:23 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
+- **Jul 23, 02:42 PM** - SpaceX Will Launch Space Weather Research Mission for NASA (supercluster)
