@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 24 | 49 |
+| breaking_defense | 3 | 4 | 24 | 48 |
 | spacenews | 5 | 12 | 24 | 52 |
-| nyt | 0 | 1 | 21 | 45 |
+| nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -4995,3 +4995,4 @@
 - **Jul 23, 08:15 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 23, 08:29 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 23, 08:43 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 23, 08:57 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
