@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5abc1118462280fe033397db5a8a0123",
+    "trigger_count": 0,
+    "current_item_id": "e2cb9be1e092a5bbfc689f8cfab19605",
     "data": [
         {
             "id": "7aee660a2b86d251da789cd93e5e5072",
@@ -10528,6 +10528,18 @@
             "fetched_datetime": "2025-07-23T00:57:53.530212Z",
             "shown_at": [
                 "2025-07-23T00:57:54.706284Z"
+            ]
+        },
+        {
+            "id": "e2cb9be1e092a5bbfc689f8cfab19605",
+            "source": "spacenews",
+            "text": "Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years",
+            "source_link": "https://spacenews.com/golden-dome-chief-outlines-plan-to-deliver-u-s-homeland-missile-defense-in-three-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T08:23:06.482317Z",
+            "shown_at": [
+                "2025-07-23T08:23:07.270350Z"
             ]
         }
     ]
