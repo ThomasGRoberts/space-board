@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
-    "trigger_count": 6,
-    "current_item_id": "97fa637b958af765d43d570af8a9c4ca",
+    "trigger_count": 0,
+    "current_item_id": "487d263bc21f22fb91ad68448ffc458d",
     "data": [
         {
             "id": "30d0bf64f851455603f0862edcfbf49b",
@@ -10721,6 +10721,20 @@
             "fetched_datetime": "2025-07-24T17:49:35.512534Z",
             "shown_at": [
                 "2025-07-24T17:49:36.086675Z"
+            ]
+        },
+        {
+            "id": "487d263bc21f22fb91ad68448ffc458d",
+            "source": "supercluster",
+            "text": "Russia Will Launch Space Weather Monitoring Satellites",
+            "source_link": "https://www.supercluster.com/launches/ionosfera-m-3-and-4",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-25T05:54:00.000Z",
+            "time_remaining": "0d 11h 50m",
+            "fetched_datetime": "2025-07-24T18:03:30.253668Z",
+            "shown_at": [
+                "2025-07-24T18:03:30.731103Z"
             ]
         }
     ]

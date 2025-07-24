@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 52 |
 | breaking_defense | 3 | 5 | 25 | 48 |
-| supercluster | 1 | 1 | 156 | 156 |
+| supercluster | 2 | 2 | 157 | 157 |
 | nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
@@ -5160,3 +5160,4 @@
 - **Jul 24, 05:45 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 05:47 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 05:49 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 24, 06:03 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
