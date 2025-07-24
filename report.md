@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 27 | 54 |
 | breaking_defense | 2 | 4 | 24 | 47 |
-| supercluster | 1 | 1 | 151 | 151 |
+| supercluster | 1 | 1 | 152 | 152 |
 | nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
@@ -5154,3 +5154,4 @@
 - **Jul 24, 05:21 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 24, 05:35 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 05:37 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 05:39 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
