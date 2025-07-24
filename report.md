@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 25 | 52 |
-| breaking_defense | 3 | 4 | 24 | 48 |
+| breaking_defense | 3 | 4 | 25 | 49 |
 | supercluster | 1 | 1 | 135 | 135 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -5127,3 +5127,4 @@
 - **Jul 24, 02:17 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:19 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:21 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 02:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
