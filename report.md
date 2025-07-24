@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 24 | 52 |
+| spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 44 | 44 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -4998,3 +4998,4 @@
 - **Jul 24, 01:32 AM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 24, 01:47 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 02:02 AM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
+- **Jul 24, 02:17 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
