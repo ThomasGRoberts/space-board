@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
-| breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 50 | 50 |
+| breaking_defense | 3 | 4 | 24 | 47 |
+| supercluster | 1 | 1 | 51 | 51 |
 | nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
@@ -5005,3 +5005,4 @@
 - **Jul 24, 02:37 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:39 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:41 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 02:43 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
