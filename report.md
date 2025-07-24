@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -5039,3 +5039,4 @@
 - **Jul 24, 05:35 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 05:51 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 06:05 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
+- **Jul 24, 06:19 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
