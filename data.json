@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7e45144538eb78005e06c4b9aa84d1e",
+    "trigger_count": 0,
+    "current_item_id": "97fa637b958af765d43d570af8a9c4ca",
     "data": [
         {
             "id": "30d0bf64f851455603f0862edcfbf49b",
@@ -10709,6 +10709,18 @@
             "fetched_datetime": "2025-07-24T15:25:55.895572Z",
             "shown_at": [
                 "2025-07-24T15:25:56.668710Z"
+            ]
+        },
+        {
+            "id": "97fa637b958af765d43d570af8a9c4ca",
+            "source": "breaking_defense",
+            "text": "Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-creates-new-system-deltas-to-guide-missile-warning-space-based-targeting-efforts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T17:49:35.512534Z",
+            "shown_at": [
+                "2025-07-24T17:49:36.086675Z"
             ]
         }
     ]
