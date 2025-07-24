@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 25 | 52 |
-| breaking_defense | 3 | 4 | 25 | 48 |
+| spacenews | 5 | 12 | 26 | 53 |
+| breaking_defense | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 135 | 135 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -5130,3 +5130,4 @@
 - **Jul 24, 02:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 24, 02:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 02:52 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
+- **Jul 24, 03:11 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
