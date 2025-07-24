@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 25 | 52 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 135 | 135 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
 
@@ -5128,3 +5128,4 @@
 - **Jul 24, 02:19 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:21 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
+- **Jul 24, 02:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
