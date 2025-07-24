@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 24 | 52 |
+| spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 30 | 30 |
 | nyt | 0 | 1 | 23 | 46 |
@@ -4977,3 +4977,4 @@
 - **Jul 23, 11:33 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 23, 11:35 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 11:51 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 12:05 AM** - Duffy just getting started as acting NASA administrator (spacenews)
