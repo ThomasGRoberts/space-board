@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
-    "trigger_count": 6,
-    "current_item_id": "487d263bc21f22fb91ad68448ffc458d",
+    "trigger_count": 0,
+    "current_item_id": "b95290bc82e745ae594a4d7148b32e54",
     "data": [
         {
             "id": "30d0bf64f851455603f0862edcfbf49b",
@@ -10741,6 +10741,18 @@
                 "2025-07-24T18:11:48.360072Z",
                 "2025-07-24T18:13:45.912705Z",
                 "2025-07-24T18:15:45.953192Z"
+            ]
+        },
+        {
+            "id": "b95290bc82e745ae594a4d7148b32e54",
+            "source": "breaking_defense",
+            "text": "Senate confirms Lohmeier as Air Force No. 2 civilian",
+            "source_link": "https://breakingdefense.com/2025/07/senate-confirms-lohmeier-as-air-force-no-2-civilian/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T18:17:52.737275Z",
+            "shown_at": [
+                "2025-07-24T18:17:53.517091Z"
             ]
         }
     ]
