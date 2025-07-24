@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 25 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 114 | 114 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -5098,3 +5098,4 @@
 - **Jul 24, 11:17 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 11:19 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 24, 11:33 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 24, 11:47 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
