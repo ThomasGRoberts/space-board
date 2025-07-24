@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 52 |
 | breaking_defense | 4 | 6 | 25 | 48 |
-| supercluster | 1 | 2 | 163 | 164 |
+| supercluster | 1 | 2 | 164 | 165 |
 | nyt | 1 | 1 | 24 | 45 |
 
 # Shown Order
@@ -5172,3 +5172,4 @@
 - **Jul 24, 06:45 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 24, 06:59 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 24, 07:13 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 24, 07:15 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
