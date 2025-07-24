@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 27 | 53 |
+| spacenews | 6 | 13 | 27 | 54 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 149 | 149 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -5151,3 +5151,4 @@
 - **Jul 24, 04:51 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 04:54 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 24, 05:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 05:21 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
