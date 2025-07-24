@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 52 |
+| spacenews | 8 | 14 | 28 | 53 |
 | breaking_defense | 4 | 6 | 26 | 48 |
 | supercluster | 1 | 2 | 168 | 170 |
 | nyt | 1 | 1 | 23 | 45 |
@@ -5179,3 +5179,4 @@
 - **Jul 24, 07:23 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 07:25 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 07:27 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
+- **Jul 24, 07:41 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
