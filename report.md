@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 52 |
+| spacenews | 5 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 107 | 107 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -5088,3 +5088,4 @@
 - **Jul 24, 10:19 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 10:21 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 24, 10:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 24, 10:49 AM** - Duffy just getting started as acting NASA administrator (spacenews)
