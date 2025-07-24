@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 52 |
+| spacenews | 5 | 11 | 25 | 52 |
 | breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 129 | 129 |
+| supercluster | 1 | 1 | 130 | 130 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -5121,3 +5121,4 @@
 - **Jul 24, 01:39 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 24, 01:53 PM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 24, 02:09 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 02:11 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
