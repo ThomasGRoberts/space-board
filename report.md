@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 46 | 46 |
-| nyt | 0 | 0 | 23 | 45 |
+| supercluster | 1 | 1 | 47 | 47 |
+| nyt | 0 | 0 | 22 | 45 |
 
 # Shown Order
 
@@ -5001,3 +5001,4 @@
 - **Jul 24, 02:17 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 24, 02:31 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 02:33 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 02:35 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
