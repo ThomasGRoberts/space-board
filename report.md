@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 25 | 53 |
+| spacenews | 7 | 14 | 26 | 54 |
 | breaking_defense | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -5099,3 +5099,4 @@
 - **Jul 24, 11:19 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 24, 11:33 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 24, 11:47 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 12:02 PM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
