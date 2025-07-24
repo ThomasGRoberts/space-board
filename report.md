@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 28 | 53 |
 | breaking_defense | 2 | 5 | 24 | 49 |
 | supercluster | 1 | 2 | 168 | 198 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 25 | 47 |
 
 # Shown Order
 
@@ -5220,3 +5220,4 @@
 - **Jul 24, 11:12 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 11:13 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 11:27 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
+- **Jul 24, 11:41 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
