@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -5041,3 +5041,4 @@
 - **Jul 24, 06:05 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 24, 06:19 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 06:21 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 06:23 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
