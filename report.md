@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 52 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 2 | 168 | 184 |
+| supercluster | 1 | 2 | 169 | 185 |
 | nyt | 1 | 1 | 24 | 47 |
 
 # Shown Order
@@ -5201,3 +5201,4 @@
 - **Jul 24, 09:19 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 24, 09:33 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 24, 09:47 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 10:01 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
