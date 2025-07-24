@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 53 |
+| spacenews | 6 | 13 | 25 | 54 |
 | breaking_defense | 3 | 4 | 24 | 47 |
 | supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -5096,3 +5096,4 @@
 - **Jul 24, 11:13 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 11:15 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 11:17 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 24, 11:19 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
