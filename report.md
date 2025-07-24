@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 191 |
 | nyt | 1 | 1 | 24 | 47 |
 
@@ -5208,3 +5208,4 @@
 - **Jul 24, 10:09 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 10:11 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 10:13 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 24, 10:15 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
