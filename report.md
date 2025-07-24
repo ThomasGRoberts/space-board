@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 28 | 52 |
+| spacenews | 8 | 13 | 28 | 51 |
 | breaking_defense | 2 | 5 | 24 | 48 |
-| supercluster | 1 | 2 | 168 | 177 |
+| supercluster | 1 | 2 | 169 | 178 |
 | nyt | 1 | 1 | 24 | 46 |
 
 # Shown Order
@@ -5191,3 +5191,4 @@
 - **Jul 24, 08:23 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 24, 08:38 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 24, 08:51 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 09:05 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
