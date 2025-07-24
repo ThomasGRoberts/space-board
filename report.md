@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 23 | 52 |
+| spacenews | 5 | 12 | 24 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 37 | 37 |
 | nyt | 0 | 1 | 23 | 46 |
@@ -4987,3 +4987,4 @@
 - **Jul 24, 12:32 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 12:33 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 12:47 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 01:02 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
