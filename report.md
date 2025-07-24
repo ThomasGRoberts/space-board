@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 52 |
 | breaking_defense | 4 | 6 | 25 | 49 |
 | supercluster | 2 | 2 | 163 | 163 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -5168,3 +5168,4 @@
 - **Jul 24, 06:13 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 06:15 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 06:17 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
+- **Jul 24, 06:31 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
