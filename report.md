@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 27 | 53 |
 | breaking_defense | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 149 | 149 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -5150,3 +5150,4 @@
 - **Jul 24, 04:49 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 04:51 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 04:54 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
+- **Jul 24, 05:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
