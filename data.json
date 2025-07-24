@@ -1,9 +1,162 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-23T00:02:15.250593+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
+    "trigger_count": 5,
     "current_item_id": "0aa99a6d3f7f198948cf068ccd6bc548",
     "data": [
+        {
+            "id": "30d0bf64f851455603f0862edcfbf49b",
+            "source": "spacenews",
+            "text": "Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC",
+            "source_link": "https://spacenews.com/launch-startup-irocket-agrees-to-merge-with-wilbur-ross-backed-spac/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T21:12:01.834743Z",
+            "shown_at": [
+                "2025-07-23T21:12:02.907455Z"
+            ]
+        },
+        {
+            "id": "ce54d65dabf8fe2fbb85cf26b50a232a",
+            "source": "breaking_defense",
+            "text": "Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T20:43:42.367127Z",
+            "shown_at": [
+                "2025-07-23T20:43:43.058026Z"
+            ]
+        },
+        {
+            "id": "f9ce1f3d3a521282ded313ed1b25b196",
+            "source": "breaking_defense",
+            "text": "Space Force eyes ‘novel’ development tools for Golden Dome SBIs",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T20:15:40.881845Z",
+            "shown_at": [
+                "2025-07-23T20:15:41.515781Z"
+            ]
+        },
+        {
+            "id": "d7e45144538eb78005e06c4b9aa84d1e",
+            "source": "supercluster",
+            "text": "iSpace Will Launch the Hyperbola-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/hyperbola-12",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-25T04:10:00.000Z",
+            "time_remaining": "1d 04h 36m",
+            "fetched_datetime": "2025-07-23T19:13:41.346406Z",
+            "shown_at": [
+                "2025-07-23T19:13:41.929897Z",
+                "2025-07-23T19:15:39.165931Z",
+                "2025-07-23T19:59:39.316300Z",
+                "2025-07-23T20:02:31.158846Z",
+                "2025-07-23T20:05:45.990473Z",
+                "2025-07-23T20:07:54.322723Z",
+                "2025-07-23T20:09:20.083106Z",
+                "2025-07-23T20:11:29.152127Z",
+                "2025-07-23T20:13:34.726399Z",
+                "2025-07-23T21:25:43.676016Z",
+                "2025-07-23T21:27:37.695208Z",
+                "2025-07-23T21:29:50.242903Z",
+                "2025-07-23T21:31:50.280373Z",
+                "2025-07-23T21:33:43.637157Z",
+                "2025-07-23T21:35:59.873755Z",
+                "2025-07-23T21:37:45.409690Z",
+                "2025-07-23T22:23:51.352912Z",
+                "2025-07-23T22:25:36.690955Z",
+                "2025-07-23T22:27:33.353310Z",
+                "2025-07-23T22:29:41.608812Z",
+                "2025-07-23T22:31:50.957664Z",
+                "2025-07-23T22:33:33.039541Z",
+                "2025-07-23T22:35:14.531268Z",
+                "2025-07-23T23:21:32.694504Z",
+                "2025-07-23T23:23:04.499873Z",
+                "2025-07-23T23:25:42.158155Z",
+                "2025-07-23T23:27:45.466998Z",
+                "2025-07-23T23:29:41.009168Z",
+                "2025-07-23T23:31:56.134867Z",
+                "2025-07-23T23:33:59.617070Z"
+            ]
+        },
+        {
+            "id": "84485b1e1e64dd1a5c288bb57c329027",
+            "source": "breaking_defense",
+            "text": "Global military space spending growth trend continues in 2024, topping $60B",
+            "source_link": "https://breakingdefense.com/2025/07/global-military-space-spending-growth-trend-continues-in-2024-topping-60b/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T16:02:00.059305Z",
+            "shown_at": [
+                "2025-07-23T16:02:01.310427Z"
+            ]
+        },
+        {
+            "id": "bc6b3587fb91b24ad605bed7e7862b41",
+            "source": "spacenews",
+            "text": "China tightens quality oversight over commercial space projects",
+            "source_link": "https://spacenews.com/china-tightens-quality-oversight-over-commercial-space-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T14:57:48.416660Z",
+            "shown_at": [
+                "2025-07-23T14:57:49.471259Z"
+            ]
+        },
+        {
+            "id": "e905bd4dfd248473e439759ab06e4552",
+            "source": "spacenews",
+            "text": "Why America needs to invest in Vandenberg’s launch cadence",
+            "source_link": "https://spacenews.com/why-america-needs-to-invest-in-vandenbergs-launch-cadence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T13:09:57.681900Z",
+            "shown_at": [
+                "2025-07-23T13:09:59.134028Z",
+                "2025-07-23T19:17:45.445801Z"
+            ]
+        },
+        {
+            "id": "d7aae0070c3b23a9222c604b012cab3d",
+            "source": "spacenews",
+            "text": "SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027",
+            "source_link": "https://spacenews.com/spacex-launch-brings-ses-closer-to-completing-meo-broadband-upgrade-by-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T12:13:15.758740Z",
+            "shown_at": [
+                "2025-07-23T12:13:16.230412Z",
+                "2025-07-23T23:08:06.678995Z"
+            ]
+        },
+        {
+            "id": "e2cb9be1e092a5bbfc689f8cfab19605",
+            "source": "spacenews",
+            "text": "Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years",
+            "source_link": "https://spacenews.com/golden-dome-chief-outlines-plan-to-deliver-u-s-homeland-missile-defense-in-three-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T08:23:06.482317Z",
+            "shown_at": [
+                "2025-07-23T08:23:07.270350Z"
+            ]
+        },
+        {
+            "id": "d81e88865afc63db24388a8f8173af58",
+            "source": "spacenews",
+            "text": "Moran wants to expedite passage of spending bill for NASA",
+            "source_link": "https://spacenews.com/moran-wants-to-expedite-passage-of-spending-bill-for-nasa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-23T00:57:53.530212Z",
+            "shown_at": [
+                "2025-07-23T00:57:54.706284Z"
+            ]
+        },
         {
             "id": "5abc1118462280fe033397db5a8a0123",
             "source": "breaking_defense",
@@ -10319,307 +10472,6 @@
                 "2025-05-13T20:25:44.332181Z",
                 "2025-05-17T15:49:41.160514Z",
                 "2025-05-19T16:19:39.447290Z"
-            ]
-        },
-        {
-            "id": "cbd43bc894bcba0526886bc5a3f14cb8",
-            "source": "spacenews",
-            "text": "How Earth observation satellite operators are teaming up to tip and cue one another",
-            "source_link": "https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T11:05:37.819749Z",
-            "shown_at": [
-                "2025-05-13T11:05:39.707064Z",
-                "2025-05-18T23:51:44.601902Z",
-                "2025-05-19T06:32:10.589955Z",
-                "2025-05-20T09:53:36.693753Z"
-            ]
-        },
-        {
-            "id": "2a974d71e09a41fa5bd710b5760146c6",
-            "source": "spacenews",
-            "text": "China adds to classified TJS, Yaogan satellite series with two launches",
-            "source_link": "https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T22:11:49.409466Z",
-            "shown_at": [
-                "2025-05-12T22:11:50.498721Z",
-                "2025-05-15T09:37:09.779065Z",
-                "2025-05-16T15:41:47.650824Z"
-            ]
-        },
-        {
-            "id": "b8e35c9ff6dbc4b003323de28a5f36f9",
-            "source": "spacenews",
-            "text": "Space Force selects vendors to build cloud-based ground station marketplaces",
-            "source_link": "https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T19:59:47.607913Z",
-            "shown_at": [
-                "2025-05-12T19:59:48.205146Z",
-                "2025-05-17T04:07:29.580962Z"
-            ]
-        },
-        {
-            "id": "09ea87096f02396cc02004b0bae99944",
-            "source": "spacenews",
-            "text": "Foreign SpaceX launch customers seek relief from U.S. tariffs",
-            "source_link": "https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T19:17:36.756637Z",
-            "shown_at": [
-                "2025-05-12T19:17:37.399969Z",
-                "2025-05-14T03:43:25.577102Z",
-                "2025-05-16T19:32:07.903753Z",
-                "2025-05-17T10:39:29.191470Z"
-            ]
-        },
-        {
-            "id": "f017e951209c36f668edf28a659b3237",
-            "source": "spacenews",
-            "text": "Lockheed Martin increases investment in solid rocket startup X-Bow Systems",
-            "source_link": "https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T16:23:34.091691Z",
-            "shown_at": [
-                "2025-05-12T16:37:32.669764Z",
-                "2025-05-13T22:57:33.848847Z",
-                "2025-05-14T15:29:31.700534Z"
-            ]
-        },
-        {
-            "id": "a895719eb93301fef764a23ad6f3f09f",
-            "source": "spacenews",
-            "text": "Pentagon taps more firms to build commercial-military satellite network",
-            "source_link": "https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T16:23:34.091639Z",
-            "shown_at": [
-                "2025-05-12T16:23:34.744016Z",
-                "2025-05-16T10:37:40.967609Z"
-            ]
-        },
-        {
-            "id": "a840074f601a20c9708ead6aa5499238",
-            "source": "spacenews",
-            "text": "Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice",
-            "source_link": "https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T15:11:50.011384Z",
-            "shown_at": [
-                "2025-05-12T15:11:50.627924Z",
-                "2025-05-17T18:39:46.498117Z"
-            ]
-        },
-        {
-            "id": "1b76805a4a24bb648430af3a479014fe",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: US loosens some rules for offensive counterspace ops, wargaming",
-            "source_link": "https://breakingdefense.com/2025/05/exclusive-us-loosens-some-rules-for-offensive-counterspace-ops-wargaming/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T14:57:31.535060Z",
-            "shown_at": [
-                "2025-05-12T14:57:32.109036Z",
-                "2025-05-12T15:55:36.814627Z",
-                "2025-05-13T09:39:38.059343Z",
-                "2025-05-13T13:46:19.077146Z",
-                "2025-05-13T17:00:42.001824Z",
-                "2025-05-13T21:13:46.365576Z",
-                "2025-05-14T05:13:31.928072Z",
-                "2025-05-14T09:39:43.289484Z",
-                "2025-05-15T00:45:33.053801Z",
-                "2025-05-15T01:43:37.345940Z",
-                "2025-05-15T08:14:04.873259Z",
-                "2025-05-16T00:49:32.027572Z",
-                "2025-05-16T02:43:35.370906Z",
-                "2025-05-16T03:39:08.567359Z",
-                "2025-05-16T06:45:41.360960Z",
-                "2025-05-16T18:03:34.863081Z",
-                "2025-05-17T01:41:14.645446Z",
-                "2025-05-17T19:09:30.538477Z",
-                "2025-05-18T00:47:31.488065Z",
-                "2025-05-18T06:33:37.558161Z",
-                "2025-05-18T08:25:30.568181Z",
-                "2025-05-18T15:15:51.119735Z",
-                "2025-05-18T16:13:47.076830Z",
-                "2025-05-19T05:47:36.628036Z",
-                "2025-05-19T13:51:48.743345Z"
-            ]
-        },
-        {
-            "id": "8ae8e673d87d59509830e4787a2877f5",
-            "source": "spacenews",
-            "text": "Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority",
-            "source_link": "https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-12T13:02:22.106847Z",
-            "shown_at": [
-                "2025-05-12T13:02:23.214889Z",
-                "2025-05-15T17:53:11.145304Z",
-                "2025-05-15T20:15:07.945076Z",
-                "2025-05-16T20:29:44.695980Z"
-            ]
-        },
-        {
-            "id": "d81e88865afc63db24388a8f8173af58",
-            "source": "spacenews",
-            "text": "Moran wants to expedite passage of spending bill for NASA",
-            "source_link": "https://spacenews.com/moran-wants-to-expedite-passage-of-spending-bill-for-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T00:57:53.530212Z",
-            "shown_at": [
-                "2025-07-23T00:57:54.706284Z"
-            ]
-        },
-        {
-            "id": "e2cb9be1e092a5bbfc689f8cfab19605",
-            "source": "spacenews",
-            "text": "Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years",
-            "source_link": "https://spacenews.com/golden-dome-chief-outlines-plan-to-deliver-u-s-homeland-missile-defense-in-three-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T08:23:06.482317Z",
-            "shown_at": [
-                "2025-07-23T08:23:07.270350Z"
-            ]
-        },
-        {
-            "id": "d7aae0070c3b23a9222c604b012cab3d",
-            "source": "spacenews",
-            "text": "SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027",
-            "source_link": "https://spacenews.com/spacex-launch-brings-ses-closer-to-completing-meo-broadband-upgrade-by-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T12:13:15.758740Z",
-            "shown_at": [
-                "2025-07-23T12:13:16.230412Z",
-                "2025-07-23T23:08:06.678995Z"
-            ]
-        },
-        {
-            "id": "e905bd4dfd248473e439759ab06e4552",
-            "source": "spacenews",
-            "text": "Why America needs to invest in Vandenberg’s launch cadence",
-            "source_link": "https://spacenews.com/why-america-needs-to-invest-in-vandenbergs-launch-cadence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T13:09:57.681900Z",
-            "shown_at": [
-                "2025-07-23T13:09:59.134028Z",
-                "2025-07-23T19:17:45.445801Z"
-            ]
-        },
-        {
-            "id": "bc6b3587fb91b24ad605bed7e7862b41",
-            "source": "spacenews",
-            "text": "China tightens quality oversight over commercial space projects",
-            "source_link": "https://spacenews.com/china-tightens-quality-oversight-over-commercial-space-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T14:57:48.416660Z",
-            "shown_at": [
-                "2025-07-23T14:57:49.471259Z"
-            ]
-        },
-        {
-            "id": "84485b1e1e64dd1a5c288bb57c329027",
-            "source": "breaking_defense",
-            "text": "Global military space spending growth trend continues in 2024, topping $60B",
-            "source_link": "https://breakingdefense.com/2025/07/global-military-space-spending-growth-trend-continues-in-2024-topping-60b/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T16:02:00.059305Z",
-            "shown_at": [
-                "2025-07-23T16:02:01.310427Z"
-            ]
-        },
-        {
-            "id": "d7e45144538eb78005e06c4b9aa84d1e",
-            "source": "supercluster",
-            "text": "iSpace Will Launch the Hyperbola-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/hyperbola-12",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-25T04:10:00.000Z",
-            "time_remaining": "1d 04h 36m",
-            "fetched_datetime": "2025-07-23T19:13:41.346406Z",
-            "shown_at": [
-                "2025-07-23T19:13:41.929897Z",
-                "2025-07-23T19:15:39.165931Z",
-                "2025-07-23T19:59:39.316300Z",
-                "2025-07-23T20:02:31.158846Z",
-                "2025-07-23T20:05:45.990473Z",
-                "2025-07-23T20:07:54.322723Z",
-                "2025-07-23T20:09:20.083106Z",
-                "2025-07-23T20:11:29.152127Z",
-                "2025-07-23T20:13:34.726399Z",
-                "2025-07-23T21:25:43.676016Z",
-                "2025-07-23T21:27:37.695208Z",
-                "2025-07-23T21:29:50.242903Z",
-                "2025-07-23T21:31:50.280373Z",
-                "2025-07-23T21:33:43.637157Z",
-                "2025-07-23T21:35:59.873755Z",
-                "2025-07-23T21:37:45.409690Z",
-                "2025-07-23T22:23:51.352912Z",
-                "2025-07-23T22:25:36.690955Z",
-                "2025-07-23T22:27:33.353310Z",
-                "2025-07-23T22:29:41.608812Z",
-                "2025-07-23T22:31:50.957664Z",
-                "2025-07-23T22:33:33.039541Z",
-                "2025-07-23T22:35:14.531268Z",
-                "2025-07-23T23:21:32.694504Z",
-                "2025-07-23T23:23:04.499873Z",
-                "2025-07-23T23:25:42.158155Z",
-                "2025-07-23T23:27:45.466998Z",
-                "2025-07-23T23:29:41.009168Z",
-                "2025-07-23T23:31:56.134867Z",
-                "2025-07-23T23:33:59.617070Z"
-            ]
-        },
-        {
-            "id": "f9ce1f3d3a521282ded313ed1b25b196",
-            "source": "breaking_defense",
-            "text": "Space Force eyes ‘novel’ development tools for Golden Dome SBIs",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T20:15:40.881845Z",
-            "shown_at": [
-                "2025-07-23T20:15:41.515781Z"
-            ]
-        },
-        {
-            "id": "ce54d65dabf8fe2fbb85cf26b50a232a",
-            "source": "breaking_defense",
-            "text": "Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T20:43:42.367127Z",
-            "shown_at": [
-                "2025-07-23T20:43:43.058026Z"
-            ]
-        },
-        {
-            "id": "30d0bf64f851455603f0862edcfbf49b",
-            "source": "spacenews",
-            "text": "Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC",
-            "source_link": "https://spacenews.com/launch-startup-irocket-agrees-to-merge-with-wilbur-ross-backed-spac/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T21:12:01.834743Z",
-            "shown_at": [
-                "2025-07-23T21:12:02.907455Z"
             ]
         }
     ]
