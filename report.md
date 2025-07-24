@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 28 | 52 |
 | breaking_defense | 4 | 6 | 25 | 48 |
 | supercluster | 2 | 2 | 163 | 163 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 1 | 1 | 24 | 46 |
 
 # Shown Order
 
@@ -5170,3 +5170,4 @@
 - **Jul 24, 06:17 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 06:31 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 06:45 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
+- **Jul 24, 06:59 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
