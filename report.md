@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
 | breaking_defense | 4 | 6 | 25 | 48 |
-| supercluster | 1 | 2 | 167 | 169 |
+| supercluster | 1 | 2 | 168 | 170 |
 | nyt | 1 | 1 | 24 | 45 |
 
 # Shown Order
@@ -5177,3 +5177,4 @@
 - **Jul 24, 07:19 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 07:21 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 07:23 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 24, 07:25 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
