@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 52 |
-| breaking_defense | 3 | 4 | 25 | 49 |
+| breaking_defense | 3 | 4 | 25 | 48 |
 | supercluster | 1 | 1 | 121 | 121 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
 
@@ -5108,3 +5108,4 @@
 - **Jul 24, 12:25 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 12:27 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 12:29 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 24, 12:44 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
