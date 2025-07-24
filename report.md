@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 28 | 52 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 2 | 168 | 198 |
+| supercluster | 1 | 2 | 169 | 199 |
 | nyt | 1 | 1 | 24 | 47 |
 
 # Shown Order
@@ -5221,3 +5221,4 @@
 - **Jul 24, 11:13 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 11:27 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 24, 11:41 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 24, 11:55 PM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
