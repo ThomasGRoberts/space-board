@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 26 | 53 |
+| spacenews | 6 | 13 | 27 | 54 |
 | breaking_defense | 3 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 135 | 135 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -5131,3 +5131,4 @@
 - **Jul 24, 02:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 02:52 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 24, 03:11 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
+- **Jul 24, 03:25 PM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)

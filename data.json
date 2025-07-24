@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
-    "trigger_count": 6,
-    "current_item_id": "56ef224dd5fd1fb472ff214833573a4b",
+    "trigger_count": 0,
+    "current_item_id": "4144fd437d34428d94b63b616ed35508",
     "data": [
         {
             "id": "30d0bf64f851455603f0862edcfbf49b",
@@ -10670,6 +10670,18 @@
             "fetched_datetime": "2025-07-24T15:11:47.008069Z",
             "shown_at": [
                 "2025-07-24T15:11:47.633114Z"
+            ]
+        },
+        {
+            "id": "4144fd437d34428d94b63b616ed35508",
+            "source": "spacenews",
+            "text": "Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA",
+            "source_link": "https://spacenews.com/tyvak-international-a-terran-orbital-company-leads-groundbreaking-5g-satellite-demonstration-mission-for-esa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T15:25:55.895572Z",
+            "shown_at": [
+                "2025-07-24T15:25:56.668710Z"
             ]
         }
     ]
