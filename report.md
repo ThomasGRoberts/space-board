@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 53 |
 | breaking_defense | 3 | 4 | 24 | 48 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -5009,3 +5009,4 @@
 - **Jul 24, 02:45 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 02:59 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 24, 03:13 AM** - House Democrats accuse NASA of illegal impoundment of funds (spacenews)
+- **Jul 24, 03:27 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
