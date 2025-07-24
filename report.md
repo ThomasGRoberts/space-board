@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 27 | 52 |
+| spacenews | 7 | 13 | 28 | 53 |
 | breaking_defense | 2 | 5 | 25 | 49 |
-| supercluster | 1 | 2 | 173 | 198 |
+| supercluster | 1 | 2 | 171 | 198 |
 | nyt | 1 | 1 | 24 | 47 |
 
 # Shown Order
@@ -5219,3 +5219,4 @@
 - **Jul 24, 11:09 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 11:12 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 11:13 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
+- **Jul 24, 11:27 PM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
