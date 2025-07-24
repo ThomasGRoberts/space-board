@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 52 |
+| spacenews | 7 | 13 | 28 | 53 |
 | breaking_defense | 4 | 6 | 25 | 48 |
 | supercluster | 2 | 2 | 163 | 163 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -5169,3 +5169,4 @@
 - **Jul 24, 06:15 PM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 24, 06:17 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 06:31 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 24, 06:45 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
