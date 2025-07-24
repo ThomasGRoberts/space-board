@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 24 | 52 |
 | breaking_defense | 3 | 4 | 25 | 49 |
 | supercluster | 1 | 1 | 37 | 37 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 
 # Shown Order
 
@@ -4986,3 +4986,4 @@
 - **Jul 24, 12:29 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 12:32 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 24, 12:33 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 24, 12:47 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
