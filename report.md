@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 52 |
+| spacenews | 6 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 2 | 169 | 227 |
+| supercluster | 1 | 2 | 170 | 228 |
 
 # Shown Order
 
@@ -5140,3 +5140,4 @@
 - **Jul 25, 03:17 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 03:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 03:49 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 03:51 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
