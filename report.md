@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -4976,3 +4976,4 @@
 - **Jul 25, 05:13 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 05:42 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 05:43 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
