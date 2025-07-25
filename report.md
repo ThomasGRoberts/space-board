@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 24 | 47 |
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 233 |
 
 # Shown Order
@@ -5146,3 +5146,4 @@
 - **Jul 25, 03:57 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 04:00 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 04:01 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 04:03 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
