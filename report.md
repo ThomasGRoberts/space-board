@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 26 | 51 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 3 | 6 | 23 | 48 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -4973,3 +4973,4 @@
 - **Jul 25, 12:13 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 25, 12:27 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 12:29 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 12:31 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
