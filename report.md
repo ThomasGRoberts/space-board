@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 45 |
-| breaking_defense | 4 | 7 | 23 | 48 |
+| breaking_defense | 4 | 7 | 24 | 49 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -5000,3 +5000,4 @@
 - **Jul 25, 02:49 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 02:52 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 02:55 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
+- **Jul 25, 03:09 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
