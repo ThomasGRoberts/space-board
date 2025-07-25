@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 26 | 50 |
 | nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 5 | 23 | 48 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -4940,3 +4940,4 @@
 - **Jul 25, 08:33 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 25, 08:47 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:49 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 08:51 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
