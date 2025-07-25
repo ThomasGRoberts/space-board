@@ -1,9 +1,181 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-24T00:01:36.009951+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-07-25T00:02:12.499767+00:00",
+    "trigger_count": 3,
     "current_item_id": "d7e45144538eb78005e06c4b9aa84d1e",
     "data": [
+        {
+            "id": "9b6b9a31a9df57999108f630bdfe0cdb",
+            "source": "spacenews",
+            "text": "UK’s Spaceflux is building a catalog to plug space situational awareness gaps",
+            "source_link": "https://spacenews.com/uks-spaceflux-is-building-a-catalog-to-plug-space-situational-awareness-gaps/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T19:41:24.321316Z",
+            "shown_at": [
+                "2025-07-24T19:41:24.941446Z",
+                "2025-07-24T21:33:23.242975Z"
+            ]
+        },
+        {
+            "id": "8bdff672751142344d6bc64b26721cdc",
+            "source": "nyt",
+            "text": "Hints of Life on Exoplanet K2-18b Recede Even Further",
+            "source_link": "https://www.nytimes.com/2025/07/24/science/astronomy-k218b-biosignature-life.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T18:59:47.229641Z",
+            "shown_at": [
+                "2025-07-24T18:59:48.272354Z"
+            ]
+        },
+        {
+            "id": "8bce3111ea88b99cc6f06f38d8912a79",
+            "source": "spacenews",
+            "text": "Spire Global launches new space-based intelligence products for defense market",
+            "source_link": "https://spacenews.com/spire-global-launches-new-space-based-intelligence-products-for-defense-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T18:45:31.959554Z",
+            "shown_at": [
+                "2025-07-24T18:45:32.690781Z"
+            ]
+        },
+        {
+            "id": "b95290bc82e745ae594a4d7148b32e54",
+            "source": "breaking_defense",
+            "text": "Senate confirms Lohmeier as Air Force No. 2 civilian",
+            "source_link": "https://breakingdefense.com/2025/07/senate-confirms-lohmeier-as-air-force-no-2-civilian/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T18:17:52.737275Z",
+            "shown_at": [
+                "2025-07-24T18:17:53.517091Z",
+                "2025-07-24T19:27:43.021293Z",
+                "2025-07-24T23:13:50.275956Z"
+            ]
+        },
+        {
+            "id": "487d263bc21f22fb91ad68448ffc458d",
+            "source": "supercluster",
+            "text": "Russia Will Launch Space Weather Monitoring Satellites",
+            "source_link": "https://www.supercluster.com/launches/ionosfera-m-3-and-4",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-25T05:54:00.000Z",
+            "time_remaining": "0d 06h 42m",
+            "fetched_datetime": "2025-07-24T18:03:30.253668Z",
+            "shown_at": [
+                "2025-07-24T18:03:30.731103Z",
+                "2025-07-24T18:05:28.895874Z",
+                "2025-07-24T18:07:57.635923Z",
+                "2025-07-24T18:09:38.094167Z",
+                "2025-07-24T18:11:48.360072Z",
+                "2025-07-24T18:13:45.912705Z",
+                "2025-07-24T18:15:45.953192Z",
+                "2025-07-24T19:13:42.836815Z",
+                "2025-07-24T19:15:37.853705Z",
+                "2025-07-24T19:17:35.720693Z",
+                "2025-07-24T19:19:24.487604Z",
+                "2025-07-24T19:21:56.754055Z",
+                "2025-07-24T19:23:35.010795Z",
+                "2025-07-24T19:25:28.933714Z",
+                "2025-07-24T21:05:47.136772Z",
+                "2025-07-24T21:07:39.499477Z",
+                "2025-07-24T21:09:49.827968Z",
+                "2025-07-24T21:11:41.383453Z",
+                "2025-07-24T21:13:46.079582Z",
+                "2025-07-24T21:15:56.442931Z",
+                "2025-07-24T21:17:50.103626Z",
+                "2025-07-24T22:01:57.352943Z",
+                "2025-07-24T22:03:09.388415Z",
+                "2025-07-24T22:05:32.972284Z",
+                "2025-07-24T22:08:06.659415Z",
+                "2025-07-24T22:09:42.724190Z",
+                "2025-07-24T22:11:48.478502Z",
+                "2025-07-24T22:13:50.671014Z",
+                "2025-07-24T22:59:46.627971Z",
+                "2025-07-24T23:02:06.009336Z",
+                "2025-07-24T23:03:24.508595Z",
+                "2025-07-24T23:05:45.537997Z",
+                "2025-07-24T23:07:29.715875Z",
+                "2025-07-24T23:09:42.162230Z",
+                "2025-07-24T23:12:00.141452Z"
+            ]
+        },
+        {
+            "id": "97fa637b958af765d43d570af8a9c4ca",
+            "source": "breaking_defense",
+            "text": "Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-creates-new-system-deltas-to-guide-missile-warning-space-based-targeting-efforts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T17:49:35.512534Z",
+            "shown_at": [
+                "2025-07-24T17:49:36.086675Z"
+            ]
+        },
+        {
+            "id": "4144fd437d34428d94b63b616ed35508",
+            "source": "spacenews",
+            "text": "Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA",
+            "source_link": "https://spacenews.com/tyvak-international-a-terran-orbital-company-leads-groundbreaking-5g-satellite-demonstration-mission-for-esa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T15:25:55.895572Z",
+            "shown_at": [
+                "2025-07-24T15:25:56.668710Z"
+            ]
+        },
+        {
+            "id": "56ef224dd5fd1fb472ff214833573a4b",
+            "source": "spacenews",
+            "text": "Lockheed Martin may offer Orion as a commercial service",
+            "source_link": "https://spacenews.com/lockheed-martin-may-offer-orion-as-a-commercial-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T15:11:47.008069Z",
+            "shown_at": [
+                "2025-07-24T15:11:47.633114Z"
+            ]
+        },
+        {
+            "id": "16f127bc606953c576adace9a96b1979",
+            "source": "spacenews",
+            "text": "Falcon 9 launches NASA TRACERS space science mission",
+            "source_link": "https://spacenews.com/falcon-9-launches-nasa-tracers-space-science-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T12:02:03.615477Z",
+            "shown_at": [
+                "2025-07-24T12:02:04.177669Z",
+                "2025-07-24T16:25:57.369258Z"
+            ]
+        },
+        {
+            "id": "be66261ac6e16153a5b9a2b30e8d18c1",
+            "source": "spacenews",
+            "text": "Space Pioneer completes launch pad for Tianlong-3 rocket",
+            "source_link": "https://spacenews.com/space-pioneer-completes-launch-pad-for-tianlong-3-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T11:19:41.812329Z",
+            "shown_at": [
+                "2025-07-24T11:19:42.430670Z"
+            ]
+        },
+        {
+            "id": "6e2e6ce107d37d21f113295eba996441",
+            "source": "spacenews",
+            "text": "House appropriators interested in alternatives to SLS EUS upper stage",
+            "source_link": "https://spacenews.com/house-appropriators-interested-in-alternatives-to-sls-eus-upper-stage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-24T02:17:43.992999Z",
+            "shown_at": [
+                "2025-07-24T02:17:45.458700Z"
+            ]
+        },
         {
             "id": "30d0bf64f851455603f0862edcfbf49b",
             "source": "spacenews",
@@ -57,7 +229,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-07-25T04:10:00.000Z",
-            "time_remaining": "0d 04h 10m",
+            "time_remaining": "0d 04h 07m",
             "fetched_datetime": "2025-07-23T19:13:41.346406Z",
             "shown_at": [
                 "2025-07-23T19:13:41.929897Z",
@@ -225,7 +397,8 @@
                 "2025-07-24T20:21:29.955910Z",
                 "2025-07-24T23:55:47.446664Z",
                 "2025-07-24T23:57:25.322198Z",
-                "2025-07-24T23:59:53.694297Z"
+                "2025-07-24T23:59:53.694297Z",
+                "2025-07-25T00:02:14.071902Z"
             ]
         },
         {
@@ -10427,421 +10600,6 @@
                 "2025-05-16T12:03:44.434845Z",
                 "2025-05-19T01:49:34.978374Z",
                 "2025-05-19T19:07:36.909915Z"
-            ]
-        },
-        {
-            "id": "f4016fcab1592f08a9020a470dbe277d",
-            "source": "spacenews",
-            "text": "Senate confirms Troy Meink as Air Force secretary with bipartisan support",
-            "source_link": "https://spacenews.com/senate-confirms-troy-meink-as-air-force-secretary-with-bipartisan-support/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T21:59:34.903910Z",
-            "shown_at": [
-                "2025-05-13T21:59:35.515898Z",
-                "2025-05-16T16:37:39.245853Z",
-                "2025-05-17T00:17:40.184861Z",
-                "2025-05-17T21:29:10.185871Z",
-                "2025-05-18T08:39:36.482984Z",
-                "2025-05-18T11:27:25.698402Z",
-                "2025-05-19T02:45:38.815057Z",
-                "2025-05-20T21:11:41.098383Z"
-            ]
-        },
-        {
-            "id": "e8cde62c758427b0906eef45f442574e",
-            "source": "spacenews",
-            "text": "AST SpaceMobile ramping up launches ahead of beta service this year",
-            "source_link": "https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T21:27:41.614201Z",
-            "shown_at": [
-                "2025-05-13T21:27:42.332644Z",
-                "2025-05-19T11:37:37.101333Z",
-                "2025-05-20T08:53:58.641080Z"
-            ]
-        },
-        {
-            "id": "dff89d241036a40e0f4508754ee37f5f",
-            "source": "spacenews",
-            "text": "Senate forms ‘Golden Dome Caucus’ to champion missile defense shield",
-            "source_link": "https://spacenews.com/senate-forms-golden-dome-caucus-to-champion-missile-defense-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T20:39:34.550835Z",
-            "shown_at": [
-                "2025-05-13T20:39:35.228839Z",
-                "2025-05-14T21:09:21.869667Z",
-                "2025-05-15T01:15:28.367183Z",
-                "2025-05-15T12:11:45.501758Z",
-                "2025-05-17T11:35:34.587391Z",
-                "2025-05-18T21:59:49.617475Z",
-                "2025-05-20T02:51:39.192280Z"
-            ]
-        },
-        {
-            "id": "b505393a60e849b689dfe54f48a41741",
-            "source": "breaking_defense",
-            "text": "Space stalwart Troy Meink confirmed as Air Force secretary",
-            "source_link": "https://breakingdefense.com/2025/05/space-stalwart-troy-meink-confirmed-as-air-force-secretary/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T18:57:46.377819Z",
-            "shown_at": [
-                "2025-05-13T18:57:46.975369Z",
-                "2025-05-13T23:25:37.608232Z",
-                "2025-05-14T10:35:49.527987Z",
-                "2025-05-14T17:45:43.550863Z",
-                "2025-05-14T19:59:54.492285Z",
-                "2025-05-15T03:39:33.127555Z",
-                "2025-05-15T07:17:30.312639Z",
-                "2025-05-15T09:10:01.299973Z",
-                "2025-05-15T16:29:36.983492Z",
-                "2025-05-15T18:21:47.583517Z",
-                "2025-05-15T21:41:53.044405Z",
-                "2025-05-16T01:47:46.628228Z",
-                "2025-05-16T07:43:30.902739Z",
-                "2025-05-16T10:51:48.608218Z",
-                "2025-05-16T16:09:34.807114Z",
-                "2025-05-16T20:57:31.711960Z",
-                "2025-05-16T21:53:45.356020Z",
-                "2025-05-17T00:45:42.842258Z",
-                "2025-05-17T10:25:48.789409Z",
-                "2025-05-17T12:17:49.840569Z",
-                "2025-05-17T13:15:37.383625Z",
-                "2025-05-17T15:21:47.185821Z",
-                "2025-05-18T21:15:29.803757Z",
-                "2025-05-19T03:55:09.579118Z",
-                "2025-05-20T01:41:47.685949Z",
-                "2025-05-20T05:32:11.785988Z",
-                "2025-05-20T07:27:31.598615Z"
-            ]
-        },
-        {
-            "id": "6c4c008fbfe833abd5d8dabc4ccb73f0",
-            "source": "breaking_defense",
-            "text": "DIU expands ‘Hybrid Space Architecture’ vendor pool, plans 2026 pilot",
-            "source_link": "https://breakingdefense.com/2025/05/diu-expands-hybrid-space-architecture-vendor-pool-plans-2026-pilot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T18:25:43.796899Z",
-            "shown_at": [
-                "2025-05-13T18:25:44.885387Z",
-                "2025-05-14T13:57:57.824409Z",
-                "2025-05-14T15:59:45.937336Z",
-                "2025-05-14T19:01:57.438043Z",
-                "2025-05-15T02:41:34.941526Z",
-                "2025-05-15T13:35:43.580064Z",
-                "2025-05-15T15:31:33.451024Z",
-                "2025-05-15T19:32:41.008627Z",
-                "2025-05-17T14:25:43.419682Z",
-                "2025-05-17T16:17:43.364010Z",
-                "2025-05-17T20:05:42.724928Z",
-                "2025-05-17T23:51:46.410447Z",
-                "2025-05-18T07:29:28.523018Z",
-                "2025-05-18T09:21:52.875564Z",
-                "2025-05-18T10:17:43.812630Z",
-                "2025-05-18T13:21:36.789320Z",
-                "2025-05-18T14:19:33.428734Z",
-                "2025-05-18T18:23:26.945499Z",
-                "2025-05-18T19:21:55.077021Z",
-                "2025-05-19T02:03:35.260368Z",
-                "2025-05-19T08:51:47.734750Z",
-                "2025-05-19T17:57:34.478113Z",
-                "2025-05-20T10:21:56.342655Z",
-                "2025-05-20T11:19:27.534770Z"
-            ]
-        },
-        {
-            "id": "edbfa655a1e4bc39a0b5feba6bdc92b9",
-            "source": "breaking_defense",
-            "text": "Space Force should get a quarter of Pentagon spending, if DoD is serious about countering China",
-            "source_link": "https://breakingdefense.com/2025/05/space-force-should-get-a-quarter-of-pentagon-spending-if-dod-is-serious-about-countering-china/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T17:32:44.718313Z",
-            "shown_at": [
-                "2025-05-13T17:32:45.488566Z",
-                "2025-05-14T03:13:35.216644Z",
-                "2025-05-14T20:55:34.946476Z",
-                "2025-05-14T21:51:40.727089Z",
-                "2025-05-14T23:47:49.086254Z",
-                "2025-05-15T06:17:38.733886Z",
-                "2025-05-15T10:05:43.910552Z",
-                "2025-05-15T11:29:20.869809Z",
-                "2025-05-15T22:37:35.181029Z",
-                "2025-05-15T23:49:30.946448Z",
-                "2025-05-16T05:47:38.411675Z",
-                "2025-05-16T09:53:56.593724Z",
-                "2025-05-16T11:49:29.839982Z",
-                "2025-05-16T19:02:13.423666Z",
-                "2025-05-16T22:49:45.825695Z",
-                "2025-05-16T23:47:26.429380Z",
-                "2025-05-17T05:33:31.760516Z",
-                "2025-05-17T09:27:19.163200Z",
-                "2025-05-17T22:53:24.673726Z",
-                "2025-05-18T01:45:34.551617Z",
-                "2025-05-18T02:45:39.092713Z",
-                "2025-05-18T03:41:51.076389Z",
-                "2025-05-18T20:18:03.144880Z",
-                "2025-05-18T23:09:41.453453Z",
-                "2025-05-19T04:51:44.008291Z",
-                "2025-05-19T07:47:32.685767Z",
-                "2025-05-19T10:53:30.619464Z",
-                "2025-05-19T18:53:48.410596Z",
-                "2025-05-19T20:59:29.685286Z",
-                "2025-05-19T22:53:36.463353Z",
-                "2025-05-19T23:49:21.602438Z",
-                "2025-05-20T02:37:43.505406Z",
-                "2025-05-20T08:25:48.933051Z"
-            ]
-        },
-        {
-            "id": "b8affe5def3956398b3ba9a613f2be9a",
-            "source": "spacenews",
-            "text": "Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side",
-            "source_link": "https://spacenews.com/altimeter-problems-lighting-challenges-caused-im-2-lunar-lander-to-fall-on-its-side/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T15:41:40.776886Z",
-            "shown_at": [
-                "2025-05-13T15:41:41.438679Z",
-                "2025-05-13T18:09:42.870296Z",
-                "2025-05-15T06:47:51.203779Z",
-                "2025-05-18T02:17:29.989943Z"
-            ]
-        },
-        {
-            "id": "88586f3883fafaffe6fc3021ca459873",
-            "source": "spacenews",
-            "text": "I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman.",
-            "source_link": "https://spacenews.com/im-an-exoplanet-scientist-heres-what-we-lose-if-we-dont-launch-roman/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T15:03:04.126916Z",
-            "shown_at": [
-                "2025-05-13T15:03:04.768148Z",
-                "2025-05-14T02:45:36.057635Z",
-                "2025-05-19T04:37:40.712170Z"
-            ]
-        },
-        {
-            "id": "0c8d176af661f303592d46e3b5b2e8c5",
-            "source": "spacenews",
-            "text": "Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications",
-            "source_link": "https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T13:09:44.999600Z",
-            "shown_at": [
-                "2025-05-13T13:24:00.609429Z",
-                "2025-05-16T05:32:18.589694Z",
-                "2025-05-19T22:25:44.978598Z"
-            ]
-        },
-        {
-            "id": "1a65942858c90bb843aaf7b7a110295e",
-            "source": "spacenews",
-            "text": "Space debris crisis: the national security threat we’re ignoring",
-            "source_link": "https://spacenews.com/space-debris-crisis-the-national-security-threat-were-ignoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T13:09:44.999547Z",
-            "shown_at": [
-                "2025-05-13T13:09:46.015399Z",
-                "2025-05-16T22:21:45.901909Z",
-                "2025-05-17T17:43:29.592851Z",
-                "2025-05-18T10:31:57.131814Z",
-                "2025-05-20T00:03:40.684226Z"
-            ]
-        },
-        {
-            "id": "c4fcede859dd76ef52ed4373a644f692",
-            "source": "spacenews",
-            "text": "Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties",
-            "source_link": "https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-13T11:33:40.580614Z",
-            "shown_at": [
-                "2025-05-13T11:33:41.639227Z",
-                "2025-05-13T19:29:49.240571Z",
-                "2025-05-13T20:25:44.332181Z",
-                "2025-05-17T15:49:41.160514Z",
-                "2025-05-19T16:19:39.447290Z"
-            ]
-        },
-        {
-            "id": "6e2e6ce107d37d21f113295eba996441",
-            "source": "spacenews",
-            "text": "House appropriators interested in alternatives to SLS EUS upper stage",
-            "source_link": "https://spacenews.com/house-appropriators-interested-in-alternatives-to-sls-eus-upper-stage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T02:17:43.992999Z",
-            "shown_at": [
-                "2025-07-24T02:17:45.458700Z"
-            ]
-        },
-        {
-            "id": "be66261ac6e16153a5b9a2b30e8d18c1",
-            "source": "spacenews",
-            "text": "Space Pioneer completes launch pad for Tianlong-3 rocket",
-            "source_link": "https://spacenews.com/space-pioneer-completes-launch-pad-for-tianlong-3-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T11:19:41.812329Z",
-            "shown_at": [
-                "2025-07-24T11:19:42.430670Z"
-            ]
-        },
-        {
-            "id": "16f127bc606953c576adace9a96b1979",
-            "source": "spacenews",
-            "text": "Falcon 9 launches NASA TRACERS space science mission",
-            "source_link": "https://spacenews.com/falcon-9-launches-nasa-tracers-space-science-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T12:02:03.615477Z",
-            "shown_at": [
-                "2025-07-24T12:02:04.177669Z",
-                "2025-07-24T16:25:57.369258Z"
-            ]
-        },
-        {
-            "id": "56ef224dd5fd1fb472ff214833573a4b",
-            "source": "spacenews",
-            "text": "Lockheed Martin may offer Orion as a commercial service",
-            "source_link": "https://spacenews.com/lockheed-martin-may-offer-orion-as-a-commercial-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T15:11:47.008069Z",
-            "shown_at": [
-                "2025-07-24T15:11:47.633114Z"
-            ]
-        },
-        {
-            "id": "4144fd437d34428d94b63b616ed35508",
-            "source": "spacenews",
-            "text": "Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA",
-            "source_link": "https://spacenews.com/tyvak-international-a-terran-orbital-company-leads-groundbreaking-5g-satellite-demonstration-mission-for-esa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T15:25:55.895572Z",
-            "shown_at": [
-                "2025-07-24T15:25:56.668710Z"
-            ]
-        },
-        {
-            "id": "97fa637b958af765d43d570af8a9c4ca",
-            "source": "breaking_defense",
-            "text": "Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-creates-new-system-deltas-to-guide-missile-warning-space-based-targeting-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T17:49:35.512534Z",
-            "shown_at": [
-                "2025-07-24T17:49:36.086675Z"
-            ]
-        },
-        {
-            "id": "487d263bc21f22fb91ad68448ffc458d",
-            "source": "supercluster",
-            "text": "Russia Will Launch Space Weather Monitoring Satellites",
-            "source_link": "https://www.supercluster.com/launches/ionosfera-m-3-and-4",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-25T05:54:00.000Z",
-            "time_remaining": "0d 06h 42m",
-            "fetched_datetime": "2025-07-24T18:03:30.253668Z",
-            "shown_at": [
-                "2025-07-24T18:03:30.731103Z",
-                "2025-07-24T18:05:28.895874Z",
-                "2025-07-24T18:07:57.635923Z",
-                "2025-07-24T18:09:38.094167Z",
-                "2025-07-24T18:11:48.360072Z",
-                "2025-07-24T18:13:45.912705Z",
-                "2025-07-24T18:15:45.953192Z",
-                "2025-07-24T19:13:42.836815Z",
-                "2025-07-24T19:15:37.853705Z",
-                "2025-07-24T19:17:35.720693Z",
-                "2025-07-24T19:19:24.487604Z",
-                "2025-07-24T19:21:56.754055Z",
-                "2025-07-24T19:23:35.010795Z",
-                "2025-07-24T19:25:28.933714Z",
-                "2025-07-24T21:05:47.136772Z",
-                "2025-07-24T21:07:39.499477Z",
-                "2025-07-24T21:09:49.827968Z",
-                "2025-07-24T21:11:41.383453Z",
-                "2025-07-24T21:13:46.079582Z",
-                "2025-07-24T21:15:56.442931Z",
-                "2025-07-24T21:17:50.103626Z",
-                "2025-07-24T22:01:57.352943Z",
-                "2025-07-24T22:03:09.388415Z",
-                "2025-07-24T22:05:32.972284Z",
-                "2025-07-24T22:08:06.659415Z",
-                "2025-07-24T22:09:42.724190Z",
-                "2025-07-24T22:11:48.478502Z",
-                "2025-07-24T22:13:50.671014Z",
-                "2025-07-24T22:59:46.627971Z",
-                "2025-07-24T23:02:06.009336Z",
-                "2025-07-24T23:03:24.508595Z",
-                "2025-07-24T23:05:45.537997Z",
-                "2025-07-24T23:07:29.715875Z",
-                "2025-07-24T23:09:42.162230Z",
-                "2025-07-24T23:12:00.141452Z"
-            ]
-        },
-        {
-            "id": "b95290bc82e745ae594a4d7148b32e54",
-            "source": "breaking_defense",
-            "text": "Senate confirms Lohmeier as Air Force No. 2 civilian",
-            "source_link": "https://breakingdefense.com/2025/07/senate-confirms-lohmeier-as-air-force-no-2-civilian/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:17:52.737275Z",
-            "shown_at": [
-                "2025-07-24T18:17:53.517091Z",
-                "2025-07-24T19:27:43.021293Z",
-                "2025-07-24T23:13:50.275956Z"
-            ]
-        },
-        {
-            "id": "8bce3111ea88b99cc6f06f38d8912a79",
-            "source": "spacenews",
-            "text": "Spire Global launches new space-based intelligence products for defense market",
-            "source_link": "https://spacenews.com/spire-global-launches-new-space-based-intelligence-products-for-defense-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:45:31.959554Z",
-            "shown_at": [
-                "2025-07-24T18:45:32.690781Z"
-            ]
-        },
-        {
-            "id": "8bdff672751142344d6bc64b26721cdc",
-            "source": "nyt",
-            "text": "Hints of Life on Exoplanet K2-18b Recede Even Further",
-            "source_link": "https://www.nytimes.com/2025/07/24/science/astronomy-k218b-biosignature-life.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:59:47.229641Z",
-            "shown_at": [
-                "2025-07-24T18:59:48.272354Z"
-            ]
-        },
-        {
-            "id": "9b6b9a31a9df57999108f630bdfe0cdb",
-            "source": "spacenews",
-            "text": "UK’s Spaceflux is building a catalog to plug space situational awareness gaps",
-            "source_link": "https://spacenews.com/uks-spaceflux-is-building-a-catalog-to-plug-space-situational-awareness-gaps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T19:41:24.321316Z",
-            "shown_at": [
-                "2025-07-24T19:41:24.941446Z",
-                "2025-07-24T21:33:23.242975Z"
             ]
         }
     ]
