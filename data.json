@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-25T00:02:12.499767+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e91edee18a6bc585424eadebdf5cd6b6",
+    "trigger_count": 0,
+    "current_item_id": "3e9f0b15dfd8c544da7a225c435f99b6",
     "data": [
         {
             "id": "9b6b9a31a9df57999108f630bdfe0cdb",
@@ -10518,6 +10518,18 @@
             "fetched_datetime": "2025-07-25T13:55:57.125759Z",
             "shown_at": [
                 "2025-07-25T13:55:57.706599Z"
+            ]
+        },
+        {
+            "id": "3e9f0b15dfd8c544da7a225c435f99b6",
+            "source": "breaking_defense",
+            "text": "Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs",
+            "source_link": "https://breakingdefense.com/2025/07/roketsan-signs-agreement-with-indonesia-unveils-five-missiles-and-space-launch-vehicle-designs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-25T14:11:56.206358Z",
+            "shown_at": [
+                "2025-07-25T14:11:57.678123Z"
             ]
         }
     ]
