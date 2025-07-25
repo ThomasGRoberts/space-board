@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | breaking_defense | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -4937,3 +4937,4 @@
 - **Jul 25, 08:03 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:05 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 25, 08:19 AM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
+- **Jul 25, 08:33 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
