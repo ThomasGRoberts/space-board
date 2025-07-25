@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4965,3 +4965,4 @@
 - **Jul 25, 04:03 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 25, 04:17 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 25, 04:32 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 25, 04:45 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
