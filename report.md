@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 26 | 54 |
 | nyt | 0 | 1 | 22 | 46 |
-| breaking_defense | 2 | 6 | 23 | 48 |
+| breaking_defense | 2 | 6 | 24 | 49 |
 | supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
@@ -5040,3 +5040,4 @@
 - **Jul 25, 06:45 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:47 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:50 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
+- **Jul 25, 07:03 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
