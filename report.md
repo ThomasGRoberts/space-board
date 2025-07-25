@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 50 |
 | nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 2 | 5 | 23 | 48 |
+| breaking_defense | 2 | 5 | 24 | 49 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -4935,3 +4935,4 @@
 - **Jul 25, 07:59 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:01 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:03 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 08:05 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
