@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 26 | 52 |
+| spacenews | 6 | 12 | 26 | 51 |
 | nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 2 | 5 | 23 | 47 |
+| breaking_defense | 3 | 6 | 24 | 48 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -4970,3 +4970,4 @@
 - **Jul 25, 11:29 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 25, 11:45 AM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 25, 11:59 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 25, 12:13 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
