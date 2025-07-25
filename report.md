@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 25 | 50 |
+| spacenews | 6 | 11 | 26 | 51 |
 | nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 5 | 24 | 48 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -4946,3 +4946,4 @@
 - **Jul 25, 08:57 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:59 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:02 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 25, 09:15 AM** - China conducts structural tests for Long March 10 human spaceflight rocket (spacenews)
