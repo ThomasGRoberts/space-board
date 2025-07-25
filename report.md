@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 28 | 52 |
 | nyt | 1 | 1 | 24 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 2 | 168 | 212 |
+| supercluster | 1 | 2 | 169 | 213 |
 
 # Shown Order
 
@@ -5119,3 +5119,4 @@
 - **Jul 25, 01:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 25, 01:23 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 25, 01:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 25, 01:51 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
