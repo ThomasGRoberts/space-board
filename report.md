@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 52 |
+| spacenews | 6 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4966,3 +4966,4 @@
 - **Jul 25, 04:17 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 25, 04:32 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 25, 04:45 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 04:47 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
