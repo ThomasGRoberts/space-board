@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 51 |
-| nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 3 | 6 | 24 | 48 |
-| supercluster | 1 | 1 | 35 | 35 |
+| nyt | 1 | 1 | 23 | 45 |
+| breaking_defense | 3 | 6 | 23 | 48 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -4972,3 +4972,4 @@
 - **Jul 25, 11:59 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 25, 12:13 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 25, 12:27 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 12:29 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
