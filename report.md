@@ -4919,4 +4919,4 @@
 - **Jul 25, 04:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 25, 05:13 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 25, 05:55 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 05:57 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
