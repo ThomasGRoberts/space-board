@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 51 |
+| spacenews | 7 | 13 | 27 | 52 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -4968,3 +4968,4 @@
 - **Jul 25, 11:02 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 11:15 AM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 25, 11:29 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
+- **Jul 25, 11:45 AM** - Senegal signs the Artemis Accords (spacenews)
