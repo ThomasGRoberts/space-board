@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 2 | 168 | 226 |
+| supercluster | 1 | 2 | 169 | 227 |
 
 # Shown Order
 
@@ -5139,3 +5139,4 @@
 - **Jul 25, 03:02 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 25, 03:17 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 03:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 25, 03:49 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
