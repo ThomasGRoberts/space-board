@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 26 | 53 |
-| nyt | 1 | 1 | 22 | 45 |
+| spacenews | 5 | 11 | 26 | 52 |
+| nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 4 | 6 | 24 | 48 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -5021,3 +5021,4 @@
 - **Jul 25, 04:49 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 04:51 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 25, 05:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 25, 05:21 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
