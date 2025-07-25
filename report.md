@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 25 | 52 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 4 | 7 | 24 | 48 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -5002,3 +5002,4 @@
 - **Jul 25, 02:55 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
 - **Jul 25, 03:09 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 25, 03:23 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 25, 03:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
