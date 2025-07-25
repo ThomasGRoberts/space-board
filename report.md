@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 26 | 54 |
-| nyt | 0 | 1 | 22 | 47 |
-| breaking_defense | 2 | 4 | 23 | 47 |
+| nyt | 0 | 1 | 22 | 46 |
+| breaking_defense | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
@@ -5090,3 +5090,4 @@
 - **Jul 25, 11:33 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 11:35 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 11:37 PM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
+- **Jul 25, 11:52 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
