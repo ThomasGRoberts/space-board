@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 27 | 52 |
-| nyt | 1 | 1 | 22 | 45 |
+| nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 4 | 7 | 23 | 48 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -4991,3 +4991,4 @@
 - **Jul 25, 01:41 PM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 25, 01:55 PM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
 - **Jul 25, 02:11 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
+- **Jul 25, 02:25 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
