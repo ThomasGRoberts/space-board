@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 26 | 50 |
 | nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 5 | 23 | 48 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4929,3 +4929,4 @@
 - **Jul 25, 07:21 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
 - **Jul 25, 07:37 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 07:51 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 07:53 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
