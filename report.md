@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 45 |
 | breaking_defense | 4 | 7 | 23 | 48 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -4993,3 +4993,4 @@
 - **Jul 25, 02:11 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 25, 02:25 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 02:39 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 02:41 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
