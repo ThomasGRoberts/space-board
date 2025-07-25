@@ -5,7 +5,7 @@
 | spacenews | 4 | 11 | 26 | 53 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 2 | 6 | 23 | 49 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -5042,3 +5042,4 @@
 - **Jul 25, 06:50 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 07:03 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 25, 07:18 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 25, 07:31 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
