@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 50 |
 | nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 2 | 5 | 23 | 48 |
+| breaking_defense | 2 | 5 | 24 | 49 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -4925,3 +4925,4 @@
 - **Jul 25, 07:02 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 07:03 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 07:05 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 07:07 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
