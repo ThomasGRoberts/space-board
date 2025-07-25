@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 26 | 50 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -4919,4 +4919,4 @@
 - **Jul 25, 04:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 25, 05:13 AM** - York Space parent company to acquire ground systems operator Atlas Space (spacenews)
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 25, 06:47 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 06:49 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
