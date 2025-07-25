@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 28 | 52 |
-| nyt | 1 | 1 | 24 | 47 |
+| nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 2 | 5 | 24 | 49 |
 | supercluster | 1 | 2 | 168 | 212 |
 
@@ -5118,3 +5118,4 @@
 - **Jul 25, 01:07 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 01:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 25, 01:23 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
+- **Jul 25, 01:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
