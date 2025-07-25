@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 25 | 53 |
+| spacenews | 3 | 10 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 2 | 4 | 23 | 47 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -5089,3 +5089,4 @@
 - **Jul 25, 11:31 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 11:33 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 11:35 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 11:37 PM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
