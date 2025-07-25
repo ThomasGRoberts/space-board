@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 25 | 52 |
+| spacenews | 5 | 11 | 26 | 53 |
 | nyt | 1 | 1 | 23 | 45 |
-| breaking_defense | 4 | 6 | 24 | 48 |
+| breaking_defense | 3 | 6 | 23 | 48 |
 | supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
@@ -5029,3 +5029,4 @@
 - **Jul 25, 05:43 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 05:45 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 05:47 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 05:50 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
