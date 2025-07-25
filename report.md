@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 53 |
-| nyt | 1 | 1 | 24 | 46 |
+| nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 6 | 23 | 48 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -5032,3 +5032,4 @@
 - **Jul 25, 05:50 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 25, 06:05 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 25, 06:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 25, 06:33 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
