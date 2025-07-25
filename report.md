@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 26 | 53 |
 | nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 6 | 23 | 48 |
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 
 # Shown Order
 
@@ -5035,3 +5035,4 @@
 - **Jul 25, 06:33 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:35 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 06:40 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
