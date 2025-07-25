@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 51 |
-| nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 3 | 6 | 24 | 48 |
-| supercluster | 1 | 1 | 41 | 41 |
+| nyt | 1 | 1 | 23 | 45 |
+| breaking_defense | 3 | 6 | 23 | 48 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -4981,3 +4981,4 @@
 - **Jul 25, 12:41 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 12:55 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 25, 01:09 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 25, 01:26 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
