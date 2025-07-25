@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 25 | 52 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 4 | 6 | 24 | 48 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -5023,3 +5023,4 @@
 - **Jul 25, 05:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 25, 05:21 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 25, 05:35 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 05:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
