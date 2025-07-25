@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 26 | 54 |
 | nyt | 0 | 1 | 22 | 46 |
-| breaking_defense | 2 | 6 | 23 | 48 |
+| breaking_defense | 2 | 6 | 24 | 49 |
 | supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
@@ -5050,3 +5050,4 @@
 - **Jul 25, 07:41 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 07:43 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 07:45 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
+- **Jul 25, 07:59 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
