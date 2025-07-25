@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 45 |
 | breaking_defense | 4 | 7 | 23 | 48 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -4994,3 +4994,4 @@
 - **Jul 25, 02:25 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 02:39 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 02:41 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 02:43 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
