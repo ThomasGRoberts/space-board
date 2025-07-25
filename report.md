@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 25 | 50 |
 | nyt | 1 | 1 | 23 | 46 |
-| breaking_defense | 2 | 5 | 23 | 48 |
+| breaking_defense | 2 | 5 | 24 | 49 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -4955,3 +4955,4 @@
 - **Jul 25, 09:53 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:56 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:59 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 10:02 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
