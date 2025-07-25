@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 26 | 51 |
+| spacenews | 6 | 11 | 27 | 52 |
 | nyt | 1 | 1 | 22 | 45 |
 | breaking_defense | 3 | 6 | 23 | 48 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -4988,3 +4988,4 @@
 - **Jul 25, 01:35 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 01:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 01:39 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 01:41 PM** - Senegal signs the Artemis Accords (spacenews)
