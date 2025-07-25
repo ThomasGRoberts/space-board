@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 26 | 53 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -5082,3 +5082,4 @@
 - **Jul 25, 10:39 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 25, 10:53 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 25, 11:07 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 25, 11:22 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
