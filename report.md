@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
 | nyt | 1 | 1 | 24 | 47 |
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 205 |
 
 # Shown Order
@@ -5106,3 +5106,4 @@
 - **Jul 25, 12:05 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 12:07 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 12:09 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 25, 12:11 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
