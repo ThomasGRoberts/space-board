@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 27 | 52 |
-| nyt | 1 | 1 | 22 | 45 |
-| breaking_defense | 2 | 5 | 23 | 48 |
+| nyt | 1 | 1 | 23 | 46 |
+| breaking_defense | 2 | 5 | 23 | 47 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -4969,3 +4969,4 @@
 - **Jul 25, 11:15 AM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 25, 11:29 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 25, 11:45 AM** - Senegal signs the Artemis Accords (spacenews)
+- **Jul 25, 11:59 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
