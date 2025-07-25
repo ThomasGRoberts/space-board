@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -4967,3 +4967,4 @@
 - **Jul 25, 04:32 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 25, 04:45 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 04:47 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 04:49 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
