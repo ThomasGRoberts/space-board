@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 24 | 47 |
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 219 |
 
 # Shown Order
@@ -5126,3 +5126,4 @@
 - **Jul 25, 01:59 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 02:01 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 02:03 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 02:05 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
