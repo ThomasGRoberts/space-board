@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | breaking_defense | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -4957,3 +4957,4 @@
 - **Jul 25, 09:59 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 10:02 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 25, 10:17 AM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
+- **Jul 25, 10:32 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
