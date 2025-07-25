@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 25 | 53 |
+| spacenews | 4 | 11 | 26 | 54 |
 | nyt | 1 | 1 | 23 | 46 |
 | breaking_defense | 2 | 6 | 23 | 48 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -5039,3 +5039,4 @@
 - **Jul 25, 06:43 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:45 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 06:47 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 06:50 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
