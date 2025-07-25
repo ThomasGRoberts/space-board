@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 26 | 54 |
 | nyt | 0 | 1 | 22 | 46 |
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
@@ -5070,3 +5070,4 @@
 - **Jul 25, 09:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:39 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:42 PM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
+- **Jul 25, 09:57 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
