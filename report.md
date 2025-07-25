@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 24 | 47 |
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 212 |
 
 # Shown Order
@@ -5116,3 +5116,4 @@
 - **Jul 25, 01:02 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 01:05 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 01:07 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 25, 01:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
