@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 26 | 53 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 2 | 4 | 23 | 48 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -5073,3 +5073,4 @@
 - **Jul 25, 09:57 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 25, 10:11 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 25, 10:25 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 10:27 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
