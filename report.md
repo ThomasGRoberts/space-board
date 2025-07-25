@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
-| nyt | 1 | 1 | 23 | 46 |
+| nyt | 1 | 1 | 24 | 47 |
 | breaking_defense | 2 | 5 | 23 | 48 |
 | supercluster | 1 | 1 | 20 | 20 |
 
@@ -4947,3 +4947,4 @@
 - **Jul 25, 08:59 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 09:02 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 09:15 AM** - China conducts structural tests for Long March 10 human spaceflight rocket (spacenews)
+- **Jul 25, 09:29 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
