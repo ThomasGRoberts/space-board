@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 27 | 52 |
+| spacenews | 6 | 12 | 27 | 51 |
 | nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 5 | 24 | 49 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -4977,3 +4977,4 @@
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 05:42 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
 - **Jul 25, 05:43 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
+- **Jul 25, 05:45 AM** - Russia Will Launch Space Weather Monitoring Satellites (supercluster)
