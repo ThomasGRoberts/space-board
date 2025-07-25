@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 26 | 54 |
 | nyt | 0 | 1 | 23 | 47 |
 | breaking_defense | 2 | 5 | 23 | 48 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -5052,3 +5052,4 @@
 - **Jul 25, 07:45 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 25, 07:59 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 25, 08:13 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 25, 08:27 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
