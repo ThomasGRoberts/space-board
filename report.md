@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 25 | 52 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 4 | 6 | 24 | 48 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -5012,3 +5012,4 @@
 - **Jul 25, 03:51 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 25, 04:09 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 04:23 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 25, 04:37 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
