@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 25 | 52 |
+| spacenews | 5 | 11 | 26 | 53 |
 | nyt | 1 | 1 | 23 | 45 |
 | breaking_defense | 4 | 7 | 24 | 48 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -5009,3 +5009,4 @@
 - **Jul 25, 03:45 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 03:47 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 03:49 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 25, 03:51 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
