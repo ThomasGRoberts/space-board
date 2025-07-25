@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 26 | 54 |
 | nyt | 0 | 1 | 22 | 47 |
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
@@ -5060,3 +5060,4 @@
 - **Jul 25, 08:39 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:41 PM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 25, 08:43 PM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
+- **Jul 25, 08:57 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
