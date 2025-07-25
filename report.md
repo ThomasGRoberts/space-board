@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 26 | 51 |
+| spacenews | 6 | 12 | 27 | 52 |
 | nyt | 1 | 1 | 24 | 47 |
 | breaking_defense | 2 | 5 | 25 | 50 |
 | supercluster | 1 | 2 | 175 | 226 |
@@ -5137,3 +5137,4 @@
 - **Jul 25, 02:57 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 02:59 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
 - **Jul 25, 03:02 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
+- **Jul 25, 03:17 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
