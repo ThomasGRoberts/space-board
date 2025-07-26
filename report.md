@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 23 | 46 |
+| breaking_defense | 0 | 4 | 24 | 47 |
 | spacenews | 0 | 7 | 24 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 36 | 36 |
@@ -5037,3 +5037,4 @@
 - **Jul 26, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 02:21 PM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
+- **Jul 26, 02:35 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
