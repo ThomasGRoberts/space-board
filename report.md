@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 24 | 48 |
 | spacenews | 3 | 9 | 27 | 52 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -5013,3 +5013,4 @@
 - **Jul 26, 06:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 07:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 07:03 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
+- **Jul 26, 07:17 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
