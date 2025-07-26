@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 4 | 23 | 47 |
 | spacenews | 1 | 7 | 24 | 50 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -5011,3 +5011,4 @@
 - **Jul 26, 12:01 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 12:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 12:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
