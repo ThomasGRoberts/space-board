@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 47 |
-| spacenews | 3 | 9 | 26 | 51 |
+| spacenews | 3 | 9 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -4999,3 +4999,4 @@
 - **Jul 26, 10:33 AM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 26, 10:49 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 26, 11:03 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 26, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
