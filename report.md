@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 24 | 47 |
 | spacenews | 0 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 47 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
 
@@ -5090,3 +5090,4 @@
 - **Jul 26, 07:15 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 26, 07:29 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
