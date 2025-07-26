@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 22 | 47 |
+| breaking_defense | 2 | 4 | 23 | 48 |
 | spacenews | 3 | 9 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -4993,3 +4993,4 @@
 - **Jul 26, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 05:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 05:09 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
+- **Jul 26, 05:23 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
