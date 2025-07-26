@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 47 |
-| spacenews | 3 | 8 | 25 | 50 |
+| spacenews | 2 | 8 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -5006,3 +5006,4 @@
 - **Jul 26, 11:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 11:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 11:31 AM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
