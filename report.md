@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 24 | 48 |
 | spacenews | 3 | 10 | 26 | 54 |
 | supercluster | 1 | 1 | 125 | 125 |
-| nyt | 0 | 1 | 22 | 47 |
+| nyt | 0 | 1 | 22 | 46 |
 
 # Shown Order
 
@@ -5087,3 +5087,4 @@
 - **Jul 26, 12:31 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 26, 12:33 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 26, 12:35 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
+- **Jul 26, 12:49 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
