@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -4986,3 +4986,4 @@
 - **Jul 26, 04:28 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 26, 04:41 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 26, 04:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
