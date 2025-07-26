@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | spacenews | 1 | 4 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 99 | 99 |
@@ -5127,3 +5127,4 @@
 - **Jul 26, 11:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 11:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 11:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 11:07 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
