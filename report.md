@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 24 | 47 |
 | spacenews | 3 | 9 | 26 | 52 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -5006,3 +5006,4 @@
 - **Jul 26, 06:19 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 26, 06:35 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 06:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 26, 06:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
