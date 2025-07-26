@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 0 | 3 | 23 | 49 |
+| spacenews | 0 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 78 | 78 |
 
@@ -5096,3 +5096,4 @@
 - **Jul 26, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 07:57 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
