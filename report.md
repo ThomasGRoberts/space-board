@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -4977,3 +4977,4 @@
 - **Jul 26, 03:43 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 03:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 03:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 26, 04:01 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
