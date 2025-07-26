@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
 | spacenews | 1 | 4 | 24 | 50 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
@@ -5118,3 +5118,4 @@
 - **Jul 26, 10:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:09 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
+- **Jul 26, 10:25 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
