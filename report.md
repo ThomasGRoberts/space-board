@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 4 | 24 | 48 |
 | spacenews | 0 | 5 | 24 | 49 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
@@ -5048,3 +5048,4 @@
 - **Jul 26, 03:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 03:17 PM** - NASA Goddard director to step down (spacenews)
 - **Jul 26, 03:31 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 26, 03:45 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
