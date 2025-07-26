@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
-| nyt | 0 | 1 | 22 | 47 |
-| supercluster | 1 | 1 | 19 | 19 |
+| nyt | 0 | 1 | 22 | 46 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -4995,3 +4995,4 @@
 - **Jul 26, 05:09 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 26, 05:23 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 26, 05:37 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 26, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
