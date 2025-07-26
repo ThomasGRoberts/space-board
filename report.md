@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
 | spacenews | 0 | 3 | 24 | 50 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
@@ -5098,3 +5098,4 @@
 - **Jul 26, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 07:57 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 26, 08:13 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 26, 08:27 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
