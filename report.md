@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 8 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -5001,3 +5001,4 @@
 - **Jul 26, 11:03 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 26, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 11:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 11:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
