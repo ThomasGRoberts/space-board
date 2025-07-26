@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 0 | 3 | 24 | 49 |
+| spacenews | 1 | 4 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 85 | 85 |
 
@@ -5109,3 +5109,4 @@
 - **Jul 26, 08:57 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 26, 09:13 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 26, 09:27 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 26, 09:41 PM** - Head of NOAA satellite office placed on administrative leave (spacenews)

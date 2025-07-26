@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-26T00:02:02.733196+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aa99a6d3f7f198948cf068ccd6bc548",
+    "trigger_count": 0,
+    "current_item_id": "f030d39a6877756b16fc6a6693595cc3",
     "data": [
         {
             "id": "3e9f0b15dfd8c544da7a225c435f99b6",
@@ -10604,6 +10604,18 @@
                 "2025-07-26T20:51:46.645732Z",
                 "2025-07-26T20:53:30.517847Z",
                 "2025-07-26T20:55:52.947465Z"
+            ]
+        },
+        {
+            "id": "f030d39a6877756b16fc6a6693595cc3",
+            "source": "spacenews",
+            "text": "Head of NOAA satellite office placed on administrative leave",
+            "source_link": "https://spacenews.com/head-of-noaa-satellite-office-placed-on-administrative-leave/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-26T21:41:40.669604Z",
+            "shown_at": [
+                "2025-07-26T21:41:41.342607Z"
             ]
         }
     ]
