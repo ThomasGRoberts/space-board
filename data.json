@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-26T00:02:02.733196+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0942ca7f7a8db07273478ee94fa8691a",
+    "trigger_count": 0,
+    "current_item_id": "2465862d4b79131819404d8ae8c56cfa",
     "data": [
         {
             "id": "3e9f0b15dfd8c544da7a225c435f99b6",
@@ -10449,6 +10449,20 @@
             "shown_at": [
                 "2025-05-14T12:10:34.647471Z",
                 "2025-05-15T02:13:30.106538Z"
+            ]
+        },
+        {
+            "id": "2465862d4b79131819404d8ae8c56cfa",
+            "source": "supercluster",
+            "text": "Arianespace Will Launch Earth Observation Satellites",
+            "source_link": "https://www.supercluster.com/launches/co3d-and-microcarb",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-26T02:03:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-07-26T02:17:50.562357Z",
+            "shown_at": [
+                "2025-07-26T02:17:51.904131Z"
             ]
         }
     ]
