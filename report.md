@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 48 |
 | spacenews | 3 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
@@ -5079,3 +5079,4 @@
 - **Jul 25, 11:37 PM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 25, 11:52 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 26, 12:07 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 26, 12:21 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
