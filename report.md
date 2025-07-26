@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 24 | 47 |
-| spacenews | 1 | 7 | 24 | 51 |
-| nyt | 0 | 1 | 23 | 45 |
+| spacenews | 1 | 7 | 24 | 50 |
+| nyt | 0 | 1 | 24 | 46 |
 | supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
@@ -5028,3 +5028,4 @@
 - **Jul 26, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 01:25 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 26, 01:39 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 26, 01:53 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
