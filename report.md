@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 47 |
+| breaking_defense | 2 | 4 | 23 | 46 |
 | spacenews | 3 | 9 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -4991,3 +4991,4 @@
 - **Jul 26, 10:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 26, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 10:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
