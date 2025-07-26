@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 22 | 47 |
+| breaking_defense | 2 | 4 | 23 | 48 |
 | spacenews | 3 | 9 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -4973,3 +4973,4 @@
 - **Jul 26, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 03:15 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
+- **Jul 26, 03:29 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
