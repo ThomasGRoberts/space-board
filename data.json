@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-26T00:02:02.733196+00:00",
-    "trigger_count": 1,
-    "current_item_id": "2465862d4b79131819404d8ae8c56cfa",
+    "trigger_count": 2,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "3e9f0b15dfd8c544da7a225c435f99b6",
@@ -10452,17 +10452,17 @@
             ]
         },
         {
-            "id": "2465862d4b79131819404d8ae8c56cfa",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Arianespace Will Launch Earth Observation Satellites",
-            "source_link": "https://www.supercluster.com/launches/co3d-and-microcarb",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-26",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-26T02:03:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-26T03:02:08.249767Z",
+            "target_datetime": "2025-07-26T08:34:00.000Z",
+            "time_remaining": "0d 05h 28m",
+            "fetched_datetime": "2025-07-26T03:05:57.136375Z",
             "shown_at": [
-                "2025-07-26T03:02:08.892728Z"
+                "2025-07-26T03:05:58.241925Z"
             ]
         }
     ]
