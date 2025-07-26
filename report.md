@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 24 | 48 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | spacenews | 3 | 9 | 26 | 52 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -5004,3 +5004,4 @@
 - **Jul 26, 06:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 06:05 AM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
 - **Jul 26, 06:19 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 26, 06:35 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
