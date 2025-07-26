@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 4 | 24 | 47 |
 | spacenews | 0 | 7 | 23 | 50 |
 | nyt | 0 | 1 | 24 | 46 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -5040,3 +5040,4 @@
 - **Jul 26, 02:35 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 26, 02:49 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 26, 03:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 03:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
