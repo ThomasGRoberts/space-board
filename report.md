@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 47 |
-| spacenews | 3 | 9 | 26 | 51 |
+| spacenews | 3 | 9 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -4989,3 +4989,4 @@
 - **Jul 26, 09:37 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 26, 09:51 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 26, 10:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 26, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
