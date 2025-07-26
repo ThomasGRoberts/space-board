@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 22 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -4969,3 +4969,4 @@
 - **Jul 26, 02:02 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 26, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 26, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
