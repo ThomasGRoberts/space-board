@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 23 | 47 |
-| spacenews | 0 | 5 | 24 | 50 |
+| breaking_defense | 0 | 4 | 24 | 48 |
+| spacenews | 0 | 5 | 24 | 49 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 57 | 57 |
 
@@ -5067,3 +5067,4 @@
 - **Jul 26, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 05:09 PM** - China tightens quality oversight over commercial space projects (spacenews)
+- **Jul 26, 05:23 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
