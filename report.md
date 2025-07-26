@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 24 | 48 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | spacenews | 3 | 9 | 26 | 52 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
@@ -5024,3 +5024,4 @@
 - **Jul 26, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 07:59 AM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
 - **Jul 26, 08:13 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 26, 08:27 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
