@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 48 |
-| spacenews | 3 | 10 | 26 | 53 |
-| supercluster | 1 | 1 | 120 | 120 |
+| spacenews | 3 | 10 | 25 | 53 |
+| supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
@@ -5081,3 +5081,4 @@
 - **Jul 26, 12:07 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 26, 12:21 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 26, 12:23 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
+- **Jul 26, 12:25 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
