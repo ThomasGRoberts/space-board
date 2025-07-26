@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 24 | 47 |
 | spacenews | 1 | 7 | 24 | 51 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
@@ -5018,3 +5018,4 @@
 - **Jul 26, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 12:30 PM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
 - **Jul 26, 12:43 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 26, 12:57 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
