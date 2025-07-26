@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 0 | 3 | 23 | 49 |
+| breaking_defense | 0 | 2 | 23 | 47 |
+| spacenews | 0 | 3 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 85 | 85 |
 
@@ -5106,3 +5106,4 @@
 - **Jul 26, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 08:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 08:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 08:57 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
