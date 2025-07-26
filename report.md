@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 4 | 24 | 48 |
 | spacenews | 0 | 5 | 24 | 49 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 24 | 47 |
 | supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
@@ -5058,3 +5058,4 @@
 - **Jul 26, 04:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 04:13 PM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 26, 04:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 26, 04:42 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
