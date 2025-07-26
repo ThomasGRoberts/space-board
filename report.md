@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 23 | 47 |
-| spacenews | 1 | 7 | 24 | 50 |
+| spacenews | 1 | 7 | 25 | 51 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -5026,3 +5026,4 @@
 - **Jul 26, 01:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 01:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 01:25 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
