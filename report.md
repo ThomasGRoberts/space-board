@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 24 | 47 |
 | spacenews | 3 | 9 | 26 | 52 |
-| nyt | 0 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 33 | 33 |
+| nyt | 0 | 1 | 23 | 46 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -5015,3 +5015,4 @@
 - **Jul 26, 07:03 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
 - **Jul 26, 07:17 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 26, 07:31 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 26, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
