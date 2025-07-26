@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 24 | 47 |
+| breaking_defense | 0 | 2 | 23 | 47 |
 | spacenews | 1 | 4 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 
 # Shown Order
 
@@ -5112,3 +5112,4 @@
 - **Jul 26, 09:41 PM** - Head of NOAA satellite office placed on administrative leave (spacenews)
 - **Jul 26, 09:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 09:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 09:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
