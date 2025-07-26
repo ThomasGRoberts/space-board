@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | spacenews | 0 | 4 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 71 | 71 |
@@ -5087,3 +5087,4 @@
 - **Jul 26, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 07:01 PM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
+- **Jul 26, 07:15 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
