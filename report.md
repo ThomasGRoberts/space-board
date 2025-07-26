@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 24 | 48 |
-| spacenews | 0 | 5 | 24 | 49 |
+| breaking_defense | 0 | 3 | 24 | 47 |
+| spacenews | 0 | 5 | 23 | 49 |
 | nyt | 0 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -5069,3 +5069,4 @@
 - **Jul 26, 05:09 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 26, 05:23 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 26, 05:37 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 26, 05:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
