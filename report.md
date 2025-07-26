@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 24 | 48 |
-| spacenews | 3 | 10 | 26 | 54 |
+| spacenews | 3 | 10 | 26 | 53 |
 | supercluster | 1 | 1 | 132 | 132 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 
 # Shown Order
 
@@ -5098,3 +5098,4 @@
 - **Jul 26, 01:31 AM** - Arianespace Will Launch Earth Observation Satellites (supercluster)
 - **Jul 26, 01:34 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 26, 01:47 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 26, 02:02 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
