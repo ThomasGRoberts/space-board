@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 4 | 24 | 48 |
+| breaking_defense | 0 | 4 | 24 | 47 |
 | spacenews | 0 | 5 | 23 | 49 |
 | nyt | 0 | 1 | 24 | 47 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -5059,3 +5059,4 @@
 - **Jul 26, 04:13 PM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 26, 04:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 26, 04:42 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 26, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
