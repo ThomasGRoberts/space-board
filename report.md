@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
-| nyt | 0 | 1 | 22 | 47 |
-| supercluster | 1 | 1 | 12 | 12 |
+| nyt | 0 | 1 | 22 | 46 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -4985,3 +4985,4 @@
 - **Jul 26, 04:11 AM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 26, 04:28 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 26, 04:41 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 26, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
