@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 4 | 23 | 47 |
 | spacenews | 1 | 7 | 24 | 50 |
 | nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5020,3 +5020,4 @@
 - **Jul 26, 12:43 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 26, 12:57 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 26, 01:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 26, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
