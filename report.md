@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 1 | 4 | 24 | 50 |
+| spacenews | 2 | 5 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 99 | 99 |
 
@@ -5130,3 +5130,4 @@
 - **Jul 26, 11:07 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 26, 11:21 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 26, 11:35 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
+- **Jul 26, 11:49 PM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)

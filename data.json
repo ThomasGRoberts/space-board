@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-26T00:02:02.733196+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e2cb9be1e092a5bbfc689f8cfab19605",
+    "trigger_count": 0,
+    "current_item_id": "a493dd9188bb5d570f1fcbf6a9a554df",
     "data": [
         {
             "id": "3e9f0b15dfd8c544da7a225c435f99b6",
@@ -10636,6 +10636,18 @@
             "fetched_datetime": "2025-07-26T21:41:40.669604Z",
             "shown_at": [
                 "2025-07-26T21:41:41.342607Z"
+            ]
+        },
+        {
+            "id": "a493dd9188bb5d570f1fcbf6a9a554df",
+            "source": "spacenews",
+            "text": "Nearly 4,000 NASA employees opt for voluntary buyouts",
+            "source_link": "https://spacenews.com/nearly-4000-nasa-employees-opt-for-voluntary-buyouts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-26T23:49:28.687424Z",
+            "shown_at": [
+                "2025-07-26T23:49:29.192690Z"
             ]
         }
     ]
