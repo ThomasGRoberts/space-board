@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 1 | 4 | 24 | 49 |
+| spacenews | 1 | 4 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 92 | 92 |
 
@@ -5119,3 +5119,4 @@
 - **Jul 26, 10:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:09 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 26, 10:25 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 26, 10:39 PM** - NISAR set to launch July 30 (spacenews)
