@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 46 |
+| breaking_defense | 2 | 4 | 24 | 47 |
 | spacenews | 3 | 9 | 26 | 52 |
 | nyt | 0 | 1 | 22 | 45 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -4997,3 +4997,4 @@
 - **Jul 26, 10:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 26, 10:33 AM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
+- **Jul 26, 10:49 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
