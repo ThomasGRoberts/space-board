@@ -2,21 +2,16 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 26 | 54 |
-| nyt | 0 | 1 | 22 | 46 |
 | breaking_defense | 2 | 4 | 24 | 48 |
+| spacenews | 3 | 10 | 26 | 54 |
 | supercluster | 1 | 1 | 118 | 118 |
+| nyt | 0 | 1 | 22 | 46 |
 
 # Shown Order
 
-- **May 14, 08:07 AM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
-- **May 14, 08:21 AM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
-- **May 14, 09:25 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
-- **May 14, 11:03 AM** - Space-based solar power startups are banking on Starship’s success (spacenews)
 - **May 14, 12:10 PM** - Satellite industry continues modest revenue growth trends (spacenews)
 - **May 14, 01:16 PM** - Space cuisine and the foundation of new space culture (spacenews)
 - **May 14, 01:30 PM** - Big ideas need big rockets (spacenews)
-- **May 14, 02:27 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 14, 06:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
@@ -49,7 +44,6 @@
 - **May 15, 04:43 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 15, 05:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 06:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 15, 06:49 PM** - Space-based solar power startups are banking on Starship’s success (spacenews)
 - **May 15, 07:17 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 15, 07:47 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 08:32 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
@@ -67,13 +61,11 @@
 - **May 16, 05:03 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 16, 06:02 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 16, 06:32 AM** - Norway signs Artemis Accords (spacenews)
-- **May 16, 07:29 AM** - Space-based solar power startups are banking on Starship’s success (spacenews)
 - **May 16, 08:27 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 16, 08:41 AM** - Virgin Galactic says production of new spaceplanes on track (spacenews)
 - **May 16, 08:55 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 09:39 AM** - Solestial banks $17 million and welcomes new CEO (spacenews)
 - **May 16, 11:07 AM** - Beyond launch: SpaceX’s expanding role in U.S. defense (spacenews)
-- **May 16, 12:03 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 16, 12:49 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 16, 02:45 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
 - **May 16, 02:59 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
@@ -95,7 +87,6 @@
 - **May 17, 03:07 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 05:19 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
-- **May 17, 05:47 AM** - Varda Space reentry capsule lands in Australia, completes hypersonic research mission (spacenews)
 - **May 17, 06:32 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 06:47 AM** - Norway signs Artemis Accords (spacenews)
 - **May 17, 07:17 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
@@ -123,7 +114,6 @@
 - **May 17, 09:02 PM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 17, 09:15 PM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 17, 09:57 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
-- **May 17, 10:25 PM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
 - **May 17, 11:09 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 18, 12:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 18, 12:19 AM** - Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia (spacenews)
@@ -172,7 +162,6 @@
 - **May 19, 12:23 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 19, 12:51 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
 - **May 19, 01:07 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
-- **May 19, 01:49 AM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 19, 02:59 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
 - **May 19, 03:41 AM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
 - **May 19, 04:09 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
@@ -210,7 +199,6 @@
 - **May 19, 05:43 PM** - FAA license update brings SpaceX closer to next Starship launch (spacenews)
 - **May 19, 06:11 PM** - SatVu’s thermal imaging satellite winning over customers despite early setback (spacenews)
 - **May 19, 06:39 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
-- **May 19, 07:07 PM** - Eutelsat plots digital upgrades for follow-on OneWeb satellites (spacenews)
 - **May 19, 07:21 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 19, 07:49 PM** - NATO allies to pledge capabilities to address growing threats (spacenews)
 - **May 19, 08:03 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
@@ -249,7 +237,6 @@
 - **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 20, 01:25 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 20, 01:42 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
-- **May 20, 02:13 PM** - European banks help OroraTech raise more funds for wildfire-monitoring constellation (spacenews)
 - **May 20, 02:27 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 02:55 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 20, 03:11 PM** - Geospatial intelligence agency urges faster AI deployment (spacenews)
