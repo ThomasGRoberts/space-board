@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 23 | 46 |
 | spacenews | 3 | 9 | 25 | 51 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -4985,4 +4985,4 @@
 - **Jul 26, 07:59 AM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
 - **Jul 26, 08:13 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 26, 08:27 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 26, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 26, 09:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
