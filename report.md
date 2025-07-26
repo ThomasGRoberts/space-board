@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 48 |
+| breaking_defense | 2 | 4 | 23 | 47 |
 | spacenews | 3 | 9 | 25 | 52 |
-| nyt | 0 | 1 | 21 | 46 |
+| nyt | 0 | 1 | 22 | 47 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -4974,3 +4974,4 @@
 - **Jul 26, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 26, 03:15 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 26, 03:29 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 26, 03:43 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
