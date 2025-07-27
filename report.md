@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 50 |
 | breaking_defense | 0 | 2 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5047,3 +5047,4 @@
 - **Jul 27, 05:17 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 27, 05:31 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 27, 05:45 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jul 27, 05:47 AM** - China Will Launch the Long March 6A Rocket (supercluster)
