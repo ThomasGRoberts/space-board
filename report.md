@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -5066,3 +5066,4 @@
 - **Jul 27, 06:55 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 27, 07:09 AM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 27, 07:23 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
+- **Jul 27, 07:37 AM** - China Will Launch the Long March 6A Rocket (supercluster)
