@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 1 | 1 | 113 | 113 |
 | breaking_defense | 0 | 2 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -5146,3 +5146,4 @@
 - **Jul 27, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 01:13 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 27, 01:27 AM** - How China will own the moon — unless we act now (spacenews)
+- **Jul 27, 01:41 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
