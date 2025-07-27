@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 25 | 48 |
+| spacenews | 4 | 4 | 26 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 74 | 74 |
@@ -5162,3 +5162,4 @@
 - **Jul 27, 08:32 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 08:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 08:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 27, 08:53 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
