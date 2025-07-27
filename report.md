@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 24 | 50 |
+| spacenews | 3 | 6 | 25 | 51 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -5054,3 +5054,4 @@
 - **Jul 27, 05:55 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 05:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 05:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 27, 06:13 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
