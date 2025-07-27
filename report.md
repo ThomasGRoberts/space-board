@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -5056,3 +5056,4 @@
 - **Jul 27, 05:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 27, 06:13 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
 - **Jul 27, 06:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 27, 06:41 AM** - China Will Launch the Long March 6A Rocket (supercluster)
