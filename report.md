@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5097,3 +5097,4 @@
 - **Jul 27, 09:37 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 09:51 PM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 27, 10:08 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 27, 10:23 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
