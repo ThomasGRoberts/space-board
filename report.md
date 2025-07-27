@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 25 | 51 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 46 |
 
@@ -5127,3 +5127,4 @@
 - **Jul 26, 11:21 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 26, 11:35 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 26, 11:49 PM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
+- **Jul 27, 12:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
