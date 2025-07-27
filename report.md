@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 24 | 49 |
+| spacenews | 3 | 6 | 25 | 50 |
 | breaking_defense | 0 | 2 | 24 | 46 |
 | nyt | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -5044,3 +5044,4 @@
 - **Jul 27, 04:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 04:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 05:02 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 27, 05:17 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
