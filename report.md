@@ -2,15 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 23 | 47 |
 | spacenews | 2 | 5 | 25 | 51 |
-| nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 99 | 99 |
+| breaking_defense | 0 | 2 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
-- **May 14, 12:10 PM** - Satellite industry continues modest revenue growth trends (spacenews)
-- **May 14, 01:16 PM** - Space cuisine and the foundation of new space culture (spacenews)
 - **May 14, 01:30 PM** - Big ideas need big rockets (spacenews)
 - **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
@@ -24,7 +22,6 @@
 - **May 14, 11:19 PM** - Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding (spacenews)
 - **May 15, 12:03 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 12:17 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
-- **May 15, 02:13 AM** - Satellite industry continues modest revenue growth trends (spacenews)
 - **May 15, 02:56 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 05:49 AM** - Big ideas need big rockets (spacenews)
@@ -249,7 +246,6 @@
 - **May 20, 05:21 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 20, 05:35 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 20, 06:03 PM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
-- **May 20, 06:17 PM** - Space cuisine and the foundation of new space culture (spacenews)
 - **May 20, 06:32 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 06:47 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 20, 07:15 PM** - Satellite firms brace for potential imagery budget cuts in 2026 (spacenews)
