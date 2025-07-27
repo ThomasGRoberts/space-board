@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 26 | 52 |
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -5094,3 +5094,4 @@
 - **Jul 27, 09:53 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 09:55 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 09:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jul 27, 09:59 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
