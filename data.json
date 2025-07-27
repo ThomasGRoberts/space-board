@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-27T00:01:58.164372+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
     "data": [
         {
@@ -10568,14 +10568,11 @@
             "source": "supercluster",
             "text": "China Will Launch the Long March 6A Rocket",
             "source_link": "https://www.supercluster.com/launches/long-march-6al",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-07-27T10:00:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-07-27T10:13:30.370065Z",
-            "shown_at": [
-                "2025-07-27T10:13:31.090675Z"
-            ]
+            "fetched_datetime": "2025-07-27T10:15:50.975115Z"
         }
     ]
 }
