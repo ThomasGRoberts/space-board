@@ -5,7 +5,7 @@
 | spacenews | 4 | 5 | 25 | 49 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -5074,3 +5074,4 @@
 - **Jul 27, 12:05 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 12:19 PM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 27, 12:33 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 27, 12:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
