@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 26 | 51 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 46 |
 
@@ -5157,3 +5157,4 @@
 - **Jul 27, 02:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 27, 02:23 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 27, 02:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
+- **Jul 27, 02:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
