@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 26 | 51 |
 | supercluster | 1 | 1 | 127 | 127 |
 | breaking_defense | 0 | 2 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 46 |
 
 # Shown Order
 
@@ -5166,3 +5166,4 @@
 - **Jul 27, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 03:05 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 27, 03:19 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
+- **Jul 27, 03:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
