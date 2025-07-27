@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 1 | 1 | 120 | 120 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -5154,3 +5154,4 @@
 - **Jul 27, 02:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 27, 02:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
