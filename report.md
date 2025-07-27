@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -5124,3 +5124,4 @@
 - **Jul 27, 04:47 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 05:02 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 27, 05:17 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 27, 05:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
