@@ -5040,4 +5040,4 @@
 - **Jul 27, 03:05 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 27, 03:19 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 27, 03:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 27, 04:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 27, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
