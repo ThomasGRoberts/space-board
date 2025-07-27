@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 46 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -5061,3 +5061,4 @@
 - **Jul 27, 11:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 11:06 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 11:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 27, 11:09 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
