@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 26 | 52 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 46 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -5089,3 +5089,4 @@
 - **Jul 27, 09:31 AM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
 - **Jul 27, 09:45 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Jul 27, 09:47 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jul 27, 09:49 AM** - China Will Launch the Long March 6A Rocket (supercluster)
