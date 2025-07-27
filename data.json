@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-27T00:01:58.164372+00:00",
-    "trigger_count": 2,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 3,
+    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
     "data": [
         {
             "id": "a493dd9188bb5d570f1fcbf6a9a554df",
@@ -10564,15 +10564,18 @@
             ]
         },
         {
-            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
+            "id": "02d8b5609d44ff92d1ec2851e8751d2a",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 6A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-6al",
-            "shown": false,
+            "text": "Gilmour Space Will Launch Demo Flight of Eris Rocket",
+            "source_link": "https://www.supercluster.com/launches/eris-demo-flight",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-27T10:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-27T10:59:47.342004Z"
+            "target_datetime": "2025-07-27T21:30:00.000Z",
+            "time_remaining": "0d 10h 28m",
+            "fetched_datetime": "2025-07-27T11:01:43.629467Z",
+            "shown_at": [
+                "2025-07-27T11:01:44.440108Z"
+            ]
         }
     ]
 }

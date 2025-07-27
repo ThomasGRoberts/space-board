@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5057,3 +5057,4 @@
 - **Jul 27, 09:17 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 09:31 AM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
 - **Jul 27, 09:59 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 27, 11:01 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
