@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -5114,3 +5114,4 @@
 - **Jul 27, 03:49 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 27, 04:03 PM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
 - **Jul 27, 04:19 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 27, 04:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
