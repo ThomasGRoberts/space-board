@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 12 | 12 |
+| nyt | 0 | 0 | 22 | 46 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -5108,3 +5108,4 @@
 - **Jul 27, 10:51 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
 - **Jul 27, 11:05 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 27, 11:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 27, 11:22 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
