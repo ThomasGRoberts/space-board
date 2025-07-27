@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 25 | 49 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -5106,3 +5106,4 @@
 - **Jul 27, 10:36 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 10:37 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 10:51 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
+- **Jul 27, 11:05 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
