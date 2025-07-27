@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -5134,3 +5134,4 @@
 - **Jul 27, 05:45 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 05:59 PM** - NASA Goddard director to step down (spacenews)
 - **Jul 27, 06:13 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 27, 06:27 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
