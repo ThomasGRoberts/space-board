@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -5094,3 +5094,4 @@
 - **Jul 27, 01:57 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 02:11 PM** - Zero-gravity flights elevate new perspectives for a better space future (spacenews)
 - **Jul 27, 02:25 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 27, 02:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
