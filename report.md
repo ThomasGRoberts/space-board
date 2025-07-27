@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 2 | 2 |
+| nyt | 0 | 0 | 22 | 45 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5059,3 +5059,4 @@
 - **Jul 27, 09:59 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 27, 11:01 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 11:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 27, 11:06 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
