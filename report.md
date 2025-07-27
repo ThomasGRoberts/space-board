@@ -5,7 +5,7 @@
 | spacenews | 4 | 5 | 25 | 49 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5064,3 +5064,4 @@
 - **Jul 27, 11:09 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 11:23 AM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
 - **Jul 27, 11:37 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
+- **Jul 27, 11:51 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
