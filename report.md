@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 1 | 1 | 113 | 113 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -5144,3 +5144,4 @@
 - **Jul 27, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 27, 01:13 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
