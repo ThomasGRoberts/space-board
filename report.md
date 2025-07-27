@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -5154,3 +5154,4 @@
 - **Jul 27, 07:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 07:51 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 27, 08:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 27, 08:21 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
