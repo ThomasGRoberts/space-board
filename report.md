@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 50 |
 | breaking_defense | 0 | 2 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5041,3 +5041,4 @@
 - **Jul 27, 03:19 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 27, 03:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 04:55 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jul 27, 04:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
