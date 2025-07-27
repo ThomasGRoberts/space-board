@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 25 | 49 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -5133,3 +5133,4 @@
 - **Jul 27, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 05:45 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 05:59 PM** - NASA Goddard director to step down (spacenews)
+- **Jul 27, 06:13 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
