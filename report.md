@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 25 | 51 |
 | supercluster | 1 | 1 | 106 | 106 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -5134,3 +5134,4 @@
 - **Jul 27, 12:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 12:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 12:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 27, 12:17 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
