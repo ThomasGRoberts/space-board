@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 25 | 50 |
+| spacenews | 4 | 5 | 25 | 49 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -5084,3 +5084,4 @@
 - **Jul 27, 01:01 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 01:15 PM** - NASA Goddard director to step down (spacenews)
 - **Jul 27, 01:29 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 27, 01:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
