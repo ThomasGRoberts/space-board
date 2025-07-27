@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 50 |
-| breaking_defense | 0 | 2 | 23 | 46 |
+| breaking_defense | 0 | 2 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -5063,3 +5063,4 @@
 - **Jul 27, 11:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 11:09 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 11:23 AM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
+- **Jul 27, 11:37 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
