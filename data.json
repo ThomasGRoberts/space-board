@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-27T00:01:58.164372+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b95290bc82e745ae594a4d7148b32e54",
+    "trigger_count": 0,
+    "current_item_id": "8ca3b32dd1587aee15dc9b7a22356e5f",
     "data": [
         {
             "id": "a493dd9188bb5d570f1fcbf6a9a554df",
@@ -10630,6 +10630,18 @@
                 "2025-05-15T05:49:28.948759Z",
                 "2025-05-18T18:09:58.724669Z",
                 "2025-05-20T11:47:54.251158Z"
+            ]
+        },
+        {
+            "id": "8ca3b32dd1587aee15dc9b7a22356e5f",
+            "source": "spacenews",
+            "text": "Vega launches Earth science, imaging spacecraft",
+            "source_link": "https://spacenews.com/vega-launches-earth-science-imaging-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-27T00:31:43.955466Z",
+            "shown_at": [
+                "2025-07-27T00:31:44.598377Z"
             ]
         }
     ]
