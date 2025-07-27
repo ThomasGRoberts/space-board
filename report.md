@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -5077,3 +5077,4 @@
 - **Jul 27, 08:05 AM** - Vega launches Earth science, imaging spacecraft (spacenews)
 - **Jul 27, 08:19 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 27, 08:33 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Jul 27, 08:35 AM** - China Will Launch the Long March 6A Rocket (supercluster)
