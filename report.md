@@ -5,7 +5,7 @@
 | spacenews | 3 | 6 | 25 | 51 |
 | supercluster | 1 | 1 | 106 | 106 |
 | breaking_defense | 0 | 2 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -5136,3 +5136,4 @@
 - **Jul 27, 12:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 27, 12:17 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 27, 12:31 AM** - Vega launches Earth science, imaging spacecraft (spacenews)
+- **Jul 27, 12:45 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
