@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 130 | 130 |
 | spacenews | 2 | 6 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
@@ -5268,3 +5268,4 @@
 - **Jul 28, 03:02 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 03:05 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
 - **Jul 28, 03:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 28, 03:33 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
