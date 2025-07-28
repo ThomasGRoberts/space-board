@@ -5,7 +5,7 @@
 | spacenews | 4 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 46 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5168,3 +5168,4 @@
 - **Jul 28, 10:01 PM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
 - **Jul 28, 10:15 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 10:29 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 10:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
