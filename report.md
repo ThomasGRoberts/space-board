@@ -5,7 +5,7 @@
 | spacenews | 5 | 8 | 27 | 51 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -5178,3 +5178,4 @@
 - **Jul 28, 10:59 PM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 28, 11:13 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 28, 11:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 28, 11:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
