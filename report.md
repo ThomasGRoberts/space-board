@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 102 | 102 |
 | spacenews | 1 | 5 | 25 | 51 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5227,3 +5227,4 @@
 - **Jul 28, 11:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 11:12 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 11:15 AM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
+- **Jul 28, 11:29 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
