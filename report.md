@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 39 | 39 |
-| spacenews | 1 | 4 | 23 | 49 |
+| spacenews | 1 | 4 | 24 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 
@@ -5137,3 +5137,4 @@
 - **Jul 28, 02:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 02:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 02:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 28, 02:41 AM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
