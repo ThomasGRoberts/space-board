@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 144 | 144 |
+| supercluster | 1 | 1 | 145 | 145 |
 | spacenews | 4 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -5291,3 +5291,4 @@
 - **Jul 28, 05:31 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 28, 05:45 PM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
 - **Jul 28, 05:59 PM** - House appropriators want TraCSS to rely more on Defense Department (spacenews)
+- **Jul 28, 06:15 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
