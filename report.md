@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 | spacenews | 0 | 4 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -5210,3 +5210,4 @@
 - **Jul 28, 09:31 AM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 28, 09:45 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 28, 09:59 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 10:02 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
