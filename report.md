@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 166 | 166 |
+| supercluster | 1 | 1 | 167 | 167 |
 | spacenews | 4 | 8 | 26 | 51 |
-| breaking_defense | 1 | 1 | 25 | 48 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5322,3 +5322,4 @@
 - **Jul 28, 08:35 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 08:49 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
 - **Jul 28, 09:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 09:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
