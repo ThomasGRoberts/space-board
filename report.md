@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 116 | 116 |
 | spacenews | 2 | 6 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
@@ -5248,3 +5248,4 @@
 - **Jul 28, 01:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 01:11 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
 - **Jul 28, 01:25 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 28, 01:39 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
