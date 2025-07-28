@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 26 | 51 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -5166,3 +5166,4 @@
 - **Jul 28, 09:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 09:48 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 10:01 PM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
+- **Jul 28, 10:15 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
