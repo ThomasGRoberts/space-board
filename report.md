@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 | spacenews | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -5199,3 +5199,4 @@
 - **Jul 28, 08:15 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 28, 08:29 AM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 28, 08:45 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 28, 09:00 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
