@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | spacenews | 2 | 6 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 25 | 47 |
 
 # Shown Order
 
@@ -5260,3 +5260,4 @@
 - **Jul 28, 02:21 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 02:35 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 02:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 02:51 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
