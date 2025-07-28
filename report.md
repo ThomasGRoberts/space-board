@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 109 | 109 |
 | spacenews | 1 | 5 | 25 | 51 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5237,3 +5237,4 @@
 - **Jul 28, 12:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 12:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 12:13 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
+- **Jul 28, 12:27 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
