@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 74 | 74 |
 | spacenews | 1 | 4 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5188,3 +5188,4 @@
 - **Jul 28, 07:15 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 07:17 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 28, 07:33 AM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
+- **Jul 28, 07:47 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
