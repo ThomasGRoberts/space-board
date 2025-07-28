@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-28T00:01:54.331066+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "5c13ac1b600220db2e6aa3627b685dbb",
     "data": [
         {
             "id": "02d8b5609d44ff92d1ec2851e8751d2a",
@@ -10721,6 +10721,18 @@
                 "2025-05-20T21:39:34.882094Z",
                 "2025-05-21T14:35:32.821740Z",
                 "2025-05-21T15:49:43.731632Z"
+            ]
+        },
+        {
+            "id": "5c13ac1b600220db2e6aa3627b685dbb",
+            "source": "spacenews",
+            "text": "China adds new satellites to Guowang constellation, eyes accelerated launch rate",
+            "source_link": "https://spacenews.com/china-adds-new-satellites-to-guowang-constellation-eyes-accelerated-launch-rate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-28T11:15:26.051014Z",
+            "shown_at": [
+                "2025-07-28T11:15:26.556855Z"
             ]
         }
     ]
