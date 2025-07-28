@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 95 | 95 |
-| spacenews | 0 | 4 | 24 | 50 |
+| spacenews | 0 | 4 | 25 | 51 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
 
@@ -5217,3 +5217,4 @@
 - **Jul 28, 10:11 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 10:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 10:15 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 28, 10:29 AM** - Zero-gravity flights elevate new perspectives for a better space future (spacenews)
