@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 67 | 67 |
 | spacenews | 1 | 4 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5178,3 +5178,4 @@
 - **Jul 28, 06:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 06:19 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 06:33 AM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
+- **Jul 28, 06:47 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
