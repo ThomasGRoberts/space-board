@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 32 | 32 |
 | spacenews | 1 | 4 | 24 | 49 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -5128,3 +5128,4 @@
 - **Jul 28, 01:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 01:31 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 01:45 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
+- **Jul 28, 01:59 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
