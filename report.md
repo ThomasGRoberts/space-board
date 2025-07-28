@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | spacenews | 1 | 5 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
@@ -5239,3 +5239,4 @@
 - **Jul 28, 12:13 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
 - **Jul 28, 12:27 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 28, 12:42 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 28, 12:55 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
