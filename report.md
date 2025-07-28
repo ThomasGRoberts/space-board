@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 25 | 25 |
 | spacenews | 1 | 4 | 23 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -5116,3 +5116,4 @@
 - **Jul 28, 12:27 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 12:29 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 12:31 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 12:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
