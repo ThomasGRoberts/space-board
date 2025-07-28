@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 68 | 68 |
-| spacenews | 1 | 4 | 25 | 50 |
+| supercluster | 1 | 1 | 69 | 69 |
+| spacenews | 1 | 4 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -5180,3 +5180,4 @@
 - **Jul 28, 06:33 AM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
 - **Jul 28, 06:47 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 28, 07:02 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 07:05 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
