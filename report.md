@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 26 | 50 |
 | breaking_defense | 1 | 1 | 25 | 48 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -5164,3 +5164,4 @@
 - **Jul 28, 09:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 09:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 09:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 09:48 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
