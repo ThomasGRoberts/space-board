@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 130 | 130 |
-| spacenews | 2 | 6 | 25 | 50 |
+| spacenews | 2 | 6 | 26 | 51 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -5266,3 +5266,4 @@
 - **Jul 28, 02:57 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 02:59 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 03:02 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 03:05 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
