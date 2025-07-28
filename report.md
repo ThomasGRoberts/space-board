@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 46 | 46 |
 | spacenews | 1 | 4 | 24 | 50 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -5148,3 +5148,4 @@
 - **Jul 28, 03:23 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 03:25 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 03:39 AM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
+- **Jul 28, 03:53 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
