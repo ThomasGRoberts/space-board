@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 165 | 165 |
 | spacenews | 4 | 8 | 26 | 51 |
 | breaking_defense | 1 | 1 | 25 | 48 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 47 |
 
 # Shown Order
 
@@ -5319,3 +5319,4 @@
 - **Jul 28, 08:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 08:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 08:21 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Jul 28, 08:35 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
