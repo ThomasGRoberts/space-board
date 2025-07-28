@@ -2,15 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 18 | 18 |
 | spacenews | 2 | 4 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
-- **May 14, 01:30 PM** - Big ideas need big rockets (spacenews)
-- **May 14, 06:01 PM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 14, 06:17 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 14, 06:33 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 14, 07:29 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
@@ -24,7 +22,6 @@
 - **May 15, 12:17 AM** - Rocket Lab to launch NASA astrophysics smallsat mission (spacenews)
 - **May 15, 02:56 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 03:53 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 15, 05:49 AM** - Big ideas need big rockets (spacenews)
 - **May 15, 06:32 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
 - **May 15, 07:45 AM** - Kepler demonstrates space-to-ground optical links for proposed relay network  (spacenews)
 - **May 15, 08:27 AM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
@@ -81,7 +78,6 @@
 - **May 17, 01:13 AM** - House hearing on asteroid threats also takes up budget threats (spacenews)
 - **May 17, 02:09 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 17, 02:39 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
-- **May 17, 03:07 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 17, 03:35 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 17, 05:19 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 17, 06:32 AM** - Space Force testing space-based sensors to track airborne targets (breaking_defense)
@@ -145,7 +141,6 @@
 - **May 18, 05:09 PM** - Capella Space bets on quantum future under IonQ ownership (spacenews)
 - **May 18, 05:25 PM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 18, 05:39 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
-- **May 18, 06:09 PM** - Big ideas need big rockets (spacenews)
 - **May 18, 07:07 PM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
 - **May 18, 07:35 PM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
 - **May 18, 08:03 PM** - SES to demonstrate ‘satellite orchestration’ tech for military communications (spacenews)
@@ -163,7 +158,6 @@
 - **May 19, 03:41 AM** - Rocket Lab launches radar imaging satellite for iQPS (spacenews)
 - **May 19, 04:09 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 19, 05:05 AM** - NASA’s Perseverance Mars Rover Spotted a Northern Lights-Like Green Glow (nyt)
-- **May 19, 05:33 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 19, 06:49 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 19, 07:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
 - **May 19, 07:33 AM** - Space Force officials say it’s too early to pin down Golden Dome costs (spacenews)
@@ -229,7 +223,6 @@
 - **May 20, 10:07 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 10:49 AM** - China launches first of 2,800 satellites for AI space computing constellation (spacenews)
 - **May 20, 11:05 AM** - Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95 (nyt)
-- **May 20, 11:47 AM** - Big ideas need big rockets (spacenews)
 - **May 20, 12:57 PM** - Wyvern publicly releases 25 hyperspectral images (spacenews)
 - **May 20, 01:11 PM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 20, 01:25 PM** - First Visible Aurora Spotted Over Mars by NASA Rover (nyt)
@@ -270,7 +263,6 @@
 - **May 21, 01:19 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 21, 01:33 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 01:47 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
-- **May 21, 02:15 AM** - Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea (spacenews)
 - **May 21, 02:29 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 02:43 AM** - Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget (breaking_defense)
 - **May 21, 03:11 AM** - Scientists urge NASA to act on Apophis mission concept (spacenews)
