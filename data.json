@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-28T00:01:54.331066+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02d8b5609d44ff92d1ec2851e8751d2a",
+    "trigger_count": 0,
+    "current_item_id": "10354c8dad57835365306bd8fc98500a",
     "data": [
         {
             "id": "02d8b5609d44ff92d1ec2851e8751d2a",
@@ -10857,6 +10857,18 @@
             "fetched_datetime": "2025-07-28T17:59:31.033747Z",
             "shown_at": [
                 "2025-07-28T17:59:31.657204Z"
+            ]
+        },
+        {
+            "id": "10354c8dad57835365306bd8fc98500a",
+            "source": "breaking_defense",
+            "text": "Next X-37B mission to carry quantum sensor, laser link experiments",
+            "source_link": "https://breakingdefense.com/2025/07/next-x-37b-mission-to-carry-quantum-sensor-laser-link-experiments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-28T20:21:56.936787Z",
+            "shown_at": [
+                "2025-07-28T20:21:58.030012Z"
             ]
         }
     ]
