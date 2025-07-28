@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 | spacenews | 1 | 4 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 46 |
@@ -5119,3 +5119,4 @@
 - **Jul 28, 12:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 12:47 AM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
 - **Jul 28, 01:02 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
+- **Jul 28, 01:17 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
