@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 137 | 137 |
+| supercluster | 1 | 1 | 138 | 138 |
 | spacenews | 2 | 6 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
-| nyt | 0 | 0 | 25 | 47 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -5279,3 +5279,4 @@
 - **Jul 28, 04:05 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 28, 04:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 04:33 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 28, 04:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
