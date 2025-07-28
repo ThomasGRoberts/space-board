@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-28T00:01:54.331066+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5a7a01c70870d5c7e0a988c995f87570",
+    "trigger_count": 0,
+    "current_item_id": "f16859df8e74d28da5072293c6de6cee",
     "data": [
         {
             "id": "02d8b5609d44ff92d1ec2851e8751d2a",
@@ -10818,6 +10818,18 @@
             "fetched_datetime": "2025-07-28T17:45:31.224259Z",
             "shown_at": [
                 "2025-07-28T17:45:31.805602Z"
+            ]
+        },
+        {
+            "id": "f16859df8e74d28da5072293c6de6cee",
+            "source": "spacenews",
+            "text": "House appropriators want TraCSS to rely more on Defense Department",
+            "source_link": "https://spacenews.com/house-appropriators-want-tracss-to-rely-more-on-defense-department/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-28T17:59:31.033747Z",
+            "shown_at": [
+                "2025-07-28T17:59:31.657204Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 144 | 144 |
-| spacenews | 3 | 7 | 26 | 51 |
+| spacenews | 4 | 8 | 27 | 52 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -5290,3 +5290,4 @@
 - **Jul 28, 05:17 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 05:31 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 28, 05:45 PM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
+- **Jul 28, 05:59 PM** - House appropriators want TraCSS to rely more on Defense Department (spacenews)
