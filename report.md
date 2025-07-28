@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 | spacenews | 1 | 4 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
@@ -5150,3 +5150,4 @@
 - **Jul 28, 03:39 AM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
 - **Jul 28, 03:53 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 28, 04:07 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 28, 04:09 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
