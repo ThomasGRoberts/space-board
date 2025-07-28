@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 26 | 51 |
+| spacenews | 5 | 8 | 27 | 52 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -5176,3 +5176,4 @@
 - **Jul 28, 10:42 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 10:45 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 10:59 PM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
+- **Jul 28, 11:13 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)

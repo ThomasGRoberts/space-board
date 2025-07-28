@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-28T00:01:54.331066+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e2e6ce107d37d21f113295eba996441",
+    "trigger_count": 0,
+    "current_item_id": "2a5993099e74b5240e9f4d480d0e19d8",
     "data": [
         {
             "id": "61964b0b73c77d66d7693c1362ee742a",
@@ -10726,6 +10726,18 @@
                 "2025-07-28T22:37:43.130044Z",
                 "2025-07-28T22:39:36.143994Z",
                 "2025-07-28T22:42:09.826369Z"
+            ]
+        },
+        {
+            "id": "2a5993099e74b5240e9f4d480d0e19d8",
+            "source": "spacenews",
+            "text": "SmallSat heads to Salt Lake City as audience expands",
+            "source_link": "https://spacenews.com/smallsat-heads-to-salt-lake-city-as-audience-expands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-28T23:13:56.457331Z",
+            "shown_at": [
+                "2025-07-28T23:13:57.891023Z"
             ]
         }
     ]
