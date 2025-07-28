@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 151 | 151 |
+| supercluster | 1 | 1 | 152 | 152 |
 | spacenews | 4 | 8 | 26 | 51 |
-| breaking_defense | 0 | 0 | 25 | 48 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5301,3 +5301,4 @@
 - **Jul 28, 06:29 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 06:43 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 06:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
+- **Jul 28, 07:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
