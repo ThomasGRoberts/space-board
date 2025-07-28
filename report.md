@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 95 | 95 |
 | spacenews | 0 | 4 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
@@ -5218,3 +5218,4 @@
 - **Jul 28, 10:13 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 10:15 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 10:29 AM** - Zero-gravity flights elevate new perspectives for a better space future (spacenews)
+- **Jul 28, 10:43 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
