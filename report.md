@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 | spacenews | 1 | 5 | 25 | 50 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 25 | 48 |
@@ -5229,3 +5229,4 @@
 - **Jul 28, 11:15 AM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
 - **Jul 28, 11:29 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 28, 11:45 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 28, 11:59 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
