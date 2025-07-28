@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 39 | 39 |
 | spacenews | 1 | 4 | 24 | 50 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -5138,3 +5138,4 @@
 - **Jul 28, 02:25 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 02:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 02:41 AM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
+- **Jul 28, 02:55 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
