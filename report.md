@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 27 | 52 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -5177,3 +5177,4 @@
 - **Jul 28, 10:45 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 10:59 PM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 28, 11:13 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
+- **Jul 28, 11:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
