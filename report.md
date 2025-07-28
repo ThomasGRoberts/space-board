@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 18 | 18 |
 | spacenews | 2 | 4 | 24 | 49 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -5108,3 +5108,4 @@
 - **Jul 27, 11:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 27, 11:37 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 27, 11:51 PM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
+- **Jul 28, 12:05 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
