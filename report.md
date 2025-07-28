@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 | spacenews | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -5169,3 +5169,4 @@
 - **Jul 28, 05:19 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 05:35 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 28, 05:49 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 28, 06:03 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
