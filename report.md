@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 46 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -5126,3 +5126,4 @@
 - **Jul 29, 09:29 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 09:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 09:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
