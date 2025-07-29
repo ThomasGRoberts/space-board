@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 53 |
 | breaking_defense | 0 | 1 | 19 | 44 |
-| nyt | 3 | 3 | 20 | 44 |
-| supercluster | 2 | 2 | 89 | 89 |
+| nyt | 3 | 3 | 21 | 45 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -5226,3 +5226,4 @@
 - **Jul 29, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:51 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 29, 10:55 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
+- **Jul 29, 11:35 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
