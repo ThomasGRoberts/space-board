@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "b947f3bdd0f3b355246123266e8614f4",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10679,6 +10679,18 @@
             "shown_at": [
                 "2025-07-29T09:15:43.889298Z",
                 "2025-07-29T11:13:45.927469Z"
+            ]
+        },
+        {
+            "id": "b947f3bdd0f3b355246123266e8614f4",
+            "source": "spacenews",
+            "text": "NASA pauses acquisition of lunar communications ground stations",
+            "source_link": "https://spacenews.com/nasa-pauses-acquisition-of-lunar-communications-ground-stations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T11:55:33.019392Z",
+            "shown_at": [
+                "2025-07-29T11:55:34.055261Z"
             ]
         }
     ]
