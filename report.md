@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 26 | 51 |
 | breaking_defense | 1 | 1 | 22 | 47 |
-| nyt | 2 | 2 | 22 | 46 |
+| nyt | 2 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
@@ -5142,3 +5142,4 @@
 - **Jul 29, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 10:57 AM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
+- **Jul 29, 11:13 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
