@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 28 | 54 |
 | breaking_defense | 0 | 1 | 20 | 45 |
 | nyt | 3 | 3 | 22 | 46 |
-| supercluster | 2 | 2 | 97 | 97 |
+| supercluster | 2 | 2 | 98 | 98 |
 
 # Shown Order
 
@@ -5229,3 +5229,4 @@
 - **Jul 29, 07:57 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 29, 08:11 PM** - Head of NOAA satellite office placed on administrative leave (spacenews)
 - **Jul 29, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 08:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
