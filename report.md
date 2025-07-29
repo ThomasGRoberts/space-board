@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 29 | 54 |
-| breaking_defense | 1 | 1 | 21 | 45 |
+| breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 3 | 3 | 21 | 46 |
-| supercluster | 2 | 2 | 75 | 75 |
+| supercluster | 2 | 2 | 76 | 76 |
 
 # Shown Order
 
@@ -5198,3 +5198,4 @@
 - **Jul 29, 04:47 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 29, 05:03 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 29, 05:17 PM** - Vega launches Earth science, imaging spacecraft (spacenews)
+- **Jul 29, 05:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
