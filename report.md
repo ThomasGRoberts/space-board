@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 25 | 50 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 12 | 12 |
 
@@ -5101,3 +5101,4 @@
 - **Jul 29, 06:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:53 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
+- **Jul 29, 07:07 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
