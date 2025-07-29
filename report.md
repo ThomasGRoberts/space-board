@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 25 | 50 |
+| spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -5111,3 +5111,4 @@
 - **Jul 29, 07:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:51 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
+- **Jul 29, 08:05 AM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
