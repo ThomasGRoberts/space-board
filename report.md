@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 25 | 50 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5115,3 +5115,4 @@
 - **Jul 29, 08:19 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 29, 08:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 08:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 08:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
