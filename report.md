@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 25 | 50 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 47 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -5146,3 +5146,4 @@
 - **Jul 29, 11:27 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 29, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
