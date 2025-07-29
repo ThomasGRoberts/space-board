@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 28 | 53 |
+| spacenews | 10 | 12 | 29 | 54 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 3 | 3 | 22 | 46 |
+| nyt | 3 | 3 | 21 | 46 |
 | supercluster | 2 | 2 | 75 | 75 |
 
 # Shown Order
@@ -5197,3 +5197,4 @@
 - **Jul 29, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 04:47 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 29, 05:03 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Jul 29, 05:17 PM** - Vega launches Earth science, imaging spacecraft (spacenews)
