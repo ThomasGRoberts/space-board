@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 26 | 50 |
+| spacenews | 5 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -5084,4 +5084,4 @@
 - **Jul 29, 02:55 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 03:09 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 29, 03:23 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
-- **Jul 29, 04:35 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
+- **Jul 29, 04:37 AM** - iSpace Will Launch the Hyperbola-1 Rocket (supercluster)
