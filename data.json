@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0863551588beec614035334492fafcfa",
+    "trigger_count": 0,
+    "current_item_id": "d8118b39ae7cb8e7377e7c9bc8d9ea57",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10720,9 +10720,12 @@
             "source": "spacenews",
             "text": "Slingshot unveils AI agent for Space Force training",
             "source_link": "https://spacenews.com/slingshot-unveils-ai-agent-for-space-force-training/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-29T13:09:57.142973Z"
+            "fetched_datetime": "2025-07-29T13:09:57.142973Z",
+            "shown_at": [
+                "2025-07-29T13:23:42.860605Z"
+            ]
         }
     ]
 }
