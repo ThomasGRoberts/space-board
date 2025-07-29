@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 25 | 50 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 47 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -5134,3 +5134,4 @@
 - **Jul 29, 09:57 AM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 29, 10:15 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 10:29 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 29, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
