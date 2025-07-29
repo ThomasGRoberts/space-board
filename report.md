@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 24 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -5094,3 +5094,4 @@
 - **Jul 29, 05:59 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 06:23 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 06:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 06:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
