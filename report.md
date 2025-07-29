@@ -5,6 +5,7 @@
 | spacenews | 5 | 6 | 27 | 50 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5083,3 +5084,4 @@
 - **Jul 29, 02:55 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 03:09 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 29, 03:23 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
+- **Jul 29, 03:37 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
