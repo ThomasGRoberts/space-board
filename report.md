@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 28 | 54 |
-| breaking_defense | 1 | 1 | 21 | 45 |
+| breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 3 | 3 | 21 | 45 |
 | supercluster | 2 | 2 | 89 | 89 |
 
@@ -5215,3 +5215,4 @@
 - **Jul 29, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 06:45 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
