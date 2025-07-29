@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 26 | 50 |
+| spacenews | 5 | 6 | 27 | 51 |
 | supercluster | 1 | 1 | 35 | 35 |
 | breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -5114,3 +5114,4 @@
 - **Jul 29, 01:53 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 01:55 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 01:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 29, 02:13 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
