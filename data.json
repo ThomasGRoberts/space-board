@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "84485b1e1e64dd1a5c288bb57c329027",
+    "trigger_count": 0,
+    "current_item_id": "b16fa0f0f4c0ab58076cd21484571139",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10854,6 +10854,18 @@
             "shown_at": [
                 "2025-07-29T17:03:30.737961Z",
                 "2025-07-29T19:57:40.466635Z"
+            ]
+        },
+        {
+            "id": "b16fa0f0f4c0ab58076cd21484571139",
+            "source": "spacenews",
+            "text": "Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts",
+            "source_link": "https://spacenews.com/space-force-selects-five-firms-for-protected-tactical-satcom-design-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T20:53:16.096806Z",
+            "shown_at": [
+                "2025-07-29T20:53:16.707127Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
+| spacenews | 9 | 13 | 28 | 55 |
 | breaking_defense | 0 | 1 | 21 | 46 |
 | nyt | 3 | 3 | 21 | 45 |
 | supercluster | 2 | 2 | 103 | 103 |
@@ -5236,3 +5236,4 @@
 - **Jul 29, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:39 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 29, 08:53 PM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
