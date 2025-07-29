@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 29 | 54 |
+| spacenews | 10 | 12 | 30 | 54 |
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 45 |
 | supercluster | 2 | 2 | 68 | 68 |
@@ -5186,3 +5186,4 @@
 - **Jul 29, 03:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 03:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 03:51 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 29, 04:05 PM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
