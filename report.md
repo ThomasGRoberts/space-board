@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 28 | 54 |
-| breaking_defense | 0 | 1 | 20 | 45 |
+| breaking_defense | 0 | 1 | 21 | 46 |
 | nyt | 3 | 3 | 21 | 45 |
 | supercluster | 2 | 2 | 96 | 96 |
 
@@ -5231,3 +5231,4 @@
 - **Jul 29, 09:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 09:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 09:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 29, 09:51 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
