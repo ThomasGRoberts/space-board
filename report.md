@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5085,3 +5085,4 @@
 - **Jul 29, 03:09 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 29, 03:23 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 29, 05:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 05:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
