@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 27 | 51 |
 | supercluster | 1 | 1 | 21 | 21 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5095,3 +5095,4 @@
 - **Jul 28, 11:53 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 28, 11:55 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 29, 12:09 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
+- **Jul 29, 12:25 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
