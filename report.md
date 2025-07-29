@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 2 | 2 | 22 | 47 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -5145,3 +5145,4 @@
 - **Jul 29, 11:13 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 29, 11:27 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 29, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
