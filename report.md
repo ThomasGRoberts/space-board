@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 27 | 52 |
+| spacenews | 8 | 10 | 28 | 53 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 2 | 2 | 21 | 46 |
 | supercluster | 1 | 1 | 54 | 54 |
@@ -5164,3 +5164,4 @@
 - **Jul 29, 12:55 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 29, 01:09 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 29, 01:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
+- **Jul 29, 01:37 PM** - China’s iSpace returns to flight with successful orbital solid rocket launch  (spacenews)

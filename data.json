@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d8118b39ae7cb8e7377e7c9bc8d9ea57",
+    "trigger_count": 0,
+    "current_item_id": "60fe1f67f3517915f6649498ea435a1d",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10725,6 +10725,18 @@
             "fetched_datetime": "2025-07-29T13:09:57.142973Z",
             "shown_at": [
                 "2025-07-29T13:23:42.860605Z"
+            ]
+        },
+        {
+            "id": "60fe1f67f3517915f6649498ea435a1d",
+            "source": "spacenews",
+            "text": "China’s iSpace returns to flight with successful orbital solid rocket launch ",
+            "source_link": "https://spacenews.com/chinas-ispace-returns-to-flight-with-successful-orbital-solid-rocket-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T13:37:42.352558Z",
+            "shown_at": [
+                "2025-07-29T13:37:42.966201Z"
             ]
         }
     ]
