@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 2 | 2 | 22 | 46 |
+| nyt | 2 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
@@ -5132,3 +5132,4 @@
 - **Jul 29, 09:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:57 AM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
+- **Jul 29, 10:15 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
