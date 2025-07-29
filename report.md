@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 21 | 45 |
+| nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -5113,3 +5113,4 @@
 - **Jul 29, 07:51 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 29, 08:05 AM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
 - **Jul 29, 08:19 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
+- **Jul 29, 08:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
