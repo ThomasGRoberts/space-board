@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 28 | 53 |
+| spacenews | 8 | 12 | 27 | 53 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 3 | 3 | 21 | 45 |
+| nyt | 3 | 3 | 22 | 46 |
 | supercluster | 2 | 2 | 89 | 89 |
 
 # Shown Order
@@ -5216,3 +5216,4 @@
 - **Jul 29, 06:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:45 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 29, 06:59 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
