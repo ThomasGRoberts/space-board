@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "10354c8dad57835365306bd8fc98500a",
+    "trigger_count": 0,
+    "current_item_id": "aced2f4f10e8c9e1faee675e0935519c",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10587,6 +10587,18 @@
                 "2025-07-29T05:16:22.704618Z",
                 "2025-07-29T05:19:20.282030Z",
                 "2025-07-29T05:21:35.571602Z"
+            ]
+        },
+        {
+            "id": "aced2f4f10e8c9e1faee675e0935519c",
+            "source": "nyt",
+            "text": "When Coke and Pepsi Fought for Soft Drink Supremacy in Space",
+            "source_link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T06:23:44.934066Z",
+            "shown_at": [
+                "2025-07-29T06:23:45.673207Z"
             ]
         }
     ]

@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 21 | 46 |
+| nyt | 1 | 1 | 22 | 47 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -5092,3 +5092,4 @@
 - **Jul 29, 05:23 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 05:39 AM** - NISAR set to launch July 30 (spacenews)
 - **Jul 29, 05:59 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Jul 29, 06:23 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
