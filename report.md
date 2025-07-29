@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 24 | 49 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| spacenews | 5 | 6 | 25 | 50 |
+| breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -5110,3 +5110,4 @@
 - **Jul 29, 07:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 07:51 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
