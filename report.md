@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 28 | 54 |
+| spacenews | 8 | 12 | 27 | 54 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 3 | 3 | 21 | 45 |
+| nyt | 3 | 3 | 22 | 46 |
 | supercluster | 2 | 2 | 82 | 82 |
 
 # Shown Order
@@ -5206,3 +5206,4 @@
 - **Jul 29, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 05:45 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
+- **Jul 29, 05:59 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
