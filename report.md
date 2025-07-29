@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 29 | 54 |
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 2 | 2 | 21 | 46 |
-| supercluster | 2 | 2 | 61 | 61 |
+| supercluster | 2 | 2 | 62 | 62 |
 
 # Shown Order
 
@@ -5178,3 +5178,4 @@
 - **Jul 29, 02:53 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Jul 29, 03:07 PM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 29, 03:23 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 29, 03:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
