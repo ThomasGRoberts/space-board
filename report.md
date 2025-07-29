@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 27 | 53 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 3 | 3 | 21 | 45 |
+| nyt | 3 | 3 | 22 | 46 |
 | supercluster | 2 | 2 | 96 | 96 |
 
 # Shown Order
@@ -5226,3 +5226,4 @@
 - **Jul 29, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 07:43 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
+- **Jul 29, 07:57 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
