@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 47 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -5135,3 +5135,4 @@
 - **Jul 29, 10:15 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 10:29 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 29, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 10:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
