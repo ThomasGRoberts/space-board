@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 51 |
 | supercluster | 1 | 1 | 28 | 28 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -5105,3 +5105,4 @@
 - **Jul 29, 12:53 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 12:55 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 29, 01:09 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
+- **Jul 29, 01:26 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
