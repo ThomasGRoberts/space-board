@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a5993099e74b5240e9f4d480d0e19d8",
+    "trigger_count": 0,
+    "current_item_id": "92ddd7cdd70f88b42c9cb475e1679c0e",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10760,6 +10760,18 @@
                 "2025-07-29T14:14:11.325935Z",
                 "2025-07-29T14:17:49.544090Z",
                 "2025-07-29T14:19:58.562439Z"
+            ]
+        },
+        {
+            "id": "92ddd7cdd70f88b42c9cb475e1679c0e",
+            "source": "spacenews",
+            "text": "Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms",
+            "source_link": "https://spacenews.com/frontgrade-unveils-sbc-2a72-with-32gb-nand-to-enable-high-performance-edge-computing-in-air-and-space-platforms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T14:53:34.440957Z",
+            "shown_at": [
+                "2025-07-29T14:53:35.169006Z"
             ]
         }
     ]
