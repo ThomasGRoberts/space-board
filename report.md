@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 29 | 54 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 2 | 2 | 21 | 46 |
-| supercluster | 2 | 2 | 68 | 68 |
+| supercluster | 2 | 2 | 69 | 69 |
 
 # Shown Order
 
@@ -5188,3 +5188,4 @@
 - **Jul 29, 03:51 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 29, 04:05 PM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
 - **Jul 29, 04:19 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Jul 29, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
