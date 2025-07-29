@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 28 | 53 |
 | breaking_defense | 1 | 1 | 21 | 46 |
-| nyt | 2 | 2 | 21 | 46 |
+| nyt | 2 | 2 | 22 | 47 |
 | supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
@@ -5165,3 +5165,4 @@
 - **Jul 29, 01:09 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 29, 01:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 29, 01:37 PM** - China’s iSpace returns to flight with successful orbital solid rocket launch  (spacenews)
+- **Jul 29, 01:51 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
