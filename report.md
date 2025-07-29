@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 28 | 54 |
 | breaking_defense | 1 | 1 | 21 | 45 |
 | nyt | 3 | 3 | 21 | 46 |
-| supercluster | 2 | 2 | 84 | 84 |
+| supercluster | 2 | 2 | 85 | 85 |
 
 # Shown Order
 
@@ -5210,3 +5210,4 @@
 - **Jul 29, 06:15 PM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
 - **Jul 29, 06:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 06:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
