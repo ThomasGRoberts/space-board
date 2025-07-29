@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 25 | 50 |
+| spacenews | 6 | 7 | 26 | 51 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -5121,3 +5121,4 @@
 - **Jul 29, 08:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 09:02 AM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
