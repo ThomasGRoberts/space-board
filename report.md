@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 28 | 53 |
+| spacenews | 8 | 10 | 27 | 53 |
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 2 | 2 | 22 | 46 |
-| supercluster | 2 | 2 | 56 | 56 |
+| supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
 
@@ -5168,3 +5168,4 @@
 - **Jul 29, 01:51 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 02:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 02:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 29, 02:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
