@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5abc1118462280fe033397db5a8a0123",
+    "trigger_count": 0,
+    "current_item_id": "c566cc9481d17020bbe3af154a49b714",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10803,6 +10803,18 @@
             "fetched_datetime": "2025-07-29T15:07:30.188274Z",
             "shown_at": [
                 "2025-07-29T15:07:30.871714Z"
+            ]
+        },
+        {
+            "id": "c566cc9481d17020bbe3af154a49b714",
+            "source": "nyt",
+            "text": "The First Soda in Space: When NASA Got Caught Up in the Cola Wars",
+            "source_link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T17:03:30.142782Z",
+            "shown_at": [
+                "2025-07-29T17:03:30.737961Z"
             ]
         }
     ]
