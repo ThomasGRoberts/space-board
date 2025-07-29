@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 2 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -5122,3 +5122,4 @@
 - **Jul 29, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:02 AM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
+- **Jul 29, 09:15 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)

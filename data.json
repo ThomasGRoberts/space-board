@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4144fd437d34428d94b63b616ed35508",
+    "trigger_count": 0,
+    "current_item_id": "21ad848fa658c4426fee17ef9efa6d1b",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10639,6 +10639,18 @@
             "fetched_datetime": "2025-07-29T08:05:40.435158Z",
             "shown_at": [
                 "2025-07-29T08:05:41.093731Z"
+            ]
+        },
+        {
+            "id": "21ad848fa658c4426fee17ef9efa6d1b",
+            "source": "nyt",
+            "text": "How to Watch Twin Meteor Showers Peak on the Same Night",
+            "source_link": "https://www.nytimes.com/2025/07/29/science/meteor-shower-july-august-2025.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T09:15:42.166804Z",
+            "shown_at": [
+                "2025-07-29T09:15:43.889298Z"
             ]
         }
     ]
