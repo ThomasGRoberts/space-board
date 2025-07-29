@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 29 | 54 |
+| spacenews | 10 | 12 | 29 | 55 |
 | breaking_defense | 1 | 1 | 21 | 46 |
 | nyt | 2 | 2 | 21 | 45 |
 | supercluster | 2 | 2 | 61 | 61 |
@@ -5176,3 +5176,4 @@
 - **Jul 29, 02:21 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 02:36 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 29, 02:53 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
+- **Jul 29, 03:07 PM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)

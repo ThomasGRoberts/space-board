@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-29T00:01:51.829788+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92ddd7cdd70f88b42c9cb475e1679c0e",
+    "trigger_count": 0,
+    "current_item_id": "442676294a603c504dfc3b803969acf8",
     "data": [
         {
             "id": "2a5993099e74b5240e9f4d480d0e19d8",
@@ -10772,6 +10772,18 @@
             "fetched_datetime": "2025-07-29T14:53:34.440957Z",
             "shown_at": [
                 "2025-07-29T14:53:35.169006Z"
+            ]
+        },
+        {
+            "id": "442676294a603c504dfc3b803969acf8",
+            "source": "spacenews",
+            "text": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
+            "source_link": "https://spacenews.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-29T15:07:30.188274Z",
+            "shown_at": [
+                "2025-07-29T15:07:30.871714Z"
             ]
         }
     ]
