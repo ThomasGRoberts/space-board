@@ -5,7 +5,7 @@
 | spacenews | 5 | 6 | 24 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -5104,3 +5104,4 @@
 - **Jul 29, 07:07 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 29, 07:22 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
