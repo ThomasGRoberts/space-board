@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 25 | 50 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 48 |
 | nyt | 2 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 47 | 47 |
 
@@ -5153,3 +5153,4 @@
 - **Jul 29, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 11:55 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 29, 12:13 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Jul 29, 12:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
