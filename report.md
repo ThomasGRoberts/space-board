@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 26 | 53 |
 | breaking_defense | 0 | 1 | 19 | 44 |
 | nyt | 3 | 3 | 21 | 44 |
-| supercluster | 1 | 1 | 90 | 90 |
+| supercluster | 1 | 1 | 91 | 91 |
 
 # Shown Order
 
@@ -5228,3 +5228,4 @@
 - **Jul 29, 10:55 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Jul 29, 11:35 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
