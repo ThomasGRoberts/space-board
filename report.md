@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 28 | 54 |
 | breaking_defense | 0 | 1 | 20 | 45 |
 | nyt | 3 | 3 | 22 | 46 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 
 # Shown Order
 
@@ -5230,3 +5230,4 @@
 - **Jul 29, 08:11 PM** - Head of NOAA satellite office placed on administrative leave (spacenews)
 - **Jul 29, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 08:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 08:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
