@@ -5,7 +5,7 @@
 | spacenews | 6 | 7 | 25 | 50 |
 | breaking_defense | 1 | 1 | 22 | 47 |
 | nyt | 2 | 2 | 22 | 47 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5156,3 +5156,4 @@
 - **Jul 29, 12:27 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 29, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 12:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
