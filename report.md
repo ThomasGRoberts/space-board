@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 50 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 | breaking_defense | 1 | 1 | 25 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
 
@@ -5098,3 +5098,4 @@
 - **Jul 29, 12:25 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 12:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 12:43 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 29, 12:45 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
