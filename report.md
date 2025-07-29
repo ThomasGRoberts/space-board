@@ -5,7 +5,7 @@
 | spacenews | 10 | 12 | 29 | 54 |
 | breaking_defense | 1 | 1 | 20 | 45 |
 | nyt | 3 | 3 | 21 | 46 |
-| supercluster | 2 | 2 | 76 | 76 |
+| supercluster | 2 | 2 | 77 | 77 |
 
 # Shown Order
 
@@ -5199,3 +5199,4 @@
 - **Jul 29, 05:03 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 29, 05:17 PM** - Vega launches Earth science, imaging spacecraft (spacenews)
 - **Jul 29, 05:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
+- **Jul 29, 05:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
