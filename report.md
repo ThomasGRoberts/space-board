@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 50 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | breaking_defense | 1 | 1 | 25 | 48 |
 | nyt | 0 | 0 | 23 | 46 |
 
@@ -5116,3 +5116,4 @@
 - **Jul 29, 01:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 02:13 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 29, 02:27 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
+- **Jul 29, 02:41 AM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
