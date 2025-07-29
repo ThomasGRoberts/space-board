@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 25 | 50 |
-| breaking_defense | 1 | 1 | 22 | 47 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -5091,3 +5091,4 @@
 - **Jul 29, 05:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 05:23 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 05:39 AM** - NISAR set to launch July 30 (spacenews)
+- **Jul 29, 05:59 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
