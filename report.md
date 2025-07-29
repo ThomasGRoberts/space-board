@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 27 | 53 |
 | breaking_defense | 0 | 1 | 21 | 46 |
 | nyt | 3 | 3 | 21 | 45 |
-| supercluster | 2 | 2 | 90 | 90 |
+| supercluster | 2 | 2 | 89 | 89 |
 
 # Shown Order
 
@@ -5225,4 +5225,3 @@
 - **Jul 29, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:51 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 29, 10:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
