@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 28 | 54 |
 | breaking_defense | 0 | 1 | 20 | 45 |
 | nyt | 3 | 3 | 22 | 46 |
-| supercluster | 2 | 2 | 107 | 107 |
+| supercluster | 1 | 1 | 87 | 87 |
 
 # Shown Order
 
@@ -5166,25 +5166,11 @@
 - **Jul 29, 01:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 29, 01:37 PM** - China’s iSpace returns to flight with successful orbital solid rocket launch  (spacenews)
 - **Jul 29, 01:51 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 29, 02:05 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:07 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:09 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:11 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:14 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:17 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 02:19 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 02:21 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 02:36 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 29, 02:53 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Jul 29, 03:07 PM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 29, 03:23 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 29, 03:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:45 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:47 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 03:49 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 03:51 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 29, 04:05 PM** - China adds new satellites to Guowang constellation, eyes accelerated launch rate (spacenews)
 - **Jul 29, 04:19 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
@@ -5198,13 +5184,6 @@
 - **Jul 29, 04:47 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 29, 05:03 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 29, 05:17 PM** - Vega launches Earth science, imaging spacecraft (spacenews)
-- **Jul 29, 05:31 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:33 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:35 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:37 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:39 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:41 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
-- **Jul 29, 05:43 PM** - Gilmour Space Will Launch Demo Flight of Eris Rocket (supercluster)
 - **Jul 29, 05:45 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 29, 05:59 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 06:15 PM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
@@ -5242,3 +5221,4 @@
 - **Jul 29, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 09:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 29, 09:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
