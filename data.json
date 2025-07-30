@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "e7dffe8a5c0c3663d210d7db80a43c76",
     "data": [
         {
@@ -10596,14 +10596,11 @@
             "source": "supercluster",
             "text": "NASA and ISRO Will Launch an Earth Observation Satellite",
             "source_link": "https://www.supercluster.com/launches/nisar",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-07-30T12:10:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-07-30T12:17:43.470148Z",
-            "shown_at": [
-                "2025-07-30T12:17:44.823185Z"
-            ]
+            "fetched_datetime": "2025-07-30T12:19:26.335486Z"
         }
     ]
 }

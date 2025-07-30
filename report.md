@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 26 | 51 |
 | nyt | 1 | 3 | 20 | 43 |
 | breaking_defense | 0 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5096,4 +5096,3 @@
 - **Jul 30, 11:21 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 30, 11:49 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
-- **Jul 30, 12:17 PM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
