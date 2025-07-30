@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 24 | 51 |
 | nyt | 0 | 3 | 19 | 41 |
-| breaking_defense | 1 | 2 | 19 | 40 |
+| breaking_defense | 1 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 34 | 34 |
 
 # Shown Order
@@ -5145,3 +5145,4 @@
 - **Jul 30, 05:35 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 05:37 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 30, 05:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Jul 30, 06:07 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
