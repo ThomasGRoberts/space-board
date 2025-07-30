@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 52 |
+| spacenews | 9 | 14 | 27 | 53 |
 | nyt | 3 | 3 | 20 | 44 |
 | supercluster | 1 | 1 | 110 | 110 |
 | breaking_defense | 0 | 1 | 20 | 44 |
@@ -5179,3 +5179,4 @@
 - **Jul 30, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 30, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 30, 01:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
+- **Jul 30, 02:06 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
