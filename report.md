@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 25 | 51 |
+| spacenews | 8 | 14 | 26 | 52 |
 | nyt | 1 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 25 | 25 |
@@ -5120,3 +5120,4 @@
 - **Jul 30, 11:45 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 11:47 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 11:49 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
