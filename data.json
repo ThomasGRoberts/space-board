@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 6,
-    "current_item_id": "385b1c63f3533d23511cf2d61e0676a4",
+    "trigger_count": 0,
+    "current_item_id": "5a51e6d6941bfdc85fd94d6b2372e148",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10627,9 +10627,12 @@
             "source": "spacenews",
             "text": "Space – the quiet element behind Midnight Hammer",
             "source_link": "https://spacenews.com/space-the-quiet-element-behind-midnight-hammer/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436740Z"
+            "fetched_datetime": "2025-07-30T13:25:26.436740Z",
+            "shown_at": [
+                "2025-07-30T13:40:19.317716Z"
+            ]
         },
         {
             "id": "776d5e9c8a84e366f0ad03be316dce99",
