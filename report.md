@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 23 | 51 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 3 | 3 | 20 | 41 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -5148,3 +5148,4 @@
 - **Jul 30, 08:15 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 08:29 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
 - **Jul 30, 08:43 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Jul 30, 08:57 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
