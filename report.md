@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 51 |
+| spacenews | 9 | 14 | 27 | 52 |
 | nyt | 3 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -5077,3 +5077,4 @@
 - **Jul 30, 04:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 04:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 04:41 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 30, 04:55 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
