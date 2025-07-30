@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 25 | 51 |
+| spacenews | 9 | 15 | 26 | 52 |
 | nyt | 1 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -5110,3 +5110,4 @@
 - **Jul 30, 10:49 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 10:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 10:53 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Jul 30, 11:07 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
