@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 51 |
-| nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 3 | 3 | 20 | 41 |
+| nyt | 0 | 3 | 20 | 41 |
+| breaking_defense | 3 | 3 | 20 | 40 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -5165,3 +5165,4 @@
 - **Jul 30, 10:09 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 10:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 10:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 10:15 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
