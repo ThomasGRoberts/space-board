@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 27 | 52 |
+| spacenews | 10 | 15 | 28 | 53 |
 | nyt | 3 | 3 | 22 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -5079,3 +5079,4 @@
 - **Jul 30, 04:41 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 04:55 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 30, 05:09 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Jul 30, 05:23 AM** - First Eris launch fails to reach orbit (spacenews)
