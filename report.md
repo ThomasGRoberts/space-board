@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 25 | 52 |
-| nyt | 0 | 3 | 20 | 41 |
-| breaking_defense | 3 | 3 | 20 | 40 |
+| nyt | 0 | 3 | 20 | 40 |
+| breaking_defense | 3 | 3 | 21 | 41 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -5167,3 +5167,4 @@
 - **Jul 30, 10:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 10:15 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 10:29 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
+- **Jul 30, 10:45 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
