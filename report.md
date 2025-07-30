@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 53 |
-| nyt | 1 | 3 | 19 | 40 |
+| nyt | 1 | 3 | 20 | 41 |
 | breaking_defense | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -5107,3 +5107,4 @@
 - **Jul 30, 01:55 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Jul 30, 02:11 PM** - KSAT and AWS expand alliance in satellite communications (spacenews)
 - **Jul 30, 02:25 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 30, 02:39 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
