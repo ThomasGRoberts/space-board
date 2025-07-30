@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 24 | 51 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 3 | 3 | 20 | 41 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -5160,3 +5160,4 @@
 - **Jul 30, 09:43 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 30, 09:58 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 10:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 10:05 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
