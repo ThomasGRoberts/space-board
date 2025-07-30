@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 6,
-    "current_item_id": "36cc0e77dac0cb18a500224d304dbfad",
+    "trigger_count": 0,
+    "current_item_id": "7191aa00a7408b35479e86d82685d40e",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10730,6 +10730,18 @@
             "fetched_datetime": "2025-07-30T20:29:06.849484Z",
             "shown_at": [
                 "2025-07-30T20:29:07.807682Z"
+            ]
+        },
+        {
+            "id": "7191aa00a7408b35479e86d82685d40e",
+            "source": "breaking_defense",
+            "text": "Here’s the role that space-based interceptors will play in Golden Dome",
+            "source_link": "https://breakingdefense.com/2025/07/heres-the-role-that-space-based-interceptors-will-play-in-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T20:43:30.486695Z",
+            "shown_at": [
+                "2025-07-30T20:43:31.166675Z"
             ]
         }
     ]
