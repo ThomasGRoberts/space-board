@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8bdff672751142344d6bc64b26721cdc",
+    "trigger_count": 0,
+    "current_item_id": "36cc0e77dac0cb18a500224d304dbfad",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10718,6 +10718,18 @@
             "fetched_datetime": "2025-07-30T19:33:41.335124Z",
             "shown_at": [
                 "2025-07-30T19:33:42.344789Z"
+            ]
+        },
+        {
+            "id": "36cc0e77dac0cb18a500224d304dbfad",
+            "source": "spacenews",
+            "text": "NASA acting administrator to meet with head of Roscosmos at KSC",
+            "source_link": "https://spacenews.com/nasa-acting-administrator-to-meet-with-head-of-roscosmos-at-ksc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T20:29:06.849484Z",
+            "shown_at": [
+                "2025-07-30T20:29:07.807682Z"
             ]
         }
     ]

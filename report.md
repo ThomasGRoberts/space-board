@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 51 |
+| spacenews | 8 | 16 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 41 |
 | breaking_defense | 2 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -5146,3 +5146,4 @@
 - **Jul 30, 08:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 08:13 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 08:15 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
+- **Jul 30, 08:29 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
