@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 28 | 53 |
 | nyt | 2 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -5090,3 +5090,4 @@
 - **Jul 30, 05:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 30, 06:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 06:19 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
+- **Jul 30, 06:33 AM** - China Will Launch the Long March 8A Rocket (supercluster)
