@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 6,
-    "current_item_id": "776d5e9c8a84e366f0ad03be316dce99",
+    "trigger_count": 0,
+    "current_item_id": "1db3540e53fc188732eee09453b7da30",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10644,6 +10644,18 @@
             "fetched_datetime": "2025-07-30T13:25:26.436782Z",
             "shown_at": [
                 "2025-07-30T13:55:44.838790Z"
+            ]
+        },
+        {
+            "id": "1db3540e53fc188732eee09453b7da30",
+            "source": "spacenews",
+            "text": "KSAT and AWS expand alliance in satellite communications",
+            "source_link": "https://spacenews.com/ksat-and-aws-expand-alliance-in-satellite-communications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T14:11:40.843415Z",
+            "shown_at": [
+                "2025-07-30T14:11:41.406453Z"
             ]
         }
     ]
