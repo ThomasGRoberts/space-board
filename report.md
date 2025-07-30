@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 24 | 53 |
 | nyt | 1 | 3 | 19 | 40 |
-| breaking_defense | 0 | 1 | 19 | 39 |
+| breaking_defense | 0 | 1 | 20 | 40 |
 | supercluster | 2 | 2 | 27 | 27 |
 
 # Shown Order
@@ -5133,3 +5133,4 @@
 - **Jul 30, 04:17 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:19 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:21 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
+- **Jul 30, 04:37 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
